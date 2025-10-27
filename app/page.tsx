@@ -1,65 +1,139 @@
-import Image from "next/image";
+import Link from 'next/link';
+import { Scale, MessageSquare, Shield, BookOpen, ArrowRight } from 'lucide-react';
 
 export default function Home() {
   return (
-    <div className="flex min-h-screen items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex min-h-screen w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
+    <div className="h-screen overflow-hidden bg-linear-to-br from-slate-900 via-blue-900 to-indigo-900 dark:from-zinc-950 dark:via-blue-950 dark:to-indigo-950 relative">
+      {/* Background Image with Overlay */}
+      <div className="absolute inset-0 z-0">
+        <img 
+          src="https://images.unsplash.com/photo-1589829545856-d10d557cf95f?q=80&w=2070&auto=format&fit=crop"
+          alt="Indian law background"
+          className="w-full h-full object-cover opacity-20"
         />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the page.tsx file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
+        <div className="absolute inset-0 bg-linear-to-br from-slate-900/90 via-blue-900/85 to-indigo-900/90"></div>
+      </div>
+
+      {/* Content Container */}
+      <div className="relative z-10 h-full flex flex-col">
+        {/* Navigation */}
+        <nav className="px-4 sm:px-6 lg:px-8 py-4">
+          <div className="max-w-7xl mx-auto flex justify-between items-center">
+            <div className="flex items-center gap-2">
+              <Scale className="w-8 h-8 text-amber-400" />
+              <span className="text-xl sm:text-2xl font-bold text-white">
+                VidhiSetu
+              </span>
+            </div>
+            <Link 
+              href="/chat"
+              className="px-4 py-2 text-sm font-medium text-white bg-white/10 hover:bg-white/20 rounded-lg transition-colors backdrop-blur-sm border border-white/20"
             >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
+              Launch App
+            </Link>
+          </div>
+        </nav>
+
+        {/* Main Content - Centered */}
+        <div className="flex-1 flex items-center justify-center px-4 sm:px-6 lg:px-8">
+          <div className="max-w-6xl mx-auto w-full">
+            <div className="grid lg:grid-cols-2 gap-12 items-center">
+              {/* Left Side - Text Content */}
+              <div className="text-center lg:text-left space-y-6">
+                {/* Main Heading */}
+                <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold leading-tight">
+                  <span className="text-white">
+                    Your Legal Rights,
+                  </span>
+                  <br />
+                  <span className="bg-linear-to-r from-amber-400 via-orange-400 to-amber-400 bg-clip-text text-transparent">
+                    Simplified
+                  </span>
+                </h1>
+
+                {/* Subheading */}
+                <p className="text-lg sm:text-xl text-blue-100 leading-relaxed">
+                  Get instant, accurate answers about Indian law. From constitutional rights to legal procedures, 
+                  our AI assistant is here to help you understand the law better.
+                </p>
+
+                {/* CTA Button */}
+                <div className="pt-4">
+                  <Link 
+                    href="/chat"
+                    className="group inline-flex items-center gap-2 px-8 py-4 bg-linear-to-r from-amber-500 to-orange-500 hover:from-amber-600 hover:to-orange-600 text-white rounded-xl font-semibold text-lg shadow-2xl shadow-amber-500/30 hover:shadow-amber-500/50 transition-all duration-300 hover:scale-105"
+                  >
+                    Start Chatting Now
+                    <ArrowRight className="w-5 h-5 group-hover:translate-x-1 transition-transform" />
+                  </Link>
+                </div>
+
+                {/* Features */}
+                <div className="grid grid-cols-2 sm:grid-cols-4 gap-4 pt-6">
+                  <div className="text-center lg:text-left">
+                    <div className="inline-flex items-center justify-center w-12 h-12 bg-amber-500/20 rounded-lg mb-2 border border-amber-400/30">
+                      <MessageSquare className="w-6 h-6 text-amber-400" />
+                    </div>
+                    <p className="text-sm text-blue-200 font-medium">Instant Answers</p>
+                  </div>
+                  <div className="text-center lg:text-left">
+                    <div className="inline-flex items-center justify-center w-12 h-12 bg-blue-500/20 rounded-lg mb-2 border border-blue-400/30">
+                      <BookOpen className="w-6 h-6 text-blue-400" />
+                    </div>
+                    <p className="text-sm text-blue-200 font-medium">Comprehensive</p>
+                  </div>
+                  <div className="text-center lg:text-left">
+                    <div className="inline-flex items-center justify-center w-12 h-12 bg-green-500/20 rounded-lg mb-2 border border-green-400/30">
+                      <Shield className="w-6 h-6 text-green-400" />
+                    </div>
+                    <p className="text-sm text-blue-200 font-medium">Your Rights</p>
+                  </div>
+                  <div className="text-center lg:text-left">
+                    <div className="inline-flex items-center justify-center w-12 h-12 bg-purple-500/20 rounded-lg mb-2 border border-purple-400/30">
+                      <Scale className="w-6 h-6 text-purple-400" />
+                    </div>
+                    <p className="text-sm text-blue-200 font-medium">Guidance</p>
+                  </div>
+                </div>
+              </div>
+
+              {/* Right Side - Visual Element */}
+              <div className="hidden lg:block">
+                <div className="relative">
+                  <div className="absolute inset-0 bg-linear-to-br from-amber-500/20 to-orange-500/20 rounded-3xl blur-3xl"></div>
+                  <div className="relative bg-white/10 backdrop-blur-xl rounded-3xl p-8 border border-white/20 shadow-2xl">
+                    <img 
+                      src="https://images.unsplash.com/photo-1521587760476-6c12a4b040da?ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&q=80&w=1170"
+                      alt="Indian legal system"
+                      className="w-full h-80 object-cover rounded-2xl shadow-2xl"
+                    />
+                    <div className="mt-6 space-y-4">
+                      <div className="flex items-center gap-3 p-4 bg-white/10 rounded-xl backdrop-blur-sm border border-white/10">
+                        <div className="w-3 h-3 bg-green-400 rounded-full animate-pulse"></div>
+                        <span className="text-white text-sm">AI Assistant Available 24/7</span>
+                      </div>
+                      <div className="flex items-center gap-3 p-4 bg-white/10 rounded-xl backdrop-blur-sm border border-white/10">
+                        <div className="w-3 h-3 bg-blue-400 rounded-full animate-pulse" style={{animationDelay: '0.5s'}}></div>
+                        <span className="text-white text-sm">100% Free Legal Information</span>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
         </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
-        </div>
-      </main>
+
+        {/* Footer */}
+        <footer className="px-4 sm:px-6 lg:px-8 py-6">
+          <div className="max-w-7xl mx-auto text-center">
+            <p className="text-blue-200 text-xs sm:text-sm">
+              This AI assistant provides general legal information for educational purposes only. 
+              Not a substitute for professional legal advice.
+            </p>
+          </div>
+        </footer>
+      </div>
     </div>
   );
 }

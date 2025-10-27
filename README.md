@@ -1,36 +1,75 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# VidhiSetu - Legal Assistant for India ⚖️
 
-## Getting Started
+An AI-powered legal assistant providing guidance on Indian law. Built with Next.js, TypeScript, and Google Gemini API.
 
-First, run the development server:
+![Next.js](https://img.shields.io/badge/Next.js-16.0-black?style=flat-square&logo=next.js)
+![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat-square&logo=typescript)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.0-38bdf8?style=flat-square&logo=tailwind-css)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+## ✨ Features
+
+- **AI-Powered** - Google Gemini API for intelligent legal guidance
+- **Chat Interface** - Natural conversation with context awareness
+- **Modern UI** - Clean design with dark mode support
+- **Responsive** - Works on all devices
+- **India-Specific** - Specialized in Indian legal system
+
+## Quick Start
+
+1. **Clone and install**:
+   ```bash
+   npm install
+   ```
+
+2. **Set up environment**:
+   ```bash
+   cp .env.local.example .env.local
+   ```
+   Add your Gemini API key to `.env.local`:
+   ```
+   GEMINI_API_KEY=your_api_key_here
+   ```
+   Get your key from [Google AI Studio](https://makersuite.google.com/app/apikey)
+
+3. **Run**:
+   ```bash
+   npm run dev
+   ```
+   Open [http://localhost:3000](http://localhost:3000)
+
+## Project Structure
+
+```
+legal_assistant/
+├── app/
+│   ├── api/chat/route.ts         # Gemini API integration
+│   ├── components/               # React components
+│   ├── chat/page.tsx            # Chat interface
+│   └── page.tsx                 # Landing page
+├── .env.local                    # Environment variables
+└── package.json
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## 🛠️ Tech Stack
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+- Next.js 16 (App Router)
+- TypeScript
+- Tailwind CSS v4
+- Google Gemini API
+- Lucide React Icons
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Disclaimer
 
-## Learn More
+This assistant provides **general legal information only**. It is **not a substitute for professional legal advice**. Always consult a qualified lawyer for specific legal matters.
 
-To learn more about Next.js, take a look at the following resources:
+##  Deployment
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+Deploy to Vercel:
+1. Push to GitHub
+2. Import on [Vercel](https://vercel.com)
+3. Add `GEMINI_API_KEY` environment variable
+4. Deploy!
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+---
 
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+Built with ❤️ for the Indian legal community
