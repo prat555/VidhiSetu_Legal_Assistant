@@ -131,7 +131,7 @@ export default function ChatInput({ onSend, disabled }: ChatInputProps) {
         placeholder={isMobile ? "Ask about Indian law, rights..." : "Ask about Indian law, legal procedures, rights..."}
         disabled={disabled}
         rows={1}
-        className="w-full resize-none rounded-2xl border border-zinc-300/70 dark:border-zinc-700/70 bg-white dark:bg-zinc-900 px-3 sm:px-4 py-3.5 sm:py-3.5 pr-20 sm:pr-24 text-sm sm:text-[15px] text-zinc-900 dark:text-zinc-100 placeholder-zinc-400 dark:placeholder-zinc-500 focus:outline-none focus:ring-2 focus:ring-amber-500/50 dark:focus:ring-amber-500/40 focus:border-amber-500/50 dark:focus:border-amber-500/40 disabled:opacity-50 disabled:cursor-not-allowed transition-all max-h-40 overflow-y-auto shadow-lg leading-5"
+        className="w-full resize-none rounded-2xl border border-zinc-300/70 dark:border-zinc-700/70 bg-white dark:bg-zinc-900 px-3 sm:px-4 py-3.5 sm:py-3.5 pr-20 sm:pr-24 text-sm sm:text-[15px] text-zinc-900 dark:text-zinc-100 placeholder-zinc-500 focus:outline-none focus:ring-2 focus:ring-amber-500/50 dark:focus:ring-amber-500/40 focus:border-amber-500/50 dark:focus:border-amber-500/40 disabled:opacity-50 disabled:cursor-not-allowed transition-all max-h-40 overflow-y-auto shadow-lg leading-5"
         style={{ minHeight: '50px' }}
       />
         {/* Voice Input Button - Inside textarea */}
@@ -141,7 +141,7 @@ export default function ChatInput({ onSend, disabled }: ChatInputProps) {
           className={`absolute right-12 sm:right-13 top-1/2 -translate-y-1/2 -mt-0.5 p-2 rounded-full transition-all duration-200 disabled:opacity-50 disabled:cursor-not-allowed cursor-pointer ${
             isListening
               ? 'bg-red-500 text-white shadow-lg shadow-red-500/30'
-              : 'bg-zinc-100 dark:bg-zinc-800 hover:bg-zinc-200 dark:hover:bg-zinc-700 text-zinc-600 dark:text-zinc-400 hover:text-zinc-700 dark:hover:text-zinc-300'
+              : 'bg-zinc-100 dark:bg-zinc-800 hover:bg-zinc-200 dark:hover:bg-zinc-700 text-zinc-400 hover:text-zinc-700 dark:hover:text-zinc-300'
           }`}
           aria-label={isListening ? 'Stop recording' : 'Dictate'}
           title={isListening ? 'Stop recording' : 'Dictate'}

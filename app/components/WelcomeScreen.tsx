@@ -39,7 +39,7 @@ export default function WelcomeScreen({ onQuestionClick }: WelcomeScreenProps) {
         <h1 className="text-3xl md:text-4xl font-bold text-zinc-900 dark:text-zinc-50 mb-2 tracking-tight">
           VidhiSetu
         </h1>
-        <p className="text-base md:text-lg text-zinc-600 dark:text-zinc-400 max-w-2xl mx-auto leading-relaxed">
+        <p className="text-base md:text-lg text-zinc-400 max-w-2xl mx-auto leading-relaxed">
           Get guidance on Indian law, legal procedures, and your rights
         </p>
       </div>
@@ -61,7 +61,7 @@ export default function WelcomeScreen({ onQuestionClick }: WelcomeScreenProps) {
                   <div className={`shrink-0 w-9 h-9 rounded-lg bg-linear-to-br ${question.color} flex items-center justify-center shadow-sm`}>
                     <Icon className="w-4.5 h-4.5 text-white" />
                   </div>
-                  <p className="text-sm text-zinc-700 dark:text-zinc-300 group-hover:text-zinc-900 dark:group-hover:text-zinc-100 transition-colors leading-relaxed">
+                  <p className="text-sm text-zinc-300 group-hover:text-zinc-900 dark:group-hover:text-zinc-100 transition-colors leading-relaxed">
                     {question.text}
                   </p>
                 </div>

@@ -1,7 +1,8 @@
 'use client';
 
 import { useState, useEffect, useRef } from 'react';
-import { Loader2, Menu, ArrowDown } from 'lucide-react';
+import { Loader2, Menu, ArrowDown, ArrowLeft, Scale } from 'lucide-react';
+import Link from 'next/link';
 import ChatMessage from '../components/ChatMessage';
 import ChatInput from '../components/ChatInput';
 import WelcomeScreen from '../components/WelcomeScreen';
@@ -237,7 +238,7 @@ export default function ChatPage() {
   }, []);
 
   return (
-    <div className="flex h-screen bg-zinc-50 dark:bg-zinc-900 overflow-hidden">
+    <div className="flex h-screen bg-zinc-900 overflow-hidden">
       {/* Sidebar - Overlay on mobile, fixed on desktop */}
       <div className={`fixed md:relative inset-y-0 left-0 z-50 ${sidebarOpen ? '' : 'pointer-events-none'}`}>
         <ChatSidebar
@@ -287,6 +288,15 @@ export default function ChatPage() {
           </button>
         )}
 
+        {/* Back Button - Top Right */}
+        <Link
+          href="/"
+          className="fixed top-4 right-4 z-40 flex items-center gap-2 px-3 py-2 bg-white/80 dark:bg-zinc-800/80 backdrop-blur-sm border border-white/10 rounded-lg shadow-sm hover:shadow-md transition-all text-zinc-300 hover:text-zinc-900 dark:hover:text-white text-sm font-medium"
+        >
+          <ArrowLeft className="w-4 h-4" />
+          <span className="hidden sm:inline">Home</span>
+        </Link>
+
         {/* Messages Area - Full Height */}
         <div className="flex-1 overflow-y-auto pb-20 md:pb-24" ref={messagesContainerRef}>
           {messages.length === 0 ? (
@@ -305,8 +315,8 @@ export default function ChatPage() {
                   <div className="shrink-0 w-7 h-7 sm:w-8 sm:h-8 rounded-full bg-linear-to-br from-amber-500 to-orange-600 flex items-center justify-center shadow-lg ring-2 ring-amber-500/20">
                     <Loader2 className="w-3.5 h-3.5 sm:w-4 sm:h-4 text-white animate-spin" />
                   </div>
-                  <div className="max-w-[85%] sm:max-w-[75%] rounded-2xl px-3 sm:px-4 py-2 shadow-sm bg-white dark:bg-zinc-800/95 border border-zinc-200/50 dark:border-zinc-700/50">
-                    <div className="text-sm sm:text-[15px] text-zinc-600 dark:text-zinc-400 font-medium">
+                  <div className="max-w-[85%] sm:max-w-[75%] rounded-2xl px-3 sm:px-4 py-2 shadow-sm bg-zinc-800/50 backdrop-blur-sm/95 border border-zinc-200/50 dark:border-zinc-700/50">
+                    <div className="text-sm sm:text-[15px] text-zinc-400 font-medium">
                       Thinking...
                     </div>
                   </div>
@@ -326,7 +336,7 @@ export default function ChatPage() {
             <div className="flex justify-center mb-3">
               <button
                 onClick={scrollToBottom}
-                className="p-2.5 bg-white dark:bg-zinc-900 border-2 border-zinc-400/80 dark:border-zinc-600/80 text-zinc-600 dark:text-zinc-400 rounded-full shadow-lg hover:shadow-xl hover:scale-105 transition-all duration-300 cursor-pointer"
+                className="p-2.5 bg-white dark:bg-zinc-900 border-2 border-zinc-400/80 dark:border-zinc-600/80 text-zinc-400 rounded-full shadow-lg hover:shadow-xl hover:scale-105 transition-all duration-300 cursor-pointer"
                 aria-label="Scroll to bottom"
               >
                 <ArrowDown className="w-4.5 h-4.5" />

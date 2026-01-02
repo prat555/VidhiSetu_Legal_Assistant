@@ -51,7 +51,7 @@ export default function ChatSidebar({
               className="p-1.5 hover:bg-zinc-100 dark:hover:bg-zinc-800 rounded-lg transition-all duration-200 cursor-pointer"
               aria-label="Close sidebar"
             >
-              <X className="w-5 h-5 text-zinc-600 dark:text-zinc-400" />
+              <X className="w-5 h-5 text-zinc-400" />
             </button>
           </div>
         </div>
@@ -106,7 +106,7 @@ export default function ChatSidebar({
                         <p className={`text-sm font-medium truncate transition-colors ${
                           activeChat === chat.id
                             ? 'text-amber-900 dark:text-amber-100'
-                            : 'text-zinc-700 dark:text-zinc-300'
+                            : 'text-zinc-300'
                         }`}>
                           {chat.title}
                         </p>

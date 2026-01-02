@@ -23,7 +23,7 @@ export default function ChatMessage({ role, content }: ChatMessageProps) {
         className={`max-w-[85%] sm:max-w-[75%] rounded-2xl px-3 sm:px-4 py-2 shadow-sm ${
           isUser
             ? 'bg-orange-500 text-white shadow-orange-500/20'
-            : 'bg-white dark:bg-zinc-800/95 text-zinc-800 dark:text-zinc-100 border border-zinc-200/50 dark:border-zinc-700/50'
+            : 'bg-zinc-800/50 backdrop-blur-sm/95 text-zinc-800 dark:text-zinc-100 border border-zinc-200/50 dark:border-zinc-700/50'
         }`}
       >
         <div className={`text-sm sm:text-[15px] leading-[1.6] prose prose-sm max-w-none ${

@@ -1,18 +1,64 @@
 # VidhiSetu - Legal Assistant for India ⚖️
 
-An AI-powered legal assistant providing guidance on Indian law. Built with Next.js, TypeScript, and Google Gemini API.
+A comprehensive AI-powered legal assistant platform for Indian law. Built with Next.js 16, TypeScript, Tailwind CSS 4, and Google Gemini API.
 
 ![Next.js](https://img.shields.io/badge/Next.js-16.0-black?style=flat-square&logo=next.js)
 ![TypeScript](https://img.shields.io/badge/TypeScript-5.0-blue?style=flat-square&logo=typescript)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind-4.0-38bdf8?style=flat-square&logo=tailwind-css)
+![Google Gemini](https://img.shields.io/badge/Google%20Gemini-2.0-4285F4?style=flat-square)
+
+## 🎨 Design
+
+VidhiSetu features a **minimalist, professional design system** with:
+- Clean zinc-based color palette
+- Consistent dark mode support
+- Accessible, high-contrast interface
+- Professional legal aesthetics
+
+See [DESIGN_SYSTEM.md](./DESIGN_SYSTEM.md) for complete design guidelines.
 
 ## ✨ Features
 
-- **AI-Powered** - Google Gemini API for intelligent legal guidance
-- **Chat Interface** - Natural conversation with context awareness
-- **Modern UI** - Clean design with dark mode support
-- **Responsive** - Works on all devices
-- **India-Specific** - Specialized in Indian legal system
+### 🤖 AI Legal Assistant
+- **Smart Chat Interface** - Natural conversation with context awareness
+- **Indian Law Expert** - Specialized in IPC, CrPC, Constitution, and more
+- **Chat History** - Save and manage multiple conversations
+
+### 📄 Document Analyzer
+- **Upload Documents** - Support for PDF, text files, and images
+- **AI-Powered Analysis** - Get insights on contracts, agreements, notices
+- **Risk Assessment** - Identify potential issues and unfair clauses
+- **Detailed Reports** - Comprehensive analysis with recommendations
+
+### 📝 Legal Forms Generator
+- **FIR Generator** - Create police complaints
+- **Legal Notices** - Generate formal legal notices
+- **RTI Applications** - Right to Information requests
+- **Bail Applications** - Format bail applications
+- **Consumer Complaints** - File consumer grievances
+- **Download** - Get documents in text format
+
+### 🔍 Case Law Search
+- **Search Judgments** - Find relevant Supreme Court and High Court cases
+- **AI-Powered** - Intelligent search using legal knowledge
+- **Case Details** - Citations, court names, dates, and summaries
+
+### 🛡️ Know Your Rights
+- **Interactive Scenarios** - Learn rights in common situations
+- **Comprehensive Guides** - Step-by-step what to do
+- **Emergency Helplines** - Quick access to important numbers
+- **Legal Provisions** - Relevant laws and sections explained
+
+### ⚖️ Court Case Tracker (Coming Soon)
+- Real-time case tracking across Indian courts
+- Hearing date reminders
+- eCourts API integration
+
+## 🎯 India-Specific
+- **Specialized in Indian Law** - IPC, BNS, CrPC, Constitution
+- **Indian Court System** - Supreme Court, High Courts
+- **Legal Procedures** - Based on Indian legal framework
+- **Helplines** - Indian emergency and legal aid numbers
 
 ## Quick Start
 
