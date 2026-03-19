@@ -21,6 +21,8 @@ export default function ChatPage() {
   const [initialLoading, setInitialLoading] = useState(true);
   const messagesEndRef = useRef<HTMLDivElement>(null);
   const messagesContainerRef = useRef<HTMLDivElement>(null);
+  const isSwitchingChatRef = useRef<boolean>(false);
+  const chatSelectionTokenRef = useRef<number>(0);
   const touchStartX = useRef<number>(0);
   const touchCurrentX = useRef<number>(0);
   const isDragging = useRef<boolean>(false);
@@ -63,7 +65,7 @@ export default function ChatPage() {
   // Save messages to active chat whenever they change
   useEffect(() => {
     async function saveMessages() {
-      if (!user || !activeChat || messages.length === 0) return;
+      if (!user || !activeChat || messages.length === 0 || isSwitchingChatRef.current) return;
       
       const currentChat = chats.find(c => c.id === activeChat);
       if (currentChat) {
@@ -131,10 +133,25 @@ export default function ChatPage() {
 
   const handleSelectChat = async (id: string) => {
     if (!user) return;
+    isSwitchingChatRef.current = true;
+    const selectionToken = ++chatSelectionTokenRef.current;
+
     setActiveChat(id);
-    const chat = await userChatStorage.getChat(user.uid, id);
-    if (chat) {
-      setMessages(chat.messages);
+    setMessages([]);
+
+    try {
+      const chat = await userChatStorage.getChat(user.uid, id);
+
+      // Ignore stale async results if user switched chats again.
+      if (selectionToken !== chatSelectionTokenRef.current) {
+        return;
+      }
+
+      setMessages(chat?.messages || []);
+    } finally {
+      if (selectionToken === chatSelectionTokenRef.current) {
+        isSwitchingChatRef.current = false;
+      }
     }
   };
 
@@ -197,7 +214,7 @@ export default function ChatPage() {
       console.error('Error sending message:', error);
       const errorMessage: Message = {
         role: 'assistant',
-        content: `Sorry, I encountered an error: ${error.message}. Please make sure your Gemini API key is configured correctly.`,
+        content: `Sorry, I encountered an error: ${error.message}. If this is due to temporary model traffic, please try again in a few moments.`,
       };
       setMessages((prev) => [...prev, errorMessage]);
     } finally {
