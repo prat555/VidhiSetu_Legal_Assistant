@@ -1,0 +1,1044 @@
+Title: Search
+Court: High Court
+Date: 2 Kant 1585
+Citation: citations: AIR1989KER198, AIR 1989 KERALA 198, (1989) 1 KER LT 451 (1989) 1 KER LJ 354, (1989) 1 KER LJ 354
+Source: https://indiankanoon.org/doc/612875/
+
+[Cites
+69
+, Cited by
+7
+]
+Kerala High Court
+K.S.E.B. vs Cheriyan Varghese And Ors. on 10 February, 1989
+Equivalent citations: AIR1989KER198, AIR 1989 KERALA 198, (1989) 1 KER LT 451 (1989) 1 KER LJ 354, (1989) 1 KER LJ 354
+JUDGMENT
+ 
+
+ Balakrishna Menon, J.
+1. Both these revision petitions are by the Kerafa State Electricity Board against the orders of the District Court passed under
+Section  16(3)
+of the Indian Telegraph Act, 1885. The District Judge by these impugned orders determined the compensation payable to the respective claimants on applications made by them under
+Section  16(3)
+of the Telegraph Act read with
+Section  51
+of the Electricity Act, 1910. In both the cases compensation was claimed for the trees cut as well as for diminution in value of the land for the reason of the drawal of overhead power lines across the land. The learned District Judge has allowed compensation under both the heads based on the revised valuation statements submitted by the respective claimants.
+2. The learned single Judge before whom these cases came up for hearing had some doubt as to whether compensation for injurious affection can also be awarded in addition to compeasation for the trees cut determined on the basis of capitalisation of income. These cases were accordingly referred for decision by a Division Bench.
+3. A preliminary objection is raised by counsel for the respondents about the maintainability of the revision petitions in view of the decision of a learned single Judge in
+Kerala Electricity Board v. Thampi
+, (1988) 2 Ker LT 941 : (AIR 1989 Ker 171).
+The learned Judge, following the decisions of the Supreme Court in
+Aundal Ammal v. Sadasivan Pillai
+, AIR 1987 SC 203 and South Asia Industries (P) Ltd. v. Section  B. Sarup Singh, AIR 1965 SC 1442 has held that no revision lies against the determination of compensation by the District Judge under
+Section  16(3)
+of the Telegraph Act.
+The learned Judge felt that an earlier decision of this Court by Viswanatha Iyer, J. in K. S. E. Board v. C. G. Narayanan, 1973 Ker LT 968 : (AIR 1973 Ker 144) does not cover the point regarding the maintainability of the revision and as the
+
+point, according to the learned Judge, is res integra, it was open to him to consider the question in the light of the decisions of the Supreme Court referred to above.
+4. The decision in South Asia Industries' case, (AIR 1965 SC 1442) related to the question whether an appeal is maintainable under Clause 10 of the Letters Patent against the decision of a single Judge of the High Court in appeal under
+Section  39(1)
+of the Delhi Rent Control Act, 1958. As per Section  39(1) an appeal lies to the High Court from an order of the Rent Control Tribunal established under the Act. Section 43, however, enacted that every order made by the Controller or an order passed on an appeal under the Act shall be final and shall not be called in question in any original suit, application or execution proceedings. As per CL 37 of the Letters Patent a right of appeal under Clause 10 would be taken away by a law made by the appropriate legislature. Construing Section  43 the Supreme Court stated at page 1447 :
+"(17) The expression "final'' prima facie connotes that an order passed on appeal under the Act is conclusive and no further appeal lies against it. The last sentence in
+Section  43
+of the Act in our view, does not restrict the scope of the said expression; indeed, the said sentence imposes a further bar. The expression "final" in the first part of
+Section  43
+of the Act puts an end to a further appeal and the words "shall not be called in question in any original suit, application or execution proceeding" bar collateral proceedings. Thesection imposes a total bar. The correctness of the judgment in appeal cannot be questioned by way of appeal or by way of collateral proceedings. It is true that the expression "final" may have a restrictive meaning in other contexts, but in
+Section  43
+of the Act such a restrictive meaning cannot be given, for Chap. VI of the Act provides for a hierarchy of tribunals for deciding disputes arising thereunder.
+The Act
+is a self-contained one and the intention of the Legislature was to provide an exhautive code for disposing of the appeals arising under the Act. The opening words
+Section  43
+of the Act "save as otherwise expressly provided in this Act" emphasize the fact that the finality of the order cannot be questioned by resorting to something outside the Act."
+It was for the above reason that the Supreme Court held that no further appeal under Clause 10 of the Letters Patent would lie against the
+
+decision of a single Judge under
+Section  39(1)
+of the Act. The last part of the above quotation would indicate the exclusion of further remedies under the ordinary law of procedure for the reason that the Act is a self-contained one and the intention of the legislature was to provide for an exhaustive code for disposing of cases arising under the Act. The decision of the Privy Council in
+Maung Ba Thaw v. Ma Pin
+, (1934) 61 Ind App 158 : AIR 1934 PC 81 is referred to and distinguished. In that case the Judicial Committee had to consider whether an appeal lay to the Privy Council against the order of the High Court under Section  75(2) of the Provincial Insolvancy Act, 1920.
+That Act
+by
+Section  4(2)
+provided that subject to the provisions of the Act and notwithstanding anything contained in any other law for the time being in force, the decision of the District Court under the Act was final. But under Section  75(2), however, there was a right of appeal to the High Court from the decision of the District Court. The Judicial Committee held that in a case where the Act gave a right of appeal to the High Court, an appeal from the decision of the High Court would lie to the Privy Council under
+the Code of Civil Procedure
+. The Privy Council reiterated the principle that when the appellate court is one of the ordinary courts of the country, the rules
+of the Code of Civil Procedure
+applied The Supreme Court distinguished this decision for the following reason stated at page 1447 :
+"It will be noticed at once that the order of the District Court was final subject to the provisions of the said Act and under the said Act a right of appeal was given to the High Court. The order of the High Court in the appeal was not made final. Therefore, the Judicial Committee held that an appeal lay to the Privy Council against the order of the High Court."
+The Supreme Court refers also to Kydd v. Liverpool Watch Committee, (1908) AC 327 where the facts were that under
+Section  11
+of the Police Act, 1890, there was an appeal to quarter sessions as to the amount of a constable's pension. The duty of the quarter sessions was stated thus:
+"that Court, after inquiry into the case, may make such order in the matter as appears to the Court just, which order shall be final."
+Lord Loreburn L. C. construed the section thus :
+"Where it says, speaking of such an order, that it is to be final, I think it means there is to be an end of the business at quarter session...."
+The question about the maintainability of a revision under
+Section  115
+, C.P.C. against the decision of a court subordinate to the High Court did not, however, arise in South Asia
+Industries' case.
+5.
+Aundal Ammal v. Sadasivan Pillai
+, AIR
+1987 SC 203 is a case which arose out of the
+Kerala Buildings (Lease and Rent Control) Act, 1965
+,
+Section  18(5)
+of the said Act enacts (at p. 208 of AIR) :
+"The decision of the appellate authority, and subject to such decision, an order of the Rent Control Court shall be final and shall not be liable to be called in question in any Court of law, except as provided in
+Section  20
+."
+Section 20
+provides for a revision against the order of the appellate authority and the revisional authority is the District Court where the appellate authority is a Subordinate Judge, and the High Court in all other cases.
+The Act
+provides for a tier of courts viz. the rent control court, the appellate court and the court of revision. Considering the scheme of the Act the Supreme Court held that the observations of Lord Loreburn L. C. in Kydd v. Liverpool Watch Committee, (1908 AC 327) would apply to the finality provided for in
+Section  18(5)
+of the Act.
+Overruling the decision of a Full Bench of this Court in
+Ouseph Vareed v. Mary
+, 1968 Ker LT 583 : (AIR 1969 Ker 103) the Supreme Court observed at page 208 (of AIR) :
+"In our opinion, the Full Bench misconstrued the provisions of Sub-section (5) of
+Section  18
+of the Act. Sub-section (5) of
+Section  18
+clearly states that such decision of the appellate authority as mentioned in
+Section  18
+of the Act shall not be liable to be questioned except in the manner under
+Section  20
+of the Act. There was thereby an implied prohibition or exclusion of a second revision under
+Section  115
+of the Code of Civil Procedure to the High Court when a revision has been provided under
+Section  20
+of the Act in question, When
+Section  18(5)
+of the Act specifically states that "shall not be liable to be called in question in any Court of law" except in the manner provided under
+Section  20
+, it cannot be said that the High Court which is a Court of law and which is a civil Court under
+the Code of Civil Procedure
+, under
+Section  115
+of the Code
+
+of Civil Procedure could revise again an order after revision under
+Section  20
+of the Act. That would mean there would be a trial by four Courts, that would be repugnant to the scheme manifest in the different sections of the Act in question. Public policy or public interest demands curtailment of law's delay and justice demands finality within quick disposal of case. The language of the Provisions of
+Section  18(5)
+read with
+Section  20
+inhibits further revision. The Courts must so construe."
+It was, therefore, with reference to the scheme of the Act and the language of
+Section  18(5)
+that the Supreme Court held that no second revision lies to the High Court under
+Section  115
+, C.P.C. The Supreme Court followed its earlier decision in
+Vishesh Kumar v. Shanti Prasad
+, AIR 1980 SC 892 where the court was concerned with the question of the maintainability of a second revision before the High Court against the revisional orders of the District Court under
+Section  115
+, C.P.C. as amended in U. P. as well as under
+Section  25
+of the Provincial Small Cause Courts Act as amended in its application to the State of U. P. Construing these amended provisions the Supreme Court held that no second revision lay to the High Court against the revisional order of the District Court under Section  115, C. P. C. for the reason that the legislative intent was clearly to bifurcate the revisional jurisdiction between the High Court and the District Court and a second revision under
+Section  115
+, C.P.C. was not maintainable. In regard to a second revision against a revisional order under
+Section  25
+of the Provincial Small Cause Courts Act, the Supreme Court was of the view that a revisional order of the District Court under
+Section  25
+was not amenable to the revisional jurisdiction of the High Court. It was further observed that an examination of the provisions of the
+Provincial Small Cause Courts Act
+indicated that it was a self-contained code so far as the enquiry covered by the Act was concerned and accordingly it was held that the revisional jurisdiction of the High Court under
+Section  115
+, C.P.C. was excluded.
+6. The decision in
+Vishesh Kumar
+'s case, (AIR 1980 SC 892) rested on the scheme of the Act and the legislative intent.
+The decision in
+Aundal Animal
+'s case, (AIR 1987 SC 203) is based on the language of
+Section  18(5)
+and also on the scheme of the Act providing for a hierarchy of courts including a court of revision.
+7. A later decision of the Supreme Court in
+Shyamaraju Hegde v. U. Venkatesha Bhat
+, AIR 1987 SC 2323 was concerned with a similar provision under the
+Karnataka Rent Control Act
+of 1961.
+Section 48(6)
+of the Karnataka Act contained a provision similar to
+Section  18(5)
+of the Kerala Act.
+The Karnataka Act
+before its amendment in 1975 provided for an appeal to the District Court against an order of the Rent Controller or court passed under
+Sections  14
+,
+16
+,
+17
+or 21 of the Act. Thereafter a revision lay to the High Court under
+Section  50
+of the Act. Sub-section (6) of Section  48 provided that the decision of the District Judge shall, subject to the decision of the High Court under Section  50, be final and the order of the court or the controller shall, subject to the decision of the relevant appellate authority or of the High Court under Section  50, be final and shall not be liable to be called in question in any court of law whether in a suit or other proceedings or by way of appeal or revision. One of the changes effected by the
+Amending Act
+of 1975 was to confer jurisdiction on the Civil Judges in the place of District Munsiffs in respect of house rent control cases arising in the city of Bangalore. Another change effected was to take away the right of appeal to the District Judge against the decision of a Rent Control Court by deleting Sub-section (1) of Section  48. There was a further change to restrict the High Court's power of revision under Section  50 to those cases decided by the City Civil Judges and to confer revisional powers on District Judges in respect of cases decided by Munsiff exercising jurisdiction in areas outside the city of Bangalore. The legislature had thus done away with the remedy of an appeal and the Act provided only for a revision to the District Court in respect of cases arising from areas outside the city of Bangalore and a revision to the High Court with respect to cases arising in the city of Bangalore.
+8. The question for consideration in
+Shyamaraju
+'s case, (AIR 1987 SC 2323) before the Supreme Court was as to whether
+Section  48(6)
+of the Karnataka Act excludes the jurisdiction of the High Court to entertain a revision under
+Section  115
+, C.P.C. against the revisionsl order of the District Court under the Act.
+The Supreme Court approved the Full Bench decision of the Karnataka High Court in Krishnaji Venkatesh Shirodkar v, Gurupad Shivaram Kavelekar, ILR (1978) 2 Kant 1585 and overruled a later Full Bench decision in
+Yaragatti v. Vasant
+, AIR 1987 Kant 186.
+The
+
+earlier Full Bench in Krishnaji's case had held that a revisional order of the District Court is subject to a further revision by the High Court under
+Section  115
+, C.P.C. It was following
+Vishesh Kumar
+'s case, (AIR 1980 SC 892) and Aundal Animal's case, (AIR 1987 SC 203) that the later Full Bench in
+Yaragatti
+'s case held that a revision under
+Section  115
+, C.P.C. is barred under Section  48(6) of the Karnafaka Act.
+The Supreme Court followed its earlier decision in
+Chhagan Lal v. The Municipal Corporation, Indore
+, AIR 1977 SC 1555 and an unreported decision in Krishnadas Bhatija v. A. S.  Venkatachala Shetty in Special Leave Pet a No. 913/1978.
+The decision in Krishnadas Bhatija's case quoted at page 2324 (of AIR 1987 SC) reads :
+"The petitioner contends that the order of the High Court is without jurisdiction because under Section  50, Karnataka Rent Control Act, 1961, a revision does not lie to the High Court. We do not agree.
+Section 115
+, C.P.C. gives powers to the High Court to revise any order from the District Court, subject of course to the limitations set out therein. The narrow point then is as to whether the District Judge can be equated with a district court. The High Court, following its own earlier decisions, has held so. We agree that in the scheme of
+Karnataka Rent Control Act
+, the District Judge and the district court are interchangeable expressions and nothing turns on the mere fact that the section uses the expression 'District Judge'.
+Section 115
+, C.P.C. therefore applies and the revisional jurisdiction is vested in the High Court."
+The decisions in
+Vishesh Kumar
+'s case and
+Aundal Animal
+'s case were considered by the Supreme Court and the ratio of those decisions, it was held, does not apply to the case arising under the
+Karnataka Rent Control Act
+.
+The following observation in
+Chhagan Lal
+'s case, AIR 1977 SC 1555 is quoted at page 2326 (of AIR 1987 SC) :
+"The second contention is based on
+Section  149
+, Madhya Pradesh Municipal Corporation Act, 1956. It provides that an appeal shall lie from the decision of the Municipal Commissioner to the District Court, when any dispute arises as to the liability of any land or building to assessment. Sub-section (1) of Section  149 provides that the decision of the District Court shall be final. It was submitted that the decision of the District Court was therefore final and that the High Court was in error in entertaining
+
+a revision petition. This plea cannot be accepted for, under
+Section  115
+, C.P.C., the High Court has got a power to revise the order passed by courts subordinate to it. It cannot be disputed that the District Court is a subordinate court and is liable to the revisional jurisdiction of the High Court....."
+It was accordingly held that in spite of the language of
+Section  48(6)
+of the Karnataka Act a revision lies to the High Court under
+Section  115
+, C.P.C. against the revisional order of the District Court passed under the
+Karnataka Rent Control Act
+.
+9. A recent decision of the Supreme Court by a three-Judges Bench in
+Jetha Bhai & Sons v. Sunderdas Rathenai
+, AIR 1988 SC 812 arising out of the
+Kerala Buildings (Lease and Rent Control) Act, 2
+of 1965, has considered the decisions in
+Vishesh Kumar
+'s case, (AIR 1980 SC 892);
+Aundal Animal
+'s case (AIR 1987 SC 203) and Shyamaraju's case, (AIR 1987 SC 2323) and has re-affirmed the correctness of those decisions with reference to the particular enactments concerned
+Referring to Vishesh Kumar
+'s case, (AIR 1980 SC 892) the Supreme Court observed at page 821 (of AIR) :
+"As was noticed in
+Vishesh Kumar
+'s case, AIR 1980 SC 892 the intent behind the bifurcation of the jurisdiction is to reduce the number of revision petitions filed in the High Court and for determining the legislative intent, the Court must as far as possible construe a statute in such a manner as would advance the object of the legislation and suppress the mischief sought to be cured by it."
+Referring to the relevant provisions of the
+Kerala Buildings (Lease and Rent Control) Act
+, it is observed at page 820 :
+"Therefore, a party is afforded an opportunity to put forth his case before the Rent Control Court and then before the Appellate Authority and thereafter if need be before the Court of Revision viz. the District Court if the Appellate Authority is of the rank of a Subordinate Judge. The Legislature in its wisdom has thought that on account of the ample opportunity given to a party to put forth his case before three Courts, viz. the Trial Court, the Appellate Court and the Revisional Court, there was no need to make the revisional order of the District Court subject to further scrutiny by the High Court by means of a second revision either under the Act or under the Civil Procedure Code.
+It has been pointed out in
+Aundal Animal
+'s case, AIR 1987 SC 203 (supra) that the Full Bench of the Kerala High Court had failed to construe the terms of
+Section  20
+read with
+Section  18(5)
+in their proper perspective and this failing had affected its conclusion."
+It is further observed at page 821 :
+"The Pull Bench failed to notice certain crucial factors. In the first plaee,
+Section  20
+is a composite section and refers to the powers of revision exercisable under that Section by a District Judge as well as by the High Court. Such being the case if it is to be taken that an order passed by a District Court under
+Section  20
+will not have finality because the Section does not specifically say so, then it will follow that a revisionsl order passed by the High Court under
+Section  20(1)
+also will not have finality. Surely it cannot be contended by anyone that an order passed by a High Court in exercise of its powers of revision under
+Section  20(1)
+can be subjected to further revision because
+Section  20(1)
+has not expressly conferred finality to an order passed under that Section. Secondly, the terms of
+Section  20(1)
+have to be read in conjunction with
+Section  18(5)
+.
+Section 18(5)
+, as already seen, declares that an order of a Rent Control Court shall be final subject to the decision of the Appellate Authority and an order of an Appellate Authority shall be final and shall not be liable to be called in question in any Court of law except as provided for in
+Section  20
+.
+When the Legislature had declared that even an order of the Rent Control Court and the decision of the Appellate Authority shall be final at their respective stages unless the order is modified by the Appellate Authority or the Revisional Authority as the case may be, there is no necessity for the legislature to declare onee over again that an order passed in revision under
+Section  20(1)
+by the District Judge or the High Court as the case may be will also have the seal of finality. The third aspect is that the Legislature has not merely conferred finality to the decision of an Appellate Authority but has further laid down that the decision shall not be liable to be called in question in any Court of law excepl as provided for in
+Section  20
+. These additional words clearly spell out the prohibition or exclusion of a second revision under
+Section  115
+, C.P.C. to the High Court against a revisionsl order passed by a District Court under
+Section  20
+of the Act. This position has been succinctly set out in para 20 of the judgment in
+Aundal Animal
+'s case."
+Referring to Shyamaraju
+'s case, (AIR 1987 SC 2323) it is observed at page 821 (of AIR):--
+"18. Having said so much it is really not necessary for us to dwell at length about the decision in
+Shyamaraju
+'s case, AIR 1987 SC 2323 restoring the ratio in Krishnaji's case, ILR (1978) 2 Kant 1585 (FB) and disapproving the decision in Yaragatti's ease, AIR 1987 Kant 186 (FB). Even so we cannot but refer to the fact that in the
+Karnataka Act
+the right of appeal has been completely taken away and the entire proceedings are sought to be limited to a two tier system viz., the Rent Control Court and the Revisional Court, whereas under the
+Kerala Act
+there is a three tier system viz., the Rent Control Court, the Appellate Court and the Revisional Court. Though
+Section  48(6)
+of the Karnataka Act (as amended) also speaks of the finality of the order of the Rent Control Court, subject to the decision of the Revisionat Court under
+Section  50
+in more or less the same terms as in
+Section  18(5)
+of the Kerala Act, the force underlying the words "shall be final and shall not be liable to be called in question" etc. has to be reckoned at a lesser degree than the terms in the
+Kerala Act
+because the words of finality in the two Acts under the relevant provisions present distinctly different perspectives.
+It is in that situation it was found in
+Shyamaraju
+'s case that the relevant provisions of the
+Karnataka Act
+warranted the aplication of the ratio in
+Chhagan Lal
+'s case, AIR 1977 SC 1555 and Krishnadas Bhatija's case rather than the ratio in
+Vishesh Kumar
+'s case, AIR 1980 SC 892 and Aundal Animal's case, AIR 1987 SC 203.
+In fact, it is worthy of notice that Venkataramiah, J. who spoke for the Full Bench in Krishnaji's case, ILR (1978) 2 Kant 1585 was a party to the judgment in
+Aundal Animal
+'s case and the learned Judge, while concurring with Sabyasaehi Mukharji, J., who spoke for the Bench, has not deemed it necessary to make any reference to the Full Bench decision in Krishnaji's case."
+It was accordingly held that there is no conflict between the decisions in
+Aundal Animal
+'s case and
+Shyamaraju
+'s case and there was no need for any fresh thinking on the scope of
+Section  20
+read with
+Section  18(5)
+of the Kerala Buildings (Lease and Rent Control) Act.
+The decisions in
+Vishesh Kumar
+'s case and
+Aundal Ammal
+'s case are based on the language of the statute that the Supreme Court was called upon to consider and in spite of similar words of
+
+restriction the Supreme Court in
+Shyamaraju
+'s case has held the revision maintainable against the revisional order of the District Court under the
+Karnataka Rent Control Act
+.
+10. Sub-section (5) of
+Section  16
+of the Telegraph Act enacts that the determination
+of dispute by the District Judge under sub- Section  (3) or (4) shall be final subject to the proviso preserving the right of any person to recover by suit the whole or any part of the compensation paid by the Telegraph authority to any other person. The finality enacted under Sub-section (5) cannot therefore be said to be absolute. It is only a qualified finality subject to the results of the suit referred to in the proviso relating to matters falling thereunder. There is no provision barring a revision to the High Court under
+Section  115
+, C. P. C. 
+ 
+
+ There cannot be any doubt that the District Judge referred to in
+Section  18(3)
+is the District Court, as is clear from the decisions in
+Shyamaraju
+'s case,
+AIR 1987 SC 2323 and Kerala State Electricity Board v. T. P. K.
+, 1976 Ker LT 810 : (AIR 1977 SC 282).
+Viswanatha Iyer J. in
+Kerala State Electricity Board v. C. G. Narayanan
+, AIR 1973 Ker 144 considered the question of maintainability of a revision against the decision of the District Judge under
+Section  16(3)
+of the Telegraph Act and held the District Judge acts not as a persona designata, but as a court subordinate to the High Court, and but for the finality referred to in
+Section  16(5)
+the ordinary right of appeal and a second appeal under
+the Code of Civil Procedure
+would have been available to the aggrieved party. It was accordingly held that a revision lies to the High Court against the decision of the District Judge under Sub-sections (3) and(4) of
+Section  16
+of the Telegraph Act. The learned Judge stated at page 145 :
+"So, according to me, the District Judge functions in these matters in his judicial capacity as a District Court and that Court being subordinate to this Court, a revision under
+Section  115
+, Civil P. C. will lie. I am supported in this conclusion by a decision reported in Abdul Aziz v. Punjab Government, AIR 1942 Lah 186 where on a similar question being raised, their Lordships of the Lahore High Court took the view that the District Judge is to act in his judicial capacity and not as a persona designata in these matters. I respectfully agree with the reasoning in that case and hold that the revision petition is maintainable under
+Section  115
+, Civil P.C. before this Court."
+In the light of the above decision of Viswanatha Iyer J., the learned Judge who decided
+Thampi
+'s case, (1988) 2 Ker LT 941 : (AIR 1989 Ker 171) was wrong in his observation that the question raised before him relating to the maintainability of the revision is res integra and is not covered by the earlier decision.
+11. As held by Viswanatha Iyer J. an aggrieved party would have been entitled to an appeal against the decision of the District Court under Sub-sections (3) and (4) of
+Section  18
+of the Telegraph Act, but for the finality of the decision of the District Court provided for in Sub-section (5).
+In
+Adaikappa Chettiar v. Chandrasekhara Thevar
+, AIR 1948 PC 12 Lord Simonds on behalf of the Board observed at page 14 :
+"The true rule is that where a legal right is in dispute and the ordinary Courts of the country are seized of such dispute the Courts are governed by the ordinary rules of procedure applicable thereto and an appeal lies, if authorised by such rules, notwithstanding that the legal right claimed arises under a special statute which does not in terms confer a right of appeal : see (1916) 43 Ind App 192 : (AIR 1916 PC 21) and (1936) 63 Ind App 180 : (AIR 1936 PC 93)."
+12. Referring to Kydd v. Watch Committee of City of Liverpool, (1908) AC 327 and the subsequent case of Piper v. St. Marylebone Licensing Justices (1928) 2 KB 221 Lord Denning M.R. observed in Tehrani v. Rostron, (1971) 3 WLR 612 at p. 615 :
+"But I must say at once that I do not think we should accede to this preliminary objection. Much has happened since those cases were decided. The courts have given more thought to the meaning of the legislature when it says that a decision of this or that tribunal is to be "final". The modern cases establish this principle : when Parliament says that a decision of an inferior tribunal is to be "final", it does so on the assumption that the tribunal will observe the law. Parliament only gives the impress of "finality" to the decision on the condition that it is reached in accordance with law : and the Queen's courts will see to it that this condition is fulfilled. Accordingly if a tribunal goes wrong in law and the error appears on the face of the record, the High Court will interfere by certiorari to quash the decision. It is not to be deterred by the enactment that the decision
+
+is "final". The decision may be final on the facts, but it is not final on the law. This was settled by Reg. v. Medical Appeal Tribunal, Ex parte Gilmore, (1957) 1 QB 574, where all the cases are collected. Likewise if a board or a Minister is entrusted with a decision affecting private rights, then even though it is said to be "final", the High Court can ensure that it is correct in point of law. It can do so by making a declaration as to the law by which the authority must abide. That was settled by Pyx Granite Co. Ltd. v. Ministry of Housing and Local Government, (1960) AC 260, and particularly by the speech of Lord Simonds, at Pp. 286-287."
+12A.
+In the light of the decision in
+Chhagan Lal
+'s case, AIR 1977 SC 1555, Shyamaraju's case, AIR 1987 SC 2323 and Krishnadas Bhatija's case referred to therein, we are clearly of the view that a revision under Section  115, C. P. C. is maintainble against the decision of the District Judge unde Sub-section  (3) or Sub-section (4) of
+Section  16
+of the Telegraph Act.
+The learned Judge who decided
+Thampi
+'s case, (AIR 1989 Ker 171) (supra) has, in Neeiandan v. K.S.E. Board, (1988) 2 Ker LT 656, on the same view held that:
+"The proviso providing the alternative remedy, in my judgment, inhibits a revision under
+Section  115
+, C.P.C. against the order of the District Judge under Sub-section (4) of
+Section  16
+. I am fortified in this view by the decision of the Supreme Court in
+Aundal Animal v. Sadasivan Pillai
+, (1987) 1 Ker LT 53 : (AIR 1987 SC 203). The revision therefore is disposed of as not maintainable."
+In the light of the principle discussed above we are clearly of the view that
+Thampi
+'s case, (1988) 2 Ker LT 941 : (AIR 1989 Ker 171) and Neelandan's case, (1988) 2 Ker LT 656 are not correctly decided.
+13. The question referred to the Division Bench for decision does not present any difficulty in view of the earlier decisions of this Court in
+Kerala State Electricity Board v. Varghese Thomas
+, 1961 Ker LT 238 : (AIR 1961 Ker 237) and K. S.E. Board v. Marthoma Rubber Co Ltd., 1981 Ker LT 646 : (AIR 1981 Ker 223) (FB).
+Section 10
+of the Telegraph Act empowers the telegraph authority from time to time to "place and maintain a telegraph line under, over, along or across, and posts in or upon, any immoveable property" and in so doing it shall do as little damage as possible. When it exercises those powers in respect of
+
+any property, the telegraph authority is required to pay full compensation to all persons interested for any damage sustained by them by reason of the exercise of those powers.
+The compensation payable is the "just equivalent of what the owner has been deprived of", as stated by the Supreme Court in a different context in
+State of West Bengal v. Mrs. Bella Banerjee
+, AIR 1954 SC 170 at page 172.
+14. Geevarghese Kalhanar's case, 1980 Ker LT 880 referred to in the reference order relates to the determination of market value for land acquired under the
+Land Acquisition Act
+. In that case it is held at page 882 :
+"But when once capitalised value of the income is adopted as the basis for determining land value, there is no scope for awarding any additional value for the land separately. That is because in determining the market value on the basis of income, what the Court really does is to find out what any person would be willing to pay for a property such as the one acquired if it would yield the income that is determined by the Court as that from the property acquired."
+Value based on capitalised income is an accepted method for determining the market value of land with improvements yielding an annual income. The market value thus determined is of the land with the improvements, and there is no question of a separate value for the land apart from the improvements yielding the income. Compensation for the trees cut by the telegraph authority in exercise of its powers under
+Section  10
+of the telegraph Act should be the just equivalent of what the owner of the land has been deprived of. A Division Bench of this Court in
+Kerala State Electricity Board v. Varghese Thomes
+, 1961 Ker LT 238 : (AIR 1961 Ker 237), in considering the question of compensation for damage done by cutting of trees, referred to the following passage occurring in 61 Harward Law Review P. 161, laying down the correct principle for determination of compensation (at P. 240 of AIR) :
+"The possibility ot'diverse results from the use of the diminution or cost-of-repair test for determining damages becomes pronounced
+
+in cases of injury to improvements to land. Where, as is often the situation, demand for land is not related to the existence of the improvements, injury to them may cause no decrease in the over-all value. Few Courts would be likely to deny any right of recovery; instead of applying a test of over- all diminution. Courts generally will evaluate separately the damage to improvements. While refusing to value improvementsseparately might tend to cause the land to be used for those purposes for which it is economically best suited --since such purposes determine the market price, and thereby the amount of diminution -- such refusal would be inconsistent with our   individualistic   ideas   of   property rights..... Probably the best over-all results
+are reached by those Courts using a flexible approach by which in any particular case the measure which most fairly compensates plaintiff for his loss is used."
+The Division Bench at page 245 (of Ker LT) : (at p. 242 of AIR) laid down the principle thus:
+"We therefore think, that apart from other damage which may have been caused, it is a safe rule to lay down, that compensation payable on the destruction of a bearing tree, is the present value of an annuity which gives a return at the rate of 5 per cent per annum. Apart from the lack of practice and familiarity, we do not conceive any serious difficulty in applying the rule as stated above, to fruit bearing trees such as cocoanut, aracanut, jack trees etc. With respect to rubber trees and pepper vines, though for ascertaining the value of improvement and for the purposes of the
+Land Acquisition Act
+, a different rule of capitalisation is in vogue, none of the counsel pointed out any fallacy in applying the rule of present worth at 5 per cent per annum. The duration of productive life being smaller, in their case, the multiple for capitalisation will be proportionately lower. We therefore think, that the same rule may apply to rubber trees and papper vines."
+A Full Bench of this Court in K.S. E. Board v. Marthoma Rubber Co. Ltd., 1981 Ker LT 646 : (AIR 1981 Ker 223) accpeted the above method as embodying the correct principle
+
+for determining compensation for the trees cut The Full Bench, however, stated that an annuity assuring a five per cent return of income cannot be applied for all times and the present value of annuity should be determined with reference to the rate of interest available on deposits in nationalised banks. The Full Bench observed (at p. 226 of AIR):
+"6. We are in respectful agreement with the principle enunciated by the Division Bench in the
+Electricity Board
+'s case (AIR 1961 Ker 237). If we capitalise the income for the number of years during which the tree is expected to yield in future at the prevalent rate of interest the capitalised value will represent not only the return for these years, but in addition the capital that would remain in tact at the end of the period. To put the same idea in a different way, it would represent such recurring return for all time and not for the limited period during which alone the tree would have continued to yield income. Therefore that would not be just equivalent of the compensation. If 5% return would be a reasonable return and the trees would normally be expected to yield, say for 25 years moe, what is paid as compensation must yield the annual return at 5% which would be equivalent of what the owner of the trees would have obtained had these trees continued to stand in the property for 25 years but since the trees would cease to yield income at the end of 25 years for amount paid as compensation must exhaust itself by the end of that period. In other words it will be as if the amount of income is received only for a period of 25 years. In that event the determination should be as if an annuity for 25 years is provided for. What amount invested today will yield annuity for a specified period will have to be computed. The present value of recurring payments for a specified number of years will have to be worked out. It will be easy to work it out on the basis of the valuation tables provided in the Appendix in "Parks on Valuations Land and Houses". The present value of Re. 1 per annum at specified rates of interest return for a specified number of years could be easily found from the table. That
+
+would serve as the basis for determining what such value will be applying the multiplier representing the specified number of years."
+It was accordingly held (at p. 228 of AIR) :
+"We think that it will be safe to adopt the return on a fixed deposit for the usual period of 63 months as reasonable anticipated return on a long term, basis on a safe and prudent investment. We adopt the rates shown in the table as interest rates for the respective years, as reasonable rates. It is neither to be 5% as contended by respondents these cases nor 10% in all cases as contended by the Board, The date when compensation becomes due will be the relevant date."
+The table referred to in this passage shows interest rate at 10% and 9% for the different periods referred to therein. Compensation
+for the damage done by the cutting of trees in these cases is also to be determined in
+accordance with the principle stated above.
+15.    Since the compensation payable under
+Section 10(d)
+of the Telegraph Act is the just
+equivalent of what the owner has been deprived
+of, he is entitled also to any diminution in
+value of land for the reason of the drawal of
+overhead power-lines across the land. Beckett
+J. in Hussain Bakhsh v. Secy. of State, AIR
+1935 Lah 982 considering the relevant
+provisions of the
+Telegraph Act
+stated thus :
+"In the third place, the learned Additional Judge considers that the depreciation in the value of property owing to the presence of an aerial line span is not such damage to property as is contemplated by the Act.
+The Act
+does not refer to damage to property. It refers to damage sustained by any person interested through the exercise of the special powers vested in the Department; and a depreciation in the value of land would be damage sustained by the owner. The damage is not confined, as the learned Additional Judge has stated in his order, to actual damage to property by demolition of a building or damage to crops. The rendering of a site useless for building purposes may or may not be damage to the owner. This would depend on the
+
+circumstances existing at the time when the line was laid and can best be determined by considering whether there would have been any loss on the sale of the land from this cause if the land had been sold at that time."
+A Division Bench of this Court in
+Malankara Rubber and Produce Co. Ltd. v. State of Kerala
+, 1967 Ker LT 938 stated at p. 939 :
+"But learned counsel for the petitioner has contended that by the erection of the transmission towers, and of electric posts and by the stringing of electric wires, there has been a diminution in the value of the lands, over which these have been done, the total area of the lands so affected being 10 acres 3 cents in CRP. 575 and 1 1/2 acres in CRP. 574. We are of the opinion that if there has a diminution in the market value of the land, in consequence, the petitioners have to be compensated."
+16. We are clearly of the view that apart from the compensation for the damage done by the cutting of trees, the owner of the land is also entitled to compensation for any diminution in value of land that he has suffered for the reason of the drawal of overhead powerlines across his land The diminution in value is to be determined with reference to the market value of land without trees before and after the drawal of the lines.
+17. In the present case the learned District Judge has merely accepted the revised valuation statements submitted by the respective claimants relating to compensation for the trees cut as well as for the diminution in value of the land. The Court below has not considered the case on the basis of the evidence adduced before it. The correct principle of valuation is also not seen applied in determining the compensation payable to the respective claimants. We, therefore, set aside the impugned orders and remit the cases back to the Court below for fresh disposal in the light of the directions and observations contained in this judgment.
+18. The civil revision petitions are allowed. The parties will suffer their respective costs.
+Krishnamoorthy, J. (Concurring) :--
+19. I perused the judgment prepared by any learned brother Balakrishna Menon, J. and I agree with the order proposed by him. But I am giving my opinion also on the questions involved  as  they  are  important  matters affecting many cases under the above statute and   similar   statutes  containing   similar provision making an order final and its effect on a further revision. There is already a decision by a learned single Judge reported in K.S.E.B. v. Thambi, (1988) 2 Ker LT 941 : (AIR 1989 Ker 171) taking the view that a revision is not maintainable, the correctness of which is in challenge and which fact also prompted me to write a separate judgment.
+20.    These revision arise out of an order
+under
+Section  16(3)
+of the Telegraph Act and the
+question  to be determined  is whether a 
+revision under
+Section 115
+, C.P.C. will lie, in
+view of the fact that an order under
+Section  16(3)
+is
+made final by virtue of the provision in
+Section  16(5)
+of the Telegraph Act. The relevant provisions 
+of the
+Telegraph Act
+are as follows :--
+"(3) If any dispute arises concerning the sufficiency of the compensation to be paid under
+Section  10
+, Clause (d), it shall, on application for that purpose by either of the disputing parties to the District Judge within whose jurisdiction   the   property   is   situate,   be determined by him.
+(4) If any dispute arises as to the persons entitled to receive compensation, or as to the proportions in which the persons interested are entitled to share in it, the telegrph authority may pay into the Court of the District Judge such amount as he deems sufficient or, where all the disputing parties have in writing admitted the amount tendered to be sufficient or the amount has been determined under Sub-section (3), that amount; and the District Judge, after giving notice to the parties and hearing such of them as desire to be heard, shall determine the persons entitled to receive the compensation or, as the case may be, the proportions in which the persons interested are entitled to share in it.
+(5) Every determination of a dispute by a District Judge under Sub-section (3), or Sub-section (4) shall be final :
+"Provided that nothing in this sub-section shall aliect the right of any person to recover by suit the whole or any part of any compensation paid by the telegraph authority, from the person who has received the same."
+21. At the outset it has to be noted that the order passed under
+Section  16(3)
+of the Telegraph Act by the District Judge in the context of the provisions of the Act is by the District Court. The District Court, while dealing with an application under
+Section  16
+of the Act, acts as a civil Court. Construing the above provision, the Supreme Court of India in
+Kerala Stale Electricity Board v. T.P.K.
+, 1976 Ker LT 810 : (AIR 1977 SC 282) observed as follows (at Pp. 285-286 of AIR) :--
+"The provisions in the
+Telegraph Act
+which contemplate determination by the District Judge of payment of compensation payable under
+Section  10
+of the Act indicate that the District Judge acts judicially as a Court. Where by statutes matters are referred for determination by a Court of Record with no further provision the necessary implication is that the Court will determine the matters as a Court. See National Telephone Co. Ltd. v. The Postmaster General (1913) AC 546]. In the present case the statute makes the reference to the District Judge as the Presiding Judge of the District Court. In many statutes reference is made to the District Judge under this particular title while the intention is to refer to the Court of the District Judge.
+The Telegraph Act
+in
+Section  16
+contains intrinsic evidence that the District Judge is mentioned there as the Court of the District Judge.
+Section  16(4)
+of the Telegraph Act requires payment into the Court of the Dislricl Judge such amount as the telegraph authority deems sufficient if any dispute arises as to the persons entitled to receive compensation. Again, in
+Section  34
+of the Telegraph Act reference is made to payment of Court-fees and issue of processes both of which suggest that the ordinary machinery of a Court of civil jurisdiction is being made available for the settlement of these disputes.
+Section  3(15)
+of the General Clauses Act states that the District Judge in any Act of the Central Legislature means the Judge of a principal civil Court of
+
+original jurisdiction other than the High Court in the exorcise of its original civil jurisdiction, unless there is anything repugnant in the context.
+In the Telegraph Act
+there is nothing in the context to suggest that the reference to the District Judge is not intended as a reference to the District Court which seems to be the meaning implied by the definition applicable thereto. The District Judge under the
+Telegraph Act
+acts as a civil Court in dealing with applications under
+Section  16
+of the Telegraph Act."
+22. As the order made under
+Section  16(3)
+of the Telegraph Act being one by a District Court and it being a Court subordinate to the High Court, normally the order is liable to be revised by the High Court, in exercise of its revisional jurisdiction under
+Section  115
+, C.P.C. The question to be decided is whether the above jurisdiction or power is ousted by the provision in
+Section 16(5)
+of the Telegraph Act which makes the determination of a dispute by a District Judge under Sub-section (3) or Sub-section (4) of
+Section 16
+final.
+23. The effect of an order being made final by a statute and under what circumstances an appeal or revision will lie against such an order had come up for consideration before the Supreme Court in certain cases.
+24. In S.  A. Industries (P.) v. Sarup Singh, AIR 1965 SC 1442, their Lordships considered the question as to whether the right of appeal conferred under Clause 10 of the Letters Patent (Lahore) has been taken away by the fact that an order made in appeal by the High Court under
+Section  43
+of the Rent Control Act is final.
+Under the Delhi Rent Control Act
+, against the order of the Rent Controller an appeal is provided to the Rent Control Tribunal from the order of the Rent Control Tribunal an appeal is provided to the High Court un'der
+Section  39
+of the Act on a substantial question of law.
+Section 43
+of the Act provides that the orders of the Controller or an order passed in appeal under the Act shall be final and shall not be called in question in any original suit, application or execution proceedings. It will be relevant to quote the relevant provisions of the
+Rent Control Act
+,
+
+namely, Sections  39 and 43, which read as follows (Para 13) :--
+"39. (1) Subject to the provisions of subsection (2), an appeal shall lie to the High Court from an order made by the Tribunal within sixty days from the dale of such order   
+ 
+
+ xx	xx                x  
+ 
+
+ (2) No appeal shall lie under Sub-section (1), unless the appeal involves some substantial question of law."
+"43. Save as otherwise expressly provided in this Act, every order made by the Controller or an order passed on appeal under this Act shall be final and shall not be called in question in any original suit, application or execution proceeding."
+Construing the above provisions and their impact on the right of appeal under Clause 10 of
+the  Letters  Patent,  their  Lordships  held
+(Para 17) :--
+"The   expression   "final"   prima   facie
+connotes that an order passed on appeal under
+the Act is conclusive and no further appeal 
+lies against it. The last sentence in
+Section  43
+of
+the Act, in our view, does not restrict the
+scope of the said expression; indeed, the said
+sentence   imposes   a   further   bar.   The
+expression "final" in the first part of
+Section  43
+of
+the Act puts an end to a further appeal and
+the words "shall not be called in question in
+any original suit, application or execution
+proceeding" bar collateral proceedings. The
+section imposes a a total bar. The correctness
+of the judgment  in  appeal  cannot  be
+questioned by way of appeal or by way of
+collateral proceedings. It is true that the
+expression "final" may have a restrictive
+meaning in other contexts, but in
+Section  43
+of the
+Act such a restrictive meaning cannot be
+given, for Chap. VI of the Act provides for a
+hierarchy of tribunals for deciding disputes
+arising thereunder.
+The Act
+is a self-contained
+one and the intention of the Legislature was
+to provide an exhaustive code for disposing
+of the appeals arising under the Act. The
+opening words of
+Section  43
+of the Act "save as
+otherwise expressly provided in this Act"
+emphasise the fact that the finality of the
+order cannot be questioned by resorting to
+something outside the Act."
+25.
+In
+Chhagan Lal v. Indore Municipality
+, AIR 1977 SC 1555 the question arose as to whether a revision under
+Section  115
+, C.P.C. is maintainable against an order of the District Court made under Section  149 of the M. P. Municipal Corporation Act. Section 149 of the said Act provides that an appeal shall lie from the decision of the Municipal Commissioner to the District Court and that the decision of the Distriet Court shall he final. In construing the above provision and considering the question whelher a revision will lie in spite of the fact that the order of the District Judge having been made final, their Lordships observed (Para 8) :
+"This plea cannot be accepted for, under
+Section  115
+of the C.P.C. the High Court has got a power to revise the order passed by Courts subordinate to it. It cannot be disputed that the District Court is a subordinate Court and is liable to the revisional jurisdiction of the High Court."
+26. The next decision of the Supreme Court which is relevant and on whieh the learned Judge has placed considerable reliance in K.S.E.B. v. Thampi, (1988) 2 Ker LT 941 : (AIR 1989 Ker 171) is the decision reported in
+Aundal Ammal v. Sadasivan Pillai
+, AIR 1987 SC 203 : (1987) 1 Ker LT 53. As the learned Judge has mainly relied on
+the above decision
+, it is necessary to consider that decision in detail. The ease arose out of a proceeding under the
+Kerala Buildings (Lease and Rent Control) Act, 1965
+. Under the scheme of the above Act, a landlord has to move the Rent Control Court in the first instance under
+Section 11
+of the Act for evicting a tenant from the premises. Under
+Section  18
+, from the order of the Rent Control Court an appeal lies to an authority not below the rent of a Subordinate Judge to be notified by the Government by a general or special order. The State Government has notified that the Subordinate Judge shall be the Appellate Authority for the purpose of the
+Rent Control Act
+. Under
+Section  20
+of the Act, a revision is provided to the District Court where the Appellate Authority is the Subordinate Judge and in other cases, to the High Court, As the Appellate Authority
+
+notified under the Act is the Subordinate 
+Judge, a revision lies to the District Court
+under
+Section  20
+of the Aet. The question arose
+before the Supreme Court as to whether a revision will lie under
+Section  115
+of the C.P.C. ,
+against the order of the District Judge passed 
+in revision under
+Section  20
+of the above Act.
+Sections 18
+and
+20
+read as follows (at P. 206 
+of AIR) :--
+"18. Appeal :-- (1)(a) The Government 
+may, by general or special order notified in
+the Gazette, confer on such officers and 
+authorities   not   below   the   rank   of   a 
+Subordinate Judge the powers of appellate
+authorities for the purposes of this Act in
+such areas or in such classes of eases as may 
+be specified in the order.
+(b) Any person aggrieved by an order
+passed by the Rent Control Court may, within
+thirty days from the date of such order, prefer
+an appeal in writing to the appellate authority 
+having jurisdiction. In computing the thirty 
+days aforesaid, the time taken to obtain a 
+certified copy of the order appealed against
+shall be excluded.
+(2) On such appeal being preferred, the appellate authority may order stay of further proceedings in the matter pending decision on the appeal.
+(3) The appellate authority shall send for the records of the case from the Rent Control Court and after giving the parlies an opportunity of being heard and, if necessary, after making such further inquiry as it thinks fit either directly or through the Rent Control Court, shall decide the appeal.
+Explanation :-- The appellate authority may while confirming the order of eviction passed by the Rent Control Court, grant an extension of time to the tenant for pulling the landlord in possession of the building.
+(4) The appellate aulhority shall have all the powers of the Rent Control Court including the fixing of arrears of rent.
+(5) The decision of the appellate authority,
+and subject to such decision, an order of the
+Rent Control Court shall be final and shall
+not be liable to be called in question in any
+Court of law, except as provided in
+Section  20
+.
+20. Revision :-- (1) In cases where the appellate authority empowered under
+Section  18
+is a Subordinate Judge, the District Court, and in other cases the High Court may, at any time, on the application of any aggrieved party, call for and examine the records relating to any order passed or proceedings taken under this Act by such authority for the purpose of satisfying itself as to the legality, regularity or propriety of such order or proceedings and may pass such order in reference thereto as it thinks fit.
+(2) The costs of and incident to all proceedings before the High Court or District Court under Sub-section (1) shall be in its
+discretion."
+27. The maintainability of a revision against an order passed by the District Judge under
+Section  20
+came up for consideration before a Full Bench of this Court in
+Vareed v. Mary
+, 1968 Ker LT 583 : (AIR 1969 Ker 103) and the Full Bench held that since the District Court exercising revisional powers under
+Section  20(1)
+of the Kerala Act functions as a Court and not as a persona designata, the ordinary incidence of the procedure of that Court including any right of appeal or revision will be inhered to the decision rendered by the District Courl. In that view, it was held that an order under
+Section  20
+of the Rent Control Act is amenable to the revisional jurisdiction of the High Courl when there is no provision in the Act providing for an appeal against an order of the District Court under
+Section  20
+or in the alternative any express provision declaring the finality of the order. The Supreme Court did not approve the
+ratio
+laid down in
+the aforesaid decision and held as follows (at P. 208 of AIR 1987 SC 203):--
+"In our opinion, the Full Bench misconstrued the provisions of Sub-section (5) of
+Section  18
+of the Act. Sub-section (5) of
+Section  18
+clearly states that such decision of the appellate authority as mentioned in
+Section  18
+of the Act shall not be liable to be questioned except in the manner under
+Section  20
+of the Act. There was thereby an implied prohibition or exclusion of a second revision under
+Section  115
+of the Code of Civil Procedure to the High Court when a revision has been provided under
+Section  20
+of the Act in question. When
+S. 18(5)
+of the Act specifically stales that "shall not be liable to be called in question in any Courl of law" except in the manner provided under
+Section  20
+, it cannot be said that the High Court which is a Court of law and which is a civil Courl under
+the Code of Civil Procedure
+under
+Section  115
+of the Code of Civil Procedure could revise an order once again after revision under
+Section  20
+of the Act. That would mean there would be a trial by four Courts, that would be repugnant to the scheme manifest in the different sections of the Act in question. Public policy or public interest demands curtailment of law's delay and justice demands finality with quick disposal of case. The language of the provisions of
+Section  18(5)
+read with
+Section  20
+inhibits further revision. The Courts must so eonslrue."
+28.
+In no holding the Supreme Court also relied on an earlier decision of their Lordships in
+Vishesh Kumar v. Shanti Prasad
+, AIR 1980 SC 892 and
+in that case
+the two questions that fell for consideration were (Para 10) : --
+"(1) Whether the High Court possesses revisional jurisdiction under
+Section  115
+, Code of Civil Procedure in respect of an order of the District Court under Section  115 disposing of a revision petition?
+(2) Whether the High Courl possesses revisional jurisdiction under Section  115 against an order of the District Court under
+Section  25
+, Provincial Small Cause Courts Act disposing of a revision petition?"
+Answering both the questions in the negative, it was held in so far as question No. 1 is concerned, as follows (Para 13) : --
+".....In    determining    whether    the
+Legislature intended a further revision petition to the High Court, regard must be had to the principle that the construction given to a statute should be such as would advance the object of the legislation and suppress the mischief sought to be cured by it. It seems to us that to recognise a revisional power in the High Court over a revisional order passed by the District Judge would plainly defeat the objecl of the legislative scheme. The inlenl behind the bifurcation of jurisdiction to reduce the number of revision petitions filed
+
+in the High Court would be frustrated. The scheme would, in large measure, lose its meaning. If it revision petition is permitted to the High Court against the revisional order of the District Court arising out of a suit of a value less than Rs. 20,000/-, a fundamental contradiction would be allowed to invade and destroy the division of revisional power between the High Court and the District Court, for the High Court would then enjoy jurisdictional power in respect of an order arising out of a suit of a valuation below Rs. 20,000/-. That was never intended at all."
+The seeond question was answered as under :
+(Para 17) :-
+"The question before us arises in those cases only where the District Judge has exercised revisional power under
+Section  25
+. Is an order so made open lo revision by the High Court under
+Section  115
+, Code of Civil Procedure? An examination of the several provisions of the
+Provincial  Small  Cause  Courts  Act
+indicates that it is a self-sufficient code so far as the present enquiry is concerned. For the purpose of correcting decrees or orders made by a Court of Small Causes the Act provides for an appeal and a revision in cases falling under
+Section  24
+and
+Section  25
+respectively. Cases in which the District Judge and High Court respectively   exercise   revisional   power, revisional powers are specifically mentioned. A complete set of superior remedies has been incorporated in the Act. Moreover,
+Section  27
+of the Act provides : --
+"27. Finality of decrees and orders.-- Save as provided by this Act, a decree or order made under the foregoing provisions of this Act by a Court of Small Causes shall be final."
+The legislature clearly intended that a decree or order made by a Court of Small Causes should be final subject only to correction by the remedies provided under the
+Provincial Small Cause Courts Act
+. It is a poinl for consideration that had
+Section  25
+, in its application to the State of Uttar Pradesh continued in its original form the High Court would have exercised the revisional power under
+Section  25
+, and no question could have arisen of invoking the revisional power of the High
+
+Court under Section  115 of the Code. All the indications poinl to the conclusion that a case fulling within the
+Provincial Small Cause Courts Act
+was never intended to be subject to the remedies provided by
+the Code of Civil Procedure
+. By way of abundant caution
+Section  7
+of the Code made express provision barring the application of Sections  96 to 112 and 115 of the Code to Courts constituted under the
+Provincial Small Cause Courts Act
+.
+Section  7
+of the Code merely embodies the general principle againsl resorl to remedies outside the
+Provincial Small Cause Courts Act
+. Although the Court of the District Judge is not a Court constituted under the Act the general principle continues to take effect. No change in the principle was brought about merely because revisional power under
+Section  25
+, before the proviso was added, was now entrusted to the District Judge. It must be remembered that the legislative intention behind the amendment was to relieve the High Court of the burden of exercising revisional jurisdiction in respect of cases decided under the
+Provincial Small Cause Courts Act
+. We are of firm opinion that the Central principle continues to hold, notwithstanding the amendment effected in
+Section  25
+, that the hierarchy of remedies enacted in the
+Provincial Small Cause Courts Act
+represents a complete and final order of remedies, and it is not possible to proceed outside the Acl to avail of a superior remedy provided by another statute."
+29. The ratio in Aundal Animal's ease (AIR 1987 SC 203) would indicale that the Supreme Court atlached finality to an order under
+Section  18
+of the Rent Control Act on the wording of
+Section  20
+which specifically states that it shall not be liable to be called in question in any Court of law except in the manner provided under
+Section  20
+and the fact that if a revision under Section  115 is held to be maintainable, there would be a trial by four Courts which would be repugnant to the scheme of the Acl. Their Lordships further were of the view that public policy or public interest demands finality with quick disposal of cases and that it is inconceivable to have two revisions and the scheme of the Act does not warrant a second revision from a revisional
+
+order passed under S, 20 of the Act especially in view of the fact that it is made final under the provisions of the Act.
+30.  Aundal Animal's" ease came up for
+consideration before the Supreme Court in a
+later case in
+Shyamaraju v. U. V. Bhal
+, AIR
+1987 SC 2323 wherein their Lordships were
+considering a more or less similar provision
+under the
+Karnataka Rent Control Act
+,
+namely Section  50 read with Section  48(6).
+The aforesaid
+Sections were considered by two Full Bench
+decisions of the Karnataka High Court, the
+first being Krishnaji's case, ILR (1978) 2 Kant
+1585, wherein the Full Bench held that an
+order made in revision by a District Judge
+under
+Section  50(2)
+of the Karnataka Rent Control
+Act is amenable to the revisional jurisdiction
+of the High Court under
+Section  115
+, C.P.C. in
+spite of the fact that the order is being made
+final   under   the   provisions  of  the   Act.
+Construing        the       above        provision
+Venkataramiah J., speaking for the Full
+Bench, held as follows (at P. 2324 of AIR
+1987 SC) :-- 
+   
+
+"The second for consideration is whether
+the declaration made in Section  50(2) that the order
+of the District Judge shall be final takes away
+the jurisdiction of this Court to exercise its
+powers of revision under
+Section  115
+, C.P.C. A
+doubt about the above question arose in view
+of some observations made by a Division
+Bench of this Court in Diwakar Hegde v.
+Karkala Taluk  Agriculture Produce Co-
+operative Marketing Society Ltd., (1975) 2
+Kant LJ 390 to the effect that when a statute
+declares that the decision of an authority
+shall be final, it cannot be questioned either
+in appeal or revision under the statute.
+The
+doubt however stands resolved by the decision
+of the Supreme Court in
+Chhagan Lal v. The
+Municipal Corporation, Indore
+, (1977) 2 SCR
+1871 : AIR 1977 SC 1555. In that case
+Section  149
+,
+Madhya Pradesh Municipal Corporation Act,
+1956 which provided that the decision of the
+District Court in an appeal filed against an
+order of the Municipal Commissioner was
+final came up for consideration. Rejecting
+the   contention   that   the   said   provision
+debarred the revisional jurisdiction of the
+High Court under
+Section  115
+, C.P.C. over the
+order of the district court passed in appeal,
+the Supreme Court observed (at P. 1558) (of AIR))-
+The second contention is based on
+Section  149
+, Madhya Pradesh Municipal Corporation Act, 1956. It provides that an appeal shall lie from the decision of the Municipal Commissioner to the district court when any dispute arises as to the liability of any land or building to assessment. Sub-section (1) of Section  149 provides that the decision of the District Court shall be final. It was submitted that the decision of the District Court was therefore final and that the High Courl was in error in entertaining a revision petition. This plea cannot be accepted for under
+Section  115
+of the C.P.C. the High Court has got power to revise the order passed by Courts subordinate to it. It cannot be disputed that the district court is a subordinate court and is liable to the revisional jurisdiction of the High Court.....'."
+31. In coming to the above conclusion the Full Bench also relied upon an unreporled decision of the Supreme Court in Krishnadas Bhatija v. A. S.  Venkatachala Shetty (Special Leave Petn. No. 913 of 1978 dated 13th February, 1978) wherein the Supreme Court, construing the identical provision, observed as follows :--
+"The petitioner contends that the order of the High Court is without jurisdiction because under Section  50 Karnataka Rent Control Act, 1961, a revision does not lie to the High Court. We do not agree.
+Section 115
+, C.P.C. gives powers to the High Court to revise any order from the District Courl, subject of course to the limitations set out therein. The narrow point then is as to whether the District Judge can be equaled with a District Courl. The High Court, following its own earlier decisions, has held so. We agree that in the scheme of
+Karnataka Rent Control Act
+, the District Judge and the District Courl are interchangeable expressions and nothing turns on the mere fact that the section uses the expression 'District Judge'.
+Section  115
+, C.P.C. therefore applies and the revisional jurisdiction is vested in the High Court."
+32.
+Under the Karnataka Act
+as amended, from the orders of District Munsiffs, instead of an appeal to the District Judge and then a
+
+revision to the High Court, only a right of revision to the District Court is provided. In respect of cases disposed of by the civil judges in the city of Bangalore, a revision is provided ; to the High Court. Notwithstanding the changes effected in the right of appeal and revision,
+Section 48(6)
+of the Act provided that an order of the Court or the Controller shall, subject to the decision of the District Judge or the High Court under Section  50, be final and shall not be liable to be called in question in any Court of law whether in a suit or other proceeding or by way of appeal or revision. It was in construing this provision that the Full Bench decision referred lo above held that a revision to the High Court under Section  115 is maintainable. The correctness of this Full Bench decision came up for consideration before a later Full Bench decision of the same High Court in
+M. M. Yaragatti v. Vasant
+, AIR 1987 Kant 186.
+The later Full Bench considered the question a fresh, in view of the decision in
+Aundal Animal
+'s case, AIR 1987 SC 203 and Vishesh Kumar's case, AIR 1980 SC 892 and took the view that the view taken in Krishnaji's case, 1LR (1978) 2 Kant 1585 (FB) cannot be considered good law any longer and as such a further revision to the High Court under Section  115 will not lie against an order passed by a District Judge in exercise of his revisional power under
+Section  50(2)
+of the Karnataka Act.
+33. The Supreme Court in the decision referred to above
+Shyamaraju
+'s case, AIR 1987 SC 2323 considered the correctness of both the Full Bench decisions and held that in so far as the
+Karnataka Act
+is concerned, the relevant provisions warranted invoking of the ratio in
+Chhagan Lal
+'s case, AIR 1977 SC 1555 and in Bhatija's case (Special Leave Petn. No. 913 of 1978 dated 13-2-1978) and held that so far as the
+Karnataka Act
+is concerned, an order of District Judge under Section  50(2) though conferred finality under the Act is nevertheless open to challenge before the High Courl by means of a further revision under
+Section  115
+, C.P.C. by the aggrieved parly.
+In that view of the matter, their Lordships approved of the distum laid down in Krishnaii's case, ILR (1978) 2 Kant 1585 (FB).
+34.    The decision in
+Aundal Animal
+'s case, AIR   1987  SC  203  and   the  decision   in
+Shyamaraju
+'s case, AIR 1987 SC 2323, again came up for consideration before Ihe Supreme Courl in
+Jetha Bai and Sons, Cochin v. Sunderdas Rathenai
+(AIR 1988 SC 812).
+In that case the question for considration was the amplitude of the finality attached to
+Section  18(5)
+of the Kerala Buildings (Lease and Rent Control) Act and whether a revision under
+Section  20
+of the above Act is liable to be revised under
+Section  115
+, C.P.C. The above case was listed for consideration by a Bench of three Judges of the very same question in order to see whether there is any conflict between the views taken in
+Aundal Animal
+'s case, AIR 1987 SC 203 and a later decision of the Supreme Court in
+Shyamaraju
+'s case, AIR 1987 SC 2323
+referred to above
+.
+The Supreme Court in that decision considered the scope and amplitude of the various sections in the Kerala Acl and the Karnataka Act and came to the conclusion that the decision in
+Aundal AmmaPs
+case is correct in the light of the scope and content of the provision in the
+Kerala Act
+. After considering the provisions in both the enactments, their Lordships, in paragraph   18 (of AIR   1988 SC),  held as follows: --
+"Even so we cannot but refer to the fact that in the Karnalaka Act the right of appeal has been completely taken away and the entire proceedings are sought to be limited to a two tier system viz., the Rent Control Court and the Revisional Court, whereas under the Kerala Acl there is a three tier system viz., the Rent Control Court, the Appellate Court and the Revisional Court. Though
+Section  48(6)
+of the Karnataka Act (as amended) also speaks of the finality of the order of the Rent Control Courl, subjecl to the decision of the Revisional Court under Section  50 in more or less the same terms as in
+Section  18(5)
+of the Kerala Acl, the force underlying the words "shall be final and shall not be liable to be called in question" etc. has to be reckoned at a lesser degree than the terms in the
+Kerala Act
+because the words of finality in the two Acts under the relevant provisions present distinctly different perspectives. It is in that situation it was found in
+Shyamaraju
+'s case (AIR 1987 SC 2323)
+
+that the relevant provisions of the
+Karnataka Act
+warranted the application of the ratio in
+Chhaganlal
+'s case, AIR 1977 SC 1555 and Krishnadas Bhalija's case rather than the ratio in
+Vishesh Kumar
+'s case, AIR 1980 SC 892 and Aundal Animal's case, AIR 1987 SC 203."
+35. What emerges from the above decisions regarding the effect of a provision making an order final under a statute are the following: (1) prima facie an order which is made final implies that no further appeal or revision will lie; (2) the expression "final" may have only a restrictive meaning in the context of the various provisions of the enactment in which it is used; and (3) in deciding as to whether the word "final" has to be given its full effect or restrictive meaning, the provisions of the particular enactment providing for an appeal or revision to specified Tribunals or Courts and the number of tires a litigant is entitled to are important factors. In other words, it depends on the scheme of the Act as to whether the enactment is a self-continued code providing remedies by way of appeal and revision which is a pointer to the position that the word "final" has to be given its full effect.
+36. In the light of the above principles, the provisions in the
+Telegraph Act
+may be considered.
+Section 10
+provides that the telegraph authority may from time to time, place and maintain a telegraph line and posts in or upon any immovable properly. Proviso (d) to
+Section  10
+provides that while exercising the power conferred by this Section, the authority shall do as title damage as possible and if any damage is sustained by any person in respect of his property, he shall be paid full compensation.
+Section 16
+deals with the determination of the question concerning the sufficiency of the compensation to be paid under
+Section 10(d)
+.
+Section 16(3)
+of the Act provides that if any dispute arises concerning the sufficiency of the compensation payable under
+Section 10(d)
+, it shall be determined on an application by the parties, by the District Judge within whosejurisdiction the property is situate, it can thus be seen that the proceeding before the District Judge under
+S. 16(3)
+is an original proceeding. Valuable rights of parties have to be determined by the District Judge in adjudicating a dispute under the above provision. As staled earlier, the right to decide the disputes regarding compensation is given to an ordinary civil Court of the country.
+No right of appeal or revision is provided for under the Act from the order of the District Judge. In other words, the party has no other remedy to challenge the order of the District Judge which may affect a litigant's right materially. The fact that the powers are given to an ordinary civil Court and that no appeal or revision is provided from the order of the District Judge is a pointer to the effect that the word "final" used in
+Section  16(5)
+of the Act has to be given a restrictive meaning. The above position is clear from the dictum laid down by the Supreme Court in
+Jetha Bai and Sons, Cochin v. Sunderdas Rathenai
+, AIR 1988 SC 812 wherein their Lordships considered the difference between the provisions of the Karnataka and Kerala Acts wherein a revisional order is made final. Their Lordships have emphasised, as stated in para 16 of this judgment, that the number of appeals or revisions a litigant is entitled to under the provisions of a particular enactment is an important test to determine whether the word "final" has to be given its full effect or a restrictive meaning. In the set-up of the
+Telegraph Act
+, it is absolutely clear that a restrictive meaning has to be given to the word "final" in
+Section  16(5)
+. The proviso to
+Section  16(5)
+is also an indication to this effect. Moreover, the provision that the order shall not be called in question in any Court of law is also absent in
+Section  76
+of the Telegraph Act.
+In view of the above, it has to be held that a revision under
+Section  115
+, C.P.C. will lie against the above order and with great respect, the dictum
+laid down in
+K.S.E.B. v. Thampi, (1988) 2 Ker LT 941 : (AIR 1989 Ker 171) cannot be accepted.
+37.
+In K.S.E.B. v. Thampi, (1988) 2 Ker
+LT 941 : (AIR 1989 Ker 171), in coming to
+the conclusion that a revision will not lie
+under Section  115 against an order of the District
+Judge under
+Section  16(5)
+of the Telegraph Act,
+the learned Judge noticed that there is a
+conflict between the decision in
+Aundal
+
+Animal
+'s case, AIR 1987 SC 203 and the later decision in
+Shyamaraju
+'s case, AIR 1987 SC 2323.
+The learned Judge chose to accept the dictum in
+Aundal Animal
+'s case on the reasoning that the opinions expressed by larger Benches of the Supreme Court have to be preferred to those expressed by smaller Benches of the same Court.
+But that difficulty does not arise because both those decisions were later considered by their Lordships of the Supreme Court themselves in M/s.
+Jetha Bai
+'s case, AIR 1988 SC 812. In
+the above decision
+, their Lordships have clearly expressed the reason lor giving different meanings to the word "final" appearing in the analogous enactmenls. The provisions of the
+Telegraph Act
+can be considered on the basis of the dictum
+laid down in
+the later decision wherein their Lordships have clearly laid down the tests to determine the effect of giving finality to an order.
+On the basis of the tests laid down in the above decision and for the reasons mentioned earlier, it is clear that the finality given to an order of the District Court under Section  16(5) of the Telegraph Act does not affect the jurisdiction of the High Court to exercise its revisional power under Section  115, C.P.C.
+38. Great emphasis was laid by counsel for the respondents on the ratio in the decision of the Supreme Court in
+Vishesh Kumar v. Shanti Prasad
+, AIR 1980 SC 892 wherein the Supreme Court dealt with two questions namely, (1) whether an order passed by a District Judge under
+Section  115
+, C.P.C. (the power being given to the District Court also under a Slate amendment) is again revisable by the High Court exercising the very same power under
+Section  115
+, C.P.C., and (2) whether a revisional order passed by a District Court under
+Section  25
+of the Provincial Small Cause Courts Act is liable to be revised under
+Section  115
+, C.P.C. On the first question the Supreme Court held that no revision is maintainable on the ground that the object of the amendment was to bifurcate the jurisdiction underS. 115,
+C.P.C
+. between the High Court and the District Court in specified cases to reduce the number of revision petitions filed in the High Court and that if a revision under
+Section  115
+, C.P.C. is again allowed to be filed in
+
+the High Court, it will defeat the scheme of the amending Act. On the second question their Lordships held that no revision will lie only on the ground that the
+Provincial Small Cause Courts Act
+is a self-contained Code and that
+Section  7
+of the C.P.C. made express provisions barring the application of
+Sections  96
+to
+112
+and
+115
+of the C.P.C. to Courts constituted : under the
+Provincial Small Cause Courts Act
+.
+Section 7
+of the C.P.C. which embodies the general principle against resort to remedies outside the
+Provincial Small Cause Courts Act
+was also relied upon by their Lordships in coming to the conclusion that an order passed under
+Section  25
+of the said Act is not liable to be revised by the High Court under
+Section  115
+, C.P.C. The questions were decided by the Supreme Court on the basis of the provisions contained in the respective enactments. As stated earlier, the provisions of the
+Telegraph Act
+are entirely different from the above enactments and
+the above decision
+has no relevancy in deciding the question which is involved in the present case.
+39. For the above reasons, I agree with Balakrishna Menon, J. that an order passed under
+Section  16
+of the Telegraph Act is one passed by an ordinary civil Court and in the set-up of the
+Telegraph Act
+, it is liable to be revised by the High Court under
+Section  115
+, C.P.C. and that the revisions are maintainable.
+The principle to be followed in determining the compensation payable for the trees cut is succinctly stated in K.S.E. Board v. Marthoma Rubber Co. Ltd., 1981 Ker LT 646 at P. 649 : (AIR 1981 Ker 223 at P. 226) para 6. It is clear thut the owner of the land is not paid the capital value of land but only compensation for the loss of trees. In that view of the matter, if there is any diminution in the value of land by the drawing of an electric line over a property apart from loss of trees, the owner must be compensated for that in the manner indicated by Balakrishna Menon, J. and I agree with the order proposed by him.

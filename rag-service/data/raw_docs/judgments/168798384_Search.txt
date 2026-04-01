@@ -1,0 +1,4550 @@
+Title: Search
+Court: High Court (Appellete Side)
+Date: 2
+
+
+
+
+                        MAT 1239
+Citation: SCC 492. Mr. Mukherjee, argued that if the petitioners are
+Source: https://indiankanoon.org/doc/168798384/
+
+[Cites
+54
+, Cited by
+2
+]
+Calcutta High Court (Appellete Side)
+Dr. Md. Babul Aktar And Others vs Dr. Md. Nazir Hossain And Others on 1 October, 2019
+Author:
+Sambuddha Chakrabarti
+Bench:
+Sambuddha Chakrabarti
+IN THE HIGH COURT AT CALCUTTA
+             CIVIL APPELLATE JURISDICTION
+                     APPELLATE SIDE
+
+Present:
+The Hon'ble Justice Dr. Sambuddha Chakrabarti
+               and
+The Hon'ble Justice Hiranmay Bhattacharyya
+
+                   MAT No. 1222 of 2019
+                             +
+                      CAN 8412 of 2019
+
+              Dr. Md. Babul Aktar and Others
+                            Vs.
+             Dr. Md. Nazir Hossain and Others
+
+                           With
+
+                   MAT No. 1223 of 2019
+                            +
+                    CAN 8411 of 2019
+                            +
+                    CAN 8548 of 2019
+
+             Dr. Madhumita Basu and Others
+                            Vs.
+             Dr. Md. Nazir Hossain and Others
+
+                           With
+
+                    MAT 1224 of 2019
+                           +
+                    CAN 8410 of 2019
+
+           Parthasarathi Bhattacharya and Others
+                             Vs.
+              Dr. Md. Nazir Hossain and Others
+
+                           With
+                                2
+
+
+
+
+                        MAT 1239 of 2019
+                               +
+                        CAN 8489 of 2019
+
+                   Debasis Sil and Others
+                             Vs.
+              Dr. Md. Nazir Hossain and Others
+
+                             With
+
+                        MAT 1245 of 2019
+                               +
+                        CAN 8664 of 2019
+
+              State of West Bengal and Others
+                             Vs.
+              Dr. Md. Nazir Hossain and Others
+
+                             With
+
+                        MAT 1267 of 2019
+                               +
+                        CAN 8981 of 2019
+
+    The Vice Chancellor, West Bengal University of Health
+                    Sciences and Others
+                             Vs.
+              Dr. Md. Nazir Hossain and Others
+
+                             With
+
+                        MAT 1333 of 2019
+
+              Dr. Md. Nazir Hossain and Others
+                             Vs.
+    The Vice Chancellor, West Bengal University of Health
+                    Sciences and Others
+
+
+
+For the appellants in       : Mr. Shakti Nath Mukherjee, Sr. Advocate
+MAT 1222 of 2019 and          Mr. Suman Banejee, Advocate
+                              3
+
+
+
+
+MAT 1223 of 2019            Mr. Samik Sarkar, Advocate
+
+For the appellants in   : Mr. Soumendra Banerjee, Sr. Advocate
+MAT 1224 of 2019          Mr. Suman Banejee, Advocate
+                          Mr. Samik Sarkar, Advocate
+
+For the appellants in   : Mr. Pratik Dhar, Sr. Advocate
+MAT 1239 of 2019          Mr. Kartik Kumar Roy, Advocate
+                          Mr. Samir Haldar, Advocate
+For the appellants in   : Mr. Kishore Dutta, Advocate General
+MAT 1245 of 2019          Ms. Sirsanya Bandopadhyay, Advocate
+                          Ms. Sudeshna Das, Advocate
+                          Mr. Arka Das, Advocate
+
+For the state in        : Mr. Tapan Kumar Mukherjee, Advocate
+MAT 1267 of 2019          Ms. Susmita Chatterjee, Advocate
+
+For the original writ   : Mr. Jayanta Mitra, Sr. Advocate
+petitioners               Mr. Debabrata Sen, Advocate
+                          Mr. A. Dutta, Advocate
+
+For the WBMC            : Mr.    Saibalendu Bhowmick, Advocate
+                          Mr.    Biplab Guha, Advocate
+                          Mr.    Subrata Bhattacharyay, Advocate
+                          Mr.    Rajsekhar Basu, Advocate
+
+For the MCI             : Mr. Indranil Roy, Advocate
+                          Mr. Sunit Kumar Roy, Advocate
+
+For the WBUHS           : Mr. D. N. Maiti, Advocate
+For the state           : Mr. Kishore Datta, Advocate
+                          Mr. Amitesh Banerjee, Advocate
+                          Mr. Sirsanya Bandopadhyay, Advocate
+                          Mr. S. Das Majumdar, Advocate
+                          Mr. Arka Kumar Nag, Advocate
+
+
+                        :
+For the State in            Mr. Tapan Kumar Mukherjee, Advocate
+MAT 1224 of 2019            Ms. Tuli Sinha, Advocate
+                            Mr. Sougata Mitra, Advocate
+                                    4
+
+
+
+
+For the State in                : Mr. Swapan Kumar Dutta, Advocate
+MAT 1223 of 2019                  Mr. Tapas Kumar Mondal, Advocate
+
+For the State in                : Mr. Jahar Lal De, Advocate
+MAT 1222 of 2019                  Ms. Smita Das De, Advocate
+
+For the intervenor              : Mr. Bikash Ranjan Bhattacharyya, Sr.
+applicants                                                           Advocate
+CAN 8548 of 2019                  Mr. Siddhartha Banerjee, Advocate
+in MAT 1222 of 2019               Mr. Firdous Samim, Advocate
+                                  Ms. Gopa Biswas, Advocate
+
+Heard on                        : 04.09.2019,   06.09.2019,   09.09.2019,
+                                  11.09.2019,   12.09.2019,   13.09.2019,
+                                  17.09.2019,   18.09.2019,   19.09.2019,
+                                  20.09.2019,   23.09.2019,   24.09.2019
+Judgement on                    : 01.10.2019
+
+
+
+
+Sambuddha Chakrabarti, J.:
+These appeals are directed against the judgement and order,
+
+dated August 19, 2019 passed by a Learned single judge in WP No.
+
+8990 (W) of 2019 inter alia holding that the State has no authority
+
+to reserve 40% seats for the in-service doctors and 60% seats for
+
+open category doctors which has inter alia been held to be
+
+arbitrary,   unconstitutional    and   unsustainable.   The    separate
+
+reservation list and the list of selected candidates prepared on
+
+April 3, 2019 and April 20, 2019 respectively have been set aside
+
+with consequential directions.
+5
+The writ petitioners, 22 in number, are all medical graduates
+
+who had appeared and succeeded in the entrance examination
+
+through the National Eligibility-cum-Entrance Test, Post Graduate,
+
+2019 (NEET, for short) conducted by the National Board of
+
+Examination at all India level to get themselves admitted to the
+
+post-graduate degree classes.    Half of the total number of seats
+
+have been reserved for all India quota and half has been reserved
+
+for the state quota in terms of the Rules and Regulations of the
+
+Medical Council of India (MCI, for short). The first round of
+
+counselling started on and from March 15, 2019 and the results
+
+were published on March 27, 2019. The second round of
+
+counselling started from April 5, 2019 and the result was
+
+published on April 11, 2019 for the all India quota states in open
+
+category.   The remaining vacancies from the all India quota
+
+reverted back to the state which was to be filled up by the state
+
+quota seats in the open category following the MCI Rules and
+
+Regulations. It has been alleged that the State was trying to fill up
+
+these reverted back seats in the manner of 60% for the open
+
+category and 40% in-service doctors category.
+The petitioners have alleged that the state respondents have
+
+filled up 60% from the open category and 40% for the in-service
+6
+doctors category and in this manner the Government has
+
+conducted the first counselling. Subsequently, the result of the
+
+candidates for the respective faculties were published on April 3,
+
+2019 as is reflected from the seat matrix available.
+Out of the total available 699 seats, for open category
+
+candidates the number of seats was 414 whereas for the in-service
+
+doctors the number was 285 which roughly corresponded to about
+
+40% of the available seats.
+The   West    Bengal     University   of   Health   Services   (the
+
+University, for short) after the first round of counselling filled up
+
+60% seats from the open category and 40% from the in-service
+
+quota. The petitioners alleged that for the publication of two lists
+
+there is no provision in the Post Graduate Medical Education
+
+Regulations, 2000 (the Regulations, for short) as well as the entire
+Medical Council of India Act, 1956
+(the Act, for short). There is no
+
+provision for reserving any seat for the in-service doctors. There is
+
+a provision for awarding 10% incentive marks per year which can
+
+be up to 30% for three years for the in-service candidates who have
+
+served remote or difficult areas and this would be added with the
+
+marks obtained in the NEET examination. It is the case of the
+7
+petitioners that following the Rules and Regulations of the MCI a
+
+common list may be published instead of two separate lists for two
+
+categories of candidates.
+The University has not published any list ascertaining remote
+
+and difficult areas which violates the Regulations, 2000. Further
+
+case of the petitioners is that the common list to be prepared must
+
+contain the percentage of incentives awarded to the respective
+
+candidates and years of service rendered by the respective
+
+candidates along with the place of posting.
+On April 18, 2019 the University issued the revised notice for
+
+the second round of counselling. They also published a list for the
+
+eligible candidates for this which included 1499 candidates in the
+
+open category and 410 in the in-service category.
+The state respondents were trying to fill up the reverted back
+
+seats by in-service candidates along with the open category
+
+candidates which are against the relevant Regulations of the MCI.
+
+The petitioners have questioned the existence of quota for in-
+
+service candidates in terms of the Regulations, 2000.
+8
+The petitioners have inter alia prayed for a writ in the nature
+
+of   mandamus commanding the respondents to quash and set-
+
+aside the list, dated April 3, 2019 of the selected candidates after
+
+the first round of counselling and for a direction to publish a fresh
+
+common list combining open and in-service category candidates
+
+mentioning the remote and difficult areas and years of rendering
+
+services and clubbing the incentives with the marks obtained in
+
+the NEET Examination by following
+Regulation 9
+of the said
+
+Regulations, a writ in the nature of mandamus commanding the
+
+respondents to set aside or quash the notice dated April 18, 2019
+
+and the list of eligible candidates published on April 20, 2019 and
+
+to publish a fresh merit list for the reverted back seats only for the
+
+open category candidates and for other ancillary reliefs.
+On behalf of the State Respondents the Special Secretary,
+
+Medical Education, Department of Health and Family Welfare
+
+affirmed an affidavit-in-opposition. The respondents inter alia
+
+contended that the writ petition should be dismissed as the
+
+Medical Council of India was not made a party. They further
+
+alleged that the beneficiaries of the list dated April 3, 2019 who are
+
+the in-service candidates had not been made parties. For this
+
+ground also the writ petition was liable to be dismissed. The
+9
+petitioners had participated in the counselling process on the basis
+
+of the same proportions in respect of the open category and in-
+
+service category candidates and are, therefore, esotopped to
+
+question the validity of the same after completion of the first
+
+counselling and consequent admission of candidates. The schedule
+
+prescribed by the Medical Council of India is mandatory as
+
+declared by the Supreme Court. The examination being on an all
+
+India basis no special schedule is permissible nor can there be any
+
+alteration in it. After the petitioners had participated in the process
+
+of the first round of counselling on the basis of the same ratio of
+
+reservation they cannot be aggrieved that similar proportion in
+
+respect of two categories cannot be applied for the second or the
+
+mop-up counselling.
+The last date for taking admission in MD/MS courses in
+
+respect of the state counselling was May 18, 2019. The Supreme
+
+Court had directed that the system of mop-up counselling has to
+
+be done before May 31, 2017 and this schedule must be strictly
+
+followed.
+A further point taken by the respondents on the merits of the
+
+writ petition is that the writ petitioners have not challenged the
+10
+memo, dated April 18, 2013.
+Regulation 9(4)
+of the Regulations
+
+mentions "as per applicable laws prevailing in States/Union
+
+Territories". The prevailing practice which was continuing since the
+
+year 2013 might not be interfered with as this might result in
+
+violating the mandatory schedule and consequently these seats of
+
+the state quota might remain vacant.
+The petitioners could not, the answering respondents alleged,
+
+be affected by this reservation as there has not been any reduction
+
+of seats for them. The rules of the game could not be changed in
+
+the midst after the game had started. The total number of seats
+
+available in the State of West Bengal was 1398. Approximately 50%
+
+of them remain for the state quota seats which comes to 699 seats
+
+excluding 37 management quota seats in private collages. The
+
+remaining seats are made for all India quota for which the in-
+
+service candidates cannot apply. Out of the state quota of 699
+
+seats 40% i.e. 285 seats are reserved for in-service candidates
+
+whereas 60% is for open category. For 37 management quota seats
+
+in the private collages candidates in the open category as well as
+
+in-service may apply.
+11
+The respondents have calculated that out of the total number
+
+of seats in West Bengal only 285 seats have been set apart for the
+
+in-service candidates which is about 21.4% of the total seats. The
+
+total number of eligible candidates on the basis of NEET
+
+examination for in-service category is 433. The 40% quota for the
+
+in-service candidates includes the quota made for the Schedule
+
+Caste, Schedule Tribes and Other Backward Classes candidates as
+
+per the state norms. The in-service candidates are restricted to
+
+only state quota whereas the open category candidates are free to
+
+compete against the entire all India pool seats.
+It has been found that the in-service candidates who are
+
+serving in different hospitals of the state and in rural areas will
+
+help   the     state   medical    facilities   across   the   state.   Trainee
+
+Reservation facilities would be applicable to most of the doctors in
+
+the State service in accordance with various services under the
+
+state. The University by a notice dated March 12, 2019 mentioned
+
+that   those     candidates      who   opted    for   in-service   candidates
+
+categories were not allowed to convert into open category/other
+
+service category and vice-versa.
+12
+The state respondents alleged suppression of fact against the
+
+writ petitioners as they had not mentioned that they had
+
+participated in the first counselling. Several writ petitioners have
+
+been allotted seats and three of them have already taken
+
+admission in the respective colleges. Their stand is that the writ
+
+petitioners having participated in the first counselling on the basis
+
+of a certain mechanism cannot seek a separate mechanism for
+
+second round of counselling in the same academic year. Only a
+
+small number of seats have been set apart for the in-service
+
+candidates compared to the large number of seats available for the
+
+open category. There has not been any reduction of seats for them.
+
+Once a particular mechanism has been adopted for the first round
+
+of counselling the same method is required to be continued till the
+
+end to maintain uniformity in the process.
+The list of eligible candidates was published on March 28,
+
+2018 and the writ petition was filed on April 24, 2019. When the
+
+writ petition had been filed admission on the basis of the first
+
+counselling was over and the stage upto exercising choice for the
+
+second counselling had also been completed. Since the modalities
+
+for giving weightage to the in-service candidates could not be
+
+determined the prevailing practice has been validated. The state
+13
+claimed that there has not been any violation of the provisions of
+
+the Regulations or the Act. If the prayers of the petitioners are
+
+allowed it would jeopardise the public health care system in the
+
+whole state and the in-service candidates shall neither get any
+
+weightage nor shall they be getting the benefit of the prevailing
+
+mechanism.
+In view of the Supreme Court Judgment the mechanism
+
+which is to be adopted for rural, remote and district areas will be
+
+available not only to the post-graduate medical courses but also for
+
+all beneficial schemes of the state. But this is required to be done
+
+at the highest level of the state. Till such steps are taken by the
+
+state the admission process cannot be stalled which shall cause
+
+prejudice to the in-service candidates who have been already
+
+rendering their services to the State Government as well as those
+
+candidates who have been admitted at different institutions after
+
+the first counselling.
+The respondents prayed for dismissal of the writ petition.
+
+
+
+      In course of hearing before the Learned single judge on two
+
+applications filed by some of the in-service candidates the
+14
+applicants were added as parties to the writ petition. The Medical
+
+Council of India was also made a party.
+The judgment and order passed by the learned Single Judge
+
+has been assailed in as many as seven appeals of which five have
+
+been filed by different sets of respondents to the writ petition. MAT
+
+1222 of 2019 has been filed upon obtaining the leave of this court.
+
+The writ petitioners have also taken an independent appeal
+
+assailing the direction of the learned single judge to approach the
+
+Supreme Court for extension of time for admission, if advised.
+
+Again, a set of interested candidates have intervened with the leave
+
+of the court during the hearing of the appeals.
+We took up all the appeals together and heard them
+
+analogously.
+Mr. Mukherjee, the learned Senior Counsel appearing for the
+
+appellants in MAT 1222 of 2019, and MAT 1223 of 2019 submitted
+
+that on the day the writ petition was taken up admission to
+
+MD/MS post-graduate medical course was complete. The question
+
+of admission beyond May 31, as provided in
+Regulation 9(10)
+of the
+
+said Regulations did not arise. Relying on the judgement in Rounaq
+15
+International Ltd. Vs. IVR construction Ltd. And others, reported in
+
+(1999) SCC 492. Mr. Mukherjee, argued that if the petitioners are
+
+not entitled to any relief the writ petition should not be entertained
+
+and the court also should not embark upon any adjudication.
+He
+
+has assailed the judgment and order impugned in the appeals
+
+alleging that the learned single judge has almost entirely proceeded
+
+on the basis of the ratio decided in the case of
+State of Uttar
+
+Pradesh Vs. Dinesh Singh Chouhan
+, reported in (2016) 9 SCC 749
+
+which   has   been   delivered   without   considering    the   earlier
+
+constitution bench judgments, viz.
+R. Chitralekha Vs. State of
+
+Mysore
+, AIR 1964 SC 1823,        Kumari Chitra Ghosh Vs. Union of
+
+India, (1969) 2 SCC 228, Modern Dental College & Research Centre
+
+Vs. State of M.P., (2016) 7 SCC 353.
+With reference to Regulations, 2000 Mr. Mukherjee argued
+
+that by the impugned order of reservation the state was trying to
+
+upgrade the standard in their respective medical colleges. Since
+
+the candidates sponsored by the state were not qualified to be
+
+admitted in terms of their respective ranks in the merit list the
+
+state decided to secure their admission by reservation.
+16
+A very major thrust of Mr. Mukherjee's submission is that
+
+what the Medical Council has prescribed is nothing but a
+
+minimum qualification.
+Section 20
+of the Act deals with the
+
+standard of post-graduate medical qualification the purpose of
+
+which is to prescribe a uniform standard for admission to the post-
+
+graduate medical courses. Regulations have been made under
+Section 33
+of the Act.
+Section 33(l)
+also emphasizes the
+
+maintenance of standard and condition for admission to post-
+
+graduate courses. This will be very clear, Mr. Mukherjee submits,
+
+even from the statements and objects of the Act itself. The whole
+
+purpose behind the enactment was to secure a uniform standard
+
+in medical education. Therefore, the state has every right to secure
+
+the standard of education and take a measure to ensure its
+
+upliftment. The decision to reserve 40% of the seats of the state
+
+quota for the in-service candidates is a step towards achieving that
+
+object and that was the concern of Parliament also.
+Article 246
+of the Constitution of India does not deal with the
+
+Regulations to be made by the Council or any statutory body. It
+
+deals with "laws" to be made by Parliament and by the legislatures
+
+of the states. Emphasizing on the word "laws", Mr. Mukherjee
+
+submitted that the Article does not touch the Regulations made
+17
+under
+Section 33
+of the Act as these Regulations are not "laws"
+
+within the meaning of
+Article 246
+of the Constitution. The
+
+Regulations are at best in the nature of bye-laws and do not have
+
+the force of statutory rules.
+Therefore, the right of the state to make laws in respect of the
+
+areas of permissible legislation has not been abridged by the
+
+Regulations 2000. Mr. Mukherjee has referred to Entry 6 of List II
+
+of the 7th Schedule of the Constitution of India. List II is known as
+
+the State List and in respect of the matters appearing thereunder
+
+states have exclusive power to make laws. Entry 6 of List II of the
+
+7th Schedule deals with public health and sanitation; hospitals and
+
+dispensaries.
+The West Bengal Health Services Act, 1990
+is
+
+relatable to this entry in the State List and, therefore, the state has
+
+exclusive power to make legislations or provisions in respect of
+
+such matters falling in this entry.
+In this connection, Mr. Mukherjee referred to entry 66 of the
+
+List I of the 7th Schedule which deals with co-ordination and
+
+determination of standards in institutions for higher education or
+
+research and scientific and technical institutions.
+The Act
+has
+
+originated from this Entry in the 7th Schedule itself. Mr. Mukherjee
+18
+relied on
+Modern Dental College and Research Centre and Others
+
+Vs. The State of Madhya Pradesh and Others
+, reported in (2016) 7
+
+SCC 353. He particularly relied on the judgment delivered by
+
+Hon'ble Justice R. Bhanumati wherein a part of parliamentary
+
+debate has been reproduced. Taking us through the said portion
+
+Mr. Mukherjee stressed upon the importance of maintenance of
+
+standard in medical education. He particularly drew the attention
+
+of the Court to a part of the speech delivered by late Dr. B. R.
+
+Ambedkar while introducing the Act in parliament. Mr. Mukherjee
+
+submitted that the disparity in standards in different states in
+
+medical teaching was sought to be ironed out by introducing a
+
+uniform standard of medical education by enacting the
+Medical
+
+Council of India Act, 1956
+.
+A major part of Mr. Mukherjee's submission is that beyond
+
+the areas of central enactment if any portion is left out the state
+
+has the exclusive authority to legislate. Even if co-ordination and
+
+determination of standards of medical education comes within
+
+Entry 66 of the Union List the State is not without powers to take
+
+further measures for uplifting the standards of medical education
+
+in the State. Entry 6 of the Sate List which deals with public health
+
+and hospitals confers a wide power on the state government to
+19
+make laws on the subjects enumerated in that Entry. In exercise of
+
+the power conferred by inclusion of public health in Entry 6 of the
+
+State List the state government has every right to reserve certain
+
+seats for the in-service doctors which shall take care of upgrading
+
+the standards of the hospitals.
+The concern of the state relating to the health of the public is
+
+public health, Mr. Mukherjee submitted. By way of an example he
+
+mentioned that an individual hospital is concerned with the health
+
+of the patients but the state is concerned with public health.
+
+Therefore, for improving the standard of public health and hospital
+
+administration it is very much within the authority of the state to
+
+make laws or provision of reservation for the in-service doctors.
+Mr. Mukherjee relied on the Note after Rule 3 of West Bengal
+
+Medical Education Service, the West Bengal Health Service and the
+
+West Bengal Public Health-cum-Administrative Service (Placement
+
+of Trainee Reserve) Rules, 2015 and submitted that it confers a
+
+power on the State Government to specify the number of seats in
+
+different post-graduate courses which may be available to the in-
+
+service doctors. By a Regulation made under
+Section 33
+of the Act
+
+the Rules of 2015 cannot be set aside nor can its power be
+20
+abridged. The state made the law is in respect of a matter
+
+enumerated in the State List which has the supremacy over
+
+Regulations 2000.
+Regulation 9
+of the Regulations 2000 deals with the
+
+minimum marks to be obtained by a candidate for admission to a
+
+post-graduate degree course. A candidate in order to be considered
+
+for such admission has to obtain 50% of the total marks and once
+
+such candidate satisfies the criteria he comes within the zone of
+
+consideration for admission. By the impugned action or the state
+
+order that standard has not been compromised and no candidate
+
+has been admitted to a post-graduate degree course who has not
+
+secured the basic minimum marks of 50% which is the cut off
+
+marks fixed by the Medical Council of India. Therefore, the state
+
+was very conscious of not admitting any candidate who has not
+
+secured the minimum marks fixed by the Regulations. No
+
+candidate who has not been included in the merit list has been
+
+sponsored by the state for admission to the post-graduate degree
+
+course.
+In this connection, Mr. Mukherjee has interpreted the words
+
+"from the merit list" as distinct from and not carrying the same
+21
+meaning of the expression "in accordance with the merit list" or "as
+
+per merit list". If the expression in
+Regulation 9
+had been either
+
+any one of them the authority might not have any option to admit
+
+any candidate other than maintaining their respective ranks in the
+
+merit list. Then there would have been a requirement of admitting
+
+students according to the respective merits of candidates in the
+
+merit list. But since the Regulations permit the authority to admit
+
+students "from the list" it leaves a wide area of discretion to the
+
+state to admit any student who has been included in the list. Thus,
+
+the criteria for admission to a post-graduate degree course is
+
+inclusion of one's name in the list and not his respective rank in
+
+the list. Once a candidate's name is included in the list he can be
+
+chosen   for   the   post-graduate    class   without   flouting   the
+
+Regulations.
+Mr. Mukherjee submitted that since the whole purpose
+
+behind the exercise was to promote public health and to upgrade
+
+its standards there is a justification behind the impugned decision
+
+of reservation and there is nothing preventing the state from taking
+
+such a decision if a rational justification for the same exists which
+
+in the present case is ensuring the upliftment of the standard of
+
+medical education and public health. In this connection, Mr.
+22
+Mukherjee relied on the theory of permissibility of reasonable
+
+classification which is available to the state and which in turn
+
+provides the legal basis for the reservation. He relied on the
+
+judgment in the case of
+Pre-PG Medical Sangharsh Committee and
+
+Another Vs. Dr. Bajrang Soni and Others
+, reported in (2001) 8 SCC
+
+694, for a proposition that in-service candidates constitute a
+
+distinct class by themselves. The judgment further observed that
+
+mere theoretical excellence or merit alone is not sufficient indicia
+
+of the qualitative merit of the candidates in the field of actual
+
+practice and application. Relying on
+the said judgment
+he
+
+submitted that what the state has done is not a departure from the
+
+merit list but it made a separate list for the state-sponsored
+
+candidates. It is permissible for the state to fix such a source or
+
+classification of candidates from which selection for admission to
+
+the post-graduate colleges may be made for yet another genuine,
+
+relevant and reasonable cause which has sufficient nexus with the
+
+larger   goal   of   equalization   of   educational   opportunities   to
+
+sufficiently prepare the doctors serving in various hospitals
+
+maintained out of public funds by the government in the absence
+
+of which there will be serious dearth of qualified post-graduate
+
+doctors and experts.
+23
+A very major part of argument of Mr. Mukherjee is that as per
+
+the Regulations all the process of admission must be completed by
+
+May 31 of the relevant year. Therefore, with the expiry of May 31,
+
+2019 the hearing of the writ petition out of which this appeal
+
+arose, could not continue. Following the Regulations no student
+
+now can be admitted to the post-graduate course.
+Relying on an observation made in the case of
+Modern Dental
+
+College and Research Centre and Others
+(Supra) Mr. Mukherjee
+
+submitted that the whole gamut of medical education is not
+
+covered by entry 66 of List I. A considerable portion has been left
+
+untouched in respect of which the state can make legislation. In
+
+spite of the Regulations 2000 the state is not without its power to
+
+make legislation or to pass necessary order reserving certain seats
+
+for in-service candidates.
+ITC Ltd. Vs- Agricultural Produce Market Committee and
+
+Others, reported in (2002) 9 SCC 232 has been relied on to show
+
+how the dispute about the state legislation in respect of an entry in
+
+the Union List was resolved. The Supreme Court observed that a
+
+perusal of List-II shows that whenever a particular entry was
+
+intended to be made subject to an entry in List I and III, it has
+24
+been so stated specifically. Therefore, an interpretation which
+
+tends to have the effect of making a particular entry subject to any
+
+other entry, though not stated in the entry, deserves to be avoided
+
+unless that be the only possible interpretation. The Supreme Court
+
+observed that although Parliament cannot legislate on any of the
+
+entries in the State List it may do so incidentally while essentially
+
+legislating within the entries under the Union List. Conversely,
+
+state legislatures may encroach on the Union List when such an
+
+encroachment is merely ancillary to an exercise of power
+
+intrinsically under the State List. The fact of encroachment does
+
+not affect the vires of the law even as regards the area of
+
+encroachment. This doctrine of pith and substance does not
+
+amount to an extension of the legislative fields. Such incidental
+
+encroachment does not deprive the state legislature in the first
+
+case or Parliament in the second, of their exclusive powers under
+
+the entry so encroached upon.
+Mr. Mukherjee relied on Association of Natural Gas and
+
+others -vs- Union of India and Ors., reported in (2004) 4 SCC 489
+
+where it has been held that entries in the three lists are themselves
+
+not powers of legislation, but fields of legislation. However, an
+
+entry in one list cannot be so interpreted as to make it cancel or
+25
+obliterate another entry or make another entry meaningless. The
+
+Supreme Court observed that in case of apparent conflict it is the
+
+duty of the court to iron out the crease and to avoid conflict by
+
+reconciling the conflict. The Privy Council in
+Prafulla Kumar
+
+Mukherjee Vs. Bank of Commerce Limited
+(AIR 1947 P.C. 60)
+
+referred to an observation of the Federal Court in another case that
+
+it must inevitably happen from time to time that legislation though
+
+purporting to deal with the subject in one list touches also on a
+
+subject in another list and the different provisions of the
+
+enactment may be so closely intertwined that blind adherence to a
+
+strictly verbal interpretation would result in a large number of
+
+statutes being declared invalid because the legislature enacting
+
+them may appear to have legislated in a forbidden sphere. Hence
+
+the rule of pith and substance has been evolved to determine
+
+whether it is legislation with respect to matters in this list or in
+
+not.
+In Professor Yashpal and another Vs. State of Chattisgarah
+
+and others, reported in (2005) 5 SCC 420, a judgment relied on by
+
+Mr. Mukherjee, the Supreme Court observed that the consistent
+
+and the settled view of the Supreme Court was that in spite of
+
+incorporation of universities as a legislative head being in the State
+26
+List the whole gamut of the University education which will include
+
+teaching,    quality   of    education,       curriculum,    standard    of
+
+examination, evaluation and research activity will not come within
+
+the purview of the state legislature on account of a specific entry
+
+on co-ordination and determination of standards in institutions for
+
+higher   education     or   research    and    scientific   and   technical
+
+education being in the Union List for which Parliament alone is
+
+competent.
+Mr. Dhar, the learned senior counsel for the appellants in
+
+MAT 1239 of 2019, submitted that they were added as respondents
+
+to the writ petition before the learned single judge on an
+
+application filed by them. They represented a large section of the
+
+sponsored in-service doctors who are aggrieved by the impugned
+
+judgment and order for which they have filed the appeal.
+Mr. Dhar submitted that the writ petitioners were well aware
+
+of the separate channels of entry into the Post-Graduate medical
+
+courses and had participated in the counselling with a stipulation
+
+that it could not be changed subsequently. Many of them were
+
+even admitted to the Post-Graduate courses in different disciplines
+
+which they have not disclosed in their writ petition. He has also
+27
+taken the point of delay in approaching the court which was done
+
+after the first counselling had been completed. He relied on
+
+Chandigarah Administration and Another vs.- Jasmine Kaur and
+
+others, reported in (2014) 10 SCC 521 where the requirement for a
+
+prompt challenge to an action has been emphasised by the
+
+Supreme Court. It has been observed that no relief can be granted
+
+in favour of a party who being aware of the criteria of the
+
+prospectus does not make any challenge promptly. Relying on this
+
+principle Mr. Dhar submitted that the conduct of the writ
+
+petitioners disentitles them to an equitable relief which is
+
+prejudicial to the interest of others.
+On this point Mr. Dhar relied on three more judgments.
+In
+
+Om prakash
+Sukla Vs. Akhilesh Kumar Sukla and Others.
+, reported
+
+in (1986) (Supp) SCC 285 the Supreme Court observed that where
+
+the petitioner appeared at the examination without protest and
+
+then he found that he would not succeed in the examination he
+
+filed a writ petition challenging the said examination the High
+
+Court should not have granted any relief to such a petitioner. In
+
+Madan Lal and Others. Vs. The State of Jammu and Kashmir and
+
+Others., reported in    (1995) 3 SCC 486 it has been held by the
+
+Supreme Court that if a candidate takes a calculated chance and
+28
+appears at the interview only because the result of the interview
+
+has not been palatable to him he cannot turn around and
+
+subsequently contend that the process of interview was unfair or
+
+the selection committee was not properly constituted. To the same
+
+effect is the ratio in the case of Ranjan Kumar and Others. Vs.-
+
+State of Bihar and Others. , reported in (2014) 16 SCC 187. Mr.
+
+Dhar further relied on Union of India and Others. Vs. C. Girija and
+
+Others, reported in (2019) SCC Online 187 where also the Supreme
+
+Court observed that the applicant having participated in the
+
+selection for promotion after being aware of a certain quota it was
+
+not open for her to challenge the same after taking a chance to get
+
+selected.
+Mr. Dhar also alleged deliberate suppression of the fact of
+
+admission of many of the writ petitioners to various post-graduate
+
+degree courses in the writ petition. The submission is that since
+
+they have not come in clean hands they cannot ask for an
+
+equitable relief.
+The next point of attack is the non-joinder of the in-service
+
+sponsored candidates to the writ petition. Mr. Dhar has made a
+
+grievance that when an application for addition to a party was
+29
+made the learned single judge did not allow it nor a copy of the writ
+
+petition was served upon them. Hearing continued and no
+
+opportunity to file an affidavit was granted to them. It was only
+
+when the judgment was delivered that these appellants came to
+
+know that they were made parties by an order, dated June 19,
+
+2019. Mr. Dhar relied on the case of
+Sadananda Halo and Ors. Vs.
+
+Mamtaz Ali Sk.
+, reported in (2008) 4 SCC 619 where a few selected
+
+candidates approached the High court, but they were not even
+
+supplied with pleadings or the copies of the petitions in time. The
+
+Supreme Court observed that this amounted to denial of
+
+appropriate opportunity to the selected candidates.
+In the case of
+Poonam Vs. State of Uttar Pradesh and Others.
+, reported in (2016) 2
+
+SCC 779 the Supreme court emphasised the requirement of
+
+impleading the successful candidates as parties to the proceeding.
+Mr. Dhar criticised the observations of the learned Single
+
+Judge that the writ petitioners had approached the court
+
+immediately after participating in the first counselling as factually
+
+incorrect. He has submitted that from the course of events and
+
+from the conduct of the writ petitioners it can never be said that
+
+they had immediately after detection of reservation for the in-
+
+service candidates had approached the court. The writ petitioners
+30
+knew that they were eligible to participate in the process of
+
+selection in 414 seats as against 699 open category seats which
+
+was in addition to the entire all India pool of 12,000 seats. The
+
+petitioners want to improve their disciplines than where they have
+
+been admitted. In case the order impugned is not interfered with,
+
+the appellants in MAT 1239 of 2019 would lose their entire
+
+admission which is an academic year.
+The Regulations, 2000 contain specific stipulations in
+Regulation 9(10)
+and
+9(11)
+fixing the cut off date for admission to
+
+the post-graduate courses on May 31 and provides for penal
+
+consequences for admitting students in contravention of the
+
+criteria or procedure of the Regulations or in violation of the
+
+judgements passed by the Supreme Court in respect of the
+
+admissions. Mr. Dhar submits that the time schedule so fixed
+
+must be strictly adhered to. In this connection he has relied on
+
+Education Promotion Society for
+India and Another vs. Union of India
+
+and Others.
+, reported in (2019) 7 SCC 38 where the Supreme Court
+
+observed that there are three rounds of counselling the last of
+
+which is to be completed by May 31, 2019 and if some seats
+
+remained vacant even after the mop-up round it could not be
+31
+helped. Extension could not be granted just because some seats
+
+were lying vacant without there being any other justification.
+Mr. Dhar justified the concept of reservation with reference to
+
+the judgment in the case of Union of India and Others. Vs. Satya
+
+Prakash and Others., reported in (2006) 4 SCC 550. According to
+
+him even if the word "reservation" has been used in this case, what
+
+the state has really done is to earmark certain seats or opening a
+
+separate channel for the in-service doctors at the cost of not being
+
+able to participate either in the all India pool or the open category
+
+seats of the state quota. In spite of there being two separate
+
+channels it is not a reservation in the sense the word is understood
+
+in case of reservation for SC, ST and OBC candidates.
+The learned Advocate General appearing for the state
+
+appellants in MAT 1245 of 2019 has also assailed the impugned
+
+judgment and order on various grounds. He submitted that the
+
+schedule for admission to medical courses fixed by the Supreme
+
+Court cannot be extended by the High Court. The learned single
+
+Judge, therefore, has given liberty to the parties to seek extension
+
+of time for getting admission including counselling directly from
+
+the Supreme Court, if so advised. From this, the learned Advocate
+32
+General submitted, it is clear that the learned single judge was
+
+conscious that she had no jurisdiction to entertain the writ
+
+petition. Relying on the case of Hiralal Patni Vs. Sri Kalinath,
+
+reported in AIR 1962 SC 199, he submitted that the competence of
+
+a court to try a case goes to the very root of the jurisdiction and
+
+where it is lacking it is a case of lack of inherent jurisdiction.
+The learned Advocate General further relied on the case of
+
+Official Trustee, West Bengal and Others Vs. Sachindranath
+
+Chatterjee and Others, reported in AIR 1963 SC 883 for
+
+ascertaining the true meaning of the word 'jurisdiction'. The
+
+Supreme Court approvingly quoted a full-bench judgment of the
+
+Calcutta High Court where it has been observed that jurisdiction
+
+means: a) the power to hear, determine and pronounce judgment
+
+on the issues before the court, b) the authority which is conferred
+
+upon a court by the legislature to hear and determine causes
+
+between the parties and to carry the judgments into effect, and c)
+
+the power to enquire into the facts to apply the law to pronounce
+
+the judgment and to carry it into execution. The judgment further
+
+recorded that a judgment pronounced by a court without
+
+jurisdiction is void, subject to the well-known exception that when
+
+the jurisdiction of a court is challenged the court is competent to
+33
+determine the question of jurisdiction though the result of the
+
+enquiry may be that it has no jurisdiction to deal with the matter
+
+brought before it.
+Based on these two judgments, the learned Advocate General
+
+submitted that unless the court has power to execute its order it
+
+lacks jurisdiction in entertaining and deciding a lis and in the
+
+absence of jurisdiction, judgments passed are rendered void.
+As taken in the affidavit-in-opposition filed by the state
+
+respondents to the writ petition, the learned Advocate General also
+
+submitted that the case of the petitioners is based on a Memo,
+
+dated April 18, 2013 which has not been challenged in the writ
+
+petition. Relying on the judgment in the case of
+Uma Sankar Das
+
+Vs. State of West Bengal
+, reported in 1974 Lab.I.C. 514, he
+
+submitted that a document, even if a nullity, has to be challenged
+
+in a proceeding.
+The action taken by the state in preparing two merit lists is
+
+the consequence of the memo, dated April 18, 2013. The writ
+
+petitioners have challenged the consequential orders but not the
+
+basic order from which the consequences follow. This is not
+34
+permissible as this is a corollary to
+Section 34
+of the Specific Relief
+
+Act. The judgment in the case of
+Amarjeet Singh and Others Vs.
+
+Debi Ratan and Others
+, reported in (2010) 1 SCC 417 was relied on
+
+before the learned single Judge for a proposition that challenging
+
+the consequential order without challenging the basic order is not
+
+permissible. The learned Advocate General made a grievance the
+
+learned single Judge did not decide the issue while allowing the
+
+writ petition.
+The learned Advocate General has emphasized that the
+
+Memo, dated April 18, 2013 has recorded that reservation has
+
+remained in place.
+Regulation 9(4)
+categorically provides for
+
+reservation for respective categories which shall be as per the
+
+applicable laws prevailing in the state or union territories.
+
+Therefore, it recognizes and saves reservations which were in force
+
+on the date of coming into effect of the Regulations. Reservation for
+
+the in-service candidates falls in the category of horizontal
+
+reservation which has been recognized by
+Regulation 9(4)
+.
+
+According to the learned Advocate General the contention that
+
+reservation for in-service candidates would result in compromising
+
+on the merits is negated by
+Regulation 9(7)
+itself. That apart, the
+35
+select list of the candidates sponsored by the state is based on the
+
+merits of the reserved category candidates also.
+The learned Advocate General has also criticized the
+
+impugned judgment as not one within the meaning of
+Section 2(9)
+read with Order 20 Rule 4(2)
+of the Code of Civil Procedure
+. He
+
+alleges that the judgment does not contain any reason in support
+
+of the conclusions reached by the learned single Judge.
+The learned Advocate General also relied on the case of
+
+Education Promotion Society for
+India and Another Vs. Union of
+
+India and Others
+, reported in (2019) 7 SCC 38, to which reference
+
+has already been made while recording the submissions of Mr.
+
+Dhar. In that case the Supreme Court observed that if extension is
+
+granted the same would lead to opening a Pandora's Box and the
+
+whole purpose for fixing a time schedule would be defeated.
+The learned Advocate General also relied on the case of
+Prof.
+
+Yashpal Vs. Chhattisgarh
+, reported in (2005) 5 SCC 420, where the
+
+words "subject to" as occurring in entry 25 of List III has been
+
+interpreted to mean the excluded matters. The persistent stand of
+36
+the state is that neither the Act nor the Regulations debars it from
+
+making any reservation for the in-service candidates.
+Mr. Roy, the learned Advocate appearing for the Medical
+
+Council of India, submitted that
+Regulation 9
+of the Regulations is
+
+a complete code by itself and has to be read as a whole. Relying on
+Sudhir N. Vs. State of Kerala
+, reported in (2015) 6 SCC 685, he
+
+submitted that the admission process must strictly adhere to the
+
+norms stipulated therein. The state has no authority in the matter
+
+of determining the method of admission where the central
+
+legislation and Regulations must prevail. Reservation mentioned in
+Regulation 9(4)
+should be as per the Constitutional scheme for the
+
+SC/ST and OBC candidates and not for the in-service candidates.
+
+Responding to the submission of Mr. Mukherjee he has submitted
+
+that the word "from the merit list" occurring in
+Regulation 9(4)
+should be interpreted as "as per the merit list". However, his
+
+specific stand is that all admissions must be completed by May 31
+
+of the concerned year and, therefore, no admission may be made
+
+beyond that date.
+A further limb of Mr. Roy's submission is that except the writ
+
+petitioners no other open category candidates are before the court.
+37
+Interference with the state action may have the effect of setting
+
+aside admission of the open category candidates also. Mr. Roy was
+
+willing to admit that the hospitals run by the state are covered by
+
+Entry 6 of List II of the 7th Schedule, but medical education is not.
+
+There is no provision in the Act regarding reservation of seats for
+
+the members of the State Health Service to post-graduate medical
+
+courses. He has gone that far to submit that the Trainee Reserve
+
+Rules in so far as they relate to reservation is ultra vires the Act.
+Regulation 9
+does not put any embargo upon the service
+
+doctors to compete for all India quota. The restriction has been put
+
+by the state government in the service condition of the in-service
+
+doctors. However, Mr. Roy submits that in case any fresh
+
+admission is to be ordered by the court, the students may not be
+
+able to maintain their requirement of mandatory attendance as
+
+classes have long started.
+The University has also filed an appeal being MAT No. 1267
+
+of 2019. The stand and submission of Mr. Roy, the learned
+
+Advocate for the University, is almost the same as that of the state
+
+appellants. He has also mentioned that the reservation policy
+
+which has been continuing since the inception of the University,
+38
+has not been challenged by the writ petitioners. However, he
+
+submits that about 140 seats are still lying vacant which the
+
+University could not fill up within the cut-off date i.e. May 31,
+
+2019. He, however, would like to absolve the University of any fault
+
+as the state's specific reservation policy for the in-service doctors
+
+has been followed by it for allotment of state quota seats.
+With reference to the impugned judgment and order, Mr. Roy
+
+has disclosed the real reasons for filing the appeal by the
+
+University. He submits that it is impossible for them to prepare
+
+and publish a common merit list without the assistance of the
+
+state authorities as the University does not have any access to the
+
+service record of the in-service candidates nor does it have the list
+
+of rural and difficult areas. The Registrar-in-Charge of the
+
+University by a communication, dated August 27, 2019 requested
+
+the Director of Health Service to supply the incentive marks to be
+
+provided to the in-service candidates, but it has not been replied
+
+to. In the absence of the particulars of the incentive marks to be
+
+provided, it became practically impossible for the University to
+
+carry out or comply with the court's order. He relied on a judgment
+
+in the case of
+Rajan Purohit and Others Vs. Rajasthan University of
+
+Health Science and Others
+, reported in (2012) 10 SCC 770 and
+39
+submitted that the students cannot be blamed for the irregular
+
+admissions made by the colleges. In that case, the Supreme Court
+
+allowed the admitted students to continue the MBBS course in
+
+exercise of the power under
+Article 142
+of the Constitution of India.
+Mr. Roy's further submission is that in case the impugned
+
+judgment is not set aside, the candidates who have already taken
+
+admission during counselling, should not be disturbed or affected.
+
+Since the classes have already started, the requisite attendance in
+
+terms of the MCI norms cannot be maintained. Any direction for
+
+fresh counselling would amount to travelling beyond the schedule
+
+provided for counselling in the Regulations since the schedule for
+
+the next year's examination has already been issued. If the
+
+counselling is conducted afresh and the classes commence, it
+
+would be very difficult for the colleges to conduct the classes for
+
+two parallel sessions.
+Being aggrieved by the direction of the learned single Judge
+
+upon the parties to seek extension of time from the Supreme
+
+Court, if so advised, the writ petitioners have also filed an appeal
+
+being MAT 1333 of 2019. But for this direction, they have defended
+40
+the judgment of the learned single Judge in all the appeals filed by
+
+various authorities and persons.
+We have extensively heard the learned Advocates for the
+
+respective parties in all these appeals. The bone of contention in all
+
+of them appears to be whether the state can pass an order
+
+reserving seats for the in-service doctors in derogation of the
+
+Regulations. The writ petitioners claimed that the procedure for
+
+selection of candidates for the post-graduate courses have been
+
+contained in
+Regulation 9
+of the Regulations. A very detailed
+
+procedure step by step and stage by stage has been provided in
+Regulation 9
+. According to them, an order of reservation flouts
+Regulation 9(4)
+which inter alia provides for reservation of seats in
+
+medical colleges/institutions for respective categories as per the
+
+applicable laws prevailing in states/union territories. An all India
+
+merit list as well as a state-wise merit list of the eligible candidates
+
+shall have to be prepared on the basis of the marks obtained in the
+
+NEET and the candidates shall be admitted to the post-graduate
+
+courses from the said merit lists only.
+Regulation 9(4)
+has a proviso which says that in determining
+
+the   merit    of   the   candidates      who   are   in   service    of
+41
+government/public authority weightage in the marks will be given
+
+by the government/competent authority as an incentive upto 10%
+
+of the marks obtained for each year of service in remote and/or
+
+difficult areas or rural areas upto maximum of 30% of the marks
+
+obtained in the NEET. The remote and/or difficult areas or rural
+
+areas shall be as notified by the state government/competent
+
+authority from time to time.
+Based on this provision the writ petitioners have argued that
+
+admission to post-graduate courses shall be only from the all India
+
+merit list or the state-wise merit list. There is no scope for
+
+admitting any candidate to the post-graduate degree course
+
+through any method or any channel other than that mentioned in
+Regulation 9(4)
+and the state government by reserving 40% of the
+
+seats of the state quota from the in-service candidates has not only
+
+violated the mandatory requirement of
+Regulation 9(4)
+but also
+
+acted arbitrarily and in violation of
+Article 14
+of the Constitution of
+
+India.
+We have already noted how Mr. Mukherjee sought to justify
+
+the impugned state decision of reservation for the in-service
+42
+candidates. He finds a laudable purpose behind the decision, i.e.
+
+uplifting the standard of the post-graduate medical qualification.
+Such submission in all fitness of things could have been
+
+made by the state appellants who were in the best situation to
+
+apprise the court why the order for reservation had been issued by
+
+them. A group of sponsored candidates who have been admitted to
+
+the post graduate courses availing themselves of the reservation,
+
+were not supposed to be in the know of the reasons and purpose
+
+behind the policy of reservation.
+We had directed the state to produce the records in
+
+connection with the Memo, dated April 18, 2013 reserving 40% of
+
+the state quota seats for the in-service doctors. It appears from the
+
+records, as produced before us, that the Controller of the
+
+Examinations of the University had asked the Joint Secretary,
+
+Ministry of Health and Family Welfare to pass an order of
+
+reservation so that the booklet for the ensuing examination for that
+
+year could contain the relevant provision for reservation. In
+
+response to the same, some officials of the state in a note
+
+expressed the requirement of a reservation for the in-service
+
+candidates for admission to the post-graduate courses. The reason
+43
+mentioned in the said note was the dearth of qualified post-
+
+graduate doctors in the state hospitals. Thus, upliftment of
+
+standards as the raison d'etre for issuing an order of reservation
+
+does neither appear from the order itself nor from the records
+
+leading to the order providing for reservation.
+That apart, Mr. Mukherjee himself having admitted that but
+
+for this reservation most of the in-service doctors might not have
+
+found a berth in the post-graduate courses as they had secured
+
+lower ranks in the merit list, it cannot be argued that by making
+
+provisions for admission for those candidates the state was really
+
+trying to upgrade the standard of post-graduate medical education.
+
+It is not understood how by taking candidates securing lower
+
+marks the standard of education could either be maintained or
+
+uplifted. If merit is the first criteria for judging the suitability of a
+
+candidate for a higher medical degree, by admitting students of
+
+lower ranks standard could not be expected to ungraded. In fact, it
+
+is bound to lead to just the reserve end.
+Mr. Mukherjee tried to justify the authority of the state to
+
+make provision for the in-service doctors with reference to Entry
+
+25 of List III and Entry 6 of List II of the 7th Schedule of the
+44
+Constitution of India. Entry 25 of List III deals with the subjects of
+
+education, including technical education, medical education and
+
+universities subject to the provisions of Entries 63, 64, 65 and 66
+
+of List I, vocational and technical training of labour. What is to be
+
+noted is that Entry 25 does not mention "co-ordination and
+
+determination    of   standards"    which    have   been   specifically
+
+mentioned in Entry 66 of List I and the laws to be made under
+
+Entry 25 are subject to the provisions of Entry 66 of that List. It is
+
+a settled principle of law, as mentioned in
+Osmania University
+
+Teachers' Association Vs. State of Andhra Pradesh and Another
+,
+
+reported in AIR 1987 SC 2034 that any Act made by the state
+
+legislature under Entry 25 of List III shall be invalid if parliament
+
+has passed a law on the same subject in exercise of the powers
+
+conferred by the Entry 63 to 66 of List I.
+
+
+
+     There cannot be any doubt that the
+MCI Act
+was passed in
+
+exercise of the powers conferred under Entry 66 of List I. For
+
+laying down the standard of education in institutions mentioned in
+
+Entry 66 of List I parliament has the exclusive authority to make
+
+laws. State does not have any authority to decide or determine the
+
+standard of education in such institutions, particularly, once
+
+parliament has made a legislation in the specific field.
+In
+Gujarat
+45
+University and Another Vs. Shri Krishna Ranganath Mudholkar and
+
+Others
+, reported in AIR 1963 SC 703, the Supreme Court observed
+
+that items 63 to 66 of List I are carved out of the subject of
+
+education and in respect of these items the powers to legislate is
+
+vested exclusively in parliament.
+Use of the expression "subject to"
+clearly indicates that legislation in respect of excluded matters
+
+cannot be undertaken by the state legislatures. If a subject of
+
+legislation is covered by items 63 to 66 even if it falls within the
+
+larger field of education including Universities, power to legislate
+
+on that subject must lie with parliament.
+In
+Ajay Kumar Vs. State
+
+of Bihar
+, reported in (1994) 4 SCC 401, it has been reiterated by
+
+Supreme Court that by virtue of entry 66 of the List I which
+
+overrides entry 25 of List III the states are denuded of all and every
+
+power to determine and co-ordinate the standards of higher
+
+education which must necessarily take in regulating admission to
+
+these courses.
+Thus, the repeated emphasis that the state action of
+
+reservation is aimed at improving the standard of medical
+
+education, apart from being not borne by the records, is clearly
+
+beyond the competence of the state legislature. Again in
+Preeti
+
+Srivastava Vs. State of M.P
+, reported in (1999) 7 SCC 120, the
+46
+Supreme Court observed that the state cannot make rules of
+
+regulations under this entry in conflict with the rules and
+
+regulations made under entry 66 of List I.
+
+
+
+     Since entry 6 of List II inter alia mentions hospitals and
+
+public health, Mr. Mukherjee made elaborate submission that that
+
+entry confers right upon the state to take appropriate measures for
+
+uplifting the standard of medical education. One thing, however,
+
+cannot but be noted that Entry 6 of List II does not deal with the
+
+medical education, far less standard of such education. The fields
+
+of making laws covered by this entry are public health and
+
+sanitation; hospitals and dispensaries.
+The field of legislation covered under Entry 6 of List II has
+
+nothing to do with and is completely different from medical
+
+education.   Hospitals   and   public     health   are   very   different
+
+conceptually and factually from medical education or maintenance
+
+of its standards. By the exercise of the power to make laws for
+
+hospitals or public health or sanitation or dispensaries a state is
+
+plainly not competent to make laws for "co-ordination and
+
+determination of standards" of medical education. Running
+
+hospitals and setting standard for medical education are two
+47
+different exercises. Equally it is difficult to accept that public
+
+health is equal to the health of the public. Public health has a very
+
+definite connotation signifying something very different from what
+
+the word 'health' conjures up. In any case, none of the items
+
+mentioned in Entry 6 of List II covers medical education in any
+
+way.
+It appears and such is the grievance of all appellants, except
+
+the writ petitioners, that the learned single Judge has passed the
+
+order impugned largely relying on the judgment in the case of
+State
+
+of Uttar Pradesh and Others Vs. Dinesh Singh Chouhan (Supra
+). In
+
+that case a three-judge bench of the Supreme Court has inter alia
+
+held that
+Regulation 9
+recognizes the principle of giving weightage
+
+to in-service candidates while determining their merits. That is a
+
+rational    legitimate    basis   to    encourage     the    medical
+
+graduates/doctors to offer their service and expertise in remote or
+
+difficult areas of the state for some time. However, the Supreme
+
+Court specifically observed that
+Regulation 9
+of the Regulations
+
+does not permit preparation of two merit lists. It prescribes the
+
+basis for determining the eligibilities of the candidates including
+
+the method to be adopted for determining the inter se merit on the
+
+basis of one merit list of the candidate appearing in the same
+48
+NEET including by giving commensurate weightage of marks to the
+
+in-service candidates. Proviso to
+Regulation 9(4)
+prescribes the
+
+measure for giving incentive marks to in-service candidates who
+
+have worked in notified remote and difficult areas in that state.
+
+The Supreme Court described this as a qualitative factor for
+
+determining their merits.
+The Supreme Court observed that it is well-settled that
+Regulation 9
+is a self-contained code regarding the procedure to be
+
+followed for admission to the medical courses. It is also well-
+
+established that the state has no authority to enact any law, much
+
+less by executive instructions, that may undermine the procedure
+
+for admission to post graduate medical courses enunciated by the
+
+central legislation and Regulations framed thereunder being a
+
+subject falling within Entry 66 of List 1 of the 7th Schedule of the
+
+Constitution of India. The procedure for selection of candidates for
+
+the post graduate degree courses is one such area on which the
+
+Central Legislation and Regulation must prevail. It has been
+
+observed that
+Regulation 9
+is a composite provision prescribing
+
+procedure for selection of candidates for both the post-graduate
+
+degree and diploma courses. Interpreting
+Regulation 9(4)
+the
+
+Supreme Court observed that it is a provision mandating
+49
+admission of candidates strictly as per the merit list of eligible
+
+candidates for the respective medical courses in the state. The
+
+proviso to
+Regulation 9(4)
+provides for an incentive at the rate of
+
+10% of marks for each year of service in specified remote or
+
+difficult area of the state upto the maximum of 30% of the marks
+
+obtained in NEET. It is amply clear that it does not envisage
+
+reservation for in-service candidates in respect of the post-
+
+graduate degree courses.
+It has been specifically held in the abovementioned case that
+
+the central enactment and the Regulations framed thereunder do
+
+not provide for reservation for in-service candidates in respect of
+
+post-graduate degree courses. Negating the contention that as
+
+there was no express provision prohibiting reservation to in-service
+
+candidates in respect of admission to post-graduate degree courses
+
+such reservation by the state government is not impermissible in
+
+law the Supreme Court held that the argument did not commend
+
+to Their Lordships. There is nothing in these Regulations to even
+
+remotely indicate that a separate channel for admission to in-
+
+service candidates must be provided at least in respect of post
+
+graduate degree courses. The Supreme Court draws the distinction
+
+between the degree and diploma courses. For diploma courses 50%
+50
+of the seats are earmarked for in-service candidates. If the
+
+Regulation intended a similar separate channel for in-service
+
+candidates even for the post-graduate degree courses that position
+
+would have been made clear in
+Regulation 9
+itself. In the absence
+
+thereof it must be presumed that a separate channel for in-service
+
+candidates is not permissible for admission to post-graduate
+
+degree courses. The state government has no authority to issue a
+
+government order to the contrary.
+There has been a persistent effort by the learned advocates
+
+for all the appellants, except Mr. Mitra, the learned Senior counsel
+
+for   the   writ   petitioners/   appellants,   to   establish   that   the
+
+observations and findings in
+State of Uttar Pradesh and Others
+(supra) cannot be said to have reached any finality as this
+
+judgment has been referred to the larger bench for not considering
+
+the earlier larger bench judgments. Since this reference is pending,
+
+it has been submitted, this court may not treat the observations
+
+made in
+the said judgment
+as binding.
+Mr. Mukherjee heavily relied on the judgment in the case of
+
+Kumari Chitra Ghosh and Anr. -vs.- Union of India and Ors.,
+
+reported in (1969) 2 SCC 228. The Supreme Court observed that in
+51
+order to pass the test of permissible classification two conditions
+
+must be fulfilled; viz. classification is founded on intelligible
+
+differentia which distinguishes persons or things that are grouped
+
+together from others left out of the group; and that the differentia
+
+must have a rational relation to the object sought to be achieved.
+
+The Supreme Court further observed that the government cannot
+
+be denied the right to decide from what sources the admission will
+
+be made. That essentially is a question of policy and depends inter
+
+alia on and overall assessment and survey of the requirements of
+
+residence of particular territories and other category of persons for
+
+whom it is essential to provide facilities for medical education. If
+
+the sources are properly classified it is not for the courts to
+
+interfere with the matter and the method of making the
+
+classification. The main purpose of admission to a medical collage
+
+is to impart education in the theory and practice of medicine. The
+
+sources from which students have to be drawn are primarily
+
+determined by the authorities who maintain and run the
+
+institution. Since the whole object of the selection for admission is
+
+to secure the best possible material it can be achieved by making
+
+proper rules relating to the matter of selection. With reference to
+
+the facts of that particular case, the Supreme Court has further
+52
+held that the appellants did not have any right to challenge the
+
+nominations made by the central government. They did not
+
+compete for the reserved seats and had no locus standi in the
+
+matter of nomination of such seats.
+Mr. Mukherjee further relied on the judgment in the case of
+
+Modern Dental college and Research centre and Ors. -vs.- State of
+
+Madhya Pradesh and Ors., reported in (2016) 7 SCC 353.               The
+
+Supreme Court has held that Entry 66 in List I is a specific Entry
+
+having a very specific and limited scope. It deals with the co-
+
+ordination and determination of standards in institutions of higher
+
+education   or   research   as   well   as   scientific   and   technical
+
+Institutions. Thus, when it comes to prescribing the standards for
+
+such institutions for higher learning exclusive domain is given to
+
+the Union. However, that did not include the conduct of
+
+examination, or prescribing fee etc. In fact, such co-ordination and
+
+determination of standards, so far as the medical education is
+
+concerned, is achieved by Parliament by legislating in the form of
+Medical Council of India Act
+and by creating the statutory body
+
+like Medical Council of India. The functions that are assigned to
+
+Council include within its sweep determination of standard in a
+
+medical institution as well as co-ordination of standards and that
+53
+of the educational institutions. When it comes to regulating
+
+"education" which includes even medical education as well as
+
+universities that is prescribed in List-III Entry 25 which gives
+
+concurrent powers to both Union of India as well as the states.
+
+When two entries relating to education co-exist they have to be
+
+read harmoniously. It would become manifest that when it comes
+
+to co-ordination and laying down of standards of higher education
+
+or research and scientific and technical Institution power rests
+
+with the Union of India to the exclusion of the state legislatures. In
+
+respect of other facets of education the state legislatures are given
+
+power by virtue of entry 25 of List III. The field covered by List-III,
+
+entry 25 is wide enough and is circumscribed to the limited extent
+
+of its being subject to entries 63,64,65 and 66 of List-I.
+
+
+
+     The Supreme Court in that judgment specifically mentioned
+
+why adoption and setting up of minimum standard of education
+
+was left to Parliament. The objective of prescribing minimum
+
+standards is to provide a bench mark of the calibre and quality of
+
+education as being imparted by various educational institutions in
+
+the whole country. Relating the vast diversity of the nation where
+
+levels of education fluctuated from lack of even basic primary
+
+education to institutions of high excellence it was thought
+54
+desirable to determine and prescribe the basic minimum standard
+
+of education at various levels particularly at the level of research
+
+institutions, higher education and technical education institutions.
+
+As such while balancing the needs of the state to impart education
+
+as per the needs and requirements of local and regional levels it
+
+was essential to lay down a uniform minimum standard for the
+
+nation. That is why the Constitution-makers provided for List-I
+
+entry 66 with the objective of maintaining uniform standards of
+
+education in fields of research, higher education and technical
+
+education.
+Relying on this judgment Mr. Mukherjee argued that no
+
+doubt List-III Entry 25 is subject to List I Entry 66 but it is not
+
+possible to exclude the entire gamut of admissions from List III
+
+entry 25 which, however, is subject to the central law referable to
+
+Entry 25.
+Mr. Mukherjee particularly relied on the portion of the
+
+judgment delivered by Hon'ble Justice R. Bhanumati. It has been
+
+observed by the Hon'ble Judge that entries 65 and 66 of List-I,
+
+giving the Union of India the power to ensure that standards of
+
+research etc. are not lowered at the hands of the particular state or
+55
+states to the extent of national progress, the power of the state
+
+legislature must be so exercised as not to directly encroach upon
+
+the power of the Union of India under entry 66 of List-I.
+
+
+
+     The Hon'ble Judge has further given the legislative history of
+
+entry 66 of List I. A part of the constituent assembly debate in this
+
+connection has been referred to in the judgment. The Hon'ble
+
+Judge observed that while introducing List-I entry 66 Dr. B.R.
+
+Ambedkar proposed nothing more than empowering the Union of
+
+India to set mere standard for higher education and to co-ordinate
+
+between the institutions. He clarified the limited scope of entry 66
+
+of List-I (as in the present form) with reference to the disparities in
+
+standard in certain clases of institutions in the matter of imparting
+
+higher   education.     Since    various   universities   fixed   different
+
+yardsticks for passing an examination it would be quite a chaotic
+
+condition   and    in     such     circumstances     prescribing     mere
+
+qualification with varied standards would be meaningless.
+After recording the concern of the constitution-makers while
+
+introducing entry 66 of List-I, the Hon'ble Judge observed that in
+
+the federal structure of India it is for the Union to co-ordinate
+
+between the states to cause them to work in the field of higher
+56
+education in their respective states. Entry 25 of List III is available
+
+both to the centre and states. But the power of the state is subject
+
+to the provisions of entries 63, 64, 65 and 66 of List-I. While the
+
+state is competent to legislate on the education including medical
+
+education it would be as per the standards set by the Union of
+
+India.
+The Hon'ble Judge specifically observed that the scope of
+
+Entry 66 of List I must be construed as limited to the actual sense
+
+of "determining the standards of higher education" and not laying
+
+down the admission process. The state is not denuded of its power
+
+to legislate in respect of a matter pertaining to the admission
+
+process in universities imparting higher education.
+Reliance by the learned single Judge in the impugned
+
+judgment on
+State of Uttar Pradesh and Others
+(Supra) has been
+
+criticized by the learned Advocate General, Mr. Mukherjee and Mr.
+
+Dhar. According to the learned Advocate General
+,
+the said
+
+judgment
+is inapplicable to the facts of the present case as in
+the
+
+said decision
+there has been no adjudication as to the rights of the
+
+open category candidates vis-à-vis in-service candidates arising out
+
+of reservation for in-service candidates. He also wants to
+57
+distinguish that decision from the facts of the present one with
+
+reference to the date of the government order. In the case of the
+
+reported decision, the government orders under challenge were
+
+issued after the Regulation came into effect whereas reservation in
+
+the   present   case     was   before   the   Regulations   had   been
+
+promulgated. That apart, the specific government orders were
+
+challenged in the reported decision but here the writ petitioners
+
+have not thrown any challenge to the order, dated April 18, 2013.
+The learned Advocate General further submitted that in
+State
+
+of Uttar Pradesh and Others
+, (Supra) an interim order was passed
+
+on May 12, 2016 directing the State Government to revise and
+
+redraw the merit list and grant admission to the suitable
+
+candidates. At the final hearing the State of Uttar Pradesh wanted
+
+to come out of the concession which the Supreme Court did not
+
+approve and in view of that factual position the Supreme Court
+
+rendered its decision.
+Mr. Dutta wants to distinguish the case of
+State of Uttar
+
+Pradesh and Others
+(Supra) on the ground that the question before
+
+the Supreme Court was very different from the one involved in the
+
+present one. The question to be decided by the Supreme Court was
+58
+whether the in-service candidates without rural service could be
+
+equated with in-service candidates having rendered rural service.
+
+But in the present case, there is no issue of comparison of the two
+
+categories of in-service candidates.
+It is true that the decision in the case of
+State of Uttar
+
+Pradesh and Others
+(Supra) has been referred to a larger bench.
+
+This, however, does not mean that the judgment has lost all its
+
+force or the ratio decided therein is no longer binding by reason of
+
+its being referred to larger bench. It has not lost its force as a
+
+precedent. A judgment remains valid and binding till it is reversed
+
+or superseded by a larger bench judgment. Mr. Mukherjee
+
+submitted that the judgment now binds the parties only and not
+
+others. Reference to a larger bench does not rob a judgment of its
+
+precedential value.
+That apart, while considering the interlocutory application
+
+after the reference a five-judge bench of the Supreme Court in
+Tamil Nadu Medical Officers' Association and Others Vs. Union of
+
+India and Others
+, reported in 2018 SCC OnLine SC 432, after
+
+considering the various judgments including Modern Dental College
+
+and Research Centre (Supra) observed that
+State of Uttar Pradesh
+59
+and Others
+(Supra) has construed the amended provisions of
+Regulation 9
+which has been held to be a self-contained code
+
+regarding the procedure to be followed for admissions to medical
+
+courses.
+The full-bench of the Supreme Court recorded the finding
+
+in the case of
+State of Uttar Pradesh and Others
+(Supra) that the
+
+state has no authority to enact any law, much less any executive
+
+instruction, that may undermine the procedure for admission to
+
+post     graduate   medical   courses   enunciated   by   the   central
+
+legislation and Regulations framed thereunder being a subject
+
+falling within Schedule 7, List I Entry 66 of the Constitution of
+
+India.
+Their Lordships of the Supreme Court observed that the view
+
+taken in
+State of Uttar Pradesh and Others
+(Supra) is consistent
+
+with the principles reaffirmed by the Constitution Bench in Modern
+
+Dental College and Research Centre (Supra). The fundamental basis
+
+of the decision is in accord with the principles laid down by the
+
+Constitution Bench.
+About the interpretation put upon
+Regulation 9(4)
+the State
+
+of Uttar Pradesh and Others
+(Supra) held that the reservations
+
+referred to in the opening sentence are obviously constitutional
+60
+reservations for the Scheduled Casts and Scheduled Tribes and the
+
+socially and educationally backward classes of citizens and not
+
+those for in-service candidates. Proviso to
+Regulation 9(4)
+does not
+
+contemplate a reservation for them in post-graduate courses; but
+
+provides for grant of incentive marks.
+After elaborately quoting
+
+from the judgment in the case of
+State of Uttar Pradesh and Others
+(Supra) and after noting that in arriving at the conclusion the court
+
+had taken due note of the decisions of the Constitution Bench in
+
+various cases, the full bench of the Supreme Court observed:
+".....the decision in Denish Singh Chouhan
+
+             holds the field. It is based on a construction of
+Regulation 9(iv)
+which, at least at the present stage,
+
+             cannot be brushed aside. The principle which has
+
+             been adopted in that decision is consistent with the
+
+             primacy which is attributed by the Constitution to
+
+             Entry 66 of List I........... The grant of any interim
+
+             relief at this stage would amount to a mandatory final
+
+             order which cannot be countenanced. MCI has, as an
+
+             expert body, proceeded on a principled basis. Any
+
+             attempt at this stage to read into
+Regulation 9(iv)
+, a
+
+             separate source of entry or a reservation for in-service
+61
+candidates in degree courses would impinge upon
+
+              Entry 66 of List I and the exercise of regulatory
+
+              powers under the central statutes."
+Mr. Dhar tried to avoid the effect of that order by reason of its
+
+being an interim in nature and not a final decision. He relied on a
+
+judgment in the case of
+State of Assam Vs. Barak Upatyaka DU
+
+Karmachari Sanstha
+, reported in (2009) 5 SCC 694, for a
+
+proposition that an interim order which does not finally and
+
+conclusively decide an issue cannot be a precedent. Any reasons
+
+assigned in support of such non-final interim order containing
+
+prima facie findings are only tentative. The judgment further
+
+observes that any interim directions issued on the basis of such
+
+prima facie findings are temporary arrangements to preserve the
+
+status quo till the matter is finally decided, to ensure that the
+
+matter does not become either infructuous or a fait accompli before
+
+the final hearing.
+This judgment hardly applies to the order of the full bench in
+Tamil Nadu Medical Officers' Association and Others
+(Supra).
+While
+62
+considering the nature of interim order the Supreme Court in the
+State of Assam
+(Supra) observed that the interim directions
+
+involved an extraordinary situation of human rights violation
+
+resulting in starvation deaths and suicide by reason of non-
+
+payment of salaries to the employees of a large number of public
+
+sector undertakings for special years.
+The interim orders were passed in
+State of Assam
+(Supra) to
+
+make an interim arrangement to save the matter from being
+
+infructuous. In the present case it cannot be said that the purpose
+
+of the order passed by the full bench on interlocutory application
+
+was to make a temporary arrangement. It is not a case that the
+
+court had allowed in-service doctors to be admitted to post
+
+graduate medical courses purely on a temporary basis by way of
+
+an interim arrangement. On the contrary, a separate source of
+
+entry or reservation for the in-service candidates had been
+
+specifically denied by the Supreme Court even by way of an interim
+
+relief    or   an    interim   arrangement.
+After   such   elaborate
+
+observations,       even   though   passed    in    connection    with   an
+
+interlocutory application, the reasoning given by the full bench of
+
+the Supreme Court for not granting any interim relief cannot only
+
+be not ignored but has to be taken to be the view expressed by the
+63
+full bench of the Supreme Court till the reference is a finally
+
+disposed of.
+A persistent point has been taken by the appellants, except
+
+the writ petitioners/appellants in MAT 1333 of 2019, that the writ
+
+petition should not have been entertained by the learned single
+
+Judge on the ground of delay, acquiescence and suppression of
+
+material facts. The first counselling had taken place at end-March
+
+2019 and the petitioners had filed the writ petition on April 23,
+
+2019. Thus, there has been some delay in seeking the relief after
+
+the first counselling had taken place.
+We have considered the submission and do not find much
+
+merit in it. Mr. Mitra has drawn our attention to the representation
+
+made by the writ petitioners to the Director of Medical Education
+
+as early as on March 5, 2019 raising their protest to the policy of
+
+reservation for the in-service candidates. The petitioners drew his
+
+attention to
+Regulation 9(4)
+which specifically mentions that
+
+reservation of seats in medical colleges/institutions for respective
+
+categories shall be as per the applicable laws prevailing in the
+
+states and the union territories. Requirement of complying with the
+Regulation 9(4)
+was variously emphasized in the representation.
+64
+The petitioners categorically mentioned that apart from awarding
+
+incentive marks to eligible in-service candidates no other source of
+
+entry by way of an en bloc reservation was permissible which had
+
+the effect of violating the Regulations 2000. Even the judgment in
+
+the case of
+State of Uttar Pradesh and Others
+(Supra) and
+Tamil
+
+Nadu Medical Officers' Association and Others
+(Supra) were referred
+
+to. The writ petitioners requested the Director of Medical Education
+
+to conduct the counselling process strictly in compliance with the
+
+legal standards set forth in the Regulations and interpreted by the
+
+Supreme Court so as to benefit all sections of candidates in an
+
+objective and impartial way.
+Since this letter was not replied, the writ petitioners
+
+addressed another letter to the Director of Medical Education on
+
+April 16, 2019 ventilating their grievances and requested him to
+
+take appropriate action.
+Thus, when the petitioners approached the authorities long
+
+before the first counselling it was only expected that the Director of
+
+Medical   Education   being    the     highest   authority   in   medical
+
+education in the state would look into the matter or at least inform
+
+the petitioners of the stand of the government. Despite being made
+65
+aware of the various judgments of the Supreme Court laying down
+
+impermissibility of introducing a separate source of entry into the
+
+post graduate degree courses the state respondents remained
+
+unmoved and proceeded steadfast. If they had taken any positive
+
+action perhaps the entire exercise might not be necessary. The
+
+letter, dated March 5, 2019 was specific and unambiguous about
+
+what the petitioners were asking the respondents to do. After this,
+
+the respondents cannot really come and allege of any delayed
+
+action on the part of the writ petitioners in espousing their right.
+It is true that the petitioners had appeared at the first round
+
+of counselling. That, however, does not operate as an estoppel
+
+against them or disentitles them from challenging the reservation
+
+for the in-service candidates and its consequences.
+As a matter of fact, the petitioners had hardly any option left
+
+than to participate in the first counselling as the first letter, written
+
+sufficiently ahead of the first counselling, went un-responded. If
+
+they had not participated in the first counselling their entire career
+
+might have been jeopardized. Silence from the Director of Medical
+
+Education or the state respondents left them without any
+
+alternative and compelled them to participate in the counselling
+66
+process. But the participation was not a meek acceptance of the
+
+reservation made by the state respondents. Their participation was
+
+definitely with and under protest. The stand of the writ petitioners
+
+was made loud and clear to the respondents as early as on March
+
+5, 2019. If a candidate in an examination process appears either
+
+without prejudice or under protest relief to him cannot be denied
+
+either on the ground of acquiescence or estoppel. That apart, we
+
+are of the considered view that when the constitutionality of a
+
+provision or an order is under challenge the respondents should
+
+not raise the issue of delay unless it affects the merits of the case.
+Mr. Mitra made a grievance that far from sleeping over their
+
+rights the writ petitioners observed that the state had suddenly
+
+started expediting the process. On the very next date after the
+
+second counselling two separate lists were published and such
+
+publication was the immediate cause of action for approaching the
+
+Court.
+Mr. Mitra submitted, and we find sufficient substance in it,
+
+that
+Regulation 9(4)
+does not permit a separate channel of entry
+
+into post graduate medical degree courses. A plain reading of it
+
+makes it clear that candidates to post graduate degree courses are
+67
+to be admitted from either of the two merit lists viz. an all India
+
+merit list or the state-wise merit list. There is no provision for
+
+publishing a third merit list based on reservation for the in-service
+
+candidates. That being so, the order making provision for
+
+reservation of 40% of the seats for in-service candidates is contrary
+
+to the Regulation. This has been amply clarified by the Supreme
+
+Court in
+State of Uttar Pradesh and Others
+(Supra) that the state
+
+has no authority to enact any law that may undermine the
+
+procedure for admission enunciated by the central legislation and
+
+the Regulations framed thereunder. Analyzing various sub-
+
+Regulations of
+Regulation 9
+, the Supreme Court observed that the
+
+reservation referred to in the opening part of
+Regulation 9(4)
+is
+
+obviously with reference to reservation as per the Constitutional
+
+scheme for the SC/ST and OBC candidates and not for the in-
+
+service candidates or medical officers in service.
+This completely answers the issue sought to be raised by the
+
+learned Advocate General that the first sentence of
+Regulation 9(4)
+enables the state to provide for reservation for the in-service
+
+doctors. The effort to distinguish
+State of Uttar Pradesh and Others
+(Supra) from the facts of the present one on the ground that the
+
+reservation
+in that case
+was post-Regulations 2000 and in the
+68
+present case it has been continuing from before has hardly any
+
+material bearing. It is practically a distinction without a difference.
+
+Even if any reservation has been continuing from before the same
+
+had no force of law to continue after promulgation of
+Regulation 9
+.
+
+Any reservation or devising a method of admission or channel of
+
+entry contrary to
+Regulation 9
+, irrespective of whether it was
+
+continuing from before or introduced after the Regulations, is bad
+
+in law to the extent it violates the mandatory and non-relaxable
+
+provision of
+Regulation 9
+. The fact that the reservation was first
+
+introduced in the year 1999, as submitted both by Mr. Mukherjee
+
+and learned Advocate General, did not confer on it either any
+
+elevated status or made it outside the purview of the Regulations
+
+2000. As a matter of fact, if the stands of the respondents to the
+
+writ petition are correct that the practice of reservation has been
+
+continuing from before the promulgation of the Regulations, the
+
+same was required to be considered to have been impliedly set
+
+aside by the Regulations 2000.
+That takes us to the consideration of why at all the state
+
+continued with the reservation for in-service candidates even after
+
+the
+Regulation 9
+was promulgated. A far more pertinent query in
+
+this connection is why at all the state did not strike down on its
+69
+own the provision for reservation after the pronouncement of
+State
+
+of Uttar Pradesh and Others
+(Supra).
+The answer given by the
+
+learned Advocate General that the state continued with it as
+Regulation 9(4)
+contained provision for making reservation is
+
+hardly   a   satisfactory   reply,   particularly,   after   the   specific
+
+clarification made by the Supreme Court in
+State of Uttar Pradesh
+
+and Others
+(Supra) that the reservation stipulated in
+Regulation
+
+9(4)
+is restricted only two constitutional reservations and is not
+
+meant for the in-service doctors.
+Mr. Mukherjee relied on the Note after Rule 3 of the Rules of
+
+2015 referred to earlier. The Note says that the number of seats
+
+available for the different courses run by the University and other
+
+Universities within the state for the officers of the West Bengal
+
+Health Service, West Bengal Medical Education Service and the
+
+West Bengal Public Health-cum-Administrative Service shall be
+
+specified from time to time by the Department of Health and
+
+Family Welfare, Government of West Bengal. Based on this Mr.
+
+Mukherjee submitted that there is a legislative recognition in
+
+favour of making reservation for the in-service candidates for post
+
+graduate courses. Mr. Mukherjee further argued that such
+
+legislation by the state cannot be nullified by a Regulation made
+70
+under the Act. In other words, the Regulations notwithstanding the
+
+state still continues to have the power to reserve seats for the in-
+
+service candidates.
+Mr. Mukherjee relied on Tara Singh and Ors. Vs.- State of
+
+Rajasthan and Ors., reported in (1975) 4 SCC 86 for a proposition
+
+that a 'Note' is provided in the Rules in exercise of legislative power
+
+of the rule making authority. The real purpose of the note is that
+
+when rules are silent the Note will fill up the gaps. With the
+
+reference to the facts of that case the Supreme Court observed that
+
+the Note to Rule 244 of the Rajasthan State service Rules is a part
+
+of the Rules because they are for guidance of the authorities. They
+
+are not inconsistent with the Rules but are intended to fill up the
+
+gaps where the Rules are silent.
+Relying on this judgment Mr. Mukherjee sought to build up
+
+his submissions that therefore the notes under Rule 3 of the
+
+Trainee Reserve Rules should be treated as the part of the Rules
+
+and consequently have a statutory effect
+
+
+
+     In this connection Mr. Mukherjee further relied on a
+
+judgment and order dated September 29, 2011 in Medical Council
+71
+of India -vs.- The State of West Bengal and Ors. reported in (MAT
+
+613 of 2010) where a Division Bench of this Court relied on
+
+Government of AP and Ors. Vs.- P. Lakxmi Devi (Smt.), reported in
+
+(2008) 4 SCC 720. Where the Supreme Court referred to Kelsen's
+
+theory of hierarchy of legal norms. In every country there is a
+
+hierarchy   of   legal   norms,   headed   by   what   he   called   as
+
+"grundnorm", i.e. basic norm. If a legal norm in a higher layer of
+
+this hierarchy conflicts with a legal norm in the lower layer the
+
+former will prevail. The Supreme Court observed that the
+
+Constitution of India is the "grundnorm" for our country. Below it
+
+are the statutory laws made by Parliament or the legislatures of the
+
+state and still below them are delegated legislations which may be
+
+in the form of rules made under the statute, regulations made
+
+under the statute etc. Based on that the Division bench of this
+
+court observed that Regulation belongs to the lowest layer of the
+
+central field of legislation and, therefore, the jurisdiction of the
+
+state government under the
+Bengal Medical Act, 1914
+cannot be
+
+declared to have been overridden by the MCI Regulations.
+
+Therefore, the plea of repugnancy does not arise.
+This argument of the appellants does not appear to be
+
+entirely in conformity with the principle of law
+laid down by
+72
+Supreme Court.
+In
+Medical Council of India vs. State of Karnataka
+
+and Ors.
+, reported in (1998) 6 SCC 131 the legal validity of the
+
+Medical Council Regulations came up for consideration. The
+
+Supreme Court observed that the Act is relatable to Entry 66 of
+
+List I. It prevails over any State enactment to the extent the state
+
+enactment is repugnant to the provision of the Act even though the
+
+state Act may be relatable to Entries 25 or 26 of the List-III. The
+
+Regulations framed under
+Section 33
+of the Medical Council of
+
+India Act, with the previous sanction of the Central Government
+
+are statutory in nature. These Regulations are framed to carry out
+
+the various purposes mentioned in
+Section 33
+. If a Regulation
+
+follows the purposes referred to under
+Section 33
+of the Act it will
+
+have a mandatory force.
+Again in the case of
+Dr. Preeeti Srivastava and Anr. Vs. State
+
+of M.P and Ors.
+, reported in (1999) 7 SCC 120, the Supreme Court
+
+observed that under the
+Indian Medical Council Act
+the Medical
+
+Council of India is empowered to prescribe standards of post-
+
+graduate medical education. In exercise of its powers under
+Section 20
+read with
+Section 33
+of the Act the Medical Council has
+
+framed Regulations which govern post-graduate Medical education.
+
+These Regulations, therefore, are binding and states cannot in
+73
+exercise of power under Entry 25 of List III make rules and
+
+regulations which are in conflict with or adversely impinge upon
+
+the regulations framed by the Medical Council of India for Post-
+
+graduate medical Education. Since, the standard
+laid down in
+exercise of the power conferred under Entry 66 of List-I the
+
+exercise of that power is exclusively within the domain of the
+
+Union government any power exercised by the State in the area of
+
+education under Entry 25, of List-III will be subject to any existing
+
+relevant provisions made in that connection by the Union
+
+government, subject to
+Article 254
+of the Constitution of India.
+In view of the very specific observations of the Supreme Court
+
+the view of the High Court with regard to the nature and status of
+
+the Regulations framed under the Act court be treated to be
+
+binding. There is hardly any scope for entertaining any reasonable
+
+doubt that the regulations not being statutory rules do not have
+
+any force of law. From this it also cannot be argued that the
+
+Regulaions, 2000 cannot take away the state's power to make
+
+reservation for the in-service doctors.
+Moreover, in its proper connotation and in view for the
+
+purpose for which they are framed there is no scope to consider
+74
+the Regulations framed under Act as occupying an inferior position
+
+than that of a statutory rule. Even in the case of
+Government of
+
+Andhra Pradesh and Ors. Vs. P. Laxmi Devi (Smt.
+) (supra) the High
+
+Court placed both the statutory rules and statutory regulations in
+
+the same category in the hierarchy of the laws applicable to India.
+
+The importance of Regulations framed under an Act cannot be
+
+overstated.
+In the case of Chief Inspector of Mines vs. K.C.Thapper,
+
+reported in AIR 1961 SC 838, the Supreme Court observed that
+
+without proper regulation is statute may often be worse than
+
+useless.   The   importance     attached   to   Regulations   can   be
+
+appreciated from an observation made in Wicks vs. Director of
+
+Public Instructions, reported in [1947] 1 All. ER 205 where the
+
+Court of Appeal observed that when an Act confers an authority to
+
+make regulations a regulation which is validly made under the Act
+
+and which is intra vires the regulation making power, should be
+
+regarded as though it were itself an enactment.
+Any misgiving about the relative status of a regulation has
+
+been set at rest more than a century ago by the King's Bench
+
+division in the case of Willingale vs. Norris, reported in [1909] 1 KB
+
+57 where it was observed that to break the regulations made under
+
+the authority of a statute is to break the statute itself.
+75
+Mr. Mukherjee also tried to justify the act of reservation from
+
+a social stand point and in terms of the urgent need of the society.
+
+It has been repeatedly emphasised by Mr. Mukherjee that the state
+
+is in urgent need of doctors and unless there are qualified doctors
+
+in the state-run-hospitals the purpose of reaching medical service
+
+to the public in general will never be achieved. The State has an
+
+obligation and the citizen has a corresponding right to make sure
+
+that the benefits of health service reaches to the largest section of
+
+the population which is the basic purpose behind running a state
+
+hospital. In this connection he relied on Association of Medical
+
+Super Speciality Aspirants and Residence & ors. Vs. Union of India
+
+& Ors. (Writ petition (Civil) No. 376 of 2018). The Supreme Court
+
+observed that
+Article 21
+of the Constitution of India emphasises an
+
+obligation on the state to safeguard the right to life of every person.
+
+The government hospitals run by the State and the medical officers
+
+employed therein are duty bound to extend medical assistance for
+
+preserving human life. In a welfare state it is the obligation of the
+
+state to ensure the creation and sustaining of condition congenial
+
+to good health. The Supreme Court referred to
+Article 47
+of the
+
+Constitution of India which imposes on the State an obligation to
+
+improve public health.
+76
+In the said judgment the Supreme Court further observed
+
+that it is for the state to secure health to its citizen as its primary
+
+duty. The government is discharging this obligation by opening
+
+government hospitals, but in order to make it meaningful it has to
+
+be within the reach of its people. Government has a constitutional
+
+obligation to provide health facilities to the people. The right to life
+
+which is the most precious human right and which forms the ark
+
+of all other rights must therefore be interpreted in a broad and
+
+expansive spirit so as to invest with sanction and validity which
+
+may endure for years to come. In that judgment the Supreme
+
+Court reiterated the well known principle that right to life includes
+
+the right to live with human dignity and all that goes along with it.
+
+With reference to the subject matter of dispute in that case, i.e.,
+
+the validity of the compulsory bonds to be executed for admission
+
+to post-graduate medical courses and super specialist courses, the
+
+Supreme Court approved the stand of the state of West Bengal in
+
+view of the positive obligation of the state to uphold the dignity of
+
+the larger section of the society to protect the rights conferred on
+
+them by
+Article 21
+of the Constitution of India. The immediate
+
+need of the deprived sections of the society to have proper health
+
+care was the reason behind the policy decision of the Government.
+77
+This judgment has hardly any application to the facts of the
+
+present case or even to the case of the appellants that reservation
+
+for in-service candidates would ameliorate the dearth of doctors in
+
+the health service. The judgment in the case of Association of
+
+Medical Super Speciality Aspirants and Residence & ors.
+Vs. Union
+
+of India & Ors.
+(supra) was delivered in the context of a notification
+
+issued by the government of West Bengal by which every post-
+
+graduate trainee was directed to execute an indemnity bond to
+
+serve the state government for a period of three years after
+
+successful completion of their respective degree courses and for a
+
+period of two years after their successful completion of diploma
+
+courses. This was done obviously to ensure that the successful
+
+specialists after completion of their courses serve the state for a
+
+certain length of period during which their service may be utilised
+
+by the state in further fulfilment of state's primary obligation of
+
+taking meaningful steps in the health care system.
+But, by making provisions for reservation for the in-service
+
+doctors in the state quota the same social objective is not likely to
+
+be achieved. In the reported judgment the government tried to
+
+devise the method so that the qualified doctors are compelled to
+
+serve the state-run-hospitals for a certain number of years. But in
+78
+the making of reservation the state is trying to ensure admission of
+
+such doctors in their employment. But for the reservation most of
+
+these doctors might not have come within the zone of consideration
+
+for admission to a post-graduate degree course.
+The issue has to be examined from a far more cardinal point
+
+of view about the permissibility or validity of the system of
+
+reservation. We have already noted that the Supreme Court has
+
+held the reservation in favour of in-service doctors to be
+
+unconstitutional and
+the said judgment
+, the large Bench of the
+
+Supreme Court has observed, still holds the field.
+Even that apart the constitutional validity of making a
+
+reservation for admission to a course of a higher medical degree
+
+has repeatedly come under the judicial scanner. Reference may be
+
+made to AIIMS Students' Union v. AIIMS & Ors., (2002) 1 SCC
+
+428 where the Supreme Court, apart from laying down the
+
+impermissibility of reservation in general, except where it is
+
+mandated by the Constitution of India, drew a distinction between
+
+the reservation at primary or lowest level and at the higher level.
+
+The Supreme Court observed that reservation is guided by
+
+Constitution for ensuring allotment of a privilege or quota to or
+79
+confederral of state largesse on, a defined class or category of
+
+limited persons dispensing with the need of competition with
+
+another defined class of persons or remaining persons. Beneficiary
+
+of reservation is necessarily a minor or similar group of persons
+
+which deservedly stands in need of protection because of various
+
+factors. Persons consisting in reserved category are found to be an
+
+underprivileged class who cannot be treated on a par with a large
+
+and more preiviladged class of persons and shall be denied social
+
+justice equality unless protected and encouraged. Reservation is
+
+protective discrimination, observed the Supreme Court.
+In the above judgment it has been further held that when
+
+protective discrimination for promotion of equalisation is pleaded
+
+the burden is on the party who seeks to justify the ex facie
+
+deviation of equality. The basic rule is equality of opportunity for
+
+every person in the country. Candidates who get more marks than
+
+others are entitled to preference for admission. Merit must be the
+
+test when choosing the best. The Supreme Court further observed
+
+that this proposition has greater importance for the higher levels of
+
+education   like   post-graduate        courses.   Reservation,   as   an
+
+exception, may be justified subject to discharging the requirement
+80
+of proving justification in favour of the class which must be
+
+educationally handicapped.
+The Supreme Court while striking down the reservation of
+
+seats for their own candidates for the post-graduate courses came
+
+down very heavily upon the concept of such reservation It
+
+observed:
+"reservation unless protected by the Constitution itself, as given to
+
+us by the founding fathers and as adopted by the people of India, is
+
+sub-version of fraternity, unity and integrity and the dignity of the
+
+individual secured by the Preamble to the Constitution. While
+
+dealing with the directive principles of state policy,
+Article 46
+is
+
+taken note of often by overlooking
+Articles 41
+and
+47.
+Article 41
+obliges the State inter alia to make effective provision for securing
+
+the right to work and right to education. Any reservation in favour of
+
+one, to the extent of reservation is an inroad on the right of others to
+
+work and to learn......"
+Public health can be ensured by having the best doctors,
+
+specialists and super specialists. Under graduate level is a primary
+
+or basic level of education in medical sciences wherein reservation
+81
+can be understood as the fulfilment of societal obligation of the
+
+state towards the work segments of the society. Beyond this, a
+
+reservation is a refrain or diversion from the performance of
+
+primary duty of the state. Pushing the protection of reservation
+
+beyond the primary level betrays the big wigs' desire to keep the
+
+crippled drippled forever.
+Mr. Mukherjee laid great emphasis on the judgment in
+
+Kumari Chitra Ghosh (supra) where the appellant challenged the
+
+power of the central government to make nominations in respect of
+
+the seats which has been reserved for certain categories of persons
+
+belonged to different classes and territories. The Supreme Court
+
+found that the classification had been based on intelligible
+
+differentia which distinguished them from the group to which the
+
+appellants belonging and consequently the appeal was dismissed.
+But this judgment in Kumari Chitra Ghosh (supra) has been
+
+distinguished by the Supreme Court in the case of AIIMS students'
+
+Union (supra). The Supreme Court observed that in Kumari Chitra
+
+Ghosh (supra) the test laid down for determining the validity of
+
+sources of admission is that the sources were properly classified
+
+where on territorial, geographical or other reasonable basis and
+82
+must have rational nexus with the object of imparting a particular
+
+education and effective selection for the purpose. In laying down
+
+the sources of entry there is no question of any preferential
+
+treatment being accorded to any particular category or class of
+
+persons desirous of receiving medical education over the other.
+But in this case the basis of reservation is very different. It
+
+has not been done on geographical or territorial basis, but just to
+
+confer benefits to the in-service doctors. Again, the reservation
+
+made by the state government cannot also be said to be
+
+constitutionally protected as the in-service doctors as a class do
+
+not belong to the weaker section of the society, though some of
+
+them may belong to reserved categories who are otherwise entitled
+
+to reservation in terms of the Constitutional scheme.
+Even otherwise a bare reading of
+Regulation 9
+as a whole
+
+makes it clear that it was never the intention of the framers of the
+
+Regulation to reserve any seat for the in-service doctors. This will
+
+be clear from a comparative reading of
+Regulation 9(4)
+and
+Regulation 9(8)
+.
+Regulation 9(8)
+says that 50% of the seats in post
+
+graduate diploma courses shall be reserved for medical officers in
+
+the government service who have served for at least three years in
+83
+remote and/or difficult areas and/or rural areas.
+Regulation 9(4)
+on   the   other   hand    entitles    an   in-service   candidate   of
+
+government/public authorities to weightage in the marks as an
+
+incentive upto 10% of the marks obtained for each year of service
+
+in remote and/or difficult areas or rural areas upto maximum of
+
+30% of the marks obtained in NEET.
+Thus, for those in-service doctors intending to prosecute post
+
+graduate diploma courses the Regulation has kept a provision for
+
+reservation of 50% seats. A well-settled principle of law has been
+
+expressed in a legal maxim, i.e. Expressio Unius Est Exclusio
+
+Alterius which means that express mentions of one thing implies
+
+the exclusion of another. This maxim is based on absolute logic
+
+which has been recognized as one of the fundamental principle for
+
+construction of an Act of the legislature. To the facts of the present
+
+case the maxim may be profitably applied as
+Regulation 9(8)
+makes
+
+an express provision for reservation of seats for the in-service
+
+doctors for post graduate diploma courses without making any
+
+similar provision for those intending to pursue a post graduate
+
+degree course. It clearly suggest that the framers of the
+
+Regulations did not want the reservation for in-service doctors to
+84
+be extended to the post graduate degree courses for whom only
+
+incentive marks have been provided.
+There cannot be any doubt that while admitting students to
+
+post graduate degree courses the primary criteria is merit, subject
+
+to constitutionally permissible reservations. Many years ago the
+
+inherent problems of making complete reservation to the post
+
+graduate medical courses was pointed out by the Supreme Court
+
+in the case of
+Jagadish Saran (Dr.) Vs. Union of India
+, reported in
+
+(1980) 2 SCC 768. The Supreme Court observed that entirely
+
+excluding     meritorious   candidates   will   promote   sub-standard
+
+candidates and bring about a fall in a medical competence,
+
+injurious in the long run to the very region.
+The Supreme Court
+
+has already recognized in
+Indra Sawhney Vs. Union of India
+,
+
+reported in 1992 Supp (3) SCC 217 that the very idea of
+
+reservation implies selection of a less meritorious person. But even
+
+then, reservation has been recognized to achieve the constitutional
+
+promise of social justice.
+An alarm was sounded in
+Mohan Bir
+
+Singh Chawla Vs. Punjab University
+, reported in (1997) 2 SCC 171,
+
+where the Supreme Court observed that at higher levels of
+
+education, it would be dangerous to depreciate merit and
+
+excellence.
+85
+In the case of
+Dr. Pradeep Jain and Others Vs. Union of India
+
+and Others
+, reported in (1984) 3 SCC 654, the Supreme Court was
+
+considering the issue relating to reservation of seats for admission
+
+to medical colleges. The Supreme Court specifically observed that
+
+the primary consideration in selection of candidates for admission
+
+to the medical colleges must be merit. The object of any valid
+
+scheme of admission must be to select the best candidate for being
+
+admitted to the medical colleges and if any departure is to be made
+
+from the principle of selection on the basis of merit it must be
+
+justified on the touchstone of
+Article 14
+of the Constitution of
+
+India. The Supreme Court further observed that merit consists of a
+
+high degree of intelligence coupled with a keen and incisive mind,
+
+sound knowledge of the basic subjects and infinite capacity for
+
+hard work. It also calls for a sense of social commitment and
+
+dedication to the cause of the poor.
+The Supreme Court quoted the
+
+observation made in the case of
+Jagadish Saran (Dr.
+) (Supra) that if
+
+equality of opportunity for every person is the constitutional
+
+guarantee, a candidate who gets more marks than another is
+
+entitled to preference for admission. The Supreme Court observed,
+
+"Merit must be the test when choosing the best, according to this
+
+rule of equal chance for equal works. This proposition has greater
+86
+importance when we reach the higher level of education like post
+
+graduate courses. After all, top technological expertise in any vital
+
+field like medicine is a nation's human assets without which its
+
+advance and development will be stunted".
+We have already seen that in the case of AIMS Student's
+
+Union (Supra) the Supreme Court has frowned upon the system of
+
+reservation to a higher course of study which is bound to
+
+compromise with the comparative merits between the candidates.
+If that be so, we cannot really attach any special meaning to
+
+the expression 'from the list' appearing in
+Regulation 9
+as distinct
+
+from 'as per list'. If the authorities have the power to admit
+
+students irrespective of their ranks and if the sole criteria is to get
+
+the bare minimum marks of 50% there might not have been any
+
+necessity for publishing a merit list. The task could have been far
+
+easier for an examining a body to declare the names of the
+
+candidates who have secured 50% and above in the NEET.
+Mr. Mukherjee argued that an amendment was brought into
+
+the
+Regulation 9(1)
+in the year 2009 which provided that students
+
+for post graduate medical courses shall be selected strictly on the
+87
+basis of their inter se academic merit. This provision has been
+
+substituted by a notification which has come into effect on April 5,
+
+2018.
+Regulation 9(1)
+now says that there shall be a uniform
+
+entrance examination to the all medical educational institutions at
+
+the post graduate level viz., NEET, for admission to post graduate
+
+courses in each year and shall be conducted under the overall
+
+supervision of the Ministry of Health and Family Welfare,
+
+Government of India. From this, he submits that inter se merit is
+
+no longer the criteria for admission to a post graduate medical
+
+course. In this connection, Mr. Mukherjee has relied on Renuka
+
+Pachal Vs. Chapa Guha Neogi and Others, reported in AIR 1978 Cal
+457. There this Court had held with reference to the amendment in
+Bengal, Agra and Assam Civil Courts Act, 1887
+that when the state
+
+legislature amended the said Act raising the District Judge's
+
+jurisdiction, it must be presumed to have known how Section 4 of
+
+West Bengal Act XVI of 1957 was interpreted by the Division Bench
+
+of this Court in two cases. In spite of it, savings clause was
+
+introduced which was interpreted as a conscious adoption or
+
+approval by the legislature of the court's decisions. Relying on this,
+
+Mr. Mukherjee sought to argue that in view of several judgments
+
+like Kumari Chitra Ghosh (Supra) the framers of the Regulation
+88
+consciously decided to do away with the provision of inter se merit
+
+of the candidates for the purpose of admission to post graduate
+
+medical courses.
+This argument, if accepted, would mean defeating the
+
+purpose of the
+Regulation 9
+itself. As a matter of fact, there is
+
+practically not much difference between the two forms of
+Regulation 9(1)
+and between the expression "inter se academic
+
+merit" and "from the list". The difference is more academic than
+
+real. In whichever language it may be expressed when the
+
+provision of law says that candidate should be selected from the
+
+merit list or according to their academic merit or on the basis of
+
+inter se academic merit it practically means the same thing. If any
+
+rule says that candidates will be selected from the merit list it for
+
+all practical purposes must be taken to mean that the respective
+
+ranks   and     relative   positions    of   the   candidates   should   be
+
+maintained. Any interpretation other than this is bound to lead to
+
+arbitrariness    and   conferring      disproportionate   power    on    the
+
+authority to pick up any student from the list without maintaining
+
+the respective ranks of the selected candidates. That will be a clear
+
+case of violation of
+Article 14
+of the Constitution of India. A
+
+candidate occupying lower position in the list should not be
+89
+preferred to more meritorious candidates above him taking
+
+advantage of the use of expression "from the list". We have already
+
+found that it has been judicially interpreted that a facet of equality
+
+of opportunity in matters of admission to an educational
+
+institution is preference according to the merit of an individual
+
+candidate.
+Mr. Mukherjee tried to justify the state action for reservation
+
+with reference to
+Section 33(l)
+of the Act which provides for
+
+conduct of professional examinations, qualifications of examiners
+
+and conditions of admission to such examinations. It has been
+
+sought to be argued that since the condition of admission to such
+
+examination has been provided in
+Section 33(l)
+of the Act, the state
+
+action cannot be said to have been vitiated.
+This is hardly any justification for a reservation de hors
+Regulation 9
+.
+Section 33
+of the Act empowers the Medical Council
+
+to make Regulations on certain subjects which includes Clause (l).
+
+In other words, it means that 33(l) empowers the Medical Council
+
+to make Regulation in respect of the matters provided in Clause (l)
+
+of
+Section 33
+of the Act. And the Medical Council has done exactly
+
+the same by framing the Regulations, 2000.
+90
+Mr. Dhar and the learned Advocate General have alleged that
+
+the petitioners are guilty of suppression of fact inasmuch as they
+
+never disclosed in the writ petition that they had appeared at the
+
+counselling. It is true that the petitioners should have disclosed
+
+this fact in their writ petition, but every omission to mention a fact
+
+does not amount to suppression. Suppression in order to invite a
+
+fatal consequence for the petitioners either must be of a material
+
+fact of such a nature which, but for the disclosure, would not have
+
+been known to the respondents. That the writ petitioners had
+
+appeared at the examination is a matter of record and is very
+
+much known to the state respondents. Therefore, omission to
+
+disclose participation in the counselling process cannot be said to
+
+be a fatal lapse on their part entitling the respondents to have the
+
+writ petition dismissed.
+The further objection taken by Mr. Dhar as well as the
+
+learned Advocate General about the maintainability of the writ
+
+petition for not challenging the memo, dated April 18, 2013, does
+
+not appear to be a valid one. In other words, the objection is not
+
+weighty enough disentitling the petitioners to any relief in an
+
+otherwise meritorious writ petition. The petitioners have challenged
+
+the policy of reservation for the in-service doctors. When the policy
+91
+itself is under challenge, a further challenge to the specific
+
+document creating the policy should not be absolutely insisted
+
+upon as a non-relaxable pre-condition for the grant of an
+
+appropriate relief. The writ petitioners have challenged the
+
+constitutionality of the policy of reservation. It is possible that they
+
+had no knowledge about the document in which the policy of
+
+reservation was enunciated. But that makes no difference. If the
+
+policy is found to be constitutionally invalid or cannot be justified
+
+on the touchstone of the Constitutional provisions, the memo,
+
+dated April 18, 2013 does not survive.
+The issue relating to non-joinder of necessary parties might
+
+have had some relevance before us had not the appellants in MAT
+
+1239 of 2019, been added as parties on their applications. Court
+
+should not insist on at whose instance a party has been impleaded
+
+once he is present in the court. Mr. Dhar's submission was heard
+
+and considered by the learned single Judge. His further grievance
+
+that no opportunity to file an affidavit-in-opposition was given to
+
+the added respondents must have to be considered in the backdrop
+
+of the order of the Supreme Court dated June 10, 2019. The
+
+Supreme Court had specifically directed the learned single Judge
+
+to hear out the matter on a day to day basis without granting any
+92
+adjournment to the interveners. In such view of it, the learned
+
+single Judge could not adjourn the hearing of the matter by giving
+
+an opportunity to the added parties to file their affidavit-in-
+
+opposition and the writ petitioners to file their affidavit-in-reply.
+
+That would have caused a breach of the directive of the Supreme
+
+Court.
+The submission of the learned Advocate General that the
+
+learned single Judge had no jurisdiction to adjudicate the matter
+
+as no admission to the post-graduate course can be allowed
+
+beyond May 31, 2019, does not appear to be a convincing one. The
+
+question of carrying a judgment into effect arises only after the
+
+judgment is delivered. Whether in a given case the petitioners will
+
+get the relief as prayed for is a consideration very different from the
+
+one which weighs with the court at the stage of entertaining the
+
+writ petition. It is nobody's case the court had no jurisdiction to
+
+entertain the writ petition or to adjudicate the dispute raised in it.
+
+The allegation that the writ petition was not maintainable after
+
+expiry of May 31, 2019, is a very different consideration.
+
+Entitlement to the relief, as prayed for and admission of the writ
+
+petition are two different exercises. In a given case, it may so
+
+happen that after the declaration of the law a court may hold that
+93
+for any reason whatsoever the petitioners are not entitled to the
+
+relief. The ultimate finding is with reference to the facts of that
+
+case but it does not really fetter the hands of the court in declaring
+
+the legal position or answering a challenge posed by the
+
+petitioners.
+The state also cannot justify reservation of seats for the in-
+
+service doctors with reference to the use of the word 'reservation' in
+Regulation 9(4)
+. The Supreme Court in the case of
+State of Uttar
+
+Pradesh and Others
+(Supra), had already held that the word
+
+'reservation' appearing in
+Regulation 9(4)
+is with reference to the
+
+reservation as per the constitutional scheme for the Scheduled
+
+Casts, Scheduled Tribes or Other Backward Classes candidates
+
+and not for the in-service candidates or medical officers in service.
+
+The   judgment    has   unequivocally   observed   that   Proviso   to
+Regulation 9(4)
+does not envisage reservation for in-service
+
+candidates in respect of the post graduate degree courses.
+We have also heard the submission of Mr. Roy for the
+
+University and Mr. Roy for the MCI. The difficulties expressed by
+
+Mr. Roy appearing for the University in making a fresh merit list
+
+does not appear to be a very convincing one. The University got
+94
+sufficient time to prepare a fresh merit list in terms of judgment
+
+and order of the learned single Judge but they did not do it. There
+
+was no stay of operation of the impugned judgment and order. The
+
+University also did not press their application for stay. In such
+
+view of it, the University should have prepared the merit list as per
+
+the direction of the learned single Judge long before. They having
+
+not done so cannot project paucity of time as an excuse for not
+
+preparing the fresh merit list.
+One of the reasons for not preparing the merit list in terms of
+
+the direction of the learned single Judge is that the University had
+
+approached the Department of Health, Government of West Bengal
+
+requesting them to furnish the details of the candidates who have
+
+been awarded incentive marks. Mr. Roy submitted that since they
+
+had not received any reply from the state government they could
+
+not comply with the directive.
+This, on the face of it, appears to be a redundant exercise. It
+
+is an admitted position that for want of proper notification no
+
+incentive mark has been awarded to any in-service candidate. This
+
+is an information which should have been with the University also.
+
+If not, it seems a little surprising that a body conducting the
+95
+examination would not be aware that no additional marks has
+
+been awarded by the state government.
+Here we make an observation. We have already mentioned
+
+that the Controller of Examinations of the University by a letter,
+
+dated April 2, 2013 requested the Joint Secretary, Health and
+
+Family Welfare Department to issue government order effecting
+
+reservation of seats for in-service doctors in the post graduate
+
+degree, diploma and post-doctoral courses. If the state had made a
+
+policy to that effect, the University was required to follow it. But it
+
+remains unexplained why the University on its own asked for a
+
+government order for effecting reservation of seats for the in-
+
+service doctors. The University as a statutory autonomous body
+
+undoubtedly overstepped its area of operation.
+The submission of the Medical Council of India is partly in
+
+favour of the writ petitioners and partly in favour of the other
+
+appellants. Mr. Roy agreed that
+Regulation 9(4)
+or any other
+
+provision in the Act or Regulation does not permit or provide for
+
+any reservation for the in-service doctors for admission to post-
+
+graduate degree courses. He has also supported the writ
+
+petitioners that the word 'reservation' mentioned in
+Regulation 9(4)
+96
+cannot be interpreted as available for the in-service doctors. He
+
+also is not in one with the submission of Mr. Mukherjee that the
+
+expression 'from the merit list' empowers the authority to select
+
+candidates from the merit list not according to the respective
+
+merits of the candidates.
+From the foregoing discussions, we are of the considered view
+
+that the reservation of seats for the in-service doctors is against
+
+the provisions of Regulations, 2000. There is not only no provision
+
+for the same in the Regulation, in view of the judgments of the
+
+Hon'ble Supreme Court such an exercise must be held to be
+
+unconstitutional and violative of
+Articles 14
+, 16
+and
+21
+of the
+
+Constitution of India. The reservation of seats for the in-service
+
+doctors also suffers from the vice of arbitrariness and has the
+
+potential of sacrificing merit in the matter of admission.
+We, therefore, set aside the memo, dated April 18, 2013 by
+
+moulding the relief in the writ petition. It is a settled position of law
+
+that a writ court has sufficient powers in appropriate cases to
+
+mould the relief in order to do complete justice in between the
+
+parties in the given factual situation. We further declare the order
+
+of reservation as de hors the Regulations, 2000 and beyond the
+97
+power of the state to issue. The order of reservation is declared as
+
+null and void. To that extent, the impugned judgment and order of
+
+the learned single Judge is affirmed.
+That, however, takes us to the consideration of the reliefs the
+
+writ petitioners are entitled to after declaring the order of
+
+reservation as null and void.
+Mr. Roy, the learned Advocate for the MCI, however,
+
+submitted that the admissions of the in-service candidates in this
+
+year may not be disturbed which may have the effect of setting
+
+aside the admission of the open category candidates also. His
+
+specific stand is that since all admissions are to be completed by
+
+May 31 is no scope for admission of any candidate at this stage.
+This is also the persistent stand of all the appellants except
+
+the writ petitioners. For Mr. Mukherjee, the writ petition could not
+
+be heard beyond May 31, 2019 as that was the cut-off date within
+
+which all admissions should be completed. Mr. Dhar and the
+
+learned Advocate General also submitted that the time schedule
+
+fixed by the Regulations must be strictly ad hered to. The High
+
+Court exercising of its powers under
+Article 226
+of the Constitution
+98
+of India cannot extend the time beyond that fixed by the
+
+Regulation. He, however, submitted that instead of disturbing the
+
+admission   which    has       already    taken    place   this    year,   the
+
+Regulations may be operationalised from the next year.
+We have heard the learned Advocates for the parties and
+
+have given our very anxious consideration to the issue of extending
+
+the time of admission to post graduate degree.
+We are of the view that the direction of the learned single
+
+Judge with regard to the relief granted requires some modification.
+
+The consequence of declaring reservation to be constitutionally
+
+invalid will be that after such declaration we cannot direct the
+
+seats to continue to be occupied by the reserved category doctors
+
+any more. The admission by way of reservation must have to fall
+
+through. The argument that the classes have already started and
+
+these admitted candidates are not at fault is no justification for
+
+continuing with the admission through a channel found to be
+
+unconstitutional.   If   the    method     of     admission   is   bad,    the
+
+consequence must have to follow. Following the principle
+laid down
+
+in
+Ashok Kumar Sonkar Vs. Union of India and Others
+, reported in
+
+(2007) 4 SCC 54, we hold that this is a case where the principle of
+99
+natural justice need not be invoked, even if there be some in-
+
+service sponsored doctors not before us. Misplaced sympathy has
+
+no place in law.
+The consequence would be that the seats to which the in-
+
+service candidates had been admitted will become vacant. These
+
+seats are to be filled up by the candidates from the state quota
+
+irrespective of whether they are in service or not. There are a large
+
+number of open category candidates who have secured better
+
+marks and ranks in the NEET than those of the in-service
+
+candidates by whom the reserved seats were filled up.
+Should we allow a fresh counselling in respect of those 285
+
+seats only? Or set aside the admission of all the students admitted
+
+to various disciplines? In an idyllic situation perhaps the second
+
+alternative would have been a better course of action. After all, the
+
+choice of discipline of many meritorious candidates was restricted
+
+to and conditioned by the reservation of 40% of the state quota
+
+seats. But in many cases the ideal course of action may not be the
+
+most realistic solution. The effect of directing the respondents to
+
+prepare and publish one common merit list so far as the state
+
+quota is concerned will have the effect of unsettling a settled
+100
+position so far as the students admitted against the 60% of the
+
+state quota seats are concerned. Again, to ask the respondents to
+
+prepare a once common merit list will be directing them to achieve
+
+a Sisyphean task which may lead to unnecessary complications, a
+
+time-consuming exercise and ultimately the prosecution of studies
+
+for the majority of the candidates not before us may be disturbed.
+
+We have, therefore, decided to restrict ourselves to 285 seats
+
+representing 40% of the state quota who have been admitted
+
+pursuant to the order of reservation.
+We, however, agree with Mr. Mitra that the appellants, except
+
+the writ petitioners, are very particular in adhering to the time
+
+schedule mentioned in
+Regulation 9(10)
+when
+Regulation 9(4)
+has
+
+been flouted in the teeth of the Supreme Court judgment and as
+
+well as the Regulations. Between the requirement of adhering to
+
+the standard of merit and the time schedule, maintenance of merit
+
+was far more important.
+We are not in the least unmindful of the requirement of
+
+adhering to the timeframe fixed by
+Regulation 9(10)
+. But this is a
+
+very different and extraordinary situation when consequent upon
+
+our declaring the act of reservation for in-service candidates as
+101
+null and void an unusual situation has emerged. Mr. Mitra has
+
+given us a list of cases where the court had directed admission to
+
+post graduate classes beyond the cut-off dates in presence of the
+
+Medical Council of India which did not file any appeal against
+
+them. For circumstances arising out of an extraordinary situation
+
+no straightjacket formula or precedent may be available.
+It has been sought to be argued before us that extension of
+
+time for admission to post graduate classes may be made only by
+
+the Supreme Court in exercise of its powers under
+Article 142
+of
+
+the Constitution of India.
+Mr. Mitra referred to several cases where time for admission
+
+had been extended by the Supreme Court beyond the stipulated
+
+date. He refers to the order dated June 4, 2019 passed in
+Sagar
+
+Damodar Sarda and Others Vs. State of Maharashtra and Others
+,
+
+[writ petition (civil) no. 733 of 2019] and the order, dated May 31,
+
+2019 passed in
+Janhit Abhiyan Vs. Union of India
+, [writ petition
+
+(civil) No. 55 of 2019].
+In
+Dr. Vishal Goyal and Others Vs. State of
+
+Karnataka and Others
+, reported in (2014) 11 SCC 456, the
+
+Supreme Court after declaring a certain clauses in the Information
+
+Bulletins for post-graduate medical and dental courses as ultra
+102
+vires
+Article 14
+of the Constitution of India directed the
+
+respondents to publish fresh Information Bulletins and make
+
+admissions to the post graduate medical and dental courses in the
+
+government colleges as well as the state quota of private colleges
+
+by June 2014.
+In
+Asha Vs. Pt. B. D. Sharma University of Health Sciences
+
+and Others
+, reported in (2012) 7 SCC 389, the Supreme Court
+
+observed that as September 30 was the cut-off date the authorities
+
+could not grant admission beyond date which is specifically
+
+postulated. But the appellant pursued her rights and remedies as
+
+expeditiously as possible. The cut-off date cannot be used as a
+
+technical instrument or tool to deny admission to meritorious
+
+students. The Supreme Court observed that it is not only
+
+unfortunate but apparently unfair that the appellant having much
+
+higher merit was denied admission to MBBS.
+It has been submitted that the directions such as the one
+
+mentioned above can be passed only by the Supreme. The High
+
+Court while exercising jurisdiction under
+Article 226
+of the
+
+Constitution of India does not have the power similar to the one
+103
+which   the   Supreme     Court   has   under
+Article   142
+of   the
+
+Constitution of India.
+The learned Advocates for the appellants, except the writ
+
+petitioners have relied on Education Promotion Society for
+India and
+
+Another
+(Supra) in order to establish that the Supreme Court in
+
+recent times also did not extend the time for filling up the vacant
+
+seats in post graduate medical courses. But the order of the
+
+Supreme Court has to be read in the facts in which it was passed.
+
+Every case has a factual context. Before the Supreme Court the
+
+petitioner no. 1 Society claiming to represent a large number of
+
+educational institutions prayed for extension of time to carry out
+
+counselling as a large number of seats in the medical colleges were
+
+lying vacant. Their contention was that colleges had spent huge
+
+amount of money. The Supreme Court observed that the
+
+petitioners wanted a general extension of time and not on account
+
+of any particular difficulty faced by any individual college or
+
+University but on the ground that large number of seats were going
+
+vacant. It is in this context that the Supreme Court declined to
+
+interfere with an observation that extension cannot be granted just
+
+because some seats are lying vacant without there being any other
+
+justification. We consider that there is sufficient justification in the
+104
+present case for passing a necessary order to do justice between
+
+the parties.
+It is true that a High Court does not have powers under
+Article 142
+of the Constitution of India. But in a given
+
+extraordinary situation, the hands of the court may not be fettered.
+Asha
+(Supra) also mentions that not only the Supreme Court but
+
+the High Courts also may have to face this problem or problems of
+
+this nature.
+The Supreme Court observed that the question
+
+involved in
+Asha
+(Supra) were bound to arise repeatedly not before
+
+the Supreme Court but the High Courts as well. In that case the
+
+Supreme Court observed that where no fault is attributable to a
+
+candidate and she is denied admission for arbitrary reasons the
+
+cut-off date should not to be permitted as a bar to admission of
+
+such students when it would result in complete ruining of the
+
+professional career of a meritorious candidate.
+In the present case the number of such candidates who may
+
+have a similar fate because of the reservation policy of the state are
+
+far more numerous and much larger than those who had filed the
+
+writ petition. The Supreme Court further observed that there can
+
+be rarest of the rare cases or exceptional circumstances where the
+105
+courts may have to mould the relief and make exception to the cut-
+
+off date. But in those cases the court must first return a finding
+
+that no fault is attributable to the candidate and he has pursued
+
+his rights and remedies expeditiously without any delay and there
+
+is fault on the part of the authorities and apparent breach of some
+
+Rules, the Regulations and principles in the process of selection
+
+and grant of admission.
+We are of the view that the criteria mentioned
+in that case
+for
+
+treating a situation as an exceptional one are all present in the
+
+case in hand. The Regulations have been flouted. The petitioners
+
+are not at fault. They raised a protest long before the first
+
+counselling. Still their grievances have not been redressed and they
+
+filed the writ petition long before the expiry of the cut-off date.
+Since the judgment in
+Asha
+(Supra) permits the courts to make
+
+exception to the cut-off date, we take it that the right of a High
+
+Court exercising writ jurisdiction is not necessary ousted to meet
+
+the exigencies of the situation. The word 'court' has been used in
+
+the plural.
+If such power is restricted to Supreme Court alone there was
+
+no necessity to use the plural form of the word 'court'. We take the
+106
+order of the Supreme Court,             dated   June   10,   1999,   into
+
+consideration when there was a direction upon the learned single
+
+Judge to hear the writ petition on a day to day basis. When the
+
+Supreme Court had passed the direction after the expiry of the cut-
+
+off date it must be taken that the order had a purpose behind it. It
+
+cannot be that Their Lordships were not aware of the scope of the
+
+writ petition when the said order was passed. The submission that
+
+the issue before the Supreme Court was different is not very
+
+material as the Supreme Court had directed the High Court to hear
+
+the writ petition.
+Admissions of the in-service doctors the post-graduate degree
+
+courses pursuant to the reservation of 40% of the state quota seats
+
+stand cancelled. Consequently a fresh merit list for 285 seats is
+
+required to be prepared. We, therefore, direct the University to
+
+publish a fresh merit list in terms of this order for those seats only,
+
+within a week after the reopening of the office of the University
+
+after the Puja vacation. In such view of it and treating the situation
+
+arising out of the present case as the rarest of the rare one, we
+
+direct the respondents to undertake all steps for reorientation of
+
+the hitherto reserved seats in the state quota by way of a fresh
+
+counselling within 10 days from the date of publication of the merit
+107
+list. The University is directed to start classes as early as possible.
+
+The students will be required to attend extra classes to make up
+
+the delayed admission and to cover the syllabus as well as to
+
+maintain their attendance. The state is directed to take all
+
+necessary steps to ensure the compliance of the direction of the
+
+court and if necessary to arrange for extra classes for the
+
+candidates to be admitted after fresh counselling.
+Mr. Bhattacharya, the learned Senior Counsel appearing for
+
+interveners in CAN 8548 of 2019 prayed for awarding incentive
+
+marks to the in-service doctors in terms of
+Regulation 9(4)
+. Since,
+
+the state government has not issued any notification about the
+
+rural and difficult areas which is a pre-condition for incentive
+
+marks in terms of the Regulations, the prayer cannot be acceded
+
+to.
+Thus, all the appeals filed by all sets of appellants, except the
+
+one filed by the writ petitioners, fail and are dismissed. However,
+
+the directions given by the learned single judge are modified to the
+
+extent indicated above. The appeal of the writ petitioners is
+
+disposed of.
+108
+With this all the connected applications are disposed of.
+
+
+
+      There shall be no order as to costs.
+Urgent Photostat certified copy of this order, if applied for, be
+
+supplied to the parties on priority basis upon compliance of all
+
+requisite formalities. I agree
+
+
+
+                                        (Sambuddha Chakrabarti, J.)
+
+
+                                        I agree
+
+
+
+
+                                        (Hiranmay Bhattacharyya, J.)
+
+
+      S. Banerjee

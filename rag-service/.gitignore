@@ -1,0 +1,20 @@
+# Python cache and virtual environments
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+.venv/
+venv/
+
+# Environment variables
+.env
+
+# Local vector database and scraped artifacts
+vectorstore/
+qdrant_store/
+
+# OS/editor noise
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

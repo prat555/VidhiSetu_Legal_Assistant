@@ -1,0 +1,3380 @@
+Title: Search
+Court: Supreme Court of India
+Date: 89 of 2022
+Citation: SCC Online SC 1921, the right to sue across for
+Source: https://indiankanoon.org/doc/50233238/
+
+[Cites
+63
+, Cited by
+0
+]
+National Company Law Appellate Tribunal
+Precious Energy Holdings Ltd vs State Bank Of India on 6 January, 2023
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+                      AT CHENNAI
+                (APPELLATE JURISDICTION)
+         Company Appeal (AT) (CH) (INS.) No. 89 of 2022
+   (Under Section 61 of the Insolvency and Bankruptcy Code, 2016)
+      (Arising out of the `Order' dated 04.02.2022 in IBA/757/2019,
+                 passed by the `Adjudicating Authority',
+                   (`National Company Law Tribunal',
+                       Division Bench - I, Chennai)
+In the matter of:
+M/s. Precious Energy Holdings Limited BV1
+Suite 6, Mill Mall,
+Wickhams Cay 1 PO Box No. 3085
+Road Town Tortola
+British Virgin Islands - 3083 3083
+Precious Energy Holdings Limited BV       ..... Appellant
+(Shareholder-cum-Investor)
+v.
+1. State Bank of India
+   Stressed Assets Management Branch
+   Red Cross Building, 2nd Floor,
+   No.32, Red Cross Road, Egmore
+   Chennai - 600008                                    ..... Respondent No.1
+2. Mr. Radhakrishnan Dharmarajan
+   D3 Block 1, Triumph Apartments
+   114, Jawaharlal Nehru Salai,
+   Arumbakkam
+   Chennai - 600106                                    ..... Respondent No. 2
+Present:
+For Appellant                   : Mr. P. Chidambaram, Senior Advocate
+                                  Mr. Anil Bhushan, Senior Advocate
+                                  Mr. Dhruba Mukherjee, Senior Advocate
+                                  For Dr. R. Maheswari, Advocate
+For Respondent No.1 : Mr. E. Om Prakash, Senior Advocate
+                      For Ms. Vidyalakshmi Vipin and
+                      Mr. M.G. Pranava Charan, Advocate
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+                                                                  Page 1 of 80
+ For Respondent No.2 / : Mr. T. Ravichandran, Advocate
+Interim Resolution
+Professional
+
+                                      JUDGMENT
+(Virtual Mode)
+Justice M. Venugopal, Member (Judicial):
+Introduction:
+Company Appeal (AT) (CH) (INS.) No. 89 of 2022:
+The `Appellant' / `Shareholder-cum-Investor' of the `Corporate
+
+Debtor' (`Coastal Energen Private Limited', Chennai - 600006), has
+
+preferred the instant Comp. App (AT) (CH) (INS.) No. 89 of 2022,
+
+before this `Tribunal', as an `Aggrieved Person', on being dissatisfied
+
+with the `impugned order' dated 04.02.2022 in IBA/757/2019, (Filed
+
+under Section 7 of the Insolvency and Bankruptcy Code, 2016, read with
+
+Rule 4 of the I & B (Application to Adjudicating Authority) Rules, 2016,
+
+(`National           Company                Law   Tribunal',   Division Bench - I,
+
+Chennai).
+2.      The `Adjudicating Authority', (`National Company Law Tribunal',
+
+Division Bench - I, Chennai), while passing the `impugned order' dated
+
+04.02.2022 in IBA/757/2019, among other things, at Paragraphs 13 to 17,
+
+had observed the following:
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 2 of 80
+13. ``We have heard the submission made by the Learned Counsel
+        for the parties and perused the records, including the documents
+        placed on file. From the averments made in the Application it is
+        seen that the Corporate Debtor has committed default in repayment
+        of its credit facilities which it had availed from the Financial
+        Creditor by way of various credit facilities sanctioned, granted and
+        disbursed by the Applicant. The record from the Information Utility
+        also posits the same fact, as the same shows as ``Deemed to be
+        Authenticated''. Further, it may be seen that the Financial Creditor
+        has classified the accounts of the Corporate Debtor as NPA on
+        31.03.2017 and thus under the provisions of IBC, taking into
+        consideration the decision of the Hon'ble Supreme Court in
+Gaurav Hargovindbhai Dave vs. Asset Reconstruction Company
+        (India) Ltd. & Anr.
+in Civil Appeal No.4952 of 2019 and B.K.
+        Educational Services Private Limited -Vs- Parag Gupta and
+        Associates; (2018) SCC Online SC 1921, the right to sue across for
+        the Financial Creditor to sue the Corporate Debtor on 31.03.2017,
+        the date on which the account of the Corporate Debtor was
+        declared as NPA and from the records it is evident that the
+        Financial Creditor has filed the present petition on 03.10.2018
+        which is well within the 3 years period of limitation.
+14. Further, we are also satisfied that there is a debt and default
+        on the part of the Corporate Debtor and the Corporate Debtor is
+        unable to repay its dues to the Consortium of Bankers and in the
+        instant case to the Applicant Financial Creditor. It has also been
+        consistently held by the Hon'ble Supreme Court both in Innoventive
+        Industries Ltd. -vs- ICICI Bank and another (2018) 1 SCC 407 as
+        well as Mobilox Innovations Pvt. Ltd. -vs- Kirusa Software Pvt.
+        Ltd. (2018) 1 SCC 353 after going through the Scheme of IBC,
+        2016, in depth in relation to an Application under Section 7 filed by
+        a Financial Creditor as compared to the one filed under Section 9
+        by an Operational Creditor, in relation to a Section 7 Application
+        where there is an existence of a `financial debt' and its default in
+        excess of Rs.1,00,000/-, (since increased to Rs.1 Crore w.e.f. from
+        24.03.2020) this Tribunal is bound to admit the Application and as
+        a consequence trigger the Corporate Insolvency Resolution
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 3 of 80
+Process (CIRP) and in relation to a Section 7 Application defence
+        or set off or counter claim put forth by the Corporate Debtor
+        cannot be considered as a dispute in relation to the Financial debt
+        and default in relation to it. Thus, it is clear that there is a default
+        on the part of the Corporate Debtor for a sum exceeding Rs.1 Lakh.
+        Also, the default arising in the present Application is much prior to
+        the advent of the Covid-19 pandemic and hence the Corporate
+        Debtor cannot seek shelter also under Section 10A of IBC, 2016.
+15. During the hearing, the Learned Counsel for the Applicant
+        was asked to clarify the present position of default taking into
+        consideration the payments made by the Corporate Debtor during
+        pendency of the present Application, Learned Counsel for the
+        Applicant stated during hearing on 24.01.2022 that the present
+        default is nearly Rs.1458 Crores. The same was admitted by the
+        Learned Counsel for the Respondent. Learned Counsel for the
+        Respondent vehemently stated during the hearing on 24.01.2022,
+        that there is no default, when questioned, the basis of the same, our
+        attention was drawn towards the payments made by the
+        Respondents during the intervening period by the Corporate
+        Debtor to the Applicant more particularly during the financial year
+        2020 to date. During the hearing a question was put by the Bench
+        to the Learned Counsel ``whether the account of the Respondent is
+        NPA in the books of the Applicant Bank?''. The Learned Counsel
+        for the Respondent refused to answer and directed the same to be
+        answered by Learned Counsel for the Applicant. Learned Counsel
+        for the Applicant replied that the account of the Respondent is NPA
+        with the Applicant and the amount of default at present is Rs.1458
+        Crores. Learned Counsel for the Respondent could not oppose this
+        answer.
+16. Thus, taking into consideration the facts and circumstances
+        of the case as well as the position of Law, we are of the view that
+        this Application as filed by the Applicant - Financial Creditor is
+        required to be admitted under Section 7 (5) of the IBC, 2016.
+
+
+
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 4 of 80
+17. The Financial Creditor has proposed the name of Mr.
+        Radhakrishnan Dharmarajan, with Registration Number: IBBI /
+        IPA - 001 / IP - P00508 / 2017 - 18 / 10909 (email id:-
+[email protected]
+), whose Authorization for Assignment
+        (AFA) as per IBBI site is valid till 30.11.2022, as the Interim
+        Resolution Professional (IRP) who has also filed his written
+        consent in Form 2 of the Insolvency and Bankruptcy Board of India
+        (Application to Adjudicating Authority) Rules, 2016. The proposed
+        IRP who is appointed shall take forward the process of Corporate
+        Insolvency Resolution of the Corporate Debtor. The IRP appointed
+        shall take in this regard such other and further steps as are
+        required under the Statute, more specifically in terms of Section 15,
+        17, 18 of the Code and file his report within 30 days before this
+        Bench. The powers of the Board of Directors of the Corporate
+        Debtor shall stand superseded as a consequence of the initiation of
+        the CIRP in relation to the Corporate Debtor in terms of the
+        provisions of IBC, 2016.''
+
+
+and `Admitted', the `Application', and declared `Moratorium', etc.
+
+Appellant's Pleas & Decisions:
+3.      Challenging the `impugned           order' dated 04.02.2022 in
+
+IBA/757/2019, passed by the `Adjudicating Authority' (`NCLT',
+
+Division,       Bench - I, Chennai), the Learned Senior Counsel for the
+
+`Appellant', submits that the `Appellant' / `Shareholder-cum-Investor',
+
+like `Investors' (`OTS Consortium'), had invested `Huge Sums', based on
+
+the in-principle `Letter of Intent' for `Settlement' of `Outstanding Debt',
+
+issued by the `1st Respondent' on 14.02.2020 and the `OTS Consortium',
+
+
+
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 5 of 80
+conveyed its `Acceptance' to the `Letter of Intent' dated 06.03.2020 and
+
+hence, is an `Aggrieved Person'.
+4.      The Learned Counsel for the Appellant points out that after the
+
+`dismissal of the Application', under Section 7 of the I & B Code, 2016,
+
+at the request of the `Lender Consortium', the `Petition' of `Re-
+instatement', Viz. IA/827/2020 in the Closed / Disposed case of
+
+IBA/757/2019, is not `maintainable', and this is quite evident from Rule
+
+32 of the NCLT Rules, 2016, which deals as under:
+32. ``Interlocutory applications.- Every Interlocutory application
+        for stay, direction, condonation of delay, exemption from
+        production of copy of order appealed against or extension of time
+        prayed for in pending matters shall be in prescribed form and the
+        requirements prescribed in that behalf shall be complied with by
+        the applicant, besides filing an affidavit supporting the
+        application.''
+5.      The Learned Counsel for the Appellant submits that the
+
+`Adjudicating Authority', having given `Liberty', to file a `Petition', for
+
+`re-instatement', it should be treated, to be `Liberty', to file a fresh
+
+`Application' / `Petition', as per Section 7 of the I & B Code, 2016, for
+
+same cause of action.
+6.      The Learned Counsel for the Appellant brings it to the notice of
+
+this `Tribunal', that the `Adjudicating Authority', had failed to take
+
+`notice' of the developments that took place, after the `Dismissal' of the
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 6 of 80
+`Application' (filed under Section 7 of the Code as `Withdrawn' on
+
+19.12.2019). As a matter of fact, the `Lender Consortium', has accepted
+
+the `Additional Sum' of Rs.1765.34 Crores, out of Rs.3100 Crores. Also
+
+that, the `1st Respondent / Bank / Financial Creditor', should have filed a
+
+fresh `Application', under Section 7 of the I & B Code, 2016, in Form I,
+
+giving the precise amount of `Debt' payable and the `Date of Default', if
+
+any, after accepting Rs.1765.34 Crores.
+7.      The Learned Counsel for the Appellant takes a plea that the
+
+`Adjudicating Authority' (`Tribunal'), had failed to take notice that after
+
+payment of Rs.1765.34 Crores, out of Rs.3100 Crores, on the date of
+
+filing of an `Application' for `re-instatement', there was neither any
+
+`Default' nor remained any `Cause of Action', for such `re-instatement'.
+8.      The Learned Counsel for the Appellant advances an argument that
+
+the `Ex-parte Order' of `Re-instatement', dated 05.11.2020, passed by the
+
+`Adjudicating Authority, without `Notice', to the `Corporate Debtor', the
+
+said `Order', is unsustainable in `Law', being `violative of the rules of
+
+natural justice and
+Section 420
+of the Companies Act, 2013'.
+9.      The Learned Counsel for the Appellant contends that the `Ex-parte
+
+Order' dated 05.11.2020, re-instating the `Application', is not a `Speaking
+
+Order', and reasons for `Re-instatement', were not discussed.
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 7 of 80
+10.     The Learned Counsel for the Appellant forcefully points out that
+
+the `Adjudicating Authority', had failed to appreciate the fact that after
+
+the payment of Rs.1765.34 Crores by the `OTS Consortium', the
+
+remaining amount payable as per `OTS Proposal', is much higher than the
+
+`Reserve Price' of Rs.796.25 Crores, at which, the `Lender Consortium',
+
+intended to sell the `Debt' of the `Corporate Debtor', to `ARCs' /
+
+`NBFCs' / `Financial Institutions'. As such, it is the contention of the
+
+`Appellant' that the `rejection' of `OTS', by the `Lender Consortium', is
+
+an `Arbitrary', `Unreasonable' and a `Discriminatory' one.
+11.     According to the Learned Counsel for the Appellant, the reason for
+
+the `delay', in `executing', the `One Time Settlement', was because of the
+
+`failure', on the part of the `1st Respondent', who failed, to get `consent',
+
+from the `Lender Consortium', in time, and this was not noticed by the
+
+`Adjudicating Authority, at the time of passing of `impugned order'.
+12.     The Learned Counsel for the Appellant proceeds to point out that
+
+the `Lender Consortium', along with the `1st Respondent / Bank',
+
+collectively held `51% Shares', of the `Corporate Debtor', and after the
+
+`Issuance of Notice', for `Invocation of Pledge', dated 26.02.2019,
+
+40.38% of the `Equity Shares', of the `Corporate Debtor', were also
+
+`invoked', under the `Share Pledge Agreements'.
+
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 8 of 80
+13.     The Learned Counsel for the Appellant submits that because of the
+
+fact that the `Lender Consortium', having full control of the `Corporate
+
+Debtor', and effectively, holding `51% plus 40.38%' (approx. 91.38%) of
+
+the `Paid up Equity Share Capital of the Corporate Debtor', and hence it
+
+was not open to them, to press the `Application', under
+Section 7
+of the
+
+Code. As a majority Shareholder, for `Default', if any, it could have
+
+moved an `Application', under
+Section 10
+of the Code and not under
+Section 7
+of the Code.
+14.     The Learned Counsel for the Appellant contends that the
+
+`initiation' of `Corporate Insolvency Resolution Process', by the `1 st
+
+Respondent / Bank', during the shadow period i.e., from 25.03.2020 to
+
+25.03.2021, when the restrictions imposed by the Section 10A of the
+
+Code, were in force, is bad in `Law'. Added further, taking cognisance of
+
+the situation caused by the `Covid-19 Pandemic', the `initiation' of
+
+`Corporate Insolvency Resolution Process', was `suspended for a period
+
+of one year', by enacting, `Section 10A of the I & B Code, 2016'.
+15.     The Learned Counsel for the Appellant takes a stand that, it is
+
+evident from Paragraph 9 of the `impugned order' dated 04.02.2022, in
+
+IBA/757/2019, passed by the `Adjudicating Authority', that it was based
+
+on the `Order' in IA/827/2020 dated 05.11.2020. Hence, the `impugned
+
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 9 of 80
+order' dated 04.02.2022 in IBA/757/2019, passed by the `Adjudicating
+
+Authority', during the shadow period, under Section 10A of the Code, is
+
+liable to be `set aside'.
+16.     The Learned Counsel for the Appellant submits that an
+
+`Application', under
+Section 7
+of the I & B Code, 2016, is not to be
+
+`Admitted', based on the `existence' of `Debt' and `Default'.
+17.
+In this connection, the Learned Counsel for the Appellant points
+
+out that the Hon'ble Supreme Court of India in
+Vidarbha Industries Power
+
+Limited v. Axis Bank Limited
+, reported in (2002) 8 SCC at Page 352, has
+
+clarified that `the power to, `admit an Application', under
+Section 7
+vested with the NCLT, under
+Sec. 7 (5) (a)
+is discretionary and not
+
+mandatory'. Also that, the Hon'ble Supreme Court had observed that
+
+various factors will have to be taken into account, before the `initiation'
+
+of `Corporate Insolvency Resolution Process', including the `first
+
+objective', to `revive the company', and not spell its death knell,
+
+feasibility of the `Corporate Insolvency Resolution Process', `Viability'
+
+and the `Financial Health', of the `Corporate Debtor'.
+18.     The Learned Counsel for the Appellant points out that in the
+
+present case, the `Corporate Debtor', had repaid a sum of Rs.1765 Crores
+
+and that the `Company', is a going concern which was admitted vide
+
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 10 of 80
+Paragraph 19 (2A) in IBA/757/2019, by the `Adjudicating Authority'
+
+(`Tribunal') in its `impugned order' dated 04.02.2022.
+19.      On behalf of the Appellant, it is brought to the notice of this
+
+`Tribunal', that until the `Corporate Insolvency Resolution Process', was
+
+`Admitted', the `Corporate Debtor', was servicing the `Loan' / `Repaying
+
+the Loan', using 30% of the `Income', as a going concern, etc.
+20.      The Learned Counsel for the Appellant submits that the `Settlement
+
+Proposal' of the `Corporate Debtor', under the `One Time Settlement',
+
+was in line with the `numerous Settlement', reached in other `Thermal
+
+Plants', that are similarly placed:
+Sl.No.    Name of the Capacity EBITA                EBITA      Deal Value       Per MW
+          Borrower         MW  INR Cr.              Multiple      Cr.
+1      Jindal Steel 1,200      800                 3.0       2,400               2.0
+          Power     (Ind
+          Coal)
+   2      Simhapuri        600      0                    0         300              0.5
+          (Imp Coal)
+   3      Meenakshi        900      0                    0       1,000              1.1
+          Power (Imp.
+          Coal)
+   4      Coastal        1,200 (-) 200                   0       2,165*             1.9
+          Energen (Imp                                           2,691**            2.3
+          Coal)
+21.      The Learned Counsel for the Appellant submits that after filing of
+
+an `Application', under
+Section 7
+of the I & B Code, 2016, along with a
+
+`Consortium          of    Investors'       (including   the   `Appellant'      -    `OTS
+
+Consortium'), made an offer of Rs.3000 Crores, as a `One Time
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 11 of 80
+Settlement' on 15.05.2019, inspite of the fact that the sustainable `Debt',
+
+was only Rs.2450 Crores. That apart, on 17.05.2019, the `Lender
+
+Consortium', acknowledged the `Offer', and called upon `OTS
+
+Consortium', to make a `payment of Rs.150 Crores', on or before
+
+15.06.2019. Resting upon the request made by the `Lender Consortium',
+
+the `OTS Consortium', made plurality of payments on 16.05.2019,
+
+06.06.2019 and 14.06.2019 cumulatively, amounting to Rs.150 Crores.
+Also that, it was clarified to the `1st Respondent / Bank', by the `OTS
+
+Consortium', that the payments were against the `One Time Settlement'.
+22.     The Learned Counsel for the Appellant brings it to the notice of
+
+this `Tribunal', that the consideration, payable under the `One Time
+
+Settlement', was later revised to Rs.3100 Crores and `Additional Equity
+
+of 15%', was offered to the `Lender Consortium' (`OTS'). In this
+
+connection, it is pointed out on behalf of the Appellant that the `1 st
+
+Respondent / Bank', had invited `Bids', based on `Swiss Challenge', and
+
+the `Respondents', were not happy with the `Bids', received so that they
+
+offered `Swiss Challenge', to the `existing Promoters', to give `H1 Bid',
+
+(vide `Letter of 1st Respondent / Bank - SARG/INFRA/CEPL/19-20/46
+
+dated 01.06.2019'), addressed to the `Appellant' and Another with a copy
+
+marked to the `Corporate Debtor'.
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 12 of 80
+23.     The Learned Counsel for the Appellant points out that resting upon
+
+the `One Time Settlement', proposed by the `OTS Consortium', the `1st
+
+Respondent / Bank', `withdrew' its `
+Section 7
+Application' (Filed under
+
+the IBC) and on 14.02.2020, the `Lender Consortium', through `State
+
+Bank of India', issued an `In-principle Letter of Intent', in favour of the
+
+`Corporate Debtor', and that the `One Time Settlement', offered by the
+
+`One Time Settlement Consortium', was supported by the `Members',
+
+representing `92.83%' of the `Debt', under the `Agreements'.
+24.     The Learned Counsel for the Appellant, refers to the Letter dated
+
+06.03.2020, addressed to the `Chief Manager-Infra, State Bank of India,
+
+Stressed Asset Resolution Group', on the subject `In-principle Letter of
+
+Intent for settlement of Outstanding Debt of Coastal Energen Private
+
+Limited (`Company')', by the `Authorised Signatory for Mutiara Energy
+
+Holdings, Mauritius and signed by the `Authorised Signatory for Precious
+
+Energy Holdings Limited, BVI, with a copy, being marked to the
+
+`Corporate Debtor' (`Coastal Energen Private Limited'). The `OTS
+
+Consortium, conveyed its `acceptance', to the `Letter of Intent', with
+
+some minor and practical modifications, and that the `OTS Consortium',
+
+had accepted the `Fundamental' and `Essential' Terms of `Letter of
+
+Intent'.
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 13 of 80
+25.     The Learned Counsel for the Appellant points out that the `OTS
+
+Consortium', during the Calendar Years 2020 and 2021, had made
+
+numerous payments to the `One Time Settlement', and at the time of
+
+payment, the `OTS Consortium', made it clear that the `Sums', were
+
+being remitted towards the `One Time Settlement', and further that the
+
+`Amounts', paid under the `One Time Settlement', received by the
+
+`Lender Consortium, without any protest or demur and continue to be
+
+retained by the `Lender Consortium'.
+26.     The Learned Counsel for the Appellant submits that the `OTS
+
+Consortium', is ready to `Settle' the matter in terms of Section 12A of the
+
+Code, for Rs.1,000 Crore plus, which is much higher than the `Reserve
+
+Price' of `Rs.796.25 Crores', at which the `Lender Consortium', intended
+
+to sell the entire `Debt' of the `Corporate Debtor', to the `ARCs' /
+
+`NBFCs' / `Financial Institutions', etc. Further, if they agree to it, it will
+
+exhibit the `Bonafide', on the part of the `Lender Consortium', to save the
+
+`Corporate Debtor', from `Insolvency', being the `largest Shareholder', of
+
+the `Corporate Debtor'.
+27.     The Learned Counsel for the Appellant contends that when the
+
+request for `Withdrawal', was made by the `1st Respondent / Bank', on
+
+behalf of the `Lender Consortium', for the `Application', filed under
+
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 14 of 80
+Section 7
+by the `1st Respondent / Bank / Financial Creditor', a `wrong
+
+statement', was made, by way of an Affidavit, by the `1 st Respondent /
+
+Bank', which was recorded by the `Adjudicating Authority' (`Tribunal')
+
+in the Order dated 19.12.2019 in IBA/757/2019, wherein, it is observed as
+
+under:
+``It is respectfully submitted that the Corporate Debtor has
+         submitted OTS Proposal to the Consortium led by Financial
+         Creditor which is approved by the `Financial Creditor' and other
+         consortium member banks. The `Proposal' is before `Committees of
+         15 banks for taking decision and it will take 4 weeks' time to have a
+         final decision in the matter.''
+28.      The Learned Counsel for the Appellant comes out with a plea that
+
+`No Man can take an advantage of his `own wrong', and that the `1st
+
+Respondent / Bank', cannot question the `Validity' of the `One Time
+
+Settlement Proposal', by its undermentioned failures:
+(a) ``Failure to get 100% approval from Consortium of Banks.
+(b) Failure to issue `Final Letter of Intent' as per in-principle letter
+             dated 14.02.2020.
+(c) Failure to maintain the amounts in a separate Escrow
+             Account.''
+29.      The Learned Counsel for the Appellant contends that the
+
+`Corporate Debtor', had made payments in respect of `One Time
+
+Settlement', in `Good Faith', to an extent of Rs.1765 Crores and had
+
+altered its `Financial Position', and therefore, the `Lenders' are
+
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 15 of 80
+`obligated', to `recognise' the payment, against the `One Time
+
+Settlement', and complete the `Settlement'. In this connection, the `Plea',
+
+of the `Appellant' is that, `the Doctrine of Promissory Estoppel applies to
+
+the `OTS Arrangement', reached among the parties in terms of the `In-
+
+principle Letter of Intent' dated 14.02.2020.
+30.     The Learned Senior Counsel for the Appellant points out that the
+
+`1st Respondent / Bank' (`Lead Bank', for the `Lender Consortium'), in
+
+respect of the period between the Years 2009 and 2014, had failed to
+
+make necessary Funds available for completing the construction of the
+
+`Power Plant', and in fact, the `1st Respondent /Bank', had only released a
+
+Sum of Rs.325 Crores, which constituted a `minor fraction of the required
+
+Sum of Working Capital, for operating the Power Plant' (`INR 1600
+
+Crores').
+31.     The Learned Counsel for the Appellant while rounding up, prays
+
+for setting aside the `impugned order' dated 04.02.2022 in IBA/757/2019,
+
+passed by the `National                 Company   Law   Tribunal',   Division
+
+Bench - I, Chennai', and sought for a direction, being issued by this
+
+`Tribunal', in `Ordering', the `1st Respondent / Bank', to arrive at a
+
+`Resolution Plan' (`One Time Settlement'), by placing the amounts paid
+
+
+
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 16 of 80
+by the `Corporate Debtor', and the `OTS Consortium', amounting to
+
+Rs.1765 Crores in a separate Account.
+Appellant's Decisions:
+32.     The Learned Counsel for the Appellant submits that a `Party',
+
+cannot be permitted to secure an `Advantage', under an `Instrument' and
+
+at the same time, setup a `Plea', disputing the `Validity', of the very same
+
+instrument, as per decision in
+Union of India v. N. Murugesan
+, reported in
+
+(2022) 2 SCC at Page 25, Spl Pgs: 38 to 40, wherein at paragraphs 26, 27,
+
+27.1 to 27.3, wherein it is observed as under:
+Approbate and Reprobate:
+26. ``These phrases are borrowed from the Scots law. They
+        would only mean that no party can be allowed to accept and reject
+        the same thing, and thus one cannot blow hot and cold. The
+        principle behind the doctrine of election is inbuilt in the concept of
+        approbate and reprobate. Once again, it is a principle of equity
+        coming under the contours of common law. Therefore, he who
+        knows that if he objects to an instrument, he will not get the benefit
+        he wants cannot be allowed to do so while enjoying the fruits. One
+        cannot take advantage of one part while rejecting the rest. A
+        person cannot be allowed to have the benefit of an instrument while
+        questioning the same. Such a party either has to affirm or disaffirm
+        the transaction. This principle has to be applied with more vigour
+        as a common law principle, if such a party actually enjoys the one
+        part fully and on near completion of the said enjoyment, thereafter
+        questions the other part. An element of fair play is inbuilt in this
+        principle. It is also a species of estoppel dealing with the conduct of
+        a party. We have already dealt with the provisions of the
+Contract
+        Act
+concerning the conduct of a party, and his presumption of
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 17 of 80
+knowledge while confirming an offer through his acceptance
+        unconditionally.
+27. We would like to quote the following judgments for better
+        appreciation and understanding of the said principle:
+27.1.
+Nagubai Ammal v. B. Shama Rao
+, 1956 SCR 451:
+"23. But it is argued by Sri Krishnaswami Ayyangar that as
+        the proceedings in OS. No. 92 of 1938-39 are relied on as barring
+        the plea that the decree and sale in OS. No. 100 of 1919-20 are not
+        collusive, not on the ground of res judicata or estoppel but on the
+        principle that a person cannot both approbate and reprobate, it is
+        immaterial that the present appellants were not parties thereto, and
+        the decision in Verschures Creameries Ltd. v. Hull and Netherlands
+        Steamship Company Ltd. [(1921) 2 KB 608 (CA)], and in
+        particular, the observations of Scrutton, LJ, at page 611 were
+        quoted in support of this position. There, the facts were that an
+        agent delivered goods to the customer contrary to the instructions
+        of the principal, who thereafter filed a suit against the purchaser
+        for price of goods and obtained a decree.
+Not having obtained satisfaction, the principal next filed a
+        suit against the agent for damages on the ground of negligence and
+        breach of duty. It was held that such an action was barred. The
+        ground of the decision is that when on the same facts, a person has
+        the right to claim one of two reliefs and with full knowledge he
+        elects to claim one and obtains it, it is not open to him thereafter to
+        go back on his election and claim the alternative relief. The
+        principle was thus stated by Bankes, L.J.: (Verschures Creameries
+        Ltd. case, (1921) 2 KB 608 (CA).
+"... Having elected to treat the delivery to him as an
+                 authorised delivery they cannot treat the same act as a
+                 misdelivery. To do so would be to approbate and reprobate
+                 the same act".
+The observations of Scrutton, LJ on which the appellants rely are
+        as follows: (Verschures Creameries Ltd. case, KB pp. 611-612)
+
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 18 of 80
+"... A plaintiff is not permitted to 'approbate and
+                 reprobate'. The phrase is apparently borrowed from the
+                 Scotch law, where it is used to express the principle
+                 embodied in our doctrine of election -- namely, that no party
+                 can accept and reject the same instrument: Ker v. Wauchope
+                 [(1819) 1 Bligh PC 1, at pg 21] : Douglas-Menzies v.
+                 Umphelby [(1908) AC 224, at p. 232 (PC] . The doctrine of
+                 election is not however confined to instruments. A person
+                 cannot say at one time that a transaction is valid and thereby
+                 obtain some advantage, to which he could only be entitled on
+                 the footing that it is valid, and then turn round and say it is
+                 void for the purpose of securing some other advantage. That
+                 is to approbate and reprobate the transaction".
+It is clear from the above observations that the maxim that a person
+cannot 'approbate and reprobate' is only one application of the doctrine
+of election, and that its operation must be confined to reliefs claimed in
+respect of the same transaction and to the persons who are parties
+thereto. The law is thus stated in Halsbury's Laws of England, Vol. XIII,
+p. 464, para 512:
+"On the principle that a person may not approbate and
+        reprobate, a species of estoppel has arisen which seems to be
+        intermediate between estoppel by record and estoppel in pais, and
+        may conveniently be referred to here. Thus a party cannot, after
+        taking advantage under an order (e.g. payment of costs), be heard
+        to say that it is invalid and ask to set it aside, or to set up to the
+        prejudice of persons who have relied upon it a case inconsistent
+        with that upon which it was founded; nor will he be allowed to go
+        behind an order made in ignorance of the true facts to the
+        prejudice of third parties who have acted on it".
+27.2.
+State of Punjab v. Dhanjit Singh Sandhu
+, (2014) 15 SCC 144
+(SCC pp. 153-54, paras 22-23 & 25-26)
+              "22. The doctrine of "approbate and reprobate" is only a
+        species of estoppel, it implies only to the conduct of parties. As in
+
+
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 19 of 80
+the case of estoppel it cannot operate against the provisions of a
+        statute.
+(
+Vide CIT v. MR. P. Firm Muar
+, AIR 1965 SC 1216).
+23. It is settled proposition of law that once an order has
+        been passed, it is complied with, accepted by the other party and
+        derived the benefit out of it, he cannot challenge it on any ground.
+        (
+Vide Maharashtra SRTC v. Balwant Regular Motor Service
+, AIR
+        1969 SC 329).
+In
+R.N. Gosain v. Yashpal Dhir [R.N. Gosain
+v.
+        Yashpal Dhir, (1992) 4 SCC 683] this Court has observed as
+        under: (
+R.N. Gosain
+case, SCC pp. 687-88, para 10)
+
+                         "10. Law does not permit a person to both approbate
+                 and reprobate. This principle is based on the doctrine of
+                 election which postulates that no party can accept and reject
+                 the same instrument and that 'a person cannot say at one
+                 time that a transaction is valid and thereby obtain some
+                 advantage, to which he could only be entitled on the footing
+                 that it is valid, and then turn round and say it is void for the
+                 purpose of securing some other advantage'."
+25. The Supreme Court in
+Rajasthan State Industrial
+        Development and Investment Corpn. v. Diamond and Gem
+        Development Corpn. Ltd. [Rajasthan State Industrial Development
+and Investment Corpn. v. Diamond and Gem Development Corpn.
+        Ltd., (2013) 5 SCC 470 : (2013) 3 SCC (Civ) 153] , made an
+        observation that a party cannot be permitted to "blow hot and
+        cold", "fast and loose" or "approbate and reprobate". Where one
+        knowingly accepts the benefits of a contract or conveyance or an
+        order, is estopped to deny the validity or binding effect on him of
+        such contract or conveyance or order. This rule is applied to do
+        equity, however, it must not be applied in a manner as to violate the
+        principles of right and good conscience.
+26. It is evident that the doctrine of election is based on the
+        rule of estoppel, the principle that one cannot approbate and
+        reprobate is inherent in it. The doctrine of estoppel by election is
+        one among the species of estoppel in pais (or equitable estoppel),
+        which is a rule of equity. By this law, a person may be precluded,
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 20 of 80
+by way of his actions, or conduct, or silence when he has to speak,
+        from asserting a right which he would have otherwise had."
+
+      27.3.
+Rajasthan State Industrial Development & Investment Corpn.
+v. Diamond & Gem Development Corpn. Ltd.
+, (2013) 5 SCC 470: (SCC
+pp. 480-81, paras 15-16)
+
+                 "I. Approbate and reprobate
+15. A party cannot be permitted to "blow hot-blow cold",
+        "fast and loose" or "approbate and reprobate". Where one
+        knowingly accepts the benefits of a contract, or conveyance, or of
+        an order, he is estopped from denying the validity of, or the binding
+        effect of such contract, or conveyance, or order upon himself. This
+        rule is applied to ensure equity, however, it must not be applied in
+        such a manner so as to violate the principles of what is right and of
+        good conscience. [
+Vide Nagubai Ammal v. B. Shama Rao
+[
+AIR
+        1956 SC 593] , CIT v. V. MR. P. Firm Muar
+[
+AIR 1965 SC 1216],
+        Ramesh Chandra Sankla v. Vikram Cement
+[(
+2008) 14 SCC 58],
+        Pradeep Oil Corpn. v. MCD
+[(
+2011) 5 SCC 270], Cauvery Coffee
+        Traders v. Hornor Resources (International) Co. Ltd.
+[(2011) 10
+        SCC 420] and V. Chandrasekaran v. Administrative Officer
+        [(2012) 12 SCC 133]
+16. Thus, it is evident that the doctrine of election is based on
+        the rule of estoppel--the principle that one cannot approbate and
+        reprobate is inherent in it. The doctrine of estoppel by election is
+        one among the species of estoppel in pais (or equitable estoppel),
+        which is a rule of equity. By this law, a person may be precluded,
+        by way of his actions, or conduct, or silence when it is his duty to
+        speak, from asserting a right which he would have otherwise had."
+33.     The Learned Counsel for the Appellant raises an argument that the
+
+sums, under the `One Time Settlement', were paid by `numerous entities',
+
+which had no `privity', with the `1st Respondent/Bank', with the `One
+
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 21 of 80
+Time Settlement', and hence, the amounts paid by the `OTS Consortium',
+
+pursuant the `OTS', was not to be adjusted, against the dues under the
+
+`Agreements'.
+34.     The Learned Counsel for the Appellant points out that when a
+
+`Debtor', makes a payment, he has a `Right' to have it appropriated in
+
+such manner, as he decides, if the `Creditor', accepts the payment, he is
+
+bound to make the `appropriation', in accordance with the directions of
+
+the `Debtor', as per decision of the Hon'ble Supreme Court of India in
+Gurpreet Singh v. Union of India
+, reported in (2006) 8 SCC 457 at Spl.
+
+Pg.; 467, wherein at Paragraphs 11 and 12, it is observed as under:
+11. ``The relevant provisions governing contractual dealings are
+        found in
+Sections 59
+to
+61
+of the Indian Contract Act. According to
+        Pollock & Mulla, Indian Contract Act, 12th Edition, the underlying
+        principle is that when several debts are due and owing to one
+        person, any payment made by the debtor either with an express
+        intimation or under circumstances from which an intimation may
+        be implied must be applied to the discharge of the debt in the
+        manner intimated or which can be implied from the circumstances.
+Mulla proceeds to observe:
+"In England, 'it has been considered a general rule since
+                 Clayton case that when a debtor makes a payment he may
+                 appropriate it to any debt he pleases, and the creditor must
+                 apply it accordingly'. Where several distinct debts are owing
+                 by a debtor to his creditor, the debtor has the right when he
+                 makes a payment to appropriate the money to any of the
+                 debts that he pleases, and the creditor is bound, if he takes
+                 the money, to apply it in the manner directed by the debtor. If
+                 the debtor does not make any appropriation at the time when
+
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 22 of 80
+he makes the payment, the right of appropriation devolves on
+                 the creditor."
+12. The rule of appropriation as applied in India was summed up
+by T.L. Venkatarama Aiyar. J. (as he then was) in the Full Bench decision
+of the Madras High Court in
+Garimella Suryanarayana vs. Gada
+Venkataramana Rao
+(AIR 1953 Mad. 458). His Lordship stated: (AIR pp.
+459 -60, para 5)
+5. "The principles governing appropriation of payments
+        made by a debtor are under the general law well settled. When a
+        debtor makes a payment, he has a right to have it appropriated in
+        such manner as he decides and if the creditor accepts the payment,
+        he is bound to make the appropriation in accordance with the
+        directions of the debtor. This is what is known in England as the
+        rule in 'Clayton case' (1816) 1 Mer.572: 35E.R. 781, and it is
+        embodied in
+Section 59
+, Contract Act. But when the debtor has not
+        himself made any appropriation, the right devolves on the creditor
+        who can exercise it at any time, vide 'Cory Bros. & Co. vs. Owners
+        of the Turkish Steamship 'Mecca', (1897) A.C. 286; and even at the
+        time of the trial : Vide 'Seymour v. Pickett', (1905) 1 KB 715. That
+        is
+Section 60
+, Contract Act. It is only when there is no
+        appropriation either by the debtor or the creditor that the Court
+        appropriates the payments as provided in
+Section 61
+, Contract
+        Act."
+35.     The Learned Counsel for the Appellant urges that the `1 st
+
+Respondent / Bank', has not adduced any evidence, to disprove the
+
+documentary evidence, presented by the `Appellant', and that the
+
+`acceptance and receipt of the payments', made by the `OTS
+
+Consortium', along with the communications brought on record, by the
+
+`Appellant', were not specifically denied by the `1 st Respondent / Bank',
+
+
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 23 of 80
+and hence it is to be treated as one admitted by the `1 st Respondent /
+
+Bank'.
+36.     The Learned Counsel for the Appellant adverts to the decision of
+
+the Hon'ble Supreme Court of India in
+Venkataramana Hebbar v. M.
+
+Rajagopal Hebbar & Ors.
+, (2007) 6 SCC at Page 401; Spl Pg: 406,
+
+wherein at Paragraphs 12 and 13, it is observed as under:
+12. ``The contract between the parties, moreover was a contingent
+contract. It was to have its effect only on payment of the said sum of Rs.
+15,000/- to the plaintiff and the other respondents by Defendants 1 to 3. It
+has been noticed hereinbefore by us that as of fact, it was found that no
+such payment had been made. Even there had been no denial of the
+assertions made by the appellant in their written statement in that behalf.
+The said averments would, therefore, be deemed to be admitted. Order 8
+Rule 3 and Order 8 Rule 5 of the Civil Procedure Code read thus:-
+``3. Denial to be specific.- It shall not be sufficient for a
+        defendant in his written statement to deny generally the grounds
+        alleged by the plaintiff, but the defendant must deal specifically
+        with each allegation of fact of which he does not admit the truth,
+        except damages.
+5. Specific denial.- (1) Every allegation of fact in the plaint,
+        if not denied specifically or by necessary implication, or stated to
+        be not admitted in the pleading of the defendant, shall be taken to
+        be admitted except as against a person under disability.
+Provided that the Court may in its discretion require any fact
+        so admitted to be proved otherwise than by such admission.
+(2) Where the defendant has not filed a pleading, it shall be
+        lawful for the Court to pronounce judgment on the basis of the facts
+        contained in the plaint, except as against a person under a
+        disability, but the Court may, in its discretion, require any such fact
+        to be proved.
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 24 of 80
+(3) In exercising its discretion under the proviso to sub-rule
+        (1) or under sub-rule (2), the Court shall have due regard to the
+        fact whether the defendant could have, or has, engaged a pleader.
+(4) Whenever a judgment is pronounced under this rule, a
+        decree shall be drawn up in accordance with such judgment and
+        such decree shall bear the date on which the judgment was
+        pronounced."
+13. Thus, if a plea which was relevant for the purpose of
+maintaining a suit had not been specifically traversed, the Court was
+entitled to draw an inference that the same had been admitted. A fact
+admitted in terms of
+Section 58
+of the Evidence Act need not be proved.''
+37.     The Learned Counsel for the Appellant points out that I & B Code,
+
+2016, is a `Beneficial Legislation', designed to `enable', the `Corporate
+
+Debtor', to get back on its `feet', as per decision of the Hon'ble Supreme
+
+Court of India, in
+Innoventive Industries Ltd. v. ICICI Bank
+, reported in
+
+(2018) 1 SCC at Page 407 (vide Paragraph 12).
+38.     The Learned Counsel for the Appellant, refers to the decision of
+
+Hon'ble Supreme Court of India in
+Dena Bank v. C. Shivakumar Reddy
+,
+
+reported in (2021) 10 SCC at Page 330 at Spl Pgs. 370-374, wherein at
+
+Paragraphs 77 to 87, it is observed as under:
+77. The IBC is not just another statute for recovery of debts.
+Nor is it a statute which merely prescribes the modalities of
+        liquidation of a Corporate body, unable to pay its debts. It is
+        essentially a statute which works towards the revival of a
+        Corporate body, unable to pay its debts, by appointment of a
+        Resolution Professional.
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 25 of 80
+78.
+In
+Innoventive Industries Ltd vs. ICICI Bank
+(2018) 1
+        SCC 407; this Court, speaking through Nariman, J. extracted
+        excerpts from the Report of the Bankruptcy Law Reforms
+        Committee of November, 2015 some of which are reproduced
+        hereinbelow: (SCC pp. 425-26, para 16)
+16. ...`... When a firm (referred to as the corporate debtor in
+        the draft law) defaults, the question arises about what is to be done.
+        Many possibilities can be envisioned. One possibility is to take the
+        firm into liquidation. Another possibility is to negotiate a debt
+        restructuring, where the creditors accept a reduction of debt on an
+        NPV basis, and hope that the negotiated value exceeds the
+        liquidation value. Another possibility is to sell the firm as a going
+        concern and use the proceeds to pay creditors. Many hybrid
+        structures of these broad categories can be envisioned.
+        Speed is of essence
+               Speed is of essence for the working of the Bankruptcy Code,
+        for two reasons. First, while the "calm period" can help keep an
+        organisation afloat, without the full clarity of ownership and
+        control, significant decisions cannot be made. Without effective
+        leadership, the firm will tend to atrophy and fail. The longer the
+        delay, the more likely it is that liquidation will be the only answer.
+        Second, the liquidation value tends to go down with time as many
+        assets suffer from a high economic rate of depreciation.
+From the viewpoint of creditors, a good realisation can
+        generally be obtained if the firm is sold as a going concern. Hence,
+        when delays induce liquidation, there is value destruction. Further,
+        even in liquidation, the realisation is lower when there are delays.
+        Hence, delays cause value destruction. Thus, achieving a high
+        recovery rate is primarily about identifying and combating the
+        sources of delay.
+Control of a company is not divine right.--When a firm
+        defaults on its debt, control of the company should shift to the
+        creditors. In the absence of swift and decisive mechanisms for
+        achieving this, management teams and shareholders retain control
+        after default. Bankruptcy law must address this. Objectives..."
+(emphasis in original)
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 26 of 80
+79.
+In
+Innoventive Industries Ltd vs. ICICI Bank
+(supra) this
+        Court noted the objectives set by the Bankruptcy Law Reforms
+        Committee in recommending the IBC: (SCC pp. 426-28, para 16)
+              ``16. ...`... The Committee set the following as objectives
+        desired from implementing a new Code to resolve insolvency and
+        bankruptcy:
+(1) Low time to resolution.
+(2) Low loss in recovery.
+(3) Higher levels of debt financing across a wide variety of
+        debt instruments.
+Principles driving the design
+              The Committee chose the following principles to design the
+        new insolvency and bankruptcy resolution framework:
+I. The Code will facilitate the assessment of viability of the
+        enterprise at a very early stage.
+(1) The law must explicitly state that the viability of the
+        enterprise is a matter of business, and that matters of business can
+        only be negotiated between creditors and debtor. While viability is
+        assessed as a negotiation between creditors and debtor, the final
+        decision has to be an agreement among creditors who are the
+        financiers willing to bear the loss in the insolvency.
+(2) The legislature and the courts must control the process of
+        resolution, but not be burdened to make business decisions.
+(3) The law must set up a calm period for insolvency
+        resolution where the debtor can negotiate in the assessment of
+        viability without fear of debt recovery enforcement by creditors.
+(4) The law must appoint a resolution professional as the
+        manager of the resolution period, so that the creditors can
+        negotiate the assessment of viability with the confidence that the
+        debtors will not take any action to erode the value of the enterprise.
+The professional will have the power and responsibility to monitor
+        and manage the operations and assets of the enterprise. The
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 27 of 80
+professional will manage the resolution process of negotiation to
+        ensure balance of power between the creditors and debtor, and
+        protect the rights of all creditors. The professional will ensure the
+        reduction of asymmetry of information between creditors and
+        debtor in the resolution process.
+II. The Code will enable symmetry of information between creditors
+        and debtors.
+(5) The law must ensure that information that is essential for
+        the insolvency and the bankruptcy resolution process is created and
+        available when it is required.
+(6) The law must ensure that access to this information is
+        made available to all creditors to the enterprise, either directly or
+        through the regulated professional.
+(7) The law must enable access to this information to third
+        parties who can participate in the resolution process, through the
+        regulated professional.
+III. The Code will ensure a time-bound process to better preserve
+        economic value.
+(8) The law must ensure that time value of money is
+        preserved, and that delaying tactics in these negotiations will not
+        extend the time set for negotiations at the start.
+        IV. The Code will ensure a collective process.
+(9) The law must ensure that all key stakeholders will
+        participate to collectively assess viability. The law must ensure that
+        all creditors who have the capability and the willingness to
+        restructure their liabilities must be part of the negotiation process.
+        The liabilities of all creditors who are not part of the negotiation
+        process must also be met in any negotiated solution.
+        V. The Code will respect the rights of all creditors equally.
+(10) The law must be impartial to the type of creditor in
+        counting their weight in the vote on the final solution in resolving
+        insolvency.
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 28 of 80
+VI. The Code must ensure that, when the negotiations fail to
+        establish viability, the outcome of bankruptcy must be binding.
+(11) The law must order the liquidation of an enterprise
+        which has been found unviable. This outcome of the negotiations
+        should be protected against all appeals other than for very
+        exceptional cases.
+VII. The Code must ensure clarity of priority, and that the rights of
+        all stakeholders are upheld in resolving bankruptcy.
+(12) The law must clearly lay out the priority of distributions
+        in bankruptcy to all stakeholders. The priority must be designed so
+        as to incentivise all stakeholders to participate in the cycle of
+        building enterprises with confidence.
+(13) While the law must incentivise collective action in
+        resolving bankruptcy, there must be a greater flexibility to allow
+        individual action in resolution and recovery during bankruptcy
+        compared with the phase of insolvency resolution."
+[Emphasis in Original]
+80. As observed by this Court, speaking through Nariman, J
+        in P. Mohanraj v. Shah Bros. Ispat (P) Limited (2021) 6 SCC 258:
+(SCC p. 287, paras 15-16)
+              "15. A cursory look at
+Section 14(1)
+makes it clear that
+        subject to the exceptions contained in sub-sections (2) and (3), on
+        the insolvency commencement date, the Adjudicating Authority
+        shall mandatorily, by order, declare a moratorium to prohibit what
+        follows in clauses (a) to (d). Importantly, under sub-section (4), this
+        order of moratorium does not continue indefinitely, but has effect
+        only from the date of the order declaring moratorium till the
+        completion of the corporate insolvency resolution process which is
+        time-bound, either culminating in the order of the Adjudicating
+        Authority approving a resolution plan or in liquidation.
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 29 of 80
+16. The two exceptions to
+Section 14(1)
+are contained in sub-
+        sections (2) and (3) of
+Section 14
+. Under sub-section (2), the supply
+        of essential goods or services to the corporate debtor during this
+        period cannot be terminated or suspended or even interrupted, as
+        otherwise the corporate debtor would be brought to its knees and
+        would not able to function as a going concern during this period."
+81.
+In
+Swiss Ribbons Private Limited v. Union of India
+(2019) 4
+        SCC 17, authored by Nariman, J. this Court observed: (SCC p. 55,
+        para 28)
+
+               "28. It can thus be seen that the primary focus of the
+        legislation is to ensure revival and continuation of the corporate
+        debtor by protecting the corporate debtor from its own
+        management and from a corporate death by liquidation. The Code
+        is thus a beneficial legislation which puts the corporate debtor
+        back on its feet, not being a mere recovery legislation for creditors.
+        The interests of the corporate debtor have, therefore, been
+        bifurcated and separated from that of its promoters/those who are
+        in management. Thus, the resolution process is not adversarial to
+        the corporate debtor but, in fact, protective of its interests. The
+        moratorium imposed by
+Section 14
+is in the interest of the
+        corporate debtor itself, thereby preserving the assets of the
+        corporate debtor during the resolution process. The timelines
+        within which the resolution process is to take place again protects
+        the corporate debtor's assets from further dilution, and also
+        protects all its creditors and workers by seeing that the resolution
+        process goes through as fast as possible so that another
+        management can, through its entrepreneurial skills, resuscitate the
+        corporate debtor to achieve all these ends."
+82. IBC has overriding effect over other laws.
+Section 238
+of the
+IBC provides that the provisions of the IBC shall have effect,
+notwithstanding anything inconsistent therewith contained in any other
+law, for the time being in force, or any other instrument, having effect by
+virtue of such law.
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 30 of 80
+83. Unlike coercive recovery litigation, the Corporate Insolvency
+Resolution Process under the IBC is not adversarial to the interests of the
+Corporate Debtor, as observed by this Court in
+Swiss Ribbons Private
+Limited v. Union of India
+[(2019) 4 SCC 17].
+84. On the other hand, the IBC is a beneficial legislation for equal
+treatment of all creditors of the Corporate Debtor, as also the protection
+of the livelihoods of its employees/workers, by revival of the Corporate
+Debtor through the entrepreneurial skills of persons other than those in
+its management, who failed to clear the dues of the Corporate Debtor to
+its creditors. It only segregates the interests of the Corporate Debtor from
+those of its promoters/persons in management.
+85. Relegation of creditors to the remedy of Coercive litigation
+against the Corporate Debtors could be detrimental to the interests of the
+Corporate Debtor and its creditors alike. While multiple coercive
+proceedings against a Corporate Debtor in different forums could impede
+its commercial/business activities, deplete its cash reserves, dissipate its
+assets, moveable and immoveable and precipitate its commercial death,
+such proceedings might not be economically viable for the creditors as
+well, because of the length of time consumed in the litigations, the
+expenses of litigation, and the uncertainties of realisation of claims even
+after ultimate success in the litigation.
+86. It is, therefore, imperative that the provisions of the IBC and
+the Rules and Regulations framed thereunder be construed liberally, in a
+purposive manner to further the objects of enactment of the statute, and
+not be given a narrow, pedantic interpretation which defeats the purposes
+of the Act.
+87. In construing and/or interpreting any statutory provision one
+must look into the legislative intent of the statute. The intention of the
+statute has to be found in the words used by the legislature itself.
+In case
+of doubt it is always safe to look into the object and purpose of the statute
+or the reason and spirit behind it. Each word, phrase or sentence has to
+be construed in the light of the general purpose of the Act itself, as
+observed by Mukherjea J., in
+Poppatlal Shah v. State of Madras
+[AIR
+1953 SC 274] and a plethora of other judgments of this Court. To quote
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 31 of 80
+Krishna Iyer J., the interpretative effort "must be illumined by the goal,
+though guided by the words.''
+39.     The Learned Counsel for the Appellant cites the Judgment of the
+
+Hon'ble Supreme Court of India in
+Swiss Ribbons (P) Limited & Anr. v.
+
+Union of India & Ors.
+(vide Writ Petition (Civil) No. 99 of 2018 dated
+
+25.01.2019, reported in India Kanoon at Pages 18 & 19, wherein at
+
+Paragraph 12, it is observed as under:
+12. ``It can thus be seen that the primary focus of the legislation is
+        to ensure revival and continuation of the corporate debtor by
+        protecting the corporate debtor from its own management and from
+        a corporate death by liquidation.
+The Code is thus a beneficial legislation which puts the corporate
+        debtor back on its feet, not being a mere recovery legislation for
+        creditors. The interests of the corporate debtor have, therefore,
+        been bifurcated and separated from that of its promoters / those
+        who are in management. Thus, the resolution process is not
+        adversarial to the corporate debtor but, in fact, protective of its
+        interests. The moratorium imposed by
+Section 14
+is in the interest
+        of the corporate debtor itself, thereby preserving the assets of the
+        corporate debtor during the resolution process. The timelines
+        within which the resolution process is to take place again protects
+        the corporate debtor's assets from further dilution, and also
+        protects all its creditors and workers by seeing that the resolution
+        process goes through as fast as possible so that another
+        management can, through its entrepreneurial skills, resuscitate the
+        corporate debtor to achieve all these ends.''
+40.     The Learned Counsel for the Appellant, in support of his
+
+contentions that the `1st Respondent / Bank', being an `instrumentality of
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 32 of 80
+the State', is required to, `act in a `Fair' and `Non-Arbitrary Manner', is
+
+legally bound to, `act in a Fair and Reasonable manner, and demonstrate
+
+`Good Faith', in its `operations', as a `Lender', refers to the Judgment of
+
+the Hon'ble Supreme Court of India in
+Mardia Chemicals Ltd. v. Union
+
+of India
+, reported in (2004) 4 SCC at Page 311; Spl Pg.: 358, wherein at
+
+Paragraph 71, it is observed as under:
+71. ``Arguments have been advanced as to how far principles of
+        lender's liability are applicable. Whatever be the position, however,
+        it cannot be denied that the financial institutions namely, the
+        lenders owe a duty to act fairly and in good faith. There has to be a
+        fair dealing between the parties and the financing
+        companies/institutions are not free to ignore performance of their
+        part of the obligation as a party to the contract. They cannot be
+        free from it. Irrespective of the fact as to whatever may have been
+        held in decisions of some American courts, in view of the facts and
+        circumstances and the terms of the contract and other details
+        relating to those matters, that may or may not strictly apply,
+        nonetheless even in absence of any such decisions or legislation, it
+        is incumbent upon such financial institutions to act fairly and in
+        good faith complying with their part of obligations under the
+        contract. This is also the basic principle of the concept of lender's
+        liability. It cannot be a one-sided affair shutting out all possible
+        and reasonable remedies to the other party, namely borrowers and
+        assume all drastic powers for speedier recovery of NPAs.
+Possessing more drastic powers calls for exercise of higher degree
+        of good faith and fair play. The borrowers cannot be left remediless
+        in case they have been wronged against or subjected to unfair
+        treatment violating the terms and conditions of the contract. They
+        can always plead in defence deficiencies on the part of the banks
+        and financial institutions.''
+
+
+
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 33 of 80
+41.     The Learned Counsel for the Appellant cites the Judgment of the
+
+Hon'ble Supreme Court of India in
+Vidarbha Industries Power Ltd. v.
+
+Axis Bank Limited
+, (vide Civil Appeal No. 4633 of 2021 dated
+
+12.07.2022), reported in (2022) 8 SCC Online SC 841 at Page 352; Spl
+
+Pgs.: 373-376, wherein at Paragraphs 65 to 69 and 75 to 78, it is observed
+
+as under:
+65. ``It is well settled that the first and foremost principle of
+        interpretation of a statute is the rule of literal interpretation, as
+        held by this Court in
+Lalita Kumari v. State of Uttar Pradesh
+. If
+Section 7(5)(a)
+IBC is construed literally the provision must be
+        held to confer a discretion on the Adjudicating Authority (NCLT).
+66.
+In
+Hiralal Rattanlal v. State of Uttar Pradesh
+, this Court held:-
+(SCC P. 224, Para 224)
+
+               "22. ... In construing a statutory provision, the first and the
+        foremost rule of construction is the literary construction. All that
+        we have to see at the very outset is what does that provision say? If
+        the provision is unambiguous and if from that provision, the
+        legislative intent is clear, we need not call into aid the other rules
+        of construction of statutes. The other rules of construction of
+        statutes are called into aid only when the legislative intention is not
+        clear."
+67.
+In
+B. Premanand v. Mohan Koikal
+, this Court held:- [Sec P.
+        270, Para 9]
+              "9. It may be mentioned in this connection that the first and
+        foremost principle of interpretation of a statute in every system of
+        interpretation is the literal rule of interpretation. The other rules of
+        interpretation e.g. the mischief rule, purposive interpretation, etc.
+        can only be resorted to when the plain words of a statute are
+        ambiguous or lead to no intelligible results or if read literally
+        would nullify the very object of the statute. Where the words of a
+
+Comp. App (AT) (CH) (INS.)
+No. 89 of 2022
+Page 34 of 80
+statute are absolutely clear and unambiguous, recourse cannot be
+        had to the principles of interpretation other than the literal rule,
+        vide
+Swedish Match AB v. SEBI
+[(2004) 11 SCC 641]."
+68.
+In
+Lalita Kumari v. State of Uttar Pradesh
+(supra), this Court
+        construed the use of the word "shall" in
+section 154 (1)
+of the
+        Code of Criminal Procedure, 1973 and held that
+Section 154(1)
+postulates the mandatory registration of an FIR on receipt of
+        information of a cognizable offence. If, however, the information
+        given does not disclose a cognizance offence, a preliminary enquiry
+        may be ordered, and if the enquiry discloses the commission of a
+        cognizable offence, the FIR must be registered.
+69. As argued by Mr. Gupta, had it been the legislative intent that
+Section 7(5)(a)
+of the IBC should be a mandatory provision, 6
+        (2011) 4 SCC 266 Legislature would have used the word 'shall'
+        and not the word 'may'. There is no ambiguity in
+Section 7(5)(a)
+of
+        IBC. Purposive interpretation can only be resorted to when the
+        plain words of a statute are ambiguous or if construed literally, the
+        provision would nullify the object of the statute or otherwise lead to
+        an absurd result. In this case, there is no cogent reason to depart
+        from the rule of literal construction.
+75. Significantly, the legislature has in its wisdom used the word
+        'may' in
+Section 7(5)(a)
+IBC in respect of an application for CIRP
+        initiated by a financial creditor against a Corporate Debtor but has
+        used the expression 'shall' in the otherwise almost identical
+        provision of
+Section 9(5)
+of the IBC relating to the initiation of
+        CIRP by an Operational Creditor.
+76. The fact that legislature used `may' in
+Section 7(5)(a)
+IBC but a
+        different word, that is, 'shall' in the otherwise almost identical
+        provision of
+Section 9(5)(a)
+shows that 'may' and 'shall' in the two
+        provisions are intended to convey a different meaning. It is
+        apparent that legislature intended
+Section 9(5)(a)
+IBC to be
+        mandatory and
+Section 7(5)(a)
+IBC to be discretionary. An
+        application of an Operational Creditor for initiation of CIRP under
+Section 9(2)
+IBC is mandatorily required to be admitted if the
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 35 of 80
+application is complete in all respects and in compliance of the
+        requisites of the IBC and the rules and regulations thereunder,
+        there is no payment of the unpaid operational debt, if notices for
+        payment or the invoice has been delivered to the Corporate Debtor
+        by the Operational Creditor and no notice of               dispute
+        has been received by the            Operational Creditor. The
+        IBC does not        countenance dishonesty        or    deliberate
+        failure to repay the dues of an operational creditor.
+77. On the other hand, in the case of an application by a Financial
+        Creditor who might even initiate proceedings in a representative
+        capacity on behalf of all financial creditors, the Adjudicating
+        Authority might examine the expedience of initiation of CIRP,
+        taking into account all relevant facts and circumstances, including
+        the overall financial health and viability of the Corporate Debtor.
+        The Adjudicating Authority may in its discretion not admit the
+        application of a Financial Creditor.
+78. The legislature has consciously differentiated between
+        Financial Creditors and Operational Creditors, as there is an
+        innate difference between Financial Creditors, in the business of
+        investment and financing, and Operational Creditors in the
+        business of supply of goods and services. Financial credit is usually
+        secured and of much longer duration. Such credits, which are often
+        long term credits, on which the operation of the Corporate Debtor
+        depends, cannot be equated to operational debts which are usually
+        unsecured, of a shorter duration and of lesser amount. The
+        financial strength and nature of business of a Financial Creditor
+        cannot be compared with that of an Operational Creditor, engaged
+        in supply of goods and services. The impact of the non-payment of
+        admitted dues could be far more serious on an Operational
+        Creditor than on a financial creditor.''
+42.     The Learned Counsel for the Appellant refers to the Judgment of
+
+the Hon'ble Supreme Court of India in Haryana Financial Corporation v.
+
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 36 of 80
+Jagdamba Oil Mills & Anr., (vide Civil Appeal No. 607 of 2022 dated
+
+28.01.2002), reported in India Kanoon, wherein, it is observed as under:
+``The Corporation as an instrumentality of the State deals with
+        public money. There can be no doubt that the approach has to be
+        public oriented. It can operate effectively if there is regular
+        realization of the instalments. While the Corporation is expected to
+        act fairly in the matter of disbursement of the loans, there is
+        corresponding duty cast upon the borrowers to repay the
+        instalments in time, unless prevented by unsurmountable
+        difficulties. Regular payment is the rule and non-payment due to
+        extenuating circumstances is the exception. If the repayments are
+        not received as per the scheduled time frame, it will disturb the
+        equilibrium of the financial arrangements of the Corporations.
+        They do not have at their disposal unlimited funds. They have to
+        cater to the needs of the intended borrowers with the available
+        finance.
+Non-payment of the instalment by a defaulter may stand on
+        the way of a deserving borrower getting financial assistance.
+        The obligation to act fairly on the part of the administrative
+        authorities was evolved to ensure the rule of law and to prevent
+        failure of justice. This doctrine is complementary to the principles
+        of natural justice which the quasi-judicial authorities are bound to
+        observe. It is true that the distinction between a quasi-judicial and
+        the administrative action has become thin, as pointed out by this
+        Court as far back as 1970 in
+A.K. Kraipak V. Union of India
+[1969
+        (2) SCC 262]. Even so the extent of judicial scrutiny/judicial review
+        in the case of administrative action cannot be larger than in the
+        case of quasi-judicial action. If the High Court cannot sit as an
+        appellate authority over the decisions and orders of quasi-judicial
+        authorities, it follows equally that it cannot do so in the case of
+        administrative authorities. In the matter of administrative action, it
+        is well known, more than one choice is available to the
+        administrative authorities; they have a certain amount of discretion
+        available to them. They have "a right to choose between more than
+        one possible course of action upon which there is room for
+        reasonable people to hold differing opinions as to which is to be
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 37 of 80
+preferred".
+[As per Lord Diplock in Secretary of State for
+        Education and Science v. Metropolitan Borough Counsel of
+        Tameside (1977 AC 1014)]. The Court cannot substitute its
+        judgment for the judgment of administrative authorities in such
+        cases. Only when the action of the administrative authority is so
+        unfair or unreasonable that no reasonable person would have
+        taken that action, can the Court intervene. To quote the classic
+        passage from the judgment of Lord Greene M.R. in Associated
+        Provincial Picture Houses Ltd. v. Wednesbury Corporation [1947
+        (2) ALL ER 680]:
+"It is true the discretion must be exercised reasonably. Now
+                 what does that mean? Lawyers familiar with the phraseology
+                 commonly used in relation to exercise of statutory
+                 discretions often use the word 'unreasonable' in a rather
+                 comprehensive sense. It has frequently been used and is
+                 frequently used as a general description of the things that
+                 must not be done. For instance, a person entrusted with the
+                 discretion must, so to speak, direct himself properly in law.
+                 He must call his own attention to the matters which he is
+                 bound to consider. He must exclude from his consideration
+                 matters which are irrelevant to what he has to consider. If he
+                 does not obey those rules, he may truly be said, and often is
+                 said, to be acting 'unreasonably'. Similarly, there may be
+                 something so absurd that no sensible person could ever
+                 dream that it lay within the powers of the authority.
+                 While this is not the occasion to examine the content and
+                 contours of the doctrine of fairness, it is enough to reiterate
+                 for the purpose of this case that the power of the Courts
+                 while reviewing the administrative action is not that of an
+                 appellate court.''
+43.     The Learned Counsel for the Appellant refers to the Judgment of
+
+the Hon'ble Supreme Court of India in Monarch Infrastructure (P) Ltd. v.
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 38 of 80
+Ulhas Nagar, Municipal Corporation (vide Civil Appeal No. 3288 of 2000
+
+dated 08.05.2000), reported in India Kanoon, wherein, it is observed as
+
+under:
+``Shri Shanti Bhushan and Dr. Rajiv Dhawan, for the appellant,
+         pointed out that the sanctity of the tender process must be
+         maintained and principles in relation to award of contract should
+         be settled instead of merely making an order which is expedient in
+         the circumstances of the case. Both of them submitted that in the
+         new tender process Clauses 6(a) and 6(b) have been altogether
+         deleted which is only to favour M/s. Monarch Infrastructure (P)
+         Ltd. and, therefore, we should not encourage such activity in these
+         matters. There have been several decisions rendered by this Court
+         on the question of tender process, the award of contract and
+         evolved several principles in regard to the same. Ultimately what
+         prevails with the courts in these matters is that while public interest
+         is paramount there should be no arbitrariness in the matter of
+         award of contract and all participants in the tender process should
+         be treated alike. We may sum up the legal position thus:
+(i) The Government is free to enter into any contract with citizens
+         but the court may interfere where it acts arbitrarily or contrary to
+         public interest;
+(ii) The Government cannot arbitrarily choose any person it likes
+         for entering into such a relationship or to discriminate between
+         persons similarly situate:
+(iii) It is open to the Government to reject even the highest bid at a
+         tender where such rejection is not arbitrary or unreasonable or
+         such rejection is in public interest for valid and good reasons.
+Broadly stated, the courts would not interfere with the matter of
+         administrative action or changes made therein unless the
+         Government's action is arbitrary or discriminatory or the policy
+         adopted has no nexus with the object it seeks to achieve or is mala
+         fide.''
+
+
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 39 of 80
+44.     The Learned Counsel for the Appellant refers to the Order of this
+
+`Tribunal', dated 19.09.2022 in Comp. App (AT) (INS) No. 1005 of
+
+2022, between
+Reliance Commercial Finance Limited v. Darode Jog
+
+Builder Pvt. Ltd.
+, wherein the `Corporate Debtor' expressed its
+
+willingness to settle the matter, and repay the entire `Debt Sum', totalling
+
+Rs.15.79 Crores, and the `Adjudicating Authority' (`Tribunal'), permitted
+
+the `Corporate Debtor', to make the payments, within 45 days.
+45.     It is brought to the notice of this `Tribunal', by the `Appellant' side,
+
+that the `Financial Creditor', while challenging the `Order' of the
+
+`Adjudicating Authority', in `Appeal', took a ground that the
+
+`Adjudicating Authority', was only concerned, whether any `Debt'
+
+existed, and whether there was a `Default', in payment, and this
+
+`Appellate Tribunal', by placing reliance on the `Judgment' of the
+
+`Supreme Court of India', in
+Vidarbha Industries Power Limited v. Axis
+
+Bank
+, 2022 SCC Online SC 841, observed that the `Adjudicating
+
+Authority' / `Tribunal', while determining an `Application', under
+Section 7
+of the I & B Code, 2016, is required to `apply' its mind, to the
+
+various factors, including `feasibility' of the `Corporate Insolvency
+
+Resolution Process', etc.
+
+
+
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 40 of 80
+46.     The Learned Counsel for the Appellant refers to the `Order' of this
+
+`Tribunal' dated 15.11.2022, in
+Shaikh Mohammad Tariq v. Aegis
+
+Forging Limited
+(vide Comp. App (AT) (INS) No. 1342 of 2022, wherein
+
+the `Financial Creditor', proceeded with the initiation of `Corporate
+
+Insolvency Resolution Process', under
+Section 7
+of the I & B Code, 2016,
+
+despite pursuing `Execution of an Arbitral Award', the `Tribunal', had
+
+held that `Admission of an Application', under
+Section 7
+, is not
+
+`obligatory', merely on the `existence of a `Debt' and Default', and
+
+dismissed the `Appeal'.
+47.     The Learned Counsel for the Appellant refers to the `Order' of the
+
+`Adjudicating Authority' (`Tribunal') dated 18.11.2022 in CP (IB) 4541
+
+(MB) / 2019, between Canara Bank v. GTL Infrastructure, wherein, the
+
+`Corporate Debtor's Account', was marked as `Non Performing Asset',
+
+and there was an `Admitted Acknowledgement of Debt', and it was
+
+pleaded on behalf of the `Corporate Debtor' that several `Resolution
+
+Plans', were submitted to `restructure the Debt', but of no avail.
+48.     Also that a `technical plea', was taken by the `Corporate Debtor',
+
+that the `Authorised Representative' of the `Applicant', was authorised
+
+vide `Board Resolution' in 1999, while the I & B Code, 2016, came into
+
+existence in 2016. However, a reliance was placed, among other things,
+
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 41 of 80
+on the decision of the Hon'ble Supreme Court of India in
+Vidarbha
+
+Industries
+case. The `Adjudicating Authority' (`Tribunal'), after taking
+
+into account that the `Corporate Debtor', had repaid a sum of Rs.16,915
+
+Crores and it was a healthy viable concern, made an observation that the
+
+existence of a `Debt and Default', were not the `sole criteria, while
+
+`Adjudicating', an `Application', under
+Section 7
+and viability and the
+
+overall financial health of the `Corporate Debtor', was also taken into
+
+consideration and dismissed the `Petition'.
+1st Respondent / Bank's Submissions:
+49.     The Learned Senior Counsel for the `1st Respondent / Bank',
+
+contends that the `Appellant', is not a `Party', to the Proceedings, before
+
+the `Adjudicating Authority' (`Tribunal'), and in fact, the instant
+
+`Appeal', preferred by the `Appellant', is not `maintainable', either in
+
+`Law' or in `Facts', and further that the `Appellant', has no `Locus', to
+
+`prefer', the present `Appeal', before this `Tribunal'.
+50.     Added further, the Learned Counsel for the `1st Respondent /Bank'
+
+points out that the `Appellant', as an `Investor', has promoted the
+
+`Corporate Debtor', and further he has not satisfied as to how, he is an
+
+`Aggrieved Party', to file the instant `Appeal'.
+
+
+
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 42 of 80
+51.     The Learned Counsel for the 1st Respondent / Bank cites the Order
+
+of this Tribunal in the matter of Amod Amladi v. M/s. Sayali Rane &
+
+Anr., in Comp. AT INS No. 295 of 2017 dated 30.11.2017, reported in
+
+(2017) SCC Online NCLAT 430, wherein, at Paragraphs 4 to 7, it is
+
+observed as under:
+4. ``Heard learned counsel for the Appellant. Admittedly, the
+        Appellant is an Investor therefore, the Appellant cannot claim to
+        be an 'aggrieved person' for preferring appeal against the order
+        dated 2nd May, 2017 passed by Adjudicating Authority whereby the
+        application under
+Section 9
+of the 'I&B Code' was admitted. In
+        fact, the Appellant being an investor is entitled to file its claim
+        before the 'Insolvency Resolution Professional'.
+5. Further, as the order dated 2nd May, 2017 is not under challenge
+        in this appeal this Appellate Tribunal cannot express any opinion
+        with regard to the order of admission dated 2 nd May, 2017. If the
+        said order dated 2nd May, 2017 is allowed to be challenged, the
+        appeal will be barred by limitation under sub-section (2) of
+Section
+        61
+of the 'I&B Code'.
+6. In absence of any power of review or recall vested with the
+        Adjudicating Authority, we hold that the Adjudicating Authority
+        rightly refused to recall the order of admission dated 2 nd May,
+        2017.
+7. For the reasons aforesaid, no relief can be granted. In absence
+        of any merit the appeal is dismissed. However, the impugned order
+        dated 3rd October, 2017 passed by the Adjudicating Authority,
+        Mumbai and the order of this Adjudicating Authority will not come
+        in the way of Appellant Investor to file its claim before the
+        'Insolvency Resolution Professional'.''
+
+
+
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 43 of 80
+52.     The Learned Counsel for the `1st Respondent / Bank' points out that
+
+the `OTS Proposal', had failed and there was no `OTS Proposal', when
+
+the `Corporate Insolvency Resolution Process', was initiated. Admittedly,
+
+there is a `Debt' and `Default' and the only allegation made on behalf of
+
+the `Appellant' is that, `OTS', was not `entertained', by the `1 st
+
+Respondent / Bank / Financial Creditor'.
+53.     It is represented on behalf of the `1st Respondent / Bank' that
+
+`OTS', in itself, is an `Admission', and cannot be a reason for dismissing
+
+an `Application' / `Petition', filed under
+Section 7
+of the `I & B Code,
+
+2016, where the `Debt' and `Default' is proved, and that the `Debt', is
+
+more than Rupees One Lakh, since the `Petition', was filed by the `1 st
+
+Respondent / Bank', prior to the `increase in threshold Limit'.
+54.     The Learned Counsel for the 1st Respondent / Bank refers to the
+
+decision of the Hon'ble Supreme Court of India in
+Dena Bank v. C.
+
+Shivakumar Reddy
+(2021) SCC Online SC 543, wherein it was clarified
+
+that even an `OTS', of a live claim would also construe an
+
+`Acknowledgement of Debt', to attract
+Section 18
+of the Limitation Act,
+
+1963.
+55.     The Learned Counsel for the 1st Respondent / Bank refers to the
+
+decision of the Hon'ble Supreme Court of India in E S Krishnamurthy &
+
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 44 of 80
+Ors. v. M/s. Bharathi Hi Tech Builders Pvt. Ltd., (vide Civil Appeal No.
+
+3325 of 2020 dated 14.12.2021), reported in India Kanoon, wherein, at
+
+Paragraph 50, it is observed as under:
+50. ``Hence, once the requirements of the IBC have been fulfilled,
+        the Adjudicating Authority and the Appellate Authority are duty
+        bound to abide by the discipline of the statutory provisions. It needs
+        no emphasis that neither the Adjudicating Authority nor the
+        Appellate Authority have an uncharted jurisdiction in equity. The
+        jurisdiction arises within and as a product of a statutory
+        framework.''
+56.     The Learned Counsel for the 1st Respondent / Bank adverts to the
+
+Judgment of this `Tribunal', (vide Comp. App (AT) (INS.) No. 99 of
+
+2020 dated 16.07.2020) in
+Monotrone Leasing Private Limited v. PM
+
+Cold Storage Pvt. Ltd.
+, reported in India Kanoon, wherein at Paragraphs
+
+19, it is observed as under:
+19. ``It is relevant to note that Hon'ble the Supreme Court of India
+        in case of
+Innoventive Industries Ltd. v. ICICI Bank
+, (2018) 1 SCC
+        407, has laid down the guiding principles to admit or reject an
+        application filed under
+Section 7
+of the IBC.
+In
+the above case
+, Hon'ble the Supreme Court has held that;
+"27. The scheme of the Code is to ensure that when a default takes
+        place, in the sense that a debt becomes due and is not paid, the
+        insolvency resolution process begins. Default is defined in
+Section
+        3(12)
+in very wide terms as meaning non-payment of a debt once it
+        becomes due and payable, which includes non-payment of even
+        part thereof or an instalment amount. For the meaning of "debt",
+        we have to go to
+Section 3(11)
+, which in turn tells us that a debt
+        means a liability of obligation in respect of a "claim" and for the
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 45 of 80
+meaning of "claim", we have to go back to
+Section 3(6)
+which
+        defines "claim" to mean a right to payment even if it is disputed.
+        The Code gets triggered the moment default is of rupees one lakh
+        or more (
+Section 4
+). The corporate insolvency resolution process
+        may be triggered by the corporate debtor itself or a financial
+        creditor or operational Creditor. A distinction is made by the Code
+        between debts owed to financial creditors and operational
+        creditors. A financial creditor has been defined under
+Section 5(7)
+as a person to whom a financial debt is owed and a financial debt
+        is defined in
+Section 5(8)
+to mean a debt which is disbursed against
+        consideration for the time value of money. As opposed to this, an
+        operational creditor means a person to whom an operational debt
+        is owed and an operational Company Appeal (AT) (Insolvency) No.
+        99 of 2020 13 of 24 debt under
+Section 5(21)
+means a claim in
+        respect of provision of goods or services.
+28. When it comes to a financial creditor triggering the process,
+Section 7
+becomes relevant. Under the Explanation to
+Section 7(1)
+,
+        a default is in respect of a financial debt owed to any financial
+        creditor of the corporate debtor -- it need not be a debt owed to the
+        applicant financial creditor. Under
+Section 7(2)
+, an application is
+        to be made under sub-section (1) in such form and manner as is
+        prescribed, which takes us to the Insolvency and Bankruptcy
+        (Application to Adjudicating Authority) Rules, 2016. Under Rule 4,
+        the Application is made by a financial creditor in Form 1
+        accompanied by documents and records required therein. Form 1
+        is a detailed form in 5 parts, which requires particulars of the
+        applicant in Part I, particulars of the corporate debtor in Part II,
+        particulars of the proposed interim resolution professional in Part
+        III, particulars of the financial debt in Part IV and documents,
+        records and evidence of default in Part V. Under Rule 4(3), the
+        applicant is to dispatch a copy of the Application filed with the
+        adjudicating authority by registered post or speed post to the
+        registered office of the corporate debtor. The speed, within which
+        the adjudicating authority is to ascertain the existence of a default
+        from the records of the information utility or on the basis of
+        evidence furnished by the financial Creditor, is important. This it
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 46 of 80
+must do within 14 days of the receipt of the Application. It is at the
+        stage of
+Section 7(5)
+, where the adjudicating authority is to be
+        satisfied that a default has occurred, that the corporate debtor is
+        entitled to point out that a default has not occurred in the sense that
+        the "debt", which may also include a disputed claim, is not
+        Company Appeal (AT) (Insolvency) No. 99 of 2020 14 of 24 due. A
+        debt may not be due if it is not payable in law or in fact. The
+        moment the adjudicating authority is satisfied that a default has
+        occurred, the Application must be admitted unless it is incomplete,
+        in which case it may give notice to the applicant to rectify the
+        defect within 7 days of receipt of a notice from the adjudicating
+        authority. Under sub-section (7), the adjudicating authority shall
+        then communicate the order passed to the financial Creditor and
+        corporate debtor within 7 days of admission or rejection of such
+        Application, as the case may be.
+30. On the other hand, as we have seen, in the case of a corporate
+        debtor who commits a default of a financial debt, the adjudicating
+        authority has merely to see the records of the information utility or
+        other evidence produced by the financial Creditor to satisfy itself
+        that a default has occurred. It is of no matter that the debt is
+        disputed so long as the debt is "due" i.e. payable unless interdicted
+        by some law or has not yet become due in the sense that it is
+        payable at some future date. It is only when this is proved to the
+        satisfaction of the adjudicating authority that the adjudicating
+        authority may reject an application and not otherwise."
+In the above case, Hon'ble the Supreme Court of India has held
+        that, to admit an application filed under
+Section 7
+of IBC, the
+        Adjudicating Authority is to be satisfied that a default has
+        occurred; that the Corporate Debtor is entitled to point out that a
+        default has not occurred in the sense that the "debt", which may
+        also include a disputed claim, is not due. A debt may not be due if it
+        is not payable in law or in fact. The moment the Company Appeal
+        (AT) (Insolvency) No. 99 of 2020 15 of 24 Adjudicating Authority is
+        satisfied that a default has occurred, the Application must be
+        admitted unless it is incomplete.''
+
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 47 of 80
+57.     The       Learned        Counsel    for   the   1st   Respondent   /   Bank
+
+adverts to the Judgment of the Hon'ble Supreme Court in
+Mobilox
+
+Innovations (P) Ltd. v. Kirusa Software (P) Ltd.
+(vide Civil Appeal No.
+
+9405 of 2017 dated 21.09.2017, reported in India Kanoon, wherein at
+
+Paragraph 19, it is observed as under:
+19. ``The financial creditor can file an application before the
+        National Company Law Tribunal along with proof of default and
+        the name of a resolution professional proposed to act as the interim
+        resolution professional in respect of the corporate debtor. The
+        requirement to provide proof of default ensures that financial
+        creditors do not file frivolous applications or applications which
+        prematurely put the corporate debtor into insolvency resolution
+        proceedings for extraneous considerations. The Adjudicating
+        Authority / Tribunal can, within fourteen days from the date of
+        receipt of the application, ascertain the existence of a default from
+        the records of a regulated information utility. A default may also be
+        proved in such manner as may be specified by the Insolvency and
+        Bankruptcy Board of India. Once the adjudicating
+        authority/Tribunal is satisfied as to the existence of the default and
+        has ensured that the application is complete and no disciplinary
+        proceedings are pending against the proposed resolution
+        professional, it shall admit the application. The adjudicating
+        authority/Tribunal is not required to look into any other criteria for
+        admission of the application. It is important that parties are not
+        allowed to abuse the legal process by using delaying tactics at the
+        admissions stage.''
+58.     The Learned Counsel for the 1st Respondent / Bank points out the
+
+ingredients of I & B Code, 2016, `Suspension of initiation of Corporate
+
+Insolvency Resolution Process', are not applicable to the facts of the
+
+present case, and in this connection, refers to the Judgment of the Hon'ble
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 48 of 80
+Supreme Court of India, in the matter of Mr. Ramesh Kymal v. M/s.
+
+Siemens Gamesa Renewable Power Pvt. Ltd. (vide Civil Appeal No. 4050
+
+of 2020 dated 09.02.2021), reported in India Kanoon, wherein at
+
+Paragraph 23, it is observed as under:
+23. ``Adopting the construction which has been suggested by the
+        appellant would defeat the object and intent underlying the
+        insertion of Section 10A. The onset of the Covid-19 pandemic is a
+        cataclysmic event which has serious repercussions on the financial
+        health of corporate enterprises. The Ordinance and the Amending
+        Act enacted by Parliament, adopt 25 March 2020 as the cut-off
+        date. The proviso to Section 10A stipulates that "no application
+        shall ever be filed" for the initiation of the CIRP "for the said
+        default occurring during the said period". The expression "shall
+        ever be filed" is a clear indicator that the intent of the legislature is
+        to bar the institution of any application for the commencement of
+        the CIRP in respect of a default which has occurred on or after 25
+        March 2020 for a period of six months, extendable up to one year
+        as notified. The explanation which has been introduced to remove
+        doubts places the matter beyond doubt by clarifying that the
+        statutory provision shall not apply to any default before 25 March
+        2020. The substantive part of Section 10A is to be construed
+        harmoniously with the first proviso and the explanation. Reading
+        the provisions together, it is evident that Parliament intended to
+        impose a bar on the filing of applications for the commencement of
+        the CIRP in respect of a corporate debtor for a default occurring
+        on or after 25 March 2020; the embargo remaining in force for a
+        period of six months, extendable to one year. Acceptance of the
+        submission of the appellant would defeat the very purpose and
+        object underlying the insertion of Section 10A. For, it would leave
+        a whole class of corporate debtors where the default has occurred
+        on or after 25 March 2020 outside the pale of protection because
+        the application was filed before 5 June 2020.''
+
+
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 49 of 80
+59.     The Learned Counsel for the 1st Respondent / Bank relies on the
+
+Judgment of this `Tribunal', dated 14.08.2018, in
+Axis Bank Ltd. v. Edu
+
+Smart Services Private Limited
+(vide Comp. App (AT) (INS.) No. 302 of
+
+2017), wherein. it was held as under:
+``a claim can be (i) a right to payment whether disputed,
+        undisputed, secured or unsecured or (ii) a right to payment arising
+        from a breach of contract irrespective of whether the same is
+        matured, unmatured, disputed or undisputed. Existence of `default'
+        has nothing to do with admission of insolvency proceeding under
+        IBC. However, default has nothing to do with acceptance of claim
+        after admission of insolvency proceeding. Any person who has
+        right to claim payment, under the IBC, is supposed to file the claim,
+        whether matured or immature. The question as to whether there is
+        a default or not is not relevant.''
+60.     The Learned Counsel for the 1st Respondent / Bank refers to the
+
+Judgment of this Tribunal, in
+Anantha Charan Nayak v. State Bank of
+
+India & Ors.
+, (vide Comp. App (AT) (INS.) No. 870 of 2021 dated
+
+10.11.2021), wherein at Paragraphs 7 to 11, it is observed as under:
+7. ``The Learned Counsel for Appellant has stated that the
+        Appellant had intimated its desire to settle the matter by offering a
+        one-time settlement (OTS) to the financial creditor. Pending
+        decision on the OTS, the Adjudicating Authority has passed the
+        Impugned Order to the detriment of the Corporate Debtor. He has
+        also argued that vide order dated 26.7.2021, the petitioner State
+        Bank of India was granted seven days' time to file an affidavit for
+        deletion of the names of personal guarantors from the
+section 7
+application. Such an affidavit was not filed and thus requirements
+        under
+section 7
+of IBC were not complied with strictly. He has
+        argued that in such a situation, and as
+laid down by
+the Hon'ble
+
+Comp. App (AT) (CH) (INS.)
+No. 89 of 2022
+Page 50 of 80
+Apex Court in the matter of Innoventive Industries Ltd. v. ICICI
+        Bank [MANU/SC/1063/2017], the order for admission of
+section 7
+application should not have been given.
+8. From perusal of the Impugned Order dated 26.8.2021 (attached
+        at pp.54-88 in Appeal Paperbook) it is clear that in response to the
+section 7
+application, the Managing Director of Corporate Debtor
+        representing Respondent Nos. 1 to 5 filed reply which was
+        considered by the Adjudicating Authority. It is also mentioned in
+        the Impugned Order, paragraph 12 (attached at pgs. 77-78 of the
+        Appeal Paperbook) that Mr. Tushar Ravi, Chief Manager, State
+        Bank of India, Khanapara Branch filed an affidavit dated 4.8.2021
+        in which he stated that due to inadvertence names of the personal
+        guarantors were inserted as Respondent Nos. 2 to 7 and the names
+        of Respondent Nos. 2 to 7 be deleted from the instant application.
+Therefore, we do not agree with the contention of the Appellant
+        that the petitioner (financial creditor-State Bank of India) did not
+        comply with the order given by the Adjudicating Authority on
+        26.7.2021, which was regarding filing of affidavit to delete names
+        of personal guarantors from the
+section 7
+application. (attached at
+        p. 149 of Appeal Paperbook).
+9. The other contention of the Learned Counsel of the Appellant is
+        that the Appellant had submitted an OTS proposal to the financial
+        creditor (State Bank of India), which was pending decision, and
+        hence the Adjudicating Authority should not have passed admission
+        order on
+section 7
+application. The acceptance of the settlement
+        proposal by the financial creditor is a matter entirely in the ambit
+        of the financial creditor (SBI) and we do not think that the
+        proceedings before the Adjudicating Authority should have been
+        held up and delayed, waiting for a response by the State Bank of
+        India. IBC does not provide for keeping the proceedings in
+        abeyance and the application for admission has to be decided in a
+        stipulated timeframe. If a settlement would have been reached, the
+        Appellant would have had recourse to Section 12A of the IBC. We,
+        therefore, do not find this contention of the Appellant sustainable.
+
+
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 51 of 80
+10. The Innoventive Industries judgment (supra) of the Hon'ble
+        Supreme Court does not put any bar on the admission of an
+        application under
+section 7
+if the defects as pointed out to the
+        petitioner have been cured.
+11. On the basis of the above discussion, we are of very clear view
+        that the Impugned Order does not require any intervention. The
+        appeal is, therefore, dismissed at the stage of admission. No order
+        as to the cost.''
+61.     The Learned Counsel for the 1st Respondent /Bank contends that
+
+the `Promoters had not paid any Sum, under the `One Time Settlement',
+
+and they had arranged Rs.150 Crores, from three different Companies /
+
+Individuals, and the Sum is parked in a `No Lien Account', with the
+
+`Respondent'. Also that, the `Amount', was not distributed to or
+
+appropriated by the `Lenders'. Hence, the `part payment paid', as per
+
+`OTS', is `denied', by the `Bank', that they were not able to arrange the
+
+required funds, inspite of `multiple opportunities'.
+62.     According to the 1st Respondent / Bank, even if it is assumed
+
+without `admitting' the `OTS Proposal', was considered and `part', was
+
+payment and there is a `Default', in the `One Time Settlement', as well.
+
+Also that, the allegation that only `Part' of `Payment' only, is pending
+
+itself, is an `Admission' of `Default', and that the `Financial Creditor',
+
+has every right, under
+Section 7
+of the I & B Code, 2016, to proceed
+
+against the `Corporate Debtor'.
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 52 of 80
+63.     The Learned Counsel for the 1st Respondent / Bank submits that
+
+the `1st Respondent / Bank' holds only 18.54% (Equity), and that the
+
+`Lender' jointly holds 51% of the `Equity Shares of the Corporate Debtor'.
+64.     The Learned Counsel for the 1st Respondent / Bank points out that
+
+the present `proceedings', were                    initiated against the `Corporate
+
+Debtor, for the `Default',                  in   repayment   of   `Financial Debt' of
+
+Rs.2923,62,42,864/-, due, payable as on 06.09.2018 with further interest
+
+and charges.
+65.     The Learned Counsel for the 1st Respondent / Bank brings it to the
+
+notice of this `Tribunal', that the `allegation', raised by the `Appellant',
+
+that the `Corporate Debtor', had committed to utilise 60% of its `pending
+
+dues', from `TANGEDCO', towards `OTS', and that they had requested
+
+for utilising 50% of the `pending dues', is `misleading', and the same was
+
+`denied', by the `Bank', and was categorically informed that the same are
+
+already `charged' to the `Lenders', and ought not to be made `part' of the
+
+`OTS Funding', and these `facts', were `suppressed', by the `Appellant'.
+
+In any event, it is projected on the 1st Respondent / Bank, that there is an
+
+`admission of debt and default'. Hence, the `Appeal', is bad in `Law' and
+
+on `Facts'.
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 53 of 80
+66.     The Learned Counsel for the 1st Respondent / Bank points out that
+
+the `1st Respondent / Bank / Financial Creditor', has `Second Charge' on
+
+the `Securities', along with the `Consortium Subordinate Lenders', Viz.
+
+Jammu and Kashmir Bank, e-State Bank of Mysore, State Bank of India,
+
+e-State Bank of Patiala, UCO Bank for the Subordinate Loan in terms of
+
+the Amended and Restated Subordinate Loan Agreement dated
+
+05.07.2016.
+67.     The Learned Counsel for the 1st Respondent / Bank points out that
+
+the `Bank', has `charge', in respect of `Securities', under the `Working
+
+Facility Agreement' dated 18.12.2015 along with other `Consortium
+
+Lenders', Viz. Bank of India, Indian Overseas Bank, Jammu and Kashmir
+
+Bank, Punjab National Bank, State Bank of India, e-State Bank of
+
+Mysore, e-State Bank of Patiala, Andhra Bank, Canara Bank, Central
+
+Bank of India, Corporation Bank, Indian Bank, e-State Bank of
+
+Hyderabad, Tamilnadu Mercantile Bank.
+68.     The Learned Counsel for the 1st Respondent / Bank, adverts to the
+
+decision of Hon'ble Supreme Court of India in
+Bijnor Urban Co-operative
+
+Bank Limited v. Meenal Agarwal
+, AIR 2022 SC 56, wherein at
+
+Paragraphs 9 and 11, it is observed as under:
+9. ``Even otherwise, as observed hereinabove, no borrower can, as
+        a matter of right, pray for grant of benefit of One Time Settlement
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 54 of 80
+Scheme. In a given case, it may happen that a person would borrow
+        a huge amount, for example Rs. 100 crores. After availing the loan,
+        he may deliberately not pay any amount towards installments,
+        though able to make the payment. He would wait for the OTS
+        Scheme and then pray for grant of benefit under the OTS Scheme
+        under which, always a lesser amount than the amount due and
+        payable under the loan account will have to be paid. This, despite
+        there being all possibility for recovery of the entire loan amount
+        which can be realised by selling the mortgaged/secured properties.
+If it is held that the borrower can still, as a matter of right, pray for
+        benefit under the OTS Scheme
+,
+in that case
+, it would be giving a
+        premium to a dishonest borrower, who, despite the fact that he is
+        able to make the payment and the fact that the bank is able to
+        recover the entire loan amount even by selling the
+        mortgaged/secured properties, either from the borrower and/or
+        guarantor. This is because under the OTS Scheme a debtor has to
+        pay a lesser amount than the actual amount due and payable under
+        the loan account. Such cannot be the intention of the bank while
+        offering OTS Scheme and that cannot be purpose of the Scheme
+        which may encourage such a dishonesty.
+11. The sum and substance of the aforesaid discussion would be
+        that no writ of mandamus can be issued by the High Court in
+        exercise of powers under
+Article 226
+of the Constitution of India,
+        directing a financial institution/bank to positively grant the benefit
+        of OTS to a borrower. The grant of benefit under the OTS is always
+        subject to the eligibility criteria mentioned under the OTS Scheme
+        and the guidelines issued from time to time. If the bank/financial
+        institution is of the opinion that the loanee has the capacity to make
+        the payment and/or that the bank/financial institution is able to
+        recover the entire loan amount even by auctioning the mortgaged
+        property/secured property, either from the loanee and/or
+        guarantor, the bank would be justified in refusing to grant the
+        benefit under the OTS Scheme. Ultimately, such a decision should
+        be left to the commercial wisdom of the bank whose amount is
+        involved and it is always to be presumed that the financial
+        institution/bank shall take a prudent decision whether to grant the
+        benefit or not under the OTS Scheme, having regard to the public
+        interest involved and having regard to the factors which are
+        narrated hereinabove.''
+
+
+
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 55 of 80
+69.     The Learned Counsel for the 1st Respondent / Bank refers to the
+
+decision of the Hon'ble Supreme Court of India, in the matter of
+State
+
+Bank of India v. Arvindra Electronics Pvt. Ltd.
+(vide Civil Appeal No.
+
+6954 of 2022 dated 04.11.2022), reported in MANU/SC/1429/2022,
+
+wherein at Paragraph 6.7, 7,7.1 and 8, it is observed as under
+6.7 It is required to be noted that under the OTS Scheme which
+        was originally sanctioned in the year 2017 the borrower was
+        required to pay Rs.10,53,75,069.74 against the outstanding of
+        Rs.13,99,89,273.99. Therefore, under the original sanctioned OTS
+        Scheme the borrower was getting the substantial relief of
+        approximately 3 crores. The Bank agreed and accepted the OTS
+        offer on the terms and conditions mentioned in the letter dated
+        21.11.2017. In the sanctioned letter dated 21.11.2017 it was
+        specifically mentioned in Clause (iv) that the entire payment under
+        the OTS Scheme was to be made by 21.05.2018, otherwise OTS
+        would be rendered infructuous. Therefore, borrowers were bound
+        to make the payment as per the sanctioned OTS Scheme. Therefore,
+        the High Court ought not to have granted further extension de hors
+        the sanctioned OTS Scheme while exercising the powers under
+Article 226
+of the Constitution of India.
+7. The submissions on behalf of the borrower that in case of some
+        other borrowers the time was extended is concerned, the same is
+        neither here nor there. The Bank mutually can agree to extend the
+        time which is permissible under
+Section 62
+of the Indian Contract
+        Act. The borrower as a matter of right cannot claim that though it
+        has not made the payment as per the sanctioned OTS Scheme still it
+        be granted further extension as a matter of right. There cannot be
+        any negative discrimination claimed. The borrower has to establish
+        any right in their favour to claim the extension as a matter of right.
+        7.1 Now so far as the reliance placed upon the decision of Punjab
+        and Haryana High Court in the case of Anu Bhalla (supra) is
+        concerned, in view of the direct decision of this Court in the case of
+
+Comp. App (AT) (CH) (INS.)
+No. 89 of 2022
+Page 56 of 80
+Bijnor Urban Cooperative Bank Limited
+(supra), the decision of
+        this Court would be binding on the High Court.
+8. In view of the above and for the reason stated above, the
+        impugned judgment and order passed by the High Court granting
+        further time to the respondent - borrower to make the balance
+        payment under the OTS Scheme in exercise of powers under
+Article
+        226
+of the Constitution of India is unsustainable and the same
+        deserves to be quashed and set aside and is accordingly quashed
+        and set aside. Consequently, the original writ petition filed by the
+        respondent - borrower stands dismissed.''
+70.     The Learned Counsel for the 1st Respondent / Bank cites the
+
+decision of this `Tribunal', in Sree Bhadra Parks and Resorts Limited,
+
+represented by its Managing Director Mr. K.N. Namboothiripad v.
+
+Ramani Resorts and Hotels Pvt. Ltd., (vide Comp. App (AT) (CH) (INS.)
+
+No. 95 of 2021 dated 06.09.2021), reported in (2021) SCC Online
+
+NCLAT 3653, wherein at Paragraphs 66 to 72, it is observed as under:
+66. As far as the present case is concerned, the 'actuality of debt'
+        was proven by virtue of the concerned terms which formed part of
+        the order of the 'Adjudicating Authority' dated 24.09.2020. When a
+        'Settlement' was arrived at between the parties, it is the pre-module
+        duty of the 'Corporate Debtor' to effect payments proposed by
+        virtue of the 'Settlement' after committing 'default', the 'Appellant'
+        cannot take altogether different stand, especially when the tenor
+        and spirit of 'Share Purchase Agreement' was not adhered to. To
+        put it precisely, when the 'Appellant' had promised to repay the
+        advanced sum paid by the 'Respondent'/'Applicant' to it, then there
+        is not only a violation of the 'Share Purchase Agreement' dated
+        21.11.2012 but also the non-payment of amounts comes squarely
+        under definition of
+Section 5(8)
+of the I&B Code pertaining to
+        'Financial Debt'.
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 57 of 80
+67. In the present case, the 'Adjudicating Authority' in the
+        'Impugned Order' dated 30.03.2021 in IBA/13/KOB/2020 had
+        clearly at paragraph 6 had observed as under:
+'the Corporate Debtor did not come forward to make the
+                 payment as per the consent terms in the settlement which
+                 was due as on 30.11.2020 and that they sought time to make
+                 payment for several times. But without making payments they
+                 proceeded to sell the assets of the Corporate Debtor, which
+                 is a clear case of fraud and cheating' and ultimately passed
+                 an order allowing IA/02/KOB/2021 and restored
+                 IBA/13/KOB/2020 to its file.
+68. Besides the above, the 'Adjudicating Authority' at paragraph
+        6(5) of the 'Impugned Order' dated 30.03.2021 in
+        IBA/13/KOB/2020 had among other things observed that......... 'The
+        question is only the date of removal of disqualification, which have
+        no much relevance in this matter, as the question here is only
+        whether the Corporate Debtor has complied with the conditions
+        stipulated in the settlement agreement produced before this
+        Tribunal. It is true that the IBA has been disposed of on the basis of
+        settlement arrived between the parties stating that they have settled
+        the matter stating that on 26.08.2020 settlement has been arrived
+        for a total sum of Rs.2,25,00,000/- (Rupees two crores twenty five
+        lakhs only) as full and final settlement of the entire claim between
+        the Corporate Debtor M/s. Sree Bhadra Parks and Resorts Limited
+        on the terms mentioned in the settlement agreement. When a
+        settlement has been arrived between the parties, it is duty bound by
+        the Corporate Debtor to make good the payments proposed in that
+        settlement. They cannot go back making various allegations
+        including maintainability of the IBA after making default in the
+        payment agreed to between the parties. The contention regarding
+        the application is not maintainable as the order stipulates for filing
+        a fresh application cannot be accepted because merely on
+        technicalities the Corporate Debtor cannot wash away their hands
+        from complying with the conditions stipulated in the final order
+
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 58 of 80
+passed by this 'Tribunal. Hence, the application IA/02/KOB/2021 is
+        to be allowed."
+69. In the instant case, it is quite clear that the order dated
+        25.08.2020 in IBA/13/KOB/2020 admitting the application under
+Section 7
+of the Code, filed by the 'Respondent'/'Applicant' has not
+        been assailed by the 'Appellant'. In fact, in the 'Impugned Order'
+        dated 30.03.2021 passed by the 'Adjudicating Authority' in
+        IBA/13/KOB/2020 whereby and whereunder the application filed
+        by the 'Respondent'/'Applicant' was admitted, the said 'Adjudicating
+        Authority' came to the conclusion that the 'Respondent'/'Applicant'
+        had proved the existence of a 'debt' as well as existence of 'default'
+        and had discussed in detail about the same in the order dated
+        25.08.2020, which speaks for itself.
+70. That apart, the 'Adjudicating Authority' in the 'Impugned
+        Order' dated 30.03.2021 had opined that 'the present application
+        has been settled after Admission before making the public
+        announcement as per Regulation 6 of IBBI (Insolvency Resolution
+        Process for Corporate Persons) Regulations, 2016. The I&B Code
+        does not bar the 'Tribunal' to admit the matter which was settled
+        after Admission.
+71. Be that as it may, considering the entire conspectus of the facts
+        and circumstances of the case, taking into account of the fact that
+        when the 'Respondent'/'Applicant' paid an advance of
+        Rs.1,00,00,000/-on 21.11.2012 and because of the numerous
+        encumbrances found out later, in regard to the properties and
+        assets of the 'Corporate Debtor' which culminated into an
+        'Addendum' dated 27.11.2012 being entered into between the
+        parties to the 'Agreement', in and by which the 'Corporate Debtor'
+        had instructed the 'Respondent'/'Applicant' to pay the part
+        consideration to its other 'Creditors' directly as made mention of in
+        the 'Agreement' and in view of the fact that the 'instant debt' arises
+        out of the 'Share Purchase Agreement' dated 21.11.2012, coupled
+        with an 'Addendum' to the said 'Agreement' dated 27.11.2012, the
+        said sum is a 'debt' disbursed against the consideration for
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 59 of 80
+'Advance Payment' in terms of the 'Agreement' and further that in
+         the present 'Appeal' before this 'Tribunal', it is brought forth that
+         the 'Appellant' had promised to repay/refund the amount paid by
+         the 'Respondent'/'Applicant' together with interest, and therefore,
+         this 'Tribunal' comes to an inevitable and inescapable cocksure
+         conclusion that the aforesaid promise comes squarely within the
+         ambit of definition of 'Financial Debt' and that the
+         'Respondent'/'Applicant' is without any haziness is a 'Financial
+         Creditor' in the eye of Law.
+72. Suffice it for this 'Tribunal' to pertinently point out that the
+         'Appellant'/'Corporate Debtor' had not adhered to its 'commitment'
+         in respect of 'Share Purchase Agreement' dated 21.11.2012 and
+         had not paid the amount admittedly, especially in the teeth of the
+         fact that the 'debt' due arises out of the said 'Share Purchase
+         Agreement'. Viewed in that perspective, the 'Impugned Order' dated
+         30.03.2021 passed by the 'Adjudicating Authority' (National
+         Company Law Tribunal, Kochi Bench, Kerala) in admitting the
+         Application IBA/13/KOB/2020 does not suffer from any material
+         irregularity or patent illegality in the eye of law. Consequently, the
+         'Appeal' fails.''
+71.      The Learned Counsel for the 1st Respondent / Bank refers to the
+
+decision of this Tribunal, in
+Tejas Khandhar v. Bank of Baroda
+[vide
+
+Comp. App (AT) (INS.) No. 371 of 2020 dated 12.07.2022), reported in
+
+MANU/NL/0439/2022, wherein at paragraphs 11 to 14, it is observed as
+
+under:
+11. ``A brief perusal of I.A. 455 of 2021 shows that the documents
+         required to be taken on record include the copy of the OTS, the
+         copy of the I.A. 1155/2016 filed before the DRT Pune and other
+         letters dated 18.03.2019 addressed to by the 'Corporate Debtor' to
+         the Bank. The main document in these additional documents is the
+         terms of OTS which is not disputed therefore, we are of the
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 60 of 80
+considered view that no prejudice would be caused if the said OTS
+        document is taken on record. The other documents relied upon by
+        the Bank is pursuant to the OTS and also a copy of I.A. 1155/2016
+        which is a public document and we see no substantial reasons not
+        to take these documents on record as they are relevant to the facts
+        of the case.
+12. It is seen from the record that the date of default has been
+        mentioned as 13.09.2013, which stood revived with the OTS
+        proposal dated 01.08.2016 filed vide I.A. 1155/2016 before the
+        DRT Pune, well within the three year period. Subsequently, another
+        settlement proposal dated 07.03.2018 was accepted by the Bank on
+        27.03.2018, wherein a timeline was provided for the payment of the
+        balance amount. We are of the considered view that the OTS
+        proposal dated 01.08.2016 filed vide I.A. 1155/2016 falls within the
+        ambit of 'acknowledgement of debt' as defined under
+Section 18
+of
+        the Limitation Act, 1963, which is further fructified by the admitted
+        OTS dated 27.03.2018 again within three years of the previous
+        proposal where the 'debt' is acknowledged to be 'due and payable'.
+Therefore, we are of the view that the ratio of the Hon'ble Supreme
+        Court in
+'Dena Bank (now Bank of Baroda)' Vs. 'C. Shivkumar
+        Reddy and Anr.', MANU/SC/0502/2021
+, 10 SCC 330, is squarely
+        applicable to the facts of this case as there is a jural relationship
+        between the 'Corporate Debtor' and the Respondent Bank and there
+        is an 'acknowledgement of debt' vide the OTS dated 27.03.2018,
+        which falls within the ambit of
+Section 18
+of the Limitation Act,
+        1963.
+13. The Resolution Professional filed the Status Report stating that
+        on 11.08.2020 a third CoC Meeting was held whereby it was taken
+        into consideration that the 180 days CIRP period was coming to an
+        end and having deliberated upon this issue, it was suggested that
+        the RP should apply for liquidation under
+Section 33
+of the Code.
+        On 05.09.2020 an Application for initiation of the 'liquidation of
+        Corporate Debtor' was filed and is pending before the Adjudicating
+        Authority.
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 61 of 80
+14. Keeping in view the aforenoted ratio
+laid down by
+the Hon'ble
+        Apex Court in 'Dena Bank (now
+Bank of Baroda
+)' (Supra), this
+        Tribunal is of the considered view that the OTS proposal dated
+        01.08.2016 and the subsequent one on 27.03.2018 falls within the
+        definition of the ambit of 'acknowledgement of debt' as envisaged
+        under
+Section 18
+of the Limitation Act, 1963 and is therefore
+        squarely covered by the aforenoted Judgement.''
+
+2nd Respondent / IRP's Contentions:
+72.     When the `Interim Resolution Professional', took over, he found
+
+that due to insufficient `Cash Flows', the `Corporate Debtor', is unable to
+
+procure `Coal', major `Raw Material', for generating `Power and Supply'
+
+under `Power Purchase Agreement'. In fact, the `Insolvency Resolution
+
+Professional', had arranged for an immediate `Coal', from available `Cash
+
+Flow' and operated the `Plan' within five days in February 2022. In terms
+
+of the conditions of `Power Purchase Agreement', the same would get
+
+terminated, if there is non-supply for a continuous period of two months
+
+or failure to achieve standardising availability for 12 consecutive or non-
+consecutive months, within any continuous period of 36 months.
+73.     According to the 2nd Respondent / IRP, the `Corporate Debtor',
+
+operates the `Thermal Power Plant', based on `Imported Coal', and
+
+because of the `continuous rise' in `Coal Prices', since the
+
+Commencement of the year 2022, due to the Global Factors, the
+
+`Corporate Debtor was unable to procure `Coal' for supplying power to
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 62 of 80
+the `State Government', under `Power Purchase Agreement'. Therefore,
+
+the Corporate Debtor starting selling the electricity at `Energy Exchange',
+
+in the month of April 2022 at much higher rate than agreed under `Power
+
+Purchase Agreement', and ensured the `Plant' remains operational. As of
+
+date, out of two Units, only Unit II is operational, whereas Unit No.1 is
+
+shut down, due to turbine failure, for which, appropriate steps are being
+
+carried out to rectify the same.
+74.     Moreover, in the meanwhile, `Interim Resolution Professional',
+
+also contacted the `TANGEDCO', and has been making efforts on regular
+
+basis, to recover the `Outstanding Dues', to meet the `Cash Flow'
+
+requirement of the `Corporate Debtor' and run the `Plant'.
+75.     It is represented on the side of the 2nd Respondent / IRP that the
+
+`Ministry of Power', in exercise of power, vested upon them, as per
+Section 11
+of the Electricity Act, 2003, as directed all imported Power
+
+Plants to operate and generate at their full capacity, including those under
+
+`Insolvency Process', and further that the `Power Plants', shall be allowed
+
+pass through of High Coal Cost (not allowed, as per the existing Power
+
+Purchase Agreement), incurred by them.
+76.     Moreover, a `Committee', constituted by `Ministry of Power', has
+
+also issued `Bench Mark Rate', for `Companies', including `Corporate
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 63 of 80
+Debtor', though the same is low, as compared to `Actual Cost', incurred
+
+by the Corporate Debtor, thereby resulting in loss.
+77.     In reality, the Corporate Debtor, had wrote to the `Ministry of
+
+Power', and the `TANGEDCO', to reconsider the `Bench Mark Rate',
+
+and is also in the process of filing an `Appropriate Petition', before the
+
+`Central Electricity Regulatory Commission' for `Revision', in `Bench
+
+Mark Rates'.
+78.     On behalf of the 2nd Respondent / IRP that it is brought to the
+
+notice of this `Tribunal' that `Central Transmission Utility of India Ltd.'
+
+(earlier known as Power Grid Corporation India Ltd.) invoked a bank
+
+Guarantee given by the Corporate Debtor amounting to Rs.55,00,00,000/-
+
+(Rupees Fifty Five Crore Only). IRP filed the appropriate petition before
+
+Appellate Tribunal for Electricity (`APTEL') and got the stay on such
+
+invocation and saved Rs.55 Crore of Corporate Debtor, and an
+
+Application was also filed before the NCLT for `violation' of
+
+`moratorium', under
+Section 14
+of the Code.
+79.     Continuing further, it is pointed out on behalf of the 2nd Respondent
+
+/ IRP that the Corporate Debtor had received the copy of the Provisional
+
+Attachment Order No. 07 / 2022 dated 12.04.2022, issued by the
+
+`Enforcement Directorate', under
+Section 5
+of the `Prevention of Money
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 64 of 80
+Laundering Act, 2002
+' (PMLA, 2002), relating to the Assets of the
+
+Corporate Debtor. In fact, a `Reply', was sent to the `Enforcement
+
+Directorate's Office, against the issuance of `Provisional Attachment
+
+Order'.
+I & B Code, 2016:
+80.
+Section 3 (6)
+of the I & B Code, 2016, defines `claim' meaning;
+(a) a right to payment, whether or not such right is reduced to
+
+judgment, fixed, disputed, undisputed, legal, equitable, secured or
+
+unsecured;
+(b) right to remedy for breach of contract under any law for the
+
+time being in force, if such breach gives rise to a right to payment,
+
+whether or not such right is reduced to judgment, fixed, matured,
+
+unmatured, disputed, undisputed, secured or unsecured;
+Section 3 (8)
+of the Code, defines `corporate debtor' meaning, a
+
+corporate person who owes a debt, to any person;
+Section 3 (10)
+of the Code, defines `creditor' meaning, any person
+
+to whom a debt is owed and includes a financial creditor, an operational
+
+creditor, a secured creditor, an unsecured creditor and a decree-holder;
+Section 3 (11)
+of the Code, defines `debt' meaning, a liability or
+
+obligation in respect of a claim which is due from any person and
+
+includes a financial debt and operational debt;
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 65 of 80
+Section 3 (12) of the Code, defines `default' meaning, non-payment
+
+of debt when whole or any part or instalment of the amount of debt has
+
+become due and payable and is not [paid] by the debtor or the corporate
+
+debtor, as the case may be.
+Section 5 (7) of the Code, deals with `financial creditor' meaning,
+
+any person to whom a financial debt is owed and includes a person to
+
+whom such debt has been legally assigned or transferred to;
+Section 5 (8)
+of the Code, provides for `financial debt' meaning, a
+
+debt along with interest, if any, which is disbursed against the
+
+consideration for the time value of money and includes-
+(a) money borrowed against the payment of interest;
+(b) any amount raised by acceptance under any acceptance credit
+
+             facility or its de-materialised equivalent; etc.
+
+
+Adjudicating Authority:
+81.     An `Adjudicating Authority' (`National Company Law Tribunal'),
+
+in respect of an `Application', preferred under
+Section 7
+of the I & B
+
+Code, 2016, has to determine the same, on its own `individual merits', by
+
+taking into `account of the available materials on record'. Undoubtedly,
+
+the `Existence of Default', is to be looked into by an `Adjudicating
+
+Authority'. It cannot be gainsaid, that whether, there is `Debt' and
+
+`Default', can be looked into by an `Adjudicating Authority', only, if a
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 66 of 80
+`Corporate Debtor', disputes the `Debt' or takes a `Plea', that there is no
+
+`Default', although, there is `Debt'.
+82.     An `Adjudicating Authority' (`Tribunal') and an `Appellate
+
+Tribunal', are not to act as `Courts of Equity'.
+83.     A `Debt', may take within its fold a `Disputed Claim', is not `Due'.
+
+A `Corporate Debtor', is permitted in `Law', to point out that a `Default',
+
+had not `occurred'. More importantly, a `Debt', may not be `Due', if it is
+
+not `payable' in `Fact' or `Law'.
+84.     Even, if the `Debt' is `controverted' / `repudiated' / `disputed', if
+
+the `Amount', is more than `Rupees One Lakh' under
+Section 4
+of the I &
+
+B Code, 2016, (now `Rupees One Crore'), an `Application', under
+Section 7
+, filed by a `Person', is `Ex-facie Maintainable in Law', as
+
+opined by this `Tribunal'. Also that, an `Adjudicating Authority', has no
+
+duty to `decide' the `Sum of Default'. An `Adjudicating Authority'
+
+(`Tribunal'), is not to `decide' the `Contract', between the `Parties', like
+
+that of a `Civil Court', as opined by this `Tribunal'. An `Application',
+
+under
+Section 7
+of the I & B Code, 2016, is only `maintainable', by a
+
+`Financial Creditor'.
+85.     For an `Admission' of an `Application', under
+Section 7
+of the I &
+
+B Code, 2016, the reasons projected by the concerned `Party', in regard to
+
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 67 of 80
+his `inability' / `incapacity', to `pay' its `Debt', are not to be delved into
+
+by an `Adjudicating Authority', because of the fact that the `proceedings',
+
+under I & B Code, 2016, are `summary in character', and not to be
+
+decided like a regular `Suit', by a Civil Court'. Furthermore, an
+
+`Application' / `Petition', has to be `disposed of', within the parameters of
+
+the
+Section 7
+of the I & B Code, 2016.
+Exercise of Discretion:
+86.     The aspect of `Discretion', is to be `exercised', by a `Person' /
+
+`Authority', only in a `Legal' manner, so to say, the same ought to be
+
+governed by a `Rule', as per `Justice', and not in a `Whimsical' fashion.
+
+If there is a `failure' or `miscarriage', while exercising the same, there is
+
+no `embargo', upon the `Competent Authority' / `Appropriate Authority'
+
+/ `Superior Forum', to `review' the same.
+Discussions:
+87.     Before the `Adjudicating Authority', (`National     Company       Law
+
+Tribunal', Division Bench - I, Chennai), the `1st Respondent / Bank', had
+
+filed IBA/757/2019 on 03.10.2018 (Filed under
+Section 7
+of                 the
+
+Insolvency and Bankruptcy Code, 2016, read with Rule 4 of the
+
+Insolvency and Bankruptcy (Application to Adjudicating Authority)
+
+Rules, 2016, (`National                 Company   Law   Tribunal',   Division
+
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 68 of 80
+Bench - I, Chennai), against the `Corporate Debtor' (`Coastal Energen
+
+Private Limited'), mentioning under `Part IV' (`Particulars of Financial
+
+Debt'), wherein, the `Total Amount', disbursed by the `1st Respondent /
+
+Bank / Financial Creditor' as on 10.09.2018, was mentioned as
+
+Rs.3131.40 Crores. The amount in default as on 06.09.2018 was
+
+mentioned as Rs. 2923,62,42,864.46.
+88.     According to the 1st Respondent / Bank, the `Corporate Debtor'
+
+was liable, to pay `Contractual Interest Rate', as per the `Terms of the
+
+Loan Agreement'. In fact, the `Accounts', were classified as `Non
+
+Performing Asset', as on 31.03.2017.
+89.     According to the `1st Respondent / Bank / Financial Creditor', the
+
+`Principle Outstanding Sum' is Rs.2442,83,68,006.34, the `Regular
+
+Interest Sum' due is Rs. 440,90,26,287.15, the `Penal Interest' is Rs.
+
+48,95,59,623.13 and the `Total Outstanding Amount', as on 06.09.2018 is
+
+Rs.2932,69,53,916.62.
+90.      Furthermore, in the
+Section 7
+Application, the `1st Respondent /
+
+Bank / Financial Creditor', under `Part V' (`Particulars of Financial Debt'
+- `Documents', `Records' and `Evidence of Default'), it is observed as
+
+under:-
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 69 of 80
+``Securities were held by the Financial Creditor jointly with other
+        Consortium Lenders. Financial Creditors has charge on such
+        Securities as per the Loan Agreements. Details of such Securities
+        held by the Financial Creditor are described in Schedule - A
+        hereto.
+The estimated value of the properties and assets in which the
+        security interest created jointly in favour of the Financial Creditor
+        and other members of the Consortium were approximately Rs.8,055
+        Crores.''
+91.     The       `2nd    Respondent'       /   `Corporate   Debtor',   before     the
+
+`Adjudicating Authority', in its `Reply' to IBA/757/2019, filed by the `1st
+
+Respondent / Bank / Financial Creditor', had inter alia mentioned that as
+
+per the `Joint Lender Agreement' dated 05.07.2016, in and by which, the
+
+`1st Respondent / Bank', was appointed as a `Lead Banker', and further
+
+that the `Promoter' of the `Corporate Debtor', had submitted a `One Time
+
+Settlement Offer', for a sum of Rs.3,000 Crores, in respect of the `Dues'
+
+to the `1st Respondent / Bank', and that based on the `Advisory', from the
+
+`Consortium of Banks', an initial payment of Rs.150 Crores, being the
+
+5% of the `Total OTS Amount', was remitted on 15.06.2019, by the
+
+`Promoter' of the `Respondent'.
+92.     According to the Appellant, the `Corporate Debtor' on 16.05.2019,
+
+had made an upfront payment of Rs.30 Crores to the `1st Respondent /
+
+Bank' on 16.05.2019 and on 16.06.2019, the `Corporate Debtor', had
+
+made an upfront of Rs.70 Crores to the `1st Respondent / Bank'. Also that,
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 70 of 80
+on 14.06.2019, the `Corporate Debtor', had made an upfront payment of
+
+Rs.50 Crores to the `1st Respondent / Bank'.
+93.     It comes to be known that on 01.10.2019, an enhance `OTS Offer'
+
+of Rs.3100 Crores with an `Equity' of 15% for the `Consortium', was
+
+submitted by the `Promoter Group', on 01.10.2019.
+94.     Besides this, the `1st Respondent / Bank / Financial Creditor', had
+
+filed a `Memo', before the `Adjudicating Authority', praying for a
+
+`Liberty', to `revive' the `Application' / `Petition' (`if the `OTS Proposal'
+
+failed and the same was `allowed').
+95.     On behalf of the `1st Respondent / Bank', it is pointed out before
+
+this `Tribunal', that after the `dismissal' of the `Application', filed under
+Section 7
+by the `Bank', at the request of the `Lender Consortium', the
+
+IA/827/2020 in IBA/757/2019 for restoration of the main IBA/757/2019,
+
+was filed before the `Adjudicating Authority' (`National Company Law
+
+Tribunal',       Division Bench - I, Chennai), and the IBA/757/2019 was
+
+`Restored', by the `Adjudicating Authority', on 28.12.2020 for further
+
+consideration, on account of the `Default', in payment of the `Sum',
+
+under the `One Time Settlement'.
+96.     In this connection, this `Tribunal', on going through the Order
+
+dated 05.11.2020, passed by the `Adjudicating Authority' (`National
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 71 of 80
+Company Law Tribunal', Division Bench, Court I - Chennai) in
+
+IA/827/2020 in IBA/757/2019 (Filed under
+Section 60 (5)
+of the I & B
+
+Code, 2016), is of the earnest opinion that the `Adjudicating Authority',
+
+in Paragraph 2 (vide Page No. 627 - Volume V of the Appellant's Appeal
+
+Paperbook), had clearly observed the following:
+``Vide Order dated 19.12.2019, this Adjudicating Authority had
+        dismissed the Petition (IBA/757/2019) with the liberty to reinstate
+        this Petition in case the Respondent fails to honour the
+        commitment.''
+97.     In view of the crystalline fact that a `Liberty', was granted by the
+
+`Adjudicating Authority' (`Tribunal') as mentioned in Supra, in its Order
+
+dated 05.11.2020, obviously based on the `Memo', filed by the `1 st
+
+Respondent / Bank' to `resurrect' / `revive' the IBA/757/2019, to its file,
+
+in the event of failure of `OTS Proposal', the `Appellant' at this distant
+
+point of time, cannot have a grievance to say that the `Order', passed on
+
+05.11.2020, was an `Ex-parte' one, because of the latent and patent fact
+
+that as per Rule 11 of the NCLT Rules, 2016, under the caption `Inherent
+
+Powers', the `Adjudicating Authority' (`Tribunal'), has an `inbuilt
+
+power', is empowered, to pass necessary orders or issue such directions,
+
+to meet the `ends of Justice' or to `prevent', an `abuse of process', as the
+
+case may be. Viewed in that perspective and also keeping in mind the
+
+`primordial fact' that because of the `Default', in payment of the amount,
+
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 72 of 80
+under the `One Time Settlement', the act of the `1st Respondent / Bank',
+
+in filing IA/827/2020 in IBA/757/2019 and the `Logical Corollary Order',
+
+passed by the `Adjudicating Authority' (`Tribunal') in `allowing' the said
+
+`Application', and the `Order of Restoration', by no stretch of
+
+imagination, cannot be found `fault with', in the considered opinion of
+
+this `Tribunal', and hence, the `Plea' of the `Appellant', that there is / was
+
+a negation of `Rules of Natural Justice', has no legs to stand and the same
+
+is not `acceded to', by this `Tribunal'.
+98.     Dealing with the `Plea' of the `Appellant' that the initiation of
+
+`Corporate Insolvency Resolution Process', by the `1st Respondent /
+
+Bank', in regard to the `shadow period', i.e., 25.03.2020 to 25.03.2021,
+
+when the restrictions imposed, by the ingredients of Section 10A of the I
+
+& B Code, 2016, were in force, is `bad in Law', this `Tribunal, relevantly
+
+points out that the `Parliament', had intended to `impose a prohibition, as
+
+regards the projecting of the `Applications' / `Petitions', for the start of
+
+`Corporate Insolvency Resolution Process', in respect of a `Corporate
+
+Debtor', for a `Default', taking place on or after 25.03.2020 and the
+
+`embargo' was for a period of six months, extendable for a year'. As a
+
+matter of fact, the words, `shall ever be filed', is a clear pointer that the
+
+`Statutory Provision', ought not to be `applicable', in respect of any
+
+`Default', `prior to 25.03.2020', as opined by this `Tribunal'.
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 73 of 80
+99.     In any event, the `Appellant' cannot fall back upon the ingredients
+
+of Section 10A of the I & B Code, 2016, because of the fact that the `Date
+
+of Default' (`Non Performing Asset'), in the instant case on hand, was on
+
+31.03.2017. In this connection, it is not out of place to this `Tribunal', to
+
+make a pertinent mention that the `1st Respondent / Bank' (`Financial
+
+Creditor'), filed under `
+Section 7
+Application', under the I & B Code,
+
+2016, before the `Adjudicating Authority', on 03.10.2018. As such, the
+
+`contra plea', taken on behalf of the `Appellant', is `unworthy of
+
+acceptance'.
+100. In so far as the contention of the `Appellant' that in all the
+
+exchanges / communications, the `OTS Consortium', consistently and
+
+unequivocally communicated that the `Sums', were being remitted as per
+
+the `Terms' of the `OTS', and further that a `Debtor', while making a
+
+`Payment', has a `Right', to have it `appropriated', in the way he
+
+determines, and if the `Creditor' accepts the `payment', he / it, is required
+
+to make the `appropriation', in tune with the `directions' of the `Debtor',
+
+it is significantly pointed out by this `Tribunal', that the `payments'
+
+received by the `1st Respondent / Bank', were not as an integral part of the
+
+`OTS Proposal', but were charge on the `Security', and indeed, the `2nd
+
+Respondent / Corporate Debtor', had agreed to the `Agreements Terms',
+
+and obtained the `Credit Facilities', and in fact, the `Receivables' of the
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 74 of 80
+`Borrower' are only charge of the `Financial Creditors', in the teeth of:
+(i). `Third Amended And Restated Common Loan Agreement dated
+
+05.07.2016, Article VI Security (Clause 6.1 - Security for Senior Facility;
+Clause 9.2, under the caption `Consequences of Default'), executed by
+
+the `Corporate Debtor' (`Coastal Energen Private Limited'), to and in
+
+favour of the `Consortium Lenders', (ii) The `Working Capital Facility
+
+Agreement' dated 23.02.2017, executed between the `Corporate Debtor'
+
+(`Coastal Energen Private Limited') and the `1st Respondent / State Bank
+
+of India' (vide Clause 9.3, provides for `Conversion of Debt to Equity'
+
+(`Conversion Right'). Viewed from the aforesaid perspectives, the `contra
+
+plea' of the `Appellant', is not accepted by this `Tribunal'.
+101. To be noted, that the principle of `Waiver' or `Approbation and
+
+Reprobation', lies at the `root of conduct', `productive of change of
+
+activation', and this principle, is akin to the `Rule' of `Constructive Res
+
+judicata', as per `Explanation IV' of `
+Section 11
+of the Civil Procedure
+
+Code'.
+102. In regard to the plea of the `Appellant' that the `1st Respondent /
+
+Bank', is retaining the amounts paid by the `OTS Consortium', under the
+
+`OTS' and `contest' the `binding nature' of the `OTS' and its `validity',
+
+and hence, the `1st Respondent / Bank', is not to be `allowed', to
+
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 75 of 80
+`Approbate' and `Reprobate', this `Tribunal', points out that, in the
+
+instant case, the `2nd Respondent / Corporate Debtor', had knowingly
+
+accepted the `benefits' of the `contracts' / `agreements', by `securing the
+
+necessary facilities' and hence, it is `estopped' from `repudiating' /
+
+`denying', the `liability', or `validity', or `binding effect' of `contract',
+
+upon it. Therefore, the `converse plea', taken on behalf of the `Appellant',
+
+is `negative', by this `Tribunal'.
+103. One cannot remain in oblivion as to the vital fact that the
+
+`Promoters', had not `paid' any `Sum', as per `OTS', but, they had
+
+arranged a Sum of Rs.150 Crore from three different `Companies' /
+
+`Persons', and the said `Sum', is kept in a `No Lien Account', with the
+
+`1st Respondent / Bank', and in reality, the said `Sum', was not
+
+`Appropriated' or `Disbursed' / `Distributed', by the `Lenders'.
+104. According to the `1st Respondent /Bank', in the present case, the
+
+candid fact is that the `Promoters', were not in a position to arrange for
+
+the `required funds', inspite of the `pluralities of opportunities', provided
+
+to them, and further, in lieu of the `OTS Proposal', being not fructified
+
+and hence, the `1st Respondent / Bank', was `perforced' to initiate the
+
+`Corporate Insolvency Resolution Process', against the `2nd Respondent /
+
+Corporate Debtor', and in the present case, the `Debt', is `more than
+
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 76 of 80
+Rupees One Lakh', as per the I & B Code, 2016 (`prior to the increase of
+
+threshold limit of Rupees One Crore - vide
+Section 4
+of the Code'), and it
+
+cannot be brushed aside that the `Application', under
+Section 7
+of the I &
+
+B Code, 2016, was filed by the `1st Respondent / Bank', prior to the
+
+raising of the threshold limit.
+105. It is to be remembered that an `Application', under
+Section 7
+of the
+
+I & B Code, 2016, can be preferred by a `Financial Creditor, on the basis
+
+of `Debt' and `Default'. Even the `non-payment of Debt', even in
+
+`entirety' or in `part' or `instalment' of the `Sum' of `Debt', by a `Debtor'
+
+/ `Person', will clothe a `Right', on a `Financial Creditor', to prefer an
+
+`Application', when the `Debt', become `due and payable', either in
+
+`Law' or in `Fact'. No wonder, the `Plea' of the `Appellant' that only a
+
+`portion' / `part payment' only, remains to be `paid', by the `2 nd
+
+Respondent / Corporate Debtor', is a `candid tacit admission' of
+
+`Default', and this is a clear adverse circumstance in favour of the
+
+`Appellant'.
+OTS - An Acknowledgement of Debt:
+106. In the present case, this `Tribunal', points out that the `OTS' is a
+
+clear cut admission of the `Corporate Debtor' (between the `Parties'), and
+
+
+
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 77 of 80
+it is an `Acknowledgement' of `Debt', in terms of the ingredients of
+Section 18
+of the Limitation Act, 1963.
+Appellant's Locus Standi:
+107. The Appellant who has preferred the instant Comp. App (AT) (CH)
+
+(INS.) No. 89 of 2022, is the `Promoter' of the `2nd Respondent /
+
+Corporate Debtor', and in as much as he is an `Investor', is not an
+
+`Aggrieved Person', to prefer the instant `Appeal', before this `Tribunal',
+
+notwithstanding the fact that
+Section 61 (1)
+of the I & B Code, 2016,
+
+`employs' the words, `any person aggrieved by the order of the
+
+Adjudicating Authority', under this `Part' (Chapter VI) of the I & B
+
+Code, 2016, may prefer an `Appeal', in respect of the `Order', passed by
+
+the `Adjudicating Authority', as opined by this `Tribunal'. Hence, the
+
+instant `Appeal', filed by the `Appellant', before this `Tribunal', is not
+
+`per se maintainable', and answered accordingly.
+108. As far as the instant case is concerned, on a careful consideration of
+
+the divergent contentions advanced on either side, in the teeth of detailed
+
+discussions made by this `Tribunal', in the instant `Appeal', looking into
+
+the facts and circumstances of the case in a `Holistic' and in an `Integral
+
+Manner', and on going through the `impugned order' dated 04.02.2022, in
+
+IBA/757/2019, passed by the `Adjudicating Authority' (`National
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 78 of 80
+Company Law Tribunal', Division Bench - I, Chennai), this `Tribunal',
+
+comes to a consequent conclusion that there is an `abundance of
+
+Materials', in regard to an `Existence' of `Debt', due and payable in
+
+`Fact'      and       in `Law', and `Default' was committed by the `2nd
+
+Respondent / Corporate Debtor', and the `Default' took place, well
+
+before the `Covid-19 Pandemic', and that the `Application', filed by the
+
+`1st Respondent / Bank / Financial Creditor', is complete in all respects.
+
+Looking at from any point of view, the `impugned order' dated
+
+04.02.2022 in IBA/757/2019, passed by the `Adjudicating Authority'
+
+(`National Company Law Tribunal',           Division Bench - I, Chennai),
+
+exercising its `subjective judicial discretion', in `admitting' the
+
+`Application' (Filed under
+Section 7
+of the Insolvency and Bankruptcy
+
+Code, 2016, read with Rule 4 of the I & B (Application to Adjudicating
+
+Authority) Rules, 2016), by the `1st Respondent / Bank / Financial
+
+Creditor' with `Moratorium', is free from any `Legal Infirmities'.
+
+Resultantly, the instant `Appeal', sans merits.
+
+Disposition:
+In fine, the instant Comp. App (AT) (CH) (INS.) No. 89 of 2022 is
+
+dismissed. No costs.
+The `interim order', granted by this `Tribunal', on 11.03.2022, shall
+
+stand vacated.
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 79 of 80
+The connected pending IA No. 198 of 2022 (`For Leave to
+
+Appeal'), IA No. 197 of 2022 (`For Stay'), IA No. 250 of 2022 (`For
+
+Clarification'), IA No. 251 of 2022 and IA No. 709 of 2022 (`For Urgent
+
+Application') are closed.
+[Justice M. Venugopal]
+                                                   Member (Judicial)
+
+
+
+                                                    [Naresh Salecha]
+                                                  Member (Technical)
+
+06/01/2023
+
+SR / TM
+
+
+
+
+Comp. App (AT) (CH) (INS.) No. 89 of 2022
+Page 80 of 80

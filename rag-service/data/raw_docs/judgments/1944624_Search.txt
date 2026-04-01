@@ -1,0 +1,263 @@
+Title: Search
+Court: High Court
+Date: Unknown Date
+Citation: citations: 2005(3)ARBLR570(DELHI), 127(2006)DLT346
+Source: https://indiankanoon.org/doc/1944624/
+
+[Cites
+41
+, Cited by
+4
+]
+Delhi High Court
+Ramjee Power Construction Ltd. vs Union Of India (Uoi) And Ors. on 9 December, 2005
+Equivalent citations: 2005(3)ARBLR570(DELHI), 127(2006)DLT346
+Author:
+Vikramajit Sen
+Bench:
+Vikramajit  Sen
+JUDGMENT
+
+ 
+
+Vikramajit Sen, J.
+Page 2660
+1. In this Writ Petition it has been prayed that the letter dated 27.7.2005 issued by RITES Ltd. to the Jharkhand State Electricity Board (`JSEB' in short) be quashed calling upon them to freeze all payments due to the Page 2661  Petitioner in respect of an on-going project of JSEB. Similar prayers have also been made in respect of the letter dated 2.8.2005 issued on behalf of the JSEB instructing all banks to stop all payments made to the Petitioner. It is further been prayed that letters issued to various parties be held in abeyance calling upon them not to award contract to the Petitioner. Prayers have also been made for re-evaluating the amount of securities furnished by the Petitioner on the project.
+2. The Petition had been rejected by me on the grounds of lack of territorial jurisdiction. Subsequently, an application was made for reviewing the decision. Mr. Seth, learned counsel appearing for RITES has waived all objections on this score and instead had sought a decision on the merits of the Petition. He had, however, raised an objection pertaining to the non-maintainability of the Writ Petition as it intrinsically involved disputes which were in the realm of contract. Second preliminary objection that has been raised by Mr. Seth is that the Writ Petition ought not to be entertained since an Arbitration Clause exists between the parties in respect of the disputes which have been ventilated in the Petition. I will deal with these Objections first.
+Writ Jurisdiction in contractual matters
+3. The only question that has arisen was whether Karnataka State Industrial Investment & Development Corporation Ltd. (`KSIIDC' in short) had acted in a bona fide manner in the sale of properties of the Borrower while exercising its right under
+Section 29
+of the State Financial Corporation Act, 1951. Reliance has been placed by Mr. Seth on the decision in Karnataka State Industrial Investment & Development Corporation Ltd., (2005) 4 Supreme Court Cases 456, on the following passage:
+19. From the aforesaid, the legal principles that emerge are:
+(i) The High Court while exercising its jurisdiction under
+Article 226
+of the Constitution does not sit as an appellate authority over the acts and deeds of the Financial Corporation and seek to correct them. The doctrine of fairness does not convert the writ courts into appellate authorities over administrative authorities.
+(ii) In a matter between the Corporation and its debtor, a writ court has no say except in two situations:
+(a) there is a statutory violation on the part of the Corporation, or
+(b) where the Corporation acts unfairly i.e. unreasonably.
+(iii) In commercial matters, the court should not risk their judgments for the judgments of the bodies to which that task is assigned.
+(iv) Unless the action of the Financial Corporation is mala fide, even a wrong decision taken by it is not open to challenge. It is not for the courts or a third party to substitute its decision, however, more prudent, commercial or businesslike it may be, for the decision of the Financial Corporation. Hence, whatever the wisdom (or the lack of it) of the conduct of the Corporation, the same cannot be assailed for making the Corporation liable.
+Page 2662
+(v) In the matter of sale of public property, the dominant consideration is to secure the best price for the property to be sold and this could be achieved only when there is maximum public participation in the process of sale and everybody has an opportunity of making an offer.
+(vi) Public auction is not the only mode to secure the best price by inviting maximum public participation, tender and negotiation could also be adopted.
+(vii) The Financial Corporation is always expected to try and realise the maximum sale price by selling the assets by following a procedure which is transparent and acceptable, after due publicity, wherever possible and if any reason is indicated or cause shown for the default, the same has to be considered in its proper perspective and a conscious decision has to be taken as to whether action under
+Section 29
+of the Act is called for. Thereafter, the modalities for disposal of the seized unit have to be worked out.
+(viii) Fairness cannot be a one-way street. The fairness required of the Financial Corporations cannot be carried to the extent of disabling them from recovering what is due to them. While not insisting upon the borrower to honour the commitments undertaken by him, the Financial Corporation alone cannot be shackled hand and foot in the name of fairness.
+(ix) Reasonableness is to be tested against the dominant consideration to secure the best price.
+4. The Apex Court does not state that Writ Petitions are not maintainable in any contractual matter; it advocates and recommends that the Court should not hastily interfere with the impugned commercial decision. The observations made in the context of the sale of the property of the Borrower and are, therefore, not directly applicable. There is a plethora of precedence on this very interesting aspect of the law.
+In
+Indian Oil Corporation Ltd. v. Amritsar Gas Service
+, , the attention of the Court revolved around the validity of an Award. A distinction was sought to be made between actions of an Authority under
+Article 12
+of the Constitution in its commercial dealings and other dealings of a public nature. The Court noted that the Suit was based on breach of contract alone and the Arbitrator also proceeded only on that basis and therefore, it declined to go into the constitutional constraints of
+Article 14
+particularly in view of the contemporaneous decisions in Dwarkadas Marfatia and Sons.
+v.
+Board of Trustees of the Port of Bombay,  and Mahabir Auto Stores v. Indian Oil Corporation
+, . The Apex Court observed that they were dealing with a suit (in contradistinction to a writ) based on a breach of contract and remedies flowing Page 2663 there from in the context to which the Arbitrator had given his award.
+The relevant portion of the judgment in
+Indian Oil Corporation Ltd. v. Amritsar Gas Service
+, 1991 (1) SCC 553, is reproduced for facility of reference:
+9. The argument advanced by Shri Harish Salve on behalf of the appellant-Corporation to the validity of the award are these. The first contention is that the validity of the award has to be tested on the principles of private law and the law of contracts and not on the touchstone of constitutional limitations to which the Indian Oil Corporation Ltd., as an instrumentality of the State may be subject since the suit was based on breach of contract alone and the arbitrator also proceeded only on that basis to giant the reliefs. It is urged that for this reason the further questions of public law do not arise on the facts of the present case. The next contention is that the relief of restoration of the contract granted by the arbitrator is contrary to law being against the express prohibition in
+Sections 14
+and
+16
+of the Specific Relief Act. It is urged that the contract being admittedly revokable at the instance of either party in accordance with Clause 28 of the agreement, the only relief which can be granted on the finding of breach of contract by the appellant-Corporation is damages for the notice period of 30 days and no more. It was then urged that the reasons given in the award for granting the relief of restoration of the distributorship are untenable, being contrary to law. Shri Salve contended that the propositions of law indicated in the award and applied for granting the reliefs disclose an error of law apparent on the face of the award. It WHS also urged that the onus of proving valid termination of the contract was wrongly placed by the arbitrator on the appellant-Corporation instead of requiring the plaintiff-respondent 3 to prove that the termination was invalid. It was also contended that the failure of the arbitrator to consider and decide the appellant-Corporation's counter-claim when the whole suit was referred for decision constitute legal misconduct.
+10. In reply, Shri Sehgal on behalf of respondent 1 contended that there is a presumption of validity of award and the objections not taken specifically must be ignored. This argument of Shri Sehgal relates to the grievance of the appellant relating to placing the onus on the appellant-Corporation of proving validity of the termination. This contention of Shri Sehgal must be upheld since no such specific ground is taken in the objections of the appellant. Moreover, there being a clear finding by the arbitrator of breach of contract by invalid termination, the question of onus is really of no significance. The other arguments of Shri Sehgal are that the termination of distributorship casts stigma on the partners of the firm; counter-claim of the appellant-Corporation was rightly not considered since it was not made before the order of the reference; the reference made being of all disputes in the suit, the nature of relief to be granted was also within the arbitrator's jurisdiction; and interest also must be awarded to the respondent.
+Page 2664
+11. We may at the outset mention that it is not necessary in the present case to go into the constitutional limitations of
+Article 14
+of the Constitution to which the appellant-Corporation as an instrumentality of the State would be subject particularly in view of the recent decisions of this Court in
+Dwarkadas Marfatia and Sons v. Board of Trustees of the Port of Bombay
+,  Mahabir auto
+Stores v. Indian Oil Corporation
+, (199) 3 SCC 752, JT (1990) SC 363 and Shrilekha Vidyarthi v. State of U.P., , . This is on account of the fact that the suit was based only on breach of contract and remedies flowing there from and it is on this basis alone that the arbitrator has given his award. Shri Salve is, therefore, right in contending that the further questions of public law based on
+Article 14
+of the Constitution do not arise for decision in the present case and the matter must be decided strictly in the realm of private law rights governed by the general law relating to contracts with reference to the provisions of the
+Specific Relief Act
+providing for non-enforceability of certain types of contracts.
+It is, therefore, in this background that, we proceed to consider and decide the contentions raised before us.
+12. The arbitrator recorded finding on Issue No. 1 that termination of distributorship by the appellant-Corporation was not validly made under Clause 27. Thereafter, he proceeded to record the finding on Issue No. 2 relating to grant of relief and held that the plaintiff-respondent 1 was entitled to compensation flowing from the breach of contract till the breach was remedied by restoration of distributorship. Restoration of distributorship was granted in view of the peculiar facts of the case on the basis of which it was treated to be an exceptional case for the reasons given. The reasons given stale that the Distributorship Agreement was for an indefinite period till terminated in accordance with the terms of the agreement and, therefore, the plaintiff-respondent 1 was entitled to continuance of the distributorship till it was terminated in accordance with the agreed terms. The award further says as under:
+"This award will, however, not fetter the right of the defendant Corporation to terminate the distributorship of the plaintiff in accordance with the terms of the agreement dated April 1, 1976, if and when an occasion arises."
+This finding read along with the reasons given in the award clearly accepts that the distributorship could be terminated in accordance with the terms of the agreement dated April 1, 1976, which contains the aforesaid Clauses 27 and 28. Having said so in the award itself, it is obvious that the arbitrator held the distributorship to be revokable in accordance with Clauses 27 and 28 of the agreement. It is in this sense that the award describes the Distributorship Agreement as one for an indefinite period, Page 2665 that is, till terminated in accordance with Clauses 27 and 28. The finding in the award being that the Distributorship Agreement was revokable and the same being admittedly for rendering personal service, the relevant provisions of the
+Specific Relief Act
+were automatically attracted. Sub-section (1) of
+Section 14
+of the Specific Relief Act specifies the contracts which cannot be specifically enforced, one of which is `a contract which is in its nature determinable'. In the present case, it is not necessary to refer to the other clauses of Sub-section (1) of
+Section 14
+, which also may be attracted in the present case since Clause (c) clearly applies on the finding read with reasons given in the award itself that the contract by its nature is determinable. This being so granting the relief of restoration of the distributorship even on the finding that the breach was committed by the appellant-Corporation is contrary to the mandate in
+Section 14(1)
+of the Specific Relief Act and there is an error of law apparent on the face of the award which is stated to be made according to `the law governing such cases'. The grant of this relief in the award cannot, therefore, be sustained."
+5. Another decision of the same era is
+Bareilly Development Authority v. Ajai Pal Singh
+,  which pronounced that where the State entered into a non-statutory contract, a dispute pertaining to the cost of houses would not be amenable to writ jurisdiction. The court noted that such question could not be labelled as arbitrary and discriminatory, meaning thereby, that if either of these elements were perceived, writ jurisdiction would be available. The larger Bench in Marfatia had opined that a public body even in respect of its dealing with its tenant must act in public interest and an infraction of that duty would be amenable to examination either in a civil suit or in writ jurisdiction. The ratio of Mahabir Auto is that the State or its instrumentality when engaged in commercial transactions must act reasonably, and should inform and take into confidence the adverse party against whom adverse action is contemplated.
+In
+Kerala State Electricity Board v. Kurien E. Kalathil
+,  the Court repelled an effort to invoke writ powers where the dispute concerned the interpretation and implementation of a clause in a contract.
+6. Over thirty years ago the Hon'ble Supreme Court had clarified in
+The Gujarat State Financial Corporation v. Lotus Hotels Pvt. Ltd.
+,  that it was too late in the day to contend that the "State can commit breach of a solemn undertaking on which other side has acted and then contend that the party suffering by the breach of contract may sue for damages but cannot compel specific performance of the contract". The Apex Court applied the principle of promissory estoppel for enforcement of such contractual Page 2666 undertakings.
+Thereafter, similar views have been expressed in
+Kumari Shrilekha Vidyarthi v. State of U.P.
+,  by a Bench comprising J.S. Verma, J. (as the learned Chief Justice then was) and R.M. Sahai, J. Contemporaneously, the Bench presided by Sabyasachi Mukharji (as the learned Chief Justice then was) and S. Ranganathan, J. held in
+Salonah Tea Company Ltd. v. The Superintendent of Taxes, Nowgong
+,  that a Writ Court was competent to order a refund of tax deposited under a mistaken understanding of the law.
+In
+Smt. Nilabati Behera v. The State of Orissa
+,  the Apex Court did not find any fetters in granting relief to heirs of a victim of custodial death on the foundation of an infraction of fundamental rights guaranteed under
+Article 21
+of the Constitution of India and observed as follows:
+"Adverting to the grant of relief to the heirs of a victim of custodial death for the infraction or invasion of his rights guaranteed under
+Article 21
+of the Constitution of India, it is not always enough to relegate him to the ordinary remedy of a civil suit to claim damages for the tortuous act of the State as that remedy in private law indeed is available to the aggrieved party. The citizen complaining of the infringement of the indefeasible right under
+Article 21
+of the Constitution cannot be told that for the established violation of the fundamental right of life, he cannot get any relief under the public law by the Courts exercising writ jurisdiction. The primary source of the public law proceedings stems from the prerogative writs and the Courts have, therefore, to evolve 'new tools' to give relief in public law by moulding it according to the situation with a view to preserve and protect the Rule of Law. While concluding his first Hamlyn Lecture in 1949 under the tile 'Freedom under the law' Lord Denning in his own style warned:
+"No one can suppose that the executive will never be guilty of the sins that are common to all of us. You may be sure that they will sometimes do things which they ought not to do: and will not do things that they ought to do. But if and when wrongs are thereby suffered by any of us what is the remedy? Our procedure for securing our personal freedom is efficient, our procedure for preventing the abuse of power if not. Just as the pick and shovel is no longer suitable for the winning of coal, so also the procedure of mandamus, certiorari, and actions on the case are not suitable for the winning of freedom in the new age. They must be replaced by new and up-do-date machinery, by declarations, injunctions and actions for negligence. This is not the task of Parliament, the Court must do this. Of all the great tasks that lie ahead this is the greatest. Properly exercised the new powers of the executive lead to the welfares state; but abused they lead to a totalitarian state. None such must ever be allowed in this country".
+Page 2667
+ 
+
+It was opined that "the primary source of the public law proceedings stems from the prerogative writs and the courts have, therefore, to evolve 'new tools' to give relief in public law by moulding it according to the situation with a view to preserve and protect the Rule of Law".
+7.
+In
+Pioneer Publicity Corporation v. Delhi Transport Corporation, , I
+had to consider whether an injunction could be issued against the DTC thereby preventing it from breaching the contract between the parties. Several decisions of the Supreme Court were discussed, including Amritsar Gas and Shrilekha Vidyarthi. I had granted the injunction and it was affirmed by the Division Bench. No doubt that injunction was passed in proceedings under
+Section 9
+of the Arbitration & Conciliation Act and
+Order XXXIX of the Code of Civil Procedure
+, 1908. I find reason to extrapolate the thesis even to writ petitions, albeit, with greater care and circumspection. The freedom which exists under the realm of private contract in respect of the performance of contractual obligation does not apply in the same measure where the Government is a party. Every action of the Government has to pass the rigorous inquisition of fair play, lack of arbitrariness, and its being founded on good and sound reasons. Government's freedom to contract as well as freedom to break free from the obligations of a contract is now rightly restricted in diverse manners. While the Government may enjoy the role of distribution of largesse, it may also suffer from the vulnerability of committing errors or perpetrating an inequitable or unjust implementation of its policies through its faceless and unidentifiable officers and agents. It, therefore, behoves the Court to treat Government contracts in a manner altogether different to that of the compact between private parties. The Hon'ble Supreme Court has opined that even where the State is empowered by a particular clause in a contract to terminate it by a notice simplicitor, the only possible construction that can be given to such a clause is that the reasons which prevailed upon it for justifying the termination need not be conveyed to the adversary. The Apex Court has clarified that such a clause does not permit the taking of arbitrary, biased, unreasonable or an ill-informed decisions.
+8. More recently, in
+ABL International Ltd. v. Export Credit Guarantee Corporation of India Limited
+,  the following principles have been culled out and explained:
+27. From the above discussion of ours, following legal principles emerge as to the maintainability of a writ petition:-
+(a) In an appropriate case, a writ petition as against a State or an instrumentality of a State arising out of a contractual obligation is maintainable.
+(b) Merely because some disputed questions of facts arise for consideration, same cannot be a ground to refuse to entertain a writ petition in all cases as a matter of rule.
+Page 2668
+(c) A writ petition involving a consequential relief of monetary claim is also maintainable.
+28. However, while entertaining an objection as to the maintainability of a writ petition under
+Article 226
+of the Constitution of India, the Court should bear in mind the fact that the power to issue prerogative writs under
+Article 226
+of the Constitution is plenary in nature and is not limited by any other provisions of the Constitution. The High Court having regard to the facts of the case, has a discretion to entertain or not to entertain a writ petition. The court has imposed upon itself certain restrictions in the exercise of this power [See:
+Whirlpool Corporation v. Registrar of Trade Marks, Mumbai and Ors.
+]. And this plenary right of the High Court to issue a prerogative writ will not normally be exercised by the court to the exclusion of other available remedies unless such action of the State or its instrumentality is arbitrary and unreasonable so as to violate the constitutional mandate of
+Article 14
+or for other valid and legitimate reasons, for which the court thinks it necessary to exercise the said jurisdiction.
+In
+State of Jammu & Kashmir v. Ghulam Mohd. Dar
+, , after noting that writs in the nature of mandamus would not ordinarily issue for enforcement of a contract, it has been observed that a writ can issue when questions of public law character arise for consideration.
+9. On the strength of the case law discussed above, I am of the opinion that a Writ Petition is maintainable even in respect of contractual or commercial dealings of an Authority within the sweep of
+Article 12
+of the Constitution. While looking into disputes of this genre the Court has always to be vigilant not to trespass into the purely commercial or private character of the dispute. The scope of its investigation or the ambit of judicial review should be restricted to the presence or adherence to principles of natural justice and absence of Wednesbury unreasonableness. The same observations have been made in
+State of NCT of Delhi v. Sanjeev
+, .
+17. The court will be slow to interfere in such matters relating to administrative functions unless decision is tainted by any vulnerability enumerated above; like illegality, irrationality and procedural impropriety. Whether action falls within any of the categories has to be established. Mere assertion in that regard would not be sufficient.
+18. The famous case commonly known as "the wednesbury case" is treated as the landmark so far as laying down various basic principles relating to judicial review of administrative or statutory direction.
+19. Before summarizing the substance of the principles laid down therein we shall refer to the passage from the judgment of Lord Greene in Page 2669 Associated Provincial Picture Houses Ltd. v. Wednesbury Corporation (KB at p.229: All ER pp. 682 H-683 A). It reads as follows:
+...It is true that discretion must be exercised reasonably. Now what does that mean? Lawyers familiar with the phraseology under in relation to exercise of statutory discretions often use the word 'unreasonable' in a rather comprehensive sense. It has frequently been used and is frequently used as a general description of the things that must not be done. For instance, a person entrusted with a discretion must, so to speak, direct himself properly in law. He must call his own attention to the matters which he is bound to consider. He must exclude from his consideration matters which are irrelevant to what he has to consider. If he does not obey those rules, he may truly be said, and often is said, to be acting 'unreasonably'. Similarly, there may be something so absurd that no sensible person could even dream that it lay within the powers of the authority. ... In another, it is taking into consideration extraneous matters. It is unreasonable that it might almost be described as being done in bad faith; and in fact, all these things run into one another.
+Lord Greene also observed (KB p. 230: All ER p. 683 F-G)
+ "...it must be proved to be unreasonable in the sense that the court considers it to be a decision that no reasonable body can come to. It is not what the court considers unreasonable.... The effect of the legislation is not to set up the court as an arbiter of the correctness of one view over another".
+Therefore, to arrive at a decision on "reasonableness" the court has to find out if the administrator has left out relevant factors or taken into account irrelevant factors. The decision of the administrator must have been within the four concerns of the law, and not one which no sensible person could have reasonably arrived at, having regard to the above principles, and must have been a bona fide one. The decision could be one of many choices open to the authority but it was for that authority to decide upon the choice and not for the court to substitute its view.
+20. The principles of judicial review of administrative action were further summarised in 1985 by Lord Diplock in CCSU case as illegality, procedural impropriety and irrationality. He said more grounds could in future become available, including the doctrine of proportionality which was a principle followed by certain other members of the European Economic Community. Lord Diplock observed in that case as follows: (All ER p. 950h-j.)
+ 
+
+Judicial review has I think developed to a stage today when, without reiterating any analysis of the steps by which the development has come about, one can conveniently classify under three heads the grounds on which administrative action is subject to control by judicial review. The first ground I would call 'illegality', the second 'irrationality' and the third 'procedural impropriety'. That is not to say that further development on a case-by-case basis may not in course of time add further grounds. I have in mind particularly the possible adoption in the future of the principle of 'proportionality' which is recognised in the administrative law of several of our fellow members of the European Economic Community.
+Page 2670
+ 
+
+Lord Diplock explained "irrationality" as follows: (All ER p. 951 a-b)
+ 
+
+By 'irrationality' I mean what can by now be succinctly referred to as 'Wednesbury unreasonableness'. It applies to a decision which is so outrageous in its defiance of logic or of accepted moral standards that no sensible person who had applied his mind to the question to be decided could have arrived at it.
+The argument that Court should decline to exercise extraordinary jurisdiction under
+Article 226
+of the Constitution, no sooner it comes across contractual or private dealings, is so broadly stated that it must be rejected summarily. This is also the approach that has been preferred by several Benches of this Court including A.K.Sikri, J. in
+Bharat Filling Station v. Indian Oil Corporation Ltd.
+, ; Sanjay Kishan Kaul, J. in
+Allied Motors Ltd. v. Bharat Petroleum Corporation Ltd.
+, 113 (
+2004) DLT 599 and Vinay Construction Co. v. Municipal Corporation of Delhi
+, ; Badar Durrez Ahmad, J. in
+SPS Engineering Ltd. v. Indian Oil Corporation Ltd.
+, .
+10. Reliance of Mr. Seth on the following passage from the Order in
+State of Jammu & Kashmir v. Ghulam Mohd. Dar
+, , is of little assistance as the Court has not enunciated any intractable rules of law. Instead, an overview of the law has been encapsulated:-
+"3. It is not disputed that the contract agreement entered into by and between the parties contains an arbitration agreement. Furthermore, the respondent herein filed the aforementioned writ petition for enforcing a contract qua contract. Although an objection has been taken as regards the maintainability of the writ petition by the appellant herein, the same unfortunately has not been considered by the High Court. It is well settled that writ of or in the nature of mandamus would not ordinarily issue for enforcing the terms and conditions of a contract qua contract. A writ of mandamus would issue when a question involving public law character arises for consideration. It is also well settled that the High Court would not entertain a writ petition involving disputed questions of fact."
+In
+National Highways Authority of India v. Ganga Enterprises
+,  the Court had formulated the main issue before it to be "whether the writ petition is maintainable in a claim arising out of a breach of contract". It then observed that disputes relating to contracts cannot be agitated under
+Article 226
+of the Constitution.
+The Court did not and could not have overruled Page 2671 the ratio in
+ABL International Ltd. and Anr. v. Export Credit Guarantee Corporation and Ors.
+, .
+11. The Supreme Court has developed the law in leaps and bounds so far as contractual dealings of the State or any other 'Authority' is concerned, even in the realm of contract. The origins of writs are several centuries in antiquity when the State seldom ventured into contractual dealings with its subjects. This position has drastically changed. A citizen would be expected to guard against illegal or unethical conduct from another citizen, but when he deals with the State or an 'Authority' he should be able to rely upon and rest assured of fair and ethical dealings, with full compliance with the mandates of
+Article 14
+and the principles of natural justice, whenever he enters into even contractual relations with the State and an 'Authority'. I do not find any incongruity with such an expectation viz-a-viz the State or any other Authority akin to it. In Amritsar Gas Service this question was decidedly left open. With the advancement of the law, especially in view of the exposition of law found in ABL International, it is no longer possible for the State to contend that it can act in an arbitrary or partisan or illegal manner merely because its activities fall within the realm of contract. It would indeed be a retrograde step if it were to be taken. In these circumstances the objection that this Writ is not maintainable because it deals fundamentally with contractual relations between an Authority and a private citizen is without merit and is rejected.
+Arbitration
+12. The next question pertains to the existence of an Arbitration Clause and the sweep of
+Section 8
+of the Arbitration and Conciliation Act, 1996. I must straightway refer to the decision of the Constitutional Bench comprising seven learned Judges of the Supreme Court in landmark precedent entitled
+L. Chandra Kumar v. Union of India
+, . One of the question that had arisen in that batch of Appeals/Petitions inter alia was whether the powers of the High Court under
+Article 226
+of the Constitution could be curtailed by statutes such as the
+Administrative Tribunals Act, 1985
+. The Court pronounced that the powers of judicial review over legislative action vested, inalienably, in the High Courts under
+Article 226
+and in the Supreme Court under
+Article 32
+of the Constitution, and were integral and essential features of the Constitution constituting part of its basic structure. Ordinarily, therefore, the power of these Courts to test the constitutional validity of Page 2672 legislations could not be ousted or excluded. It was further held that the power vested in the High Courts to exercise judicial superintendence over the decisions of all Courts and Tribunals within their respective jurisdictions was also a concomitant of the basic structure of the Constitution. Divesting the High Courts of these powers had therefore to be abjured. It was further held that the provisions of the statute which excluded the jurisdiction of the High Courts and the Supreme Court, such as
+Section 28
+of the Administrative Tribunals Act, 1985 were unconstitutional. In these circumstances, whether the
+Arbitration and Conciliation Act, 1996
+is a specialised or a subsequent statute would not, in any way, circumscribe the amplitude of that decision, namely, that the sweep of
+Article 226
+cannot be curtailed by legislative action and ought to remain untrammeled. An interpretation of any of the provisions of the said
+Arbitration and Conciliation Act
+which tends to have this effect would become impermissible.
+If the Legislature is not competent to curtail the extraordinary jurisdiction of High Courts, a fortiori the contents of a private contract, such as an Arbitration Clause, can certainly not do so.
+13. Circumstances almost identical to the case in hand existed in Harbans Lal Sahni v. Indian Oil Corporation Ltd., . A sample of SKO was drawn by the Sub-Divisional Magistrate and officials of the Oil Company in which a deficiency in viscosity was detected. After giving an opportunity to the Dealer to show-cause the Dealership was terminated. Its challenge was rejected by the High Court on the ground that the relationship between the parties was contractual and the Dealership agreement contained an arbitration clause. Nevertheless the appeals were allowed by the Supreme Court, which opined thus: -
+7. So far as the view taken by the High Court that the remedy by way of recourse to arbitration clause was available to the appellants and therefore the writ petition filed by the appellants was liable to be dismissed is concerned, suffice it to observe that the rule of exclusion of writ jurisdiction by availability of an alternative remedy is a rule of discretion and not one of compulsion. In an appropriate case, in spite of availability of the alternative remedy, the High Court may still exercise its writ jurisdiction in at least three contingencies: (i) where the writ petition seeks enforcement of any of the fundamental rights; (ii) where there is failure of principles of natural justice; or (iii) where the orders or proceedings are wholly without jurisdiction or the vires of an Act is challenged. (See
+Whirlpool Corporation v. Registrar of Trade Marks
+). The present case attracts applicability of the first two contingencies. Moreover, as noted, the petitioners' dealership, which is their bread and butter, came to be terminated for an irrelevant and non-existent cause. In such circumstances, we feel that the appellants should have been allowed relief by the High Court itself instead of driving them to the need of initiating arbitration proceedings.
+Page 2673
+14. When the Writ Court is faced with the existence of an Arbitration Clause it must be careful not to venture into the field of the Arbitrator. There may be several aspects of a dispute which fall beyond the sweep of the Arbitration Clause. For example, in
+Haryana Telecom Ltd. v. Sterlite Industries (India) Ltd.
+, , in which it has been opined that
+Section 8
+of the Arbitration & Conciliation Act contemplates the reference to the Arbitrator of only those disputes which the Arbitrator is competent or empowered to decide. In the present case there are several disputes that have arisen between the parties, not all of which would automatically become arbitrable alone. If the State or any other Authority acts arbitrarily, Writ jurisdiction is not excluded.
+Scope of Judicial Review
+15. The decisions of the State, as also an Authority under
+Article 12
+of the Constitution, must conform to the tests
+laid down in
+Tata Cellular v. Union of India
+,  where the Supreme Court has recorded its opinion in these words:
+The duty of the court is to confine itself to the question of legality. Its concern should be:
+1. Whether a decision/making authority exceeded its powers?
+2. Committed an error of law committed a breach of the rules of natural justice, reached a decision which no reasonable tribunal would have reached or, abused its powers.
+Therefore, it is not for the court to determine whether a particular policy or particular decision taken in the fulfilllment of that policy is fair. It is only concerned with the manner in which those decisions have been taken. The extent of the duty to act fairly will vary from case to case. Shortly put, the grounds upon which an administrative action is subject to control by judicial review can be classified as under:
+(i) Illegality: This means the decision-maker must understand correctly the law that regulates his decision-making power and must given effect to it.
+(ii) Irrationality, namely, Wednesbury unreasonableness.
+(iii) Procedural impropriety.
+The above are only the broad grounds but it does not rule out addition of further grounds in course of time. As a matter of fact, in
+R. v. Secretary of State
+for the Home Department, ex Brind, Lord Diplock refers specifically to one development, namely, the possible recognition of the principle of proportionality. In all these cases the test to be adopted is that the court should, "consider whether something has gone wrong of a nature and degree which requires its intervention".
+Page 2674
+ 
+
+Wednesbury reasonableness derives its origin in Associated Provincial Picture Homes Limited v. Wednesbury Corporation, (1947) 2 All E.R. 680 and has been explained to require that the "person entrusted with discretion must, so to speak, direct himself properly in law. He must call his attention to matters which he is bound to consider. He must exclude from his consideration matters which are irrelevant to what he has to consider. If he does not obey those rules he may truly be said to be acting unreasonably. Similarly, there may be something so absurd that no sensible person could ever dream that it lay within the powers of the authority".
+16. The province of judicial review in contractual matters is even more severely restricted than when administrative decisions are under scrutiny. The caution recorded in KSIIDC above would have to be kept in mind.
+Facts of the present case
+17. The facts of the present case are that a Memorandum of Understanding for electrification of extensive parts of Jharkhand had been executed on 15.4.2002. On 5.9.2003 the Petitioner and RITES submitted their Bid on the basis of the MOU, for the said electrification of approximately five thousand villages; their Bid was accepted. In February, 2004 the Petitioner was required to submit Performance Bank Guarantees for an aggregate sum of Rs. 92.5 crores, in respect of the project share assigned to it. In July, 2005 the number of villages which were within the purview of the contract was reduced from 4923 to 1800. In the wake of this reduction the Petitioner had asked for a reduction in the aggregate sum for which Bank Guarantees had been furnished. It was at this stage that it was realised that several Bank Guarantees were forged. The Bank of India confirmed these forgeries in two letters dated 25.7.2005 and 28.7.2005. The cascading effect was that the United India Insurance company by its letter dated 11.8.2005 informed the concerned persons that the insurance cover was invalid and ineffective.
+18. The defense of the Petitioner is that Managing Director had committed this fraud. On its detection the Board of Directors suspended the Managing Director in August, 2005. The Board resolved to conclude the controversy by furnishing fresh Bank Guarantees. However, on 16.8.2005 RITES served a Termination Notice to the Petitioner and also called upon it to refund the mobilisation advance of Rupees 16.75 crores drawn from RITES and Rupees 11 crores drawn from JSEB. The attempt of the Petitioner to apportion the fault on its Managing Director cannot absolve the Petitioner of its fraudulent acts. Mr. Seth has rightly drawn support from the decision in Dale & Carrington Invt. (
+P) Ltd. v. P.K. Prathapan
+,  where it has been opined that "A company is a juristic person and it acts through its Directors who are collectively referred to as the Board of Directors. An individual Director has no power to act on behalf of a company of which he is Page 2675 a Director unless by some resolution of the Board of Directors of the company specific power is given to him/her. Whatever decisions are taken regarding running the affairs of the company, they are taken by the Board of Directors. The Directors of companies have been variously described as agents, trustees or representatives, but one thing is certain that the Directors act on behalf of a company in a fiduciary capacity and their acts and deeds have to be exercised for the benefit of the company. They are agents of the company to the extent they have been authorised to perform certain acts on behalf of the company."
+19. A similar situation had occurred in CS (OS) No. 880/2004 entitled
+PT Sumber Mitra Jaya v. National Highways Authority of India
+decided on September 8, 2004. Performance Bank Guarantees had been furnished which were specifically found not to be genuine. The contention put forward was that the Plaintiff had been cheated by its Chartered Accountant to whom the responsibility for providing these Guarantees had been shifted. I had taken the view that in commercial transactions latitude cannot be granted to the parties and therefore, if a fraud has been committed that would be a sufficient reason for the other party to repudiate or cancel contract. This view eventually came to be affirmed by the Hon'ble Supreme Court. In Writ proceedings this approach must be assiduously followed. It should be kept in mind that a `right' enforceable through a mandamus seldom manifests itself in contractual matters. It is not often that a situation presents itself where a debt is indubitably in existence and the State or Authority refuses to liquidate it. Such conduct would be seen as unconscionable and therefore amenable to writ jurisdiction. The State or Authority may unjustifiably and without reason terminate a contract; such action would also invite jural intervention. This has not happened in the case in hand. The nature of the disputes can best be adjudicated in civil or arbitral proceedings. The observations in KSIIDC immediately come to mind. The opinion of several Benches of the Hon'ble Supreme Court laying down the salutary principle that Writ Court should not interfere in commercial transactions only fortifies those observations. The effect is that there must be very strong and compelling reasons, impregnated with equities in favor of the Petitioner to justify the Writ Court from entering into the realm of contracts. In the case in hand the position is the reverse i.e. the Petitioner has acted in a unprincipled and unethical manner which can never justify or warrant the invocation and exercise of the extraordinary powers vested in this Court under
+Article 226
+of the Constitution.
+20. The Writ Petition is without merit and is dismissed. Parties to bear their respective costs.

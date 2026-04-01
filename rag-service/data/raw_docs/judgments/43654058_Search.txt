@@ -1,0 +1,465 @@
+Title: Search
+Court: High Court
+Date: Unknown Date
+Citation: citations: 2018 ACD 349 (DEL), (2017) 180 ALLINDCAS 763 (DEL), 2018 ALLMR(CRI) 277, (2017) 3 DLT(CRL) 873, (2018) 1 NIJ 25, (2017) 242 DLT 363
+Source: https://indiankanoon.org/doc/43654058/
+
+[Cites
+15
+, Cited by
+4
+]
+Delhi High Court
+Smt Rani Kapoor vs M/S Silvermount on 7 July, 2017
+Equivalent citations: 2018 ACD 349 (DEL), (2017) 180 ALLINDCAS 763 (DEL), 2018 ALLMR(CRI) 277, (2017) 3 DLT(CRL) 873, (2018) 1 NIJ 25, (2017) 242 DLT 363
+Author:
+Mukta Gupta
+Bench:
+Mukta Gupta
+*      IN THE HIGH COURT OF DELHI AT NEW DELHI
+%                                          Reserved on: 27th April, 2017
+                                           Decided on: 7th July, 2017
+
++      CRL.M.C. 3474/2016 & Crl.M.A. 14666/2016 (stay)
+
+       SMT RANI KAPOOR                                  ..... Petitioner
+                    Represented by:          Mr. Sermon Rawat, Mr.
+                                             Shivang Rawat, Mr. Jagmeet
+                                             Randhawa, Advs.
+                          versus
+
+       M/S SILVERMOUNT                                     ..... Respondent
+Represented by:
+CORAM:
+HON'BLE MS. JUSTICE MUKTA GUPTA
+1.     By the present petition the petitioner seeks quashing of complaint case
+No. 2009/1 titled as "M/s. Silvermount Vs. Mrs. Rani Kapoor" wherein the
+petitioner has been summoned as an accused for offence punishable under
+Section 138
+of the Negotiable Instruments Act, 1981 (in short the
+NI Act
+) by
+the learned Metropolitan Magistrate (West), Tis Hazari, Delhi.
+2.     Allegations in the complaint filed by the respondent are that it is a
+partnership firm carrying on business of building construction and had
+entered into a collaboration agreement with the petitioner for reconstruction
+of property No. 4/16, West Patel Nagar, New Delhi admeasuring 200 sq.
+yds. approximately. As per the collaboration agreement, the respondent paid
+a sum of ₹25 lakhs as earnest money to the petitioner and the balance
+amount of ₹1.5 crores in two installments. On reconstruction, respondent
+was entitled to keep the first and second floor with proportionate right in the
+CRL.M.C. 3474/2016                                               Page 1 of 10
+land underneath whereas the rest of the portion was to continue in the
+ownership of the petitioner. After execution of the agreement, the petitioner
+approached the respondent and requested for payment of ₹20 lakhs which in
+any case the respondent was to make later on, hence the same was paid.
+However, the petitioner with malafide intention avoided handing-over the
+vacant peaceful possession of the property which was required to be
+demolished for reconstruction. Finally the dispute was settled, petitioner
+agreed to repay the amount and a dissolution deed was entered into between
+the parties. A cheque bearing No.183141 dated 28th May, 2015 for a sum of
+₹5 lakhs issued in favour of the respondents was returned as dishonoured
+vide memo dated 29th May, 2015 on account of 'payment stopped by
+drawer'. Hence on non-receipt of the payment, respondent issued a notice
+and filed the complaint under
+Section 138
+NI Act as noted above.
+3.     Learned counsel for the petitioner submits before this Court that
+Section 138
+NI Act envisages that when a cheque issued in lieu of a legally
+recoverable debt is dishonoured and on service of notice the money is not
+paid within 15 days, a complaint is maintainable. The only issue raised by
+learned counsel for the petitioner challenging issue of summons in the
+complaint to the petitioner is that admittedly the respondent is an
+unregistered partnership firm and an unregistered partnership firm is not
+entitled to enforce its rights through contract as per
+Section 69
+of the Indian
+Partnership Act.     Hence the complaint against the petitioner is not
+maintainable and is liable to be set aside.
+4.     On the issue whether an unregistered partnership firm is entitled to
+maintain a complaint under
+Section 138
+NI Act different views have been
+expressed by various High Courts. The view expressed by the Division
+CRL.M.C. 3474/2016                                               Page 2 of 10
+Bench of Kerala High Court & Single Benches of Karnataka High Court and
+Punjab & Haryana High Court is that irrespective of
+Section 69(2)
+of the
+Indian Partnership Act, a complaint under
+Section 138
+NI Act is
+maintainable whereas the view taken by the Division Bench of Andhra
+Pradesh High Court is that the bar under
+Section 69(2)
+of the Indian
+Partnership Act is also applicable to a complaint under
+Section 138
+of the NI
+Act.
+5.
+In the decision reported as
+AIR 1975 Ker 144 Kerala Arecanut Stores
+v. Ramkishore and Sons
+it was held:
+"10. Reference has been made to these provisions to indicate
+       that the obligation of the drawer of a cheque as well as the
+       indorser to the indorsee who is the holder in due course arises
+       by virtue of statutory provisions. It is not as if there is any
+       privity of contract between the maker of a cheque and the
+       holder in due course. Any right of action available to such
+       holder is not under any contract, for he would be a third party
+       to the contract and would not come within one of the exceptions
+       enabling a third party to a contract to sue. But he is entitled to
+       sue on his cheque by reason of the right conferred upon him by
+       the statute. In fact, in the case of an indorsement of a pronote or
+       of a cheque it is not an assignment of the debt as such but only
+       of the property in the note or the cheque and it is by virtue of
+       obtaining such property in the note or the cheque that the
+       indorsee sues thereon. It is not necessary to advert to the
+       several decisions which indicate that a person suing on a
+       negotiable instrument is not suing by virtue of the assignment of
+       the debt. That, we think, is well settled and therefore we are not
+       referring to the decisions cited by counsel on this point. It is
+       sufficient to state here, for the purpose of this case, that the
+       right of action available to an indorsee of a cheque who comes
+       to hold the cheque in due course is based upon conferment on
+       him by the statutory provisions the right to sue the maker of the
+       cheque and also the indorser. If that be the case the right that is
+       sought to be enforced does not arise from a contract. It is not a
+CRL.M.C. 3474/2016                                                 Page 3 of 10
+suit by the indorsee to enforce a right arising out of a contract
+       and therefore the bar under
+Section 69(2)
+of the Partnership
+       Act will not operate in such a case."
+6.     Following the decision of the Supreme Court in
+BSI Ltd. Vs. Gift
+Holdings Pvt. Ltd.
+in the decision reported as ILR 2003 KAR 4325 Beacon
+Industries v. Anupam Ghosh it was held:
+"5. A careful reading of
+Section 69(2)
+of the Partnership Act
+       clearly shows that an unregistered partnership firm is barred
+       from filing a civil suit and there is no bar as such to file a
+       private complaint and it is purely criminal liability on the part
+       of the person who has issued the cheque. Even if the cheque
+       issued by a partner of an unregistered firm for legally
+       recoverably debt or otherwise and if such cheque dishonoured
+       when it was presented for encashment, it amounts to a criminal
+       liability. Therefore the dismissal of a complaint by the Trial
+       Court by relying on the decision of the Andhra Pradesh High
+       Court referred to above is incorrect. Whenever a complaint is
+       presented under
+Section 138
+of the Negotiable Instruments Act
+       it is the duty of the learned Magistrate to take note of the
+       cognizance and record the sworn statement of the complainant
+       and his witnesses and after hearing if there is any prima facie
+       case then it is the duty of the Court to issue summons to the
+       accused.
+6.
+In the case of
+Abdul Gafoor v. Abdur Rehman
+[ 1999 (4)
+       Crimes 1998.] the Kerala High Court held that an unregistered
+       firm can prosecute a complaint under
+Section 138
+of the
+       Negotiable Instruments Act and the effect of non-registration of
+       a firm under
+Section 69
+of the Partnership Act is applicable
+       only to a case involving civil rights.
+Further, the Supreme Court in the case
+BSI Ltd. v. Gift
+       Holdings Pvt. Ltd
+[2000 SCC (Cri) 538.] has held that:
+".... A criminal prosecution is neither for recovery of money
+       nor for enforcement of any security etc.
+Section 138
+of the
+CRL.M.C. 3474/2016                                               Page 4 of 10
+Negotiable Instruments Act
+is a penal provision the commission
+       of which offence entails a conviction and sentence on proof of
+       the guilt in duly conducted criminal proceedings. Once the
+       offence under
+Section 138
+is completed the prosecution
+       proceedings can be initiated not for recovery of the amount
+       covered by the cheque but for bringing the offender to penal
+       liability."
+Again in the case of
+Gurcharan Singh v. State of U.P.
+[ 2002 (4)
+       Crimes 165.] the Allahabad High Court has followed the above
+       said judgment of the Supreme Court.
+Therefore, in view of the above decisions of the Supreme Court
+       as well as of the other High Courts, the contention of the
+       respondent that filing of a criminal complaint by a partner of an
+       unregistered firm is hit by
+Section 69(2)
+of the Partnership Act
+       cannot be accepted. The said section has no application to the
+       criminal cases. Under these circumstances it could be said that
+Section 69(2)
+of the Partnership Act is applicable only where
+       the civil rights are invoked and not in criminal cases. Non-
+       registration of the firm has no legal bearing on the criminal
+       case. Hence the finding recorded by the Trial Court is totally
+       incorrect and illegal and the same is liable to be set aside."
+7.     Learned Single Judge of Punjab and Haryana High Court following
+the Division Bench of Kerala High Court in the decision reported as (2005) 4
+RCR (Cri) 330 Capital Leasing and Finance Co v. Navrattan jain held-
+"25. A bare reading of the above shows that
+Section 69(2)
+prohibits the enforcement of rights in respect of an unregistered
+       firm by way of a suit. The same does not relate to a criminal
+       complaint.
+In
+Kerala Arecanut Stores v. Ramkishore and Sons
+       and another
+, AIR 1975 Kerala 144, a Division Bench of the
+       Kerala High Court held that provisions of
+Section 69(2)
+of the
+       Partnership Act, provide that the suit by a partner for recovery
+       of money of a dishonoured cheque, interest in favour of the firm
+       is not barred. The following observations in the said case are
+       apposite :
+CRL.M.C. 3474/2016                                               Page 5 of 10
+"It is sufficient to state here for the purpose of this case that the
+       right of action available to an indorsee of a cheque who comes
+       to hold the cheque in due course is based upon conferment on
+       him by the statutory provisions the right to sue the maker of the
+       cheque and also the endorser. If that be the case the right that is
+       sought to be enforced does not arise from a contract. It is not a
+       suit by the indorsee to enforce a right arising out a contract and
+       therefore, the bar under
+Section 69(2)
+of the Partnership Act
+       will not operate in such a case."
+26. Besides, the Supreme Court in
+Haldiram Bhujiawala and
+       another v. Anand Kumar Deepak Kumar and another
+, 2000 (1)
+       Unreported Judgments 603, held that a suit is not barred by
+Section 69(2)
+if a statutory right or a common law right is being
+       enforced.
+27. In the case in hand the complainant has a statutory claim
+       in terms of
+Section 138
+N.I. Act. Even otherwise
+Section 69
+of
+       the Partnership Act is confined to enforcement of a right arising
+       out a contract by instituting a suit or other proceedings by an
+       unregistered firm. The criminal complaint that has been filed
+       cannot be treated as a suit or other proceedings to enforce any
+       rights arising under a contract. Therefore, there is no bar to the
+       criminal complaint that has been filed and the non-
+       registration of the firm would not bar the prosecution of an
+       accused on the ground that the firm was not registered."
+8.
+In
+Gowri Containers v. S.C. Shetty
+2007 SCC OnLine Kar 624 : 2008
+Cri LJ 498 Division Bench of Karnataka High Court held:
+"9. Now coming to the contention of the respondents that in
+       view of the provisions of
+Section 69(2)
+of the Indian Partnership
+       Act. The amount under the transaction was not legally
+       enforceable debt, reliance has been placed by the respondents
+       learned advocate on a Division Bench decision of Andhra
+       Pradesh High Court in
+Amit Desai v. Shine Enterprises
+(2000
+       Cr LJ 2386) wherein in respect of an unregistered partnership
+       firm, on the ground that the suit cannot be instituted by an
+       unregistered firm, it was held that the debt against the accused
+       was not a legally enforceable debt. That was the case in which,
+CRL.M.C. 3474/2016                                                   Page 6 of 10
+the second consignment received by the complainant could not
+       be sold and it had been returned to the accused by dispatching
+       through a lawyer and the accused had sent a credit note to the
+       amount and promised to return the value of the stock returned
+       to them. In those circumstances, the accused had issued a
+       cheque and the complaint arose out of the dishonour of that
+       cheque. The amount under the cheque arose out of that promise
+       of the accused to return the value of the stock. That was a case
+       of enforcement of a right arising out of such contract. That
+       principle is not applicable to the facts of the present case.
+10. The Supreme Court in the case of
+Kamal Pushpa
+       Enterprises v. D.R. Construction Company
+((2000) 6 SCC 659 :
+AIR 2000 SC 2676) has observed that the bar to enforce rights
+       arising from contract under
+Section 69(2)
+of the Partnership
+       Act applies only in respect of suits and not applicable to the
+       proceedings before the Arbitrator. In a direct decision of this
+       Court in Beacon Industries, Rep. by its Partners, Bangalore v.
+       Anupam Ghosh (ILR 2003 KAR 4325) the observation of this
+       Court is that an unregistered firm is barred from filing a civil
+       suit, but that there is no bar to initiate a private complaint for
+       the offence punishable under
+Section 138
+of the Negotiable
+       Instruments Act.
+11. The words, legally enforceable debt or other liability'
+       used in the explanation to
+Section 138
+of the Negotiable
+       Instruments Act refer to the enforceability in law of the debt or
+       the liability in question and have no reference to the right of the
+       person enforcing ft. If there is no legal impediment for
+       enforceability of a debt or other liability in general, disability of
+       a particular individual or entity to enforce such right to recover
+       such debt or liability does not render such debt or liability not
+       legally enforceable debt or liability. The intention of the
+       legislature is to make non-payment of amounts of cheques
+       despite service of notice as per the provisions of the Act an
+       offence only when the cheque has been issued for payment of a
+       legitimate debt or liability. Amount required to be paid as price
+       of articles or goods is a legitimate debt or liability and
+       therefore it is a legally enforceable debt or liability. The
+       disability of an unregistered firm under
+Section 69(2)
+of the
+CRL.M.C. 3474/2016                                                   Page 7 of 10
+Indian Partnership Act
+to file a suit to enforce a right arising
+       out of a contract does not make such debt or liability a not
+       legally enforceable debt or liability."
+9.     However, in
+Amit Desai v. Shine Enterprises
+2000 SCC OnLine AP
+748 : 2000 Cri LJ 2386 Division Bench of Andhra Pradesh High Court
+taking a contrary view held:
+"14. The learned counsel Mr. C. Padmanabha Reddy further
+       relied upon a ruling reported in
+Kerala Arecanut Stores v.
+       Ramkishore and Sons
+, AIR 1975 Kerala 144. Their Lordships of
+       Kerala High Court were pleased to hold that a suit by a partner
+       for recovery of money on dishonour of cheque endorsed in
+       favour of the firm is not barred.
+The learned counsel further
+       relied upon a ruling reported in
+Abdul Gafoor v. Abdurathiman
+,
+       (1999) 2 Andh LT (Cri) 196. The learned single Judge of Kerala
+       High Court was pleased to hold that
+Section 69(2)
+of the
+       Partnership Act is applicable only where the civil rights are
+       invoked and not in criminal cases. Non-registration of the firm
+       has no legal bearing on the criminal case. With due respect to
+       the learned single Judge of Kerala High Court, we prefer to
+       differ with the views expressed by him. Explanation to
+Section
+       138
+of the Negotiable Instruments Act specifically laid down
+       that the debt or other liability means a legally enforceable debt
+       or other liability. Enforcement of legal liability has to be in the
+       nature of civil suit because the debt or other liability cannot be
+       recovered by filing a criminal case and when there is a bar of
+       filing a suit by unregistered firm, the bar equally applies to
+       criminal case as
+laid down in
+explanation (2) of
+Section 138
+of
+       the Negotiable Instruments Act. Considering the above legal
+       aspect, we hold that it is a fit case wherein this court can
+       exercise the powers under Section 482, Cr. P.C. for quashing
+       the criminal case. Accordingly we quash C.C. No. 88/97 which
+       was filed against the petitioners herein and pending in the
+       Court of the Judicial Magistrate of First Class Madanapalle.
+Thus, the Criminal Petition is allowed."
+CRL.M.C. 3474/2016                                                 Page 8 of 10
+10.    It is thus apparent that except the Division Bench of Andhra Pradesh
+High Court the view expressed by the three other High Courts is that the bar
+applicable under
+Section 69(2)
+of the Partnership Act would not operate in
+proceedings under
+Section 138
+of the Negotiable Instruments Act.
+11.    Supreme Court in
+BSI Ltd.
+(supra) clarifying the distinction between
+criminal and civil proceedings noted that a criminal prosecution is neither for
+recovery of money nor for enforcement of any security,
+Section 138
+of the
+NI Act is a penal provision convicting and sentencing an offender for
+commission of the offence on proof of the guilt established after a criminal
+trial.
+Section 138
+of the NI Act notes as under:
+"138. Dishonour of cheque for insufficiency, etc., of funds in
+       the account. --Where any cheque drawn by a person on an
+       account maintained by him with a banker for payment of any
+       amount of money to another person from out of that account for
+       the discharge, in whole or in part, of any debt or other liability,
+       is returned by the bank unpaid, either because of the amount of
+       money standing to the credit of that account is insufficient to
+       honour the cheque or that it exceeds the amount arranged to be
+       paid from that account by an agreement made with that bank,
+       such person shall be deemed to have committed an offence and
+       shall, without prejudice to any other provisions of this Act, be
+       punished with imprisonment for [a term which may be extended
+       to two years], or with fine which may extend to twice the
+       amount of the cheque, or with both:
+Provided that nothing contained in this section shall
+       apply unless--
+(a) the cheque has been presented to the bank within a period
+       of six months from the date on which it is drawn or within the
+       period of its validity, whichever is earlier;
+(b) the payee or the holder in due course of the cheque, as the
+       case may be, makes a demand for the payment of the said
+       amount of money by giving a notice in writing, to the drawer of
+CRL.M.C. 3474/2016                                                 Page 9 of 10
+the cheque, [within thirty days] of the receipt of information by
+       him from the bank regarding the return of the cheque as unpaid;
+       and
+(c) the drawer of such cheque fails to make the payment of
+       the said amount of money to the payee or, as the case may be, to
+       the holder in due course of the cheque, within fifteen days of the
+       receipt of the said notice."
+12.    It is thus apparent that on finding of the guilt arrived at by the criminal
+Court the accused is liable to a sentence of imprisonment which may extend
+to two years, or fine or with fine which may extend to twice the amount of
+cheque, or with both. Thus discretion is granted to the criminal Court to
+either award imprisonment or fine or both. Thus proceedings under
+Section
+138
+of the NI Act are not recovery proceedings and in a given case the
+criminal Court may only award sentence of imprisonment. Irrespective of a
+complaint proceeding under
+Section 138
+of the NI Act, a creditor has the
+right to institute civil suit for recovery of his debt in which case the same
+would be recoverable only if it is a legally enforceable debt or other liability.
+13.    Following the decision of the Supreme Court in
+BSI Ltd.
+(supra) this
+Court is of the considered view that the decisions of the Kerala High Court,
+Karnataka High Court and Punjab & Haryana High Court as noted above lay
+down the correct law. Thus the issue raised by learned counsel for the
+petitioner that since the complainant respondent is not a registered firm it
+cannot maintain a complaint under
+Section 138
+of the NI Act is rejected.
+Petition and application are dismissed.
+(MUKTA GUPTA)
+                                                               JUDGE
+JULY 07, 2017/'ga'
+CRL.M.C. 3474/2016                                                  Page 10 of 10

@@ -1,0 +1,2598 @@
+Title: Search
+Court: High Court in the case of
+Date: 87 to 1996
+Citation: citations: [2007]108ITD639(DELHI), [2006]9SOT174(DELHI), (2007)112TTJ(DELHI)804
+Source: https://indiankanoon.org/doc/920400/
+
+[Cites
+91
+, Cited by
+0
+]
+Income Tax Appellate Tribunal - Hyderabad
+Valueline Securities (I) Ltd. vs Assistant Commissioner on 22 May, 2006
+Equivalent citations: [2007]108ITD639(DELHI), [2006]9SOT174(DELHI), (2007)112TTJ(DELHI)804
+ORDER
+J. Sudhakar Reddy, A.M.
+1. These appeals arise out of block assessment orders passed under Section 143(3), read with
+Section 158BC(c)
+, of the Income Tax Act, 1961. The facts of the case are as follows.
+2. Valueline Securities (India) Ltd. is a company engaged in hire-purchase,leasing, purchase and sale of shares and other related activities. Shri Y.Ravi Prasad and Shri B.K. Gupta are Director and Managing Directorrespectively, of the said company. In the case of these assessees, actionunder
+Section 132
+of the Income Tax Act, 1961, was initiated on 24-1-1996and was concluded on 23-4-1996. Search was conducted at the registeredoffice of the company and the residential premises of the two directors named above. During the course of search, Shri B.P. Gupta offered Rs. 50,00,000 under
+Section 132(4)
+in the hands of the company and itsdirectors. Later, Shri Y. Ravi Prasad and others retracted the admission by filing a letter dated 21-3-1996. However, before conclusion of the search, four affidavits dated 4-4-1996 were filed by Smt. B. Prabhavathi, wife of Shri B.P. Gupta, Shri Y. Ravi Prasad, Shri Y. Mahadev (Promoter) and Shri M.N.S. Venkateshawar Rao, admitting total undisclosed income of 40 lakhs. As per the assessing officer, the search operations were initiated mainly to unearth unaccounted money earned by 500ging the prices of shares of Valueline Securities (India) Ltd., after the public issue during July 1995.
+3. In response to notice under
+Section 158BD
+, the company filed blockreturn disclosing total undisclosed income at Nil. The assessment was made on 30-5-1997 determining the total undisclosed income at Rs. 38,64,000 which comprised of the following amounts:
+Rs.
+1.
+Amounts introduced in the names
+  of B. Ramakrishna & 21 other investors - treated as benami investments
+  andadded as unexplained credits under
+Section 68
+in thehands of the
+  assessee-company.
+7,64,000
+2.
+  
+   
+   
+
+Amounts introduced in the names
+  of D. Srinivasa Rao & 11 other investors - treated as benami investments
+  and added as unexplained credits under
+Section 68
+in the hands of the
+  assessee-company.
+4,76,000
+3.
+  
+   
+   
+
+Amounts introduced in the names
+  of A. Parthasarathi and 4 other investors - treated as benami investments and
+  added as unexplained credits under
+Section 68
+in the hands of the
+  assessoe-company.
+1,25,000
+4.
+  
+   
+   
+
+Amounts introduced in the names
+  of K. Radhakrishna Murthy and 54 other investors - treated as
+  benamiinvestments and added as unexplained credits under
+Section 68
+in the
+  hands of the assessee-company.
+22,44,000
+5.
+  
+   
+   
+
+Value of share certificates
+  seized from the Registered office of the assessee- treated as benami
+  investments and added as unexplained credits under
+Section 68
+in the hands of
+  the assessee-company.
+2,55,000
+  
+ 
+  
+   
+   
+
+ 
+  
+   
+   
+
+Total
+  
+   
+   
+
+38,64,000
+  
+ 
+
+ 
+
+ The assessing officer has mentioned in the assessment order that Rs. 38,64,000 is added in the hands of the assessee-company under
+Section 68
+treating the same as unexplained credit, notwithstanding the fact that the same amount was added in the hands of the directors viz., Shri B.P. Gupta and Shri Y. Ravi Prasad in their block assessments dated 30-1-1997 treating this amount as benami investments of these two directors and that the tax on such undisclosed income would, however, be enforced for collection either in the case of assessee-company or in the case of the two directors depending on the finality of such assessments.
+4. In the case of Shri Y. Ravi Prasad and Shri B.P. Gupta, the assessing officer completed the assessment on 31-1-1997 by determining theundisclosed income at Rs. 44,02,000 and Rs. 34,00,050 respectively, including Rs. 28,02,000 in each case towards unexplained investment as mainpromoter of Valueline Securities (India) Ltd.
+5. The issues contested by the assessees in these appeals are : (1) Whetherthe assessment has to be made under
+Section 158BC
+or under
+Section158BD
+and whether the assessment is within time allowed under
+Section158BE
+of the Act; and (2) Whether the assessing officer is justified in making addition under
+Section 68
+disbelieving the share capital introduced by the shareholders, particularly when no material was found A during the course of search and seizure operations. During the course of hearing, the appellant filed two volumes of paper books in the case of Valueline Securities (India) Ltd., besides filing paper books in the cases of Shri B.P. Gupta and Shri Y. Ravi Prasad, the Directors of the company. The revenue also filed paper books. The paper books consist of the following:
+(a) Paper book showing evidence of introduction of share capital by the shareholders of the Valueline Securities (India) Ltd.
+(b) Paper book (2nd volume) containing 13 pages, also filed by the appellant. This consists of the information regarding the details of search and seizure operations and the notice issued by the assessing officer before completion of assessment under
+Section 158BC
+of the Act.
+(c) department filed paper book dated 5-8-2004 containing 30 pages.
+(d) The second volume of the paper book filed by the department contains pages 31 to 67.
+(e) The appellant prepared a consolidated paper book containing pages 1 to 67 on 22-2-2006 (This paper book consists of the papers contained in the paper book No. 2 Filed by the appellant and the paper books filed by the department), hereinafter referred to as consolidated paper book.
+The learned Departmental Representative, during the course of hearing, filed a copy of the order sheet in the case of Valueline Securities Ltd. along with annexure containing brief history and the basis of search. Written submissions have also been filed by both parties.
+6. On the question of validity of block assessment in the case of Valueline Securities Ltd., the learned Counsel for the assessee submitted as follows:
+(1) The provisions of
+Section 158BC
+contemplate that in a case where search was conducted under
+Section 132
+of the Income Tax Act or where the books of account, documents or assets were requisitioned under
+Section 132A
+, the assessing officer shall proceed to make assessment under the said section. In a case where the assessing officer is satisfied that any undisclosed income belonging to any other person other than the person with respect to whom the search was made under
+Section 132
+or whose books of account or other documents were requisitioned under
+Section 132A
+, then the assessing officer having jurisdiction over such other person shall proceed against such other person under the provisions of Chapter XIV-B by invoking the provisions of
+Section 158BD
+of the Act. (The amendment to
+Section 158BD
+by inserting the words "under
+Section 158BC
+" is with effect from 1 -6-2002 and such amended provision was not available at the time when the notice was issued to the appellant and the provisions of
+Section 158BD
+for the purpose of assessment should be read without the words "under
+Section 158BC
+").
+(2) The time-limit for completion of the assessment is prescribed undersection 158
+BE of the Income Tax Act
+. According to the said section, anorder of assessment contemplated under
+Section 158BC
+shall be passedwithin one year from the end of the month in which the last of theauthorizations for search under
+Section 132
+was executed. Sub-section (2)of
+Section 158BE
+provides that the period of limitation in the case of theperson referred to in
+Section 158BD
+shall be one year from the end of themonth in which the notice under the said section was served. Theappellant submits that as there were search and seizure operations in thecase of the appellant company, the last date for completion of theassessment under
+Section 158BC
+expired by 30-4-1997 while the assessment order was passed on 30-5-1997. Therefore, appellant submits thatthe order passed on 30-5-1997 is not valid. On the other hand, thedepartment is of the view that the assessment in the case of the appellantwas made in accordance with the provisions of
+Section 158BD
+and, therefore, the assessment was within the time.
+(3) There were search and seizure operations in the case of the appellant and the authorities also issued warrant in the case of the company. The following extracts indicate clearly that there were search and seizure operations in the case of the appellant-itself.
+Extract of columns A & B of Panchanama drawn on 27-1-1996 at the premises of the appellant (page 2 of the consolidated paper book)
+ 
+ 
+   
+   
+   
+
+(A)
+  
+   
+   
+
+Warrant in the case of 
+  
+   
+   
+
+:
+Valueline Securities Ltd.
+(B)
+  
+   
+   
+
+Warrant to search (Details
+  & ownership ofplace of
+  search)
+  
+   
+   
+
+:
+6-2-6
+  
+ 
+  
+   
+   
+
+ 
+  
+   
+   
+
+ 
+  
+   
+   
+
+ 
+  
+   
+   
+
+1st Floor, B.J. Road
+  Lakdi-ka-pul, Hyderabad"
+Extract of columns A & B of Panchanama drawn on 31-1-1996 at the premises of the appellant (page 4 of the consolidated paper book)
+ 
+ 
+   
+   
+   
+
+(A)
+  
+   
+   
+
+Warrant in the case of 
+  
+   
+   
+
+:
+Valueline Securities Ltd.
+(B)
+  
+   
+   
+
+Warrant to search (Details
+  & ownership ofplace of
+  search)
+  
+   
+   
+
+:
+6-2-6
+  
+ 
+  
+   
+   
+
+ 
+  
+   
+   
+
+ 
+  
+   
+   
+
+ 
+  
+   
+   
+
+1st Floor, B.J. Road
+  Lakdi-ka-pul, Hyderabad
+  
+ 
+
+ 
+
+Extract of columns A & B of panchanama drawn on 24-1-1992 at the premises of the appellant (page 7 of the Consolidated paper book)
+  
+ 
+   
+   
+   
+
+A)
+  
+   
+   
+
+Warrant in the case of 
+  
+   
+   
+
+:
+Valueline Securities Ltd.
+(B)
+  
+   
+   
+
+Warrant to search (Details
+  & ownership ofplace of
+  search)
+  
+   
+   
+
+:
+6-2-6
+  
+ 
+  
+   
+   
+
+ 
+  
+   
+   
+
+ 
+  
+   
+   
+
+ 
+  
+   
+   
+
+1st Floor, B.J. Road
+  Lakdi-ka-pul, Hyderabad
+  
+ 
+
+ 
+
+(4) From the above, it is clear that warrants of authorization were shownto the panchas and to the persons present at the premises of the appellantbefore conducting search. The Panchanamas clearly indicate that therewere warrants of authorization for conducting search and seizure operations at the premises of the appellant.
+(5) The learned Departmental Representative filed paper book dated 5-8-2004 which is at page 15 of the consolidated paper book prepared by the appellant. At page No. 15 therein is a letter dated 25-8-2003 of the Asstt. DIT forwarding certifiedcopies of the warrants to the Departmental Representative. Copy of the letter is extracted hereunder:
+Office of the 
+
+Assistant Director of Income Tax (Inv.) 
+
+Unit-1(3), Hvderabad
+ No.ADIT/S&S/03-04                             Dated: 25-8-2003
+ 
+
+Sir,
+ 
+
+Sub: Search and seizure conducted in the case of B.P. Gupta/Y. Ravi Prasad/Value line Securities Ltd. - Submission of copies of Warrants - Reg.
+Ref.: Your letter in F. No. : IT(S&S)A 1188/H/97, dated 20-8-2003
+ 
+
+Please find enclosed certified copies of warrants in the case of B.P. Gupta/Y. Ravi Prasad/Valueline Securities Ltd.
+Kindly acknowledge the receipt of the same.
+Yours faithfully, 
+
+Sd/-
+(M.H. Naik) 
+
+Asstt. Director of Income Tax 
+
+Unit-I (3), Hyd.
+The learned Counsel contends that this letter clearly indicates that certified copies of the warrants in the case of the appellant company i.e., Valueline Securities (India) Ltd., also were sent to the Departmental Representative along with the other warrants of authorization.
+(7) From the order sheet entry made by the assessing officer as filed bythe learned Departmental Representative, it can be seen that there is an order sheet noting on 22-4-1996 duly signed by the assessing officer and his Assistant which reads as under:
+CIT, A.P.I, order under
+Section 127(2)(a)
+, dated 11-3-1996 in S & P/Jurn/CIT, A.P.I/95-96 (Block Period Assessment) is received and filed. As per the notification, in the above case Notice under Section 158BC put up.
+(Emphasis supplied).
+It is clear from the above noting that the communication received from the Commissioner of Income-tax indicated issue of notice under
+Section 1583C
+of the Act. A notice under
+Section 158BC
+was put up by the Assistant and the assessing officer signed the notice. The said notice is at page 1 of the Consolidated paper book.
+(8) It can be seen from the order sheet submitted by the learned Departmental Representative that the following matter is inserted above the typed note on the ordersheet:
+The materials gathered during search operations revealed that the genuineness of promoters equity of the company was not substantiated. I have perused the materials gathered and satisfied. Issue notice under
+Section 158BD
+.
+Sd/
+22/4
+It is clear from the order sheet noting that it is an interpolation. It was B submitted that at the time of interpolation, the date was indicated as "22/4". The appellant submits that while making the first order sheet entry, there is no need for inserting the matter unless such insertion was made afterwards. Therefore, an attempt was made to show that notice issued was under
+Section 158BD
+though the same was issued under
+Section 158BC
+.
+7. Without prejudice to the above contention, the learned Counsel for the assessee submitted that a notice under
+Section 158BC
+was put up on 22-4-1996 and the said notice was signed by the assessing officer, duly affixing his initials. Even if the earlier interpolated note were to be accepted, the later action of the assessing officer in initialling the note put up by his Assistant and in signing the notice under
+Section 158BC
+would clearly indicate that the assessing officer was issuing notice under
+Section 158BC
+and not notice under
+Section 158BD
+. A copy of the notice is at page 1 of the consolidated paper book. In the said notice, wherever the words "158BD" appeared, they were struck off and the words 158BC are retained. The word "158BD" was struck off to make things clear that notice was issued under
+Section 158BC
+and not under
+Section 158BD
+of the Act. Referring to the assessment order under
+Section 143(3)
+dated 30-5-1997 and the report of the Asstt. Director of Income-tax provided by the Departmental Representative (annexure to the written submissions), he submitted that from this documentary evidence it is clear that there were search and seizure operations at the premises of the appellant and a notice under
+Section 158BC
+was issued. The time-limit, therefore, expired within one year from the end of the month in which the search was conducted i.e. 24-1-1996. However, as the last search warrant was executed during April 1996, the time-limit for completion of the assessment expired on 30-4-1997.
+8. The learned Counsel submitted that while the facts and documents clearly indicate that the Income-tax authorities conducted search and seizure operations at the premises of the appellant and that a notice under
+Section 158BC
+was issued to the appellant, the learned departmental representative in his consolidated written submissions mentioned that a notice under
+Section 158BD
+was issued and the assessment was made under
+Section 158BD
+read with
+Section 158BC
+of the Income Tax Act. The learned Departmental Representative is of the view that the order under
+Section 158BD
+is in substance and effect in conformity with the intent and purpose of the Act and, therefore, the assessment may be treated as valid without considering the trivialities in the process of making assessment.
+9. The learned Counsel for the assessee further submitted that even on merits the assessing officer is not justified in making the addition under
+Section 68
+of the Act for the following reasons:
+The appellant is a company in which the public are substantially interested and during the previous year relevant for the assessment year 1996-97, it issued the shares to the public. The total share capital of the company as on 31-3-1996 was Rs. 3,24,98,500. Out of the said amount, the assessing officer treated the investment in the promoters' quota of share capital as the income of the appellant. The appellant had provided details of the shareholders before the assessing officer. The assessing officer issued letters of enquiry to the shareholders. Based on the response to such enquiry letters, the assessing officer made the additions. The details of additions made by the assessing officer and reasons for making such addition are as under:
+1.
+Enquiry letters were served,
+  and by the time of assessment no replies were received. The assessing officer
+  listed 22 shareholders at Para 11(1) of the Assessment order at Pages 10, 11
+  & 1 2 of the assessment order. The aggregate Amount works out to
+  
+   
+   
+
+7,64,000
+2.
+  
+   
+   
+
+The assessing officer mentioned
+  that he sent letters and in respect of 11 shareholders such letters were
+  returned unserved. The aggregate of the amount is Rs. 4,76,000 mentioned at
+  Para 11(4) of the Assessment order at Pages 14 & 15
+  
+   
+   
+
+4,76,000
+3.
+  
+   
+   
+
+The assessing officer found
+  that in 5 cases letters were sent and the assessing officer did not receive
+  either the replies or the acknowledgements - Pages 15 & 16 of the
+  Assessment order and aggregate of the amount is
+  
+   
+   
+
+1,25,000
+4.
+  
+   
+   
+
+The assessing officer addressed
+  to shareholders directly and according to him sources of investments was not
+  established in respect of 55 cases - Pages 17 to 24 of the Assessment order
+  and aggregate of the amount is
+  
+   
+   
+
+22,44,000
+5.
+  
+   
+   
+
+The assessing officer also
+  treated the amounts in respect of the share certificates seized from the
+  Registered Office of Valueline Securities at Page 25 of the Assessment order
+  and aggregate of the amount
+  
+   
+   
+
+2,55,000
+  
+ 
+  
+   
+   
+
+ 
+  
+   
+   
+
+Total :
+38,64,000
+  
+ 
+
+ 
+
+This amount is treated as the income of the appellant under
+Section 68
+of the Income Tax Act. Thus, the assessing officer is not justified in making any addition under
+Section 68
+.
+10. On the ground that the share capital was recorded in the books of account of the company, the learned Counsel for the assessee submitted that the share capital is recorded in the books of account of the appellant and, therefore, addition cannot be made in a block assessment unless there is information in the seized documents that the company diverted its own income as share capital in the names of the shareholders. In this regard, he submitted that the Income-Tax Authorities conducted search and seizure operations at the premises of the appellant and did not find any data to the effect that the share capital introduced by various shareholders represent the income of the appellant. Therefore, he submitted that the assessing officer is not justified in making any such addition under
+Section 68
+of the Act.
+11. The appellant relies on the following decisions:
+(1) The decision of the Calcutta High Court in the case of
+Bhagwati Prasad Kedia v. CIT
+wherein it is held that the assessing officer is not entitled to question in the block assessment any loan which was subject-matter of regular assessment. It is also held that the assessing officer was wrong in holding that the loan recorded in the books of account could be taxed in the block assessment.
+(2) The decision of the Delhi High Court in the case of
+CIT v. Ravi Kant Jain
+(2001) 250 ITR 141.
+(3) The decision of the Gujarat High Court in the case of
+CIT v. Shambhulal C. Bachkaniwala
+.
+(4) The decision of the Bombay High Court in the case of
+CIT v. Vinod Danchand Ghodawat
+.
+(5) The decision of the Bombay High Court in the case of
+CIT v. Vikram A. Doshi
+and Ms. Leena V. Doshi .
+The learned Counsel submitted that the judicial opinion is uniform to the effect that once the entries are made in the books of account and no adverse evidence is found during the course of search, no addition can be made while completing the assessment under
+Section 158BC
+of the Act.
+12. Without prejudice to the above, the learned Counsel submitted thatthe share capital introduced cannot be considered as not genuine. Hesubmitted that the assessing officer himself issued letters and received the letters of confirmation from some of the persons. The assessing officer required the shareholders to submit the details as per the proforma provided by him. This is clear from the letters of confirmation submitted by some of the shareholders, which are submitted in the paper book, the details of which are as under:
+Sl.
+No.
+  
+   
+   
+
+Page
+  No. of the Paper Book
+  
+   
+   
+
+Name
+  of the Shareholder
+  
+   
+   
+
+Amount
+  Invested
+  
+   
+   
+
+Date
+  on which letter
+   
+
+was
+  sent
+1.
+5
+Konduru Prakash
+  
+   
+   
+
+25,000
+  
+   
+   
+
+1-4-1997
+2.
+29
+Laxmi Devarakonda Thiresh
+  Devarakonda Ramana Rao Devarakonda
+  
+   
+   
+
+25,000
+  
+   
+   
+
+6-12-1996
+3.
+35
+M. Mahesh
+  
+   
+   
+
+25,000
+  
+   
+   
+
+4-3-1997
+4.
+72
+K. Radhakrishna Murthy
+  
+   
+   
+
+1,46,000
+  
+   
+   
+
+28-4-1997
+5
+74
+K. Radha Devi
+  
+   
+   
+
+89,000
+  
+   
+   
+
+24-4-1997
+6.
+76
+K. Siva Prasad
+  
+   
+   
+
+35,000
+  
+   
+   
+
+24-4-1997
+7.
+78
+Suryanarayana Murthy
+  
+   
+   
+
+56,000
+  
+   
+   
+
+24-4-1997
+8.
+83
+Gunda Ramesh
+  
+   
+   
+
+80,000
+  
+   
+   
+
+24-4-1997
+9.
+86
+K. Suryanarayana Murthy
+  
+   
+   
+
+56,000
+  
+   
+   
+
+24-4-1997
+10.
+88
+Devarakonda Nageswara Rao
+  
+   
+   
+
+42,000
+  
+   
+   
+
+11-2-1997
+11.
+92
+G. Rama Devi
+  
+   
+   
+
+25,000
+  
+   
+   
+
+24-4-1997
+12.
+94
+G.K. Narayana Rao
+  
+   
+   
+
+25,000
+  
+   
+   
+
+24-4-1997
+13.
+98
+Subba Reddy Bolla
+  
+   
+   
+
+25,000
+  
+   
+   
+
+6-3-1997
+14.
+101
+M. Srinivas
+  
+   
+   
+
+ 
+  
+   
+   
+
+24-4-1997
+15.
+104
+M. Krishna Murthy
+  
+   
+   
+
+25,000
+  
+   
+   
+
+23-1-1997
+16.
+115
+B. Sesharatnam
+17.
+117
+Y. Susheela
+  
+   
+   
+
+1,00,000
+  
+   
+   
+
+24-4-1997
+18.
+119
+Subhashini Ketpally
+  
+   
+   
+
+25,000
+  
+   
+   
+
+2-4-1997
+19.
+122
+Vasant Tirumal Raju
+  
+   
+   
+
+25,000
+  
+   
+   
+
+20-2-1997
+20.
+128
+Gayatri V
+  
+   
+   
+
+25,000
+  
+   
+   
+
+27-2-1997
+21.
+135
+Vijaya Laxmi G
+  
+   
+   
+
+25,000
+  
+   
+   
+
+27-2-1997
+22.
+138
+M. Satyanarayana
+  
+   
+   
+
+25,000
+  
+   
+   
+
+13-1-1997
+23.
+141
+M. Laxmamma
+  
+   
+   
+
+25,000
+  
+   
+   
+
+3-3-1997
+24.
+143
+Ashok Kumar R
+  
+   
+   
+
+45,000
+  
+   
+   
+
+3-3-1997
+25.
+149
+Satyavathi Chadalada
+  
+   
+   
+
+25,000
+  
+   
+   
+
+28-2-1997
+26.
+151
+Ravikanti Padmavathi
+  
+   
+   
+
+1,00,000
+  
+   
+   
+
+3-3-1997
+27.
+154
+G.V. Kanaka Durga
+  
+   
+   
+
+25,000
+  
+   
+   
+
+24-4-1997
+28.
+156
+Y.V. Nagalaxmi
+  
+   
+   
+
+25,000
+  
+   
+   
+
+24-4-1997
+29.
+164
+V.C. Bhadraiah
+  
+   
+   
+
+50,000
+30.
+168
+V. Murugesan
+  
+   
+   
+
+45,000
+  
+   
+   
+
+1-4-1997
+31.
+170
+Bonagiri Anjaneyulu
+  
+   
+   
+
+40,000
+  
+   
+   
+
+1-4-1997
+32.
+172
+T. Kusuma
+  
+   
+   
+
+25,000
+28.-2-1997
+33.
+176
+K. Subhashini
+  
+   
+   
+
+50,000
+  
+   
+   
+
+29-1-1997
+34.
+179
+B. Lakshmi
+  
+   
+   
+
+25,000
+  
+   
+   
+
+5-2-1997
+35.
+184
+G. Vijaya
+  
+   
+   
+
+25,000
+  
+   
+   
+
+10-2-1997
+36.
+187
+N. Anuradha
+  
+   
+   
+
+25,000
+  
+   
+   
+
+28-2-1997
+37.
+194
+K. Rajesh Goud
+  
+   
+   
+
+25,000
+  
+   
+   
+
+28-2-1997
+38.
+216
+R. Ajay Kumar
+  
+   
+   
+
+25,000
+  
+   
+   
+
+22-1-1997
+39.
+220
+K. Pawan Kumar
+  
+   
+   
+
+25,000
+  
+   
+   
+
+22-1-1997
+40.
+224
+K. Sujani Devi
+  
+   
+   
+
+25,000
+  
+   
+   
+
+20-1-1997
+41.
+227
+K. Padma
+  
+   
+   
+
+25,000
+  
+   
+   
+
+8-3-1997
+42.
+  
+   
+   
+
+ 
+  
+   
+   
+
+K. Kalpana
+  
+   
+   
+
+25,000
+  
+   
+   
+
+22-1-1997
+43.
+  
+   
+   
+
+ 
+  
+   
+   
+
+Jugal Kishore Nagala
+  
+   
+   
+
+25,000
+  
+   
+   
+
+24-4-1997
+  
+ 
+
+
+ 
+
+He submitted that from the letters of confirmation directly addressed to the Asstt. Commissioner of Income Tax, it is clear that the assessing officer himself addressed letters under
+Section 133(6)
+of the Act requiring the shareholders to furnish the details of investment with the appellant company. They have responded and furnished the details as required by the assessing officer. None of the shareholders mentioned that they have not invested the amounts with the appellant company. All the shareholders who have responded to the letters issued by the assessing officer have accepted that they invested the amounts with the appellant company. There is also no information to the effect that the shareholders did not invest the amounts, but were invested by the appellant company.
+13. The learned Counsel for the assessee further submitted that the assessing officer in the Assessment order mentioned that some of the persons did not reply to his notices and, therefore, the same was treated as income under
+Section 68
+. Such list of the shareholders is at Page 1 of the Paper Book submitted by the appellant (APB). The appellant also submitted various evidences on which it is relying on. In the paper book submitted, the appellant included the evidences submitted before the assessing officer to prove the genuineness of the share capital. It was also submitted that the appellant paid dividend to the shareholders and such dividend was paid through cheques. The details of the payment of dividend and the cheque numbers through which dividends were paid are also furnished in the paper book. The appellant submitted copies of the applications for private placement of the shares by the shareholders which are included in the paper book. It was further submitted that it was not correct for the assessing officer to mention that all the 22 shareholders did not respond to his letters. According to the learned Counsel, the following shareholders responded to the letters and sent letters of confirmation:
+1.
+K. Prakash
+  
+   
+   
+
+?
+Page No. 3 of the Paper Book
+2.
+  
+   
+   
+
+T.H. Devarakonda
+  
+   
+   
+
+?
+Page No. 29 of the Paper Book
+3.
+  
+   
+   
+
+M. Mahesh
+  
+   
+   
+
+?
+Page No. 35 of the Paper Book
+  
+ 
+ 
+ 
+
+He contended that the appellant produced evidence before the assessing officer and also before the Tribunal that the shareholders exist, they made applications for allotment of shares, that they paid the amount to the company for allotment of shares and that the appellant company paid dividend to the shareholders. From all these facts, the submitted, it would be clear that the shareholders are genuine and the assessing officer has no information to the contrary. Therefore, the assessing officer is not justified in making any addition under
+Section 68
+of the Act.
+14. The learned Counsel further submitted that the assessing officer, while treating the amount of Rs. 7,64,000 as the income of the appellant, mentioned that the onus of proving the identity of the investors is on the appellant. The assessing officer also relied on the decision of the Delhi High Court in the case of
+CIT v. Sophia Finance Ltd.
+. The assessing officer also relied on various other judgments. It is mentioned by the assessing officer that in spite of the letters of enquiry under
+Section 133(6)
+having been duly served, the investors failed to furnish letters of confirmation and therefore, the existence of the investors has not been proved. Finally, the assessing officer observed that it is clear that the names of friends and relatives of the assessee-company were used as a camouflage by the appellant company to put through its unaccounted money in the shape of share capital. He submitted that the appellant furnished detailed addresses of the shareholders. At page 13 of the assessment order it is mentioned by the assessing officer that "in the instant case, the enquiry letters under
+Section 133(6)
+were duly served and still the alleged investors failed to furnish the confirmation letters". This observation of the assessing officer clearly shows that the letters were served. Some of these persons have sent replies which were not considered by the assessing officer. Such letters of confirmation are as per the details submitted above. The appellant also filed the applications for allotment of shares and the details of the dividend paid. Therefore, it is not correct for the assessing officer to mention that the appellant did not discharge the onus to show the existence of the investors. It is further submitted that during the course of search and seizure operations the authorities did not find any data to the effect that the appellant derived any income in addition to the amount disclosed in the return of income and such income was invested in the names of these shareholders. Therefore, the assessing officer's observations are not correct.
+15. Referring to the various decisions relied on by the assessing officer,the learned Counsel submitted as under:
+The decision of the Delhi High Court in the case of
+CIT v. Sophia Finance Ltd.
+has no application to the facts of the appellant's case as in the said case the question was whether enquiry can be conducted to know whether the shareholder did exist or not. To that extent, the High Court observed that enquiry could be conducted. The whereabouts of the shareholders were made available to the assessing officer.
+The Delhi High Court considered the decision in the case of
+CIT v. Stellar Investment Ltd.  of the Delhi High
+Court but deferred from
+the said decision
+on only one point holding that an enquiry about the existence of the shareholders can be conducted.
+However, the Supreme Court confirmed the decision of the Delhi High Court in the case of
+CIT v. Stellar Investment Ltd.
+(supra) in toto.
+Therefore, the decision of the
+Sophia Finance Ltd.
+'s case (supra) is not now applicable. Further, the appellant already discharged the onus by proving the existence of the shareholders. The appellant provided necessary data before the assessing officer to prove the existence of the shareholders. The assessing officer did not intimate the appellant whether any shareholder was not available or whether any shareholder denied having invested.
+16. The learned Counsel further submitted that the assessing officer in Table 2 in para 11.4 (page No. 14 of the assessment order) listed the shareholders where the covers sent were returned unserved. The list of the shareholders consists of 12 names (there is a mistake in the assessment order : the actual number of persons is only 11; S. No. 8 is omitted). In respect of the said eleven persons, the appellant provided the list of the investors (between pages 35 and 36 of the APB). The said list consists of documents submitted in support of the investments made. It can be seen that in respect of the shareholders the appellant filed application forms for shares. In respect of item No. 4, i.e. Subhasini Katpally, the shareholder sent a letter of confirmation to the assessing officer and copy of the same is sent to the appellant. It is further submitted that item 12 mentioned by the assessing officer is with regard to late K. Venkateswera Rao represented by his son. The amount is Rs. 45,000. This is once again included in the table 4 as item No. 53 wherein the assessing officer mentioned that the evidence is not enough to prove the sources. Therefore, it is not correct for the assessing officer to mention that the notice issued to Venkateswera Rao was not served as his representative responded to the notice. In the circumstances it is submitted that the assessing officer is not justified in holding that the sources of investment was not proved as the appellant provided data as mentioned in table 2 which is in APB just before page No. 36.
+17. The learned Counsel further submitted that the assessing officer mentioned that he sent letters in respect of five shareholders and that neither the acknowledgements nor the replies were received. This list is at pages 15 and 16 of the assessment order and also is at page 53 of the APB. Even in respect of these persons, the appellant provided copies of the application forms for allotment of shares. In the case of one of the shareholders, Smt. Satyavati Salaldi, she sent a letter of confirmation to the assessing officer (page 56 of the APB). In respect of others, the appellant submitted that the dividend was paid through cheques and the details of the cheque numbers are also provided. Therefore, it is not correct for the assessing officer to treat the amounts as undisclosed income.
+18. The learned Counsel referred to Table No. 4 at pages 17 to 24 of the assessment order which is with regard to the shareholders in whose cases sources of investment are not established. The list of those persons and the evidences annexed are at pages 60 to 70 of the APB. The evidences are from page 71 and onwards. It was submitted that the identity of the shareholders is proved. The letters sent by the assessing officer were served on them. All of them have sent letters of confirmation. The applications for allotment of shares are also submitted in the paper book. The appellant also submitted the details of the dividend and the TDS certificate issued for deduction of tax at sources from the dividend. Therefore, the assessing officer is not justified in treating them as undisclosed income. It is submitted that the Assessing officer, while sending the letters of enquiry under
+Section 133(6)
+, required the shareholders to provide information in five columns. This is evident from the fact that all the shareholders have replied only to the said five queries.
+Page 1 22 of the APB is a typical reply submitted by one Sri Vasanti Tirumala Raju wherein he has written the questions and replies thereto. It can be seen that all the shareholders have replied to the questions put by the assessing officer. Therefore, the assessing officer cannot now mention that the replies provided by the shareholders are not complete. Further, in view of the decision of the Hon'ble Supreme Court in the case of
+CIT v. Stellar Investment Ltd.
+and the decision of the Hon'ble A.P. High Court in the case of
+CIT v. Lanco Industries Ltd.
+, the assessing officer is not justified in making the addition.
+19. During the course of search and seizure operations, the Income-tax authorities found share certificates at the Regd. Office of the appellant. The list of the share certificates as annexed to the panchnama is at pages9 to 11 of the consolidated paper book filed by the appellant. The learned Counsel for the assessee submitted that the reasons as to why the share certificates were available in the Regd. Office of the appellant-company were that the certificates are available either for despatch or as the shareholders are close relatives of the directors and that in the Regd. Office of the company, the directors have their own chambers and the share certificates found in their chambers are also considered as available with the company. The reasons for non-delivery of the share certificates and the reasons for availability of certificates at the premises of the appellant company, according to the learned Counsel, are as under:
+Sl. No.
+  
+   
+   
+
+Name
+  of the holder
+  
+   
+   
+
+Reasons
+  for non-delivery /relationship with director
+1.
+Harikrishna
+  
+   
+   
+
+Brother-in-law of Director of
+  Y. Ravi Prasad
+2.
+  
+   
+   
+
+Y. Venkatanarayana
+  
+   
+   
+
+Father of director Y. Ravi
+  Prasad
+3
+Y.S. Gangadhar
+  
+   
+   
+
+Father of Y. Mahadev, Vice
+  President
+4
+Y. Venkateswerlu
+  
+   
+   
+
+Under dispatch
+5
+K. Vijayalaxmi
+  
+   
+   
+
+Sister of director Y. Ravi
+  Prasad
+6
+P. Bhagyalaxmi
+  
+   
+   
+
+Sister of director Y. Ravi
+  Prasad
+7
+Y. Ravi Prasad
+  
+   
+   
+
+Director
+8
+Y. Venkatesam
+  
+   
+   
+
+Brother of director Y. Ravi
+  Prasad
+9
+B. Vasanta
+  
+   
+   
+
+Daughter of director B.P.
+  Gupta
+10
+K Giridhar
+  
+   
+   
+
+Nephew of director Y. Ravi
+  Prasad
+11
+D. Srinivas
+  
+   
+   
+
+Brother-in-law of director Y.
+  Ravi Prasad
+12
+D. Satyalaxmi
+  
+   
+   
+
+Sister-in-law of director Y.
+  Ravi Prasad
+13
+Suryanarayana Murthy
+  
+   
+   
+
+Under dispatch
+14
+Y. Venkatesam
+  
+   
+   
+
+Brother of director Y. Ravi
+  Prasad
+15
+Nikita
+  
+   
+   
+
+Grand daughter of G. Subba
+  Rao, director
+16
+B.P. Gupta
+  
+   
+   
+
+Director
+17
+Nagavenkata Durga Miryala
+  
+   
+   
+
+Daughter of director G. Subba
+  Rao
+18
+Jayaprada Miryala
+  
+   
+   
+
+Mother-in-law of daughter of
+  G. Subba Rao
+19
+Jugal Kishore Nagla
+  
+   
+   
+
+Under dispatch
+20
+Y. Sumathi
+  
+   
+   
+
+Sister-in-law of director Y.
+  Ravi Prasad
+21
+C. Mahender
+  
+   
+   
+
+Under dispatch
+22
+G. Ramakrishna
+  
+   
+   
+
+Under dispatch
+23
+P. Purushotham
+  
+   
+   
+
+Brother-in-law of director Y.
+  Ravi Prasad
+24
+K. Kalpana
+  
+   
+   
+
+Under dispatch
+25
+K. Padma
+  
+   
+   
+
+Under dispatch
+26
+R. Sumalatha
+  
+   
+   
+
+Niece of director Y. Ravi
+  Prasad
+27
+K. Hemalatha
+  
+   
+   
+
+Niece of director Y. Ravi
+  Prasad
+28
+R. Ajay Kumar
+  
+   
+   
+
+Under dispatch
+29
+K. Pavan Kumar
+  
+   
+   
+
+Under dispatch
+30.
+  
+   
+   
+
+Y. Mahadev
+  
+   
+   
+
+Vice President
+31.
+  
+   
+   
+
+N.S. Venkateswera Rao
+  
+   
+   
+
+Son-in-law of G. Subba Rao
+32.
+  
+   
+   
+
+Dilip Kumar
+  
+   
+   
+
+Under dispatch
+33.
+  
+   
+   
+
+Y. Padma
+  
+   
+   
+
+Wife of Y. Mahadev, Vice
+  President
+34.
+  
+   
+   
+
+Y. Sarada
+  
+   
+   
+
+Wife of director Y. Ravi.
+Prasad
+35.
+  
+   
+   
+
+P. Kalavati
+  
+   
+   
+
+Niece of director Y. Ravi
+  Prasad
+36.
+  
+   
+   
+
+A. Sarojini Devi
+  
+   
+   
+
+Under dispatch
+37.
+  
+   
+   
+
+A. Siva Prasad
+  
+   
+   
+
+Under dispatch
+38.
+  
+   
+   
+
+K.K. Mahalaxmi
+  
+   
+   
+
+Under dispatch
+39.
+  
+   
+   
+
+K. Radha Devi
+  
+   
+   
+
+Under dispatch
+40.
+  
+   
+   
+
+K.R. S.N. Murthy
+  
+   
+   
+
+Under dispatch
+41.
+  
+   
+   
+
+K. Parvathi
+  
+   
+   
+
+Under dispatch
+42.
+  
+   
+   
+
+K. Radhakrishna Murthy
+  
+   
+   
+
+Under dispatch
+43.
+  
+   
+   
+
+M. Abhigna
+  
+   
+   
+
+Grand son of G. Subba Rao,
+  director
+44.
+  
+   
+   
+
+K. Prakash
+  
+   
+   
+
+Under dispatch
+45.
+  
+   
+   
+
+N. Shantha
+  
+   
+   
+
+Under dispatch
+46.
+  
+   
+   
+
+Y.V.S.V. Prasad
+  
+   
+   
+
+Under dispatch
+47.
+  
+   
+   
+
+N. Anil
+  
+   
+   
+
+Son of director N.V. Rami
+  Reddy
+  
+ 
+
+ 
+
+Out of the above 47 shareholders, the assessing officer chose 10 share certificates as per the list at page No. 25 of the assessment order. The assessing officer mentioned that he conducted enquiries with the above mentioned 10 shareholders. Out of the above, Sri Chinta Mahender, Sri Kulkarni Dilip Kumar, K. Kanana Maha Lakshmi, P. Kalavathi, R. Ajay Kumar, Jugal Kishore Nagla, K. Kalpana and K. Pavan Kumar have replied mentioning that they have invested in share capital of the appellant company. From the observations of the assessing officer at paragraphs 12.2 and 12.3 of page No. 26 of the assessment order, 8 out of 10 persons responded and confirmed the investment in the share capital. Therefore, in view of the submissions made earlier, and in view of the decision of the Supreme Court in the case of
+Stellar Investment Ltd.
+(supra) and the decision of the Andhra Pradesh High Court in the case of
+Lanco Industries Ltd.
+(supra) the assessing officer is not justified in making the addition. Insofar as Smt. K. Sujanadevi and K. Padma are concerned, they did not respond to the summon issued. However, the appellant submitted the copy of the application form for allotment of the shares, a copy of the certificate issued for deduction of tax at source in respect of dividend paid to them. In view of the above, the appellant submits that the assessing officer is not justified in making any addition.
+20. The learned departmental representative, on the other hand, opposed the contention of the assessee that the assessment order dated 30-5-1997 passed by the assessing officer under
+Section 143(3)
+read with
+Section 158BC
+and
+Section 158BD
+is barred by limitation, by submitting as follows:
+(1) The assessment was made under
+Section 158BD
+of the Act on 30-5-1997read with
+Section 158BC
+. This is evident not only from the first page of theassessment order but also from the observations of the assessing officerin paragraphs 2, 10 and 14 of the assessment order as also from the order under
+Section 154
+dated 5-6-1997 passed by the assessing officer. The observations of the assessing officer clearly demonstrate that the intention of the assessing officer was to issue notice only under
+Section 158BD
+and the assessment was accordingly made under
+Section 158BD
+read with
+Section 158BC
+. As the notice was served on the assessee on 10-5-1996, the assessment was completed under
+Section 158BD
+within the time allowed under Clause (a) of Sub-section (2) of
+Section 158BE
+. Therefore, the assessment order was not barred by limitation.
+(2) The notice was issued under
+Section 158BD
+but not under
+Section158BC
+as contended by the assessee, which is clear from the provisions ofsection 158BD. In accordance with the provisions of
+Section 158BD
+, theassessment was made on 30-5-1997 and the assessment order so passedwas in substance and effect in conformity with or according to the intentand purpose of the Act.
+(3) On a direction from the Bench, copies of warrant of authorisationissued in this group of cases were obtained from the Investigation Wing, which are included in the paper book filed by the revenue at pages 1 to 6. As could be seen from these papers, only three warrants were issued in the names of Y. Ravi Prasad, B.P. Gupta and joint names of Y. Ravi Prasad and B.P. Gupta. All these warrants were shown to the persons concerned, who were present in the premises searched, and they signed the same in token of having perused the same. Therefore, when there was no warrant of authorisation in the name of the company, the question of issue of notice under
+Section 158BC
+does not arise in the case of the company. Thus, the assessment made under
+Section 158BD
+is in conformity with or according to the intent and purpose of the Act. Merely because 158BD was scored off in the notice instead of 158BC, it cannot be said that the entire assessment order is vitiated and bad in law when it is in substance and effect in conformity with or according to the intent and purpose of the Act.
+(4) The intention of the assessing officer is also evident from the followingsatisfaction recorded on the order sheet before the notice was served on the assessee on 10-5-1996:
+The materials gathered during search operations revealed that the genuineness of promoters equity of the company was not substantiated. I have perused the materials gathered and satisfied. Issue notice under
+Section 158BD
+." (DPB 31)
+ 
+
+The satisfaction of the assessing officer also finds place at para 2, page 2 of the block assessment order in the case of the assessee. Initially, a notice under
+Section 158BC
+was prepared on 22-4-1996 as per the order sheet A noting dated 22-4-1996. Subsequently, when the assessing officer learned from the ADIT that there was no warrant of authorisation in the case of the company, the satisfaction was recorded and the notice was issued under
+Section 158BD
+. Therefore, before the notice was served on the assessee on 16-5-1996, the assessing officer duly recorded the satisfaction that it was a case covered under
+Section 158BD
+and not
+Section 158BC
+, though in the notice it was not corrected as 158BD by oversight. It is important to mention that notices prescribed under
+Section 158BC
+and
+Section 158BD
+are one and the same and no separate notice is prescribed under
+Section 158BD
+. Therefore, not scoring out 158BC and non-mention of 158BD was only an inadvertent mistake on the part of the assessing officer which is not fatal to the assessment otherwise validly made under
+Section 158BD
+.
+At the time of hearing, a doubt was expressed whether the satisfaction note on the order sheet was recorded by the assessing officer on 22-4-1996 or on 30-4-1996. In this regard, the learned departmental representative submitted that the notice was served on 16-5-1996 and the note was recorded much earlier to that date. Therefore, whether the note was recorded on 22-4-1996 or on 30-4-1996, the fact remains that the intention of the assessing officer was to make the assessment under
+Section 158BD
+and accordingly the assessment was made under
+Section 158BD
+. Even otherwise, and without prejudice, as held by the Hon'ble Allahabad High Court in the case of
+Digvijay Chemicals Ltd. v. Assistant Commissioner
+, there was nothing in
+Section 158BD
+requiring the satisfaction to be recorded in writing. The court reasoned that wherever the
+Income Tax Act
+required recording of reasons before reaching satisfaction, it has specially provided to that effect, for instance in
+Section 148
+. The court also held that
+Section 158BD
+does not require an opportunity of being heard and the satisfaction in question is not a quasi-judicial order but an administrative order only.
+In this context, reference can also be made to the decision of the Hon'ble Gujarat High Court in the case of
+Rushil Industries Ltd. v. Harsh Prakash
+(2001) 251 ITR 60S, wherein it was held that requirement of
+Section 158BD
+is only a prima facie satisfaction by the assessing officer.
+(5) Even otherwise, at worst, it was only a procedural irregularity which can be cured under
+Section 292B
+, in view of the following authorities, and such procedural irregularity does not make the assessment made under
+Section 158BD
+invalid:
+(
+i) CIT v. Jai Prakash Singh
+.
+(
+ii) Estate of Late Rangalal Jajodia v. CIT
+.
+(
+iii) CIT v. Anand & Co.
+.
+(
+iv) I. Devarajan v. Tamil Nadu Farmers Service Co-op. Federation
+.
+(
+v) Assistant Commissioner v. M. Mani
+(1997) 63 ITD 393 (Cochin).
+(
+vi) Vijay Trading Co. v. Income Tax Officer
+(1985) 13 ITD 526 (Nag).
+(vii) Action for Welfare & Awakening in
+Rural Environment (A WARE) v. Dy. CIT
+.
+(
+viii) Y. Subbaraju & Co. v. Assistant Commissioner
+(2004) 91 ITD 118 (Bang) (SB).
+(ix) Smt. Mahesh Kumari Batra v. Jt. CIT (2005) 95 ITD 152 (Asr.)(SB).
+(
+x) L. Saroja v. Assistant Commissioner
+(2001) 76 ITD 344 (Mad).
+(xi) Biological E. Ltd. (ITAT 'A' Bench, Hyderabad).
+(6) Without prejudice to the submission that non-scoring out of
+Section158BC
+in the notice was only an inadvertent mistake, the provisions of Chapter XIV-B had been substantially complied with and adequate opportunity had been given to the assessee in the course of block assessment proceedings and no prejudice was caused to the assessee and, therefore, the assessment is valid in the eye of law. At the worst, as already submitted, it was only a procedural irregularity which could be cured under
+Section 292B
+of the Act. Further, under the doctrine of waiver/ acquiscence, since the assessee had participated in the proceedings initiated by the assessing officer and no ground was raised before the assessing officer at any point of the block assessment proceedings, it is not correct to take such stand at this stage by the assessee regarding alleged non-mention of
+Section 158BD
+in the notice issued. In this context, reliance was placed on the following judgments:
+(i) DIT (Inv.) v. Pooran Mal & Sons (1974) 96 ITD 390 (SC).
+(
+ii) Dr. R.M.L. Mehrotra v. Assistant Commissioner
+(1999) 68 ITD 288 (All).
+(
+iii) Birla Cotton Spg. & Wvg. Mills Ltd. v. Income Tax Officer
+(1994) 209 ITD 434 (Raj).
+(
+iv) Nawal Kishore & Sons Jewellers v. Dy. CIT
+(2003) 87 ITD 407 (Lucknow)(SB).
+(7) In the case of the present appellant also, notice under Section 158BDwas issued as there was enough material evidence found in the course ofsearch operations carried out in the cases of its directors Shri B.P. Guptaand Shri Y. Ravi Prasad, indicated undisclosed investment of the appellantand its directors in the equity of the appellant company. On the basis ofsuch material evidence found during the search, block assessment wasmade under
+Section 158BC
+in the case of Shri B.P. Gupta and Shri Y. RaviPrasad and under
+Section 158BD
+in the case of the company. Therefore,the block assessment does not suffer from any infirmity and illegality andis valid in the eye of law. even presuming, but not accepting, that there was a lapse while issuing the notice under
+Section 158BD
+, it would not vitiate A the block assessment proceedings in the case of the appellant, as held by the Hon'ble Supreme Court, A.P. High Court and Special Bench of the Tribunal
+,
+referred to above
+. Further, adequate opportunity had been given to the assessee by the assessing officer before passing order under
+Section 158BD
+and the assessee had participated in the proceedings before the assessing officer. Thus, the provisions of Chapter XIV-B were substantially complied with and no prejudice was caused by the assessee by mere non-mention of
+Section 158BD
+in the notice when the notice and the assessment are otherwise in substance and effect in conformity with or according to the intent and purpose of the Act.
+(8) In view of the maxim De minimis non curat lex (Law takes no notice of trivialities), it was prayed that the case may be decided on merits in the interests of justice.
+21. The learned Counsel for the assessee gave his replies to the contentions of the learned Departmental Representative as follows:
+(1) According to the learned Departmental Representative, the assessment was made under
+Section158BD
+and, therefore, the assessment is within time. The appellant issubmitting that the provisions of
+Section 158BD
+have no application andthe provisions of
+Section 158BC
+only apply to the facts of the case. Thenotice under
+Section 158BC
+was issued on the same date when similarnotices were issued to the Directors of the company i.e., 22-4-1996, andwhen the assessing officer found that the assessment got barred by limitation, he mentioned in the assessment order that he was completing the assessment under
+Section 158BD
+of the Act though he had issued notice under
+Section 158BC
+of the Act.
+(2) The learned Departmental Representative mentioned that the notice under
+Section 158BD
+wasissued to the appellant to examine certain issues arising out of searchoperations. According to the learned Departmental Representative, the assessing officer mentionedthat notice under
+Section 158BD
+was issued to examine certain issues arising out of the search and seizure operations during the block assessments under
+Section 158BC
+in the case of Sri B.P. Gupta and Sri Y. RaviPrasad on 31-1-1997. This is not correct. At page 11 of the assessmentorder of Sri Y. Ravi Prasad it is mentioned:
+Since search operations were carried out in this case after commencement of new assessment procedure under Chapter XIV-B, a notice under
+Section 158BC
+was issued to the assessee on 22-4-1996, in response to which the assessee filed his return of income of the block period 1986-87 to 1996-97 on 8-7-1996 disclosing the following income.
+At page No. 10 of the assessment of Sri B.P. Gupta it is mentioned:
+Since search operations were carried out in this case after commencement of new assessment procedure under Chapter XIV-B, a notice under
+Section 158BC
+was issued to the assessee on 22-4-1996, in response to which the assessee filed his return of income for the block period 1986-87 to 1996-97 on 8-7-1996 disclosing the following income :
+In the case of the company also, notice under
+Section 158BC
+was issued on the same date on which notices were issued to the above two directors i.e. on 22-4-1996. The assessing officer mentioned that search was finally concluded on 23-4-1996 but the notice was issued on 22-4-1996 itself. Therefore, it is not correct to say that notice under
+Section 158BD
+was issued during the course of block assessment proceedings in the case of the directors of the appellant company.
+(3) The learned Departmental Representative mentioned that notice under
+Section 158BD
+was served on the appellant on 16-5-1996. - This is not correct. It is clear from the notice that the notice was issued under
+Section 158BC
+and not under
+Section 158BD
+as the assessing officer struck off the words "158BD" wherever it appeared in the notice retaining the words "158BC".
+(4) The learned Departmental Representative states that the assessing officer mentioned
+Section 158BD
+at various places in the order and in the consequential orders. - It is submitted that the assessing officer is not correct in completing the assessment under
+Section 158BD
+and, therefore, his mentioning the Section as 158BD instead of 158BC would not conclude the issue.
+(5) The learned Departmental Representative is of the view that the intention of the assessing officer was to issue notice under
+Section 158BD
+. This is not correct. From the noting it is clear that the intention was to issue notice under
+Section 158BC
+and notice under that section only was issued. The notice itself makes it clear that it was issued under
+Section 158BC
+(page 1 of the Consolidated paper book).
+(6) The learned Departmental Representative mentions that the assessment order in substance andeffect, in conformity with or according to the intent and purpose of theAct. According to the learned Departmental Representative the intention was to make an assessmentunder
+Section 158BD
+and, therefore, any mistake committed by theassessing officer, would not invalidate the assessment. - It is submittedthat provisions of
+Chapter XIV-B of the Income Tax Act
+provide for two different types of assessments in respect of persons where search has been conducted and in respect of persons other than such persons whose books of account and other documents were found during the course of search of any other person.
+Section 158BE
+of the Income Tax Act provides different time-limits for those assessments to be made under
+Section 158BC
+or under
+Section 158BD
+. Therefore, the Legislature provided for different treatment with regard to the persons covered by the provisions of
+Section 158BC
+and those who are covered by the provisions of
+Section 158BD
+. When the question of time-limit under
+Section 158BE
+is to be examined, it is to be seen whether the assessment has to be completed in accordance with the provisions of
+Section 158BC
+or
+Section 158BD
+. Therefore, the learned Departmental Representative is not correct in mentioning that the assessment is valid as it is in conformity with the intent and purpose of the Act. Even if the determination of income were to be in conformity with the law (the appellant is not accepting that the assessment is in conformity with law), it has to be completed within the time allowed under
+Section 158BE
+of the Income Tax Act. As the assessing officer did not complete the assessment within one year as mentioned in
+Section 158BE(1)
+, the assessment is not valid.
+(7) The learned Departmental Representative mentioned the extract of the order sheet entry said to have been made by the assessing officer. - As submitted earlier, it is clear that the noting on the top of the order sheet is an interpolation. Further, the assessing officer signed the notice to be under
+Section 158BC
+of the Income Tax Act. Therefore, the order sheet entry made by interpolation cannot be considered as any evidence. Further, it is submitted that the notice was issued one day prior to the closure of search. The search was closed on 23-4-1996 and the notice was issued on 22-4-1996. The extracts from the assessment order, notice, panchnama and letter of the ADI, referred to in the assessee's submissions above, clearly indicate that there was search and seizure operations in the case of the appellant itself and notice was issued under
+Section 158BC
+on the same date on which such notice was issued to the directors of the appellant company. Therefore, C the assessment made is not within time allowed under
+Section 158BE
+of the Income Tax Act.
+22. On the applicability of the cases relied on by the learned departmental representative, the learned Counsel for the assessee submitted as follows:
+(1) Hon'ble Allahabad High Court in the case of
+Digvijay Chemicals Ltd. v. Assistant Commissioner
+, observed that for issue of notice under
+Section 158BD
+, the assessing officer need not record satisfaction. Theappellant is not on this ground. The appellant is submitting that theassessment is not under
+Section 158BD
+, but under
+Section 158BC
+, and that the assessment got barred by limitation.
+(2) In the case of
+Rushil Industries Ltd. v. Harsh Prakash
+, the question before the Hon'ble Gujarat High Court is whetheraction under
+Section 158BD
+is properly initiated or not, which is not relevant to the facts of the appellant's case. The learned Departmental Representative is of the viewthat not scoring out the relevant portions in the notice is an inadvertentmistake. It is submitted that in the case of the appellant, notice was issued on 22-4-1996, one day prior to the date of closure of the search.
+Section 158BC
+is retained and 158BD is struck off. Therefore, the learned Departmental Representative is not correct in mentioning that it is a mere mistake in not scoring out the relevant portion in the notice. From the facts enumerated above, it is submitted that in the case of the appellant notice under
+Section 158BC
+has to be issued. Therefore, the notice was correctly issued under
+Section 158BC
+. Further, the assessing officer retainer
+Section 158BC
+and scored out
+Section 158BD
+correctly.
+(3) In the case of
+CIT v. Jai Prakash Singh
+, decided by Hon'ble Supreme Court, notice was not served on all the legal representatives, but served on one out of ten legal representatives. Therefore, the Supreme Court observed that the assessment was irregular and it is only a curable defect. In the case of the appellant the question is whether the assessment was made within the time or not. If the assessment is not made within the time allowed by the statute, the assessment is void. The contention of the appellant is that the assessment was not completed within the time allowed.
+(4) In the case of
+Estate of Late Rangalal Jajodia v. CIT
+(1979) 79 ITR 505, Hon'ble Supreme Court observed that lack of a notice would take away the jurisdiction of the revenue authority. The assessing officer might have issued another notice under Act. The case of the appellant is different and this case is not applicable to the facts of the appellant's case.
+(5) In the case of
+CIT v. Anand & Co.
+, before the Hon'ble Calcutta High Court also, the question was whether the procedural law puts absolute fetters without leaving any scope for relaxation. As submitted earlier in the case of the appellant, the appellant is not questioning the procedure adopted by the assessing officer, but he is submitted that the assessment was not completed within the time and got barred by limitation.
+(6) The decision of the Madras High Court in the case of
+Devarajan v. Tamil Nadu Farmers Service Co-op. Federation
+wherein it is held that an irregularity in not scoring out portions of the form would not vitiate the proceedings, also has no application to the facts of the case.
+(7) The learned Departmental Representative relied on the decision of the Cochin Bench in the caseof
+Assistant Commissioner v. M. Mani
+(1997) 63 ITD 393. Here also the Tribunal wasdealing with a case where there was a procedural defect.
+(8) The case of
+Vijay Trading Co. v. Income Tax Officer
+(1985) 13 ITD 526 (Nag.) also is a case where
+Section 292B
+could be revoked.
+(9) In the case of
+AWARE v. Dy. CIT
+, the Hon'ble A.P. High Court was concerned with a case where there was only a technical error.
+(10) The decision of the Special Bench of the ITAT, Bangalore Y. Subbaraju & Co. v. Assistant Commissioner(2004) 91 ITD 118 also is not applicable as the Special Bench was dealing with the case where the question is whether the assessing officer has to specifically record satisfaction for issue of a notice under
+Section 158BD
+.
+(11) The decision of the Special Bench of ITAT in the case of
+Smt. Mahesh Kumari Batra v. Jt. CIT
+(2005) 95 ITD 152 (Asr.
+);
+L. Saroja v. Assistant Commissioner
+(2001) 76 ITD 344 (Mad) also have no application to the facts. The appellant is contending that the assessment has to be completed under
+Section 158BC
+and that such assessment has to be completed within one year from the end of the month during the course of which the search and seizure operations were conducted. It is the contention of the appellant that the assessment was not completed within the time and therefore got barred by limitation.
+(12) The decisions of the Hon'ble Supreme Court in the case of DIT (Inv.) v. Pooran Mal & Sons (1974) 96 ITR 390, and the ITAT Allahabad Bench in Bthe case of
+Dr. R.M.L. Mehrotra v. Assistant Commissioner
+(1999) 68 ITD 288, have noapplication to the facts of the appellant's case. It is not the contention ofthe appellant that he did not understand implications of the notice issuedand it is submitted that the company very well understood the noticeissued under
+Section 158BC
+. When the assessment got barred by limitation, the assessing officer chose to mention the assessment to be undersection 158BD and not 158BC. Therefore, the appellant submits that theassessment is not valid.
+(13) Even in respect of the decisions of the Hon'ble Rajasthan High Courtin the case of
+Birla Cotton Spg. & Wvg. Mills Ltd. v. Income Tax Officer
+(1994) 209 ITR 434, and Special Bench of the ITAT, Lucknow, in the case of
+Nawal Kishore & Sons Jewellers v. Dy. CIT
+(2003) 87 ITD 407, the proposition is that theassessee, having participated in the assessment proceedings, cannotmention that he has not understood the notice. That is not the case of theassessee. The case of the assessee is that the assessing officer issued notice under
+Section 158BC
+, which was rightly understood to be so by theappellant. But, the assessment has to be completed within the timementioned under
+Section 158BE(1)
+, and the assessment was not completed within the said time and, therefore, the assessment got barred bylimitation. If the statutory provision mentions clearly that an assessment has to be completed within the period specified therein, the assessing officer cannot extend such time-limit, though the assessment was made in substance and effect, in conformity with the provisions of the law. The learned Counsel thus contended that all the submissions of the learned Departmental Representative have to be rejected and the claim of the appellant that the assessment was barred by limitation be uphelearned
+23. In conclusion, the learned Counsel for the assessee submitted that the provisions of
+Section 158BC
+; 158BD and
+Section 158BE
+are very clear. The legislative intention is also made clear. If there are search and seizure operations at the premises of the appellant, the provisions of
+Section 158BC
+are applicable. If there are no search and seizure operations and during the course of search in the case of any other person, the documents etc., of the assessee are found, the case of such person has to be covered by the provisions of
+Section 158BD
+. The appellant demonstrated that there was a warrant of authorization against the appellant; that the authorities conducted search and seizure operations at the premises of the appellant; and the documents and other papers relating to the appellant were seized during the course of search and seizure operations. The appellant also produced evidence in the shape of Panchnama that the premises of the appellant was covered under
+Section 132
+of the Act by showing the warrant of authorization against the appellant. The assessing officer acknowledged that search and seizure operations were contemplated because of the public issue of the shares of the appellant company. All the data clearly indicate that there were search and seizure operations at the premises of the appellant. Therefore, the assessment has to be made under
+Section 158BC
+of the Act and the assessing officer rightly issued a notice under
+Section 158BC
+. Therefore, the intent of the assessing officer is very clear to make an assessment under
+Section 158BC
+of the Act. The learned Counsel for the assessee emphasized that the notice under
+Section 158BC
+was issued to the appellant company on the same day on which the notices under
+Section 158BC
+were issued to the Directors of the Company i.e., on 22-4-1996, just a day before closing the search and seizure operations.
+24. When the assessment was getting barred by limitation in view of
+Section 158BE
+of the Act, the assessing officer made an attempt to show that the assessment was being made under
+Section 158BD
+of the Act. This attempt is only to save the assessment order from being called time-barred. In that process, the assessing officer mentioned that the assessment was being made under
+Section 158BD
+. He also mentioned at page 2:
+The block assessments under
+Section 158BC
+in the case of Shri B.P. Gupta and Shri Y. Raviprasad were completed on 31-1-1997. A notice under
+Section 158BD
+was issued to M/s. Value Line Securities (P) Ltd., to examine certain issues arise out of search and seizure operations.
+The assessing officer by writing the above paragraph wants others to understand that the notice under
+Section 158BD
+was issued after completion of the assessment proceedings in the cases of the Directors. But, according to the learned Counsel, the fact remains that a notice under
+Section 158BC
+was issued on the same day on which the notices under
+Section 158BC
+were issued to the Directors i.e., on 22-4-1996 itself. In the assessment order, the assessing officer categorically agreed that the search and seizure operations were conducted in the case of the appellant itself. Therefore, the assessing officer's mention of Section "158BD" is not correct. The learned Counsel contended that this was done intentionally, though the assessing officer was making an assessment under
+Section 158BC
+of the Act.
+25. He further submitted that the assessment has to be made in accordance with the provisions of
+Section 158BC
+of the Act and not in accordance with the provisions of
+Section 158BD
+of the Act. Once the assessment has to be made in accordance with the provisions of
+Section 158BCof
+the Act, Sub-section (1) of
+Section 158BE
+applies and in accordance with the said sub-section, the time-limit is one year from the end of the month in which the last warrant of authorization was served. Therefore, the assessment got barred by limitation and is not valid. He, therefore, submits that the order of assessment is void.
+26. In respect of I.T. (S.S.) A. No. 48/Hyd/1997 in the case of Shri Y. RaviPrasad, the learned Counsel for the assessee submitted that while completing the assessment, the assessing officer made an addition of Rs. 28,02,000 as undisclosed income and an equal amount in the assessment of Shri B.P. Gupta. He submitted that the assessments in the case of the directors were made on substantive basis on 31-1-1997 while the assessment in the case of the company was made on protective basis on 30-5-1997, i.e. after the assessment in the case of the directors. He further submitted that by the assessing officer completed the assessment in the case of the company, some more shareholders had responded to the letters issued by the assessing officer and, therefore, the amount to be considered for the purpose of assessment under
+Section 68
+was reduced from Rs. 56,04,000 to Rs. 38,64,000. He submitted that while completing the assessment under
+Section 158BC
+of the Act, the assessing officer has to strictly compute the undisclosed income on the basis of the seized material. In the case of the company Value Line Securities (India) Ltd., the appellant explained that the entire share capital was introduced in the regular books of account. He contended that there is no evidence in the seized documents that the share capital was introduced by the Directors or by the company. The appellant also submitted clearly the reasons as to why the share certificates were found at the premises of the company. It was also submitted that the share certificate found at the residential premises of the appellant belong to the close relatives of the directors. Therefore, availability of the share certificate at the premises of the company or at the residential premises of the directors cannot lead to the conclusion that the share capital is not genuine. The appellant had submitted evidence to show that the share capital introduced is genuine. The company submitted the list of shareholders, copies of the applications, and other evidences to prove the genuineness of the share capital. Therefore, the learned Counsel submitted that the assessing officer is not justified in making any addition under
+Section 68
+of the Act. He relied on the submissions made by the company in this regard and requested the Bench to consider the submissions made in the case of the company a the submissions made in the case of the director also.
+27. Without prejudice to the above, the learned Counsel submitted that the total share capital treated as not genuine in the case of the company is only Rs. 38,64,000 and not Rs. 56,04,000 as mentioned in the assessment order.
+28. He further submitted that the provisions of
+Section 68
+apply only when an entry in the books of account is made crediting the amount received. Such an entry is made in the books of the company and not in the books of the director. The director did not maintain any books of account for the purpose. Further, there is no evidence to show that he introduced his own money in the share capital of the company in the names of the shareholders. During the course of search and seizure operations, the authorities did not find any evidence to the effect that the share capital was introduced by the director and not by the shareholders. The evidence available on record i.e., entries in the books of the company; the share application forms; the details of the purchase of DDs annexed to the share application forms, all clearly indicate that the shareholders introduced their own money, and do not indicate that the director introduced his own amount in the names of the shareholders. There is no evidence even during the course of the assessment proceedings. Therefore, the learned Counsel contended, the assessing officer was not justified in making any addition under
+Section 68
+of the Act.
+29. The learned Counsel also submitted that assessment under
+Section158BC
+of the Act has to be made with reference to the seized material. Any addition made should be with reference to the material found at the time of search and seizure operations. Without any such basis, the assessing officer cannot make any addition. In the case of the assessee, no such information was found showing that the assessee introduced his own money in the names of various shareholders. He further submitted that if the company is not in a position to explain the credit entry in the books of account, addition may be made in the case of the company under
+Section 68
+of the Act; if the shareholder is not in a position to explain the source for investment, an addition may be made in the hands of the shareholder under
+Section 69
+, but unless there is information that the director introduced his own money in the names of various shareholders, no addition can be made in the case of the director. He submitted that no such information was found during the course of search nor could such information be gathered by the assessing officer during the course of assessment proceedings. He thus contended that the assessing officer is not justified in making any addition on this count.
+30. The learned Counsel further submitted that the director had admitted the share capital introduced by his father Shri Y. Venkata Narayana in the company and that this does not mean that the entire share capital in the names of all other shareholders was introduced by him. Further, wherever the assessing officer sent letters of enquiry, the shareholders accepted the investment made by them. None of the shareholders explained that the share capital does not relate to them.
+31. He further submitted that the assessing officer has no basis to estimate the addition to be made in the case of the director as 50% of the share capital and that the very fact that the assessing officer resorted to an estimation indicates clearly that the assessing officer has no basis to hold that any of the share capital relating to any particular shareholder was introduced by the appellant herein. He drew our attention to the evidences submitted in the paper book filed before us in the case of the company. He thus submitted that in view of the contentions made in the case of the director and in view of the detailed explanations submitted in the case of the company, the addition made by the assessing officer may be deleted.
+32. Coming to the appeal in the case of Shri B.P. Gupta, I.T. (SS) A. No. 49/Hyd/1997, the learned Counsel submitted that on the addition of Rs. 28,02,000, his arguments are the same as in the case of Shri Y. Ravi Prasad. As regards addition on account of alleged investments in the names of others, Rs. 5,98,000, he submitted that during the course of search and seizure operations at the premises of the appellant found that the share certificates of the close relatives of the appellant. The aggregate of the investments in such shares was included by the assessing officer on the assumption that the appellant invested the said amount in the names of the shareholders. In this regard, he submits that in the case of the company, a detailed submission was made explaining as to how the C share certificates of the close relatives were found at the premises of the appellant. The appellant submits that the authorities contacted the relatives and depositions were recorded from the said relatives. All the details have been submitted by the assessee. He submitted that for the reasons explained in detail, it should be held that the investment of Rs. 5,98,050 was made by the respective shareholders. All the persons accepted that they invested the amounts from out of their sources. Therefore, the assessing officer is not justified in making any addition. He, therefore, prayed for deletion of the addition so made.
+33. On merits of the case, the learned Departmental Representative submitted that there is no substance in the argument of the learned Counsel for the assessee that additions made in the block assessment do not emanate out of the seized documents but as a result of roving post-search enquiries made by the assessing officer. He submitted that specific and positive evidences were found and seized during the search and seizure operation which included share certificates in the names of the certain persons. He pointed out that Shri Y. Mahadeva and Shri M.N.S. Venkateswara Rao, promoters of the company, and Shri Y. Ravi Prasad, director, admitted as undisclosed income the investment in the names of some of the said persons. Further, some such share certificates were found at the premises of Shri Y. Ravi Prasad, who admitted the investment of Rs. 2,00,000 in the name of Shri Y. Venkata Narayana, and at the premises of Shri B.P. Gupta, who admitted such investment to the extent of Rs. 5,98,050. Thus, he submitted, overwhelming and specific evidences were found during the search operations which prompted the assessing officer to make further enquiries about the sources of the share capital introduced in the books of Value Line Securities Ltd. and that the enquiries conducted and statements recorded by the ADIT and the assessing officer were with reference to the positive and specific evidences found and, therefore, the material gathered was relatable to such evidences. He further submitted that the details of bank drafts/cheques issued in some cases for acquisition of shares in the promoters' quota of the assessee-company show that the demand draft numbers are continuous numbers, though the alleged applicants hail from different places. In this regard, he referred to annexure to the written submissions. Thus, he submitted, it is not correct to say that no incriminating evidence was found during the search to suggest that the share capital was introduced in various names out of the undisclosed income of the promoters of the company.
+34. The learned Departmental Representative further submitted that under
+Section 158B(b)
+, 'undisclosed income' includes any money, bullion, jewellery or other valuable article or thing or any income based on any entry in the books of account or other documents or transactions, where such money, bullion, jewellery, valuable article or thing, entry in the books of account or other document or transaction represents wholly or partly income or property which had not been or would not have been disclosed for the purposes of the
+Income Tax Act
+, or any expenses, deduction or allowance claimed under the Act, which are found to be false. He further submitted that the word 'undisclosed' has not been defined in the Act and that the meaning of the word has been elaborated by the Pune Bench of the Tribunal in the case of
+Parekh Foods Ltd. v. Dy. CIT
+(1998) 64 ITD 396.
+Further, he submitted that the definition of 'undisclosed income' under
+Section 158B(a)
+is an inclusive definition and as held by the Hon'ble Supreme Court in the case of
+CIT v. Taj Mahal Hotel
+(l971) 82 ITR 44 at 47, the word 'includes' is often used in interpretation clauses in order to enlarge the meaning of the words or phrases occurring in the body of the statute. When it is so used, these words and phrases must be construed as comprehending not only such things as they signify according to their nature and import, but also those things which the interpretation clause declares that they shall include. Further,
+Section 158BC(b)
+provides the manner of assessment of undisclosed income. It provides that the assessment is to be made in the manner
+laid down in
+Section 158BB
+and the provisions of
+Sections 142
+,
+143(2)
+and (3), and
+Sections 144
+and
+145
+shall, so far as may be, apply
+Section 158BB
+as existing prior to amendment by the
+Finance Act, 2002
+, provides that the undisclosed income of the block period shall be computed in accordance with the provisions of Chapter IV on the basis of evidence found as a result of search or requisition of books of account or documents and such other materials or information as are available with the assessing officer. Thus, he submitted, under
+Section 158BC (b)
+read with
+Section 158BB
+, the provisions of
+Section 143(3)
+have been specifically made available to the assessing officer while making block assessment.
+Section 143(3)
+empowers the assessing officer to make an assessment of income on the basis of the material which has been gathered by him. The process of assessment under
+Section 158BC
+read with
+Section 158BB
+is not merely computation of income but a process of evaluation of evidence and material found during the course of the search and derived from the books of account, documents and other information.
+35. The learned Departmental Representative reiterated that in the instant case, incriminating documents in the form of share certificates in various names were found and seized as a result of search and when confronted, the promoters of the company admitted part of the share capital introduced in the said names as undisclosed income of the promoters and that, in the circumstances, the assessing officer made further enquiries and the assessment was made on the basis of material found during the search and the evidences gathered by the ADIT and the assessing officer. In this regard, he placed reliance on the following decisions:
+(
+a) Cas Card Finance Ltd. v. Assistant Commissioner
+(2003) 84 ITD 1 (Ahd.
+)(TM)
+(b) Khopade Kisanrao Manikrao v. Asslt. CIT (2000)74 ITD 25 (Pune)(TM)
+(
+c) CIT v. Elegant Homes (P) Ltd
+.
+(
+d) CIT v. Ajay Kumar Sharma
+(2003) 259 ITR 2402 (Raj)
+(e) Napar Drugs (P) Ltd. v. Dy. CIT (2006) 98 ITD 285 (DeI)(TM)
+36. With reference to the argument of the learned Counsel for the assessee that all the transactions were shown in the regular books of account and in the statements of account filed with the returns prior to the search and that the transactions in question were already subject-matter of regular returns and assessments and, therefore, the addition in the block assessment is not justified, the learned departmental representative submitted that this argument has no force. He submitted that the evidences found during the search operations and the admission made by the assessee in the case of some transactions clearly proved that the share capital had been introduced in the company out of undisclosed income of the main promoters of the company. From the assessment records, he pointed out, it is noticed that there is no examination whatsoever about the genuineness of the share capital in the regular assessment proceedings by the assessing officer at any point of time. Therefore, it is not correct to say that the genuineness of the share capital in question was subject-matter of scrutiny in regular assessment proceedings. In brief, he submitted, in the case of the assessee, incriminating material indicating introduction of share capital out of undisclosed income of the promoters was unearthed during the search and seizure operation and this led to further enquiries by the assessing officer and the material gathered subsequently by the assessing officer are relatable to the evidences found during the search and the transactions in question and thus the additions in the block assessment were made after evaluation of the material seized and gathered by the ADIT and the assessing officer and after affording reasonable opportunity of being heard to the assessee.
+37. Coming to the issue of addition under
+Section 68
+towards unexplained share capital in the hands of the company on protective basis and in the hands of the promoters on substantive basis, the learned departmental representative submitted that share capital of Rs. 116.20 lakhs had been introduced in the names of relatives and friends at the time of public issue in July 2005 and that the addition was made after elaborate enquiry regarding the genuineness of the transactions, identity of the persons and creditworthiness of the persons and after affording adequate opportunity to the assessee. He submitted that the substantive addition was made in the hands of Shri Y. Ravi Prasad and Shri B.P. Gupta for the reason that they were looking after the day to day affairs of the company as evidenced by the prospectus of the public issue (DPB-67) and the statement of Shri Y. Ravi Prasad dated 24-1-1996 (DPB-41). In this connection, the learned departmental representative placed reliance on the following decisions:
+(
+1) CIT v. Sophia Finance Ltd
+.
+(
+2) CIT v. Kundan Investment Ltd
+.
+(
+3) CIT v. Ruby Traders & Exporters Ltd.
+(
+2003) 263 ITR 3003 (Cal)
+ 
+
+(4) CIT v. Nivedan Vanijya Niyojan Ltd.
+(
+2003) 263 ITR 6234 (Cal)
+ 
+
+(5) Ram Kumar Jalan v. CIT
+(
+6) R.B. Mittal v. CIT
+(
+7) CIT v. Precision Finance (P) Ltd
+.
+(
+8) CIT v. Korlay Trading Co. Ltd
+.
+(
+9) CIT v. United Commercial & Industrial Co. (P) Ltd.
+(1991) 187 ITR 5967 (Cal)
+ 
+
+(10) VBC Fertilizers & Chemicals (P) Ltd. v. Dy. CIT (IT Appeal No. 541 (Hyd.)
+of 1997) (Hyderabad Bench)
+ 
+
+(11) Suvarna Polymers Ltd. v. Jt. CIT (IT Appeal No. 980 (Hyd.) of 2002, dated 21-3-2004) (Hyderabad Bench)
+ 
+
+Lastly, the learned Departmental Representative submitted that the identity of the alleged shareholders, who are supposed to have invested money under promoters' quota, was not established in most of the cases and as such the share capital was rightly treated as undisclosed income in the block assessment orders.
+He submitted that the decision rendered by the Hyderabad Bench of the Tribunal in the cases of VBC Fertilisers & Chemicals (P) Ltd. {supra), Suvarna Polymers Ltd. (supra) and
+Garuda Cements Ltd
+(supra), squarely applies to cases where identity of the shareholders was not established by the assessee. He prayed that in view of the foregoing and for the detailed reasons mentioned in the assessment order for the block period, the addition made towards unexplained share capital in the hands of Shri Y. Ravi Prasad and Shri B.P. Gupta on substantive basis may be upheld
+38. In his rejoinder, the learned Counsel for the assessee submitted as follows:
+(1) The learned Departmental Representative in his submissions mentioned that the addition under
+Section 68
+can be made while completing the assessment under
+Section 158BC
+. According to him, in the case of the appellant specific and positiveevidence was found though the learned Departmental Representative did not mention what is theevidence found. According to the assessing officer and the learned Departmental Representative,several share certificates of the appellant company in the names ofvarious persons were found in the material seized from the Regd. Officeof the company. The appellant submitted the list of the share certificatesfound during the course of search at the Regd. Office. From the details,it can be seen that the share certificates found were either belonging to theclose relatives of the directors of the company or were under despatch. Assubmitted earlier, the directors have their own chambers at the premises of the company and, therefore, the share certificates belonging to them and to their close relatives were available at the premises of the company. The assessing officer examined the share certificates so issued and available at the premises. In respect of the share certificates found at the premises of the company also, the shareholders confirmed having invested the amount with the appellant company. The availability of share certificates by themselves would not lead to the conclusion that the company invested the share capital. The appellant submits that to invoke the provisions of
+Section 68
+while completing the assessment under
+Section 158BC
+of the Income Tax Act, the authorities should find information in the seized material to the effect that the share capital was introduced by the appellant company from its income not disclosed to the department. Such information was not available in the seized documents. The availability of share certificates, which were confirmed to be belonging to the shareholders at a later date by the respective shareholders, cannot be considered as the reason for inclusion of the income under
+Section 68
+of the Income Tax Act, particularly in view of the fact that the appellant submitted a detailed explanation as to why the share certificates were available at the premises of the company.
+(2) It is also submitted that in respect of some of the share certificatesfound, the assessing officer accepted the genuineness of the sharecapital. Therefore, the assessing officer is not justified in mentioning thatthere was information on record to enable the department to invoke the provisions of
+Section 68
+while completing the assessment under
+Section 158BC
+of the Income Tax Act.
+(3) Even in respect of the share certificates found at the premises of theappellant company, the assessing officer conducted enquiries and theshareholders accepted having invested the share capital with the appellant company. None of the shareholders had denied the investment in theshare capital during the course of enquiry by the assessing officer.
+Therefore, the availability of the share certificates at the premises of the appellant company cannot be considered as a reason for treating the share capital as the undisclosed income of the appellant.
+(4) During the course of search and seizure operations, the authoritiesfound the books of account of the company wherein the share capital wasfound recorded. The authorities found share applications of all theshareholders. The appellant later filed the details of the dividend paidthrough cheques and in some cases, the TDS certificates issued in favourof the shareholders. The authorities also found share certificates at thepremises of the appellant company which are in the names of therespective shareholders. The appellant provided reason for availability ofthe said share certificates at the premises of the appellant company. Insuch circumstances, the presumption under
+Section 132(4A)
+is in favourof the appellant.
+Section 132(4A)
+mentions that where any books ofaccount or other documents are found during the course of search, it has to be presumed that contents of the books of account and the documents are true. If the contents of the books of account and documents are considered true, it would be evident that the share capital is held by the shareholders. Therefore, neither the assessing officer nor the learned Departmental Representative can consider the availability of the share certificates as an evidence against the appellant company. The learned Departmental Representative is of the view that some of the share capital was accepted by the shareholders. The learned Departmental Representative mentioned the list of the share certificates found. The learned Departmental Representative filed a copy of the affidavit of Shri Y. Mahadeva (page No. 29 of the consolidated paper book). It can be seen that he mentioned that he invested the amount of Rs. 4 lakhs in the names of five different persons and offered for assessment the said amount of Rs. 4 lakhs. Here also, the information does not lead to the presumption that the appellant company invested the amount from out of its own income. It is Sri Y. Mahadeva who invested the amount and, therefore, the said amount cannot be considered as the income of the appellant.
+(5) Insofar as the affidavit of Sri M.N.S. Venkateswera Rao, referred to bythe learned Departmental Representative, is concerned, the said person is engaged in the businessof purchase and sale of shares like Sri Y. Mahadeva. Sri VenkatesweraRao accepted that the amount was invested by him. Therefore, there is nopossibility to hold that this amount is invested by the appellant company.
+(6) The learned Departmental Representative is referring the affidavit of Sri Y. Ravi Prasad (pageNo. 28 of the consolidated paper book). He stated that he was declaring the investments made by his father Sri Y. Venkatanarayana as his income. It can be seen from the affidavit that what was admitted by him is investment made by his father Sri Y. Venkatanarayana. Therefore, this cannot lead to the conclusion that the amount of investment belongs to the appellant company.
+(7) The learned Departmental Representative mentioned that at the residential premises of Sri B.P.Gupta some share certificates were found. The list of share certificatesfound at the premises of Sri B.P. Gupta is as under:
+(a) Smt. Indira - She is the daughter of Sri B.P. Gupta and wife of Sri D.Prabhu. The ACIT examined Sri D. Prabhu on oath on 18-1-1997. Thesworn deposition is at pages 75 and 76 of the consolidated paper book. Hementioned that he has agricultural income. The details as stated by himare extracted hereunder:
+Q. Why you have applied shares in promoters quota of M/s. Valueline Securities Ltd. and what is mode of payment for the above purpose ?
+A. Because this is a public limited company, I have applied promoters quota and also my father-in-law is M.D. of the above company. We have paid Rs. 50,000 each by way of issue of cheques from Canara Bank, Basheer bagh through my wife's account, as I am not having any bank account and enclosed bank accounts.
+Q. Have you received the above share certificates from the company ?
+A. Yes we have received the above share certificates however the said M/s. Valueline Securities Ltd., share certificates are kept in my father-in-law's house viz., B.P. Gupta.
+Q. Have you applied any shares in public quota in the above company ?
+A. No. 
+ 
+
+From the above it is clear that Sri Prabhu invested in the share capital of the company both in the names of himself and his wife.
+(b) D. Varalakshmi - She is the mother-in-law of Sri B.P. Gupta. At page No. 79 of the paper book a certificate issued by Vysya bank is submitted.According to the said certificate Smt. D. Varalakshmi deposited Rs. 1 lakhon 10-9-1991 and withdrew Rs. 1,49,348 on 26-12-1994. She also had abank account with Canara Bank, Basheerbagh (page No. 78 of the paperbook submitted on 29-1-2004 in the case Sri B.P. Gupta). The amountswere paid through bank account.
+(c) Sri D. Rajaiah- He is the father-in-law of the daughter of Sri B.P. Gupta and father of Sri D. Prabhu. Smt. Jagadamba is the wife of Sri D. Rajaiahand mother-in-law of daughter of Sri B.P. Gupta. The assessing officersent a letter of enquiry to these two persons and they submitted theirreplies, which are at pages 81 to 84 of the paper book filed in the case of Sri B.P. Gupta. In the said letters they have clearly mentioned that the amount was paid through cheques. They have also stated the sources for the amount. They have annexed pass book of the Central bank of India, certificate from the Sarpanch and confirmation from the loanees for perusal of the Assessing officer. Therefore, the investment of Rs. 5,98,050 was made by the respective persons and not by Sri B.P. Gupta. The appellant herein submits that the investment by the shareholders was not from out of the company's income. It is further submitted that all the persons are close relatives of Sri B.P. Gupta and, therefore, the share certificates were available at the premises of Sri B.P. Gupta.
+(8) In the case of Sri Y. Ravi Prasad the share certificates belonging to his father Sri Y. Venkata Narayana were available and in the case of Sri B.P. Gupta the share certificates of his close relatives were available at his residence. Therefore, there cannot be any presumption that the investment was made by the appellant company in the names of those shareholders.
+(9) The learned Departmental Representative listed the demand drafts/cheques issued for purchase of shares and this is annexed to the written submissions filed by the learned Departmental Representative. Insofar as the share certificates are concerned, the amount is brought by some of the shareholders to the company and the staff of the company purchased the share certificates to facilitate the investors and, therefore, no adverse inference can be drawn. Further, the assessing officer never doubted the issue on this count.
+(10) Further, during the course of search and seizure operations, no data was found leading to the inference that the company invested in the share capital in the names of the shareholders. There is also no iota of evidenceto suggest that the company did not disclose any of its income in thereturns of income filed earlier. Therefore, the Assessing officer is notcorrect in making any addition under
+Section 68
+on any count. Further, thelearned Departmental Representative is also not correct in supporting the action of the assessing officer.
+39. Coming to the decisions relied upon by the learned Departmental Representative, the learned Counsel for the assessee submitted as follows:
+(1) The decision of the ITAT, Pune Bench in the case of
+Parekh Foods Ltd. v. Dy. CIT
+(1998) 64 ITD 396, has no application to the facts of the case of the appellant. The Tribunal
+in that case
+mentioned that the word "undisclosed" means something hidden from the knowledge of others and, for the purpose of
+Section 158BB
+, material facts hidden to the department would amount to undisclosed income. In this regard, the appellant submits that no material facts have been hidden from the department. The share capital introduced was recorded in the books of account, the share certificates were available and there is no information that the share capital was not introduced by the respective persons. Even the enquiry conducted by the assessing officer did not prove that the share capital was not genuine. The appellant filed evidence in the shape of share applications and payment of dividends. The shareholders themselves, in many cases, confirmed the fact of investment of money. There is not even one instance where the shareholder did not exist. Therefore, the decision has no application as the appellant did not hide any information from the department. The learned Departmental Representative is not correct in mentioning that incriminating documents were found during the course of search. The availability of share certificates at the premises of the company and at the premises of the directors, viz., Sri B.P. Gupta and Y. Ravi Prasad cannot be considered as incriminating material.
+(2) The decision of the Ahmedabad Bench of the ITAT in the case of
+Cos Card Finance Ltd. v. Assistant Commissioner
+(2003) 84 ITD 1, has no application to the facts of the appellant's case.
+(3) In the case of
+Khopade Kisanrao Manikrao v. Assistant Commissioner
+(2000) 74 ITD 25 (TM), it is held by the Pune Bench of ITAT that the assessing officer can base the assessment on the evidence found during the course of assessment proceedings. In the present case, the assessing officer did not gather any information even during the course of assessment proceedings contrary to the submissions made by the appellant. Therefore
+,
+the said decision
+has no application to the facts of the appellant's case.
+(4) In the cases of
+CIT v. Elegant Homes (P) Ltd.
+and
+CIT v. Ajay Kumar Sarma
+(2003) 259 ITR 2402, the Hon'ble Rajasthan High Court observed that entries were made in the books of account and the assessec could not explain. In such circumstances, the amount can be treated as undisclosed income. In the case of the appellant, the appellant produced proof to the effect that the share capital was genuine. Further, during the course of search and seizure operations no material was found and, therefore, the said decisions have no application.
+(5) In the case of
+Nagpur Drugs (P) Ltd. v. Dy. CIT
+(2006) 98 ITD 285 (TM),Delhi Bench of the Tribunal held that the computation of income undersection 158BC need not be made exclusively on the basis of evidencefound as a result of search, provided there is some material available atthe time of search. The learned Counsel submits that no material wasavailable at the time of search. Further, the presence of share certificateswas clearly explained by the appellant. Even during the course of assessment proceedings, no data was found by the assessing officer contrary to the claim made by the appellant. Therefore, the learned Departmental Representative is not correct in relying on
+the said decision
+.
+Insofar as the addition under
+Section 68
+is concerned, the assessing officer made addition under
+Section 68
+on protective basis in the case of the company whereas the addition was made on substantive basis in the case of Sri B.P. Gupta and Sri Y. Ravi Prasad.
+(6) The decision of the Hon'ble Delhi High Court in the case of
+CIT v. Sophia Finance Ltd.
+is not applicable to the facts of theappellant's case.
+The appellant relies on the decision of the Hon'ble Supreme Court in the case of
+CIT v. Stellar Investment Ltd.
+the decision of the Hon'ble Andhra Pradesh High Court in the case of
+CIT v. Lanco Industries Ltd.
+.
+(7) The learned Departmental Representative relied on the decision of the Hon'ble Calcutta HighCourt in the case of
+CIT v. Kundan Investment Ltd.
+. In the said case the Calcutta High Court is of the view that once thematerial was scrutinized and the result of the scrutiny is communicated to the assessee, the onus shifts from the revenue to the assessee. In the case of the appellant, the assessing officer wrote letters to the shareholders, most of them have confirmed and from a very few of them, replies were not received. The appellant on the other hand furnished the details of the share applications and the dividends etc. Further, the decision was rendered in a case where the assessment was being made under
+Section 143(3)
+of the Income Tax Act and not under
+Section 158BC
+. Therefore
+,
+the said decision
+has no application.
+(8) The learned Departmental Representative also relied on the decisions in the case of
+CIT v. Ruby Traders & Exporters Ltd.
+, and
+CIT v. Nivedan Vanijya Niyojan Ltd.
+.
+In the case of
+Ruby Traders & Exporters Ltd.
+(supra) the company did not provide the identity of theshareholders but in the case of the appellant all the information necessaryto prove the genuineness was filed. The assessing officer made an effortto examine the issue on his own and wrote letters to the shareholders. All the shareholders, excepting a few, responded and confirmed the fact of investment. The facts were not put to the assessee. Therefore, the decisions of the Calcutta High Court have no application to the facts of the case.
+(9) The decision of the Hon'ble Bombay High Court in the case of
+RamKumar Jalan v. CIT
+, has no application to the facts ofthe appellant's case as the assessing officer did not issue any show cause letter to the appellant requiring the appellant to explain.
+(10) In the case of
+R.B. Mittal v. CIT
+, decided by Hon'ble Andhra Pradesh High Court, the issue is on cash credits and not share capital. Therefore
+,
+the said decision
+has no application in this case.
+(11) The decisions of the Hon'ble Calcutta High Court in the case of
+CIT v. Precision Finance (P) Ltd.
+,
+CIT v. Korlay Trading Co. Ltd.  CIT
+v. United Commercial & Industrial Co. (P) Ltd. , have no application to the facts of appellant's case, as the Hon'ble High Court was dealing with cash credits and not the share capital.
+(12) In the case of VBC Fertilisers & Chemicals (P) Ltd. v. Dy. CIT (IT Appeal No. 541(Hyd.) of 1997) (Hyd. Bench), out of 97 parties, 2 parties confirmedand the 95 shareholders did not confirm. The addition was made excluding the two shareholders. In the case of the appellant, most of theshareholders have responded to the letters issued by the assessing officer and confirmed the investment. The appellant also filed other detailsevidencing the genuineness of the shareholders and the share capitalintroduced by them. Therefore, the case of VBC Fertilisers & Chemicals (P) Ltd. (supra) has no application to the facts of the appellant's case.
+(13) The learned Departmental Representative also relied on the decision of Hyderabad Bench 'A' ofthe Tribunal in the case of Suvarna Polymers Ltd. v. Jt. CIT (IT Appeal No. 980 (Hyd.) of 2002, dated 21-3-2004). In the said case, the Benchdirected to delete the addition of Rs. 35 lakhs introduced by A.G. Leafin (P) Ltd. where the appellant provided the address of the shareholder. Itis also observed by the Bench that if the assessee establishes identity of theparty, it is for the revenue authorities to prove that the investment was notactually made. In the case on hand, the appellant has proved the identityof the shareholders by providing copies of the share applications and thedepartment did not prove that the investment was not made by theshareholders. Therefore, the decision in the said case has no application to the facts of the case on hand.
+40. The learned Counsel for the assessee relied on the following case laws:
+(1) The decision of the Supreme Court in the case of
+CIT v. Orissa Corpn. (P) Ltd.
+. The Hon'ble Supreme Court observed that when the revenue issued notices under
+Section 131
+and such notices were returned unserved, the additions cannot be made without making any further enquiries.
+(
+2) Sana Electric Co. v. CIT
+, wherein the Delhi High Court observed that when the cash credits were introduced in the books of account, the genuineness of such cash credits can be rejected only on cogent reasons. In the case of the appellant, all the share capital was found - at the time of search and there is no reason for the assessing officer to reject the contention of the appellant.
+(3) The decision of the Hon'ble Supreme Court in the case of
+CIT v. Stellar Investment Ltd.
+.
+(4) The decision of the Hon'ble Andhra Pradesh High Court in the case of
+CIT v. Lanco Industries Ltd.
+.
+41. In view of the submissions made above, the appellant prays for deletion of the addition made by the assessing officer.
+42. We have heard rival submissions and perused the orders of the revenue authorities as well as all the papers filed before us. The entire dispute in these cases pertains to additions made under
+Section 68
+of the Income Tax Act, 1961, in respect of share capital introduced in the case of Value Line Securities (India) Ltd. During the course of search and seizure operations, certain share certificates were found by the search party either in the premises of the company or in the personal chambers of the directors, Shri Y. Ravi Prasad and Shri B.K. Gupta. No other material was found to indicate that investments made in these shares were from out of undisclosed money earned and secreted either by Shri Y. Ravi Prasad or by Shri B.P. Gupta or by the company. Though a possible doubt, suspicion might arise, which would lead to a likely presumption that the investment in question in the shares belongs to any of the said three persons, such presumption is a rebuttable presumption and mere possession would not suffice to sustain an addition and much more evidence is required. It has been found from the list that in many of the cases where share certificates were found, independent enquiries have been conducted by the revenue and in some of the cases the shareholders confirmed that they had invested the amount with the assessee-company and these explanations were accepted by the revenue. Thus, the availability of share certificates by itself would not lead to a conclusion that they are benami investments of the directors or of the company itself. It is well-settled that when a person alleges benami investment, the burden of proof is on such person. Each investment has to be evaluated on the basis of evidence. In this case, the revenue alleges that though the share certificates are issued in the names of certain persons, the source of investment in those shares are that of the assessee as those people named in the share certificates are benamis of the assessees. The burden of proving such an allegation is on the revenue.
+Nowhere in the assessment order, the revenue has brought out any evidence to prove its allegation. No such evidence was found during the course of search nor was any evidence unearthed after the search. It is a settled proposition of law that the onus to prove that an action is mala fide is on the person who alleges the same. Though we would be dealing with the law relating to benami later in this order, it would be worthwhile to reproduce the observations of the Apex court in the case of
+E.P. Royappa v. State of Tamilnadu
+. At page 586, the Apex court has made the following observations:
+The burden of establishing mala fide is very heavy on the person who alleges it. The allegations of mala fides are often more easier made then proved and the very seriousness of such an allegation demands proof of a high order of credibility.
+In this case, the assessing officer himself has accepted the genuineness of some of the share capital, certificates of which were found in the possession of the company or in the personal chambers of the Directors. The assessee has filed a detailed chart explaining the reasons why some of the certificates were still in its possession. The reasons can be classified as follows:
+(1) Certificates belong to close relatives of the Directors.
+(2) Certain certificates were under dispatch.
+(3) There were 47 share certificates, which were not delivered. Many of the persons in respect of whom certificates were found, have on enquiry made directly by the assessing officer, replied that they had invested in the share capital of the assessee-company and this explanation has been accepted by the assessing officer. Thus, the presumption that mere C possession of a share certificate leads to a conclusion of benami investment, stands prima facie rebutted.
+43. The legal propositions on the issue of addition in respect of share capital have been brought out by Hyderabad Bench 'A' of the Tribunal in the case of M.K. Securities Ltd. v. Assistant Commissioner (IT (S.S) Appeal No. 196 (Hyd.) of 1997), order dated 30-8-2002. For ready reference, we quote from the said order:
+22. As regards the first issue, a lot has been argued on the right of the assessing officer to assume jurisdiction under
+Section 68
+of the Income Tax Act. The Full Bench of the Delhi High Court in the case of Sophia Finance Ltd. (205 ITR 98) had clearly held that the Income Tax Officer has jurisdiction to make enquiries with regard to the nature and source of sums credited in the books of the assessee. In that very judgment, the Full Bench also stated that in the case of Stellar Investments Ltd., 192 ITR 287 (Del),
+Section 68
+was not referred to and that that judgment cannot mean that the Income Tax Officer cannot or should not go into the question as to whether the alleged shareholders actually existed or not. From this observation at page 105 (para E) of 205 ITR, it is clear that the Supreme Court decision affirming the Delhi High Court judgment in the case of Stellar Investment Ltd. does not mean that the Income Tax Officer does not have jurisdiction to make enquiry on share capital. The Delhi Bench 'B' of ITAT in
+Allen Bradley India Ltd. v. Dy. CIT
+80 ITD 43, has brought out the position clearly. In the head-note at pages 45 (last para) and 46, it is stated as follows:
+In
+CIT v. Sophia Finance Ltd.
+it has been held that the assessing officer would be entitled to enquire, and it would indeed be his duty to do so, whether the alleged shareholders do, in fact, exist or not. It was further observed by the High Court that if the shareholders exist then possibly no further enquiry need be made, but if the assessing officer finds that the alleged shareholders do not exist, then, in effect, it would mean that there was no valid issuance of share capital as shares could not be issued in the name of non-existing persons. There was no dispute that in such a case the assessing officer has jurisdiction, if the facts so warrant, to treat such credit to be the income of the assessee. On the facts of the present case the assessee had filed each and every detail. The shareholders were in existence, they were assessed to tax, complete details were available, share capital money as well as loan were received through account-payee cheques and they were cleared through proper banking channels. The Full Bench decision
+,
+referred to above
+, makes it clear that in the case of limited companies the jurisdiction of the assessing officer would be limited only to see whether the identity is established and whether they exist or not. Once the identity is established, then, as the Full Bench felt, possibly no further enquiries need to be made. From
+Sections 68A
+,
+72
+,
+75
+and
+77
+of the Companies Act it is very clear that any company who invite application for allotting the shares to public; is entitled only to issue shares against the applications received by it. As per
+Section 72
+of the Companies Act, a company can only seek certain limited information from the shareholders.
+However, in the case of
+Standard Cylinders (P) Ltd v. Income Tax Officer
+(l988) 24 LTD 504 (Del), the Tribunal has held that company cannot even seek information from the shareholders regarding the source of their investment in those shares.
+23. The judgment of the Hon'ble Andhra Pradesh High Court in the case of
+CIT v. Lanco Industries Ltd.
+(2000) 110 Taxman 172, clearly lays down the law on the issue. At page 275, it is held as follows:
+The Tribunal no doubt should have considered the question of reliability of confirmation letters on the intrinsic worth and tenor of such letters. If crucial facts throwing light on the source of investment are not discernible from the letters, the Tribunal could have very well eschewed those letters from consideration. But, this is a matter of appreciation of evidence and we do not think that a substantial question of law arises on that account. Moreover, we fail to see how merely by reason of unsatisfactory explanation relating to the source of investment by the shareholders, the money invested on shares should be treated as income of the assessee. If the ostensible shareholders failed to explain the means of investment, that should have been treated as unexplained investment in their hands. In order to add it to the income of the assessee, there must be a further finding that in fact the shareholders were mere name-lenders and the money allegedly invested by them really belonged to the directors of the assessee-company. In the absence of a finding that the persons to whom the share certificates were issued on receipt of consideration as per the book entries were in fact dummies or stooges of the directors of the assessee-company, the same cannot be treated as unaccounted income of the assessee. There was no such finding by the assessing authority.
+Applying the law
+laid down by
+the jurisdictional High Court to the facts of the case on hand, we find that out of the letters issued to 56 investors under
+Section 133(6)
+of the Income Tax Act, only 5 letters have been returned as not served. This fact is evident from page 10 of the assessment order in the case of Sri Ch. Mohan Rao. It is stated by the assessing officer on pages 10 and 11 of his order as follows:
+Thus, 51 letters out of the 56 letters issued under
+Section 133(6)
+as per the addresses furnished by the assessee were duly served on the investors.
+Out of the 28 investors in respect of whom Commission was issued to the Income Tax Officer, Karimnagar, for causing necessary enquiries with regard to their investments in promoters' equity of M/s M.K. Securities Ltd., in respect of only 8 investors positive confirmations have been received. The Income Tax Officer could not cause enquiries in respect of the remaining 20 investors as they were not available to appear before the Income Tax Officer for one reason or the other.'
+ 
+
+It is also seen that the assessee filed confirmation letters from 55 of the shareholders before the assessing officer at the time of assessment proceedings of the company. Thus, it can be said that the identity of the shareholders is established as notices served under
+Section 133(6)
+have been received by them and also confirmation letters have been filed before the assessing officer. The jurisdictional High Court has clearly C held that unsatisfactory explanation relating to the source of investment of a shareholder does not by itself permit the amount of investment to be treated as income of the assessee-company. Applying this proposition, we hold that the amount of Rs. 25 lakhs cannot be added in the hands of the company for the mere reason that the assessee has not established the creditworthiness of the investor. If the shareholder has not proved his creditworthiness, applying the judgment of the jurisdictional High Court, the investment should be treated as unexplained income in the hands of D that investor. As there is no finding that these shareholders are mere name-lenders and that the money allegedly invested by them really belonged to the directors of the assessee-company, applying the judgment of the jurisdictional High Court, we cannot sustain the addition made by the assessing officer. There is no finding that the persons to whom the share certificates were issued in fact are dummies or stooges of the directors of the assessee-company. Thus, in view of the facts and circumstances discussed above, we have no other alternative but to delete E the amount of Rs. 25,00,000 added as undisclosed income in the hands of the company under
+Section 68
+."
+In the case of
+Uma Polymers (P) Ltd. v. Dy. CIT
+(2006) 100 ITD 1 (Jodh.) (TM), the Hon'ble President of the Income Tax Appellate Tribunal, sitting as the Third Member on a difference on opinion, held that in respect of share application money received from investors, the assessee-company has to prove only existence of persons in whose name share applications are received and when the identity of creditor is established, then the burden to prove that money advanced by the creditor did not belong to him but to somebody else, is on the revenue who has to find the real investor, and if any shareholder is found to have made unexplained investment, then addition of such investment is required to be made in the hands of such shareholder.
+44. Applying the propositions
+laid down in
+that case to the facts of the case on hand, we hold as follows:
+(1) The first addition of Rs. 7,64,000 was made on the basis that enquiry letters were served on the shareholders listed in paragraph 11(1) of the assessment order at pages 10, 11 and 1,2, on the ground that by the time the assessment was completed, no replies were received from these persons. After completion of the assessment in the cases of Shri B.P. Gupta and Shri Y. Ravi Prasad, the assessing officer Seems to have received some more confirmation letters and thus, though the addition on the same ground was made in the hands of Shri B.P. Gupta and Shri Y. Ravi Prasad to the tune of Rs. 56,04,000, when it came to the case of the company, the assessing officer added only an amount of Rs. 38,64,000 on the ground that some more shareholders had responded to the letters and enquiries directly made by the assessing officer. This by itself shows that the addition is not on a strong footing. Even otherwise, once enquiry letters had been served and when they are read in conjunction with the share applications given by the individual shareholders and the receipt of the payments through banking channels as well as payment of dividends to these shareholders, they clearly demonstrate that the identity of the shareholders has been proved. Thus, applying the propositions
+laid down in
+the case of M.K. Securities Ltd. (supra) this addition has to be deleted.
+(2) The second addition of Rs. 4,76,000 was made on the ground that theletters were returned unserved. In this case, the assessing officer had notconducted any further enquiry, nor had he directed the assessee concerned to produce, necessary evidence as to the identity of these shareholders. When an enquiry has been independently conducted by theassessing officer and when a notice issued to the concerned shareholderhas been returned, natural justice demands that the same be placedbefore the assessee concerned with a direction that necessary detailsfrom these shareholders be obtained by them. Adding these amountsstraightaway as undisclosed income of the assessee is not warranted. Thelist of such cases is given in paragraph 11(4) of the assessment order at pages 14 and 15. Though this would appear to be a fit issue for setting aside, we do not do so, as the addition itself fails on further legal grounds which are discussed hereinafter.
+(3) A further addition of Rs. 1,25,000 was made on the ground that in fivecases, the enquiry letters sent by the assessing officer did not receiveeither replies or acknowledgement. This is at pages 15 and 16 of theassessment order. In this case also, as in the earlier case, the assessing officer should have conducted further enquiries and also given an opportunity to the assessee by directing him to produce necessary evidence. An addition without even giving an opportunity to the assessee cannot be sustained. As in the earlier issue, in such cases, the proper course of action for the Tribunal would be to remit the matter back to the file of the assessing officer. But, due to certain other reasons that would be mentioned hereinafter, and in view of the legal propositions that we are going to discuss hereinafter, which, in our opinion, clinch the issue of assessability of these amounts as undisclosed income in the block assessment at the stage we refrain from giving such direction.
+(4) Another amount of Rs. 22,44,000 was added as the assessing officerfound that in respect of 55 cases, which are at pages 17 to 24 of theassessment order, the shareholders could not establish their sources ofinvestment to his satisfaction. In other words, the identity of the shareholders is not disputed by the assessing officer. In fact, the AssessingOfficer addressed letters directly to the shareholders and they have replied.
+Inadequacy of source cannot be a ground for making addition incase of share capital, as held by the Hon'ble jurisdictional High Court in the case of
+CIT v. Lanco Industries Ltd.
+.
+Thus, as the identity of the shareholders is not in dispute, this addition has necessarily to be deleted by applying the ratio followed by the Tribunal in the case of M.K. Securities Ltd. (supra).
+(5) The last addition of Rs. 2,55,000 was made on the ground that sharecertificates were seized from the Registered Office of Value Line Securities (India) Ltd. and thus addition has to be made in its hands. This additionalso cannot be sustained. The sole basis of this addition is that the personswhose names are mentioned in the share certificates are benami or name-lenders of the assessee-company or Shri Y. Ravi Prasad or Shri B.P. Gupta.In the order in the case of M.K. Securities Ltd. (supra),this Bench of the Tribunal considered an identical matter and held asfollows:
+24. Coming to the addition made in the hands of the promoters, we find that the assessing officer had distributed the amount of Rs. 25,00,000 in the hands of Sri Ch. Mohan Rao and Sri B. Hanumantha Rao and accordingly added a sum of Rs. 12,50,000 being half share in each hand (last para on page 13 of the assessment order in the case of Sri Ch. Mohan Rao). This, to our mind, appears to be highly arbitrary and without any basis. There is no specific finding whatsoever that any particular shareholder is a benami of Sri Ch. Mohan Rao or Sri B. Hanumantha Rao. E Without such specific finding, a general addition made in the hands of each of these persons on 50:50 basis is unwarranted. It. is also noticed that no addition was made in the hands of the third promoter Smt. Ch. Aruna. We have to keep in mind that the addition made in the hands of Sri Ch. Mohan Rao and Sri B. Hanumantha Rao is not under
+Section 68
+of the Income Tax Act for the simple reason that no credit appeared in their books. The only basis on which the addition is made is that 34 shareholders are benamidars of these promoters. The law on the subject is clearly stated by the Hon'ble Allahabad High Court in the case of
+Prakash Narain v. CIT
+(1981) 20 CTR (All) 147, wherein the following propositions with regard to benami have been laid down:
+34--. The following propositions seem to be well-established:
+(1) The burden of proof regarding benami is upon the one who alleges benami.
+(2) To prove benami the most important point is to examine the source of consideration and along with that there are certain other criteria which should be taken into account. Such criteria have been
+laid down in
+AIR 1970 SC 171 (supra).
+** ** **
+ 
+
+(5) The mere rejection of an explanation would not entitle the department to claim that the consideration for the purchase of the property in the name of a non-assessee was provided by the assessee.
+(6) Apart from the relationship between the parties, there must be some material or evidence to support the case of benami nature of the transaction.
+(7) When a finding is based on material partly relevant and partly irrelevant, then such a finding is vitiated in law.
+The following is the criteria laid down by the Hon'ble Supreme Court in
+Jaydayal Poddar v. Bibi Ragra
+, referred to in the aforesaid quotation, which has been extracted by their Lordships of the Allahabad High Court in para 10:
+It is well-settled that the burden of proving that a particular sale is benami and the apparent purchaser is not the real owner, always rests on the person asserting it to be so. This burden has to be strictly discharged by adducing legal evidence of a definite character which would either directly prove the fact of benami or establish circumstances unerringly and reasonably raising an inference of that fact. The essence of a benami is the intention of the party or parties concerned; and not unoften such intention is shrouded in a thick wall which cannot be easily pierced through. But such difficulties do not relieve the person asserting the transaction to be benami of any part of the serious onus that rests on him; nor justify the acceptance of mere conjectures or surmises, as a substitute for proof. The reason is that a deed is a solemn document prepared and executed after considerable deliberation, and the person expressly shown as the purchaser or transferee in the deed, starts with the initial presumption in his favour that the apparent state of affairs is the real state of affairs. Though the question, whether a particular sale is benami or not, is largely one of fact, and for determining this question, no absolute formulae or acid test, uniformly applicable in all situations, can be laid down, yet in weighing the probabilities and for gathering the relevant inidicia, the courts are usually guided by these circumstances : (1) the source from which the purchase money came; (2) the nature and possession of the property, after the purchases; (3) motive, if any, for giving the transaction a benami colour; (4) the position of the parties and the relationship, if any, between the claimant and the alleged benamidar; (5) the custody of the title-deeds after the sale; and (6) the conduct of the parties concerned in dealing with the property after sale.
+The above inidicia are not exhaustive and their efficacy varies according to the facts of each case. Nevertheless No. 1, viz. the source whence the purchase money came, is by far the most important test for determining whether the sale standing in the name of the one person, is in reality for the benefit of another.'
+ 
+
+Applying this judgment to the facts of the case on hand, we delete the additions of Rs. 12.5 lakhs each made in the hands of both the promoters Sri Ch. Mohan Rao and Sri B. Hanumantha Rao.
+25. Coming to the judgment of the jurisdictional High Court in the case of R.B. Mittal (165 CTR 366) relied upon by the learned Departmental Representative, we find that that was a case of cash credits and not of share capital raised by a company. In that judgment itself, the Hon'ble High Court has laid down the proposition, while not agreeing with the decision of the Patna High Court (103 ITR 344), that in certain cases the burden of proof would be heavier in relative terms under
+Section 68
+i.e. in a case where the creditors are close relatives of the assessee or his employees, when compared to cases where the creditors are outsiders. The author of the judgment in both the cases, viz. Lanco Industries Ltd. and R.B. Mittal, is Hon'ble Justice P. Venkatarama Reddi only. On a careful perusal of these judgments and arguments of both sides, we are of the considered opinion that the burden of proof expected cannot be the same in the case of a loan obtained by an assessee and in a case where shares are applied for and allotted by the company. This view finds support from the judgment of Full Bench of the Hon'ble Delhi High Court in the case of
+Sophia Finance Ltd.
+(supra) wherein it is held as follows:
+If the shareholders are identified and it is established that they have invested money in the purchase of shares, then the amount received by the company would be regarded as a capital receipt and to that extent the observations in
+CIT v. Stellar Investment Ltd.
+, are correct....
+The judgment of the jurisdictional High Court in the case of R.B. Mittal, therefore, does not advance the case of the revenue, as what was considered there was loan transaction and not share capital. The issue of share capital was considered by the Hon'ble High Court of Andhra Pradesh in the case of
+Lanco Industries Ltd.
+(supra).
+In the case of
+Uma Polymers (P) Ltd. v. Dy. CIT
+(2006) 100 ITD 1 (Jodh.) (TM), it was held, as per head note:
+In respect of share application money received from investors, the assessee-company has to prove only the existence of person in whose name share application is received. No further burden is cast on the assessee to prove whether that person himself has invested said money or some other person made investment in his name.
+Applying the propositions
+laid down in
+the aforesaid cases to the facts of the case on hand, we have necessarily to hold that the revenue has not discharged the burden of proof, whereby we can legally uphold its contention that shareholders are none other than name-lenders, stooges or benamis of the assessee-company or its directors. As the identity of the shareholders is not doubted, and as their existence is proved, the addition cannot be sustained.
+45. Even otherwise, nowhere in the seized material there is an indication of undisclosed income or undisclosed investment, which can be said to be the cause of this addition. The list of seized material is given in paragraph 6 at page 6 of the assessment order in the case of Shri Y. Ravi Prasad. There is no finding that any of the loose sheets discloses any undisclosed income. There was a disclosure on the day of search and thereafter there was a retraction. Later, affidavits were filed making the following disclosures:
+(1)
+Smt. P. Prabhavathi 
+  
+   
+   
+
+ 
+  
+   
+   
+
+Rs.  6,00,000
+(2)
+Shri Y. Ravi Prasad 
+  
+   
+   
+
+ 
+  
+   
+   
+
+Rs. 16,00,000
+(3)
+Shri Y. Mahadev
+  
+   
+   
+
+ 
+  
+   
+   
+
+Rs.  10,00,000
+(4)
+Shri M.N.S. Venkateswara Rao 
+  
+   
+   
+
+ 
+  
+   
+   
+
+Rs. 8,00,000
+  
+ 
+
+ 
+
+There is no discussion in the assessment order to the effect that the seized material indicates that the money of these persons has been invested in benami names. Only official share certificates and disclosed registers were found. The enquiries on these documents can as well be made in regular assessment. Only post-search enquiries were conducted to come to a conclusion as to whether these investments were made by the persons named in the certificates or by somebody else. Without such post-search enquiries, no conclusion could be drawn based on search material. The question to be addressed is whether, in such facts and circumstances, the share capital in question, which is recorded in the books of account of the company and has been part of the record furnished by the assessee to the Income-tax department, can be considered as undisclosed income for the purpose of
+Chapter XIV-B of the Income Tax Act, 1961
+. The law on this issue is fairly settled by the following case laws:
+CIT v. N.R. Papers & Boards Ltd.
+:
+If prior to the date of search, the assessee had disclosed the particulars of income or expenditure either in the return or in the books of account or in the course of proceedings to the assessing officer or where the return had not become due, they are duly recorded in the regular books of account, then such income cannot be treated as 'undisclosed income' so as to tax a person at the rate of sixty per cent.
+Under Chapter XIV-B of the Income Tax Act, 1961
+.
+CIT v. Rajendra Prasad Gupta
+:
+Under the scheme of the provisions for block assessment it is apparent that it related to assessment of undisclosed income of the assessee excluding the income subjected to regular assessment in pursuance of the A returns filed by the assessee for such period. From a perusal of
+Section 158BB
+of the Income Tax Act, 1961, it is clear that the returns are required to be filed in pursuance of a notice under
+Section 158BC(a)
+and the assessment has to be framed on that basis in the light of material that had come into the possession of the assessing authority during the course of search which was the foundation of proceedings. The correctness or otherwise of the returns filed in pursuance of the notice under
+Section 158BC(a)
+has to be examined with reference to the material in the B possession of the assessing authority having nexus to assessment of undisclosed income.
+Bhagwati Prasad Kedia v. CIT
+:
+The Explanation to
+Section 158BA
+of the Income Tax Act, 1961, makes it clear that the Legislature thought it fit to make a distinction between the block assessment and the regular assessment. In the case of regular assessment, the assessing officer is free to examine the veracity of the return as well as the claims made by the assessee, whereas the undisclosed income is taxed by way of block assessment as a result of search and seizure. The logic behind the two different modes of assessment is that concealment of income and claiming deduction or exemption in respect of a disclosed income cannot be treated at part. The former is an offence which goes to the root of the matter and the other is on the basis of the causes shown by the assessee where the assessing officer is free to accept the justification shown or reject the same.
+CIT v. Vikram A. Doshi
+and Ms. Leena V. Doshi :
+Block assessment-undisclosed income-undisclosed transactions assessed in block assessment - Tribunal finding transactions disclosed in return which were subject-matter of regular assessments-transactions in question not to be considered in block assessment -
+Income Tax Act, 1961
+,
+Sections 143
+,
+158B
+.
+CIT v. Shamlal Balram Gurbani
+:
+A search was conducted at the residential premises of the assessee on March 25, 1996, and a notice under
+Section 158BC
+of the Income Tax Act, 1961, was issued. The assessee did not file the returns for the years 1993-94, 1994-95 and 1995-96. The assessing officer treated the income of the three years as the income of the block period. On appeal, the Tribunal found that the assessee's income from interest, salary and rent was reflected in the audited balance-sheet of the respective assessment years of the firm and, therefore, the Tribunal deleted the addition.
+On appeal the Hon'ble Bombay High Court did not find any reason to interfere with the findings of facts recorded by the Tribunal. It was held:
+Held, dismissing the appeal, that the conclusion of the Tribunal that there was no reason for treating the said income as undisclosed income for the purposes of block assessment was based on facts. No substantial question of law arose.
+CIT v. Vinod Danchand Ghodawat
+:
+Where the value of the gold and silver articles and jewellery had been disclosed in the assessee's wealth-tax return which was accepted by the department:
+Held, that
+Chapter XIV-B of the Income Tax Act, 1961
+, had no application to the facts of the case and the addition made by the department on the ground of undisclosed income was erroneous.
+During the search, it was found that the assessee had constructed a bungalow. It was found that the assessee had incurred an expense of Rs. 4.16 lakhs. The assessing officer, thereafter, referred the matter to the department Valuer, who valued the property at Rs. 6.66 lakhs and, accordingly, the difference had been added to the income of the assessee as undisclosed income:
+Held, that the above basis clearly showed that the department had not understood the scope of
+Chapter XIV-B of the Act
+. The addition did not fall within the Chapter XIV-B.
+ 
+
+CIT v. Gom Industries Ltd.  :
+Income from undisclosed sources - Search and Seizure-amount discovered. During search operations - Amount shown in Balance-sheet -Transaction recorded in books-finding that there was no concealment ofincome within the meaning of
+Section 158B(b)
+-no substantial question oflaw - Amount not assessable as income from undisclosed sources -
+Income Tax Act, 1961
+,
+Sections 158B
+,
+260A
+.
+46. Even if it is presumed that post-search enquiries have resulted in detection of certain undisclosed income, though it is not relatable to the evidence found as on the date of search, then also, Mumbai Bench of the Tribunal, in the case of
+Morarji Goculdas Spg. & Wvg. Co. Ltd. v. Dy. CIT
+(2005) 95 ITD 1 (TM), while considering an identical situation, held as follows:
+8. Block period for which the assessment is to be made under Chapter XIV-B means the period comprising previous years relevant to ten assessment years preceding a previous year in which the search was conducted under
+Section 132
+or any requisition was made under
+Section 132A
+, and also includes in the previous year in which such search was conducted or requisition made, the period up to the date of the commencement of such search or, as the case may be, the date of such A requisition. Therefore, the assessment for the block period under Chapter XIV-B can be made of the undisclosed income only up to the date of commencement of search or the date of the requisition and not of the period thereafter.
+Section 158BA
+provides for assessment of undisclosed income as result of search for the block period and computation of income and the computation of undisclosed income for the block period to be made as per the provisions of
+Section 158BB
+and assessment has also to be made under
+Section 158BC
+of the block period. The undisclosed B income for which the assessment is to be made, is defined in
+Section 158B(b)
+which include money, bullion, jewellery or other valuable article or thing or any income based on any entry in the books of account or other documents or transactions, where such money, bullion, jewellery, valuable articles, things, entry for the books of account or other document or transaction represents wholly or partly income or property which has not been or would not have been disclosed for the purpose of this Act and after the amendment by
+Finance Act, 2002
+with effect from 1-7-1995 it includes also any expenses, deduction or allowance claimed under this Act which is to be found to be false.
+9.
+Section 158BB
+provides for computation of undisclosed income to be the aggregate of the total income of the previous year falling within the block period computed in accordance with the provisions of this Act, on the basis of evidence found as a result of search or requisition of books of account or other documents and such other materials or information as are available with the assessing officer and relatable to such evidence as reduced by the aggregate of the losses of such previous years determined and provided in Clauses (a) to (f) of
+Section 158BB(1)
+. What is crucial to be determined is that the undisclosed income which can be assessed under Chapter XTV-B should be that amount which is computed on the basis of evidences found as a result of search and such other material or information as are available with the assessing officer and relatable to such evidence. Core thing to be seen is the evidence found which will be the basis for making the assessment. If there is no evidence or the evidence has already come on record or has been disclosed by the assessee in the assessment proceedings, then that evidence cannot be said to have been found as a result of search and
+in that case
+, the material or information available with the assessing officer and relatable to such evidence could also not help in computing undisclosed income. The search in this case was undertaken on 19th and 20th July. The statement of three officials of the assessee-company was recorded and in these statements no incriminating material was there which could be termed as evidence on the basis of which the undisclosed income could be computed. Certain documents in the form of lease agreement etc. were seized at the time of search, but entries based on those documents were already found recorded in the books of account of the assessee and the depreciation and rent income on the basis of such lease agreements have been recorded in the books of account, as income of the assessee and the depreciation and interest with regard to the very lease transactions have been claimed as deduction.
+Lease agreements may be an evidence by itself but there is nothing in those agreements which could establish that assessee had undisclosed income. On the contrary, disclosure of income has been made by the assessee in the books and return of income pursuant to these very lease agreements. The department has no doubt collected the material subsequent to raid, but that may not be very material and relevant for framing the assessment under Chapter XIV-B of the case because of the mandate given under
+Section 158BB
+it has to be the income computed on the basis of evidence found as a result of search and not otherwise. If any material is collected by the revenue after the search, that may not give authority to the department to make the computation of undisclosed income under
+Section 158BB
+of assessment under
+Section 158BC
+of the Act. Reference in this connection may be had to the decision of Jodhpur Bench of Tribunal in the case of
+Chitra Devi v. Assistant Commissioner
+(2002) 72 TTJ 640 wherein it is held that 'Further the addition was made on the basis of the statements of the assessee and her two sons recorded during the search. These statements though may constitute information available with the assessing officer, the same can by no stretch of imagination be treated to be relatable to "such evidence" i.e. to the evidence 'found' as a result of search, inasmuch as, the statement recorded during search would not be said to be an evidence 'found as a result of search' though the same may be an evidence 'obtained' during search - Accordingly, in view of the provision of
+Section 158BB(1)
+as it stands amended with effect from 1st July, 1995 no addition on the basis of statement recorded during the search, could be made in the block assessment.
+10. Similar view is taken by the Indore Bench of the Tribunal in the caseof
+Indore Construction (P) Ltd. v. Assistant Commissioner
+(1999) 71 ITD 128 wherein itwas held that-
+Such computation should be on the basis of evidence found as a result of search or requisition of books of account or documents and such other material or information as are available with assessing officer. It is important to note that the words used are "such other materials". The Legislature has not used words "any other materials". The word "such" has been defined in Black's Law Dictionary, Sixth Edition as under:
+Such of that kind, having particular quality or character specified. Identical with, being the same as what has been mentioned. Alike similar, of the like kind. 'Such' represents the object as already particularized in terms which are not mentioned, and is descriptive and relative word, referring to the last antecedent.
+Again the word used in the section are 'as are available' the expression "available" has been defined to mean in Black's Law Dictionary, Sixth Edition as "present or ready for immediate use".
+11. Observations given by the Mumbai Bench in the case of HarakhchandN.
+Jain v. Assistant Commissioner
+(1998) 61 TTJ (Mum.) 223 are also to this effect. It washeld that the assessing officer cannot make roving enquiries in respect ofassessments completed without any information or material in possession during the block period.
+47. In line with these legal propositions, in the case of M.K. Securities Ltd. also, this Bench has taken a view that the transactions relating to sharecapital are reflected in the books of account of the company, the Board of Directors have considered the share applications and have passed resolutions allotting share capital and the statutory requirements of furnishing the full details of the share applications received and the allotments made, were met by furnishing the same to the Registrar of Companies and thus, this cannot be said to be a transaction representing wholly or partly income or property which had not been or would not have been disclosed for the purposes of the
+Income Tax Act
+so as to be termed as undisclosed income as defined in Chapter XIV-B. As regular returns have been filed by the assessee-company, such enquiries should always be made in such regular assessments. Applying the propositions culled out from various judgments of Hon'ble High Courts and the Tribunal, we have necessarily to uphold the contention of the assessee that the addition in question is beyond the jurisdiction of Chapter XIV-B. On this ground, the addition has to be deleted.
+48. Coming to the addition made on ad hoc basis in the hands of each of the directors, we hold that the addition cannot be sustained. Similar addition in the case of M.K. Securities Ltd. (supra) has been deleted by the Tribunal. When an allegation of benami investment is made, the person making such an allegation should lead item-wise evidence to show and demonstrate that a particular shareholder is the benami of a particular director. It cannot be generalised and stated that all these shareholders are benamis and an apportionment of such benami investment cannot be made between the different directors, that too without an iota of evidence either found during the course of search or unearthed after the search. Even if the assessees in question have admitted certain share investment in their own name, it does not lead us to a conclusion that such admission can be extrapolated to include many other shareholders without any evidence. To the extent of the admission, the burden on the revenue stands discharged. But, to make further additions, the burden of proof has to be discharged. When specific evidence and finding of benami has to be recorded in each case as per law, ad hoc additions on 50:50 basis cannot be sustained in law. Thus, for all reasons stated above, we delete the additions on merits, both in the case of the company and in the case of the directors.
+49. Coming to the issue of limitation, we hold as follows.
+50. Before we give our finding, it is necessary for us to briefly dwell on the methodology adopted by the revenue during the course of search. On entering the premises to be searched, the search party shows the warrant of search to the assessee as well as to the two Panchas. Thereafter, a Panchanama is drawn. Against column A, it is clearly noted as to in whose name the warrant of search is given. Both the assessee and the independent Panchas sign the Panchanama and thereby they acknowledge the fact that they have seen the warrant of search drawn on a particular person. In this case three Panchanamas were drawn. In all the three Panchanamas, the search parties recorded that the warrant had been issued in the case of Value Line Securities (India) Ltd. only. The revenue no doubt produces evidence from their internal record that warrants had been issued in the names of Shri Y. Ravi Prasad and Shri B.P. Gupta and that the third warrant was in the joint names of Shri Y. Ravi Prasad and Shri B.P. Gupta and that there was no warrant whatsoever in the names of Value Line Securities (India) Ltd. When the argument of the revenue is such, we do not know how in the three Panchanams drawn up, against the column "Warrant in the case of", the name of the company, Value Line Securities (India) Ltd. has been given. Moreover, in the case of Shri Y. Ravi Prasad, in paragraph 3 on page 2 of the assessment order. It is stated by the assessing officer that "Search operations were initiated in M/s. Value Line Securities Ltd.". In paragraph 12 on page 12, it is stated that "During the course of search operations, share certificates worth 11.70 lakhs were seized from the Registered Office of Value Line Securities Ltd." Further, in paragraph 13 on page 14 of the assessment order in the case of Shri Y. Ravi Prasad, it is stated as follows:
+During the course of search operations at the Registered Office of Value Line Securities (I) Ltd., a document showing a list of investors was found (Annexure - VLS/S)....
+Thus, whatever may be the internal records with the revenue, the documents given to the assessee have to be the basis of conclusion. The Panchanamas and assessment orders are in the public domain and can be held as carrying more weight, as compared to the secret internal files of the Income-tax department.
+51. Be that as it may the notice in this case had been given under
+Section 158BC
+on the very date the notices under
+Section 158BC
+were given to Shri Y. Ravi Prasad and Shri B.P. Gupta, i.e. 22-4-1996. The search was continued on the next day and was concluded only after the issue of notices under
+Section 158BC
+. No doubt, the assessing officer need not record satisfaction before the issue of notice under
+Section 158BD
+, as held by the Special Bench of the Tribunal in the case of
+Y. Subba Raju
+(supra), but, at the same time, the Special Bench had observed that the assessing officer should have prima facie material to come to a conclusion that the notice under
+Section 158BD
+has to be issued during the course of proceedings under
+Section 158BC
+against the person who has been searched. By the time this notice under
+Section 158BC
+was given to the company, the material normally would not reach the assessing officer from the Investigation Wing. The appraisal reports were yet to be completed and the full material was yet to be handed over to the assessing officer. Only a notice under
+Section 158BC
+was issued to Shri Y. Ravi Prasad and Shri B.P. Gupta, but the assessment proceedings in those cases had not even commenced when, on the same day i.e. 22-4-1996, a notice under
+Section 158BC
+was given to the company, Value Line Securities (I) Ltd. Under these facts and circumstances, we are convinced that the proceedings had been initiated in the case of Value Line Securities (I) Ltd. only under
+Section 158BC
+and never under
+Section 158BD
+. While the assessing officer had initiated the proceedings under
+Section 158BC
+, he completed the assessment only under
+Section 158BD
+. There was no separate notice issued under
+Section 158BD
+. The time-limit for completion of assessment under
+Section 158BC
+is prescribed in
+Section 158BE
+. By issuing a notice under
+Section 158BC
+prior to the conclusion of search, the assessing officer had invoked a particular provision and thus was bound by the time-limit prescribed under
+Section 158BE
+. Hence, we agree with the submissions of the learned Counsel for the assessee that the assessment in this case should have been completed on 30-4-1997. As the assessment was completed only on 30-5-1997, on the facts and in the circumstances of the case, we have necessarily to hold that the assessment in the case of Value Line Securities (India) Ltd. is barred by limitation as only proceedings under
+Section 158BC
+were initiated.
+52. Thus, we agree with the submissions of the learned Counsel for the assessee both on merits as well as on limitation, for the detailed reasons given above, and allow all the three appeals.
+53. As for the stay petitions, in view of the appeals having been disposed of, they have become infructuous.
+54. In the result, the appeals are allowed and the stay petitions are dismissed as infructuous.

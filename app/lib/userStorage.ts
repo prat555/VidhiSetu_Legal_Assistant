@@ -26,6 +26,8 @@ const withTimeout = <T>(promise: Promise<T>, ms: number = 5000): Promise<T> => {
 export interface Message {
   role: 'user' | 'assistant';
   content: string;
+  sources?: string[];
+  cached?: boolean;
 }
 
 export interface ChatSession {

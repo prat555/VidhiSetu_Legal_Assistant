@@ -1,0 +1,694 @@
+Title: Search
+Court: High Court.
+Date: Unknown Date
+Citation: citations: [2006]102ITD227(DELHI), (2006)105TTJ(DELHI)218
+Source: https://indiankanoon.org/doc/635599/
+
+[Cites
+60
+, Cited by
+7
+]
+Income Tax Appellate Tribunal - Delhi
+Additional Commissioner Of ... vs Glad Investments (P.) Ltd. on 9 June, 2006
+Equivalent citations: [2006]102ITD227(DELHI), (2006)105TTJ(DELHI)218
+ORDER
+S.C. Tiwari, Accountant Member
+1. This appeal has been filed by the revenue on 28-6-2001 against the order of the learned CIT (Appeals)-I, New Delhi, dated 23-3-2001 in the case of the assessee in relation to assessment order under Section 143(3) for assessment year 1997-98. In this appeal the revenue has taken following grounds of appeal:
+On the facts and circumstances of the case, the ld. CIT (Appeals) erred in:
+(i) holding that the amount of Rs. 29,08,03,436 on sale of shares, by the lender, of the NIIT shares owned by the appellant but pledged to the lender did not constitute capital gain exigible to tax in the appellant's hand.
+(ii) not applying the ratio of Supreme Court order reported at 227 ITR 240.
+(iii) ignoring the fact that the assessee can legally recover the amount of Rs. 29,06,97,940 from the third party for whose benefits the assessee pledged his shares and sale proceeds of which were appropriated by the financial institution.
+(iv) ignoring the provisions of Section 2(47) and Section 45. As per the provisions contained in these sections, the sale of these shares amounts to transfer resulting to capital gain taxable in the hands of the owner i.e., the appellant.
+2. Facts of the case leading to this appeal briefly are that the assessee is a finance company and during the year it received income from interest, dividend and capital gains. During the course of assessment proceedings the learned Assessing Officer noted that there was a sale of 11,72,900 shares of NIIT Ltd. Sale of these shares resulted in a capital gain after allowing indexation of the cost of acquisition amounting to Rs. 29,06,97,940. The assessee, however, did not offer this capital gain for assessment. According to the assessee, sale of these shares in view of the guarantee given by the assessee for loan taken by another company, did not result in any income to the assessee. The assessee did not receive any money from the sale of these shares. Under the provisions of Section 45(1) "any profits or gains arising from transfer of capital asset" were chargeable to income-tax. In the case of the assessee there was no profit or gains arising to the assessee.
+3. The learned Assessing Officer held that a plain reading of Section 45(1) of the Act talked about profits or gains arising from transfer of a capital asset. It did not talk about money received or receivable and how the gains arising from the transfer of capital asset were utilized. Provisions of Section 2(47) gave a wide ranging definition of "transfer". In the assessee's case certain shares belonging to the assessee had been voluntarily pledged by the assessee with certain credit institutions to help another company to raise loans. When the assessee-company pledged the shares, it was understood that in case of default the creditor shall have the right to sell the shares to recover his dues. Hence, it was immaterial that the assessee himself had not sold the shares but the shares had been sold on assessee's behalf by the creditor with whom the shares had been pledged by the assessee. Since the shares had been sold, capital gain had arisen. The consideration for the transfer ultimately seemed to have been received by the debtor on whose behalf the assessee had given the guarantee. The debtor whose debts had been discharged by sale of these shares was, in law, a debtor to the assessee for the amount of consideration.
+That being so the assessee's contention that it did not receive any consideration on account of transfer had to be rejected. The assessee could not say that no consideration had been received just because somebody else had received the consideration on his behalf and who was then legally assessee's debtor who could be enforced in law. Hence, in a way the assessee had exchanged his shares for a debt owed by the company on whose behalf the assessee had given the guarantee. The learned Assessing Officer sought to support this view held by him by the judgment of Hon'ble Supreme Court in the case of
+V.S. Malhotra v. CIT
+.(wrongly mentioned in assessment order). According to the learned Assessing Officer there was considerable similarity between the case of V.S. Malhotra and that of the assessee. In both cases property had been mortgaged and mortgaged by the assessees themselves. It was not as if the property had been mortgaged by the previous owner and the assessees had acquired only mortgaged interest in the property. It was also not the contention of the assessee that debts against the shares in question had been incurred to improve the title of the assessee. Instead the debts had been incurred for the purpose of helping another company raise loan by mortgaging assessee's shares voluntarily and at assessce's own sweet will.
+Following the judgment of Hon'ble Supreme Court in the case of
+V.S. Malhotra
+(supra) the learned Assessing Officer held that discharge of mortgaged debts by the sale of shares of the assessee did not constitute a diversion of the sale consideration at source and that the debt discharged by the sale of shares could not be said to have enhanced the rights of the assessee in those shares, so as to constitute increase in the cost of acquisition of the shares to the assessee. The learned Assessing Officer further held that the assessee's liability to pay tax could not be neutralized by any agreement entered into for charges created against the shares voluntarily. The bank or any other person did not have any overriding title to the receipt. The learned Assessing Officer held that capital gain tax was clearly leviable on the assessee and any agreement as to mode of utilization of the gain arising from the transfer of any capital asset could not affect the liability as to the charge of tax on the assessee. According to the learned Assessing Officer the charge of tax under the statutory provisions of
+Income-tax Act
+could not be extinguished by any agreement as to the method of utilization of income/gains that had arisen. The application of income could not affect the chargeability to tax under the statutory provisions. Based on this reasoning the learned Assessing Officer assessed a sum of Rs. 29,06,97,940 as capital gain arising to the assessee on sale of 11,72,900 shares of NIIT Ltd.
+4. During the course of hearing before the learned CIT (Appeals), the assessee argued that the reliance placed by the learned Assessing Officer on Supreme Court judgment in the case of
+V.S.M.R. Jagdishchandran
+(supra) (wrongly mentioned in the assessment order as V.S. Malhotra) was misplaced. In that case the assessee had incurred the expenditure for removal of mortgage debt created by the assessee himself in relation to plots of land belonging to the assessee. The assessee claimed that expenditure, thus, incurred should be treated as the cost of acquisition of the property or the cost of obtaining clear title to the property. In the case of assessee the shares were pledged as a collateral security with credit institutions for loan taken by a third party, which shares were subsequently sold by the lender in satisfaction of the unpaid loan to the third party.
+Therefore, the Hon'ble Supreme Court judgment in
+V.S.M.R. Jagdishchandran
+'s case (supra) had no application on the facts of the case of the assessee which were wholly distinguishable.
+The assessee referred to the judgment of Hon'ble Supreme Court in the case of
+R.M. Arunachalam v. CIT
+.
+that was referred to in
+V.S.M.R. Jagdishchandran
+'s case. In that judgment Hon'ble Apex Court accepted that expenditure incurred for removal of mortgage debt incurred by the previous owner could be treated as cost of acquisition. The asscssee further pointed out that
+in that case
+the question as to whether estate duty could be treated as diversion at source was not considered because that was an entirely independent issue which had not been considered by the ITAT or the High Court.
+The assessee placed strong reliance on the judgment of Hon'ble Kerala High Court in the case of
+CIT v. Smt. Thressiamma Abraham
+. In that case on similar facts the Hon'ble Kerala High Court held that where the entire sum had been appropriated towards discharge of the mortgage debt and assessee
+in that case
+had not received a pie as a result of transfer, there could not be any income to the asscssee much less any capital gain. It was held by Hon'ble High Court that the corporation to whom the property had been mortgaged as guarantee for repayment of loan taken by a third party had acted in exercise of the overriding title in its favour. Before the learned CIT (Appeals) the assessee before us relied upon the judgment of Hon'ble Supreme Court in the case of Addl.
+CIT v. Mohanbhai Pamabhai
+[1997] 165 ITR 166 also, wherein it was held that unless consideration flows as a result of a transfer,
+Section 45
+is not attracted.
+The assessee placed reliance on the judgment of Hon'ble Supreme Court in the case of
+Kunhayammed v. State of Kerala
+. also.
+5. The learned CIT (Appeals) found that the issue before him was a legal issue i.e., where assessee's assets which were pledged as guarantor to a lending institution for loan taken by a third party and in default of the third party the lender sold the assessee's property in satisfaction of its dues and the assessee did not receive any amount whatsoever out of the sale proceeds, whether the assessee was liable to pay capital gains tax thereon. The learned CIT (Appeals) held that these facts were entirely different from the facts decided by Hon'ble Supreme Court in
+V.S.M.R. Jagdishchandran
+'s case (
+supra) and R.M. Arunachalam
+'s case (supra).
+Facts of the case of the assessee were almost identical to the facts in the case of
+Smt. Thressiamma Abraham
+(supra). Following the aforesaid judgment of Hon'ble Kerala High Court the learned CIT (Appeals) held that sale proceeds of NIIT shares received by the lender did not constitute capital gain exigible to tax in the assessec's hands.
+Aggrieved by this order revenue is in appeal before us.
+6. During the course of hearing before us the learned CIT, DR stated that assessee pledged 11,72,900 shares of M/s. NIIT Ltd. of which six lakh and odd shares were pledged between March to November, 1995 with M/s. Reliance Capital Ltd. as collateral security for the loan of Rs. 20 crores taken by M/s. Swati Holding Ltd. Thereafter, 1,80,000 shares were pledged in the month of August, 1996 to M/s. Kotak Mahindra Finance Ltd. as collateral security given for the loan of Rs. 3 crores taken by M/s. Pertech Computers Ltd. Thereafter, the assessee pledged 3,39,200 shares in March, 1997 to M/s. Industrial Reconstruction Bank of India as collateral security for loan of Rs. 10 crores taken by M/s. Pertech Computers Ltd. As both M/s. Swati Holding Ltd. and M/s. Pertech Computers Ltd. failed to repay the loans to all the three credit institutions, the credit institutions sold the shares in financial year 1996-97 and, thus, squared up the loans taken by M/s. Swati Holding Ltd. and M/s. Pertech Computers Ltd. The sale proceeds of the shares, thus, sold amounted to Rs. 29,08,03,436. The learned Assessing Officer reduced indexed cost of acquisition worked out at Rs. 1,05,496 from the sale consideration and assessed capital gains of Rs. 29,06,97,940 and added the same to the income of the assessee.
+7. Shri S.K. Mishra, the learned CIT, DR submitted that the issue under consideration before us was directly covered by the judgments of Hon'ble Supreme Court in the cases of
+R.M. Arunachalam
+(supra) and
+V.S.M.R. Jagdishchandran
+(supra). In both the judgments Hon'ble Supreme Court had held that a self-created mortgage could not help the assessee to reduce his liability for capital gains tax. This proposition was well-settled and no plea of harshness to the tax payer could be considered to dilute this legal position. The learned CIT, DR in particular brought attention to the following portion of the judgment in the case of R.M. Arunachalam:
+In taking the view that in a case where the property has been mortgaged by the previous owner during his lifetime and the assessee, after inheriting the same, has discharged the mortgage debt, the amount paid by him for the purpose of clearing off the mortgage is not deductible for the purpose of computation of capital gains, the Kerala High Court has failed to note that in a mortgage there is transfer of an interest in the property by the mortgagor in favour of the mortgagee and where the previous owner has mortgaged the property during his lifetime, which is subsisting at the time of his death, then after his death his heir only inherits the mortgagor's interest in the property. By discharging the mortgage debt his heir who has inherited the property acquires the interest of the mortgagee in the property. As a result of such payment made for the purpose of clearing off the mortgage the interest of the mortgagee in the property has been acquired by the heir. The said payment has, therefore, to be regarded as "cost of acquisition" under
+Section 48
+read with
+Section 55(2)
+of the Act.  The position is, however, different where the mortgage is created by the owner after he has acquired the property. The clearing off of the mortgage debt by him prior to transfer of the property would not entitle him to claim deduction under
+Section 48
+of the Act because in such a case he did not acquire any interest in the property subsequent to his acquiring the same.
+In
+CIT v. Daksha Ramanlal
+, the Gujarat High Court has rightly held that the payment made by a person for the purpose of clearing off the mortgage created by the previous owner is to be treated as cost of acquisition of the interest of the mortgagee in the property and is deductible under
+Section 48
+of the Act.
+[Emphasis supplied by CIT, D.R.]
+ 
+
+The learned CIT, DR further referred to the judgment of Hon'ble Supreme Court in the case of
+CIT v. Attili N. Rao
+. reversing the decision of Hon'ble Andhra Pradesh High Court. According to the learned CIT, DR the Hon'ble Supreme Court held that in the case of sale of mortgaged immovable property belong to an assessee capital gain was chargeable to tax even though the State deducted its due towards kist. According to Ld. D.R. these judgments showed that the principle of diversion of overriding title was not applicable.
+He then referred to the judgments of Hon'ble Madras High Court and Kerala High Court in
+CIT v. N. Vajrapani Naidu
+and
+CIT v. S.R.V. Press & Publications (P
+.) Ltd.. According to the learned CIT, DR those judgments held that a self-created mortgage cannot help the assessee to reduce his liability of capital gains tax. In such cases the plea of hardship cannot be raised. The learned DR further argued that those judgments showed that where the properties of owner under pledge or mortgage were sold to pay all his debts, tax on capital gains did create hardship on account of compulsory sales, but hard cases did not make good law. Under the provisions of the
+Estate Duty Act, 1953
+, relief under
+Section 50B
+was given where any property was sold to meet estate-duty liability. No such corresponding relief had been provided under the capital gains tax. The legal position was that if the person sought to be taxed came within the letter of law he must be taxed.
+The learned CIT (DR) referred to the observations of Rowlatt, J. in the case of Cape Brandy Syndicate v. IRC 1 K.B. 64.
+He then referred to the decision of ITAT, Mumbai in the case of
+Fancy Corpn. Ltd. v. Dy. CIT
+[2000] 75 ITD 467 (Mum.).
+He pointed out that after taking into consideration the judgment of Hon'ble Kerala High Court in the case of
+Smt. Thressiamma Abraham
+(supra) ITAT had reached the following conclusion:
+We have to reject the contention of the assessee for the deduction of Rs. 1,37,50,000 as expenses incurred in connection with the transfer because of the decision of the Apex Court in the case of V.S.M.R. Jagdish chandran (supra). The Apex Court has dismissed the appeal of the assessee slating that the questions raised were not arguable. To us, it appears that the Apex Court has implicitly held that the repayment of the mortgage debt cannot be regarded as an expenditure in connection with transfer. Actually, even on general principles, it is difficult to contemplate repayment of a debt as an expenditure incurred.
+For the above reasons, we agree with the contention of the learned Departmental Representative that the decision of the Apex Court in the case of
+V.S.M.R. Jagdishchandran
+(supra) is squarely applicable to the facts of the case and that even the decision of the Apex Court in the case of
+R.M. Arunachalam
+(supra) supports the case of the Department. The main plank of the contention of the learned Counsel for the assessee is that without the repayment of the mortgage debt, the assessee could not have transferred the property to 1BPS. In the entire argument, the assessee has ignored the fact that the repayment of the debt is consequential to the obtaining of loan earlier and the benefit that has accrued to the assessee because of the loan does not figure anywhere in the computation of the capital gains or in the argument of the learned Counsel for the assessee. The computation of capital gains has to be worked out as per a self-contained code
+Sections 45
+to
+55A
+of the IT Act. The starting point of the computation is the cost of acquisition of the asset and the terminal point is the sale consideration.
+The fact that the asset had been mortgaged at an intermediate point does not seem to us to affect the mode of computation of capital gains in view of
+the said decision
+of the Apex Court in the case of
+V.S.M.R. Jagdishchandran
+(supra). As the Apex Court has held, it will be different if the assessee had acquired an encumbered property and made payment towards the discharge of the encumbrance and the betterment of its title. That is not the situation here. Here is a case where the assessee has, after the acquisition of the asset, obtained the benefit of a commercial loan and in the process mortgaged the property. If, in the circumstances of the present case, the deduction for the repayment of the mortgage debt is allowed, it seems to us to defeat the very mode of computation of the capital gains
+laid down in
+Sections 48
+to
+55A
+of the IT Act. As rightly observed by the Assessing Officer, any person who wants to sell a property and anticipates a big capital gain can enter into a loan transaction and mortgage the property and claim the benefit of the deduction of the repayment of the loan.
+For the reasons indicated hereinabove, we have to reject the contention of the assessee that the provisions of the
+Transfer of Property Act
+or even the Board for Industrial and Financial Reconstruction Act come to the assistance of the assessee for the deducibility of the amount of Rs. 1,37,50,000 in the computation of capital gains. The BIFR Act, to our mind, operates in an altogether different field and it in no way enables the assessee to claim the deduction for the repayment of a mortgage debt in the computation of the capital gains. We cannot see the provisions of the BIFR Act as in anyway impeding the working out of the provisions of the
+IT Act
+in respect of the computation of capital gains. For the above reasons, we reject the contentions of the assessee and uphold the orders of the Revenue authorities.
+The learned DR in particular emphasized that if the view taken by Hon'ble Kerala High Court in the case of
+Smt. Thressiamma Abraham
+(supra) which had been over-ruled in the Supreme Court judgment, was to be applied that would lead to a major tax evasion device whereby any assessee anticipating a big capital gain might avoid capital gains liability by entering into a loan transaction and mortgage of the property.
+8. According to the learned CIT, DR the judgment of Hon'ble Kerala High Court in the case of
+Smt. Thressiamma Abraham
+(supra) and other judgments relied upon by the assessee and CIT (Appeals) no longer remained good law after the judgments of Hon'ble Supreme Court in the case of
+V.S.M.R. Jagdishchandaran
+(supra) and
+R.M. Arunachalam
+(supra).
+The learned CIT, DR reasoned that Hon'ble Kerala High Court had decided the case of
+Smt. Thressiamma Abraham
+(supra) following its own judgment in the case of
+Ambat Echukutty Menon v. CIT
+[1978] 111 ITR 880 (Ker.)
+and that judgment has been reversed by the Hon'ble Supreme Court in the case of
+R.M. Arunachalam
+(supra).
+Similarly the other judgments in the case of
+Salay Mohamad Ibrahim Sait v. ITO
+and
+K.V. Idiculla v. CIT
+also had been over-ruled by the judgment of Hon'ble Supreme Court in the case of
+R.'M. Arunachalam
+(supra).
+Furthermore, Hon'ble Kerala High Court in its subsequent judgment in the case of
+CIT v. S.R.V. Press & Publications (P
+.)
+Ltd.
+(supra) had also over-ruled their earlier judgment in the case of
+Smt. Thressiamma Abraham
+(supra) and held as under:
+In view of the quoted conclusions of the Apex Court, the view expressed by this Court and the Andhra Pradesh High Court cannot be held to be applicable. We accordingly answer the question referred in the negative, in favour of the Revenue and against the assessee.
+The learned CIT, DR further argued that Hon'ble Bombay High Court had in the case of
+CIT v. Roshanbabu Mohammed Hussein Merchant
+.
+examined the relevance of the judgment of Kerala High Court in the case of
+Smt. Thressiamma Abraham
+(supra) after the pronouncement of the judgment of the Hon'ble Apex Court in the cases of
+R.M. Arunachalam
+(supra) and
+V.S.M.R. Jagdishchandaran
+(supra) and held as under:
+As regards the decisions of this Court in the case of Shakuntala Kantilal  followed in the case of Abrar Alvi  and the decision of the Kerala High Court in the case of Smt. Thressiamma Abraham (No. 1) [2001] 227 ITR 802 which are strongly relied upon by the counsel of the assessee, we are of the opinion that the said decisions arc no longer good law in the light of subsequent decision of the Apex Court referred to hereinabove.
+The learned CIT, DR, therefore, argued that the relief granted by the learned CIT (Appeals) based on the judgment of Hon'ble Kerala High Court in the case of
+Smt. Thressiamma Abraham
+(supra) was erroneous when that judgment had been over-ruled by the judgments of Hon'ble Supreme Court.
+9. The learned CIT, DR argued that by pledging the shares with credit institutions the assessee did not transfer its interest in those shares and the assessee had wrongly relied upon the provisions of
+Sections 172
+to
+176
+of Indian Contract Act, 1882 in that behalf. That aspect of the issue had been examined by Hon'ble Andhra Pradesh High Court in the case of
+Ghanshyamdas Kishan Chander v. CIT
+. wherein Hon'ble High Court held that where an assessee had mortgaged some capital asset for settlement of debts and later sold the same for payment" of remaining debt, the "transfer" can be said to have taken place only when the sale was effected and not when the asset was mortgaged. For this proposition the learned CIT, DR relied upon the following passage appearing in that judgment:-
+The definition of "transfer", in relation to a capital asset under the
+Income-tax Act
+, is different from the transfer of any interest in specific immovable property.
+Section 58(a)
+of the Transfer of Property Act defines "mortgage as the" "transfer of an interest in specific immovable property for the purpose of securing the payment of money advanced or to be advanced by way of loan. . . ." The transfer of an interest in specific immovable property is different from the transfer of the totality of interest in respect of a capital asset. The Sovereign Parliament, in our view, designedly used the expressions "sale", "exchange", "relinquishment of the asset", "extinguishment of any rights in the asset" and the "compulsory acquisition of an asset under any law" in the definition of "transfer" under
+Section 2(47)
+of the Act.
+The definition is so clear as to take in only effective conveyance of the capital asset to the transferee. But, however, mere delivery of immovable property alone cannot be treated to be equivalent to conveyance of immovable property so as to come within the definition of "transfer". The definition is clear enough. If any authority is needed; we find it in
+Alapati Venkataramiah v. CIT
+. Therein the learned Judge, Sikri, J. (as he then was), speaking for the court, observed at page 192 thus:
+Before Section 12B can be attracted, title must pass to the company by any of the modes mentioned in Section 12B, i.e., sale, exchange or transfer. It is true that the word 'transfer' is used in addition to the word 'sale' but even so, in the context, transfer must mean effective conveyance of the capital asset to the transferee. Delivery of possession of immovable property cannot by itself be treated as equivalent to conveyance of the immovable property.
+For the reasons stated above, we hold that there was no transfer of capital assets by creating mortgages in the years 1934 and 1935 in respect of the two properties and, therefore, the transfer of the assets had in fact taken place only in August, 1964, as rightly held by the Tribunal."
+The learned CIT, DR, therefore, argued that at the time of pledging of shares there was no transfer of interest within the meaning of
+Section 2(47)
+of the Act because provisions of
+Indian Contract Act
+were not applicable to
+Section 2(47)
+. The transfer took place only at the time of sale of shares. This fact was further reinforced by Clause 6 of the Pledge Agreement which provided that if there was any balance left after appropriation of the debt, the same should be paid to the pledger.
+10. The learned CIT, DR argued that there was no force in the contention of the assessee that it had not actually received any profit on sale of shares. Capital gains tax was attracted in the cases where an assessee had acquired the right to receive the profit and it was not necessary that assessee should have actually received the profit. That view was supported by judgment of Hon'ble Madras High Court in the case of T. V. Sundaram lyengar &
+Sons Ltd. v. CIT
+. He placed reliance on the following extract:-
+In order to attract liability to tax on capital gains under
+Section 12B
+of the Indian Income-tax Act, 1922, it is sufficient if in relevant accounting year profits have arisen out of the sale of capital assets, that is to say, if the assessee has a right to receive the profits. It is not necessary that the assessee should have received them. When once profit have arisen in the accounting year out of the sale of capital assets, what the parties did subsequent to that year will not have any bearing on their liability to tax in respect of that year.
+The learned CIT, DR argued that the receipt need not be necessarily in terms of money it could be by negotiable instrument, by settlement and by adjustment. For that purpose reference was made to the judgment in
+CIT v. Nainital Bank Ltd.
+; P.C. Roy & Co. (India) (P.)
+Ltd. v. A.C. Mukherjee, ITO
+;
+Maharaja Kamakhya Narain Singh v. CIT
+[1942]10 ITR 177(Pat.)
+and
+CIT v. V.S.U.R. Firm
+[1935] 3 ITR 158 (Rangoon). It, therefore, followed that adjustment of sale proceeds of shares towards the debt was one of the way of receipt by the assessee and, in any case, in the case of capital gains right to receive the profit itself was sufficient to attract tax liability. For the purpose of chargeability of capital gains tax there were only three conditions to be satisfied i.e., transfer of asset, profit or gains out of transfer and right to receive profit. In the case of the assessee all the three conditions had been satisfied.
+11. During the course of proceedings before us the learned CIT, DR argued that in the case of the assessee the very fact that the shares were pledged with credit institutions was not proved. In the paper book filed with the Tribunal the assessee had included a copy of agreement to pledge shares only in the cases of Kotak Mahindra Finance Ltd. and M/s. Industrial Reconstruction Bank of India. These copies of agreement did not bear the signatures of credit institutions and witnesses. Some part of the agreements were left blank as seen at pages 93 and 156 of the paper book. In the absence of signatures of both the parties it could not be said that any valid agreement had come into being. The assessee had also not furnished any evidence that pledged shares were actually transferred in the name of credit institutions and that was a primary requirement for transfer of totality of assessee's interest in the share certificates. From pages 109 to 126 of the paper book it was seen that the shares were in the name of the assessee even after pledging. At pages 95 to 107 of the paper book the assessee had enclosed copies of share transfer forms. These share transfer forms were blank and the name of credit institution had not been entered in the column meant for names of transferee.
+12. During the course of hearing before us the learned Counsel for the assessee argued that the learned CIT (Appeals) had correctly decided that the facts of the assessee's case were entirely different from the facts of the case of
+V.S.M.R. Jagdishchandran
+(supra) and that on perusal of the agreements and other relevant documents it was seen that the creditors had unequivocal right of selling the shares in question and that the facts of the case of the assessee were fully covered by the judgment of Hon'ble Kerala High Court in the case of
+Smt. Thressiamma Abraham
+(supra).
+13. The learned Counsel argued that in the instant case the undisputed facts were that the assessee had not received any amount on sale of shares; that the assessee had no substantial interest in any of the creditor company and that the assessee had given collateral security just to help the debtor company. It was a matter of record that the lenders were given absolute right without giving any notice to the assessee to sell the shares and appropriate the proceeds against the loan. For that purpose the learned Counsel invited our attention to Clauses 5 and 6 of the pledge agreement between the assessee and Kotak Mahindra Finance Ltd. It was also a matter of record that the entire sale proceeds had been appropriated by the creditors in satisfaction of the outstanding loan against the debtor company. Thus, from the facts of the case it was evident that there was an overriding title of the lenders in respect of the sale proceeds and, therefore, there was a diversion at source of the sale proceeds itself and in that view of the matter the assessee was not chargeable to tax under the head "Capital gains". The learned Counsel argued that under the provisions of
+Section 48
+of the Act sale proceeds received or receivable was the foundation of capital gains tax. For that proposition, the learned Counsel relied upon the following passage in the case of
+CIT v. Mohanbhai Pamabhai
+[1973] 91 ITR 393 (Guj.
+), confirmed in
+MohanbhaiPaniabhai
+'s case (supra):
+Section 45
+which is the charging section, undoubtedly, provides that any profits or gains arising from the transfer of a capital asset shall be chargeable to income tax under the head "Capital gains".  But,
+Section 48
+shows that the transfer that is contemplated by
+Section 45
+is a transfer as a result of which consideration is received by the assessee or accrues to the assessee.
+Section 48
+provides the mode of computation of capital gains by enacting that the income chargeable to tax as capital gain shall be computed by deducting from the "full value of the consideration received or accruing as a result of the transfer of the capital asset" the following amounts, namely ; (i) expenditure incurred wholly and exclusively in connection with such transfer; and (ii) the cost of acquisition of the capital asset and the cost of any improvement thereto. The amounts specified in Clauses (i) and (ii) are to be deducted from the "consideration received or accruing as a result of the transfer of the capital asset" for the purpose of determining the profits or gains chargeable to tax. It is, therefore, clear that the transfer of a capital asset, in order to attract the capital gains tax, must be a transfer as a result of which consideration is received by the assessee or accrues to the assessee. If there is no consideration received or accruing to the assessee as a result of the transfer, the machinery section enacted in
+Section 48
+would be wholly inapplicable and it would not be possible to compute profits or gains arising from the transfer of the capital asset.  The transaction in order to attract the charge of tax as capital gains must, therefore, clearly be such that consideration is received by the assessee or accrues to the assessee as a result of the transfer of the capital asset.
+[Emphasis supplied]
+ 
+
+The learned Counsel argued that in the case before us neither any consideration was received by the assessee nor any consideration was receivable by the assessee. There was no consideration receivable even from debtors. No material had been brought on record to establish that the assessee received or was entitled to receive any consideration in relation to sale proceeds of the shares in question. On these facts no capital gain was chargeable to tax in the assessment of the assessee under the provisions of
+Section 45
+read with
+Section 48
+of the Act.
+14. The learned Counsel for the assessee took us closely through the judgment of Hon'ble Kerala High Court in the case of
+Smt. Thressiamma Abraham
+(supra) and argued that the case of the assessee was fully covered by the authority of Hon'ble Kerala High Court
+in that case
+.
+The judgment of Hon'ble Supreme Court in the case of
+V.S.M.R. Jagdishchandran
+(supra) was not applicable because
+in that case
+the assessee had created mortgage on the property for his own benefit and had already realized value thereof. The learned Counsel argued that while applying the provisions of Income-tax law, it was the "Real Income" earned by the assessee that was chargeable to tax.
+In support of this contention the learned Counsel strongly relied upon the judgment of Hon'ble Supreme Court in
+Sunil Siddharthbhai v. CIT
+. and in particular, the following observations:
+That profits or gains under the
+Income-tax Act
+must be understood in the sense of real profits or gains, that is to say, on the ordinary commercial principles on which actual profits are computed, a sense in which no commercial man would misunderstand, had been regarded as a principle of general application, and there is a catena of cases of this Court which affirms that principle. Reference may be made to
+Calcutta Co. Ltd. v. CIT
+,
+CIT v. Bai Shirinh.i K. Kooka
+,
+Poona Electric Supply Co. Ltd. v. CIT
+,
+CIT v. Birla Gwalior (P
+.)
+Ltd.  and Bafna Textiles v. ITO
+.
+The learned Counsel argued that provisions of
+Sections 172
+to
+176
+of the Indian Contract Act, 1872, regulated the transactions of pledge. Under those provisions the bailment of goods as security for payment of debt or performance of a promise was called "pledge". Under such contract deposit of goods was made as a security for a debt and the right to property vested in the pawnee so far as necessary to secure the debt. Under the pledge though no title to the goods passed to the pawnee, but the right to retain possession remained with the pawnee and the pawnee also had a right, in case of default, to sell the goods after reasonable notice of the intended sale given to the pawnor. Once the pawnee sold the goods the right of the pawnor to redeem came to an end but the pawnee was bound to apply the sale proceeds towards satisfaction of the debt and to pay the balance, if any, to the pawnor. The learned Counsel referred to the j udgment of Hon'ble Supreme Court in the case of
+Lallan Prasad v. Rahmat Ali
+AIR 1967 SC 1322 that there were two essential ingredients of a pawn- (i) the property pledged should be actually or conclusively delivered to the pawnee, and (ii) a pawnee had a special property in the pledge but the general property therein remained in the pawnor and wholly reverted to him on discharge of the debt.
+Again in the case of
+Bank of Bihar v. State of Bihar
+AIR 1971 SC 1210 the Hon'ble Apex Court reiterated the above legal position and held that so long as the claim of pawnee was not satisfied no other creditor of the pawnor had any right to take away the goods or its price.
+15. The learned Counsel, thus argued that on the facts of the case of the assessce before us there was an overriding title of lenders in respect of the sale proceeds. Therefore, there was a diversion at source of the sale proceeds itself and the assessee was not liable to charge under the head "Capital gains". In any case provisions of
+Section 45
+read with
+Section 48
+were not attracted in the case of the assessee.
+Section 48
+showed that the transfer contemplated by
+Section 45
+was a transfer as a result of which consideration was received by the assessee or accrued to the assessee. If in a case like that of the assessee neither any consideration was received nor any consideration accrued, there would be no capital gains chargeable to tax. There was clear authority of Supreme Court in the case of Mohanbhai Pan mbhai (supra) to that effect.
+16. The learned Counsel argued that none of the judgments relied upon by the learned D.R. were applicable to the facts of the case of the assessee before us. First case relied upon by the learned D.R. i.e.,
+R.M. Arunachalam
+(supra) was a case in which the question for consideration was whether the amount of estate duty payable could be reduced from the sale proceeds of the asset while computing capital gains. The Hon'ble Apex Court held that it could not be said that the estate duty payable was either the "cost of acquisition" or the "cost of improvement" within the meaning of
+Section 48
+, so as to be reduced from the sale proceeds while working out the amount of capital gains. It was important to note that
+in that case
+the Hon'ble Apex Court did not permit the assessce to raise the question of diversion at source on account of overriding charge of estate duty because that was an entirely independent issue which had not been considered by the Tribunal or the High Court.
+In the case of
+V.S.M.R. Jagdishchandran
+(supra), there was a mortgage that had been created by that assessce for value received by the assessee
+in that case
+, whereas in the case of the assessee before us the pledge had been made for the benefit of third party and not the assessee himself. For that reason the ratio of that judgment was entirely inapplicable. In the case of SRV Press & Publication (P.)
+Ltd.
+(supra) again there was a mortgage created by an assessee for his own benefit.
+That was precisely the crucial fact in the case of
+V.N. Vajrapani Naidu
+(supra) also.
+As to the case of
+Attili N. Rao
+(supra), the assessee had mortgaged his property to Excise Department of State of Andhra Pradesh as a security for the amount payable by the assessee to the State. When from out of sale proceeds the State deducted its dues and paid over balance to the assessee, the Hon'ble Supreme Court held that capital gains was chargeable on full price realized. The learned Counsel argued that in none of the cases relied upon by the learned CIT, DR the sale proceeds were entirely applied for the benefit of the third party alone leaving the mortgagor high and dry. In those cases the mortgagor had received benefit in terms of money or money's worth equal to the mortgagee's interest.
+17. The learned Counsel vehemently contested the argument of the revenue that the judgment of Hon'ble Kerala High Court relied upon by the CIT (Appeals) in the case of
+Smt. Thressiamma Abraham
+(supra) was no longer good law. It was important to note that
+the said judgment
+had neither been reversed, nor the same has been adversely commented upon by the Apex Court or even Kerala High Court. In the case of SRV Press & Publication (P.)
+Ltd.
+(supra), Hon'ble Kerala High Court only stated that views expressed in the case of
+Smt. Thressiamma Abraham
+(supra) were not applicable to the facts of the case before them.
+That aspect had been clearly brought out in the judgment of Hon'ble Calcutta High Court in the case of
+Gopee Nath Paul& Sons v. Dy. CIT
+. It, therefore, followed that
+the said judgment
+had all along continued to be good law.
+It was true that in the case of
+Roshanbabu Mohammed Hussein Merchant
+(supra) Hon'ble Bombay High Court had observed that the decision in the case of
+Smt. Thressiamma Abraham
+(supra) was no longer good law in the light of subsequent decisions of the Apex Court. Those observations were required to be seen in the context of the assessee
+in that case
+, who had voluntarily sought to sell the property in order to discharge his obligations towards the creditor. In the case of the assessee before us the shares were sold by the mortgagor to discharge the obligations of M/s. Pertech and M/s. Swati and not the assessee himself.
+18. The learned Counsel argued that there was transfer of interest in accordance with the provisions of
+Indian Contract Act
+at the time of pledging of the shares of the asscssee to the credit institution. Provisions of
+Section 2(47)
+did not alter that position. The case of
+Ghanshyamdas Kishan Chander
+(supra) was a case relating to immovable property. The learned D.R. overlooked that in the case of the assessee the lenders had been given absolute right without giving any notice to the assessee, to sell the shares and appropriate the proceeds against the loans, as was evident from the enclosures 5 and 6 of pledge agreement between the assessee and M/s. Kotak Mahindra Finance Ltd. In the case of the assessee, apart from pledging of shares, duly signed bank transfer deeds had been handed over to the lenders. The lenders had been duly authorized to attend the general body meeting of NIIT Ltd. Thus, there was transfer of complete interest by the assessee-company to the lenders for the purposes of the third party and as such neither in law nor on fact, any consideration was received by or accrued to the assessee-company on the sale of shares of M/s. NIIT by the lenders.
+19. The learned Counsel for the assessee took a strong exception to the attempt made by the learned CIT, DR that in the instant case pledge of shares was not proved by the assessee. In the instant case, the learned Assessing Officer had not doubted even for a moment the genuineness of the assessee's transactions that the assessee had pledged its shares in respect of the loans taken by third party and that subsequently those shares were sold by the lenders in order to satisfy the loans given by them to the third party. The learned DR failed to appreciate that the facts of the case were as admitted in the order of assessment itself. He sought to doubt those facts on no valid basis or material but by merely making an allegation. The assessee had after signing the agreements handed over the same to credit institutions along with share transfer deeds. As such all signed documents were in the possession of credit institutions and the third parties and the assessee had furnished copies of such documents as were lying in the possession of the assessee. The learned CIT, DR was not justified to make allegation for which the department had not carried out any enquiry even as on the date the learned CIT, DR made his submissions before the Tribunal.
+20. We have carefully considered the rival submissions. In this appeal there is no dispute as to the facts of the case. The case of the assessee is that the assessee voluntarily pledged shares belonging to him and unequivocally gave delivery of possession to certain credit institutions as collateral security for loan of Rs. 13 crores taken by M/s. Pertech Computers Ltd. (hereinafter referred to as 'Pertech') and loan of Rs. 20 crores taken by M/s. Swati Holdings Ltd. (hereinafter referred to as 'Swati') from those credit institutions. As both Pertech and Swati failed to repay the loan to the credit institutions, the credit institutions sold the shares in financial year 1996-97 towards satisfaction of the amounts owed to them by Pertech and Swati. The sale proceeds of the shares pledged by the assessee amounted to Rs. 29,08,03,436 and the same were entirely applied towards repayment of the loan taken by Pertech and Swati and the assessee did not receive a single paisa out of the sale proceeds. Both the learned Assessing Officer and the learned CIT (Appeals) do not dispute the correctness of these facts. During the course of hearing before us the learned CIT, DR made a feeble attempt to create confusion on the ground that copy of agreement to pledge shares with M/s. Kotak Mahindra Finance Ltd. and M/s. Industrial Reconstruction Bank of India did not bear the signatures of the credit institutions and witnesses. Some narrations in the agreement were left blank. On consideration of the matter we do not see much force in these arguments of the learned CIT, DR. The learned CIT, DR merely sought to doubt the facts found in the order of assessment itself on the basis of almost no material at all. In the paper book filed by the assessee photocopies of share certificates and blank share transfer forms signed by the assessee and various other papers signed by the assessee in this connection have been filed and those very documents are said to have been furnished before the learned Assessing Officer and CIT (Appeals) as well. The learned Counsel for the assessee pointed out that the copies of agreement were duly signed by the assessee and handed over to the credit institutions and if that were not so the credit institutions could not have sold the assessee's shares and appropriated the proceeds.
+21. In the instant case, the learned Assessing Officer has held that the assessee cannot say that no consideration has been received by him just because some body else has received the consideration on his behalf. According to the learned Assessing Officer the debtor whose debts had been discharged by sale of the assessee's shares was, in law, a debtor to the assessee for the amount of consideration and, therefore, in a way the assessee had exchanged his shares for a debt owed by Pertech and Swati on whose behalf the assessee had given the guarantee.
+In support of these arguments, the learned Assessing Officer has relied upon Supreme Court judgment in the case of
+V.S.M.R. Jagdishchandran
+(supra). It is seen that the assessee
+in that case
+had executed mortgage of house properly and plots of land in respect of certain debts owed by that assessee. Subsequently that assessee sold the house property and plots of land subject to encumbrance. In Income-tax assessment proceedings that assessee sought to reduce the debts in computation of capital gains as increase in the cost of acquisition of the property or as cost of improvement of the property or as the cost of obtaining clear title to the property. The Hon'ble Supreme Court held that since the mortgage was created by the assessee himself it was not a case of increase in cost of acquisition or cost incurred for obtaining clear title to the property. It was, therefore, held that the amount deducted by the buyer for discharge of mortgage debt out of the sale proceeds could not be claimed as deduction in computation of capital gains. After consideration we find that the only similarity between facts of that case is that the assessee before us also himself created the mortgage. But the similarity ends here.
+In the case of
+V.S.M.R. Jagdishchandran
+(supra) mortgage debt represented that asscssee's own debt created for consideration of value received in past. In the case of the assessee third parties' debts were discharged resulting into no profit or gain at all to the assessee before us. Secondly
+,
+in that case
+the assessee himself sold the property and received sale consideration after discharge of mortgage debt. In the case of the assessee before us the sale was forced upon the assessee by credit institutions. Furthermore we do not see in this case any authority to the proposition canvassed by the learned Assessing Officer that on sale of the shares pledged by the assessee, the assessee had exchanged his shares for a debt owed by Pertech and Swati and, therefore, the assessee could not say that no consideration had been received by the assessee. During the course of hearing before us the Ld. Counsel for the assessee stoutly denied this suggestion.
+22. During the course of hearing before us the learned CIT, DR heavily relied, in addition to the Hon'ble Supreme Court judgment in the case of
+V.S.M.R. Jagdishchandran
+(supra), on the judgment of Hon'ble Apex Court in the case of
+R.M. Arunachalam
+(supra). The assessee
+in that case
+argued that in computation of capital gains the estate duty paid by that assessee should be treated as cost of acquisition or cost of improvement of the property sold by that assessee. The Hon'ble Supreme Court held that the creation of a charge under
+Section 74(1)
+of the Estate Duty Act only meant that the amount recoverable by way of estate duty would have priority over other liabilities of the Accountable Person. It could not, therefore, be said that the title of that assessee in the immovable properties acquired was incomplete and imperfect in any way. It could not be said that as a result of the payment of the estate duty, there was an improvement in the title of that assessee. While Hon'ble Apex Court upheld the view taken by the High Court.
+Their Lordships did not endorse the view of the Kerala High Court in
+Atnbat Echukutty Menon
+'s case (supra) and approved the view taken by Hon'ble Gujarat High Court in the case of
+CIT v. Daksha Raman Lal
+. on the basis that there is distinction between the mortgage of the property during the life time of the previous owner and the mortgage created by the present owner after he has acquired the property.
+After consideration we find that there is vital distinction between the facts of the case of
+R.M. Arunachalam
+(supra) and the assessee before us. In that case the question for consideration was related to whether the estate duty paid would constitute any part of cost of acquisition of or cost of improvement to the property.
+In the case before us we are not concerned with cost of acquisition at all but with the question that whether the sale proceeds of the shares pledged by the assessee can be construed as any part of "the full of the consideration received or accruing" to the assessee before us. We may also mention here that in the case of
+R.M. Arunachalam
+(supra) the Hon'ble Supreme Court did not permit the assessee to raise the question relating to the diversion at source by way of estate duty paid.
+23. For the same reason as in respect of the judgments in the case of
+V.S.M.R. Jagdishchandran
+(supra) and
+R.M. Arunachalam
+(supra), we do not find much assistance in the judgments in the case of
+Attili N. Rao
+(supra),
+N. Vajrapani Naidu
+(supra) and S.R. V. Press and Publications (P.)
+Ltd.
+(supra).
+In the case of
+Attili N. Rao
+(supra), the assessee had mortgaged property belonging to him to the State Excise Department to provide security for the amounts of "Kist" which were due from him to the State. Eventually the State sold the immovable property by auction and deducted the amount due to it towards kist and interest and paid over the balance to the assessee. The assessee contended that the amount of kist deducted by the State was a charge over the immovable property. Hon'ble Supreme Court held that what was sold by the State at the auction was the immovable property that belonged to the assessee. The price that was realized belonged to the assessee. From out of the price the State deducted the amounts due from the assessee. In the case before us the amounts that have been deducted from the sale proceeds of mortgaged shares are not amounts due from the assessee before us but from Pertech and Swati i.e., the third parties.
+In the case of
+N. Vajrapani Naidu
+(supra), the vendee paid the creditors of the vendor and the balance sale proceeds to the vendor. Here again the amounts deducted from the sale proceeds are the amounts that were due from the vendor and not the third parties. The application of sale proceeds in discharge of the vendor's liability amounted to application of sale proceeds by the vendor himself towards value received in past. In the case of S.R.V. Press & Publications (P.)
+Ltd.
+(supra) the assessee, a private limited company, went into liquidation. The Liquidator discharged the liability of the assessee on sale of immovable property of the assessee-company. Here again is the case where the debts that had been discharged from out of sale proceeds, were the debts that belong to the assessee himself and not any third party.
+24. In short, the various judgments strongly relied upon by the learned Assessing Officer and the learned DR, as discussed by us in paragraphs 21 to 23 above, do not advance the case of the revenue because they are the cases where encumbrance was created by the owner of the property during his own life time for his own benefit in consideration of value already received, while in the case of the assessee before us the shares had been pledged only as a collateral security for the loans taken by the third parties. The revenue has not even for a moment disputed that while the assessee was deprived of his ownership over the shares in question, the assessee derived no benefit whatsoever therefrom either before or during or after the sale of the assessee's shares by the credit institutions. Significantly in the cases relied upon by the revenue the Hon'ble Supreme Court have drawn the distinction between an encumbrance in property created by the previous owner and the encumbrance created by the present owner himself. The reason for the distinction appears to be in the fact in the former situation the present owner derived no benefit whatsoever from out of the encumbrance created by the previous owner, whereas in the second situation the previous owner had already derived benefit in terms of money or money's worth resulting into the encumbrance being created. If this logic is applied, the case of the assessee before us is at par with the cases where the encumbrance is created by the previous owner of the property. In our humble opinion, the judgments of Hon'ble Supreme Court in the cases referred to in paras 22 and 23 above do not lay down a proposition of law that any encumbrance whatsoever created during the ownership of the present owner should always be ignored.
+At any rate, in the case before us the present owner i.e., the assessee himself did not create any encumbrance. He pledged the shares only by way of a collateral security. It was only on the failure of the third parties to discharge their debts that the assessee lost title over its property. That is the second vital distinction between the facts of the cases relied upon by the revenue and the facts of the case of the assessee before us. The point that we are making has been clearly noticed by Mumbai Bench of the Tribunal in their decision in the case of
+Fancy Corpn. Ltd.
+(supra), on which reliance has been placed by the learned CIT, DR. The Hon'ble Tribunal have, inter alia, observed:-
+In the entire argument, the assessee has ignored the fact that the repayment of the debt is consequential to the obtaining of loan earlier and the benefit that has accrued to the assessee because of the loan does not figure anywhere in the computation of the capital gains or in the argument of the learned Counsel for the assessee. The computation of capital gains has to be worked out as per a self-contained code
+Sections 45
+to
+55A
+of the IT Act. The starting point of the computation is the cost of acquisition of the asset and the terminal point is the sale consideration. The fact that the asset had been mortgaged at an intermediate point does not seem to us to affect the mode of computation of capital gains in view of
+the said decision
+of the Apex Court in the case of
+V.S.M.R. Jagdishchandran
+(supra). As the Apex Court has held, it will be different if the assessee had acquired an encumbered property and made payment towards the discharge of the encumbrance and the betterment of its title. That is not the situation here. Here is a case where the assessee has, after the acquisition of the asset, obtained the benefit of a commercial loan and in the process mortgaged the property.
+25. As pointed out by us earlier the main plank of the decision of the learned Assessing Officer is that Pertech and Swati, whose debts had been discharged by sale of shares owned and pledged by the assessee before us became a debtor to the assessee for the amount of the sale proceeds of the shares of the assessee applied towards discharge of the loans taken by them. The learned CIT, DR has further contended before us that there was no transfer of shares from the assessee to the credit institutions at the time when the shares were pledged by the assessee and the transfer can be said to have taken place only when the sale of those shares was effected by the credit institutions. For that proposition, the learned CIT, DR has relied upon the judgment of Hon'ble Andhra Pradesh High Court in
+Ghanshyamdas Kishan Chander
+'s case (supra). The learned Counsel for the assessee has strongly contested these arguments. He has argued that in the absence of any undertaking in that behalf from Pertech and Swati in favour of the assessee before us, there was no legal basis to hold that on sale of shares in question by credit institutions Pertech and Swati became debtors to the assessee of the equal amount. The learned Counsel has further argued that the assessee had already done all that was required of him for "transfer" at the time of pledging of shares itself. The assessee had handed over original share certificates and duly signed blank transfer deeds and handed over the same to the lenders. The lenders had been duly authorized to attend the General Body Meeting of NIIT - the company whose shares had been pledged by the assessee. Thus, there was transfer of complete interest by the assessee-company to the lenders subject to redemption of the assessce's shares in the event of Pertech and Swati honouring their obligations towards the lenders. On consideration of the matter we see considerable force in these contentions of the assessee. There is no material to hold that on the sale of the assessee's shares by the credit institutions Pertech & Swati became the debtors of the assessee of the equal amount, not to speak of the worthlessness of the whole thing even if that were so. If Pertech and Swati could not honour their obligations towards the credit institutions, much could not be made of if they had become the debtors of the assessee. However, be that as it may, the fact of the matter is that on sale of assessee's shares no amount became recoverable by the assessee from Pertech and Swati either. The assessee lost valuable assets for no consideration or benefit at all. There is also considerable force in the contention of the assessee that transfer of the shares in question on the part of the assessee was complete when the shares were pledged.
+While placing reliance over the judgment of Hon'ble Andhra Pradesh High Court in the case of
+Ghanshyamdas Kishan Chander
+(supra), the learned CIT(A) has not noticed that the subject-matter of transfer
+in that case
+was an immovable property and the issue related to a period prior to amendment of
+Section 2(47)
+by the Finance Act, 1987 with effect from 1-4-1988. In the case of equity shares, the ownership changes hands with delivery of possession of share certificates along with transfer deeds signed by the party in whose name the share certificates stand registered for the time being in the records of the company. Once the signatures of the title holder recorded on the share certificate are duly made on the transfer deed as transferee, the share certificate may and often do change hands any number of times until the subsequent holders opting to seek registration of the shares in their names by lodging the duly completed share transfer form along with share certificates in the designated office of the company. Thus, for all practical purposes the assessee had already completed his part as the transferor at the time of pledging of the share certificates with the credit institutions.
+26. The learned CIT, DR has relied upon the judgment of Hon'ble Madras High Court in the case of
+T. V. Sundaram Iyengar & Sons Ltd.
+(supra) also and argued that for the purpose of attracting liability to tax on capital gains it was not necessary that the assessee should have actually received the profits and it was sufficient that the assessee had a right to receive the profit. There is no doubt as to the general proposition that provisions of
+Section 45
+relating to capital gains come into operation on accrual basis and not on actual receipt basis. Accrual, as rightly stated by the learned CIT, DR pre-supposes right to receive. The learned CIT, DR has, therefore, referred to Clause 6 of the agreement between the assessee and the credit institutions and argued that the assessee had a right to receive the profit from the sale of shares if there was any balance left after appropriation of the debt by the credit institutions. The learned CIT, DR has, however, not noticed that on the facts and in the circumstances of the case the assessee did not receive a single paisa because the entire sale proceeds were consumed in appropriation of the debt owed by Pertech and Swati and there was no balance left. Thus, on the facts and circumstances of the case the assessee neither received nor had any right to receive any part of the sale proceeds of the shares in question.
+27. We now turn to the judgment of Hon'ble Kerala High Court in the case of
+Smt. Thressiamma Abraham
+(supra) on which considerable reliance was placed by the learned Counsel of the assessee. It is because there is considerable verisimilitude between the facts of that case and the facts of the case of the assessee before us. The assessee
+in that case
+also stood guarantor and her immovable property was mortgaged to the Kerala Financial Corporation for the loan given by the Kerala Financial Corporation to a third party, National Tyre and Rubber Co. India Ltd. The entire sale proceeds of the assessee's property went into the appropriation by the Kerala Financial Corporation and, thus, assessee did not receive a single pie. Thereafter the amount of loan was credited in the books of account of National Tyre & Rubber Co. India Ltd. in the name of the assessee under the head "Unsecured loans". On these facts the learned Assessing Officer held that in view of the fact that the sale proceeds were credited in the assessee's name in the account of National Tyre and Rubber Co. India Ltd., the assessee should be deemed to have received the entire sale proceeds. The learned Assessing Officer, therefore, computed capital gain on sale proceeds of Rs. 13,12,414 at Rs. 12,62,414.
+The learned CIT(A) held that there was no personal obligation of
+Smt. Thressiamma Abraham
+(supra) to discharge the liability of National Tyre & Rubber Co. India Ltd. and there was a constructive receipt of the entire money by the assessee. On assessee's appeal the Tribunal held that the assessee's full ownership stood diminished by reason of transfer of interest in the property by way of mortgage and, therefore, there was expenditure incurred for the purpose of transferring the full ownership right in the property. Against these findings of the Tribunal the revenue took up the matter in reference to Hon'ble Kerala High Court.
+The revenue, inter alia, contended that the assessee was not entitled to the deduction of the amount paid to Kerala Financial Corporation for discharge of mortgage as deduction under
+Section 48(1)(a)(i)
+from the sale consideration because such deduction was impermissible in the light of Kerala High Court decision in the case of
+Ambat Echukiilty Menon
+(supra) and the Supreme Court decision in the case of
+CIT v. George Henderson & Co. Ltd.
+[1967] 66 ITR 672. The Hon'ble Kerala High Court held that the Tribunal appeared to have been proceeding in wholly unnecessary direction of statutory provisions relating to the deduction from the full value of the consideration by resorting to
+Section 48
+of the Act. Kerala Financial Corporation was acting on the basis of the overriding title resulting into assessee receiving not a single pie from the sale proceeds.
+As to the reliance placed by the revenue on the judgments of the Kerala High Court in the cases of
+Ambat Echukiilty Menon
+(supra),
+Salay Mohamad Ibrahim Sail
+(supra) and
+K.V. Idiculla
+(supra) the Hon'ble Kerala High Court found that the facts in those cases were entirely different as those cases related to the question of deduction from the full value of consideration, the situation in the case of
+Smt. Thressiamma Abraham
+(supra) was diversion of amounts at source by overridding title.
+The issue in the case of
+Smt. Thressiamma Abraham
+(supra) was the basic question as to whether any capital gains arose on undisputed factual matrix.
+28. The impugned order of the learned CIT(A) has heavily relied upon the judgment of Hon'ble Kerala High Court in the ease of
+Smt. Thressiamma Abraham
+(supra).
+During the course of hearing before us the learned CIT, DR has vehemently argued that the aforesaid judgment is no longer good law after the judgments of Hon'ble Supreme Court in the case of
+V.S.M.R. Jagdishchandran
+(supra) and
+R.M. Arunachalam
+(supra).
+The learned CIT, DR has further argued that Hon'ble Bombay High Court in the case of
+Roshanbabu Mohammed Hussein Merchant
+(supra) found that the decision of the Kerala High Court in the case of
+Smt. Thressiamma Abraham
+(supra) was longer good law in the light of subsequent decision of the Apex Court.
+The learned Counsel for the assessee strongly disputed these contentions of the learned CIT, DR. He argued that the judgment of Hon'ble Kerala High Court in the case of
+Smt. Thressiamma Abraham
+(supra) had neither been reversed, nor the same had been adversely commented upon by the Apex Court.
+There was no subsequent judgment of Hon'ble Kerala High Court where the earlier judgment in the case of
+Smt. Thressiamma Abraham
+(supra) was dissented from.
+As to the observations of Hon'ble Bombay High Court in the case of
+Roshanbabu Mohammed Hussain Merchant
+(supra), those observations were required to be seen in the context of the facts of that case.
+29. We find that the central issue in this appeal before us is whether the ratio of the judgments of Hon'ble Supreme Court in the cases of
+R.M. Arunachalam
+(supra) and
+V.S.M.R. Jagdishchandran
+(supra)
+/Attili N. Rao
+(supra) cover the case before us against the assessee. We have noted vital distinction between the facts of the cases decided by Hon'ble Supreme Court and the facts of the appeal before us while discussing those cases in paras 21 and 22 above. In none of the cases third party liability was involved. Those were the cases where the assessees had created mortgage in consideration of value already received by them for their own benefit. Those were not the cases where the assessees lost the asset without receiving a single paisa in consideration of extinguishment of their rights over the asset.
+We find that there are two recent judgments delivered after taking into consideration the Supreme Court judgments in the cases of
+R.M. Arunachalam
+(supra) and
+V.S.M.R. Jagdishchandran
+(supra) relating to the guarantee given and loss of asset on account of third party liability.
+The judgment of Hon'ble Bombay High Court in the case of
+Roshanbabu Mohammed Hussein Merchant
+(supra) supports the case of revenue, while the judgment of Hon'ble Calcutta High Court in the case of
+Gopee Nath Paul & Sons
+(supra) is in favour of the assessee.
+30.
+In the case of
+Roshanbabu Mohammed Hussein Merchant
+(supra) the assessee was a shareholder of a company known as Merchant Steel Industries, in which her husband was a director. Merchant Steel raised a loan from the State Bank of Saurashtra and for the repayment of the loan the assessee stood as one of the guarantors and the assessee had offered a plot of land belonging to her as security for repayment of the loan. Thereafter the assessee after obtaining permission from the bank, sold a part of the plot of land for a consideration of Rs. 3,92,000 and deposited the entire amount with the State Bank of Saurashtra towards discharge of the debt. The assessee claimed that the long-term capital gain arising on the sale of the above land was exempt from capital gains tax. The learned Assessing Officer rejected the contentions of the assessee and taxed the capital gains, but on asscssee's appeal the learned CIT (Appeals) decided in favour of the assessee. On appeal filed by revenue, the Tribunal upheld the order of CIT (Appeals) on the ground that first, the sale proceeds were diverted by an overriding title in favour of the bank and, secondly, the amount paid by the assessee to discharge the debt was an expenditure incurred by the assessee for removing the encumbrance which was absolutely essential to effectively transfer the plot of land.
+On revenue's appeal Hon'ble Bombay High Court referred to the judgment of Hon'ble Supreme Court in the case of
+R.M. Arunachalam
+(supra) and subsequent judgments in the case of
+V.S.M.R. JagdLshchandran
+(supra) and
+Attili N. Rao
+(supra) and held as under:
+From the aforesaid decisions of the Apex Court, it is clear that there is a distinction between the obligation to discharge the mortgage debt created by the previous owner and the obligation to discharge the mortgage debt created by the assessee himself. Where the property acquired by the assessee is subject to the mortgage created by the previous owner, the assessee acquires absolute interest in that property only after the interest created in the property in favour of the mortgagee is transferred to the assessee, that is after the discharge of the mortgage debt. In such a case, the expenditure incurred by the assessee to discharge the mortgage debt created by the previous owner to acquire absolute interest in the property is treated as "cost of acquisition" and is deductible from the full value of the consideration received by the assessee on transfer of that property. However, where the assessee acquires a property which is unencumbered, then, the assessee gets absolute interest in that property on acquisition. When the assessee transfers that property, the assessee is liable for capital gains tax on the full value (less admitted deductions) realised, even if an encumbrance is created by the assessee himself on that property and the assessee is under an obligation to remove that encumbrance for effectively transferring the property. In other words, the expenditure incurred by the assessee to remove the encumbrance created by the assessee himself on the property which was acquired by the assessee without any encumbrance is not an allowable deduction under
+Section 48
+of the Income-tax Act.
+It is true that in none of the aforesaid cases the Apex Court has specifically held that repayment of the mortgage debt created by the assessee himself is not an expenditure incurred for effectively transferring the property. However, it is implicitly held by the Apex Court that the expenditure incurred to remove the encumbrance created by the assessee himself on a property on which the assessee had absolute interest is not an expenditure incurred for effectively transferring the property as contemplated under
+Section 48
+of the Income-tax Act. It is not in dispute that in both the appeals which are before us, the property on which the encumbrance was created by the assessee was acquired by the assessee free from encumbrances. Therefore, in the light of the decisions of the Apex Court referred to hereinabove, it must be held that the assessee is not entitled to the deduction of the expenditure incurred to remove the encumbrance created by the assessee himself.
+The contention that the assessee has not received a pie from the transfer and the entire sale proceeds realised on transfer of the mortgaged asset has been appropriated towards discharge of mortgage is also without any merit. As held by the Apex Court, when the property belonging to the assessee is sold in discharge of the mortgage created by the assessee himself, then, irrespective of the amount actually received by the assessee, the capital gain has to be computed on the full price realised (less admissible deduction) on transfer of the asset. To illustrate, suppose the assessee mortgages its capital asset and obtains a loan of Rs. 1 lakh from a bank. Thereafter, if the assessee transfers the said capital asset with the consent of the bank for Rs. 1 lakh and pays the entire amount of Rs. 1 lakh to the bank to discharge the mortgage created by the assessee, then it is not open to the assessee to contend that the capital gains tax is not leviable on transfer of the property because the assessee has not received a pie on transfer of that capital asset.
+As regards the decisions of this Court in the case of Shakuntla Kantilal  followed in the case of Abrar Alvi  and the decision of the Kerala High Court in the case of Sml. Thressiamma Abraham (No. 1) [2001] 227 ITR 802 which are strongly relied upon by the counsel for the assessee, we are of the opinion that the said decisions are no longer good law in the light of the subsequent decisions of the Apex Court referred to hereinabove.
+31.
+In the case of
+Gopee Nath Paul
+(supra) the facts of the case have been recorded by the Hon'ble High Court in the following words:
+It appears from the materials on record that there was a suit between the Allahabad Bank and Gobindo Sheet Metal. In the said suit the Allahabad Bank claimed certain amount to the extent of Rs. 25,00,000 approx. on account of Gobindo Sheet Metal's liability towards the loan obtained from the Allahabad Bank which was sought to be recovered together with a declaration of hypothecation of certain movable goods including stock-in-trade. At the same time, there was another suit in which an arbitration agreement was sought to be filed on account of dispute including the dispute involved in respect of the dissolution of the two firms, Gopee Nath Paul and Sons and Gobindo Sheet Metal Works and Foundry between the partners of the respective two firms, i.e., the parties who were common. In the latter suit, there was a compromise in which both the firms stood dissolved from the date agreed in the terms of settlement and the receiver was appointed in terms thereof for the purpose of selling these two firms as going concerns. From the subsequent orders, it appears that those firms could not be sold as going concerns on account of the liability of Gobindo Sheet Metal towards the Allahabad Bank.
+After having passed several orders, by an order dated April 27, 1989, the court directed to deposit of Rs. 25,00,000 with the Registrar of this Court to be kept in fixed deposit with the Allahabad Bank free from lien and all attachments until further orders of this Court. This was done in order to effectuate the transfer of the assets of these two firms after securing payment of the liability towards the Allahabad Bank in respect of one of the firms. It appears that there was but one sale comprising the assets of both the firms and the bid of one Ganesh Prasad at Rs. 3,51,00,000 was accepted as the highest bid and that the payment towards the same was made in driblets from time to time.
+After considering the arguments of the parties Hon'ble Calcutta High Court delivered their verdict in the following words:
+The decision in S.R.V. Press and Publications (P.) Ltd. , cited by Mr. Som is also distinguishable and would have no manner of application in the present case in view of the fact that the amount was spent
+in that case
+after the receipt of the consideration by the liquidator to discharge the liability of the assessee in respect of finance received from the Kerala Finance Corporation on the security of the property which was created after acquisition in the course of a winding up proceeding. There was nothing from which it would be held that such payment was absolutely necessary. On the other hand, learned Counsel for the assessee
+in that case
+had conceded that
+Section 48
+of the Act had no application to the facts of the said case. However, the alternative argument of the assessee was that the corporation had overriding title over the property. The amount paid was clearly relatable to title. Thus, it appears that there was no claim that the payment of that amount was an expenditure incurred wholly and exclusively in connection with the transfer. There is another distinguishing feature so far as the present case is concerned. Here the entire assets of the business of the two firms as a going concern were sought to be sold but could not be sold without removing the liability towards the Allahabad Bank. The assets included the whole business of the two firms and if the liability was not met before the sale, in that event, in this present case the sale consideration would have been reduced by the liability payable to the Allahabad Bank. Therefore, the decision cited does not help us in the facts and circumstances of the case to take a different view.
+The decision in KM. Arunachalam  dealt with the question of cost of acquisition, which is not a case here. It was not related to the perfection of title. Therefore, this decision does not help us in the context in which we are supposed to decide the present case.
+Conclusion:
+The criteria is the perfection of title in order to effect the sale. In this present case, without removing the liability of the Allahabad Bank, the title of the purchaser could not be perfected. Having regard to the facts and circumstances of this case and the position in law as discussed above, the meeting of the liability of the Allahabad Bank relating to the assets of Gobindo Sheet Metal was an expenditure incurred wholly and exclusively in connection with the transfer.
+32. After careful consideration we are of the view that we should follow the judgment of Hon'ble Calcutta High Court in the case of
+Gopee Math Paul
+(supra) and of Hon'ble Kerala High Court in the case of
+Smt. Thressiamma Abraham
+(supra) in preference to the judgment of Hon'ble Bombay High Court in the case of
+Roshanbabu Mohammed Hussein Merchant
+(supra) for the following reasons:
+(1) Both in the cases of
+R.M. Arunachalam
+(supra) and
+V.S.M.R. Jagdishchandran
+(supra), the Hon'ble Supreme Court were not considering a situation pertaining to loss of capital asset on account of guarantee for a third party loan.
+In the case of
+R.M. Arunachalam
+(supra) the question was whether estate duty paid can be treated as a part of cost of acquisition of asset to the inheritor.
+In the case of
+V.S.M.R. Jagdishchandran
+(supra) and
+Attili N. Rao
+(supra) encumbrance was created by the owner of the capital asset for his own benefit and those assessees had already received value corresponding to mortgage liability. Thus, in none of the cases there was any loss or erosion in the value of capital asset without any benefit whatsoever to the owner.
+We are immediately reminded of the famous dictum of Lord Halsbury in the case of Qninn v. Leathem [1901] AC 495 (HL) "A case is only an authority for what it actually decides. 1 entirely deny that it can be quoted for a proposition that may seem to follow logically from it".
+There are any number of Indian authorities to the same effect e.g.,
+Goodyear India Ltd. v. State of Haryana
+;
+CIT v. Sun Engg. Works (P
+.)
+Ltd. ; CWT v. Dr. Karan Singh .
+(2) In the case of
+Smt. Thressiamma Abraham
+(supra) the Tribunal held that the amount paid by that assessee to discharge the debt was an expenditure incurred by the assessee for removing the encumbrance. Hon'ble Kerala High Court, though upheld the decision, clarified that the Tribunal appeared to have been proceeding in wholly unnecessary direction by resorting to the provisions relating to the deduction from the full value of the consideration provided under
+Section 48
+of the Act.
+According to the view taken by the Hon'ble Kerala High Court in the case of
+Smt. Thressiamma Abraham
+(supra) the crux of the matter was not any expenditure for removal of encumbrance but the reduction in the full value of consideration on account of diversion of amounts at source.
+It is significant to note here that this aspect of diversion of income at source by overriding title was not allowed to be raised in the case of
+R.M. Arunachalam
+(supra) and Hon'ble Apex Court observed:
+The submission regarding diversion in relation to the amount paid by way of estate duty has been raised by the assessee for the first time before this Court. Before the Tribunal as well as before the High Court the contentions urged on behalf of the assessee were confined to a claim for deduction by way of cost of acquisition or cost of improvement under
+Section 48
+of the Act. The questions referred by the Tribunal to the High Court have to be considered in the light of the said submissions. The submission regarding diversion involves the question whether apart from the deductions permissible under the express provision contained in
+Section 48
+of the Act, deduction on account of diversion is permissible in the matter of computation of capital gains under the Act. This is an entirely independent issue which has not been considered by the Tribunal or the High Court. It cannot be permitted to be raised for the first time at this stage. We, therefore, do not propose to go into this question.
+It is, therefore, submitted with respect that the question that the assessee did not receive a single pie in the whole transaction remains unanswered by the judgments of Apex Court in the cases of
+R.M. Arunachalam
+(supra),
+V.S.M.R. Jagdishchandran
+(supra) and
+Attili N. Rao
+(supra).
+(3) In the case of
+Roshanbabu Mohammad Hussein Merchant
+(supra) the assessee had sought permission from the bank and voluntarily deposited part of the sale proceeds of the plot of land towards discharge of the debt so as to have clear title over the remaining plot of land; whereas in the case of
+Smt. Thressiamma Abraham
+(supra) as well as in the case before us the mortgaged property had been sold by the credit institutions.
+(4) In the instant case the assessee had already handed over share certificates in original along with duly signed bank transfer deeds to the credit institutions. Thus, the assessee had already completed his part of transfer at the time of the pledge of the shares and in the event of the failure on the part of Pertech and Swati the credit institutions could freely sell the shares in the open market.
+(5) During the course of arguments in the case of Smt. Thressiamma Abraham, the revenue had placed reliance on the earlier judgments of Kerala High Court in the cases of
+Ambat Echukutty Menon
+(supra);
+Salay Mohd. Ibrahim Sait
+(supra) and
+K.V. Idiculla
+(supra), but the same were distinguished by the Hon'ble High Court in the case of Smt. Thressiamma Abraham These three judgments relied upon by revenue have been expressly over-ruled by Hon'ble Supreme Court in the case of
+R.M. Arunachalam
+(supra).
+(6) In the instant case what appears to us to be clinching the issue is the fact that the assessee before us has not received a single paisa from out of sale proceeds of the assessee's shares running into crores of rupees. At the cost of repetition we may state here that there is not a whisper in the order of the Assessing Officer or the learned CIT(A) that the assessee, at any stage before, during or after the pledge of shares in question, received anything in terms of money or money's worth in relation to parting with of the assessee's shares for the benefit of Pertech and Swati. There is thus no force in the contention of the learned CIT(DR) that under Clause 6 of the agreement the assessee could receive surplus sale proceeds after credit institutions satisfied their rights in full. Fact of the matter is that there was no surplus. We may make it clear that we are not impressed by the fact of any hardship involved to the assessee but by the legal principle, to our mind, applicable to such a situation. During the course of hearing before us the learned CIT, DR argued that at the time of pledging these shares the assessee must be aware of the fact that he could loose his right over the shares on account of pledging these shares with credit institutions. We have no difficulty in accepting this contention. Of course the assessee must have known the risk involved. Having regard to the huge amount involved it may also be safely assumed that the assessee should have been reasonably aware of the very likelihood of loosing the capital asset. If these hazards did not deter the assessee, the assessee was within his legal rights to do whatever he felt like to do with his absolute property. The assessee was even entitled to throw these shares from the window of a running train if he so wished because he was absolute owner of these shares. In the case before us there is not even a wishper of any advantage received by the assessee. On the facts of the case as they have emerged before us the only possible inference is that the assessee made a kind of gift of these shares in favour of Pertech and Swati.
+33.
+In the case of
+Shiv Shankar Lal v. CIT
+, the assessee sold on July 25, 1961, 6120 sq. yds., out of a large plot of land belonging to him, to a company comprising of himself, his wife and his son as shareholders for a sum of Rs. 93,450. On August 25, 1961 the assessee sold 5678 sq. yds. from out of the remaining portion of the same land to another party at the rate of Rs. 60 per sq. yd. The assessee claimed capital loss in relation to the property sold to the family company. There was provision of
+Section 52
+on the statute book in relation to the relevant assessment year 1962-63. The Assessing Officer sought to apply the provisions of
+Section 52
+and substitute the price at which the assessee sold part of land to the family company by what, according to him, was the fair market value thereof on the date of sale. Agreeing with the view expressed by Hon'ble Madras High Court in the case of Sundram Agencies (P.)
+Ltd. v. CIT
+, Hon'ble Delhi High Court held that the provisions of
+Section 52
+did not discard or avoid honest transactions made out of love and affection or for other conceivable reasons other than the avoidance or reduction of liability to tax on capital gains. It was, therefore, held that the transaction was exempt from assessment under
+Section 45
+of the Act by virtue of
+Section 47(iii)
+of the Act.
+34. In the case of Addl.
+CIT v. Mrs. Avtar Mohan Singh
+, Hon'ble Delhi High Court have reiterated the position that in a case where the transfer is made for inadequate consideration, in the absence of any material to establish understatement of consideration, it would be a transaction in the nature of a gift and accordingly exempt from charge of capital gains tax by virtue of the provisions of
+Section 47(iii)
+of the Act. In that judgment Hon'ble Delhi High Court have, inter alia, observed as under:
+It would appear to me that if the transfer is not bona fide and the declared consideration is lower than the consideration received it would be a case of understatement and the provisions of
+Section 52
+of the Act would be attracted. On the other hand, if the transfer is bona fide and the declared consideration is the actual consideration received, there would be no declaration of an understatement. In such a case, the difference between the declared consideration and the fair market value would be a gift in the common and ordinary accepted sense of the word. The part constituting the sale and the part constituting the gift being bifurcated, the purchaser donee would get as a bounty the difference in the declared consideration and the fair market value. In other words, he would get something for nothing. This being the true nature of a gift as known in common parlance, if a bona fide transaction is not bifurcated in this manner, then even if one rupee is all that is charged and received for a property, of which the fair market value is rupees ten lakhs the revenue would contend that capital gains tax as also gift tax would be attracted; whereas if nothing is charged then only gift tax would be attracted. This is certainly an anomalous situation. It would, therefore, appear to us that this dichotomy is essential for a bona fide transaction.
+We think that this conclusion also derives support from the object and intendment of the exemption in
+Section 47(iii)
+which is that transfers involving an element of bounty need not be considered for capital gains. The situations contemplated in this clause are those in which a person effects transfer by way of conferring a favour on another and are incompatible with an idea of realisation of any gains by such transfer. As already pointed out, there is no logical reason why capital gains should be excluded if the transferor receives no consideration at all but should be attracted when he takes a single rupee. The language of
+Section 47(iii)
+does not compel such a construction and the only meaning of the word "under" in that clause can be "involving" or "by way of"; to the extent to which there is a shortfall of consideration the transfer can be said to be "under" or "by way of" a gift, the word "gift" being used in its ordinary meaning in common parlance and not in the sense in which it is used in the
+G.T. Act
+, or the
+Transfer of Property Act
+.
+The same position has been reiterated by Hon'ble Delhi High Court in their judgment in the case of
+CIT v. Bharat Development (P
+.) Ltd. . that in case of sale if the price at which the shares are sold is less than the intrinsic value of shares
+,
+in that case
+the provisions of
+Section 47(iii)
+of the Act would apply.
+We may point out that the aforesaid judgments of Delhi High Court in the cases of
+Shiv Shanker Lal
+(supra),
+Mrs. Avtar Mohan Singh
+(supra) and
+Bharat Development Private Ltd.
+(supra) have been rendered in relation to the provisions of
+Section 52
+that have been omitted from
+Income-tax Act
+with effect from 1-4-1988. As a result now there is no authority in law to tax, in the absence of any under-statement of consideration or colourable device, to charge capital gains on an amount not actually received by or accrued to the assessee. We see no difficulty in arriving at the conclusion that under the provisions of
+Section 45
+an assessee cannot be charged to tax in relation to an amount other than the amount actually received by or accruing to him as consideration for transfer. The provisions of
+Section 45
+bring to charge of tax, "any profits or gains arising from the transfer of a capital asset". The levy is only if profits or gains arise to the assessee, not  otherwise. This aspect is made very clear by the provisions of
+Section 48
+which lay down for the purpose of computation of the income chargeable under the head "Capital gains" certain deductions to be made from "the full value of the consideration received or accruing as a result of the transfer of the capital asset". The revenue has to establish that certain consideration was either received or accrued to the assessee in whose hands income under the head "Capital gains" is sought to be assessed.
+35.
+In the case of
+George Henderson & Co. Ltd.
+(supra) the Hon'ble Supreme Court have stated this position in the following words:
+For the reasons already stated, we are of the opinion that the expression "full value of the consideration" cannot be construed as the market value but as the price bargained for by the parties to the sale. The dictionary meaning of the word "full" is "whole or entire, or complete" (Shorter Oxford English Dictionary). The word "full" has been used in this section in contrast to "a part of the price". Consequently, the words "full price" mean "the whole price". Clause (2) of Section 12B itself clearly suggests that if no deductions are made as mentioned in Sub-clause (ii) thereof, then that amount represents the full value of the consideration or the full price. In other words, when deductions are made as specified in Sub-clauses (i) and (ii), then that amount does not represent the full value. The expression "full value" means the whole price without any deduction whatsoever and it cannot refer to the adequacy or inadequacy of the price bargained for. Nor has it any necessary reference to the market value of the capital asset which is the subject-matter of the transfer.
+36.
+In the case of
+Mohanbhai Pamabhai
+(supra), affirmed by Hon'ble Supreme Court in
+Mohanbhai Pamabhai
+'s case (supra), Hon'ble Gujarat High Court have stated the position in the following words:
+But,
+Section 48
+shows that the transfer that is contemplated by
+Section 45
+is a transfer as a result of which consideration is received by the assessee or accrues to the assessee.
+Section 48
+provides the mode of computation of capital gains by enacting that the income chargeable to tax as capital gain shall be computed by deducting from the "full value of the consideration received or accruing as a result of the transfer of the capital asset" the following amounts, namely : (i) expenditure incurred wholly and exclusively in connection with such transfer; and (ii) the cost of acquisition of the capital asset and the cost of any improvement thereto. The amounts specified in Clauses (i) and (ii) are to be deducted from the "consideration received or accruing as a result of the transfer of the capital asset" for the purpose of determining the profits or gains chargeable to tax. It is, therefore, clear that the transfer of a capital asset, in order to attract the capital gains tax, must be a transfer as a result of which consideration is received by the assessee or accrues to the assessee. If there is no consideration received or accruing to the assessee as a result of the transfer, the machinery section enacted in
+Section 48
+would be wholly inapplicable and it would not be possible to compute profits or gains arising from the transfer of the capital asset. The transaction in order to attract the charge of tax as capital gains must, therefore, clearly be such that consideration is received by the assessee or accrues to the assessee as a result of the transfer of the capital asset. Where transfer consists in extinguishment of a right in the capital asset, there must be an element of consideration for such extinguishment, for then only it would be a transfer exigible to capital gains tax. This view is clearly supported by a recent decision given by a Division Bench of this Court in
+Commissioner of Income-tax v. R.M. Amin
+.
+37.
+In the case of
+K.P. Verghese v. ITO
+[1981] 131 ITR 587 : 7 Taxman 13. (SC) it has clearly been held that the burden to prove understatement of the consideration is on revenue. Their Lordships have observed:
+It is well-settled rule of law that the onus of establishing that the conditions of taxability are fulfilled is always on the revenue and the second condition being as much a condition of taxability as the first, the burden lies on the revenue to show that there is an understatement of the consideration and the second condition is fulfilled. Moreover, to throw the burden of showing that there is no understatement of the consideration, on the assessee would be to cast an almost impossible burden upon him to establish a negative, namely, that he did not receive any consideration beyond that declared by him.
+38. We are now left with the argument of the revenue that constructively the assessee should be treated to have received the amounts of sale proceeds. It is argued that credit institutions sold the shares in question on behalf of the assessee and the sale proceeds were applied in discharge of debts owed to the credit institutions by Pertech and Swati on behalf of the assessee. We do not see any basis for these arguments of the revenue. It is not the case of the revenue that the assessee sold the shares belonging to him first and deposited sale proceeds with the credit institutions as security. What the assessee parted with and entirely for the benefit of Pertech & Swati, were the share certificates themselves.
+The assessee had at that stage completed his part of the transferor and it was open to anybody to insert his name as transferee and claim the ownership of the shares in question. If at all the assessee applied anything for the benefit of Pertech & Swati, it was the share certificates themselves and not sale proceeds of the share certificates. Credit institutions subsequently sold these shares in the open market not on behalf of the assessee but on behalf of Pertech & Swati. By appropriation of the sale proceeds by the credit institutions, it is the liability of Pertech & Swati that was discharged and no consideration was either received or accrued to the assessee before us. On these facts it is difficult to say how capital gains liability is attracted in the hands of the assessee before us. As early as in
+Raja Bejoy Singh Dhudhuria v. CIT
+[1933] 1ITR 135 (PC) in the case of
+Raja Bejoy Singh Dhudhuria
+(supra), the Hon'ble Privy Council have held as under:
+When the Act
+by
+Section 3
+subjects to charge "all income" of an individual, it is what reaches the individual as income which it is intended to charge. In the present case the decree of the court by charging the appellant's whole resources with a specific payment to his step mother has to that extent diverted his income from him and has directed it to his step mother; to that extent what he receives for her is not his income. It is not a case of the application by the appellant of part of his income in a particular way, it is rather the allocation of a sum out of his revenue before it becomes income in his hands.
+39. In view of the discussion in the foregoing paragraphs, we hold that profits or gains arising from the sale of 11,72,900 shares of NIIT Ltd. in question cannot be charged to tax in the hands of the assessee before us because no value of the consideration was either received or accrued as a result of the transfer of those shares. Moreover, even if notionally any consideration on sale of transfer accrued to the assessee, there was diversion of the en tire consideration at source before it became income in the hands of the assessee.
+40. In the result, this appeal filed by the revenue fails and is accordingly dismissed.

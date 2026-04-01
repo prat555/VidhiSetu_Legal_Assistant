@@ -1,0 +1,7 @@
+Act: Code of Criminal Procedure, 1973
+Section: 154
+Heading: Information in cognizable cases (FIR)
+
+Under Section 154 CrPC, every information relating to the commission of a cognizable offence, if given orally to an officer in charge of a police station, shall be reduced to writing and read over to the informant, and shall be signed by the person giving it.
+
+A copy of the information as recorded shall be given forthwith, free of cost, to the informant.

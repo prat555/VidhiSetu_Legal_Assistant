@@ -1,0 +1,1831 @@
+Title: Search
+Court: High Court (Appellete Side)
+Date: 25 of 1990
+Citation: SCC 579 and applied the principles
+Source: https://indiankanoon.org/doc/12099120/
+
+[Cites
+38
+, Cited by
+12
+]
+Calcutta High Court (Appellete Side)
+Sri Sudip Sen vs The State Of West Bengal on 16 September, 2010
+Author:
+J. N. Patel
+Bench:
+J. N. Patel
+1
+
+
+                   In the High Court at Calcutta
+                Criminal Miscellaneous Jurisdiction
+
+
+Present:
+The Hon'ble Justice J. N. Patel, Chief Justice
+
+And
+
+The Hon'ble Justice Bhaskar Bhattacharya
+
+And
+
+The Hon'ble Justice Pinaki Chandra Ghose
+
+And
+
+The Hon'ble Justice Kalyan Jyoti Sengupta
+
+And
+
+The Hon'ble Justice Ashim Kumar Roy
+
+                     C.R.M. No. 5123 of 2010
+
+                          Sri Sudip Sen
+                                Vs
+                     The State of West Bengal
+
+                               With
+
+                           4559 of 2010
+
+                  Sri Suman Saha @ Kousik Saha
+                                Vs
+                    State of West Bengal & Ors.
+
+                               With
+
+                           4457 of 2010
+
+                           Jayanta Deb
+                                             2
+
+
+                                            Vs
+                                   State of West Bengal
+
+For the petitioner in CRM :         Mr.   Asish Kr. Sanyal
+No. 5123 of 2010                    Mr.   S. Nayek,
+                                    Mr.   Saibal Mondal
+                                    Mr.   Rudradipto Nandy,
+                                    Mr.   B. Manna
+                                    Mr.   S. Dasgupta,
+                                    Mr.   Raja Saha
+
+For the State in CRM       :        Mr. Asimesh Goswami
+No.4559 of 2010                     Mr. Achyut Basu
+                                    Mr. Kallol Mondal
+
+For the petitioner in      :        Ms. R. Bhattacharjee Roy
+CRM No. 4457 of 2010
+
+Heard on                       :    19.08.2010
+
+Judgment on                   :     16.09.2010
+
+
+
+   J. N. Patel, C.J. :
+Heard the learned counsel for the parties.
+These matters have come to be placed before this Bench of five Judges
+
+   by reason of an order passed by a three-Judge Bench on 04.08.2010 pursuant
+
+   to a reference made by the Division Bench of this Court while dealing with
+
+   group of applications which felt that the decision of this Court rendered by the
+
+   Full Bench in the case of Maya Rani Guin and etc. vs. State of West Bengal
+
+   [(2003) Cri L.J. 1] needs reconsideration. The Full Bench after examining the
+
+   issue thought it appropriate that the matter is referred to a Bench of five-
+Judges by passing the following order :-
+3
+"We have heard the learned counsel for the parties.
+The Division Bench while dealing with group of applications C.R.M.
+   No. 5123 of 2010 Sri Sudip Sen vs. The State of West Bengal with
+C.R.M.
+   No. 4559 of 2010 Sri Suman Saha @ Kousik Saha vs. State of West
+   Bengal & Ors.
+with C.R.M. No. 4457 of 2010 Jayanta Deb vs. The State of
+   West Bengal, wherein the lead application is that of Sri Sudip Sen,
+   seeking pre-arrest bail, are of the view that the decision of this Court
+   rendered by the Full Bench in the case of Maya Rani Guin and etc.
+vs.
+   State of West Bengal (2003) Cri L.J. 1, needs reconsideration and has
+   referred the following questions for reconsideration of the Full Bench
+   decision in Maya Rani Guin's case (supra) and directed the matter to be
+   placed before the Chief Justice for decision by a Larger Bench by framing
+   the following questions:-
+"(A)    Even though the Full Bench decision of the Jaipur Bench of the
+   Rajasthan High Court in
+Ganesh Raj v. State of Rajasthan
+(supra), is at
+   best, of a persuasive value, we feel that since even after taking note of
+   Full Bench decision of our Court in Maya Rani Guin and etc.
+v. State of
+   West Bengal (supra), a contrary decision thereto was arrived at -
+altogether, ratio of the Full Bench decision of the Jaipur Bench of the
+   Rajasthan High Court in
+Ganesh Raj v. State of Rajasthan
+(supra) should
+   not be frittered away.
+(B)The Full Bench in Maya Rani Guin's case (supra), was preliminarily
+dealing with a situation where, upon grant of an Order under Section 438,
+Cr. P.C., the Petitioner went to submit himself before the Regular Court. But
+he was not taken into Custody on the basis of a fiction of Law. He again
+chose to seek similar relief.
+(C)    Whereas the question before us as to whether in the event there is
+some unimpeachable document or some unassailable situation very much
+existing at the time the Application was refused at the first instance not
+being brought to the notice of the Court. Will the same absolutely forbade the
+Applicant from retrieving his lost fortune ?
+4
+(D) The interpretation of Ansari, J. in Paragraph 21 of the decision of
+Maya Rani Guin and etc. v. State of West Bengal (supra) that : "......... We
+are of the view that the second application for anticipatory bail, even if new
+circumstances develop after rejection or disposal of the earlier application, is
+not maintainable" on the premises founded in Paragraph 20 "......... We are
+of the view that entertaining a second application for anticipatory bail would
+amount to review or reconsideration of the earlier order passed by a Division
+Bench       having    co-ordinate   jurisdiction   as   the   accusation   remains
+unchanged........." also requires a fresh look as to whether in a given case
+there may be a change in the situation and mollification of the accusations
+upon submission of the Report in final form at the instance of the
+investigating Agency.
+(E)      The Division Bench decision of Madhya Pradesh High Court in
+Imratlal
+Vishwakarma & Ors. v. State of U.P.
+reported in 1997(1) Crimes 289 at
+Paragraph 13 has held :
+'... ... ... However, in our opinion, no such fetters can be put or applied on
+      the second petition. Second petition filed under Section 438, Cr. P.C. has
+      to be decided on its merits even if the earlier application was rejected on
+      its merits.    It shall, however, be open for the Court to reject it even
+      summarily on the ground that the said second petition is nothing but a
+      repetition of the earlier petition and no new ground has been disclosed in
+      the second petition. This may take care of the apprehension that if the
+      second applications are held to be tenable, it may lead to misuse of the
+      said provision and the Courts would be flooded with such repeated
+      petitions.'
+      The said Division Bench of Madhya Pradesh High Court in
+Imratlal
+      Vishwakarma & Ors. v. State of U.P.
+(supra) took cue from an earlier
+      Authority, which relied on the decision of Supreme Court in
+Babu Singh v.
+      State of U.P.
+, (1978) 1 SCC 579 and applied the principles
+laid down in
+the said decision
+.
+5
+(F)       Both, the Full Bench decision of Jaipur Bench of the Rajasthan High
+Court in
+Ganesh Raj v. State of Rajasthan
+(supra) as well as the Division
+Bench decision of Madhya Pradesh High Court in
+Imratlal Vishwakarma &
+Ors. v. State of U.P.
+(supra)- have read into the Constitution Bench decision
+of Gurbaksh Singh Sibbia etc.
+v. The State of Punjab (supra) and it did not
+fall in line with the views expressed by the Ansari, J. for the Full Bench in
+Maya Rani Guin's case (supra).
+(G)Furthermore,     the question raised by Shri Sanyal that till such time a
+person is intercepted, his right to move an Application under Section 438
+subsists, which has also not been faulted by the learned Public Prosecutor
+for the State, has to be understood in view of the decision of
+Imratlal
+Vishwakarma & Ors. v. State of U.P
+(supra), where the Division Bench of the
+Madhya Pradesh High Court held : " ... ... ... there is no statutory prohibition
+like the prohibition contained in section 397(3) barring second petition under
+section 438, Cr. P.C. ... .. ." and felt that "the Court should avoid reading
+words in to said Section which are not to be found therein."
+(H)Although, on an absolute different context, the Full Bench in Maya Rani
+Guin and etc.
+v. State of West Bengal (supra), did not notice the earlier Full
+Bench decision in
+Diptendu Nayek v. State of West Bengal
+reported in (1989)
+1 Cal LT (HC) 193, where it was deciding the question with regard to the
+concurrent powers of the High Court and the Sessions Court in relation to
+exercise of power under Section 438, Cr. P.C.
+(I)In the event, the Full Bench had taken note of
+Babu Singh & Ors.
+(supra)
+case where Krishna Iyer, J., writing the Judgment of
+the said decision
+, while
+considering the question of efficacy of bail held in Paragraph 7 :
+"... ... ... The whole issue, going by decisional material and legal
+      literature, has been relegated to a twilight zone of the criminal justice
+      system. Courts have often acted intuitively or reacted traditionally, so
+      much so the fate of applicants for bail at the High Court level and in the
+      Supreme Court, has largely hinged on the hunch of the bench as an
+6
+expression of "judicial discretion".       A scientific treatment is the
+      desideratum."
+In Paragraph 8, Their Lordships further held :
+"The Code is cryptic on this topic and the Court prefers to be tacit, be the
+      order custodial or not. And yet, the issue is one of liberty, justice, public
+      safety and burden on the public treasury, all of which insist that a
+      developed jurisprudence of bail is integral to a socially sensitized judicial
+      process ... .. ..."
+(J)       The Constitution Bench in
+Kartar Singh v. State of Punjab
+, (1994) 3
+SCC 569 and in
+State of M.P. & Anr. V. Ram Kishna Balothia & Anr.
+reported
+in (1995) 3 SCC 221 : 1995 C Cr LR (SC) 222 has held that liberty reserved
+under Section 438, Cr. P.C., is a statutory right. It does not flow from the
+sanctum sanctorum of
+Article 21.
+Since it is a statutory right, how the right
+is to be exercised ? Is a question, which was not answered by Ansari, J. on
+behalf of the Full Bench.
+(K)       The Constitution Bench in Gurbaksh Singh Sibbia etc v.
+The State of
+Punjab
+(supra) is not only a Classics Locus, but is, perhaps, the Magna Carta
+in the field of pre-arrest bail as understood within the ambit of Section 438,
+Cr. P.C of the New Code of 1973.          Ansari, J., Speaking Voice of the Full
+Bench in Maya Rani Guin and etc.
+v. State of West Bengal (supra), in our
+considered view, did not make a wholesome perusal of the Constitution
+Bench decision. Particularly, Paragraph 7, 13, 20 and 35 of the Constitution
+Bench decision in Gurbaksh Singh Sibbia etc.
+v.
+The State of Punjab
+(supra)
+was not giving its due regard by Ansari, J. while writing the Judgment for
+the Full Bench in Maya Rani Guin's case (supra).
+The proposition, which has been rightly argued by Shri Sanyal so
+      long as the Applicant has not been arrested and as discussed by the
+      Constitution Bench, did not receive its proper appreciation in the hands of
+      Ansari, J. for the Full Bench in Maya Rani Guin and etc. v. State of West
+      Bengal (supra).
+7
+(L)         Even though Ravindra Saxena's case (supra) cannot be a obiter
+dictum as shown by Shri Sanyal and relied upon by the learned Public
+Prosecutor, we have to take care of the fact that the Supreme Court after
+noticing that it was a third Application, entertained the Matter on merit and
+allowed the Application, which was earlier refused by the high Court.
+As
+such, in the Twilight of the decision of
+Ravindra Saxena v. State of
+Rajasthan
+(supra) the Full Bench decision in Maya Rani Guin and etc.
+v.
+State of West Bengal (supra) stands partially eclipsed. It requires to be
+pondered as to whether at all, the curt finding arrived at in Paragraph 21 by
+Ansari, J. for the Full Bench in Maya Rani Guin and etc. v. State of West
+Bengal (supra) should still hold the field ?
+(M) Wimpled in the longing shadows of
+K. L. Verma v. State
+(1998) 9 SCC
+348, the Full Bench in Maya Rani Guin and etc.
+v. State of West Bengal
+(supra) so long it held the Fort.
+Since K. L. Verma
+'s case (supra) was
+partially eclipsed by the finding of the Supreme Court in
+Sunita Devi v. State
+of Bihar & Anr.
+, (2005) 1 SCC 608 : (2005) 1 C Cr LR (SC) 239 as per
+incuriam obviously, the teeth in the Full Bench decision of Maya Rani Guin
+and etc.
+v. State of West Bengal (supra) is wilted in the puddle of once upon
+a time situation.
+(N)      Adhering to the logistics of Full Bench decision in Maya Rani   Guin
+and etc. v. State of West Bengal (supra), in view of the changed situation,
+would be listening to the old wives tale."
+In the case of Maya Rani Guin (supra) the Chief Justice was
+      required to constitute a Larger Bench, i.e., three-Judge Bench for
+      considering the following questions which have been referred by the
+      Division Bench. In Maya Rani Guin's case (supra) it has been held in
+      paragraph 6 of the judgment as follows :
+"6. The following questions have been framed by the Division
+      Bench and referred to the larger Bench for adjudication.
+8
+(i) Whether second application for anticipatory bail u/S. 438,
+Cr. P.C. is totally barred even if new circumstances develop after rejection
+or disposal of an earlier application for anticipatory bail ?
+(ii) Whether petitioners can file a fresh application u/S. 438
+of the Code and whether same will be maintainable in the circumstances
+of the case and in view of the following observations/directions of the
+Apex Court in
+K. L. Verma
+'s case (supra) :
+"As far as the order of 9-10-96 is concerned since it proceeds on a
+misreading of Salauddin's case, we modify the order by directing that
+anticipatory bail will ensure till the regular Court decides the question of
+grant of bail and for a week thereafter, so that if the regular Court refuses
+bail, the accused person can, if so advised, move the higher Court ?"
+(iii) What is the exact nature of the remedy available to the petitioners in
+the circumstances of the case and in view of the last direction given by
+the Apex Court in the above-quoted observations, namely : "....... ... the
+accused person can, if so advised, move the higher Court" ? What was
+the exact remedy contemplated by the Supreme Court in the above-quoted
+observations ?
+(iv) Whether it was the intention of the Supreme Court in the above-
+quoted observations that in the similar circumstances of the instant case,
+High Court should invoke its inherent/revisional jurisdiction and examine
+the correctness of the order of the Magistrate refusing bail to the
+petitioners on merit irrespective of whether such order discloses good
+reasons therefor or not and may in an appropriate case remand back the
+case again to the Magistrate for consideration of the bail prayer of the
+petitioners afresh ? Further can we reject similar application on merit if it
+is found that order by which Magistrate rejected the prayer for bail
+discloses good reasons therefor particularly when it is our opinion that we
+9
+cannot grant bail or anticipatory bail under the circumstances of the case
+?
+(v) Whether this petition is at all maintainable or whether some relief can
+still   be   granted     to   the   petitioners   by   suo   motu   invoking   our
+inherent/revisional jurisdiction ?"
+The reference was answered as under :-
+"(a)    The only remedy available to the accused upon rejection of regular
+bail is to apply to the superior Court for regular bail and not once again
+for anticipatory bail.
+(b)Accused who prefers an application for regular bail in compliance with
+the conditions stipulated in the order of anticipatory bail and physically
+submits to the jurisdiction and order of the Court, before which such
+application is filed, the application is required to be disposed of on merits
+if the outer limit of the anticipatory bail has not expired and the accused
+has appeared in person and placed himself in the control of the Court.
+(c) If the application for regular bail is moved within the           duration of
+anticipatory bail, but the passing of the order is delayed for any reason
+whatsoever and it is likely to come after the expiry of the outer limit of the
+duration fixed by the order of anticipatory bail, the Court hearing the
+regular bail application can always grant interim regular bail for limited
+duration till final orders are passed by the Court.
+(d)If the application for regular bail is moved within the duration of
+anticipatory bail and the same is rejected/refused but the outer limit
+prescribed by the order of anticipatory bail has not expired, then instead
+of taking the accused into custody he may be allowed to move the
+superior Court for bail within the specified period namely the outer limit
+as specified in the order of anticipatory bail.
+(e) If the application for regular bail is moved after or the date as on which
+the application for regular bail is rejected and in either case the outer limit
+prescribed by the order of anticipatory bail has expired, then and in that
+10
+event on and from that date of expiry of the period fixed by the order of
+     anticipatory bail, the accused must surrender and be in the custody of the
+     Court before the superior Court can take up for consideration the
+     application for regular bail."
+Coincidentally, one of their Lordships Amit Talukdar, J. was
+     member of the Full Bench which disposed of the reference. His Lordship
+     Amit Talukdar, J. sitting with His Lordship Raghunath Ray, J. for the
+     reasons stated in the reference and considering the decisions of the High
+     Court and Supreme Court of India on the subject came to the conclusion
+     that their Lordships are unable to bind themselves with the sweep of the
+     Full Bench decision in the case of Maya Rani Guin (supra), felt that the
+     decision should be revisited and, therefore, has made a reference.
+We have given our anxious consideration and having examined
+     the decisions of the Supreme Court rendered in the cases of              (
+1)
+     Gurbaksh Singh Sibbia vs. The State of Punjab
+AIR 1980 Supreme Court
+     1632, (2) Salauddin Abdul Samad Shaikh vs. State of Maharashtra, 1996
+     C.Cr.LR (Supreme Court) 130, (3) Kalyan Chandra Sarkar vs. Rajesh
+     Ranjan @ Pappu AIR 2005 Supreme Court 921, (
+4) Ravindra Saxena vs.
+     The State of Rajasthan
+2010(1) SCC (Cri) 884, concur with the views
+     expressed by their Lordships while making the reference.
+Considering
+     that the view taken by the Full Bench of this Court in the case of Maya
+     Rani Guin (supra), it will be proper that the reference is placed before a
+     Larger Bench of five-Judges, thus, for its consideration and, therefore, the
+     matter be placed before Hon'ble the Chief Justice to place the reference to
+     Bench of five learned Judges."
+On examining the questions framed by the Division Bench for referring to a
+
+decision by a Larger Bench, we find that all the questions can be answered if we
+11
+reconsider the decision of the Full Bench in Maya Rani Guin's case(supra) by
+
+examining the extant rights of the accused to avail pre-arrest/anticipatory bail,
+
+(1) whether the applicant/accused can move second application for anticipatory
+
+bail in case his first application is rejected; if yes, in what contingencies before
+
+the same Court or to the superior court? (2) where his first application is granted
+
+but his application for ordinary/regular bail is rejected by the trial Court under
+
+Section 437/439 Cr. P.C.
+
+
+
+      Bail, in law, means procurement of release from prison of a person
+
+awaiting trial or an appeal, by the deposit of security to ensure his submission at
+
+the required time to legal authority.
+"Bail has been defined in the law lexicon as security for the appearance of
+
+      the accused person on giving which he is released pending trial or
+
+      investigation."
+According to Black's Law Dictionary, what is contemplated by bail is to
+
+"procure the release of a person from legal custody, by undertaking that he/she
+
+shall appear at the time and place designated and submit him/herself to the
+
+jurisdiction and judgment of the court.
+The object of arrest and detention of the accused person is primarily to
+
+secure his appearance at the trial and to ensure that in case he is found guilty he
+
+is available to receive the sentence. If his presence at the trial could reasonably
+
+be ensured otherwise than by his arrest and detention, it would be unjust and
+12
+unfair to deprive the accused of his liberty during the pendency of the criminal
+
+proceedings against him.      The provisions regarding the issue of summons or
+
+those relating to the arrest of the accused person under a warrant or without a
+
+warrant or those relating to the release of the accused at his trial but without
+
+unreasonably and unjustifiably interfering with his liberty. Thus, release on bail
+
+is crucial to the accused as the consequences of pre-trial detention are given. If
+
+release on bail is denied to the accused it would mean that though he is
+
+presumed to be innocent till the guilt is proved beyond the reasonable doubt he
+
+would be subjected to the psychological and physical deprivation of jail life. The
+
+jail accused loses his job and is prevented from contributing effectively to the
+
+preparation of his defence.
+In the case of
+Babu Singh & Ors. vs. The State of Uttar Pradesh
+[1978
+
+CRI. L.J. 651] Supreme Court was considering the case of the convicts who
+
+applied for bail during the pendency of their appeal before the Supreme Court.
+The Supreme Court observed as follows :-
+"2. .... ... ... in considering the interlocutory relief of bail. Right at the
+      beginning, we must mention that, at an earlier stage, their application for
+      bail was rejected by this Court on September 7, 1977. But an order
+      refusing an application for bail does not necessarily preclude another, on
+      a later occasion, giving more materials, further developments and
+      different considerations. While we surely must set store by this
+      circumstance, we cannot accede to the faint plea that we are barred from
+      second consideration at a later stage. An interim direction is not a
+      conclusive adjudication, and updated reconsideration is not over-turning
+13
+an earlier negation. In this view, we entertain the application and
+     evaluate the merits pro and con."
+In the case of Usmanbhai Dawoodbhai Memon & Ors. etc. vs. State of
+
+Gujarat [AIR 1988 SC 922] Supreme Court observed as follows :-
+"24. At the conclusion of the hearing on the legal aspect, Shri Poti,
+     Learned Counsel appearing for the State Government contended, on
+     instructions, that an order passed by a Designated Court for grant or
+     refusal of bail is not an "interlocutory order" within the meaning of Section
+     19(1) of the Act and therefore an appeal lies. We have considerable doubt
+     and difficulty about the correctness of the proposition. The expression
+     "interlocutory order" has been used in Section 19(1) in contradistinction to
+     what is known as final order and denotes an order of purely interim or
+     temporary nature. The essential test to distinguish one from the other has
+     been discussed and formulated in several decisions of the Judicial
+     Committee of the Privy Council, Federal Court and this Court. One of the
+     tests generally accepted by the English Courts and the Federal Court is to
+     see if the order is decided in one way, it may terminate the proceedings
+     but if decided in another way, then the proceedings would continue.
+In
+V.
+     C. Shukla v. State
+through C.B.I.(1980) Suppl. SCC 92 : (AIR 1980
+     Supreme Court 962), Fazal Ali, J. in delivering the majority judgment
+     reviewed the entire case law on the subject and deduced therefrom the
+     following two principles, namely, (i) that a final order has to be
+     interpreted in contradistinction to an interlocutory order; and (ii) that the
+     test for determining the finality of an order is whether the judgment or
+     order finally disposed of the rights of the parties. It was observed that
+     these principles apply to civil as well as to criminal cases. In criminal
+     proceedings, the word "judgment" is intended to indicate the final order in
+     a trial terminating in the conviction or acquittal of the accused. Applying
+     these tests, it was held that an order framing a charge against an
+14
+accused was not a final order but an interlocutory order within the
+      meaning of
+Section 11(1)
+of the Special Courts Act, 1979 and therefore not
+      appealable. It cannot be doubted that the grant or refusal of a bail
+      application is essentially an interlocutory order. There is no finality to
+      such an order for an application for bail can always be renewed from
+      time to time. It is however contended that the refusal of bail by a
+      Designated Court due to the non-fulfilment of the conditions
+laid down in
+Section 20(8) cannot be treated to be a final order for it affects the life or
+      liberty of a citizen guaranteed under
+Article 21.
+While it is true that a
+      person arraigned on a charge of having committed an offence punishable
+      under the Act faces a prospect of prolonged incarceration in view of the
+      provision contained in Section 20(8) which places limitations on the power
+      of a Designated Court to grant bail, but that by itself is not decisive of the
+      question as to whether an order of this nature is not an interlocutory
+      order. The court must interpret the words "not being an interlocutory
+      order" used in Section 19(1) in their natural sense in furtherance of the
+      object and purpose of the Act to exclude any interference with the
+      proceedings before a Designated Court at an intermediate stage. There is
+      no finality attached to an order of a Designated Court granting or refusing
+      bail. Such an application for bail can always be renewed from time to
+      time. That being so, the contention advanced on behalf of the State
+      Government that the impugned orders passed by the Designated Courts
+      refusing to grant bail were not interlocutory orders and therefore
+      appealable under
+Section 19(1)
+of the Act, cannot be accepted."
+Therefore, it can be safely concluded that so far as the law relating to grant
+
+or refusal of bail is concerned, it is an interlocutory order and there is no finality
+
+in the matter and there is no impediment in moving a second application for bail,
+
+anticipatory or regular.
+15
+In the case of Gurbaksh Singh Sibbia etc. vs. The State of Punjab and
+
+Sarbajit Singh & Anr. vs. State of Punjab [1980 CRI. L.J. 1125] the Supreme
+
+Court observed :-
+"7. The facility which Section 438 affords is generally referred to as
+      'anticipatory bail', an expression which was used by the Law
+      Commission in its 41st Report. Neither the section nor its marginal note so
+      describes it but, the expression 'anticipatory bail' is a convenient mode of
+      conveying that it is possible to apply for bail in anticipation of arrest. Any
+      order of bail can, of course, be effective only from the time of arrest
+      because, to grant bail, as stated in Wharton's LAW LEXICON, is to 'set at
+      liberty a person arrested or imprisoned, on security being taken for his
+      appearance'. Thus, bail is basically release from restraint, more
+      particularly, release from the custody of the police. The act of arrest
+      directly affects freedom of movement of the person arrested by the police,
+      and speaking generally, an order of bail gives back to the accused that
+      freedom on condition that he will appear to take his trial. Personal
+      recognisance, suretyship bonds and such other modalities are the means
+      by which an assurance is secured from the accused that though he has
+      been released on bail, he will present himself at the trial of offence or
+      offences of which he is charged and for which he was arrested. The
+      distinction between an ordinary order of bail and an order of anticipatory
+      bail is that whereas the former is granted after arrest and therefore
+      means release from the custody of the police, the latter is granted in
+      anticipation of arrest and is therefore effective at the very moment of
+      arrest. Police custody is an inevitable concomitant of arrest for non-
+      bailable offences. An order of anticipatory bail constitutes, so to say, an
+      insurance against police custody following upon arrest for offence or
+16
+offences in respect of which the order is issued. In other words, unlike a
+      post-arrest order of bail, it is a pre-arrest legal process which directs that
+      if the person in whose favour it is issued is thereafter arrested on the
+      accusation in respect of which the direction is issued, he shall be released
+      on bail.
+Section 46(1)
+of the Code of Criminal Procedure which deals with
+      how arrests are to be made, provides that in making the arrest, the police
+      officer or other person making the arrest "shall actually touch or confine
+      the body of the person to be arrested, unless there be a submission to the
+      custody by word or action". A direction under Section 438 is intended to
+      confer conditional immunity from this 'touch' or confinement."
+In the aforesaid case the Constitution Bench was required to examine the
+justification of imposition of unnecessary restrictions on the scope of
+Section 438
+of the Code of Criminal Procedure. The Supreme Court held as follows :-
+"14. Generalisations on matters which rest on discretion and the attempt
+   to discover formulae of universal application when facts are bound to differ
+   from case to case frustrate the very purpose of conferring discretion. No two
+   cases are alike on facts and therefore, courts have to be allowed a little free
+   play in the joints if the conferment of discretionary power is to be
+   meaningful. There is no risk involved in entrusting a wide discretion to the
+   Court of Session and the High Court in granting anticipatory bail because,
+   firstly, these are higher courts manned by experienced persons, secondly,
+   their orders are not final but are open to appellate or revisional scrutiny and
+   above all because, discretion has always to be exercised by courts judicially
+   and not according to whim, caprice or fancy. On the other hand, there is a
+   risk in foreclosing categories of cases in which anticipatory bail may be
+   allowed because life throws up unforeseen possibilities and offers new
+   challenges. Judicial discretion has to be free enough to be able to take these
+   possibilities in its stride and to meet these challenges. While dealing with the
+17
+necessity for preserving judicial discretion unhampered by rules of general
+application Earl Loreburn, L.C. said in Hyman v. Rose, 1912 AC 623.
+"I desire in the first instance to point out that the discretion given by the
+section is very wide. . . . Now it seems to me that when the Act is so
+expressed to provide a wide discretion, ... it is not advisable to lay down any
+rigid rules for guiding that discretion. I do not doubt that the rules enunciated
+by the Master of the Rolls in the present case are useful maxims in general,
+and that in general they reflect the point of view from which judges would
+regard an application for relief. But I think it ought to be distinctly
+understood that there may be cases in which any or all of them may be
+disregarded. If it were otherwise, the free discretion given by the statute
+would be fettered by limitations which have nowhere been enacted. It is one
+thing to decide what is the true meaning of the language contained in an Act
+of Parliament. It is quite a different thing to place conditions upon a free
+discretion entrusted by statute to the court where the conditions are not
+based upon statutory enactment at all. It is not safe, I think, to say that the
+court must and will always insist upon certain things when the Act does not
+require them, and the facts of some unforeseen case may make the court
+wish it had kept a free hand."
+15. Judges have to decide cases as they come before them, mindful of the
+need to keep passions and prejudices out of their decisions. And it will be
+strange if, by employing judicial artifices and techniques, we cut down the
+discretion so wisely conferred upon the courts, by devising a formula which
+will confine the power to grant anticipatory bail within a strait-jacket. While
+laying down cast-iron rules in a matter like granting anticipatory bail, as the
+High Court has done, it is apt to be overlooked that even judges can have but
+an imperfect awareness of the needs of new situations. Life is never static
+and every situation has to be assessed in the context of emerging concerns
+as and when it arises. Therefore, even if we were to frame a 'Code for the
+18
+grant of anticipatory bail', which really is the business of the legislature, it
+can at best furnish broad guide-lines and cannot compel blind adherence. In
+which case to grant bail and in which to refuse it is, in the very nature of
+things, a matter of discretion. But apart from the fact that the question is
+inherently of a kind which calls for the use of discretion from case to case,
+the legislature has, in terms express, relegated the decision of that question
+to the discretion of the court, by providing that it may grant bail "if it thinks
+fit". The concern of the courts generally is to preserve their discretion without
+meaning to abuse it. It will be strange if we exhibit concern to stultify the
+discretion conferred upon the courts by law."
+While concluding the Supreme Court observed :-
+"33. We would, therefore, prefer to leave the High Court and the Court of
+Session to exercise their jurisdiction under Section 438 by a wise and careful
+use of their discretion which, by their long training and experience, they are
+ideally suited to do. The ends of justice will be better served by trusting
+these courts to act objectively and in consonance with principles governing
+the grant of bail which are recognised over the years, than by divesting them
+of their discretion which the legislature has conferred upon them, by laying
+down inflexible rules of general application. It is customary, almost chronic,
+to take a statute as one finds it on the ground that, after all, "the legislature
+in its wisdom" has thought it fit to use a particular expression. A convention
+may usefully grow whereby the High Court and the Court of Session may be
+trusted to exercise their discretionary powers in their wisdom, especially
+when the discretion is entrusted to their care by the legislature in its
+wisdom. If they err, they are liable to be corrected.
+34. This should be the end of the matter, but it is necessary to clarify a
+few points which have given rise to certain misgivings.
+19
+35. Section 438(1) of the Code lays down a condition which has to
+be satisfied before anticipatory bail can be granted. The applicant
+must show that he has "reason to believe" that he may be arrested
+for a non-bailable offence. The use of the expression "reason to
+believe" shows that the belief that the applicant may be so arrested
+must be founded on reasonable grounds. Mere 'fear' is not 'belief",
+for which reason it is not enough for the applicant to show that he
+has some sort of a vague apprehension that some one is going to
+make an accusation against him, in pursuance of which he may be
+arrested. The grounds on which the belief of the applicant is based
+that he may be arrested for a non-bailable offence, must be capable
+of being examined by the court objectively, because it is then alone
+that the court can determine whether the applicant has reason to
+believe that he may be so arrested. Section 438(1), therefore, cannot
+be invoked on the basis of vague and general allegations, as if to
+arm oneself in perpetuity against a possible arrest. Otherwise, the
+number of applications for anticipatory bail will be as large as, at
+any rate, the adult populace. Anticipatory bail is a device to secure
+the individuals liberty; it is neither a passport to the commission of
+crimes nor a shield against any and all kinds of accusations, likely
+or unlikely
+
+   Secondly, if an application for anticipatory bail is made to the
+High Court or the Court of Session it must apply its own mind to the
+question and decide whether a case has been made out for granting
+such relief. It cannot leave the question for the decision of the
+Magistrate concerned under Section 437 of the Code, as and when an
+occasion arises. Such a course will defeat the very object of Section
+438.
+20
+Thirdly, the filing of a first information report is not a condition
+precedent to the exercise of the power under Section 438. The
+imminence of a likely arrest founded on a reasonable belief can be
+shown to exist even if an FIR is not yet filed.
+Fourthly, anticipatory bail can be granted even after an FIR is
+filed, so long as the applicant has not been arrested.
+Fifthly, the provisions of Section 438 cannot be invoked after the
+arrest of the accused. The grant of "anticipatory bail" to an accused
+who is under arrest involves a contradiction in terms, insofar as the
+offence or offences for which he is arrested, are concerned. After
+arrest, the accused must seek his remedy under Section 437 or
+Section 439 of the Code, if he wants to be released on bail in respect
+of the offence or offences for which he is arrested.
+(Emphasis is ours)
+36.   We have said that there is one proposition formulated by the High
+Court with which we are inclined to agree. That is proposition (2). We agree
+that a 'blanket order' of anticipatory bail should not generally be passed.
+This flows from the very language of the section which, as discussed above,
+requires the applicant to show that he has "reason to believe" that he may be
+arrested. A belief can be said to be founded on reasonable grounds only if
+there is something tangible to go by on the basis of which it can be said that
+the applicant's apprehension that he may be arrested is genuine. That is
+why, normally, a direction should not issue under Section 438(1) to the effect
+that the applicant shall be released on bail "whenever arrested for whichever
+offence whatsoever". That is what is meant by a 'blanket order' of
+anticipatory bail, an order which serves as a blanket to cover or protect any
+and every kind of allegedly unlawful activity, in fact any eventuality, likely
+or unlikely regarding which, no concrete information can possibly be had.
+21
+The rationale of a direction under Section 438(1) is the belief of the
+applicant founded on reasonable grounds that he may be arrested
+for a non-bailable offence. It is unrealistic to expect the applicant to
+draw up his application with the meticulousness of a pleading in a
+civil case and such is not requirement of the section. But specific
+events and facts must be disclosed by the applicant in order to
+enable the court to judge of the reasonableness of his belief, the
+existence of which is the sine qua non of the exercise of power
+conferred by the section.                                          (Emphasis is
+ours)
+37. Apart from the fact that the very language of the statute compels this
+construction, there is an important principle involved in the insistence that
+facts, on the basis of which a direction under Section 438(1) is sought, must
+be clear and specific, not vague and general. It is only by the observance of
+that principle that a possible conflict between the right of an individual to his
+liberty and the right of the police to investigate into crimes reported to them
+can be avoided. A blanket order of anticipatory bail is bound to cause
+serious interference with both the right and the duty of the police in
+the matter of investigation because, regardless of what kind of
+offence is alleged to have been committed by the applicant and
+when, an order of bail which comprehends allegedly unlawful
+activity of any description whatsoever, will prevent the police from
+arresting the applicant even if he commits, say, a murder in the
+presence of the public. Such an order can then become a charter of
+lawlessness and a weapon to stifle prompt investigation into
+offences which could not possibly be predicated when the order was
+passed. Therefore, the court which grants anticipatory bail must
+take care to specify the offence or offences in respect of which alone
+22
+the order will be effective. The power should not be exercised in a
+vacuum.                          (Emphasis is ours)
+38. There was some discussion before us on certain minor modalities
+regarding the passing of bail orders under Section 438(1). Can an order of
+bail be passed under the section without notice to the Public Prosecutor? It
+can be. But notice should issue to the Public Prosecutor or the Government
+Advocate forthwith and the question of bail should be re-examined in the
+light of the respective contentions of the parties. The ad interim order too
+must conform to the requirements of the section and suitable conditions
+should be imposed on the applicant even at that stage. Should the
+operation of an order passed under Section 438(1) be limited in point
+of time? Not necessarily. The court may, if there are reasons for
+doing so, limit the operation of the order to a short period until after
+the filing of an FIR in respect of the matter covered by the order. The
+applicant may in such cases be directed to obtain an order of bail
+under Section 437 or 439 of the Code within a reasonably short
+period after the filing of the FIR as aforesaid. But this need not be
+followed as an invariable rule. The normal rule should be not to limit
+the operation of the order in relation to a period of time.
+(Emphasis is ours)
+39. During the last couple of years this Court, while dealing with appeals
+against orders passed by various High Courts, has granted anticipatory bail
+to many a person by imposing conditions set out in Section 438(2) (i), (ii) and
+(iii). The court has, in addition, directed in most of those cases that (a) the
+applicant should surrender himself to the police for a brief period if a
+discovery is to be made under
+Section 27
+of the Evidence Act or that he
+should be deemed to have surrendered himself if such a discovery is to be
+made. In certain exceptional cases, the court has, in view of the material
+placed before it, directed that the order of anticipatory bail will remain in
+23
+operation only for a week or so until after the filing of the FIR in respect of
+matters covered by the order. These orders, on the whole, have worked
+satisfactorily, causing the least inconvenience to the individuals concerned
+and least interference with the investigational rights of the police. The court
+has attempted through those orders to strike a balance between the
+individual's right to personal freedom and the investigational rights of the
+police. The appellants who were refused anticipatory bail by various courts
+have long since been released by this Court under Section 438(1) of the
+Code."
+Section 438 Cr. P.C. reads as under :-
+"Section 438 Cr. P.C. : (1) Where any person has reason to believe
+that he may be arrested on accusation of having committed a non-bailable
+offence, he may apply to the High Court or the Court of Session for a
+direction under this section that in the event of such arrest he shall be
+released on bail; and that Court may, after taking into consideration, inter
+alia, the following factors, namely :-
+(i) the nature and gravity of the accusation;
+(ii) the antecedents of the applicant including the fact as to whether
+   he has previously undergone imprisonment on conviction by a Court in
+   respect of any cognizable offence;
+(iii) the possibility of the applicant to flee from justice; and
+(iv) where the accusation has been made with the object of injuring
+   or humiliating the applicant by having him so arrested,
+    either reject the application forthwith or issue an interim order for the
+   grant of anticipatory bail :
+Provided that, where the High Court or, as the case may be, the
+    Court of Session, has not passed any interim order under this sub-
+24
+section or has rejected the application for grant of anticipatory bail, it
+ shall be open to an officer in-charge of a police station to arrest, without
+ warrant, the applicant on the basis of the accusation apprehended in
+ such application.
+(1-A) Where the Court grants an interim order under sub-section
+(1), it shall forthwith cause a notice being not less than seven days notice,
+together with a copy of such order to be served on the Public Prosecutor
+and the Superintendent of Police, with a view to give the Public Prosecutor
+a reasonable opportunity of being heard when the application shall be
+finally heard by the Court.
+(1-B) The presence of the applicant seeking anticipatory bail shall
+be obligatory at the time of final hearing of the application and passing of
+final order by the Court, if on an application made to it by the Public
+Prosecutor, the Court considers such presence necessary in the interest of
+justice]
+
+
+ (2)   When the High Court or the Court of Session makes a direction
+under sub-section (1), it may include such conditions in such directions in
+the light of the facts of the particular case, as it may think fit, including -
+(i) a condition that the person shall make himself available for
+interrogation by a police officer as and when required;
+(ii) a condition that the person shall not, directly or indirectly,
+make any inducement, threat or promise to any person acquainted with
+the facts of the case so as to dissuade him from disclosing such facts to
+the Court or to any police officer;
+(iii) a condition that the person shall not leave India without
+previous permission of the Court;
+(iv) such other condition as may be imposed under sub-section (3)
+of Section 437, as if the bail were granted under that section;
+25
+(3) If such person is thereafter arrested without warrant by an officer-in-
+charge of a police station on such accusation, and is prepared either at
+the time of arrest or at any time while in the custody of such officer to give
+bail, he shall be released on bail; and if a Magistrate taking cognizance of
+such offence decides that a warrant should issue in the first instance
+against that person, he shall issue a bailable warrant in conformity with
+the direction of the Court under sub-section (1).
+S. 438 Cr. P.C. [State Amendment - West Bengal] : The following
+amendments were made by
+West Bengal Act, 1990
+No. 25 of 1990 (w.e.f.
+1-10-1992]
+
+For sub-section (1) of Section 438 of the principal Act, the following sub-
+sections shall be substituted :
+(1) (a) When any person has reason to believe that he may be arrested on
+an accusation of having committed a non-bailable offence, he may apply
+to the High Court or the Court of Session for a direction under this section
+that in the event of such arrest, he shall be released on bail :
+Provided that the mere fact that a person has applied to the High
+Court or the Court of Session for a direction under this section shall not, in
+the absence of any order by that Court, be a bar to the apprehension of
+such person, or the detention of such person in custody, by an officer-in-
+charge of a police station.
+(b) The High Court or the Court of Session, as the case may be, shall
+dispose of an application for a direction under this sub-section within
+thirty days of the date of application :
+Provided that where the apprehended accusation relates to an
+offence punishable with death, imprisonment for life or imprisonment for a
+term of not less than seven years, no final order shall be made on such
+26
+application without giving the State not less than seven days notice to
+     present its case;
+(c) If any person is arrested and detained in custody by an officer- in-
+charge of a police station before the disposal of the application of such
+     person for a direction under this sub-section, the release of such person
+     on bail by a Court having jurisdiction, pending such disposal, shall be
+     subject to the provisions of Section 437.
+(1-A) The provisions of sub-section (1) shall have effect notwithstanding
+     anything to the contrary contained elsewhere in this Act or in any
+     judgment, decree or order of any Court, Tribunal or other authority."
+The legislative intent and object of
+Section 438
+Cr.P.C has been explained
+
+by the Supreme Court in the cases of
+Gurbaksh Singh Sibbia
+(supra) and
+Bharat Chaudhary vs. State of Bihar
+[(2003) 8 SCC 77].
+In
+Gurbaksh Singh Sibbia
+'s case (supra) the Supreme Court observed :-
+"12. ...    .... The legislature conferred a wide discretion on the
+     High Court and the Court of Session to grant anticipatory bail because it
+     evidently felt, firstly, that it would be difficult to enumerate the
+     conditions under which anticipatory bail should or should not be
+     granted and secondly, because the intention was to allow the higher
+     courts in the echelon a somewhat free hand in the grant of relief in the
+     nature of anticipatory bail. That is why, departing from the terms of Ss.
+     437 and 439, S. 438(1) uses the language that the High Court or the
+     Court of Session "may, if it thinks fit" direct that the applicant be
+     released on bail.    Sub-section (2) of S. 438 is a further and clearer
+     manifestation   of   the   same   legislative   intent to confer   a wide
+27
+discretionary power to grant anticipatory bail. It provides that the High
+Court or the Court of Session, while issuing a direction for the grant of
+anticipatory bail, "may include such conditions in such directions in the
+light of the facts of the particular case, as it may think fit", including the
+conditions which are set out in Cls. (i) to (v) of sub-sec. (2). The proof of
+legislative intent can best be found in the language which the legislature
+uses. Ambiguities can undoubtedly be resolved by resort to extraneous
+aids but words, as wide and explicit as have been used in Section 438,
+must be given their full effect, especially when to refuse to do so will
+result in undue impairment of the freedom of the individual and the
+presumption of innocence. It has to be borne in mind that anticipatory
+bail is sought when there is a mere apprehension of arrest on the
+accusation that the applicant has committed a non-bailable offence. A
+person who has yet to lose his freedom by being arrested asks for
+freedom in the event of arrest.             That is the stage at which it is
+imperative to protect his freedom, in so far as one may, and to give full
+play to the presumption that he is innocent. In fact, the stage at which
+anticipatory   bail   is   generally   sought     brings   about    its   striking
+dissimilarity with the situation in which a person who is arrested for the
+commission of a non-bailable offence asks for bail.                In the latter
+situation, adequate data is available to the Court, or can be called for by
+it, in the light of which it can grant or refuse relief and while granting it,
+modify it by the imposition of all or any of the conditions mentioned in S.
+437.
+13. This is not to say that anticipatory bail, if granted, must be
+granted without the imposition of any conditions. That will be plainly
+contrary to the very terms of S.438. Though sub-sec. (1) of that section
+says that the Court "may, if it thinks fit" issue the necessary direction
+for bail, sub-sec. (2) confers on the Court the power to include such
+conditions in the direction as it may think fit in the light of the facts of
+28
+the particular case, including the conditions mentioned in Cls. (i) to (iv) of
+that sub-section. The controversy therefore is not whether the Court has
+the power to impose conditions while granting anticipatory bail.              It
+clearly and expressly has that power. The true question is whether by
+a process of construction, the amplitude of judicial discretion which is
+given to the High Court and the Court of Session, to impose such
+conditions as they may think fit while granting anticipatory bail, should
+be cut down by reading into the statute conditions which are not to be
+found therein, like those evolved by the High Court or canvassed by the
+learned     Additional   Solicitor   General.     Our   answer,    clearly   and
+emphatically, is in the negative. The High Court and the Court of
+Session to whom the application for anticipatory bail is made
+ought to be left free in the exercise of their judicial discretion to
+grant bail if they consider it fit so to do on the particular facts
+and circumstances of the case and on such conditions as the
+case may warrant.         Similarly, they must be left free to refuse
+bail   if   the   circumstances        of   the    case    so     warrant,   on
+considerations similar to those mentioned in S 437 or which are
+generally considered to be relevant under S. 439 of the Code."
+(Emphasis is ours)
+
+
+
+       In
+Bharat Chaudhary
+'s case (supra) the Supreme Court
+
+observed :-
+"7. From the perusal of this part of Section 438 of the Crl. P.C.,
+we find no restriction in regard to exercise of this power in a suitable
+case either by the Court of Sessions, High Court or this Court even when
+cognizance is taken or charge sheet is filed. The object of Section 438 is
+to prevent undue harassment of the accused persons by pre-trial arrest
+and detention. The fact, that a Court has either taken cognizance of the
+complaint or the investigating agency has filed a charge-sheet, would
+29
+not by itself, in our opinion, prevent the concerned Courts from granting
+     anticipatory bail in appropriate cases. The gravity of the offence is an
+     important factor to be taken into consideration while granting such
+     anticipatory bail so also the need for custodial interrogation, but these
+     are only factors that must be borne in mind by the concerned Courts
+     while entertaining a petition for grant of anticipatory bail and the fact of
+     taking cognizance or filing of charge sheet cannot by themselves be
+     construed as a prohibition against the grant of anticipatory bail. In our
+     opinion, the Courts i.e. the Court of Sessions, High Court or this
+     Court has the necessary power vested in them to grant
+     anticipatory bail in non-bailable offences under Section 438 of
+     the Crl. P.C. even when cognizance is taken or charge sheet is
+     filed provided the facts of the case require the Court to do so."
+(Emphasis is ours)
+
+
+
+     In the case of
+Pokar Ram vs. State of Rajasthan & Ors.
+[(1985) 2 SCC
+
+597] the Supreme Court observed :-
+"5.   Relevant considerations governing the court's decision in
+     granting anticipatory bail under Section 438 are materially different
+     from those when an application for bail by a person who is arrested in
+     the course of investigation as also by a person who is convicted and his
+     appeal is pending before the higher court and bail is sought during the
+     pendency of the appeal.      Three situations in which the question of
+     granting or refusing to grant bail would arise, materially and
+     substantially differ from each other and the relevant considerations on
+     which the courts would exercise its discretion, one way or the other, are
+     substantially different from each other. This is necessary to be stated
+     because the learned Judge in the High Court unfortunately fell into an
+     error in mixing up all the considerations, as if all the three become
+     relevant in the present situation.
+30
+6.   The decision of the Constitution Bench in
+Gurbaksh Singh
+Sibbia v. State of Punjab
+[(1980) 2 SCC 565] clearly lays down that 'the
+distinction between an ordinary order of bail and an order of
+anticipatory bail is that whereas the former is granted after arrest and
+therefore means release from the custody of the police, the latter is
+granted in anticipation of arrest and is therefore effective at the very
+moment of arrest'. Unlike a post-arrest order of bail, it is a pre-arrest
+legal process which directs that if the person in whose favour it is
+issued is thereafter arrested on the accusation in respect of which the
+direction is issued, he shall be released on bail.      A direction under
+Section 438 is intended to confer conditional immunity from the touch as
+envisaged by Section 46(1) or confinement. In para 31, Chandrachud,
+C.J.   clearly   demarcated   the   distinction   between   the   relevant
+considerations while examining an application for anticipatory bail and
+an application for bail after arrest in the course of investigation. Says
+the learned Chief Justice that 'in regard to anticipatory bail, if the
+proposed accusation appears to stem not from motives of furthering the
+ends of justice but from some ulterior motive, the object being to injure
+and humiliate the applicant by having him arrested, a direction for the
+release of the applicant on bail in the event of his arrest would generally
+be made. It was observed that 'it cannot be laid down as an inexorable
+rule that anticipatory bail cannot be granted unless the proposed
+accusation appears to be actuated by mala fides; and, equally, that
+anticipatory bail must be granted if there is no fear that the applicant
+will abscond'. Some of the relevant considerations which govern the
+discretion, noticed therein are, "the nature and seriousness of the
+proposed charges, the context of the events likely to lead to the making
+of the charges, a reasonable possibility of the applicant's presence not
+being secured at the trial, a reasonable apprehension that witnesses
+will be tampered with and 'the larger interests of the public or the
+31
+State', are some of the considerations which the court has to keep in
+      mind while deciding an application for anticipatory bail". A caution was
+      voiced that 'in the evaluation of the consideration whether the applicant
+      is likely to abscond, there can be no presumption that the wealthy and
+      the mighty will submit themselves to trial and that the humble and the
+      poor will run away from the course of justice, any more than there can
+      be a presumption that the former are not likely to commit a crime and
+      the latter are more likely to commit it'."
+On the basis of aforesaid decisions of the Supreme Court, we like to
+
+examine the concept of pre-arrest/anticipatory bail though there is no
+
+substantial difference between Sections 438 and 439 of the Cr. P.C. It is well
+
+understood that it operates in different fields as ordinary bail under Sections 437
+
+and 439 Cr. P.C. is available after arrest whereas anticipatory bail under Section
+
+438 is available in anticipation of arrest and is, therefore, effective at the very
+
+moment of arrest and it is well settled that a person cannot resort to Section 438
+
+Cr. P.C. after he has been arrested. Therefore, the only distinction is that in a
+
+case under Section 438 Cr. P.C. a person approaches the Court when he
+
+apprehends that he may be arrested in a non-bailable offence. The exercise of
+
+power under
+Section 438
+Cr.P.C. is dependent upon two conditions; (i) an
+
+accusation (ii) a reasonable apprehension that the accused may be arrested on
+
+the basis of such accusation. This clearly indicates that the power exercisable
+
+under Section 438 Cr. P.C. is somewhat extraordinary and it is only in
+
+exceptional cases where it appears that the person may be falsely implicated or
+
+where there are reasonable grounds for holding that a person accused of an
+32
+offence is not likely to misuse the liberty, the Court may consider his plea for an
+
+order granting him bail in the event of his arrest. Once a person gets an order in
+
+his favour under Section 438 Cr. P.C. and is directed to be released on bail in the
+
+event of his arrest unless and until he is arrested he remains a free man;
+whereas in cases where a person has been arrested by the police as a suspect
+
+and the offence is non-bailable, he is entitled to apply for ordinary/regular bail
+
+under Section 437 or 439 of the
+Code of Criminal Procedure
+as the case may be,
+
+i.e., in cases triable by a Magistrate he can secure bail from a Magistrate or the
+
+Court of Session. Similarly, if a case is triable by a Court of Session he may
+
+apply for bail to the Court of Session or the High Court as the case may be by
+
+seeking such bail under Section 437 or Section 439 Cr. P.C.              In both the
+
+circumstances, i.e., when a person secures an order of bail under Section 438 Cr.
+P.C. or Sections 437/439 of the Cr. P.C. he surrenders himself to custody and
+
+released on bail.
+In the case of Niranjan Singh and Anr. vs. Prabhakar Rajaram Kharote
+
+and Ors. [AIR 1980 SC 785] the Supreme Court was required to examine the
+
+question as to when a person is in custody within the meaning of Section 439 Cr.
+P.c. and in the context where the persons who are accused of offences but who
+
+are not in custody and had applied for bail under Section 439 Cr. P.C. The
+
+Supreme Court observed :-
+"6. Here the respondents were accused of offences but were not
+      in custody, argues the petitioner. So no bail, since the basic condition of
+      being in jail is not fulfilled. This submission has been rightly rejected by
+33
+the courts below. We agree that, in our view, an outlaw cannot ask for
+the benefit of law and he who flees justice cannot claim justice. But here
+the position is different.   The accused were not absconding but had
+appeared and surrendered before the Sessions Judge. Judicial
+jurisdiction arises only when persons are already in custody and seek
+the process of the court to be enlarged.       We agree that no person
+accused of an offence can move the court for bail under S. 439 Cr. P.C.
+unless he is in custody.
+7. When is a person in custody, within the meaning of S. 439 Cr.
+P.C. ? when he is in duress either because he is held by the
+investigating agency or other police or allied authority or is under the
+control of the court having been remanded by judicial order, or having
+offered himself to the court's jurisdiction and submitted to its orders by
+physical presence.    No lexical dexterity nor precedential profusion is
+needed to come to the realistic conclusion that he who is under the
+control of the court or is in the physical hold of an officer with coercive
+power is in custody for the purpose of S. 439. This word is of elastic
+semantics but its core meaning is that the law has taken control of the
+person.    The equivocatory quibblings and hide-and-seek niceties
+sometimes heard in court that the police have taken a man into informal
+custody but not arrested him, have detained him for interrogation but
+not taken him into formal custody and other like terminological dubiotics
+are unfair evasions of the straightforwardness of the law. We need not
+dilate on this shady facet here because we are satisfied that the
+accused did physically submit before the Sessions Judge and the
+jurisdiction to grant bail thus arose.
+8. Custody, in the context of S. 439, (we are not, be it noted,
+dealing with anticipatory bail under S. 438) is physical control or at
+34
+least physical presence of the accused in court coupled with submission
+to the jurisdiction and orders of the court.
+9. He can be in custody not merely when the police arrests
+him, produces him before a Magistrate and gets a remand to
+judicial or other custody.        He can be stated to be in judicial
+custody when he surrenders before the court and submits to its
+directions.    In the present case, the police officers applied for
+bail before a Magistrate who refused bail and still the accused,
+without surrendering before the Magistrate, obtained an order
+for stay to move the Sessions Court.             This direction of the
+Magistrate was wholly irregular and may be, enabled the
+accused persons to circumvent the principle of S. 439 Cr. P.C.
+We might have taken a serious view of such a course, indifferent
+to mandatory provisions, by the subordinate magistracy but for
+the fact that in the present case the accused made up for it by
+surrender before the Sessions Court. Thus, the Sessions Court
+acquired jurisdiction to consider the bail application. It could
+have refused bail and remanded the accused to custody, but, in
+the circumstances and for the reasons mentioned by it, exercised
+its jurisdiction in favour of grant of bail. The High Court added
+to the conditions subject to which bail was to be granted and
+mentioned that accused has submitted to the custody of the
+court. We, therefore, do not proceed to upset the order on this
+ground.    Had the circumstances been different we would have
+demolished the order for bail. We may frankly state that had we
+been left to ourselves we might not have granted bail but, sitting
+under
+Art. 136
+, do not feel that we should interfere with a
+discretion      exercised       by        the   two   courts   below."
+(Emphasis is ours)
+35
+We have no hesitation to hold that if a person applies for pre-
+arrest/anticipatory bail he does so with a clear understanding that he is
+
+submitting himself to the custody of the Court, in the event he is arrested and is
+
+released on bail, therefore, he can be stated to be in judicial custody which
+
+necessarily means having furnished security to ensure his submission at the
+
+required time to legal authority, i.e. for his appearance pending trial or
+
+investigation. In most of the cases it is found that persons availing of an order
+
+under Section 438 Cr. P.C. either are not arrested by the police or do not make
+
+themselves available for investigation and, therefore, could not be arrested. This
+
+fact situation cannot be ignored and such persons may enjoy unfettered liberty
+
+though they may be suspected of having committed a non-bailable offence but
+
+cannot be considered to be in custody. It may happen that in such case the
+
+investigating agency may even conclude investigation and file charge-sheet. It is
+
+only when the police file final report under Section 170 Cr. P.C. by way of a
+
+charge-sheet under Section 173 Cr. P.C. and such person/persons are shown to
+
+be accused they must surrender to the Court where charge sheet is filed and can
+
+be released on bail so granted under Section 438 Cr. P.C. by the High Court or
+
+Court of Session. If the earlier order granting them bail in the event of the arrest
+
+was limited to the stage of filing charge sheet, the accused in such a case is left
+
+with no alternative but to apply to the trial Court or the superior Court under
+
+Section 437 or 439 Cr. P.C. for regular bail and in such a contingency second
+
+application for anticipatory bail is not tenable solely on the ground that the
+
+accused is in custody.
+36
+However, in case earlier application for anticipatory bail was rejected and if
+
+he is not arrested there is no bar against making a fresh application for
+
+anticipatory bail on a later occasion, giving more materials, further developments
+
+and different consideration as held in
+Babu Singh
+'s case (supra).
+In case persons who have availed of bail pursuant to an order obtained by
+
+them under Section 438 Cr. P.C. continue to enjoy bail so granted if the Court
+
+does not restrict its order for a limited period which is the normal rule as held by
+
+the Constitution Bench of the Supreme Court in
+Gurbaksh Singh Sibbia
+'s case
+
+(supra).     This virtually amounts to grant of ordinary, normal bail after the
+
+accused surrenders to custody and is released on bail.
+Their Lordships while making a reference to the Larger Bench primarily
+
+expressed certain doubts about the correctness of the Decision in Maya Rani
+
+Guin's case (supra) without formulating the questions which arise for
+
+consideration due to correct appreciation of law laid down in the judgment of the
+
+Supreme Court prevailing at the time Maya Rani Guin's case (supra) was
+
+decided and subsequent judgments delivered by the Supreme Court clarifying the
+
+correct proposition of law in reference to
+K L Verma vs. State & Anr.
+[(
+1998) 9
+
+SCC 348] and Ravindra Sexena vs. State of Rajasthan
+[2010(1) SCC (Cri)
+
+884].
+Their Lordships referred to Division Bench decisions of the Madhya
+
+Pradesh High Court, one of them being Madhya Pradesh High Court in
+Imratlal
+
+Viswakarma & Ors vs. The State of Madhya Pradesh
+[1997(1) Crimes 289].
+37
+Madhya Pradesh High Court was required to examine whether a second
+
+application for anticipatory bail was maintainable and whether it would make
+
+any difference if earlier application was rejected on merits or dismissed on
+
+account having been withdrawn or not pressed.
+In Malla Ramarao vs. State of
+
+Madhya Pradesh [1992 CLJ 2208] learned Single Judge held that a second bail
+
+petition under Section 438 Cr. P.C. would not be tenable and in a subsequent
+
+decision also by other single Judge in
+Dharmendra vs. State of M. P.
+[1993
+
+J.L.J. 476] it was held that the second petition under Section 438 Cr. P.C. would
+
+be tenable if the earlier petition has been withdrawn and consequently dismissed.
+The Division Bench of the Madhya Pradesh High Court on reference "Whether a
+
+second application for anticipatory bail is maintainable and whether it would make
+
+any difference if earlier application was dismissed on merits or on account of
+
+having been withdrawn or not pressed?", answering the reference the Court held
+
+that the principle of res judicata would not apply in such a matter and placed
+
+reliance on the case of
+Gurbaksh Singh Sibbia
+(supra) and also referred to Full
+
+Bench decision of the Himachal Pradesh High Court in the case of
+Mahan Lal vs.
+
+Prem Chand
+[AIR 1980 H.P. 36].
+The other case referred to while making reference is the decision of the
+
+Rajasthan High Court in the case of
+Ganesh Raj vs. The State of Rajasthan &
+
+Ors.
+[2005 Cr. LJ 2086] wherein the Rajasthan High Court held that second or
+
+subsequent bail application under Section 438 Cr. P.C. can be filed if there is a
+
+change in the fact situation or in law which requires the earlier view being
+38
+interfered with or where the earlier finding has become obsolete. It made clear
+
+that there is the limited area in which an accused who has been denied bail
+
+earlier, can move a subsequent application and that second or subsequent
+
+anticipatory bail application shall not be entertained on the ground of new
+
+circumstances, further developments, different considerations, some more
+
+details, new documents or illness of the accused. It further held that under no
+
+circumstances the second or successive anticipatory bail application shall be
+
+entertained by the Sessions Judge/Additional Sessions Judge.
+In
+Ganesh Raj
+case (supra) the Full Bench considered the decision rendered by the Full Bench
+
+of this Court in Maya Rani Guin's case (supra) and after considering the
+
+decision in
+Kalyan Chandra Sarkar vs. Rajesh Ranjan
+alias Pappu Yadav
+
+[2005 Cri LJ 944] held that second or subsequent bail application under Section
+
+438 Cr. P.C. can be filed if there is a change in the fact situation or in law which
+
+requires the earlier view being interfered with or where the earlier finding has
+
+become obsolete.
+We have given our anxious consideration to the aforesaid decisions and
+
+find that the hesitation on the part of Court in not entertaining the second
+
+application for pre-arrest/anticipatory bail or for that reason ordinary/regular
+
+bail stems out from the proposition that the bail order is a final order and,
+
+therefore, entertaining a second application for bail in either case on the given
+
+facts and circumstances of the case would amount to review of the earlier order
+
+rejecting the bail which is construed as a final order as Section 362 Cr. P.C.
+39
+clearly mandates that "save or otherwise provided by this Code or any other law
+
+for the time being in force, no Court, when it has signed its judgment or final order
+
+disposing of a case, shall alter or review the same except to correct a clerical or
+
+mathematical error."
+In
+Sunita Jain vs. Pawan Kumar Jain & Ors.
+[(2008) 2 SCC 705] the
+
+Supreme Court observed :-
+"31. The section makes it clear that a court cannot alter or review
+      its judgment or final order after it is signed except to correct clerical or
+      arithmetical error. The scheme of the Code, in our judgment, is clear
+      that as a general rule, as soon as the judgment is pronounced or order
+      is made by a court, it becomes functus officio (ceases to have control
+      over the case) and has no power to review, override, alter or interfere
+      with it.
+32. No doubt, the section starts with the words "save as other
+      provided by this Code". Thus, if the Code provides for alteration, such
+      power can be exercised. For instance, sub-section (2) of Section 127.
+      But in absence of express power, alteration or modification of judgment
+      or order is not permissible.
+33. It is also well settled that power of review is not an
+      inherent power and must be conferred on a court by a specific or
+      express provision to that effect. (
+Vide Patel Narshi Thakershi v.
+      Pradyumansinghji Arjunsinghji
+[(1971) 3 SCC 844]. No power to
+      review has been conferred by the Code on a criminal court and it
+      cannot review an order passed or judgment pronounced."
+(Emphasis is ours)
+40
+In our earlier part of the judgment we have already referred to the case of
+Babu Singh
+(supra) wherein it was held that an order refusing an application for
+
+bail does not necessarily preclude another, on a later occasion, giving more
+
+materials, further developments and different considerations and in Usmanbhai
+
+Dawoodbhai Memon (supra) the Supreme Court has held that it cannot be
+
+doubted that the grant or refusal of a bail application is essentially an
+
+interlocutory order. There is no finality to such an order for an application for
+
+bail can always be renewed from time to time. However, a second application in
+
+the same fact situation will not lie on ground of reconsideration or non-
+consideration of some impeachable document or some unassailable situation
+
+very much existing at the time application was refused as it will be seeking
+
+review of the earlier order which is not permissible.
+In view of the decision of the Supreme Court in
+Gurbaksh Singh Sibbia
+(supra) wherein it was held that the High Court and the Court of Session to
+
+whom the application for anticipatory bail is made ought to be left free in the
+
+exercise of their judicial discretion to grant bail if they consider it fit so to do on
+
+the particular facts and circumstances of the case and on such conditions as the
+
+case may warrant.       Similarly, they must be left free to refuse bail if the
+
+circumstances of the case so warrant, on considerations similar to those
+
+mentioned in S 437 or which are generally considered to be relevant under S.
+
+439 of the Code.
+41
+In the cases of
+Sunita Devi vs. State of Bihar & Anr.
+[(
+2005) 1 SCC 608
+
+and Adri Dharan Das vs. State of W.B.
+[(2005) 4 SCC 303], the Supreme Court
+
+concluded the controversy as regards the premise on which application for
+
+anticipatory bail and regular bail can be obtained by holding that the view taken
+
+in the case of
+K. L Verma vs. State & Anr.
+[(1998) 9 SCC 348] is per incuriam.
+In
+Sunita Devi
+'s case (supra) Supreme Court observed :-
+"7. Sections 438 and 439 operate in different fields. Section 439
+      of the Code reads as follows:
+"439. (1) A High Court or Court of Session may direct--
+(a) that any person accused of an offence and in custody be released
+      on bail, and if the offence is of the nature specified in sub-section (3) of
+      Section 437, may impose any condition which it considers necessary for
+      the purposes mentioned in that sub-section;
+(b) that any condition imposed by a Magistrate when releasing any
+      person on bail be set aside or modified:"     (Underlined for emphasis)
+8. It is clear from a bare reading of the provisions that for making an
+      application in terms of Section 439 of the Code, a person has to be in
+      custody. Section 438 of the Code deals with "Direction for grant of bail
+      to person apprehending arrest".
+In
+Balchand Jain v. State of M.P
+[(1976)
+      4SCC 572] it was observed that the expression "anticipatory bail" is
+      really a misnomer because what Section 438 contemplates is not an
+      anticipatory bail, but merely an order directing the release of an
+      accused on bail in the event of his arrest. It is, therefore, manifest that
+      there is no question of bail unless a person is arrested in connection
+      with a non-bailable offence by the police. The distinction between an
+42
+order in terms of Section 438 and that in terms of Section 439 is that the
+   latter is passed after arrest whereas the former is passed in anticipation
+   of arrest and becomes effective at the very moment of arrest.
+(See
+Gurbaksh Singh Sibbia v. State of Punjab
+[(1980) 2 SCC 565])"
+9.
+In
+Salauddin Abdulsamad Shaikh v. State of Maharashtra
+[(1996)
+   1 SCC 667] it was observed as follows: (SCC p.668, para 2)
+
+   "Anticipatory bail is granted in anticipation of arrest in non-bailable
+cases, but that does not mean that the regular court, which is to try the
+offender, is sought to be bypassed and that is the reason why the High
+Court very rightly fixed the outer date for the continuance of the bail and on
+the date of its expiry directed the petitioner to move the regular court for
+bail. That is the correct procedure to follow because it must be realised that
+when the Court of Session or the High Court is granting anticipatory bail, it
+is granted at a stage when the investigation is incomplete and, therefore, it
+is not informed about the nature of evidence against the alleged offender. It
+is, therefore, necessary that such anticipatory bail orders should be of a
+limited duration only and ordinarily on the expiry of that duration or
+extended duration the court granting anticipatory bail should leave it to the
+regular court to deal with the matter on an appreciation of evidence placed
+before it after the investigation has made progress or the charge-sheet is
+submitted."                             (emphasis supplied)
+10.
+In
+K.L. Verma
+case[(1998) 9 SCC 348] this Court observed as follows:
+(SCC pp. 350-51, para 3)
+
+      "This Court further observed that anticipatory bail is granted in
+   anticipation of arrest in non-bailable cases, but that does not mean
+   that the regular court, which is to try the offender, is sought to be
+43
+bypassed. It was, therefore, pointed out that it was necessary that
+   such anticipatory bail orders should be of a limited duration only and
+   ordinarily on the expiry of that duration or extended duration the court
+   granting anticipatory bail should leave it to the regular court to deal
+   with the matter on an appreciation of evidence placed before it after
+   the investigation has made progress or the charge-sheet is submitted.
+   By this, what the Court desired to convey was that an order of
+   anticipatory bail does not enure till the end of trial but it must be of
+   limited duration as the regular court cannot be bypassed. The limited
+   duration must be determined having regard to the facts of the case
+   and the need to give the accused sufficient time to move the regular
+   court for bail and to give the regular court sufficient time to determine
+   the bail application. In other words, till the bail application is disposed
+   of one way or the other the court may allow the accused to remain on
+   anticipatory bail. To put it differently, anticipatory bail may be granted
+   for a duration which may extend to the date on which the bail
+   application is disposed of or even a few days thereafter to enable the
+   accused persons to move the higher court, if they so desire."
+   (emphasis supplied)
+
+
+
+   The reference to this Court's observation as quoted above was to
+
+   Salauddin case [(1996) 1 SCC 667].
+11. The grey area according to us is the following part of the judgment
+in
+K.L. Verma
+case [(1998) 9 SCC 348] "or even a few days thereafter to
+enable the accused persons to move the higher court, if they so desire"
+(SCC p. 351, para 3).
+44
+12. Obviously, the requirement of Section 439 of the Code is not wiped
+out by the above observations. Section 439 comes into operation only when
+a person is "in custody".
+In
+K.L. Verma
+case[(1998) 9 SCC 348 reference
+was made to Salauddin case[(1996)1 SCC 667].
+In the said case there was
+no such indication as given in
+K.L. Verma
+case [(1998) 9 SCC 348 that a
+few days can be granted to the accused to move the higher court if they so
+desire. The statutory requirement of Section 439 of the Code cannot be said
+to have been rendered totally inoperative by the said observation.
+13.
+In view of the clear language of Section 439 and in view of the
+decision   of   this   Court   in
+Niranjan   Singh   v.   Prabhakar   Rajaram
+Kharote
+[(1980) 2 SCC 559] there cannot be any doubt that unless a person
+is in custody, an application for bail under Section 439 of the Code would
+not be maintainable. The question when a person can be said to be in
+custody within the meaning of Section 439 of the Code came up for
+consideration before this Court in the aforesaid decision.
+14. The crucial question is when is a person in custody, within the
+meaning of Section 439 of the Code? When he is in duress either because
+he is held by the investigating agency or other police or allied authority or
+is under the control of the court having been remanded by judicial order, or
+having offered himself to the court's jurisdiction and submitted to its orders
+by physical presence. No lexical dexterity nor precedential profusion is
+needed to come to the realistic conclusion that he who is under the control
+of the court or is in the physical hold of an officer with coercive power is in
+custody for the purpose of Section 439. The word is of elastic semantics but
+its core meaning is that the law has taken control of the person. The
+equivocatory quibblings and hide-and-seek niceties sometimes heard in
+court that the police have taken a man into informal custody but not
+arrested him, have detained him for interrogation but not taken him into
+45
+formal custody and other like terminological dubieties are unfair evasions
+of the straightforwardness of the law.
+....    ....    ....    ....     ....   ....    ....    ....    ....     .....
+16. In Black's Law Dictionary by Henry Campbell Black, MA (6th Edn.),
+the expression "custody" has been explained in the following manner:
+"The term is very elastic and may mean actual imprisonment or physical
+detention.... Within statute requiring that petitioner be 'in custody' to be
+entitled to federal habeas corpus relief does not necessarily mean actual
+physical detention in jail or prison but rather is synonymous with restraint
+of liberty. ... Accordingly, persons on probation or parole or released on bail
+or on own recognizance have been held to be 'in custody' for purposes of
+habeas corpus proceedings."
+17. It is to be noted that in
+K.L. Verma
+case[((1998) 9 SCC 348] the Court
+only indicated that time may be extended to "move" the higher court. In
+Black's Law Dictionary the said expression has been explained as follows:
+"Move.--To make an application to a court for a rule or order, or to take
+action in any matter. The term comprehends all things necessary to be
+done by a litigant to obtain an order of the court directing the relief sought."
+18. In Salauddin case [(1996) 1 SCC 667] also this Court observed that
+the regular court has to be moved for bail. Obviously, an application under
+Section 439 of the Code must be in a manner in accordance with law and
+the accused seeking remedy under Section 439 must ensure that it would
+be lawful for the court to deal with the application. Unless the applicant is
+in custody, his making an application only under Section 439 of the Code
+will not confer jurisdiction on the court to which the application is made.
+46
+The view regarding extension of time to "move" the higher court as culled
+out from the decision in
+K.L. Verma
+case[((1998) 9 SCC 348] shall have to
+be treated as having been rendered per incuriam, as no reference was
+made to the prescription in Section 439 requiring the accused to be in
+custody.
+In
+State v. Ratan Lal Arora
+[(2004) 4 SCC 590] it was held that
+where in a case the decision has been rendered without reference to
+statutory bars, the same cannot have any precedent value and shall have
+to be treated as having been rendered per incuriam. The present case
+stands on a par, if not, on a better footing.
+The provisions of Section 439 do
+not appear to have been taken note of.
+19. "Incuria" literally means "carelessness". In practice per incuriam is
+taken to mean per ignoratium. English courts have developed this principle
+in relaxation of the rule of stare decisis. The "quotable in law", as held in
+Young v. Bristol Aeroplane Co. Ltd.[(1944) 2 All ER 293] is avoided and
+ignored if it is rendered "in ignoratium of a statute or other binding
+authority". Same has been accepted, approved and adopted by this Court
+while interpreting
+Article 141
+of the Constitution which embodies the
+doctrine of precedents as a matter of law.
+The above position was
+highlighted in
+State of U.P. v. Synthetics and Chemicals Ltd.
+[(1991) 4 SCC
+139] To perpetuate an error is no heroism. To rectify it is the compulsion of
+the judicial conscience.
+20. For making an application under Section 439 the fundamental
+requirement is that the accused should be in custody. As observed in
+Salauddin case [(1996) 1 SCC 667] the protection in terms of Section 438 is
+for a limited duration during which the regular court has to be moved for
+bail. Obviously, such bail is bail in terms of Section 439 of the Code,
+mandating the applicant to be in custody. Otherwise, the distinction
+47
+between orders under Sections 438          and 439 shall be rendered
+   meaningless and redundant.
+21. If the protective umbrella of Section 438 is extended beyond what
+   was laid down in Salauddin case [(1996) 1 SCC 667] the result would be
+   clear bypassing of what is mandated in Section 439 regarding custody. In
+   other words, till the applicant avails remedies up to higher courts, the
+   requirements of Section 439 become dead letter. No part of a statute can be
+   rendered redundant in that manner.
+22. These aspects were recently highlighted in
+Nirmal Jeet Kaur v. State
+   of M.P.
+[(2004) 7 SCC 558] Therefore the order of the High Court granting
+   unconditional protection is clearly untenable and is set aside. However, the
+   petitioner is granted a month's time from today to apply for regular bail
+   after surrendering to custody before the court concerned which shall deal
+   with the application in accordance with law. We express no opinion about
+   the merits of the case."
+In
+Adri Dharan Das
+'s case (supra), the Supreme Court reiterated its
+
+decision in
+Sunita Devi
+(supra).
+In so far as
+Ravindra Sexena
+'s case (supra)
+
+cannot be considered to be an authority in support of the proposition that
+
+rejection of the first application for pre-arrest/anticipatory bail a second
+
+application is maintainable on the same set of facts and circumstances.
+In
+Ravindra Sexena
+'s case (supra) the Supreme Court found that the High Court of
+
+Rajasthan did not consider the application for anticipatory bail in proper
+
+perspective and it was rejected without considering the case of the appellant
+
+solely on the ground that the challan had then been presented and, therefore, the
+48
+Supreme Court by referring to a decision in
+Gurbaksh Singh Sibbia
+(supra) held
+
+that the High Court erred in not considering the application for pre-
+arrest/anticipatory bail in accordance with law and granted anticipatory bail to
+
+the appellant in the case pending on the basis of FIR registered against the
+
+appellant for having committed an offence under
+Sections 420
+and
+120-B
+IPC and
+
+directed for investigation and directed the appellant to join investigation as and
+
+when required.
+We, therefore, sum up our conclusions thus :-
+(1) Whether the applicant/accused can move second application for
+
+anticipatory bail in case his first application is rejected; if yes, in what
+
+contingencies before the same Court or to the superior court?
+(a) A person has a right to move either the High Court or the Court of
+
+Session for directions under Section 438 Cr. P.C. at his option. In case a person
+
+chooses to move the Court of Session in the first instance and his application for
+
+grant of anticipatory bail under Section 438 is rejected, he can again move the
+
+High Court for the same reason under Section 438 Cr. P.C. itself.
+(b) where a person chooses to straightway move the High Court in the first
+
+instance and his application is rejected on the same set of facts and
+
+circumstances, he will not be entitled to move the Court of Session for the second
+49
+time, but may invoke the extraordinary powers of the Supreme Court by seeking
+
+special leave to appeal in the Supreme Court.
+(c) A person will be entitled to move the High Court or the Court of Session,
+
+as the case may be, for the second time. He can do so only on the ground of
+
+substantial change in the facts and circumstances of the case due to subsequent
+
+events. However, he will not be entitled to move the second application on the
+
+ground that the Court on earlier occasion failed to consider any particular aspect
+
+or material on record or that any point then available to him was not agitated
+
+before the Court.
+(2) Where his first application is granted, but his application for
+
+ordinary/regular bail is rejected by the trial Court under Section 437/439 Cr.
+P.C.
+
+
+
+       If a person has been directed to be released on bail in the event of his
+
+arrest under Section 438 Cr. P.C. for limited duration during which the regular
+
+Court has to be moved for bail, he shall move the trial Court in the first instance
+
+for seeking such bail and the order releasing him on anticipatory bail would come
+
+to an end, and in case his application for ordinary/regular bail is rejected, the
+
+trial Court shall remand him to police/judicial custody, as the case may be.
+The reference is answered accordingly, the three applications be placed
+
+before the regular Bench for disposing them in accordance with law.
+50
+( J. N. Patel, C.J.)
+
+We agree
+
+
+
+     (Bhaskar Bhattacharya, J.)
+
+
+
+     (Pinaki Chandra Ghose, J.)
+
+
+
+
+     (Kalyan Jyoti Sengupta, J.)
+
+
+
+
+      (Ashim Kumar Roy, J.)

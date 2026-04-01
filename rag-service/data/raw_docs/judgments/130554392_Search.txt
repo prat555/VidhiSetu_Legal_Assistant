@@ -1,0 +1,1918 @@
+Title: Search
+Court: High Court in Collector of Customs Dytron India Ltd. (1999 (108)
+Date: 54 of 1959
+Citation: SCC 454 and [ICICI Bank
+Source: https://indiankanoon.org/doc/130554392/
+
+[Cites
+58
+, Cited by
+0
+]
+National Company Law Appellate Tribunal
+Central Board Of Indirect Taxes And ... vs Sundaresh Bhatt Liquidator Of Abg ... on 22 November, 2021
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+                    PRINCIPAL BENCH, NEW DELHI
+
+             Company Appeal (AT) (Insolvency) No. 236 of 2021
+
+[Arising out of Impugned Order dated February 25, 2020, passed by the
+Adjudicating Authority/National Company Law Tribunal, Ahmedabad
+Bench, Ahmedabad in IA No. 474/2019 in Company Petition (IB)
+No.53/NCLT/AHM/2017]
+
+ IN THE MATTER OF:
+ Central Board of Indirect Taxes and Customs
+ Through
+ Office of the Commissioner of Customs,
+ JNPT Bonds Section, EPCG Section &
+ Disposal Section
+ Jawaharlal Nehru Customs House
+ Sheva, Taluka Uran, Dist. Raigad
+ Maharashtra - 400707                                                       Appellant
+
+ Versus
+
+ Sundaresh Bhatt
+ The Liquidator of ABG Shipyard
+
+ 1881 Registered address:
+ BDO India LLP, Level 9
+ The Ruby, North West Wing
+ Senapati Bapat Road, Dadar (W)
+ Mumbai - 400028, INDIA
+
+ Insolvency Professional Entity:
+ BOO Restructuring Advisory LLP
+ Level 9, The Ruby, North West Wing
+ Senapati Bapat Road, Dadar (W)
+ Mumbai - 400028, INDIA                                                Respondent
+
+ Present:
+ For Appellant          :    Mr Abhishek           Rana   and   Mr   Ajit    Sharma,
+                             Advocates.
+
+ For Respondent         :    Mr Abhishek Sharma, Ms Anjali Sharma and Ms
+                             Ashly Cherian, Advocates.
+
+ CORAM:
+ Hon'ble Mr Justice M. Venugopal, Member (J)
+ Hon'ble Mr V. P. Singh, Member (T)
+ Hon'ble Dr Ashok Kumar Mishra, Member (T)
+
+Company Appeal (AT) (Insolvency) No. 236 of 2021                                1 of 39
+                                 J U D G M E N T
+(Virtual Mode)
+
+[Per; V. P. Singh, Member (T)]
+1.    The present Appeal emanates from the Order dated February 25, 2020,
+
+passed by the Adjudicating Authority/National Company Law Tribunal,
+
+Ahmedabad Bench, Ahmedabad in IA No. 474 of 2019 in Company Petition
+
+(IB) No.53/NCLT/AHM/2017, whereby the Adjudicating Authority had issued
+
+directions to the Appellant to allow removal of the materials lying in the
+
+Customs Bonded Warehouses without payment of Customs Duty under
+
+Section 60(5) of the Insolvency and Bankruptcy Code, 2016 (in short 'I&B
+
+Code').
+2.    The Parties are represented by their original status in the Company
+
+Petition for the sake of convenience.
+3.    BRIEF FACTS
+
+      The brief facts of the case are as follows:
+3.1   The     Adjudicating      Authority/National   Company     Law     Tribunal,
+
+Ahmedabad Bench had disposed of the Application, being numbered as IA
+
+474 of 2019 in CP (IB) No. 53/NCLT/AHM/2017 filed by Liquidator of the
+
+Corporate Debtor, ABG Shipyard, with the following order directions;
+i)      "The Respondents are directed to allow the applicant-
+liquidator to remove the Material, which is lying in the
+              Customs Bonded Warehouses without any condition,
+              demur and/or payment of Customs Duty.
+ii)     The Respondents are at liberty to lodge its Claim with the
+              Applicant-Liquidator with regard to the Customs Duty
+              charges payable on the release of Material, which form
+
+Company Appeal (AT) (Insolvency) No. 236 of 2021                            2 of 39
+               part of the assets of the Corporate Debtor company in
+              Liquidation), before the Liquidator under the provisions
+              of Insolvency and Bankruptcy Code, 2016 and in
+              accordance with law.
+iii)    The Customs Department shall allow removal of
+              goods/material within two weeks, from the date of
+              receipt of an authentic copy of this Order from the
+              Liquidator.
+iv)     Meanwhile, the Respondents shall not proceed for
+              auctioning, selling or appropriating the Materials owned
+              by the Corporate Debtor company, for the purpose of
+              recovery of its Customs Duty, which may tantamount to
+              violation     of    the     I&B      Code   and   put   the
+              applicant/liquidator of the Corporate Debtor company
+              (under Liquidation) in disadvantageous position."
+(verbatim copy)
+
+3.2   The Respondent claims that the Corporate Debtor Company imported
+
+materials presently lying in customs bonded warehouses at specific locations
+
+for construction and building the ships. These ships were further to be
+
+exported after the completion of manufacturing. Hence, the Corporate Debtor
+
+Company availed its benefit under the Export Promotion Capital Goods
+
+Scheme (EPCG Scheme) (the Notification 12/2012 dated March 17, 2012) and
+
+other related schemes/notifications. Consequently, the Corporate Debtor was
+
+provided with a license under the EPCG Scheme concerning the Material.
+
+
+3.3   Since the Corporate Debtor failed to submit an Export Obligation
+
+Discharge Certificate (EODC) and thereby comply with its obligations in
+
+respect of the EPCG license, the Office of the Commissioner of Customs
+
+
+Company Appeal (AT) (Insolvency) No. 236 of 2021                             3 of 39
+ (Export), EPCG (Monitoring Cell), Mumbai (Customs Authority) had issued
+
+various notices (Notices) to the Corporate Debtor, inter-alia, directed the
+
+Corporate Debtor to pay the applicable customs duty concerning the Material.
+4.        APPELLANT's SUBMISSIONS
+
+4.1       The impugned Order does not consider the question of the title of
+
+imported warehoused goods, which have been lying in a warehouse from 2005
+
+onwards. It is submitted that the warehoused goods do not belong to the
+
+debtor. Hence Liquidator cannot take control of the same.
+
+
+4.2       Before commencement of liquidation proceedings, the debtor itself
+
+could not have taken possession of the imported warehoused goods except by
+
+paying the applicable customs duty after an order clearing the goods for
+
+consumption was passed by Customs
+u/s 68
+&
+71
+of Customs Act, 1962.
+
+Thus, the Official Liquidator cannot be in a better position than the debtor
+
+itself.
+4.3
+The Customs Act, 1962
+is a complete code in itself, under that it is
+
+provided that goods that are once warehoused cannot be released from the
+
+warehouse unless and until the import duties are paid. Reliance is placed on
+
+Sections 45, 47(2), 68, 71 and 72 of the Customs Act,
+
+
+4.4       The principle enunciated in the judgement of Division Bench of
+
+Calcutta High Court in Collector of Customs Dytron India Ltd. (1999 (108)
+
+ELT 342 (Cal.)] squarely applies to the present case even though the judgment
+
+was rendered in the context of
+Companies Act, 1956
+since it interpreted
+
+provisions of the
+Customs Act, 1962
+vis-a-vis claims of the Liquidator.
+
+Company Appeal (AT) (Insolvency) No. 236 of 2021                          4 of 39
+       Based on the above judgement, it is contended that the goods can be
+
+released to the Liquidator only after the customs duty is paid.
+
+
+4.5   It is settled law that a legal question can be raised even at the appellate
+
+stage, and as such, the issue of whether the debtor has clear and perfect title
+
+over the warehoused goods under
+Customs Act, 1962
+, being a legal issue, has
+
+been validly raised in the Appeal filed by the Appellant.
+
+
+4.6   As such, it is most respectfully prayed that this Hon'ble Tribunal may
+
+be pleased to set aside the impugned Order.
+5.    Respondent/Liquidator's Submission
+
+5.1   Respondent submits its reply on every issue raised in the Appeal, which
+
+is as follows;
+5.2   CORPORATE DEBTOR IS THE OWNER OF THE GOODS
+a)      The Appellant refers to
+Sections 48
+and
+72
+of the Customs Act. It
+
+      refuses to release the goods of the Corporate Debtor and asserts its
+
+      right to sell the same, despite the Order of Liquidation passed by the
+
+      NCLT, which would bar such proceedings under the
+Customs Act
+.
+
+      Thus, the Appellant's case appears to be based on a mixed and
+
+      convoluted Application of
+Section 48
+and
+72
+of the Customs Act.
+b)
+Section 48
+of the Customs Act applies only to goods neither
+
+      cleared nor Warehoused by the importer, which is not the case for the
+
+      Appellant as the Notice (issued under
+Section 72
+of the Customs Act)
+
+      and 'Form C' filed by the Appellant is about Warehoused Goods.
+
+
+Company Appeal (AT) (Insolvency) No. 236 of 2021                          5 of 39
+       Moreover, it is undisputed and even admitted by the Appellant that the
+
+      goods of the Corporate Debtor have been Warehoused by filing a bill of
+
+      entries for Warehousing. The Appellant itself acknowledged in its 'Form
+
+      C', which identifies 2531 Bills of Entries for Warehousing. Thus, the
+
+      Notice issued by the Appellant under
+Section 72
+of the Customs Act
+
+      and consequent 'Form C' ("Claim") filed by the Appellant does not
+
+      attract
+Section 48
+of the Customs Act in any manner whatsoever
+
+      contended by the Appellant.
+c)      In addition to the above, it is submitted that the Corporate Debtor
+
+      has not lost ownership of the goods, as alleged by the Appellant. In this
+
+      regard, reference is made to
+Section 72
+of the Customs Act, which can
+
+      be applied only against the "owner" of the goods. By issuing a Notice
+
+      under
+Section 72
+of the Customs Act against the Corporate Debtor and
+
+      filing its Claim with the Liquidator, the Appellant acknowledges the
+
+      ownership of the Corporate Debtor about the warehoused goods.
+
+      Neither
+Section 48
+nor
+Section 72
+of the Customs Act signifies any
+
+      transfer of title or vesting property in Appellant as alleged in the present
+
+      Appeal.
+d)      Relinquishment of title under the
+Customs Act
+is governed by
+Sections 23(2)
+of the Act and proviso to
+Section 68
+of the Act. These
+
+      provisions reinforce that relinquishment is purely the prerogative of the
+
+      owner. The Corporate Debtor has never relinquished title to the goods
+
+      either under
+Customs Act
+or under the Code. No communications in
+
+      this regard have also been made to the Appellant. The Appellant has
+
+Company Appeal (AT) (Insolvency) No. 236 of 2021                           6 of 39
+       not produced any shred of evidence to show that the Corporate Debtor
+
+      has actively or consciously relinquished title to the goods. [
+CIT, Bombay
+
+      v. Rasiklal Manoklal (HUF) and Ors.
+(
+1989) 2 SCC 454 and [ICICI Bank
+
+      Ltd. v. SIDCO Leathers and Ors
+(2006) 10 SCC 452)].
+e)      Even if some of the assets/goods are not in possession of the
+
+      Corporate Debtor, it does not amount to relinquishment of rights over
+
+      the    said    goods     in   any     manner   whatsoever.   (
+Encore   Asset
+
+      Reconstruction Company Pvt. Ltd vs Ms Charu Sandeep Desai & Ors.
+
+      (Company Appeal (AT) (Insolvency) No.
+719 of 2018)].
+f)      By submitting a Claim (under
+Section 38
+of the Code), the
+
+      Appellant has subjected its statutory dues to be governed by the Code's
+
+      provisions and, more specifically, to the priority of distribution provided
+
+      under
+Section 53
+of the Code. Furthermore, the Claim filed by the
+
+      Appellant is based on the premise of ownership of these goods.
+
+      Therefore it is clear that the Corporate Debtor has not lost the
+
+      ownership rights over the goods.
+g)      Assuming without admitting, even the Respondent/Liquidator
+
+      could not have, after the commencement of CIRP and Liquidation
+
+      process, relinquished the title of the goods in favour of the Appellant.
+
+      Such action would cause prejudice to the creditors of the Corporate
+
+      Debtor and would violate his duties under
+Section 35
+of the Code and
+
+      the common law Anti-Deprivation Rule. (
+Gujarat Urja Vikas Nigam Ltd.
+
+      v. Amit Gupta (CA No
+9241 of 2019)] and [Perpetual Trustee Co Ltd. v
+
+      BNY Corporate Trustee Services Ltd & Anr. (2009) EWHC 1912 (Ch)].
+Company Appeal (AT) (Insolvency) No. 236 of 2021                             7 of 39
+h)      Further, assuming without admitting that any loss of title occurs
+
+      by deeming fiction under the
+Customs Act
+, this deeming fiction cannot
+
+      be extended to other statutes, such as the Code. A deeming fiction
+
+      under one statute cannot be extended to other statutes. (
+State of
+
+      Maharashtra v Laljit Rajshi Shah
+(
+2002) 2 SCC 699)] and [Meghraj
+
+      Biscuits Industries Ltd. Vs. Commissioner of C. Ex., UP
+(2007 (210)
+
+      ELT 161 (SC)]
+i)      Hon'ble Appellate Tribunal in Commissioner of Customs
+
+      (Preventive), West Bengal v. Ram Swarup Industries Ltd. & Ors. (2019
+
+      SCC Online NCLAT 371) has held thatthe Customs Department does
+
+      not have a right to auction the goods of the Corporate Debtor under the
+
+      provisions of the
+Customs Act
+, specifically under
+Section 48
+of the
+
+      Customs Act, and must hand over custody of the goods to the
+
+      Resolution Professional/Liquidator.
+5.3   BAR       ON      PROCEEDINGS                AFTER   COMMENCEMENT      OF
+
+      CIRP/LIQUIDATION
+
+      a.      The Appellant could not have exercised its right under the
+Customs Act
+to recover its alleged dues against the Corporate Debtor
+
+      by putting the property of the Corporate Debtor for sale after the Order
+
+      of CIRP (on 01.08.2017), and Liquidation (on 25.04.2019) was passed
+
+      against the Corporate Debtor.
+b.      Even otherwise, under
+Section 142A
+of the Customs Act, the
+
+      statutory charge of the Appellant is expressly subordinate and subject
+
+
+Company Appeal (AT) (Insolvency) No. 236 of 2021                          8 of 39
+       to the provisions of the Code. Accordingly, it cannot recover any of the
+
+      Appellant's alleged dues against the Corporate Debtor. [
+Kaledonia Jute
+
+      & Fibres Pvt. Ltd. v. Axis Nirman & Industries Ltd.
+(2021) 2 SCC 403];
+
+      [
+Deepak Cochhar v. Indusind Bank Ltd.
+2006 SCC OnLine Bom 368)
+
+      and (
+Unilever Industries Private Limited & Another v. Kwality Limited
+2018 SCC OnLine Cal 5978)].
+c.      Further, under
+Section 33 (5)
+of the Code, which squarely applies
+
+      upon the passing of an order of Liquidation, "no suit or other legal
+
+      proceeding shall be instituted by or against the Corporate Debtor". The
+
+      term "legal proceedings for a moratorium in Liquidation, will include
+
+      proceedings for recovery of taxes. [Governor-General in
+Council v.
+
+      Shiromani Sugar Mills Ltd.
+1946
+SCC OnLine FC 5] and [Ludovico
+
+      Sagrado Govela v. Cirila Rosa Maria Pinto and Ors.
+(2016) 9 SCC 615)].
+
+
+      d.      The Appellant's purported and continued custody of the
+
+      Corporate Debtor's goods violates
+Sections 14
+and
+33
+of Code.
+Section
+
+      14(1)(a)
+of the Code expressly prohibits the institution or continuation
+
+      of proceedings against the Corporate Debtor during the moratorium
+
+      period, i.e., the period between the insolvency commencement date and
+
+      the completion of the Insolvency Resolution Process or until an order
+
+      of Liquidation is passed under
+Section 33
+of the Code, whichever is
+
+      earlier. Further,
+Section 14(1)(c)
+of the Code also expressly prohibits
+
+      any action for the foreclosure, recovery or enforcement of any security
+
+      interest against the Corporate Debtor in respect of its property.
+[
+CIT v.
+
+      Monnet Ispat and Energy Ltd.
+(2018 SCC OnLine SC 3465)], [National
+
+Company Appeal (AT) (Insolvency) No. 236 of 2021                         9 of 39
+        Plywood Industries Ltd. v. Union of India (
+2020 (3) GLT 345)) and
+
+       Dishnet Wireless Limited & Another v. The Deputy Commissioner of
+
+       Income Tax & Anr.
+(2013 SCC OnLine Mad 3701].
+5.4    APPELLANT SEEKING PRIORITY IN SETTLEMENT OF DUES
+a)      Distribution of all debts, including alleged claims of Appellant,
+
+       are to be governed by the Code alone, being a special law enacted for
+
+       this purpose. In Liquidation, the priority of debts shall be governed by
+
+       the law relating to the liquidation process and not the law under which
+
+       such debt is claimed to have arisen. Accordingly, Appellant cannot
+
+       invoke the powers under
+Sections 48
+,
+72
+,
+142
+,
+142A
+or any other
+
+       provisions of
+Customs Act
+to recover its alleged dues in priority to other
+
+       dues.
+b)
+Section 53 (1)
+of the Code begins with a non-obstante clause and
+
+       thus prevails over any other law of debt recovery, including the one
+
+       sought by Appellant
+Section 53 (1)
+of the Code overrides
+Section 142A
+of the Customs Act in the entirety. Further, post the amendment to
+Section 142A
+, any charge under the
+Customs Act
+is subject to the
+
+       Code's provisions and distribution of dues under
+Section 53
+of the
+
+       Code. Government dues are covered under
+Section 53 (1) (e)
+of the
+
+       Code. Therefore, they are placed in the 5th position in priority while
+
+       distributing the proceeds in Liquidation. Thus, there can be no question
+
+       of the Appellant having a first charge or priority over the Corporate
+
+       Debtor's assets. [
+Leo Edibles & Fats Ltd. v. The Tax Recovery Officer
+
+       (Central) Income Tax Department, Hyderabad and Ors.
+(2018 SSC
+
+Company Appeal (AT) (Insolvency) No. 236 of 2021                          10 of 39
+        Online Hyd 193)] and [Technology Development Board v. Mr Anil Goel
+
+       and Ors. (Company Appeal (AT) Insolvency No. 731 of 2020)].
+c)     Allowing customs dues to be recovered in priority over all other
+
+       creditors shall be arbitrary, unlawful, and breach settled principles of
+
+       natural justice and
+Article 14
+of the Constitution. Any artificial
+
+       classification attempted by Appellant to distinguish itself from all other
+
+       creditors, including other tax authorities, will be arbitrary and place it
+
+       in an unequal position. Moreover, the Hon'ble Supreme Court in the
+
+       case of Swiss Ribbons specifically held that the Liquidator is the sole
+
+       adjudicator of claims of all creditors, which can be challenged before
+
+       the Adjudicating Authority. Therefore, the Appellant cannot decide its
+
+       claims in the overreach of the Liquidator and place itself above other
+
+       creditors.
+5.5    CODE TO SUPERSEDE AND OVERRIDES THE CUSTOMS ACT
+
+       a.     Section 238 of the Code provides that its provisions shall have a
+
+       superseding effect notwithstanding any law inconsistent with the Code.
+
+       The Hon'ble Supreme Court has also affirmed the overriding effect of
+
+       the Code in the cases of
+CIT v. Monnet Ispat and Energy Ltd.
+(
+2018)
+
+       SCC Online SC 3465, Duncans Industries Ltd. v. A.J. Agrochem
+(2019)
+
+       9 SCC 725, wherein it was held that by Section 238, the provisions of
+
+       the Code would override anything inconsistent contained in any other
+
+       law.
+A similar observation has been made by this Hon'ble Appellate
+
+       Tribunal in the case of
+Om Prakash Agrawal v. CIT (TDS)(Company
+
+       Appeal (AT) Insolvency No.
+624 of 2020).
+Company Appeal (AT) (Insolvency) No. 236 of 2021                          11 of 39
+        b.     For argument sake, if it is considered that the Appellant has a
+
+       right to proceed under
+Sections 48
+,
+72
+,
+142
+and
+142A
+of the Customs
+
+       Act, then also it will not be applicable because of the overriding effect
+
+       of Sec 238 of the I&B Code. There is an apparent inconsistency between
+
+       the provisions of the
+Customs Act
+and the I&B Code.
+Because the
+
+       Customs Act
+allow the Appellant to initiate recovery proceedings
+
+       against the Corporate Debtor by putting to sale the assets of the
+
+       Corporate Debtor in the custody of the Appellant. This is in
+
+       contravention to the Code as it expressly bars initiation or continuation
+
+       of any such proceedings under
+Sections 14
+and
+33
+and does not provide
+
+       any priority to the Appellant's debt under
+Section 53
+of the Code.
+
+
+       c.     When two special statutes contain non-obstante provisions, the
+
+       later statute must prevail. Thus, the Appellant cannot bypass the
+
+       mandatory requirements of the Code by unlawfully resorting to
+
+       provisions of the
+Customs Act
+. (
+Solidaire India Ltd. v. Fairgrowth
+
+       Financial Services Ltd. & Ors.
+(
+2001) 3 SCC 71] [Maruti Udyog Ltd. v.
+
+       Ram Lal & Ors.
+((2005) 2 SCC 638) and (
+Union of India v. India
+
+       Fisheries (P) Ltd.
+(1965 3 SCR 679)]
+6.     ADDITIONAL WRITTEN SUBMISSIONS ON BEHALF OF THE
+
+       RESPONDENT
+
+
+6.1    JURISDICTION OF NCLT
+a)     The Appellant neither raised the issue of jurisdiction before the
+
+       NCLT nor made ground in the present Appeal.
+Company Appeal (AT) (Insolvency) No. 236 of 2021                         12 of 39
+b)     The Hon'ble Supreme Court, in its decision in M/S Embassy
+
+       Properties vs the State of Karnataka - Civil Appeal No. 9170 of 2019
+
+       decided on 03.12.2019 examined the extent to which the NCLT can
+
+       exercise its powers under
+Section 60(5)
+of the Code. The judgment in
+
+       Embassy Properties must be examined in the specific context of the
+
+       facts and the question of law decided, which are culled out as under. -
+c)     The RP sought to include 'a mining lease right within the meaning
+
+       of the word "property as per 5.3(27) of the Code. [Para 37]
+d)     Considering those above, Hon'ble, the Supreme Court concluded
+
+       that the mining lease right does not fall within the context of "property
+
+       and that the correctness of the said decision can be called into question
+
+       only in a superior court which is vested with the power of review over
+
+       administrative action. [Para 28]. The Supreme Court accordingly held
+
+       'wherever the Corporate Debtor has to exercise a right that falls outside
+
+       the purview of the IBC, 2106, especially in the realm of public law, they
+
+       cannot, through the Resolution Professional, take a bypass and go
+
+       before the NCLT for the enforcement of such a right". [Para 40).
+e)     In the instant case, the goods of the Cororate Debtor (in short
+
+       'CD') are Warehoused at the Customs Bonded Warehouse (admitted by
+
+       the Appellant at Para 7(1) of the Appeal) and as such is the "property of
+
+       the CD in terms of
+S.3(27)
+. Moreover, the Appellant does not deny that
+
+       the CD has imported these goods. The Respondent thus has a right over
+
+       the Goods (even if they are not in possession of the CD) as per
+S.18(f)(ii)
+r/w
+S.36 (3)(b)
+of the Code. Consequently, the NCLT has the jurisdiction
+
+Company Appeal (AT) (Insolvency) No. 236 of 2021                           13 of 39
+        to entertain the Application of the Liquidator under
+S.60(5)
+, since the
+
+       right sought to be exercised is over the "property of the CD and the right
+
+       sought to be enforced is not a "new right" but the "right to be not
+
+       exercised" as per the case of Embassy Properties (supra) specifically in
+
+       Para 44.
+f)     Appellant has not taken any steps since 2014 to take into
+
+       possession and confiscate the Goods under the
+Customs Act
+. They have
+
+       sought to enforce this right after the Order of Liquidation was passed
+
+       in July 2019, which cannot be permitted since the Appellant has
+
+       already filed its Claim for the duty payable by the CD. Any payment
+
+       received by the Appellant from the removal/ sale of the goods of the CD
+
+       would amount to a preference being given to the Appellant over the
+
+       other creditors and breach of the waterfall for payment of dues provided
+
+       under
+S.53
+of the Code. The Appellant will be paid twice - first, by
+
+       selling the assets of the CD and second, when they receive the amounts
+
+       in terms of
+S.53
+.If this is permitted, the Appellant will receive more than
+
+       the FC's, whose dues are around 21,000 crores, compared to the dues
+
+       of the Appellant, which is about 769 crores.
+g)     Hon'ble Supreme Court in Embassy Properties at Para 36
+
+       recognises the exception that once the dues of the Government
+
+       Authority is crystallised, they have to be paid as per the Code.
+
+       Accordingly, the government dues have been finalised in the present
+
+       case, and 'Form C' duly filed.
+Company Appeal (AT) (Insolvency) No. 236 of 2021                           14 of 39
+h)     The Hon'ble Supreme Court in
+Gujarat Urja Vikas Nigam vs Mr
+
+       Amit Gupta & Ors
+- Civil Appeal No. 9241 of 2019 decided on
+
+       08.03.2021 considered the judgment of Embassy Properties on the
+
+       issue of jurisdiction of NCLT and upheld the interference by the NCLT
+
+       in restraining Gujarat Urja (the DISCOM) from terminating the PPA
+
+       with the Corporate Debtor, even though the termination of the PPA was
+
+       governed by a contract which vested exclusive jurisdiction under the
+Electricity Act
+to the Electricity Commission.
+i)     The judgment in both Embassy Properties (supra) and
+Gujarat
+
+       Urja
+(supra) arose out of a contractual dispute (i.e., PPA and mining
+
+       lease). However, Hon'ble Supreme Court in Gujarat Urja (Para - 39 (iii),
+
+       71-72, 87, 173) upheld the Order and jurisdiction exercised by the
+
+       NCLT, despite the decision of the Embassy Properties adjudicating on
+
+       a similar issue arising out of a contractual right. The dispute in the
+
+       present case has arisen out of Goods that form part of the Liquidation
+
+       Estate, and therefore solely arising out of the insolvency/liquidation of
+
+       the Corporate Debtor- hence, NCLT is empowered to adjudicate under
+S.60(5)
+.
+6.2    OWNERSHIP OF THE GOODS
+i)     Determination of Ownership of Goods must be seen in terms of
+
+       the Code and not under the
+Customs Act
+, and as per
+S.18(f)(ii)
+r/w,
+
+       S.(3)(b) of the Code. Therefore, the RP/Liquidator can even take those
+
+       assets that did not have the CD. In a similar case having almost
+
+       identical facts, this Appellate Tribunal, in Commissioner of Customs
+
+Company Appeal (AT) (Insolvency) No. 236 of 2021                         15 of 39
+        (Preventive), West Bengal v. Ram Swarup Industries Ltd. & Ors. 2019
+
+       SCC Online NCLAT 371 [Para 3-9 and 15-24] restrained the Customs
+
+       Authorities from selling the assets of that CD and had directed the
+
+       officers to hand over the assets to the RP, after referring to the
+
+       provisions of the
+Customs Act
+and the decision of the Calcutta High
+
+       Court in
+Collector of Customs v. Dytron (India) Ltd
+(also relied upon by
+
+       the Appellant in the present case). The Appellant has failed to plead
+
+       how the decision of Ram Swarup does not apply to this Appeal.
+ii)    Similarly, the Hon'ble High Court of Andhra Pradesh in the case
+
+       of
+Leo Edibles & Fats Ltd. v. The Tax Recovery Officer (Central) Income
+
+       Tax Department, Hyderabad and Ors.
+2018 SSC Online Hyd 193 (Para
+- 1, 13-19, 24 & 31) directed the Income Tax Authorities to file its Claim
+
+       with the Liquidator and further directed the IT authorities to lift the
+
+       Order of attachment over the goods of the CD.
+iii)   The Appellant does not dispute the CD's ownership of these
+
+       Goods in various warehouses and CFSs in any manner whatsoever. The
+
+       Appellant's claims were made before the Respondent on the
+
+       assumption that the Goods belonged to the CD. Assuming without
+
+       admitting that any loss of title occurs by deeming fiction under the
+Customs Act
+, this deeming fiction cannot be extended to other statutes,
+
+       such as the I & B Code. A deeming fiction under one statute cannot be
+
+       extended to other statutes. [
+Para - 6 State of Maharashtra v Laljit Rajshi
+
+       Shah
+(2002) 2 SCC 699)] and (
+Para - 18, Meghraj Biscuits Industries
+
+       Ltd. Vs. Commissioner of C. Ex., UP
+(2007 (210) ELT 161 (SC)].
+
+Company Appeal (AT) (Insolvency) No. 236 of 2021                          16 of 39
+iv)    Even the Customs Act recognises the primacy of the Code.
+
+       Accordingly, as per
+S.142A
+(non-obstante Clause) of the Customs Act,
+
+       the statutory charge of the Appellant is expressly subordinate and
+
+       subject to the provisions of the Code (see S.238 of the Code) and cannot
+
+       be resorted to for the recovery of any of the Appellant's alleged dues
+
+       against the Corporate Debtor.
+v)     The Appellant has not relied on a single decision to bolster its
+
+       argument that the Customs Authorities can sell the Assets of the CD
+
+       after CIRP/Liquidation has been initiated even though it has the goods
+
+       despite filing its Claim with the Liquidator and subjecting itself to the
+
+       jurisdiction of the Code. The Code does not permit creditor (including a
+
+       statutory authority) who is in possession of an asset of the CD to sell
+
+       such asset to realise its statutory dues, particularly when FC's who
+
+       might also similarly be in possession over the assets of the CD is
+
+       otherwise restrained from selling the assets in their possession having
+
+       subjected themselves to the jurisdiction of the Code.
+vi)
+The Customs Act
+, the I&B Code, and the decisions of the Hon'ble
+
+       Supreme Court, various Hon'ble High Courts and even the decision of
+
+       this Hon'ble Appellate Tribunal are squarely in favour of the
+
+       Respondent and against the Appellant.
+7.     ANALYSIS
+
+7.1    The learned Adjudicating Authority has passed the impugned Order on
+
+the premise that Insolvency and Bankruptcy Code, 2016 is a special law that
+
+
+Company Appeal (AT) (Insolvency) No. 236 of 2021                         17 of 39
+ provides a non-obstante clause under Section 238 of the Code with overriding
+
+effect over other prevailing law and statute, time being in force. Further,
+
+relying on the case-law of Hon'ble Supreme Court in the case of
+Solitaire India
+
+Private Limited versus Fairgrowth Financial Services
+(2001) 3 SCC 71, it is
+
+argued that if there are two special statutes, which contain non-obstante
+
+provisions, the later statute must prevail. Therefore, by virtue of Section 238
+
+of the Code being a subsequent law, the proceeding contained therein shall
+
+have an overriding effect on the other proceedings of the Customs and Central
+
+Excise Act.
+7.2    Based on the above, the Adjudicating Authority held that provisions of
+Section 53
+of the Code prescribe the Order of priority for distribution of
+
+proceeds from the sale of liquidation assets, which shall prevail over the
+
+provisions of
+Section 11(e)
+of the Central Excise Act and other provisions of
+
+the
+Customs Act
+.
+7.3    Therefore, the Respondent Department cannot legally withhold the
+
+releasing of the material/goods, which are the property of the Corporate
+
+Debtor Company (in Liquidation) and impose a prerequisite condition for
+
+making payment of the customs duty by the Liquidator of the Corporate
+
+Debtor Company (under Liquidation) because the claims of the Respondent's
+
+Department have to be treated as a Government Dues and needs to be dealt
+
+with under the waterfall mechanism provided under
+Section 53
+of the
+
+Insolvency and Bankruptcy Code, 2016.
+7.4    It is essential to mention that the goods lying in the Customs bonded
+
+warehouses are not the Corporate Debtor's assets since it never claimed them
+
+Company Appeal (AT) (Insolvency) No. 236 of 2021                        18 of 39
+ after importing them. Although the containers were imported between 2012
+
+to 2015, the Corporate Debtor entered the liquidation process on April 25
+
+2019. In this long span of about four years, the Corporate Debtor never
+
+cleared the bills of entry for some of the said goods.
+
+
+7.5    Given the definition of 'imported goods' under
+Section 1 (25)
+of the
+
+Customs Act, 1962', goods brought into India from a place outside India but
+
+do not include goods cleared for home consumption. In the present case, the
+
+goods lying in various CFS imported by Corporate Debtors are not cleared for
+
+home consumption.
+The Customs Act
+1962 provides a procedure to import
+
+goods into India. However,
+Section 45
+states that all imported goods shall
+
+remain in the port area unless cleared for import.
+
+
+7.6    Admittedly, in the instant case, the containers were not cleared after
+
+import.
+Section 46 (3)
+mandates the importer to present a bill of entry within
+
+30 days of the arrival of the goods at the Port. Admittedly, for 15 containers,
+
+no bill of entry has been filed to date.
+Section 48
+provides that imported goods
+
+for which no bill of entry has been filed or cleared for import can be sold by
+
+the custodian of those goods. Therefore, the importer has relinquished his
+
+title to the imported goods by not filing a bill of entry for several years and not
+
+removing the imported goods.
+7.7    It is essential to mention that
+Section 35 (1) (b)
+of the Insolvency and
+
+Bankruptcy Code, 2016 empowers the Liquidator to take control of the
+
+Corporate Debtor's assets and properties. Therefore, the Liquidator has first
+
+
+
+
+Company Appeal (AT) (Insolvency) No. 236 of 2021                            19 of 39
+ to ascertain that the assets for which custody has been sought belong to the
+
+Corporate Debtor.
+7.8    By not filing the bill of entry for several years and not paying the
+
+Customs Duty and other charges, and taking clearance for home
+
+consumption about the imported goods, the importer deemed to have lost his
+
+title to the imported goods, in terms of
+Section 48
+&
+Section 72
+of the Customs
+
+Act. Thus the Custom Authorities are empowered to sell the goods and to
+
+recover the government dues. But, on the other hand, the Liquidator had no
+
+power to take into possession of those goods in respect of which the Corporate
+
+Debtor itself had relinquished its Claim and left it abundant without taking
+
+any steps for clearance of the goods for home consumption by paying the
+
+customs duty and other applicable charges.
+7.9    The Liquidator intends to possess the uncleared goods from the
+
+customs warehouses without upfront payment of custom duty is flawed. In
+
+the context of identifying the goods or properties of the Company, 'imported
+
+goods', subject to levy of Customs, stand on a different footing. The customs
+
+duty is more a consequence of importing the goods than the importer's
+
+liability to pay it. Even before initiating the Corporate Insolvency Resolution
+
+Process, the Corporate Debtor Company could not have secured the
+
+possession of the imported goods except by paying the Customs duty. The
+
+Resolution Professional/Liquidator who virtually represents the Company
+
+cannot stand better than the Corporate Debtor.
+7.10 The Liquidator could take possession of only the Company's assets,
+
+which the Company itself could have obtained. The liquidation proceedings
+
+Company Appeal (AT) (Insolvency) No. 236 of 2021                        20 of 39
+ do not change the rights in this regard, and Customs Duty needs to be paid
+
+for the release of the goods by the importer. In the circumstances as stated
+
+above, the materials lying in the customs bonded warehouses can not be
+
+treated as 'Assets of the Corporate Debtor'. Thus, the Liquidator cannot claim
+
+goods without payment of Customs dues to settle claims of the secured
+
+creditors.
+Section 142
+of the Customs Act deals with the provision to settle
+
+the   claims    of   Customs      by    proceeding     against   the   materials    lying
+
+uncleared/unclaimed in the warehouses since liabilities under the
+Customs
+
+Act
+are the first charge under
+Section 142 A
+of the Customs Act.
+
+
+7.11 Before taking a decision, it is also necessary to go through the relevant
+
+provisions of
+Customs Act
+1962, which are given below for ready reference;
+Clearance of Imported Goods
+45.     Restrictions on custody and removal of imported
+       goods.--
+(1)     Save as otherwise provided in any law for the time being
+       in force, all imported goods unloaded in a customs area shall
+       remain in the custody of such person as may be approved by
+       the Principal Commissioner of Customs or Commissioner of
+       Customs until they are cleared for home consumption or are
+       warehoused or are transhipped in accordance with the
+       provisions of Chapter VIII.
+(2)     The person having custody of any imported goods in a
+       customs area, whether under the provisions of sub-section (1)
+       or under any law for the time being in force,--
+(a)    shall keep a record of such goods and send a copy
+                      thereof to the proper officer;
+Company Appeal (AT) (Insolvency) No. 236 of 2021                                   21 of 39
+(b)     shall not permit such goods to be removed from the
+                      customs area or otherwise dealt with, except
+                      under and in accordance with the permission in
+                      writing of the proper officer    230[or   in such manner
+                      as may be prescribed].
+[(3)   Notwithstanding anything contained in any law for the
+       time being in force, if any imported goods are pilfered after
+       unloading thereof in a customs area while in the custody of a
+       person referred to in sub-section (1), that person shall be liable
+       to pay duty on such goods at the rate prevailing on the date of
+       delivery of an [arrival manifest or import manifest] or, as the
+       case may be, an import report to the proper officer under
+Section
+       30
+for the arrival of the conveyance in which the said goods
+       were carried.]
+46.    Entry of goods on importation.--(1) The importer of
+       any goods, other          than goods        intended for transit or
+       transhipment,         shall       make       entry        thereof   by
+       presenting 2[electronically] [on the customs automated system]
+       to the proper officer a bill of entry for home consumption or
+       Warehousing [in such form and manner as may be prescribed]:
+[Provided that the Principal Commissioner of Customs or
+       Commissioner of Customs may, in cases where it is not feasible
+       to make entry by presenting electronically [on the customs
+       automated system], allow an entry to be presented in any other
+       manner:
+Provided further that] if the importer makes and
+       subscribes to a declaration before the proper officer, to the effect
+       that he is unable for want of full information to furnish all the
+       particulars of the goods required under this sub-section, the
+       proper officer may, pending the production of such information,
+
+
+Company Appeal (AT) (Insolvency) No. 236 of 2021                                 22 of 39
+        permit him, previous to the entry thereof: (a) to examine the
+       goods in the presence of an officer of customs, or (b) to deposit
+       the goods in a public warehouse appointed under
+Section 57
+without warehousing the same.
+(2)    Save as otherwise permitted by the proper officer, a bill
+       of entry shall include all the goods mentioned in the bill of
+       lading or other receipt given by the carrier to the consignor.
+[(3)  The importer shall present the bill of entry under
+       sub-section (1) [before the end of the day (including
+       holidays) preceding the day] on which the aircraft or
+       vessel or vehicle carrying the goods arrives at a customs
+       station at which such goods are to be cleared for home
+       consumption or Warehousing:
+[Provided that the Board may, in such cases as it may deem fit,
+       prescribe different time limits for presentation of the bill of
+       entry, which shall not be later than the end of the day of such
+       arrival:
+Provided further that] a bill of entry may be presented [at
+       any time not exceeding thirty days prior to] the expected
+       arrival of the aircraft or vessel or vehicle by which the
+       goods have been shipped for importation into India:
+[Provided also that] where the bill of entry is not presented
+       within the time so specified and the proper officer is satisfied
+       that there was no sufficient cause for such delay, the importer
+       shall pay such charges for late presentation of the bill of entry
+       as may be prescribed.]
+
+       (4)    The importer while presenting a bill of entry shall [* * *]
+       make and subscribe to a declaration as to the truth of the
+       contents of such bill of entry and shall, in support of such
+       declaration, produce to the proper officer the invoice, if
+Company Appeal (AT) (Insolvency) No. 236 of 2021                            23 of 39
+        any, [and such other documents relating to the imported goods
+       as may be prescribed].
+[(4-A) The importer who presents a bill of entry shall ensure the
+       following, namely--
+(a)     the accuracy and completeness of the information
+                      given therein;
+(b)     the authenticity and validity of any document
+                      supporting it; and
+(c)     compliance with the restriction or prohibition, if
+                      any, relating to the goods under this Act or under
+                      any other law for the time being in force.]
+
+       (5)    If the proper officer is satisfied that the interests
+       of revenue are not prejudicially affected and that there
+       was no fraudulent intention, he may permit substitution
+       of a bill of entry for home consumption for a bill of entry
+       for Warehousing or vice versa.
+47.    Clearance of goods for home consumption.--[(1)]
+       Where the proper officer is satisfied that any goods
+       entered for home consumption are not prohibited goods
+       and the importer has paid the import duty, if any,
+       assessed thereon and any charges payable under this Act
+       in respect of the same, the proper officer may make an
+       order permitting clearance of the goods for home
+       consumption.
+[Provided that such Order may also be made electronically
+       through the customs automated system on the basis of risk
+       evaluation through appropriate selection criteria:
+Company Appeal (AT) (Insolvency) No. 236 of 2021                           24 of 39
+        Provided further that] the Central Government may, by
+       notification in the Official Gazette, permit certain class of
+       importers to make deferred payment of said duty or any
+       charges in such manner as may be provided by rules.]
+
+
+       [(2)   [The importer shall pay the import duty--
+(a)     on the date of presentation of the bill of entry
+              in the case of self-assessment; or
+(b)     within one day (excluding holidays) from the
+              date on which the bill of entry is returned to him
+              by the proper officer for payment of duty in the case
+              of    assessment,         reassessment   or   provisional
+              assessment; or
+(c)     in the case of deferred payment under the
+              proviso to sub-section (1), from such due date as
+              may be specified by rules made in this behalf, and
+              if he fails to pay the duty within the time so
+              specified, he shall pay interest on the duty not paid
+              or short-paid till the date of its payment, at such
+              rate, not less than ten per cent but not exceeding
+              thirty-six per cent per annum, as may be fixed by
+              the Central Government, by notification in the
+              Official Gazette.]
+
+       [Provided that the Central Government may, by notification in
+       the Official Gazette, specify the class or classes of importers
+       who shall pay such duty electronically:
+Provided further that] where the bill of entry is returned for
+       payment of duty before the commencement of the Customs
+       (Amendment) Act, 1991 and the importer has not paid such
+       duty before such commencement, the date of return of such bill
+
+Company Appeal (AT) (Insolvency) No. 236 of 2021                          25 of 39
+        of entry to him shall be deemed to be the date of such
+       commencement for the purpose of this section:]
+
+       [Provided also that] if the Board is satisfied that it is necessary
+       in the public interest so to do, it may, by Order for reasons to
+       be recorded, waive the whole or part of any interest payable
+       under this section.]
+48.       Procedure      in   case     of   goods    not   cleared,
+       warehoused,         or     transhipped      within   [thirty   days]
+       255 after unloading.--If any goods brought into India
+       from a place outside India are not cleared for home
+       consumption           or      warehoused        or    transhipped
+       within [thirty days] from the date of the unloading
+       thereof at a customs station or within such further time
+       as the proper officer may allow or if the title to any
+       imported goods is relinquished, such goods may, after
+       Notice to the importer and with the permission of the
+       proper officer, be sold by the person having the custody
+       thereof:
+Provided that--
+(a)       animals, perishable goods and hazardous goods, may,
+       with the permission of the proper officer, be sold at any time;
+(b)       arms and ammunition may be sold at such time and
+       place and in such manner as the Central Government may
+       direct.
+Explanation.--In this section, "arms" and "ammunition" have
+       the meanings respectively assigned to them in the
+Arms Act,
+       1959
+(54 of 1959).
+[49.      Storage of imported goods in warehouse pending
+       clearance or removal.--Where,--
+Company Appeal (AT) (Insolvency) No. 236 of 2021                              26 of 39
+(a)     in the case of any imported goods, whether dutiable or
+       not, entered for home consumption, the Assistant Commissioner
+       of Customs or Deputy Commissioner of Customs is satisfied on
+       the application of the importer that the goods cannot be cleared
+       within a reasonable time;
+(b)     in the case of any imported dutiable goods, entered for
+       Warehousing, the Assistant Commissioner of Customs or
+       Deputy Commissioner of Customs is satisfied on the application
+       of the importer that the goods cannot be removed for deposit in
+       a warehouse within a reasonable time, the goods may pending
+       clearance or removal, as the case may be, be permitted to be
+       stored in a public warehouse for a period not exceeding thirty
+       days:
+Provided that the provisions of Chapter IX shall not apply to
+       goods permitted to be stored in a public warehouse under this
+       section:
+Provided further that the Principal Commissioner of Customs or
+       Commissioner of Customs may extend the period of storage for
+       a further period not exceeding thirty days at a time.]
+68.     Clearance       of    warehoused    goods    for   home
+       consumption. - Any warehoused goods may be cleared from
+       the warehouse] for home consumption, if--
+(a)    a bill of entry for home consumption in respect of
+               such goods has been presented in the prescribed form;
+
+               [(b) the import duty, interest, fine and penalties payable
+               in respect of such goods have been paid; and]
+(c)    an order for clearance of such goods for home
+               consumption has been made by the proper officer:
+Company Appeal (AT) (Insolvency) No. 236 of 2021                            27 of 39
+        [Provided that the Order referred to in Clause (c) may also be
+       made electronically through the customs automated system on
+       the basis of risk evaluation through appropriate selection
+       criteria:
+Provided further that] the owner of any warehoused goods
+       may, at any time before an order for clearance of goods for
+       home consumption has been made in respect of such goods,
+       relinquish his title to the goods upon payment of       295[*   * *]
+       penalties that may be payable in respect of the goods and upon
+       such relinquishment, he shall not be liable to pay duty thereon:]
+
+       [Provided also that] the owner of any such warehoused goods
+       shall not be allowed to relinquish his title to such goods
+       regarding which an offence appears to have been committed
+       under this Act or any other law for the time being in force.]
+71. Goods not to be taken out of warehouse except as
+       provided by this Act.--No warehoused goods shall be taken
+       out of a warehouse except on clearance for home consumption
+       or [export], or for removal to another warehouse, or as
+       otherwise, provided by this Act.
+72. Goods improperly removed from warehouse, etc.--(1)
+       In any of the following cases, that is to say,--
+(a)    where any warehoused goods are removed from a
+              warehouse in contravention of
+Section 71
+;
+(b)    where any warehoused goods have not been
+              removed from a warehouse at the expiration of the
+              period during which such goods are permitted
+              under
+Section 61
+to remain in a warehouse;
+(c)    [* * *]
+
+
+
+Company Appeal (AT) (Insolvency) No. 236 of 2021                              28 of 39
+        (d)    where any goods in respect of which a bond has been
+executed under [
+Section 59
+[* * *]] and which have not
+              been cleared for home consumption or [export or] are not
+              duly accounted for to the satisfaction of the proper officer,
+              the proper officer may demand, and the owner of
+              such goods shall forthwith pay, the full amount of
+              duty chargeable on account of such goods together
+              with [interest, fine and penalties] payable in
+              respect of such goods.
+(2)    If any owner fails to pay any amount demanded
+       under sub-section (1), the proper officer may, without
+       prejudice to any other remedy, cause to be detained and
+       sold, after Notice to the owner (any transfer of the goods
+       notwithstanding) such sufficient portion of his goods, if
+       any, in the warehouse, as the said officer may [deem fit]."
+
+7.12 It is pertinent to mention that the
+Customs Act
+1962 is a complete Code
+
+in itself. It provides that goods that are once warehoused cannot be released
+
+from the warehouse unless and until the import duties are paid. Hon'ble High
+
+Court of Calcutta in case of
+Collector of Customs v Dytron (India) Ltd
+,
+
+(05.11.1998 - MANU/WB/0334/1998) has held that:
+"23.   The Customs Authorities are correct in their submission
+       that until and unless their duties and statutory dues are paid
+       under the provisions noted above, the chemicals were not
+       available legally for sale to the purchasers at all. That is to say
+       the assets would form a part of the assets of the Company
+       available for distribution by virtue of Liquidation subject to
+       payment of the Customs Duties and interest etc. The provisions
+       of
+Sections 529
+and
+530A
+of the Companies Act, 1956 apply to
+       situations where the Claim of creditors in respect of the sale
+       proceeds of the assets of the Company sold in Liquidation are
+
+Company Appeal (AT) (Insolvency) No. 236 of 2021                              29 of 39
+        to be determined. The Customs Authorities claim to the
+       chemicals in question, in which the Customs Authorities had a
+       statutory right of detention and confiscation, had to be met
+       before the chemicals could be validly sold as assets of the
+       Company in Liquidation. The Claim of the Customs Authorities
+       would, therefore, stand outside proceedings under Sections
+       529, 529A and 530 of the 1956 Act."
+7.13 Further,
+Section 45
+of the Customs Act lays down restrictions on
+
+custody and removal of imported goods. It provides that all imported goods
+
+unloaded in the customs area shall remain in the custody of such person as
+
+the Commissioner of Customs may approve until they are cleared for home
+
+consumption or warehoused or transhipped.
+Section 47
+of the Customs Act
+
+provides that if any goods are entered for home consumption and the importer
+
+has paid the import duty, if any assessed thereon and any charges payable in
+
+respect of the same, then only the proper officer may make an order permitting
+
+clearance of the goods for home consumption.
+Section 48
+of the Customs Act
+
+lays down the provision if goods are not cleared, warehoused, or transhipped
+
+within 30 days after unloading. It provides that if goods are not cleared for
+
+home consumption or warehoused or transhipped within 30 days from the
+
+date of unloading thereof at the customs station, or within such other time,
+
+as the proper officer may allow, such goods may after notice to the importer
+
+and with the permission of the proper officer, be sold by the person having
+
+the custody thereof. Finally,
+section 71
+of the Act lays down the restriction
+
+that no good shall be taken out of the warehouse except provided under the
+
+Act.
+Company Appeal (AT) (Insolvency) No. 236 of 2021                       30 of 39
+ 7.14 Based on the statutory provisions of the
+Customs Act, 1962
+, it is clear
+
+that the goods imported for home consumption cannot be removed from the
+
+custody of the customs without paying the import duty and the charges
+
+thereon under the provisions of the Act.
+7.15 Hon'ble Supreme Court in case of
+Gujarat Urja Vikas Nigam Ltd. v. Amit
+
+Gupta
+, (2021) 7 SCC 209: 2021 SCC OnLine SC 194 at page 262 has held
+
+that;
+"69. The institutional framework under IBC contemplated the
+        establishment of a single forum to deal with matters of
+        insolvency, which were distributed earlier across multiple fora.
+        In the absence of a court exercising exclusive jurisdiction over
+        matters relating to insolvency, the corporate debtor would have
+        to file and/or defend multiple proceedings in different fora.
+        These proceedings may cause undue delay in the insolvency
+        resolution process due to multiple proceedings in trial courts
+        and courts of Appeal. A delay in completion of the insolvency
+        proceedings would diminish the value of the debtor's assets
+        and hamper the prospects of a successful reorganisation or
+        Liquidation. For the success of an insolvency regime, it is
+        necessary that insolvency proceedings are dealt with in a
+        timely, effective and efficient manner. Pursuing this theme
+        in
+Innoventive [Innoventive Industries Ltd. v. ICICI Bank
+, (2018)
+        1 SCC 407 : (2018) 1 SCC (Civ) 356] this Court observed that :
+(SCC p. 422, para 13)
+
+              "13.    One of the important objectives of the Code is to
+              bring the insolvency law in India under a single unified
+              umbrella with the object of speeding up of the insolvency
+              process."
+Company Appeal (AT) (Insolvency) No. 236 of 2021                            31 of 39
+        The principle was reiterated in
+ArcelorMittal [ArcelorMittal
+       (India) (P) Ltd. v. Satish Kumar Gupta
+, (2019) 2 SCC 1] where
+       this Court held that : (SCC p. 88, para 84)
+
+              "84.    The non obstante Clause in
+Section 60(5)
+is
+              designed for a different purpose : to ensure that NCLT
+              alone has jurisdiction when it comes to applications and
+              proceedings by or against a corporate debtor covered by
+              the Code, making it clear that no other forum has
+              jurisdiction to entertain or dispose of such applications or
+              proceedings."
+Therefore, considering the text of
+Section 60(5)(c)
+and the
+       interpretation of similar provisions in other insolvency
+       related statutes, NCLT has jurisdiction to adjudicate
+       disputes, which arise solely from or which relate to the
+       insolvency of the corporate debtor. However, in doing so,
+       we issue a note of caution to NCLT and NCLAT to ensure
+       that they do not usurp the legitimate jurisdiction of other
+       courts, tribunals and fora when the dispute is one which
+       does not arise solely from or relate to the insolvency of
+       the corporate debtor. The nexus with the insolvency of
+       the corporate debtor must exist.
+****
+77.    Reliance has also been placed on the judgment of this
+       Court in
+Embassy Property [Embassy Property Developments
+       (P) Ltd. v. State of Karnataka
+, (2020) 13 SCC 308] , where this
+       Court held that NCLT and NCLAT did not have jurisdiction over
+       a dispute arising under the
+Mines and Minerals (Development
+       and Regulation) Act, 1957
+, in relation to the refusal of the State
+       of Karnataka to extend a mining lease. The primary
+       consideration which weighed with this Court while coming to
+       its decision was that NCLT cannot have jurisdiction on matters
+       of public law. This Court held: (SCC p. 331, para 37)
+Company Appeal (AT) (Insolvency) No. 236 of 2021                             32 of 39
+               "37.    Clause (c) of sub-section (5) of
+Section 60
+is very
+              broad in its sweep, in that it speaks about any question
+              of law or fact, arising out of or in relation to insolvency
+              resolution. But a decision taken by the Government or a
+              statutory authority in relation to a matter which is in the
+              realm of public law, cannot, by any stretch of
+              imagination, be brought within the fold of the phrase
+              "arising out of or in relation to the insolvency resolution"
+appearing in Clause (c) of sub-section (5)."
+(emphasis in original)
+
+       In the present case the decision to terminate PPA has not been
+       taken by any governmental or statutory authority acting within
+       the domain of its public law functions. The decision has been
+       simply taken by a contracting party solely on account of the
+       initiation of insolvency proceedings against the corporate
+       debtor in terms of an agreement between the parties."
+
+7.16 Thus, it is clear that NCLT and NCLAT cannot usurp the legitimate
+
+jurisdiction of other Courts, Tribunals and fora when the dispute does not
+
+arise solely from or relating to the Insolvency of the Corporate Debtor. In the
+
+instant case, the Corporate Debtor had abandoned the imported goods in the
+
+Customs warehouses for several years and failed to pay the import duty and
+
+other charges and had not taken any steps to take possession of those goods
+
+for several years. Therefore, the importer had lost his right to the imported
+
+goods. Consequently, the Customs Authorities are fully empowered under
+Section 72
+of the Act to sell those goods to recover the government dues. The
+
+Liquidator has no right to take into possession over those goods for which the
+
+Corporate Debtor's title is deemed relinquished by implication of law. Even
+
+before initiating the Corporate Insolvency Resolution Process, the Corporate
+
+
+Company Appeal (AT) (Insolvency) No. 236 of 2021                             33 of 39
+ Debtor Company could not have secured the possession of the imported goods
+
+except by paying the customs duty. The Resolution Professional/Liquidator,
+
+who virtually represents the Company, cannot stand on a better footing than
+
+the Corporate Debtor itself.
+7.17 The learned Counsel for the Respondent Liquidator has placed reliance
+
+on the judgement of the Hon'ble Supreme Court in the case of
+Gujarat Urja
+
+Vikas Nigam Ltd. v. Amit Gupta
+, (2021) 7 SCC 209: 2021 SCC OnLine SC
+
+194 at page 262, wherein it is held that;
+"176.      Given that the terms used in
+Section 60(5)(c)
+are of
+       wide import, as recognised in a consistent line of authority, we
+       hold that NCLT was empowered to restrain the Appellant from
+       terminating PPA. However, our decision is premised upon a
+       recognition of the centrality of PPA in the present case to the
+       success of CIRP, in the factual matrix of this case, since it is the
+       sole contract for the sale of electricity which was entered into
+       by the corporate debtor. In doing so, we reiterate that NCLT
+       would have been empowered to set aside the termination of
+       PPA in this case because the termination took place solely on
+       the ground of insolvency. The jurisdiction of NCLT under
+Section
+       60(5)(c)
+of IBC cannot be invoked in matters where a
+       termination may take place on grounds unrelated to the
+       insolvency of the corporate debtor. Even more crucially, it
+       cannot even be invoked in the event of a legitimate termination
+       of a contract based on an ipso facto clause like Article 9.2.1(e)
+       herein, if such termination will not have the effect of making
+       certain the death of the corporate debtor. As such, in all future
+       cases, NCLT would have to be wary of setting aside valid
+       contractual terminations which would merely dilute the value
+       of the corporate debtor, and not push it to its corporate death
+
+Company Appeal (AT) (Insolvency) No. 236 of 2021                              34 of 39
+        by virtue of it being the corporate debtor's sole contract (as was
+       the case in this matter's unique factual matrix).
+177.      The terms of our intervention in the present case are
+       limited. Judicial intervention should not create a fertile ground
+       for the revival of the regime under
+Section 22
+of SICA which
+       provided for suspension of wide-ranging contracts.
+Section 22
+of the SICA cannot be brought in through the back door. The
+       basis of our intervention in this case arises from the fact that if
+       we allow the termination of PPA which is the sole contract of
+       the corporate debtor, governing the supply of electricity which
+       it generates, it will pull the rug out from under CIRP, making the
+       corporate death of the corporate debtor a foregone conclusion."
+7.18 The learned counsel for the Respondent Liquidator submits that 'Form
+
+C' filed by the Appellant is about the Corporate Debtor's warehoused goods,
+
+which were warehoused by filing bills of entries for Warehousing. Claim Form
+
+C itself identifies 2531 bills of entries for Warehousing. It is further argued
+
+that the Corporate Debtor has not lost ownership of the goods is also evident
+
+from the fact that the Appellant has filed its Claim about the Warehoused
+
+goods in 'Form C' before the Liquidator. It is also said that by filing the Claim
+
+before the Liquidator, the Appellant admits the ownership of the Corporate
+
+Debtor and accepts the authority of the Liquidator to decide the Claim about
+
+the Government Dues, which shall be decided in terms of Sec 53 of the Code.
+
+
+7.19 It is essential to mention that by filing the Claim before the Liquidator,
+
+it cannot be said that the Appellant had relinquished its right over the
+
+warehoused goods and submitted it to the jurisdiction of the Liquidator.
+
+Hon'ble Supreme Court in case of
+ICICI Bank Ltd. v. SIDCO Leathers Ltd.,
+
+
+Company Appeal (AT) (Insolvency) No.
+236 of 2021                             35 of 39
+ (2006) 10 SCC 452: 2006 SCC OnLine SC 498 at page 469 clarified the
+
+position of law regarding relinquishment of right which is as under;
+"53. The expression "relinquish" has a different connotation.
+       In P. Ramanatha Aiyar's Advanced Law Lexicon at p. 4047, it
+       is stated:
+"Relinquish.--To give over possession or control of; to leave
+       off."
+It envisages a conscious act i.e. an act where a person
+       was aware of his right and then relinquishes the same.
+       The same must be for the general benefit of the creditors.
+       His action must lead to a conclusion that he, for one
+       reason or the other, intended to stand in the queue for
+       receiving money owed to him. It, however, does not stand
+       obliterated only by the filing of an affidavit or proof of
+       Claim with the Official Liquidator. Such a claim had
+       been filed pursuant to a notice issued by the Official
+       Liquidator. If the creditor does not respond to the said
+       Notice, he would not be in a position to bring to the Notice
+       of the Official Liquidator, the existence of his right."
+
+7.20 In the instant case, the Appellant has filed its Claim before the
+
+Liquidator in response to the Notice issued by the Liquidator. Given the law
+laid down by
+the Hon'ble Supreme Court in the above-mentioned case, it is
+
+clear that by submission of Claim in response to the Notice issued by the
+
+Liquidator, it can not be presumed that the Appellant had relinquished its
+
+right over the property and submitted to the jurisdiction of the Liquidator.
+
+The Claim is filed in an effort to realise its dues. Still, it will not amount to
+
+relinquishment of its right over the Warehoused goods under its custody for
+
+Company Appeal (AT) (Insolvency) No. 236 of 2021                          36 of 39
+ which Appellant has every right to sell those goods for the realisation of the
+
+Government dues.
+7.21 The learned Counsel for the Respondent further emphasised Section
+
+238 of the Code, which provides that it shall have an overriding effect
+
+notwithstanding any law inconsistent with the Code. The Appellant's
+
+contention is not sustainable on the ground that
+Sections 48
+,
+72
+,
+142
+and
+142 A
+of the Customs Act is inconsistent with
+Sections 14
+and
+33
+of the I&B
+
+Code. Because it allows the Appellant to initiate recovery proceedings against
+
+the Corporate Debtor by selling the assets of the Corporate Debtor in the
+
+custody of the Appellant, it is in contravention of the provisions of the Code,
+
+which bars initiation or continuation of any such proceeding under
+Sections
+
+14
+and
+33
+of the Code, which does not provide any priority to the Appellant
+
+under
+Section 53
+of the Code.
+7.22 It is further said that when two special statutes contain non-obstante
+
+provisions, the later statute must prevail. Thus the Appellant cannot bypass
+
+the mandatory and special provisions of the Code by unlawfully resorting to
+
+provisions of the
+Customs Act
+.
+7.23 We are not convinced with the argument advanced by the Respondent
+
+because the goods imported by the Corporate Debtor were imported much
+
+before the initiation of the Corporate Insolvency Resolution Process, and the
+
+Corporate Debtor never claimed them after import. Undisputedly the
+
+containers were imported between 2012 to 2015. The CIRP was initiated
+
+
+
+
+Company Appeal (AT) (Insolvency) No. 236 of 2021                        37 of 39
+ against the Corporate Debtor in 2017, and the liquidation order was passed
+
+on April 25 2019.
+7.24 Therefore, the Corporate Debtor's assets because the Corporate Debtor
+
+never made any effort for clearing the goods by paying Customs Duty and
+
+other applicable charges before the initiation of Liquidation proceeding after
+
+importing them. Undisputedly the containers were imported between 2012 to
+
+2015. The CIRP was initiated against the Corporate Debtor in 2017, and the
+
+liquidation order was passed in April 25, 2019. Therefore the assets lying in
+
+the Customs bonded warehouses cannot be considered assets of the
+
+Corporate Debtor. The Liquidator intends to possess the uncleared goods from
+
+the customs warehouses without upfront payment of Customs duty, which is
+
+against the statutory provisions of the
+Customs Act, 1962
+. Therefore, the
+
+imported goods subject to levy of Customs stand on a different footing than
+
+the goods /assets, not in the Corporate Debtor's possession. Therefore the
+
+assets lying in the Customs bonded warehouses cannot be considered assets
+
+of the Corporate Debtor.
+7.25 Based on the above discussion, we believe that the Adjudicating
+
+Authority committed an error in directing the release of goods without paying
+
+customs duty and other applicable charges. Thus Appeal deserves to be
+
+allowed.
+ORDER
+
+       The Appeal is allowed - no Order as to costs. Impugned Order dated
+
+February 25, 2020, passed by the Adjudicating Authority/National Company
+
+Law Tribunal, Ahmedabad Bench, Ahmedabad in IA No. 474 of 2019 in
+Company Appeal (AT) (Insolvency) No. 236 of 2021                       38 of 39
+ Company Petition (IB) No.53/NCLT/AHM/2017, whereby the Adjudicating
+
+Authority had directed removal of the materials lying in the Customs Bonded
+
+Warehouses without payment of Customs Duty under
+Section 60(5)
+of the
+
+Insolvency and Bankruptcy Code, 2016 is modified to the extent that goods
+
+can be released or disposed of as per Applicable Provisions of Customs Act by
+
+the Proper Officer.
+[Justice M. Venugopal]
+                                                           Member (Judicial)
+
+
+                                                            [Mr. V. P. Singh]
+                                                          Member (Technical)
+
+
+                                                   [Dr. Ashok Kumar Mishra]
+                                                          Member (Technical)
+NEW DELHI
+22nd November, 2021
+
+pks
+
+
+
+
+Company Appeal (AT) (Insolvency) No. 236 of 2021                      39 of 39

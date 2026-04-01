@@ -1,0 +1,186 @@
+Title: Search
+Court: High Court
+Date: Unknown Date
+Citation: citations: 1995(0)MPLJ296
+Source: https://indiankanoon.org/doc/551916/
+
+[Cites
+27
+, Cited by
+50
+]
+Madhya Pradesh High Court
+Nirbhay Singh And Anr. vs State Of Madhya Pradesh on 30 September, 1994
+Equivalent citations: 1995(0)MPLJ296
+Bench:
+Chief Justice
+,
+Rajeev Gupta
+ORDER
+ 
+
+U.L. Bhat, C.J.
+1. This is an application for anticipatory bail under
+Section 438
+, Criminal Procedure Code filed by two accused in a private complaint alleging commission of offence under
+Section 302
+, Indian Penal Code read with
+Section 34
+, Indian Penal Code. The learned Single Judge who admitted the petition directed issue of notice to the State and further directed that in the meantime the applicant shall not be arrested until further orders. One of us (Bhat, C.J.) who heard the matter at a subsequent stage doubted the maintainability of the application and also the legality of the interim order and referred the matter to a Division Bench. The Division Bench was of the opinion that the matter should be examined by a Full Bench and accordingly reference has been made. That is how the matter has come before us.
+2. The police registered a case against two accused on the information furnished by the complainant. After investigation, charge-sheet has been filed agains the two accused. Thereafter, the first informant filed a private complaint before the Court concerned alleging that he had laid information with the police against seven persons, but information was recorded only against two persons and this was done so to help the other persons to escape the process of law. The complaint was, therefore, directed against the remaining five persons. The learned Magistrate recorded the sworn statement of the complainant and the statements of other witnesses produced, took cognizance and directed issue of non-bailable warrant against the five accused under
+Section 204
+of the Code of Criminal Procedure, 1973 (for short 'the Code'). Thereafter, two among the five accused have filed the present application under
+Section 438
+, Criminal Procedure Code.
+3. Learned Additional Advocate General appearing for the State contended that an order of anticipatory bail under
+Section 438
+, Criminal Procedure Code can be passed only as long as the competent criminal Court has not taken cognizance or issued process and once the Court has done so, there is no jurisdiction surviving under
+Section 438
+of the Code. He places reliance on a decision of a learned Single Judge of the Rajasthan High Court in
+Rawat Dan v. State of Rajasthan
+, 1975 Cr.LJ. 691. On the other hand, Shri S. L. Kochar, learned counsel for the petitioner and Shri S. C. Datt, Advocate, appointed amicus curiae, submitted that the decision of the Rajasthan High Court has not been followed by the other High Courts, that an earlier decision of the Punjab and Haryana High Court taking a similar view was overruled by a Division Bench of the Punjab and Haryana High Court, and that the High Court of Andhra Pradesh and this Court itself have taken a view contrary to the view taken by the Rajasthan -High Court. Both sides have taken us through the relevant provisions of the Code in support of their respective contentions on the question of maintainability of the application.
+4.
+In the case of
+Rawat Dan v. State of Rajasthan
+, 1975 Crl.L.J. 691, since no action was taken on the first information lodged by the complainant, he filed a private complaint in Court which was sent to the police for investigation and ultimately the police reported the case as false. The Court declined to accept the said report and conducted an inquiry, took cognizance and issued process. The accused appeared in Court and obtained bail. At a subsequent stage, the accused apprehended that the case may be committed to the Court of Session and they may be remanded to custody during and until conclusion of the sessions trial and filed an application under
+Section 438
+of the Code. The learned Judge took the view that the Court exercising jurisdiction under
+Section 438
+, Criminal Procedure Code had no jurisdiction to take bail from an accused who is not in custody in the event of the case against him being committed to the Court of Session as that will interfere with the discretion of the Magistrate under
+Section 209(b)
+and that the provisions of
+Section 209(b)
+give adequate protection to an accused since the exercise of power thereunder by the committing Magistrate is discretionary, and on these counts, held that an application under
+Section 438
+was not maintainable.
+A learned Single Judge of the Gauhati High Court in
+Sarat Kumar Phukan v. Charan Deka
+, 1984 Cri.L.J. 738, held that an application under
+Section 438
+of the Code would lie where the competent Magistrate has issued non-bailable warrant and the appropriate course would be to apply under
+Section 437
+of the Code.
+5. A Division Bench of the Punjab and Haryana High Court took a contrary view in
+Puran Singh v. Ajit Singh
+, 1985 Cri.L.J. 897. In that case, charge-sheet was filed against the accused named in the F.I.R. after exonerating one of them. A private complaint was filed against the excluded person and the Magistrate ultimately issued non-bailable warrant. The Sessions Court rejected an application moved under
+Section 438
+, Criminal Procedure Code on the ground that it was not maintainable. A similar application was filed in the High Court and the Division Bench considered the matter though the trial was almost over, since the question had been referred by a learned Single Judge.
+A learned Single Judge of the Punjab and Haryana High Court had taken a view against the maintainability of such an application in
+Ramlal v. State of Punjab
+, 1976 Cand. LR (Cri.) 388. The Division Bench held that jurisdiction under
+Section 438
+is not dependent on whether the Magistrate acting under
+Section 204
+has issued bailable or non-bailable warrant, that the arrest may be at the instance of the police or at the instance of the Magistrate who has issued the warrant and in either case it may give rise to an apprehension in the mind of the accused that he may be arrested, and such apprehension, if it arises in relation to a non-bailable offence, entitles him to move for anticipatory bail. The Court held that the Court may refuse to give relief if the warrant is a bailable one since it has the same effect as an order under
+Section 438
+.
+6.
+In
+Sheikh Khasim Bi v. State
+, 1986 Cri.L.J. 1303, a Full Bench of the Andhra Pradesh High Court agreed with the view taken by the Punjab and Haryana High Court after elaborate consideration of the legislative history of the provision. The Court held that the provisions in
+Section 438(3)
+do not have the amplitude of the provisions in
+Section 438(1)
+and that filing of charge-sheet does not put an end to the power under
+Section 438
+.
+The Full Bench relied on a Division Bench decision of this Court in
+Ramsewak v. State of M. P.
+, 1980 MPLJ100 = 1979 Cri.LJ. 1485. The Court considered the contention that there may be conflict between non-bailable warrant issued by a Magistrate and an order of anticipatory bail granted by the Sessions Court or High Court and held that in such a case the police shall execute the warrant by arresting the accused and produce him before the Magistrate and shall thereafter release the accused on bail as per the order granting anticipatory bail.
+7. This Court in
+Ramsewak
+'s case held in favour of maintainability of an application under
+Section 438
+of the Code even after issue of process.
+This decision was followed by the learned Single Judge in
+Prema Bai v. State of M. P.
+, 1993 MPLJ 402.
+8. Chapter XXXIII of the Code incorporates provisions as to bail and bonds.
+Section 436
+relates to a person accused of bailable offence. Such a person shall be released on bail at any time while in the custody of such officer or at any stage of the proceeding before the Court to give bail.
+Section 437
+deals with cases where bail may be granted by a Magistrate in cases of non-bailable offences.
+Section 438
+deals with anticipatory bail.
+Section 439
+lays down a special power in High Courts and Sessions Courts to grant bail in all cases. The remaining sections in the Chapter deal with incidental and ancillary matters. Sub-section (1) of
+Section 441
+requires a person released on bail to attend at the time and place mentioned in the bond and to continue so to attend until otherwise directed by the police officer or Court, as the case may be. Sub-section (3) states that if the case so requires, the bond shall also bind the person released on bail to appear when called upon at the High Court, Court of Session or other Court to answer the charge.
+Section 209
+deals with commitment of case to Court of Session when offence is triable exclusively by it. When a case is instituted on a police report or otherwise and the accused has appeared before the Magistrate, and if it appears to the Magistrate that the offence is triable exclusively by the Court of Session, the Magistrate shall after complying with the provisions of
+Sections 207
+and
+208
+, as the case may be, commit the case to the Court of Session. Subject to the provisions of the Code relating to bail he shall remand the accused to custody until such committal has been made. Subject to the provisions of the Code relating to bail, he may also remand the accused into custody during and until conclusion of the trial.
+In
+Kewal Krishan v. Suraj Bhan and another
+, AIR 1980 SC 1780, the Court observed :
+"If the committing Magistrate thinks that it is not necessary to commit the accused who may be on bail to custody he may not cancel the bail. This has been made clear by the words 'subject to the provisions of this Code relating to bail' occurring in clause (b) of
+Section 209
+. Therefore, if the accused is already on bail, his bail should not be arbitrarily cancelled."
+9.
+Section 204
+of the Code deals with the issue of process. If the Magistrate taking cognizance of an offence is of the opinion that there is sufficient ground for proceeding, he shall proceed in accordance with the amended clause (a) or (b) of sub-section (1) thereof. In summons cases, he shall issue summons for the attendance of the accused. In a warrant case, he may issue a warrant, or, if he thinks fit, a summons, for causing the accused to be brought or to appear at a certain time before him. Warrant of arrest is dealt by Part-B of Chapter VI of the Code. Sub-section (2) of
+Section 70
+states that every warrant issued shall remain in force until it is cancelled by the court which issued it, or until it is executed. Arrest warrants are of two kinds - bailable and non-bailable, covered by
+Section 71
+and
+Section 72
+of the Code, respectively. The choice of one or the other depends upon a variety of circumstances including the gravity of the offence involved, the past conduct of the accused, etc.
+10. Invocation of
+Section 438
+depends on whether a person has reason to believe that he may be arrested on an accusation of having committed a non-bailable offence. If there is reason for such a belief, he may apply to the High Court or the Court of Session for a direction under the section and the Court, if it thinks fit, may direct that in the event of his arrest he may be released on bail. Sub-section (2) of
+Section 438
+enables the Court to impose such conditions in the light of the facts of the particular case, as it may think fit. Some of the conditions which may be imposed are enumerated in Clauses (i) to (iv) of sub-section (2) and read thus :
+"(i) a condition that the person shall make himself available for interrogation by a police officer as and when required;
+(ii) a condition that the person shall not, directly or indirectly, make any inducement, threat or promise to any person acquainted with the facts of the case so as to dissuade him from disclosing such facts to the Court or to any police officer;
+(iii) a condition that the person shall not leave India without the previous permission of the Court;
+(iv) such other condition as may be imposed under sub-section (3) of
+Section 437
+as if the bail were granted under that section."
+Sub-section (3) is the implementation part of the provision and lays down in what manner the order allowing anticipatory bail is to be implemented. If the person is arrested without warrant by an officer-in-charge of a police station on the accusation in respect of which the order has been passed and if he is prepared to furnish bail, he shall be released on bail. If subsequent to the order, the Magistrate taking cognizance of the offence decides that a warrant should be issued in the first instance against that person, a bailable warrant shall be issued in conformity with the direction of the Court under sub-section (1). The effect of
+Section 71
+is the same as the effect of an order passed under
+Section 438(1)
+and the effectuation of this order is explained in the later part of sub-section (3) of
+Section 438
+. The
+Code of Criminal Procedure
+, 1898 did not contain specific provisions analogous to the provisions of
+Section 438
+. There was difference of opinion among various High Courts as to whether Courts have inherent power to grant bail in anticipation of arrest. The Law Commission of India recommended the incorporation of a provision enabling High Court and Sessions Courts to grant anticipatory bail, having regard to the fact that sometimes influential persons try to implicate their rivals in false cases for the purpose of disgracing them or for other purposes by getting them detained in jail for some days. The Law Commission also highlighted the increase of such tendency on account of accentuation of political rivalry. The Supreme Court in
+Gurbaksh Singh v. State of Punjab
+, AIR 1980 SC 1632, examined the legislative history of this provision, and indicated that wide discretion has been granted to the High Courts and Sessions Courts. The Supreme Court also observed that there is no warrant for interpreting the provision for the purpose of limiting its scope.
+11.
+Section 438
+speaks of a person having reason to believe that he may be arrested on an 'accusation'. There may be an accusation even before a case is registered by police. After the registration of the case, filing of the charge-sheet or filing of the complaint or taking cognizance or issuance of warrant, the accusation will not cease to be an accusation. At the later stage, there may be stronger accusation or more evidence. Nevertheless, the accusation survives or continues.
+Section 438
+speaks of apprehension and belief that he may be 'arrested'. There is no limitation in the language employed by the legislature indicating that the arrest contemplated is an arresi by the police of their own accord or that arrest by the police on a warrant issued by the Court will not attract
+Section 438
+. The language used is clear and unambiguous, namely, apprehension of "arrest on an accusation." Considering the legislative purpose underlying the provision and the clarity of the language used in the section, we do not find any justification to import anything extraneous into the interpretation so as to restrict the scope or vitality of the provision. It is not as if circumstances justifying an application under
+Section 438
+would disappear once a Magistrate takes cognizance of the offence or even after he passes an order committing the case to the Sessions Court. Even at such stages, there may be circumstances warranting invocation of the special jurisdiction under
+Section 438
+. A person may file a private complaint and produce before the Magistrate a few witnesses who will provide a consistent version of an imaginary occurrence. At that stage, the Magistrate will not be in a position to appreciate the evidence or go behind the same. If the material is such that he is satisfied that there is sufficient ground for proceeding he is bound to take cognizance and issue process. This may happen even if the story put forth by the complainant is more imaginary than real or may be hopelessly exaggerated. Such a situation may arise at the stage of committal where the Magistrate is concerned only with one aspect, namely, whether the material disclosed commission of the offence exclusively triable by the Court of Session. At neither stage is he required to go into the truth or otherwise of the material before him. It cannot, therefore, be said that at such stages the justification for invocation of
+Section 438
+, Criminal Procedure Code no longer exists. In this view, the scope of
+Section 438
+should not be restricted by reading into it words to the effect - "when any person has reason to believe that he may be arrested solely at the instance of the police and not as per warrant issued by a competent Magistrate." The clear purpose underlying the language employed by the legislature precludes any justification for reading such words into the statute.
+12-13. It has been strenuously argued that the second part of sub-section (3) of
+Section 438
+would warrant a restricted interpretation being given to sub-section (1). The second part states that if a Magistrate takes cognizance of an offence, and decides to issue warrant, he shall issue a bailable warrant in conformity with the order of anticipatory bail. This provision is unambiguous indicating how in the face of an order passed under sub-section (1) a Magistrate should exercise his jurisdiction under
+Section 204
+. He is precluded from issuing a non-bailable warrant since that may cause embarrassment to police officer entrusted with the duty of executing the warrant. Even without this provision, a Magistrate can be expected only to issue a non-bailable warrant even after coming to know of an order of anticipatory bail passed by the High Court or Sessions Court.
+Of course, he may not be aware of the fact that an order of anticipatory bail has been passed. Such cases will have to be treated at par with the instances of non-bailable warrants issued prior to passing of an order under
+Section 438(1)
+. In such cases, a pragmatic view should be taken and conflict avoided. A reading of paragraph 39 of the decision in
+Gurbaksh Singh
+'s case would be instructive. The Supreme Court referred to orders passed in appeal against orders of the High Court granting anticipatory bail imposing conditions. The Supreme Court in those cases directed the person concerned to surrender to the police for a brief period if a discovery is to be made under
+Section 27
+of the Evidence Act or that he should be deemed to have surrendered himself if such a discovery is to be made. In exceptional cases, the Court directed that the order of anticipatory bail will remain in operation only for a few days until the filing of the F.I.R. in respect of matters covered by the order. After referring to these orders, the Court observed -"these orders, on the whole, have worked satisfactorily, causing the least inconvenience to the individuals concerned and least interference with the investigational rights of the police".
+14. In our opinion, the conflict between an order of anticipatory bail and non-bailable warrant has to be met in a pragmatic manner striking a balance between individual's right to personal freedom and the invocation of right of the police and the procedure required to be followed by a Magistrate. Where an order of anticipatory bail is passed after issue of non-bailable warrant of arrest by a Magistrate, the duty of the police officer entrusted with execution of the warrant would be to arrest the person and produce him before the Magistrate who thereupon shall deal with the accused as required by the order of anticipatory bail.
+15. In view of what we have indicated above, we are in respectful agreement with the view taken by the High Court of Punjab and Haryana that an application under
+Section 438
+, Criminal Procedure Code would be maintainable even after the Magistrate issued process under Section 204 or at the stage of committal of the case to the Sessions Court or even at a subsequent stage, if circumstances justify the invocation of the provision. This is not to say that the jurisdiction under Section 438 of the Code is to be freely exercised without reference to the nature and gravity of the offence alleged, the possible sentence which may be ultimately imposed, the possibility of interference with the investigation or the witnesses and public interest. With great respect, we are unable to agree with the view taken by the High Court of Rajasthan.
+16. The next question for consideration is whether on an application under Section 438 of the Code, the Court can pass an interim order restraining arrest. A Division Bench consisting of two of us (Bhat, CJ. and Tamaskar, J.) in Misc. Cr. Case No. 4758 of 1993 (1994 MPLJ 947) considered this question and held that the Court cannot pass an interim order restraning arrest. We affirm the above view.
+17. Having answered the reference as indicated above, we direct the matter to be placed before the appropriate Single Judge for disposal of the application.

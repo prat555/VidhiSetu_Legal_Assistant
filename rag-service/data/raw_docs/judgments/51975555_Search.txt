@@ -1,0 +1,1162 @@
+Title: Search
+Court: High Court
+Date: 3 WLR 1096
+Citation: SCC OnLine NCLT 681] passed by NCLT
+Source: https://indiankanoon.org/doc/51975555/
+
+[Cites
+29
+, Cited by
+0
+]
+Madras High Court
+G.Rathinavelu vs State Of Karnataka And Others on 22 April, 2022
+Author:
+M. Duraiswamy
+Bench:
+M.Duraiswamy
+,
+T.V.Thamilselvi
+CRP (PD) No.1480 of 2022
+
+                              IN THE HIGH COURT OF JUDICATURE AT MADRAS
+
+                                                      DATED: 22.04.2022
+
+                                                           CORAM :
+
+                                    THE HON'BLE MR. JUSTICE M.DURAISWAMY
+                                                     AND
+                                   THE HON'BLE MRS.JUSTICE T.V.THAMILSELVI
+
+                                                   C.R.P.(PD).No.1480 of 2022
+                                                   and C.M.P.No.7596 of 2022
+
+                     G.Rathinavelu                                                     .. Petitioner
+
+                                                                v.
+
+                     Indian Overseas Bank,
+                     Rep. By its Assistant General Manager,
+                     Cathedral Branch,
+                     No.762, Anna Salai,
+                     Chennai – 600 002.
+                     Through Mr.L.Prabakar,
+                     Assistant General Manager.                                         .. Respondent
+
+
+                                  Civil Revision Petition filed under
+Article 227
+of the Constitution of
+                     India against the order passed by the National Company Law Tribunal,
+                     Chennai Bench II, dated 13.04.2022 in IBA/49/2019.
+
+
+                                  For Petitioner      : Mr.AR.L. Sundaresan,
+                                                        Senior Counsel
+
+                                                           ORDER
+Page 1/34
+https://www.mhc.tn.gov.in/judis
+CRP (PD) No.1480 of 2022
+(Order of the Court made by M.DURAISWAMY,J.)
+
+
+
+                                  Challenging the order passed in IBA/49/2019 on the file of the
+
+                     National Company Law Tribunal, Division Bench-II, Chennai, the
+
+                     petitioner-Corporate Debtor has filed the above Civil Revision Petition
+
+                     under
+Article 227
+of the Constitution of India.
+2. This Court raised a query as to the maintainability of the Civil
+
+                     Revision Petition under
+Article 227
+of the Constitution for the reason that
+
+                     as per Section 61 of the Insolvency and Bankruptcy Code, 2016, the
+
+                     petitioner has got remedy before the National Company Law Appellate
+
+                     Tribunal.
+3. This Court, while dismissing the similar Civil Revision Petition
+
+                     in C.R.P.(PD).No.525 of 2022 [L & T Infra Investments Partners,
+
+                     Mumbai v. Ebenezar Inbaraj and the Deputy Registrar, National
+
+                     Company Law Tribunal, Chennai Bench]                 filed under
+Article 227
+of
+
+                     the Constitution as not maintainable, followed the following judgments:-
+(i) (2020) 13 Supreme Court Cases 308 [Embassy Property
+Page 2/34
+https://www.mhc.tn.gov.in/judis
+CRP (PD) No.1480 of 2022
+Developments Private Limited Vs. State of Karnataka and others
+]
+
+                     wherein the Hon'ble Supreme Court held as follows:
+“...
+10.In the backdrop of the facts narrated and in the
+                                  light of the rival contentions extracted above, the first
+                                  question that arises for consideration is as to whether the
+                                  High Court ought to interfere, under Articles 226/227 of the
+                                  Constitution, with an order [
+Vasudevan v. State of
+                                  Karnataka
+, 2019 SCC OnLine NCLT 681] passed by NCLT
+                                  in a proceeding under the IBC, 2016, despite the availability
+                                  of a statutory alternative remedy of appeal to NCLAT.
+11.It is beyond any pale of doubt that the IBC, 2016 is
+                                  a complete code in itself. As observed by this Court in
+Innoventive Industries Ltd. v. ICICI Bank [Innoventive
+                                  Industries Ltd.
+v. ICICI Bank, (2018) 1 SCC 407 : (2018) 1
+                                  SCC (Civ) 356 : AIR 2017 SC 4084] it is an exhaustive code
+                                  on the subject-matter of insolvency in relation to corporate
+                                  entities and others. It is also true that the IBC, 2016 is a
+                                  single Unified Umbrella Code, covering the entire gamut of
+                                  the law relating to insolvency resolution of corporate persons
+                                  and others in a time-bound manner. The Code provides a
+                                  three-tier mechanism, namely, (i) the NCLT, which is the
+                                  adjudicating authority, (ii) the NCLAT, which is the appellate
+                                  authority, and (iii) this Court as the final authority, for
+Page 3/34
+https://www.mhc.tn.gov.in/judis
+CRP (PD) No.1480 of 2022
+dealing with all issues that may arise in relation to the
+                                  reorganisation and insolvency resolution of corporate
+                                  persons. Insofar as insolvency resolution of corporate debtors
+                                  and personal guarantors are concerned, any order passed by
+                                  the NCLT is appealable to NCLAT under Section 61 of the
+                                  IBC, 2016 and the orders of the NCLAT are amenable to the
+                                  appellate jurisdiction of this Court under Section 62.
+It is in
+                                  this context that the action of the State of Karnataka in
+                                  bypassing the remedy of appeal to NCLAT and the act of the
+                                  High Court in entertaining the writ petition against the order
+                                  [
+Vasudevan v. State of Karnataka
+, 2019 SCC OnLine NCLT
+                                  681] of the NCLT are being questioned.
+12.For finding an answer to the question on hand, the
+                                  scope of the jurisdiction and the nature of the powers
+                                  exercised by — (i) the High Court under
+Article 226
+of the
+                                  Constitution, and (ii) the NCLT and NCLAT under the
+                                  provisions of the IBC, 2016 are to be seen.
+Jurisdiction and the powers of the High Court under
+Article 226
+13.What is recognised by
+Article 226(1)
+is the power
+                                  of every High Court to issue (i) directions, (ii) orders, or (iii)
+                                  writs. They can be issued to (i) any person, or (ii) authority
+                                  including the Government. They may be issued (i) for the
+                                  enforcement of any of the rights conferred by Part III, and
+Page 4/34
+https://www.mhc.tn.gov.in/judis
+CRP (PD) No.1480 of 2022
+(ii) for any other purpose. But the exercise of the power
+                                  recognised by clause (1) of
+Article 226
+, is restricted by the
+                                  territorial jurisdiction of the High Court, determined either by
+                                  its geographical location or by the place where the cause of
+                                  action, in whole or in part, arose. While the nature of the
+                                  power exercised by the High Court is delineated in clause (1)
+                                  of
+Article 226
+, the jurisdiction of the High Court for the
+                                  exercise of such power, is spelt out in both clauses (1) and
+                                  (2) of
+Article 226.
+14.Traditionally, the jurisdiction under
+Article 226
+was
+                                  considered as limited to ensuring that the judicial or quasi-
+                                  judicial tribunals or administrative bodies do not exercise
+                                  their powers in excess of their statutory limits. But in view of
+                                  the use of the expression “any person” in
+Article 226(1)
+,
+                                  courts recognised that the jurisdiction of the High Court
+                                  extended even over private individuals, provided the nature of
+                                  the duties performed by such private individuals, are public
+                                  in nature. Therefore, the remedies provided under
+Article 226
+are public law remedies, which stand in contrast to the
+                                  remedies available in private law. As observed by this Court
+                                  in Nilabati Behera v. State of Orissa [Nilabati Behera v.
+                                  State of Orissa, (1993) 2 SCC 746 : 1993 SCC (Cri) 527]
+                                  public law proceedings serve a different purpose than private
+Page 5/34
+https://www.mhc.tn.gov.in/judis
+CRP (PD) No.1480 of 2022
+law proceedings.
+15.One of the well-recognised exceptions to the self-
+                                  imposed restraint of the High Courts, in cases where a
+                                  statutory alternative remedy of appeal is available, is the lack
+                                  of jurisdiction on the part of the statutory/quasi-judicial
+                                  authority, against whose order a judicial review is sought.
+                                  Traditionally, English courts maintained a distinction
+                                  between cases where a statutory/quasi-judicial authority
+                                  exercised a jurisdiction not vested in it in law and cases
+                                  where there was a wrongful exercise of the available
+                                  jurisdiction.   An   “error   of   jurisdiction”   was     always
+                                  distinguished from “in excess of jurisdiction”, until the
+                                  advent of the decision rendered by the House of Lords, by a
+                                  majority of 3 : 2 in Anisminic Ltd. v. Foreign Compensation
+                                  Commission [Anisminic Ltd. v. Foreign Compensation
+                                  Commission, (1969) 2 AC 147 : (1969) 2 WLR 163 (HL)] .
+After acknowledging that a confusion had been created by
+                                  the observations made in
+R. v. Governor of Brixton Prison
+,
+                                  ex p
+Armah [R. v. Governor of Brixton Prison
+, ex p Armah,
+                                  1968 AC 192 : (1966) 3 WLR 828 (HL)] to the effect that if
+                                  a Tribunal has jurisdiction to go right, it has jurisdiction to
+                                  go wrong, it was held in
+Anisminic [Anisminic Ltd. v.
+                                  Foreign Compensation Commission
+, (1969) 2 AC 147 :
+(1969) 2 WLR 163 (HL)] that the real question was not
+Page 6/34
+https://www.mhc.tn.gov.in/judis
+CRP (PD) No.1480 of 2022
+whether an authority made a wrong decision but whether
+                                  they enquired into and decided a matter which they had no
+                                  right to consider.
+16.Anisminic     [Anisminic     Ltd.    v.     Foreign
+                                  Compensation Commission
+, (1969) 2 AC 147 : (1969) 2
+                                  WLR 163 (HL)] , hailed as a breakthrough and a legal
+                                  landmark (see Racal Communications Ltd., In re [Racal
+                                  Communications Ltd., In re, 1981 AC 374 : (1980) 3 WLR
+                                  181 (HL)]) abolished the old distinction between errors of
+                                  law that went to jurisdiction and errors of law that did not.
+Anisminic [Anisminic Ltd. v. Foreign Compensation
+                                  Commission
+, (1969) 2 AC 147 : (1969) 2 WLR 163 (HL)]
+                                  was hailed in O'Reilly v. Mackman [O'Reilly v. Mackman,
+                                  (1983) 2 AC 237 : (1982) 3 WLR 1096 (HL)] to have
+                                  liberated English public law from the fetters that the courts
+                                  had theretofore imposed upon themselves so far as
+                                  determinations of inferior courts and statutory tribunals were
+                                  concerned, by drawing esoteric distinctions between errors of
+                                  law committed by such tribunals that went to their
+                                  jurisdiction, and errors of law committed by them within
+                                  their jurisdiction.
+17.But Racal, In re [Racal Communications Ltd., In
+                                  re, 1981 AC 374 : (1980) 3 WLR 181 (HL)] made a
+                                  distinction between courts of law on the one hand and
+Page 7/34
+https://www.mhc.tn.gov.in/judis
+CRP (PD) No.1480 of 2022
+administrative tribunal/administrative authority on the other
+                                  and held that insofar as (inferior) courts of law are
+                                  concerned, the subtle distinction between errors of law that
+                                  went to jurisdiction and errors of law that did not, would still
+                                  survive, if the decisions of such courts are declared by the
+                                  statute to be final and conclusive. Thus one distinction was
+                                  gone   with
+Anisminic    [Anisminic     Ltd.    v.    Foreign
+                                  Compensation Commission
+, (1969) 2 AC 147 : (1969) 2
+                                  WLR 163 (HL)] , but another was born with Racal, In re
+                                  [Racal Communications Ltd., In re, 1981 AC 374 : (1980) 3
+                                  WLR 181 (HL)] .
+This could be seen from the after-effects of
+Anisminic [Anisminic Ltd. v. Foreign Compensation
+                                  Commission
+, (1969) 2 AC 147 : (1969) 2 WLR 163 (HL)].
+                                  [Anisminic, (1969) 2 AC 147 : (1969) 2 WLR 163 (HL) had
+                                  its own quota of problems.
+Prof. Wade, as pointed out in
+R.
+                                  v. Lord President of the Privy Council
+, ex p Page, 1993 AC
+                                  682 : (1992) 3 WLR 1112 (HL), seems to have opined that
+                                  the true effect of Anisminic was still in doubt.
+People like Sir
+                                  John Laws, quoted by Prof. Paul Craig, and which was
+                                  extracted in the decision in R. (Privacy International) v.
+                                  Investigatory Powers Tribunal, 2019 UKSC 22 : (2019) 2
+                                  WLR 1219, seems to have opined that once the distinction
+                                  between jurisdictional and non-jurisdictional errors was
+                                  discarded, there was no longer any need for the ultra vires
+Page 8/34
+https://www.mhc.tn.gov.in/judis
+CRP (PD) No.1480 of 2022
+principle and that ultra vires is, in truth, a fig leaf which has
+                                  enabled the courts to intervene in decisions without an
+                                  assertion of judicial power which too nakedly confronts the
+                                  established authority of the Executive or other public bodies.
+                                  According to Sir John Laws, Anisminic, (1969) 2 AC 147 :
+(1969) 2 WLR 163 (HL) has produced the historical irony
+                                  that with all its emphasis on nullity, it nevertheless erected
+                                  the legal milestone which pointed towards a public law
+                                  jurisprudence in which the concept of voidness and the ultra
+                                  vires doctrine have become redundant. In R. (Privacy
+                                  International), 2019 UKSC 22 : (2019) 2 WLR 1219 the UK
+                                  Supreme Court also quoted the editors of De Smith's
+                                  Judicial Review to the effect: “84.… ‘The distinction
+                                  between    jurisdictional and     non-jurisdictional error       is
+                                  ultimately based upon foundations of sand. Much of the
+                                  superstructure has already crumbled. What remains is likely
+                                  quickly to fall away as the courts rightly insist that all
+                                  administrative action should be simply, lawful, whether or
+                                  not jurisdictionally lawful.’” (WLR p. 1251, para 84)]
+18.Interestingly just four days before the House of
+                                  Lords delivered the judgment in Anisminic [Anisminic Ltd. v.
+Foreign Compensation Commission, (1969) 2 AC 147 :
+(1969) 2 WLR 163 (HL)] (on 17-12-1968), an identical view
+Page 9/34
+https://www.mhc.tn.gov.in/judis
+CRP (PD) No.1480 of 2022
+was taken by a three-member Bench of this Court (delivered
+                                  on 13-12-1968) in
+Official Trustee v. Sachindra Nath
+                                  Chatterjee [Official Trustee
+v. Sachindra Nath Chatterjee,
+                                  (1969) 3 SCR 92 : AIR 1969 SC 823] approving the view
+                                  taken by the Full Bench of the Calcutta High Court in
+                                  Hriday Nath Roy v. Ram Chandra Barna Sarma [Hriday
+                                  Nath Roy v. Ram Chandra Barna Sarma, 1920 SCC OnLine
+                                  Cal 85 : ILR (1921) 48 Cal 138] . It was held therein that :
+(
+Sachindra Nath Chatterjee
+case [
+Official Trustee v.
+                                  Sachindra Nath Chatterjee
+, (1969) 3 SCR 92 : AIR 1969 SC
+                                  823] , AIR p. 828, para 15)
+                                        “15. …before a court can be held to have jurisdiction
+                                        to decide a particular matter it must not only have
+                                        jurisdiction to try the suit brought, but must also have
+                                        the authority to pass the orders sought for”.
+(emphasis supplied)
+                                  This Court also pointed out that it is not sufficient that it has
+                                  some jurisdiction in relation to the subject-matter of the suit,
+                                  but its jurisdiction must include (1) the power to hear and
+                                  decide the questions at issue, and (2) the power to grant the
+                                  relief asked for. This decision in
+Official Trustee [Official
+                                  Trustee v. Sachindra Nath Chatterjee
+, (1969) 3 SCR 92 :
+                                  AIR 1969 SC 823] was followed in a recent decision in IFFCO
+                                  Ltd. v. Bhadra Products [IFFCO Ltd. v. Bhadra Products,
+Page 10/34
+https://www.mhc.tn.gov.in/judis
+CRP (PD) No.1480 of 2022
+(2018) 2 SCC 534 : (2018) 2 SCC (Civ) 208] , quite
+                                  independent of
+Anisminic [Anisminic Ltd. v. Foreign
+                                  Compensation Commission
+, (1969) 2 AC 147 : (1969) 2
+                                  WLR 163 (HL)] and its followers.
+19.Though the decision in
+Official Trustee [Official
+                                  Trustee v. Sachindra Nath Chatterjee
+, (1969) 3 SCR 92 :
+AIR 1969 SC 823] preceded
+Anisminic [Anisminic Ltd. v.
+                                  Foreign Compensation Commission
+, (1969) 2 AC 147 :
+(1969) 2 WLR 163 (HL)] and can proudly be claimed as the
+                                  Indian precursor to an English legal landmark, several
+                                  subsequent decisions of this Court considered
+Anisminic
+                                  [Anisminic Ltd. v. Foreign Compensation Commission
+,
+                                  (1969) 2 AC 147 : (1969) 2 WLR 163 (HL)] alone to have
+                                  provided the breakthrough.
+In
+Mafatlal Industries Ltd. v.
+                                  Union of India [Mafatlal Industries Ltd.
+v. Union of India,
+                                  (1997) 5 SCC 536] , Paripoornan, J. provided the list of
+                                  Indian cases which cited
+Anisminic [Anisminic Ltd. v.
+                                  Foreign Compensation Commission
+, (1969) 2 AC 147 :
+                                  (1969) 2 WLR 163 (HL)] with approval. They are:
+(
+1) Union of India v. Tarachand Gupta & Bros
+.
+[
+Union of India v. Tarachand Gupta & Bros.
+, (1971)
+                                       1 SCC 486] ,
+Page 11/34
+https://www.mhc.tn.gov.in/judis
+CRP (PD) No.1480 of 2022
+(
+2) A.R. Antulay v. R.S. Nayak [A.R. Antulay
+v. R.S.
+                                        Nayak, (1988) 2 SCC 602 : 1988 SCC (Cri) 372] ,
+                                        (3)R.B. Shreeram Durga Prasad & Fatehchand
+                                        Nursing    Das     v.   Settlement    Commission      [R.B.
+                                        Shreeram Durga Prasad & Fatehchand Nursing Das
+                                        v. Settlement Commission, (1989) 1 SCC 628 : 1989
+                                        SCC (Tax) 124] ,
+                                        (4) Associated Engg. Co. v. State of A.P. [Associated
+                                        Engg. Co. v. State of A.P., (1991) 4 SCC 93] , and
+                                        (5) Shiv Kumar Chadha v. MCD [Shiv Kumar Chadha
+                                        v. MCD, (1993) 3 SCC 161].
+20.But in
+M.L. Sethi v. R.P. Kapur [M.L. Sethi
+v. R.P.
+                                  Kapur, (1972) 2 SCC 427] , K.K. Mathew, J., made certain
+                                  interesting observations about
+Anisminic [Anisminic Ltd. v.
+                                  Foreign Compensation Commission
+, (1969) 2 AC 147 :
+(1969) 2 WLR 163 (HL)] . The learned Judge observed that
+                                  the effect of the dicta in
+Anisminic [Anisminic Ltd. v.
+                                  Foreign Compensation Commission
+, (1969) 2 AC 147 :
+(1969) 2 WLR 163 (HL)] is to reduce the difference between
+                                  jurisdictional error and error of law within jurisdiction almost
+                                  to a vanishing point and that it came perilously close to
+                                  saying that there is jurisdiction if the decision is right in law,
+                                  but none if it is wrong.
+Anisminic [Anisminic Ltd. v. Foreign
+Page 12/34
+https://www.mhc.tn.gov.in/judis
+CRP (PD) No.1480 of 2022
+Compensation Commission, (1969) 2 AC 147 : (1969) 2
+                                  WLR 163 (HL)] , according to him virtually left a court or
+                                  tribunal with no margin of legal error.
+21.Again in Hari Prasad Mulshanker Trivedi v. V.B.
+                                  Raju [Hari Prasad Mulshanker Trivedi v. V.B. Raju, (1974)
+                                  3 SCC 415] K.K. Mathew, J., speaking for the Constitution
+                                  Bench, pointed out that though the dividing line between lack
+                                  of jurisdiction or power and the erroneous exercise of it has
+                                  become thin with
+Anisminic [Anisminic Ltd. v. Foreign
+                                  Compensation Commission
+, (1969) 2 AC 147 : (1969) 2
+                                  WLR 163 (HL)] , the distinction had not been wiped out
+                                  completely.
+22.But it is relevant to note that
+Official Trustee
+                                  [Official Trustee v. Sachindra Nath Chatterjee
+, (1969) 3
+                                  SCR 92 : AIR 1969 SC 823] /Anisminic [Anisminic Ltd v.
+                                  Foreign Compensation Commission, (1969) 2 AC 147 :
+(1969) 2 WLR 163 (HL)] and what followed both, were
+                                  mostly in the context of the power of the superior court to
+                                  interfere with the decisions of subordinate courts/tribunals or
+                                  administrative authorities. Most of these decisions were not
+                                  in the context of the exercise of jurisdiction despite the
+                                  availability of alternative remedy. That there exists such a
+Page 13/34
+https://www.mhc.tn.gov.in/judis
+CRP (PD) No.1480 of 2022
+distinction between (i) cases where the jurisdiction of a
+                                  superior court is questioned on the basis of ouster clauses
+                                  and (ii) cases where the exercise of jurisdiction by a superior
+                                  court is questioned on the ground of availability of alternative
+                                  remedy, was recognised even in
+Anisminic [Anisminic Ltd. v.
+                                  Foreign Compensation Commission
+, (1969) 2 AC 147 :
+(1969) 2 WLR 163 (HL)] , when Lord Reid referred to the
+                                  decision in Smith v. East Elloe Rural District Council
+                                  [Smith v. East Elloe Rural District Council, 1956 AC 736 :
+                                  (1956) 2 WLR 888 (HL)] as posing some difficulty.
+As a
+                                  result, the Court of Appeal held in
+R. v. Secy. of State
+for the
+                                  Environment, ex p
+Ostler [R. v. Secy. of State
+for the
+                                  Environment, ex p Ostler, 1977 QB 122 : (1976) 3 WLR
+                                  288 (CA)] that the availability of a statutory right to
+                                  challenge within a specified time-limit, among other points,
+                                  provided a sufficient basis for distinguishing
+Anisminic
+                                  [Anisminic Ltd. v. Foreign Compensation Commission
+,
+                                  (1969) 2 AC 147 : (1969) 2 WLR 163 (HL)] .
+This was
+                                  taken note of by the UK Supreme Court in Regina (Privacy
+                                  International) [R. (Privacy International) v. Investigatory
+                                  Powers Tribunal, 2019 UKSC 22 : (2019) 2 WLR 1219] .
+Therefore the question whether the error committed by an
+                                  administrative authority/tribunal or a court of law went to
+                                  jurisdiction or whether it was within jurisdiction may still be
+Page 14/34
+https://www.mhc.tn.gov.in/judis
+CRP (PD) No.1480 of 2022
+relevant to test whether a statutory alternative remedy should
+                                  be allowed to be bypassed or not.
+23.In several cases, both in England and India, the
+                                  ancient rule stated by Willes, J., in Wolverhampton New
+                                  Waterworks Co. v. Hawkesford [Wolverhampton New
+                                  Waterworks Co. v. Hawkesford, (1859) 6 CBNS 336 : 141
+                                  ER 486] to the effect that where a liability not existing at
+                                  Common Law is created by a statute, which also gives a
+                                  special and particular remedy for enforcing it, the remedy
+                                  provided by the statute must be followed, has been quoted
+                                  with approval.
+For instance,
+United Bank of India v.
+                                  Satyawati Tondon [United Bank of India
+v. Satyawati
+                                  Tondon, (2010) 8 SCC 110 : (2010) 3 SCC (Civ) 260] held
+                                  that the availability of a remedy of appeal under the
+DRT
+                                  Act, 1993
+and
+SARFAESI Act, 2002
+should deter the High
+                                  Courts from exercising the jurisdiction under
+Article 226.
+Similarly, the availability of remedy of appeal under
+Section
+                                  173
+of the Motor Vehicles Act, 1988 as against an award of
+                                  the Accidents Claims Tribunal was held in
+Sadhana Lodh v.
+                                  National Insurance Co. Ltd. [Sadhana Lodh
+v. National
+                                  Insurance Co. Ltd., (2003) 3 SCC 524 : 2003 SCC (Cri)
+                                  762] as sufficient for the High Court to refuse to exercise its
+                                  supervisory jurisdiction.
+The same principle was applied in
+Page 15/34
+https://www.mhc.tn.gov.in/judis
+CRP (PD) No.1480 of 2022
+(1) Nivedita Sharma v. COAI [Nivedita Sharma v. COAI,
+                                  (2011) 14 SCC 337 : (2012) 4 SCC (Civ) 947] , and (2)
+                                  Cicily Kallarackal v. Vehicle Factory [Cicily Kallarackal v.
+                                  Vehicle Factory, (2012) 8 SCC 524 : (2012) 4 SCC (Civ)
+                                  540] in relation to the awards passed by the special fora
+                                  constituted under the
+Consumer Protection Act, 1986
+.
+24.Therefore insofar as the question of exercise of the
+                                  power conferred by
+Article 226
+, despite the availability of a
+                                  statutory alternative remedy, is concerned,
+Anisminic
+                                  [Anisminic Ltd. v. Foreign Compensation Commission
+,
+                                  (1969) 2 AC 147 : (1969) 2 WLR 163 (HL)] cannot be relied
+                                  upon. The distinction between the lack of jurisdiction and the
+                                  wrongful exercise of the available jurisdiction, should
+                                  certainly be taken into account by High Courts, when
+Article
+                                  226
+is sought to be invoked bypassing a statutory alternative
+                                  remedy provided by a special statute.”
+(ii) In an unreported judgment of the Division Bench of the Kerala
+
+                     High Court dated 09.09.2020 made in W.A.No.1083 of 2020
+
+                     [Sulochana Gupta Vs. RBG Enterprises Private Limited] it has been
+
+                     held as follows:
+“...
+Page 16/34
+https://www.mhc.tn.gov.in/judis
+CRP (PD) No.1480 of 2022
+48. Issues raised for consideration in this appeal are:-
+1. On the facts and circumstances of the case, when
+                                        an order of the NCLT is challenged, writ petition has
+                                        to be filed under
+Article 226
+or 227 of the
+                                        Constitution of India.
+2. Whether a writ petition filed under
+Article 226
+of
+                                        the Constitution of India is maintainable, when an
+                                        alternate remedy is available.
+3. Whether a writ petition is maintainable under
+Article 226
+of the Constitution, when a party pursues
+                                        multiple remedies.
+4. Whether a writ petition is maintainable under
+Article 226
+of the Constitution, in a dispute between
+                                        private parties.
+5. Whether a relief available under
+Article 226
+of the
+                                        Constitution, when the respondents/writ petitioners
+                                        are guilty of suppression of crucial material.
+6. Whether NCLT should be made a party, in a
+                                        petition filed under Articles 226 or 227 of the
+                                        Constitution, as the case may be.
+7. Whether the judgment in W.P.(C) No. 14341/2020
+                                        dated 22.07.2020 can be treated as a binding
+                                        precedent, so as to enable the respondents to file a
+                                        writ petition under
+Article 226
+of the Constitution of
+                                        India.
+Page 17/34
+https://www.mhc.tn.gov.in/judis
+CRP (PD) No.1480 of 2022
+8. Whether the appellants have been given adequate
+                                        opportunity to file a counter affidavit before the writ
+                                        court.
+9. Whether the writ appeal has become infructuous.
+49. Heard learned counsel for the respective parties
+                                  and perused the materials available on record.
+50. Though rival contentions have been made on the
+                                  merits of the disputes, in the company petition, we are not
+                                  inclined to delve into the same, and deem it fit to address
+                                  issues stated above.
+51. Admittedly, challenging the interim order of the
+                                  NCLT, Kochi in I.A. No. 83/2020 in C.P. No. 114/KOB/
+                                  2019 dated 09.07.2020, writ petition has been filed under
+Article 226
+of the Constitution of India for the reliefs,
+                                  stated above.
+...
+116. Material on record discloses that the dispute
+                                     between the first respondent          company and         its
+                                     shareholders, under challenge, is purely a civil dispute.
+                                     The remedy under
+Article 226
+of the Constitution of
+                                     India is available against a State or authority or
+                                     instrumentality of the State, falling within the ambit of
+                                     the definition "State" under
+Article 12
+of the
+                                     Constitution of India.
+Page 18/34
+https://www.mhc.tn.gov.in/judis
+CRP (PD) No.1480 of 2022
+117. Writ petition filed under
+Article 226
+of the
+                                  Constitution of India, can be for the enforcement of
+                                  fundamental rights or for any other purpose, as
+                                  envisaged under
+Article 226
+of the Constitution. There
+                                  is no pleadings or materials to substantiate that the
+                                  appellants are discharging public duties or public
+                                  functions, and thus, amenable to writ jurisdiction under
+Article 226
+of the Constitution of India.
+118. On a scrutiny of the decisions extracted
+                                  above, it is clear that insofar as challenge to the judicial
+                                  acts of the Courts or the Tribunals, in exercise of the
+                                  powers under
+Article 227
+of the Constitution of India,
+                                  the High Court exercises overall superintendence on
+                                  such Tribunals under
+Article 227.
+Orders by Courts or
+                                  Tribunals, as the case may be, can be challenged by
+                                  way of filing a writ petition under
+Article 227
+of the
+                                  Constitution of India, and the administrative orders
+                                  passed by the Courts, or the Tribunals, as the case may
+                                  be, can be challenged under
+Article 226
+of the
+                                  Constitution. Administrative orders passed by the State,
+                                  authority or instrumentality of the State, can be
+                                  challenged by way of a writ petition under
+Article 226
+of the Constitution of India, as they do not fall under
+                                  the ambit of superintendence and control, in exercise of
+Article 227
+of the Constitution of India.
+Page 19/34
+https://www.mhc.tn.gov.in/judis
+CRP (PD) No.1480 of 2022
+119. Difference between the exercise of powers
+                                  under
+Articles 226
+and
+227
+of the Constitution of India
+                                  has been explained in the foregoing paragraphs. Thus,
+                                  in the case on hand, when none of the parties, State or
+                                  authority or instrumentality of the State, or any private
+                                  body, discharging public functions, have been arrayed
+                                  as respondents, when the writ petition has been filed
+                                  under
+Article 226
+of the Constitution of India, having
+                                  regard to the roster followed in listing the cases, writ
+                                  court ought to have directed the respondents/writ
+                                  petitioners to make necessary amendments, to the
+                                  provisions under which the writ petition ought to have
+                                  been filed, or in the alternative, directed that the writ
+                                  petition be placed before the concerned court, dealing
+                                  with the challenges made to the orders passed by
+                                  Courts, or Tribunals, as the case may be. Admittedly,
+                                  the order impugned in the writ petition (Exhibit-P1) is
+                                  not an administrative order, passed by the National
+                                  Company Law Tribunal.
+120. Writ court, without drawing a distinction
+                                  between a writ petition filed under
+Articles 226
+and
+227
+of the Constitutions of India, has erroneously proceeded
+                                  to entertain the writ petition under
+Article 226
+against
+                                  an interim order passed by the NCLT, Kochi Bench, in
+                                  I.A. No. 83/2020 in C.P. No. 114/KOB/2019 dated
+Page 20/34
+https://www.mhc.tn.gov.in/judis
+CRP (PD) No.1480 of 2022
+9.7.2020.
+In
+Maharashtra Chess Association v. Union
+                                  of India & Ors.
+the Hon'ble Supreme Court has
+                                  considered, as to what the High Court should consider
+                                  before entertaining a writ petition under
+Article 226
+of
+                                  the Constitution of India, and held as under:
+"22. This brings us to the question of whether
+                                  Clause 21 itself creates a legal bar on the Bombay High
+                                  Court exercising its writ jurisdiction. As discussed
+                                  above, the writ jurisdiction of the High Court is
+                                  fundamentally discretionary. Even the existence of an
+                                  alternate adequate remedy is merely an additional factor
+                                  to be taken into consideration by the High Court in
+                                  deciding whether or not to exercise its writ jurisdiction.
+                                  This is in marked contradistinction to the jurisdiction of
+                                  a civil court which is governed by statute. [
+Section 9
+.
+                                  Courts to try all civil suits unless barred - The Courts
+                                  shall (subject to the provisions herein contained) have
+                                  jurisdiction to try all suits of a civil nature excepting
+                                  suits of which their cognizance is either expressly or
+                                  impliedly barred]. In exercising its discretion to
+                                  entertain a particular case under
+Article 226
+, a High
+                                  Court may take into consideration various factors
+                                  including the nature of the injustice that is alleged by
+                                  the petitioner, whether or not an alternate remedy
+                                  exists, or whether the facts raise a question of
+Page 21/34
+https://www.mhc.tn.gov.in/judis
+CRP (PD) No.1480 of 2022
+constitutional interpretation. These factors are not
+                                  exhaustive and we do not propose to enumerate what
+                                  factors should or should not be taken into consideration.
+                                  It is sufficient for the present purposes to say that the
+                                  High Court must take a holistic view of the facts as
+                                  submitted in the writ petition and make a determination
+                                  on the facts and circumstances of each unique case.
+23. At this juncture, it is worth discussing the
+                                  decision of this Court in
+Aligarh Muslim University v.
+                                  Vinay Engineering [MANU/SC/1043/1993
+: (1994) 4
+                                  SCC 710]. In that case, the contract between the parties
+                                  contained a clause conferring jurisdiction on the courts
+                                  at Aligarh. When the High Court of Calcutta exercised
+                                  its writ jurisdiction over the matter, this Court held:
+"2. We are surprised, not a little, that the High
+                                  Court of Calcutta should have exercised jurisdiction in a
+                                  case where it had absolutely no jurisdiction. The
+                                  contracts in question were executed at Aligarh, the
+                                  construction work was to be carried out at Aligarh, even
+                                  the contracts provided that in the event of dispute the
+                                  Aligarh Court alone will have jurisdiction. The
+                                  arbitrator was from Aligarh and was to function there.
+                                  Merely because the respondent was a Calcutta-based
+                                  firm, the High Court of Calcutta seems to have
+                                  exercised jurisdiction where it had none by adopting a
+Page 22/34
+https://www.mhc.tn.gov.in/judis
+CRP (PD) No.1480 of 2022
+queer line of reasoning. We are constrained to say that
+                                  this is a case of abuse of jurisdiction and we feel that
+                                  the respondent deliberately moved the Calcutta High
+                                  Court ignoring the fact that no part of the cause of
+                                  action had arisen within the jurisdiction of that Court. It
+                                  clearly shows that the litigation filed in the Calcutta
+                                  High Court was thoroughly unsustainable."
+24. The court examined the facts holistically,
+                                  noting that the contract was executed and to be
+                                  performed in Aligarh, and the arbitrator was to function
+                                  at Aligarh. It did consider that the contract conferred
+                                  jurisdiction on the courts at Aligarh, but this was one
+                                  factor amongst several considered by the court in
+                                  determining that the High Court of Calcutta did not
+                                  have jurisdiction.
+25. In the present case, the Bombay High Court
+                                  has relied solely on Clause 21 of the Constitution and
+                                  Bye Laws to hold that its own writ jurisdiction is
+                                  ousted. The Bombay High Court has failed to examine
+                                  the   case   holistically   and   make     a     considered
+                                  determination as to whether or not it should, in its
+                                  discretion, exercise its powers under
+Article 226.
+The
+                                  scrutiny to be applied to every writ petition under
+Article 226
+by the High Court is a crucial safeguard of
+                                  the rule of law under the Constitution in the relevant
+Page 23/34
+https://www.mhc.tn.gov.in/judis
+CRP (PD) No.1480 of 2022
+territorial jurisdiction. It is not open to a High Court to
+                                  abdicate this responsibility merely due to the existence
+                                  of a privately negotiated document ousting its
+                                  jurisdiction.
+26. It is certainly open to the High Court to take
+                                  into consideration the fact that the Appellant and the
+                                  second Respondent consented to resolve all their legal
+                                  disputes before the courts at Chennai. However, this
+                                  can be a factor within the broader factual matrix of the
+                                  case. The High Court may decline to exercise
+                                  jurisdiction under
+Article 226
+invoking the principle of
+                                  forum non conveniens in an appropriate case. The High
+                                  Court must look at the case of the Appellant holistically
+                                  and make a determination as to whether it would be
+                                  proper to exercise its writ jurisdiction. We do not
+                                  express an opinion as to what factors should be
+                                  considered by the High Court in the present case, nor
+                                  the corresponding gravity that should be accorded to
+                                  such factors. Such principles are well known to the
+                                  High Court and it is not for this Court to interfere in the
+                                  discretion of the High Court in determining when to
+                                  engage its writ jurisdiction unless exercised arbitrarily
+                                  or erroneously. The sole and absolute reliance by the
+                                  Bombay High Court on Clause 21 of the Constitution
+                                  and Bye Laws to determine that its jurisdiction under
+Page 24/34
+https://www.mhc.tn.gov.in/judis
+CRP (PD) No.1480 of 2022
+Article 226
+is ousted is however one such instance.
+27. We accordingly allow the appeal and set
+                                     aside the impugned judgment and order of the High
+                                     Court dated 25 September 2018. Writ Petition No. 7770
+                                     of 2017 is accordingly restored to the file of the High
+                                     Court for being considered afresh. No costs."
+                                        ...
+126. On the facts and circumstances of the case, the
+                                  issues raised for consideration are answered in favour of
+                                  the appellants. In the result, this Writ Appeal is allowed.
+                                  Impugned judgment in W.P.(C) No. 14341 of 2020 dated
+                                  22.07.2020 is set aside.
+...
+121. Applying the above said decision to the case on
+                                  hand, we are of the view that the writ court, while
+                                  entertaining the writ petition, has not considered or
+                                  examined the facts holistically.
+122. Giving due consideration to the decisions on
+                                  jurisdiction, we are of the view that there is an error in
+                                  exercising the jurisdiction under
+Article 226
+of the
+                                  Constitution of India.”
+(iii) (2021) 225 Comp. Cas 442 (Mad) [Hero Exports Vs.
+
+                     K.Vasudevan, Resolution Professional and others], wherein the
+Page 25/34
+https://www.mhc.tn.gov.in/judis
+CRP (PD) No.1480 of 2022
+Division Bench of this Court held as follows:
+“...
+12.Learned counsel also placed reliance upon the
+                                  judgment reported in [2019] 17 Scale 37 : [2020] 9 Comp.
+Case-OL 609 (SC) (
+Embassy Property Developments P.
+                                  Ltd., Vs. State of Karnataka
+).
+13.This    Court      has   carefully   considered      the
+                                  arguments advanced by the learned counsel for the
+                                  petitioner and also perused the materials placed before it.
+14.It is relevant to extract Rule 11 of the NCLT
+                                  Rules, 2016:
+“11: Inherent Powers:- Nothing in these Rules shall
+                                  be deemed to limit or otherwise affect the inherent powers
+                                  of the Tribunal to make such orders as may be necessary
+                                  for meeting the ends of justice or to prevent abuse of the
+                                  process of the Tribunal.”
+15.The     first   respondent/IRP,      in   the    e-mail
+                                  communication dated April 12, 2019, had given reasons
+                                  and the revision petitioner/applicant filed two miscellaneous
+                                  applications with the following prayer:
+"In the light of the above and in the interest of justice
+                                  and in furtherance of the object of the Code, it is therefore,
+                                  prayed that this Hon'ble Tribunal may be pleased to set
+                                  aside the order in IND/811/2019 dated August 30, 2019 of
+Page 26/34
+https://www.mhc.tn.gov.in/judis
+CRP (PD) No.1480 of 2022
+the learned Assistant Registrar of National Company Law
+                                  Tribunal, Chennai and direct the Registry to number the
+                                  Miscellaneous Application and pass such further or other
+                                  orders as this Hon'ble Tribunal may deem fit and proper in
+                                  the circumstances of the case and thus render justice."
+16. The National Company Law Tribunal/Tribunal,
+                                  in the impugned order held that the said prayer virtually
+                                  amounts to reversal/recall of the resolution plan and the
+                                  same cause could be taken as a ground for filing an appeal
+                                  under
+Section 32
+of Insolvency and Bankruptcy Code and
+                                  not by way of this application which is impermissible in
+                                  law. As regards exercise of inherent power, the Tribunal
+                                  has observed that assuming the power of recall is in-built in
+                                  Insolvency and Bankruptcy Code and it can be exercised
+                                  only in cases where the order is passed without jurisdiction
+                                  or fraudulently obtained and that is not the case here and
+                                  the Tribunal, further observed that in the absence of
+                                  specific conferment of review jurisdiction, it cannot exercise
+                                  the power to review.
+17.In    the     decision   of
+Embassy      Property
+                                  Developments P. Ltd. Vs. State of Karnataka
+reported in
+                                  [2019] 17 Scale 37 : [2020] 9 Comp. Case-OL 609 (SC),
+                                  the Hon'ble Supreme Court of India has considered the
+                                  interplay between Insolvency and Bankruptcy Code, certain
+Page 27/34
+https://www.mhc.tn.gov.in/judis
+CRP (PD) No.1480 of 2022
+provisions of the
+Companies Act
+and Mines and Minerals
+                                  [Development and Regulation] Act and Mines and Mineral
+                                  Concession Rules and other related Rules as well as the
+                                  power of the High Court under
+Articles 226
+and
+227
+of the
+                                  Constitution of India.
+18. The Hon'ble Apex Court, in paragraph No. 24
+has observed that (page 628 of 9 Comp. Case-OL) ''the
+                                  distinction between lack of jurisdiction and wrongful
+                                  exercise of available jurisdiction should certainly be taken
+                                  into account by High Courts, when
+Article 226
+is sought to
+                                  be invoked bypassing a statutory alternative remedy
+                                  provided by a special statute.'
+In paragraph No. 30 of
+the
+                                  said judgment
+, the Hon'ble Apex Court of India had dealt
+                                  with the jurisdiction and the powers of National Company
+                                  Law Tribunal. There cannot be any difficulty in accepting
+                                  the proposition
+laid down by
+the Apex Court in the above
+                                  cited decision for the reason that it is also a well settled
+                                  position of law.
+19. The revision petitioner, under the guise of filing a
+                                  revision, under
+Article 227
+of the Constitution of India,
+                                  wants this Court to issue a positive direction to National
+                                  Company Law Tribunal, Chennai Bench, to exercise its
+                                  inherent power in a particular manner. In the considered
+                                  opinion of the Court, it cannot issue a positive direction to
+                                  National Company Law Tribunal, Chennai Bench, as to
+Page 28/34
+https://www.mhc.tn.gov.in/judis
+CRP (PD) No.1480 of 2022
+how it should exercise its inherent power. The National
+                                  Company Law Tribunal/Tribunal also found that in real
+                                  sense, the revision petitioner wants to recall of the
+                                  Resolution Plan and the said cause could be taken as a
+                                  ground for filing an appeal under
+Section 32
+of the
+                                  Insolvency and Bankruptcy Code. Thus, there is an
+                                  effective alternate remedy provided to the revision
+                                  petitioner who also claimed to be an Operational Creditor.
+20. If this Court starts entertaining revision petitions
+                                  like this, there is a likelihood of opening of flood gates
+                                  where the alleged aggrieved person, without resorting to the
+                                  alternate remedy of appeal, would often approach this
+                                  Court and that is not the object of the Insolvency and
+                                  Bankruptcy Code.
+21. This Court, on an independent appraisal of the
+                                  entire materials as well as the contents of the impugned
+                                  order passed by National Company Law Tribunal, Chennai
+                                  Bench, is of the considered view that there is no error
+                                  apparent or infirmity in the reasons assigned and finds no
+                                  merit in this Civil Revision Petition.
+22. At this juncture, the learned counsel for the
+                                  petitioner would submit that the revision petition was filed
+                                  on December 6, 2019 and it was returned for production of
+                                  the approval of the Resolution Plan and vide endorsement
+                                  dated January 22, 2020, the papers were represented and
+Page 29/34
+https://www.mhc.tn.gov.in/judis
+CRP (PD) No.1480 of 2022
+the revision itself came to be numbered on February 5,
+                                  2020. The learned counsel has also drawn the attention of
+                                  this Court to the proviso to Section 61[2] of the Insolvency
+                                  and Bankruptcy Code and would submit that since the
+                                  period of limitation is self contained one and that the
+                                  impugned order came to be passed as early as on
+                                  November 4, 2019, the petitioner may not be in a position
+                                  to avail the appeal remedy.
+23. This Court has considered the said submission.
+                                  From the perusal of the papers, it is prima facie disclosed
+                                  that   the   petitioner   was    diligently   prosecuting       the
+                                  proceedings by filing Civil Revision Petition and though it
+                                  was presented on December 6, 2019, it came to be
+                                  numbered on February 5, 2020 after compliance of certain
+                                  returns. Therefore, it is for the revision petition to convince
+                                  the National Company Law Appellate Tribunal as to how
+                                  the appeal petition is within the limitation period.
+24. In the result, the Civil Revision Petition stands
+                                  dismissed.    No    costs.    Consequently,    the      connected
+                                  miscellaneous petition is closed.”
+
+
+                                  4.1 Mr.AR.L. Sundaresan, learned senior counsel appearing for
+
+                     the petitioner submitted that in spite of the provisions of Section 61 of the
+
+                     Insolvency and Bankruptcy Code, 2016, this Court can entertain the Civil
+Page 30/34
+https://www.mhc.tn.gov.in/judis
+CRP (PD) No.1480 of 2022
+Revision Petition filed under
+Article 227
+of the Constitution. Further, the
+
+                     learned Senior Counsel submitted that the jurisdiction of the High Courts
+
+                     under Article 226/227 cannot be wholly excluded and that the decisions
+
+                     of the Tribunal will be subject to the jurisdiction of the High Courts under
+
+                     Articles 226/227.
+4.2. The learned Senior Counsel appearing for the appellant, in
+
+                     support of his contention, has relied upon               a judgment reported in
+
+                     (2021) 10 Supreme Court Cases 401 [Kalpraj Dharamshi & anr.
+v.Kotak Investment Advisors Ltd. And anr.] wherein the Hon'ble
+
+                     Supreme Court held as follows:
+“...
+97. In the present case, the facts are totally contrary.
+KIAL had approached the High Court of Bombay making a
+                                  specific grievance, that NCLT had adopted a procedure
+                                  which was in breach of the principles of natural justice. It is
+                                  specifically mentioned in the writ petition, that though an
+                                  alternate remedy was available to it, it was approaching the
+                                  High Court since the issue with regard to functioning of
+                                  NCLT also fell for consideration. The proceedings before the
+                                  High Court were hotly contested and by an elaborate
+Page 31/34
+https://www.mhc.tn.gov.in/judis
+CRP (PD) No.1480 of 2022
+judgment, the High Court dismissed [
+Kotak Investment
+                                  Advisors Ltd. v. Krishna Chamadia
+, 2020 SCC OnLine Bom
+                                  197] the writ petition relegating the petitioner therein i.e.
+                                  KIAL to an alternate remedy available in law. It is thus
+                                  apparently clear, that KIAL was bona fide prosecuting a
+                                  remedy before the High Court in good faith and with due
+                                  diligence. In a given case, the High Court could have
+                                  exercised jurisdiction under
+Article 226
+of the Constitution
+                                  inasmuch as, the grievance was regarding procedure
+                                  followed by NCLT to be in breach of principles of natural
+                                  justice. That would come within the limited area earmarked
+                                  by this Court for exercise of extraordinary jurisdiction under
+Article 226
+despite availability of an alternate remedy.
+                                   .....”
+5. On a perusal of the recent judgments of the Apex Court, it is
+
+                     clear that when an appeal remedy is provided under the Act, the
+
+                     aggrieved party should exhaust the said remedy by filing an appeal before
+
+                     the Appellate Forum and the Writ Petition/Civil Revision Petition filed by
+
+                     them under Articles 226/227 of the Constitution is not maintainable.
+When the petitioner can raise all the grounds available to them under law
+
+                     before the Appellate Forum, the filing of the Civil Revision Petition under
+Page 32/34
+https://www.mhc.tn.gov.in/judis
+CRP (PD) No.1480 of 2022
+Article 227
+cannot be entertained.
+6. In such view of the matter, we are of the considered view that
+
+                     the Civil Revision Petition filed under
+Article 227
+of the Constitution
+
+                     challenging the order passed by the National Company Law Tribunal
+
+                     is not maintainable. Accordingly, the Civil Revision Petition is dismissed
+
+                     as not maintainable. No costs. Consequently, the connected miscellaneous
+
+                     petition is closed.
+[M.D., J.]     [T.V.T.S., J.]
+                                                                              22.04.2022
+                     Index              : Yes/No
+                     Speaking Order/Non Speaking Order
+                     Note          : Registry is directed to return the original impugned
+order to the learned counsel for the petitioner
+
+                     To
+
+                     Mr.L.Prabakar,
+                     Assistant General Manager,
+                     Indian Overseas Bank,
+                     Cathedral Branch,
+                     No.762, Anna Salai,
+                     Chennai – 600 002.
+Page 33/34
+https://www.mhc.tn.gov.in/judis
+CRP (PD) No.1480 of 2022
+M. DURAISWAMY, J.
+and
+                                         T.V. THAMILSELVI, J.
+Rj
+
+
+
+
+                                  C.R.P.(PD).No.1480 of 2022 and
+C.M.P.No.7596 of 2022
+22.04.2022
+Page 34/34
+https://www.mhc.tn.gov.in/judis

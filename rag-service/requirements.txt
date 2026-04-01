@@ -1,0 +1,15 @@
+fastapi
+uvicorn[standard]
+langchain
+langchain-community
+chromadb
+qdrant-client
+fastembed
+sentence-transformers
+pymupdf
+ollama
+python-dotenv
+pydantic
+redis
+beautifulsoup4
+requests

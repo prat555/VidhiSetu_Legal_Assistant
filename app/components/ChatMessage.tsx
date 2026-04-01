@@ -8,11 +8,21 @@ import { useState } from 'react';
 interface ChatMessageProps {
   role: 'user' | 'assistant';
   content: string;
+  sources?: string[];
+  cached?: boolean;
 }
 
-export default function ChatMessage({ role, content }: ChatMessageProps) {
+export default function ChatMessage({ role, content, sources, cached }: ChatMessageProps) {
   const isUser = role === 'user';
   const [copied, setCopied] = useState(false);
+
+  const formatSourceLabel = (source: string): string => {
+    const parts = source.split('/');
+    if (parts.length >= 2) {
+      return `${parts[parts.length - 2]}/${parts[parts.length - 1]}`;
+    }
+    return source;
+  };
 
   const stripMarkdown = (text: string): string => {
     return text
@@ -104,6 +114,35 @@ export default function ChatMessage({ role, content }: ChatMessageProps) {
             </ReactMarkdown>
           )}
         </div>
+        {!isUser && sources && sources.length > 0 && (
+          <div className="mt-3 pt-3 border-t border-zinc-200/30 dark:border-zinc-700/50">
+            <div className="mb-2 flex items-center justify-between gap-2">
+              <p className="text-xs text-zinc-600 dark:text-zinc-400 font-medium">
+                Retrieved sources
+              </p>
+              <span
+                className={`rounded-full px-2 py-0.5 text-[10px] font-semibold ${
+                  cached
+                    ? 'bg-emerald-100 text-emerald-700 dark:bg-emerald-900/40 dark:text-emerald-300'
+                    : 'bg-amber-100 text-amber-700 dark:bg-amber-900/40 dark:text-amber-300'
+                }`}
+              >
+                {cached ? 'Cache hit' : 'Fresh retrieval'}
+              </span>
+            </div>
+            <div className="flex flex-wrap gap-2">
+              {sources.map((source, index) => (
+                <span 
+                  key={index} 
+                  title={source}
+                  className="inline-block text-xs bg-amber-100 dark:bg-amber-950 text-amber-900 dark:text-amber-100 px-2 py-1 rounded-md border border-amber-200 dark:border-amber-800"
+                >
+                  {formatSourceLabel(source)}
+                </span>
+              ))}
+            </div>
+          </div>
+        )}
       </div>
       {isUser && (
         <div className="shrink-0 w-7 h-7 sm:w-8 sm:h-8 rounded-full bg-linear-to-br from-zinc-700 to-zinc-800 flex items-center justify-center shadow-lg ring-2 ring-zinc-600/20">

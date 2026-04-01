@@ -1,0 +1,2698 @@
+Title: Search
+Court: High Court
+Date: 1     AIR 1960
+Citation: AIR 1960 SC 953
+Source: https://indiankanoon.org/doc/59397767/
+
+[Cites
+30
+, Cited by
+6
+]
+Bombay High Court
+Felguera Gruas India Private Limited vs Tuticorin Coal Terminal Private ... on 11 January, 2018
+Author:
+S.J. Kathawalla
+Bench:
+S. J. Kathawalla
+SSP                                             1                               Arbpl-366 of 2016
+
+
+             IN THE HIGH COURT OF JUDICATURE AT BOMBAY
+                    ORDINARY ORIGINAL CIVIL JURISDICTION
+                   ARBITRATION PETITION (L) NO. 366 OF 2016
+Felguera Gruas India Pvt. Ltd.
+having its registered office at 10-50-24/A, 3rd floor,
+Sravya Manor,Vishakhapatnam,
+Andhra Pradesh-530003
+through Mr. Nandan Kumar, Senior Manager (Legal)
+and Company Secretary                                              ...Petitioner
+             vs.
+1.     Tuticorin Coal Terminal Pvt. Ltd.
+       having its registered office at #3, C Wing,
+       2nd floor
+       Amerchand Mansion, 16, Madame Cama Road,
+       Colaba, Mumbai-400 039
+       also at: 3rd Floor, Manickam Towers,
+       Palayam Kottai Road, Tuticorin-628 003
+2.     Barclays Bank PLC
+       having its Branch Office at 1st floor,
+       Eros Corporate Tower, Nehru Place,
+       New Delhi-110 019
+3.     Hong Kong & Shanghai Banking
+       Corporation Limited
+       having its branch office at 6-3-1107 & 1108,
+       Raj Bhavan
+       Road, Somajiguda, Hyderabad-500 082                         ..Respondents
+
+
+
+      ::: Uploaded on - 12/01/2018                       ::: Downloaded on - 13/01/2018 01:55:26 :::
+ SSP                                        2                                 Arbpl-366 of 2016
+
+
+                                     ALONG WITH
+                   ARBITRATION PETITION (L) NO.367 OF 2016
+                                        WITH
+                   ARBITRATION PETITION (L) NO.368 OF 2016
+                                        WITH
+                   ARBITRATION PETITION (L) NO.369 OF 2016
+                                        WITH
+                   ARBITRATION PETITION (L) NO.370 OF 2016
+                                        WITH
+                   ARBITRATION PETITION (L) NO.371 OF 2016
+
+
+APPEARANCES
+Mr. Darius Khambatta, Senior Advocate, along with Mr. Zal Andhyarujina instructed by
+M/s. Res Legal for the Petitioner.
+Mr. S.U. Kamdar, Senior Advocate, along with Mr. Chirag Kamdar, Mr. Dharam Juman
+instructed by M/s. Argus Partners, for Respondent No.1.
+
+
+                         CORAM: S. J. KATHAWALLA, J.
+                         Judgment reserved on: 12th SEPTEMBER, 2017
+                         Judgment pronounced on: 11th JANUARY, 2018
+JUDGMENT
+1.     The above Arbitration Petitions are filed by the Petitioner Felguera Gruas India
+
+Pvt. Ltd. ("FGIPL") under
+Section 9
+of the Arbitration and Conciliation Act, 1996
+(The Act
+"), seeking interim injunction against the encashment of the Advance/Down
+
+Payment Bank Guarantees and Performance Bank Guarantees which are furnished by
+
+the FGIPL to the Respondent No.1 - Tuticorin Coal Terminal Pvt. Ltd. ("TCTPL")
+::: Uploaded on - 12/01/2018                    ::: Downloaded on - 13/01/2018 01:55:26 :::
+SSP                                           3                               Arbpl-366 of 2016
+
+
+as agreed under the six purchase orders being No. 02 dated 23 rd August 2012; No.03
+
+dated 23rd August 2012; No.1-B dated 28th November 2012; No.1-C dated 28th
+
+November 2012; No.01, dated 23rd August 2012; and No.1-A dated 28th November
+
+2012, placed on FGIPL by TCTPL, pursuant to the Letters of Intent dated 10 th July,
+
+2012 and 1st November, 2012, entered into by FGIPL and TCTPL. The particulars of
+
+the subject Bank Guarantees are set out in the prayer clauses of the above Arbitration
+
+Petitions. Admittedly, the issues involved in all the above six Arbitration Petitions
+
+are similar.
+2.     FGIPL is a Company incorporated under the provisions of the
+Companies Act,
+
+1956
+. According to the FGIPL, it is in the business of undertaking turn key projects
+
+across India.      It offers end to end services in design, testing, commissioning,
+
+manufacturing, sourcing, supply and construction and has executed several major
+
+projects in Ports.
+3.     TCTPL is a Private Company incorporated under the provisions of the
+Companies Act, 1956
+.             TCTPL ("Concessionaire") entered into a Concession
+
+Agreement dated 11th September, 2010 with the Board of Trustees for Tuticorin Port
+
+(V.O. Chidambaranar Port Trust) ("Concessioning Authority") for Development of
+
+North Cargo Berth-II (NCB-II) for handling bulk cargoes at Tuticorin Port on Design,
+
+Build, Finance, Operate and Transfer basis. The Concession Agreement has been
+
+entered for a period of 30 years. Upon completion of the project, ships shall come
+::: Uploaded on - 12/01/2018                     ::: Downloaded on - 13/01/2018 01:55:26 :::
+SSP                                       4                                 Arbpl-366 of 2016
+
+
+alongside the berth for discharging the cargo. The berth is equipped with ship
+
+unloaders (already commissioned) for discharging the cargo from the ship. The
+
+TCTPL/Concessionaire, shall for a period of 30 years undertake the activity of
+
+discharging the cargo from the ship with the use of cranes, for which TCTPL shall be
+
+entitled to the cargo handling charges levied per metric ton from the users of the
+
+project facilities and services as per the tariff which shall be notified by TAMP from
+
+time to time.
+4.     In the year 2012, FGIPL offered its services to TCTPL for supplying as well as
+
+designing, erecting and commissioning of stacker-cum-reclaimers, stacker and
+
+conveyor system. Accordingly, FGIPL and TCTPL entered into a Letter of Intent
+
+dated 10th July, 2012, for supply, design, erection and commissioning of stacker-cum-
+
+reclaimers, pursuant to which TCTPL placed three Purchase Orders ('POs') all
+
+dated 23rd August, 2012, in respect of supply, design, erection and commissioning of
+
+stacker-cum-reclaimers and stacker for the NCB-II project at VOCPT, Tuticorin.
+
+Additionally, TCTPL entered into another Letter of Intent dated 1 st November, 2012,
+
+with FGIPL, pursuant to which TCTPL placed three POs all dated 28 th November,
+
+2012, in respect of supply, design, erection, commissioning and handing over of
+
+conveyor system for the VOCPT Project at Tuticorin.
+5.     Therefore the entire contract between FGIPL and TCTPL comprised of the
+
+six POs mentioned hereinabove.          Each PO had a clause for advance payment
+::: Uploaded on - 12/01/2018                   ::: Downloaded on - 13/01/2018 01:55:26 :::
+SSP                                           5                                  Arbpl-366 of 2016
+
+
+against the submission of the original commercial invoice, advance/down payment,
+
+bank guarantee and performance bank guarantee.           As stipulated, FGIPL issued the
+
+Down Payment Bank Guarantee and Performance Bank Guarantee in favour of
+
+TCTPL in respect of each PO. The Arbitration Agreement between the parties is
+
+contained in
+Article 41
+of the General Terms and Conditions for procurement of
+
+goods in respect of stacker and stacker-cum-reclaimers.
+6.     As set out hereinabove, FGIPL has filed the above Arbitration Petitions under
+Section 9
+of the Act seeking injunction against TCTPL from invoking any of the
+
+Advance/Down Payment Bank Guarantees or Performance Bank Guarantees
+
+provided by FGIPL in favour of TCTPL.
+7.     The first and the main contention of FGIPL is that the subject Bank
+
+Guarantees are conditional. Since the terms of each of the Bank Guarantees are
+
+identical, the relevant clauses of one such Advance/Down Payment Bank Guarantee
+
+are reproduced hereunder :
+"1. If the Delivery Obligation is not performed by the Seller in
+             accordance with the terms of the PURCHASE ORDER, the
+             Guarantor shall, within 7 (seven) days from the receipt of a demand
+             by the Purchaser, pay to the Purchaser any sum not exceeding Rs.
+             1,70,00,000/- (Rupees One Crore Seventy Lakhs Only) .
+2. The obligation of the Guarantor under this Guarantee shall be
+            unconditional, absolute and irrevocable, irrespective of the
+            genuineness, validity, regularity or enforceability of the PURCHASE
+            ORDER or any other circumstances which might otherwise constitute a
+            legal and/or equitable discharge of a surety or the Guarantor under the
+            law relating to sureties. The Guarantor shall not be entitled to dispute
+::: Uploaded on - 12/01/2018                        ::: Downloaded on - 13/01/2018 01:55:26 :::
+SSP                                            6                                  Arbpl-366 of 2016
+
+
+            or inquire into whether the Purchaser has become entitled to claim the
+            said amount under the PURCHASE ORDER or not or whether the
+            Supplier has committed any breach of the PURCHASE ORDER
+            and/or the General Terms and Conditions applicable thereto or not or
+            whether the Purchaser is entitled to recover any damages from the
+            Supplier for breach thereof or not.
+3. The Purchaser need not initiate any proceeding or claim against the
+            Seller before lodging any claim under this Guarantee.
+            ...
+6. The liability of the Guarantor under this Guarantee shall be
+            primary, direct, and immediate, and not conditional, and/ or
+            contingent upon pursuit by the Purchaser of any remedies that it
+            may against the Seller and/ or any other person in relation to the
+            Purchase Order.
+7. The Guarantor hereby expressly waives:
+...
+D.         Demand for observance, performance and/ or enforcement
+            of any terms and / or provisions of this Guarantee and/ or the
+            Purchase Orders.
+...
+15.A demand for payment under this Guarantee shall be deemed to
+            have been sufficiently made if a claim in writing is sent by post or hand
+            delivered to Guarantor at its office and is received by the Guarantor.
+(Emphasis supplied)
+8.     The Articles of the Performance Bank Guarantees are identically worded as in
+
+the case of Advance/Down Payment Bank Guarantees, save and accept
+Article 1
+,
+
+which reads thus :
+"1.      If the Delivery Obligation is not performed by the Seller in accordance
+      with the terms of the purchase order, the Guarantor shall, within 7 (seven) days
+      from the receipt of a demand by the Purchaser, pay to the Purchaser any sum not
+      exceeding Rs.1,70,00,000/- (Rupees One Crore Seventy Lakhs Only)" (emphasis
+      supplied).
+9.     Learned Senior Advocate appearing for the FGIPL in support of his submission
+
+that all the Bank Guarantees are conditional, mainly relied on
+Articles 1
+and
+2
+of the
+::: Uploaded on - 12/01/2018                         ::: Downloaded on - 13/01/2018 01:55:26 :::
+SSP                                         7                                 Arbpl-366 of 2016
+
+
+Advance/Down Payment Bank Guarantees and Performance Bank Guarantee, which
+
+are set out hereinabove and submitted as follows :
+(i)      That a plain reading of
+Article 1
+of the Advance Bank Guarantees shows that
+
+the invocation and obligation of the bank under the Bank Guarantee is dependent and
+
+conditional upon the delivery obligation not being performed by the seller/FGIPL in
+
+accordance with the terms of the purchase order.
+(ii)     That from a plain reading of
+Article 1
+of the Performance Bank Guarantees it is
+
+evident that the payment under the Performance Bank Guarantees by the Bank is
+
+conditional upon the seller's / FGIPL's failure to perform any of its obligations under
+
+the purchase order and/or any breach/violation of the terms of the purchase order by
+
+the seller/FGIPL.
+(iii)
+Article 2
+of both the Advance as well as the Performance Bank Guarantees
+
+makes it clear that it concerns the obligation of the guarantor under the guarantee and
+
+provides that the same shall be "unconditional, absolute and irrevocable ....". This will
+
+be irrespective of (i) the genuineness, validity, regularity or enforceability of the
+
+Purchase Order and (ii) any other circumstance which might otherwise constitute a
+
+legal and/or equitable discharge of a surety or the guarantor. Further the guarantor
+
+shall not be entitled to dispute or enquire into whether the purchaser has become
+
+entitled to claim the said amount under the purchase order etc. with respect to such
+
+obligation.
+::: Uploaded on - 12/01/2018                   ::: Downloaded on - 13/01/2018 01:55:26 :::
+SSP                                           8                                  Arbpl-366 of 2016
+
+
+(iv)    That a conjoint reading of
+Articles 1
+and
+2 (
+and the other Articles of the Bank
+Guarantees) with a view to avoid any provision of the Bank Guarantees being
+
+rendered otiose, must necessarily proceed on an interpretation that
+Article 2
+stands
+
+qualified by the conditionality provided for in
+Article 1
+and that the latter part of
+Article 2
+qualifies the two grounds mentioned in the earlier part of
+Article 2.
+Any
+
+other construction would necessarily render
+Article 1
+otiose.
+(v)     that from a perusal of
+Article 1
+of the Advance Bank Guarantee and the
+
+Performance Bank Guarantee, it is evident that the intention of the parties was to
+
+incorporate the terms and conditions of the relevant purchase orders into the Bank
+
+Guarantees. This is apparent from the language of the Advance Bank Guarantee in so
+
+far as it provides that, "if the delivery obligation" and from the Performance Bank
+
+Guarantee in so far as it provides that, "if the seller fails to perform any of its obligation
+
+under the purchase order breaches or violate any of the terms of the purchase order".
+Therefore, by the aforesaid provisions in the Bank Guarantees, the delivery obligation
+
+and the entire terms and conditions of the purchase order have respectively been
+
+incorporated into the Advance Bank Guarantees and Performance Bank Guarantees
+
+and it cannot be argued that there is merely a general reference to the purchase orders
+
+in the Bank Guarantees.
+10.     Mr. Khambatta submitted that in the event of this Court reaching a conclusion
+
+that the Articles of the present Bank Guarantees cannot be harmoniously construed
+::: Uploaded on - 12/01/2018                       ::: Downloaded on - 13/01/2018 01:55:26 :::
+SSP                                          9                                 Arbpl-366 of 2016
+
+
+on well settled principles of construction of commercial documents,
+Article 1
+will
+
+prevail upon the later Articles and the demand by Respondent No. 1 can be made
+
+only upon the fulfilment of conditions stated therein. This is because (i)
+Article 1
+is
+
+the earlier clause, and it is well settled in cases of contract that if there is a conflict
+
+between clauses, the earlier clause prevails; (ii)
+Article 1
+is the clause creating the
+
+liability of the Bank and is the primary clause in the Bank Guarantees. Once the
+
+liability of the Banks is created by
+Article 1
+in a certain way and with certain
+
+parameters, that liability cannot be altered by subsequent clauses; (iii) the rule of
+
+contra proferentem is also applicable and since the document of Bank Guarantee is
+
+provided by TCTPL, the document must be construed against the maker.
+In support
+
+of the above submissions, Mr. Khambatta relied on the decisions of the Hon'ble Apex
+
+Court in the cases of
+Saheb Zada Mohammed Kamgar Shah vs. Jagdish Chandra Deo
+
+Dhabal Deb
+and others1 and
+Radha Sundar Dutta vs. Mohd. Jahadur Rahim
+and others2.
+11.       Mr.Khambatta further submitted :
+(i)       that the present case is for all intents and purposes similar to the case of
+Hindustan Construction vs. State of Bihar and others
+3 (HCCs case). He submitted that
+
+in both, the Advance Bank Guarantees as well as the Performance Bank Guarantees,
+
+the Bank has qualified its liability to pay the amount covered by the Guarantee by the
+
+conditions stated in
+Article 1.
+It is only if these conditions are met that the whole of
+
+1     AIR 1960 SC 953
+2     AIR 1959 SC 24
+3     1999 (8) SCC 436
+::: Uploaded on - 12/01/2018                    ::: Downloaded on - 13/01/2018 01:55:26 :::
+SSP                                            10                                 Arbpl-366 of 2016
+
+
+the amount under the Bank Guarantee would become payable on demand. That
+
+being so, the Bank Guarantee cannot be said to be unconditional or unequivocal;
+(ii)       that it is relevant to note that in fact TCTPL is conscious of the fact that both
+
+the Bank Guarantees were conditional upon the terms and conditions of the purchase
+
+order. Accordingly, TCTPL in its respective Invocation Letters dated 10 th March,
+
+2016, invoking the Advance Bank Guarantee and the Performance Bank Guarantee
+
+have expressly stated that, "the delivery obligation is not performed by the seller" and that
+
+the seller has failed to perform its obligation under the purchase order";
+(iii)      That the subject Bank Guarantees does not make the beneficiary (i.e. TCTPL)
+
+the sole Judge of whether the conditions are satisfied.
+In this regard, Mr. Khambatta
+
+relied on the decision of this Court in
+Western Coal Fields & another vs. Rajesh
+and
+
+another4 ;
+(iv)       that
+Article 1
+of the Bank Guarantee would require two conditions to be
+
+satisfied (i) that the Letter Of Invocation         sets out the non-performance of the
+
+Delivery Obligation (Advance Guarantee) or the failure to perform/breach/violation
+
+of the Purchase Order (Performance Guarantee) (ii) that the statement in (i) above is
+
+true and borne out by the facts. Mr. Khambatta relied on the decision of this Court in
+Crest Communications Ltd. vs. State Bank of India
+5 and submitted that
+the said decision
+indicates that both requirements have to be satisfied;
+4      (2011) 6 All MR 722
+5       (2000) 1 All MR 598 (Bombay)
+::: Uploaded on - 12/01/2018                      ::: Downloaded on - 13/01/2018 01:55:26 :::
+SSP                                              11                               Arbpl-366 of 2016
+
+
+(v)      that TCTPL, therefore, deserves to be restrained from invoking the Bank
+Guarantees which are conditional and which conditions are not satisfied.
+12.      Mr. Kamdar, the               Learned Senior Advocate appearing for TCTPL, in
+
+response, made the following submissions :
+(i)      That a plain reading of the terms of the Bank Guarantees makes it clear that
+
+each of the said Bank Guarantees are unconditional, absolute and irrevocable;
+(ii)
+Article 1
+of the Bank Guarantee does not contemplate any condition for
+
+invocation. It only makes a reference to the purchase order.
+Article 2
+makes it clear
+
+that the Bank Guarantees are unconditional, absolute and irrevocable. Furthermore,
+
+the wordings in
+Article 2
+of the Bank Guarantee that, "the Guarantor shall not be
+
+entitled to dispute or enquire into whether the purchaser has become entitled to claim the said
+
+amount under the Purchase Order or not or whether the supplier has committed any breach
+
+of the Purchase Order and/or the General Terms and Conditions applicable thereto or not or
+
+whether the purchaser is entitled to recover any damages from the supplier for breach thereof
+
+or not", makes it clear that whether the performance is done by FGIPL or not, cannot
+
+be disputed, questioned or enquired into by the bank and even if any claim is made by
+
+the purchaser/TCTPL, or whether there is any breach or not by the
+
+purchaser/TCTPL, are matters that cannot be looked into by the bank, which is the
+
+counter-party to the Bank Guarantees.
+(iii)    that it is trite law that the Bank Guarantees are independent contracts between
+::: Uploaded on - 12/01/2018                       ::: Downloaded on - 13/01/2018 01:55:26 :::
+SSP                                          12                                Arbpl-366 of 2016
+TCTPL and the Issuing Banks. Therefore, the question of enquiry by the counter
+
+party Banks as to whether there is any breach or failure of the FGIPL under the
+
+underlying purchase orders does not arise, particularly in the light of the fact that the
+
+Bank Guarantees are absolute, unconditional and irrevocable, as also the fact that the
+
+decision of TCTPL in that regard cannot be disputed or enquired into by the Bank, or
+
+the decision whether FGIPL has committed a breach under the purchase order cannot
+
+be questioned. In fact, the language of the second part of
+Article 2
+of the subject Bank
+
+Guarantee makes any decision of TCTPL as regards a breach of performance of the
+
+purchase order by the FGIPL conclusive, final, binding and unquestionable, in so far
+
+as the Bank is concerned;
+(iv)    that the contention advanced on behalf of FGIPL that this Court should
+
+interpret the Bank Guarantees in a manner that
+Article 2
+, being subsequent to
+Article
+
+1
+and irreconcilable therewith, therefore must give way to
+Article 1
+, is without merit.
+Firstly,
+Articles 1
+and
+2
+of the Bank Guarantees are not irreconcilable and can stand
+
+together.
+Article 1
+must be read harmoniously with the second part of
+Article 2
+, and
+
+if that is done, it clearly shows that the Bank Guarantees are unconditional, absolute
+
+and irrevocable.        Upon such harmonious reading, even the first part of
+Article 2
+would stand and no part of any clause of the Bank Guarantees would be required to be
+
+discarded.
+Articles 1
+and
+2
+are capable of being harmoniously interpreted and so
+
+long as harmonious interpretation is possible, it is well settled that such principle of
+
+interpretation, including the one suggested by TCTPL should be adopted and any
+::: Uploaded on - 12/01/2018                     ::: Downloaded on - 13/01/2018 01:55:26 :::
+SSP                                          13                                 Arbpl-366 of 2016
+
+
+other principle of interpretation should be resorted to only if it is not possible to
+
+harmoniously interpret the various articles of a contract.
+(v)        that a similar issue of interpretation of the terms of a bank guarantee arose
+
+before the Hon'ble Supreme Court in the case of
+Mahatma Gandhi Sahakra Sakkare
+
+Karkhane vs. National Heavy Engg. Corp. Ltd. and another
+6 in respect of similar clauses
+
+of a bank guarantee. The relevant clauses of the bank guarantee
+in that case
+provided
+
+that the bank had undertaken to pay to the purchaser a sum of Rs. 92.40 lakhs upon
+
+the failure of the supplier to conduct the trial test of the sugar plant by 24 th July, 2003
+
+and also upon the failure of the sellers to commission the project (plant and
+
+machinery) before December, 2003. The said clause thus contemplated that the bank
+
+guarantee is payable upon the failure of the trial test and/or failure of commissioning
+
+of the project by the dates specified in the bank guarantee itself. Clause 2 of the bank
+
+guarantee in the said case provided that the bank guarantee was payable on demand
+
+and without demur. It further provided that the purchaser was not required to adopt
+
+any legal remedy that may be available to it and that the purchaser was to be the sole
+
+judge as to whether the bank guarantee had become invocable. In the present case
+
+too,
+Article 2
+contemplates that the demand made by TCTPL shall not be disputed or
+
+enquired into by the Bank, the Bank also will not be entitled to enquire into whether
+
+the said claim amount under the purchase order has not become payable or that
+
+whether FGIPL has committed any breach of the purchase order. It is therefore
+
+
+6     (2007) 6 SCC 470
+::: Uploaded on - 12/01/2018                     ::: Downloaded on - 13/01/2018 01:55:26 :::
+SSP                                       14                                 Arbpl-366 of 2016
+
+
+submitted on behalf of TCTPL that the language of
+Article 2
+of the subject Bank
+
+Guarantee makes TCTPL the sole judge in determining whether there is breach of
+
+the purchase order and accordingly whether any amount should be claimed under the
+
+Bank Guarantee from the Guarantor i.e. the Bank. The Hon'ble Supreme Court in
+
+its judgment after interpreting the clauses of the bank guarantee therein rejected the
+
+submission that the said bank guarantee was conditional and held that clauses 1 and 2
+
+of the said bank guarantee are capable of harmonious interpretation and no part of the
+
+bank guarantee was to be discarded.
+(vi)      that the decision in the case of HCC has been interpreted by the Hon'ble
+
+Supreme Court in various subsequent judgments, as set out by this Court in the case
+
+of ITD Cementation Limited vs. Reliance Infrastructure Limited 7            and whilst so
+
+discussing the judgment of the Hon'ble Supreme Court in the case of HCC (supra),
+
+this Court had also taken note of the judgment of the Hon'ble Supreme Court in
+Vinitec Electronics Pvt. Ltd. vs. HCL Infosystems Ltd.
+8 where also the decision of the
+
+Hon'ble Supreme Court in the HCC (supra) was interpreted and distinguished.
+(vii)     that the Hon'ble Supreme Court has in
+Mahatma Gandhi
+'s case (supra) also
+
+dealt with an argument on the basis of the HCC case and distinguished the same in
+
+paragraph 28 of its judgment;
+(viii) that the contention of FGIPL that the language of the Bank Guarantees makes
+
+them conditional, ought not to be and should not be accepted because doing so would
+
+7     (2014) 2 Bom CR 1
+8     (2008) 1 SCC 544
+::: Uploaded on - 12/01/2018                  ::: Downloaded on - 13/01/2018 01:55:26 :::
+SSP                                           15                                 Arbpl-366 of 2016
+
+
+make the whole of
+Article 2
+nugatory and redundant. Such course is not permissible
+
+particularly when harmonious construction of both the Articles is available and the
+
+Court, as a matter of rule, must apply and accept harmonious construction and it is
+
+only when all possibilities of harmonious construction fail, that the Court is entitled
+
+to go to the alternate method of interpretation, which is sought to be argued by the
+
+learned Counsel for FGIPL.
+(ix)      that the distinction sought to be made by FGIPL by contending that the
+
+present guarantee does not expressly provide that TCTPL is to be the sole judge as to
+
+whether the Bank Guarantees can be invoked or not, is patently erroneous and
+
+incorrect, since the present guarantee expressly contemplates that any demand made
+
+by TCTPL cannot be disputed or questioned by the Bank and the same is conclusive,
+
+final and binding;
+(x)         that the principles laid down in the decisions of the Hon'ble Supreme Court
+
+in
+Saheb Zada Mohd. Kamgar Shah
+(supra) and
+Radha Sundar Dutta
+(supra) has no
+
+application to the present Petitions as it is TCTPL's submission that harmonious
+
+construction of
+Articles 1
+and
+2
+of the Bank Guarantees is possible and permissible.
+(xi)       that the decision of this Court in the case of
+Western Coalfields Ltd. vs. Rajesh
+and another9 runs contrary to the various judgments of this Court as well as the
+
+Hon'ble Supreme Court which make it clear that unconditional bank guarantees
+
+cannot be treated as a contingent contract by referring to or relying upon the terms of
+
+
+9     (2011) 6 All MR 722
+::: Uploaded on - 12/01/2018                      ::: Downloaded on - 13/01/2018 01:55:26 :::
+SSP                                        16                                 Arbpl-366 of 2016
+
+
+the underlying contract.
+In any event
+,
+the said judgment
+is considered and dealt with
+
+by a Division Bench of this Court in the case of
+S. Satyanarayana & Co. vs. West
+
+Quay Multiport Pvt. Ltd.10
+in paragraph 15, and by a learned Single Judge of this Court
+
+in the case of
+ANCL & Co. India Ltd. vs. Corporation Bank Ltd.
+11, paragraphs 53 and
+
+56;
+(xii)     that therefore the contention of FGIPL that
+Article 1
+overrides
+Article 2
+of
+
+the Bank Guarantee in the present case cannot be accepted;
+(xiii) that the contention of the learned Counsel for FGIPL, as enumerated in
+
+paragraphs 19 and 20 of the written submissions filed by FGIPL, that the satisfaction
+
+must be arrived at, as to whether there is a breach or not, is plainly contrary to the
+
+second part of
+Article 2
+of the Bank Guarantee and also directly contrary to paragraph
+
+26 of the judgment of the Hon'ble Supreme Court in the case of
+BSES Ltd. vs. Fenner
+
+India Ltd.12
+;
+(xiv) that the question whether FGIPL has performed the obligation under the
+
+purchase order or not, is an issue which has to be decided only at the stage of trial, or
+
+in the present case by the Arbitral Tribunal when the disputes are decided on its own
+
+merits, because it pertains to the dispute with regard to the underlying contract and
+
+not the Bank Guarantee.
+In support of this submission, the learned Senior Advocate
+
+for TCTPL relied on the decision of this Court in the case of
+ANCL & Co.
+(supra).
+10 2015 SCC Online Bom 3352
+11 2013 SCC Online Bom 78
+12 (2006) 2 SCC 728
+::: Uploaded on - 12/01/2018                   ::: Downloaded on - 13/01/2018 01:55:26 :::
+SSP                                          17                                Arbpl-366 of 2016
+13.     On the issue of Bank Guarantee being conditional, Mr. Khambatta, in
+
+rejoinder, made the following submissions on behalf of FGIPL :
+(i)     that the judgment of this Court in the case of ITD Cementation Ltd. (supra) is
+
+distinguishable from the present case, inter alia, on account of (i) the mobilisation
+
+advance guarantee in ITDC case did not provide for any incorporation of the
+
+contractual terms into the bank guarantee; (ii) the Bank Guarantees presently in
+
+question      do not      contain clauses in pari materia to clauses 5, 6 and 9 of the
+
+mobilisation advance guarantee in the ITDC case, (iii) the Performance Bank
+
+Guarantee presently in question also materially differs from the Performance Bank
+
+Guarantee in the ITDC case.              Firstly the contractual provisions were not
+
+incorporated into the Bank Guarantee and secondly, clauses in the present Bank
+
+Guarantee are materially different from Clauses 6, 7, 8 and 11 of the Performance
+
+Bank Guarantee in the ITDC case, (iv) that it is based on these distinguishing
+
+features that this Court concluded at paragraph 16 in the ITDC case that, "The
+
+language of the Bank Guarantees therefore leaves no room for doubt that the Bank
+
+Guarantees furnished by the Plaintiff to the Defendant No. 1 are unconditional and
+
+irrevocable, (v) that clearly the judgment in the ITDC case revolved around the
+
+aforesaid peculiar features of the bank guarantees involved               there, which are
+
+distinguishable from the Bank Guarantees in the present case;
+(ii)      Relying on clauses 16, 17 and 18 in the case of
+Mahatma Gandhi Sahakra
+
+Sakkare Karkhane
+(supra) it was submitted on behalf of FGIPL that the judgment of
+::: Uploaded on - 12/01/2018                     ::: Downloaded on - 13/01/2018 01:55:26 :::
+SSP                                          18                                Arbpl-366 of 2016
+
+
+the Supreme Court
+in that case
+is entirely distinguishable for the following reasons:
+(iii)      The terms and conditions of the contract
+in that case
+were not incorporated
+
+into the bank guarantee as they are in the present case;
+(iv)       A plain reading of the clauses provided that the sole discretion as to whether
+
+the amount of the Bank Guarantee had become recoverable was conferred upon the
+
+purchasers. There is no such provision in the Bank Guarantees in the present case;
+(v)         The Hon'ble Supreme Court expressly found in para 19 that on a true
+
+construction of the Bank Guarantee, the guarantor had essentially agreed that the
+
+purchasers alone shall be the sole judge in the matter as to whether the amount of the
+
+Bank Guarantee has become recoverable from the sellers or whether the seller had
+
+committed any breach of the terms and conditions of the agreement. In the case of
+
+the present Bank Guarantee, there is no such provision and that the present Bank
+
+Guarantees can be invoked only in the circumstances referred under their
+Article 1.
+(vi)     That the decision of the Division Bench of this Court in
+S. Satyanarayana &
+
+Co.
+(supra) and of the learned Single Judge in
+ANCL & Co. India Ltd.
+(supra),
+
+neither overrules nor in any manner conveys that the decision of the Learned Single
+
+Judge of this Court in
+Western Coal Fields & another
+(supra) is incorrect. Though the
+
+Learned Senior Advocate for TCTPL has submitted that
+the said judgment
+runs
+
+contrary to the various judgments of this Court, as well as the Hon'ble Supreme
+
+Court, no such judgment is relied upon in support of this contention.
+(vii)    That it is therefore reiterated that the subject Bank Guarantees are conditional
+::: Uploaded on - 12/01/2018                    ::: Downloaded on - 13/01/2018 01:55:26 :::
+SSP                                          19                                  Arbpl-366 of 2016
+and TCTPL cannot be allowed to invoke the same except in the circumstances
+
+referred to under
+Article 1.
+14.    I have considered the oral as well as the written submissions on behalf of
+
+FGIPL and TCTPL. I have also considered the case laws relied upon by them.
+15.    As set out earlier, it is submitted on behalf of FGIPL that the Bank Guarantees
+
+are conditional, whereas on behalf of TCTPL it is contended                    that the Bank
+
+Guarantees are absolute, unconditional and irrevocable.
+16.    As set out earlier, except
+Article 1
+of the Advance Bank Guarantees and
+Article
+
+1
+of the Performance Bank Guarantees, the terms of each of the Bank Guarantees are
+
+identical.
+Article 1
+of the Advance Bank Guarantee provides that, "if the delivery
+
+obligation is not performed by the seller in accordance with the terms of the purchase order,
+
+the guarantor shall within seven days from the receipt of a demand by the purchaser pay to
+
+the purchaser any sum not exceeding Rs.1,70,00,000/-" and
+Article 1
+of the Performance
+
+Guarantee provides that, "if the seller either fails to perform any of its obligations under
+
+the purchase order or breaches/violates any of the terms         of the purchase order, the
+
+Guarantor shall, within 7 working days from the date of receipt of a written demand from
+
+the Purchaser pay to the Purchaser any sum not exceeding Rs. 85,00,000/-". However, a
+
+mere reading of
+Article 1
+of the said Bank Guarantees in isolation is not enough to
+
+hold as submitted by Mr. Khambatta on behalf of FGIPL, that the subject Bank
+
+Guarantees are conditional ; that the intention of the parties was to incorporate the
+::: Uploaded on - 12/01/2018                        ::: Downloaded on - 13/01/2018 01:55:26 :::
+SSP                                        20                                Arbpl-366 of 2016
+
+
+entire terms and conditions of the purchase orders in the Advance/Down Payment
+
+and Performance Bank Guarantees ; that the Advance Bank Guarantees could be
+
+invoked and the bank is obliged to pay upon such invocation, only upon being satisfied
+
+that the delivery obligation was not performed by the seller/FGIPL in accordance
+
+with the terms of the purchase order ; and the Performance Bank Guarantee could be
+
+invoked and the bank is obliged to pay upon such invocation, only upon being satisfied
+
+that the seller/FGIPL failed to perform any of its obligations under the purchase order
+
+and/or any breach/violation of the terms of the purchase order by the seller/FGIPL.
+17.     A conjoint reading inter-alia of
+Articles 1
+, 2
+, 3
+, 6
+, 7D and
+15
+is relevant for
+
+arriving at a decision as to whether the Bank Guarantees are conditional or
+
+unconditional.
+Article 2
+of the Bank Guarantee provides :
+(i)     That the obligation of the Guarantor Bank under the Guarantee shall be
+
+unconditional, absolute and irrevocable, irrespective of the genuineness, validity,
+
+regularity or enforceability of the purchase order or any other circumstances which
+
+might otherwise constitute a legal and/or equitable discharge of a surety, or the
+
+Guarantor under the law relating to sureties ;
+(ii)    That the Guarantor Bank shall not be entitled to dispute or inquire into:
+Whether the Purchaser / TCTPL has become entitled to claim the said amount under
+
+the purchase order or not, or;
+::: Uploaded on - 12/01/2018                   ::: Downloaded on - 13/01/2018 01:55:26 :::
+SSP                                         21                                Arbpl-366 of 2016
+
+
+         Whether the supplier / FGIPL has committed any breach of the purchase
+
+order and/or the general terms and conditions applicable thereto or not , or;
+Whether the Purchaser / TCTPL is entitled to recover any damages from the
+
+Supplier / FGIPL for breach thereof or not.
+Article 3
+of the Bank Guarantee provides that the purchaser / TCTPL need not
+
+initiate any proceeding or claim against the seller / FGIPL before lodging any claim
+
+under the Guarantee.
+Article 6
+provides that the liability of the Guarantor/Bank under the Guarantee
+
+shall be primary, direct and immediate, and not conditional and/or contingent upon
+
+pursuit by the purchaser / TCTPL of any remedies that it may have against the
+
+seller / FGIPL and/or any other person in relation to the purchase order.
+Clause (D) of
+Article 7
+expressly waives demand for observance, performance
+
+and/or enforcement of any terms and/or provisions of the guarantee and/or purchase
+
+order.
+Article 15
+of the Bank Guarantee makes it clear that a demand for payment
+
+under the guarantee shall be deemed to have been sufficiently made if a claim in
+
+writing is sent by post or hand delivered to the Guarantor/Bank at its office and is
+
+received by the guarantor.
+::: Uploaded on - 12/01/2018                     ::: Downloaded on - 13/01/2018 01:55:26 :::
+SSP                                        22                                 Arbpl-366 of 2016
+
+
+       It is therefore clear that
+Article 1
+of the Advance Bank Guarantee as well as the
+
+Performance Bank Guarantee have only made a general reference to the purchase
+
+order and generally set out that if the delivery obligation is not performed by the
+
+seller/FGIPL in accordance with the terms of the purchase order, or if the seller fails
+
+to perform any of its obligation/s under the purchase order, or breaches or violates
+
+any of the terms of the purchase order, the guarantor bank shall within seven days
+
+from receipt of the demand from the purchaser make payment to TCTPL in a sum
+
+not exceeding the amount for which the Bank Guarantee is provided. After the above
+
+general reference to the purchase orders in
+Article 1
+, the subsequent Articles have
+
+made it clear that the Bank Guarantees are absolute and unconditional by a clear
+
+assertion that the bank shall not be entitled to dispute or inquire into whether
+
+TCTPL has become entitled to claim the guaranteed amount under the purchase
+
+order or not ; or whether FGIPL has committed any breach of purchase order and/or
+
+general terms and conditions applicable thereto or not ; or whether TCTPL is entitled
+
+to recover any damages from the Supplier/FGIPL for breach thereof or not. It is
+
+further clearly asserted in
+Articles 3
+, 6
+, 7(D)
+and
+15
+of the Bank Guarantees that
+
+TCTPL need not initiate any proceeding or claim against FGIPL before lodging any
+
+claim under the guarantee; that the liability of the Guarantor/Bank under the
+
+Guarantees shall be primary, direct and immediate, and not conditional and/or
+
+contingent upon pursuit by the purchaser/TCTPL of any remedies that it may have
+
+against the seller/FGIPL and/or any other person in relation to the purchase order ;
+::: Uploaded on - 12/01/2018                     ::: Downloaded on - 13/01/2018 01:55:26 :::
+SSP                                           23                                 Arbpl-366 of 2016
+
+
+that the demand for observance, performance and/or enforcement of any terms
+
+and/or provisions of the guarantees and/or purchase order is expressly waived ; and
+
+that a demand for payment under the guarantees shall be deemed to have been
+
+sufficiently made if a claim in writing is sent by post or hand delivered to the
+
+Guarantor/Bank at its office and is received by the guarantor. It is required to be
+
+made clear that only because TCTPL has in its invocation letters stated that, "the
+
+delivery obligation is not performed by the seller" and that "the seller has failed to perform
+
+its obligation/s under the purchase order", the submission of FGIPL that TCTPL is
+
+conscious of the fact that the Bank Guarantees are conditional, cannot be accepted.
+18.    Mr. Khambatta, as set out hereinabove, has submitted that the subject Bank
+
+Guarantees do not make the beneficiary i.e. TCTPL the sole Judge of whether the
+
+conditions for invoking the Bank Guarantees are satisfied. I am not in agreement with
+
+the submissions made by Mr. Khambatta, since I am of the view that the language of
+Article 2
+i.e. "the Guarantor (Bank) shall not be entitled to dispute or inquire into whether
+
+the purchaser (TCTPL) has become entitled to claim the said amount under the purchase
+
+order or not or whether the supplier (FGIPL) has committed any breach of the purchase order
+
+and/or the general conditions applicable thereto or not or whether the purchaser (TCTPL) is
+
+entitled to recover any damages from the supplier (FGIPL) for breach thereof or not", clearly
+
+establishes that the Purchaser/TCTPL is the sole Judge to decide as to whether the
+
+conditions for invoking the bank guarantees are satisfied. It is not necessary that the
+
+party invoking a bank guarantee cannot be treated as the sole Judge to decide whether
+::: Uploaded on - 12/01/2018                        ::: Downloaded on - 13/01/2018 01:55:26 :::
+SSP                                           24                                 Arbpl-366 of 2016
+
+
+the conditions for invoking the bank guarantees are satisfied, unless the words 'sole
+
+Judge' are found in the Bank Guarantee.
+19.    As pointed out by Mr. Kamdar, the learned Senior Advocate appearing for
+
+TCTPL, a similar issue of interpretation of the terms of Bank Guarantee had arisen
+
+before the Hon'ble Supreme Court of India in the case of
+Mahatma Gandhi
+(supra)
+
+in respect of similar clauses of a Bank Guarantee. The relevant portion of the Bank
+
+Guarantee
+in that case
+was reproduced by the Honble Supreme Court in paragraph 17
+
+of its judgment which is reproduced hereunder:
+"17. The relevant portion of the bank guarantee is extracted herein below:
+"1. In consideration of the above premises, the Guarantor hereby
+          undertakes to pay to the purchasers within 30 days of demand, without
+          demur such a sum not exceeding Rs. 92,40,000/- (Rupees Ninety two
+          lakhs forty thousand only), representing 3% of the contract price as the
+          purchasers may demand upon the failure of the supplier to conduct the
+          trial test of the sugar plant by 24th July, 2003 and also upon the failure
+          of the sellers to commission the Project (Plant and Machinery) before
+          December 2003.
+2. The Guarantor shall pay to the purchasers on demand the sum without
+          demur and without requiring the purchasers to invoke any legal remedy
+          that may be available to them, it being understood and agreed FIRSTLY
+          that the purchasers shall be the sole judge of and as to whether the amount
+          of bank guarantee has become recoverable from the sellers or whether the
+          sellers have committed any breach(es) of the terms and conditions of the
+          said agreement and the extent of losses, damages, costs, charges and
+          expenses caused to or suffered by or that may be caused to or suffered by
+          purchaser's from time to time shall be final and binding to the Guarantor
+          and SECONDLY that the right of the purchasers to recover from the
+          guarantor any amount due to the purchasers under this guarantee shall
+::: Uploaded on - 12/01/2018                        ::: Downloaded on - 13/01/2018 01:55:26 :::
+SSP                                             25                                  Arbpl-366 of 2016
+
+
+          not be affected or suspended by reasons of the fact that any dispute or
+          disputes have been raised by the sellers with regard to their liability or that
+          proceedings are pending before any tribunal/ arbitrator(s) or court with
+          regard thereto or in connection therewith and THIRDLY that the
+          guarantor shall immediately pay the aforesaid guaranteed amount to the
+          purchasers on demand and it shall not be open to the Guarantor to know
+          the reasons of or to investigate or to go into the merits of the demands or to
+          question or challenge the demand or to know any facts affecting the
+          demand, and LASTLY that it shall not be open to the guarantor to
+          require the proof of the liability of the sellers to pay the amount, before
+          paying the sum demanded under Clause 1 above.
+*                      *                       *
+8. The invocation of this guarantee shall be by a letter as herein, signed by
+         the purchasers and countersigned by the Commissioner of Sugar,
+         Bangalore, Karnataka State.                           (emphasis supplied)
+
+From the above Articles of the Bank Guarantee it becomes clear that
+Article 1
+of the
+
+Bank Guarantee
+in that case
+provided that the Bank had undertaken to pay to the
+
+purchaser a sum of Rs. 92.40 lakhs upon the failure of the supplier to conduct the trial
+
+test of the sugar plant by 24 th July 2003 and also upon the failure of the sellers to
+
+commission the project (Plant and Machinery) before December 2003. The aforesaid
+
+clause thus contemplated that the Bank Guarantee is payable upon the failure of the
+
+trial test and/or failure of commissioning of the project by the dates specified in the
+
+Bank Guarantee itself.
+Clause 2 of the bank guarantee in the
+Mahatma Gandhi
+case (supra) was in
+
+terms similar to Clause 2 of the subject Bank Guarantees in the captioned Petitions.
+Clause 2 of the said Bank Guarantee provided that the bank guarantee was payable on
+
+demand and without demur. It further provided that the purchaser was not required
+::: Uploaded on - 12/01/2018                           ::: Downloaded on - 13/01/2018 01:55:26 :::
+SSP                                         26                                 Arbpl-366 of 2016
+
+
+to adopt any legal remedy that may be available to it and that the purchaser was to be
+
+the sole judge as to whether the Bank Guarantee had become invokable. In the present
+
+case also, Clause 2 contemplates that the demand by the Respondent shall not be
+
+disputed or enquired into by the Bank, the Bank also will not be entitled to enquire
+
+into whether the said claim amount under the purchase order has become payable, or
+
+whether FGIPL has committed any breach of the Purchase Order. In fact, it is this
+
+language of Clause 2 which makes TCTPL the sole judge in determining whether
+
+there is a breach of the Purchase Order and therefore, whether any amount should be
+
+claimed under the Bank Guarantee from the guarantor i.e. the Bank.
+20.    The Hon'ble Supreme Court in the case of
+Mahatma Gandhi
+(supra) rejected
+
+the argument that the Bank Guarantee therein was conditional and held that clauses 1
+
+and 2 of the said Bank Guarantee are capable of harmonious interpretation and no part
+
+of the Bank Guarantee was to be discarded. While arriving at the aforesaid finding the
+
+Hon'ble Supreme Court held as follows:
+"18.     A plain reading of Clauses (1) and (2) of the bank guarantee makes it
+      abundantly clear that the guarantor had undertaken to pay to the appellant
+      within 30 days of demand, without demur such an amount not exceeding
+      Rs.92.40 lakhs. The sole discretion is conferred on the purchasers as to
+      whether the amount of bank guarantee has become recoverable from the
+      sellers or whether the sellers have committed any breach of the terms and
+      conditions of the said agreement. The right of the purchaser to recover
+      from the guarantor the guaranteed amount shall not be affected or
+      suspended by the reasons of the fact that any dispute or disputes have been
+      raised by the sellers with regard to their liability or that the proceedings
+::: Uploaded on - 12/01/2018                      ::: Downloaded on - 13/01/2018 01:55:26 :::
+SSP                                          27                                  Arbpl-366 of 2016
+
+
+      are pending before any tribunal or court with regard thereto or in
+      connection therewith.
+19.       However, Shri Jayant Bhushan, learned senior counsel submitted
+      that the purchasers were entitled to invoke the bank guarantee and
+      demand the payment of money only upon the failure of the supplier to
+      conduct the trial test of the sugar plant by 24 th July, 2003 and also upon
+      the failure of the sellers to commission the project before December, 2003.
+      This condition forms an integral part of the bank guarantee was the
+      submission. We find it difficult to accept the submission. The guarantee
+      executed by the guarantor (PNB) in favour of the purchaser (appellant)
+      cannot be dissected in the manner suggested by the learned senior counsel
+      for the respondent. Clauses 1 and 2 of the guarantee executed by the
+      banker in favour of the purchaser are required to be read together. The
+      respondent cannot be allowed to contend that there is a dispute as to
+      whether it had failed to conduct the trial test of the sugar plant by
+      24th July, 2003 and therefore bank guarantee cannot be invoked. The
+      acceptance of the argument would make Clause 2 of the bank guarantee
+      totally meaningless and inoperative. The guarantor essentially agreed that
+      the purchasers alone shall be the sole judge in the matter as to whether the
+      amount of bank guarantee has become recoverable from the sellers or whether the
+      seller had committed any breach of the terms and conditions of the agreement.
+      The dispute, if any, between the parties with regard to the liability in any
+      proceedings either before the arbitral tribunal or court in no manner affects the
+      right of the purchaser to invoke the bank guarantee and realise the guaranteed
+      sum from the guarantor.(Emphasis supplied)
+21.    FGIPL has relied on an earlier decision of the Hon'ble Supreme Court in the
+
+case of HCC (supra). The facts of that case and the contents/language of the Bank
+
+Guarantee therein are very different from that in the present case. In that case clause
+
+9 of the Principal Agreement reads thus:
+"9. ADVANCE MOBILIZATION LOAN:
+::: Uploaded on - 12/01/2018                        ::: Downloaded on - 13/01/2018 01:55:26 :::
+SSP                                          28                                  Arbpl-366 of 2016
+
+
+         The Employer, will make an advance loan to the Contractor at 13 per cent
+         simple interest per annum for the costs of mobilization in respect of the
+         works in a lump sum amount equivalent upto 15 per cent of the Contract
+         Price named in the Letter of Acceptance, payable in the proportionate
+         amounts of foreign and local currencies as provided for in the Contract.
+         Payment of the loan will be due under separate certification by the
+         Engineer after (i) execution of the Form of Agreement by the parties
+         thereto, (ii) Provision by the Contract of the Performance security in
+         accordance with Clause 5, and (iii) provision by the Contractor of a Bank
+         Guarantee by a Bank acceptable to the Employer in an amount equal to the
+         advance loan, such Bank Guarantee to remain effective until the advance
+         loan has been completely repaid by the Contractor out of current earnings
+         under the Contract and certified accordingly by the Engineer. A form of
+         bank guarantee acceptable to the Employer is indicated in
+Section 9
+.
+         Annex. B. The advance loan shall be used by the contractor exclusively for
+         mobilization expenditures, including the acquisition of Constructional
+         Plant, in connection with the works. Should the Contractor misappropriate
+         any portion of the advance loan, it shall become due and payable
+         immediately, and no further loan will be made to the Contractor
+         thereafter. The advance mobilization loan, shall be paid within 15 days of
+         the date of certification."
+The Bank Guarantee furnished by Hindustan Construction Company provided as
+under:
+"... ... ...In accordance with the provisions of the Conditions of
+          Contract, Clause 9 (Advance Mobilisation Loan) of the above-
+          mentioned contract, the Hindustan Construction Co. Ltd.,
+          incorporated in Bombay under the
+Companies Act, 1956
+, and having
+          their registered officer at Construction House, Walchand Hirachand
+          Marg, Ballard Estate, Bombay-400 038 (hereinafter called 'the
+          Contractor') shall deposit with the Executive Engineer, Kharkai Dam
+          Division II, Icha, Chaliama, Post Kesargarhia, Dist. Singhbhum,
+          Bihar, a bank guarantee to guarantee their proper and faithful
+::: Uploaded on - 12/01/2018                        ::: Downloaded on - 13/01/2018 01:55:26 :::
+SSP                                            29                                  Arbpl-366 of 2016
+
+
+           performance under the said clause of the contract in an amount of Rs.
+           10,00,000 (Rupees Ten lakhs only).
+We, the State Bank of India, incorporated under
+State Bank of India Act, 1955
+,
+      and having one of our branches at Nyayamurti C.N. Vaidya Marg, Fort,
+      Bombay-400 023 (hereinafter referred to as 'the said Bank'), as instructed by the
+      Contractor, agree unconditionally and irrevocably to guarantee as primary
+      obligator and not as Surety merely, the payment of the Executive Engineer,
+      Kharkai Dam Division II, Icha, Chaliama, Post Kesargarhia, Dist. Singhbhum,
+      Bihar, on his first demand without whatsoever right of objection on our part and
+      without his first claim to the contractor, in the amount not exceeding Rs.
+      10,00,000 (Rupees Ten lakhs only) in the event that the obligations expressed
+      in the said clause of the abovementioned contract have not been fulfilled by
+      the contractor giving the right of claim to the employer for recovery of the
+      whole or part of the Advance Mobilisation Loan from the contractor under
+      the contract. (emphasis supplied)
+
+      We further agree that no change or addition to or other modification of the terms of
+      the contract or of works to be performed thereunder or of any of the contract
+      documents which may be made between the Executive Engineer, Kharkai Dam
+      Division II, Icha, Chaliama, Post Kesargarhia, Dist. Singhbhum, Bihar, and the
+      contractor, shall in any way release us from any liability under this guarantee, and
+      we hereby waive notice of any such change, addition or modification"
+22.     The Hon'ble Supreme Court, whilst interpreting the said Guarantee held that
+
+the Bank Guarantee was conditional by observing in paragraphs 13 and 14 of its Order
+
+as follows:
+"12. Where the Bank, in the above Guarantee, no doubt, has used the
+          expression "agree unconditionally and irrevocably" to guarantee payment
+          to the Executive Engineer on his first demand without any right of
+          objection, but these expressions are immediately qualified by following:
+...in the event that the obligations expressed in the said
+                clause of the abovementioned contract have not been
+::: Uploaded on - 12/01/2018                         ::: Downloaded on - 13/01/2018 01:55:26 :::
+SSP                                         30                                  Arbpl-366 of 2016
+
+
+               fulfilled by the contractor giving the right of claim to the
+               employer for recovery of the whole or part of the Advance
+               Mobilisation Loan from the contractor under the contract.
+13. This condition clearly refers to the original contract between the
+         HCCL and the defendants and postulates that if the obligations,
+         expressed in the contract, are not fulfilled by HCCL giving to the
+         defendants the right to claim recovery of the whole or part of the
+         "Advance Mobilisation Loan", then the Bank would pay the amount
+         due under the Guarantee to the Executive Engineer. By referring
+         specifically to Clause 9, the Bank has qualified its liability to pay the
+         amount covered by the Guarantee relating to "Advance Mobilisation
+         Loan" to the Executive Engineer only if the obligations under the
+         contract were not fulfilled by HCCL or the HCCL has
+         misappropriated any portion of the "Advance Mobilisation Loan". It
+         is in these circumstances that the aforesaid clause would operate and
+         the whole of the amount covered by the "Mobilisation Advance"
+would become payable on demand. The Bank Guarantee thus could
+         be invoked only in the circumstances referred to in Clause 9
+         whereunder the amount would become payable only if the obligations
+         are not fulfilled or there is misappropriation. That being so, the
+         Bank Guarantee could not be said to be unconditional or
+         unequivocal in terms so that the defendants could be said to have had
+         an unfettered right to invoke that Guarantee and demand immediate
+         payment thereof from the Bank. This aspect of the matter was wholly
+         ignored by the High Court and it unnecessarily interfered with the
+         order of injunction, granted by the Single Judge, by which the
+         defendants were restrained from invoking the Bank Guarantee.
+         (emphasis supplied)
+
+
+
+Therefore, in view of the peculiar facts and circumstances of the HCC's Case and the
+
+language of the bank guarantee therein, the Hon'ble Supreme Court in that case held
+
+that the bank guarantee therein was conditional. The contents of none of the Articles
+::: Uploaded on - 12/01/2018                       ::: Downloaded on - 13/01/2018 01:55:26 :::
+SSP                                             31                                  Arbpl-366 of 2016
+
+
+found in the subject Bank Guarantees, i.e.
+Articles 2
+, 3
+, 6
+, 7(D)
+and
+15
+are found in the
+
+HCC's Case and therefore the decision in that case will not apply to the present case.
+23.    The Hon'ble Supreme Court in
+Mahatma Gandhi
+'s case (supra) has also dealt
+
+with a similar argument based on the decision in
+Hindustan Construction
+'s case (supra)
+
+and has distinguished the same in paragraph 28, which is reproduced as hereunder:
+"28. The learned counsel in support of his submission relied upon the
+          decision of this Court in
+Hindustan Construction Co. Ltd. Vs. State of
+          Bihar & Ors.
+[ (1999) 8 SCC 436].
+This Court in
+Hindustan
+          Construction Co.
+(supra) having referred to the terms of clause (9) of
+          principal contract between the parties therein came to the conclusion that
+          the bank guarantee specifically refers to the original contract and
+          postulates that the obligations expressed in the contract, are not fulfilled by
+          HCCL, the right to claim recovery of the whole or part of the "advance
+          mobilisation" then alone the bank was liable to pay the amount due under
+          the guarantee to the Executive Engineer. The court found that the bank
+          guarantee specifically refers to clause (9) of the principal agreement and it
+          is under those circumstances came to the conclusion that the amount
+          covered by the bank guarantee becomes payable and the same could be
+          invoked only in the circumstances referred to in clause (9) of the principal
+          agreement. The bank guarantee executed by the bank in the instant case in
+          favour of the appellant herein does not contain any such clause. Mere fact
+          that the bank guarantee refers to the principal agreement without referring
+          to any specific clause in the preamble of the deed of guarantee does not
+          make the guarantee furnished by the bank to be a conditional one. In the
+          very said judgment this Court observed that "what is important, therefore,
+          is that the bank guarantee should be in unequivocal terms, unconditional
+          and recite that the amount would be paid without demur or objection and
+          irrespective of any dispute that might have cropped up or might have been
+          pending between the beneficiary under the bank guarantee or the person on
+          whose behalf the guarantee was furnished. The terms of the bank
+          guarantee are, therefore, extremely material. Since the bank guarantee
+          represents an independent contract between the bank and the beneficiary,
+          both the parties would be bound by the terms thereof. The invocation,
+          therefore, will have to be in accordance with the terms of the bank
+          guarantee, or else, the invocation itself would be bad."
+::: Uploaded on - 12/01/2018                           ::: Downloaded on - 13/01/2018 01:55:26 :::
+SSP                                           32                              Arbpl-366 of 2016
+24.    I am therefore, of the view that
+Articles 1
+and
+2
+of the subject Bank Guarantees
+
+and the other Articles set out hereinabove can be harmoniously construed, and since I
+
+do not find any conflict between
+Articles 1
+and
+2
+of the subject Bank Guarantees
+
+and/or any other Article/s of the subject Bank Guarantees, I hereby hold that the
+
+Bank Guarantees in question are absolute and unconditional. The submissions made
+
+on behalf of FGIPL in support of their contention that the Bank Guarantees are
+
+conditional, therefore cannot be accepted and the case laws relied upon by them do
+
+not assist them. The distinction sought to be made by them, with regard to the case
+
+laws relied upon by TCTPL, also cannot be accepted. The principles
+laid down by
+the
+
+Hon'ble Supreme Court in the case of
+Saheb Zada Mohd. Kamgar Shah
+(supra) and
+Radha Sundar Dutta
+(supra) also do not assist FGIPL. Since I am of the view that
+
+there is no ambiguity qua the construction of the Bank Guarantees, the question of
+
+applying the contra proferentum rule also does not arise.
+25.    The next submission advanced by Mr. Khambatta on behalf of FGIPL is that
+
+the conditions for invocation of the Bank Guarantees in question are not satisfied. In
+
+support of this contention           Mr. Khambatta has relied on the correspondence
+
+exchanged between FGIPL and TCTPL and has submitted that the said
+
+correspondence shows that the work could not be completed till the scheduled
+
+commissioning date only on account of the reasons attributable to TCTPL.                   Mr.
+
+Khambatta has also submitted that the submission of TCTPL that the
+
+correspondence between the parties were without prejudice as it was in the nature of
+::: Uploaded on - 12/01/2018                     ::: Downloaded on - 13/01/2018 01:55:26 :::
+SSP                                           33                                 Arbpl-366 of 2016
+
+
+settlement, is also liable to be rejected. Since for reasons set out hereinabove, I have
+
+already held that the Bank Guarantees are unconditional Bank Guarantees, the
+
+question of 'the conditions for invocation of the Bank Guarantees in question' not
+
+being satisfied, does not arise and the question of looking into the correspondence
+
+relied upon by Mr. Khambatta in support of the above submission does not arise.
+26.    It is settled law that a bank guarantee is an independent contract and a
+
+challenge to the invocation/encashment of an irrevocable and unconditional bank
+
+guarantee has to be considered without any reference to the underlying or main
+
+contract or to the disputes/claims thereunder. However, the two exceptions which
+
+have been carved out by several decisions of the Hon'ble Supreme Court under which
+
+the invocation/encashment of such Bank Guarantee/s could be restrained are fraud
+
+and irretrievable injury. FGIPL has averred in the Petitions that the invocation of the
+
+Bank Guarantees would be fraudulent, more so because TCTPL has not challenged
+
+the suspension of the works by FGIPL. It is trite law that a Court can restrain
+
+encashment of bank guarantee in cases of established fraud in issuance of the bank
+
+guarantee. The fraud has to be absolute and egregious, vitiating the very foundation of
+
+the bank guarantee.         The Hon'ble Supreme Court has in its decision in
+U.P. State
+
+Sugar Corporation vs. Sumac International Ltd.13
+(supra) held as follows:
+"12. ....... When in the course of commercial dealings an unconditional
+         bank guarantee is given or accepted, the beneficiary is entitled to realize
+         such a bank guarantee in terms thereof irrespective of any pending
+
+13 (1997) 1 SCC 568
+::: Uploaded on - 12/01/2018                        ::: Downloaded on - 13/01/2018 01:55:26 :::
+SSP                                            34                                 Arbpl-366 of 2016
+
+
+         disputes. The bank giving such a guarantee is bound to honour it as per its
+         terms irrespective of any dispute raised by its customer. The very purpose of
+         giving such a bank guarantee would otherwise be defeated. The courts
+         should, therefore, be slow in granting an injunction to restrain the
+         realization of such a bank guarantee. The courts have carved out only two
+         exceptions. A fraud in connection with such a bank guarantee would
+         vitiate the very foundation of such a bank guarantee. Hence if there is such
+         a fraud of which the beneficiary seeks to take advantage, he can be
+         restrained from doing so. .... ...... ..... ...... In the case of
+U.P.
+         Cooperative Federation Ltd. v. Singh Consultants and Engineers (P)
+         Ltd.
+(1988 [1] SCC 174), which was the case of works contract where the
+         performance guarantee given under the contract was sought to be invoked,
+         this Court, after referring extensively to English and Indian cases on the
+         subject, said that the guarantee must be honoured in accordance with its
+         terms. The bank which gives the guarantee is not concerned in the least
+         with the relations between the supplier and the customer; nor with the
+         question whether the supplier has performed his contractual obligation or
+         not, nor with the question whether the supplier is in default or not. The
+         bank must pay according to the tenor of its guarantee on demand without
+         proof or condition. There are only two exceptions to this rule. The first
+         exception is a case when there is a clear fraud of which the bank has notice.
+         The fraud must be of an egregious nature such as to vitiate the entire
+         underlying transaction.
+Explaining the kind of fraud that may absolve a
+         bank from honouring its guarantee, this Court in the above case quoted
+         with approval the observations of Sir John Donaldson, M.R. in Bolivinter
+         Oil SA v. Chase Manhattan Bank NA (1984 [1] AER 351 (All ER at p.
+352) : (at SCC p.197)
+          "The wholly exceptional case where an injunction may be granted is where
+         it is proved that the bank knows that any demand for payment already
+         made or which may thereafter be made will clearly be fraudulent. But the
+         evidence must be clear both as to the fact of fraud and as to the bank's
+         knowledge. It would certainly not normally be sufficient that this rests on
+         the uncorroborated statement of the customer, for irreparable damage can
+         be done to a bank's credit in the relatively brief time which must elapse
+         between the granting of such an injunction and an application by the bank
+         to have it charged".
+This Court set aside an injunction granted by the High Court to restrain
+         the realisation of the bank guarantee."
+::: Uploaded on - 12/01/2018                         ::: Downloaded on - 13/01/2018 01:55:26 :::
+SSP                                            35                                  Arbpl-366 of 2016
+27.    On the issue of the first exception viz. fraud, the Hon'ble Supreme Court in the
+
+case of
+Vinitec Electronics Pvt. Ltd. vs. HCL Infosystems Ltd.
+(supra) held thus:
+"25. This Court in more than one decision took the view that fraud, if
+          any, must be of an egregious nature as to vitiate the underlying
+          transaction. We have meticulously examined the pleadings in the
+          present case in which no factual foundation is laid in support of the
+          allegations of fraud. There is not even a proper allegation of any fraud
+          as such and in fact the whole case of the appellant centres around the
+          allegation with regard to the alleged breach of contract by the
+          respondent. The plea of fraud in the appellant's own words is to the
+          following effect:
+" That despite the respondent HCL being in default of not making
+          payment as stipulated in the bank guarantee, in perpetration of abject
+          dishonesty and fraud, the respondent HCL fraudulently invoked the
+          bank guarantee furnished by the applicant and sought remittance of the
+          sums under the conditional bank guarantee from Oriental Bank of
+          Commerce vide letter of invocation dated 16-12-2003."
+26. In our considered opinion such vague and indefinite allegations
+          made do not satisfy the requirement in law constituting any fraud much
+          less the fraud of an egregious nature as to vitiate the entire transaction.
+          The case, therefore does not fall within the first exception."
+28.      FGIPL has pleaded fraud in the Petition primarily on the basis that TCTPL
+
+has committed breaches of the underlying contract, has not even challenged the
+
+suspension of the works by FGIPL, and as such the invocation of Bank Guarantees is
+
+illegal and fraudulent. In my view, FGIPL has not made out any case of fraud, much
+
+less a case of an absolute and egregious fraud to the knowledge of the Bank, which
+
+would affect the very foundation of the Bank Guarantee, as is required in law. In view
+::: Uploaded on - 12/01/2018                          ::: Downloaded on - 13/01/2018 01:55:26 :::
+SSP                                          36                                  Arbpl-366 of 2016
+
+
+thereof it cannot be held that the invocation of the Bank Guarantee by TCTPL is
+
+fraudulent as alleged by FGIPL.
+29.    As regards the second exception viz. irretrievable injury, it has been repeatedly
+
+held by the Hon'ble Apex Court that to avail of the said ground it must be decisively
+
+established and proved to the satisfaction of the court that there would be no
+
+possibility whatsoever of recovering the amount by the beneficiary.
+In this context,
+
+paragraph 14 of the decision of the Hon'ble Supreme Court in
+U.P. State Sugar
+
+Corporation
+(supra) is relevant and reproduced hereunder:
+"14. On the question of irretrievable injury which is the second exception
+         to the rule against granting of injunctions when unconditional bank
+         guarantees are sought to be realised the court said
+in
+the above case
+that
+         the irretrievable injury must be of the kind which was the subject-matter
+         of the decision in the
+Itek Corporation
+case (supra). In that case an
+         exporter in the U.S.A. entered into an agreement with the Imperial
+         Government of Iran and sought an order terminating its liability on
+         stand by letters of credit issued by an American bank in favour of an
+         Iranian Bank as part of the contract. The relief was sought on account of
+         the situation created after the Iranian revolution when the American
+         Government cancelled the export licences in relation to Iran and the
+         Iranian Government had forcibly taken 52 American citizens as hostages.
+         The U.S. Government had blocked all Iranian assets under the
+         jurisdiction of United States and had cancelled the export contract. The
+         Court upheld the contention of the exporter that any claim for damages
+         against the purchaser if decreed by the American Courts would not be
+         executable in Iran under these circumstances and realization of the bank
+         guarantee/Letters of credit would cause irreparable harm to the plaintiff.
+         This contention was upheld. To avail of this exception, therefore,
+         exceptional circumstances which make it impossible for the guarantor to
+         reimburse himself if the ultimately succeeds, will have to be decisively
+         established. Clearly, a mere apprehension that the other party will not be
+         able to pay, is not enough.
+In the Itek case (supra) there was a certainty
+         on this issue. Secondly, there was good reason, in that case for the Court
+::: Uploaded on - 12/01/2018                        ::: Downloaded on - 13/01/2018 01:55:26 :::
+SSP                                           37                                  Arbpl-366 of 2016
+
+
+          to be prima facie satisfied that the guarantors i.e. the bank and its
+          customer would be found entitled to receive the amount paid under the
+          guarantee.
+The above view is also reiterated by the Hon'ble Apex Court in paragraph 22 of its
+
+decision in the case of
+Dwarikesh Sugar Industries Ltd. vs. Prem Heavy Engineerings
+
+Works (P) Ltd.
+(supra).
+30.     However, Mr. Khambatta on behalf of FGIPL has made the following
+
+submissions :
+(i)     That the law
+laid down by
+the Hon'ble Supreme Court on the definition of
+
+special equities is quite clear and the term special equities is wide enough to cover
+
+any other miscellaneous issues that might arise among the parties, other than just
+
+irretrievable injury/harm, as has been claimed by TCTPL.
+(ii)    That in the HCC's case, the Supreme Court went on to hold that, "The
+
+allegation of the defendants that HCCL itself had abandoned the work does not, prima
+
+facie, appear to be correct and it is for this reason that we are of the positive view that the
+
+"special equities" are wholly in favour of HCCL." The Supreme Court after analyzing
+
+the bank guarantee in the case and the facts surrounding the contract between the
+
+parties came to the finding that the special equities had arisen due to which an
+
+injunction could be granted against the invocation and encashment of the bank
+
+guarantee. In fact the Supreme Court does not even mention irretrievable injuries
+
+while holding that Special Equities had arisen in favor of FGIPL.
+::: Uploaded on - 12/01/2018                        ::: Downloaded on - 13/01/2018 01:55:26 :::
+SSP                                             38                                  Arbpl-366 of 2016
+
+
+(iii)    That in the case of
+BSES Ltd.
+(supra), the Supreme Court has clarified that "
+"Hence, only one more point remains: whether encashment of the
+              guarantees will create special equities (in particular, "irretrievable
+              injury") in favour of the First Respondent? We are not satisfied on
+              facts that such is the present situation."
+The Supreme Court clearly comes to the conclusion that irretrievable injury is only
+
+one of the aspects of Special Equity. The Supreme Court observed that:
+"The second exception to the general rule of non-intervention is when
+            there are "special equities" in favour of injunction, such as when
+            "irretrievable injury" or "irretrievable injustice" would occur if such an
+            injunction were not granted."
+It is apparent on analysis of this judgment that the Supreme Court does not intend to
+
+use irretrievable injury as a synonym for Special Equities. Thereafter, the Supreme
+
+Court goes on to hold that:
+"Therefore, since this prayer is already pending before the Arbitral
+          Tribunal, we see no situation of "irretrievable injustice" if, at the present
+          moment, the Appellant is allowed to encash the bank guarantees. For justice
+          can always be rendered to the First Respondent, if he succeeds before the
+          Arbitrators. Nor do we see any special equity in favour of the First
+          Respondent, when there is in fact a dispute that performance was prima
+          facie not satisfactory, which enabled the Appellant to encash all or any of the
+          four bank guarantees."
+The Supreme Court in the subsequent paragraph in fact goes on to say that Special
+
+Equities and irretrievable injustice are actually distinct criterion for granting an
+
+injunction on encashment of the bank guarantee, when it says that neither have any
+
+special equities been shown, nor has a situation of irretrievable injuries arisen.
+::: Uploaded on - 12/01/2018                         ::: Downloaded on - 13/01/2018 01:55:26 :::
+SSP                                           39                                  Arbpl-366 of 2016
+
+
+(iv)     That      the Supreme Court analyses special equities in U.P. Cooperative
+Federation Ltd. Vs. Singh Consultants and Engineers (P) Ltd.
+14, General Electric
+
+Technical Services Company Inc. Vs. M/s. Punj Sons (P) Ltd. and another           15
+                                                                                       and Svenska
+
+Handelsbanken Vs. M/s. Indian Charge Chrome and others by saying16, "special equities
+
+in the form of preventing irretrievable injustice between the parties". Irretrievable injustice
+
+has clearly been held to be a form of Special Equities in these Judgments but it has
+
+nowhere been said that irretrievable harm covers all forms of Special Equities and that
+
+there can be no Special Equities other than irretrievable injustice/harm.
+(v)      That, further in the case of
+U.P. State Sugar Corporation Vs. Sumac
+
+International Ltd.
+(
+supra) and Dwarikesh Sugar Industries Ltd. Vs. Prem Heavy
+
+Engineering Works (P) Ltd. and another
+(supra) whilst relying upon Svenska
+
+Handelsbanken Vs. M/s.
+Indian Charge Chrome and others
+(supra) and
+U.P.
+
+Cooperative Federation Ltd. Vs. Singh Consultants and Engineers (P) Ltd.
+(supra),
+
+the Bench held that fraud and irretrievable injury are the only two exceptions to the
+
+rules for granting an injunction in matters of bank guarantee.
+In both the
+
+abovementioned judgments i.e. Svenska Handelsbanken Vs. M/s.
+Indian Charge
+
+Chrome and others
+(supra) and
+U.P. Cooperative Federation Ltd. Vs. Singh
+
+Consultants and Engineers (P) Ltd.
+(supra), irretrievable injury was discussed to be a
+
+part of special equities and therefore it is apparent that in the subsequent judgments
+
+
+14     (1988)1SCC174
+15     (1991)4 SCC 230
+16     (1994)1 SCC 502
+::: Uploaded on - 12/01/2018                       ::: Downloaded on - 13/01/2018 01:55:26 :::
+SSP                                             40                                 Arbpl-366 of 2016
+
+
+the intention of the Learned Judge clearly was to state that fraud and special equities
+
+are the only two exceptions to the rules for granting injunction in matters of bank
+
+guarantee, but because irretrievable injury is a part of special equities these judgments
+
+did not feel the need to clarify and show a distinction between irretrievable injury and
+
+special equity.
+(vi)     That in fact, the case of
+Vinitec Electronics Private Limited Vs. HCL Infosystems
+17
+
+cited by the TCTPL is against it, in as much as the said Judgment makes it clear that
+
+there can be other instances of Special Equities without actually stating them:
+"The next question that falls for our consideration is as to whether the
+           present case falls under any of or both the exceptions namely whether there
+           is a clear fraud of which the bank has notice and a fraud of the beneficiary
+           from which it seeks to benefit and another exception whether there are any
+           'special equities' in favour of granting injunction."
+"Whether encashment of the bank guarantee would cause any
+           'irretrievable injury' or 'irretrievable injustice'. There is no plea of any
+           'special equities' by the appellant in its favour. So far as the plea of
+           'irretrievable injustice' is concerned the appellant in its petition merely
+           stated..."
+It is submitted that, it is clear looking at the abovementioned para that whilst the
+
+judgment holds irretrievable injury/injustice and Special Equities to be connected to
+
+each other it is apparent that the Judgment does not intend to say that Special Equities
+
+are synonymous with irretrievable injury/injustice. In fact when the Judgment says
+
+"any special equities" it clearly means to say any special equities other than
+
+
+17     (2008) 1 SCC 544
+::: Uploaded on - 12/01/2018                        ::: Downloaded on - 13/01/2018 01:55:26 :::
+SSP                                         41                                  Arbpl-366 of 2016
+
+
+irretrievable injury/injustice. This clearly shows that irretrievable injury/injustice has
+
+been held to be a part of special equities and not the whole of it.
+(vii)    That though in the case of
+Roadway Solution India Pvt. Ltd.
+(supra), the
+
+Learned Single Judge felt it necessary to establish a strong connection between
+
+irretrievable injustice and special equities, but it would not be right to read the
+
+judgment as if to say that special equities and irretrievable injuries are the same.
+31.      Mr. Khambatta thereafter submitted that in the present matter there are
+
+overwhelming circumstances creating a situation of special equities in favour of an
+
+injunction such as:
+(i)      TCTPL has consistently admitted that the said sum of Rs. 32 crores is due and
+
+payable to FGIPL and that it has never exercised any of its contractual remedies
+
+and/or protested and/or disputed FGIPL's suspension of work due to such non-
+payment. In fact, TCTPL has accepted and acquiesced in the said suspension and/or
+
+has confirmed the position that work need not resume till further payment is made by
+
+TCTPL.
+(ii)     That TCTPL had agreed its liability to the tune of Rs. 32 Crores for works
+
+completed by FGIPL as per the six Purchase Orders in the meeting held on 5 th July,
+
+2015 and reiterated subsequently vide various other communications exchanged
+
+between both parties. That FGIPL and TCTPL during commercial discussions held
+
+during February-March, 2016, had, inter-alia, agreed and arrived at revised contract
+::: Uploaded on - 12/01/2018                     ::: Downloaded on - 13/01/2018 01:55:26 :::
+SSP                                        42                                Arbpl-366 of 2016
+
+
+price, extra/ escalation costs, timeline for completing remaining works and right of
+
+suspending works in case substantial payments were not made by TCTPL. TCTPL
+
+had agreed to pay the escalation cost despite being aware that the contract was a fixed
+
+price contract with an express provision, being Clause 3.1, against any escalation. The
+
+very fact that both parties were discussing the terms for the resumption of works,
+
+including revisiting the contract due to the inability of TCTPL to pay for the works,
+
+also strengthens FGIPL's contention that special equities are greatly in its favour and
+
+against the invocation of the Bank Guarantees.
+(iii)    A perusal of the Directors' Report and the Auditor's Report filed along with
+
+the Balance Sheet for the period 01.04.2013 to 31.03.2014 revealed that TCTPL has
+
+during the financial year 2013-2014 incurred huge losses.         FGIPL verily believes
+
+that the financial situation of TCTPL has worsened since and that TCTPL has also
+
+defaulted in payments of certain other sub-contractors. The attempt to invoke the
+
+Bank Guarantees furnished by FGIPL to TCTPL was to tide over these financial
+
+difficulties. TCTPL is becoming commercially insolvent day by day and is unable to
+
+pay its debts.
+(iv)     That if the Arbitral Tribunal ultimately decides in favour of FGIPL, it would
+
+be impossible to recover the amounts under the Bank Guarantees from TCTPL,
+
+causing great irretrievable injury/ injustice to    FGIPL. TCTPL being a Special
+
+Purpose Vehicle has no other assets or businesses apart from its Concession
+::: Uploaded on - 12/01/2018                  ::: Downloaded on - 13/01/2018 01:55:26 :::
+SSP                                                43                                   Arbpl-366 of 2016
+
+
+Agreement with V.O. Chidambaranar Port Trust and the assets created therein.
+
+FGIPL verily believes that all the loans given by the lenders to TCTPL are secured
+
+by exclusive first charge on all the assets provided under the Concession Agreement.
+
+FGIPL verily believes that lenders were also furnished the Corporate Guarantee by
+
+ALBA Aisa Pvt. Ltd. (Holding Company of TCTPL). TCTPL is not making much
+
+revenue or operating cash inflow since the project has not been commissioned, on
+
+account of issues between TCTPL and V.O. Chidambaranar Port Trust.
+(v)     That the total value of the invoked Bank Guarantees is approximately Rs.
+
+43,98,13,832/-. The aggregate of this amount and admitted dues of Rs. 32 crores,
+
+comes to Rs. 75,98,13,832/-, which is greater than the total payments made by
+
+TCTPL till date to FGIPL under the six purchase orders. Therefore, if the Bank
+
+Guarantees are encashed by TCTPL, severe irretrievable injustice will be caused to
+
+FGIPL. In support of the above submissions, FGIPL relied on paragraph 22 of
+
+HCC's case which reads thus:
+"22. We have scrutinised the facts pleaded by the parties in respect of both
+         the Bank Guarantees as also the document filed before us and we are, prima
+         facie, of the opinion that the lapse was on the part of the defendants who were
+         not possessed of sufficient funds for completion of the work. The allegation of
+         the defendants that HCCL itself had abandoned the work does not, prima
+         facie, appear to be correct and it is for this reason that we are of the positive
+         view that the "special equities" are wholly in favour of HCCL."
+FGIPL has also relied on the decision of the Delhi High Court in the case of
+Meena Advertisers vs. Delhi Metro Rail Corporation Ltd.
+18
+18 OMP (I) No. 344/2015 and I.A. No. 13973/2015 dated 16th July, 2015.
+::: Uploaded on - 12/01/2018                               ::: Downloaded on - 13/01/2018 01:55:26 :::
+SSP                                           44                                  Arbpl-366 of 2016
+32.    The Learned Senior Advocate appearing for TCTPL has submitted that
+
+special equities and irretrievable injustice are not two independent and separate
+
+grounds for granting injunction against invocation of the Bank Guarantee and the
+
+above submissions advanced by Mr. Khambatta cannot be accepted in view of the
+
+several decisions of the Hon'ble Apex Court having clearly laid down that the only
+
+two grounds on which a beneficiary can be restrained from invoking the Bank
+
+Guarantee are in case of absolute and egregious fraud vitiating the very foundation of
+
+the Bank Guarantee and in case where injunction is sought to prevent irretrievable
+
+injustice, which must be of the kind which was the subject matter of the decision in
+
+the
+Itek Corporation
+case as held in paragraph 19 of the decision in
+U.P.Sugar
+
+Corporation
+(supra) set out in paragraph 29 above.
+In this regard Mr. Kamdar has
+
+also relied on the decision of the Calcutta High Court in the case of
+Texmaco Ltd. vs.
+
+State Bank of India
+and others19 and the decision of the Hon'ble Supreme Court in the
+
+case of
+U.P. Co-operative Federation Ltd.
+(supra).
+33.    I am in agreement with the above submissions of Mr. Kamdar. The word
+
+"special equities" came to be coined for the first time by Sabyasachi Mukharji J.
+
+sitting as a judge of the Calcutta High Court in the case of
+Texmaco Ltd. v. State Bank
+
+of India and Ors.
+(supra), in which he observed as follows:
+"10. In my opinion, the position in law is as follows, whether the bank is
+            obliged to pay and pay on what terms must depend upon both in the case
+            of bank guarantee and in the case of letter of credit on the terms of the
+
+19 AIR 1974 Cal 44
+::: Uploaded on - 12/01/2018                         ::: Downloaded on - 13/01/2018 01:55:26 :::
+SSP                                            45                                 Arbpl-366 of 2016
+
+
+            document. With respect to the Court of Appeal, it is not necessary for
+            this Court to go to the extent of saying whether the performance
+            guarantee stands on a similar footing of a letter of credit but so far as
+            the Court of Appeal says the bank must pay according to the guarantee
+            on demand, if so stipulated, without proof or conditions, I respectfully
+            agree. The Court of Appeal has referred to the exception of a clear
+            fraud. I venture to suggest there may be another exception in the
+            form of special equities arising from a particular situation which
+            might entitle the party to an injunction restraining the
+            performance of bank guarantee. But in the absence of such special
+            equities and in the absence of any clear fraud, the Bank must pay
+            on demand, if so stipulated, and whether the terms are such must
+            have to be found out from the performance guarantee as such."
+(Emphasis supplied) [See at Page 49]
+
+
+Sabyasachi Mukharji J., when sitting as a Judge of the Hon'ble Supreme Court
+
+explained the above observation in the
+Texmaco
+case whilst deciding the case of
+U.P.
+
+Co-operative Federation Ltd. v. Singh Consultants and Engineers (P) Ltd.
+(supra) in the
+
+following terms:
+"16. The Court of Appeal in England had occasion once again to
+            consider this question in Elian and Rabbath v. Matsas and Matsas -
+            (1966) 2 Lloyd's List Law Reports 495. In that case injunction was
+            granted to prevent irretrievable injustice...
+...
+21. In the instant case, the learned Judge has proceeded on the basis that
+            this was not an injunction sought against the bank but this was the
+            injunction sought against the appellant. But the net effect of the
+            injunction is to restrain the bank from performing the bank guarantee.
+            That cannot be done. One cannot do indirectly what one is not free to do
+            directly. But a maltreated man in such circumstances is not
+            remedyless. The respondent was not to suffer any injustice which
+            was irretrievable. The respondent can sue the appellant for
+            damages. In this case there cannot be any basis for apprehension
+::: Uploaded on - 12/01/2018                         ::: Downloaded on - 13/01/2018 01:55:26 :::
+SSP                                           46                                  Arbpl-366 of 2016
+
+
+            that irretrievable damages would be caused if any. I am of the
+            opinion that this is not a case in which injunction should be
+            granted. An irrevocable commitment either in the form of
+            confirmed bank guarantee or irrevocable letter of credit cannot be
+            interfered with except in case of fraud or in case of question of
+            apprehension of irretrievable injustice has been made out. This is
+            the well-settled principle of the law in England. This is also a well-
+            settled principle of law in India, as I shall presently notice from
+            some of the decisions of the High Court and decisions of this Court.
+
+            ...
+24. I may notice that in India, the trend of law is on the same line.
+In the case of
+Texmaco Ltd. v. State Bank of India
+and ors. - AIR
+            1979 Calcutta 44, one of us (Sabyasachi Mukharji, J.) held that in
+            the absence of special equities arising from a particular situation
+            which might entitle the party on whose behalf guarantee is given to
+            an injunction restraining the bank in performance of bank
+            guarantee and in the absence of any clear fraud, the bank must pay
+            to the party in whose favour guarantee is given on demand, if so
+            stipulated, and whether the terms are such have to be found out
+            from the performance guarantee as such. There the Court held that
+            where though the guarantee was given for the performance by the party
+            on whose behalf guarantee was given, in an orderly manner its
+            contractual obligation, the obligation was undertaken by the bank to
+            repay the amount on "first demand" and "without contestation, demur
+            or protest and without reference to such party and without questioning
+            the legal relationship subsisting between the party in whose favour
+            guarantee was given and the party on whose behalf guarantee was
+            given," and the guarantee also stipulated that the bank should forthwith
+            pay the amount due "notwithstanding any dispute between the parties,"
+it must be deemed that the moment a demand was made without protest
+            and contestation, the bank had obliged itself to pay irrespective of any
+            dispute as to whether there had been performance in an orderly manner
+            of the contractual obligation by the party. Consequently, in such a case,
+            the party on whose behalf guarantee was given was not entitled to an
+            injunction restraining the bank in performance of its guarantee. It
+::: Uploaded on - 12/01/2018                         ::: Downloaded on - 13/01/2018 01:55:27 :::
+SSP                                             47                                  Arbpl-366 of 2016
+
+
+            appears that special equities mentioned therein may be a situation
+            where the injunction was sought for to prevent injustice which was
+            irretrievable in the words of Lord Justice Denning, M.R. in Elian and
+            Rabbath v. Matsas and Matsas.
+...
+28. I am however, of the opinion that these observations must be strictly
+            considered in the light of the principle enunciated. It is not the decision
+            that there should be a prima facie case. In order to restrain the operation
+            either of irrevocable letter of credit or of confirmed letter of credit or of
+            bank guarantee, there should be serious dispute and there should be
+            good prima facie case of fraud and special equities in the form of
+            preventing irretrievable injustice between the parties. Otherwise
+            the very purpose of bank guarantees would be negatived and the
+            fabric of trading operation will get jeopardised.
+...
+34. On the basis of these principles I reiterate that commitments of banks
+            must be honoured free from interference by the courts. Otherwise, trust
+            in commerce internal and international would be irreparably damaged.
+            It is only in exceptional cases that is to say in case of fraud or in
+            case of irretrievable injustice be done, the Court should interfere."
+(Emphasis supplied) [see at pages 183; 186; 187 - 188; 189; 190]
+34.    The Learned Senior Advocate appearing for FGIPL has only tried to infer
+
+from various sentences of the judgments of the Hon'ble Supreme Court that there
+
+could be other species of special equities. The submission is directly contrary to the
+
+above Judgments of the Hon'ble Supreme Court, where it has repeatedly held that
+
+there are only two exceptions to the principle that Bank Guarantee invocation and
+
+encashment should not be stopped by the Court except in cases of fraud and special
+
+equities. Both these words have been interpreted by the Hon'ble Supreme Court in
+::: Uploaded on - 12/01/2018                           ::: Downloaded on - 13/01/2018 01:55:27 :::
+SSP                                            48                                 Arbpl-366 of 2016
+
+
+a series of judgments.         Fraud has been held to be a fraud of an egregious nature
+
+vitiating the entire underlying contract of bank guarantee; and special equities, to be
+
+such special equities which result in irretrievable injustice.
+In fact, an endeavour was
+
+made to expand the exceptions before the Hon'ble Supreme Court in the case of
+BSES Ltd.
+(supra) which the Hon'ble Supreme Court has rejected. The same is clear
+
+from the following extracts taken from the Judgment set out hereunder:
+"9. Mr. Rohtagi, learned Senior Counsel for the appellant, urged that
+          the settled law in this country is that a bank guarantee is an independent
+          contract between the bank and the beneficiary thereof. Accordingly,
+          irrespective of any dispute between the beneficiary and the party at whose
+          instance the bank has given the guarantee, the bank is obliged to honour
+          its guarantee, as long as the guarantee is unconditional and irrevocable.
+          Our attention was drawn to the judgment of this Court in
+U.P. Coop.
+          Federation Ltd. v. Singh Consultant and Engineers (P) Ltd.
+(1988) 1
+          SCC 174 (hereinafter "U.P. Cooperative Federation"). It was pointed
+          out
+in that case
+that a bank guarantee must be honoured in accordance
+          with its terms as the bank, which gives the guarantee, is not concerned
+          with the relations between the supplier and the customer. Neither is the
+          bank concerned with the question whether any of them have failed in their
+          contractual obligations or not. In other words, the bank must pay
+          according to the tenor of its guarantee, on demand, without proof or
+          condition.
+10. There are, however, two exceptions to this rule. The first is when
+          there is a clear fraud of which the bank has notice and a fraud of the
+          beneficiary from which it seeks to benefit. The fraud must be of an
+          egregious nature as to vitiate the entire underlying transaction. The
+          second exception to the general rule of non-intervention is when there are
+          "special equities" in favour of injunction, such as when "irretrievable
+          injury" or "irretrievable injustice" would occur if such an injunction were
+          not granted. The general rule and its exceptions has been reiterated in so
+          many judgments of this Court, that in
+U.P. State Sigar Corporation vs.
+          Sumac International Ltd.
+, (hereinafter "U.P. State Sugar
+          Corporation") this Court, correctly declared that the law was "settled" .
+::: Uploaded on - 12/01/2018                         ::: Downloaded on - 13/01/2018 01:55:27 :::
+SSP                                            49                                  Arbpl-366 of 2016
+11.    Mr. Sorabjee, however, tried to expand upon the settled
+          exceptions to the rule by first, relying on an order of this Court in
+State of Haryana v. Continental Construction Ltd.
+(hereinafter
+          "Continental Construction Ltd.").
+We are afraid that the short
+          order in
+Continental Construction Ltd.
+(supra) appears to have
+          been made on the narrow facts of that case and does not constitute a
+          precedent binding us. Moreover, as mentioned earlier, a line of
+          judgments of this Court have long settled the law relating to the
+          invocation of bank guarantees.
+12.     Second, Mr. Sorabjee placed reliance on a number of foreign
+          judgments, especially that of the Queen's Bench Division in TTI Team
+          Telecom Ltd. v. Hutchison 3G UK Ltd., wherein, the rule and its
+          exceptions in England have been elegantly summarized. Mr. Sorabjee
+          placed special emphasis on the following propositions:
+....                        ....                    .....
+13. Mr. Sorabjee, finally contended that in Singapore, where
+          commercial cases are expeditiously disposed of, the Court of Appeal in
+          Samwoh Asphalt Premix Pte. Ltd. v. Sum Cheong Piling Pte. Ltd. has
+          held that calling a performance guarantee for an oblique purpose was not
+          permissible. Specifically, using it as a "bargaining chip", as a "deterrent"
+or in an "abusive" manner, would invite an injunction from the court. He
+          submitted that the Singapore court has gone so far as to say that the
+          unconscionable calling of a bank guarantee was an exception independent
+          of fraud.
+14. We are afraid that in the face of the law succinctly laid down
+          in
+U.P. Cooperative Federation
+(supra) and reiterated in numerous
+          judgments of this Court referred to earlier, we are unable to accept
+          the wide proposition of law
+laid down in
+the foreign judgments cited
+          by Mr. Sorabjee. Whatever may be the law, as to the encashment of
+          bank guarantees in other jurisdictions, when the law in India is
+          clear, settled and without any deviation whatsoever, there is no
+          occasion to rely upon foreign case law." (emphasis supplied)
+35.    The Hon'ble Supreme Court has in the case of
+Dwarikesh Sugar Industries Ltd.
+
+vs. Prem Heavy Engineering Works (P) Ltd.
+and another20 observed as follows:
+20 (1997) 6 SCC 450
+::: Uploaded on - 12/01/2018                          ::: Downloaded on - 13/01/2018 01:55:27 :::
+SSP                                           50                                  Arbpl-366 of 2016
+
+
+            "22. The second exception to the rule of granting injunction i.e. the
+           resulting of irretrievable injury, has to be such a circumstance which
+           would make it impossible for the guarantor to reimburse himself, if he
+           ultimately succeeds. This will have to be decisively established and it
+           must be proved to the satisfaction of the Court that there would be no
+           possibility whatsoever of the recovery of the amount from the beneficiary,
+           by way of restitution.
+29. We also do not find any justification for the High Court in
+           invoking the alleged principle of unjust enrichment to the facts of
+           the present case and then deny the appellant the right to encash the
+           bank guarantee. If the High Court had taken the trouble to see the
+           law on the point it would have been clear that in encashment of
+           bank guarantee the applicability of the principle of undue
+           enrichment has no application". (emphasis supplied)
+36.    In any event, the alleged admitted non-payment of claim by TCTPL to
+
+FGIPL cannot create a special equity so as to injunct the invocation of the Bank
+
+Guarantee. Whether there is any payment due or not under the underlying contract
+
+is not the subject matter which can be considered or taken into account while granting
+
+or refusing to grant injunction against invocation and/or encashment of bank
+
+guarantee. The Hon'ble Supreme Court has in its decision in the case of
+Mahatma
+
+Gandhi Sahakra Sakkare Karkhane
+(supra) held as under:
+"25. ... It is specifically alleged that required funds were not available
+         with the appellant. On account of non availability of funds there were two
+         halts of nine months and five months during the execution of the project
+         from 03.12.2001 to 14.08.2002 and from 14.08.2002 to 10.01.2003. It is
+         further alleged that the appellant failed to arrange for all the pre-
+         requisites. It is not necessary for the purpose of disposal of this appeal to
+         notice all the allegations and averments filed by the respondents except to
+         note that the main thrust of the allegation relate to alleged breach of the
+::: Uploaded on - 12/01/2018                         ::: Downloaded on - 13/01/2018 01:55:27 :::
+SSP                                           51                                 Arbpl-366 of 2016
+
+
+         conditions of the agreement by the appellant. ... Once it is held that the
+         bank guarantee furnished by the banker is an unconditional one, the
+         appellant in our considered opinion cannot be restrained from
+         encashing the bank guarantee on the ground that a serious dispute
+         had arisen between the parties and on the allegations of breach of
+         terms and conditions of the agreement entered between the parties.".
+(emphasis supplied)
+
+
+In the case of
+BSES Ltd. vs. Fenner India Ltd. and Anr.
+(supra), it was held:
+"27. This was also a case where, after having recovered
+            certain amount from the running bills, a call was made on
+            the bank guarantee in respect of the full guaranteed
+            amount. In an observation with direct relevance for the
+            present case, this Court pointed out that the bank was not
+            concerned with the outstanding amount payable under the
+            running bills: "The right to recover the amount under the
+            running bills has no relevance to the liability of the Bank
+            under the guarantee. The liability of the Bank remained
+            intact irrespective of the recovery of mobilisation advance or
+            the non-payment under the running bills. The failure on the
+            part of (the Beneficiary) to specify the remaining
+            mobilisation advance in the letter for encashment of bank
+            guarantee is of little consequence to the liability of the bank
+            under the guarantee."
+In the case of
+General Electric Technical Services Company Inc. v. Punj
+Sons (P) Ltd.21
+, it was held that:
+"10. The High Court has observed that failure on the part of GETSCO
+            to make a reference to mobilisation advance in the letter seeking
+            encashment of the bank guarantee would be tantamount to suppression
+            of material facts, in the sense that the mobilisation advance was, under
+            the contract to be recovered from the running bills. It was further
+            observed that disclosure of such facts would have put the bank to further
+            inquiry as to what was the amount covered by those bills and what was
+            the corresponding amount of the mobilisation advance and to what
+            extent the amount covered by the bank guarantee remained payable. In
+21 (1991) 4 SCC 320
+::: Uploaded on - 12/01/2018                        ::: Downloaded on - 13/01/2018 01:55:27 :::
+SSP                                            52                                 Arbpl-366 of 2016
+
+
+            any event, the High Court said, that GETSCO could not demand full
+            amount of the bank guarantee on 17 April 1989. It seems to us that the
+            High Court has misconstrued the terms of the bank guarantee and the
+            nature of the inter-se rights of the parties under the contract. The
+            mobilisation advance is required to be recovered by GETSCO from the
+            running bills submitted by the respondent. If the full mobilisation
+            advance has not been recovered, it would be to the advantage of the
+            respondent. Secondly, the Bank is not concerned with the
+            outstanding amount payable by GETSCO under the running bills.
+            The right to recover the amount under the running bills has no
+            relevance to the liability of the Bank under the guarantee. The
+            liability of the Bank remained intact irrespective of the recovery of
+            mobilisation advance or the non-payment under the running bills.
+            ..." (emphasis supplied).
+In the case of
+ANCL & Co. India Ltd. v. Corporation Bank
+(supra), it was held that:
+"55. In my view, other correspondence exchanged between the parties
+           need not be dealt with for the purpose of deciding whether the intent of the
+           beneficiary to invoke the bank guarantee was for any other purpose other
+           than for which such bank guarantee was furnished. Issue raised by Mr.
+           Kamdar, the learned senior counsel appearing for the petitioner that the
+           petitioner has to recover substantial amount from the respondents or the
+           issue raised by Dr. Sathe, the learned senior counsel appearing for the
+           respondents that the petitioner had committed breaches of the contract
+           and in view of the termination of the contract, respondents would be
+           entitled to get the balance work done at the risk and cost of the petitioner
+           and would have counter claim against the petitioner are concerned, I am
+           of the view that both these issues can't be decided in the present
+           proceedings while considering application for injunction in respect of the
+           unconditional bank guarantee and such issues in my view can be decided
+           only by the Arbitral Tribunal."
+37.    FGIPL has in support of its contention that special equities have arisen in its
+
+favour, has placed reliance on the Judgment of the Hon'ble Supreme Court in the case
+
+of
+Hindustan Construction Company
+(supra) and in particular, paragraph 22 thereof
+
+which reads thus:
+::: Uploaded on - 12/01/2018                         ::: Downloaded on - 13/01/2018 01:55:27 :::
+SSP                                           53                                  Arbpl-366 of 2016
+
+
+       "22. We have scrutinized the facts pleaded by the parties in respect of both
+       the Bank Guarantees as also the document filed before us and we are,
+       prima facie, of the opinion that the lapse was on the part of the defendants
+       who were not possessed of sufficient funds for completion of the work. The
+       allegation of the defendants that HCCL itself had abandoned the work does
+       not, prima facie, appear to be correct and it is for this reason that we are of
+       the positive view that the "special equities" are wholly in favour of
+       HCCL".
+The Judgment of the Hon'ble Supreme Court in the case of
+Hindustan Construction
+
+Company
+(supra), as can be seen from Paragraph 9 of the Judgment, is purely on the
+
+basis of the terms of the Bank Guarantee. The observations at para 22 therein was in
+
+the context of a conditional bank guarantee. The Court has in the said case considered
+
+the clauses of the bank guarantee and in paragraphs 12 and 13 held that the bank
+
+guarantee was not an unconditional bank guarantee. The Hon'ble Supreme Court has
+
+held that by referring specifically to Clause 9, the Bank has qualified its liability to pay
+
+the amount covered by the Guarantee relating to "Advance Mobilisation Loan" to
+
+the Executive Engineer only if the obligations under the contract were not fulfilled by
+
+HCCL, or if HCCL has misappropriated any portion of the "Advance Mobilisation
+
+Loan". The Hon'ble Supreme
+Court further held
+that it is in these circumstances that
+
+clause 12 of the bank guarantee would operate and the whole of the amount covered
+
+by the "Mobilisation Advance" would become payable on demand and the bank
+
+guarantee thus could be invoked only in the circumstances referred to in Clause 9.
+
+The Supreme Court has held that, that being so the bank guarantee could not be said
+
+to be unconditional and unequivocal in terms so that the Defendants could be said to
+
+have an unfettered right to invoke that Guarantee and demand immediate payment
+::: Uploaded on - 12/01/2018                         ::: Downloaded on - 13/01/2018 01:55:27 :::
+SSP                                        54                                 Arbpl-366 of 2016
+
+
+thereof from the Bank. Further, the Court has also held at paras 19 and 20 that the
+
+invocation was done wrongfully.
+It was in the context of such bank guarantee that the
+
+Hon'ble Supreme Court made observations in para 22 in the case of
+Hindustan
+
+Construction Company
+(supra).
+The Judgment and observations of the Hon'ble
+
+Supreme Court in para 22 of the Judgment in
+Hindustan Construction Company
+(supra) cannot by any stretch of reasoning be said to have diluted the law on bank
+
+guarantees which has been reiterated repeatedly by the Hon'ble Supreme Court even
+
+after the Judgement in the case of Hindustan Construction Company.
+In the case of
+Vinitec Electronics Pvt. Ltd. vs. HCL Infosystems Ltd.
+22, the Hon'ble Supreme Court
+
+expressly dealt with and distinguished the Judgment in the case of Hindustan
+
+Construction Company at paragraphs 20 and 21 thereof.
+38.    In the light of aforesaid judgments, the alleged admitted non-payment can
+
+never be a ground of special equity because the Court cannot even go into that aspect
+
+as it is a dispute arising under the underlying contract and not in respect of the Bank
+
+Guarantee. In fact at the cost of repetition, I would again point out that under
+Article
+
+2
+of the subject Bank Guarantees, it is agreed that the Guarantor Bank is not entitled
+
+to dispute or enquire into whether the purchaser (TCTPL) has become entitled to
+
+claim the amount under the Purchase Order or not, or whether the Supplier (FGIPL)
+
+has committed any breach of Purchase Order and/or the General terms and
+
+conditions applicable thereto or not, or whether the Purchaser (TCTPL) is entitled to
+
+
+22 (2008) 1 SCC 544
+::: Uploaded on - 12/01/2018                     ::: Downloaded on - 13/01/2018 01:55:27 :::
+SSP                                           55                               Arbpl-366 of 2016
+
+
+recover any damages from the Supplier (FGIPL) for breach thereof or not. It is also
+
+clearly agreed that the Purchaser (TCTPL) need not initiate any proceeding or claim
+
+against the Seller (FGIPL) before lodging any claim under the Guarantee. The
+
+liability of the Guarantor under the Guarantee is primary, direct and immediate and
+
+not conditional and/or contingent upon pursuit by the Purchaser (TCTPL) of any
+
+remedies that it may have against the Seller (FGIPL) and/or any other person in
+
+relation to the Purchase Order.
+The aforestated          submissions advanced by Mr. Khambatta on            behalf of
+
+FGIPL, therefore, cannot be accepted and are rejected.
+39.       As regards the submission on behalf of FGIPL, that FGIPL will suffer
+
+irretrievable injustice if the Bank Guarantees are permitted to be encashed as the
+
+financial situation of TCTPL is precarious and the Bankers of TCTPL have stopped
+
+disbursements to it, it is submitted on behalf of TCTPL as follows:
+(i)     That TCTPL is a financially sound company and has already invested in excess
+
+of Rs. 350 crores to develop and commission a Rs. 640 crore Coal Terminal for the
+
+V.O. Chadambaranar Port Trust, Tuticorin;
+(ii)     that the accounts of TCTPL are standard and regular with NIL overdue with
+
+all its 7 consortium lenders as evidenced by the certificates issued by all its lenders
+
+[Exhibit A (Colly.) / Pages 504-511/ Additional Affidavit in Petition (L) No.
+
+366/2016] and disbursements have been made to TCTPL as late as on 11th March,
+::: Uploaded on - 12/01/2018                     ::: Downloaded on - 13/01/2018 01:55:27 :::
+SSP                                              56                                  Arbpl-366 of 2016
+
+
+2016 as evidenced by TCTPL 's Bank Account Statement [Exhibit B / Pages 512-515/
+
+Additional Affidavit to Petition (L) No. 366/2016];
+(iii)    that an amount of over Rupees Sixty One crores has already been paid by
+
+Respondent No. 1 to FGIPL pursuant to the Purchase Order.
+40.      TCTPL has also produced a letter dated 5th July, 2017, issued by the Bank of
+
+India to TCTPL which reads as under:
+" 1. The subject project is for providing port handling infrastructure and
+          has been financed by the consortium of seven lenders comprising Bank of
+          India (Lead Bank), Oriental Bank of Commerce, Indian Bank, Indian
+          Overseas Bank, India Infrastructure Finance Company Ltd., Bajaj
+          Finance and Export Import Bank of India.
+2.    The account of all lenders with TCTPL is Standard Asset in the
+          books of the Lenders as on date.
+3. As on date amount disbursed by the lenders is Rs.255.10 crores and
+          equity injected by Promoters is Rs. 170.07 crores totaling the incurred cost
+          Rs. 425.17 out of the total assessed project cost of Rs. 645.50 crores. The
+          total project cost of Rs. 645.50 crores is to be funded in the debt equity
+          ratio of 60 : 40. Based on the confirmation received from the Company
+          for bringing its equity and the available debt of the consortium of lenders,
+          company seems to be well placed to meet its project expenses.
+4. It is clarified that this information is furnished without any risk and
+          responsibility on our part in any respect, whatsoever, more particularly
+          either as a guarantor or otherwise. This certificate is issued on the specific
+          request of M/s. Tuticorin Coal Terminal Pvt. Ltd."
+::: Uploaded on - 12/01/2018                          ::: Downloaded on - 13/01/2018 01:55:27 :::
+SSP                                         57                                 Arbpl-366 of 2016
+41.    Though Mr. Khambatta has submitted that this letter only shows that TCTPL
+
+is meeting their financial obligations and there is no default for more than 90 days,
+
+the fact remains that there is no default on the part of TCTPL qua their financial
+
+obligations till date. As regards the allegation that TCTPL is making losses, the same
+
+cannot be a ground for the Court to grant an injunction against TCTPL from
+
+invoking the Bank Guarantees. TCTPL is yet to start the project commercially.
+Prior to the commencement of its commercial operations it certainly cannot be
+
+expected to make profits. However, it is important to note that the Civil Engineering
+
+Department of VOCPT has sent a communication to TCTPL dated 4th August,
+
+2017, wherein the independent Engineer M/s. CES (India) Pvt. Ltd. had issued a
+
+provisional certificate of the same date which is attached to the said communication.
+The certification by the independent Engineer appointed under the Concession
+
+Agreement dated 11th September, 2010 is to the effect that the independent Engineer
+
+is satisfied that the project can be safely and reliably placed into commercial service in
+
+terms of the said agreement and the project was provisionally declared fit for entry
+
+into commercial operation. The said satisfaction provisionally declared, is subject to
+
+works that were found to be incomplete or deficient which are specified in a "Punch
+
+List". The Punch List appears as an annexure to the said provisional certificate and
+
+records 4 items remaining to be completed as on 4th August, 2017. These items are
+
+as follows:
+(i)    Conveyor - The mechanised conveyor system yet to be installed.
+::: Uploaded on - 12/01/2018                      ::: Downloaded on - 13/01/2018 01:55:27 :::
+SSP                                                58                                Arbpl-366 of 2016
+
+
+(ii)     Stackyard Machines (Stacker Reclaimers - 2 Nos. and 2 No.stacker) -- Major
+
+erections completed and not yet commissioned.
+
+
+(iii)    Dust suppression and Fire Fighting systems.
+
+
+(iv)     Electrical and plumbing works in stackyard.
+Therefore save and except for the four items, there is prima facie evidence of the fact
+
+that the VOCPT             is satisfied      with the readiness of    TCTPL         to commence
+
+commercial operations.
+42.      Though it is submitted on behalf of FGIPL that TCTPL does not have any
+
+assets of its own and FGIPL will be left high and dry if it is unable to execute the
+
+award passed in Arbitration in their favour by the Arbitral Tribunal, as correctly
+
+pointed out by Mr. Kamdar, Learned Senior Advocate appearing for TCTPL, the
+
+promoters of TCTPL have already infused capital of Rs. 170 crores in the project.
+
+The Concession Agreement executed by and between FGIPL and TCTPL is for 30
+
+years. During this period TCTPL will be entitled to recover tariff from the users of
+
+the Project Facilities and services. The cargo handling charges are levied per metric
+
+ton of cargo which is discharged from the ship. The total estimated revenue during
+
+the balance concession                 period shall be Rs. 10,067.14 crores which shall be
+
+apportioned in the following order as per the Concession Agreement:
+(i)      Taxes and Statutory dues;
+::: Uploaded on - 12/01/2018                          ::: Downloaded on - 13/01/2018 01:55:27 :::
+SSP                                             59                               Arbpl-366 of 2016
+
+
+(ii)     License Fees;
+
+
+(iii)    Construction/implementation Expenses relating to the project;
+
+
+(iv)     Operations and Management expenses relating to the project;
+
+
+(v)      Debt Service obligations;
+
+
+(vi)     Royalty payable to the Government and liquidated damages (52.17%);
+
+
+(vii)    Towards any Reserve requirement; and
+
+
+(viii) Concessionaire (TCTPL).
+43.      Again, TCTPL has also filed a counter claim in the sum of Rs. 600 crores
+
+before the Arbitral Tribunal. The Court cannot proceed on the basis that the claim of
+
+FGIPL will be accepted by the Arbitral Tribunal whereas the counter claim of
+
+TCTPL will be dismissed. FGIPL had also filed a Company Petition being Company
+
+Petition No. 780 of 2015               before the Company Court seeking winding up of
+
+Respondent No. 1 on the ground that TCTPL has admitted to pay Rs. 32 crores to
+
+FGIPL but has failed to pay the same and is therefore unable to pay its debts. The
+
+said Petition has been rejected. It is also pertinent to note that as regards the
+
+admission of liability, the Learned Company Judge has recorded in his Order that, " I
+
+find that the admissions of liability were all as a result of negotiations which were in
+
+anticipation of continuation of work under the contract and not as a result of the
+
+termination of the contract".
+::: Uploaded on - 12/01/2018                      ::: Downloaded on - 13/01/2018 01:55:27 :::
+SSP                                        60                                Arbpl-366 of 2016
+44.    Therefore, FGIPL's submission that it will suffer irretrievable injustice if the
+
+Bank Guarantees are permitted to be encashed, is rejected.
+45.     In the circumstances, the above Arbitration Petitions are dismissed.
+(S.J. KATHAWALLA, J.)
+::: Uploaded on - 12/01/2018                    ::: Downloaded on - 13/01/2018 01:55:27 :::

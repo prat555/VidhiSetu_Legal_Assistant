@@ -20,7 +20,7 @@ export default function WelcomeScreen({ onQuestionClick }: WelcomeScreenProps) {
     },
     {
       icon: BookOpen,
-      text: 'Explain Section 498A of IPC',
+      text: 'What is anticipatory bail under Indian law?',
       color: 'from-purple-500 to-pink-600',
     },
     {
@@ -40,13 +40,17 @@ export default function WelcomeScreen({ onQuestionClick }: WelcomeScreenProps) {
           VidhiSetu
         </h1>
         <p className="text-base md:text-lg text-zinc-400 max-w-2xl mx-auto leading-relaxed">
-          Get guidance on Indian law, legal procedures, and your rights
+          Get grounded legal guidance with source-backed answers from your indexed law corpus
         </p>
+        <div className="mt-3 inline-flex items-center gap-2 rounded-full border border-amber-300/40 bg-amber-500/10 px-3 py-1 text-xs font-medium text-amber-300">
+          <Scale className="h-3.5 w-3.5" />
+          RAG mode active
+        </div>
       </div>
 
       <div className="w-full max-w-3xl">
         <p className="text-sm font-semibold text-zinc-500 dark:text-zinc-400 mb-3 px-1">
-          Popular questions
+          Try these RAG-ready prompts
         </p>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
           {sampleQuestions.map((question, index) => {

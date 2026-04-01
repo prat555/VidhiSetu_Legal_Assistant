@@ -1,0 +1,262 @@
+Title: Search
+Court: High Court
+Date: Unknown Date
+Citation: citations: [1983]144ITR357(PATNA)
+Source: https://indiankanoon.org/doc/1587219/
+
+[Cites
+24
+, Cited by
+37
+]
+Patna High Court
+Addl. Commissioner Of Income-Tax vs Sahay Properties And Investment Co. ... on 2 December, 1982
+Equivalent citations: [1983]144ITR357(PATNA)
+JUDGMENT
+1. The questions referred to in these cases for opinion of this court under
+Section 156(2)
+of the I.T. Act, 1961 (hereinafter to be referred to as "the Act"), ate identical, the facts being the same. Hence, a consolidated statement of the cases has been submitted by the Income-tax Appellate Tribunal, 'B' Bench, Patna, to this court referring the following questions of law for the opinion of this court:
+"1. Whether, on the facts and in the circumstances of this case, the Tribunal was justified in holding that as the assessee was not the legal owner, the income from the property was not assessable at all in its hands ?
+2. Whether, on the facts and in the circumstances of this case, the Tribunal was justified in not answering the alternative question as to whether the income was assessable under
+Section 56
+if it was not assessable under
+Section 22
+of the Income-tax Act, 1961 ?"
+2. Taxation Case No. 140 relates to the assessment year 1965-66, 141 to assessment year 1966-67 and 142 to that of 1963-64.
+3. The facts as emerge from the statement of the case that has been submitted to this court by the Tribunal are admitted on all hands and are these. The assessee is a private limited company and derives income from house properties alleged to be owned by it and from investments. We are not concerned with the question of investments. The Sahay family was owning several properties. By an agreement dated the 19th day of February, 1962, it sold immovable properties consisting of lands and buildings to the assessee-company for a consideration of Rs. 12,83,000. The physical possession of the properties sold by the Sahay family was taken over by the assessee-company, but no conveyance deed was executed and registered in favour of the assessee-company. The company, however, collected rent, which was assessed under
+Section 22
+of the Act, as income from the house properties. The ITO allowed deduction as provided under the law while computing the income from the house property. The assessee claimed more expenses before the AAC in appeal but the order of the assessing officer was confirmed. When the assessee went up in further appeal before the Tribunal, it sought permission which was granted, to take an additional ground to the following effect:
+"That the income from house property should not have been assessed under
+Section 22
+as it is not the legal owner of the house property who can be taxed under this Section  and since in the present case the company is not the legal owner of the house properties from which rental income is derived, it cannot be taxed under
+Section 22
+."
+4. It was further urged on behalf of the assessee that the company not being the owner within the meaning of
+Section 22
+of the Act, the income from the house property could not be taxed in its hands at all. Alternatively, it was contended that even though the rental income was to be assessed in the hands of the assessee, it could be assessed only under
+Section 56
+of the Act as income from other sources and not from house property.
+5. About the allowance of expenses, it was urged that if the first contention were accepted, the question of allowance of the expenses against that income would not arise but if the income were to be assessed under the heading "Other sources", all expenses incidental to the earning" should be allowed on verification. The assessee relied on the decision in the case of
+CIT v. Ganga Properties Ltd.
+[1970] 77 ITR 637 (Cal). The Revenue, however, contended that it was undisputed that the deed of conveyance was not executed in favour of the assessee-company in terms of Clause 4 of the agreement. The assessee-company was yet having the physical possession of the property sold to it and, therefore, it was
+
+the beneficial owner.   As such,  the income  from property was rightly assessed in its hands.
+6. The Tribunal, after considering
+Section 22
+of the Act and the various clauses of the agreement along with
+Sections 53A
+,
+54
+and
+55
+of the Transfer of Property Act and the decisions of the Supreme Court in the case of
+CIT v. Bhurangya Coal Co
+, [1958] 34
+ITR 802 (SC) and R.B. Jodha Mal Kuthiala v. CIT
+[1971 ] 82 ITR 570 (SC), finally came to the conclusion in the following terms:
+"Therefore, to our mind, the title did not vest in the company and, therefore, the company was not the 'legal owner' within the meaning of
+Section  22
+of the Act."
+7. The Tribunal further considered whether the real owner or the beneficial owner could be assessed under
+Section 22
+of the Act. Following the decision of the Calcutta High Court in the case of Ganga Properties Ltd, [1970] 77 ITR 637, it observed :
+"Thus, it is abundantly clear that under
+Section 22
+of the Act, not the beneficial owner but the legal owner is to be assessed. As the assessee was not the legal owner, the income from property was not rightly assessed in its hands."
+8. Accordingly the first contention of the assessee was accepted and the appeal was decided in its favour. As the Tribunal had accepted the first contention of the assessee it did not proceed to discuss the alternative contention raised by it as
+referred to above
+, namely, that it should be assessed as income from other sources under
+Section 56
+of the Act.
+9. These are the facts. The orders of assessment of the ITO, the appellate order of the AAC and the second appellate order of the Tribunal itself have been made annexures as part of the statement of the case.
+10. Before embarking upon an elaborate investigation with regard to the true purport and intention of the Legislature in engrafting
+Section 22
+of the Act, it is relevant to set out forthwith two clauses of the deed of agreement between the Sahay family and the assessee-company, namely, the Sahay Properties and Investment Company. The two relevant clauses have been quoted in extenso by the Tribunal in its appellate order. Clause 4 of the agreement runs in these terms :
+"That physical possession of all the properties described in the annexed schedule passed on or is deemed to have passed on to the company in respect of items Nos. 1 to 18 as and from 1st day of April, 1961, and in respect of items Nos. 1 to 8 and 14 to 18 as and from the 30th day of April, 1961, to have and to hold for ever absolutely and use the same in whatever manner it thinks best and the company shall device all income and benefits together with full power of disposal of the properties as well as the
+
+income thereof and the company has the right to get its name mutated in Government, Municipal and other offices and records."   (Underlining is ours for the sake of emphasis.) Clause 5 reads :
+"that the vendors shall individually and severally or jointly by two or more of them, as the case may be, execute and register all conveyances, deeds, transfers and things as the company may need at any time to perfect its rights and titles to all the properties or any of them that is covered by this agreement, as and when called upon by the company to do so, at the expense of the company."
+11. These, are, in our view, the two vital clauses of the contract which shall have an important bearing upon the question at hand.
+12. This being the vital background, namely, that the entire consideration money was received by the Sahay family from the assessee-company, the assessee-company was put in actual physical possession of the entire properties contracted to be sold; the assessee was empowered by the vendor-transferor to use the properties in whatsoever manner the assessee liked and to receive and enjoy the entire usufructs thereof, with the only reservation that a formal deed of conveyance with registration in conformity with the
+Indian Registration Act
+shall follow at the request of the assessee and once that request was made, it was incumbent upon the transferor to execute such a deed of conveyance to get it registered without any murmur.
+13. Let us now come to the language of
+Section 22
+of the Act which is corresponding to s, 9 of the
+Indian I.T. Act, 1922
+, the language of both the statutory provisions being similar and the effect of both of them being the same.
+Section22
+of the Act (of the 1961 Act) lays down that:
+"The annual value of property consisting of any buildings or lands appurtenant thereto of which the assessee is the owner, other than such portions of such property as he may occupy for the purposes of any business or profession carried on by him the profits of which are chargeable to income-tax shall be changed to income-tax under the head ' Income from house property'."
+14. The emphasis, therefore, in this statutory provision is that the tax under the Section  is in respect of ownership. But this matter is not as simple as it looks. This leads us to a more vexed question as to what is ownership. Should the assessment be made at the hands of the person who has the bare husk of the legal title or at the hands of the person who has the rights of an owner of a property in a practical sense ? Enjoyment as an owner only in a practical sense can be attributed to the
+
+term "owner" in the context of this Section--a person who can exercise the rights of the owner and is entitled to the income from the property for his own benefit. It is well settled, and learned counsel for either side were not at loggerheads, that the Section  cannot be so construed as to make it an instrument of oppression, to use the language of Hegde J., in the case of Jodha Mal [1971] 82 ITR 570 (SC).
+15. We are very much alive to the legal position that it is true that there is no equity about a tax. There is no presumption as to a tax. Nothing is to be read in--nothing is to be implied. We can look only fairly at the language used. None the less, the tax laws have to be interpreted reasonably and in consonance with justice. This is well settled by numerous decisions of the Supreme Court itself.
+16. We have, therefore, to judge and interpret the language of
+Section 22
+of the Act in the context of that particular Section, and that context we shall come back to hereinafter at a more appropriate place.
+17. In the meantime, it would not be irrelevant to go into the concept of "ownership". What is ownership after all ? Read from the Roman law up to the English law at the present stage, medieval stage having been interspersed with different formulae, the position that now juristically emerges is this. The full rights of an owner as now recognised are :
+"(a) The power of enjoyment (e.g., the determination of the use to which the res is to be put, the power to deal with produce as he pleases, the power to destroy);
+(b) possession which includes the right to exclude others;
+(c) power to alienate inter vivos, or to charge as security ;
+(d) power to leave the res by will.
+One of the most important of these powers is the right to exclude others.   The property right is essentially a guarantee of the exclusion of other persons from the use or handling of the thing......But every  owner
+does not possess all the rights set out above--a particular owner's powers may be restricted by law or by an agreement he has made with another." (underlining) is ours for the sake of emphasis (refer to G.W. Paton on Jurisprudence, 4th edn., pp. 517-18).
+18. While dealing with the concept of possession and enumerating the illustrative cases and rules in this respect, Paton says at p. 577 in Clause (x):
+"To acquire possession of a thing it is necessary to exercise such physical control over the thing as the thing is capable of, and to evince an intention to exclude others :...... "
+19. Reference in this connection has been made to the case of Tubantia: Young v. Hichens and of Pierson v. Post [[1805] 3 Caines 175 (Supreme Court of New York),.....].
+20. It would thus be seen that where the possession of a property is acquired, with a right to exercise such necessary control over the property acquired which it is capable of, it is the intention to exclude others which evinces an element of ownership.
+21. To the same effect and with a more vigorous impact is the subject dealt with by Dias on Jurisprudence, (4th Edn., at p. 400):
+"The position, therefore, seems to be that the idea of ownership of land is essentially one of the 'better right' to be in possession and to obtain it, whereas with chattels the concept is a more absolute one. Actual possession implies a right to retain it until the contrary is proved, and to that extent a possessor is presumed to be owner."
+"Again, at p. 404, the learned author says :
+"Special attention should also be drawn to the distinction between 'legal' ownership recognised at common law and 'equitable' ownership recognised at equity. This occurs principally when there is a trust, which is purely the result of the peculiar historical development of English law. A trust implies the existence of two kinds of concurrent ownerships, that of the trustee at law and that of the beneficiary at equity."
+22. We are not concerned in this case with any case of trust either under the equitable principles or under the law as engrafted in the
+Indian Trusts Act
+. Because, the "beneficiary might himself be a trustee of his interest for a third person, in which case his equitable ownership is as devoid of advantage to him as the legal ownership is to the trustee. So, when described in terms of ownership, the distinction between legal and equitable ownership lies in the historical factors that govern their creation and function ; in terms of advantage,' the distinction is between the bare right, whether legal or equitable, and the beneficial right" (vide pp. 404-405 of Dias on Jurisprudence, 4th Edn.).
+23. We, therefore, need not go into the questions involving trusts where a person holds the property and receives the income in trust for others who are the legal beneficiaries. The crux of the matter is as to whether, as already stated above, the actual possession in a given particular case gives a right to retain such a possession until the contrary is proved and so long as that is not done, to that extent a possessor is presumed to be the owner.
+24. Incidentally, although the Supreme Court in the case of Jodha Mal [1971] 82 ITR 570 merely mentioned that Strand's Judicial Dictionary
+
+had given several definitions and illustrations of ownership, it refrained from going into the details on account of the practical approach that was made in that case, to which we shall hereinafter refer and dilate upon. We think it worthwhile, the matter having been canvassed at length at the Bar, to give a full illustration of the definitions of "ownership" as Stroud puts it. One such definition is that the "owner" or "proprietor" of a property is the person in whom (with his or her assent) it is for the time being beneficially vested, and who has the occupation, or control, or usufruct, of it, e.g., a lessee is, during the term, the owner of the property demised. Yet another definition that has been given by Stroud is that:
+"'Owner' applies to every person in possession or receipt either of the whole, or of any part, of the rents or profits of any land or tenement; or in the occupation of such land or tenement, other than as a tenant from year to year or for any less term or as a tenant at will' ". (Stroud's Judicial Dictionary, 3rd Edn., Vol. 3, p. 2060).
+25. Thus, the juristic principle from the viewpoint of each one is to determine the true connotation of the term "owner" within the meaning of
+Section 22
+of the Act in its practical sense, leaving the husk of the legal title beyond the domain of ownership for the purpose of this statutory provision. The reason is obvious. After all, who is to be taxed or assessed to be taxed more accurately--a person in receipt of money having actual control over the property with no person having better right to defeat his claim of possession or a person in legal parlance who may remain a remainder man, say, at the end or extinction of the period of occupation after, again say, a thousand years ? The answer to this question in favour of the assessee would not merely be doing palpable injustice but would cause absurd inconvenience and would make the Legislature to be dubbed as being a party to a nonsensical legislation. One cannot reasonably and logically visualise as to when a person in actual physical control of the property realising the entire income and usufructs of the property for his own use and not for the use of any other person, having the absolute power of disposal of the income so received, should be held not liable to tax merely because a vestige of legal ownership or a husk of title in the long run may yet clothe another person with the power of a residual ownership when such contingency arises which is not a case even here. A plain reading of Clause 4 of the agreement, as extracted above, clearly goes to show that the physical possession of the properties has passed on or is deemed to have passed on to the assessee to have and to hold for ever and absolutely with the power to use the same in whatsoever manner it thinks best and the assessee shall derive all income and benefits together with full power of disposal
+
+of the properties as well as the income thereof. Can it then be said that the recipient of the income being the assessee only having an absolute and exclusive control over the property without any let or hindrance on the part of the so-called vendor which, indeed, under law it was not entitled to do, as we shall presently show, shall be immune from the taxing provision in
+Section 22
+of the Act? The answer in our view is clearly in the negative. The reason is simple. The consideration money has been paid in full. The assessee has been put in exclusive and absolute possession of the property. It has been empowered to deal with the income as it likes. It has been empowered to dispose of and even to alienate the property. Reference to
+Section 54
+or, for that matter,
+Section 55
+of the Transfer of Property Act by the Tribunal merely emphasises the fact that the legal title does not pass unless there is a deed of conveyance duly registered. The agreement is in writing and the value of the property is admittedly worth more than hundred rupees.
+Section 54
+of the Transfer of Property Act would, therefore, exclude the conferment of absolute title by transfer to the assessee. That, however, would not take away the right of the assessee to remain in possession of the property, to realise and receive the rents and profits therefrom and to appropriate the entire income for its own use. The so-called vendor is not permitted in law to dispossess or to question the title of the assessee (the so-called vendee). It was for this very practical purpose that the doctrine of the equity of part performance was introduced in the
+Transfer of Property Act, 1882
+, by inserting
+Section 53A
+therein; The Section  specifically allows the doctrine of part performance to be applied to the agreements which, though required to be registered, are not registered and to transfers not completed in the manner prescribed therefor by any law. The Section  is, therefore, applicable to cases where the transfer is not completed in a manner required by law unless such a non-compliance with the procedure results in the transfer being void. There is, however, a distinction between an agreement void as such and an agreement void in the absence of something which the vendor could do and had expressly or impliedly contracted to do, and where a vendor agrees to sell his share of property, including sir land, there is an implied term in the contract that he will apply for sanction to the revenue authorities necessary for such transfers and the court will direct him to do so. It cannot be said that such an agreement is void because no sanction has been obtained. In the instant case, having reference to Clause 5 of the agreement it would be seen that the option was given to the assessee to demand at its pleasure a conveyance duly registered being executed in its favour by the Sahay family (the vendor) and to get its name mutated in the official records. The assessee has not exercised
+
+its option for reasons best known to it--presumably to have a double weapon in its hands to be used as and when circumstances so demanded. Can it yet be said that for the default on the part of the assessee itself it would be entitled to say that it is not the owner of the property for all practical purposes, receiving the rent all the time, appropriating the usufructs for its own purposes all the time and having no interference at the instance of the vendor ? Can that be a practical and logical approach to the true construction and purport of the substance and spirit of
+Section 22
+of the Act ? The answer, in our view, is clearly in the negative and against the assessee. Having taken all the advantages and still taking all the advantages under the contract without any hindrance or obstruction on the part of anyone including the vendor which the vendor could not do in view of
+Section 53A
+of the Transfer of Property Act, the assessee cannot now turn back and say that because of its default in having a deed registered at its sweet will it was not an owner within the meaning of
+Section 22
+of the Act. It may bear repetition to say that it was on account of these facts that juristic principles have now emerged saying that one of the most important of the powers of ownership is the right to exclude others from possession and the property right is essentially a guarantee of the exclusion of other persons from the use or handling of the thing. In that sense, therefore, the assessee itself became the owner of the property in question. In our view, any decision to the contrary would not be in consonance with the juristic principle either at common law or in equity. In either case, it would not be subservient to the intent and purpose of
+Section 22
+of the Act, with regard to which, as we have already stated, we can fairly look at the language used and the tax laws have to be interpreted teastnably and in consonance with justice. So far we have dealt with the case in this respect on juristic principles as if it were a matter of first impression. We have, therefore, now to refer to the case law on the subject.
+26. The Calcutta High Court in the case of Ganga Properties Ltd. [1970] 77 ITR 637, and the Bombay High Court in the cases of
+CIT v. Union Land and Building Society Pvt. Ltd.
+[1972] 83
+ITR 794 and CIT v. Zorostrian Building Society Ltd.
+[1976] 102 ITR 499, had held that till the deed of conveyance is executed, the seller should be assessed under
+Section 22
+as the "owner" even if he had put the purchaser in full possession of the property and had received the sale price. These decisions of the Calcutta and Bombay High Courts must not be deemed to be good law in view of the later decision of the Supreme Court in the case of Jodha Mal Kuthiala [1971] 82 ITR 570. In that case the Supreme Court held that an assessee whose house property vests in the Custodian of Evacuee Property cannot be assessed under this head since the word "owner" must mean in the
+
+context of this Section  a person who can exercise the rights of an owner and is entitled to an income from the property and that this Section  cannot be so construed as to make it an instrument of oppression.
+Learned counsel for the assessee invited our attention to quite a number of decisions to show that the principles
+laid down by
+the Supreme Court in
+Jodha Mal
+'s case [1971] 82 ITR 570, were distinguishable and had, as a matter of fact, been distinguished in quite a number of cases, namely, in the cases of Zorostrian Building Society Ltd. [1976] 102 ITR 499 (Bom), S.B. (House & Land) Pvt. Ltd. v. CIT [1979] 119
+ITR 785 (Cal), D.C. Anand and Sons v. CIT
+[1981] 131
+ITR 77 (Delhi) and CIT v. Hans Raj Gupta
+[1982] 137 ITR 195 (Delhi). On the contrary, Mr. B. P. Rajgarhia, learned senior standing counsel for the Department, invited our attention to a Bench decision of the Allahabad High Court in the case of Addl.
+CIT v. U.P. State Agro Industrial Corporation Ltd.
+[1981] 127 ITR 97 (All), for the proposition that the principle as
+laid down by
+the Supreme Court in
+Jodha Mal
+'s case as interpreted by the Allahabad High Court in [1981] 127 ITR 97, applied squarely to the facts of this case. As we shall presently show, the contention of the learned counsel for the Revenue is correct in law and that of Mr. Jain, learned counsel for the assessee, is misconceived.
+27. We, therefore, propose first to deal with the decision of the Allahabad High Court in Addl.
+CIT v. U.P. State Agro Industrial Corporation Ltd.
+[1981] 127 ITR 97. That was a case of claim of depreciation under
+Section 32
+of the Act which provision of law could be attracted only if the owner of the house property was the assessee who claimed such a depreciation. In that context, the question of ownership was gone into. The facts of that case may be shortly stated thus. The assessee, U.P. Agro-Industrial Corporation Ltd. (or "the Corporation"), was set up in the month of March, 1947, as a body registered under the
+Companies Act
+. The capital of the Corporation was subscribed equally by the Govt. of India and the Govt. of U.P. The State Govt. by its order dated April 27, 1968, transferred possession of its agricultural workshop to the Corporation for a consideration of Rs. 44,07,589. The Corporation claimed depreciation under
+Section 32
+in respect of the buildings taken over by it from the State Govt. The ITO disallowed the claim on the ground that the properties in respect of which the claim had been made were immovable, properties and since no sale deed had been executed by the State Govt., the Corporation did not become their owner. The AAC affirmed the order of the ITO. On further appeal, the Tribunal held that for claiming depreciation under
+Section 32
+it was necessary for the assessee to fulfil the following two conditions : (i) that the assets in respect of which depreciation was claimed by the assessee must be owned by it; and (ii) that those assets must
+
+have been used by the assessee for the purpose of its business. So far as the second condition was concerned, the Tribunal found that the property in respect of which the depreciation was claimed by the assessee was used by the assessee for its business purposes. So far as the first condition was concerned, the Tribunal held that in view of the State Government's order dated April 24, 1968, the State of U.P. ceased to be the owner of the properties as it could not exercise any rights in respect thereof, that in view of the capital structure of the Corporation, constitution of its board of directors and the fact that the Corporation was in possession of the properties, it could, for purposes of
+Section 32
+, be held that the properties were owned by the Corporation and it was entitled to claim depreciation with respect to them. The Tribunal, however, pointed out that since the property consisted of land and buildings, depreciation could be claimed only in respect of the buildings and not land. On a reference being made at the instance of the Revenue, it was held that there was correspondence on the record between the State of U.P. and the Corporation according to which the former had agreed to transfer the properties to the latter in consideration of Rs. 44,07,589. The State Govt. had received the amount of consideration in the form of equity shares amounting to Rs. 40,00,000 and cash amounting to Rs. 4,07,589. Further, in pursuance of that agreement, the State Govt. had put the Corporation in possession over the properties in dispute. The Corporation had performed its part of the contract and it was only for the State Govt. to execute a registered sale deed and convey the entire title in the property to the Corporation.
+28. Further, it was held that there was nothing on the record to indicate that under the agreement the State Govt. had reserved to itself any rights over the property which it had agreed to convey to the Corporation. The State Govt. was, as provided in
+Section 53A
+of the Transfer of Property Act, 1882, debarred from enforcing against the Corporation and the persons claiming under the Corporation any right in respect of such property. The persons claiming under the Corporation could also be such persons to whom the Corporation chose to transfer the property over which it had acquired possession under the contract entered into with the State Govt. The Section , therefore, contemplates that the Corporation, which, was put in possession of the property in part performance of the contract of sale, could even dispose of the property in the same way as if it was owned by it and the State Govt. cannot object to it. After the Corporation was put in possession of the property, it was open to it to deal with it in any manner it liked without objection from the State Govt. It could realise the income from the property and appropriate the same for itself. The dealing with the property by the Corporation
+
+would have to he on its own behalf and not on behalf of the State Govt. which, under
+Section 53A
+of the Transfer of Property Act, stood debarred from enforcing any rights in respect thereof against the Corporation. Therefore, the Corporation had, even though the ultimate title in the properties had not yet vested in it, become the owner thereof in the sense in which the expression was used in
+Section 32
+. Therefore, the assessee-Corporation was entitled to depreciation under
+Section 32
+on the buildings which it purchased from the State Govt.
+29. Reliance in this connection was placed upon the decision of the Supreme Court in
+Jodha Mal
+'s case [1971] 82 ITR 570. The facts of this case and the case at our hand are not distinguishable nor is there any scope for any distinction on principle or in law as to the concept of ownership either for the purpose of
+Section 22
+or
+Section 32
+of the Act. Mr. Rajgarhia's contention, therefore, has to be accepted as wholly valid.
+30. The cases referred to and relied upon by Mr. Jain, learned counsel for the assessee, which, according to him, had tried to distinguish the Supreme Court case on their own facts are clearly a fortiori not consistent with the decision of the Supreme Court on the principles as
+laid down in
+Jodha Mal
+'s case [1971] 82 ITR 570 (SC), which we shall presently demonstrate. Firstly, the cases on which Mr. Jain placed reliance are distinguishable on facts. Secondly, the distinction in principle, which these cases have tried to draw between the principle
+laid down by
+the Supreme Court and the other general principle (adopted by the Calcutta and Bombay High Courts in the cases of Ganga Properties Ltd. [1970] 77 ITR 637 (Cal), Union Land and Building Society Pvt. Ltd, [1972] 83 ITR 794 (Bom) and Zorostrian Building Society Ltd. [1976] 102 ITR 499 (Bom), is not a valid distinction. In very sweeping terms, these cases have said that the judgment of the Supreme Court must be caged and cabined to the facts of its own case as there was a statutory provision under which the right of ownership could not be exercised by the legal owner so long as the evacuee property was in the hands and within the control of the Custodian, Evacuee Properties, although ultimately the residuary or the husk of the title might revert after the proceedings had terminated. That, we are afraid, is not the ratio of the Supreme Court decision. It is true that the case arose on the facts wherein the Pakistan (Administration of Evacuee Property) Ordinance, 1949, had interposed to overshadow the legal title or ownership of the person to whom the property ultimately belonged. But it must not be forgotten that in priority of history and of logic, the facts always come before the law. Whatever be the facts, we have to look to the ratio decidendi, namely, the law as laid down on
+
+principle, and for that purpose we have to detain ourselves at some length by taking extracts from the Supreme Court decision itself.
+31. Having dealt with the provisions of the Pakistan (Administration of Evacuee Property) Ordinance and the effect thereof, the principles which had actually been
+laid down by
+the Supreme Court in
+Jodha Mal
+'s case [1971] 82 ITR 570, can be seen from the enunciation of the principles and the discussion of the case laws on the subject.
+While referring to a decision of the Calcutta High Court, In re Official Assignee for Bengal [1937] 5 ITR 233 (Cal), wherein it had relied upon a decision in the case of IRC v. Fleming [1928] 14 TC 78, 84 (C Sess), the Supreme Court observed as follows (p. 577 of 82 ITR):
+"That appeal related to a claim for repayment of income-tax to which the respondent claimed to be entitled in respect of 'personal allowance' introduced into the income-tax system by
+Section 18
+of the Finance Act, 1920. The claim arose in the following circumstances :
+The respondent was declared insolvent in 1921. He was then the owner of charitable properties. His insolvency lasted till May 10, 1926, when he received his discharge on payment of composition and was reinvested in his estate. At that time his estate consisted of, (1) two of the original charitable properties which had not been realised by the trustees in the insolvency, and (2) a balance in cash of £53 odd. During the insolvency, the trustees paid income-tax on the full annual value of the two properties In question. The contention of the respondent was that the radical right to these properties was in him all the time, and that, in paying the tax, the trustee was really paying it on his behalf--that is, on his income--and that, consequently, there arose in each of the years in which the payment was made a right to deduct his 'personal allowance' from the annual value of the properties. The right to this abatement is said to have passed to the respondent himself in virtue of the reinvestment in his estate which occurred upon his discharge on composition. Rejecting this contention, the Lord President observed :
+'It is obvious that, unless during the years in question the annual value of the properties was income of the respondent, he cannot have any claim to abatement of it for income-tax purposes; and, accordingly, everything depends upon the soundness of the proposition that the income consisting in the annual value of these properties was truly income of the respondent. I do not see how it can possibly be so described. It was part of the income arising from the sequestrated estates vested in the trustee for the respondent's creditors. Any income that [did arise from those estates was income of the trustee as such, and he (and he alone) had the right to put it into his pocket as income. It was not income that went or
+
+could go into the pocket of the respondent as income in any of the years in question. How then can it be said to have reached his pocket as income on his subsequent reinvestiture ?'  
+ 
+
+ For determining the person liable to pay tax, the test laid down by the court was to find out the person 'entitled to that income. A attempt was made by Mr. Mahajan to distinguish this case on the ground that under the corresponding English statute the liability to tax in respect of income from property is not laid on the owner of the property. It is true that Section 82 of the English Income Tax Act, 1952, is worded differently. But the principles underlying the two statutes are identical. This is clear from the various provisions in that Act." (underlining is ours for the sake of emphasis).
+32. Again at p. 578, Hegde J., speaking for the Supreme Court, says : "No one denies that an evacuee from Pakistan has a residual right in the property that he left in Pakistan. But the real question is, can that right be considered as ownership within the meaning of
+Section  9
+of the Act (the Supreme Court was referred to
+Section  9
+of the 1922 Act corresponding to
+Section  22
+of the 1961 Act). As mentioned earlier that Section  seeks to bring to tax income of the property in the hands of the owner. Hence, the focus of that Section  is on the receipt of the income. The word 'owner' has different meanings in different contexts. Under certain circumstances a lessee may be considered as the owner of the property leased to him. In Stroud's Judicial Dictionary, 3rd Edition, various meanings of the word 'owner' are given. It is not necessary for our present purpose to examine what the word 'owner' means in different contexts. The meaning that we give to the word 'owner' in
+Section  9
+must not be such as to make that provision capable of being made an instrument of oppression. It must be in consonance with the principles underlying the Act." (Underlining is ours for the sake of emphasis).
+33. This is the ratio of the case not depending upon the facts of that particular case but upon the provisions of
+Section 9
+of the 1922 Act corresponding to
+Section 22
+of the (1961) Act to make the provisions capable of practical handling and (arrive at the) consequences emanating therefrom,
+34. Yet another extract from the decision of the Supreme Court will not
+be misplaced (p. 579):
+"Mr. Mahajan next invited our attention to the observation in Pollock on Jurisprudence, 6th Edition (1929), at pages 178-80 :
+'Ownership may be described as the entirety of the powers of use and disposal allowed by law......    The owner of a thing is not necessarily
+the person who at a given time has the whole power of use and disposal;
+very often there is no such person. We must look for the person having the residue, of all such power when we have accounted for every detached and limited portion of it; and he will be the owner even if the immediate power of control and use is elsewhere.'  
+ 
+
+ It is not necessary to consider whether those observations hold good even now because of the various legislative measures enacted during the last about forty years after those observations were made. Suffice it to say that those observations are in-applicable to the case of the 'owner' under
+Section 9
+of the Act."
+35. This decision of the Supreme Court of the year 1971 merely dispelled the argument of Mr. Mahajan relying upon Pollock's Jurisprudence, 6th Edn. of 1929, by saying that four decades had made radical changes in the law, in which circumstances the principle relied upon by Mr. Mahajan could not be quite apt and appropriate. It is for this purpose that we have taken great pains at the outset to make references to the observations in Palon's Text Book of Jurisprudence, 4th Edn. of the year 1972 and Dias' Jurisprudence, 4th Edn. of the year 1976. The principle laid down by Pollock, relied upon by Mr. Mahajan before the Supreme Court, as enunciated in 1929, has undergone a radical change in the field of jurisprudence itself as is borne out by the 1972 and 1976 editions of Paton's and Dias's Jurisprudence respectively.
+36. For the reasons given above, we arc constrained to hold that the Tribunal has completely misdirected itself on a question of law with regard to the true meaning of the term "owner" as used in
+Section 22
+of the Act and has wrongly decided the point in dispute in favour of the assessee. On the facts and in the circumstances, as discussed above, we must hold that the assessee must be deemed to be the owner within the meaning of
+Section 22
+of the Act and shall be liable to tax from income out of house property under
+Section 22
+as owner thereof. The second question, therefore, does not need any opinion. Hence, we decline to go into that question.
+37. Question No. 1 referred to this court, therefore, is answered in favour of the Revenue and against the assessee in the negative, and so far as the second question referred to us is concerned, it now remains of academic interest having no bearing upon the question in controversy. All the three cases are accordingly disposed of in favour of the Revenue. On the facts and in the circumstances of the case, however, we shall make no order as to costs having regard to the non-consensuality of the opinion on a legal subject between some of the High Courts of this country.

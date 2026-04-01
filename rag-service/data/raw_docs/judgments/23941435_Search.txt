@@ -1,0 +1,1578 @@
+Title: Search
+Court: High Court
+Date: 61 of
+                                  1985
+Citation: SCC 272 had considered the notification bearing no.
+Source: https://indiankanoon.org/doc/23941435/
+
+[Cites
+29
+, Cited by
+9
+]
+Delhi High Court
+Mohd Ahsan vs Customs on 16 September, 2022
+Author:
+Amit Sharma
+Bench:
+Siddharth Mridul
+,
+Amit Sharma
+$~
+                          *      IN THE HIGH COURT OF DELHI AT NEW DELHI
+
+
+                          %                              Reserved on: 06th September, 2022
+                                                       Pronounced on: 16th September, 2022
+
+                          +      BAIL APPLN. 1136/2021
+
+                                 MOHD AHSAN                                     ..... Petitioner
+                                                    Through:     Mr. Amjad Khan and Mr.
+                                                                 Aditya Kumar, Advocates.
+
+                                                    versus
+
+                                 CUSTOMS                                     ..... Respondent
+                                                    Through:     Mr.    Parmod      Bahuguna,
+                                                                 Advocate
+
+                          CORAM:
+                          HON'BLE MR. JUSTICE SIDDHARTH MRIDUL
+                          HON'BLE MR. JUSTICE AMIT SHARMA
+
+                                                    JUDGMENT
+AMIT SHARMA J.
+1.     The following questions have been referred to this Bench by a
+                          learned Single Judge of this Court:
+"a) whether in cases specifically related to
+                                  manufactured drug with a miniscule percentage of a
+                                  narcotic substance, the weight of the neutral
+                                  substance ought to be ignored while determining the
+                                  nature of the quantity seized i.e. small, commercial or
+                                  in between?
+b) whether Note 4 of the S.O. 1055 (E) dated 19th
+                                  October, 2001 published in the Gazette of India,
+Signature Not Verified    BAIL APPLN. 1136/2021                                      Page 1 of 36
+Digitally Signed
+By:ANITA BAITAL
+Signing Date:16.09.2022
+11:05:37
+Extra., Pt.II, Sec3 (ii) dated 19th October 2001, as
+                                  amended on 18.11.2009, should be held inapplicable
+                                  to manufactured drug which contain a miniscule
+                                  percentage of a narcotic drug?
+c) whether Note 4 of the S.O. 1055 (E) dated 19th
+                                  October, 2001 published in the Gazette of India,.
+Extra., Pt.II, Sec3 (ii) dated 19th October 2001, as
+                                  amended on 18.11.2009, should be made applicable to
+                                  cough syrups containing miniscule percentage of
+                                  Codeine since it has medicinal value and is also easily
+                                  available?"
+2.     The background for such reference is that during the course of
+                          the hearing in the bail application, filed on behalf of the petitioner, in
+                          a Complaint Case No. 62/2020, dated 31.01.2018, filed by customs
+                          under
+Sections 21(C)
+and
+23(C)
+of The Narcotic Drugs and
+                          Psychotropic Substances Act 1985 (hereinafter "
+NDPS Act
+"), one of
+                          the points that arose for consideration was whether the recovery of
+                          110 bottles of „Phensedyl New‟ weighing 100 gms each and having a
+                          Codeine concentration of 0.17% per bottle would be considered as
+                          „commercial quantity‟ under the
+NDPS Act
+.
+3.     The attention of the learned Single Judge was drawn to a
+                          judgment of another learned Single Judge of this Court in Iqbal Singh
+                          vs. State (BAIL APPLN. 645/2020), wherein the learned Single Judge
+                          vide order dated 31.07.2020 had held that cough syrup bottle (Onerex)
+                          containing Codeine Phosphate would fall outside the scope of the
+                          definition of „manufactured drug‟ under
+Section 2(xi)
+of the NDPS
+                          Act. The aforesaid finding of the learned Single Judge was based on
+                          various provisions of the
+NDPS Act
+as well as the
+Drugs and
+                          Cosmetics Act, 1940
+. The facts of the bail application in Iqbal Singh
+Signature Not Verified    BAIL APPLN. 1136/2021                                        Page 2 of 36
+Digitally Signed
+By:ANITA BAITAL
+Signing Date:16.09.2022
+11:05:37
+(supra) were similar to the facts in the present bail application.
+4.     The learned counsel for the petitioner in the present bail
+                          application relying on the judgment of this court in Iqbal Singh
+                          (supra) had argued that in the present case too, the bottles which had
+                          been recovered were prescribed drugs which are covered under the
+Drugs & Cosmetics Act
+and fall under Schedule H of The Drug and
+                          Cosmetics Rules, 1945. It was further argued that the said bottles were
+                          manufactured by a licensed manufacturer, i.e. M/s Abbot Healthcare
+                          Pvt. Ltd.
+5.     The learned Single Judge, while hearing the present bail
+                          application noted that the case of the applicant was to the extent that
+                          since each bottle contained only 0.17% Codeine concentration, the
+                          same cannot be categorised as „commercial quantity‟. In other words,
+                          it was urged on behalf of the petitioner that only the weight of
+                          Codeine concentration in each of the bottles should be taken into
+                          account, which in the present case would be 18.70 gms (0.17% x 110),
+                          bringing the case in the category of „intermediate quantity‟ and
+                          therefore, rigours of
+Section 37
+of the NDPS Act would not be
+                          applicable. The Hon‟ble Supreme Court in
+Hira Singh vs. Union of
+                          India
+, (2020) 20 SCC 272 had considered the notification bearing no.
+                          S.O. 2941(E) dated 18.11.2009, adding 'Note 4' to the notification
+                          bearing no. S.O. 1055(E) dated 19.10.2001 and had held that
+                          irrespective of the quantity of the narcotic drug or psychotropic
+                          substance in the mixture, the quantity of the entire substance would be
+                          considered for the purposes of ascertaining whether it is a commercial
+                          quantity, intermediate quantity or small quantity.
+Signature Not Verified    BAIL APPLN. 1136/2021                                        Page 3 of 36
+Digitally Signed
+By:ANITA BAITAL
+Signing Date:16.09.2022
+11:05:37
+6.     After taking into consideration the judgment of Hon‟ble
+                          Supreme Court in Hira Singh‟s Case (supra), the learned Single Judge
+                          in Iqbal Singh (supra) held as under:
+"25. Plainly, the quantity of the mixture of a
+                                  manufactured drug and a neutral substance would
+                                  require to be considered for the purposes of
+                                  determining whether the quantity is a commercial
+                                  quantity or a small quantity for the purposes of the
+NDPS Act
+. However, a drug which is manufactured
+                                  but falls outside the scope of the definition of a
+                                  „manufactured drug‟ under the
+NDPS Act
+on account
+                                  of the component of offending material being below
+                                  the prescribed threshold, cannot be construed as a
+                                  manufactured drug by dissecting its ingredients and
+                                  considering them in isolation."
+7.     In this backdrop, the learned Single Judge, in the present matter
+                          vide order dated 25.06.2021 observed as under:
+"16. A reading of the judgment in lqbal Singh (supra)
+                                  therefore shows that this Court has created a
+                                  distinction between illicit substances which are sold in
+                                  mixtures containing neutral substances or which may
+                                  have the effect of enhancing the effect of the offending
+                                  substance or facilitate its abuse and a non offending
+                                  substance or preparation with bifacial qualities which
+                                  may have the miniscule quantities of a substance
+                                  which are also used for medicinal purposes and are
+                                  available in medical shops across country."
+The learned Single Judge further observed:
+"21. Be that as it may, para 8.4 and para 10(II) of the
+                                  judgment of the Supreme Court in
+Hira Singh v.
+                                  Union of India
+reported as (2020) SCC Online SC 382
+                                  does not make any distinction between manufactured
+Signature Not Verified    BAIL APPLN. 1136/2021                                       Page 4 of 36
+Digitally Signed
+By:ANITA BAITAL
+Signing Date:16.09.2022
+11:05:37
+drugs with a miniscule percentage of narcotic
+                                  substance and other mixture of narcotic drugs or
+                                  psychotropic substance out of a neutral substance.
+The judgment of Iqbal Singh (supra) is therefore
+                                  contrary to a plain reading of the judgment of the
+                                  Supreme Court. Since cases of this nature are
+                                  common there is a strong possibility that different
+                                  Single Judge Benches of this Court may take different
+                                  opinions while deciding as to whether the rigour of
+Section 37
+would be attracted or not in such cases. It
+                                  would therefore be in the interest of justice that an
+                                  authoritative and final pronouncement is made by a
+                                  larger Bench of this Court."
+It is in these circumstances that the questions referred to
+                          hereinabove have been placed before us for decision.
+8.     Written submissions have been filed on behalf of the petitioner
+                          and as well as the respondent.
+9.     It is submitted on behalf of the petitioner that the 110 bottles of
+                          cough syrup „Phensedyl New‟ manufactured by M/s Abbot Healthcare
+                          Pvt. Ltd., containing a miniscule quantity of Codeine i.e. 0.17% in
+                          each of the bottles will not fall within the definition of the
+                          „manufactured drug‟ under
+Section 2(xi)
+of the NDPS Act.
+10.    The learned counsel for the petitioner relies upon notification
+                          titled "Manufactured Narcotics Drug" (as contained in Government of
+                          India Notification No. S.O. 826 (E) dated 14.11.1985 and S.O. 40(E)
+                          dated 21.09.1993 and S.O. no. 1431 (E) dated 21.06.2011) issued in
+                          exercise of powers conferred by Sub-Clause (b) of Clause (xi) of
+Section 2
+of the NDPS Act and draws attention of this Court to Entry
+                          35, which pertains to the substance Methyl Morphine (commonly
+Signature Not Verified    BAIL APPLN. 1136/2021                                        Page 5 of 36
+Digitally Signed
+By:ANITA BAITAL
+Signing Date:16.09.2022
+11:05:37
+known as „Codeine‟). The said entry reads as under:
+"S.O. 826(E). - In exercise of the powers conferred by
+                                  sub-clause (b) of clause (xi) of
+section 2
+of the Narcotic
+                                  Drugs and Psychotropic Substances Act, 1985 (61 of
+                                  1985), the Central Government hereby declares the
+                                  following narcotic substances and preparations to be
+                                  manufactured drugs, namely:-
+xxx
+35. Methyl morphine (commonly known as „Codeine‟) and
+                                  Ethyle morphine and their salts (including Dionine), all
+                                  dilutions and preparations except those which are
+                                  compounded with one or more other ingredients and
+                                  containing not more than 100 milligrams of the drug per
+                                  dosage unit, and with a concentration of not more than
+                                  2.5% in undivided preparations and which have been
+                                  established in Therapeutic practice.
+xxx"
+11.    It was submitted on behalf of the petitioner that the present case
+                          is covered under the exception provided for in the aforesaid Entry 35.
+                          It was further submitted that the alleged recovery of 110 bottles of
+                          cough syrup, measuring 100 ml each contained 0.17% of Codeine
+                          Phosphate and therefore it was contended that since Codeine was not
+                          more than 100 milligrams in each bottle, the same would not be a
+                          „manufactured drug‟ under the
+NDPS Act
+. In other words, the cough
+                          syrup containing Codeine is used for "therapeutic practice" and
+                          therefore is not a narcotic drug under the
+NDPS Act
+.
+12.
+In view of the foregoing, submissions on behalf of the
+                          petitioner was that, the reliance placed upon the judgment of the
+                          Hon‟ble Supreme Court in
+Md. Sahabuddin & Anr. vs. State of Assam
+(2012) 13 SCC 491 by the respondent was not applicable to the facts
+Signature Not Verified    BAIL APPLN. 1136/2021                                       Page 6 of 36
+Digitally Signed
+By:ANITA BAITAL
+Signing Date:16.09.2022
+11:05:37
+and circumstances of the present case as the alleged recovery in
+Md.
+                          Sahabuddin
+(supra) was extremely huge and the Codeine percentage
+                          in the cough syrup recovered therein was also 5%, which exceeded the
+                          permissible limit of 2.5%.
+13.    The learned counsel for the petitioner also relied upon an order
+                          dated 26.10.2005 issued by the Drug Controller General of India, inter
+                          alia, directing as under:-
+"As you are aware there are number of Cough
+                                  preparations like Corex of M/s Pfizer Ltd. Mumbai,
+                                  Phensedyl of M/s. Nicholas Piramal India Limited,
+                                  Mumbai, Codokuff of M/S. German Remedies,
+                                  Codeine Linctus of M/s Zydus Alidac etc. moving in
+                                  inter state commerce. These preparations contain
+                                  among other drugs Codeine Phosphate 10 mg as one
+                                  of the ingredients. By virtue of the fact that these
+                                  preparations contain Codeine and it salts they do not
+                                  fall under the provisions of
+NDPS Act
+and Rules of
+                                  1985 but they fall under Schedule H of the Drugs and
+                                  Cosmetics Rules and are governed by the said rules."
+14.    The learned counsel for the petitioner had primarily relied upon
+                          judgment/order passed by learned Single Judge in Iqbal Singh (supra).
+Reliance was further placed on a judgment passed by learned Single
+                          Judge of this Court in W.P. (C) 212/2016, titled
+Pfizer Ltd. & Anr. vs.
+                          Union of India & Anr.
+dated 01.12.2016, whereby a notification
+                          issued by the Central Government dated 10.03.2016 which considered
+                          cough syrup containing Codeine, as "likely to involve risk to human
+                          beings" was quashed.
+Reliance was also placed on an order passed by
+                          the Hon‟ble Supreme Court in
+Binod Kumar @ Binod Kumar Bhagat
+                          vs. The State of Bihar
+, (2018) 14 SCC 199 dated 10.08.2017, wherein
+Signature Not Verified    BAIL APPLN. 1136/2021                                     Page 7 of 36
+Digitally Signed
+By:ANITA BAITAL
+Signing Date:16.09.2022
+11:05:37
+it was held as under:-
+"6. According to the prosecution the Corex cough syrup
+                                    has been recovered from the godown and the prosecution
+                                    alleges that it has been recovered from the appellant. It is
+                                    evident that the Delhi High Court by order dated
+                                    01.12.2016 quashed the notification issued under
+Section
+                                    26A
+of the Drugs and Cosmetics Act, 1940 which has
+                                    sought to prohibit the manufacture, distribution and sale of
+                                    344 Fixed Dose of Combination. The FIR was registered
+                                    on 23.8.2016. Be that as it may, the appellant has been in
+                                    custody from 24.08.2016."
+7. Having regard to the facts and circumstances of the
+                                    case, we are of the view that it is just and proper to release
+                                    the appellant on bail. Therefore, we order the appellant to
+                                    be released on bail on execution of his personal bond in
+                                    sum of Rs. 25,000/-with two sureties in the like sum to the
+                                    satisfaction of the trial judge. We permit the trial judge to
+                                    impose such conditions as he feels necessary for ensuring
+                                    the appellant's attendance on the dates of posting in the
+                                    trial court."
+15.       It was also submitted by learned counsel for the petitioner that
+                          the Hon‟ble Supreme Court in the case of
+Hira Singh
+(supra) was
+                          considering a case of a declared narcotic drug and the issue of a
+                          miniscule quantity of an alleged narcotic drug like Codeine, used
+                          within permissible limits in medicinal products which are available to
+                          be bought online and offline with prescriptions, was not under
+                          consideration before the Hon‟ble Supreme Court.
+16.    Learned Counsel for the petitioner, on the basis of the aforesaid
+                          submissions, prayed for grant of bail to the petitioner in the present
+                          matter.
+17.       Learned SPP appearing on behalf of the respondent submits
+                          that the interpretation with regard to the questions referred by the
+Signature Not Verified    BAIL APPLN. 1136/2021                                          Page 8 of 36
+Digitally Signed
+By:ANITA BAITAL
+Signing Date:16.09.2022
+11:05:37
+learned Single Judge is completely covered by the judgment of the
+                          Hon‟ble Supreme Court in
+Hira Singh & Anr. vs. Union of India
+(supra).
+18.    Learned SPP for the customs further relies upon the judgment
+                          of the Hon‟ble Supreme Court in
+Md. Sahabuddin
+(supra) wherein the
+                          Hon‟ble Supreme Court has held that if Codeine Phosphate was being
+                          transported illegally without proper documents, it cannot be presumed
+                          that it was for therapeutic practice in spite of it being a Schedule H
+                          drug. It was further submitted that
+Section 80
+of NDPS Act, inter alia,
+                          provides that the provisions in said Act shall be in addition to the
+Drugs and Cosmetics Act, 1940
+and the Rules framed thereunder. It is
+                          the contention of the learned SPP that provisions of both legislations
+                          are to be read harmoniously and in the event Codeine or its
+                          preparations including salts which fall within the ambit of Schedule H
+                          is possessed, stored, transported or purchased under suspicious
+                          circumstances, the same would give rise to a reasonable suspicion that
+                          the drug is not being used for therapeutic purposes, and provisions of
+                          the
+NDPS Act
+can be invoked.
+19.    Reliance is also placed by learned SPP on the order/judgment
+                          dated 01.11.2017 rendered in
+Gavranjeet Singh @ Gavrana vs. State
+by the Hon‟ble High Court of Rajasthan in Criminal Misc. Bail No.
+                          3790/2017 wherein the Hon‟ble High Court followed the decision of
+                          the Hon‟ble Supreme Court in Md. Sahabuddin‟s case (supra).
+20.    Learned SPP submits that in the present case, the petitioner was
+                          found carrying two packets, each containing 55 bottles of „Phensedyl
+                          New‟ (containing Codeine as one of its ingredients) in his checked-in
+Signature Not Verified    BAIL APPLN. 1136/2021                                      Page 9 of 36
+Digitally Signed
+By:ANITA BAITAL
+Signing Date:16.09.2022
+11:05:37
+luggage. The petitioner could not produce any document to justify the
+                          possession of the aforesaid 110 bottles of „Phensedyl New‟ and
+                          therefore, the present case is covered by the judgment of the Hon‟ble
+                          Supreme Court in Mohd. Sahabuddin‟s case (supra) and furthermore,
+                          the entire quantity contained in the aforesaid bottles will have to be
+                          calculated for purpose of prosecuting the petitioner under the
+NDPS
+                          Act
+. The said quantity, according to the learned SPP would be 11000
+                          ml (100 ml x 110) which would be categorised as commercial, as per
+                          entry no. 28 in the notification specifying small quantity and
+                          commercial quantity of Codeine as 10g and 1kg respectively, and
+                          therefore, the rigours of
+Section 37
+of the NDPS Act would apply and
+                          the petition for seeking bail should be dismissed.
+21.    Before we proceed to answer the questions referred to this
+                          bench, we feel that the decision of the learned Single Judge of this
+                          court in Iqbal Singh (supra) needs to be considered. In Iqbal Singh
+                          (supra), learned Single Judge was concerned with the bail application
+                          filed by the petitioner therein, in a complaint case filed by the
+                          Narcotic Control Bureau (NCB) under
+Section 8
+and
+21
+of the NDPS
+                          Act. The recovery in the said case was alleged to be 57 bottles of
+                          „Onerex‟ cough syrup. The said cough syrup, as in the present case,
+                          also contained Codeine Phosphate. The learned Single Judge after
+                          examining the provisions of the
+NDPS Act
+as well as
+The Drugs and
+                          Cosmetics Act
+, was of the prima facie view that the alleged recovery
+                          from the petitioner was of a cough syrup (having codeine as one of its
+                          ingredients) which is not a narcotic drug covered under the
+NDPS Act
+.
+                          The learned Single Judge in Para 16 observed:
+Signature Not Verified    BAIL APPLN. 1136/2021                                     Page 10 of 36
+Digitally Signed
+By:ANITA BAITAL
+Signing Date:16.09.2022
+11:05:37
+"16. The product recovered from the petitioner is a
+                                  cough syrup and not any narcotic drug. Mr Dhaka
+                                  also pointed out that the said product (cough syrup) is
+                                  sold openly in the market and is also available online.
+                                  The fact that the said product also includes miniscule
+                                  quantity (0.17%) of a prohibited or controlled
+                                  substances cannot, prima facie, change the nature of
+                                  the product. In terms of Entry 35 of the list of
+                                  manufactured drugs (as contained in Govt. of India
+                                  notifications SO 826(E) dated 14.11.1985., S.O. 40(E)
+                                  dated 29.01.1993 and S.O. 1431(E) dated
+                                  21.06.2011), the product recovered from the
+                                  petitioner does not fall within the ambit of a
+                                  manufactured drug as the content of Codeine
+                                  phosphate is less than 2.5%."
+22.    As far as the decision of Hon‟ble Supreme Court in
+Hira Singh
+(supra), is concerned, it is observed that the learned Single Judge in
+                          Iqbal Singh was of the prima facie view that the recovered substance
+                          in the said case i.e. cough syrup (having codeine as one of its
+                          ingredient) would fall outside the scope of definition of the
+                          „manufactured drug‟ under the
+NDPS Act
+and the learned Single
+                          Judge in Para 25 has held:
+"25. Plainly, the quantity of the mixture of a
+                                  manufactured drug and a neutral substance would
+                                  require to be considered for the purposes of
+                                  determining whether the quantity is a commercial
+                                  quantity or a small quantity for the purposes of the
+NDPS Act
+. However, a drug which is manufactured
+                                  but falls outside the scope of the definition of a
+                                  „manufactured drug‟ under the
+NDPS Act
+on account
+                                  of the component of offending material being below
+                                  the prescribed threshold, cannot be construed as a
+                                  manufactured drug by dissecting its ingredients and
+                                  considering them in isolation."
+Signature Not Verified    BAIL APPLN. 1136/2021                                      Page 11 of 36
+Digitally Signed
+By:ANITA BAITAL
+Signing Date:16.09.2022
+11:05:37
+23.    In view of the foregoing, learned Single Judge in Iqbal Singh
+                          (supra) has held in Para 27 as under:
+"27. At this stage, this Court is not required to
+                                  examine the matter in any further detail. Suffice it to
+                                  state that the petitioner has presented reasonable
+                                  grounds for being acquitted in the present case. There
+                                  is no allegation that the petitioner is involved in any
+                                  other case."
+24.
+In view of the above, we are of the considered opinion that the
+                          judgment in Iqbal Singh (supra) is not contrary to the judgment of the
+                          Hon‟ble Supreme Court in
+Hira Singh
+(supra).
+It is relevant to point
+                          out that the learned Single Judge in Iqbal Singh (supra) has merely
+                          stated that the determination of the „commercial quantity‟ or otherwise
+                          would only be relevant in a case where the prosecution establishes that
+                          the recovered substance was either a narcotic drug or a psychotropic
+                          substance. The learned Single Judge in Iqbal Singh (supra) case was
+                          of the prima facie view that the cough syrup containing Codeine
+                          would not fall within the definition of „manufactured drug‟ under the
+NDPS Act
+in view of the various provisions and circulars referred to
+                          in the judgment.
+25.    The issue whether a cough syrup containing Codeine
+                          manufactured by a licensed manufacturer would fall within the
+                          definition of „manufactured drug‟ under the
+NDPS Act
+or not will be
+                          relevant to decide question „(c)‟ referred to this bench.
+26.    Section 2(xiv) defines „narcotic drug‟ as:
+Signature Not Verified    BAIL APPLN. 1136/2021                                       Page 12 of 36
+Digitally Signed
+By:ANITA BAITAL
+Signing Date:16.09.2022
+11:05:37
+"means coca leaf, cannabis (hemp), opium, poppy
+                                  straw and includes all manufactured drugs".
+(emphasis supplied)
+Section 2(x)
+defining the term „manufacture‟ reads as
+                                  under:
+"manufacture", in relation to narcotic drugs or
+                                  psychotropic            substances,            includes--
+(1) all processes other than production by which such
+                                  drugs      or    substances     may     be      obtained;
+(2) refining of such drugs or substances;
+                                  (3) transformation of such drugs or substances; and
+                                  (4) making of preparation (otherwise than in a pharmacy
+                                  on prescription) with or containing such drugs or
+                                  substances;"
+(emphasis supplied)
+Section 2(xi)
+defines "manufactured drug" as follows:
+"(a) all coca derivatives, medicinal cannabis, opium
+                                  derivatives     and      poppy      straw       concentrate;
+(b) any other narcotic substance or preparation which the
+                                  Central Government may, having regard to the available
+                                  information as to its nature or to a decision, if any, under
+                                  any International Convention, by notification in the
+                                  Official Gazette, declare to be a manufactured drug;
+but does not include any narcotic substance or
+                                  preparation which the Central Government may, having
+                                  regard to the available information as to its nature or to a
+                                  decision, if any, under any International Convention, by
+                                  notification in the Official Gazette, declare not to be a
+                                  manufactured drug;"
+(emphasis supplied)
+
+                                  The term „opium derivative‟ has been defined under
+                                  Section 2(xvi) as:
+Signature Not Verified    BAIL APPLN. 1136/2021                                      Page 13 of 36
+Digitally Signed
+By:ANITA BAITAL
+Signing Date:16.09.2022
+11:05:37
+"xxx
+(c) phenanthrene alkaloids, namely, morphine, codeine,
+                                  thebaine and their salts;
+xxx"
+(emphasis supplied)
+27.    It is an admitted position that in the present case, the seized
+                          substance i.e. 110 bottles of „Phensedyl New‟ is a „preparation‟ within
+                          the meaning of
+Section 2(xx)
+of the NDPS Act. Such „preparation‟ to
+                          be declared as „manufactured drug‟ would have to be notified by the
+                          Central Government under
+Section 2(xi)(b)
+of the NDPS Act. All
+                          „manufactured drugs‟ are included within the definition of the
+                          „narcotic drug‟ under
+Section 2(xiv)
+of the NDPS Act. In other words,
+                          a preparation to be included in the
+NDPS Act
+, would at the first
+                          instance have to be declared a „manufactured drug‟.
+28.    At this stage, it is also pertinent to take note of Entry 35 in
+                          notification titled "Manufactured Narcotics Drug" (as contained in
+                          Government of India Notification No. S.O. 826 (E) dated 14.11.1985
+                          and S.O. 40(E) dated 21.09.1993 and S.O. no. 1431 (E) dated
+                          21.06.2011) issued in exercise of powers conferred by Sub Clause (b)
+                          of Clause (xi) of
+Section 2
+of the NDPS Act which pertains to
+                          substance Methyl Morphine (commonly known as „Codeine‟). The
+                          said entry reads as under:-
+"S.O. 826(E). - In exercise of the powers conferred
+                                  by sub-clause (b) of clause (xi) of
+section 2
+of the
+                                  Narcotic Drugs and Psychotropic Substances Act,
+                                  1985 (61 of 1985), the Central Government hereby
+Signature Not Verified    BAIL APPLN. 1136/2021                                     Page 14 of 36
+Digitally Signed
+By:ANITA BAITAL
+Signing Date:16.09.2022
+11:05:37
+declares the following narcotic substances and
+                                  preparations to be manufactured drugs, namely:-
+xxx
+35. Methyl morphine (commonly known as „Codeine‟)
+                                  and Ethyle morphine and their salts (including
+                                  Dionine), all dilutions and preparations except those
+                                  which are compounded with one or more other
+                                  ingredients and containing not more than 100
+                                  milligrams of the drug per dosage unit, and with a
+                                  concentration of not more than 2.5% in undivided
+                                  preparations and which have been established in
+                                  Therapeutic practice.
+xxx"
+29.    Thus, as per the aforesaid notification, if any „manufactured
+                          drug‟ within the meaning of
+Section 2(xi)(b)
+of NDPS Act contains
+                          not more than 100 mg of Methyl Morphine, commonly known as
+                          Codeine, per dosage unit, and in that drug, Codeine is compounded
+                          with one or more ingredients and if in the said drug the concentration
+                          of Codeine is not more than 2.5% in undivided preparation, and the
+                          drug has been established in therapeutic practice, it will not be a
+                          „preparation‟ within the meaning of „manufactured drug‟ and,
+                          therefore it will not to be a „narcotic drug‟.
+30.    It is also admitted fact that to clarify this position, on
+                          26.10.2005, the Drug Controller of India, has written a letter to the
+                          State Drug Controller stating as follows:
+"As you are aware there are number of Cough
+                                  preparations like Corex of M/s Pfizer Ltd. Mumbai,
+                                  Phensedyl of M/s. Nicholas Piramal India Limited,
+                                  Mumbai, Codokuff of M/S. German Remedies,
+                                  Codeine Linctus of M/s Zydus Alidac etc. moving in
+Signature Not Verified    BAIL APPLN. 1136/2021                                     Page 15 of 36
+Digitally Signed
+By:ANITA BAITAL
+Signing Date:16.09.2022
+11:05:37
+inter state commerce. These preparations contain
+                                  among other drugs Codeine Phosphate 10 mg as one
+                                  of the ingredients. By virtue of the fact that these
+                                  preparations contain Codeine and it salts they do not
+                                  fall under the provisions of
+NDPS Act
+and Rules of
+                                  1985 but they fall under Schedule H of the Drugs and
+                                  Cosmetics Rules and are governed by the said rules."
+31.    In view of the above provisions of the
+NDPS Act, The Drugs
+                          and Cosmetics Act
+, The Drugs and Cosmetics Rules, 1945 and the
+                          aforesaid circular, the learned Single Judge in Iqbal Singh (supra)
+                          came to a prima facie conclusion that „Onerex‟ cough syrup
+                          containing 0.17% of Codeine was below the prescribed threshold and
+                          could not be construed as a „manufactured drug‟ by dissecting its
+                          ingredients and considering them in isolation.
+32.
+In
+Mohd. Sahabuddin
+(supra), the Hon‟ble Supreme Court was
+                          dealing with the case of seizure of 347 cartons with each carton
+                          containing 100 bottles of 100 ml of „Phensedyl‟ cough syrup and 102
+                          cartons of 100 bottles of 100 ml bottles of „Recodex‟ cough syrup
+                          which were found concealed, along with other household articles, in a
+                          truck. Both the aforesaid cough syrups were pharmaceutical drugs
+                          covered under the
+Drugs and Cosmetics Act
+and the Rules framed
+                          thereunder. Taking note of the notifications dated 14.11.1985 and
+                          29.01.1993 (issued under
+Section 2(xi)(b)
+of the NDPS Act), as
+                          mentioned hereinabove, the Hon‟ble Supreme Court in the aforesaid
+                          judgment held as under:
+"10. It is not in dispute that each 100 ml bottle of
+                                  Phensedyl cough syrup contained 183.15 to 189.85
+                                  mg of codeine phosphate and the each 100 ml bottle of
+Signature Not Verified    BAIL APPLN. 1136/2021                                    Page 16 of 36
+Digitally Signed
+By:ANITA BAITAL
+Signing Date:16.09.2022
+11:05:37
+Recodex cough syrup contained 182.73 mg of codeine
+                                  phosphate. When the appellants were not in a position
+                                  to explain as to whom the supply was meant either for
+                                  distribution or for any licensed dealer dealing with
+                                  pharmaceutical products and in the absence of any
+                                  other valid explanation for effecting the
+                                  transportation of such a huge quantity of the cough
+                                  syrup which contained the narcotic substance of
+                                  codeine phosphate beyond the prescribed limit, the
+                                  application for grant of bail cannot be considered
+                                  based on the above submissions made on behalf of the
+                                  appellants.
+xxx
+12. As pointed out by us earlier, since the appellants
+                                  had no documents in their possession to disclose as to
+                                  for what purpose such a huge quantity of Schedule H
+                                  drug containing narcotic substance was being
+                                  transported and that too stealthily, it cannot be simply
+                                  presumed that such transportation was for therapeutic
+                                  practice as mentioned in the Notifications dated 14-
+                                  11-1985 and 29-1-1993. Therefore, if the said
+                                  requirement meant for therapeutic practice is not
+                                  satisfied then in the event of the entire 100 ml content
+                                  of the cough syrup containing the prohibited quantity
+                                  of codeine phosphate is meant for human
+                                  consumption, the same would certainly fall within the
+                                  penal provisions of the
+NDPS Act
+calling for
+                                  appropriate punishment to be inflicted upon the
+                                  appellants. Therefore, the appellants' failure to
+                                  establish the specific conditions required to be
+                                  satisfied under the abovereferred to notifications, the
+                                  application of the exemption provided under the said
+                                  notifications in order to consider the appellants'
+                                  application for bail by the courts below does not
+                                  arise.
+13. As far as the grievance raised on the ground that
+                                  the appellants were illegally detained beyond 24
+                                  hours by the police is concerned, the conclusion of the
+Signature Not Verified    BAIL APPLN. 1136/2021                                       Page 17 of 36
+Digitally Signed
+By:ANITA BAITAL
+Signing Date:16.09.2022
+11:05:37
+High Court having been based on the satisfaction
+                                  reached by it, we do not find any scope to interfere
+                                  with the same."
+33.    Recently, the Hon‟ble Supreme Court in
+State of Punjab vs.
+                          Rakesh Kumar
+(2019) 2 SCC 466, reversed a decision of the Hon‟ble
+                          High Court of Punjab and Haryana, granting suspension of sentence to
+                          the convicts under
+Section 389
+Cr.P.C and held as under:
+"10. In the present case, the respondent-accused were
+                                  found in bulk possession of manufactured drugs
+                                  without any valid authorisation. The counsel on behalf
+                                  of the appellant State has extensively stressed that the
+                                  actions of the respondent-accused amounts to clear
+                                  violation of
+Section 8
+of the NDPS Act as it clearly
+                                  prohibits possession of narcotic substances except for
+                                  medicinal or scientific purposes.
+In furtherance of the
+                                  same, the counsel on behalf of the appellant State has
+                                  put emphasis on the judgment rendered by this Court
+                                  in
+Union of India v. Sanjeev V. Deshpande
+, wherein it
+                                  was held that : (SCC pp. 12-13, paras 25-26)
+                                       "25. In other words, DEALING IN narcotic
+                                       drugs and psychotropic substances is
+                                       permissible only when such DEALING is for
+                                       medical       purposes       or      scientific
+                                       purposes. Further, the mere fact that
+                                       the DEALING      IN narcotic    drugs     and
+                                       psychotropic substances is for a medical or
+                                       scientific purpose does not by itself lift the
+                                       embargo created under
+Section 8(c)
+. Such a
+                                       dealing must be in the manner and extent
+                                       provided by the provisions of the Act, Rules
+                                       or Orders made thereunder.
+Sections 9
+and
+10
+enable the Central and the State
+                                       Governments            respectively          to
+                                       makerules permitting and regulating variou
+                                       s aspects contemplated under
+Section 8(c)
+,
+Signature Not Verified    BAIL APPLN. 1136/2021                                       Page 18 of 36
+Digitally Signed
+By:ANITA BAITAL
+Signing Date:16.09.2022
+11:05:37
+of DEALING      IN narcotic     drugs    and
+                                        psychotropic substances.
+26.
+The Act
+does not contemplate framing of
+                                        rules for prohibiting the various activities
+                                        of DEALING      IN narcotic     drugs    and
+                                        psychotropic substances. Such prohibition
+                                        is already contained in
+Section 8(c)
+. It only
+                                        contemplates of the framing of rules for
+                                        permitting and regulating any activity of
+                                        DEALING IN narcotic drugs or psychotropic
+                                        substances."
+(emphasis supplied)
+13. However, we are unable to agree on the
+                                  conclusion reached by the High Court for reasons
+                                  stated further. First, we note that
+Section 80
+of the
+                                  NDPS Act, clearly lays down that application of the
+Drugs and Cosmetics Act
+is not barred, and
+                                  provisions of the
+NDPS Act
+can be applicable in
+                                  addition to that of the provisions of the
+Drugs and
+                                  Cosmetics Act
+. The statute further clarifies that the
+                                  provisions of the
+NDPS Act
+are not in derogation of
+                                  the
+Drugs and Cosmetics Act, 1940
+. This Court
+                                  in
+Union of India v. Sanjeev V. Deshpande
+, has held
+                                  that : (SCC p. 16, para 35)
+                                        "35. ... essentially the
+Drugs and Cosmetics
+                                        Act, 1940
+deals with various operations of
+                                        manufacture, sale, purchase, etc. of drugs
+                                        generally whereas
+Narcotic Drugs and
+                                        Psychotropic Substances Act, 1985
+deals
+                                        with a more specific class of drugs and,
+                                        therefore, a special law on the subject.
+Further, the provisions of the Act operate in
+                                        addition to the provisions of the 1940 Act."
+(emphasis supplied)"
+34.    It is pertinent to note that the aforesaid decision is related to an
+                          order passed by the Hon‟ble High Court of Punjab and Haryana,
+Signature Not Verified    BAIL APPLN. 1136/2021                                         Page 19 of 36
+Digitally Signed
+By:ANITA BAITAL
+Signing Date:16.09.2022
+11:05:37
+granting suspension of sentence to convicts under the
+NDPS Act
+.
+                          Some of the said cases in the table which is a part of the aforesaid
+                          judgment reflect that some of the respondents therein were convicted
+                          for possession of cough syrup containing Codeine Phosphate, while
+                          others had been convicted for possession of other narcotic drugs or
+                          psychotropic substances.
+35.      A division bench of the Hon‟ble High Court of Allahabad in
+                          case titled as
+Vibhor Rana vs. Union of India
+, 2021 SCC Online All
+                          908, after analyzing the provisions of the
+NDPS Act, The Drugs and
+                          Cosmetics Act
+, and the Drugs and Cosmetics Rules, observed as
+                          under:
+"24. The prohibition contained in Section 8 of the Act
+                                   is applicable to "Narcotic Drugs" and since
+                                   Phensedyl New Cough Linctus contains Codeine
+                                   compounded with one other ingredient, namely
+                                   Chlorpheniramine Maleate and since Phensedyl New
+                                   Cough Linctus contains merely 10 milligrams per
+                                   dosage unit of 5 ml, which is not more than 100
+                                   milligrams of the drug per dosage unit in undivided
+                                   preparations and the concentration of Codeine in
+                                   Phensedyl New Cough Linctus is merely 0.2%, which
+                                   obviously is not more than 2.5% and which has been
+                                   established in Therapeutic practice, it is not a
+                                   "Manufactured Drug" and, therefore, it is not a
+                                   "Narcotic Drug", the prohibition contained in Section
+                                   8 of the Act does not apply to it.
+25. Phensedyl New Cough Linctus contains Codeine
+                                   which is mentioned at Serial Number 20 in Schedule
+                                   H1 appended to the Drugs Rules, 1945 and a note
+                                   appended to Schedule H1 provides that "Preparations
+                                   containing the above drug substances and their sales
+                                   excluding those intended for topical or external use
+                                   (except opthalmic and ear or nose preparations)
+Signature Not Verified    BAIL APPLN. 1136/2021                                      Page 20 of 36
+Digitally Signed
+By:ANITA BAITAL
+Signing Date:16.09.2022
+11:05:37
+containing above substances are also covered by this
+                                  Schedule". Therefore, Phensedyl New Cough Linctus
+                                  is a drug covered by the
+Drugs and Cosmetics Act,
+                                  1940
+.
+26. To clarify this position, on 26.10.2005 the Drug
+                                  Controller General of India had written letter to all
+                                  the State Drugs Controllers stating as follows:--
+"As you are aware there are number of
+                                       Cough preparations like Corex of M/s
+                                       Pfizer Ltd. Mumbai, Phensedyl of M/s.
+                                       Nicholas Piramal India Limited, Mumbai,
+                                       Codokuff of M/S. German Remedies,
+                                       Codeine Linctus of M/s Zydus Alidac etc.
+                                       moving in inter state commerce. These
+                                       preparations contain among other drugs
+                                       Codeine Phosphate 10 mg as one of the
+                                       ingredients. By virtue of the fact that these
+                                       preparations contain Codeine and it salts
+                                       they do not fall under the provisions of
+NDPS Act
+and Rules of 1985 but they fall
+                                       under Schedule H of the Drugs and
+                                       Cosmetics Rules and are governed by the
+                                       said rules. Though stocking and sale of
+                                       these drugs do not attract the provisions of
+NDPS Act
+and Rules 1985 however these
+                                       formulations are prescriptions drugs and
+                                       are to be dispensed on the prescriptions
+                                       drug and are to be dispensed on the
+                                       prescription of a registered Medical
+                                       Practitioner only. Further you may be
+                                       already aware that under notification
+                                       number S.O. 826(E) dated 14th Nov. 1985
+                                       under the
+Narcotic Drugs and Psychotropic
+                                       Substances Act
+and Rules 1985 certain
+                                       preparations are exempted as manufactured
+                                       drugs provided the preparations contain the
+                                       Narcotic drug to the extent permitted. In
+                                       respect of Codeine under entry no. 35 it is
+Signature Not Verified    BAIL APPLN. 1136/2021                                    Page 21 of 36
+Digitally Signed
+By:ANITA BAITAL
+Signing Date:16.09.2022
+11:05:37
+stated that Codeine and Ethyl Morphine and
+                                       their salts including Dionine all dilutions
+                                       and preparations are considered to be
+                                       manufactured drugs except those which are
+                                       compounded with one or more other
+                                       ingredients and containing not more than
+                                       100 milligrams of the drug per dosage unit
+                                       and with a concentration of not more than
+                                       2.5 per cent in undivided preparations and
+                                       which have been established in therapeutic
+                                       practice."
+27. In March 2009 the Drugs Controller General
+                                  (India) had issued a letter to the Associated Chambers
+                                  of Commerce and Industry of India in response to a
+                                  request for clarification of drug substance Cough
+                                  Linctus containing codeine Phosphate stating that:--
+"In this connection this Directorate had
+                                       already issued a circular letter vide our
+                                       letter number X-11029/27/05-D dated
+                                       26/10/2005 to all State Drugs Controllers
+                                       with a copy to various associations and a
+                                       copy Narcotic Control Bureau New Delhi
+                                       (copy enclosed). The above circular inter
+                                       alia stated that these preparations (Cough
+                                       Linctus containing Codeine Phosphate)
+                                       contains among other drugs Codeine
+                                       Phosphate 10 mg as one of the ingredients.
+                                       By virtue of the fact that these preparations
+                                       contain Codeine and its salts they do not
+                                       fall under the provisions of
+NDPS Act
+and
+                                       the Rules of 1985 but they fall under
+                                       Schedule H of the Drugs and Cosmetic
+                                       Rules and are governed by the said rules.
+                                       Though stocking and sale of these drugs do
+                                       not attract the provisions of
+NDPS Act
+and
+                                       Rules 1985, however these formulations are
+                                       prescriptions drugs and are to be dispensed
+                                       on the prescriptions of a registered Medical
+Signature Not Verified    BAIL APPLN. 1136/2021                                     Page 22 of 36
+Digitally Signed
+By:ANITA BAITAL
+Signing Date:16.09.2022
+11:05:37
+Practioner only. Further you may be aware
+                                        that under notification number S.O.826(E)
+                                        dated 14th November, 1985 under the
+Narcotic     Drugs     and     Psychotropic
+                                        Substances Act
+and Rules 1985 certain
+                                        preparations are exempted as manufactured
+                                        drugs provided the preparations contain the
+                                        Narcotic drug to the extent permitted. In
+                                        respect of Codeine under entry no. 35 it is
+                                        stated that Codeine and Ethyl Morphine and
+                                        their salts including Dionine all dilutions
+                                        and preparations are considered to be
+                                        manufactured drugs except those which are
+                                        compounded with one or more other
+                                        ingredients and containing not more than
+                                        100 miligrams of the drug per dosage unit
+                                        and with a concentration of not more than
+                                        2.5 per cent in undivided preparations and
+                                        which have been established in therapeutic
+                                        practice."
+36.    The Division Bench of High Court of Allahabad in
+Vibhor
+                          Rana
+(supra), after examining the aforesaid judgment of the Hon‟ble
+                          Supreme Court in the
+State of Punjab Vs. Rakesh Kumar
+(supra) has
+                          observed:
+"35. However, whether Phensedyl New Cough
+                                  Linctus, or any substance containing "Methyl
+                                  morphine (commonly known as "Codeine‟) and Ethyl
+                                  morphine and their salts (including Dionine), all
+                                  dilutions and preparations except those which are
+                                  compounded with one or more other ingredients and
+                                  containing not more than 100 milligrams of the drug
+                                  per dosage unit and with a concentration of not more
+                                  than 2.5% in undivided preparations and which have
+                                  been established in Therapeutic practice." falls within
+                                  the exception to item No. 35 of the Notification dated
+Signature Not Verified    BAIL APPLN. 1136/2021                                       Page 23 of 36
+Digitally Signed
+By:ANITA BAITAL
+Signing Date:16.09.2022
+11:05:37
+14-11-1985 issued by the Government of India
+                                  containing the list of narcotic drugs and whether it is
+                                  a "Manufactured drug‟ and is a "narcotic substance‟
+                                  was neither raised nor adjudicated in this case.
+                                  xxx
+38.
+In both the aforesaid decisions in
+State of
+                                  Punjab v. Rakesh        Kumar
+and Hemant         Kumar
+                                  Saini v. Union of India (Supra), the question whether
+                                  or not the offending substances fell within the
+                                  definitions of "manufactures drugs" and "narcotic
+                                  substance" provided in
+Sections 2 (xi)
+and
+2 (xiv)
+of
+                                  the NDPS Act, was not decided. However, in the
+                                  present case, the composition of the drug has been
+                                  pleaded specifically and the same has not been
+                                  disputed by the respondents. It is thus admitted that
+                                  Phensedyl New Cough Linctus contains Codeine
+                                  compounded with one other ingredient, namely
+                                  Chlorpheniramine Maleate and contains merely 10
+                                  milligrams per dosage unit of 5 ml, which is not more
+                                  than 100 milligrams of the drug per dosage unit in
+                                  undivided preparations and the concentration of
+                                  Codeine in Phensedyl New Cough Linctus is merely
+                                  0.2%, which obviously is not more than 2.5%. and the
+                                  precise question involved in the case is on the basis of
+                                  the aforesaid undisputed facts, whether Phensedyl
+                                  New Cough Linctus falls within the exception
+                                  mentioned in entry 35 of the Notification dated 14-11-
+                                  1985 or not and consequently, whether the provisions
+                                  of the
+NDPS Act
+would apply to it or not. Therefore,
+                                  both the aforesaid judgments are not relevant for
+                                  deciding the question involved in the present Writ
+                                  Petition."
+37.     It may be noted that in the judgment of Hon‟ble Supreme
+                          Court in
+Md. Sahabuddin
+(supra) it had been observed that the twin
+                          conditions in Entry 35, as aforesaid mentioned, would be fulfilled only
+                          if the recovered substance was "being used for therapeutic practice"
+Signature Not Verified    BAIL APPLN. 1136/2021                                     Page 24 of 36
+Digitally Signed
+By:ANITA BAITAL
+Signing Date:16.09.2022
+11:05:37
+and further observed in Para 11 of
+the said judgment
+;
+"11...Therapeutic practice as per dictionary meaning
+                                  means "contributing to cure of disease". In other
+                                  words, the assessment of codeine content on dosage
+                                  basis can only be made only when the cough syrup is
+                                  definitely kept or transported which is exclusively
+                                  meant for its usage for curing a disease and as an
+                                  action of remedial agent."
+The Division Bench in
+Vibhor Rana
+(supra) had an occasion to
+                          deal with the expression used in the aforesaid Entry 35 viz.
+"established in Therapeutic Practice" and held as under:
+"41. The expression "established in therapeutic
+                                  practice" has not been interpreted in any previous
+                                  decision. It is a basic rule of interpretation that the
+                                  words used in the statute should be given there simple
+                                  and natural meaning and neither any word should be
+                                  added nor should any word be ignored while
+                                  interpreting any provision. When the Government has
+                                  used the expression "established in therapeutic
+                                  practice" these words cannot be altered so as to read
+                                  it as "used for therapeutic purposes". The phrase
+                                  "established in therapeutic practice" apparently
+                                  means that the compound in question has been
+                                  established to be a drug in accordance with the
+                                  therapeutic practices followed for establishment of
+                                  new drugs. Therefore, the submission of Sri. Ashish
+                                  Pandey that the drug in question does not fulfil the
+                                  condition no. (2) of having been "established in
+                                  therapeutic practice", is without any force."
+38.    The aforesaid case of
+Vibhor Rana
+(supra) was in nature of a
+                          writ petition seeking quashing of the complaint case filed by the NCB,
+                          pending before the court of
+Special Judge NDPS Act
+and in its final
+                          conclusion the aforesaid division bench has held as under:
+Signature Not Verified    BAIL APPLN. 1136/2021                                        Page 25 of 36
+Digitally Signed
+By:ANITA BAITAL
+Signing Date:16.09.2022
+11:05:37
+"44. In view of the foregoing discussion, we hold that
+                                   in view of the fact that as per the composition of
+                                   Phensedyl New Cough Linctus pleaded in the Writ
+                                   Petitions, the prescription dosage of Phensedyl Cough
+                                   Syrup is 5 ml and each dosage unit thereof contains
+                                   10 mg of Codeine Phosphate IP, besides
+                                   Chlorpheniramine Maleate I.P., Phensedyl New
+                                   Cough Linctus contains merely 0.2 % Codeine, and
+                                   this has not been disputed and rather has been
+                                   admitted by the learned Counsel for the Respondent
+                                   NCB that there is no dispute that the drug in question
+                                   fulfils the first condition for falling within the
+                                   exception to Entry 35 of the Notification dated 14-11-
+                                   1985 issued by the Central Government containing
+                                   the list of Narcotic Drugs, i.e. being "compounded
+                                   with one or more other ingredients and containing not
+                                   more than 100 milligrams of the drug per dosage unit
+                                   and with a concentration of not more than 2.5% in
+                                   undivided preparations", Phensedyl New Cough
+                                   Linctus is not a Narcotic Drug and any dealing in this
+                                   drug would not be subject to the provisions of the
+NDPS Act
+. The search and seizure conducted by the
+                                   NCB Officials in Jaunpur on 17-01-2021 was without
+                                   any authority of law and so is the complaint filed on
+                                   15-07-2021 by the Intelligence Officer, NCB under
+Sections 8
+,
+21 (c)
+,
+22
+,
+25
+,
+29
+and
+60 (3)
+of the NDPS
+                                   Act in the Court of Special Judge, NDPS Act at
+                                   Jaunpur."
+39.    The aforesaid judgments, however, have not considered the
+                          scope of
+Section 9(1)(a)(va)
+of the NDPS Act which provides as
+                          under:
+"9. Power of Central Government to permit, control
+                                   and regulate.-
+(1) Subject to the provisions of
+Section 8
+, the Central
+                                   Government may, by rules--
+Signature Not Verified    BAIL APPLN. 1136/2021                                       Page 26 of 36
+Digitally Signed
+By:ANITA BAITAL
+Signing Date:16.09.2022
+11:05:37
+(a) permit and regulate--
+xxx
+                                  (va) the manufacture, possession, transport, import
+                                  inter-State, export inter-State, sale, purchase,
+                                  consumption and use of essential narcotic drugs:
+Provided that where, in respect of an essential
+                                  narcotic drug, the State Government has granted
+                                  licence or permit under the provisions of
+Section 10
+prior to the commencement of the
+Narcotic Drugs and
+                                  Psychotropic Substances (Amendment) Act, 2014
+,
+                                  such licence or permit shall continue to be valid till
+                                  the date of its expiry or for a period of twelve months
+                                  from such commencement, whichever is earlier.
+                                  xxx"
+40.    The aforesaid sub-clause (va) was introduced by the
+Narcotic Drugs and Psychotropic Substances (Amendment) Act,
+                          2014
+(No. 16 2014), which came into effect on 01.05.2014. The
+                          said amendment was introduced subsequent to the judgment of
+                          Hon'ble Supreme Court in
+Mohd. Sahabuddin
+'s case (supra). A
+                          bare reading of the said amended provision shows that the same
+                          was introduced in the
+NDPS Act
+authorizing the government to
+                          permit and regulate the manufacture, possession, transport,
+                          import interstate, export interstate, sale, purchase, consumption
+                          and use of the "essential narcotic drugs". The term 'essential
+                          narcotic drugs' has not been defined in the
+NDPS Act
+. However,
+                          exercising powers under
+Section 9(1)(a)(va)
+of the NDPS Act, the
+                          Central Government vide notification dated 05.05.2015 (w.e.f.
+                          05.05.2015) added Chapter -VA to The Narcotic Drugs and
+                          Psychotropic Substances Rules 1985 (hereinafter "NDPS Rules").
+Signature Not Verified    BAIL APPLN. 1136/2021                                      Page 27 of 36
+Digitally Signed
+By:ANITA BAITAL
+Signing Date:16.09.2022
+11:05:37
+Rule 52A of the said Chapter provides as under:
+"52A. Possession of essential narcotic drug.--(1) No
+                                  person shall possess any essential narcotic drug
+                                  otherwise than in accordance with the provisions of
+                                  these rules.
+(2) Any person may possess an essential narcotic drug
+                                  in such quantity as has been at one time sold or
+                                  dispensed for his use in accordance with the
+                                  provisions of these rules.
+(3) A registered medical practitioner may possess
+                                  essential narcotic drug, for use in his practice but not
+                                  for sale or distribution, not more than the quantity
+                                  mentioned in the Table below, namely--
+TABLE
+                          Sl.              Name of the essential                Quantity
+                          No.                 narcotic drug
+                          (1)                       (2)                            (3)
+1.           Morphine and its salts and all        500
+                                       preparations containing more          Milligrammes
+                                       than 0.2 per cent of Morphine
+2.           Methyl morphine (commonly             2000
+                                       known as „Codeine‟) and               Milligrammes
+                                       Ethyl morphine and their
+                                       salts (including Dionine), all
+                                       dilutions and preparations
+                                       except those which are
+                                       compounded with one or
+                                       more other ingredients and
+                                       containing not more than
+                                       100 milligrammes of the
+                                       drug per dosage unit and
+                                       with a concentration of not
+                                       more than 2.5% in undivided
+Signature Not Verified    BAIL APPLN. 1136/2021                                          Page 28 of 36
+Digitally Signed
+By:ANITA BAITAL
+Signing Date:16.09.2022
+11:05:37
+preparations and which have
+                                       been      established    in
+                                       therapeutic practice
+3.           Dihydroxy         Codeinone      250
+                                       (commonly known as Oxy-          Milligrammes
+                                       codone                  and
+                                       Dihydroxycodeinone),      its
+                                       salts (such as Eucodal
+                                       Boncodal           Dinarcon
+                                       Hydrolaudin,       Nucodan,
+                                       Percodan,         Scophedal,
+                                       Tebodol and the like), its
+                                       esters and the salts of its
+                                       ester    and    preparation,
+                                       admixture, extracts or other
+                                       substances containing any of
+                                       these drugs
+4.           Dihydrocodeinone                 320
+(commonly       known      as    Milligrammes
+                                       Hydrocodone), its salts (such
+                                       as    Dicodide,     Codinovo,
+                                       Diconone,           Hycodan,
+                                       Multacodin,          Nyodide,
+                                       Ydroced and the like) and its
+                                       esters and salts of its ester,
+                                       and preparation, admixture,
+                                       extracts or other substances
+                                       containing any of these drugs
+5.           1-phenethyl-4-N-                 Two
+                                       propionylanilino-piperidine      transdermal
+                                       (the    international    non-    patches one
+                                       proprietary name of which is     each of 12.5
+                                       Fentanyl) and its salts and      microgram
+                                       preparations,      admixture,    per hour and
+                                       extracts or other substances     25 microgram
+                                       containing any of these drugs    per hour:
+Signature Not Verified    BAIL APPLN. 1136/2021                                Page 29 of 36
+Digitally Signed
+By:ANITA BAITAL
+Signing Date:16.09.2022
+11:05:37
+Provided that the Controller of Drugs or any other
+                                   officer authorised in this behalf by him may by special
+                                   order authorise, in Form 3-B, any such practitioner to
+                                   possess the aforesaid drugs in quantity larger than as
+                                   specified in the above Table:
+Provided further that such authorisation may be
+                                   granted or renewed, for a period not exceeding three
+                                   years at a time.
+Explanation.--The expression "for use in his practice"
+                                   covers only the actual direct administration of the
+                                   drugs to a patient under the care of the registered
+                                   medical practitioner in accordance with established
+                                   medical standards and practices.
+xxx"
+(emphasis supplied)
+41.    Since, during the course of the hearing, the aforesaid provision
+                          was not brought to the notice of the court, the matter was listed for
+                          clarification. Subsequently, learned counsel appearing on behalf of the
+                          petitioner placed reliance on the judgment rendered by the division
+                          bench of Hon‟ble High Court of Allahabad in
+Vibhor Rana
+(supra).
+He further submitted that Rule 66 of the NDPS Rules would be
+                          applicable in the facts and circumstances of the present case, and not
+                          Rule 52A. Rule 66 of the NDPS Rules provides as under:
+"66. Possession, etc., of psychotropic substances.--
+(1) No person shall possess any psychotropic
+                                  substance for any of the purposes covered under 1945
+                                  rules, unless he is lawfully authorized to possess such
+                                  substance for any of the said purposes under these
+                                  rules: Provided that possession of a psychotropic
+                                  substance specified in Schedule I shall be only for the
+                                  purposes mentioned in Chapter VII-A.
+Signature Not Verified    BAIL APPLN. 1136/2021                                      Page 30 of 36
+Digitally Signed
+By:ANITA BAITAL
+Signing Date:16.09.2022
+11:05:37
+(2) Notwithstanding anything contained in sub-rule
+                                  (1), any research institution, or a hospital or
+                                  dispensary maintained or supported by the
+                                  Government or local body or by charity or voluntary
+                                  subscription, which is not authorised to possess any
+                                  psychotropic substance under the 1945 Rules, or any
+                                  person who is not so authorised under the 1945 Rules,
+                                  may possess a reasonable quantity of such substance
+                                  as may be necessary for their genuine scientific
+                                  requirements or genuine medical requirements, or
+                                  both for such period as is deemed necessary by the
+                                  said research institution or, as the case may be, the
+                                  said hospital or dispensary or person: Provided that
+                                  where such psychotropic substance is in possession of
+                                  an individual for his personal medical use the quantity
+                                  thereof shall not exceed one hundred dosage units at a
+                                  time:
+Provided further that an individual may possess the
+                                  quantity of exceeding one hundred dosage units at a
+                                  time but not exceeding three hundred dosage units at
+                                  a time] for his personal long term medical use if
+                                  specifically prescribed by a Registered Medical
+                                  Practitioner.
+(3) The research institution, hospital and dispensary
+                                  referred to in sub-rule (2) shall maintain proper
+                                  accounts and records in relation to the purchase and
+                                  consumption of the psychotropic substance in their
+                                  possession.
+A bare perusal of the aforesaid rule clearly shows that the
+                          reliance placed on the same by learned counsel appearing on behalf
+                          of the petitioner is misplaced. The aforesaid Rule 66 relates to
+                          psychotropic substances and therefore, is not applicable to „codeine‟
+                          which is admittedly a „narcotic drug‟ under the
+NDPS Act
+.
+42.    As mentioned earlier, the term „essential narcotic drugs‟ has
+Signature Not Verified    BAIL APPLN. 1136/2021                                      Page 31 of 36
+Digitally Signed
+By:ANITA BAITAL
+Signing Date:16.09.2022
+11:05:37
+not been defined under the
+NDPS Act
+but the table in Rule 52A, Sub-
+                          Rule (3), at serial no. 2, under the title "Name of essential narcotic
+                          drug" gives a description of Methyl Morphine (commonly known as
+                          „Codeine‟), which is an exact verbatim copy of Entry no. 35 in
+                          notification titled "Manufactured Narcotics Drug" (as contained in
+                          Government of India Notification No. S.O. 826 (E) dated 14.11.1985
+                          and S.O. 40(E) dated 21.09.1993 and S.O. no. 1431 (E) dated
+                          21.06.2011). A combined reading of Rule 52A of The NDPS Rules
+                          and Entry no. 35, in the aforementioned notification, would
+                          demonstrate that the exception carved out in Entry no. 35, of the
+                          aforesaid notifications, with respect to codeine, has been further
+                          qualified by way of its inclusion under the category of „essential
+                          narcotic drug‟ under
+Section 9(1)(a)(va)
+of the NDPS Act 1985. In
+                          our considered opinion, Rule 52A further regulates the manner of
+                          possession and other related activities enumerated therein, with
+                          respect to substances/preparations covered under the aforesaid Entry
+35.
+43.
+Section 21
+of the NDPS Act provides for prosecution for
+                          contravention of any of the provision of the
+NDPS Act
+or any Rule
+                          made thereunder. Needless to say that Rule 52A clearly prohibits
+                          any person from possessing any 'essential narcotic drug'
+                          otherwise than in accordance with the provisions of the rules
+                          made thereunder. The amended provision i.e.
+Section 9(1)(a)(va)
+of the NDPS Act and the rules made thereunder clearly and
+                          unequivocally declare that any substance covered under the
+                          description given in the Table to Rule 52A(3) would be considered
+Signature Not Verified    BAIL APPLN. 1136/2021                                     Page 32 of 36
+Digitally Signed
+By:ANITA BAITAL
+Signing Date:16.09.2022
+11:05:37
+as an 'essential narcotic drug', even if the said substance is
+                          otherwise covered under
+The Drugs and Cosmetic Act
+including
+                          cough syrup containing codeine phosphate.
+44.    The aforesaid interpretation is supported by a judgment
+                          rendered by the Hon'ble Supreme Court in
+Union of India and Anr.
+                          vs. Sanjeev V. Deshpande
+(2014) 13 SCC 1, wherein it was held as
+                          follows:
+"25. In other words, DEALING IN narcotic drugs and
+                                  psychotropic substances is permissible only when
+                                  such DEALING is for medical purposes or scientific
+                                  purposes. Further, the mere fact that the DEALING
+                                  IN narcotic drugs and psychotropic substances is for
+                                  a medical or scientific purpose does not by itself lift
+                                  the embargo created under
+Section 8(c)
+. Such a
+                                  dealing must be in the manner and extent provided
+                                  by the provisions of the Act, Rules or Orders made
+                                  thereunder.
+Sections 9
+and
+10
+enable the Central
+                                  and the State Governments respectively to make
+                                  rules permitting and regulating various        aspects
+                                  (contemplated under
+Section 8(c)
+, of DEALING
+                                  IN narcotic drugs and psychotropic substances.
+26.
+The Act
+does not contemplate framing of rules
+                                  for prohibiting the various activities of DEALING
+                                  IN narcotic drugs and psychotropic substances. Such
+                                  prohibition is already contained in
+Section 8(c)
+. It
+                                  only contemplates of the framing of Rules for
+                                  permitting and regulating any activity of DEALING
+                                  IN narcotic drugs or psychotropic substances.
+(emphasis supplied)
+45.    The aforesaid amended provisions of the
+NDPS Act
+and the
+                          Rules made thereunder were not brought to the notice of the
+                          learned Single Judge of this court in Iqbal Singh's case (supra) as
+Signature Not Verified    BAIL APPLN. 1136/2021                                      Page 33 of 36
+Digitally Signed
+By:ANITA BAITAL
+Signing Date:16.09.2022
+11:05:37
+well as to the notice of the division bench of the Hon'ble Allahabad
+                          High Court in
+Vibhor Rana
+'s case (supra).
+46.    In view of the foregoing analysis of various provision of the
+NDPS Act, NDPS Rules, The Drugs and Cosmetics Act
+and the
+                          Drugs and Cosmetics Rules and the judgments referred to, we
+                          answer       the        reference    in    the    following     terms:
+Question - "(c) whether Note 4 of the S.O. 1055 (E) dated
+                          19th October, 2001 published in the Gazette of India,. Extra.,
+                          Pt.II, Sec3 (ii) dated 19th October 2001, as amended on
+                          18.11.2009, should be made applicable to cough syrups
+                          containing miniscule percentage of Codeine since it has
+                          medicinal       value       and     is    also   easily   available?"
+Ans: If the contraband recovered in a particular case is
+                          covered by Rule 52A of the NDPS Rules made under
+Section
+                          9(1)(a)(va)
+of the NDPS Act, then violation of the said Rules would
+                          be punishable under the
+NDPS Act
+. In that situation, Note 4 of the
+                          S.O. 1055 (E) dated 19th October, 2001 would be applicable to
+                          such substances including cough syrup.
+47.    As far as the questions (a) and (b) referred to us by the
+                          learned Single Judge are concerned, the same are squarely
+                          covered by the judgment of the Hon'ble Supreme Court in
+Hira
+                          Singh
+(supra) wherein the Hon'ble Supreme Court was disposing
+                          of a reference as well as a challenge to the validity of notification
+                          bearing no. S.O. 2941(E) dated 18.11.2009, adding 'Note 4' to the
+                          notification bearing no. S.O. 1055(E) dated 19.10.2001.
+The
+Signature Not Verified    BAIL APPLN. 1136/2021                                     Page 34 of 36
+Digitally Signed
+By:ANITA BAITAL
+Signing Date:16.09.2022
+11:05:37
+Hon'ble Supreme Court in
+Hira Singh
+(supra) has clearly held as
+                          under:
+"12.2. In case of seizure of mixture of narcotic drugs
+                                   or psychotropic substances with one or more neutral
+                                   substance(s), the quantity of neutral substance(s) is
+                                   not to be excluded and to be taken into consideration
+                                   along with actual content by weight of the offending
+                                   drug, while determining the "small or commercial
+                                   quantity" of the narcotic drugs or psychotropic
+                                   substances."
+48.    In view of the aforesaid decision, the questions (a) and (b)
+                          referred to us are answered as follows:
+Question - "(a) whether in cases specifically related to
+                          manufactured drug with a miniscule percentage of a narcotic
+                          substance, the weight of the neutral substance ought to be ignored
+                          while determining the nature of the quantity seized i.e. small,
+                          commercial or in between?"
+Ans: If the contraband seized falls within the provisions of
+NDPS Act
+, the weight of the neutral substance would not be ignored
+                          while determining the nature of the quantity seized, whether small
+                          quantity, commercial quantity or in between.
+Question - "(b) whether Note 4 of the S.O. 1055 (E) dated
+                          19th October, 2001 published in the Gazette of India, Extra., Pt.II,
+                          Sec3 (ii) dated 19th October 2001, as amended on 18.11.2009,
+                          should be held inapplicable to manufactured drug which contain a
+                          miniscule percentage of a narcotic drug?"
+Ans: If the alleged contraband seized falls within the definition
+                          of „manufactured drug‟ under
+Section 2(xi)
+of the NDPS Act, then the
+Signature Not Verified    BAIL APPLN. 1136/2021                                      Page 35 of 36
+Digitally Signed
+By:ANITA BAITAL
+Signing Date:16.09.2022
+11:05:37
+entire notification including the aforesaid „Note 4‟ will be applicable.
+49.    Having answered the questions referred to us, this matter may
+                          be placed before the appropriate bench for considering the question of
+                          grant of bail.
+AMIT SHARMA
+                                                                                      JUDGE
+
+
+
+                                                                       SIDDHARTH MRIDUL
+                                                                                  JUDGE
+                          September 16th, 2022/hb
+Signature Not Verified    BAIL APPLN. 1136/2021                                       Page 36 of 36
+Digitally Signed
+By:ANITA BAITAL
+Signing Date:16.09.2022
+11:05:37

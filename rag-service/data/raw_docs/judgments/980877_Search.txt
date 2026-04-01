@@ -1,0 +1,3118 @@
+Title: Search
+Court: High Court
+Date: 68 and 1968
+Citation: Citation not found
+Source: https://indiankanoon.org/doc/980877/
+
+[Cites
+18
+, Cited by
+0
+]
+Delhi High Court
+Commissioner Of Income Tax vs J K Synthetics Limited on 17 December, 2008
+Author:
+Rajiv Shakdher
+Bench:
+Badar Durrez Ahmed
+,
+Rajiv Shakdher
++*            THE HIGH COURT OF DELHI AT NEW DELHI
+
+                            Judgment reserved on : 28.08.2008
+%                            Judgment delivered on : 17.12.2008
+
++                        ITR 139/1988 AND ITR NO. 202/1989
+
+COMMISSIONER OF INCOME TAX                            ..... APPELLANT
+
+                                   versus
+
+J K SYNTHETICS LIMITED                             .......RESPONDENT
+
+Advocates who appeared in this case:
+For the Appellant         :     Ms Prem Lata Bansal, Advocate
+For the Respondent        :     Mr P N Monga and Mr Manu Monga,
+Advocates
+
+CORAM :-
+HON'BLE MR JUSTICE BADAR DURREZ AHMED
+HON'BLE MR JUSTICE RAJIV SHAKDHER
+1.     Whether the Reporters of local papers may
+       be allowed to see the judgment ?               Yes
+2.     To be referred to Reporters or not ?           Yes
+3.     Whether the judgment should be reported
+       in the Digest ?                                Yes
+
+RAJIV SHAKDHER, J
+
+1.     These references have been made at the instance of the Revenue
+
+under
+Section 256(1)
+of the Income Tax Act, 1961 (hereinafter referred
+
+to as the „Act‟). A Division Bench of this court, by an order dated
+
+7.1.2008 passed in ITR No. 139/1988 and an order dated 19.5.2008
+
+passed in ITR No. 202/1989, framed the following questions of law,
+
+respectively:-
+
+        ITR No. 139/1988
+        "Whether the ITAT was correct in law and on facts in
+        holding that the third Instalment of know how fee as also
+
+ITR 139-88 & 202/89                                                 Page 1 of 65
+         interest paid thereon for belated payment was allowable
+        as revenue expenditure?"
+        ITR No. 202/1989
+        "Whether on the facts and in the circumstances of the
+        case and having regard to the agreements that the
+        Assessee company entered into with the Italian and West
+        German companies, the payments made of              Rs
+        30,57,499 to M/s Technimont and Rs 3,48,033 to M/s
+        IWKA, West Germany was allowable as revenue
+        expenditure and not as capital expenditure?"
+2.     The issues involved in the two references are inter-related as they
+
+pertain to the same Licence and Technical Assistance Agreement (in short
+
+„the agreement‟) which would be evident shortly, from the facts detailed
+
+out hereinafter. The questions of law on which our opinion is sought, are
+
+ubiquitous and perennial in nature, in as much as, whether an expenditure
+
+undertaken by an assessee would be in the nature of capital or revenue
+
+expenditure, having regard to the provisions of
+Section 37
+of the Act.
+
+There is, undoubtedly a plethora of judgments, both of the Supreme Court
+
+and of various High Courts on this aspect of the matter. The difficulty
+
+which is encountered often, is to slot the facts of a particular case to the
+
+law and the principles enunciated by Courts in the country. Fortunately, in
+
+this particular case, there has been no submission made by the learned
+
+counsel for the parties as to any perversity in the findings recorded by the
+
+authorities below. The counsel who appeared before us i.e, Ms Prem Lata
+
+Bansal for the Revenue and Mr P N Monga for the assessee, laid stress on
+
+what, according to them, ought to have followed logically upon
+
+
+
+
+ITR 139-88 & 202/89                                                  Page 2 of 65
+ appreciation of the facts on record, as also from, reading of various clauses
+
+of the agreement to which, reference is made.
+
+3.     In this context it would, therefore, be necessary to first record the
+
+facts as found by the authorities below:-
+
+4.     On 29.04.1974, the assessee entered into an agreement with one,
+
+M/s Technimont, Italy for manufacture of Acrylic Fibre. The assessee
+
+also entered into another agreement with one, M/s IWKA, a West German
+
+entity. The date of agreement with M/s IWKA is not set out either in the
+
+statement of case or in the orders of the authorities below. It is important
+
+to note that the agreement with M/s Technimont referred to another
+
+company by the name of Montefibre which, in turn, was a successor of
+
+one, M/s Chatillon. M/s Montefibre as per the agreement, was the owner
+
+of knowhow and patent rights for the design, erection, operation and
+
+production of Acrylic fibre. Importantly, M/s Technimont which had a
+
+licence for use of know-how of patent rights owned by Montefibre had the
+
+right to sub-license the same to other parties. It is in this contextual
+
+background that an agreement was entered into between M/s Technimont
+
+and the assessee.
+
+5.     Under the agreement, the assessee was required to pay a total
+
+sum of 623 million           Italian   Liras which, at the relevant time,
+
+amounted to           Rs 54,54,794/- in consideration for the use of know-how,
+
+basic design engineering and technical assistance. The point to be noted is
+
+that, the total amount of 623 million Italian Liras or the equivalent i.e,
+
+
+ITR 139-88 & 202/89                                                     Page 3 of 65
+ Rs 54,54,794/- was paid by the assessee for three different aspects of the
+
+same transaction. This basic fact emerges, as noted by the authorities
+
+below, from a reading of
+Article 9
+of the agreement.
+
+              "9.1 The fees to be paid by JK to TEC for the use of
+              the KNOW HOW in India, basic design engineering and
+              technical assistance provided for herein is 623 (six
+              hundred and twenty three) million Italian Liras
+              consisting of:
+           a) 186,500,000 : one hundred eighty six million five
+              hundred thousand) Italian Lira for the grant of the
+              process and know-how licence under
+Article 2;
+b) 250,000,000 (two hundred and fifty million) Italian lira
+              for the supply of the know-how and basic design
+              engineering as referred to in
+Article 3;
+c) 186,500,000 (one hundred eighty six million five
+              hundred thousand Italian lira for the supply of technical
+              assistance and continuous know-how in Italy, including
+              training of JK‟s personnel in Italy, as referred to in
+Article 5.
+The amounts indicated under (a)/(b) and (c) are firm and
+              not subject to escalation."
+
+6.     Out of a total consideration of 623 million liras, the assessee on its
+
+own treated a sum of 250 million liras expended towards supply of basic
+
+design engineering of the plant as capital expenditure, while the remaining
+
+373 million liras which, at the relevant point of time was equivalent to
+
+Rs 30,57,499, spent on grant of process and know-how licence, and for
+
+supply of technical assistance and, continuous know-how including
+
+training of company‟s personnel, in Italy, as revenue expenditure. In
+
+short, two identical sums of money amounting to 186.5 million liras each,
+
+amounting in all to 373 million liras, towards grant of process and know-
+
+how licence, as well as, technical assistance and continuous know-how, in
+
+Italy, including training of company‟s personnel, in Italy was, claimed by
+
+ITR 139-88 & 202/89                                                       Page 4 of 65
+ the assessee, as revenue expenditure, in its return for, assessment year
+
+1976-77.
+
+7.     The Assessing Officer disallowed the claim made by the assessee
+
+and treated the sum of Rs 30,57,499/- to be paid to M/s Technimont and
+
+Rs 3,48,003 to IWKA, as capital expenditure, broadly, on the following
+
+grounds:-
+
+  (i) even though the erection of the Acrylic plant, in respect of which an
+
+       agreement had been entered into with M/s Technimont had
+
+       commenced in 1975, it had not been completed, therefore, the
+
+       business of Acrylic division had not come into existence;
+
+  (ii) in view of the above, no distinction could have been drawn by the
+
+       assessee in respect of liability incurred under the agreement with
+
+       M/s Technimont, towards basic engineering design, which was
+
+       capitalized, and that which was incurred towards acquisition of grant
+
+       of process and know-how licence, and for supply of technical
+
+       assistance and continuous know-how, as well as, towards training of
+
+       assessee‟s personnel, in Italy;
+
+  (iii) the entire expenditure had been incurred for setting up of the plant
+
+       which had not commenced production and hence, had to be treated
+
+       as capital expenditure;
+
+  (iv) the expenditure in issue also fulfilled the test of enduring benefit, in
+
+       as much as, the expenditure incurred for acquisition of „process
+
+       know-how‟ and „technical expertise‟ of personnel who would look
+
+
+ITR 139-88 & 202/89                                                     Page 5 of 65
+        after the Acrylic fibre division once it commenced manufacture will
+
+       result in enduring benefit to the assessee and hence, result in an
+
+       acquisition of an asset;
+
+  (v) the process/know-how involved certain secret formula which came
+
+       into the possession of the assessee; thus the expenditure in issue
+
+       being an integral part of setting up of the Acrylic fibre division will
+
+       result in an acquisition of a benefit of a permanent nature to the
+
+       assessee; and
+
+  (vi) technical assistance and training at this stage of setting up of the
+
+       Acrylic fibre division was distinct from an exchange, training or
+
+       refresher course which is normally attended by the employees for
+
+       updating their knowledge. It is a case of permanently acquiring a
+
+       technique, which will, result in setting up the plant and using it in
+
+       future.
+
+8.     On the same basis, the Assessing Officer also disallowed the
+
+treatment by the assessee as revenue expenditure, the sum of Rs 3,48,033/-
+
+incurred for manufacture of machines under the agreement entered into
+
+with M/s IWKA.
+
+9.     Pertinently, the Assessing Officer also disallowed depreciation and
+
+rebate on the sum of Rs 30,57,499/- incurred in connection with the grant
+
+of process, know-how and technical assistance with respect to the
+
+Agreement entered into with M/s Technimont. However, depreciation
+
+
+
+
+ITR 139-88 & 202/89                                                    Page 6 of 65
+ was allowed on Rs 3,48,033/- incurred in connection with the Agreement
+
+entered into with M/s IWKA.
+
+10.    The assessee being aggrieved, filed an appeal             with the
+
+Commissioner of Income Tax (Appeals) [hereinafter referred to as the
+
+„CIT(A)‟]. The CIT(A) based on the material placed on record, and upon
+
+perusal of the judgments cited before him, examined the nature of the
+
+expenditure in the background of the following question posed by him,
+
+which according to him arose for determination.          According to the
+
+CIT(A), in our opinion rightly, the basic issue which arose for
+
+determination was whether the payments made by the assessee were for
+
+acquisition of an asset or, for a use of technical knowledge and
+
+information for running the business during the period of the Agreement
+
+and for a mere user of patents and trademark. If, what had been acquired
+
+under the Agreement by the assessee, was merely a licence for use of
+
+technical knowledge of the foreign collaborator, the payment would not
+
+bring into existence an asset of an enduring nature and, therefore, ought to
+
+be regarded as an expenditure incurred by the assessee for the purposes of
+
+running the business during the period of the Agreement.
+
+10.1 In the background of the aforesaid poser, the CIT(A) found the
+
+       following facts:-
+
+       (i)    the ownership of the technical know-how vested with
+
+              M/s Montefibre. M/s Technimont with whom the assessee
+
+
+
+
+ITR 139-88 & 202/89                                                  Page 7 of 65
+               had entered into an agreement, had only a right to licence the
+
+              said know-how and patent rights;
+
+       (ii)   the assessee had not acquired any exclusive rights. It had on
+
+              the contrary acquired a „non exclusive‟ and a „non-
+
+              transferable‟ licence to use the process.
+
+       (iii) under
+Article 8
+of the Agreement, the assessee could not use
+
+              the process or know-how supplied by M/s Technimont for
+
+              construction of any new plant either in India or in any other
+
+              country. The assessee was, as a matter of fact prohibited from
+
+              using the process for setting up or expansion of a new plant
+
+              without the say of M/s Technimont. As a matter of fact, under
+Article 15
+, the assessee could not use the process and know-
+
+              how for any other purpose except to the extent permitted by
+
+              M/s Technimont under
+Article 8
+of the Agreement;
+
+       (iv) the assessee was required to keep the „process and know-how‟
+
+              secret and confidential. The assessee was prohibited from
+
+              revealing the process to a third party without the prior consent
+
+              of M/s Technimont;
+
+       (v)    the assessee was bound under
+Article 15.4
+in respect of
+
+              obligations undertaken, for a period of 12 years;
+
+       (vi) M/s Technimont was required to provide technical assistance
+
+              for a period of 7 years; and
+
+
+
+
+ITR 139-88 & 202/89                                                    Page 8 of 65
+        (vi) technical assistance which was provided by M/s Technimont
+
+              for the purposes of construction and setting up of the plant
+
+              was not only paid separately as per
+Articles 5.1
+, 5.2
+, 5.3
+, 5.5
+,
+
+              5.5.1(a) and 5.5.2(2) but was also capitalized alongwith the
+
+              payments for basic design engineering. The only item which
+
+              the assessee claimed as revenue, related to technical
+
+              assistance for training of its personnel and, in connection
+
+              with the day to day running of the plant for the period
+
+              provided under the agreement i.e 7 years.
+
+10.2 Based on the aforesaid findings, the CIT (A) reversed the view taken
+
+by the Assessing Officer and allowed the liability incurred as a deductible
+
+expenditure, both, with respect to, M/s Technimont and M/s IWKA by
+
+treating them as revenue expenditure.
+
+11.    Aggrieved by the order of the CIT(A), the matter was carried in
+
+appeal to the Income Tax Appellate Tribunal (hereinafter referred to as the
+
+„Tribunal). The Tribunal sustained the view taken by the CIT(A) with
+
+regard to payments made to M/s Technimont, as well as, M/s IWKA. In
+
+arriving at the said conclusion, the Tribunal based its decision on the
+
+findings and reasons recorded hereinbelow:-
+
+       (i)    M/s Technimont was not the owner of the technical know-
+
+       how.      The technical know-how belonged to another company,
+
+       namely, M/s Montefibre. M/s Montefibre owned both the know-
+
+       how, as well as, patent rights. M/s Technimont had only a right to
+
+
+ITR 139-88 & 202/89                                                    Page 9 of 65
+        licence the said know-how. In other words, M/s Technimont was
+
+       only the licensee of the know-how of patent rights owned by
+
+       Montefibre;
+
+       (ii)   the grant of licence by Montefibre to M/s Technimont was
+
+       „non-exclusive‟, and irrevocable, as well as, permanent which, in
+
+       other words, gave M/s Technimont the right to sub-lease or sub-
+
+       licence the right under its licence to any third party and, in order to,
+
+       enable it to do so, M/s Montefibre had to grant to M/s Technimont a
+
+       licence which was permanent and irrevocable. The assessee had
+
+       acquired the technical know-how for a limited period of 7 years.
+
+       The department's submission that the assessee had acquired
+
+       know-how for unlimited period was factually incorrect;
+
+       (iii) the assessee under the Agreement had acquired only an access
+
+       to information. The assessee had, in fact, acquired know-how which
+
+       was related to process of manufacture and no trade name or
+
+       trademark had been acquired by the assessee; and
+
+       (iv) the payments under the Agreement were made by the assessee
+
+       for the purposes of acquiring technical knowledge to erect a factory
+
+       and thereafter to operate and train the personnel of the assessee; and
+
+       hence, are payments, which cannot be categorized as those resulting
+
+       in an enduring advantage.
+
+11.1 Importantly, on the aspect whether payments related to a new
+
+business or an existing business; it noted that the CIT(A) had pointed out
+
+
+ITR 139-88 & 202/89                                                    Page 10 of 65
+ that the payments are to be regarded as payment for extension of existing
+
+business, and that the departmental representative had fairly conceded this
+
+point, resultantly, no arguments were addressed on the said issue.
+
+Pertinently, it returned a finding of fact that the records demonstrated, that
+
+the products, were already being manufactured by the assessee, and hence,
+
+the payments made by the assessee to increase its profitability by applying
+
+a new method of manufacture or process of manufacture could not be said
+
+to be on capital account.
+
+12.    Aggrieved by the aforesaid judgment of the Tribunal, the
+
+Commissioner of Income Tax filed an application before the Tribunal
+
+under
+Section 256(2)
+of the Act for referring questions of law to this
+
+Court. This application was allowed and the above-mentioned questions
+
+were referred to us.
+
+13.    In support of the case of the Revenue, Ms Prem Lata Bansal,
+
+Advocate has submitted that a holistic reading of the Agreement would
+
+show that the entire transaction which, even though divided into three
+
+segments, is a composite whole and is inseparable. It is submitted by the
+
+learned counsel for the Revenue, that it is inexplicable in the facts of this
+
+case that if, expenditure incurred by the assessee towards basic design
+
+engineering for setting up of the plant is treated by the assessee as capital
+
+in nature then, how is that, the remaining part of the expenditure towards
+
+acquisition of process know-how and training of personnel is treated as
+
+revenue.      The learned counsel for the Revenue has buttressed her
+
+
+ITR 139-88 & 202/89                                                   Page 11 of 65
+ submissions by laying stress on the fact that what has been acquired by the
+
+assessee is know-how which is unlimited in span of time and, is
+
+„permanent‟ and irrevocable in nature. She submits, in that sense, the
+
+impugned expenditure both, in respect of, M/s Technimont and M/s
+
+IWKA has resulted in a benefit of an enduring nature and hence, was
+
+required to be treated as capital expenditure and not as revenue
+
+expenditure as claimed by the assessee.
+
+13.1 She also submitted that what the assessee was manufacturing was an
+
+entirely new product. In support of her submissions Ms Prem Lata Bansal,
+
+the learned counsel for the Revenue cited the following authorities:-
+
+       (i)    Assam Bengal Cement Co Ltd vs CIT: (1955) 27 ITR 34
+              (SC)
+       (ii). Scientific Engineering House (P) Ltd vs CIT: (1986) 157
+             ITR 86 (SC)
+       (iii). CIT vs Warner Hindustan Limited: (1986) 160 ITR 217
+              (AP)
+       (iv). Jonas Woodhead & Sons (India) Ltd vs CIT: (1997) 224
+             ITR 342 (SC)
+       (v). CIT vs Southern Structurals Ltd: (1977) 110 ITR 890 (Mad)
+       (vi). Ram Kumar Pharmaceutical Works vs CIT: (1979) 119 ITR
+             33 (All)
+       (vii). CIT vs. Toshniwal Electrodes Manufacturing Co Ltd:
+              (1991) 192 ITR 209 (Bom)
+       (viii). CIT vs Polyformalin (P) Ltd (1986) 161 ITR 36 (Ker)
+14.    As against this, the learned counsel for the assessee has basically
+
+relied upon the findings returned by the CIT(A) and the Tribunal. It is the
+
+contention of Mr P N Monga, Advocate that, what the assessee had
+
+ITR 139-88 & 202/89                                                  Page 12 of 65
+ acquired, in the instant case, was only a licence for use of process and
+
+know-how. The payments made by the assessee did not result in an
+
+acquisition of either an asset or a benefit of an enduring nature. It was
+
+contended by the learned counsel for the assessee that the liability towards
+
+the said expenditure was incurred for the expansion of the assessee‟s
+
+business. He contended that the assessee was already in the same line of
+
+business as it had been manufacturing synthetic fiber since 1962.
+
+According to the learned counsel for the assessee, no new business had
+
+been set up by him as found by the authorities below. The liability
+
+towards the impugned expenditure was incurred by the assessee to run its
+
+business in a more efficient manner, so as to, enhance its profitability. Mr
+
+P N Monga, also contended, that this was also true of the expenditure
+
+incurred towards training of employees by M/s Technimont. In support of
+
+his submission, Mr P N Monga, Advocate relied upon the following
+
+judgments:-
+
+      (i).    CIT vs Ciba of India Ltd.: (1968) 69 ITR 692 (SC)
+      (ii).   Mysore Kirloskar Ltd vs CIT : (1978) 114 ITR 443 (Kar)
+      (iii). CIT vs Tata Engineering & Locomotive Co Pvt Ltd : (1980)
+             123 ITR 538 (AP)
+      (iv). Praga Tools Ltd vs. CIT: (1980) 123 ITR 773 (AP)
+      (v).    Hylam Ltd vs CIT: (1973) 87 ITR 310 (AP)
+      (vi). CIT vs SLM Maneklal: (1977) 101 ITR 133
+      (vii). CIT vs IAEC Pumps Ltd: (1998) 232 ITR 316 (SC)
+      (viii). CIT vs Eicher Motors Ltd: (2007) 293 ITR 464 (MP)
+
+
+
+ITR 139-88 & 202/89                                                 Page 13 of 65
+       (ix). Sriram Refrigeration Industries Ltd vs. CIT: (1981) 127 ITR
+            746 (Del)
+      (x).    CIT vs Mihir Textiles: (2006) 287 ITR 232 (Guj.)
+      (xi). Sriram Pistons & Rings Ltd vs CIT: (2008) 177 Texmann
+              81
+      (xii). Bajaj Tempo Ltd vs CIT: (1994) 207 ITR 1017 (Bom)
+      (xiii). CIT vs MRF: (1983) 144 ITR 678 (Mad)
+      (xiv). CIT vs Aquapump Industries: (1996) 218 ITR 427 (Mad)
+
+
+15.    Having heard the learned counsel for both, the Revenue, as well as,
+
+the assessee and perused the records, we are of the view that the references
+
+deserve to be answered in favour of the assessee, for the reasons given
+
+hereinafter:-
+
+
+DISCUSSION OF SUPREME COURT CASES CITED BEFORE US
+
+16.    Assam Bengal Cement Co Ltd v. Commissioner of Income Tax,
+
+West Bengal, (1955) 27 ITR 34: In this case, the assessee acquired
+
+from the Government of Assam, for the purpose of carrying on the
+
+manufacture of cement, a lease of lime stone quarries for a period of 20
+
+years in consideration of payment of yearly rents and royalties. The
+
+assessee, in addition to rents and royalties, agreed to pay two further
+
+sums under the covenants contained in clauses 4 & 5 of the lease in
+
+issue as „protection fee‟. The „protection fee‟ was paid in lieu of lessor
+
+giving an undertaking not to grant lease, permit or a prospecting licence
+
+with regard to lime stone to any other party without a condition that no
+
+
+ITR 139-88 & 202/89                                                  Page 14 of 65
+ limestone could be used for the manufacture of cement. In this context,
+
+the Supreme Court, after considering a bevy of authorities, affirmed the
+
+principles enunciated by the full Bench of the Lahore High Court in
+
+Benarsidas Jagannath in Re: (1947) 15 ITR 185. The Supreme Court
+
+encapsulated the essence of the judgement of the Full Bench of the
+
+Lahore High Court in its observations made at page 45 to 47. These
+
+being apposite are extracted hereinbelow:-
+
+
+              ".....This synthesis attempted by the Full Bench of
+              the Lahore High Court truly enunciates the
+              principles which emerge from the authorities. In
+              cases where the expenditure is made for the initial
+              outlay or for extension of a business or a substantial
+              replacement of the equipment, there is no doubt that
+              it is capital expenditure. A capital asset of the
+              business is either acquired or extended or
+              substantially replaced and that outlay whatever be its
+              source whether it is drawn from the capital or the
+              income of the concern is certainly in the nature of
+              capital expenditure. The question however arises for
+              consideration where expenditure is incurred while
+              the business is going on and is not incurred either for
+              extension of the business of for the substantial
+              replacement of its equipment. Such expenditure can
+              be looked at either from the point of view of what is
+              acquired or from the point of view of what is the
+              source from which the expenditure is incurred. If the
+              expenditure is made for acquiring or bringing into
+              existence an asset or advantage for the enduring
+              benefit of the business it is properly attributable to
+              capital and is of the nature of capital expenditure. If
+              on the other hand it is made not for the purpose of
+              bringing into existence any such asset of advantage
+              but for running the business or working it with a view
+              to produce the profits it is a revenue expenditure. If
+              any such asset or advantage for the enduring benefit
+              of the business is thus acquired or brought into
+              existence it would be immaterial whether the source
+              of the payment was the capital or the income of the
+
+ITR 139-88 & 202/89                                                     Page 15 of 65
+               concern or whether the payment was made once and
+              for all or was made periodically. The aim and object
+              of the expenditure would determine the character of
+              the expenditure whether it is a capital expenditure or
+              revenue expenditure. The source or the manner of
+              the payment would then be of no consequence. It is
+              only in those cases where this test is of no avail that
+              one may go to the test of fixed or circulating capital
+              and consider whether the expenditure incurred was
+              part of the fixed capital of the business or part of its
+              circulating capital. It is was part of the fixed capital
+              of the business it would be of the nature of capital
+              expenditure and if it was part of its circulating capital
+              it would be of the nature of revenue expenditure.
+              These tests are thus mutually exclusive and have to
+              be applied to the facts of each particular case in the
+              manner above indicated. It has been rightly observed
+              that in the great diversity of human affairs and the
+              complicated nature of business operations it is
+              difficult to lay down a test which would apply to all
+              situations. One has therefore got to apply these
+              criteria, one after the other from the business point of
+              view and come to the conclusion whether on a fair
+              appreciation of the whole situation the expenditure
+              incurred in a particular case is of the nature of
+              capital expenditure or revenue expenditure in which
+              latter event only it would be a deductable allowance
+              under
+section 10(2)(xv)
+of the Income-tax Act. The
+              question has all along been considered to be a
+              question of fact to be determined by the Income-tax
+              authorities on an application of the broad principles
+              laid down above and the courts of law would not
+              ordinarily interfere with such findings of fact if they
+              have been arrived at on a proper application of those
+              principles......
+
+              The expression "once and for all" used by Lord
+              Dunedin has created some difficulty and it has been
+              contended that where the payment is not in a lump
+              sum but in instalments it cannot satisfy the test.
+              Whether a payment be in a lump sum or by
+              instalments, what has got to be looked to is the
+              character of the payment. A lump sum payment can
+              as well be made for liquidating certain recurring
+              claims which are clearly of a revenue nature, and on
+              the other hand payment for purchasing a concern
+
+ITR 139-88 & 202/89                                                       Page 16 of 65
+               which is prima facie an expenditure of a capital
+              nature may as well be spread over a number of years
+              and yet retain its character as a capital expenditure.
+              (Per Mukherjea, J., in Commissioner of Income-tax
+              v. Piggot Chapman & Co. ([1949] 17 I.T.R. 317,
+              329)). The character of the payment can be
+              determined by looking at what is the true nature of
+              the asset which has been acquired and not by the fact
+              whether it is a payment in a lump sum or by
+              instalments. As was otherwise put by Lord Greene,
+              M.R., in Henriksen (Inspector of Taxes) v. Grafton
+              Hotel Ltd. ([1942] 2 K.B. 184) :
+
+              "The thing that is paid for is for a permanent quality
+              although its permanence, being conditioned by the
+              length of the term, is shortlived. A payment of this
+              character appears to me to fall into the same class as
+              the payment of a premium on the grant of a lease,
+              which is admittedly not deductible".
+
+              The case of Tata Hydro-Electric Agencies Ltd.,
+              Bombay v. Commissioner of Income-tax, Bombay
+              Presidency and Aden ((1937) L.R. 64 I.A. 215) affords
+              another illustration of this principle. It was observed
+              there :-
+
+              "If the purchaser of a business undertakes to the
+              vendor as one of the terms of the purchase that he will
+              pay a sum annually to a third party, irrespective of
+              whether the business yields any profits or not, it would
+              be difficult to say that the annual payments were made
+              solely for the purpose of earning the profits of the
+              business."
+
+              The expression "once and for all" is used to denote an
+              expenditure which is made once and for all for
+              procuring an enduring benefit to the business as
+              distinguished from a recurring expenditure in the
+              nature of operational expenses.
+
+              The expression "enduring benefit" also has been
+              judicially interpreted. Romer, L.J., in Anglo-Persian
+              Oil Company, Limited v. Dale ([1932] 1 K.B. 124,
+              146) agreed with Rowlatt, J. that by enduring benefit is
+              meant enduring in the way that fixed capital endures :
+
+
+
+ITR 139-88 & 202/89                                                      Page 17 of 65
+               "An expenditure on acquiring floating capital is not
+              made with a view to acquiring an enduring asset. It is
+              made with a view to acquiring an asset that may be
+              turned over in the course of trade at a comparatively
+              early date."
+
+              Latham, C.J., observed in Sun Newspapers Ltd. &
+              Associated Newspapers Ltd. v. Federal Commissioner
+              of Taxation ((1938) 61 C.L.R. 337, 355) :
+
+              "When the words 'permanent' or 'enduring' are used in
+              this connection it is not meant that the advantage
+              which will be obtained will last for ever. The
+              distinction which is drawn is that between more or less
+              recurrent expenses involved in running a business and
+              an expenditure for the benefit of the business as a
+              whole"...... e.g. ...... - "enlargement of the goodwill of a
+              company." - "permanent improvement in the material
+              or immaterial assets of the concern."
+
+              To the same effect are the observations of Lord
+              Greene, M. R. in Henriksen (H. M. Inspector of Taxes)
+              v. Grafton Hotel Ltd. ((1942) 24 T. C. 453) above
+              referred to.
+
+              These are the principles which have to be applied in
+              order to determine whether in the present case the
+              expenditure incurred by the company was capital
+              expenditure or revenue expenditure. Under clause 4 of
+              the deed the lessors undertook not to grant any lease,
+              permit or prospecting licence regarding limestone to
+              any other party in respect of the group of quarries
+              called the Durgasil area without a condition therein
+              that no limestone shall be used for the manufacture
+              of cement. The consideration of Rs. 5,000 per annum
+              was to be paid by the company to the lessor during
+              the whole period of the lease and this advantage or
+              benefit was to endure for the whole period of the
+              lease. It was an enduring benefit for the benefit of the
+              whole of the business of the company and came well
+              within the test laid down by Viscount Cave. It was not
+              a lump sum payment but was spread over the whole
+              period of the lease and it could be urged that it was
+              recurring payment. The fact however that it was a
+              recurring payment was immaterial, because one had
+              got to look to the nature of the payment which in its
+
+
+ITR 139-88 & 202/89                                                          Page 18 of 65
+               turn was determined by the nature of the asset which
+              the company had acquire. The asset which the
+              company had acquired in consideration of this
+              recurring payment was in the nature of a capital
+              asset, the right to carry on its business unfettered by
+              any competition from outsiders within the area. It
+              was a protection acquired by the company for its
+              business as a whole. It was not a part of the working
+              of the business but went to appreciate the whole of
+              the capital asset and make it more profit yielding. The
+              expenditure made by the company in acquiring this
+              advantage which was certainly an enduring advantage
+              was thus of the nature of capital expenditure and was
+              not an allowable deduction under
+section 10(2)(xv)
+of
+              the Income-tax Act."
+
+16.1 While applying the aforesaid principle to the facts of the case
+
+being considered by us, one will have to keep in mind the nature of the
+
+asset acquired and the resultant benefit acquired by virtue of the
+
+payment. A close scrutiny would show it is distinguishable from the
+
+facts of the present case. In Assam Bengal Cement Co Ltd (supra),
+
+payments were made as „protection fee‟ in terms of clauses 4 and 5 of
+
+the lease agreement, whereby the lessor had undertaken not to grant any
+
+lease, permit or prospecting licence regarding lime stone to any other
+
+party in respect of certain quarries without the condition, that the
+
+limestone would not be used for manufacture of the cement within the
+
+assessee‟s area. The „protection fee‟ even though paid annually enured
+
+to the benefit of the assessee for whole period of the lease. It is in this
+
+context the Court came to the conclusion that it was an enduring benefit,
+
+for the benefit of the whole business of the company, and came, well
+
+within the test laid down by Viscount Cave. The fact that „protection
+
+
+ITR 139-88 & 202/89                                                     Page 19 of 65
+ fee‟ was not a lump sum payment but a recurring payment was
+
+immaterial because one had to look at the nature of the payment which,
+
+in turn, was determined by the nature of the asset which the assessee
+
+had acquired.         The assets which the assessee had acquired in
+
+consideration of this recurring payment was in the nature of a capital
+
+asset i.e. a right to carry on its business unfettered by any competition
+
+from outsiders within the area. It was a protection acquired by the
+
+company for its business as a whole. It was not a part of the working of
+
+the business but went on to appreciate the whole of the capital asset and
+
+make it more profit yielding.      The Court thus concluded that the
+
+expenditure incurred by the assessee in acquiring this advantage was
+
+certainly an enduring advantage and hence, in the nature of capital
+
+expenditure.
+
+17.    Commissioner of Income-Tax, Bombay City I v. CIBA of India
+
+Ltd (1968) 69 ITR 692.        In this case, the assessee was an Indian
+
+subsidiary of a Swiss Company. The assessee was engaged in the
+
+development, manufacture and sale of medical and pharmaceuticals
+
+preparations. The parent Swiss company entered into an agreement
+
+with the assessee which, inter alia provided, that in consideration of
+
+payment in the form of technical and research contribution for the use of
+
+its Indian patent and trade marks, it would obtain, scientific and
+
+technical assistance. Under the agreement, the assessee was prohibited
+
+from divulging to a third party without the Swiss company‟s consent,
+
+ITR 139-88 & 202/89                                                 Page 20 of 65
+ any confidential information received under the agreement, in particular,
+
+data connected with the manufacturing process. The Swiss company,
+
+under the agreement, granted to the assessee full and sole right and a
+
+licence in the territory of India, in respect of, the patents listed in the
+
+Schedule accompanying the agreement, so as to enable the assessee to
+
+make use of, exercise rights, and vend the inventions referred to therein,
+
+as also, the use of trade mark set out in the second schedule
+
+accompanying the agreement, in the territory of India. By virtue of
+
+clause 3, the sole right of the assessee under the Swiss company‟s
+
+Indian patent was limited to existing licences granted by the Swiss
+
+company to third parties. Furthermore, a right was also reserved in
+
+favour of the Swiss company to conclude other licence agreements with
+
+third parties. In consideration of this, the assessee was to pay half
+
+yearly, a certain percentage of the contributions of the total of the net
+
+sale price of all the pharmaceutical products manufactured and/or sold
+
+by the assessee. In the background of these broad facts, Mr Justice J.C.
+
+Shah (as he then was) speaking for the court made the following crucial
+
+observations on page 701:-
+
+
+              "....In the case in hand it cannot be said that the
+              Swiss Company had wholly parted with its Indian
+              business. There was also no attempt to part with the
+              technical knowledge absolutely in favour of the
+              assessee.
+              The following facts which emerge from the
+              agreement clearly show that the secret processes
+              were not sold by the Swiss Company to the assessee:
+              (a) the licence was for a period of five years, liable to
+
+ITR 139-88 & 202/89                                                       Page 21 of 65
+               be terminated in certain eventualities even before the
+              expiry of the period; (b) the object of the agreement
+              was to obtain the benefit of the technical assistance
+              for running the business; (c) the licence was granted
+              to the assessee subject to rights actually granted or
+              which may be granted after the date of the
+              agreement to other persons; (d) the assessee was
+              expressly prohibited from divulging confidential
+              information to third parties without the consent of
+              the Swiss Company; (e) there was no transfer of the
+              fruits of research once for all: the Swiss Company
+              which was continuously carrying on research and
+              had agreed to make it available to the assessee; and
+              (f) the stipulated payment was recurrent dependent
+              upon the sales, and only for the period of the
+              agreement. We agree with the High Court that the
+              first question was rightly answered in favour of the
+              assessee."
+18.    In Empire Jute Co Ltd v. Commissioner of Income Tax; (1980)
+
+124 ITR 1, the facts briefly were that the assessee was engaged in the
+
+business of manufacture of jute. The assessee was the member of the
+
+Jute Mills Association which was formed with the object of, inter alia,
+
+protecting the trade of its members, by regulating the production of the
+
+mills, run by its members. In pursuance thereto, the members had
+
+entered into a working time agreement, whereby the number of working
+
+hours per week for which the mills were entitled to work their „looms‟
+
+was restricted. In this background, the assessee had purchased „looms
+
+hours‟ from four other mills. The issue which arose for consideration of
+
+the court was whether the money expended by the assessee for purchase
+
+of "loom hours" was revenue or capital expenditure. The observations
+
+of the Supreme Court being apposite are extracted hereinafter:-
+
+
+
+
+ITR 139-88 & 202/89                                                    Page 22 of 65
+        ".....The Revenue, however, contended that by purchase of
+       loom hours the assessee acquired a right to produce more
+       than what it otherwise would have been entitled to do and
+       this right to produce additional quantity of goods constituted
+       addition to or augmentation of its profit making structure.
+       The assessee acquired the right to produce a larger quantity
+       of goods and to earn more income and this, according to the
+       Revenue, amounted to acquisition of a source of profit or
+       income which though intangible was never-the-less a source
+       or "spinner" of income and the amount spent on purchase of
+       this source of profit or income, therefore, represented
+       expenditure of capital nature. Now it is true that if
+       disbursement is made for acquisition of a source of profit
+       or income, it would ordinarily, in the absence of any other
+       countervailing circumstances, be in the nature of capital
+       expenditure. But we fail to see how it can at all be said in
+       the present case that the assessee acquired a source of profit
+       or income when it purchased loom hours. The source of
+       profit or income was the profit making apparatus and this
+       remained untouched and unaltered. There was no
+       enlargement of the permanent structure of which the income
+       would be the produce or fruit. What the assessee acquired
+       was merely an advantage in the nature of relaxation of
+       restriction on working hours imposed by the working time
+       agreement, so that the assessee could operate its profit-
+       earning structure for a longer number of hours.
+       Undoubtedly, the profit earning structure of the assessee
+       was enabled to produce more goods, but that was not
+       because of any addition or augmentation in the profit
+       making structure, but because the profit making structure
+       could be operated for longer working hours. The
+       expenditure incurred for this purpose was primarily and
+       essentially related to the operation or working of the looms
+       which constituted the profit earning apparatus of the
+       assessee. It was an expenditure for operating or working the
+       looms for longer working hours with a view to producing a
+       larger quantity of goods and earning more income and was,
+       therefore, in the nature of revenue expenditure."
+18.1 The other important observation which the Supreme Court made
+
+in this, was, that there may be cases where the test of enduring benefit
+
+may breakdown even though expenditure incurred may result in
+
+advantage of enduring benefit, the money spent, may still be, on
+
+ITR 139-88 & 202/89                                                     Page 23 of 65
+ revenue account.      The Supreme Court observed that the nature of
+
+advantage had to be viewed in a commercial sense and it was only when
+
+the advantage was in the capital field that the expenditure would be
+
+disallowable on application of the said test. It further went on to say
+
+that if the advantage consists merely in facilitating assessee‟s trading
+
+operation or enabling the management to carry on business more
+
+efficiently and profitably while leaving the fixed asset untouched the
+
+expenditure would be on revenue account even though the advantage
+
+may endure for an indefinite period. The Supreme Court observed that
+
+the test of enduring benefit is, therefore, not a conclusive test and it
+
+cannot be applied blindly and mechanically without regard to the
+
+particular facts and circumstances of a given case. At page 13 of the
+
+said report, the Supreme Court enunciated an important principle by
+
+approving the dictum laid down by Dixon J., Hallstorm's Property Ltd
+
+v. Federal Commissioner of Taxation ( 72 CLR 634), which reads as
+
+follows:-
+
+              "When dealing with cases of this kind where the
+              question is whether expenditure incurred by an
+              assessee is capital or revenue expenditure, it is
+              necessary to bear in mind what Dixon, J. said in
+              Hallstorm's     Property     Limited     v.   Federal
+              Commissioner of Taxation 72 C.L.R. 634 : "What is
+              an outgoing of capital and what is an outgoing on
+              account of revenue depends on what the expenditure
+              is calculated to effect from a practical and business
+              point of view rather than upon the juristic
+              classification of the legal rights, if any, secured,
+              employed or exhausted in the process." The question
+              must be viewed in the larger context of business
+
+ITR 139-88 & 202/89                                                   Page 24 of 65
+               necessity or expediency. If the outgoing expenditure
+              is so related to the carrying on or the conduct of the
+              business that it may be regarded as an integral part of
+              the profit-earning process and not for acquisition of
+              an asset or a right of a permanent character, the
+              possession of which is a condition of the carrying on
+              of the business, the expenditure may be regarded as
+              revenue expenditure...."
+
+
+19.    Scientific Engineering House Pvt Ltd v. CIT, Andhra Pradesh;
+
+(1985) 157 ITR 86. In this case, the assessee, who was, in the business
+
+of manufacture of scientific instruments and apparatus entered into two
+
+separate collaboration agreements with a Hungarian Company, one for
+
+the manufacture of theodolites and other for the manufacture of
+
+microscopes. The terms of both agreements were identical. Under the
+
+terms of the said agreement, the foreign collaborator agreed that in
+
+consideration of Rs 80,000/-, in each case, it would supply to the
+
+assessee technical know-how required for the manufacture of the said
+
+instruments.          In order to enable the assessee to manufacture the
+
+instruments in India, the foreign collaborator in terms of clause 3 of the
+
+said agreement, agreed to render "documentation service" by supplying
+
+to the assessee an updated, correct and complete set of each of the
+
+documents which included manufacturing drawings and full processing
+
+documents, as also, complete set of specifications of raw-material, lay-
+
+out of manufacturing process and know-how, sample drawings and
+
+casting drawings. The assessee had claimed before the Income Tax
+
+Authorities that the payment made under the said agreement to the
+
+
+ITR 139-88 & 202/89                                                     Page 25 of 65
+ foreign collaborator resulted in acquisition of depreciable assets. The
+
+question which came up for consideration was whether monies spent by
+
+the    assessee       for   acquiring,   from   the   foreign   collaborator,
+
+„documentation service‟, whereby the assessee acquired technical know-
+
+how requisite for the purpose of manufacturing the instruments, in
+
+question, were payments on capital account and hence, brought into
+
+existence a depreciable asset. The Supreme Court observed that the
+
+answer to the question was dependent on a proper interpretation of the
+
+terms and conditions of the two agreements. After examining the terms
+
+of the agreement it disagreed with the view expressed by the Tribunal
+
+and the High Court by observing as follows:-
+
+
+              ".....Having regard to the rival contentions that were
+              urged before us, it is clear that two questions really
+              arise for determination in the case. The first is
+              whether the 'documentation service' (supply of 5
+              complete sets of documents) agreed to be and actually
+              rendered by the foreign collaborator to the assessee
+              under the two agreements was incidental to the other
+              services contemplated therein or whether it was the
+              principal service for which mainly the payment of Rs
+              1,60,000 was made by the assessee as a result
+              whereof the assessee acquired all the technical know-
+              how requisite for the purpose of manufacturing the
+              instruments in question? And secondly whether the
+              said expenditure, which was entirely of a capital
+              nature, brought into existence a depreciable asset?
+              The answer to the former question depends upon the
+              proper interpretation of the terms and conditions of
+              the two agreements while the answer to the latter
+              depends upon whether a capital asset like the
+              technical know-how acquired in the shape of
+              drawings, designs, charts, plans, processing data and
+              other literature which formed the basis for the
+              business of manufacturing the instruments in question
+
+ITR 139-88 & 202/89                                                     Page 26 of 65
+               would fall within the wide and inclusive definition of
+              'plant' given in
+Section 43(3)
+of the Income Tax Act,
+              1961.
+
+              Turning to the first question, having regard to the
+              relevant terms of the two agreements we find it very
+              difficult to accept the view concurrently expressed by
+              the Tribunal and the High Court that the
+              'documentation service' undertaken to be rendered by
+              the foreign collaborator to the assessee was incidental
+              or that the payment of Rs. 1,60,000 could not be
+              regarded as being mainly for and by way of purchase
+              price of the drawings, designs, charts, plans and all
+              the documents comprised in 'documentation service'
+              specified in Clause 3 of the agreements. Such a view
+              as will be shown presently runs counter to the express
+              language contained in Clauses 3 and 6 of the
+              agreements......
+              The tenor of the agreements clearly shows that the
+              various documents such as drawings, designs, charts,
+              plans, processing data and other literature included in
+              documentation service, the supply whereof was
+              undertaken by the foreign collaborator, more or less
+              formed the tools by using which the business of
+              manufacturing the instruments was to be done by the
+              assessee and for acquiring such technical know-how
+              through these documents lump sum payment was
+              made. In other words, the payment of Rs. 80,000
+              under each of the agreements was principally for
+              rendition of 'documentation service'."
+19.1 It is obvious that the result of the case pivoted on the finding that
+
+the payments made by the assessee to the foreign collaborator was not
+
+for services which were incidental to the principal service, which was,
+
+for the purchase of drawings, designs, charts and plans required for the
+
+purpose of manufacture of instruments, in question i.e. theodolites and
+
+microscopes. The Supreme Court rejected the contrary view of both the
+
+Tribunal and the High Court, whereby they held that the payments were
+
+made for incidental services. The other question which the Supreme
+
+ITR 139-88 & 202/89                                                     Page 27 of 65
+ Court was called upon to decide was whether the documentation
+
+provided to the assessee by the foreign collaborator would come within
+
+the definition of a „plant‟ within the meaning of
+Section 43(3)
+of the
+
+Act. As is obvious, the fact situation of this case is different to the issue
+
+under consideration in the present appeal and hence, would not be
+
+applicable.
+
+20.    Commissioner of Income Tax v. I.A.E.C. (Pumps) Ltd; (1998)
+
+232 ITR 316. The question which the court was called upon to consider
+
+was "whether amount paid by the respondent-assessee to the foreign
+
+collaborator for the technical know-how is capital or revenue". The
+
+Supreme Court sustaining the view of the Madras High Court and cited
+
+with approval the following observations contained in the judgment of
+
+the Madras High Court.
+
+
+              "......Having regard to the said Clauses, we are clearly
+              of the opinion that the Tribunal was right in its
+              conclusion that the whole of the amount paid by the
+              assessee constitutes revenue expenditure and has to be
+              allowed as a deduction. From the terms of the
+              agreement referred to above, the following facts are
+              clear;
+
+              (1) The agreement itself provides that what was
+              granted by Aturia to the assessee is merely a license
+              to use its patents and designs exclusively in India;
+
+              (2) The agreement is for a duration of 10 years with
+              the parties having the option to extend the agreement
+              or renew the same, subject to the approval of the
+              Government of India;
+
+              (3) During the currency of the agreement, Aturia had
+              undertaken not to surrender its patents without the
+
+ITR 139-88 & 202/89                                                    Page 28 of 65
+               consent of the assessee and to make available to the
+              assessee any improvements, modifications and
+              additions to designs;
+
+              (4) Aturia has also undertaken to enable the assessee
+              to defend any counterfeit by others and also had
+              undertaken to share the expenses with reference
+              thereto;
+
+              (5) The assessee shall not disclose to third parties any
+              of the documents made available by Aturia to the
+              assessee without having received a written
+              authorisation from Aturia.
+
+              We are of the opinion that the above features clearly
+              establish that what was obtained by the assessee is
+              only a license and what was paid by the assessee to
+              Aturia is only a license fee and not the price for
+              acquisition of any capital asset....."
+20.1 The Supreme Court, crucially observed that, the High Court‟s
+
+conclusions were correct, in as much as, it had appreciated that the
+
+amounts which were paid by the assessee to the collaborator were only
+
+on account of licence fee and not a price for acquisition of capital assets
+
+and hence, the entire payment be treated as revenue expenditure.
+
+21.    Alembic Chemical Works Co Ltd v. Commissioner of Income
+
+Tax, Gujarat; (1989) 177 ITR 377. In this case, the assessee since
+
+1961 had been engaged in the business of manufacture of antibiotics and
+
+pharmaceuticals. The assessee was granted a licence for manufacture, at
+
+its plant, a well-known antibiotic "penicillin". In 1963, in order to
+
+increase the yield of penicillin the assessee negotiated with a Japanese
+
+Company for supply of requisite technical know-how, so as to, achieve
+
+substantially higher level of performance and/or production.                In
+
+
+
+ITR 139-88 & 202/89                                                      Page 29 of 65
+ consideration thereof, the assessee made a "once for all payment",
+
+against which, the assessee was supplied by the Japanese company the
+
+sub-cultures of the most suitable penicillin producing strain, as also,
+
+technical information, know-how and written description of the process
+
+for fermentation of penicillin, along with, a flow-sheet of the process for
+
+a pilot plant, design and specification of main equipment, for such a
+
+pilot plant. Furthermore, the Japanese company was also obliged to
+
+arrange for the training of the representatives of the assessee at the
+
+Japanese company‟s plant, in Japan at the assessee‟s expense as also
+
+advice, which the assessee would receive, in order to engage in large
+
+scale manufacture of penicillin for the period of two years from the
+
+effective date of agreement. Importantly, the assessee was required to
+
+keep technical know-how supplied to it confidential and secret, with a
+
+further prohibition, on the assessee in parting with the technical know-
+
+how in favour of others or to seek patent for the process. In these
+
+circumstances, the lump sum payment made by the assessee to the
+
+Japanese company was claimed by the assessee as a revenue
+
+expenditure.          In the context of these facts, Mr Justice M.N.
+
+Venkatachaliah (as he then was) made the following observations:-
+
+              "......In computing the income chargeable under the
+              head "Profits and gains of business or profession",
+section 37
+of the Act, enables the deduction of any
+              expenditure laid out or expended wholly and
+              exclusively for the purpose of the business or
+              profession, as the case may be. The fact that an item
+              of expenditure is wholly and exclusively laid out for
+
+ITR 139-88 & 202/89                                                   Page 30 of 65
+               the purposes of the business, by itself, is not sufficient
+              to entitle its allowance in computing the income
+              chargeable to tax. In addition, the expenditure should
+              not be in the nature of a capital expenditure. In the
+              infinite variety of situational diversities in which the
+              concept of what is capital expenditure and what is
+              revenue arises, it is well nigh impossible to formulate
+              any general rule, even in the generality cases,
+              sufficiently accurate and reasonably comprehensive,
+              to draw any clear line of demarcation. However,
+              some broad and general tests have been suggested
+              from time to time ascertain on which side of the line
+              the outlay in any particular case might reasonably be
+              held to fall. These tests are generally efficacious and
+              serve as useful servants; but as masters they tend to
+              be over-exacting....
+              On a consideration of the matter, we are persuaded to
+              hold that there was no material for the Tribunal to
+              record the finding that the assessee had obtained
+              under the agreement a "completely new plant" with a
+              completely new process and a completely new
+              technical know-how from Meiji. Indeed, the High
+              Court recognized the fallacy in this assumption of the
+              Tribunal that a completely new plant was obtained by
+              the assessee, though, however, the High Court
+              attributed the inaccuracy to what it considered to be
+              some inadvertence or misapprehension on the part of
+              the Tribunal in that regard. But the High Court was
+              inclined to the view that a completely new process and
+              technical know-how was obtained from Meiji under
+              the agreement. Certain assumptions fundamental to,
+              and underlying, the approach of the High Court are
+              that the agreement dated October 9, 1963, envisaged
+              a new process and a new technology so alien to the
+              extant infrastructure, equipment, plant and machinery
+              in the assessee‟s enterprises as to amount to an
+              entirely new venture unconnected with the different
+              from the line of the assessee‟s extant business. It is in
+              that sense that the expense was held not to have been
+              incurred for the purposes of the day-do-day business
+              of the assessee but for acquiring a new capital
+              asset.....
+              We are inclined to agree with Sri Ramachandran that
+              there was no material for the Tribunal to hold that the
+              area of improvisation was not a part of the existing
+
+ITR 139-88 & 202/89                                                        Page 31 of 65
+               business or that the entire gamut of the existing
+              manufacturing operations for the commercial
+              production of penicillin in the assessee‟s existing
+              plant had become obsolete or inappropriate in
+              relation to the exploitation of the new sub-culture of
+              the high yielding strains of penicillin supplied by
+              Meiji and that the mere introduction of the new bio-
+              synthetic source required the erection and
+              commissioning of a totally new and different type of
+              plant and machinery. Shri Ramachandran is again
+              right in the submission that the mere improvement in
+              or updating of the fermentation process would not
+              necessarily be inconsistent with the relevance and
+              continuing utility of the existing infrastructure,
+              machinery and plant of the assessee......
+              The improvisation in the process and technology in
+              some areas of the enterprise was supplemental to the
+              existing business and there was no material to hold
+              that it amounted to a new or fresh venture. The
+              further circumstance that the agreement pertained to
+              a product already in the line of the assessee‟s
+              established business and not to a new product
+              indicates that what was stipulated was an
+              improvement in the operation of the existing business
+              and its efficiency and profitability not removed from
+              the area of the day-to-day business of the assessee‟s
+              established enterprise.
+              It appears to us that the answer to the questions
+              referred should be on the basis that the financial
+              outlay under the agreement was for the better conduct
+              and improvement of the existing business and should,
+              therefore, be held to be revenue expenditure......"
+22.    Jonas Woodhead and Sons (India) Ltd v. Commissioner of
+
+Income Tax; (1997) 224 ITR 342:- In this case, the question which
+
+came for consideration before the Supreme Court was as follows:-
+
+              "Whether on the facts and in the circumstances of the
+              case, the Tribunal was right in holding that 25% of the
+              amount paid by the assessee as royalty to Jonas
+              Woodhead and Sons, was capital expenditure and,
+              therefore, not allowable as revenue expenditure under
+
+
+ITR 139-88 & 202/89                                                     Page 32 of 65
+               the provisions of the Income Tax Ac t, 1961, for the
+              assessment years 1967-68 and 1968-69."
+22.1 This question arose in the background of the following facts. The
+
+assessee was engaged in the business of manufacture of automobiles
+
+springs. The assessee entered into an agreement with Jonas Woodhead
+
+and Sons (India) Ltd, a company of United Kingdom, for manufacture
+
+of all types of springs and suspension for road and rail vehicles. Under
+
+the agreement, the assessee was to receive technical information and
+
+know-how relating to the setting up of a plant suitable for manufacture
+
+of products, as well as, technical know-how relating to setting up of the
+
+plant itself i.e., the drawings, estimates, specifications, manufacturing
+
+methods, blue prints of production and testing equipment and other data
+
+and information necessary to manufacture the product and to set up
+
+proper and efficient plants. In consideration thereof, the assessee was to
+
+pay royalty on fixed rate based on the turnover of the licensed product.
+
+On commencement of the production, assessee made certain payments
+
+as royalty.      In the assessment proceeding the Income Tax Officer
+
+disallowed 25% of the aforesaid payments on the ground that such
+
+payment represented a consideration for service provided by the foreign
+
+company of an „enduring nature‟ and was therefore, in the nature capital
+
+expenditure. While sustaining the view of the High Court that 25% of
+
+the payment made by the assessee was in the nature of capital
+
+expenditure and hence, not allowable as a deduction, the Supreme Court
+
+made following observations at page 347 of the judgment.
+
+ITR 139-88 & 202/89                                                  Page 33 of 65
+               ".....The question whether a particular payment made
+              by an assessee under the terms of the agreement forms
+              a part of capital expenditure or revenue expenditure
+              would depend upon several factors, namely, whether
+              the assessee obtained a completely new plan with a
+              completely new process and completely new
+              technology for manufacture of the product or the
+              payments was made for the technical know-how which
+              was for the betterment of the product in question
+              which was already being produced; whether the
+              improvisation made, is part and parcel of the existing
+              business or a new business was set up with the so-
+              called technical know-how for which payments were
+              made; whether on expiry of the period of agreement
+              the assessee is required to give back the plans and
+              designs which were obtained, but the assessee could
+              manufacture the product in the factory that has been
+              set up with the collaboration of the foreign firm; the
+              cumulative effect on a construction of the various
+              terms and conditions of the agreement; whether the
+              assessee derived benefits coming to its capital for
+              which the payment was made. This Court in the case
+              of Alembic Chemical Works Co. Ltd. v. Commissioner
+              of Income Tax [1989] 177 ITR 377 has indicated that
+              "in the infinite variety of situational diversities in
+              which the concept of what is capital expenditure and
+              what is revenue arises, it is not possible to form any
+              general rule even in the generality of cases,
+              sufficiently accurate and reasonably comprehensive,
+              to draw any clear line of demarcation". This Court
+              further held that there is no single definitive criterion
+              which, by itself, is demarcative, whether a particular
+              outlay is capital or revenue. And therefore, "once for
+              all" test as well as the test of "enduring benefit" may
+              not be conclusive. Consequently, the various terms
+              and conditions of the, agreement, the advantages
+              derived by an assessee under the agreement, the
+              payment made by the assessee under the agreement,
+              are all to be taken into account and then it has to be
+              decided whether the whole or a part of the payment
+              thus made is a capital expenditure or a revenue
+              expenditure......."
+              In the case of Commissioner of Income-Tax, Bombay
+              City I v. CIBA of India Ltd. (1968) 69 ITR 692 (SC)
+              this Court held on consideration of the agreement
+
+ITR 139-88 & 202/89                                                       Page 34 of 65
+               between the parties that the assessee did not become
+              entitled exclusively even for the period of the
+              agreement, to the patents and trademark of the Swiss
+              company; it had merely access to technical knowledge
+              and experience in the pharmaceutical field which the
+              Swiss company commanded. The assessee on that
+              account have a mere licensee for a limited period of a
+              technical knowledge of the Swiss company with the
+              right to use the patent and trademark of that company.
+              The assessee acquired under the agreement merely
+              the right to draw for the purpose of carrying on its
+              business as a manufacturer or dealer upon the
+              technical knowledge of Swiss company for limited
+              period. By making a technical knowledge available
+              the Swiss company did not part with any asset of its
+              business, nor did the assessee acquire any asset or
+              advantage of an enduring nature for the benefits of its
+              business and, therefore, the said contribution was
+              merely a revenue expenditure or a business
+              expenditure."
+              The reason why the Supreme Court sustained the view
+              of the Tribunal in this case that part of the royalty
+              paid in the said case had to be held as paid towards
+              capital account is evident from the following
+              observations in the said case. But in the case in hand
+              the Tribunal having considered the different clauses
+              of the agreement and having come to the conclusion
+              that under the agreement with the foreign firm what
+              was set up by the assessee was a new business and
+              the foreign firm had not-only furnished information
+              and the technical know-how but rendered valuable
+              services in setting up of the factory itself and even
+              after the expiry of the agreement there is no embargo
+              on the assessee to continue to manufacture the
+              product in question, it is difficult to hold that the
+              entire payment made is a revenue expenditure merely
+              because the payment is required to be made on a
+              certain percentage of the rates of the gross turnover
+              of the products of the income as royalty. In our
+              considered opinion, in the facts and circumstances of
+              the case the High Court was fully justified in
+              answering the reference in favour of the revenue and
+              against the assessee......."
+
+
+
+
+ITR 139-88 & 202/89                                                     Page 35 of 65
+ 22.2 It is clear in this case, the Supreme Court in concluding that a part
+
+of the payment was made on capital account, took note of the fact that
+
+the Tribunal had returned a finding, that the foreign firm under the
+
+agreement was obliged to assist the assessee in setting up a new
+
+business. The finding in the present case is to the contrary. In any
+
+event impugned expenditure relates to licence fee the purpose of which
+
+is different as explained in the latter part of our judgement.
+
+DISCUSSION OF HIGH COURT CASES:
+
+23.    Mysore Kirloskar Ltd. v. Commissioner of Income Tax,
+
+Banglore (1978) 114 ITR 443.           In this case a full bench of the
+
+Karnataka High Court was called upon to consider whether monies paid
+
+to the foreign company for acquisition of technical knowledge for a
+
+limited period could be construed as revenue expenditure. The main
+
+thrust of the judgment is contained paragraphs 17-18 of the judgment of
+
+the Court. The observations of the Division Bench being apposite are
+
+extracted hereinbelow:-
+
+
+              ".........Read as a whole, it is seen that under the
+              agreement the assessee acquired merely the right to
+              draw for the purpose of carrying on its business as a
+              manufacturer of certain articles upon the technical
+              knowledge of the foreign company for a limited period.
+              The foreign company did not part with any of its assets
+              absolutely for ever or for any limited period of time. It
+              continued to have a right of user of its knowledge, even
+              after the agreement had run its course: its right in this
+              behalf was not lost. The assessee did not acquire any
+              right to the user of the name 'HERBERT' in regard to
+              the products even if the agreement had run its course.
+
+ITR 139-88 & 202/89                                                       Page 36 of 65
+               Actually it could not use that name and had to
+              discontinue such user or associating that name with
+              the products to be manufactured thereafter. In the
+              words of the Supreme Court in Ciba's case:-
+
+              ".......by making that technical knowledge available
+              the foreign company did not part with any asset of its
+              business, nor did the assessee acquire any asset or
+              advantage of an enduring nature for the benefit of its
+              business....."
+
+              From the terms of the agreement it is clear that (1) No
+              secret process or technical knowledge was sold by the
+              foreign company to the assessee, (2) the period of user
+              was for 15 years; (3) the object of the agreement was
+              to obtain the benefit of the technical assistance for
+              running the business; (4) the permission was granted
+              to the assessee subject to rights actually granted or
+              which may be granted after the date of the agreement
+              to other persons though outside India; (5) the assessee
+              was expressly prohibited from divulging the
+              confidential information to third parties; (6) there was
+              no transfer of fruits of research once for all; and (7)
+              the foreign company which was continuously carry-ing
+              on research had agreed to make it available to the
+              assessee. These are the very factors which were taken
+              into consideration by the Supreme Court in coming to
+              the conclusion that the expenditure was of revenue
+              nature and allowable under
+Section 10 (1) (xv)
+of the
+              Indian Income-tax Act 1922, which is pari materia
+              with
+Sec. 37
+of the Income-tax Act 1961. Therefore, it
+              is clear that the facts and circumstances in the instant
+              case are indistinguishable from those in Ciba's case,
+              The Supreme Court in the course of its judgment
+              referred to the decision of the House of Lords in
+              Jeffrey v. Rolls Royce Ltd. ((1965) 56 ITR 580) (HL)
+              and Mus-ker v. English Electric Co. ((1964) 41 Tax
+              Cas 556) and distinguished the decision in Evans
+              Medical Supplies Ltd. v. Mori-arty ((1959) 35 ITR
+              707) (HL). The principles enunciated by the Supreme
+              Court in Ciba's case were applied by the High Court of
+              Calcutta in Commr. of Income-tax (Central) Calcutta
+              v. Hindustan General Electrical Corporation Ltd. The
+              learned Judges referred to the speech of Viscount Rad-
+              cliffe in Musker v. English Electric Co. Ltd. and
+              extracted the following observations:
+
+ITR 139-88 & 202/89                                                      Page 37 of 65
+               "In my opinion, there are two considerations which
+              govern cases of this kind and which go a long way
+              towards destroying the force of the analogies by which
+              the appellant's argument seeks to prove that the
+              transactions under review were sales of fixed assets,
+              and that receipts arising from them ought to be treated
+              as receipts on capital account, One is that in reality no
+              sale takes place. The appellant had after the
+              transaction what it had before it. There is no property
+              right in "know-how" that can be transferred, even in
+              the limited sense that there is a legally protected
+              property interest in a secret process. Special
+              knowledge or skill can indeed ripen into a form of
+              property in the fields of commerce and industry, as in
+              copyright, trademarks and designs and patents, and
+              where such property is parted with for money what is
+              received can be, but will not necessarily be. a receipt
+              on capital account, But imparting "know-how" for
+              reward is not like this, any more than a teacher sells
+              his knowledge or skill to his pupil,"
+23.1 It is also important to note that in this case the Full Bench of the
+
+Karnataka High Court over-ruled the judgement of its own court in
+
+Mysore Kirloskar Ltd. v. Commissioner of Income Tax (supra).
+
+24.    Ramkumar Pharmaceutical Works v. CIT; (1979) 119 ITR 33
+
+(All.). This was a case where the assessee, which was, in the business
+
+of manufacture and sale of saccharine entered into an agreement with a
+
+West German Company. Under the agreement, the assessee was to
+
+receive from the foreign collaborator know-how and data for the
+
+construction and operation of the plant for manufacture of saccharine.
+
+In consideration, the assessee was to pay a lump sum down payment
+
+followed by royalty @ 2.5% of the sale value of the manufactured
+
+product, subject to, a maximum of DM 35,000/-, for the next five years.
+
+In this case, the Division Bench was impressed by the fact that know-
+
+ITR 139-88 & 202/89                                                       Page 38 of 65
+ how and data was parted with, by the foreign collaborator, for setting up
+
+and operating of a plant for production of saccharine, and that, know-
+
+how and data was transferred to the assessee for being used by it in
+
+future without any time limit.      The Court observed that the only
+
+restriction which was placed on the assessee was that it could not
+
+transfer the know-how to anyone else and that, it had to be kept a secret.
+
+The Court observed that this was a case of acquisition and not merely a
+
+user for all limited time. The assessee according to the Court obtained
+
+an advantage of enduring nature and thus the payment for acquisition of
+
+such know-how was clearly capital in nature.
+
+24.1 This case as is evident turned on its own facts.
+
+25.    Commissioner of Income Tax v. Tata Engineering &
+
+Locomotive Co Pvt Ltd (1980) 123 ITR 538. This was a case where the
+
+Bombay High Court was considering payments made by the assessee to
+
+the German collaborator with respect to provision of drawings, designs
+
+and technical information required for manufacturing of automotive
+
+products. Under the agreement the assessee could also use the name
+
+and the trade mark of the German collaborator. The point to be noted in
+
+this case was that after the agreement came to an end, the assessee was
+
+entitled to continue its manufacture, but without the use of the trade
+
+name Tata-Mercedez-Benz. The Division Bench, while holding that the
+
+payments in the agreement were in the nature of revenue expenditure,
+
+observed that where in substance the transaction for acquiring necessary
+
+ITR 139-88 & 202/89                                                  Page 39 of 65
+ technical information is really in the nature of having access to
+
+techniques of production, it cannot be said that the payments made in
+
+lieu thereof were on capital account. The rationale provided by the
+
+Division Bench was that, instead of employing persons having
+
+knowledge of the techniques and utilizing their knowledge, what was
+
+being done, is that the technical know-how was being acquired under a
+
+collaboration agreement. The Division Bench went on to hold, that the
+
+fact that, the same information was being continuously used whether in
+
+the same form or in an improved form will, therefore, not be relevant in
+
+deciding whether technical know-how obtained under such an
+
+agreement is a capital asset. The Court observed that technical know-
+
+how made available to a party under such an agreement does not stand
+
+on the same footing as protected rights in a registered patent. According
+
+to the Division Bench, there was no property right in a know-how which
+
+can be transferred just as, it is, in a limited sense, in a patent. The
+
+Division Bench of the Bombay High Court rejected the contention that
+
+the expenditure was capital in nature since, once the know-how was
+
+made available, the assessee could continue to use it for its production
+
+even after the expiry of the agreement; on the ground that this aspect
+
+was wholly immaterial for the purposes of ascertaining whether such an
+
+expenditure could be treated on capital account. The Division Bench
+
+categorically disagreed with the view of the Madras High Court taken in
+
+Addl. Commissioner of Income Tax v Southern Structural Ltd (supra)
+
+
+ITR 139-88 & 202/89                                                 Page 40 of 65
+ which, in turn, was based on the view held in Fenner Woodroffe & Co
+
+Ltd v. Commissioner of Income-Tax (1976) 102 ITR 665.
+
+26.    Praga Tools Ltd v. Commissioner of Income-Tax, Hyderabad;
+
+(1980) 123 ITR 773(AP). In this case, the Full bench of the Andhra
+
+Pradesh High Court was called upon to examine the nature of payments
+
+made by the assessee under a licence agreement with a foreign company
+
+for manufacture of certain tools and cutter grinding machine, for which,
+
+the foreign company was to supply the accessories, designs, technical
+
+know-how with the latest modification and assistance. The agreement
+
+was for a period of 10 years and thereafter, renewable for a further
+
+period of five years with mutual consent. The assessee was required to
+
+pay royalty at the rate of 5% on the Indian selling price, on the
+
+production of the machine, subject to Indian taxes. The Full Bench like
+
+in the case of Tata Engineering & Locomotive Co Pvt Ltd (supra)
+
+came to the conclusion that merely because the agreement provided that
+
+the assessee was entitled to retain technical know-how, designs and
+
+drawings even after the expiry of agreement did not alter the nature of
+
+the transaction. There was, according to the court, no property right
+
+transferrable in technical know-how. The fact that the assessee was not
+
+entitled to use the trade mark of the foreign company for the products
+
+manufactured by it after the expiry of the agreement clinched the issue.
+
+The Court also observed that in determining the nature of the
+
+expenditure the totality or cumulative effect of the material facts
+
+ITR 139-88 & 202/89                                                Page 41 of 65
+ evidenced by the documents and the surrounding circumstances had to
+
+be taken into consideration in arriving at the decision.       The Court
+
+observed that the circumstances had to be viewed in the larger context
+
+of business, each factor or circumstance by itself may not be decisive.
+
+Importantly, in this case the Full bench over-ruled the judgment of its
+
+own court in Hylam Ltd v. CIT (A.P.) (1973) 87 ITR 310. In these
+
+circumstances we do not consider it necessary to discuss the said case
+
+i.e., Hylam Ltd. (supra)
+
+27.    Commissioner of Income Tax v. Polyformalin (P.) Ltd; (1986)
+
+161 ITR 36 (Ker). This is a case, in which, the Division Bench of the
+
+Kerala High Court was called upon to consider the correctness of the
+
+view taken by the Tribunal in respect of, the nature of royalty payment
+
+made under a collaboration agreement. The Tribunal had taken the view
+
+that, the payments made contained an element of capital; this would be
+
+clear from the questions referred by the Tribunal to the High Court for
+
+its opinion under
+Section 256(1)
+of the Act. Upon a reading of the facts
+
+in this case, it seems that at various points of time, the assessee entered
+
+into three collaboration agreements with the same collaborator.
+
+Broadly, the assessee, which was in the business of manufacture and
+
+sale of organic and synthetic chemicals under various agreements,
+
+sought technical know-how and right to use trade mark of the
+
+collaborator for production of urea formaldehyde resin.         Under the
+
+agreements, the collaborator was also required to supply information
+
+ITR 139-88 & 202/89                                                   Page 42 of 65
+ with regard to any further improvements in the technical know-how
+
+which it may obtain. The assessee was required to keep the technical
+
+know-how which it received confidential. In the background of these
+
+broad facts, the matter travelled up to the Tribunal. The Tribunal in the
+
+proceedings before it, returned a finding of fact that a part of the
+
+payment of royalty under the agreement was attributable to „initial
+
+manufacture‟ and hence, would have to be treated as capital in nature,
+
+while the remaining payment would be on revenue account. It seems
+
+that the Division Bench of the High Court, while sustaining the view of
+
+the Tribunal that there was an element of capital in the royalty payments
+
+was persuaded by this finding of fact returned by the Tribunal.
+
+28.    Commissioner of Income Tax v. Warner Hindusthan Ltd (1986)
+
+160 ITR 217 . This was a case where the assessee has entered into a
+
+collaboration agreement with an American company. The agreement
+
+was entered into at the inception and before setting up of the plant. The
+
+foreign collaborator i.e., the American company held a 40% shares in
+
+the assessee company.     The foreign collaborator i.e., the American
+
+company had a right to terminate the agreement if the American
+
+company‟s shareholding in the assessee company fell below 40%. The
+
+American company was required to provide expertise in the
+
+construction of the factory, lay-out, as also, the know-how which, the
+
+American company was required to keep updated.            The American
+
+Company was also required to provide technical personnel in
+
+ITR 139-88 & 202/89                                                 Page 43 of 65
+ connection with setting up of the plant and manufacture of the products
+
+and facilities at the assessee‟s plant and also, at the plant of the
+
+assessee‟s associates and, for the training of associates‟ personnel.
+
+Under the agreement, the assessee had no right to use any trade name,
+
+however, it could continue to use the know-how even after termination
+
+of the agreement. In this case, in consideration thereof, the assessee
+
+paid certain sums of money to the American Company during the
+
+assessment years, under consideration. The assessee had claimed these
+
+payments as technical fee and hence, as revenue expenditure.         The
+
+Tribunal held the payment, in issue, to be in the nature of revenue
+
+expenditure.      The High Court, considering the facts of said case,
+
+reversed the view of the Tribunal on the grounds that: First of all, the
+
+collaboration agreement was not on record; Secondly, the agreement
+
+related to assistance at the very inception i.e., formation of a company;
+
+Thirdly, the agreement provided for not only transfer of know-how, but
+
+also for consultancy assistance and help, in several other areas; And
+
+lastly, the American Company had a 40% shareholding in the assessee
+
+company and, under the provisions of the agreement the American
+
+Company could terminate the agreement if its equity holdings fell below
+
+40%. The High Court concluded that, therefore, it could not be said that
+
+the payments made were only for the acquisition of know-how. The
+
+High Court most crucially observed that there was neither a running or
+
+an existing business nor, was the know-how acquired in connection with
+
+
+ITR 139-88 & 202/89                                                 Page 44 of 65
+ the manufacture of a new item, in relation, to a running business. The
+
+sum and substance of the court discussion was that there was no way of
+
+apportioning that part of the payment which was made towards
+
+acquisition of the know-how under the agreement. This is a critical
+
+distinction which will have to be borne in mind while considering the
+
+impact of this case.
+
+29.    CIT v. Toshniwal Electrodes Manufacturing Co Ltd (1991) 192
+
+ITR 209 (Bom). In this case we find that there is no discernable ratio
+
+and hence, it does not call for any discussion. The court decided the
+
+case based on a decision in an earlier reference, relating to the same
+
+assessee, which had travelled to the Court.
+
+30.    Addl. Commissioner of Income Tax v. Southern Structural
+
+(1997) 110 ITR 890 (Mad). In this case, the assessee was engaged in
+
+the manufacture of goods wagon for supply to Indian Railways. The
+
+assessee entered into an agreement with a British Company. Under the
+
+agreement, the British Company was required to acquire a 40%
+
+shareholding in the assessee company on certain basis. The British
+
+company, under the agreement, was also required to give to the assessee
+
+Company technical assistance in the form of inventions, designs relating
+
+to railway wagons, whether obtained or not, which were owned by the
+
+British Company. The British Company under the agreement had also
+
+undertaken to supply to the assessee at their request full technical advice
+
+and manufacturing data and details which the British Company may
+
+ITR 139-88 & 202/89                                                   Page 45 of 65
+ have acquired in relation to design and manufacture of existing type of
+
+railway wagons and which could be of assistance to the assessee in
+
+tendering for any other order for such a wagon or, in manufacturing the
+
+same at Madras. In consideration thereof, the assessee was to pay a
+
+certain percentage of the works price, in respect of, certain kinds of
+
+wagons.      Importantly, the agreement was required to subsist for a
+
+minimum of 10 years, which was terminable by either party on giving
+
+12 months prior notice. Upon the expiration of the agreement both
+
+parties were to be relieved of their obligations, in particular, the assessee
+
+was free to use without a charge, all such information made available by
+
+the British Company, during the tenure of the agreement. In coming to
+
+the conclusion that the monies paid by the assessee to the British
+
+Company were in the nature of capital expenditure, the Division Bench
+
+of the High Court, was impressed by the fact that the assessee could use
+
+the information acquired for an indefinite period, and that too, free of
+
+charge. In other words, whatever information was acquired by the
+
+assessee during the period of the agreement would enure to the benefit
+
+of the assessee without any limitation of time.         In coming to this
+
+conclusion the Division Bench applied the principle laid down by its
+
+own court in the case of Fenner Woodroffe & Co Ltd v. Commissioner
+
+of Income-Tax (supra).
+
+30.1 As discussed above the Full Bench of the Andhra Pradesh High
+
+Court in the case Praga Tools Ltd (supra) has disagreed with views of
+
+ITR 139-88 & 202/89                                                    Page 46 of 65
+ the Madras High Court in the aforesaid case. We respectfully agree
+
+with the view taken in Praga Tools Ltd (supra).
+
+31.    Commissioner of Income Tax, Gujarat - I v. S.L.M. Maneklal
+
+Industries Ltd (1977) 101 ITR 133. This was also a case where the
+
+assessee had entered into three agreements with certain foreign
+
+collaborators. The first agreement was for manufacture of rotary air-
+
+compressors. The second agreement was for the manufacture of rotary
+
+blowers and water-ring pumps, and the third agreement, was for the
+
+manufacture of vertical diesel engines. The agreements were entered
+
+into between the Swiss collaborator and one T. Maneklal. Pursuant to
+
+discussions between the two contracting parties, a new company S.L.M.
+
+Maneklal Industries Ltd (which was the assessee in the case) was
+
+floated and by subsequent agreement, it was agreed between one S.L.M.
+
+on the one hand and one, Maneklal on the other, that in the three
+
+agreements, referred to above, wherever the name "T. Maneklal"
+
+appeared the name of new company S.L.M. Maneklal Industries should
+
+be substituted.       Under the agreements the assessee company made
+
+payments for the price of supply of workshop drawing, manufacturing
+
+instruments etc.; which were spread over a period of five years and
+
+accordingly, the assessee claimed deduction of 1/5th of the expenditure
+
+for drawings and designs in respect of each of the three agreements.
+
+The Income Tax Officer treated the said payments as capital in nature
+
+as, according to him, they were for acquisition of a capital asset in the
+
+ITR 139-88 & 202/89                                                 Page 47 of 65
+ shape of designs and drawings. The matter travelled right up to the
+
+Tribunal. The Tribunal held that it was a clear case of licence and not of
+
+sale so far as, designs and drawings and patterns were concerned and
+
+that, by parting with them, the right of the foreign collaborator had not
+
+diminished, in any, manner. The Tribunal also held that payments made
+
+for the use of drawings, designs and patterns did not bring into existence
+
+an asset of an enduring nature. The Division Bench of the High Court
+
+sustained the view of the Tribunal. The Division Bench held that the
+
+workshop drawings, manufacturing instruments etc. were obtained by
+
+the assessee company from the foreign company for the purpose of
+
+enabling it to exploit the licence agreement and to manufacture rotary
+
+air-compressor under the licensing agreement. It further held that the
+
+supply of workshop drawings was for the purpose of main licence itself,
+
+and in the course of, working the terms and conditions of the license to
+
+manufacture rotary air-compressor.        It also observed that other
+
+expenditure incurred in connection with capital asset is not expenditure
+
+of a capital nature. The nature of the expenditure depends essentially
+
+upon the totality of the attendant circumstances obtaining in respect of a
+
+transaction and the context in which it is made. Where a payment is
+
+made for the ownership of a capital asset, which is the tool of the
+
+assessee‟s trade, it may not be difficult to come to the conclusion that
+
+the expenditure is in the nature of capital expenditure. Where, however
+
+the benefit of a capital asset is secured as one element of a
+
+
+ITR 139-88 & 202/89                                                  Page 48 of 65
+ comprehensive arrangement, by virtue of which a trader seeks to obtain
+
+advantage, with the end in view to expand his business and earn greater
+
+profits, the whole transaction will have to be critically analyzed in order
+
+to find out whether the expenditure incurred is a part of that transaction
+
+for acquiring the benefit for the use of the capital asset and hence, is in
+
+the nature of capital expenditure. The court came to the conclusion that
+
+no property for the workshop drawings passed to the assessee. There
+
+was no independent sale of the workshop drawings, and furthermore,
+
+the workshop drawings, by themselves, were of no use to the assessee
+
+unless they were meant for the purpose of manufacturing of different
+
+types of machinery. The Division Bench was impressed by the fact that
+
+the assessee was required to keep the information obtained as
+
+confidential and to use the same, only for the purpose of working the
+
+license agreement, and that too only during the continuance of the
+
+licensing agreement.
+
+32.    Commissioner of Income Tax v. Eicher Motors Ltd; (2007) 293
+
+ITR 464 (MP). It was again a case dealing with expenditure incurred on
+
+acquisition of technical know-how. The Division Bench of the Madhya
+
+Pradesh High Court, Indore Bench observed that the matter should be
+
+decided by taking into account all circumstances and the weight, which
+
+may have to be given to a particular circumstance, must depend on
+
+common sense and business point of view rather than juristic
+
+
+
+
+ITR 139-88 & 202/89                                                   Page 49 of 65
+ classification of the juristic rights, if any, secured employed or
+
+exhausted in the process.
+
+33.    Sriram Refrigeration Industries Ltd v. Commissioner of Income
+
+Tax, Delhi - I; (1981) 127 ITR 746 (Del). This is a judgment of a
+
+Division Bench of this court. In this case, the assessee, who was in the
+
+business of manufacture of sealed compressors for air-conditioners and
+
+refrigerators, entered into a technical assistance agreement with
+
+Westhinghouse Electric, an international company. The said foreign
+
+collaborator provided information in the form of basic designs, data,
+
+drawings, process specifications, material specifications etc.       The
+
+Division Bench after examining the facts, as well as, the case law on the
+
+subject held that the whole object of the agreement was to obtain benefit
+
+of technical assistance for running the business, on a restricted licence
+
+and to accord limited use of patent rights of the foreign company, the
+
+use of which, was restricted to the assessee alone and that too for the
+
+duration of the agreement. It concluded that on examining the basic
+
+features of the agreement the foreign company had not parted with the
+
+"technical knowledge" absolutely in favour of the assessee as the
+
+foreign company had not sold their secret process to the assessee. It
+
+was of the view that it could not be said that assessee had absolutely
+
+acquired any knowledge or asset.      The payments, according to the
+
+Division Bench were made to have an „access‟ to the knowledge and
+
+information that was necessary to carry on and run the business from
+
+ITR 139-88 & 202/89                                                 Page 50 of 65
+ day-to-day, and that, it was not of much significance as to whether the
+
+agreement was entered into at the time of commencement of business or
+
+in the course of business which is already being carried out.
+
+34.    Sriram Pistons & Rings Ltd. v. Commissioner of Income Tax,
+
+New Delhi; (2008) 177 Taxmann 81. This is again a judgment of
+
+Division Bench of this Court, wherein this court, after examining a
+
+plethora of case law including the judgment of this court in the case of
+
+Sriram Refrigeration Industries Ltd (supra) has followed the view held
+
+in another judgment of a Division Bench of this Court in Triveni Engg.
+
+Works ltd. v. CIT (1982) 136 ITR 340. The observations made in para
+
+17, 28 & 29 being apposite are set out below:-
+
+              " ........The Supreme Court interpreted this to mean that the
+              right pertained more to the use of the know-how than to its
+              exclusive acquisition by the assessee. The Supreme Court
+              also noted that there is no single definitive criterion which
+              by itself is determinative of the question whether a
+              particular outlay was revenue in nature. What is relevant is
+              to see the intended object and effect of the agreement
+              between the parties, considered in a common sense manner
+              having regard to business realities. The Supreme Court
+              noted that in a given case, the test of „enduring benefit‟
+              might break down as laid down by the Supreme Court in
+              CIT v. Associated Cement Companies Ltd (1988) 172 ITR
+              257.
+              Applying the various principles that have been laid down,
+              we find that there was in fact no absolute transfer of any
+              right in the documentation given by Riken to the assessee.
+              The assessee was entitled to use the technical know-how for
+              a period of five years or for a lesser period, in case the
+              agreement was terminated before that. The assessee did not
+              have a free hand to sub-license the technical know-how and
+              that was possible only with the prior written permission
+              from Riken. For all other matters, the assessee was liable
+
+ITR 139-88 & 202/89                                                   Page 51 of 65
+               to treat as confidential in inventions, drawings, documents,
+              specification etc. furnished by Riken to the assessee. Even
+              though the assessee was entitled to use the name of Riken in
+              the marketing of its products but that right would cease
+              upon the expiry or terminated of the agreement.
+              As already noted, the Agreement was valid only for a period
+              of five years but could be terminated earlier. There is no
+              magic in the word "sold" used in clause 5.0 of the
+              agreement because on a reading of the agreement as a
+              whole, it appears to us that what was transferred to the
+              assessee was only a right to use the technical know-how of
+              Riken and there was no sale of the technical know-how
+              which the assessee could exploit. The assessee‟s right were
+              hedged in with all sorts of conditions, clearly making it a
+              case of right to use the technology and not sale of the
+              technical know-how......"
+34.1 From the above, it is clear that despite the use of the word „sold‟
+
+in one of the clauses of the agreement, in relation to, technical know-
+
+how and the process which the assessee acquired, this Court held that, if
+
+on a holistic reading of the agreement it appears that what was
+
+transferred to the assessee was only a right to use technical know-
+
+how and not sale of technical know-how then the expenditure would
+
+have to be treated as one on revenue account.
+
+35.    Bajaj Tempo Ltd v. Commissioner of Income Tax; (1994) 207
+
+ITR 1017 (Bom). Mr. Justice B.N. Srikrishna (as he then was) speaking
+
+for the Division Bench cited with approval the observations of the
+
+judgement of its own court in Tata Engineering & Locomotive Co (P)
+
+Ltd (supra) that there was no property right in know-how which can be
+
+transferred just as, it is, in a limited sense in a patent.    The court
+
+approved the observation of its own Division Bench in the case of Tata
+
+
+ITR 139-88 & 202/89                                                  Page 52 of 65
+ Engineering & Locomotive Co (P) Ltd (supra) that technical know-
+
+how made available by a party to an agreement does not stand on same
+
+footing as protected rights under a registered patent. The Division
+
+Bench distinguished the judgment of the Supreme Court in the case of
+
+Scientific Engineering House P. Ltd (supra) by observing that the
+
+Supreme Court in that case was considering whether the „documentation
+
+service‟ was the main service rendered by the foreign collaborator and
+
+also, that the documentation service supplied to the assessee in the said
+
+case constituted „book‟ or „plant‟ so as to entitle the assessee to claim
+
+depreciation thereon. The Division Bench observed that "the argument
+
+before the Supreme Court did not appear to have turned on the issue
+
+whether the payments made for procuring such documents really
+
+amounted to capital expenditure or revenue expenditure."
+
+36.    Commissioner of Income Tax, Tamil Nadu- III v. Madras
+
+Rubber Factory (1983) 144 ITR 678.          This was a case where the
+
+assessee entered into an agreement with an American Company which
+
+dealt with two distinct matters, namely (i) planning and setting up of a
+
+tyre factory (ii) continuous supply of information and technical
+
+consultancy services for a period of years for running the factory after
+
+its installation. The Court noted that there was no dispute that the
+
+payment which related to the first item i.e., for setting up of the factory
+
+were capital in nature in the hands of the assessee, and consequently, the
+
+assessee had claimed no deduction in respect of the said amounts.
+
+ITR 139-88 & 202/89                                                   Page 53 of 65
+ However, under the agreement, the assessee was also required to pay to
+
+the foreign company for the consultancy services supplied by the
+
+foreign company from time to time for running the factory and for
+
+maintaining production. The Income Tax Officer took the view that
+
+though payments made for consultancy service for running the factory
+
+were on revenue account there would be an element of capital and
+
+hence, disallowed 25% of the fee payable by the assessee attributable to
+
+capital element, while allowing the balance 75% as revenue
+
+expenditure. The view of the assessee was over-turned by the first
+
+Appellate Authority and the Tribunal.      The Department carried the
+
+matter to the High Court. The High Court held that the agreement by
+
+itself kept two aspects of the collaboration agreement distinct and
+
+separate, one was connected with the initial setting up of the factory and
+
+the other was connected with running of the factory. The fee paid by
+
+the parties for obtaining technical consultancy services required for
+
+keeping the factory running was in the nature of revenue expenditure.
+
+The Court rejected the argument of the Revenue that, since the assessee
+
+was not bound to return the know-how acquired during the contract
+
+period the expenses incurred for obtaining the same had to be treated as
+
+capital expenditure as it had acquired the use of knowledge beyond the
+
+contractual period and hence, was in the nature of an enduring
+
+advantage. In this connection the following observations of the court
+
+are of significance:-
+
+
+ITR 139-88 & 202/89                                                  Page 54 of 65
+               ".....We must reject the argument of Mr. Jayaraman
+              as unsound. It is based on the supposition that any
+              expenditure or outlay by a taxpayer which results in
+              enduring benefit to his trade must, without more, be
+              regarded as capital in character. The truth, however,
+              is that enduring benefit is not the acid test of capital
+              expenditure in all cases. Even its celebrated author,
+              Viscount Cave, while laying down this testin Atherion
+              v. British Insulated and Helsby Cables Ltd. (1925) 10
+              TC 155 (HL), did not mean to propound a doctrine in
+              unqualified terms. In the recent Empire Jute Co.‟s
+              case (1980) 124 ITR 1, our Supreme Court has had
+              occasion to clarify this position. They explained
+              Viscount Cave‟s dictum this way: enduring benefit or
+              advantage might enure to an assessee‟s business
+              either in a capital field of its activity or in a non-
+              capital field; in every case, therefore, the inquiry must
+              be directed as much to the character of the
+              expenditure as to the nature of the advantage derived
+              therefrom.
+              The Supreme Court‟s enunciation of the test of
+              enduring benefit is particularly apposite in the present
+              case. It may be conceded that what Mansfield or its
+              resident engineer in India were imparting to the
+              assessee on operational matters might tend to outlast,
+              and endure beyond, the contract period. There is,
+              however is a saying in Tamil that knowledge once
+              acquired is everlasting, and it cannot be destroyed
+              either by flood or by fire, nor can it be obliterated or
+              even diminished by being imparted to others.
+              Technical or commercial knowledge acquired by a
+              trader or industrialist is of this kind, enduring, if not
+              everlasting. Expenditure to acquire it cannot be
+              disallowed merely because knowledge dies hard. It is
+              only where the expenditure bears on the fixed capital
+              or other capital structure of the assessee that it can be
+              regarded as capital in nature.              Where the
+              expenditure, although enduring in character has its
+              impact on the running of the business, there can be
+              no doubt that it is out and out revenue expenditure.
+              If the position were otherwise, practically any item of
+              revenue outgoing in the day-to-day running of a
+              business can be broken up and dissected in an effort
+              to discover in it some fractional element or other of a
+              capital nature, merely on the score that the resulting
+
+ITR 139-88 & 202/89                                                       Page 55 of 65
+               benefit or advantage tends to pay in the business.
+              This, however, is not the law."
+37.    Commissioner of Income Tax v. Aquapump Industries; (1996)
+
+218 ITR 427. The Division Bench of the High Court was called upon to
+
+determine as to whether expenses incurred by the assessed to acquire
+
+technical know-how were in the nature of revenue expenditure. In this
+
+case, there was an agreement between the assessee and a collaborator,
+
+under which the collaborator allowed the assessee to use its brand name
+
+for the production, manufacture and sale of specified products.        In
+
+consideration, the assessee paid royalties to the collaborator who agreed
+
+to allow manufacture of articles for five years. The collaborator under
+
+the agreement was required to furnish technical information pertaining
+
+to manufacture of the said articles. The issue which came before the
+
+Madras High Court was whether royalty payments made by the assessee
+
+could be treated as revenue expenditure.      The court observed that
+
+expenditure to acquire knowledge cannot be disallowed merely because
+
+knowledge dies hard. It is only where the expenditure bears on the
+
+fixed capital or other capital structure of the assessee that it can be
+
+regarded as capital in nature. Where the expenditure, although enduring
+
+in character has its impact on the running of the business, there can be
+
+no doubt that it is revenue expenditure.
+
+BROAD PRINCIPLES WHICH EMERGE ON READING OF
+VARIOUS AUTHORITIES
+
+
+
+
+ITR 139-88 & 202/89                                                 Page 56 of 65
+ 38.    An overall view of the judgments of the Supreme Court, as well
+
+as, of the High Courts would show that the following broad principles
+
+have been forged over the years, which require, to be applied to the facts
+
+of each case:-
+
+(i) the expenditure incurred towards initial outlay of business would be
+
+in the nature of capital expenditure, however, if the expenditure is
+
+incurred while the business is on going, it would have to be ascertained
+
+if the expenditure is made for acquiring or bringing into existence an
+
+asset or an advantage of an enduring benefit for the business, if that be
+
+so, it will be in the nature of capital expenditure. If the expenditure, on
+
+the other hand, is for running the business or working it, with a view to
+
+produce profits, it would be in the nature of revenue expenditure;
+
+   (ii) it is the aim and object of expenditure, which would, determine
+
+its character and not the source and manner of its payment;
+
+   (iii) the test of "once and for all" payment i.e., a lump sum payment
+
+made, in respect of, a transaction is an inconclusive test. The character
+
+of payment can be determined by looking at what is the true nature of
+
+the asset which is acquired and not by the fact whether it is a payment in
+
+„lump sum‟ or in an instalment. In applying the test of an advantage of
+
+an enduring nature, it would not be proper, to look at the advantage
+
+obtained, as lasting forever. The distinction which is required to be
+
+drawn is, whether the expense has been incurred to do away with, what
+
+
+ITR 139-88 & 202/89                                                   Page 57 of 65
+ is a recurring expense for running a business, as against, an expense
+
+undertaken for the benefit of the business as a whole;
+
+(iv) an expense incurred for acquisition of a source of profit or income
+
+would in the absence of any contrary circumstance, be in the nature of
+
+capital expenditure. As against this, an expenditure which enables the
+
+profit making structure to work more efficiently leaving the source or
+
+the profit making structure untouched, would be in the nature of
+
+revenue expenditure. In other words, expenditure incurred to fine tune
+
+trading operations to enable the management to run the business
+
+effectively, efficiently and profitably leaving the fixed assets untouched
+
+would be an expenditure of a revenue nature even though the advantage
+
+obtained may last for an indefinite period. To that extent, the test of
+
+enduring benefit or advantage could be considered as having broken
+
+down;
+
+(v) expenditure incurred for grant of License which accords „access‟ to
+
+technical knowledge, as against, „absolute‟ transfer of technical
+
+knowledge and information would ordinarily be treated as revenue
+
+expenditure. In order to sift, in a manner of speaking, the grain from the
+
+chaff, one would have to closely look at the attendant circumstances,
+
+such as:-
+
+            (a) the tenure of the Licence.
+          (b) the right, if any, in the licensee to create further
+       rights in favour of third parties,
+
+
+ITR 139-88 & 202/89                                                  Page 58 of 65
+           (c) the prohibition, if any, in parting with a confidential
+       information received under the License to third parties
+       without the consent of the licensor,
+          (d) whether the Licence transfers the „fruits of research‟
+       of the licensor, „once for all‟,
+          (e) whether on expiry of the Licence the licensee is
+       required to return back the plans and designs obtained
+       under the Licence to the licensor even though the licensee
+       may continue to manufacture the product, in respect of,
+       which „access‟ to knowledge was obtained during the
+       subsistence of the Licence.
+          (f) whether any secret or process of manufacture was
+       sold by the licensor to the licensee. Expenditure on
+       obtaining access to such secret process would ordinarily be
+       construed as capital in nature;
+
+
+(vi) the fact that assessee could use the technical knowledge obtained
+
+during the tenure of the License for the purposes of its business after the
+
+Agreement has expired, and in that sense, resulting in an enduring
+
+advantage, has been categorically rejected by the courts. The Courts
+
+have held that this, by itself, cannot be decisive because knowledge by
+
+itself may last for a long period even though due to rapid change of
+
+technology and huge strides made in the field of science, the knowledge
+
+may with passage of time become obsolete;
+
+(vii) while determining the nature of expenditure, given the diversity of
+
+human affairs and complicated nature of business; the test enunciated by
+
+courts have to be applied from a business point of view and on a fair
+
+appreciation of the whole fact situation before concluding whether the
+
+expenditure is in the nature of capital or revenue.
+
+
+
+ITR 139-88 & 202/89                                                     Page 59 of 65
+ 39.    In the context of the present case what has emerged is as follows:-
+
+           a. The agreement was in three parts.          One part related to
+
+              purchase of basic design, engineering and for provision of
+
+              technical assistance by the collaborator to the assessee. For
+
+              this purpose a sum of 250 Million Liras were paid by the
+
+              assessee to the collaborator.       This expenditure was
+
+              capitalized by the assessee, on his own.
+
+           b. The balance amount expended by the assessee being; 3.73
+
+              million Liras, for grant of process and know-how Licence
+
+              and for supply of technical assistance and continuous know-
+
+              how, which included, training to its employees, in Italy; was
+
+              treated as revenue expenditure by the assessee.
+
+39.1 The important finding returned by the authorities below, on
+
+consideration of the facts obtaining in the case and on interpretation of
+
+the terms of the agreement, was that; First of all, what the assessee
+
+acquired was „access‟ to the technical information; Secondly, there was
+
+no transfer of ownership with respect to the process and the know-how
+
+under the agreement, in favour of the assessee; Lastly, the „access‟ to
+
+technical know-how did not relate to any secret process or patent rights
+
+or use of trade mark or trade name. As recorded by the authorities below
+
+the technical know-how was owned by one M/s Montefibre, the
+
+successor to another concern known as, M/s Chatillon. M/s Monte
+
+Fibre granted to M/s Tecnimont a non-exclusive, and an irrevocable and
+
+ITR 139-88 & 202/89                                                    Page 60 of 65
+ permanent License in favour of M/s Tecnimont. This was, as found by
+
+the authorities below, done to enable M/s Technimont to exercise its
+
+rights under the License by granting a sub-License to third parties, in
+
+this case the assessee. The submission of the learned counsel for the
+
+Revenue, based on
+Article 2.12
+of the Agreement, to the effect that,
+
+what the assessee had obtained was a permanent right by virtue of the
+
+Agreement is incorrect; in view of the fact that, M/s Tecnimont could
+
+not have granted that, which it did not itself possess. In any event, grant
+
+of Licence by itself does not result in transfer of property, in a limited
+
+sense as, in the case of, patent rights. It is not the case of the Revenue
+
+that any patent rights were transferred in favour of the assessee.
+
+39.2 In our opinion, in view of the aforementioned findings, in
+
+particular, that under the Agreement the assessee had only acquired
+
+„access‟ to technical information, that is, know-how which related to the
+
+process of manufacture, which was not; related to any secret process or
+
+patent rights or even the right to use a trademark or trade name under
+
+the Agreement, the payments in issue, made for such a purpose, can
+
+only be categorized as one made on revenue account.
+
+39.3 The Revenue, in order to buttress their submission with respect to
+
+the permanent character and so called enduring nature of the advantage
+
+obtained under the Licence, had submitted that the Agreement had no
+
+time limit prescribed for working the Licence. This submission of the
+
+revenue is factually incorrect as found by the authority below. As
+
+ITR 139-88 & 202/89                                                   Page 61 of 65
+ noted, hereinabove, under
+Article 15.4
+the obligation for certain
+
+purposes was limited to 12 years, and likewise, under Article 5.5.1 and
+
+5.5.2 M/s Tecnimont was obliged to give advice for a period of 7 years.
+
+39.4 In respect of payments made by the assessee towards training of
+
+personnel and supply of technical assistance and continuous know-how
+
+as referred to in
+Article 5
+of the Agreement, it is clear on an application
+
+of the tests enunciated by Courts, that it would not result in an
+
+advantage of enduring nature, especially as noted above, that by virtue
+
+of Article 5.5.1 and 5.5.2    M/s Tecnimont was obliged to give advice
+
+limited to a period of 7 years.
+
+39.5 It is important, at this juncture, to refer to the finding returned by
+
+CIT(A), which has been, sustained by the Tribunal, to the effect that, all
+
+payments which related to setting up of the plant as per
+Article 9.1(b)
+of
+
+the agreement, as well as, expenses towards technical assistance
+
+provided by M/s Tecnimont for the purpose of construction and setting
+
+up of the plant were not only to be paid separately, as per
+Article 5.1
+,
+
+5.2
+, 5.3
+, 5.5.1(a) and 5.5.2(2) but, had also been capitalized and not
+
+claimed by the assessee as a revenue expenditure. The only item which
+
+the assessee had claimed as revenue expenditure related to technical
+
+assistance granted for a period of 7 years for training of its personnel
+
+and in connection with running of the plant day-to-day. In view of these
+
+findings, which when, analysed in the light of the test evolved by the
+
+
+
+ITR 139-88 & 202/89                                                   Page 62 of 65
+ Courts, it cannot, but be held, that the expenditure in issue would have
+
+to be treated as one, on revenue account.
+
+39.6 The submission of the learned counsel for the Revenue that the
+
+expenditure was incurred by the assessee for manufacturing a new
+
+product, is not only factually incorrect, but completely contrary to the
+
+stand taken by the Revenue both before the CIT(A), as well as, the
+
+Tribunal.       The Tribunal has, as indicated above, hereinabove
+
+categorically noted that the Revenue had fairly conceded that the
+
+expense incurred was for extension of an existing business.           The
+
+Tribunal, in no uncertain words, recorded a finding that, the record
+
+demonstrated, that the products, in issue, were already being
+
+manufactured by the assessee and hence, payments made by the
+
+assessee towards this end, would only go to increase the profitability; as
+
+what it had obtained, by virtue of the Agreement was a new method of
+
+manufacture or process of manufacture.
+
+39.7 Similarly, in respect of payments made to M/s IWKA, the CIT(A)
+
+found that, the know-how for which the assessee had made payments
+
+was for manufacture of machines.            The CIT(A), examined the
+
+Agreement of the assessee with M/s IWKA, and found that, the assessee
+
+had been granted an exclusive manufacturing licence for India. He,
+
+however noted, that the assessee was not permitted to use any
+
+knowledge or experience gained for any other purpose. The CIT(A)
+
+
+
+ITR 139-88 & 202/89                                                  Page 63 of 65
+ also returned the finding that under the Agreement, M/s IWKA was to
+
+provide the following services to the assessee.
+
+              a) assistance in Germany in planning, construction and
+
+                  installation of JK‟s Engineering Workshops;
+
+              b) delivery of Germany of drawings and technical data;
+
+              c) transfer in Germany of the use of IWKA manufacturing
+
+                  know-how;
+
+              d) transfer of IWKA sales know-how;
+
+              e) training of specialists for JK in Germany and India;
+
+              f) delegation of IWKA staff member for technical
+
+                  assistance to India;
+
+              g) exchange of experiences including continued technical
+
+                  assistance and development.
+
+39.8 In the background of these facts, the CIT(A) came to the
+
+conclusion that the expenditure incurred by the assessee on know-how
+
+during the year, under consideration, was in respect of, a business which
+
+was already in existence and hence, the payments were made for user of
+
+licence and were akin to the payments made to M/s Tecnimont. The
+
+CIT(A) agreed with the assessee that money paid to M/s IKWA was
+
+required to be treated as expenditure on revenue account. This finding
+
+of the CIT(A) has been sustained by the Tribunal.
+
+
+
+
+ITR 139-88 & 202/89                                                     Page 64 of 65
+ 40.    Given the findings returned by both the CIT(A), as well as, the
+
+Tribunal and given the discussion held above by us, we have no
+
+hesitation in coming to the conclusion that Rs 30,57,499/- paid to M/s
+
+Technimont and Rs 3,48,033/- paid to M/s IKWA had to be treated as
+
+revenue expenditure.
+
+41.    In view of the fact that we have already held that the third
+
+instalment of know-how fee which related to grant of technical
+
+assistance and continuous know-how, in Italy, including training of
+
+personnel, in Italy is revenue in nature, any interest paid in relation to
+
+delayed payments will also, have to be treated, as one, which is, on
+
+revenue account.
+
+42.    In view of the above discussion, both questions referred to us are
+
+answered in favour of the assessee and against the Revenue. These
+
+references are accordingly disposed of. However, in the circumstances
+
+the parties shall bear their own costs.
+
+
+
+
+                                               RAJIV SHAKDHER, J.
+December 17, 2008                         BADAR DURREZ AHMED, J.
+mb/kk
+ITR 139-88 & 202/89                                                  Page 65 of 65

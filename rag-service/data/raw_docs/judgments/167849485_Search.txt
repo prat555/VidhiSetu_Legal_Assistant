@@ -1,0 +1,469 @@
+Title: Search
+Court: High Court
+Date: 27 June 2022
+Citation: SCC 657
+Source: https://indiankanoon.org/doc/167849485/
+
+[Cites
+18
+, Cited by
+0
+]
+Delhi High Court
+M Tech Developers Pvt. Ltd. vs National Faceless Assessment Centre, ... on 15 April, 2024
+Author:
+Yashwant Varma
+Bench:
+Yashwant Varma
+,
+Purushaindra Kumar Kaurav
+*         IN THE HIGH COURT OF DELHI AT NEW DELHI
+                   %                             Judgment reserved on: April 08, 2024
+                                                Judgment pronounced on: April 15, 2024
+
+                   +         W.P.(C) 15567/2022
+
+                             M TECH DEVELOPERS PVT. LTD.                   ..... Petitioner
+                                               Through:    Mr. Rohit Tiwari, Ms. Tanya,
+                                                           Ms. Shivani, Mr. Shobhit Tiwari
+                                                           and Mr. Jaind Kumar Jaiswal,
+                                                           Advs.
+                                               versus
+
+                             NATIONAL FACELESS ASSESSMENT CENTRE, DELHI &
+                             ANR.                           ..... Respondents
+                                               Through:    Mr. Abhishek Maratha, Sr.SC
+                                                           with Mr. Parth Semwal,JSC
+                                                           Ms. Nupur Sharma, Advs.
+
+                             CORAM:
+                             HON'BLE MR. JUSTICE YASHWANT VARMA
+                             HON'BLE MR. JUSTICE PURUSHAINDRA KUMAR
+                             KAURAV
+                                               JUDGMENT
+YASHWANT VARMA, J.
+1.        The petitioner impugns notices issued under
+Section 144B
+of the
+                   Income Tax Act, 1961 1 pertaining to Assessment Year 2 2021-22
+                   dated 27 June 2022 as well as the consequential notices issued under
+Sections 143(2)
+and
+142(1)
+of the Act dated 28 June 2022 and 05
+1
+Act
+2
+AY
+
+                  W.P.(C) 15567/2022
+Signature Not Verified                                                             Page 1 of 9
+Digitally Signed
+By:KAMLESH KUMAR
+Signing Date:16.04.2024
+11:28:32
+September 2022, respectively.
+2.      The challenge is essentially mounted on the basis of
+Section 31
+of the Insolvency and Bankruptcy Code, 2016 3, with the petitioner
+                   contending that once the Resolution Plan came to be duly accepted, the
+                   bar created in terms of
+Section 31
+of the IBC would apply, and bearing
+                   in mind the decision of the Supreme Court in
+Ghanashyam Mishra
+                   and Sons Pvt. Ltd vs. Edelweiss Asset Reconstruction Company
+                   Ltd.
+4, the respondents would stand deprived of the jurisdiction or
+                   authority to reopen or assess income for any period prior to the
+                   approval of the Resolution Plan.
+3.      For the purposes of disposal of the instant writ petition, we
+                   propose to notice the following salient facts. The proceedings before
+                   the National Company Law Tribunal 5 commenced upon the filing of
+                   a petition under
+Section 7
+of the IBC by one Mr. Debashish Majumdar.
+                   The petition came to be admitted on 12 November 2020 and an order of
+                   moratorium came into effect from that date. In terms of the statutory
+                   scheme of the IBC, the Corporate Insolvency Resolution Process 6
+                   would also be deemed to have commenced from the aforesaid date.
+4.      According to the writ petitioner, the Resolution Professional 7
+                   appointed pursuant to the commencement of CIRP, on 23 November
+                   2020, informed the Income Tax authorities of the pendency of
+                   proceedings before the NCLT. This was followed by a communication
+3
+IBC
+4
+(2021) 9 SCC 657
+5
+NCLT
+6
+CIRP
+7
+RP
+
+                  W.P.(C) 15567/2022
+Signature Not Verified                                                          Page 2 of 9
+Digitally Signed
+By:KAMLESH KUMAR
+Signing Date:16.04.2024
+11:28:32
+dated 28 January 2021 in terms of which the RP is stated to have
+                   conveyed a request to the Income Tax authorities to lodge their claims
+                   in accordance with the provisions of the IBC.
+5.        The petitioner, in terms of the provisions of the Act, furnished its
+                   Return of Income 8 for AY 2021-22 on 10 March 2022 declaring a net
+                   loss of INR 9,47,64,300/-. The CIRP proceedings in the meanwhile
+                   culminated in the approval of the Resolution Plan being approved by
+                   the NCLT on 15 March 2022 and accepting a plan submitted by M/s
+                   Sarthi Constructions which had been accepted by the Committee of
+                   Creditors. It is only thereafter and on 27 June 2022 that the respondents
+                   chose to commence proceedings referable to
+Section 144B
+of the Act.
+6.        The fact that a Resolution Plan once approved would bring the
+                   curtains down on any claims pertaining to a period prior to the approval
+                   of the RP is no longer res integra.
+7.        We note that while dealing with an identical issue, we had in
+Ireo Fiverriver Pvt. Ltd. v. Income Tax Department & Anr.
+9
+                   recognized the legal position to be as under: -
+"3.     It is in the aforesaid backdrop that we take note of the
+                             judgment rendered by the Supreme Court in
+Ghanashyam Mishra
+                             & Sons (P) Ltd. v. Edelweiss Asset Reconstruction Co. Ltd.
+[(2021) 9 SCC 657] wherein the following principles came to be laid
+                             down:-
+"93. As discussed hereinabove, one of the principal objects of
+                                the I&B Code is providing for revival of the corporate debtor
+                                and to make it a going concern. The I&B Code is a complete
+                                Code in itself. Upon admission of petition under
+Section 7
+there are various important duties and functions entrusted to
+8
+ROI
+9
+W.P.(C) 12461/2022
+
+                  W.P.(C) 15567/2022
+Signature Not Verified                                                                       Page 3 of 9
+Digitally Signed
+By:KAMLESH KUMAR
+Signing Date:16.04.2024
+11:28:32
+RP and CoC. RP is required to issue a publication inviting
+                            claims from all the stakeholders. He is required to collate the
+                            said information and submit necessary details in the
+                            information memorandum. The resolution applicants submit
+                            their plans on the basis of the details provided in the
+                            information memorandum. The resolution plans undergo deep
+                            scrutiny by RP as well as CoC. In the negotiations that may be
+                            held between CoC and the resolution applicant, various
+                            modifications may be made so as to ensure that while paying
+                            part of the dues of financial creditors as well as operational
+                            creditors and other stakeholders, the corporate debtor is
+                            revived and is made an on-going concern. After CoC approves
+                            the plan, the adjudicating authority is required to arrive at a
+                            subjective satisfaction that the plan conforms to the
+                            requirements as are provided in sub-section (2) of
+Section 30
+of the I&B Code. Only thereafter, the adjudicating authority
+                            can grant its approval to the plan. It is at this stage that the plan
+                            becomes binding on the corporate debtor, its employees,
+                            members, creditors, guarantors and other stakeholders involved
+                            in the resolution plan. The legislative intent behind this is to
+                            freeze all the claims so that the resolution applicant starts on a
+                            clean slate and is not flung with any surprise claims. If that is
+                            permitted, the very calculations on the basis of which the
+                            resolution applicant submits its plans would go haywire and
+                            the plan would be unworkable.
+94. We have no hesitation to say that the words "other
+                            stakeholders" would squarely cover the Central Government,
+                            any State Government or any local authorities. The legislature
+                            noticing that on account of obvious omission certain tax
+                            authorities were not abiding by the mandate of the I&B Code
+                            and continuing with the proceedings, has brought out the 2019
+                            Amendment so as to cure the said mischief. We therefore hold
+                            that the 2019 Amendment is declaratory and clarificatory in
+                            nature and therefore retrospective in operation."
+4.     We also take note of the identical position which was
+                          expressed by the Supreme Court in
+Essar Steel India Ltd.
+                          Committee of Creditors v. Satish Kumar Gupta
+, [(2020) 8 SCC
+                          531] where the following pertinent observations came to be made:-
+"105.
+Section 31(1)
+of the Code makes it clear that once a
+                            resolution plan is approved by the Committee of Creditors it
+                            shall be binding on all stakeholders, including guarantors. This
+                            is for the reason that this provision ensures that the successful
+                            resolution applicant starts running the business of the corporate
+                            debtor on a fresh slate as it were. In SBI v. V. Ramakrishnan,
+
+                  W.P.(C) 15567/2022
+Signature Not Verified                                                                          Page 4 of 9
+Digitally Signed
+By:KAMLESH KUMAR
+Signing Date:16.04.2024
+11:28:32
+(2018) 17 SCC 394, this Court relying upon
+Section 31
+of the
+                           Code has held:
+"25.
+Section 31
+of the Act was also strongly relied upon
+                             by the respondents. This section only states that once a
+                             resolution plan, as approved by the Committee of
+                             Creditors, takes effect, it shall be binding on the corporate
+                             debtor as well as the guarantor. This is for the reason that
+                             otherwise, under
+Section 133
+of the Contract Act, 1872,
+                             any change made to the debt owed by the corporate
+                             debtor, without the surety's consent, would relieve the
+                             guarantor from payment.
+Section 31(1)
+, in fact, makes it
+                             clear that the guarantor cannot escape payment as the
+                             resolution plan, which has been approved, may well
+                             include provisions as to payments to be made by such
+                             guarantor. This is perhaps the reason that Annexure VI(e)
+                             to Form 6 contained in the Rules and
+Regulation 36(2)
+referred to above, require information as to personal
+                             guarantees that have been given in relation to the debts of
+                             the corporate debtor. Far from supporting the stand of the
+                             respondents, it is clear that in point of fact,
+Section 31
+is
+                             one more factor in favour of a personal guarantor having
+                             to pay for debts due without any moratorium applying to
+                             save him.
+106. Following this judgment in SBI v. V. Ramakrishnan,
+                           (2018) 17 SCC 394, it is difficult to accept Shri Rohatgi's
+                           argument that that part of the resolution plan which states that
+                           the claims of the guarantor on account of subrogation shall be
+                           extinguished, cannot be applied to the guarantees furnished by
+                           the erstwhile Directors of the corporate debtor. So far as the
+                           present case is concerned, we hasten to add that we are saying
+                           nothing which may affect the pending litigation on account of
+                           invocation of these guarantees. However, NCLAT judgment
+                           being contrary to
+Section 31(1)
+of the Code and this Court's
+                           judgment in SBI v. V. Ramakrishnan, (2018) 17 SCC 394, is
+                           set aside.
+107. For the same reason, the impugned NCLAT judgment
+                           [
+Standard Chartered Bank v. Satish Kumar Gupta
+, 2019 SCC
+                           OnLine NCLAT 388] in holding that claims that may exist
+                           apart from those decided on merits by the resolution
+                           professional and by the Adjudicating Authority/Appellate
+                           Tribunal can now be decided by an appropriate forum in terms
+                           of
+Section 60(6)
+of the Code, also militates against the
+                           rationale of
+Section 31
+of the Code. A successful resolution
+                           applicant cannot suddenly be faced with "undecided" claims
+
+
+                  W.P.(C) 15567/2022
+Signature Not Verified                                                                       Page 5 of 9
+Digitally Signed
+By:KAMLESH KUMAR
+Signing Date:16.04.2024
+11:28:32
+after the resolution plan submitted by him has been accepted as
+                             this would amount to a hydra head popping up which would
+                             throw into uncertainty amounts payable by a prospective
+                             resolution applicant who would successfully take over the
+                             business of the corporate debtor. All claims must be submitted
+                             to and decided by the resolution professional so that a
+                             prospective resolution applicant knows exactly what has to be
+                             paid in order that it may then take over and run the business of
+                             the corporate debtor. This the successful resolution applicant
+                             does on a fresh slate, as has been pointed out by us
+                             hereinabove. For these reasons, NCLAT judgment must also be
+                             set aside on this count.
+5.     In view of the aforesaid principles, the successful resolution
+                          applicant cannot be foisted with any liabilities other than those
+                          which are specified and factored in the Resolution Plan and which
+                          may pertain to a period prior to the resolution plan itself having been
+                          approved."
+8.     The
+Section 144B
+power entails proceedings for assessment,
+                   reassessment or re-computation being initiated in terms of the faceless
+                   procedure of assessment as prescribed therein. Any effort to assess,
+                   reassess or re-compute could tend to lean towards a re-computation of
+                   liabilities which otherwise stands freezed by virtue of the Resolution
+                   Plan having been approved.
+9.     Such an action or recourse would clearly be barred by
+Section 31
+of the IBC which binds all creditors of the corporate debtor, including
+                   the Central and State Governments or any other local authority to
+                   whom a debt is owed. A
+Section 144B
+action is what the Supreme
+                   Court frowned upon and chose to describe as the "hydra head " and
+                   thus being contrary to the clean slate principle which the IBC
+                   advocates. We, consequently, find ourselves unable to sustain the
+                   impugned action.
+10.    Before parting, we also take note of the submission addressed by
+
+                  W.P.(C) 15567/2022
+Signature Not Verified                                                                       Page 6 of 9
+Digitally Signed
+By:KAMLESH KUMAR
+Signing Date:16.04.2024
+11:28:32
+Mr. Maratha, who sought to draw sustenance from the judgment
+                   rendered by a learned Judge of the Madras High Court in
+Dishnet
+                   Wireless Ltd. v. Assistant Commissioner of Income Tax (OSD
+) 10
+                   wherein it was observed as follows:-
+"24.
+In
+Ghanashyam Mishra & Sons (P) Ltd. Vs. Edelweiss Asset
+                             Reconstruction Co. Ltd.
+, [2021] 227 Comp Cas 251 (SC); [2021] 91
+                             GSTR 28 (SC); (2021) 9 SCC 657, the hon'ble Supreme Court also
+                             held that (page 289 of 227 Comp Cas): "The legislative intent of
+                             making the resolution plan binding on all the stakeholders after it
+                             gets the seal of approval from the adjudicating authority upon its
+                             satisfaction, that the resolution plan approved by Committee of
+                             Creditors meets the requirement as referred to in sub-section (2) of
+section 30
+is that after the approval of the resolution plan, no surprise
+                             claims should be flung on the successful resolution applicant. The
+                             dominant purpose is that he should start with fresh slate on the basis
+                             of the resolution plan approved".
+25. In Ruchi Soya Industries Ltd. referred to supra, this had given
+                             liberty to the petitioner therein to obtain a clarification from the
+                             National Company Law Tribunal as to whether the plan included
+                             customs duty paid by the petitioner therein on the import under the
+                             subject bill of entry therein, whereas, in the present case, the
+                             documents reveal that the Income-tax was not under the
+                             contemplation of National Company Law Tribunal.
+xxxx                              xxxx                             xxxx
+28. Only thereafter, the adjudicating authority can grant its approval
+                             to the plan. It is at this stage that the plan becomes binding on the
+                             corporate debtor, its employees, members, creditors, guarantors and
+                             other stakeholders involved in the resolution plan. The legislative
+                             intent behind this is to freeze all the claims so that the resolution
+                             applicant starts on a clean slate and is not flung with any surprise
+                             claims.
+29. The resolution plan submitted on behalf of the petitioners by the
+                             Insolvency Resolution Professional under
+Section 30(6)
+of the
+                             Insolvency and Bankruptcy Code, 2016 on May 21, 2019 has not
+                             contemplated any concession from the Income-tax Department
+                             though notices under
+Section 148
+of the Income-tax Act, 1961 had
+                             already been issued during March, 2018.
+30. Corporate Insolvency resolution plan approved under
+Section 31
+10
+2022 SCC OnLine Mad 3643
+
+
+                  W.P.(C) 15567/2022
+Signature Not Verified                                                                            Page 7 of 9
+Digitally Signed
+By:KAMLESH KUMAR
+Signing Date:16.04.2024
+11:28:32
+of the Insolvency and Bankruptcy Code, 2016 (IBC) did not
+                          contemplate tax dues under the
+Income-tax Act, 1961
+. Further, at the
+                          stage, the proceedings under 148 of the Act, 1961 had not
+                          crystallized.
+31. The objections of the respective petitioners were also not in the
+                          light of the voluntary corporate insolvency resolution proceedings
+                          initiated by the petitioners.
+32. Since the proceedings under the Code were initiated by the
+                          petitioners few days prior to the initiation of the proceedings under
+Section 148
+of the Income-tax Act, 1961, it was incumbent for the
+                          petitioners to have ensured proper notice to the Income-tax
+                          Department and obtained appropriate concession in Corporate
+                          Insolvency Resolution Plan.
+33. That apart, claims of the Income-tax Department were not
+                          considered by the National Company Law Tribunal, Mumbai, while
+                          approving the resolution plan and therefore the question of abetment
+                          of such rights of the Income-tax Department cannot be
+                          countenanced.
+34. The provisions of Insolvency and Bankruptcy Code, 2016 (IBC)
+                          cannot be interpreted in a manner which is inconsistent with any
+                          other law for the time being in force."
+11.    Although the judgment of the Supreme Court in Ghanashyam
+                   Mishra was duly cited in Dishnet Wireless, the Madras High Court
+                   sought to draw a distinction between voluntary and involuntary
+                   insolvency as well as the fact that the Department had not been placed
+                   on due notice. The judgment of the Supreme Court in Ghanashyam
+                   Mishra was sought to be distinguished, with it being observed that the
+                   same had not been rendered in the context of voluntary corporate
+                   insolvency.
+12.    With all due respect, we find ourselves unable to sustain that line
+                   of reasoning bearing in mind the undisputable legal position which
+                   obtains in light of the scheme of the IBC and which fails to incorporate
+                   any    distinction    between     voluntary     and     involuntary     corporate
+
+                  W.P.(C) 15567/2022
+Signature Not Verified                                                                     Page 8 of 9
+Digitally Signed
+By:KAMLESH KUMAR
+Signing Date:16.04.2024
+11:28:32
+insolvency. As we read the provisions of the Act, the IBC does not
+                   erect different levels of protection or insulation dependent upon
+                   whether corporate insolvency had been initiated voluntarily or on the
+                   basis of a petition referable to
+Section 7
+of the IBC.
+13.
+In our considered opinion, the purport of
+Section 31
+of the IBC
+                   stands conclusively settled by the Supreme Court in terms of the
+                   judgments rendered in
+Essar Steel India Ltd. Committee of
+                   Creditors v. Satish Kumar Gupta
+11 and Ghanashyam Mishra as was
+                   noticed by us in Ireo Fiverriver. We also bear in mind that upon
+                   commencement of CIRP, the petition is duly advertised in terms of the
+                   provisions made in
+Regulation 6
+of the Insolvency and Bankruptcy
+                   Board of India (Insolvency Resolution Process for Corporate Persons)
+                   Regulations, 2016 and which would thus constitute due public
+                   announcement. The respondents, therefore, cannot sustain the
+                   invocation of
+Section 144B
+based on their own failure to lodge a claim
+                   within the time stipulated.
+14.       Accordingly, and for all the aforesaid reasons, we allow the
+                   instant writ petition and quash the impugned notices dated 27 June
+                   2022, 28 June 2022 and 05 September 2022.
+YASHWANT VARMA, J.
+PURUSHAINDRA KUMAR KAURAV, J.
+APRIL 15, 2024/RW
+11
+(2020) 8 SCC 531
+
+
+                  W.P.(C) 15567/2022
+Signature Not Verified                                                            Page 9 of 9
+Digitally Signed
+By:KAMLESH KUMAR
+Signing Date:16.04.2024
+11:28:32

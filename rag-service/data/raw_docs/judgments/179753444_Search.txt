@@ -1,0 +1,618 @@
+Title: Search
+Court: High Court
+Date: Unknown Date
+Citation: SCC 638.
+Source: https://indiankanoon.org/doc/179753444/
+
+[Cites
+14
+, Cited by
+0
+]
+Delhi High Court
+Dinesh Jhunjhunwala vs Citixsys Technologies Ltd. & Ors. on 29 July, 2022
+Author:
+Navin Chawla
+Bench:
+Navin Chawla
+*        IN THE HIGH COURT OF DELHI AT NEW DELHI
+                                                            Reserved on: 08.07.2022
+                                                            Date of decision: 29.07.2022
+
+                    +        CO.A(SB) 21/2016 & Co.Appl. No. 1343/2019
+
+                             DINESH JHUNJHUNWALA                             ..... Appellant
+
+                                               Through:    Mr.Ranjana Roy Gawai               and
+                                                           Mr.Vineet Wadhwa, Advs.
+
+                                               versus
+
+
+
+                             CITIXSYS TECHNOLOGIES LTD. & ORS.               .....Respondents
+
+                                               Through:    Mr.Darpan Wadhwa, Sr. Adv. with
+                                                           Mr.     VedantaVarma,Mr.Vibhor
+                                                           Kush and Mr.Akhil Kumar Gola,
+                                                           Advs. for R-1.
+                                                           Mr.NikhilSinghvi and Mr.Mohit
+                                                           Seth, Advs. for R-2.
+
+
+
+                             CORAM:
+                             HON'BLE MR. JUSTICE NAVIN CHAWLA
+
+
+                             NAVIN CHAWLA, J.
+1.       This is an appeal filed under
+Section 10-F
+of the Companies Act,
+                    1956 (hereinafter referred to as the "Act") by the Appellant, challenging
+                    the order dated 29.12.2015 passed by the then Company Law Board
+                    (hereinafter referred to as the "CLB"), New Delhi in Company Petition
+Signature Not Verified
+Digitally Signed By:SHALOO
+BATRA
+Signing Date:30.07.2022
+17:48:49            CO.A(SB) 21/2016                                           Page 1 of 15
+(CP) No.130(ND) of 2015 (hereinafter referred to as the "Company
+                    Petition").
+2.       By the Impugned Order dated 29.12.2015, the learned CLB was
+                    pleased to dismiss the Company Petition filed by the Appellant herein
+                    under
+Section 397
+/
+398
+of the Act, on the ground that the Appellant, along
+                    with the other shareholders of the Respondent no. 1-Company from
+                    whom also he had taken consent to file the Company Petition on their
+                    behalf as well (hereinafter referred to as the "Consenters"), had failed to
+                    constitute 1/10th of the total number of members of the Respondent no. 1-
+                    Company as on the date of filing of the Company Petition. Liberty was
+                    granted to the Appellant to proceed on the same cause of action before
+                    the learned CLB after obtaining approval under
+Section 399(4)
+of the Act
+                    or before the Civil Court.
+3.       The Appellant had filed the abovementioned Company Petition
+                    before the learned CLB, inter alia, contending his locus and claiming to
+                    have satisfied the eligibility conditions to file the said Petition under
+Section 399
+of the Act, by stating that the Appellant, along with
+                    "Consenters" No. 1 to 5, collectively held and represent 2.37% of the
+                    equity share capital of the Respondent no. 1-Company. It was alleged as
+                    per the filings made by the Respondent no. 1-Company with the Registrar
+                    of Companies, that there were approximately 36 shareholders in the
+                    Respondent no.1-Company and thus, the Appellant along with the five
+                    Consenters collectively constitute more than 1/10th of the total number of
+                    members of the Respondent no.1-Company and, therefore, are qualified
+Signature Not Verified
+Digitally Signed By:SHALOO
+BATRA
+Signing Date:30.07.2022
+17:48:49            CO.A(SB) 21/2016                                            Page 2 of 15
+in terms of
+Section 399
+of the Act to institute the said Company Petition
+                    under
+Section 397
+/
+398
+of the Act.
+4.       The learned counsel for the Appellant submits, and the same is also
+                    reflected from the Impugned Order dated 29.12.2015, that on the date of
+                    mentioning of the Company Petition before the learned CLB, an
+                    objection was taken by the Respondent no.1-Company that the Appellant
+                    along with the five Consenters, did not satisfy the 10% threshold as
+                    required under
+Section 399
+of Act. It was alleged that one of the consent
+                    letters annexed with the Company Petition appeared to have been taken
+                    before preparing the draft of the Company Petition and, in fact, these
+                    very consent letters were used by the Appellant even in the earlier
+                    Company Petition filed by him, which were later withdrawn. It was
+                    contended that as on the date of filing of the Company Petition, there
+                    were 87 members continuing as shareholders in the Respondent no. 1-
+                    Company and, therefore, even if the consent letters are assumed to be
+                    correct, the Appellant's group does not constitute 1/10th of the total
+                    number of members of the Respondent no.1-Company and, therefore, the
+                    Company Petition is liable to dismissed.
+5.       As far as the objection on the consent letters is concerned, the
+                    learned CLB, vide its Impugned Order dated 29.12.2015 did not find any
+                    merit in the arguments of the Respondent no.1-Company and rejected the
+                    same. There is no challenge of the respondents to this finding and no
+                    submission in this regard has been urged before this court.
+6.       As far as the objection on the Appellant not constituting 1/10th of
+                    the total number of members is concerned, even taking into account the
+Signature Not Verified
+Digitally Signed By:SHALOO
+BATRA
+Signing Date:30.07.2022
+17:48:49            CO.A(SB) 21/2016                                              Page 3 of 15
+consent letters, the learned CLB, after perusing the original register of the
+                    members disclosing that there were 87 members in the Respondent no. 1-
+                    Company as on 27.03.2015, held that as the Appellant's group admittedly
+                    constituted only six members, and as such they did not fulfill the
+                    condition as prescribed under
+Section 399
+of the Act to maintain the
+                    Company Petition under
+Section 397
+/
+398
+of the Act.
+7.       In reaching the above conclusion, the learned CLB observed that
+                    on perusal of the original register of members, it was evident that the last
+                    entry made with respect to transfer of shares was on 27.03.2015, whereas
+                    the Company Petition was filed on 18.12.2015. The Appellant was,
+                    therefore, under an obligation to know the actual number of members
+                    soon before the filing of the Company Petition, which the Appellant did
+                    not do by asking the Respondent no.1-Company, and instead filed the
+                    Company Petition relying upon Form SH-11 filed by the Respondent
+                    no.1-Company in the year 2014. The learned CLB observed that it was
+                    not the case of the Appellant's group that the Respondent no.1-Company
+                    manufactured the register. Even if it is presumed that the contention of
+                    the Appellant's group is that the Respondents manufactured the record to
+                    disqualify the Appellant's group for filing this Company Petition, then
+                    also, that being a fabrication, the remedy lies before the Civil Court to
+                    prove that the record is fabricated.
+8.       The learned counsel for the Appellant submits that the learned
+                    CLB has erred in dismissing the Company Petition filed by the Appellant
+                    merely by perusing the register of the shareholders produced by the
+                    Respondent no. 1-Company/Respondents. No opportunity to rebut the
+Signature Not Verified
+Digitally Signed By:SHALOO
+BATRA
+Signing Date:30.07.2022
+17:48:49            CO.A(SB) 21/2016                                             Page 4 of 15
+contents of the register and/or to raise the plea that the transfer of shares
+                    to increase the number of members of company was fraudulent, was
+                    provided to the Appellant by the learned CLB. Even a copy of the
+                    register of the Respondent no.1-Company was not given to the Appellant
+                    and the contents thereof were presumed by the learned CLB to be
+                    genuine enough to dismiss the Company Petition filed by the Appellant.
+9.       Placing reliance on the judgment of this Court in M/s DayagenPvt.
+Ltd. vs. Mr.Rajendra Dorian Punj&Anr.
+, 2008 (105) DRJ 29, she
+                    submits that the Company Petition could have been dismissed on a
+                    demurrer only if the claim put forward by the appellant cannot be
+                    established, even if all the allegations made in the petition are accepted to
+                    be true. In the present case, the Appellant had clearly pleaded, based on
+                    the documents of the Respondent no.1-Company, that there were 36
+                    members in the Respondent no. 1-Company. In fact, if the Respondent
+                    no. 1-Company was to dispute the same, the learned CLB should have
+                    called upon the Respondent no. 1-Company to file an appropriate
+                    application in this regard and should have given an opportunity to the
+                    Appellant to rebut the same and/or challenge any transfer made by the
+                    Respondent no. 1-Company merely to defeat the right of the Appellant to
+                    institute and maintain a petition under
+Section 397
+/
+398
+of the Act.
+In
+                    support of her submission, she also places reliance on the judgment of the
+                    Supreme Court in
+Ramesh B. Desai and Ors. vs. Bipin Vadilal Mehta
+                    and Ors.
+, (2006) 5 SCC 638.
+10.      She further places reliance on the order of the learned CLB in
+Mrs.
+                    Farhat Sheikh vs. EsemenMetalo Chemicals Pvt. Ltd. &Ors.
+, (1996) 87
+Signature Not Verified
+Digitally Signed By:SHALOO
+BATRA
+Signing Date:30.07.2022
+17:48:49            CO.A(SB) 21/2016                                              Page 5 of 15
+Comp Cas 290 (CLB) and Mrs. Shieila Anne Mcfarlane vs. Gaffino
+                    Resorts and Motels P. Ltd. &Ors. (2007) 140 Comp Cas 313 (CLB); of
+                    the Supreme Court in Dale & Carrington Invt. (P).
+Ltd. &Anr. vs. P.K.
+                    Prathapan and Others
+, (2005) 1 SCC 212; of the Madras High Court in
+M/S S.V.T. Spinning Mills Pvt. Ltd. &Ors. vs. M. Palanisami &Ors.
+(2009) 151 Comp Cas 233 (Mad); and of this Court in Umesh Kumar
+                    Baveja&Ors. vs. IL&FS Transportation Network Ltd. &Ors. 2013 (138)
+                    DRJ 597, to submit that the very act of transfer of shares to defeat the
+                    right of the Appellant to maintain the Company Petition under
+Section
+                    397
+/
+398
+of the Act would be an act of oppression, which can be and
+                    should have been adjudicated upon by the learned CLB, instead of
+                    dismissing the Company Petition in limine.
+11.      On the other hand, the learned counsel for the Respondents submit
+                    that the Appellant made no endeavor to discover the number of members
+                    of the Respondent no. 1-Company by seeking inspection of the record of
+                    the Respondent no. 1-Company or calling for the details thereof from the
+                    Respondent no. 1-Company. In absence of any such effort and there
+                    being no challenge to the transfer of shares recorded by the Respondent
+                    no. 1-Company, which had resulted in the increase of number of its
+                    members, the learned CLB has rightly dismissed the Company Petition as
+                    there was no dispute to be adjudicated regarding such transfer.
+12.      I have considered the submissions made by the learned counsels
+                    for the parties.
+Section 399
+of the Act reads as under:-
+Section 399
+of Companies Act, 1956
+Signature Not Verified
+Digitally Signed By:SHALOO
+BATRA
+Signing Date:30.07.2022
+17:48:49            CO.A(SB) 21/2016                                            Page 6 of 15
+"(1) The following members of a company
+                                       shall have the right to apply under
+section 397
+or 398:
+(a) in the case of a company having a share
+                                       capital, not less than one hundred members of
+                                       the company or not less than one- tenth of the
+                                       total number of its members, whichever is less,
+                                       or any member or members holding not less
+                                       than one- tenth of the issued share capital of
+                                       the company, provided that the applicant or
+                                       applicants have paid all calls and other sums
+                                       due on their shares;
+(b) in the case of a company not having a
+                                       share capital, not less than one- fifth of the
+                                       total number of its members.
+(2) For the purposes of sub- section (1), where
+                                       any share or shares are held by two or more
+                                       persons jointly, they shall be counted only as
+                                       one member.
+(3) Where any members of a company are
+                                       entitled to make an application in virtue of
+                                       sub- section (1), any one or more of them
+                                       having obtained the consent in writing of the
+                                       rest, may make the application on behalf and
+                                       for the benefit of all of them.
+(4) The Central Government may, if in its
+                                       opinion circumstances exist which make it just
+                                       and equitable so to do, authorise any member
+                                       or members of the company to apply to
+                                       the [Company Law Board] under
+section 397
+or 398, notwithstanding that the requirements
+                                       of clause (a) or (b), as the case may be, of sub-
+                                       section (1) are not fulfilled.
+(5) The Central Government may, before
+                                       authorising any member or members as
+                                       aforesaid, require such member or members to
+                                       give security for such amount as the Central
+                                       Government may deem reasonable for the
+                                       payment of any costs which the [Company
+                                       Law Board] dealing with the application, may
+                                       order such member or members to pay to any
+                                       other person or persons who are parties to the
+                                       application."
+Signature Not Verified
+Digitally Signed By:SHALOO
+BATRA
+Signing Date:30.07.2022
+17:48:49            CO.A(SB) 21/2016                                                  Page 7 of 15
+13.      For maintaining a petition under
+Section 397
+/
+398
+of the Act, the
+                    Appellant must show that it constitutes not less than one hundred
+                    members of the company or not less than 1/10th of the total number of its
+                    members, whichever is less or is holding not less than 1/10th of the issued
+                    share capital of the company. In the present case, the Appellant in the
+                    Company Petition filed by him before the learned CLB, had pleaded as
+                    under:-
+"2.10 As per the filings made by Respondent
+                                          Company with the Registrar of Companies,
+                                          there are approximately 36 shareholders in
+                                          Respondent Company and thus Petitioner
+                                          group collectively constitute more than 1/10th
+                                          of the total number of the members of the
+                                          Respondent Company and thus duly qualified
+                                          in terms of
+Section 399
+of the Act to institute
+                                          the present Petition under
+Section 397
+/
+398
+of
+                                          the Act."
+14.      The Appellant had filed the Company Petition relying on Form-
+                    SH-11 filed by the Respondent no.1-Company with the Registrar of
+                    Companies. The Appellant had further pleaded that prior to the filing of
+                    the Company Petition, the Appellant vide e-mail dated 02.09.2015,
+                    requested the Respondent no.1-Company to provide the Audited
+                    Financial Report for the year 2014-15 to the Appellant, including the
+                    Balance-Sheet and Profit and Loss Statement. The same, however, had
+                    not been supplied by the Respondent no.1-Company.
+15.      It is also relevant to note that before the filing of the Company
+                    Petition in question, the Appellant had earlier filed another Company
+                    Petition being CP No. 12/2015, which was, however, dismissed as
+Signature Not Verified
+Digitally Signed By:SHALOO
+BATRA
+Signing Date:30.07.2022
+17:48:49            CO.A(SB) 21/2016                                                   Page 8 of 15
+withdrawn on 10.02.2015, with liberty to file a fresh Company Petition
+                    on the same cause of action. The learned counsel for the Appellant
+                    explains that the same was withdrawn as some lacuna was pointed out by
+                    the Respondents in the Consent Letters obtained by the Appellant from
+                    the other five shareholders for filing of the said Company Petition. The
+                    Appellant filed another Company Petition being CP No. 123/2015, which
+                    was also dismissed as withdrawn on 14.12.2015, again with liberty to file
+                    a fresh petition and to take back the original consent letters filed along
+                    with the additional affidavit of the Appellant. The learned counsel for the
+                    Appellant submits that the said Company Petition had to be withdrawn on
+                    account of a clerical error, as the Consent Letters were not filed in
+                    original along with the said Company Petition. It is thereafter that the
+                    Appellant filed the Company Petition, which has been dismissed by the
+                    Impugned Order dated 29.12.2015. Therefore, the Appellant has been
+                    pursuing this cause of action since January 2015. The Impugned Order
+                    dated 29.12.2015 records that no transfer of shares has taken place from
+                    27.3.2015, however, does not state if any transfer of shareholding had
+                    taken place after January 2015, when the first petition was filed by the
+                    Appellant.
+16.      Though it may be correct that the Appellant, before filing of the
+                    Company Petition, should have verified the number of members from the
+                    Respondent no.1-Company, however, it is also well settled law that the
+                    Appellant could have maintained the Company Petition before the
+                    learned CLB, if by having knowledge of such transfers, it had challenged
+Signature Not Verified
+Digitally Signed By:SHALOO
+BATRA
+Signing Date:30.07.2022
+17:48:49            CO.A(SB) 21/2016                                            Page 9 of 15
+such transfers before the learned CLB in the Company Petition as being
+                    oppressive.
+17.      In M/s DayagenPvt.
+Ltd.
+(Supra), this Court considered the
+                    challenge to an order passed by the learned CLB wherein the learned
+                    CLB had refused to dismiss the Company Petition at a preliminary stage
+                    on the ground that the very issue of additional shares was in question in
+                    the Company Petition therein. This Court held that a petition can be
+                    dismissed at a preliminary stage only if the claim put forward by the
+                    applicant cannot be established even if all the allegations made in the
+                    Company Petition are accepted to be true. The test is whether, even if the
+                    facts pleaded by the Petitioner in his petition under
+Sections 397
+and
+399
+of the Act are assumed to be true, the Company Petition filed by him can
+                    be held to be not maintainable. This test is similar to the test applied by a
+                    Civil Court while dealing with the issue of rejection of the plaint under
+                    Order VII Rule 11
+CPC
+. The reduction of the percentage of shareholding
+                    of an existing member to a miniscule minority has been recognized as an
+                    act of oppression. If an allotment of shares, increase in the issued share
+                    capital, or increase in the number of members is done with the sole aim
+                    of gaining control over the management of the Board/Company and to
+                    defeat the legitimate right of other shareholders, the Court can always set
+                    aside such an increase or allotment.
+18.
+In M/s
+S.V.T. Spinning Mills Pvt. Ltd. &Ors.
+(Supra), the High
+                    Court of Madras agreed with the learned CLB that the issues of locus of
+                    rights and interests of the Applicant in the Company Petition should be
+Signature Not Verified
+Digitally Signed By:SHALOO
+BATRA
+Signing Date:30.07.2022
+17:48:49            CO.A(SB) 21/2016                                              Page 10 of 15
+decided in detail while hearing the main Company Petition and not as a
+                    preliminary issue of an applicant challenging such maintainability.
+19.      This Court in
+Umesh Kumar Baveja & Ors.
+(Supra), placing
+                    reliance on the judgments of the Madras High Court in M/sS.V.T.
+Spinning Mills (P) Ltd. vs. M. Palanisami (Supra
+) and of the Supreme
+                    Court in
+World Wide Agencies Pvt.Ltd., vs. Margarat
+. T. Desor (1990) 1
+                    SCC 536, held that while considering maintainability of the Petition,
+                    construction which furthers the purpose intended to be fulfilled by such
+                    petitions filed against oppression and mismanagement and would
+                    facilitate the solution of problems in the case of oppression, has to be
+                    adopted. I may only quote from
+the said judgment
+, as under: -
+18.
+In
+S.V.T. Spinning Mills (P) Ltd. v. M.
+                                        Palanisami
+, (2009) 95 SCL 112, the Madras
+                                        High Court held as under: -
+"The              applicabilityof
+sections
+                                              397
+and
+398
+of the Companies Act is an
+                                              equitable jurisdiction which is intended
+                                              to protect the minority members of the
+                                              company from any oppression and
+                                              mismanagement at the hands of
+                                              majority members. It is in that
+                                              background, the Supreme Court has
+                                              held that the wider meaning of the term
+                                              'member' should be given in the context
+                                              of
+sections      397
+and
+398
+of        the
+                                              Companies Act. On the facts and
+                                              circumstances of the case, especially in
+                                              the circumstance that the respondents
+                                              filed a composite application, viz., the
+                                              company petition seeking reliefs
+                                              including the issuance of duplicate
+                                              share certificates, I am of the
+                                              considered view that the claim of the
+                                              respondents herein in the company
+                                              petition cannot be thrown out at the
+Signature Not Verified
+Digitally Signed By:SHALOO
+BATRA
+Signing Date:30.07.2022
+17:48:49            CO.A(SB) 21/2016                                                  Page 11 of 15
+threshold without even going into the
+                                             merits of the issue raised by the
+                                             respondents under the guise of deciding
+                                             the question of maintainability as a
+                                             preliminary issue."
+It is significant to note that while arriving at
+                                       the aforesaid view the Madras High Court
+                                       referred to both the judgment of the single
+                                       judge of the Karnataka High Court (supra)
+                                       and the judgment of the Gujarat High Court
+                                       (supra). It is also to be noted that the
+                                       judgment of the Supreme Court referred to by
+                                       the Madras High Court in the quoted
+                                       paragraph of its judgment is that in
+World
+                                       Wide Agencies v. Margarat T. Desor
+, (1990) 1
+                                       SCC 536. In the case before the Supreme
+                                       Court; an objection was taken that in view of
+                                       the specific provisions of
+Section 41(2)
+, a
+                                       member is one whose name is entered in the
+                                       register of members. In that case, the
+                                       member/shareholder of the company was one
+                                       S. K. Desor. His name was entered in the
+                                       register of members. On his death, his name
+                                       continued to remain in the register. The names
+                                       of his legal heirs had not been entered in the
+                                       register when the applications were moved by
+                                       them under
+sections 397-398
+of the Act. The
+                                       Supreme Court, following certain English
+                                       authorities, opined that having regard to the
+                                       scheme and purpose of
+section 397
+and
+398
+, it
+                                       would be a proper construction to hold that
+                                       the legal heirs of late S. K. Desor were
+                                       members within the meaning of these sections.
+The overriding considerations, in the opinion
+                                       of the Supreme Court were that this
+                                       construction would further the purpose
+                                       intended to be fulfilled by petitions filed
+                                       against oppression and mismanagement and
+                                       would facilitate solution of problems in case of
+                                       oppression of the minorities when the member
+                                       is dead and his heirs or legal representatives
+                                       are yet to be substituted. It would be an
+                                       equitable and just construction and therefore,
+                                       it was held that it should be adhered to. It
+Signature Not Verified
+Digitally Signed By:SHALOO
+BATRA
+Signing Date:30.07.2022
+17:48:49            CO.A(SB) 21/2016                                                 Page 12 of 15
+seems to me that the ratio of the judgment of
+                                         the Supreme Court, so far as
+sections
+                                         397
+and
+398
+are concerned, is that given the
+                                         facts and circumstances of a particular case,
+                                         and having regard to the requirements of
+                                         justice and equity in the background of the
+                                         facts and circumstances of the case, it would
+                                         be open to the Court to relax or overlook the
+                                         condition imposed by
+section 41(2)
+and hold
+                                         that the person bringing the action and who
+                                         claims to be a member or shareholder of the
+                                         company, need not be entered in the register
+                                         of members in order to maintain the action.
+19. It seems to me in light of the authorities
+                                         cited above that the interpretation to be placed
+                                         on
+section 41(2)
+vis-a-vis petitions filed
+                                         seeking relief from oppression and
+                                         mismanagement should be governed not
+                                         strictly by the requirements of the sub-section,
+                                         so long as in substance and effect the person
+                                         complaining of acts of oppression and
+                                         mismanagement has been recognised or
+                                         treated as shareholder/member by the conduct
+                                         of the company, and that in giving effect to the
+                                         remedies        against     the       grievance,
+                                         considerations of equity and justice should be
+                                         allowed to prevail.
+20.      Applying the above test to the facts of the present case, the
+                    Respondents merely produced the Register of Members before the
+                    learned CLB. It did not even file any application before the learned CLB
+                    challenging the maintainability of the Company Petition. The learned
+                    CLB placed reliance on the register of members so produced, without
+                    giving any opportunity to the Appellant to challenge the entries made
+                    therein. In fact, even a copy thereof was not supplied to the Appellant.
+                    Once it is accepted that the Appellant can also challenge the transfer of
+                    shareholding as being oppressive and as being intended only to defeat the
+Signature Not Verified
+Digitally Signed By:SHALOO
+BATRA
+Signing Date:30.07.2022
+17:48:49            CO.A(SB) 21/2016                                                   Page 13 of 15
+right of the Appellant to maintain his petition under
+Section 397
+/
+398
+of
+                    the Act, an opportunity should have been granted to the Appellant to
+                    peruse the register of members and, if so advised, challenge the same in
+                    accordance with law. The Company Petition, on the averments made in
+                    the Petition itself, could not have been thrown out at the threshold
+                    without granting such opportunity to the Appellant. As noted
+                    hereinabove, the learned CLB should have considered if the transfer of
+                    shares was made after the filing of the first Company Petition by the
+                    Appellant in January, 2015 and alteast prima facie showed any mala fide
+                    intent of the Respondent no.1-Company to record such transfer only to
+                    defeat the right of the Appellant to maintain the Company Petition under
+Section 397
+/
+398
+of the Act.
+21.      In view of the above, in my opinion, the learned CLB has acted in
+                    haste in dismissing the Company Petition filed by the Appellant without
+                    affording an adequate opportunity to the Appellant to satisfy the learned
+                    CLB on the maintainability of the Company Petition, by amending the
+                    Company Petition, if so required.
+22.      Accordingly, the Impugned Order dated 29.12.2015 is set aside
+                    and the Company Petition is restored back to its original number.
+23.      It is however, made clear that this court has not expressed any
+                    opinion on the Register of Members or any challenge that the appellant
+                    may lay to the transfer of shareholding recording in the Register of
+                    Members. These issues are left open to be considered by the appropriate
+                    forum in accordance with law.
+Signature Not Verified
+Digitally Signed By:SHALOO
+BATRA
+Signing Date:30.07.2022
+17:48:49            CO.A(SB) 21/2016                                            Page 14 of 15
+24.      There shall be no order as to costs.
+NAVIN CHAWLA, J
+                    JULY 29 , 2022/rv/DJ/Ais
+Signature Not Verified
+Digitally Signed By:SHALOO
+BATRA
+Signing Date:30.07.2022
+17:48:49            CO.A(SB) 21/2016                                     Page 15 of 15

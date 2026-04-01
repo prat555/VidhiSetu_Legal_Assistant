@@ -1,0 +1,2365 @@
+Title: Search
+Court: High Court
+Date: 2 WLR 1140
+Citation: SCC 439;
+Source: https://indiankanoon.org/doc/13869793/
+
+[Cites
+53
+, Cited by
+5
+]
+Delhi High Court
+Pti Employees Union vs Press Trust Of India Ltd on 18 September, 2020
+Author:
+J.R. Midha
+Bench:
+J.R. Midha
+$~
+                          * IN THE HIGH COURT OF DELHI AT NEW DELHI
+
+                          %                                         Date of Decision: 18th September, 2020
+
+                          +      W.P.(C) 10596/2018 & CM APPL.41299/2018, 48595/2019
+
+                                 PTI EMPLOYEES UNION                                       .... Petitioner
+                                              Through :                    Mr. Colin Gonsalves, Senior
+                                                                           Advocate with Ms. Aditi
+                                                                           Gupta, Advocate
+
+                                                         versus
+
+
+                                 PRESS TRUST OF INDIA LTD.              ....Respondent
+                                               Through :   Mr. P.S. Patwalia, Senior
+                                                           Advocate with Mr. N. B.
+                                                           Joshi, Mr. Anurag Ranjan,
+                                                           and    Ms.  Seema      Neb,
+                                                           Advocates
+
+                          +      W.P.(C) 10605/2018 & CM APPL.41305/2018, 31916/2019
+
+                                 FEDERATION OF PTI EMPLOYEES‟ UNIONS ...Petitioner
+                                              Through :  Mr. Colin Gonsalves, Senior
+                                                         Advocate with Ms. Aditi
+                                                         Gupta, Advocate
+
+                                                         versus
+
+
+                                 PRESS TRUST OF INDIA & ANR. ....   Respondents
+                                               Through :  Mr. P.S. Patwalia, Senior
+                                                          Advocate with Mr. N. B.
+                                                          Joshi, Mr. Anurag Ranjan,
+                                                          and     Ms.  Seema    Neb,
+                                                          Advocates
+
+
+
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                                   Page 1 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+                                  CORAM:
+                                 HON'BLE MR. JUSTICE J.R. MIDHA
+
+                                                             JUDGMENT
+1.     The petitioner in W.P.(C) 10596/2018 is a Trade Union of PTI
+                          employees whereas the petitioner in W.P.(C) 10605/2018 is a Federation of
+                          four PTI Employees‟ Unions.
+2.     Both the petitioners have challenged the retrenchment of 297
+                          employees by Press Trust of India (hereinafter referred to as „PTI‟) on 29 th
+                          September, 2018. The petitioners, in both these writ petitions, are seeking
+                          the same relief, i.e., quashing of the retrenchment notices dated 29th
+                          September, 2018 issued to 297 retrenched employees, their reinstatement
+                          with back wages and consequential benefits. In W.P.(C) 10605/2018, the
+                          petitioner has sought an alternative prayer for constitution of National
+                          Tribunal for adjudication of industrial disputes but this alterative prayer was
+                          given up during the course of hearing.
+3.     The petitioners have challenged the retrenchment of 297 employees of
+                          PTI on various grounds inter alia that PTI is amenable to writ jurisdiction as
+                          it satisfies the public function test; all the retrenched employees are
+                          „workmen‟ within the meaning of
+Section 2(s)
+of Industrial Disputes Act,
+                          1947; PTI is a „factory‟ within the meaning of
+Section 2(m)
+of the Factories
+                          Act, 1948 as PTI engages in „manufacturing process‟ of news, articles,
+                          publications, photographs etc. within the meaning of
+Section 2(k)(i)
+&
+Section 2(k)(iv)
+of the Factories Act, 1948; all the 37 centers of PTI in the
+                          country constitute a single establishment under
+Section 2(d)
+read with the
+                          Schedule of the Working Journalists and Other Newspaper Employees
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                           Page 2 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+(Conditions of Service) and Miscellaneous Provisions Act, 1955 (hereinafter
+                          referred to as "Working Journalists Act, 1955"); all centers/ establishments
+                          of PTI are industrial establishments within the meaning of
+Section 25-L
+of
+                          Industrial Disputes Act; permanent and regular workmen have been
+                          retrenched while contractual workers have been retained; senior permanent
+                          workmen have been retrenched while junior workers have been retained; the
+                          principle of „last come first go‟ has not been followed; fresh engagement of
+                          workmen is in violation of
+Section 25-H
+of the Industrial Disputes Act;
+                          seniority list has not been displayed as required by Rule 77 of the Industrial
+                          Disputes Rules; the retrenchment is violative of
+Section 25-N
+of the
+                          Industrial Disputes Act as PTI employs more than 100 employees and has
+                          not taken the prior permission from the State Government before
+                          retrenchment; retrenchment is violative of
+Section 25-N
+of Industrial
+                          Disputes Act as three months notice/three months wages in lieu of notice has
+                          not been given; retrenchment is violative of
+Sections 25-F
+and
+25-G
+of the
+                          Industrial Disputes Act as one month notice indicating the reasons for
+                          retrenchment and the retrenchment compensation has not been given;
+                          retrenchment is violative of
+Section 9A
+of the Industrial Disputes Act read
+                          with Clauses 10 and 11 of the Fourth Schedule as the service conditions of
+                          the employees relating to rationalization/technique were altered without
+                          notice; the retrenchment is violative of Section 16A of the Working
+                          Journalists Act, 1955 as the reason for retrenchment was the liability for
+                          payment of wages and mandating promotional grades as per Clause 18(f) of
+                          Majithia Award; the retrenchment is violative of
+Section 25-G
+of Industrial
+                          Disputes Act as there is substantial short payment of retrenchment
+                          compensation to the employees; closure of Attendees, Transmission and
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                           Page 3 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+Engineering departments is violative of
+Section 25-O
+of the Industrial
+                          Disputes Act as the closure was without permission and the retrenchment is
+                          illegal and mala fide to sabotage the continued disbursement of Majithia
+                          Award benefits and to discourage the employees to pursue their remedies
+                          under the Wage Board; the retrenchment constitutes an unfair trade practice
+                          as set out in clauses 5(a), (b) and (d) of the
+Fifth Schedule of the Industrial
+                          Disputes Act
+; large number of employees have not yet received individual
+                          notice of their retrenchment; and the plea of "No work" of PTI is false and
+                          contrary to PTI work registers.
+4.     The     respondent       has       raised   preliminary   objections   to    the
+                          maintainability of the writ petitions on various grounds inter alia that PTI is
+                          a Company incorporated under the
+Companies Act
+; PTI is not a State within
+                          the meaning of
+Article 12
+of the Constitution; PTI is not a public authority;
+                          PTI does not perform a pubic function and therefore, not amenable to writ
+                          jurisdiction; the actions of PTI in respect of employer-employee relationship
+                          cannot be tested under the writ jurisdiction; the retrenched employees have
+                          statutory remedy under the
+Industrial Disputes Act
+; the petitioners have
+                          already invoked the remedy under the
+Industrial Disputes Act
+and have not
+                          approached this Court with clean hands; and the writ petitions raise disputed
+                          questions of facts which requires detailed evidence and therefore, cannot be
+                          adjudicated in the writ jurisdiction. The respondent has also challenged the
+                          maintainability of the writ petitions on the ground that the petitioners have
+                          filed the writ petitions without any authorization from the retrenched
+                          employees. The respondent has also challenged the maintainability of two
+                          writ petitions with identical contentions seeking identical reliefs. According
+                          to respondent, these writ petitions are collusive.
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                                  Page 4 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+5.     The respondent has filed detailed counter-affidavit on merits.
+                          According to the respondent, there was no work for the retrenched
+                          employees for a long period and they were continued despite there being no
+                          work due to which PTI was suffering operational losses. It was further
+                          averred that management has the right to decide the strength of its workforce
+                          required to carry out its work efficiently. The respondent paid Rs.40.15
+                          crores towards retrenchment compensation and one month notice wage to
+                          297 retrenched employees and Rs.8.63 crores was deposited towards TDS
+                          and the said amount was paid after borrowing funds at the interest of 10.5%
+                          per annum which has to be repaid by PTI. During the pendency of these writ
+                          petitions, 78 retrenched employees have accepted their retrenchment and
+                          have applied for withdrawal of statutory benefits including gratuity etc. 46
+                          out of 78 retrenched employees have received amount far in excess of the
+                          salary which they would have earned in their remaining service.             The
+                          respondent has placed on record the list of 78 employees who have accepted
+                          the retrenchment and have also withdrawn their gratuity amount. The
+                          respondent has also placed on record the list of 219 employees who have not
+                          yet accepted their gratuity and other dues. As per the list of 78 employees,
+                          they have received the retrenchment compensation including TDS between
+                          Rs.10 lakhs to Rs.28 lakhs (Total Rs.13,59,36,397/-) and gratuity amount
+                          between Rs.7 lakhs to Rs.21 lakhs (Total Rs. 10,63,02,114/-) depending
+                          upon the length of their service. The list of remaining 219 employees
+                          reflects that they are entitled to compensation including TDS between the
+                          range of Rs.11 lakhs to Rs.27 lakhs depending upon the length of their
+                          service (Total Rs.42,93,80,549/-) and are further entitled to gratuity between
+                          Rs.2 lakhs to Rs.18 lakhs (Total Rs.25,92,20,959/-).
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                           Page 5 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+6.     The respondent‟s defense on merits is that the retrenchment of 297
+                          employees was carried out under
+Section 25-F
+of the Industrial Disputes Act
+                          as there was no work for three categories of employees namely Attender,
+                          Transmission and Engineering; the respondent issued notices dated 29th
+                          September, 2018 notifying retrenchment of 297 employees and the
+                          retrenchment letters were sent to the last known addresses of the employees
+                          by registered post. The communication addressed to each individual
+                          employee gave the reasons for the retrenchment. The retrenchment letters
+                          were uploaded on the website and were pasted at the prominent places of
+                          each office of the respondent; each retrenchment letter had details of
+                          payment of notice pay and retrenchment compensation with the basis of
+                          calculation; the notice pay and retrenchment compensation were transferred
+                          in the bank account of each of the retrenched employees on 29th September,
+                          2018; the retrenched employees were notified to approach the respondent
+                          along with the relevant forms in case of any inadvertent calculation error;
+                          the respondent notified the Appropriate Authority in the prescribed form
+                          along with necessary formalities in compliance of
+Section 25-F
+of the
+                          Industrial Disputes Act; the respondent displayed the notice dated 21 st
+                          September, 2018 giving the Seniority List of three categories of employees
+                          in compliance with
+Section 25-G
+read with Rule 77 of the
+Industrial
+                          Disputes Act
+; the respondent strictly followed the principle of „last come
+                          first go‟ in the process of retrenchment; respondent, in the retrenchment
+                          letters, have categorically mentioned that in case of re-employment they
+                          shall comply with
+Section 25-G
+read with Rule 78 of the
+Industrial Disputes
+                          Act
+; the respondent has complied with all applicable provisions of Industrial
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                          Page 6 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+Disputes Act
+and the retrenchment of 297 employees has been done in
+                          accordance with law.
+7.     The respondent has vehemently disputed all the averments made and
+                          the grounds urged by the petitioners. According to the respondent, PTI is a
+                          news agency which digitally collects and transmits the news to its
+                          subscribers and is not involved in printing of newspapers; PTI is not
+                          carrying out any manufacturing activity and is not a „factory‟ within the
+                          meaning of
+Section 2(k)
+of the Factories Act; all the establishments of PTI
+                          cannot be deemed to be one establishment under
+Section 2(d)
+read with the
+                          Schedule of the Working Journalists Act, 1955;
+Section 25-N
+of the
+                          Industrial Disputes Act is not applicable as PTI is not a „factory‟ as per
+Section 2(m)
+of the Factories Act, 1948; assuming without admitting that
+                          PTI is an industrial establishment, PTI has carried out the retrenchment
+                          under
+Section 25-F
+of the Industrial Disputes Act which does not require any
+                          prior permission of the Government; the respondent has duly displayed the
+                          seniority list on 21st September, 2018; the respondent strictly followed the
+                          "last come first go" principle; there is no shortfall in the retrenchment
+                          compensation paid by the respondent;
+Section 9A
+of the Industrial Disputes
+                          Act is not attracted as retrenchment is not a change in conditions of service
+                          as envisaged in
+Section 9A
+of the Industrial Disputes Act; PTI retrenched
+                          the employees as there was no work;
+Section 25-O
+of the Industrial Disputes
+                          Act is not attracted as there is no closure in the present case; Section 16A of
+                          the Working Journalists Act is not attracted as PTI implemented the Wage
+                          Board award and paid all the dues to the employees.
+8.     This Court is of the view that the preliminary issue as to whether the
+                          writ petitions should be entertained in view of the statutory remedy
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                           Page 7 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+available to the retrenched employees under the
+Industrial Disputes Act
+,
+                          goes to the root of the matter and therefore, this issue is first taken up for
+                          consideration. Two other preliminary issues namely, whether the petitioners
+                          were authorized/competent to file these petitions on behalf of the retrenched
+                          employees; and whether two writ petitions seeking same reliefs are
+                          maintainable, are also taken up for consideration.
+9.     Mr. Colin Gonsalves, learned senior counsel for the petitioner, urged
+                          at the time of hearing that there is no merit in the respondent‟s preliminary
+                          objection of a statutory remedy available to the retrenched employees under
+                          the
+Industrial Disputes Act
+. The writ petitions are maintainable as all the
+                          relevant facts involved in these writ petitions are undisputed and no evidence
+                          is required to be led by the parties on the issues involved. It is further
+                          submitted that these writ petitions are pending for two years and, at interim
+                          stage, this Court held in favour of the petitioners and it would not be
+                          efficacious at this stage to send the matter back to the Industrial Tribunal.
+                          According to the petitioner, no evidence is required on the issues whether
+                          PTI is a factory; whether retrenchment was on account of induction of new
+                          technology; whether retrenchment is illegal for violation of
+Section 25-N
+of
+                          the Industrial Disputes Act; whether retrenchment is violative of Section
+                          16A of the Working Journalists Act, 1955; and whether PTI is making
+                          losses. It is further submitted that the issue as to whether PTI is a „factory‟
+                          within the meaning of
+Section 2(m)
+of the Factories Act, 1948 is a pure
+                          question of law. Reliance is placed on
+Indian Petrochemicals Corpn. Ltd. v.
+                          Shramik Sena
+, (1999) 6 SCC 439;
+Chennai Port Trust v. Chennai Port
+                          Trust Industrial Employees Canteen Workers Welfare Assn.
+, (2018) 6 SCC
+                          202;
+Marwari Balika Vidyalaya v. Asha Srivastava
+, 2019 SCC Online SC
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                           Page 8 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+408; and
+Andi Mukta Sadguru Shree Muktajee Vandas Swami Suvarna
+                          Jayanti Mahotsav Smarak Trust v. V.R. Rudani
+, (1989) 2 SCC 691.
+10.    Mr. P.S. Patwalia, learned senior counsel for the respondent, urged at
+                          the time of hearing that the writ jurisdiction should not be exercised in view
+                          of the statutory remedy available to the retrenched employees under the
+Industrial Disputes Act
+. It is submitted that
+Industrial Disputes Act
+is a
+                          complete Code in itself which provides for the remedies to the employees
+                          against retrenchment and the petitioners have based their claims on the
+                          alleged violation of the provisions of the
+Industrial Disputes Act
+. PTI
+                          Employees Union invoked the
+Industrial Disputes Act
+by letter dated 04th
+                          October, 2018 to the Conciliation Officer/Appropriate Authority against the
+                          retrenchment whereupon the Appropriate Authority issued a notice dated
+                          05th October, 2018 to the parties to appear before the Conciliation Officer on
+                          09th October, 2018. When the respondent raised the objection during the
+                          course of arguments on 04th October, 2018, PTI Employees Union withdrew
+                          the letter dated 08th October, 2018. The non-disclosure of the letter dated
+                          04th October, 2018 amounts to an act of concealment. Having invoked the
+                          remedies under the
+Industrial Disputes Act
+, the petitioners cannot now
+                          maintain these writ petitions. The petitioners have approached this Court
+                          with unclean hands and are therefore not entitled to any relief from this
+                          Court. Reliance is placed on
+Premier Automobiles Ltd. v. Kamlekar
+                          Shantaram Wadke of Bombay
+, (
+1976) 1 SCC 496 , U.P. State Bridge
+                          Corporation Ltd. v. U.P. Rajya Setu Nigam S. Karamchari Sangh
+, (
+2004)
+                          4 SCC 268, A.P. Foods v. S. Samuel
+, (2006) 5 SCC 469, State of Uttar
+                          Pradesh v. Uttar Pradesh Rajya Khanij Vikas Nigam Sangharsh Samiti,
+                          (
+2008) 12 SCC 675, Transport and Dock Workers Union v. Mumbai Port
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                           Page 9 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+Trust
+, (
+2011) 2 SCC 575, Avishek Raja v. Sanjay Gupta
+, AIR 2017 SC
+                          2955, and Satpal Singh v. Delhi Sikh Gurdwara Management Committee,
+                          (2011) 181 DLT 455 .
+11.    Mr. P.S. Patwalia, learned senior counsel for the respondent, further
+                          urged that these petitions raise disputed questions of fact which require
+                          evidence and cannot be gone into in the writ jurisdiction. The respondent
+                          vehemently disputes the petitioner‟s submissions that there are no disputed
+                          questions of fact in these petitions. Learned senior counsel for the
+                          respondent further urged that the respondent has vehemently disputed all the
+                          averments of the petitioners inter alia, that the respondent is engaged in
+                          manufacturing activity and is a factory within the meaning of
+Section 2(m)
+of the Factories Act; all the 37 centers of PTI in the country constitute a
+                          single establishment; retrenchment is violative of
+Sections 25-N
+of the
+                          Industrial Disputes Act and prior permission of the State Government was
+                          necessary; the respondent altered the service conditions of the workmen
+                          relating to rationalization/technique without notice which is violative of
+Section 9A
+of the Industrial Disputes Act; the retrenchment is violative of
+                          Section 16A of the Working Journalists Act, 1955; the retrenchment is
+                          illegal as there was short payment of retrenchment compensation;
+                          retrenchment was mala fide; the retrenchment constitutes the unfair trade
+                          practice under the
+Industrial Disputes Act
+; large number of workers have not
+                          yet received their individual notice of retrenchment and plea of "no work" of
+                          PTI is false.
+12.    Learned senior counsel for the respondent further submitted that both
+                          these writ petitions have been filed on behalf of 297 retrenched employees
+                          without any authorization. There are no pleadings whatsoever in the writ
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                          Page 10 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+petitions that the retrenched employees have authorized the petitioners to
+                          espouse their cause. No document whatsoever has been filed along with the
+                          writ petitions to show that the retrenched employees have authorized the
+                          petitioners to espouse their cause. The petitioners have not even filed the
+                          Rules/Bye-laws governing them along with the writ petitions.                  The
+                          petitioners have also not filed with the writ petitions any requisition to call a
+                          meeting, notice of meeting, agenda notes of the meeting, list of attendees of
+                          the meeting, resolution passed for espousing the cause of the retrenched
+                          employees, minutes of meeting, resolution authorizing the General Secretary
+                          of the Union/Federation to raise a dispute and before which forum. It is
+                          further submitted that two writ petitions seeking identical reliefs are not
+                          maintainable.      Reliance is placed on
+Bombay Union of Journalists v.
+                          'Hindu' Bombay
+, AIR 1963 SC 318 and Management of Messers Hotel
+                          Samrat v. Government of NCT, 2007 SCC OnLine Del 17.
+13.    With respect to the judgments cited by the petitioner, learned senior
+                          counsel for the respondent submitted that the judgments cited by the
+                          petitioner do not support their case. The response of the respondent to the
+                          judgments cited by the petitioner is as under:
+(i)    In
+Indian Petrochemicals Corpn. Ltd. v. Shramik Sena
+, (supra) the
+                          Supreme Court clearly noted the principle that in the ordinary course, the
+                          questions of fact should be decided first by the fact finding tribunal. The
+                          question of existence of an alternate remedy and its effect on the
+                          maintainability of a Writ Petition never arose in this case. Accordingly, there
+                          is no finding to that effect. The judgment is based on concessions given by
+                          parties and the same cannot be a precedent. Para 14 of the judgment records
+                          the concession of the Petitioner. Further, the parties did not object to the
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                             Page 11 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+matter being decided without recording of evidence. This can be seen in para
+                          24 of the judgment. That apart, the Supreme Court was satisfied that the
+                          affidavits and documents were sufficient to decide the questions without the
+                          need of any oral evidence. This judgment does not support the petitioner as
+                          the affidavits and documents in the present case are not sufficient to decide
+                          the questions without need of any oral evidence.
+IPC
+L answers to the
+                          definition of "State" within
+Article 12
+of the Constitution of India and
+                          therefore, was amenable to writ jurisdiction.
+The principal finding of this
+                          judgment that workers working in a statutory canteen are deemed to be the
+                          employees of the owner of the factory for all intents and purposes
+has been
+                          overruled
+in
+Balwant Rai Saluja v. Air India
+, AIR 2015 SC 375 and no
+                          reliance should be placed on
+IPC
+L as the underlying proposition in
+IPC
+L
+                          stands overruled.
+(ii)   In
+Chennai Port Trust v. Industrial Employees Canteen Workers
+                          Welfare Assn.
+, (supra), the Supreme Court declined to entertain the
+                          objection to the maintainability of the writ petition on the ground that the
+                          facts and documents were undisputed and 17 years had lapsed by that time.
+                          The writ petition before the Single Judge was filed in 2001 (Para 5 of the
+                          judgment). The Supreme Court was deciding the matter in 2018. Thus, 17
+                          years had passed. This was a strong consideration. The maintainability of
+                          the writ petition was not held to be generally so. In fact, a reading of paras
+                          20 and 21 shows that the Supreme Court said "....it is too late to entertain
+                          such submission". This judgment does not support the petitioners as the
+                          respondent has vehemently disputed the averments made in the petitions and
+                          the writ petitions are still at the initial stage. That apart, Chennai Port Trust
+                          being a public sector undertaking was amenable to writ jurisdiction while
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                             Page 12 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+PTI is not.
+Further, in this case,
+Balwant Rai Saluja v. Air India
+(supra) was
+                          not considered.
+(iii)   In
+Marwari Balika Vidyalaya v. Asha Srivastava
+(supra), the
+                          Supreme Court ruled on the maintainability of a writ petition against a
+                          private school getting grant-in-aid. The Supreme Court held that the writ
+                          petition to be maintainable against an educational institution. The Writ
+                          Petition was entertained primarily on the basis that there was an admitted
+                          non-compliance of a statutory requirement. There is no such admission in
+                          the present matter, and it has been submitted by the respondent that there is
+                          complete compliance of all provisions of law.
+In a subsequent judgment
+Trigun Chand Thakur v. State of Bihar
+, (2019) 7 SCC 513, the Supreme
+                          Court held that the Management Committee of the private schools are not
+                          "State" within the meaning of
+Article 12
+of the Constitution of India and
+                          hence, the writ petition of the Petitioner was not maintainable.
+(iv)    In
+Andi Mukta Sadguru Shree Muktajee Vandas Swami Suvarna
+                          Jayanthi Mahotsav Smarak Trust v. V.R. Rudani
+, (1989) 2 SCC 691 the
+                          Supreme Court rejected the objection of the educational institution that it
+                          was not amenable to writ jurisdiction. There is no finding on the
+                          maintainability of the writ petition in view of the alternative remedy.
+14.     Mr. Colin Gonsalves, learned senior counsel for the petitioners, in
+                          rejoinder, urged that there are sufficient admissions on record that PTI is
+                          engaged in manufacturing activity and no evidence is required on this
+                          aspect; with respect to the PTI‟s averment of making losses, the petitioners
+                          rely on the profit and loss accounts of PTI and no further evidence is
+                          necessary; PTI admitted reasons for lockout with respect to the requirement
+                          of notice under
+Section 9A
+of Industrial Disputes Act on account of
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                            Page 13 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+rationalization; the respondent has not disputed that its establishments
+                          constitute one establishment in law; with respect to the respondent‟s plea of
+                          no work for retrenched employees, the petitioners rely on work assignment
+                          register of PTI; closure of two departments is admitted by respondent; the
+                          respondent has admitted the violation of Section 16A of the Working
+                          Journalists Act in the reasons for lockout. It is submitted that the petitioners
+                          do not press the disputed questions of fact mentioned by the respondents in
+                          Serial number 15 to 23, 25 to 38, 42, 44, 45 and 47 of their written
+                          submissions dated 22nd August, 2020.
+15.    Mr. Colin Gonsalves, learned senior counsel for the petitioners, in
+                          rejoinder, submitted that all the four judgments cited by the respondent do
+                          not support the case of the respondent. It is submitted that in
+Premier
+                          Automobiles Ltd.
+(supra), the only issue was maintainability of a civil suit
+                          whereas in
+U.P. State Bridge Corporation Ltd.
+(supra), Uttar Pradesh
+                          Rajya Khanij Vikas Nigam Sangharsh Samiti (supra),
+A.P. Foods
+(supra),
+Avishek Raja
+(supra) and Satpal Singh (supra) there were disputed
+                          questions of fact. Reference is made to written submissions dated 13 th
+                          February, 2020 containing written response of the petitioners to the
+                          judgments cited by the respondent.
+16.    With respect to the respondent‟s objection to the maintainability of the
+                          writ petitions on the ground that the petitioners are not authorized/competent
+                          to file the writ petitions, Mr. Colin Gonsalves, learned senior counsel
+                          submitted that on 25th August, 2020, the petitioner in W.P.(C) 10596/2018
+                          filed response to the submissions of the respondent in which it is stated that
+                          petitioner is a registered Union and all the 297 retrenched employees are its
+                          members. On 29th September, 2018, PTI Employees Union called an
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                            Page 14 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+emergency general body meeting in which a unanimous resolution was
+                          passed to authorize Mr. M.S. Yadav to file a Court case to challenge the
+                          retrenchment. 141 retrenched employees have sent their support letters to the
+                          petitioner Union. Along with the written submissions dated 25th August,
+                          2020, the petitioners have filed the copy of the registration as Annexure I;
+                          copy of the resolution dated 29th September, 2018 as Annexure II and copies
+                          of 141 letters of the retrenched employees as Annexure III.
+17.    Mr. Colin Gonsalves, learned senior counsel for the petitioners,
+                          further submitted that on 25th August, 2020, the petitioner in W.P.(C)
+                          10605/2018 has filed written submissions in which it is stated that the
+                          Federation of PTI Employees Unions is a Federation of four regional Unions
+                          of PTI employees and all 297 retrenched employees are the members of the
+                          Federation. A special general body meeting was held by all the four Trade
+                          Unions on 05th October, 2018 in which they ratified the decision of the
+                          Federation to file the writ petition. As on date, the petitioner Federation
+                          represents 119 retrenched employees who have issued their support letters to
+                          the Federation. The petitioner Federation has filed the Federation‟s bank
+                          account statement as Annexure A; resolutions dated 05th October, 2018 as
+                          Annexure B (Colly.) and 119 letters issued by retrenched employees as
+                          Annexure C (Colly.) with the written submissions dated 25th August, 2020.
+18.    Mr. P.S. Patwalia, learned senior counsel for the respondent,
+                          submitted that the petitioners have made new averments beyond pleadings
+                          and have filed new documents along with the written submissions dated 25th
+                          August, 2020 without seeking the permission from this Court and therefore,
+                          the same should not be taken on record. Without prejudice, it is submitted
+                          that the petitioner in W.P.(C) 10596/2018 claims to be representing 141
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                          Page 15 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+employees and the petitioner in W.P.(C) 10605/2018 claims to be
+                          representing 199 employees whereas they have filed the writ petitions on
+                          behalf of 297 retrenched employees. 35 employees are common in the list
+                          of both the petitioners and the signatures on the letters filed by the two writ
+                          petitioners are completely different which shows that the letters are forged
+                          and fabricated. All the letters filed in W.P.(C) 10596/2018 are undated. The
+                          signatures on several individual letters filed by the petitioners do not match
+                          with their signatures available in the personal files. It is further submitted
+                          that the evidence is necessary to be led by the petitioners to prove these
+                          documents before the appropriate forum. It is further submitted that the
+                          petitioners completely lack authorization to file the present writ petitions.
+                          Judgments cited by the Petitioner
+19.
+In
+Indian Petrochemicals Corpn. Ltd. v. Shramik Sena
+, (1999) 6
+                          SCC 439, the contractual employees of
+IPC
+L filed a writ petition seeking
+                          regularization, which was allowed by Bombay High Court. The Supreme
+                          Court observed that in the ordinary course, the questions of fact should be
+                          first decided by a fact finding Tribunal.      However, the Supreme Court
+                          exercised the jurisdiction considering that the parties had filed detailed
+                          affidavits and documents which were considered sufficient to decide the
+                          question of fact without need of any oral evidence. Para 24 of the judgment
+                          is reproduced hereunder:-
+"24. Before answering this question, we would like to
+                                    observe that, normally, this being a question of fact, this
+                                    Court would have been reluctant to examine this question
+                                    which in the ordinary course should be first decided by a
+                                    fact-finding tribunal. However, as stated above, in this case
+                                    parties have filed detailed affidavits and documents which, in
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                             Page 16 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+our opinion, are sufficient for us to decide this question
+                                    without the need for any oral evidence."
+20.
+In
+Chennai Port Trust v. Industrial Employees Canteen Workers
+                          Welfare Assn.
+, (2018) 6 SCC 202, the writ petition was filed for treating the
+                          employees working in the canteen to be regular employees of Chennai Port
+                          Trust which was allowed by the Single Bench as well as the Division Bench
+                          of the Madras High Court. The Supreme Court rejected the objection to the
+                          maintainability on the grounds that the writ Court entertained the writ
+                          petition and granted relief on merits; the appellate Court also affirmed the
+                          order on merits and therefore, it was too late to entertain this objection and
+                          the facts/documents were undisputed requiring no trial on facts. Paras 20 and
+                          21 of the judgment are reproduced hereunder:-
+20. We are, however, not impressed by the submission of the
+                                    learned counsel for the appellant (Chennai Port Trust) when
+                                    he contended that the writ court should not have entertained
+                                    the writ petition and instead the respondent (writ petitioner
+                                    Association) should have been granted liberty to approach
+                                    the Industrial Tribunal/Labour Court for adjudication of the
+                                    dispute raised by them in the writ petition.
+21. In the first place, the writ court having entertained the
+                                    writ petition and granted relief on merits, this objection has
+                                    lost its significance now; second, the appellate court also
+                                    having gone into the merits of the case and affirmed the
+                                    order of the writ court on merits, it is too late to entertain
+                                    such submission, which is technical in nature; and third, the
+                                    findings on merits have been recorded by the two courts on
+                                    the basis of undisputed facts/documents requiring no trial on
+                                    facts."
+21.
+In
+Marwari Balika Vidyalaya v. Asha Srivastava
+, 2019 SCC Online
+                          SC 408, the writ petition was filed by an assistant teacher against her
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                           Page 17 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+termination by a stigmatic order, without seeking the mandatory approval of
+                          the Competent Authority, which was allowed by the Division Bench of
+                          Calcutta High Court. The school challenged the maintainability of the writ
+                          petition on the ground that the school was not a State and therefore, not
+                          amenable to writ jurisdiction. The main question for consideration in this
+                          appeal was the maintainability of writ petition against a private school
+                          receiving grant-in-aid to the extent of dearness allowance. The Supreme
+                          Court held the writ petition to be maintainable against the School.
+22.
+In
+Andi Mukta Sadguru Shree Muktajee Vandas Swami Suvarna
+                          Jayanthi Mahotsav Smarak Trust v. V.R. Rudani
+, 1989 2 SCC 691, a writ
+                          petition was filed by the retrenched teachers of a private aided college
+                          affiliated to University for payment of outstanding salary and allowances
+                          and implementation of the pay scales in which an objection to the
+                          maintainability of the writ petition was raised on various grounds inter alia
+                          that the management of the college was not amenable to the writ jurisdiction.
+The Supreme Court held that the management of college was amenable to
+                          writ jurisdiction as it satisfies the public function test.
+                          Judgments cited by the Respondents
+23.
+In
+Premier Automobiles Ltd. v. Kamlekar Shantaram Wadke
+, (1976)
+                          1 SCC 496, the trade unions of Premier Automobiles Ltd. filed a civil suit
+                          before City Civil Court, Bombay to challenge the settlement between the
+                          management and the union. The management challenged the jurisdiction of
+                          the Civil Court to entertain an industrial dispute. The suit was decreed
+                          which was unsuccessfully challenged before the Single Bench and
+                          thereafter, before the Division Bench of the Bombay High Court.             The
+                          Supreme Court considered the question of law with respect to the
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                           Page 18 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+jurisdiction of the Civil Court to entertain a suit relating to an industrial
+                          dispute. The Supreme Court held that the only remedy in respect of an
+                          industrial dispute for enforcement of a right or obligation under the
+Industrial Disputes Act
+is to get adjudication under the Act. Relevant portion
+                          of the Supreme Court judgment is reproduced hereunder:
+"9. It would thus be seen that through the intervention of
+                                    the appropriate government, of course not directly, a very
+                                    extensive machinery has been provided for settlement and
+                                    adjudication of industrial disputes. But since an individual
+                                    aggrieved cannot approach the Tribunal or the Labour Court
+                                    directly for the redress of his grievance without the
+                                    intervention of the Government, it is legitimate to take the
+                                    view that the remedy provided under the Act is not such as to
+                                    completely oust the jurisdiction of the civil court for trial of
+                                    industrial disputes. If the dispute is not an industrial dispute
+                                    within the meaning of
+Section 2(k)
+or within the meaning of
+Section 2-A
+of the Act, it is obvious that there is no provision
+                                    for adjudication of such disputes under the Act. Civil courts
+                                    will be the proper forum. But where the industrial dispute is
+                                    for the purpose of enforcing any right, obligation or liability
+                                    under the general law or the common law and not a right,
+                                    obligation or liability created under the Act, then alternative
+                                    forums are there giving an election to the suitor to choose his
+                                    remedy of either moving the machinery under the Act or to
+                                    approach the civil court. It is plain that he can't have both.
+                                    He has to choose the one or the other. But we shall presently
+                                    show that the civil court will have no jurisdiction to try and
+                                    adjudicate upon an industrial dispute if it concerned
+                                    enforcement of certain right or liability created only under
+                                    the Act. In that event civil court will have no jurisdiction even
+                                    to grant a decree of injunction to prevent the threatened
+                                    injury on account of the alleged breach of contract if the
+                                    contract is one which is recognized by and enforceable under
+                                    the Act alone.
+xxx               xxx                 xxx
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                              Page 19 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+23. To sum up, the principles applicable to the jurisdiction of
+                                    the civil court in relation to an industrial dispute may be
+                                    stated thus:
+(1) If the dispute is not an industrial dispute, nor does it
+                                    relate to enforcement of any other right under the Act the
+                                    remedy lies only in the civil court.
+(2) If the dispute is an industrial dispute arising out of a right
+                                    or liability under the general or common law and not under
+                                    the Act, the jurisdiction of the civil court is alternative,
+                                    leaving it to the election of the suitor concerned to choose his
+                                    remedy for the relief which is competent to be granted in a
+                                    particular remedy.
+(3) If the industrial dispute relates to the enforcement of a
+                                    right or an obligation created under the Act, then the only
+                                    remedy available to the suitor is to get an adjudication under
+                                    the Act.
+(4) If the right which is sought to be enforced is a right
+                                    created under the Act such as Chapter V-A then the remedy
+                                    for its enforcement is either
+Section 33-C
+or the raising of an
+                                    industrial dispute, as the case may be."
+(Emphasis supplied)
+24.
+In
+U.P. State Bridge Corporation Ltd. v. U.P. Rajya Setu Nigam
+                          Karamchari Sangh
+, (2004) 4 SCC 268, the union filed a writ petition
+                          challenging the termination of a workman in which the respondent raised
+                          preliminary objection of an alternative remedy under the
+Industrial Disputes
+                          Act
+which was rejected by the learned Single Judge on the ground that the
+                          case did not involve any investigation into or determination of disputed
+                          questions of fact and long time had lapsed. The Division Bench upheld the
+                          order of the learned Single Judge. The Supreme Court held that the High
+                          Court erred in entertaining the writ petition since the disputes related to the
+                          enforcement of a right or obligation under
+Industrial Disputes Act
+and the
+                          specific remedy is provided under the
+Industrial Disputes Act
+.
+The Supreme
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                               Page 20 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+Court noted the ratio of
+Premier Automobiles Ltd.
+(supra) and held that the
+                          principles laid down therein would apply to the writ petition under
+Article
+                          226
+of the Constitution. Relevant portion of the judgment is reproduced
+                          hereunder:
+"11. We are of the firm opinion that the High Court erred in
+                                 entertaining the writ petition of the respondent Union at all.
+                                 The dispute was an industrial dispute both within the meaning
+                                 of the
+Industrial Disputes Act, 1947
+as well as U.P. IDA, 1947.
+                                 The rights and obligations sought to be enforced by the
+                                 respondent Union in the writ petition are those created by the
+Industrial      Disputes     Act
+.
+In
+Premier     Automobiles
+                                 Ltd. v. Kamlekar Shantaram Wadke
+[(1976) 1 SCC 496 : 1976
+                                 SCC (L&S) 70] it was held that when the dispute relates to the
+                                 enforcement of a right or an obligation created under the Act,
+                                 then the only remedy available to the claimant is to get
+                                 adjudication under the Act. This was because the
+Industrial
+                                 Disputes Act
+was made to provide
+                                        "a speedy, inexpensive and effective forum for
+                                        resolution of disputes arising between workmen and
+                                        their employers. The idea has been to ensure that the
+                                        workmen do not get caught in the labyrinth of civil
+                                        courts with their layers upon layers of appeals and
+                                        revisions and the elaborate procedural laws, which
+                                        the workmen can ill-afford. The procedures followed
+                                        by civil courts, it was thought, would not facilitate a
+                                        prompt and effective disposal of these disputes. As
+                                        against this, the courts and tribunals created by the
+Industrial Disputes Act
+are not shackled by these
+                                        procedural laws nor is their award subject to any
+                                        appeals or revisions. Because of their informality, the
+                                        workmen and their representatives can themselves
+                                        prosecute or defend their cases. These forums are
+                                        empowered to grant such relief as they think just and
+                                        appropriate. They can even substitute the punishment
+                                        in many cases. They can make and remake the
+                                        contracts, settlements, wage structures and what not.
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                         Page 21 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+Their awards are no doubt amenable to jurisdiction of
+                                        the High Court under
+Article 226
+as also to the
+                                        jurisdiction of this Court under
+Article 32
+, but they
+                                        are extraordinary remedies subject to several self-
+                                        imposed constraints. It is, therefore, always in the
+                                        interest of the workmen that disputes concerning them
+                                        are adjudicated in the forums created by the Act and
+                                        not in a civil court. That is the entire policy
+                                        underlying the vast array of enactments concerning
+                                        workmen. This legislative policy and intendment
+                                        should necessarily weigh with the courts in
+                                        interpreting these enactments and the disputes arising
+                                        under them".
+12. Although these observations were made in the context of the
+                                 jurisdiction of the civil court to entertain the proceedings
+                                 relating to an industrial dispute and may not be read as a
+                                 limitation on the Court's powers under
+Article 226
+, nevertheless
+                                 it would need a very strong case indeed for the High Court to
+                                 deviate from the principle that where a specific remedy is given
+                                 by the statute, the person who insists upon such remedy can
+                                 avail of the process as provided in that statute and in no other
+                                 manner.
+xxx             xxx                xxx
+14. Finally, it is an established practice that the Court
+                                 exercising extraordinary jurisdiction under
+Article 226
+should
+                                 have refused to do so where there are disputed questions of
+                                 fact. In the present case, the nature of the employment of the
+                                 workmen was in dispute. According to the appellant, the
+                                 workmen had been appointed in connection with a particular
+                                 project and there was no question of absorbing them or their
+                                 continuing in service once the project was completed.
+                                 Admittedly, when the matter was pending before the High
+                                 Court, there were 29 such projects under execution or awarded.
+                                 According to the respondent workmen, they were appointed as
+                                 regular employees and they cited orders by which some of them
+                                 were transferred to various projects at various places. In
+                                 answer to this the appellants said that although the appellant
+                                 Corporation tried to accommodate as many daily-wagers as
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                          Page 22 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+they could in any new project, they were always under
+                                 compulsion to engage local people of the locality where work
+                                 was awarded. There was as such no question of transfer of any
+                                 workman from one project to another. This was an issue which
+                                 should have been resolved on the basis of evidence led. The
+                                 Division Bench erred in rejecting the appellant's submission
+                                 summarily as also in placing the onus on the appellant to
+                                 produce the appointment letters of the respondent workmen.
+xxx               xxx                  xxx
+17. The only reason given by the High Court to finally dispose
+                                 of the issues in its writ jurisdiction which appears to be
+                                 sustainable, is the factor of delay, on the part of the High Court
+                                 in disposing of the dispute. Doubtless the issue of alternative
+                                 remedy should be raised and decided at the earliest opportunity
+                                 so that a litigant is not prejudiced by the action of the Court
+                                 since the objection is one in the nature of a demurrer.
+                                 Nevertheless even when there has been such a delay where the
+                                 issue raised requires the resolution of factual controversies, the
+                                 High Court should not, even when there is a delay, short-circuit
+                                 the process for effectively determining the facts. Indeed the
+                                 factual controversies which have arisen in this case remain
+                                 unresolved. They must be resolved in a manner which is just
+                                 and fair to both the parties. The High Court was not the
+                                 appropriate forum for the enforcement of the right and the
+                                 learned Single Judge in Anand Prakash case had correctly
+                                 refused to entertain the writ petition for such relief.
+xxx               xxx                  xxx
+27. In the circumstances, we have no hesitation in setting aside
+                                 the decision of the High Court in dismissing the writ petition.
+                                 This order will, however, not preclude the respondent Union if
+                                 it is otherwise so entitled to raise an industrial dispute under
+                                 U.P. IDA."
+(Emphasis Supplied)
+25.
+In
+A.P. Foods v. S. Samuel
+, (2006) 5 SCC 469, 243 employees filed a
+                          writ petition against the stoppage of ex-gratia/bonus by the management
+                          which was allowed by the learned Single Judge. The Supreme Court held
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                            Page 23 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+that the High Court should not have entertained the writ petition in view of
+                          the alternative remedy available under the
+Industrial Disputes Act
+.
+The
+                          Supreme Court referred to and reiterated the principles
+laid down in
+U.P.
+                          State Bridge Corporation Ltd.
+(supra) and catena of other judgments. The
+                          Supreme Court, however, referred the questions for adjudication to the
+                          Tribunal in view of the passage of time. Relevant portions of the judgment
+                          are reproduced hereunder:
+"6. In a catena of decisions it has been held that a writ petition
+                                 under
+Article 226
+of the Constitution of India should not be
+                                 entertained when the statutory remedy is available under the
+                                 Act, unless exceptional circumstances are made out.
+7.
+In
+U.P. State Bridge Corpn. Ltd. v. U.P. Rajya Setu Nigam S.
+                                 Karamchari Sangh
+[(2004) 4 SCC 268 : 2004 SCC (L&S) 637]
+                                 it was held that when the dispute relates to enforcement of a
+                                 right or obligation under the statute and specific remedy is,
+                                 therefore, provided under the statute, the High Court should not
+                                 deviate from the general view and interfere under
+Article 226
+except when a very strong case is made out for making a
+                                 departure. The person who insists upon such remedy can avail
+                                 of the process as provided under the statute.
+To the same effect
+                                 are the decisions in
+Premier Automobiles Ltd. v. Kamlekar
+                                 Shantaram Wadke
+[(1976) 1 SCC 496 : 1976
+SCC (L&S) 70]
+                                 , Rajasthan SRTC v. Krishna Kant
+[(1995) 5 SCC 75 : 1995
+                                 SCC (L&S) 1207 : (
+1995) 31 ATC 110] , Chandrakant Tukaram
+                                 Nikam v. Municipal Corpn. of Ahmedabad
+[(2002) 2 SCC 542 :
+2002
+SCC (L&S) 317] and Scooters India v. Vijai E.V.
+                                 Eldred
+[(1998) 6 SCC 549 : 1998 SCC (L&S) 1611] .
+8.
+In
+Rajasthan SRTC
+case [(1995) 5 SCC 75 : 1995 SCC
+                                 (L&S) 1207 : (1995) 31 ATC 110] it was observed as follows:
+(SCC pp. 91-92, para 28)
+                                        "[A] speedy, inexpensive and effective forum for
+                                        resolution of disputes arising between workmen
+                                        and their employers. The idea has been to ensure
+                                        that the workmen do not get caught in the
+                                        labyrinth of civil courts with their layers upon
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                            Page 24 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+layers of appeals and revisions and the elaborate
+                                        procedural laws, which the workmen can ill afford.
+                                        The procedures followed by civil courts, it was
+                                        thought, would not facilitate a prompt and effective
+                                        disposal of these disputes. As against this, the
+                                        courts and tribunals created by the
+Industrial
+                                        Disputes Act
+are not shackled by these procedural
+                                        laws nor is their award subject to any appeals or
+                                        revisions. Because of their informality, the
+                                        workmen and their representatives can themselves
+                                        prosecute or defend their cases. These forums are
+                                        empowered to grant such relief as they think just
+                                        and appropriate. They can even substitute the
+                                        punishment in many cases. They can make and
+                                        remake the contracts, settlements, wage structures
+                                        and what not. Their awards are no doubt
+                                        amenable to jurisdiction of the High Court under
+Article 226
+as also to the jurisdiction of this Court
+                                        under
+Article 32
+, but they are extraordinary
+                                        remedies subject to several self-imposed
+                                        constraints. It is, therefore, always in the interest
+                                        of the workmen that disputes concerning them are
+                                        adjudicated in the forums created by the Act and
+                                        not in a civil court. That is the entire policy
+                                        underlying the vast array of enactments
+                                        concerning workmen. This legislative policy and
+                                        intendment should necessarily weigh with the
+                                        courts in interpreting these enactments and the
+                                        disputes arising under them."
+9.
+In
+Basant Kumar Sarkar v. Eagle Rolling Mills Ltd.
+[(1964)
+                                 6 SCR 913 : AIR 1964 SC 1260] the Constitution Bench of this
+                                 Court observed as follows: (SCR p. 920)
+                                        "It is true that the powers conferred on the High
+                                        Courts under
+Article 226
+are very wide, but it is
+                                        not suggested by Mr Chatterjee that even these
+                                        powers can take in within their sweep industrial
+                                        disputes of the kind which this contention seeks to
+                                        raise. Therefore, without expressing any opinion
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                       Page 25 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+on the merits of the contention, we would confirm
+                                         the finding of the High Court that the proper
+                                         remedy which is available to the appellants to
+                                         ventilate their grievances in respect of the said
+                                         notices and circulars is to take recourse to
+Section
+                                         10
+of the Industrial Disputes Act, or seek relief, if
+                                         possible, under
+Sections 74
+and
+75
+of the Act."
+10. The inevitable conclusion, therefore, is that both the
+                                 learned Single Judge and the Division Bench have failed to
+                                 consider the basic issues. In the normal course we would have
+                                 left it to the respondent to avail appropriate remedy under the
+                                 Act.
+11. The above aspects were highlighted in
+Hindustan Steel
+                                 Works Construction Ltd. v. Employees Union
+[(2005) 6 SCC
+                                 725 : 2005 SCC (L&S) 899] .
+12. A bare reading of
+Section 22
+of the Act makes the position
+                                 clear that where the dispute arises between an employer and
+                                 employees with respect to the bonus payable under the Act or
+                                 with respect to the application of the Act in public sector then
+                                 such dispute shall be deemed to be an industrial dispute within
+                                 the meaning of the
+ID Act
+.
+13. As disputed questions of fact were involved, and alternative
+                                 remedy is available under the
+ID Act
+, the High Court should
+                                 not have entertained the writ petition, and should have directed
+                                 the writ petitioners to avail the statutory remedy.
+14. However, because of the long passage of time (the writ
+                                 petition was filed in 1996), the attendant circumstances of the
+                                 case in the background noted above and in view of the
+                                 agreement that this is a matter which requires to be referred to
+                                 the Tribunal, we direct that the appropriate Government shall
+                                 refer the following questions for adjudication by the
+                                 appropriate Tribunal:
+(1) Whether there was violation of
+Section 9-A
+of
+                                         the Industrial Disputes Act, 1947 as claimed by the
+                                         employees?
+(2) Whether the withdrawal of the construction
+                                         allowance amounted to the change in the
+                                         conditions of service?
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                          Page 26 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+(3) Whether A.P. Foods was liable to pay bonus
+                                        under the Act to its employees?
+15. The parties shall jointly move the appropriate
+                                  Government with a copy of our judgment.
+16. Normally, it is for the State Government to take a decision
+                                 in the matter of reference when a dispute is raised, the direction
+                                 as noted above has been given in the circumstances indicated
+                                 above.
+17. In some cases, this Court after noticing that refusal by the
+                                 appropriate Government to refer the matter for adjudication
+                                 was prima facie not proper, directed reference instead of
+                                 directing reconsideration. (See
+Nirmal Singh v. State of Punjab
+[1984 Supp SCC 407 : 1985 SCC (L&S) 38 :
+AIR 1984 SC
+                                 1619] , Sankari Cement Alai Thozhilalar Munnetra Sangam v.
+                                 Govt. of T.N.
+[(1983) 1 SCC 304 : 1983 SCC (L&S) 139 :
+(1983) 1 LLJ 460] , V. Veerarajan v. Govt. of T.N. [(1987) 1
+                                 SCC 479 : 1987 SCC (L&S) 64 : AIR 1987 SC 695] and Sharad
+                                 Kumar v. Govt. of NCT of Delhi [(2002) 4 SCC 490 : 2002 SCC
+                                 (L&S) 533 : AIR 2002 SC 1724] .)
+18. The parties shall be permitted to place materials in support
+                                 of their respective stands. We make it clear that we have not
+                                 expressed any opinion on the merits of the case. The Tribunal
+                                 shall make an effort to dispose of the reference within four
+                                 months of the receipt of the reference from the State
+                                 Government, which shall be done within three months from
+                                 today."
+(Emphasis supplied)
+26.
+In
+State of Uttar Pradesh v. Uttar Pradesh Rajya Khanij Vikas
+                          Nigam Sangharsh Samiti
+, (2008) 12 SCC 675, U.P. State Mineral
+                          Development Corporation (UPSMDCL) retrenched 460 employees which
+                          was challenged by the Union before Lucknow Bench of Allahabad High
+                          Court. There was difference of opinion between the members of the Division
+                          Bench. Markandey Katju, J. (then Judge of the High Court) held that the
+                          petitioners should avail the alternative remedy under the Industrial Law
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                            Page 27 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+whereas U.K. Dhaon, J. held that various interim orders have been passed
+                          from time to time and it was not appropriate to dismiss the writ petition on
+                          the ground of alternative remedy, after the writ petition was entertained. In
+                          view of the difference of opinion between the two judges of the Division
+                          Bench, the matter was placed before the third judge who agreed with the
+                          view expressed by U.K. Dhaon, J. The Supreme Court held that the High
+                          Court should not have entertained the writ petition in view of equally
+                          efficacious remedy to the employees under the
+Industrial Disputes Act
+. The
+                          Supreme Court dismissed the writ petitions with liberty to the employees to
+                          approach the Tribunal in accordance with law. The relevant portions of
+the
+                          said judgment
+are as under:
+"38. With respect to the learned Judge, it is neither the legal
+                                 position nor such a proposition has been
+laid down in
+Suresh
+                                 Chandra Tewari [AIR 1992 All 331] that once a petition is
+                                 admitted, it cannot be dismissed on the ground of alternative
+                                 remedy. It is no doubt correct that in the headnote of All India
+                                 Reporter (p. 331), it is stated that "petition cannot be rejected
+                                 on the ground of availability of alternative remedy of filing
+                                 appeal". But it has not been so held in the actual decision of
+                                 the Court. The relevant para 2 of the decision reads thus:
+(Suresh Chandra Tewari case [AIR 1992 All 331], AIR p. 331)
+                                        "2. At the time of hearing of this petition a
+                                        threshold question, as to its maintainability was
+                                        raised on the ground that the impugned order was
+                                        an appealable one and, therefore, before
+                                        approaching this Court the petitioner should have
+                                        approached the appellate authority. Though there
+                                        is much substance in the above contention, we do
+                                        not feel inclined to reject this petition on the
+                                        ground of alternative remedy having regard to the
+                                        fact that the petition has been entertained and an
+                                        interim order passed."
+(emphasis supplied)
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                           Page 28 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+Even otherwise, the learned Judge was not right in law. True it
+                                 is that issuance of rule nisi or passing of interim orders is a
+                                 relevant consideration for not dismissing a petition if it appears
+                                 to the High Court that the matter could be decided by a writ
+                                 court. It has been so held even by this Court in several cases
+                                 that even if alternative remedy is available, it cannot be held
+                                 that a writ petition is not maintainable. In our judgment,
+                                 however, it cannot be laid down as a proposition of law that
+                                 once a petition is admitted, it could never be dismissed on the
+                                 ground of alternative remedy. If such bald contention is upheld,
+                                 even this Court cannot order dismissal of a writ petition which
+                                 ought not to have been entertained by the High Court under
+Article 226
+of the Constitution in view of availability of
+                                 alternative and equally efficacious remedy to the aggrieved
+                                 party, once the High Court has entertained a writ petition albeit
+                                 wrongly and granted the relief to the petitioner.
+39. On the facts and in the circumstances of the case,
+                                 particularly in view of assertions by the Corporation that its
+                                 work had been substantially reduced; it was running into
+                                 losses; the question was considered by the Board of Directors
+                                 and it was resolved to retrench certain employees, it would
+                                 have been appropriate, had the High Court not entertained the
+                                 writ petition under
+Article 226
+of the Constitution. (See
+                                 also
+Scooters India v. Vijai E.V. Eldred
+[(1998) 6 SCC 549 :
+1998 SCC (L&S) 1611] .)
+40. The matter, however, did not rest on averments and
+                                 counter-averments. The record reveals that the Corporation
+                                 was convinced that retrenchment of certain employees was
+                                 absolutely necessary. According to the Corporation, because of
+                                 globalisation and entry of private sector in the business and
+                                 also because of various orders passed by this Court from time
+                                 to time in public interest litigation (PIL), the activities of the
+                                 Corporation had been considerably curtailed. It was incurring
+                                 losses and was not able to pay salaries and wages to its
+                                 employees. It was, therefore, decided to take recourse to
+                                 retrenchment in accordance with law.
+41. Now, whether such action could or could not have been
+                                 taken or whether the action was or was not in consonance with
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                            Page 29 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+law could be decided on the basis of evidence to be adduced by
+                                 the parties. Normally, when such disputed questions of fact
+                                 come up for consideration and are required to be answered,
+                                 appropriate forum would not be a writ court but a Labour
+                                 Court or an Industrial Tribunal which has jurisdiction to go
+                                 into the controversy. On the basis of evidence led by the parties,
+                                 the court/Tribunal would record a finding of fact and reach an
+                                 appropriate conclusion. Even on that ground, therefore, the
+                                 High Court was not justified in allowing the petition and in
+                                 granting relief.
+xxx                xxx                xxx
+50. In our considered view, however, all such actions could be
+                                 examined by an appropriate court/tribunal under the industrial
+                                 law and not by a writ court exercising power of judicial review
+                                 under
+Article 226
+of the Constitution. If the impugned action of
+                                 the Corporation of retrenchment of several employees is not in
+                                 consonance with law, the employees are certainly entitled to
+                                 relief from an appropriate authority.
+51. If any action is taken which is arbitrary, unreasonable or
+                                 otherwise not in consonance with the provisions of law, such
+                                 authority or court/tribunal is bound to consider it and legal and
+                                 legitimate relief can always be granted keeping in view the
+                                 evidence before it and considering statutory provisions in
+                                 vogue. Unfortunately, the High Court did not consider all these
+                                 aspects and issued a writ of mandamus which should not have
+                                 been done. Hence, the order passed and directions issued by
+                                 the High Court deserve to be set aside.
+52. For the foregoing reasons, the appeal deserves to be
+                                 allowed and the order passed by the High Court is liable to be
+                                 set aside and is accordingly set aside.
+53. Since we are of the view that one of the Judges of the
+                                 Division Bench of the High Court which decided the matter at
+                                 the initial stage was right in relegating the petitioners to avail
+                                 of alternative remedy under the industrial law and as we hold
+                                 that the High Court should not have entertained the petition
+                                 and decided the matter on merits, we clarify that though the
+                                 writ petition filed by the petitioners stands dismissed, it is open
+                                 to the employees to approach an appropriate court/tribunal in
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                             Page 30 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+accordance with law and to raise all contentions available to
+                                 them. It is equally open to the Corporation and the State
+                                 authorities to defend and support the action taken by them. As
+                                 and when such a course is adopted by the employees, the
+                                 court/tribunal will decide it strictly in accordance with law
+                                 without being influenced by the fact that the writ petition filed
+                                 by the writ petitioners is dismissed by this Court."
+(Emphasis supplied)
+27.
+In
+Transport & Dock Workers Union v. Mumbai Port Trust
+, (2011)
+                          2 SCC 575, the workers union filed a writ petition before the Bombay High
+                          Court alleging violation of
+Article 14
+of the Constitution on the ground that
+                          the Typist-cum-Computer Clerks appointed by Mumbai Port Trust prior to
+                          01st November, 1996 have to work for 6½ hours a day whereas Typist-cum-
+                          Computer Clerks appointed after 01st November, 1996 have to work for 7½
+                          hours which is violative of
+Section 9A
+of the Industrial Disputes Act. The
+                          Supreme Court held that the High Court should have dismissed the writ
+                          petition on the ground of existence of alternative remedy under the
+Industrial
+                          Disputes Act
+. The Supreme Court further observed that an over liberal
+                          approach was unnecessarily adding to their load of arrears instead of
+                          observing judicial discipline in following settled legal principles. Para 14 of
+                          the judgment is reproduced hereunder:
+"14. In our opinion the writ petition filed by the appellants
+                                    should have been dismissed by the High Court on the ground
+                                    of existence of an alternative remedy under the
+Industrial
+                                    Disputes Act
+. It is well settled that writ jurisdiction is
+                                    discretionary jurisdiction, and the discretion should not
+                                    ordinarily be exercised if there is an alternative remedy
+                                    available to the appellant. In this case there was a clear
+                                    alternative remedy available to the appellants by raising an
+                                    industrial dispute and hence we fail to understand why the
+                                    High Court entertained the writ petition. It seems to us that
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                           Page 31 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+some High Courts by adopting an over liberal approach are
+                                      unnecessarily adding to their load of arrears instead of
+                                      observing judicial discipline in following settled legal
+                                      principles. However, we may also consider the case on
+                                      merits."
+(Emphasis supplied)
+28.
+In
+Avishek Raja v. Sanjay Gupta
+, (2017) 8 SCC 435, the writ
+                          petitions     under
+Article    32
+of   the   Constitution   challenged     the
+                          transfer/termination of the employees. The Supreme Court held that the
+                          adjudication of the claim should be done by the Appropriate Authority under
+                          the
+Industrial Disputes Act
+. Para 30 of the Supreme Court judgment is
+                          reproduced hereunder:
+"30. Insofar as the writ petitions seeking interference with
+                                      transfer/termination, as the case may be, are concerned, it
+                                      appears that the same are relatable to service conditions of
+                                      the writ petitioners concerned. Adjudication of such question
+                                      in the exercise of high prerogative writ jurisdiction of this
+                                      Court under
+Article 32
+of the Constitution would not only be
+                                      unjustified but such questions should be left for
+                                      determination before the appropriate authority either under
+                                      the Act or under cognate provisions of law
+(Industrial
+                                      Disputes Act, 1947
+, etc.), as the case may be."
+(Emphasis supplied)
+29.
+In
+Satpal Singh v. Delhi Sikh Gurdwara Management Committee
+,
+                          181 (2011) DLT 455, this Court dismissed the writ petition on the ground
+                          that the employees have an equally efficacious remedy.
+                          Summary of principles
+30.
+Industrial Disputes Act
+is a complete Code in itself which provides
+                          the remedies to the employees in respect of all industrial disputes. All
+                          industrial disputes, in the first instance, have to be adjudicated by the
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                                 Page 32 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+Industrial Tribunal under the
+Industrial Disputes Act
+and the awards of the
+                          Industrial Tribunal are amenable to the writ jurisdiction of this Court. This
+                          is the legislative policy and intendment underlying the
+Industrial Disputes
+                          Act
+.
+31.    The law is well settled by the Supreme Court that a writ petition
+                          should not be entertained in respect of industrial disputes for which a
+                          statutory remedy is available under the
+Industrial Disputes Act
+unless
+                          'Exceptional circumstances' are made out. The Supreme
+Court further held
+that if the writ involves disputed questions of fact, the writ petition should
+                          not be entertained. The writ jurisdiction is a discretionary jurisdiction and
+                          the discretion should not ordinarily be exercised, if there is an alternative
+                          remedy available to the petitioner.
+32.    The Sole Test
+laid down by
+the Supreme Court for entertaining a writ
+                          petition relating to an industrial dispute is the existence of 'Exceptional
+                          circumstances'. If the Court is satisfied on the existence of 'Exceptional
+                          circumstances', then and only then, the Court shall proceed to ascertain
+                          whether the writ involves disputed questions of fact. If the Court finds
+                          'Exceptional circumstances' but the writ involves disputed questions of
+                          fact, then the writ petition shall not be entertained, meaning thereby that the
+                          writ petition may be entertained only if the Court is satisfied firstly, on the
+                          existence of 'Exceptional circumstances' and secondly, the writ petition
+                          does not involve disputed questions of fact.
+33.    If there are no 'Exceptional circumstances' for exercise of writ
+                          jurisdiction, the writ petition is liable to be dismissed on this ground alone.
+                          The Second Test as to whether the writ involves disputed questions of fact
+                          is to be applied if the First Test is satisfied and the writ involves
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                           Page 33 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+'Exceptional circumstances' meaning thereby that if there are no
+                          'Exceptional circumstances', the writ Court is not required to consider
+                          whether the writ involves disputed questions of fact or not. To clarify it
+                          further, if there are no 'Exceptional circumstances', the writ petition in
+                          respect of an industrial dispute cannot be entertained even if the writ
+                          involves undisputed questions of fact.
+34.     The above principles are summarized as under:
+I. If the writ petition discloses 'Exceptional circumstances' and does
+                                     not involve disputed questions of fact, the writ petition in respect
+                                     of an industrial dispute may be entertained.
+                                II. If the writ petition discloses 'Exceptional circumstances' but the
+                                     facts are disputed, the writ petition should not be entertained and
+                                     the petitioner has to invoke the statutory remedies available as per
+                                     law.
+III. If the writ petition does not disclose 'Exceptional circumstances',
+                                     the writ petition should not be entertained irrespective of whether
+                                     the facts are disputed or not.
+IV. Writ jurisdiction is a discretionary jurisdiction and the discretion
+                                     is ordinarily not exercised, if an alternative remedy is available to
+                                     the petitioner. The powers conferred under
+Article 226
+of the
+                                     Court are very wide but these are extraordinary remedies subject
+                                     to self imposed restrictions.
+Exceptional Circumstances - Some Examples
+35.     The question arises what could be the 'Exceptional circumstances' in
+                          which the writ jurisdiction should be exercised.
+In
+Hajara v. Govt. of India
+,
+                          2017 SCC OnLine Del 7982, three poor persons were sleeping on the
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                             Page 34 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+pavement outside the boundary wall of Old Delhi Railway Station on the
+                          night of 26th November, 2013. In the middle of the night at about 12:18
+                          A.M., a goods train broke the dead end of the railway track and thereafter,
+                          hit the boundary wall of Old Delhi Railway Station whereupon the boundary
+                          wall fell down and all the three persons sleeping on the pavement were
+                          crushed under the boundary wall. The police registered FIR under
+Section
+                          304A
+IPC against four employees of Railways and thereafter, filed the
+                          chargesheet and charge was framed by the Metropolitan Magistrate. The
+                          police could identify only one person who died in the aforesaid incident
+                          whereas two other dead bodies could not be identified. The widow and
+                          children of one of the deceased persons filed an application for
+                          compensation before the Railway Claims Tribunal which was contested by
+                          Railways on the ground that the accident was not an "Untoward Incident" as
+                          defined in
+Section 123(c)
+of the Railways Act and therefore, the claimants
+                          were not entitled to any compensation under
+Section 124A
+of the Railways
+                          Act. Vide judgment dated 28th October, 2014, the Railway Claims Tribunal
+                          allowed the objection of Railways and dismissed the claim petition. The
+                          claimants invoked the writ jurisdiction of this Court for compensation. The
+                          Railways did not dispute the accident dated 26th November, 2013 which
+                          resulted the death of three persons as well as the factum of filing of FIR and
+                          chargesheet against four employees of Railways. This Court exercised the
+                          writ jurisdiction notwithstanding the alternative remedy of a civil suit and
+                          awarded compensation of Rs.18 lakhs along with interest @ 9% per annum
+                          which was gracefully paid by Railways. This is a clear case of 'Exceptional
+                          circumstances' for exercise of writ jurisdiction in which the facts were
+                          undisputed.
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                           Page 35 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+36.
+In
+Union of India v. Kiran Kanojia
+, 2018 SCC OnLine Del 12830,
+                          Kiran Kanojia, daughter of a washer man who was residing in a jhuggi in
+                          Faridabad and she was picked up by NGO who helped her in education and
+                          she completed her BCA course and she got an employment in Infosys at
+                          Hyderabad.       On 24th December, 2011, Kiran was coming back from
+                          Hyderabad to meet her parents by train. She was holding a reserved valid
+                          ticket and this was her first visit after joining Infosys. She was sitting on the
+                          lower berth near the gate of the coach and the train was passing slowly
+                          through Palwal Station when a boy snatched her bag containing valuables
+                          and she was dragged with the bag towards the gate of the coach. In the
+                          meantime, an accomplice of a thief pushed her from behind due to which she
+                          fell down from the moving train and her left leg got entangled in the
+                          footboard of the coach. Both the thieves ran away with her bag. The
+                          passengers stopped the train by pulling the chain and she was pulled out and
+                          put on the train which moved towards Old Faridabad Railway Station where
+                          the Railway staff/Police took her to Fortis Escort Hospital, Faridabad in the
+                          police jeep where her left leg was amputated below knee level on 24 th
+                          December, 2011. She was discharged from the hospital on 05 th January,
+                          2012.     She underwent another surgery on 21st January, 2012 and she
+                          remained hospitalized up to 27th February, 2012. On 06th July, 2012, she
+                          filed an application for compensation before Railways Claims Tribunal
+                          which was allowed on 25th April, 2014 and compensation of Rs.3 lakhs was
+                          awarded to her. Railways challenged the award of the Railway Claims
+                          Tribunal for reduction of the amount. This Court did not find any merit in
+                          the Railways appeal. In the meantime, the claimant also filed cross-appeal
+                          to seek enhancement. Vide judgment dated 29th November, 2018, this Court
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                             Page 36 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+enhanced the compensation from Rs.3 lakhs to Rs.5 lakhs. In this case, the
+                          claimant Kiran Kanojia availed the statutory remedy for claiming
+                          compensation before the Railway Claims Tribunal. However, the facts of
+                          this case clearly constitute 'Exceptional circumstances' as the claimant
+                          suffered a major accident while travelling in train which resulted in the
+                          amputation of her left leg and she was hospitalized; she belonged to a very
+                          poor family and had no means to bear the hospitalization charges for her
+                          treatment/amputation and therefore, she required the compensation
+                          immediately and all the relevant facts were matter of record and undisputed.
+                          This was a fit case for exercise of writ jurisdiction if the claimant had filed
+                          the writ petition instead of invoking the alternative statutory remedy.
+37.    In    Writers      Safeguard       Ltd.   v.   Commissioner,   Employees'
+                          Compensation FAO 154/2013, Om Prakash was driving an armored van
+                          carrying cash on 30th March, 2007 in Rajouri Garden when he noticed that
+                          two persons were trapped in a MTNL manhole in Rajouri Garden
+                          whereupon he got down from the van and went inside the manhole to rescue
+                          the two persons. He was able to rescue one person. When he went inside to
+                          rescue the second person, he was affected by the poisonous gases and he
+                          became unconscious and collapsed. The police registered FIR under
+Section
+                          304A
+IPC. The widow, minor children and parents of Om Prakash filed an
+                          application for compensation against the employer in which the
+                          Commissioner, Employees‟ Compensation awarded compensation of
+                          Rs.4,42,740/- vide order dated 16th February, 2012.               The employer
+                          challenged the award of the Commissioner, Employees‟ Compensation
+                          before this Court. During the pendency of the appeal, better sense prevailed
+                          on the employer and the Managing Director of the employer conceded
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                               Page 37 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+before this Court on 30th April, 2015 that the compensation amount be
+                          released to the legal representative of the deceased. Ordinarily, the appeal
+                          would have ended there but this Court noticed that the family of the
+                          deceased was entitled to further compensation of Rs.11,34,500/- from
+                          MTNL. This Court, therefore, suo moto invoked the writ jurisdiction and
+                          issued notice to MTNL. This Court determined the compensation amount of
+                          Rs.11,34,500/- which was gracefully paid by MTNL. This Court thereafter
+                          framed guidelines for payment of compensation to the workmen who lose
+                          their lives while doing sewage work which have been adopted by the Central
+                          Government.        This is a clear case of the existence of 'Exceptional
+                          circumstances' as a citizen sacrificed his life while saving two workers
+                          stuck in the manhole and all the relevant facts were undisputed.
+38.
+In
+Union of India v. Dhyan Singh
+, 2013 ACJ 2644, four laborers
+                          hired by the contractor of CPWD were cleaning the septic tank at the CRPF
+                          Camp, Bawana. The laborers told the contractor that a foul smell was
+                          coming out of the septic tank which could be fatal to their lives but the
+                          contractor still ordered them to clean the tank whereupon three laborers
+                          entered the septic tank and they fell unconscious upon inhaling the
+                          poisonous gases in the tank. The fourth labourer, Deepak raised an alarm
+                          whereupon Constable, Ranbir Singh and Head Constable, Dayal Singh
+                          reached the spot and went inside the septic tank to save the lives of the
+                          laborers. However, both of them were affected by the poisonous gases inside
+                          the tank and they fell unconscious. The fire brigade and the police were
+                          requisitioned and they pulled out all the men out of the septic tank in a
+                          critical condition and they were taken to Babu Jagjivan Memorial Hospital.
+                          Head Constable, Dayal Singh survived whereas the remaining four persons
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                            Page 38 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+including Constable, Ranbir Singh were declared dead. The widow, four
+                          minor children and parents of Constable, Ranbir Singh filed a suit for
+                          recovery of Rs.5 lakh as compensation before the District Court which was
+                          decreed. The government challenged the decree before this Court. This
+                          Court noticed the family was entitled to Rs.11,59,052/- instead of Rs.5 lakhs
+                          claimed by them. However, the poor and illiterate legal representatives of
+                          the deceased were not willing to file the cross-objection for seeking
+                          enhancement. This Court exercised the suo moto power to enhance the
+                          decretal amount from Rs.5 lakhs to Rs.11,59,052/- along with interest @ 9%
+                          per annum. This Court also recommended compassionate appointment to
+                          the widow/children of the deceased.         This is a case where the legal
+                          representatives of the deceased availed the remedy before the Civil Court.
+                          However, the facts of this case clearly constitute                'Exceptional
+                          circumstances' and all facts were undisputed if the legal representatives of
+                          the deceased had invoked the writ jurisdiction.
+Findings
+39.    The petitioners have challenged the retrenchment of 297 employees
+                          by the respondent on 29th September, 2018. However, 78 out of 297
+                          retrenched employees have accepted their retrenchment and have applied for
+                          withdrawal of their statutory benefits including gratuity etc. during the
+                          pendency of these writ petitions.
+40.    The retrenched employees have a statutory remedy to raise an
+                          industrial dispute under the
+Industrial Disputes Act
+. The petitioners have
+                          based their claims on the alleged violation of the provisions of the
+Industrial
+                          Disputes Act
+. There are no exceptional circumstances for exercise of the
+                          writ jurisdiction under
+Article 226
+of the Constitution in these writ petitions.
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                             Page 39 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+41.    This case is squarely covered by the principles
+laid down by
+the
+                          Supreme Court in
+U.P. State Bridge Corporation Ltd. v. U.P. Rajya Setu
+                          Nigam Karamchari Sangh
+(supra) in which the High Court allowed a writ
+                          petition of the Trade Union to challenge the termination of a workman. The
+                          Supreme Court held that the High Court erred in entertaining the writ
+                          petition since the disputes related to the enforcement of a right/obligation
+                          under the
+Industrial Disputes Act
+and the specific remedy was provided
+                          under the
+Industrial Disputes Act
+. Relevant portion of the judgment is
+                          reproduced hereunder:
+"11.      We are of the firm opinion that the High Court
+                                    erred in entertaining the writ petition of the respondent
+                                    Union at all. The dispute was an industrial dispute both
+                                    within the meaning of the
+Industrial Disputes Act, 1947
+as
+                                    well as U.P. IDA, 1947. The rights and obligations sought to
+                                    be enforced by the respondent Union in the writ petition are
+                                    those created by the
+Industrial Disputes Act
+.
+(Emphasis Supplied)
+42.    This case is also covered by
+A.P. Foods v. S. Samuel
+(supra) in which
+                          the High Court allowed the writ petition against stoppage of ex-gratia/bonus
+                          by the management.
+The Supreme Court reiterated the principles
+laid down
+                          in
+U.P. State Bridge Corporation Ltd.
+(supra) and catena of other judgments
+                          and held that the writ petition under
+Article 226
+of the Constitution should
+                          not be entertained when the statutory remedy is available under the Act
+                          unless exceptional circumstances are made out. Para 6 of the judgment is
+                          reproduced hereunder:
+"6.      In a catena of decisions it has been held that a writ
+                                    petition under
+Article 226
+of the Constitution of India should
+                                    not be entertained when the statutory remedy is available
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                           Page 40 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+under the Act, unless exceptional circumstances are made
+                                     out.
+(Emphasis Supplied)
+43.      This case is also covered by
+State of Uttar Pradesh v. Uttar Pradesh
+                          Rajya Khanij Vikas Nigam Sangharsh Samiti
+(supra) in which the writ
+                          petition to challenge retrenchment of 460 employees was allowed by the
+                          Allahabad High Court and various interim orders were passed in favour of
+                          the employees. The Supreme Court held that the High Court should not
+                          have entertained the writ petition in view of statutory remedy to the
+                          employees under the
+Industrial Disputes Act
+. The Supreme Court dismissed
+                          the writ petition with liberty to the employees to approach the Tribunal in
+                          accordance with law. Relevant portion of
+the said judgment
+is reproduced as
+                          under:
+"50.       In our considered view, however, all such actions
+                                     could be examined by an appropriate court/tribunal under
+                                     the industrial law and not by a writ court exercising power of
+                                     judicial review under
+Article 226
+of the Constitution. If the
+                                     impugned action of the Corporation of retrenchment of
+                                     several employees is not in consonance with law, the
+                                     employees are certainly entitled to relief from an appropriate
+                                     authority."
+(Emphasis Supplied)
+44.      This case is also covered by
+Transport and Dock Workers Union v.
+                          Mumbai Port Trust
+(supra) in which the Bombay High Court allowed the
+                          writ petition in respect of an industrial dispute. The Supreme Court held that
+                          the High Court should have dismissed the writ petition on the ground of
+                          existence of alternative remedy under the
+Industrial Disputes Act
+. The
+                          Supreme Court further observed that an over liberal approach was
+                          unnecessarily adding to their load of arrears instead of observing judicial
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                             Page 41 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+discipline in following settled legal principles.   Relevant portion of the
+                          judgment is reproduced hereunder:
+"14. In our opinion the writ petition filed by the appellants
+                                    should have been dismissed by the High Court on the ground
+                                    of existence of an alternative remedy under the
+Industrial
+                                    Disputes Act
+. It is well settled that writ jurisdiction is
+                                    discretionary jurisdiction, and the discretion should not
+                                    ordinarily be exercised if there is an alternative remedy
+                                    available to the appellant. In this case there was a clear
+                                    alternative remedy available to the appellants by raising an
+                                    industrial dispute and hence we fail to understand why the
+                                    High Court entertained the writ petition. It seems to us that
+                                    some High Courts by adopting an over liberal approach are
+                                    unnecessarily adding to their load of arrears instead of
+                                    observing judicial discipline in following settled legal
+                                    principles. However, we may also consider the case on
+                                    merits."
+(Emphasis supplied)
+45.    According to the learned senior counsel for the petitioner, the writ
+                          jurisdiction should be exercised because two years have passed after the
+                          filing of this writ petition. There is no merit in this contention as the
+                          respondent raised the preliminary objections to the maintainability of the
+                          writ petition at the very threshold of the commencement of arguments and
+                          these cases were pending due to lengthy arguments of learned counsels for
+                          both the parties. The petitioners themselves have filed C.M. Appl.
+                          41299/2018 in W.P.(C.) 10596/2018 and C.M. Appl. 41305/2018 in
+                          W.P.(C.) 10605/2018 seeking adjudication on the maintainability of writ
+                          petitions. That apart, delay by itself has been held by the Supreme Court not
+                          to be a sufficient ground to exercise the writ jurisdiction.
+In
+U.P. State
+                          Bridge Corporation Ltd. v. U.P. Rajya Setu Nigam Karamchari Sangh
+(supra), the issue of delay on the part of the High Court in disposing of the
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                          Page 42 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+dispute was raised before the Supreme Court. The Supreme Court rejected
+                          this plea and held that even when there is a delay, High Court should not
+                          have short-circuited the process. The Supreme Court dismissed the writ
+                          petition with liberty to the workman to raise an industrial dispute. Relevant
+                          portion of
+the said judgment
+is reproduced hereunder:
+"17.       The only reason given by the High Court to finally
+                                    dispose of the issues in its writ jurisdiction which appears to
+                                    be sustainable, is the factor of delay, on the part of the High
+                                    Court in disposing of the dispute. Doubtless the issue of
+                                    alternative remedy should be raised and decided at the
+                                    earliest opportunity so that a litigant is not prejudiced by the
+                                    action of the Court since the objection is one in the nature of
+                                    a demurrer. Nevertheless even when there has been such a
+                                    delay where the issue raised requires the resolution of factual
+                                    controversies, the High Court should not, even when there is
+                                    a delay, short-circuit the process for effectively determining
+                                    the facts."
+(Emphasis Supplied)
+46.
+In
+A.P. Foods v. S. Samuel
+(supra), the workmen raised the issue of
+                          delay of 20 years which had lapsed after the filing of the writ petition but the
+                          Supreme Court was not impressed. The Supreme Court dismissed the writ
+                          petition and directed the disputes to be referred to the Industrial Tribunal.
+                          Relevant portion of
+the said judgment
+is as under:
+"14. However, because of the long passage of time (the writ
+                                    petition was filed in 1996), the attendant circumstances of the
+                                    case in the background noted above and in view of the
+                                    agreement that this is a matter which requires to be referred
+                                    to the Tribunal, we direct that the appropriate Government
+                                    shall refer the following questions for adjudication by the
+                                    appropriate Tribunal"
+(Emphasis Supplied)
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                             Page 43 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+47.    According to the petitioners, this Court issued notice in the writ
+                          petition after considering the respondent‟s objection to the maintainability of
+                          the writ petition and the detailed interim order was passed in favour of the
+                          petitioners. It is submitted that these petitions cannot now be dismissed on
+                          the ground of alternative remedy. This very objection was raised before the
+                          Supreme Court in
+State of Uttar Pradesh v. Uttar Pradesh Rajya Khanij
+                          Vikas Nigam Sangharsh Samiti
+(supra) in which the Supreme Court held in
+                          clear terms that a writ petition can be dismissed on the ground of alternative
+                          remedy even after it has been admitted and interim order has been passed.
+                          Relevant portion of para 38 of the judgment is reproduced hereunder:
+"38.       ...it cannot be laid down as a proposition of law
+                                    that once a petition is admitted, it could never be dismissed
+                                    on the ground of alternative remedy. If such held contention
+                                    is upheld, even this court cannot order dismissal of a writ
+                                    petition which ought not be have been entertained by the
+                                    High Court under
+article 226
+of the constitution in view of
+                                    availability of alternative and equally efficacious remedy to
+                                    the aggrieved party once the High Court has entertained a
+                                    writ petition albeit wrongly and granted the relief to the
+                                    petitioner."
+(Emphasis Supplied)
+48.    The petitioner‟s next contention is that the writ jurisdiction should be
+                          exercised because all facts averred by the petitioner are admitted. However,
+                          the respondent has vehemently disputed all the averments made by the
+                          petitioners in the writ petitions. Both these writ petitions involve disputed
+                          questions of facts which cannot be resolved by this Court in writ jurisdiction.
+                          This Court is of the view that the affidavits and documents filed by the
+                          parties are not sufficient to decide the questions of fact without evidence.
+                          According to the respondent, there was no work for the retrenched
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                           Page 44 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+employees for a long period and therefore, the respondent took a decision to
+                          retrench 297 employees to carry out the work efficiently.
+This averment is
+                          disputed by the petitioner. According to the petitioner, there is sufficient
+                          work for the retrenched employees. This disputed question of fact, apart
+                          from other disputed questions of fact, has to be adjudicated on the basis of
+                          the evidence to be led by the parties. This issue arose for consideration in
+State of Uttar Pradesh v. Uttar Pradesh Rajya Khanij Vikas Nigam
+                          Sangharsh Samiti
+(supra) in which U.P. State Developed Corporation
+                          retrenched 460 employees which was challenged before Allahabad High
+                          Court. According to the Corporation, its work had substantially reduced and
+                          was running into losses and the Board of Directors resolved to retrench 460
+                          employees. The Allahabad High Court passed various interim orders and
+                          rejected the respondent‟s objection to the maintainability of the writ petition
+                          on the ground of alternative remedy. The Supreme Court held in clear terms
+                          that such disputed questions of fact are required to be adjudicated by the
+                          Industrial Tribunal on the basis of the evidence led by the parties. The
+                          Supreme Court dismissed the writ petition and vacated the interim orders
+                          passed by the High Court.                 Relevant portion of
+the said judgment
+is
+                          reproduced hereunder:
+"39. On the facts and in the circumstances of the case,
+                                    particularly in view of assertions by the Corporation that its
+                                    work had been substantially reduced; it was running into
+                                    losses; the question was considered by the Board of
+                                    Directors and it was resolved to retrench certain employees,
+                                    it would have been appropriate, had the High Court not
+                                    entertained the writ petition under
+Article 226
+of the
+                                    Constitution.
+40. The matter, however, did not rest on averments and
+                                    counter-averments. The record reveals that the Corporation
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                                Page 45 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+was convinced that retrenchment of certain employees was
+                                    absolutely necessary. According to the Corporation, because
+                                    of globalisation and entry of private sector in the business
+                                    and also because of various orders passed by this Court from
+                                    time to time in public interest litigation (PIL), the activities of
+                                    the Corporation had been considerably curtailed. It was
+                                    incurring losses and was not able to pay salaries and wages
+                                    to its employees. It was, therefore, decided to take recourse
+                                    to retrenchment in accordance with law.
+41. Now, whether such action could or could not have been
+                                    taken or whether the action was or was not in consonance
+                                    with law could be decided on the basis of evidence to be
+                                    adduced by the parties. Normally, when such disputed
+                                    questions of fact come up for consideration and are required
+                                    to be answered, appropriate forum would not be a writ court
+                                    but a Labour Court or an Industrial Tribunal which has
+                                    jurisdiction to go into the controversy. On the basis of
+                                    evidence led by the parties, the court/Tribunal would record
+                                    a finding of fact and reach an appropriate conclusion. Even
+                                    on that ground, therefore, the High Court was not justified in
+                                    allowing the petition and in granting relief.
+xxx                 xxx                  xxx
+50. In our considered view, however, all such actions could
+                                    be examined by an appropriate court/tribunal under the
+                                    industrial law and not by a writ court exercising power of
+                                    judicial review under
+Article 226
+of the Constitution. If the
+                                    impugned action of the Corporation of retrenchment of
+                                    several employees is not in consonance with law, the
+                                    employees are certainly entitled to relief from an appropriate
+                                    authority."
+(Emphasis Supplied)
+49.    Although the respondent has vehemently disputed all the averments
+                          made by the petitioners, even assuming the petitioners‟ averments to be
+                          undisputed, no case for exercise of writ jurisdiction is made out in view of
+                          well settled law that a writ petition in respect of an industrial dispute should
+                          not be entertained except only in 'Exceptional circumstances'. The sole
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                                Page 46 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+test
+laid down by
+the Supreme Court for exercise of a writ jurisdiction is
+                          existence of 'Exceptional circumstances'. The Supreme Court has nowhere
+                          laid down the test that the writ jurisdiction should be exercised in all cases
+                          where the facts are not disputed by the respondents.
+50.    The Courts are required to maintain uniformity in applying the law.
+                          The principles of uniformity and predictability are very important principles
+                          of jurisprudence. If this writ petition with such complicated questions of fact
+                          and law is entertained then on what ground a writ petition of simple
+                          retrenchment or termination can be declined. Most of the retrenchment cases
+                          are simpler than the present case but the writ jurisdiction is not exercised as
+                          the law is clear and well settled that the rights under the
+Industrial Disputes
+                          Act
+have to be agitated before the Industrial Tribunal.
+51.    Learned senior counsel for the petitioner has not addressed any
+                          arguments on the existence of „Exceptional circumstances' in these writ
+                          petitions. The only response of the learned senior counsel for the petitioner
+                          to the four Supreme Court judgments is that the facts were disputed in those
+                          judgments and therefore, they do not apply to present writ petitions.
+                          However, this Court is of the view that these cases are squarely covered by
+                          the principles
+laid down by
+the Supreme Court that writ jurisdiction should
+                          not be exercised in respect of an industrial dispute unless „Exceptional
+                          circumstances' are made out. There are no 'Exceptional circumstances' to
+                          exercise the writ jurisdiction in the present writ petitions. If the writ
+                          jurisdiction is exercised in the present cases, it would violate the well settled
+                          principles of law
+laid down by
+the Supreme Court.
+52.    The judgments relied upon by the petitioners, namely
+Indian
+                          Petrochemicals Corporation Ltd.
+(supra),
+Chennai Port Trust
+(supra),
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                             Page 47 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+Marwari Balika Vidyalaya
+(supra),
+Andi Mukta Sadguru Shree Muktajee
+                          Vandas Swami Suvarna Jayanthi Mahotsav Smarak Trust
+(supra) do not
+                          help the case of the petitioners for the reasons given by the respondents
+                          mentioned in para 13 above which are not being repeated herein for the sake
+                          of brevity. It is well settled that judicial precedent cannot be followed as a
+                          statute and has to be applied with reference to the facts of the case involved
+                          in it. The ratio of any decision has to be understood in the background of the
+                          facts of that case. What is of the essence in a decision is its ratio and not
+                          every observation found therein nor what logically follows from the various
+                          observations made in it. It has to be remembered that a decision is only an
+                          authority for what it actually decides. It is well settled that a little difference
+                          in facts or additional facts may make a lot of difference in the precedential
+                          value of a decision. The ratio of one case cannot be mechanically applied to
+                          another case without regard to the factual situation and circumstances of the
+                          two cases.
+In Padma Sundara Rao v. State of Tamil Nadu (2002) 3 SCC
+                          533 the Supreme Court held that the ratio of a judgment has to be read in the
+                          context of the facts of the case and even a single fact can make a difference.
+                          In para 9 of the said judgment, the Supreme Court held as under:
+"9. Courts should not place reliance on decisions without
+                                 discussing as to how the factual situation fits in with the fact
+                                 situation of the decision on which reliance is placed. There is
+                                 always peril in treating the words of a speech or judgment as
+                                 though they are words in a legislative enactment, and it is to be
+                                 remembered that judicial utterances are made in the setting of
+                                 the facts of a particular case, said Lord Morris in British
+                                 Railways Board v. Herrington. Circumstantial flexibility, one
+                                 additional or different fact may make a world of difference
+                                 between conclusions in two cases."
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                               Page 48 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+In
+Bharat Petroleum Corporation Ltd v. N.R. Vairamani
+, (2004) 8
+                          SCC 579, the Supreme Court held that a decision cannot be relied on
+                          without considering the factual situation. The Supreme Court observed as
+                          under:-
+"9. Courts should not place reliance on decisions without
+                                 discussing as to how the factual situation fits in with the fact
+                                 situation of the decision on which reliance is placed.
+                                 Observations of courts are neither to be read as Euclid's
+                                 theorems nor as provisions of a statute and that too taken out of
+                                 their context. These observations must be read in the context in
+                                 which they appear to have been stated. Judgments of courts are
+                                 not to be construed as statutes. To interpret words, phrases and
+                                 provisions of a statute, it may become necessary for judges to
+                                 embark into lengthy discussions but the discussion is meant to
+                                 explain and not to define. Judges interpret statutes, they do not
+                                 interpret judgments. They interpret words of statutes; their
+                                 words are not to be interpreted as statutes. In London Graving
+                                 Dock Co. Ltd. v. Horton [1951 AC 737: (1951) 2 All ER 1
+                                 (HL)] (AC at p. 761) Lord Mac Dermott observed: (All ER p.
+14 C-D)
+                                        "The matter cannot, of course, be settled merely by
+                                        treating the ipsissima verba of Willes, J., as though
+                                        they were part of an Act of Parliament and
+                                        applying the rules of interpretation appropriate
+                                        thereto. This is not to detract from the great weight
+                                        to be given to the language actually used by that
+                                        most distinguished judge..."
+10. In Home Office v. Dorset Yacht Co. [(1970) 2 All ER 294 :
+1970 AC 1004 : (1970) 2 WLR 1140 (HL)] (All ER p. 297g-h)
+                                 Lord Reid said,
+                                        "Lord Atkin's speech ... is not to be treated as if it
+                                        were a statutory definition. It will require
+                                        qualification in new circumstances".
+Megarry, J. in Shepherd Homes Ltd. v. Sandham (No.
+2) [(1971) 1 WLR 1062 : (1971) 2 All ER 1267] observed:
+"One must not, of course, construe even a
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                           Page 49 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+reserved judgment of Russell, L.J. as if it were an
+                                       Act of Parliament."
+And, in Herrington v.British Railways Board [(1972) 2 WLR
+                                 537 : (1972) 1 All ER 749 (HL)] Lord Morris said: (All ER p.
+                                 761c)
+                                       "There is always peril in treating the words of a
+                                       speech or a judgment as though they were words
+                                       in a legislative enactment, and it is to be
+                                       remembered that judicial utterances made in the
+                                       setting of the facts of a particular case."
+11. Circumstantial flexibility, one additional or different fact
+                                 may make a world of difference between conclusions in two
+                                 cases. Disposal of cases by blindly placing reliance on a
+                                 decision is not proper.
+12. The following words of Lord Denning in the matter of
+                                 applying precedents have become locus classicus:
+"Each case depends on its own facts and a close
+                                       similarity between one case and another is not
+                                       enough because even a single significant detail
+                                       may alter the entire aspect, in deciding such cases,
+                                       one should avoid the temptation to decide cases
+                                       (as said by Cardozo) by matching the colour of
+                                       one case against the colour of another. To decide
+                                       therefore, on which side of the line a case falls, the
+                                       broad resemblance to another case is not at all
+                                       decisive.
+xxx            xxx          xxx
+                                       Precedent should be followed only so far as it
+                                       marks the path of justice, but you must cut the
+                                       dead wood and trim off the side branches else you
+                                       will find yourself lost in thickets and branches. My
+                                       plea is to keep the path to justice clear of
+                                       obstructions which could impede it.""
+(Emphasis supplied)
+53.    Following the well settled principles laid down by the Supreme Court
+                          in
+U.P. State Bridge Corporation Ltd.
+(supra),
+A.P. Foods
+(supra),
+State of
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                          Page 50 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+Uttar Pradesh
+(supra) and
+Transport and Dock Workers Union
+(supra), this
+                          Court declines to exercise the writ jurisdiction in view of the statutory
+                          remedy available to the retrenched employees under
+Industrial Disputes Act
+.
+54.    W.P.(C) 10605/2018 was filed after W.P.(C) 10596/2018 and the
+                          petitioner in W.P.(C) 10605/2018 was required to disclose that W.P.(C)
+                          10596/2018 on behalf of 297 retrenched employees has already been filed
+                          and W.P.(C) 10605/2018 would not have been entertained, if this fact would
+                          have been disclosed. It is not disputed that the Petitioner in the W.P.(C)
+                          10605/2018 was aware of the filing of W.P.(C) 10596/2018 and the same set
+                          of counsels having same office address appeared for both the petitioners.
+                          The petitioner in W.P.(C) 10605/2018 made a false declaration that "No
+                          other similar petition has been filed in any Court of law". No justification
+                          or explanation has been given with respect to the necessity to file second
+                          writ petition on behalf of 297 employees for the same relief and that too
+                          without disclosing the filing of the first writ petition.
+55.     Both the writ petitions have been filed to challenge the retrenchment
+                          of 297 employees. However, there is no averment in both the writ petitions
+                          that any of the retrenched employees authorized the petitioners to espouse
+                          their cause. There is no averment or document in both the writ petitions to
+                          show the authority of the petitioners to file these petitions as on the date of
+                          filing of these writ petitions.
+56.    Learned senior counsel for the petitioner commenced the arguments
+                          on 26th April, 2019 which continued on 20th May, 2019, 28th May, 2019,
+                          03rd July, 2019, 18th July, 2019, 23rd July, 2019 and 29th July, 2019. Learned
+                          senior counsel for the respondent commenced arguments on 20 th August,
+                          2019 which continued on 06th September, 2019, 19th September, 2019,
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                           Page 51 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+20th September, 2019, 26th September, 2019, 18th October, 2019,
+                          08th November, 2019 and concluded on 10th January, 2020. On 19th August,
+                          2020, this Court heard the rejoinder arguments of learned senior counsel for
+                          the petitioner. After conclusion of rejoinder arguments on 19thAugust, 2020,
+                          this Court raised some queries and listed the matter for hearing on those
+                          queries on 27thAugust, 2020 and directed the parties to file as additional note
+                          with respect to the queries of the Court.
+57.    On 25th August, 2020, counsel for the petitioner filed written
+                          submissions in response to the submissions of the respondents in which new
+                          averments were made, which are beyond pleadings, and new documents
+                          were filed, without seeking any permission from this Court. It is well settled
+                          that the parties have to amend their pleadings to incorporate new facts and
+                          documents. This Court depreciates the manner in which the new averments
+                          and documents beyond pleadings are sought to be filed without permission
+                          of this Court, at such a belated stage, for which no explanation has been
+                          given. The new pleadings and documents filed by the petitioners on 25 th
+                          August, 2020 are not even supported by an affidavit. There is merit in the
+                          respondent‟s submission that the documents now filed do not appear to be
+                          genuine on various grounds inter alia that 141 letters of retrenched
+                          employees in W.P.(C) 10596/2018 are all undated; the signatures of many
+                          retrenched employees do not tally with their signatures in their service
+                          record; the signatures of 35 employees in their letters in W.P.(C)
+                          10596/2018 do not match with their letters in W.P.(C) 10605/2018; the
+                          petitioners have not filed any requisition for calling the general body
+                          meeting, notice of meeting, agenda notes of meeting. In any view of the
+                          matter, the petitioners have to lead evidence before the Industrial Tribunal to
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                           Page 52 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+prove these disputed documents in accordance with law. The new averments
+                          and documents filed by the petitioners along with the written submissions
+                          dated 25th August, 2020 are beyond pleadings and therefore, the same are
+                          not taken on record.
+58.    This Court is of the view that both the petitioners have failed to show
+                          the authority to file the writ petition on behalf of 297 retrenched employees
+                          either in the writ petition or the documents filed along with the writ petition
+                          as on the date of filing of these writ petitions.
+59.    The respondent has raised number of other preliminary objections
+                          including the objection that PTI is not amenable to writ jurisdiction. Since
+                          the writ petition is being dismissed on the ground that the retrenched
+                          employees have statutory remedy under the
+Industrial Disputes Act
+, it is not
+                          necessary to adjudicate the remaining preliminary objections of the
+                          respondent.
+Conclusion
+60.    Both the writ petitions are dismissed on the ground that the retrenched
+                          employees have statutory remedy under the
+Industrial Disputes Act
+and no
+                          'Exceptional circumstances' have been made out by the petitioners. The
+                          retrenched employees are at liberty to avail appropriate remedies available to
+                          them under the
+Industrial Disputes Act
+.
+61.    The interim order dated 29th November, 2018 is vacated. C.M. Appl.
+                          Nos.41305/2018, 41299/2018, 31916/2019 and 48595/2019 are dismissed.
+62.    It is made clear that nothing recorded herein be considered as final
+                          expression of this Court on the merits of this case.
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                           Page 53 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15
+Post Script
+63.    In view of the well settled law by the Supreme Court that the writ
+                          petition relating to an industrial dispute can be entertained only if there are
+                          'Exceptional circumstances', it is mandatory for the writ petitioner to
+                          disclose the 'Exceptional circumstances' in the Synopsis as well as in the
+                          opening paras of writ petition. However, the petitioners do not disclose the
+                          'Exceptional circumstances' in the writ petitions, as in the present cases.
+64.    This Court is of the view that the writ petition relating to an industrial
+                          dispute should not be listed unless the petitioner discloses the 'Exceptional
+                          circumstances' in the Synopsis and in the opening paras of the writ petition.
+65.    Subject to the approval of Hon‟ble the Chief Justice, the Registry may
+                          incorporate the following column in the check list of writ petitions:-
+"Whether the writ petitioner has an alternative remedy? If so,
+                                   disclose the "Exceptional circumstances" which may warrant
+                                   the exercise of writ jurisdiction in the Synopsis as well as in
+                                   the opening paras of the writ petition?"
+66.    If   the writ petitioner does not disclose the "Exceptional
+                          circumstances" in the writ petition, the Registry shall return the writ petition
+                          under objections to enable the writ petitioner to disclose the "Exceptional
+                          circumstances" in the Synopsis as well as in the opening paras of the writ
+                          petition.
+67.    Copy of this judgment be sent to the Registrar General of this Court.
+J.R. MIDHA, J.
+SEPTEMBER 18, 2020
+                          dk/ds/ak
+Signature Not Verified    W.P.(C) 10596/2018 & W.P.(C) 10605/2018                             Page 54 of 54
+Digitally Signed
+By:RAJENDER SINGH
+KARKI
+Signing Date:18.09.2020
+20:24:15

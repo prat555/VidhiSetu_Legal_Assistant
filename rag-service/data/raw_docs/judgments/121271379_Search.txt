@@ -1,0 +1,419 @@
+Title: Search
+Court: High Court
+Date: Unknown Date
+Citation: SCC 786 has
+Source: https://indiankanoon.org/doc/121271379/
+
+[Cites
+12
+, Cited by
+0
+]
+Bombay High Court
+Smaaash Entertainment Private Limited vs Assistant Commissioner Of Income Tax, ... on 14 July, 2025
+Author:
+B. P. Colabawalla
+Bench:
+B. P. Colabawalla
+2025:BHC-OS:11098-DB
+
+
+                                                                                                     86-wp-3272-2024.doc
+
+
+
+                                                   IN THE HIGH COURT OF JUDICATURE AT BOMBAY
+                                                        ORDINARY ORIGINAL CIVIL JURISDICTION
+
+
+                                                                WRIT PETITION NO.3272 OF 2024
+                                Smaaash Entertainment Pvt. Ltd.,                               .. Petitioner.
+
+                                            Versus
+
+                                Assistant Commissioner of Income Tax
+                                Circle 16 (1)                                                  .. Respondent.
+
+                                   Adv. Dharan Gandhi (now representing the Resolution Professional),
+            Digitally signed
+            by SMITA
+                                   for the Petitioner.
+SMITA       RAJNIKANT
+RAJNIKANT   JOSHI
+JOSHI       Date:
+            2025.07.18
+            10:14:41 +0530
+                                   Adv. P. A. Narayanan, for the Respondents.
+                                                         CORAM: B. P. COLABAWALLA &
+                                                                                     FIRDOSH P. POONIWALLA, JJ.
+DATE:      JULY 14, 2025
+
+                               P. C.
+
+                               1                     The above Writ Petition inter alia challenges (i) the notice issued
+under
+Section 143 (2)
+of the Income Tax Act, 1961 ("
+IT Act
+") dated 1 st June,
+
+                               2023; (ii) all notices issued in the course of assessment proceedings; (iii) the
+
+                               assessment order passed under
+Section 144
+dated 28 th March, 2024; and (iv)
+
+                               the impugned notice of demand dated 28 th March 2024 issued under
+Section
+
+                               156
+of the IT Act.
+2                     The short point on which all these notices, as well as the
+
+                               impugned order, are challenged is that all these notices as well as the
+
+                               impugned order, have been passed when the assessee was undergoing a
+Page 1 of 8
+JULY 14, 2025
+                               S.R.JOSHI
+::: Uploaded on - 18/07/2025                       ::: Downloaded on - 02/08/2025 02:15:46 :::
+86-wp-3272-2024.doc
+
+
+
+Corporate Insolvency Resolution Process ("CIRP") and there was a
+
+Moratorium in operation pursuant to the order dated 6 th May, 2022 passed
+
+by the NCLT under
+Section 14
+of the Insolvency and Bankruptcy Code, 2016
+
+("IBC, 2016"). In light of the order passed under
+Section 14
+, the assessment
+
+proceedings could not have proceeded, and which culminated in an order
+
+passed under
+Section 144
+of the IT Act. Further, no recovery notices could
+
+also have been issued under
+Section 156
+. It is on this short point that all the
+
+above notices as well as the assessment order are challenged in this Writ
+
+Petition.
+3                     Mr. Gandhi, the learned Counsel appearing on behalf of the
+
+Petitioner (now representing the Resolution Professional), submitted that the
+
+Delhi High Court in the case of Principal Commissioner of Income Tax-6,
+
+New Delhi v/s. Monnet Ispat and Energy Limited [2018] 18 SCC 786 has
+
+clearly held that even an appeal filed by the Department before the Income
+
+Tax Appellate Tribunal ("ITAT") could not proceed or be instituted in light of
+
+the provisions of
+Section 14
+of the IBC, 2016. He submitted that this order of
+
+the Delhi High Court was challenged before the Hon'ble Supreme Court. He
+
+submitted that the Hon'ble Supreme Court, also relying upon
+Section 238
+of
+
+the IBC, 2016, came to the conclusion that the Delhi High Court correctly
+
+decided the law and hence, the Special Leave Petition was dismissed. Once
+
+this is the case, the present assessment proceedings could not have continued
+Page 2 of 8
+JULY 14, 2025
+S.R.JOSHI
+::: Uploaded on - 18/07/2025                   ::: Downloaded on - 02/08/2025 02:15:46 :::
+86-wp-3272-2024.doc
+
+
+
+or even been                initiated while the Moratorium under
+Section 14
+was in
+
+operation.
+4                     On the other hand, the learned Advocate appearing on behalf of
+
+the Revenue submitted that though it is correct that recovery proceedings
+
+could not be initiated or proceeded with against the assessee because of the
+
+Moratorium, the same would not preclude the assessment proceedings being
+
+completed. In this regard, the learned Counsel appearing on behalf of the
+
+Revenue relied upon the decision of the Hon'ble Supreme Court in the case of
+
+Sundaresh Bhatt [Liquidator] of ABG Shipyard v/s. Central Board of Indirect
+
+Tax and Customs [(2023) 1 SCC 472].
+5                     We have heard learned Counsel for the parties and perused the
+
+papers and proceedings in the present Writ Petition. The Hon'ble Delhi High
+
+Court in the case of Monnet Ispat and Energy Limited (supra) has clearly
+
+held that appeals filed by the Revenue before the High Court challenging the
+
+order passed by the ITAT could not proceed in light of the provisions of
+Section 14
+of the IBC, 2016. Since this is a short order, the same is
+
+reproduced in its entirety.
+"1. The Court has heard the learned counsel for both parties.
+              The provisions of the Insolvency and Bankruptcy Code, 2016
+              ('Code') and, in particular,
+Section 14
+thereof has been perused.
+2.    It appears to the Court that
+Section 238
+of the Code is
+              categorical that the Code will apply, notwithstanding anything
+              inconsistent therewith contained in any other law for the time
+Page 3 of 8
+JULY 14, 2025
+S.R.JOSHI
+::: Uploaded on - 18/07/2025                   ::: Downloaded on - 02/08/2025 02:15:46 :::
+86-wp-3272-2024.doc
+
+
+
+              being in force.
+Section 14 (1)(a)
+of the Code states, inter alia, that
+              on the 'insolvency commencement date' the Adjudicating
+              Authority (AA) shall by order declare moratorium for prohibiting
+              "the institution of suits or continuation of pending suits or
+              proceedings against the corporate debtor including execution of
+              any judgment, decree or order in any court of law, tribunal,
+              arbitration panel or other authority." That the Code will prevail
+              over all other statutes inconsistent therewith has been explained
+              in the recent decision dated 31st August, 2017 of the Supreme
+              Court in Civil Appeal No. 8337-8338/2017 (Innovative Industries
+              Ltd. v/s. ICICI Bank).
+3.     In the instant case, the National Company Law Tribunal
+              (NCLT) [which by virtue of
+Section 5(1)
+of the Code is the AA] has
+              by its order dated 18th July 2017 admitted the petition under
+Section 7
+of the Code filed by the State Bank of India against the
+              Respondent Assessee and prohibited, inter alia, "the institution of
+              suits or continuation of pending suits or proceedings' against the
+              Respondent. This would include the present appeal by the
+              Income Tax Department ('Department') against the order of the
+              Income Tax Appellate Tribunal ('ITAT') in respect of the tax
+              liability of the Respondent-Assessee.
+4.    Mr. Asheesh Jain, learned Senior Standing counsel for the
+              Revenue, points out that unlike some of the earlier insolvency
+              statutes the Code does not envisage permission being sought
+              from the NCLT for continuation of the continuation of pending
+              proceedings against the Respondent in other fora . In the order
+              dated 18th July 2017 is clear that the moratorium continues "till
+              the completion of the corporate insolvency resolution process or
+              until this Bench approves the resolution plan under sub-Section
+              (1) of
+Section 31
+or passes an order for liquidation of corporate
+              debtor under
+Section 33
+, as the case may be."
+5.   Consequently, these appeals are disposed of with liberty to
+              the Appellate-Department to revive them subject to the further
+              orders of the NCLT.
+6.   Copy of the order be given dasti under the signature of the
+              Court Master."
+(emphasis supplied)
+Page 4 of 8
+JULY 14, 2025
+S.R.JOSHI
+::: Uploaded on - 18/07/2025                        ::: Downloaded on - 02/08/2025 02:15:46 :::
+86-wp-3272-2024.doc
+
+
+
+6                     This decision of the Delhi High Court was subjected to challenge
+
+by the Revenue before the Hon'ble Supreme Court. The Hon'ble Supreme
+
+Court proceeded to dismiss the SLP by making a following observations:-
+"1.      Heard. Delay, if any, is condoned.
+2. Given
+Section 238
+of the Insolvency and Bankruptcy
+                Code, 2016, it is obvious that the Code will override
+                anything inconsistent contained in any other enactment,
+                including the
+Income Tax Act
+. We may also refer in this
+                connection to
+Dena Bank v. Bhikhabhai Prabhudas Parekh
+                and Co.
+and its progeny, making it clear that income tax
+                dues, being in the nature of Crown debts, do not take
+                precedence even over secured creditors, who are private
+                persons.
+3. We are of the view that the High Court of Delhi, is,
+                therefore, correct in law. Accordingly, the special leave
+                petitions are dismissed. Pending applications, if any, stand
+                disposed of."
+7                     From these two decisions, and which are directly under the
+
+provisions of the
+IT Act
+, we find that the assessment proceedings could not
+
+have been initiated at all or continued while the Moratorium under
+Section 14
+of the IBC, 2016 was in operation.
+8                     Be that as it may, since the learned Counsel appearing on behalf
+
+of the Revenue, relied upon the decision of the Hon'ble Supreme Court in
+
+ABG Shipyard (supra) , we would have to deal with the aforesaid decision.
+
+Firstly, we find that this decision is clearly distinguishable on facts because
+Page 5 of 8
+JULY 14, 2025
+S.R.JOSHI
+::: Uploaded on - 18/07/2025                   ::: Downloaded on - 02/08/2025 02:15:46 :::
+86-wp-3272-2024.doc
+
+
+
+it is not passed under the
+IT Act
+but under the
+Customs Act, 1962
+. Secondly,
+
+we find that another decision of the Hon'ble Supreme Court in the case of
+
+S V. Kandaskar v/s. V. N. Deshpande [(1972) 1 SCC 438] was relied upon to
+
+come to the conclusion that the Customs Department could initiate
+
+assessment or reassessment of duties and other levies but could not initiate
+
+recovery in violation of
+Section 14
+or 33 (5) of the IBC, 2016. We find that the
+
+decision relied upon in the case of V. N. Deshpande (supra) was considered
+
+by an earlier Coordinate Bench of the Hon'ble Supreme Court in the case of
+
+P Mohanraj & Others v/s. Shah Brothers Ispat [(2021) 6 SCC 258]. In that
+
+decision also, the decision in V. N. Deshpande's (supra) case was pressed into
+
+service          and was distinguished by the Hon'ble Supreme Court. Without
+
+noticing the decision passed by the Hon'ble Supreme Court in P. Mohanraj &
+
+Others (supra), the Hon'ble Supreme Court, in ABG Shipyard (supra), has
+
+relied upon the case of V. N. Deshpande (supra). We, therefore, find that the
+
+reliance placed by the Revenue on the decision of the Hon'ble Supreme Court
+
+in ABG Shipyard (supra) is wholly misplaced. Once, we have the decision of
+
+the Delhi High Court under the provisions of
+IT Act
+and which has the seal of
+
+approval of the Hon'ble Supreme Court, we are bound by the those decisions.
+
+
+9                     In view of the foregoing discussion, the above Writ Petition is
+
+allowed in terms of prayer clause (a) which reads as under:-
+Page 6 of 8
+JULY 14, 2025
+S.R.JOSHI
+::: Uploaded on - 18/07/2025                   ::: Downloaded on - 02/08/2025 02:15:46 :::
+86-wp-3272-2024.doc
+
+
+
+                 "(a):-    that this Hon'ble Court may be pleased to issue a
+                 Writ of Certiorari or a Writ in the nature of Certiorari or any
+                 other appropriate Writ, Order or direction, calling for the
+                 records of the Petitioner's case and after going into the
+                 legality and propriety thereof, to quash and set aside the
+                 notice under
+section 143 (2)
+of the Act dated 01.06.2023
+                 ("Exhibit C"), all notices issued in the course of the
+                 assessment proceedings, assessment order passed
+u/s. 144
+of
+                 the Act dated 28.03.2024 (Exhibit K) and the impugned
+                 notice of demand under
+section 156
+of the Act dated 28 th
+                 March 2024 (Exhibit L) as well as the consequential show-
+cause notices for levy of penalty."
+10                    Once the Moratorium under
+Section 14
+ceases, the Revenue is
+
+free to revive the assessment proceedings, if they are otherwise entitled to in
+
+law.
+11                    Rule is made absolute in the aforesaid terms. However, in the
+
+facts and circumstances of the case, there shall be no order as to costs.
+
+
+12                    At this stage, the learned Advocate appearing on behalf of the
+
+Revenue sought a stay of the above order so as to enable the Revenue to test
+
+the correctness of this order before the Hon'ble Supreme Court. Acceding to
+
+the request of the Revenue, the execution and operation of this order is
+
+stayed for a period of four weeks from today.
+13                    It is needless to clarify that despite staying the operation of this
+
+order, the Revenue shall not proceed to take any coercive action/ steps
+
+against the Assessee who has succeeded before us.
+Page 7 of 8
+JULY 14, 2025
+S.R.JOSHI
+::: Uploaded on - 18/07/2025                    ::: Downloaded on - 02/08/2025 02:15:46 :::
+86-wp-3272-2024.doc
+
+
+
+
+14                    This order will be digitally signed by the Private Secretary/
+
+Personal Assistant of this Court. All concerned will act on production by fax
+
+or email of a digitally signed copy of this order.
+
+
+
+[FIRDOSH P. POONIWALLA, J.]                                [B. P. COLABAWALLA, J.]
+Page 8 of 8
+JULY 14, 2025
+S.R.JOSHI
+::: Uploaded on - 18/07/2025                       ::: Downloaded on - 02/08/2025 02:15:46 :::

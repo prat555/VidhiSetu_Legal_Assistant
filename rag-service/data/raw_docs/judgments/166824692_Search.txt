@@ -1,0 +1,2171 @@
+Title: Search
+Court: High Court in appellant's own case,
+Date: 08 to 2012
+Citation: AIR 1989 SC 38 wherein
+Source: https://indiankanoon.org/doc/166824692/
+
+[Cites
+69
+, Cited by
+5
+]
+Income Tax Appellate Tribunal - Bangalore
+M/S Wipro Limited , Bangalore vs The Assisstant Commissioner Of Income ... on 21 June, 2019
+IN THE INCOME TAX APPELLATE TRIBUNAL
+                     "B" BENCH : BANGALORE
+
+     BEFORE SHRI A.K. GARODIA, ACCOUNTANT MEMBER
+        AND SHRI LALIET KUMAR, JUDICIAL MEMBER
+
+                    ITA Nos.1215 to 1220/Bang/2014 &
+                           18 to 23/Bang/2017
+                   Assessment years :2007-08 to 2012-13
+
+         M/s. Wipro Limited,                    The Additional
+         Doddakannelli,                         Commissioner of
+         Sarjapur Road,                   Vs.   Income Tax,
+         Bangalore - 560 025.                   Range 12,
+         PAN: AAACW 0387R                       Bangalore.
+               APPELLANT                          RESPONDENT
+
+                       ITA Nos. 2328/Bang/2016 &
+                         2335 to 2339/Bang/2016
+                  Assessment years : 2007-08 to 2012-13
+
+      The Deputy
+                                            M/s. Wipro Limited,
+      Commissioner of
+                                            Doddakannelli,
+      Income Tax (International
+                                    Vs.     Sarjapur Road,
+      Taxation),
+                                            Bangalore - 560 025.
+      Circle 2(1),
+                                            PAN: AAACW 0387R
+      Bangalore.
+            APPELLANT                            RESPONDENT
+
+    Assessee by        : Shri K.R. Pradeep, CA
+                         Shri K.V. Aravind, Standing Counsel &
+    Respondent by      :
+                         Shri Dilip, Advocate.
+
+               Date of hearing              : 24.04.2019
+               Date of Pronouncement        : 21.06.2019
+
+                                  ORDER
+Per Bench
+
+ITA Nos.1215 to 1220/ Bang/2014       These are appeals arising out of the
+common order passed by the CIT(Appeals) on the following grounds:-
+ITA Nos.1215 to 1220/ Bang/2014
+                                                  & 18 to 23/Bang/2017,
+                                  ITA Nos. 2328, 2335 to 2339/Bang/2016
+Page 2 of 46
+"1.      That the order of the learned Commissioner of Income-tax
+(Appeals) [hereinafter referred to as "the CIT(A)"] in so far as it is
+against the appellant is against law, facts and circumstances in the case of
+the appellant.
+2.       The notice, proceedings and order are all bad in law, without
+jurisdiction and invalid.
+3.      That the appellant denies the liabilities u/s 201(1) and 201(1A)
+of the Act.
+4.      The CIT(A)/A0 erred in declaring the assessee as in default u/s
+201(1) of the Act.
+5.       That the order passed
+u/s 201(1)
+and
+201(1A)
+of the IT Act is
+without jurisdiction, not as per law and barred by limitation, hence
+requires to be cancelled.
+6.     The CIT(A) erred in confirming the order passed
+u/s 201(1)
+&
+201(1A)
+even after noticing that a single order was passed for multiple
+assessment years which is not as per law, hence requires to be cancelled.
+7.       That the orders of the CIT(A) /AO are liable to be cancelled as
+they are passed in gross violation of judicial discipline inasmuch as even
+the judgment of the jurisdictional High Court in appellant's own case,
+which upheld the appellate orders for the earlier years involving similar
+facts, has been disregarded.
+8.       That the CIT(A) merely carried out an academic exercise of
+analyzing various Explanations, clauses under
+section 9(1)(vi)
+of the Act,
+provisions of Double Taxation Avoidance Agreements and judicial
+decisions without actually specifying the charge having regard to the
+facts and circumstances in the appellant's case.
+9.      That the Learned CIT(A) erred in confirming the liability against
+the appellant contrary to the provisions of the
+I T Act
+and also DTAA.
+10.     That the CIT(A) erred in sustaining the order passed by the AO
+by upholding that payments made for purchase of software licenses, are
+royalty payments both under
+section 9(1)(vi)
+the Income-tax Act, 1961
+and as per relevant DTAA, exigible for deduction of tax at source.
+11.     That the learned CIT(A) / AO erred in fastening a liability on the
+appellant
+u/s 201(1)
+and
+201(1A)
+based on Explanation 4 to section
+                                              ITA Nos.1215 to 1220/ Bang/2014
+                                                        & 18 to 23/Bang/2017,
+                                        ITA Nos. 2328, 2335 to 2339/Bang/2016
+Page 3 of 46
+9(1)(vi) of the Act which has been inserted by the
+Finance Act, 2012
+w.r.e.f. 1-6-1976.
+12.     That the learned CIT(A) / AO failed to appreciate that there
+     cannot be retrospective default in the matter of tax deduction at source on
+     the basis of retrospective amendment, hence on this ground alone the
+     order requires to be cancelled.
+13.     For the above and other grounds and reasons which may be
+     submitted during the course of hearing of this appeal, the assessee
+     requests that the appeal be allowed as prayed and justice be rendered."
+A common order was passed by the CIT(Appeals) in ITA Nos.173 to 178/Intl.
+Taxn./CIT(A)-IV/2012-13. Feeling aggrieved by the common order passed by the
+CIT(A) u/s. 201(1) & 201(1A) dated 30.11.2014 for the assessment years 2007-
+08 to 2012-13, these six appeals are filed by the assessee before the tribunal.
+The year wise details of the demand were as under:-
+A.Y.          Amount
+     2007-08        4,47,22,584
+     2008-09        5,82,68,394
+     2009-10          94,88,913
+     2010-11        3,19,95,710
+     2011-12        2,44,56,548
+     2012-13          54,55,010
+2.     The proceedings
+u/s. 201(1)
+of the Act was initiated by the Officer after
+issuing a notice on 09.12.2012, 26.2.2013, 23.5.2013 & 20.8.2013. In reply of
+various notices, the DDIT (Intl. Taxn.) in para 6 mentioned that the assessee is a
+Indian company and the payees are foreign companies based in US, Ireland,
+Singapore, Australia, Israel etc. with their residential status being that of resident
+and non-resident respectively. The DDIT further noticed that as the payments
+were made to various vendors such as Avaya Cisco Systems International
+Finance Corp (Netherlands), Appdna Inc (US), Actuate Pte Ltd (Singapore),
+Cisco Systems International Finance Corp (Netherlands), GE Commercial
+Distribution Finance Corp etc. towards purchase of licensed software, as per the
+provisions of
+section 9(1)(vi)
+of the Act the payments made by the assessee to
+                                            ITA Nos.1215 to 1220/ Bang/2014
+                                                      & 18 to 23/Bang/2017,
+                                      ITA Nos. 2328, 2335 to 2339/Bang/2016
+Page 4 of 46
+these non-resident foreign entities were in the form of royalty and hence, it was
+held that it was the duty of assessee to deduct tax at source in accordance with
+the law. As there was a failure on the part of assessee to deduct tax at source,
+the AO had issued show cause notices by invoking the provisions of
+section
+201(1)
+by treating the assessee as assessee in default in respect of tax.
+3.    The assessee filed a detailed reply.        After considering the reply of
+assessee, the DDIT had passed a common order against the assessee in respect
+of payments made to the foreign non-resident entities. Feeling aggrieved by the
+order passed by the DDIT, the assessee filed an appeal before the CIT(Appeals)
+and raised various grounds before the CIT(Appeals).
+4.    However, the ld. CIT(Appeals) was not convinced with the submissions
+made before him by the assessee and accordingly, he passed an order against
+the assessee.
+5.    As per the AO, he later noted the following two mistakes in the order
+passed by the DDIT:-
+"1.      Since Assessing Officer has considered the rate of tax as per
+     provisions of
+Income-tax Act
+, surcharge and educational cess should
+     have been levied on the tax liability calculated by the Assessing Officer.
+     However, Assessing Officer has failed to levy surcharge and educational
+     cess in the order
+u/s. 201(1)
+&
+201(1A)
+.
+2.      As per the agreements entered by assessee with foreign vendors
+     available on record, the payment had to be made to the Vendors net of
+     taxes. Thus as per
+Sec.195A
+of the Income-tax Act, 1961 while passing
+     order
+u/s. 201(1)
+and
+201(1A)
+Assessing Officer should have considered
+     grossing up of the payment. But Assessing Officer did not consider the
+     grossing up of amount credited as required
+u/s. 195A
+, for determining the
+     tax-deductible
+u/s. 195
+in respect of payments made to Non-resident
+     companies."
+6.    The AO then issued notice to the assessee
+u/s 154
+for rectifying these
+mistakes and to grant opportunity of hearing to the assessee before passing the
+                                             ITA Nos.1215 to 1220/ Bang/2014
+                                                       & 18 to 23/Bang/2017,
+                                       ITA Nos. 2328, 2335 to 2339/Bang/2016
+Page 5 of 46
+order
+u/s 154
+because this will increase the tax liability of the assessee and after
+hearing the assessee, he passed the rectification order for all the assessment
+years.
+7.       The assessee feeling aggrieved by the order passed by the DDIT(Inv.) u/s.
+154 r.w.s. 201(1) & (1
+A) of the Act
+filed appeal before the CIT(Appeals).
+8.       The CIT(Appeals) had decided the issue of grossing up of taxes in favour
+of the assessee as recorded in para 8 as under:-
+""8.     I have gone through the agreement between Microsoft Licensing,
+     GP ("MS") and the appellant containing Master Licensing Agreement.
+     The agreement clause cited by the assessing officer and that quoted by
+     the appellant are the same as per the agreement produced before me. As
+     per the plain reading, the clause only speaks of the agreement between
+     the parties to the effect that Wipro may deduct taxes required to be paid
+     on remittances and pay it to the authority. As per the Master Agreement
+     with Microsoft, there is no indication of any definite amount to be paid to
+     the vendor irrespective of taxes. There is no basis to infer that the
+     appellant had to bear the cost of taxes payable on remittances. Moreover,
+     the appellant is right in contending that the terms of one agreement could
+     not be applied to payments pertaining to other vendors. Raising of
+     additional demand based on facts relating to one payment and applied to
+     other payments requires inference and extrapolation. It could not be
+     called a mistake / apparent from record. Therefore,
+section 195A
+was not
+     applicable on the facts and circumstances of the case. The additional
+     1iability due to grassing up of the tax with remittances as made by the
+     assessing officer in order under
+section 154
+is deleted.
+Ground nos. 6 and 7 are allowed."
+8A) In these appeals, the assessee raised these grounds also before CIT (A)
+that the orders passed by the AO
+u/s 154
+are bad in law because the
+rectifications made by the AO are beyond the scope of
+section 154
+. This
+ground was also raised by the assessee before CIT (A) in 154 proceedings that
+interest
+u/s 201 (1A)
+is also disputed. Learned CIT (A) disposed of these
+appeals in the proceedings
+u/s 154
+by way of a separate combined order dated
+26.10.2016 in ITA No. 47 to 52/CIT (A)/2015 - 16. As per this order, he held
+that grossing up of tax by invoking the provisions of
+section 195A
+is not as per
+law but he held that the orders p [assed by the AO
+u/s 154
+are not bad in law.
+ITA Nos.1215 to 1220/ Bang/2014
+                                                        & 18 to 23/Bang/2017,
+                                        ITA Nos. 2328, 2335 to 2339/Bang/2016
+Page 6 of 46
+He also held that the AO is directed to levy surcharge and cess in respect of
+royalty payments made to vendors who are resident of such countries with
+which the DTAA with India allows withholding of more than 11.33% and
+deleted the surcharge and cess ion respect of other payments.
+9.    Feeling aggrieved by the order passed by the CIT(Appeals) in respect of
+grossing up of taxes, the revenue is in appeal before us as per ITA Nos. 2335 to
+2339/Bang/2016 on the following identical grounds:-
+"1.     Ld. CIT(A) has erred in partly allowing the appeal of the
+     assessee which is opposed to law, facts and circumstances of the case.
+2.      Ld.CIT(A) failed to appreciate the fact that as per the terms of
+     the Agreement entered by assessee with non-resident vendors the onus of
+     deduction of taxes on the payments made solely vests on assessee.
+     Accordingly, the Assessing Officer (AO) has rightly passed the order
+u/s
+     154
+rws 201 on a grossing-up basis.
+3.        As per the Agreements with vendors which is part of the record,
+     it is very clear that it was the sole responsibility of the assessee to pay the
+     taxes as applicable in India on payments made to the vendors.
+     Accordingly, the AO has grossed up the amounts
+u/s 195A
+and passed an
+     order
+u/s 154
+of the Income Tax Act. However, the Ld.CIT(A) erred in
+     holding that the order was beyond the scope of the provisions of
+Sec.154
+of the Act.
+4.        Ld.CIT(A) failed to appreciate the fact that beneficial provisions
+     of DTAA are applicable only to the residents of respective countries and
+     to avail the benefits one must submit the proof of the residency.
+5.       Ld CIT(A) has not appreciated the fact that in the absence of
+     beneficial provisions of DTAA, provisions of
+Income Tax Act
+will
+     prevail.
+6.       Ld. CIT(A) failed to appreciate that in the absence of any proof
+     of residency of the parties, the cut off of 11.33% of TDS was not
+     relevant. Accordingly, the Ld.CIT(A) erred in allowing part relief on
+     levy of surcharge and education cess stating that surcharge and education
+     cess should be levied only in the cases where the non-resident vendors
+     are residents of countries with which the DTAA allows withholding rate
+     of more than 11.33%.
+ITA Nos.1215 to 1220/ Bang/2014
+                                                          & 18 to 23/Bang/2017,
+                                          ITA Nos. 2328, 2335 to 2339/Bang/2016
+Page 7 of 46
+7.        For these and such other grounds that may be urged at the time
+      of hearing, it is prayed that the order of the CIT(A) may be annulled and
+      that of the AO be restored."
+10.    Similarly, the assessee is also aggrieved om some issues which are
+decided by CIT (A) against the assessee in proceedings
+u/s 154
+and the
+assessee has also filed appeals before us as per ITA Nos. 18 to 23/Bang/2017
+on the following identical grounds:-
+"1. That the order of the learned Commissioner of Income-tax (Appeals) [hereinafter
+referred to as "the CIT(A)"] is against law, facts and circumstances in the case of the
+appellant.
+2. That the orders of the learned authorities below are liable to be cancelled as they are
+passed in gross violation of judicial discipline in as much rate as per Income Tax are
+applied overlooking the rate as per DTAA.
+3.     3. That the learned CIT(A) has erred in considering the rate of tax as 15% in
+USA, UK, Austria and Canada and 20% for Spain whereas the rate of tax as per the
+relevant clause of the respective DTAA is 10%.
+4. That the learned CIT(A) has erred in not considering that the order under
+section 154
+of the Income Tax Act, 1961 (Act) is bad in law and is thereby disputed.
+5. That the learned CIT(A) has erred in not considering that the rectification
+u/s 154
+was
+made on an issue that is clearly outside the scope of
+section 154
+of the Act.
+6. That the learned CIT(A) has erred in not considering that the findings, reasons given
+by the AO for carrying out rectification are contrary to facts emerging from records and
+is unsustainable and untenable in law.
+7. That the learned CIT (A) has erred in fastening a liability on the appellant
+u/s 201(1A)
+of the Act.
+8. That the above grounds are without prejudice to each other.
+The appellant craves leave to add, alter, amend or vary from the above grounds of
+appeal before or at the time of hearing."
+11.    We will first deal with the appeals filed by the assessee in the proceedings
+u/s 01 and
+201 (1A)
+. The first effective ground raised by the assessee before us
+and also before the CIT(Appeals) is that the DDIT was bound to grant relief in
+                                               ITA Nos.1215 to 1220/ Bang/2014
+                                                         & 18 to 23/Bang/2017,
+                                         ITA Nos. 2328, 2335 to 2339/Bang/2016
+Page 8 of 46
+favour of the assessee in terms of the binding decision of the Hon'ble Karnataka
+High Court in assessee's own case [ground No.2 before the CIT(A) and ground
+No.7 before us].
+12.    The assessee has drawn our attention to the decision of the Hon'ble High
+Court of Karnataka rendered in ITA No.507/2002 dated 25.08.2010 wherein in
+para 37 & 38 it was held as under:-
+"37.      The last substantial question of law framed. is as under:-
+'Whether the Tribunal is correct in allowing expenditure on
+             imported software when the expenditure per se is capital in
+             nature and is non-allowable?'
+38.       The assessee company claims import of software for the purpose
+      of retail trading, pre loading into the Hardware sold and also for in house
+      use. The software. is a commodity having copyrights. Each software
+      product is a licence to the use for the specified purpose only. The
+      assessee made it very clear that the software which they have imported
+      are used as a tool by end users to facilitate certain functions or operate
+      their computers. . It is not a copyright which meant for commercial
+      exploitation of the copyright under a licence. The copy right which is
+      imported are goods sold in the market place as goods or as an integral
+      part of the computers manufactured and sold by the company and
+      therefore, they are entitled to deductions of the entire consideration paid
+      for acquiring this copyrighted article.      Though the assessing officer
+      accepted the case of the assessee in so far as the software in house to the
+      tune of Rs.4,29,99,061/- the consideration paid is treated as a royalty and
+      as the assessee had not deducted tax at source he disallowed deduction of
+      the aforesaid amount under
+Section 195
+read with
+Section 40(a)(i)
+of the
+      Act. Aggrieved by the same, the assessee preferred an appeal. The
+      Commissioner of Appeals held the expenditure on import of software is
+      of revenue nature. If it is pertaining to business the profit from which is
+      not exempt under
+Section 10A
+and, therefore, it is to be allowed as
+      deduction. He held the expenditure cannot be disallowed under Section.
+40(a)(i). In appeal by the revenue, the Tribunal held they cannot go into
+      the question whether the expenditure in nature as that is not what was
+      urged before the lower authorities. Once it is held to be not representing
+      the royalty and it is a revenue expenditure, the deduction allowed by the
+                                               ITA Nos.1215 to 1220/ Bang/2014
+                                                         & 18 to 23/Bang/2017,
+                                         ITA Nos. 2328, 2335 to 2339/Bang/2016
+Page 9 of 46
+Appellate Authority is legal and valid and do not call for any
+      interference."
+13.    The ld. DR had also drawn our attention to the order of Tribunal passed in
+ITA No.426, 427, 468 & 469/Bang/2006 dated 30.05.2008 wherein the Tribunal in
+paragraphs 18.5 & 18.6 held as under:-
+"18.5 We have heard both the parties. It is true that the issue under
+      reference stands covered by the decision of the Tribunal in the case of the
+      assessee for the asst. year 2000-01. The Tribunal while disposing off the
+      appeal for the asst.year 2000-01, followed he earlier order for the
+      asst.years 1998-99 and 1999-2000, which is reported in 96 TTJ 211.,
+      Thus, the issue is covered in favour of the assessee.
+18.6     The Special Bench in the case of
+Amway India Enterprise v
+      DCIT
+111 ITC, 112 had an occasion to consider as to whether the
+      expenditure incurred on.software is revenue or capital. If the life of the
+      computer software is shorter, say less than two years, then it is to be
+      treated as revenue expenditure. The Special Bench further observed that
+      if there are associated capital expenditure like purchase of new computer
+      equipment for running the software developed under the project, then it
+      can be considered as capital expenditure. If the software is used as part of
+      the profit-making apparatus of the assessee, then expenditure on software
+      is capital. If it is used to facilitate the running of the business, then it is
+      revenue in nature. Since in the instant case, the Assessing Officer has
+      simply relied on the order of his predecessor by holding the expenditure
+      as capital, therefore, we have to record a finding on the basis of the
+      finding recorded in earlier year. Since in earlier years, the issue stands
+      deckled in favour of the assessee, therefore, we are not inclined to
+      interfere with the finding of the learned CIT(A). Moreover, the Tribunal
+      is holding that the payment made for purchase of branded and shrink
+      wrap software are not in the nature of royalty and therefore, disallowance
+      cannot be made on the ground that no tax at source has been deducted.
+      Hence we confirm the order of the learned CIT(A) on this issue."
+14.    Further our attention was also drawn to the order dated 18.07.2002
+wherein in para 24 & 25 it was held as under:-
+"24.    In Grounds No.20 to 23, the Assessee has projected its grievance
+      against the order of the AO whereby the AO disallowed claim of the
+      Assessee for depreciation of Rs.19,46,23,236/- on imported software
+                                        ITA Nos.1215 to 1220/ Bang/2014
+                                                  & 18 to 23/Bang/2017,
+                                  ITA Nos. 2328, 2335 to 2339/Bang/2016
+Page 10 of 46
+products used by the Assessee in-house. The assessee claimed
+depreciation amounting to Rs.19,46,23,236/- on software purchased both
+locally and imported and used in its business and furnished the details
+thereof to the Assessing Officer in the course of assessment proceedings.
+The Assessing Officer was of the opinion that the provisions of
+section
+40(a)(ia)
+of the Act are applicable and proposed to disallow the
+depreciation claimed on such purchases. The assessee submitted that the
+software purchased by it is in the nature of goods and the provisions of
+section 40(a)(ia)
+were not applicable to it and also that no order has been
+passed under
+section 201(1)
+of the Act treating it as an assessee in default
+in respect of payments for imported software. It was submitted by the
+learned Authorised Representative that the Assessing Officer did not
+accept the explanation put forth by the assessee and disallowed the entire
+depreciation claimed on the ground that there was an obligation on the
+part of the payers to effect deduction from out of payments made by
+them in favour of non-resident recipients for acquiring any software even
+assuming that it partakes the character of goods. It was submitted that the
+Assessing Officer was of the view that software is basically purchased by
+way of licence to use and he relied on the judgment of the Hon'ble High
+Court of Karnataka in the case of Synopsis Inc. and the decision of the
+Delhi Tribunal in the case of
+Microsoft Corporation Vs. ADIT
+. It was
+contended that the DRP agreed with the reasoning of the Assessing
+Officer in continuing the disallowance, even though it was submitted
+therein that the learned CIT(A) and the Tribunal had decided this issue in
+the assessee's favour in the earlier assessment years, on the ground that
+the Department has taken the matter in further appeal under
+section 260A
+of the Act and that the matter had not attained finality. The learned
+Departmental Representative placed reliance on the findings of the
+Assessing Officer and the DRP on this issue and reiterated the arguments
+in the orders of the authorities below.
+25.      We have heard both parties and carefully perused and considered
+the material on record. We find from a perusal of the order of the co-
+ordinate bench of the Tribunal in the assessee's own case for Assessment
+Year 2004-05 in ITA No.1072/Bang/2007 (supra) at para 8.2 thereof that
+this issue has been held in favour of the assessee following the earlier
+decision of the Tribunal in the assessee's own case in ITA Nos.426, 427,
+468 and 469/Bang/2006 for Assessment Years 2001¬02 and 2002-03. It
+is seen from this order that this issue has been decided in favour of the
+assessee company by the Tribunal from Assessment Year 1998-99
+onwards. We, therefore, respectfully following the decision of the co-
+ordinate bench of the Tribunal for Assessment Year 2004-05 (supra),
+                                              ITA Nos.1215 to 1220/ Bang/2014
+                                                        & 18 to 23/Bang/2017,
+                                        ITA Nos. 2328, 2335 to 2339/Bang/2016
+Page 11 of 46
+decide this issue in favour of the assessee. Grounds No.20 to 23 are
+      allowed to the above extent."
+15.    The ld. AR has further drawn our attention to the order passed in ITA
+No.1655/Bang/2012 wherein in ground No.15 at para 16, it was decided as
+under:-
+"16.     We have heard the learned Authorised Representative as well as
+      learned Departmental Representative and considered the relevant
+      material on record. At the outset, we note that an identical issue has been
+      considered in assessee's own case for the Assessment Year 2004-05 and
+      again for the Assessment Year 2007-08. For the Assessment Year 2007-
+      08, the Tribunal has decided this issue in para 8.4 as under:
+" 8.4 We have heard both parties and have perused and carefully
+           considered the material on record We find from a perusal of the
+           order of the co-ordinate bench of the Tribunal in the assessee's
+           own case for Assessment Year 2004-05 In ITA
+           No.l072/Bang/2007 (supra) at para 82 thereof that this issue
+           has been held in favour of the assessee following the earlier
+           decision of the Tribunal In the assessee's own case in ITA Nos.
+           426, 427, 468 and 469/8al1g/2006 for Assessment Years 2001-
+           02 and 2002-03, It is seen from this order that this issue has
+           been decided in favour of the assessee company by the Tribunal
+           from Assessment Year 1998-99 onwards. We, therefore,
+           respectfully following the decision of the co-ordinate bench of
+           the Tribunal for Assessment Year 2004-05 (supra) decide this
+           issue in favour of the assessee.
+Thus it is clear that the Tribunal has followed the earlier order for the
+      Assessment Year 2004-05 which has been confirmed by the Hon'ble
+      jurisdictional High Court. Following the earlier order of this Tribunal as
+      well as Hon'ble jurisdictional High Court, we decide this issue in favour
+      of the assessee."
+16.    The ld. AR has further drawn our attention to para 170 to 172 of the order
+of the jurisdictional High Court in the matter of Wipro Ltd. v. DCIT for the AY
+20101-02 to 2004-05 to the following effect:-
+"170. The said questions arose for consideration before this Court in the
+      assessee's case in ITA No.3198/2005 which was decided on 28.2.2012
+      where the substantial questions of law were answered in favour of the
+                                       ITA Nos.1215 to 1220/ Bang/2014
+                                                 & 18 to 23/Bang/2017,
+                                 ITA Nos. 2328, 2335 to 2339/Bang/2016
+Page 12 of 46
+assessee and against the revenue. Following the said Judgment, said
+questions of law are answered in favour of assessee and against the
+revenue.
+Substantial Question No.18:
+"Whether the Appellate Authorities were correct in holding that
+    the payments made by the assessee for import of software
+    cannot be disallowed
+u/s 40(a)(i)
+of the Act for failing to deduct
+    tax at source
+u/s 195
+of the Act as such payments did not
+    constitute royalty
+u/s 9(1)(vi)
+of the Act?"
+[Question of law No.26 in ITA Nos.907 & 909/2008, Question
+    of law No.22 in ITA Nos.904 & 905/2008 and Question of law
+    No.9 in ITA No.363/2009 - (Department's appeal)]
+
+    "Whether the Appellate Authorities were correct in holding
+    depreciation claimed on software imported for in house
+    utilization and treated as part of block of assets should be
+    allowed, despite the same being in the nature of royalty as per
+    Explanation to
+section 9(1)(vi)
+of the Act and no TDS
+u/s 194
+of
+    the Act having been deducted,
+section 40(a)(i)
+of the Act?"
+[Question of law No.2 in ITA Nos.210 & 211/2009 -
+(Department's appeal)]
+171. The said substantial questions of law arose for consideration in the
+assessee's case itself in ITA 507/02 which was decided on 25.8.2010
+where the substantial question of law was answered in favour of assessee
+and against the revenue. Accordingly, the said question of law is
+answered in favour of the assessee and against the revenue.
+Substantial Question No.19:
+"Whether the Appellate Authorities were correct in holding that
+    excise duty and sales tax should be included in the total turnover
+    for the purpose of computation of deduction u/s 80 HHC of the
+    Act?"
+[Question of law No.27 in ITA Nos.907 & 909/2008; Question
+    of law No.23 in ITA Nos.904 & 905/2008; Question of law
+    No.12 in ITA Nos.210 & 211/2009 and Question of law No.14 in
+    ITA No.363/2009 - (Department's appeal)]
+172. The said question also arose for consideration before this Court in
+the assessee's case in ITA No.507/2002 which was decided by Judgment
+                                              ITA Nos.1215 to 1220/ Bang/2014
+                                                        & 18 to 23/Bang/2017,
+                                        ITA Nos. 2328, 2335 to 2339/Bang/2016
+Page 13 of 46
+dated 25.8.2010, the said question of law was answered in favour of
+      assessee and against the revenue."
+17.    On the basis of the above said orders, the ld. AR had submitted that the
+Officer who had passed the order and the CIT(Appeals) had totally ignored the
+binding precedent of the Tribunal as well as High Court passed in the case of
+assessee, whereby all the authorities have consistently held that the payment
+made by the assessee was not in the form of royalty and therefore, once the
+authority ( court / tribunal )created by law has declared that the payment made by
+the assessee to a non-resident entity was not in the nature of royalty, there was
+no liability on the part of assessee to withhold tax at the time of making payment
+to such non-resident entity. Having so decided in favour of assessee by the
+competent courts and Tribunal, it was inappropriate and the authorities were in
+contempt for initiating action
+u/s. 201(1)
+& (1
+A) of the Act
+.
+18.    Per contra, the ld. Sr. Standing Counsel for the revenue had submitted
+that the decisions rendered by the Tribunal were issued without considering the
+law laid down by the Hon'ble High Court in the matter of
+CIT v. Synopsis
+International Old Ltd.
+212 Taxman 454 (Kar) and in the matter of
+CIT v.
+Samsung Electronics Co. Ltd. & Ors.
+, 345 ITR 494 (Kar) whereby the High Court
+has consistently held that the payments made by the assessee for purchase of
+software was in the nature of royalty and hence, subject to deduction of tax and
+non-deduction of tax automatically invokes the rigors of
+section 201
+for declaring
+the assessee as assessee in default.
+It was further submitted by the ld. DR that
+the law
+laid down by
+the Hon'ble Supreme Court in the case of
+CIT v. Sun
+Engineering Works (P) Ltd.
+, 198 ITR 297 (SC) wherein the Hon'ble Supreme
+Court had explained the principle of interpretation of judgment and also the
+decision of
+Delhi Municipal Corporation v. Gurnam Kaur
+AIR 1989 SC 38 wherein
+the Hon'ble Supreme Court at page 8&9 had held as under:-
+"Pronouncements of law, which are not part of the ratio decidendi are
+      classed as obiter dicta and are   not authoritative. With all respect
+      to the learned Judge who passed the order in Jamna Das' case and to the
+                                        ITA Nos.1215 to 1220/ Bang/2014
+                                                  & 18 to 23/Bang/2017,
+                                  ITA Nos. 2328, 2335 to 2339/Bang/2016
+Page 14 of 46
+learned Judge who agreed with him, we cannot concede that this Court is
+bound to follow it. It was delivered without argument, without reference
+to the relevant provisions of the      Act conferring express power on the
+Municipal Corporation to direct        removal of encroachments from any
+public place like pavement or public streets, and without any citation
+of authority. Accordingly, we do not propose to uphold the decision of
+the High Court because, it seems to us that it is wrong in principle and
+cannot be justified by the terms of the relevant provisions. A decision
+should be treated as given per incuriam when it is given in ignorance of
+  the terms of a statute or of a rule having the    force of a statute. So
+far as the order shows, no argument was addressed to the Court on the
+question or not whether         any direction could properly be made
+compelling the Municipal Corporation to construct a stall at the pitching
+site of a PG NO 939 pavement squatter. Professor P.J. Fitzgerald, editor
+of the Salmond on Jurisprudence, 12th edn. explains the concept of sub
+silentio at p. 153 in these words:
+"A decision passes sub silentio, in the technical sense that has
+     come       to be attached to that phrase, when the particular
+     point of law involved in the decision is       not perceived by the
+     court or present to its mind. The Court may consciously decide
+     in favour of one party because of point A, which it considers and
+     pronounces upon. It may be shown, however, that logically the
+     court should not have decided in favour of the particular party
+     unless it also decided point B in his favour; but point B was not
+     argued or considered by the court. In such          circumstances,
+     although point B was logically involved in the facts and although
+     the case had a specific outcome, the decision is not an authority
+     on point B. Point B is said to pass sub silentio."
+In Gerard v. Worth of Paris Ltd. (k)., [1936] 2 All E.R. 905 (C.A.), the
+only point argued was on the question of priority of the claimant's debt,
+and, on this argument being heard, the Court granted the order. No
+consideration was given to the        question whether a garnishee
+  order could properly be made on an account standing in the name of the
+liquidator.
+When, therefore, this very point was argued in a subsequent
+case before the Court of Appeal in
+Lancaster Motor Co. (London) Ltd. v.
+Bremith, Ltd.
+, [1941] 1 KB 675. the Court held itself not bound by its
+previous decision. Sir Wilfrid Greene, M.R., said that he could not help
+thinking that the point now raised had been deliberately passed sub
+silentio by counsel in order that the point of substance might be decided."
+ITA Nos.1215 to 1220/ Bang/2014
+                                                         & 18 to 23/Bang/2017,
+                                         ITA Nos. 2328, 2335 to 2339/Bang/2016
+Page 15 of 46
+19.    Similarly, the ld. DR also relied upon the decision in the case of
+UOI v.
+Dhanwanthi Devi
+, 1996 (6) SCC 44 at 51 para 13 to 14 held as under:-
+"Before adverting to and considering whither solatium and interest would
+      be payable under the Act, at the outset, we will dispose of the objection
+      raised by Shri Vaidyanathan that Hari Kishan Khosla's case is not a
+      binding precedent nor does it operate as ratio decidendi to be followed as
+      a precedent and per se per incuriam. It is not everything said by a Judge
+      who giving judgment that constitutes a precedent. The only thing in a
+      Judge's decision binding a party is the principle upon which the case is
+      decided and for this reason it is important to analyse a decision         and
+      isolate from it the ratio decidendi. According to the well settled theory of
+      precedents, every decision contain three basic postulates - [i] findings of
+      material facts, is the inference which the Judge draws from the direct, or
+      perceptible      facts; [ii] statements of the principles of law applicable to
+      the legal problems disclosed by the facts; and [iii] judgment based on the
+        combined effect       of the above. A decision is only an authority for
+      what it actually decides. What         is of the essence in decision is its
+      ratio and not every observation found therein not what logically follows
+      from the various observations made in the judgment. Every judgment
+      must be read as applicable to the particular facts proved, since the
+      generality of the expressions which may be found there is not intended to
+      be exposition of the whole law, but governed and qualified by the
+      particular facts of the case in which such expressions are to be found. It
+      would, therefore, be not profitable to extract a sentence here and there
+      from the judgment and to build upon it because the essence of the
+      decision is its ratio and not every observation found therein. The
+      enunciation of the reason or principle on which a question before a court
+      has been decided is alone binding between the parties to it, but it, is the
+      abstract ratio decidendi, ascertained on a consideration of the judgment
+      in to the subject matter of the decision, which alone has the force of law
+      and which, when         it is clear what it was, is binding. It is only the
+      principle laid down in the judgment that is binding law under
+Article
+        141
+of the Constitution. A deliberate judicial decision arrived at after
+      hearing an argument on a question which arises in the case or is put in
+      issue may constitute a precedent, no matter for what reason, and the
+        precedent by long recognition may mature into rule of stare decisis. It
+      is the rule deductible from the application of law to the facts and
+      circumstances of the case which constitutes its ratio decidendi.
+ITA Nos.1215 to 1220/ Bang/2014
+                                                   & 18 to 23/Bang/2017,
+                                   ITA Nos. 2328, 2335 to 2339/Bang/2016
+Page 16 of 46
+Therefore, in order to understand and appreciate the binding force of a
+decision is always necessary to see what were the facts in the case in
+which the decision was given and what was the point which had to be
+decided. No judgment can be read as if it is a statute. A word or a clause
+or a sentence in the judgment cannot be regarded as a full exposition of
+law. Law cannot afford to be static and therefore, Judges are to employ
+an intelligent in the use of precedents. It would, therefore, be necessary
+to see whether Hari Kishan Khosla's case would form a                  binding
+precedent. Therein, admittedly the question that had arisen and was
+decided by the Bench of three          Judges was whether solatium and
+interest are payable to an owner whose land was acquired under the
+provisions of the Central Act? On consideration of the facts, the relevant
+provisions in the Central Act and the previous precedents bearing on
+the topic the Court had held that solatium and interest are not a part of
+compensation. It is a facet of the principle in the statute. The Central Act
+omitted to provide for payment of solatium and interest since preceding
+the acquisition the property was under was under requisition            during
+which period compensation was under requisition during which period
+compensation was paid to the owner. The position obtained and enjoyed
+by the Government during the period of requisition continued after
+acquisition. The same principle was applied without further elaboration
+on entitlement to payment of interest of an owner. It is true that the
+decisions relied on by Shri Vaidyanathan on the principle of payment of
+interest as      part of compensation in respect of land acquired were
+brought to the attention of this Court for discussion.      What would be
+considered a little later. Suffice it to say for the present that the finding
+  that solatium and interest are not payable for the lands acquired under
+the Central Actas part of compensation is a binding precedent.
+Obviously, therefore, this Court followed the ratio therein in District
+Judge, Udhampur case [supra]. The contention, therefore, that Hari
+Kishan Khosla's case cannot be treated as a binding precedent since
+therein there is no ratio but a conclusion without discussion, is not
+tenable and devoid of force. In that view, it is not necessary to discuss in
+extenso the effect of the decisions cited by Shri Vaidyanathan. Equally,
+  the contention        of Shri Vaidyanathan that the ratio in Hari Kishan
+Khosla's case is in conflict with the ratio in Satinder Singh's case which
+was neither distinguished nor overruled and that the decision of a co-
+ordinate Bench cannot have the effect of overruling decision of another
+co-ordinate Bench, cannot be given countenance. The effect of the
+ratio in Satinder Singh's       case will be considered a little later; suffice
+it to state that there is no conflict in the ratio of these two cases if the
+facts in Satinder Singh's case are closely analysed and the principle laid
+                                             ITA Nos.1215 to 1220/ Bang/2014
+                                                       & 18 to 23/Bang/2017,
+                                       ITA Nos. 2328, 2335 to 2339/Bang/2016
+Page 17 of 46
+down therein is understood in its proper perspective. Therefore, Hari
+       Kishan Khosla's case cannot be held to be per incuriam not has it the
+      effect of overruling the ratio decidendi of Satinder Singh`s case."
+20.    The Hon'ble Supreme Court in the case of Bharagawan Pillai v. State of
+Kerala, AIR 2004 SC 2317 at para 24 had held to the following effect:-
+"Coming to the plea relating to benefits under the
+Probation Act
+, it is to
+      be noted that
+Section 18
+of the said Act clearly rules out application of
+      the
+Probation Act
+to a case covered under
+Section 5(2)
+of the Act.
+      Therefore, there is no substance in the accused- appellant's plea relating
+      to grant of benefit under the
+Probation Act
+. The decision in Bore
+      Gowda's case (supra) does not even indicate that
+Section 18
+of the
+      Probation Act was taken note of. In view of the specific statutory bar the
+      view, if any, expressed without analysing the statutory provision cannot
+      in our view be treated as a binding precedent and at the most is to be
+      considered as having been rendered per incuriam. Looked at from any
+      angle, the appeal is sans merit and deserves dismissal which we direct."
+21.    On the basis of the above, it was submitted that the principle of law
+expounded by the High Court in the case of Wipro (supra) [case of the assessee]
+was not the exposition of law as considered by the Hon'ble Supreme Court and
+was only with respect to facts before the jurisdictional High Court and therefore,
+will not come in the way of AO/CIT(A) for declaring the assessee as assessee in
+default
+u/s. 201(1)
+of the Act.
+22.    The ld. DR had also relied on the decision of the Tribunal rendered in the
+case of
+Intertec Software Pl. Ltd. v. ITO
+dated 13.10.2015 which was followed in
+the decision of GE India Industrial P. Ltd.        in ITA No.595/Bang/2016 dated
+17.11.2017, wherein at para 6, it was recorded as under:-
+"6.      We have heard the rival submissions and perused the material on
+      record. We find that the coordinate bench in the matter of
+Intertec
+      Software Pvt. Ltd., vs ITO
+, dt.13.10.2017, wherein the author of this
+      order was the co-author, after relying upon the judgment of the
+      jurisdictional High Court in the matter of
+CIT (Intl.Taxn) v. Samsung
+      Electronics Co. Ltd
+[(2011) 203 Taxman 477] and distinguishing the
+                                      ITA Nos.1215 to 1220/ Bang/2014
+                                                & 18 to 23/Bang/2017,
+                                ITA Nos.
+2328, 2335 to 2339/Bang/2016
+Page 18 of 46
+later judgment of the jurisdictional High Court in WIPRO Ltd. vs. DCIT
+as reported in 382 ITR 179, has held as under :
+4. We have considered the rival submissions. First, we examine
+    the applicability of the first judgment of Hon'ble Karnataka High
+    Court rendered in the case of WIPRO Ltd. vs. DCIT (Supra)
+    rendered on 25.08.2010. In this case, the substantial question of
+    law raised as per Para 37 was as under:-
+"Whether the Tribunal is correct in allowing expenditure on
+    imported software when the expenditure per se is capital in
+    nature and is not allowable?"
+5. From this substantial question of law, it comes out that in
+    that case, this was not a dispute before Hon'ble Karnataka High
+    Court as to whether the import of software is Royalty or not?
+    The dispute in that case was this that the import of software is
+    capital expense in that case and therefore, how the same can be
+    allowed as deduction. In that case also, the A.O. held that the
+    payment for software is Royalty and since TDS was not
+    deducted, it is to be disallowed
+u/s 40 (a) (i)
+but when the
+    assessee carried the mattering appeal before CIT (A), he held
+    that it is not Royalty and therefore, cannot be disallowed
+u/s 40
+(a) (i). The revenue filed appeal before the tribunal but the
+    dispute raised was not this that it is Royalty or not? The dispute
+    raised was this that it is capital expenditure and therefore,
+    cannot be allowed. The tribunal held that the tribunal cannot go
+    into this question as this is not what was urged before the lower
+    authorities. The revenue filed appeal before Hon'ble Karnataka
+    High ITA No. 1388/Bang/2013 Court and the tribunal order was
+    confirmed. Hence, this is seen that as per this judgment of
+    Hon'ble Karnataka High Court, the decision is not on this aspect
+    that it is Royalty or not and therefore, this judgment is not
+    relevant in the present case.
+6. Now, we examine the applicability of the second judgment of
+    Hon'ble Karnataka High Court rendered in the case of WIPRO
+    Ltd. vs. DCIT (Supra) rendered on 25.03.2015. As per this
+    judgment, in Para 171, it was held that in earlier judgment dated
+    25.08.2010, similar question was decided in favour of the
+    assessee and against the revenue and therefore, in those appeals
+    also, the issue was decided in favour of the assessee. We have
+    already seen that the decision dated 25.08.2010 is not on this
+    aspect that it is Royalty or not and therefore, this judgment is
+    not relevant in the present case. Accordingly, this later judgment
+    dated 25.03.2015 is also not relevant.
+ITA Nos.1215 to 1220/ Bang/2014
+                                                         & 18 to 23/Bang/2017,
+                                         ITA Nos. 2328, 2335 to 2339/Bang/2016
+Page 19 of 46
+7. There is no dispute that the present issue is covered against
+            the assessee by the judgment of Hon'ble Karnataka High Court
+            rendered in the case of
+CIT vs. Samsung Electronics Co. Ltd.
+            (Supra
+) and learned AR of the assessee has merely cited these
+            two judgments rendered in the case of WIPRO Ltd. (Supra) and
+            no other argument was made to the effect that this issue is not
+            covered against the assessee by this judgment of Hon'ble
+            Karnataka High Court rendered in the case of
+CIT vs. Samsung
+            Electronics Co. Ltd. (Supra
+).
+Since, these two judgments cited by
+            him are not applicable as per above discussion; ITA No.
+            1388/Bang/2013 we respectfully follow the judgment of Hon'ble
+            Karnataka High Court rendered in the case of
+CIT vs. Samsung
+            Electronics Co. Ltd. (Supra
+) and decline to interfere in the order
+            of CIT (A).
+Respectfully following the judgment of the Hon'ble jurisdictional High
+      Court (supra) and that of the order of the coordinate bench (supra), on
+      identical facts and circumstances, we uphold the orders of the lower
+      authorities."
+23.      On the basis of above decisions and the binding precedent of the
+jurisdictional High Court in the matter of
+Samsung Electronics Co. Ltd. & Ors.
+,
+(supra) and
+Synopsis International Old Ltd.
+(supra), it was submitted that the
+action on the part of ld. DCIT in invoking the provisions of
+section 201
+was in
+accordance with the law.
+24.      It was further submitted that if this Tribunal does not follow the law
+laid
+down by
+the Hon'ble jurisdictional High Court in the matter of
+Samsung
+Electronics Co. Ltd. & Ors.
+, (supra), then it / tribunal would be under contempt of
+court for not following the law
+laid down by
+the jurisdictional High Court and
+therefore, it will amount too non-compliance of the order of the Hon'ble High
+Court.
+25.      In rebuttal, the ld. AR filed the written submission as directed by the Bench
+and has submitted as under:-
+"Pursuant to the hearing on 24.04.2019 and in addition to the written
+      submissions filed during hearings on 20.03.2015, 19.11.2015 &
+      22.11.2017, the assessee submits that the issue in question is held in
+                                        ITA Nos.1215 to 1220/ Bang/2014
+                                                  & 18 to 23/Bang/2017,
+                                  ITA Nos. 2328, 2335 to 2339/Bang/2016
+Page 20 of 46
+favour of the assessee in assessee's own case for AY 2007-08 by the
+Hon'ble FEAT in ITA 972/13/2011 dt.15.06.2012 (Paper book index II
+pages 89 to 93, relevant page 90 to 92, Para 8.1 to 8.4) wherein the
+Hon'ble ITAT even after considering the department's reliance on the
+decisions rendered by Hon'ble Karnataka High Court in Synopsis Inc and
+Delhi ITAT in the case of Microsoft Corporation has held the issue in
+favour of the assessee by relying on the decisions of the Hon'ble ITAT
+rendered in assessee's own case for AY's 2001-02, 2002-03 & 2004-05.
+Further the Hon'ble ITAT in assessee's own case for AY 2008-09 in
+IT(TP)A 1665/B/12 dt.04.01.2017 has decided the issue in favour of the
+assessee in Para 15 & 16, pages 17 & 18 of the order (copy of the order
+placed on record during hearing) wherein the Hon'ble ITAT has relied on
+the decision of the Tribunal in assessee's own case for AY 2007-08
+mentioned supra and the decision of the jurisdictional high court in
+assessee's own case for AY 2004-05 in ITA 879/2008 dt.25.03.2015
+(copy placed on record - relevant para 170 page 56 of the order).
+From the above it is seen that on identical set of facts having regard to
+the law even after the insertion of Explanation 4 to
+section 9(1)(vi)
+with
+retrospective amendment from 01.06.1976 carried out in
+Finance Act
+2012, the decision of the Hon'ble TIM' and Hon'ble Karnataka High
+Court in assessee's own case have been rendered in favour of the assessee
+on the basis of its own facts and the applicable law. The argument of the
+department that the issue before the Hon'ble ITAT and the Hon'ble High
+Court did not involve the question of TDS on Royalty is factually
+incorrect as evident from the discussion and the decision both by the
+Hon'ble ITAT and the Hon'ble High Court extracted in our written
+submission dt.22.11.2017. It is to be seen that it is a decision between the
+litigant parties which has the binding effect. The reliance placed by the
+department in support of the order
+u/s 201(1)
+&
+201(1A)
+on the decisions
+of the Karnataka High court in
+CIT vs Samsung Electronics Co Ltd &
+Ors
+(345 ITR 494 -- department paper book pages 1 to 25), CIT vs
+Synopsis International Old Ltd (212 Taxman 454 - department paper
+book pages 26 to 51), CIT vs CGI Information Systems & Management
+Consultants (P) Ltd (226 Taxman 319 ¬department paper book pages 126
+to 138) and others cannot overturn the decision rendered in assessee's
+own case in a lis between the parties. A decision given in some other
+case cannot overturn the decision rendered in assessee's own case and the
+decision is also applicable even from the rule of consistency and
+predictability.
+The reliance placed by the Ld.DR on the following
+decisions submitted during hearing on 24.04.2019 being
+CIT vs Sun
+                                         ITA Nos.1215
+to 1220/ Bang/2014
+                                                   & 18 to 23/Bang/2017,
+                                   ITA Nos.
+2328, 2335 to 2339/Bang/2016
+Page 21 of 46
+Engineering Works (P) Ltd -- 198 ITR 297 (SC), Delhi Municipal
+Corporation vs Gurnam Kaur AIR - 1989 SC 38, Union of India vs
+Dhanwanthi Devi -- 1996 (6) SCC 44, Bhargawan Pillai vs State of
+Kerala AIAR 2004 SC 2317, Ramacharan Atma Ram Sonkar vs Radhe
+Shyam Dhakuram pandey 1998 (
+2) MPLJ 173, Hanuman Datt vs State of
+MP
+2002 (
+4) MPLJ 354, Jagabandhu Sahu vs State of Orissa
+AIR 1969
+Ori 299 and Tata International Ltd vs Trisuns Chemicals Industry Ltd
+2002 (2) Bom CR 88 are not applicable as the clearest of language read
+in proper context is that the Hon'ble Karnataka High Court in assessee's
+own case vide order dated 25.08.2010 in ITA.No. 507/2002 in Para 39
+Page 34 of the order has held as follows:
+".......... The Commissioner rightly pointed out it is not royalty,
+     it is a revenue expenditure and the entire amount is held to be
+     deductible ................. "
+The same has been reaffirmed by the Hon'ble Karnataka High Court in
+assessee's own case in ITA 879/2008 dt.25.03.2015 (mentioned supra).
+The decisions relied on by the Ld.DR in
+Verizon Communications
+Singapore PTE Ltd vs ITO
+- 361 ITR 575 MAD FTC (department paper
+book pages 52 to 91), CIT vs CGI Information Systems & Management
+Consultants (P) Ltd (226 Taxman 319 - department paper book pages
+126 to 138) and Citrix Systems Asia Pacific Pvt Ltd in Re 343 ITR 1
+AAR are all cases of third parties and not applicable under the impugned
+case for the reasons mentioned supra.
+The decision of the Hon'ble
+Supreme Court in
+GVK Industries Ltd & Anr vs ITO & Anr
+Civil Appeal
+No.7796/1997 (department paper book pages 92 to 125) is not applicable
+as it is a decision on the constitutional validity of
+section 9(1)(vii)(b)
+of
+the Act whereas the impugned case is on the issue of applicability of
+section 9(1)(vi)
+of the Act. This decision is not applicable as the subject
+matter is different and the law involved is different.
+It has been held by
+the Hon'ble Supreme Court in
+CIT vs Sun Engineering Works (P) Ltd
+--
+198 ITR 297 that a decision cannot be read out of context. Hence reliance
+placed on the decision in GVK Industries is not correct.
+The reliance placed by the Ld.DR on the decision of the Karnataka High
+Court in the case of
+CIT vs Wipro Ltd
+203 Taxman 621 (department
+paper book pages 139 to 143) is also incorrect as evident from page 142,
+para 6 of the order extracted as hereunder wherein the Court has clearly
+said that the issue does not pertain to shrink wrapped software:
+"6 Mere fact that in the instant case, the issue do not pertain to
+     shrink wrapped software or off-the-shelf software and access to
+                                       ITA Nos.1215 to 1220/ Bang/2014
+                                                 & 18 to 23/Bang/2017,
+                                 ITA Nos. 2328, 2335 to 2339/Bang/2016
+Page 22 of 46
+database maintained by M/s.Gartner is granted online, would
+    not make any difference in the reasoning assigned by us to hold
+    that such right to access would amount to transfer of right to use
+    the copyright held by M/s.Gartner and the payment made by the
+    respondent to M/s.Gartner in that behalf is for the licence to use
+    the said database maintained by M/s.Gartner and such payment
+    is to be treated as royalty     ................"
+Hence
+the above decision
+is not applicable to the impugned case.
+The decisions relied on by the Ld.DR of Hon'ble ITAT Bangalore in
+M/s.Kalki Communication Technologies ltd vs ITO - ITA 1401 to
+1403/B/2013 dt.15.04.2015 and
+GE India Industrial I' Ltd vs Addl CIT
+in
+ITA 595/B/16 dt.17.11.2017 are not applicable as the Hon'ble ITAT
+Bangalore and Hon'ble Karnataka High Court in assessee's own case
+have held that the impugned payments are not covered
+u/s 9(1)(vi)
+of the
+Act.
+The argument of the ld.DR that the decision of the Hon'ble Karnataka
+High Court in assessee's own case in ITA 507/2002 dt.25.08.2010 & in
+ITA 879/2008 dt.25.03.2015 should not be relied on in view of the
+decision of Hon'ble Karnataka High Court decision in PCIT vs GMR
+Energy Limited ITA 358 to 360/2018 dt.08.01.2019 wherein the Court
+has held in page 10 para 7 of the order as extracted under (copy enclosed
+as Annexure 1):
+"7 A judgment of the court becomes binding only when a
+    question arises for consideration, is contested by both sides and
+    thereafter findings are recorded by the Court. None of these
+    conditions have been fulfilled. There is no notice issued to the
+    other side. No question of law has been determined. The appeal
+    was dismissed, as bereft of any substantial question of law.
+    Therefore, the judgment reported in Laney's case cannot be said
+    to be applicable law or binding for any reason whatsoever. The
+    reliance placed by the tribunal on the judgment in Lancy's case
+    is misplaced. The judgment in Laney's case does not render the
+    true position in law. It cannot be considered as a precedent."
+The above ruling is not applicable to the impugned case as the ruling of
+the Court is binding between the parties. Moreover in the High Court
+decisions in assessee's own case the substantial question of law was
+framed and decided after notice to the parties. The same is evident in
+from the decision in ITA 507/2002 dt.25.08.2010 in Para 37 to 39 pages
+32 to 34 of the decision:-
+ITA Nos.1215 to 1220/ Bang/2014
+                                                       & 18 to 23/Bang/2017,
+                                       ITA Nos. 2328, 2335 to 2339/Bang/2016
+Page 23 of 46
+"37. The last substantial question of law framed is as under
+................................ "
+and in ITA 879/2008 (11.25.03.2015 in Para 171 page 56 Substantial
+      question no.18 "171. The said substantial questions of law arose for
+      consideration in the assessee's case itself in ITA 507/02 which was
+      decided on 25.8.2010 where the substantial question of law was
+      answered in favour of the assessee and against the revenue. Accordingly,
+      the said question of law is answered in favour of the assessee and against
+      the revenue."
+Since in the impugned case the substantial questions of law were framed
+      and answered in favour of the assessee, the ruling in PCIT vs GMR
+      Energy Limited ITA 358 to 360/2018 dt.08.01.2019 relied on by the
+      Ld.DR is out of context and not applicable."
+26.    We have heard the rival contentions of the parties and perused the record.
+If we look into the order passed by the Tribunal in the case of the assessee for
+the AY 2007-08, the Tribunal in para 8.4 had decided the issue by following the
+decision of the coordinate Bench in favour of assessee for the earlier AYs 2001-
+02 and while doing so, had not distinguished the binding decision of the High
+Court rendered in the case of
+Synopsis International Old Ltd.
+(supra). Similarly
+for the AY 2008-09, the Tribunal while deciding this issue in para 15 & 16 had
+merely followed the decision for the AY 2007-08, which had merely followed the
+decision of the coordinate Bench for the AY 2001-02 & 2002-03.
+Thus this
+decision of the coordinate Bench was also passed ignoring the binding decision
+of the jurisdictional High Court in the matter of
+Synopsis International Old Ltd.
+(supra) and also in the matter of
+Samsung Electronics Co. Ltd. & Ors.
+, (supra).
+Interestingly, the decision of
+Samsung Electronics Co. Ltd. & Ors.
+, (supra) was
+passed by the jurisdictional High Court on 15.10.2011 [ 345 ITR 494].
+The
+decision of
+Synopsis International Old Ltd.
+(supra) dated 03.08.2010 as well as of
+Samsung Electronics Co. Ltd. & Ors. dated15.10.2011 were available to both the
+coordinate Benches for the AY 2007-08 and also for AY 2008-09. However the
+coordinate Bench had followed the decision in the case of assessee for the
+earlier assessment years.      The ld. AR in the written submissions had also
+                                             ITA Nos.1215 to 1220/ Bang/2014
+                                                       & 18 to 23/Bang/2017,
+                                       ITA Nos.
+2328, 2335 to 2339/Bang/2016
+Page 24 of 46
+submitted that the decision of
+Synopsis International Old Ltd.
+(supra) and
+Samsung Electronics Co. Ltd. & Ors.
+(supra) were considered by the Tribunal
+while deciding the issue in favour of assessee and therefore, the order of
+coordinate Benches are binding and are required to be enforced by the
+authorities below as well as by the Tribunal. In our view, respectfully following
+the coordinate benches decision which are in conflict of High court decision was
+not correct and further, there is no purpose of perpetuating the         wrong and
+obsolete law by following the decision of the coordinate Bench when it was
+passed in negation of the law
+laid down by
+the jurisdictional High Court.
+The
+jurisdictional High Court in the case of
+Samsung Electronics Co. Ltd. & Ors.
+(supra) vide its order dated 15.10.2011 had categorically held that payment made
+for purchase of software were in the form of royalty
+u/s. 9(1)(vi)
+of the Act and
+therefore, in our view, the decision rendered by the coordinate Bench treating the
+expenditure incurred for the purchase of software cannot be held that it is not
+royalty. In fact, as pointed out by the ld. DR, the issue which was decided by the
+coordinate Benches were confined to narrow compass whether the assessee
+was entitled to depreciation on the expenditure incurred for purchase of software
+or not? There was no discussion before any of the forums including before the
+High Court with respect to applicability of provisions of
+section 9(1)(vi)
+of the Act
+or the Explanation introduced into the Act w.e.f. 1.4.2012.           In our view,
+application of law is required to be decided by the coordinate Bench by
+discussing the provision of law and also of the judgment and thereafter
+discussing how the said provision of law and judgment are applicable or not
+applicable to the facts . In the absence of any discussion on the above two
+aspects as to the scope of provisions of the Act as well as judgment, it will be
+unfair to conclude that, the coordinate benches had correctly applied the law in
+the context of what was now argued before us by the assessee. In fact this
+Bench was having the        occasion to consider the pith and substance of the
+decisions rendered by the High Court in the matter of Wipro and thereafter had
+                                              ITA Nos.1215 to 1220/ Bang/2014
+                                                        & 18 to 23/Bang/2017,
+                                        ITA Nos. 2328, 2335 to 2339/Bang/2016
+Page 25 of 46
+come to conclusion ,which was rightly pointed out by the ld. DR, that the issue of
+royalty was not an issue before the High Court in the matter of Wipro.
+27.    Though both the parties during the course of arguments had submitted
+and had argued that this Tribunal will be in contempt if the Tribunal does not
+follow the judgment of Wipro as per ld. AR and the Tribunal will be in contempt if
+the Tribunal will not follow the judgment of
+Samsung Electronics Co. Ltd. & Ors.
+(supra) as per ld. DR. In either case as per the submission of the ld. AR/ld. DR,
+the Tribunal would be in contempt.        The Tribunal is the creation of statute/
+Constitution and has been assigned the duty to examine the facts and apply the
+correct law without being influenced by the threat of contempt posed by both
+sides. in contempt.
+In our humble understanding, the law declared by the
+Hon'ble High Court in the case of
+Samsung Electronics Co. Ltd. & Ors.
+(supra) is
+the correct exposition of law and therefore, the same is binding on this Tribunal
+situated under the jurisdiction of Hon'ble Karnataka High Court.
+We again
+reiterate that the question decided by the Hon'ble Karnataka High Court in the
+case of Wipro (Supra) were not decided in the context of question now posed
+before us, i. e. whether payment made by the assessee for purchase of software
+was in the form of royalty or not?
+28.
+In the light of the above, we do not find any error on the part of authorities
+below to apply the decision rendered by the jurisdictional High Court in the matter
+of
+Synopsis International Old Ltd.
+(supra) and
+Samsung Electronics Co. Ltd. &
+Ors.
+(supra) and accordingly the action on the part of lower authorities is in
+accordance with law. In the result this ground is decided against the assessee.
+29.    The Bench records its unhappiness in making submission by both the
+parties whereby both the parties have tried to browbeat the Bench by saying that
+the Bench would be in contempt if the Bench would not follow the decision of
+Wipro/Samsung. In our view, it is the duty of the counsel to bring to the notice of
+Bench the binding precedent of jurisdictional High Court and of the Supreme
+Court and demonstrate on the basis of facts and on law, what was the principle
+                                             ITA Nos.1215 to 1220/ Bang/2014
+                                                       & 18 to 23/Bang/2017,
+                                       ITA Nos. 2328, 2335 to 2339/Bang/2016
+Page 26 of 46
+laid down by
+the Hon'ble Supreme Court.
+The Hon'ble Supreme Court in the
+case of
+Sun Engineering Works (P) Ltd.
+(supra) had held that there are many
+judgments including the judgment cited by the DR that judgment is not a statute
+and it is required to be applied on the given facts and further We are of the
+opinion , that Single change in facts will not only affect the colour and texture of
+decision, but would also affect outcome of the case .
+30.    The second objection raised by the ld. AR for the assessee is with respect
+to the order passed by the Officer was barred by limitation (ground No.5 & 6). In
+this regard, the ld. AR had submitted that the assessment year under
+consideration was 2007-08 and 2012-13 and law amendments were made in
+s.
+201
+and earlier limitation was not provided under the Act and subsequently by
+virtue of amendment, limitation was provided and therefore it was submitted that
+in the absence of limitation provided, the maximum period for passing the order
+was four years in the light of decision rendered in the matter of Mahindra &
+Mahindra and further it was submitted that combined order passed by authorities
+below as separate order was required to be passed distinctly dealing with
+limitation issue, the taxability and also the issue of DTAA.
+31.    Per contra, the ld. DR had submitted that
+section 201
+makes no distinction
+between resident and non-resident payee. However, limitation was provided by
+the proviso only with respect to resident for initiation of proceedings
+u/s. 201
+for
+declaring assessee as assessee in default and no limitation was provided by the
+Act for non-residents. He however relies on decision of coordinate Bench in the
+matter of Google in ITA No. 1511 to 1516/B/2013 where the coordinate Bench
+have considered various aspects of
+section 90
+and
+201
+and had held that there
+cannot be discrimination of non-resident and resident after considering the
+provisions of the Act. He pointed out that the tribunal also held that limitation
+provided for the non-resident for declaring assessee as assessee in default is
+required to be 6 years and he had drawn our attention to the following paras of
+this tribunal order:-
+ITA Nos.1215 to 1220/ Bang/2014
+                                                  & 18 to 23/Bang/2017,
+                                  ITA Nos. 2328, 2335 to 2339/Bang/2016
+Page 27 of 46
+"91.   For the purpose of above, it was
+submitted that the reasoning which was given by courts/Tribunal
+referred by the assessee are not available as all the judgments referred
+by the learned counsel for the assessee were for the period prior to
+introduction of amendment in
+section 201(1)
+of the Act. It was
+submitted that on the analogy and reasoning given by the Special Bench
+in the case of Mahindra & Mahindra (supra) in paras.14.2, 17.10 and
+17.11 are no more available to the assessee as the said reasoning were
+given by the Special Bench in the case of Mahendra & Mahendra
+(supra) in the absence of limitation for initiation of proceedings or
+passing of order
+u/s 201
+of the Act as applicable on said date and
+therefore, the Special Bench has applied the limitation as provided
+u/s
+143(2)
+,
+149
+,
+153
+,
+154
+and
+263
+to the proceedings under
+section 201
+of
+the Act. The special bench after detailed examination in para.14.2, in
+the case Mahindra & Mahindra has came to the conclusion that, as there
+is no limitation provided under un-amended
+section 201
+, therefore,
+period of 4 years will be the reasonable period for initiation of
+proceedings.    Further it was held that the period of completion of
+proceedings shall be one year form the end of the relevant financial
+year.
+92.     On the basis of above it was submitted by the learned Standing
+Counsel that the reasoning as given by the Special Bench, Hon'ble
+jurisdictional High Court as well as by other High Courts is no more
+available for initiation of proceedings against non-resident for period of
+                                            ITA Nos.1215 to 1220/ Bang/2014
+                                                      & 18 to 23/Bang/2017,
+                                      ITA Nos. 2328, 2335 to 2339/Bang/2016
+Page 28 of 46
+4 years, in view of the fact that same logic and reasoning is required to
+be followed by the Tribunal by laying down the reasonable period of
+limitation for initiation of proceedings against non-resident entity. In
+the written submissions it was submitted by the DR as under:
+"1.
+Section 201(3)
+of the Act has been amended by providing
+             Limitation only in respect of payments made to the
+             resident in India. In the Circular Explaining the Finance
+             Act, it has been specifically referred that the
+             payments made to the nonresidents, no limitation is
+             applicable. In view of the specific provision providing
+             Limitation only to the payments made to the resident in
+             India and not providing any limitation to the payments
+             made t o t h e n o n - r e s i d en t , n o l i mi t a t i o n ca n b e
+             prescribed or read into the section.
+2)    Without prejudice to the above contention if the
+            contention of the assessee is to be accepted that in the
+            absence of any limitation being provided under the Act,
+            reasonable time limit has to be read into the section as held
+            by various high courts in the case of NHK Japan, Bharath
+            Hotels, the limitation provided for payments to residents
+            has to be ap p l ied(s i x yea r s ). Ot h erwi s e it amount
+            t o discrimination between the payments made to the
+            resident and the non-resident.
+3)Insofar as the judgements relied on by the
+            assessee, all the judgements were rendered in respect
+            of the orders passed prior to amendment to
+section
+            201(3)
+of the Act and period of four years has been
+            arrived at on the analogy of various other provisions
+            under the Act. Even in the absence of any limitation
+            being provided under
+section 201(3)
+of the Act for
+            payments to the nonresident's, even certain limitation is to
+            be provided, applying the same analogy as held by the
+            various courts in the judgements relied on by the assessee,
+                                        ITA Nos.1215 to 1220/ Bang/2014
+                                                  & 18 to 23/Bang/2017,
+                                  ITA Nos. 2328, 2335 to 2339/Bang/2016
+Page 29 of 46
+period of six years has to be read/considered in view of
+            the legislative interference by introduction of
+section
+            201(3)
+of the Act. In the absence of such an analogy and
+            any other Limitation other than period of six years would
+            amount to discrimination in the limitation between the
+            payment to resident and non-resident.
+4) The assessee has relied on the judgement of the Delhi
+            High Court in the case of Bharathi Hotels Ltd (2016) 76
+            taxman.com 256 (Delhi) to contend that even after
+            introduction of
+section 201(3)
+of the Act and in the absence
+            of any limitation provided by the Act in respect of
+            payments to the nonresident's, the reasonable limitation
+            has to be read into. With great respect, the Delhi High
+            Court has not provid ed any limitation with respect
+            to payments to non-residents. Without prejudice to the
+            above contention even if the contention of the assessee that
+            in the absence of any limitation, reasonable time limit
+            has to be read into the section is to be accepted,
+            applying the same analogy as held by the various courts
+            relied upon by the assessee and considered by the Delhi
+            High Court, the period of six years provided by the
+            statute to the payments ma1e to resident in India under
+section 201(3)
+of the Act would be equally applicable to
+            the payments made to the nonresident's. If any
+            limitation other than six years is read into the section in
+            respect of payments to non-resident, it would amount to
+            discrimination among the payments to residents and the
+            nonresident.
+93.   In rebuttal, learned counsel for the assessee submitted that prior
+to amendment, there was no statutory period for initiation of
+proceedings against the non-resident. Once the amendment came into
+force for resident only, it should not implicitly apply to non-resident as
+                                        ITA Nos.1215 to 1220/ Bang/2014
+                                                  & 18 to 23/Bang/2017,
+                                  ITA Nos. 2328, 2335 to 2339/Bang/2016
+Page 30 of 46
+it was only restricted to resident. It was submitted that principle of
+literal interpretation is required to be invoked for the purpose of
+interpreting this kind of provisions and this tribunal cannot supply the
+word which is not intended to be supplied by the legislature. Lastly,
+our attention was drawn to the judgment passed by the Hon'ble Delhi
+High Court in the case of
+Bharti Airtel vs. Union of India
+(76
+taxman.com.256) and special attention was drawn to paras.11,12, 13,
+14 & 17.
+94.   We heard rival submissions and perused material on record
+available. In our view, before we deal with issue of limitation, it would
+be relevant to reproduce the reasoning given by the Special Bench in
+the case of Mahindra & Mahindra (supra) which is as under:
+14.2 After considering the rival submissions in the light of
+            the material placed before us and the precedents relied
+            upon it is obvious that sub-sections (1) and (1A) of
+section
+            201
+do not prescribe any time limit for the initiation of the
+            proceedings or the passing of the order. We find that for the
+            most of the actions under the Act, the particular time limit
+            has been given for the commencement and completion of
+            the proceedings. For example time limit for issuing of
+            notice for the purposes of making assessment is laid down
+            in
+section 143(2)
+. Similarly time for issuing notice of
+            reassessment has been set in
+section 149
+.
+Section 153
+deals
+            with the time provided for the completion of assessment and
+            reassessments. Similarly time limit for rectification of order
+            is given in
+section 154
+; for passing revising order under
+section 263
+etc. etc. In such a scenario the question arises
+            that if no time limit is provided, then can any time limit be
+                             ITA Nos.1215 to 1220/ Bang/2014
+                                       & 18 to 23/Bang/2017,
+                       ITA Nos. 2328, 2335 to 2339/Bang/2016
+Page 31 of 46
+artificially imported by the authorities. The ld. DR has
+contended that the Tribunal is not competent to lay down
+any time limit. If this contention is brought to the logical
+conclusion it will mean that the unlimited time will be
+available to the Departmental authorities at their sweet-will
+for taking action under this section. In our considered
+opinion this contention raised on behalf of the revenue is
+bereft of any force for the simple reason that certainty is the
+hallmark of any proceedings. It is beyond our
+comprehension that how, in the absence of any time
+limitation provided in the section, the action can be taken in
+indefinite period. It is wholly impermissible to argue that
+unlimited time limit be granted to the revenue for taking
+action under this section. The sword of taxing authorities
+cannot be allowed to hang, forever, over the head of the tax
+payers. If this proposition of the learned D.R. is accepted
+that will give license to the authorities to take action even
+after 30, 40 or 50 years. The canons of limitation are
+ordinarily provided expressly in the Act and in their
+absence, they are to be impliedly inferred by taking into
+consideration the scheme of the relevant provisions. The ld.
+DR has relied on some cases for suggesting that no time
+limit be laid down by the Tribunal for the purposes of
+passing order under
+section 201(1)
+or (1A). In our opinion
+before applying the ratio of any judgment, it is imperative
+to look into text and the context in which it is rendered. It is
+equally important to bear in mind the relevant provision in
+the background of which such judgment was rendered. It is
+not permissible to pick up a case from one enactment and
+insist for the application of the ratiodecidendi of that case
+to an altogether different legislation, which has no
+resemblance with the former. The Hon'ble Rajasthan High
+Court in Arihant Tiles & Marbles (P.)
+Ltd. v. ITO
+[2007]
+295 ITR 148/166 Taxman 274 has held that the
+interpretation of any expression used in the context of one
+statute is not be automatically imported while interpreting
+                                         ITA Nos.1215 to 1220/ Bang/2014
+                                                   & 18 to 23/Bang/2017,
+                                   ITA Nos. 2328, 2335 to 2339/Bang/2016
+Page 32 of 46
+similar expression in another statute.
+Similar view has been
+            earlier expressed by the Hon'ble Supreme Court
+            in
+CIT v. Venkateswara Hatcheries (P
+.) Ltd. [1999] 237
+            ITR 174/103 Taxman 503.
+95.   In para.14.2 (supra in Mahindra and Mahindra) it has been held
+by the Special Bench that in sub-section (1) and (1A) of
+section 201
+, no
+limit for initiation of proceeding or passing of the order is prescribed.
+Thereafter, the Special Bench noticed the period of limitation provided
+for issuance of notice
+u/s 143(2)
+,
+149
+,
+153
+,
+154
+,
+263
+and thereafter it
+was held that certainty in taxing provision is hall-mark of any
+proceeding and it was noticed that "it is beyond our apprehension that
+how in absence of time limit provided in the section, action can be
+taken in indefinite period. It is impermissible to argue that no time limit
+be granted to revenue."
+96.   Thus it is clear from reading of the abovementioned paragraphs
+that the logic and reasoning given by the Special Bench for coming to
+reasonable period of 4 years was based on analysis of the provisions
+viz., 143, 147, 148, 149 and 153 and absence of time limit
+u/s 201(1)
+of
+the Act. In our view, there is a change in the position after passing of
+judgment by the Special Bench as the
+section 201
+has been amended by
+the legislature and now specific provision        is incorporated by the
+Legislature to dealing with limitation or initiation of proceedings
+u/s
+201
+of the Act in the case of resident , however no period of limitation
+is provided in the case of non-resident.
+ITA Nos.1215 to 1220/ Bang/2014
+                                                  & 18 to 23/Bang/2017,
+                                  ITA Nos. 2328, 2335 to 2339/Bang/2016
+Page 33 of 46
+97.   Recently Allahabad high court in the matter of Mass Awash (P.)
+Ltd. [2017] 83 taxmann.com 306 (Allahabad) had occasion to deal with
+all judgments referred before us and thereafter it was held as under
+"71. In the entirety of the discussion, we find it difficult to
+         hold that period consumed by Revenue in prosecuting matter
+         against main payee would have resulted in accrual of a right
+         upon Assessee so as to deprive Revenue from proceeding
+         under
+Section 201(1)
+and
+201(1A)
+, though, admittedly,
+         Assessee-petitioner has committed default by not complying
+Section 195
+by non-deduction of TDS on the amount paid to
+         Smt. Nidhi Raman. Defence of petitioner that it was
+         misrepresented by seller by not disclosing by any of them that
+         she was an N.R.I. would equally be available to Revenue also
+         for explaining delay and also their bonafide is fortified that
+         they make all possible efforts to recover entire amount of tax
+         from person liable to pay tax and as a last resort they have
+         sought to exercise power under
+Section 201(1)
+and
+201(1A)
+against Assessee.
+72. The view taken by Delhi High Court that period of
+         limitation of four years, as applicable for making Assessment
+         under
+Section 147
+, should be made applicable for exercising
+         power under
+Section 201(1)
+and
+201(1A)
+, we find it difficult to
+         subscribe inasmuch as we do not impose a fixed time and
+         prescribe a period of limitation, which has not been
+         prescribed by Legislature in its wisdom. Such legislative
+         action, by way of judicial precedent, in our view, would not be
+         appropriate exercise of judicial review under
+Article 226
+of
+         Constitution. As we have already discussed above, even
+         Supreme Court says that if time period is not prescribed for
+         exercise of power, a reasonable time would depend upon the
+         facts of each case and cannot be quantified or prescribed like
+         a period of limitation.
+ITA Nos.1215 to 1220/ Bang/2014
+                                         & 18 to 23/Bang/2017,
+                         ITA Nos. 2328, 2335 to 2339/Bang/2016
+Page 34 of 46
+73. In Uttam Namdeo Mahale (supra), the judgment delivered
+by Three Judge Bench, Court has said as under:
+"Mr. Bhasme, learned counsel for the appellant,
+contends that in the absence of fixation of the rule of
+limitation, the power can be exercised within a reasonable
+time and in the absence of such prescription of limitation, the
+power to enforce the order is vitiated by error of law. He
+places reliance on the decisions in
+State of Gujarat v. Patil
+Raghav Natha
+;
+Ram Chand v. Union of India
+and Mohd. Kavi
+Mohamad Amin v. Fatmabai Ibrahim. We find no force in the
+contention. It is seen that the order of rejectment against the
+applicant has become final.
+Section 21
+of the Mamlatdar's
+Court Act does not prescribe any limitation within which the
+order needs to be executed. In the absence of any specific
+limitation provided there under, necessary implication is that
+the general law of limitation provided in the
+Limitation Act
+(Act 2 of 1963) stands excluded. The Division Bench,
+therefore, has rightly held that no limitation has been
+prescribed and it can be executed at any time, especially when
+the law of limitation for the purpose of this appeal is not
+there. Where there is statutory rule operating in the field, the
+implied power of exercise of the right within reasonable
+limitation does not arise. The cited decisions deal with that
+area and bear no relevance of the facts."
+(Emphasis added)
+74. We also find that Bombay High Court has taken a different
+view in the matter of prescribing limitation and Calcutta High
+Court has declined to prescribe any such limitation.
+75. In our view, the dictum laid down by Apex Court in the
+cases referred above is very clear. While exercising power of
+judicial review in the case like present one, it would be
+appropriate to consider whether power has been exercised by
+competent authority within a reasonable period and whether
+delay is unjust, arbitrary, whimsical or it is for valid reasons.
+ITA Nos.1215 to 1220/ Bang/2014
+                                                  & 18 to 23/Bang/2017,
+                                  ITA Nos. 2328, 2335 to 2339/Bang/2016
+Page 35 of 46
+If Court finds that delay in exercise of power is for valid and
+         bonafide reasons, alleged delayed exercise of power cannot
+         be held invalid."
+98.   The contrary judgment of Hon'ble Delhi High Court in the matter
+of
+Bharti Airtel Ltd v. Union of India
+[(2016) 76 taxmann.com 256]
+was relied upon by the Ld. AR. The DR relied upon Bhura Exports
+Ltd [2011] 13 taxmann.com 162 (Calcutta) and Mass Awash (P.)
+Ltd. [2017] 83 taxmann.com 306 (Allahabad)
+
+      In our view the decision of the Special Bench and other
+judgments apply with equal force in favour of both i.e. resident as well
+as non-resident providing period of limitation of four years from the
+end of the financial year for initiation of proceedings on the analogy
+and principle mentioned in
+section 147
+,
+148
+,
+153
+etc. prior to
+amendment in law. However there are contrary judgments in favour of
+the revenue post amendment which does not provide any limitation for
+initiation of proceedings
+u/s.201
+of the Act.
+99.   In view thereof, there is conflict of judgments of various courts.
+One set of judgment are in favour of the assessee and the other set of
+judgments are in favour of the Revenue. There is no direct judgment
+after the amendment of
+Section 201
+, by the jurisdictional High Court
+which deals with the issue of initiation of proceedings under the
+amended provision of 201. In the absence of any binding judgment by
+the Hon'ble jurisdictional High Court, we are bound to adopt the same
+logic as upheld by the jurisdictional High Court, by treating the resident
+                                        ITA Nos.1215 to 1220/ Bang/2014
+                                                  & 18 to 23/Bang/2017,
+                                  ITA Nos. 2328, 2335 to 2339/Bang/2016
+Page 36 of 46
+and the non-resident at par after relying upon the decision of Special
+Bench in the matter of Mahindra and Mahindra (supra), in case relating
+to pre amendment assessment year.              In our opinion, after the
+amendment of law same logic and limitation is required to be applied
+for non-resident well as resident thus treating non-resident at par with
+resident.   In other words, period of imitation for initiation of
+proceedings for resident as well as non-resident
+u/s 201
+should be 6
+years from the end of the financial year. Further the payer is required to
+maintain books of account and deduct TDS for both resident as well as
+non-resident. No Separate treatment had been envisaged under the Act,
+for the payer paying to a non-resident.
+100. Further, the non-resident payee cannot be worse off than resident
+payee under the
+Income Tax Act
+and under the provisions of DTAA.
+Law provides non-discrimination of non- resident with resident and
+requires equal treatment of non-resident with resident under the
+provisions of DTAA.      It cannot be said that a nonresident would be
+given special and beneficial treatment in comparison to the resident or
+treated unequally by providing unlimited time to initiate proceedings
+under
+section 201
+of the Act. In our opinion, the Constitution of India
+provides equal treatment and equal protection of law within the territory
+of India. If the law requires initiation of proceedings within 6 years
+from the end of financial year for the resident, same treatment is
+required to be given to the non-resident. For this proposition, we may
+rely upon on the judgment of Hon'ble Supreme Court in Dr.
+                                         ITA Nos.1215 to 1220/ Bang/2014
+                                                   & 18 to 23/Bang/2017,
+                                   ITA Nos. 2328, 2335 to
+2339/Bang/2016
+Page 37 of 46
+Subramanian Swamy v. Director, CBI
+[2014] 8 SCC 682 (SC) in para
+22.
+101. Keeping in mind the principles set out by the Hon'ble Supreme
+Court in
+Dr. Subramanyian Swamy
+(supra), if we examine the scheme
+of
+Section 201
+Act, the resident of India cannot be discriminated vis-à-
+vis. The non-resident under
+Income Tax Act
+and similarly under DTAA
+non-resident cannot be discriminated viz-a-viz resident. If we accept the
+argument of the Ld. AR that the limitation of 4 years, as held provided
+by the Special Bench would continue to apply to non-resident even
+after post amendment to
+section 201
+, in that eventuality, hostile
+discrimination towards the resident-payee will creep in i.e., the
+limitation for initiation under
+section 201
+against the resident payee
+would be six years and against the non-resident payee it would be four
+years. This is neither the intention of the legislature nor the mandate of
+the Special Bench or the judgment referred herein above.           On the
+contrary, if we accept the argument of the Ld. DR that there is no
+limitation for initiation of proceedings under 201, in view of Hon'ble
+Calcutta and Allahabad High Court judgments (supra), if the payee is
+non-resident then, it will amount to discrimination against the non-
+resident as the proceedings may be initiated against the resident within
+four years and there is no limitation for initiation of proceedings against
+the non-resident. Therefore, the arguments of both the assessee as well
+as the Revenue cannot be accepted. If we accept the argument of one it
+                                            ITA Nos.1215 to 1220/ Bang/2014
+                                                      & 18 to 23/Bang/2017,
+                                      ITA Nos. 2328, 2335 to 2339/Bang/2016
+Page 38 of 46
+would tantamount to discriminating either the resident or the non-
+resident, which is not permissible in the eyes of law.
+102. The assessee / payer in the eyes of law whether making payment
+to resident or non-resident under the provisions of
+section 201
+,
+constitutes one class only. Accordingly, the same period of limitation is
+required to be applied equally for payee i.e. Resident or non-resident,
+Law abhor vacuum and uncertainty.
+103. There is no classification given under
+section 201
+.
+Section
+201(1)
+only talks about person who is required to deduct any sum for
+the payment made. Therefore, borrowing the same reasoning of the
+special bench, whereby it held that the same period of limitation should
+be applied to resident as well as non-resident, we are of the considered
+view that limitation for initiation of proceedings for non-resident payee
+should be 6 years instead of no-limitation.as is the limitation for
+resident-payee. In view of the above ground No.12 in assessment year
+2007-08 deserves to be dismissed and accordingly we dismiss the
+same."
+32.   On the basis of the above, it was submitted that once common question of
+law was raised before the lower authorities with respect to applicability of DTAA,
+provision of
+section 90
+as well as limitation, common order was passed by the
+authority and there was no prohibition in law for passing a common order for the
+common question of law and there is no difference in facts in all the years. He
+had also drawn our attention to
+section 143(1)
+and
+section 201
+and submitted
+                                                ITA Nos.1215 to 1220/ Bang/2014
+                                                          & 18 to 23/Bang/2017,
+                                          ITA Nos. 2328, 2335 to 2339/Bang/2016
+Page 39 of 46
+that if comparison is drawn between the two provisions, then the law does not
+prohibit any passing of the common order
+u/s. 201
+.
+33.    In rebuttal, the ld. AR had filed the written submissions as under:-
+"Further it is the contention of the assessee that passing a single order for
+multiple assessment years is unsustainable and untenable under the
+circumstances. This contention is supported by perusal of the following
+sections:
+Section 2(9)
+of the Act defines "Assessment year" as under:
+(9) "assessment year" means the period of twelve months commencing
+      on the 1st day of April every year
+Section 3
+of the Act defines "Previous year" as
+
+      "previous year" means the financial year immediately preceding the
+      assessment year
+Section 139(1)
+of the Act reads as under:
+"139. (1) [very person,--
+(a) being a company or a firm: or
+(b) being a person other than a company or a firm, if his total income or
+          the total income of any other person in respect of which he is
+          assessable under this Act during the previous year exceeded the
+          maximum amount which is not chargeable to income-tax,
+
+shall, on or before the due date, furnish a return of his income or the income of
+such other person during the previous year, in the prescribed form and verified
+in the prescribed manner and setting forth such other particulars as may be
+prescribed ...................
+Section 201(1)
+of the Act reads as under:
+(1) Where any person, including the principal officer of a company, -
+(a) who is required to deduct ally sum in accordance with the
+             provisions of this Act; or
+                                              ITA Nos.1215 to 1220/ Bang/2014
+                                                        & 18 to 23/Bang/2017,
+                                        ITA Nos. 2328, 2335 to 2339/Bang/2016
+Page 40 of 46
+(b) referred to in sub-section (IA) of
+section 192
+, being an employer,
+
+does not deduct, or does not pay, or after so deducting fails to pay, the whole
+or any part of the tax, as required by or under this Act, then, such person, shall,
+without prejudice to any other consequences which he may incur, be deemed
+to be an assessee in default in respect of such tax:
+Provided that any person, including the principal officer of a company, who
+fails to deduct the whole or any part of the tax in accordance with the
+provisions of this Chapter on the sum paid to a resident or on the sum credited
+to the account of a resident shall not be deemed to be an assessee in default in
+respect of such tax if such resident -
+(i) has furnished his return of income under
+section 139
+;
+(ii) has taken into account such sum for computing income in such return
+          of income; and
+(iii)has paid the tax due on the income declared by him in such return of
+          income,
+
+and the person furnishes a certificate to this effect from an accountant ill such
+form as may be prescribed: ................
+Section 201(3)
+of the Act reads as under:
+"(3) No order shall be made under sub-section (1) deeming a person
+         to be an assessee in default for failure to deduct the whole or any part
+         of the tax from a person resident in India, at any time after the expiry
+         of seven years from the end of the financial year in which payment
+         is made or credit is given.
+Thus bare perusal of the above sections implies that an order
+u/s 201(1)
+can be
+passed only in respect of a particular previous year/assessment year. It is a
+well settled principle by the judiciary that each assessment year is separate,
+distinct and independent. The assessee places reliance on the decision of
+Allahabad HC in
+Mohd. Ayub vs ITO
+- 346 ITR 30 - paper book index IV -
+pages 411 to 413 wherein the Court has held that each assessment year is an
+independent unit of assessment and the provisions of the Act applied
+separately. The limitation for passing the order as per
+section 201(3)
+has also
+to be tested for each previous year separately. Thus the impugned common
+order passed by the AO
+u/s 201(1)
+&
+201(1A)
+dt.15.10.2013 for multiple
+                                              ITA Nos.1215 to 1220/ Bang/2014
+                                                        & 18 to 23/Bang/2017,
+                                        ITA Nos. 2328, 2335 to 2339/Bang/2016
+Page 41 of 46
+assessment years being AY 2007-08 to 2012-13 are had in law and requires to
+be vacated.
+Further the entire tax liability has been fastened on the assessee based on
+retrospective amendment to Explanation 4 of
+section 9(1)(vi)
+inserted by
+Finance Act
+2012 w.r.e.f 1.06.1976 for alleged non deduction of TDS
+u/s 195
+of the Act.
+Section 195
+of the Act reads as under:
+195. (1) Any person responsible for paying to a non-resident, not being a
+     company, or to a foreign company, any interest (not being interest
+     referred to in
+section 194LB
+or
+section 194LC
+) or
+section 194LD
+or any
+     other sum chargeable under the provisions of this Act not being income
+     chargeable under the head "Salaries") shall, at the time of credit of such
+     income to the account of the payee or at the time of payment thereof
+     in cash or by the issue of a cheque or draft or by any other mode,
+     whichever is earlier, deduct income-tax thereon at the rates in force
+     :."
+As per the above section the obligation of deduction of TDS if any can be
+discharged in the light of law as it stands at that point of time. An assessee
+cannot be treated as an "assessee in default" relying on subsequent
+amendments made to the Act having retrospective effect. The assessee vide
+written submission dt.22.11.2017 in para 4 has relied on several decisions
+wherein it is held that retrospective effect cannot be imposed when it comes to
+deduction of TDS. The assessee also places reliance on the decision of the
+Hon'ble Allahabad High Court in the case of
+Jagran Prakashan Limited vs
+DCIT
+345 ITR 288 (Index of Decisions--H pages 110 to 150) which has been
+affirmed by the Hon'ble Supreme Court in SLP Civil 9861/2013 dt.05.05.2014
+(Index of Decisions -- II page 151). While dealing on the issue on assessee-in-
+default, the High Court has held as under:
+" 74. From the above, it is clear that deductor cannot be treated an
+     assessee in default till it is found that assessee has also failed to pay such
+     tax directly. In the present case, the Income tax authorities had not
+     adverted to the Explanation to
+Section 191
+nor had applied their mind as
+     to whether the assessee has also failed to pay such tax directly. Thus, to
+     declare a deductor, who failed to deduct the tax at source as an assessee
+     in default, condition precedent is that assessee has also failed to pay tax
+     directly. The fact that assessee has failed to pay tax directly is thus,
+     foundational and jurisdictional fact and only after finding that assessee
+     has failed to pay tax directly, deductor can be deemed to be an assessee
+     in default in respect of such tax. It is relevant to notice here that
+                                              ITA Nos.1215 to 1220/ Bang/2014
+                                                        & 18 to 23/Bang/2017,
+                                        ITA Nos. 2328, 2335 to 2339/Bang/2016
+Page 42 of 46
+Explanation to
+Section 191
+is confined only to the amount of tax which
+      was required to be deducted."
+Thus on this count also, the tax liability fastened requires to be deleted."
+34.    We have heard the rival submissions and perused the record.             The
+grounds of appeal raised before the ld. CIT (A) were similar in all the assessment
+years under consideration before us and we are not reproducing hereinbelow the
+common grounds raised by the assessee in each of the assessment years for the
+sake of brevity.
+35.    From a perusal of the above, it is amply clear that assessee has raised
+common grounds of appeal feeling aggrieved by the order of AO, and on the
+issue of DTAA, the assessee had raised general ground and therefore, in our
+considered opinion, there is no prohibition for the AO to pass a common order for
+all the assessment years. In all the cases before the AO, the payee (recipient)
+was non-resident. It is not disputed that payment was made for purchase of
+software. It is also not disputed before the AO that tax was not deducted as
+mandated by law before making payment.                Therefore, all the necessary
+conditions as required under law for invoking provisions of
+s. 201
+were in place
+and therefore in our view, the action on the part of lower authorities is in
+accordance with law. We hold accordingly. Regarding the arguments of the
+learned AR of the assessee that the orders passed by the AO are time barred,
+we respectfully follow the tribunal order in the case of Google as reproduced
+above and hold that these orders are not time barred as these are passed within
+six years.
+36.    In the result, all the six appeals filled by the assessee in the proceedings
+u/s 201
+&
+201 (1A)
+are dismissed.
+37.    Now we take up six appeals filed by the assessee in the proceedings
+u/s
+154
+i.e. ITA Nos. 18 to 23/Bang/2017. Identical Grounds raised by the assessee
+in these six appeals are already reproduced above in Para 10.
+ITA Nos.1215 to 1220/ Bang/2014
+                                                       & 18 to 23/Bang/2017,
+                                       ITA Nos. 2328, 2335 to 2339/Bang/2016
+Page 43 of 46
+38.    Both sides were heard. Regarding Ground No. 4 to 6 in which this is the
+contention raised that these orders
+u/s 154
+are bad in law, we find that in addition
+of grossing up of tax
+u/s 195A
+for which, there may be an argument that it is not
+an apparent mistake rectifiable
+u/s 154
+, the AO has also increased the demand in
+respect of Surcharge and Education Cess and it is a fact that the demand of TDS
+is as per provision of
+Income Tax Act
+in some years where the rate of withholding
+tax as per DTAA is higher and hence, not raising demand in respect of Surcharge
+and cess is an apparent mistake rectifiable
+u/s 154
+and therefore, we hold that
+these orders
+u/s 154
+are not bad in law although some demands raised in these
+orders may be bad in law and the same can be deleted on merit. These Grounds
+Nos. 4 to 6 are rejected.
+39.    As per Ground No. 1 to 3 raised by the assessee in these appeals, it is
+contended that the learned CIT (A) has erred in holding that rate of tax is 15% in
+USA, UK, Austria and Canada and 20% in Spain because as per the assessee it
+is 10% for these countries also. In this regard, we find that as per Para 13 of the
+combined impugned order, learned CIT (A) has directed the AO to levy surcharge
+and cess only in respect of royalty payments made to vendors which are resident
+of such countries with which the DTAA with India allows withholding of more than
+11.33% and in respect of other payments, he has deleted the levy of surcharge
+and cess. Hence, we find no merit ion these grounds also and these are also
+rejected.
+40.    As per Ground No. 7, the dispute raised is about interest
+u/s 201 (1A)
+.
+This is a settled position of law as per the judgment of Hon'ble apex court
+rendered in the case of
+Hindustan Coca Cola Beverage Pvt. Ltd. Vs. CIT
+, 293
+ITR 226 that if tax is paid by the deductee, demands from deductor for tax
+u/s
+201 (1)
+cannot be raised but the deductor has to pay interest
+u/s 201 (1A)
+till the
+date of payment taxes by the deductee. Hence, in our considered opinion, the
+ratio of this judgment is this that if tax was deductible by the payer, interest u/s
+                                               ITA Nos.1215 to 1220/ Bang/2014
+                                                         & 18 to 23/Bang/2017,
+                                         ITA Nos. 2328, 2335 to 2339/Bang/2016
+Page 44 of 46
+201 (1A) is payable by him till the payment of such tax by him or by the payee.
+Accordingly, we hold that there is no merit in Ground No. 7 and it is also rejected.
+41.    In the result, all the six appeals filled by the assessee in the proceedings
+u/s 154
+are dismissed.
+42.    Now we take up six appeals filed by the revenue in the proceedings
+u/s
+154
+i.e. ITA Nos. 2335 to 2339/Bang/2016. Identical Grounds raised by the
+revenue in these six appeals are already reproduced above in Para 9.
+43.    Both sides were heard. Regarding Ground No. 1 raised by the revenue in
+these appeals, it is seen that this is a general ground for which no separate
+adjudication is called for. Regarding Ground Nos. 2 to 5, we find that Para No. 8
+of the combined impugned order of CIT (A) is relevant in this regard and hence,
+we reproduce the same as under:-
+"8. I have gone through the agreement between Microsoft Licensing,
+           GP ("MS") and the appellant containing Master Licensing Agreement.
+           The agreement clause cited by the assessing officer and that quoted by
+           the appellant are the same as per the agreement produced before me.
+           As per the plain reading, the clause only speaks of the agreement
+           between the parties to the effect that Wipro may deduct taxes required
+           to be paid on remittances and pay it to the authority. As per the Master
+           Agreement with. Microsoft, there is no indication of any definite
+           amount to be paid to the vendor irrespective of taxes. There is no basis
+           to infer that the appellant had to bear the cost of taxes payable on
+           remittances. Moreover, the appellant is right in contending that the
+           terms of one agreement could not be applied to payments pertaining to
+           other vendors. Raising of additional demand based on facts relating to
+           one payment and applied to other payments requires inference and
+           extrapolation. It could not be called a mistake apparent from record.
+           Therefore,
+section 195A
+was not applicable on the facts and
+           circumstances of the case. The additional liability due to grossing up of
+           the tax with remittances as made by the assessing officer in order
+           under
+section 154
+is deleted.
+Ground no.s 6 and 7 are allowed."
+44.    We find that in this Para, a categorical finding is given by CIT (A) that as
+per the agreements between the assessee company and various parties to whom
+                                             ITA Nos.1215 to 1220/ Bang/2014
+                                                       & 18 to 23/Bang/2017,
+                                       ITA Nos. 2328, 2335 to 2339/Bang/2016
+Page 45 of 46
+payments were made, the assessee company had to deduct TDS if required by
+law or by the income tax authorities and hence, there is no basis to infer that the
+assessee company had to bear the cost of taxes payable on remittances was to
+be borne by the assessee company. This finding of CIT (A) could not be
+controverted by the learned DR of the revenue and we find no infirmity in the
+ultimate finding of CIT (A) that there was no apparent mistake in the order passed
+by the AO which can be rectified
+u/s 154
+On this aspect, we uphold the order of
+CIT (A). These grounds are rejected.
+45.   Ground No. 6 is about relief allowed by learned CIT (A) in respect of levy
+of surcharge and cess by directing the AO that surcharge and cess should be
+levied only in the cases where the non resident vendors are residents of
+countries with which DTAA allows withholding rate of more than 11.33%. This is
+the case of the department that in respect of royalty payment to those countries
+also for which DTAA prescribes withholding tax rate of 10%, surcharge and cess
+should be levies because no proof is brought on record by the assessee about
+proof of residency of those parties in those countries. In this regard, we find that
+in Para 13 of the impugned order, it is stated by CIT (A) that the assessee has
+submitted the details regarding software payments, name of vendor, country of
+vendor and amount paid and he has also stated in the same Para that he has
+gone through the details carefully. He has noted in the same Para that it was
+claimed by the assessee before him that withholding tax rate for payment of
+royalty to all countries in dispute except Greece is 10% but he has held that this
+claim is not correct and he has noted the withholding tax rate on payment of
+Royalty in respect of USA, UK, Austria, and Canada is 15% and the same for
+Spain is 20%. This shows that learned CIT (A) has not accepted the claim of the
+assessee without examination and verification. Hence, if this is the contention of
+the revenue that the vendors of Ireland, Netherland, Singapore, Israel, France,
+Germany, Australia and Belgium etc. are not residents of respective countries,
+the revenue should have brought on record some evidence in this regard. In the
+absence of any evidence even in one case that the vendor of a country of 10%
+                                              ITA Nos.1215 to 1220/ Bang/2014
+                                                        & 18 to 23/Bang/2017,
+                                        ITA Nos. 2328, 2335 to 2339/Bang/2016
+Page 46 of 46
+withholding tax rate is in fact resident of some other country having higher
+withholding tax rate, we do not find any reason to interfere in the order of CIT (A).
+This Ground is also rejected.
+46.     In the result, all 6 appeals filed by the revenue are dismissed.
+47.     In the combined result, all 12 appeals filed by the assessee and all 6
+appeals filed by the revenue are dismissed.
+48.     Pronounced in the open court on this 21st day of June, 2019.
+Sd/-                                             Sd/-
+   ( A.K. GARODIA )                                 (LALIET KUMAR)
+ACCOUNTANT MEMBER                                   JUDICIAL MEMBER
+
+Bangalore,
+Dated, the 21st June, 2019.
+
+/Desai Smurthy/
+
+Copy to:
+1. Appellant
+2. Respondent
+3. CIT
+4. CIT(A)
+5. DR, ITAT, Bangalore.
+6. Guard file
+                                                                  By order
+
+
+
+                                                               Assistant Registrar,
+                                                                ITAT, Bangalore.

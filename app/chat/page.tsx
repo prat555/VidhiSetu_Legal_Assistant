@@ -191,13 +191,15 @@ export default function ChatPage() {
       const assistantMessage: Message = {
         role: 'assistant',
         content: data.message,
+        sources: data.sources,
+        cached: data.cached,
       };
       setMessages((prev) => [...prev, assistantMessage]);
     } catch (error: any) {
       console.error('Error sending message:', error);
       const errorMessage: Message = {
         role: 'assistant',
-        content: `Sorry, I encountered an error: ${error.message}. Please make sure your Gemini API key is configured correctly.`,
+        content: `Sorry, I encountered an error: ${error.message}. Please make sure the RAG service is running at http://localhost:8000.`,
       };
       setMessages((prev) => [...prev, errorMessage]);
     } finally {
@@ -375,11 +377,17 @@ export default function ChatPage() {
             <WelcomeScreen onQuestionClick={handleSendMessage} />
           ) : (
             <div className="max-w-5xl mx-auto px-3 sm:px-4 py-4 sm:py-6">
+              <div className="mb-4 inline-flex items-center gap-2 rounded-full border border-amber-300/40 bg-amber-500/10 px-3 py-1 text-xs font-medium text-amber-300">
+                <Scale className="h-3.5 w-3.5" />
+                RAG answers with source citations
+              </div>
               {messages.map((message, index) => (
                 <ChatMessage
                   key={index}
                   role={message.role}
                   content={message.content}
+                  sources={message.sources}
+                  cached={message.cached}
                 />
               ))}
               {isLoading && (
@@ -389,7 +397,10 @@ export default function ChatPage() {
                   </div>
                   <div className="max-w-[85%] sm:max-w-[75%] rounded-2xl px-3 sm:px-4 py-2 shadow-sm bg-zinc-800/50 backdrop-blur-sm/95 border border-zinc-200/50 dark:border-zinc-700/50">
                     <div className="text-sm sm:text-[15px] text-zinc-400 font-medium">
-                      Thinking...
+                      Retrieving legal sources...
+                    </div>
+                    <div className="text-xs text-zinc-500 mt-1">
+                      Searching relevant provisions and judgments
                     </div>
                   </div>
                 </div>

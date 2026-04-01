@@ -3,7 +3,10 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "dev": "next dev",
+    "dev": "concurrently \"npm run dev:web\" \"npm run dev:rag\"",
+    "dev:web": "next dev",
+    "dev:rag": "node scripts/run-rag-dev.mjs",
+    "setup:rag": "node scripts/setup-rag-env.mjs",
     "build": "next build",
     "start": "next start",
     "lint": "eslint"
@@ -30,6 +33,7 @@
     "@types/react": "^19",
     "@types/react-dom": "^19",
     "baseline-browser-mapping": "^2.9.11",
+    "concurrently": "^9.2.1",
     "eslint": "^9",
     "eslint-config-next": "^16.1.1",
     "tailwindcss": "^4",

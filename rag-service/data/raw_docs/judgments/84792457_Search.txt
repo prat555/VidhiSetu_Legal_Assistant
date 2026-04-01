@@ -1,0 +1,3003 @@
+Title: Search
+Court: Supreme Court of India
+Date: 5 May 2018
+Citation: citations: AIR 2021 SUPREME COURT 1, AIRONLINE 2020 SC 845
+Source: https://indiankanoon.org/doc/84792457/
+
+[Cites
+71
+, Cited by
+529
+]
+Supreme Court of India
+Arnab Manoranjan Goswami vs The State Of Maharashtra on 27 November, 2020
+Equivalent citations: AIR 2021 SUPREME COURT 1, AIRONLINE 2020 SC 845
+Author:
+D.Y. Chandrachud
+Bench:
+D.Y. Chandrachud
+,
+Indu Malhotra
+,
+Indira Banerjee
+Reportable
+
+                           IN THE SUPREME COURT OF INDIA
+                          CRIMINAL APPELLATE JURISDICTION
+
+
+                              Criminal Appeal No. 742 of 2020
+                         (Arising out of SLP (Crl) No. 5598 of 2020)
+
+
+
+
+          Arnab Manoranjan Goswami                                     ....Appellant
+
+
+
+                                            Versus
+
+
+
+          The State of Maharashtra & Ors.                          ....Respondents
+
+
+
+                                             With
+
+                              Criminal Appeal No. 743 of 2020
+                         (Arising out of SLP (Crl) No. 5599 of 2020)
+
+
+
+
+                                         And With
+
+
+
+                              Criminal Appeal No. 744 of 2020
+                         (Arising out of SLP (Crl) No. 5600 of 2020)
+
+
+
+
+Signature Not Verified
+
+Digitally signed by
+Sanjay Kumar
+Date: 2020.11.27
+11:03:49 IST
+Reason:
+
+
+
+
+                                              1
+                                JUDGMENT
+
+
+
+Dr Dhananjaya Y Chandrachud, J
+
+
+
+This judgment has been divided into sections to facilitate analysis. They are:
+
+A     The appeal
+
+B     The parties, the FIR and ‗A‘ Summary
+
+C     Previous proceedings against the appellant
+
+D     Re-opening of investigation and arrest of the appellant
+
+E     Submissions of Counsel
+
+F     Criminal Appeal No. 743 of 2020 (Arising out of SLP (Crl) No. 5599 of 2020)
+
+G     Criminal Appeal No. 744 of 2020 (Arising out of SLP (Crl) No. 5600 of 2020)
+
+H     Jurisdiction of the High Court under
+Article 226
+and
+Section 482
+CrPC
+
+I     Prima Facie evaluation of the FIR and the grant of bail
+
+J     Human liberty and the role of courts
+
+K     Conclusion
+
+
+
+
+                                         2
+                                                                                                             PART A
+
+A          The appeal
+
+1          While invoking the jurisdiction of the High Court of Judicature at Bombay
+
+under
+Articles 226
+and
+227
+of the Constitution of India and
+Section 482
+of the
+
+Code of Criminal Procedure, 1973 (―
+CrPC
+‖), the appellant sought three
+
+substantive reliefs:
+
+
+(i)        A writ of Habeas Corpus, claiming that he had been illegally arrested and
+
+           wrongfully detained by the Station House Officer (―SHO‖) at Alibaug Police
+
+           Station in the district of Raigad in Maharashtra in relation to a First
+
+           Information Report1 (―FIR‖) registered on 5 May 2018 under
+Sections 306
+and
+34
+of the Indian Penal Code, 1860 (―
+IPC
+‖) in spite of an earlier closure
+
+           report which was accepted by the Magistrate;
+
+(ii)       The quashing of the above-mentioned FIR; and
+
+(iii)      The quashing of the arrest memo on the basis of which the appellant had
+
+           been arrested.
+
+
+These three reliefs2 are reflected in prayers (a), (b) and (c) of the petition before
+
+the High Court.
+
+
+
+
+1
+    CR No. 0059 of 2018
+2
+    ―(a)  Issue a writ of habeas corpus and/or any other similar writ, order and direction of like nature, directing
+          the Respondents to produce the Petitioner who has been illegally arrested and wrongfully detained by
+          the Respondent No. 2 in relation to FIR, being C.R. No. 0059 of 2018 dated 5 May 2018, registered at
+          Alibaug Police Station, Raigad, under
+Sections 306
+and
+34
+of the Indian Penal Code, 1860, despite a
+          closure report being filed;
+     (b)  Issue a writ of mandamus and/or any other similar writ, order and direction of like nature, quashing the
+          FIR, being C.R. No. 0059 of 2018, dated 5 May 2018, registered at Alibaug Police Station, Raigad,
+          under
+Sections 306
+and
+34
+of the Indian Penal Code, 1860;
+     (c)  Issue a writ of certiorari and/or any other similar writ, order and direction of like nature, quashing and/or
+          setting-aside the arrest memo, if any, on the basis of which the Respondents have wrongfully and
+          illegally arrested the Petitioner;‖
+
+                                                            3
+                                                                                                        PART A
+
+2          Pending the disposal of the petition, by an interim application in the
+
+proceedings3, the appellant sought his release from custody and a stay of all
+
+further proceedings including the investigation in pursuance of the FIR.
+
+
+3          A Division Bench of the High Court, by its order dated 9 November 2020,
+
+noted that prayer (a) by which a writ of habeas corpus was sought was not
+
+pressed. The High Court posted the hearing of the petition for considering the
+
+prayer for quashing of the FIR on 10 December 2020. It declined to accede to the
+
+prayer for the grant of bail, placing reliance on a decision of this Court in State of
+
+Telangana vs Habib Abdullah Jeelani4 (―Habib Jeelani‖). The High Court was
+
+of the view that the prayers for interim relief proceeded on the premise that the
+
+appellant had been illegally detained and since he was in judicial custody, it
+
+would not entertain the request for bail or for stay of the investigation in the
+
+exercise of its extra-ordinary jurisdiction. The High Court held that since the
+
+appellant was in judicial custody, it was open to him to avail of the remedy of bail
+
+under
+Section 439
+of the CrPC. The High Court declined prima facie to consider
+
+the submission of the appellant that the allegations in the FIR, read as they
+
+stand, do not disclose the commission of an offence under
+Section 306
+of the
+
+IPC. That is how the case has come to this Court. The appellant is aggrieved by
+
+the denial of his interim prayer for the grant of bail.
+
+
+
+
+3
+    ―(a) Pending final hearing and disposal of the captioned writ petition, this Hon'ble Court be pleased to grant
+         bail to the Petitioner in FIR No. 59 of 2018 and direct the Respondents and/or each of them to
+         immediately release the Petitioner from illegal detention and wrongful custody and/or arrest by the
+         Respondents in view of detailed submissions made herein above, to meet the ends of justice.
+   (b)   Pending the final hearing and disposal of the captioned writ petition, this Hon'ble Court be pleased to
+         stay all further proceedings, including the investigation in FIR No. 59 of 2018, with respect to the
+         Petitioner.‖
+4
+  (2017) 2 SCC 779
+
+                                                        4
+                                                                               PART B
+
+B     The parties, the FIR and ‘A’ Summary
+
+
+
+4     The appellant is the Editor-in-Chief of an English television news channel,
+
+Republic TV. He is also the Managing Director of ARG Outlier Media Asianet
+
+News Private Limited which owns and operates a Hindi television news channel
+
+by the name of R Bharat. The appellant anchors shows on both channels.
+
+
+5     The appellant was arrested on 4 November 2020 in connection with FIR 59
+
+of 2018 which was registered at Alibaug Police Station under
+Sections 306
+and
+34
+of the IPC.
+
+
+6     The genesis of the FIR can be traced back to December 2016, when a
+
+company by the name of ARG Outlier Media Private Limited (―ARG‖) awarded a
+
+contract for civil and interior work to another company, Concorde Design Private
+
+Limited (―CDPL‖) which was owned substantially by Anvay Naik (the
+
+―deceased‖).
+
+
+7     The FIR was registered on 5 May 2018 on the complaint of Akshyata
+
+Anvay Naik (the ―informant‖), the spouse of the deceased who is alleged to have
+
+committed suicide. The contents of the FIR read thus:
+
+             ―12. First Information contents:
+
+             Facts : I Smt. Akshata Anvay Naik Age 48 yeas, occupation
+housewife, residing at 901, Rishabh Tower, Senapati Bapat
+             Marg, Elphistone West, Mumbai -25 personally remain
+             present and state in writing that my mobile No. 8169947073, I
+             am residing at the abovementioned address with my
+             deceased Anvay Madhukar Naik, daughter Adnya Naik
+             together. My husband is having company owned under name
+             and dstype as Concorde Design and we were having our
+             livelihood by doing business of architecture interior designing
+             and engineering consultancy,. My husband Anvay Madhukar
+5
+PART B
+
+Naik is having his native place at Village Kavir, Tai. Alibaug
+and at the said place my mother in law Kumud Madhukar
+Naik is residing . therefore my husband used to visit in
+between to my mother in law at Village Kavir Tai. Alibag . As
+also my husband used to bring my mother in law Kumud Naik
+in between with us at Mumbai. My husband for last two years
+was having pressure as he did not received the money of
+work carried out by him and he continuously used to inform
+me and therefore I also called in the office of Amav Gosmani
+and asked his accountant for payment of money of work done
+by us. As also contacted to other businessman also and
+informed that my husband is in great difficulty and as the
+money is not received he is under great mental pressure.
+Yesterday on 04.05.2018 at 3.45 pm in afternoon my
+husband Anvay Madhukar Naik and my mother in law Kumud
+Madhukar Naik left from our house at Mumbai and came at
+Alibag Kavir. At evening 7.30 I called on the mobile No.
+9763437648 of my mother in law and when enquired as to
+whether they have reached at our farm house at Kavir Ali bag
+or otherwise when my mother in law informed me that she
+and my husband reached and as care taker aaji gone out she
+will required to carry out all the work in the house. Today on
+05.05.2018 at morning 9.30 am when I and my daughter
+Adnya were at our house at Mumbai Shri Aruni Patil residing
+at Dadar Hindu Colony, Mumbai called my daughter Adnya
+on her mobile that my mother in law Kumud Naik expired.
+Therefore I and my daughter Adnya sister Mrs. Manjusha
+Durgesh Vaingankar, and her daughter Shreya Vaingankar
+started coming to Alibag through our own vehicle. After we
+reached at Wadkhal I called on mobile of friend of my
+husband Shri Akshit Lakhani and enquired about my husband
+when he informed that my husband Anvay Madhukar Naik
+has also committed suicide . When we reached at our farm
+house at Kavir at around 2.15 pm in afternoon there was
+huge crowd of public and police were gathered. Therefore
+when we went inside and saw that my mother in law Kumud
+Naik was lying on bed near dining room. Thereafter from stair
+case when we went on upper floor saw that my husband
+Anvay Madhukar Naik was lying and one thread was hanged
+on iron pipe of house. Thereafter police enquired with us and
+informed us about the said incident. Thereafter only informed
+that they were taking my husband Anvay Madhukar Naik and
+mother in law Kumud Madhukar Naik to Civil Hospital Alibag.
+When we were present in the said house police shown us
+note written by my husband Anvay Madhukar Naik in his own
+handwriting in English( suicide note). The handwriting in the
+said note is his handwriting and the signature on it is also of
+his only and l identify the same. In the said note he has
+written in English as 3) Suicide Note, 4) we are committing
+suicide due to following 5) our (Concorde designs Pvt Ltd) 6)
+6
+PART B
+
+            We both directors I) Mr. Anvay M. Naik 2) Kumud M. Naik, 7)
+            Money is stuck and following owners of respected companies
+            are not paying our legitimate dues 8) Mr. Amab Goswami
+            ARG Outlier of Republic TV, not paid 83 lacs for Bombay
+            Dyeing Studio project, 9) Feroz Shaikh Icaswt X / Skimedia
+            not paid our 400 lacs in Laxmi, 3rd and 4th floor idea Square
+            project in Andheri 10) Mr. Niteish Sarda owner of smart works
+            Magarpattaq and Baner Project ( 55 Lacs pending) 11) kindly
+            collect money from them and held them responsible for our
+            death and pay to creditors 12) I and my mother are directors
+            in Concorde India company and following persons have till
+            now not paid me money of work done by me. In which it is
+            written as Arnab Goswami ARV Outlife Of Republic TV
+            having Rs.83 Lac of work done, 2) Firoz Khan having 4 crores
+            of work done, 3) Nitesh Sarda 55 lacs of work done should be
+            deposited and should be held responsible for my death and
+            getting the same deposited and pay the dues of public. With
+            regard to the contents written in the said note my husband
+            Anvay Madhukar Naik had continuously informed me for last
+            one or two years. While he used to tell me he was under
+immense pressure. Therefore I am having lawful complaint
+            against. Arnab Goswami, 2. Firoz Khan, 3. Nilesh Sarda the
+            persons whose names written in said suicide note by my
+            husband Anvay Madhukar Naik that the abovementioned
+            amount was due from them and even after continuously
+            demanding the said amount have not paid the said amount
+            and therefore my husband was under great pressure
+            therefore my husband Anvay Naik Age 53 years and my
+            mother in law Kumud Madhukar Naik died and the information
+            of such contents was registered and PI Shri Warade is
+            investigating the said offence.‖
+
+
+The FIR records thus:
+(i)   The appellant (who owns the company ARG) had not paid an amount of
+
+      Rs. 83 lacs for the Bombay Dyeing Studio project. In addition, there was
+
+      an outstanding amount of Rs. 4 crores from Feroz Shaikh and Rs. 55 lacs
+
+      from Nitesh Sarda (who are the appellants in the connected Criminal
+
+      Appeals);
+7
+PART B
+(ii)    The spouse of the informant had not received payment for the work which
+
+        was carried out by him, as a result of which he was under mental pressure
+
+        and that he committed suicide by hanging on 5 May 2018;
+(iii)   There is a ‗suicide note‘ holding the above three individuals responsible;
+and
+(iv)    The informant was informed on 5 May 2018, when she and her daughter
+
+        were at their residence at Mumbai, that her mother-in-law Kumud Naik had
+
+        died at their Alibaug residence. On the way to Alibaug, she was informed
+
+        that her husband had committed suicide. On reaching the house at
+
+        Alibaug, she found the body of her mother-in-law lying on a bed and that
+
+        her spouse had committed suicide by hanging.
+8       On 6 May 2018, officers from the Alibaug Police Station visited ARG‘s
+
+office in Mumbai and served three notices under
+Section 91
+of the CrPC. On 7
+
+and 8 May 2018, two representatives of ARG visited Alibaug Police Station where
+
+they claim to have handed over the information which was sought by the police in
+
+their notices under
+Section 91
+. On 22 May 2018, the appellant submitted a
+
+representation to the notice under
+Section 91
+following which on 30 May 2018
+
+and 28 June 2018, the statements of the Chief Financial Officer and Company
+
+Secretary of ARG were recorded.
+9       On 16 April 2019, the SHO at Alibaug Police Station filed a report in the
+
+Court of the Chief Judicial Magistrate (―CJM‖) for an ‗A‘ summary. The CJM
+
+passed an order accepting the report and granted an ‗A‘ summary. The meaning
+
+and import of an ‗A‘ summary is reflected in Para 219 (3) of the Bombay Police
+
+Manual, 1959. An ‗A‘ Summary indicates a case where an offence has been
+8
+PART B
+
+committed but it is undetected, in that there is no clue about the culprits or the
+
+property, or where the accused is known but there is no evidence to justify their
+
+being sent up to the Magistrate for trial. Para 219 (3) of the Bombay Police
+
+Manual reads thus:
+"RULE 219 (3) OF BOMBAY POLICE MANUAL
+
+             (3) The final report should be written up carefully by the
+             officers incharge of the Police Station personally and should
+             be accompanied by all the case papers numbered and
+             indexed methodically. If the accused has been released on
+             bail, the Magistrate should be requested to cancel the bail
+             bond. He should also be requested to pass orders regarding
+             the disposal of property attached, unless any of the articles,
+             e.g., blood stained clothes, are required for further use in true
+             but undetected cases. A request should also be made to the
+             Magistrate to classify the case and to issue an appropriate
+             summary of his order, viz:-
+"A" True. undetected (where there is no clue whatsoever
+             about the culprits or property or where the accused in known
+             but there is no evidence to justify his being sent up to the
+             Magistrate (for trial).
+"B" Maliciously false.
+"C" Neither true nor false, e.g., due to mistake to fact or being
+             of a civil nature.
+"Non-cognizable" Police investigation reveals commission of
+             only non-cognizable offence."
+10    Following the ‗A‘ summary, there was an exchange of correspondence
+
+between ARG and the informant. ARG by their letter dated 11 June 2019,
+
+addressed to CDPL, the informant and her daughter, indicated that several
+
+meetings had been held in the past between them during the course of which
+
+ARG had sought indemnities from CDPL against any future claims. In its letter,
+
+ARG stated that it would be transferring a sum of Rs. 39.01 lacs into CDPL‘s last
+
+known bank account against an indemnity for future claims by the creditors or
+
+lenders of CDPL. In response, on 15 June 2019, the informant addressed a
+9
+PART C
+
+communication to ARG stating that out of a total billed amount of Rs. 6.45 crores,
+
+an amount of Rs. 5.75 crores had been received from ARG, and after adjustment
+
+of an amount of Rs. 70.39 lacs towards deductions made from the bill, an amount
+
+of Rs. 88.02 lacs was due and payable. On 6 November 2019, ARG addressed
+
+another letter to the informant recording the closure of the police investigation
+
+and reiterating its readiness to pay an amount of Rs.39.01 lacs subject to due
+
+authorisation. The matter appears to have rested there until a flurry of
+
+developments took place in the month of April 2020.
+C     Previous proceedings against the appellant
+
+
+
+11    During the course of the present proceedings, the appellant has adverted
+to proceedings initiated against him previously by the State of Maharashtra, in
+
+order to support his case that the arrest is vitiated by malice in fact.
+
+
+12    On 16 April 2020, a broadcast took place on Republic TV, followed by a
+
+broadcast on Republic Bharat on 21 April 2020 in relation to an incident which
+
+took place in Gadchinchle village of Palghar district in Maharashtra. During the
+
+course of this incident on 16 April 2020, three persons, including two Sadhus,
+
+were brutally killed by a mob, allegedly in the presence of the police and forest
+
+guard personnel. According to the appellant, on his news show titled ―Poochta hai
+
+Bharat‖ on 21 April 2020, he had raised issues in relation to the allegedly tardy
+
+investigation of the incident by the police.
+13    As this Court noticed in a judgment dated 19 May 2020, the broadcasts led
+
+to the lodging of multiple FIRs and criminal complaints against the appellant in
+10
+PART C
+
+the States of Maharashtra, Chhattisgarh, Rajasthan,                            Madhya Pradesh,
+
+Telangana and Jharkhand as well as in the Union Territories of Jammu and
+
+Kashmir. The content of the FIRs was similar, almost identical. In the State of
+
+Maharashtra, an FIR was lodged at Police Station Sadar, District Nagpur City,
+
+details of which were as follows:
+"Maharashtra
+                     FIR No. 238 of 2020, dated 22 April 2020, registered at Police
+                     Station Sadar, District Nagpur City, Maharashtra, under
+Sections 153
+,
+153-A
+,
+153-B
+,
+295-A
+,
+298
+,
+500
+,
+504(2)
+,
+506
+,
+120-B
+and
+117
+of the Indian Penal Code 1860."
+Apart from the above FIR, fourteen other FIRs and complaints were lodged
+
+against the appellant in relation to his broadcasts.
+
+
+14         The appellant moved this Court in proceedings under
+Article 32
+of the
+
+Constitution5 challenging the registration of these FIRs. By an interim order dated
+
+24 April 2020, the FIR which had been lodged at Police Station Sadar, District
+
+Nagpur City was transferred to NM Joshi Marg Police Station, Mumbai and was
+
+renumbered as FIR 164 of 2020. Another FIR, FIR 137 of 2020, was registered
+
+against the appellant on 2 May 2020 at the Pydhonie Police Station, Mumbai. FIR
+
+137 of 2020 was filed against the appellant due to a telecast which took place on
+
+29 April 2020 on the appellant‘s new channels, in which the appellant referred to
+
+a gathering of migrant workers at the Bandra Railway station during the Covid-19
+
+pandemic, and attempted to connect a place of religious worship with this
+5
+Writ Petition (Crl.) No. 130 of 2020
+11
+PART C
+
+gathering. The appellant filed another petition under
+Article 32
+of the
+
+Constitution6, challenging the registration of FIR 137 of 2020.
+
+
+15         By its judgment dated 19 May 2020, this Court quashed all the FIRs,
+
+except for the FIR which was transferred from Nagpur to Mumbai, on the ground
+
+that successive FIRs/complaints in respect of the same cause could not be
+
+maintained. The court granted liberty to the appellant to pursue such remedies as
+
+were available in law before the competent forum for quashing FIR 164 of 2020.
+
+
+16         By an order dated 30 June 2020, a Division Bench of the Bombay High
+
+Court, while entertaining a petition under Articles 226/227 of the Constitution and
+Section 482
+of the CrPC, suspended all further proceedings in FIR 164 of 2020
+
+before the NM Joshi Marg Police Station and FIR 137 of 2020 before the
+
+Pydhonie Police Station and confirmed its interim order dated 6 June 2020
+
+restraining the State from taking coercive steps against the appellant in relation to
+
+the two FIRs, pending the disposal of the petition.
+17         Aside from this incident, the appellant has relied on certain other
+
+developments which have taken place thereafter. These are:
+(i)        The arrest on 9 September 2020 by the Maharashtra Police of two
+
+           employees of the appellant‘s news channel alleged to be pursuing an
+
+           investigative lead in Raigad, Maharashtra and the registration of FIR 142
+
+           of 2020 at Khalapur Police Station, Raigad under
+Sections 452
+,
+448
+,
+323
+,
+504
+and
+506
+read with
+Section 34
+of the IPC;
+6
+Writ Petition (Crl.) Diary No. 1189 of 2020
+12
+PART C
+(ii)        The issuance of a letter by the ―Shiv Cable Sena‖ to cable operators
+
+            across Maharashtra asking them to ban the telecast of the appellant‘s
+
+            news channel;
+(iii)       An order of the Bombay High Court dated 11 September 2020 in a Writ
+
+            Petition under
+Article 226
+holding that the letter of the Shiv Cable Sena did
+
+            not have the force of law and the appellant would be at liberty to pursue
+
+            the remedies available in law;
+(iv)        On 16 September 2020, a notice to show cause was issued to the
+
+            appellant for breach of privilege of the legislative assembly, which is the
+
+            subject of proceedings instituted in this court;
+(v)         A notice to show cause was issued under
+Section 108(1)
+of the CrPC to
+
+            the appellant by the Special Executive Magistrate, in spite of the order of
+
+            the Bombay High Court;
+(vi)        The registration of FIR 843 of 2020 on 6 October 2020 at Kandivali Police
+
+            Station (later transferred to the Crime Intelligence Unit, Mumbai) on a
+
+            complaint by an employee of Hansa Research Group Private Limited in
+
+            relation to the ‗TRP scam‘;
+(vii)       A press conference by the Commissioner of Police Mumbai on 8 October
+
+            2020 mentioning the name of the appellant as being allegedly involved in
+
+            the ‗TRP scam‘;
+(viii)      The appellant instituted a Writ Petition under
+Article 32
+of the Constitution7
+
+            before this Court seeking reliefs in respect of FIR 843 of 2020. By an order
+7
+Writ Petition (Crl.) 312 of 2020
+13
+PART D
+
+       dated 15 October 2020, the Writ Petition was dismissed as withdrawn with
+
+       liberty to the appellant to approach the Bombay High Court; and
+(ix)   The appellant filed Writ Petition (Crl.) Stamp No. 3143 of 2020 before the
+
+       Bombay High Court, in which on 19 October 2020 an order was passed
+
+       calling upon the Investigating Officer to submit the investigation paper in a
+
+       sealed envelope on 4 November 2020. The High Court noted that the
+
+       appellant had as on date not been arrayed as an accused in the FIR and if
+
+       the investigating officer proposed to make an enquiry, a summons shall be
+
+       issued to him. The appellant agreed to cooperate in the enquiry.
+
+
+
+D      Re-opening of investigation and arrest of the appellant
+
+
+18     On 26 May 2020, the Home Department of the State of Maharashtra
+
+addressed a communication to Deputy Inspector General of Police stating that
+
+the FIR registered as Crime No. 59 of 2020, at Alibaug Police Station under
+Sections 306
+/
+34
+of the IPC, was being transferred to the crime investigation
+
+department ―for the purpose of reinvestigation‖. The letter, insofar as is material,
+
+reads thus:
+―In respect of the above mentioned subject, you are hereby
+              informed that crime no. 59/2020 registered at Alibaug Police
+              Station under
+Section 306
+/
+34
+and Crime no. 114 of 2018
+              registered at Alibaug Police Station under
+Section 302
+are
+              being transferred to Crime Investigation Department for the
+              purposes of reinvestigation. Hence, you are requested to
+              undertake the necessary steps for handing over the case for
+              reinvestigation and report in respect of investigation already
+              been made be submitted to the Government.‖
+14
+PART D
+19    On 15 October 2020, the Local Crime Investigation Branch, Raigad
+
+addressed a communication to the CJM, Alibaug recording the commencement
+
+of further investigation under
+Section 173(8)
+of the CrPC in respect of Crime No.
+
+59 of 2018 under
+Section 306
+read with
+Section 34
+of the IPC.
+
+
+20    On 4 November 2020, the appellant was arrested at about 7:45 am in
+
+connection with FIR 59 of 2018 dated 5 May 2018. At 2:37 pm, the appellant filed
+
+a Writ Petition before the Bombay High Court, invoking the provisions of Articles
+
+226/227 of the Constitution and
+Section 482
+of the CrPC.
+
+
+21    After the appellant‘s arrest, a remand application was filed before the CJM,
+
+Raigad. By an order dated 4 November 2020, the CJM declined to grant police
+
+custody. Noting that there had been an ‗A‘ summary previously, the CJM while
+
+rejecting the plea of police custody, remanded the appellant to judicial custody till
+
+18 November 2020. The State has challenged the order of the CJM declining
+
+police custody in a revision before the Additional Sessions Judge, Raigad.
+
+
+22    The writ petition filed by the appellant before the Bombay High Court was
+
+heard on 5, 6 and 7 November 2020. On 7 November 2020, the High Court
+
+reserved orders and granted liberty to the appellant to file an application for
+
+regular bail under
+Section 439
+of the CrPC with a direction that it should be heard
+
+expeditiously within four days of the date of filing. Following the above direction,
+
+the appellant moved the Sessions Court, Raigad for bail under
+Section 439
+of the
+
+CrPC. By its impugned judgment and order dated 9 November 2020, the High
+
+Court posted the hearing of the petition filed by the appellant in regard to the
+
+prayer of quashing of the FIR on 10 December 2020. While doing so, the High
+15
+PART E
+
+Court denied bail to the appellant on the ground that no case has been made out
+
+for the exercise of the extra-ordinary jurisdiction and that the appellant had an
+
+alternate and efficacious remedy under
+Section 439
+of the CrPC.
+E       Submissions of counsel
+
+
+23      Assailing the order of the High Court denying bail to the appellant, Mr
+Harish N Salve, learned Senior Counsel, submitted that:
+(i)     The arrest of the appellant is rooted in malice in fact, which is evident from
+
+        the manner in which the appellant as the Editor-in-Chief of Republic TV
+
+        and R Bharat has been targeted for his news broadcasts criticizing the
+
+        Maharashtra government and the Maharashtra police;
+(ii)    Following the acceptance of the police report and the issuance of an ‗A‘
+
+        summary on 16 April 2019, the reinvestigation which has been ordered at
+
+        the behest of the Home Minister of the State of Maharashtra is ultra vires.
+Further, in the absence of the specific permission of the CJM, it was not
+
+        open to the State to conduct a reinvestigation; and
+(iii)   The allegations contained in the FIR, read as they stand, do not establish
+
+        an offence under
+Section 306
+read with
+Section 34
+of the IPC. To
+
+        constitute the offence of abetment there must exist:
+i.    A direct or indirect incitement to the commission of a crime;
+ii.    An active role of the accused in instigating or doing an act facilitating
+
+               the commission of the crime; and
+
+        iii.   The existence of a proximate relationship in time.
+16
+PART E
+
+In the present case, it was submitted that even if the allegations in the FIR are
+
+accepted as they stand, no case of abetment is established. It has been
+
+submitted that the company of the appellant (ARG) had entrusted a contract for
+
+interior work to the deceased‘s company (CDPL). Further, it is not in dispute that
+
+while an amount of Rs 5.45 crores has been paid, there was a commercial
+
+dispute pending in regard to the remaining payment between the two companies.
+The contents of the FIR also reveal that the deceased was suffering from mental
+
+pressure. Furthermore, there is absolutely no allegation that the appellant had
+
+either instigated or committed any act to facilitate the commission of the crime.
+24    Mr Salve further submitted that the judgment of this Court in Habib Jeelani
+
+(supra) has been wrongly interpreted by the High Court. It has been submitted
+
+that it was in pursuance of the liberty that was granted by the High Court, that an
+
+application for bail under
+Section 439
+of the CrPC was filed. However, even on 9
+
+November 2020, the Public Prosecutor has filed a note before the Sessions
+
+Judge that the revision application filed by the State against the order of the CJM
+
+should be heard first and it is only thereafter that the application for bail should be
+
+taken up. On the basis of the above submissions, it has been urged that the
+
+appellant has been made a target of the vendetta of the State government, which
+
+emerges from the successive events adverted to above which have taken place
+
+since April 2020. Hence, it has been urged that there is absolutely no ground to
+
+continue the arrest of the appellant and absent any reasonable basis for
+
+depriving him of his liberty, an order for the grant of bail should have been
+
+passed by the High Court. Mr. Salve finally submitted that the interest in
+
+preserving the procedural hierarchy of courts must give way to the need to
+17
+PART E
+
+protect the appellant‘s personal liberty given the well settled legal position that
+
+the default rule is ‗bail, not jail‘.
+25        Opposing the above submissions, Mr Amit Desai, learned Senior Counsel
+
+appearing on behalf of the second respondent submits that:
+(i)       The High Court has advisably not enquired into whether:
+i. The investigation is tainted by mala fides; and
+
+           ii. The contents of the FIR as they stand make out an offence within the
+
+               meaning of
+Section 306
+read with
+Section 34
+of the IPC;
+(ii)      The High Court declined to express a prima facie view on the issue of mala
+
+          fides since an opportunity was being granted to the State to file its counter.
+Similarly, the issue as to whether the FIR is liable to be quashed would be
+
+          taken up at the final hearing on 10 December 2020 and hence the High
+
+          Court has correctly refrained from expressing a prima facie view;
+(iii)     Between 15 October 2020 and 4 November 2020, a further investigation
+
+          has been carried out and statements have been recorded under
+Section
+
+          164
+of the CrPC;
+(iv)      In accordance with this Court‘s judgment in the case of Praveen Pradhan
+
+          vs State of Uttaranchal and Ors.8 (―Praveen Pradhan‖), instigation to
+
+          commit suicide has to be gathered from the circumstances of a particular
+
+          case. Hence, while there may not be direct evidence in regard to
+
+          instigation which may have direct nexus to suicide, an inference has to be
+
+          drawn from the circumstances to determine whether they were of a nature
+
+          which created a situation in which a person felt totally frustrated and ended
+8
+(2012) 9 SCC 734
+18
+PART E
+
+         up committing suicide. Further, while making a determination as to the
+
+         quashing of proceedings, the Court has to form only a tentative opinion
+
+         and not a firm view;
+(v)      A hierarchy of courts is provided for to consider an application for bail
+
+         under
+Section 439
+of the CrPC. In the present case, there is no valid basis
+
+         to by-pass that hierarchy in order to grant relief to the appellant;
+(vi)     An application for bail was initially filed on behalf of the appellant which
+
+         was withdrawn after the order for judicial custody was passed. An
+
+         application for bail has been filed after the High Court while reserving
+
+         judgment granted liberty to do so with a direction for its disposal within four
+
+         days. Hence, it is appropriate that the appellant is relegated to pursue the
+
+         remedies under
+Section 439
+;
+(vii)    Prayer (a) in the Writ Petition for the grant of a writ of Habeas Corpus was
+
+         not maintainable in view of the fact that the appellant had been arrested
+
+         and committed to judicial custody, and the interim application for his
+
+         release on bail was only in the context of the prayer for Habeas Corpus;
+(viii)   During the course of the hearing of the proceedings before the Bombay
+
+         High Court, the Division Bench indicated that if the appellant were to file an
+
+         application under
+Section 439
+, appropriate administrative directions of the
+
+         Chief Justice could be obtained for listing it before the Division Bench
+
+         since applications for bail are placed for hearing before a Single Judge
+
+         (while the petition was before a Division Bench) and the appellant had only
+
+         filed an interim application in the pending Writ Petition for being released
+
+         on bail;
+19
+PART E
+(ix)      Both the issue of whether the appellant has made out a case for quashing
+
+          the FIR and whether a reinvestigation could have been ordered at the
+
+          Home Department of the State would be considered by the High Court on
+
+          10 December 2020;
+(x)       The High Court has drawn a balance between the rights of the accused
+
+          and the family of the deceased victim. A substantive Writ Petition has been
+
+          filed by the informant, stating that it was only through a tweet on the social
+
+          media that she had learned of the ‗A‘ summary and that she had not been
+
+          heard before the order was passed by the Magistrate accepting the police
+
+          report;
+(xi)      Even when ‗A‘ Summary has been accepted in terms of Para 219(3) of the
+
+          Bombay Police Manual, there is no restraint on a further investigation
+
+          being carried out by the Investigating Officer under
+Section 173(8)
+of the
+
+          CrPC. An ‗A‘ summary postulates that there was no completed
+
+          investigation. Hence, requiring prior judicial sanction as a precondition for
+
+          conducting further investigation after the filing of an ‗A‘ summary will
+
+          impede the ability of investigating authorities to effectively perform their
+
+          role. Such a course of action is also permissible in view of the decision of
+
+          this Court in Vinubhai Haribhai Malaviya vs State of Gujarat9; and
+(xii)     The High Court was justified in coming to the conclusion that there was
+
+          nothing extraordinary in the facts of the present case to shock the
+
+          conscience of the Court so as to take recourse to its extraordinary
+
+          jurisdiction under
+Article 226
+to direct the release of the appellant on
+9
+2019 SCC OnLine SC 1346
+20
+PART E
+
+      interim bail. Any other view would lead to the jurisdiction of the High Court
+
+      under
+Article 226
+being extended to grant the remedy of an application for
+
+      bail, which is already available under
+Section 439
+of the CrPC.
+
+
+26    In the same vein as the submissions which have been urged on behalf of
+
+the second respondent by Mr Amit Desai, Mr Kapil Sibal, learned Senior Counsel
+
+appearing on behalf of the first respondent, has submitted that the High Court
+
+has been justified in coming to the conclusion that there was no warrant to
+
+interfere in the course of the investigation in the present case. Mr Sibal also
+
+argued that Mr Salve has wrongly focused on other cases implicating the
+
+appellant in the course of his arguments. Learned Senior Counsel has urged that
+
+the appellant must pursue his remedy in accordance with law under
+Section 439
+of the CrPC for which the liberty has been granted by the High Court. Further, Mr
+
+Sibal submitted that an ‗A‘ summary is in fact not a closure report and
+
+investigation does not stand concluded. Hence, he submitted that the
+
+Investigating Officer was within jurisdiction in carrying out further investigation.
+
+Finally, Mr Sibal argued that while he is alive to the fact that the personal liberty
+
+of the appellant is at stake in the present case, this Court does refuse to interfere
+
+in many cases exhibiting similar features. Therefore, he argued that this Court
+
+should stay its hand in the present case.
+27    Mr CU Singh, learned Senior Counsel appearing on behalf of the fifth
+
+respondent, the informant, has joined the submissions of the first and second
+
+respondents in opposing these appeals. It was submitted that:
+21
+PART E
+(i)     After the order of judicial remand on 4 November 2020, an application for
+
+        bail was filed on behalf of the appellant and withdrawn;
+(ii)    On 7 November 2020, the Sessions Court issued a notice on the revision
+
+        application filed by the State against the order declining to grant remand to
+
+        police custody;
+(iii)   On 7 November 2020, the High Court posted the proceedings for
+
+        pronouncement of judgment on 9 November 2020 and granted liberty to
+
+        the appellant to file an application for bail. Thereafter, an application for
+
+        bail was filed on 8 November 2020 by the appellant. A Special Leave
+
+        Petition was filed in this Court thereafter. The High Court has correctly
+
+        declined to enquire into the plea for quashing the FIR and the alleged mala
+
+        fides on the ground that counters are still to be filed; and
+(iv)    On 15 October 2020, the Crime Detection Unit intimated the CJM that it
+
+        was commencing further investigation on which the CJM has made an
+
+        endorsement that it had been ―noted and filed‖. Statements were recorded
+
+        under
+Section 164
+of the CrPC.
+Section 173(8)
+of the CrPC confers a
+
+        broad power of further investigation on the Investigating Officer. Having
+
+        regard to the context of an ‗A‘ summary, this power has been legitimately
+
+        exercised in the present case. The exercise of the power of further
+
+        investigation under
+Section 173(8)
+of the CrPC would not require judicial
+
+        sanction.
+28      Together with the present Civil Appeal, this Court has also heard
+
+submissions in two companion Civil Appeals. In the two companion appeals,
+22
+PART F
+
+submissions have been made before this Court by Mr Gopal Sankaranarayanan
+
+and Mr Mukul Rohatgi, learned Senior Counsel.
+F       Criminal Appeal No. 743 of 2020 (Arising out of SLP (Crl) No. 5599 of 2020)
+
+
+29      Mr Gopal Sankaranarayanan, learned Senior Counsel, submitted that the
+
+appeal has been filed by the sister of Mr Feroz Shaikh who has been named as
+
+an accused.
+30      Mr Feroz Shaikh is a Director in iCastX Technologies Private Limited. In
+
+2016, iCastX Technologies hired the services of M/s Atos India Private Limited
+
+for the work of construction, renovation and refurbishing of their office premises
+
+at Andheri East, Mumbai. Atos India Private Limited in turn sub-contracted the
+
+work to CDPL. Hence, it has been submitted that there was privity of relationship
+
+between iCastX Technologies and CDPL. Mr Sankaranarayanan submitted that
+
+the three appellants represent the interest of three distinct individuals connected
+
+with three different companies.
+31      Mr Sankaranarayanan has supported the submissions on the essential
+
+requirements of
+Section 107
+of the IPC by relying on the decisions in
+Madan
+
+Mohan Singh vs State of Gujarat10
+,
+Sunil Bharti Mittal vs Central Bureau of
+
+Investigation11
+and Common Cause vs Union of India12 (―Common Cause‖).
+
+Mr. Sankaranarayanan further argued that there was no reference about his
+
+client in the FIR filed on 5 May 2018 at the behest of the informant.
+Finally, he
+
+relied on this Court‘s judgment in
+Vineet Narain and Ors. vs Union of India
+and
+10
+(2010) 8 SCC 628
+11
+(2015) 4 SCC 609
+12
+(2018) 5 SCC 1
+23
+PART G
+
+Ors.13 to urge that executive interference in the course of an investigation or
+
+prosecution is impermissible.
+G         Criminal Appeal No. 744 of 2020 (Arising out of SLP (Crl) No. 5600 of 2020)
+
+
+
+32        Mr Mukul Rohatgi, learned Senior Counsel appearing on behalf of the
+
+appellant, submitted that admittedly all the three accused named in the FIR are
+
+unconnected. The appellant is a Director in a private limited company by the
+
+name of SmartWork Business Centre Private Limited with less than one per cent
+
+of the shareholding standing in his own name.
+33        The company which has offices in New Delhi and Kolkata had engaged the
+
+services of several vendors/contractors in order to furnish their business centre at
+
+Pune, one of whom was CDPL and a purchase order of Rs 4.17 crores was
+
+issued. Thereafter, there were substantial delays and discrepancies in the
+
+execution of the work by CDPL which led to an exchange of mails. Furthermore,
+
+an invoice of over Rs 5 crores was raised including an amount of Rs 83.02 lacs
+
+towards GST. Pursuant to this, a payment of Rs 4.40 crores was made but there
+
+was a genuine commercial dispute between the two companies in relation to the
+
+remaining amount.
+34        It has been submitted that on the face of it, there is no basis in the FIR to
+
+even remotely implicate the appellant in the alleged offences under
+Section 306
+read with
+Section 34
+of the IPC. There is not even an indication of a personal
+13
+(1998) 1 SCC 226
+24
+PART G
+
+interaction or connection between the appellant and the deceased. Furthermore,
+
+a civil suit regarding the disputed debt between their companies is pending.
+
+
+35    The invocation of the jurisdiction of the High Court under Articles 226/227
+
+of the Constitution and
+Section 482
+of the CrPC is in support of two distinct
+
+reliefs. The first relief is for a writ of habeas corpus. This relief has been claimed
+
+on the basis that the arrest and consequent detention of the appellant was due to
+
+a reinvestigation which was commenced after placing reliance on the letter dated
+
+26 May 2020 of the Home Department of the Government of Maharashtra to the
+
+Director General of Police. The submission is that once the CJM accepted the
+
+report submitted by the Investigating Officer and issued an ‗A‘ summary on 16
+
+April 2019, it was not open to the Investigating Officer to commence a
+
+reinvestigation without judicial sanction.
+36    Joining issue with this submission is the argument of the State that the
+
+power of the investigating officer to order a further investigation under
+Section
+
+173(8)
+of the CrPC is independent of the jurisdiction of the Magistrate. In the view
+
+of the State,
+Section 4
+of the Bombay Police Act, 1951 entrusts the
+
+superintendence of the police force to it and in the exercise of that power, it was
+
+legitimately open to the Home Department to direct a further investigation (though
+
+the letter uses the expression ‗re-investigation‘) to be conducted based on the
+
+complaint of the victim that the offence had not been properly investigated.
+
+Moreover, the State has relied on the provisions of
+Section 36
+of the CrPC under
+
+which police officers superior in rank to an officer in charge of a police station are
+
+entitled to exercise the same powers throughout the local area to which they are
+
+appointed.
+25
+PART G
+
+37    According to the appellant, when proceedings before the High Court came
+
+to be instituted, an order of remand had not been passed and it was only
+
+subsequently on the night of 4 November 2020 that an order granting judicial
+
+custody was passed by the CJM. Be that as it may, the High Court has recorded
+
+that prayer (a) for the issuance of a writ of Habeas Corpus was not pressed on
+
+behalf of the appellant. Once the prayer for a writ of habeas corpus was not
+
+pressed (as the High Court records), it was unnecessary for the High Court to
+
+devote several pages in the impugned judgment on discussing the issue.
+
+
+38    The remaining prayer before the High Court was for quashing the FIR. Mr
+
+Rohatgi submitted that the order of arrest is illegal and the appellant is entitled to
+
+have it so declared by invoking the jurisdiction under
+Article 226
+of the
+
+Constitution and
+Section 482
+of the CrPC. It was urged that the power under
+
+Section 173(8) is to cause a ―further investigation‖ and no power has been vested
+
+to either reinvestigate or cause a fresh investigation to be made. The power to
+
+reinvestigate or to cause fresh investigation, it was urged, is vested only in the
+
+constitutional courts. Contrary to the provisions of Section 173(8), it was urged,
+
+the Home Department in its letter to the deputy Inspector General has directed a
+
+reinvestigation. In the present case, the communication of the Home Department
+
+makes it abundantly clear that a reinvestigation was ordered under the authority
+
+of the State Home Minister which, according to the submission, is ultra vires the
+
+provisions of law. Mr Rohatgi has emphasised that the application for remand
+
+makes it clear that what is ordered was a reinvestigation, since the application
+
+has repeatedly used the expression ―comprehensive reinvestigation‖ and the fact
+
+that ―reinvestigation has become necessary‖.
+26
+PART H
+
+39    Finally, it was urged that the order of the Home Minister in the State was
+
+issued on 26 May 2020 whereas the investigation commenced on 15 October
+
+2020 and the arrest was made on 4 November 2020 in respect of an FIR lodged
+
+in May 2018 on which an ‗A‘ summary had been accepted on 16 April 2019. In
+
+sum and substance, it has been submitted that after the order of closure on 16
+
+April 2019, a reinvestigation could not have been ordered in the case. The arrest
+
+has been termed unlawful.
+H     Jurisdiction of the High Court under
+Article 226
+and
+Section 482
+CrPC
+
+
+40    While considering the rival submissions, it is essential for the purpose of
+
+the present appeals to elucidate on the nature of the jurisdiction that is vested in
+
+the High Court under
+Article 226
+of the Constitution and
+Section 482
+of the CrPC.
+
+This issue must be analysed from the perspective of the position that the
+
+proceeding before the High Court, after the prayer for the grant of a writ of
+
+Habeas Corpus was given up, is for quashing the FIR being CR No. 0059 of 2018
+
+lodged on 5 May 2018.
+41    The High Court has dwelt at length on the decision of this Court in Habib
+
+Jeelani (supra). The High Court observed that the powers to quash ―are to be
+
+exercised sparingly and that too, in rare and appropriate cases and in extreme
+
+circumstances to prevent abuse of process of law‖. Applying this principle, the
+
+High Court opined:
+―45. The principle stated therein will equally apply to the
+             exercise of this Court's power under
+Article 226
+of the
+             Constitution of India and
+section 482
+of the Code of Criminal
+             Procedure while considering the applications for bail since the
+27
+PART H
+
+             petitioner is already in Judicial custody. The legislature has
+             provided specific remedy under
+Section 439
+Cr.P.C. for
+             applying for regular bail. Having regard to the alternate and
+             efficacious remedy available to the petitioner under
+section
+             439
+of the Code of Criminal Procedure, this Court has to
+             exercise judicial restraint while entertaining application in the
+             nature of seeking regular bail in a petition filed under
+Article
+             226
+of the Constitution of India read with
+section 482
+of Code
+             of Criminal Procedure.‖
+
+On the basis of the above foundation, the High Court has declined to even prima
+
+facie enquire into whether the allegations contained in the FIR, read as they
+
+stand, attract the provisions of Section 306 read with
+Section 34
+of the IPC. In its
+
+view, since the petition was being posted for hearing on 10 December 2020, it
+
+was not inclined to enquire into this aspect of the case and the appellant would
+
+be at liberty to apply for regular bail under Section 439.
+42    Now, it is in this background that it becomes necessary for this Court to
+
+evaluate what, as a matter of principle, is the true import of the decision of this
+
+Court in Habib Jeelani (supra). This was a case where, on the basis of a report
+
+under
+Section 154
+off the
+CrPC
+, an FIR was registered for offences punishable
+
+under
+Sections 147
+,
+148
+,
+149
+and
+307
+of the IPC. Challenging the initiation of the
+
+criminal action, the inherent jurisdiction of the High Court to quash an FIR was
+
+invoked. The High Court (as paragraph 2 of the judgment of this Court in Habib
+
+Jeelani (supra) indicates) expressed its ―disinclination to interfere on the ground
+
+that it was not appropriate to stay the investigation of the case‖. It was in this
+
+background that the following issue was formulated in the first paragraph of the
+
+judgment of this Court, speaking through Justice Dipak Misra (as he then was),
+
+for consideration:
+28
+PART H
+
+            ―1. The seminal issue that arises for consideration in this
+            appeal, by special leave, is whether the High Court while
+            refusing to exercise inherent powers under
+Section 482
+of the
+            Code of Criminal Procedure (
+CrPC
+) to interfere in an
+            application for quashment of the investigation, can restrain the
+            investigating agency not to arrest the accused persons during
+            the course of investigation.‖
+
+
+
+Between paragraphs 11 and 15, this Court then evaluated the nature of the
+
+jurisdiction under
+Section 482
+of the CrPC or under
+Article 226
+of the Constitution
+
+for quashing an FIR and observed:
+―11. Once an FIR is registered, the accused persons can
+            always approach the High Court under
+Section 482
+CrPC or
+            under
+Article 226
+of the Constitution for quashing of the FIR.
+In
+Bhajan Lal [State of Haryana v. Bhajan Lal
+, 1992 Supp (1)
+            SCC 335 : 1992 SCC (Cri) 426 : AIR 1992 SC 604] the two-
+            Judge Bench after referring to Hazari Lal Gupta v. Rameshwar
+            Prasad [Hazari Lal Gupta v. Rameshwar Prasad, (1972) 1
+            SCC 452 : 1972 SCC (Cri) 208] , Jehan Singh v. Delhi
+            Admn.
+[
+Jehan Singh v. Delhi Admn.
+, (1974) 4 SCC 522 : 1974
+            SCC (Cri) 558 : AIR 1974 SC 1146] , Amar Nath v. State of
+            Haryana [Amar Nath v. State of Haryana, (1977) 4 SCC 137 :
+            1977 SCC (Cri) 585] , Kurukshetra University v. State of
+            Haryana [Kurukshetra University v. State of Haryana, (1977) 4
+            SCC 451 : 1977 SCC (Cri) 613] , State of Bihar v. J.A.C.
+            Saldanha [State of Bihar v. J.A.C. Saldanha, (1980) 1 SCC
+            554 : 1980 SCC (Cri) 272 : AIR 1980 SC 326] , State of
+            W.B. v. Swapan Kumar Guha [State of W.B. v. Swapan Kumar
+            Guha, (1982) 1 SCC 561 : 1982 SCC (Cri) 283 : AIR 1982 SC
+            949]           , Nagawwa v. Veeranna             Shivalingappa
+            Konjalgi [Nagawwa v. Veeranna        Shivalingappa     Konjalgi,
+            (1976) 3 SCC 736 : 1976 SCC (Cri) 507 : AIR 1976 SC 1947]
+            , Madhavrao Jiwajirao Scindia v. Sambhajirao Chandrojirao
+            Angre [Madhavrao          Jiwajirao     Scindia v. Sambhajirao
+            Chandrojirao Angre, (1988) 1 SCC 692 : 1988 SCC (Cri) 234]
+            , State of Bihar v. Murad Ali Khan [State of Bihar v. Murad Ali
+            Khan, (1988) 4 SCC 655 : 1989 SCC (Cri) 27 : AIR 1989 SC 1]
+            and some other authorities that had dealt with the contours of
+            exercise of inherent powers of the High Court, thought it
+            appropriate to mention certain category of cases by way of
+            illustration wherein the extraordinary power under
+Article 226
+of the Constitution or inherent power under
+Section 482
+CrPC
+            could be exercised either to prevent abuse of the process of
+            any court or otherwise to secure the ends of justice. The Court
+29
+PART H
+
+also observed that it may not be possible to lay down any
+precise, clearly defined and sufficiently channelised and
+inflexible guidelines or rigid formulae and to give an exhaustive
+list of myriad cases wherein such power should be exercised.
+12. The illustrations given by the Court need to be
+recapitulated: (
+Bhajan Lal
+case [
+State of Haryana v. Bhajan
+Lal
+, 1992 Supp (1) SCC 335 : 1992 SCC (Cri) 426 : AIR 1992
+SC 604] , SCC pp. 378-79, para 102)
+―(1) Where the allegations made in the first information report
+or the complaint, even if they are taken at their face value and
+accepted in their entirety do not prima facie constitute any
+offence or make out a case against the accused.
+(2) Where the allegations in the first information report and
+other materials, if any, accompanying the FIR do not disclose
+a cognizable offence, justifying an investigation by police
+officers under
+Section 156(1)
+of the Code except under an
+order of a Magistrate within the purview of
+Section 155(2)
+of
+the Code.
+(3) Where the uncontroverted allegations made in the FIR or
+complaint and the evidence collected in support of the same
+do not disclose the commission of any offence and make out a
+case against the accused.
+(4) Where, the allegations in the FIR do not constitute a
+cognizable offence but constitute only a non-cognizable
+offence, no investigation is permitted by a police officer without
+an order of a Magistrate as contemplated under
+Section 155(2)
+of the Code.
+(5) Where the allegations made in the FIR or complaint are so
+absurd and inherently improbable on the basis of which no
+prudent person can ever reach a just conclusion that there is
+sufficient ground for proceeding against the accused.
+(6) Where there is an express legal bar engrafted in any of the
+provisions of the Code or the Act concerned (under which a
+criminal proceeding is instituted) to the institution and
+continuance of the proceedings and/or where there is a
+specific provision in the Code or the Act concerned, providing
+efficacious redress for the grievance of the aggrieved party.
+(7) Where a criminal proceeding is manifestly attended with
+mala fides and/or where the proceeding is maliciously
+instituted with an ulterior motive for wreaking vengeance on
+the accused and with a view to spite him due to private and
+personal grudge.‖
+It is worthy to note that the Court has clarified that the said
+parameters or guidelines are not exhaustive but only
+illustrative. Nevertheless, it throws light on the circumstances
+and situations where the Court's inherent power can be
+exercised.
+30
+PART H
+13. There can be no dispute over the proposition that inherent
+            power in a matter of quashment of FIR has to be exercised
+            sparingly and with caution and when and only when such
+            exercise is justified by the test specifically
+laid down in
+the
+            provision itself. There is no denial of the fact that the power
+            under
+Section 482
+CrPC is very wide but it needs no special
+            emphasis to state that conferment of wide power requires the
+            Court to be more cautious. It casts an onerous and more
+            diligent duty on the Court.
+14.
+In this regard, it would be seemly to reproduce a passage
+            from
+Kurukshetra University [Kurukshetra University v. State of
+            Haryana
+, (1977) 4 SCC 451 : 1977 SCC (Cri) 613] wherein
+            Chandrachud, J. (as his Lordship then was) opined thus: (SCC
+            p. 451, para 2)
+            ―2. It surprises us in the extreme that the High Court thought
+            that in the exercise of its inherent powers under
+Section 482
+of
+            the Code of Criminal Procedure, it could quash a first
+            information report. The police had not even commenced
+            investigation into the complaint filed by the Warden of the
+            University and no proceeding at all was pending in any court in
+            pursuance of the FIR. It ought to be realised that inherent
+            powers do not confer an arbitrary jurisdiction on the High Court
+            to act according to whim or caprice. That statutory power has
+            to be exercised sparingly, with circumspection and in the rarest
+            of rare cases.‖
+15. We have referred to the said decisions only to stress upon
+            the issue, how the exercise of jurisdiction by the High Court in
+            a proceeding relating to quashment of FIR can be justified. We
+            repeat even at the cost of repetition that the said power has to
+            be exercised in a very sparing manner and is not to be used to
+            choke or smother the prosecution that is legitimate. The
+            surprise that was expressed almost four decades ago
+            in Kurukshetra University case [
+Kurukshetra University v. State
+            of Haryana
+, (1977) 4 SCC 451 : 1977 SCC (Cri) 613] compels
+            us to observe that we are also surprised by the impugned
+            order.‖
+
+
+
+43    Thereafter, this Court noted that ―the High Court has not referred to
+
+allegations made in the FIR or what has come out in the investigation‖. While on
+
+the one hand, the High Court declined in exercising its jurisdiction under Section
+
+482 to quash the proceedings, it nonetheless directed the police not to arrest the
+
+appellants during the pendency of the investigation. It was in this context that this
+31
+PART H
+
+Court observed that the High Court had, while dismissing the applications under
+
+Section 482, passed orders that if the accused surrenders before the trial
+
+Magistrate, he shall be admitted to bail on such terms and conditions as it was
+
+deemed fit and appropriate.
+After adverting to the earlier decision in
+Hema
+
+Mishra vs State of UP14
+, this Court observed:
+―23. We have referred to the authority in
+Hema Mishra [Hema
+                  Mishra v. State of U.P.
+, (2014) 4 SCC 453 : (2014) 2 SCC
+                  (Cri) 363] as that specifically deals with the case that came
+                  from the State of Uttar Pradesh where
+Section 438
+CrPC has
+                  been deleted.
+It has concurred with the view expressed in
+Lal
+                  Kamlendra       Pratap      Singh [Lal       Kamlendra        Pratap
+                  Singh v. State of U.P.
+, (2009) 4 SCC 437 : (2009) 2 SCC (Cri)
+                  330] . The said decision, needless to say, has to be read in
+                  the context of the State of Uttar Pradesh. We do not intend to
+                  elaborate the said principle as that is not necessary in this
+                  case. What needs to be stated here is that the States where
+Section 438
+CrPC has not been deleted and kept on the
+                  statute book, the High Court should be well advised that while
+                  entertaining petitions under
+Article 226
+of the Constitution or
+Section 482
+CrPC, it exercises judicial restraint. We may
+                  hasten to clarify that the Court, if it thinks fit, regard being had
+                  to the parameters of quashing and the self-restraint imposed
+                  by law, has the jurisdiction to quash the investigation and may
+                  pass appropriate interim orders as thought apposite in law,
+                  but it is absolutely inconceivable and unthinkable to pass an
+                  order of the present nature while declining to interfere or
+                  expressing opinion that it is not appropriate to stay the
+                  investigation. This kind of order is really inappropriate and
+                  unseemly. It has no sanction in law. The courts should oust
+                  and obstruct unscrupulous litigants from invoking the inherent
+                  jurisdiction of the Court on the drop of a hat to file an
+                  application for quashing of launching an FIR or investigation
+                  and then seek relief by an interim order. It is the obligation of
+                  the Court to keep such unprincipled and unethical litigants at
+                  bay.‖
+
+
+
+44        The above decision thus arose in a situation where the High Court had
+
+declined to entertain a petition for quashing an FIR under Section 482 of the
+14
+(2014) 4 SCC 453
+32
+PART I
+CrPC
+. However, it nonetheless directed the investigating agency not to arrest the
+
+accused during the pendency of the investigation. This was held to be
+
+impermissible by this Court. On the other hand, this Court clarified that the High
+
+Court if it thinks fit, having regard to the parameters for quashing and the self-
+restraint imposed by law, has the jurisdiction to quash the investigation ―and may
+
+pass appropriate interim orders as thought apposite in law‖. Clearly therefore, the
+
+High Court in the present case has misdirected itself in declining to enquire prima
+
+facie on a petition for quashing whether the parameters in the exercise of that
+
+jurisdiction have been duly established and if so whether a case for the grant of
+
+interim bail has been made out. The settled principles which have been
+
+consistently reiterated since the judgment of this Court in
+State of Haryana vs
+
+Bhajan Lal15 (―Bhajan Lal‖
+) include a situation where the allegations made in the
+
+FIR or the complaint, even if they are taken at their face value and accepted in
+
+their entirety, do not prima facie constitute any offence or make out a case
+
+against the accused.
+This legal position was recently reiterated in a decision by a
+
+two-judge Bench of this Court in
+Kamal Shivaji Pokarnekar vs State of
+
+Maharashtra16
+.
+I         Prima Facie evaluation of the FIR and the grant of bail
+
+
+
+45        The striking aspect of the impugned judgment of the High Court spanning
+
+over fifty-six pages is the absence of any evaluation even prima facie of the most
+
+basic issue. The High Court, in other words, failed to apply its mind to a
+15
+1992 Supp. 1 SCC 335
+16
+(2019) 14 SCC 350
+33
+PART I
+
+fundamental issue which needed to be considered while dealing with a petition
+
+for quashing under
+Article 226
+of the Constitution or
+Section 482
+of the CrPC.
+
+The High Court, by its judgment dated 9 November 2020, has instead allowed the
+
+petition for quashing to stand over for hearing a month later, and therefore
+
+declined to allow the appellant‘s prayer for interim bail and relegated him to the
+
+remedy under
+Section 439
+of the CrPC. In the meantime, liberty has been the
+
+casualty. The High Court having failed to evaluate prima facie whether the
+
+allegations in the FIR, taken as they stand, bring the case within the fold of
+
+Section 306 read with
+Section 34
+of the IPC, this Court is now called upon to
+
+perform the task.
+46       Before we evaluate the contents of the FIR, a reference to
+Section 306
+of
+
+the IPC is necessary. Section 306 stipulates that if a person commits suicide
+
+―whoever abets the commission of such suicide‖ shall be punished with
+
+imprisonment extending up to 10 years17.
+Section 107
+is comprised within
+
+Chapter V of the
+IPC
+, which is titled ―Of Abetment‖.
+Section 107
+provides:
+―107. Abetment of a thing.—A person abets the doing of a
+                  thing, who— First.—Instigates any person to do that thing; or
+
+                  Secondly.—Engages with one or more other person or
+                  persons in any conspiracy for the doing of that thing, if an act
+                  or illegal omission takes place in pursuance of that
+                  conspiracy, and in order to the doing of that thing; or
+
+                  Thirdly.—Intentionally aids, by any act or illegal omission, the
+                  doing of that thing.
+Explanation 1.—A person who, by willful misrepresentation,
+                  or by willful concealment of a material fact which he is bound
+                  to disclose, voluntarily causes or procures, or attempts to
+17
+306. Abetment of suicide.—If any person commits suicide, whoever abets the commission of such suicide,
+shall be punished with imprisonment of either description for a term which may extend to ten years, and shall also
+be liable to fine.
+34
+PART I
+
+                cause or procure, a thing to be done, is said to instigate the
+                doing of that thing.
+Illustration A, a public officer, is authorised by a warrant from
+                a Court of Justice to apprehend Z, B, knowing that fact and
+                also that C is not Z, willfully represents to A that C is Z, and
+                thereby intentionally causes A to apprehend C. Here B abets
+                by instigation the apprehension of C.
+
+                Explanation 2.—Whoever, either prior to or at the time of the
+                commission of an act, does anything in order to facilitate the
+                commission of that act, and thereby facilitates the
+                commission thereof, is said to aid the doing of that act.‖
+
+
+
+47      The first segment of
+Section 107
+defines abetment as the instigation of a
+
+person to do a particular thing. The second segment defines it with reference to
+
+engaging in a conspiracy with one or more other persons for the doing of a thing,
+
+and an act or illegal omission in pursuance of the conspiracy. Under the third
+
+segment, abetment is founded on intentionally aiding the doing of a thing either
+
+by an act or omission. These provisions have been construed specifically in the
+
+context of Section 306 to which a reference is necessary in order to furnish the
+
+legal foundation for assessing the contents of the FIR. These provisions have
+
+been construed in the earlier judgements of this Court in
+State of West Bengal
+
+vs Orilal Jaiswal18
+,
+Randhir Singh vs State of Punjab19
+,
+Kishori Lal vs State
+
+of MP20 (―Kishori Lal‖
+) and
+Kishangiri Mangalgiri Goswami vs State of
+
+Gujarat21
+.
+In Amalendu Pal vs State of West Bengal22, Justice Mukundakam
+
+Sharma, speaking for a two judge Bench of this Court and having adverted to the
+
+earlier decisions, observed:
+18
+(1994) 1 SCC 73
+19
+(2004) 13 SCC 129
+20
+(2007) 10 SCC 797
+21
+(2009) 4 SCC 52
+22
+(2010) 1 SCC 707
+35
+PART I
+
+                  ―12…It is also to be borne in mind that in cases of alleged
+                  abetment of suicide there must be proof of direct or indirect
+                  acts of incitement to the commission of suicide. Merely on the
+                  allegation of harassment without there being any positive
+                  action proximate to the time of occurrence on the part of the
+                  accused which led or compelled the person to commit suicide,
+                  conviction in terms of
+Section 306
+IPC is not sustainable.‖
+
+
+
+The Court noted that before a person may be said to have abetted the
+
+commission of suicide, they ―must have played an active role by an act of
+
+instigation or by doing certain act to facilitate the commission of suicide‖.
+Instigation, as this Court held in
+Kishori Lal
+(supra), ―literally means to provoke,
+
+incite, urge on or bring about by persuasion to do anything‖.
+In
+S S Chheena vs
+
+Vijay Kumar Mahajan23
+, a two judge Bench of this Court, speaking through
+
+Justice Dalveer Bhandari, observed:
+―25. Abetment involves a mental process of instigating a
+                  person or intentionally aiding a person in doing of a thing.
+                  Without a positive act on the part of the accused to instigate
+                  or aid in committing suicide, conviction cannot be sustained.
+                  The intention of the legislature and the ratio of the cases
+                  decided by this Court is clear that in order to convict a person
+                  under
+Section 306
+IPC there has to be a clear mens rea to
+                  commit the offence. It also requires an active act or direct act
+                  which led the deceased to commit suicide seeing no option
+                  and that act must have been intended to push the deceased
+                  into such a position that he committed suicide.‖
+48
+Madan Mohan Singh vs State of Gujarat24
+was specifically a case which
+
+arose in the context of a petition under
+Section 482
+of the CrPC where the High
+
+Court had dismissed the petition for quashing an FIR registered for offences
+
+under
+Sections 306
+and
+294(B)
+of the IPC. In that case, the FIR was registered
+
+on a complaint of the spouse of the deceased who was working as a driver with
+23
+(2010) 12 SCC 190
+24
+(2010) 8 SCC 628
+36
+PART I
+
+the accused. The driver had been rebuked by the employer and was later found
+
+to be dead on having committed suicide. A suicide note was relied upon in the
+
+FIR, the contents of which indicated that the driver had not been given a fixed
+
+vehicle unlike other drivers besides which he had other complaints including the
+
+deduction of 15 days‘ wages from his salary. The suicide note named the
+
+accused–appellant.
+In the decision of a two judge Bench of this Court, delivered
+
+by Justice V S Sirpurkar, the test
+laid down in
+Bhajan Lal
+(supra) was applied
+
+and the Court held:
+―10. We are convinced that there is absolutely nothing in this
+            suicide note or the FIR which would even distantly be viewed
+            as an offence much less under
+Section 306
+IPC. We could
+            not find anything in the FIR or in the so-called suicide note
+            which could be suggested as abetment to commit suicide. In
+            such matters there must be an allegation that the accused
+            had instigated the deceased to commit suicide or secondly,
+            had engaged with some other person in a conspiracy and
+            lastly, that the accused had in any way aided any act or illegal
+            omission to bring about the suicide.
+11. In spite of our best efforts and microscopic examination of
+            the suicide note and the FIR, all that we find is that the
+            suicide note is a rhetoric document in the nature of a
+            departmental complaint. It also suggests some mental
+            imbalance on the part of the deceased which he himself
+            describes as depression. In the so-called suicide note, it
+            cannot be said that the accused ever intended that the driver
+            under him should commit suicide or should end his life and
+            did anything in that behalf. Even if it is accepted that the
+            accused changed the duty of the driver or that the accused
+            asked him not to take the keys of the car and to keep the
+            keys of the car in the office itself, it does not mean that the
+            accused intended or knew that the driver should commit
+            suicide because of this.‖
+
+
+
+Dealing with the provisions of
+Section 306
+of the IPC and the meaning of
+
+abetment within the meaning of
+Section 107
+, the Court observed:
+37
+PART I
+
+                  ―12. In order to bring out an offence under
+Section 306
+IPC
+                  specific abetment as contemplated by
+Section 107
+IPC on the
+                  part of the accused with an intention to bring about the
+                  suicide of the person concerned as a result of that abetment
+                  is required. The intention of the accused to aid or to instigate
+                  or to abet the deceased to commit suicide is a must for this
+                  particular offence under
+Section 306
+IPC. We are of the clear
+                  opinion that there is no question of there being any material
+                  for offence under
+Section 306
+IPC either in the FIR or in the
+                  so-called suicide note.‖
+
+
+
+The Court noted that the suicide note expressed a state of anguish of the
+
+deceased and ―cannot be depicted as expressing anything intentional on the part
+
+of the accused that the deceased might commit suicide‖. Reversing the
+
+judgement of the High Court, the petition under Section 482 was allowed and the
+
+FIR was quashed.
+49        In a concurring judgment delivered by one of us (Dhananjaya Y
+
+Chandrachud J) in the decision of the Constitution Bench in Common Cause
+
+(supra), the provisions of
+Section 107
+were explained with the following
+
+observations:
+―458. For abetting an offence, the person abetting must have
+                  intentionally aided the commission of the crime. Abetment
+                  requires an instigation to commit or intentionally aiding the
+                  commission of a crime. It presupposes a course of conduct or
+                  action which (in the context of the present discussion)
+                  facilitates another to end life. Hence abetment of suicide is an
+                  offence expressly punishable under
+Sections 305
+and
+306
+IPC.‖
+50        More recently in
+M Arjunan vs State
+(represented by its Inspector of
+
+Police)25, a two judge Bench of this Court, speaking through Justice R.
+25
+(2019) 3 SCC 315
+38
+PART I
+
+Banumathi, elucidated the essential ingredients of the offence under
+Section 306
+of the IPC in the following observations:
+―7. The essential ingredients of the offence under
+Section 306
+IPC are: (i) the abetment; (ii) the intention of the accused to
+                  aid or instigate or abet the deceased to commit suicide. The
+                  act of the accused, however, insulting the deceased by using
+                  abusive language will not, by itself, constitute the abetment of
+                  suicide. There should be evidence capable of suggesting that
+                  the accused intended by such act to instigate the deceased to
+                  commit suicide. Unless the ingredients of instigation/abetment
+                  to commit suicide are satisfied the accused cannot be
+                  convicted under
+Section 306
+IPC.‖
+51         Similarly, in another recent judgment of this Court in
+Ude Singh and Ors.
+
+vs State of Haryana26
+, a two judge Bench of this Court, speaking through Justice
+
+Dinesh Maheshwari, expounded on the ingredients of
+Section 306
+of the IPC,
+
+and the factors to be considered in determining whether a case falls within the
+
+ken of the aforesaid provision, in the following terms:
+―38. In cases of alleged abetment of suicide, there must be a
+                    proof of direct or indirect act/s of incitement to the
+                    commission of suicide. It could hardly be disputed that the
+                    question of cause of a suicide, particularly in the context of an
+                    offence of abetment of suicide, remains a vexed one,
+                    involving multifaceted and complex attributes of human
+                    behaviour and responses/reactions. In the case of accusation
+                    for abetment of suicide, the Court would be looking for cogent
+                    and convincing proof of the act/s of incitement to the
+                    commission of suicide. In the case of suicide, mere allegation
+                    of harassment of the deceased by another person would not
+                    suffice unless there be such action on the part of the accused
+                    which compels the person to commit suicide; and such an
+                    offending action ought to be proximate to the time of
+                    occurrence. Whether a person has abetted in the commission
+                    of suicide by another or not, could only be gathered from the
+                    facts and circumstances of each case.
+39. For the purpose of finding out if a person has abetted
+                    commission of suicide by another, the consideration would be
+26
+Criminal Appeal No. 233 of 2010 decided on 25 July 2019
+39
+PART I
+
+                   if the accused is guilty of the act of instigation of the act of
+                   suicide. As explained and reiterated by this Court in the
+                   decisions above-referred, instigation means to goad, urge
+                   forward, provoke, incite or encourage to do an act. If the
+                   persons who committed suicide had been hypersensitive and
+                   the action of accused is otherwise not ordinarily expected to
+                   induce a similarly circumstanced person to commit suicide, it
+                   may not be safe to hold the accused guilty of abetment of
+                   suicide. But, on the other hand, if the accused by his acts and
+                   by his continuous course of conduct creates a situation which
+                   leads the deceased perceiving no other option except to
+                   commit suicide, the case may fall within the four-corners of
+Section 306
+IPC. If the accused plays an active role in
+                   tarnishing the self-esteem and self-respect of the victim,
+                   which eventually draws the victim to commit suicide, the
+                   accused may be held guilty of abetment of suicide. The
+                   question of mens rea on the part of the accused in such
+                   cases would be examined with reference to the actual acts
+                   and deeds of the accused and if the acts and deeds are only
+                   of such nature where the accused intended nothing more
+                   than harassment or snap show of anger, a particular case
+                   may fall short of the offence of abetment of suicide. However,
+                   if the accused kept on irritating or annoying the deceased by
+                   words or deeds until the deceased reacted or was provoked,
+                   a particular case may be that of abetment of suicide. Such
+                   being the matter of delicate analysis of human behaviour,
+                   each case is required to be examined on its own facts, while
+                   taking note of all the surrounding factors having bearing on
+                   the actions and psyche of the accused and the deceased.‖
+
+
+
+Similarly, in
+Rajesh vs State of Haryana27
+, a two judge Bench of this Court,
+
+speaking through Justice L. Nageswara Rao, held as follows:
+―9. Conviction under
+Section 306
+IPC is not sustainable on
+                   the allegation of harassment without there being any positive
+                   action proximate to the time of occurrence on the part of the
+                   accused, which led or compelled the person to commit
+                   suicide. In order to bring a case within the purview of
+Section
+                   306
+IPC, there must be a case of suicide and in the
+                   commission of the said offence, the person who is said to
+                   have abetted the commission of suicide must have played an
+                   active role by an act of instigation or by doing certain act to
+                   facilitate the commission of suicide. Therefore, the act of
+                   abetment by the person charged with the said offence must
+27
+Criminal Appeal No. 93 of 2019 decided on 18 January 2019
+40
+PART I
+
+                   be proved and established by the prosecution before he could
+                   be convicted under
+Section 306
+IPC.‖
+
+
+
+In a recent decision of this Court in
+Gurcharan Singh vs State of Punjab28
+, a
+
+three judge Bench of this Court, speaking through Justice Hrishikesh Roy, held
+
+thus:
+―15. As in all crimes, mens rea has to be established. To
+                   prove the offence of abetment, as specified under Sec 107 of
+                   the
+IPC
+, the state of mind to commit a particular crime must
+                   be visible, to determine the culpability. In order to prove mens
+                   rea, there has to be something on record to establish or show
+                   that the appellant herein had a guilty mind and in furtherance
+                   of that state of mind, abetted the suicide of the deceased.‖
+52         In
+Vaijnath Kondiba Khandke vs State of Maharashtra and Ors.29
+, a two
+
+judge Bench of this Court, speaking through Justice U.U. Lalit, dealt with an
+
+appeal against the rejection of an application under
+Section 482
+of the CrPC, for
+
+quashing an FIR registered under Sections 306 and 506 read with
+Section 34
+of
+
+the IPC. A person serving in the office of the Deputy Director of Education
+
+Aurangabad had committed suicide on 8 August 2017. His wife made a complaint
+
+to the police that her husband was suffering from mental torture as his superiors
+
+were getting heavy work done from her husband. This resulted in him having to
+
+work from 10 AM to 10 PM and even at odd hours and on holidays. The specific
+
+allegation against the appellant was that he had stopped the deceased‘s salary
+
+for one month and was threatening the deceased that his increment would be
+
+stopped. This Court noted that there was no suicide note, and the only material
+
+on record was in the form of assertions made by the deceased‘s wife in her report
+28
+Criminal Appeal No. 40 of 2011 decided on 1 October 2020
+29
+(2018) 7 SCC 781
+41
+PART I
+
+to the police. The Court went on to hold that the facts on record were inadequate
+
+and insufficient to bring home the charge of abetment of suicide under
+Section
+
+306
+of the IPC. The mere factum of work being assigned by the appellant to the
+
+deceased, or the stoppage of salary for a month, was not enough to prove
+
+criminal intent or guilty mind. Consequently, proceedings against the appellant
+
+were quashed.
+53    On the other hand, we must also notice the decision in Praveen Pradhan
+
+(supra) where a two judge Bench of this Court, speaking through Justice B.S.
+
+Chauhan, dismissed an appeal against the rejection of an application under
+Section 482
+of the CrPC by the High Court for quashing a criminal proceeding,
+
+implicating an offence under
+Section 306
+of the IPC. The suicide note which was
+
+left behind by the deceased showed, as this Court observed, that ―the appellant
+
+perpetually humiliated, exploited and demoralised the deceased, who was
+
+compelled to indulge in wrongful practices at the workplace, which hurt his self-
+
+respect tremendously.‖ The Court noted that the appellant always scolded the
+
+deceased and tried to always force the deceased to resign. Resultantly, the Court
+
+observed:
+―19. Thus, the case is required to be considered in the light of
+            the aforesaid settled legal propositions. In the instant case,
+            alleged harassment had not been a casual feature, rather
+            remained a matter of persistent harassment. It is not a case
+            of a driver; or a man having an illicit relationship with a
+            married woman, knowing that she also had another
+            paramour; and therefore, cannot be compared to the situation
+            of the deceased in the instant case, who was a qualified
+            graduate engineer and still suffered persistent harassment
+            and humiliation and additionally, also had to endure
+            continuous illegal demands made by the appellant, upon non-
+            fulfilment of which, he would be mercilessly harassed by the
+            appellant for a prolonged period of time. He had also been
+42
+PART I
+
+                  forced to work continuously for long durations in the factory,
+                  vis-à-vis other employees which often even entered to 16-17
+                  hours at a stretch. Such harassment, coupled with the
+                  utterance of words to the effect, that, ―had there been any
+                  other person in his place, he would have certainly committed
+                  suicide‖ is what makes the present case distinct from the
+                  aforementioned cases. Considering the facts and
+                  circumstances of the present case, we do not think it is a
+                  case which requires any interference by this Court as regards
+                  the impugned judgment and order [Criminal Miscellaneous
+                  Application No. 420 of 2006, decided on 5-1-2012 (Utt)] of the
+                  High Court. The appeal is, therefore, dismissed accordingly.‖
+
+
+
+The contents of the FIR therefore indicated that the deceased had been
+
+subjected to harassment persistently and continuously and this was coupled by
+
+words used by the accused which led to the commission of suicide.
+54        In
+Narayan Malhari Thorat vs Vinayak Deorao Bhagat30
+, this Court,
+
+speaking through Justice U.U. Lalit, reversed the judgment of a Division Bench of
+
+the High Court which had quashed criminal proceedings in exercise of the
+
+jurisdiction under Section 482. This was a case where the FIR was registered
+
+pursuant to the information received from the appellant. The FIR stated that the
+
+son and daughter-in-law of the appellant were teachers in Zila Parishad School.
+
+The respondent used to call the daughter-in-law of the appellant on the phone
+
+and used to harass her. Moreover, despite the efforts of the son of the appellant,
+
+the respondent did not desist from doing so. This Court noted:
+―12. We now consider the facts of the present case. There are
+                  definite allegations that the first respondent would keep on
+                  calling the wife of the victim on her mobile and keep
+                  harassing her which allegations are supported by the
+                  statements of the mother and the wife of the victim recorded
+                  during investigation. The record shows that 3-4 days prior to
+                  the suicide there was an altercation between the victim and
+30
+(2019) 13 SCC 598
+43
+PART I
+
+              the first respondent. In the light of these facts, coupled with
+              the fact that the suicide note made definite allegation against
+              first respondent, the High Court was not justified in entering
+              into question whether the first respondent had the requisite
+              intention to aid or instigate or abet the commission of suicide.
+At this juncture when the investigation was yet to be
+              completed and charge-sheet, if any, was yet to be filed, the
+              High Court ought not to have gone into the aspect whether
+              there was requisite mental element or intention on part of the
+              respondent.‖
+
+
+
+The above observations of the Court clearly indicated that there was a specific
+
+allegation in the FIR bearing on the imputation that the respondent had actively
+
+facilitated the commission of suicide by continuously harassing the spouse of the
+
+victim and in failing to rectify his conduct despite the efforts of the victim.
+
+
+55     Now in this backdrop, it becomes necessary to advert briefly to the
+
+contents of the FIR in the present case. The FIR recites that the spouse of the
+
+informant had a company carrying on the business of architecture, interior design
+
+and engineering consultancy. According to the informant, her husband was over
+
+the previous two years ―having pressure as he did not receive the money of work
+
+carried out by him‖. The FIR recites that the deceased had called at the office of
+
+the appellant and spoken to his accountant for the payment of money. Apart from
+
+the above statements, it has been stated that the deceased left behind a suicide
+
+note stating that his ―money is stuck and following owners of respective
+
+companies are not paying our legitimate dues‖. Prima facie, on the application of
+
+the test which has been
+laid down by
+this Court in a consistent line of authority
+
+which has been noted above, it cannot be said that the appellant was guilty of
+
+having abetted the suicide within the meaning of
+Section 306
+of the IPC. These
+
+observations, we must note, are prima facie at this stage since the High Court is
+44
+PART I
+
+still to take up the petition for quashing. Clearly however, the High Court in failing
+
+to notice the contents of the FIR and to make a prima facie evaluation abdicated
+
+its role, functions and jurisdiction when seized of a petition under
+Section 482
+of
+
+the CrPC. The High Court recited the legal position that the jurisdiction to quash
+
+under Section 482 has to be exercised sparingly. These words, however, are not
+
+meaningless incantations, but have to be assessed with reference to the contents
+
+of the particular FIR before the High Court. If the High Court were to carry out a
+
+prima facie evaluation, it would have been impossible for it not to notice the
+
+disconnect between the FIR and the provisions of
+Section 306
+of the IPC. The
+
+failure of the High Court to do so has led it to adopting a position where it left the
+
+appellant to pursue his remedies for regular bail under Section 439. The High
+
+Court was clearly in error in failing to perform a duty which is entrusted to it while
+
+evaluating a petition under Section 482 albeit at the interim stage.
+
+
+56    The petition before the High Court was instituted under
+Article 226
+of the
+
+Constitution and
+Section 482
+of the CrPC. While dealing with the petition under
+
+section 482 for quashing the FIR, the High Court has not considered whether
+
+prima facie the ingredients of the offence have been made out in the FIR. If the
+
+High Court were to have carried out this exercise, it would (as we have held in
+
+this judgment) have been apparent that the ingredients of the offence have not
+
+prima facie been established. As a consequence of its failure to perform its
+
+function under Section 482, the High Court has disabled itself from exercising its
+
+jurisdiction under
+Article 226
+to consider the appellant‘s application for bail. In
+
+considering such an application under
+Article 226
+, the High Court must be
+
+circumspect in exercising its powers on the basis of the facts of each case.
+45
+PART I
+
+However, the High Court should not foreclose itself from the exercise of the
+
+power when a citizen has been arbitrarily deprived of their personal liberty in an
+
+excess of state power.
+57        While considering an application for the grant of bail under
+Article 226
+in a
+
+suitable case, the High Court must consider the settled factors which emerge
+
+from the precedents of this Court. These factors can be summarized as follows:
+(i)       The nature of the alleged offence, the nature of the accusation and the
+
+          severity of the punishment in the case of a conviction;
+(ii)      Whether there exists a reasonable apprehension of the accused tampering
+
+          with the witnesses or being a threat to the complainant or the witnesses;
+(iii)     The possibility of securing the presence of the accused at the trial or the
+
+          likelihood of the accused fleeing from justice;
+(iv)      The antecedents of and circumstances which are peculiar to the accused;
+(v)       Whether prima facie the ingredients of the offence are made out, on the
+
+          basis of the allegations as they stand, in the FIR; and
+(vi)      The significant interests of the public or the State and other similar
+
+          considerations.
+58        These principles have evolved over a period of time and emanate from the
+
+following (among other) decisions:
+Prahlad Singh Bhati vs NCT, Delhi31
+;
+Ram
+
+Govind Upadhyay vs Sudarshan Singh32
+; State of UP vs Amarmani
+31
+(2001) 4 SCC 280
+32
+(2002) 3 SCC 598
+46
+PART J
+
+Tripathi33;
+Prasanta Kumar Sarkar vs Ashis Chatterjee34
+;
+Sanjay Chandra vs
+
+CBI35
+; and
+P. Chidambaram vs Central Bureau of Investigation36
+.
+
+
+59      These principles are equally applicable to the exercise of jurisdiction under
+Article 226
+of the Constitution when the court is called upon to secure the liberty
+
+of the accused. The High Court must exercise its power with caution and
+
+circumspection, cognizant of the fact that this jurisdiction is not a ready substitute
+
+for recourse to the remedy of bail under
+Section 439
+of the CrPC. In the backdrop
+
+of these principles, it has become necessary to scrutinize the contents of the FIR
+
+in the case at hand. In this batch of cases, a prima facie evaluation of the FIR
+
+does not establish the ingredients of the offence of abetment of suicide under
+Section 306
+of the IPC. The appellants are residents of India and do not pose a
+
+flight risk during the investigation or the trial. There is no apprehension of
+
+tampering of evidence or witnesses. Taking these factors into consideration, the
+
+order dated 11 November 2020 envisaged the release of the appellants on bail.
+J       Human liberty and the role of Courts
+
+60      Human liberty is a precious constitutional value, which is undoubtedly
+subject to regulation by validly enacted legislation. As such, the citizen is subject
+
+to the edicts of criminal law and procedure. Section 482 recognizes the inherent
+
+power of the High Court to make such orders as are necessary to give effect to
+
+the provisions of the
+CrPC
+―or prevent abuse of the process of any Court or
+
+otherwise to secure the ends of justice‖. Decisions of this court require the High
+33
+(2005) 8 SCC 21
+34
+(2010) 14 SCC 496
+35
+(2012) 1 SCC 40
+36
+Criminal Appeal No. 1605 of 2019 decided on 22 October 2019
+47
+PART J
+
+Courts, in exercising the jurisdiction entrusted to them under Section 482, to act
+
+with circumspection. In emphasising that the High Court must exercise this power
+
+with a sense of restraint, the decisions of this Court are founded on the basic
+
+principle that the due enforcement of criminal law should not be obstructed by the
+
+accused taking recourse to artifices and strategies. The public interest in
+
+ensuring the due investigation of crime is protected by ensuring that the inherent
+
+power of the High Court is exercised with caution. That indeed is one – and a
+
+significant - end of the spectrum. The other end of the spectrum is equally
+
+important: the recognition by Section 482 of the power inhering in the High Court
+
+to prevent the abuse of process or to secure the ends of justice is a valuable
+
+safeguard for protecting liberty. The
+Code of Criminal Procedure
+of 1898 was
+
+enacted by a legislature which was not subject to constitutional rights and
+
+limitations; yet it recognized the inherent power in Section 561A. Post-
+
+Independence, the recognition by Parliament37 of the inherent power of the High
+
+Court must be construed as an aid to preserve the constitutional value of liberty.
+
+The writ of liberty runs through the fabric of the Constitution. The need to ensure
+
+the fair investigation of crime is undoubtedly important in itself, because it
+
+protects at one level the rights of the victim and, at a more fundamental level, the
+
+societal interest in ensuring that crime is investigated and dealt with in
+
+accordance with law. On the other hand, the misuse of the criminal law is a
+
+matter of which the High Court and the lower Courts in this country must be alive.
+
+In the present case, the High Court could not but have been cognizant of the
+
+specific ground which was raised before it by the appellant that he was being
+37
+Section 482
+of the CrPC 1973
+48
+PART J
+
+made a target as a part of a series of occurrences which have been taking place
+
+since April 2020. The specific case of the appellant is that he has been targeted
+
+because his opinions on his television channel are unpalatable to authority.
+
+Whether the appellant has established a case for quashing the FIR is something
+
+on which the High Court will take a final view when the proceedings are listed
+
+before it but we are clearly of the view that in failing to make even a prima facie
+
+evaluation of the FIR, the High Court abdicated its constitutional duty and
+
+function as a protector of liberty. Courts must be alive to the need to safeguard
+
+the public interest in ensuring that the due enforcement of criminal law is not
+
+obstructed. The fair investigation of crime is an aid to it. Equally it is the duty of
+
+courts across the spectrum – the district judiciary, the High Courts and the
+
+Supreme Court – to ensure that the criminal law does not become a weapon for
+
+the selective harassment of citizens. Courts should be alive to both ends of the
+
+spectrum – the need to ensure the proper enforcement of criminal law on the one
+
+hand and the need, on the other, of ensuring that the law does not become a
+
+ruse for targeted harassment. Liberty across human eras is as tenuous as
+
+tenuous can be. Liberty survives by the vigilance of her citizens, on the
+
+cacophony of the media and in the dusty corridors of courts alive to the rule of
+
+(and not by) law. Yet, much too often, liberty is a casualty when one of these
+
+components is found wanting.
+61    Mr Kapil Sibal, Mr Amit Desai and Mr Chander Uday Singh are
+
+undoubtedly right in submitting that the procedural hierarchy of courts in matters
+
+concerning the grant of bail needs to be respected. However, there was a failure
+
+of the High Court to discharge its adjudicatory function at two levels – first in
+49
+PART J
+
+declining to evaluate prima facie at the interim stage in a petition for quashing the
+
+FIR as to whether an arguable case has been made out, and secondly, in
+
+declining interim bail, as a consequence of its failure to render a prima facie
+
+opinion on the first. The High Court did have the power to protect the citizen by
+
+an interim order in a petition invoking
+Article 226.
+Where the High Court has
+
+failed to do so, this Court would be abdicating its role and functions as a
+
+constitutional court if it refuses to interfere, despite the parameters for such
+
+interference being met. The doors of this Court cannot be closed to a citizen who
+
+is able to establish prima facie that the instrumentality of the State is being
+
+weaponized for using the force of criminal law. Our courts must ensure that they
+
+continue to remain the first line of defense against the deprivation of the liberty of
+
+citizens.
+Deprivation of liberty even for a single day is one day too many. We
+
+must always be mindful of the deeper systemic implications of our decisions.
+
+
+62        It would be apposite to extract the observations made, albeit in a
+
+dissenting opinion, by one of us (Dhananjaya Y Chandrachud, J.) in a decision of
+
+a three judge bench in
+Romila Thapar vs Union of India38
+:
+―[T]he basic entitlement of every citizen who is faced with
+                  allegations of criminal wrongdoing, is that the investigative
+                  process should be fair. This is an integral component of the
+                  guarantee against arbitrariness under
+Article 14
+and of the
+                  right to life and personal liberty under
+Article 21.
+If this Court
+                  were not to stand by the principles which we have formulated,
+                  we may witness a soulful requiem to liberty.‖
+38
+(2018) 10 SCC 753
+50
+PART J
+
+The decision was a dissent in the facts of the case. The view of the leading
+
+majority judgment is undoubtedly the view of the court, which binds us. However,
+
+the principle quoted above is in line with the precedents of this court.
+63      More than four decades ago, in a celebrated judgment in State of
+
+Rajasthan, Jaipur vs Balchand39, Justice Krishna Iyer pithily reminded us that
+
+the basic rule of our criminal justice system is ‗bail, not jail‘40. The High Courts
+
+and Courts in the district judiciary of India must enforce this principle in practice,
+
+and not forego that duty, leaving this Court to intervene at all times. We must in
+
+particular also emphasise the role of the district judiciary, which provides the first
+
+point of interface to the citizen. Our district judiciary is wrongly referred to as the
+
+‗subordinate judiciary‘. It may be subordinate in hierarchy but it is not subordinate
+
+in terms of its importance in the lives of citizens or in terms of the duty to render
+
+justice to them. High Courts get burdened when courts of first instance decline to
+
+grant anticipatory bail or bail in deserving cases. This continues in the Supreme
+
+Court as well, when High Courts do not grant bail or anticipatory bail in cases
+
+falling within the parameters of the law. The consequence for those who suffer
+
+incarceration are serious. Common citizens without the means or resources to
+
+move the High Courts or this Court languish as undertrials. Courts must be alive
+
+to the situation as it prevails on the ground – in the jails and police stations where
+
+human dignity has no protector. As judges, we would do well to remind ourselves
+
+that it is through the instrumentality of bail that our criminal justice system‘s
+
+primordial interest in preserving the presumption of innocence finds its most
+39
+(1977) 4 SCC 308
+40
+These words of Justice Krishna Iyer are not isolated silos in our jurisprudence, but have been consistently
+followed in judgments of this Court for decades.
+Some of these judgments are: State of U.P. vs Amarmani
+Tripathi, (
+2005) 8 SCC 21 and Sanjay Chandra vs CBI
+, (2012) 1 SCC 40.
+51
+PART J
+
+eloquent expression. The remedy of bail is the ―solemn expression of the
+
+humaneness of the justice system‖41. Tasked as we are with the primary
+
+responsibility of preserving the liberty of all citizens, we cannot countenance an
+
+approach that has the consequence of applying this basic rule in an inverted
+
+form. We have given expression to our anguish in a case where a citizen has
+
+approached this court. We have done so in order to reiterate principles which
+
+must govern countless other faces whose voices should not go unheard.
+
+
+64       We would also like to take this opportunity to place on record data sourced
+
+from the National Judicial Data Grid (―NJDG‖) on the number of bail applications
+
+currently pending in High Courts and District Courts across India:
+Pendency before the High Courts
+
+Bail Applications                                                                           91,56842
+
+Criminal      Matters       (Writ    Petitions,      Case/Petitions,         Appeals,
+                                                                                            12,66,133
+Revisions and Applications)
+
+Pendency before the District Courts
+
+Bail Applications                                                                           1,96,861
+65       The data on the NJDG is available in the public realm. The NJDG is a
+
+valuable resource for all High Courts to monitor the pendency and disposal of
+41
+Arghya Sengupta and Ritvika Sharma, ‗Saharashri and the Supremes‘, (The Wire, 23 June 2015) available at
+<https://thewire.in/economy/saharashri-and-the-supremes>
+42
+For nine High Courts, no separate data is available in relation to pending bail applications, which are quantified
+as pending applications simplicitor. Further, for two High Courts, the data is only available for their principal
+bench and not their circuit benches. More granulated data can be accessed at the website of the NJDG, available
+at <www.njdg.ecourts.gov.in>.
+52
+PART J
+
+cases, including criminal cases. For Chief Justices of the High Courts, the
+
+information which is available is capable of being utilized as a valuable
+
+instrument to promote access to justice, particularly in matters concerning liberty.
+
+The Chief Justices of every High Court should in their administrative capacities
+
+utilize the ICT tools which are placed at their disposal in ensuring that access to
+
+justice is democratized and equitably allocated. Liberty is not a gift for the few.
+
+Administrative judges in charge of districts must also use the facility to engage
+
+with the District judiciary and monitor pendency. As the data on the NJDG makes
+
+clear, there is a pressing need for courts across the judicial hierarchy in India to
+
+remedy the institutional problem of bail applications not being heard and
+
+disposed of with expedition. Every court in our country would do well to
+
+remember Lord Denning‘s powerful invocation in the first Hamlyn Lecture, titled
+
+‗Freedom under the Law‘ 43:
+―Whenever one of the judges takes seat, there is one
+                 application which by long tradition has priority over all
+                 others. The counsel has but to say, ‗My Lord, I have an
+                 application which concerns the liberty of the subject‘, and
+                 forthwith the judge will put all other matters aside and hear
+                 it. …‖
+
+
+
+It is our earnest hope that our courts will exhibit acute awareness to the need
+
+to expand the footprint of liberty and use our approach as a decision-making
+
+yardstick for future cases involving the grant of bail.
+43
+Sir Alfred Denning, Freedom under the Law, the Hamlyn Lectures, First Series, available at
+<https://socialsciences.exeter.ac.uk/media/universityofexeter/schoolofhumanitiesandsocialsciences/law/pdfs/Free
+dom_Under_the_Law_1.pdf>.
+53
+PART K
+66    Since the proceedings are pending before the High Court, we clarify that
+
+the observations on the facts contained in the present judgment are confined to a
+
+determination whether a case for grant of interim protection was made out.
+
+Equally, the observations which are contained in the impugned order of the High
+
+Court were also at the interim stage and will not affect the final resolution of the
+
+issues which arise and have been raised before the High Court.
+K     Conclusion
+
+
+67    While reserving the judgment at the conclusion of arguments, this Court
+had directed the release of all the three appellants on bail pending the disposal of
+
+the proceedings before the High Court. The following operative directions were
+
+issued on 11 November 2020:
+―9      We are of the considered view that the High Court
+             was in error in rejecting the applications for the grant of
+             interim bail. We accordingly order and direct that Arnab
+             Manoranjan Goswami, Feroz Mohammad Shaikh and Neetish
+             Sarda shall be released on interim bail, subject to each of
+             them executing a personal bond in the amount of Rs 50,000
+             to be executed before the Jail Superintendent. They are,
+             however, directed to cooperate in the investigation and shall
+             not make any attempt to interfere with the ongoing
+             investigation or with the witnesses.
+10      The concerned jail authorities and the Superintendent
+             of Police, Raigad are directed to ensure that this order is
+             complied with forthwith.
+11     A certified copy of this order shall be issued during
+             the course of the day‖
+54
+PART K
+
+68    The interim protection which has been granted to the above accused by
+
+the order dated 11 November 2020 shall continue to remain in operation pending
+
+the disposal of the proceedings before the High Court and thereafter for a period
+
+of four weeks from the date of the judgment of the High Court, should it become
+
+necessary for all or any of them to take further recourse to their remedies in
+
+accordance with law.
+69    The appeals are accordingly disposed of.
+70    Pending application(s), if any, stand disposed of.
+…….………….…………………...........................J.
+                                [Dr Dhananjaya Y Chandrachud]
+
+
+
+
+                                …….…………………………...............................J.
+                                [Indira Banerjee]
+
+
+
+New Delhi;
+November 27, 2020.
+55

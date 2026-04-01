@@ -1,0 +1,568 @@
+Title: Search
+Court: Supreme Court of India
+Date: Unknown Date
+Citation: citations: 1986 AIR 1440, 1986 SCR (2) 771, AIR 1986 SUPREME COURT 1440, 1986 CRILR(SC MAH GUJ) 225, 1986 2 SCJ 610, 1986 30 DLT 211, 1986 SCC(CRI) 249, 1986 ALL WC 995, 1986 CRI APP R (SC) 117, 1986 MPLJ 438, 1986 ALLAPPCAS (CRI) 111, (1986) 1 APLJ 43.1, 1986 CALCRILR 115, 1986 BBCJ 104, 1986 UJ (SC) 654, (1986) 12 ALL LR 606, (1986) SC CR R 122, 1986 (2) SCC 709, (1986) ALLCRIC 346, (1986) EASTCRIC 497, (1986) 3 SUPREME 72, (1986) 3 CRIMES 1, (1986) ALLCRIR 500
+Source: https://indiankanoon.org/doc/566198/
+
+[Cites
+14
+, Cited by
+153
+]
+Supreme Court of India
+Maj. Genl. A.S. Gauraya & Anr vs S.N. Thakur And Anr on 25 April, 1986
+Equivalent citations: 1986 AIR 1440, 1986 SCR (2) 771, AIR 1986 SUPREME COURT 1440, 1986 CRILR(SC MAH GUJ) 225, 1986 2 SCJ 610, 1986 30 DLT 211, 1986 SCC(CRI) 249, 1986 ALL WC 995, 1986 CRI APP R (SC) 117, 1986 MPLJ 438, 1986 ALLAPPCAS (CRI) 111, (1986) 1 APLJ 43.1, 1986 CALCRILR 115, 1986 BBCJ 104, 1986 UJ (SC) 654, (1986) 12 ALL LR 606, (1986) SC CR R 122, 1986 (2) SCC 709, (1986) ALLCRIC 346, (1986) EASTCRIC 497, (1986) 3 SUPREME 72, (1986) 3 CRIMES 1, (1986) ALLCRIR 500
+Author:
+V.  Khalid
+Bench:
+V.  Khalid
+,
+M.M.  Dutt
+PETITIONER:
+MAJ. GENL. A.S. GAURAYA & ANR.
+
+	Vs.
+
+RESPONDENT:
+S.N. THAKUR AND ANR.
+
+DATE OF JUDGMENT25/04/1986
+
+BENCH:
+KHALID, V. (J)
+BENCH:
+KHALID, V. (J)
+DUTT, M.M. (J)
+
+CITATION:
+ 1986 AIR 1440		  1986 SCR  (2) 771
+ 1986 SCC  (2) 709	  1986 SCALE  (1)1128
+
+
+ACT:
+Criminal Procedure	 Code
+, 1973  -	Whether	 subordinate
+criminal  Courts  have	inherent  jurisdiction	outside	 the
+provisions of the Code.
+
+
+
+HEADNOTE:
+     Respondent No.l, complainant, filed a complaint against
+the  appellants-accused	  in  the   Court  of  the  Judicial
+Magistrate, First  Class, New  Delhi disclosing	 an  offence
+punishable under
+s. 67
+and
+72-C(l)(a)
+of the Mines Act, 1952
+read  with   Regulation	 106   of  the	Metallifarous  Mines
+Regulation, 1961.  The Magistrate took the complaint on file
+and issued  summons to the accused to appear on 6.1.1972. On
+6.1.1972  neither  the	complainant  nor  the  accused	were
+present	 and,	therefore,  the	  Magistrate  dismissed	 the
+complaint in  default  and  for	 want  of  prosecution.	 The
+respondent filed an application on 13.1.1972 for restoration
+of  the	  complaint  and   on  20.1.72,	 after	hearing	 the
+complainant,  the  Magistrate  restored	 the  complaint	 and
+issued summons	to  the	 accused.  Thereafter  the  accused-
+appellants  moved   an	application  before  the  Magistrate
+stating	 that	the  order   dated   20.1.72   was   without
+jurisdiction since the Magistrate had become functus officio
+by  order   dated  6.1.72.   The  Magistrate  rejected	this
+application holding  that he  had inherent  powers under the
+code of	 Criminal Procedure to review and recall his earlier
+orders. The  Additional Chief  Judicial Magistrate  and	 the
+Delhi High Court dismissed the first and the second revision
+petition filed	by the	appellants against  the order of the
+Magistrate.
+     Pursuant to  a judgement delivered by the Supreme Court
+on 5th	August, 1976 in the case of Bindeshwari Prasad Singh
+v. Kali	 Singh, [1977] 1 S.C.R. 125 holding that no Criminal
+Court had any inherent jurisdiction, not provided for in the
+Criminal Procedure Code
+, the appellants moved an application
+before	the  Metropolitan  Magistrate  contending  that	 all
+proceedings after  the dismissal  of the  complaint by order
+dated 6th  January, 1972  were without	jurisdiction in	 the
+light
+772
+of the	law laid down by the Supreme Court and requested the
+Magistrate  to	drop  further  proceedings.  The  Magistrate
+accepted this contention and dropped the proceedings against
+the  appellants-accused.   Aggrieved  by   this	 order,	 the
+respondent filed  a revision  before the Additional Sessions
+Judge who  reversed the	 decision of  the Magistrate holding
+that a pronouncement as to the position of law in a judicial
+decision by the Supreme Court cannot be treated as a sort of
+legislation by	Parliament giving retrospective effect as to
+enjoin re-appointing  of  all  matters	which  have  already
+become final  and closed.  Thereupon, the appellants filed a
+writ petition  before  the  High  Court	 and  the  same	 was
+dismissed in limine. Hence this appeal by special leave.
+     Allowing the appeal.
+^
+     HELD. 1.  In view of the law laid down by Supreme Court
+in Bindeshwari Prasad Singh v. Kali Singh, [1977] 1 S.C.R.
+125, the  order of  the High  Court is set aside and that of
+the Magistrate	dated 6.1.77  dismissing  the  complaint  is
+restored. [781 C]
+     2.(i)
+Section  249
+of  the  Criminal  Procedure	Code
+enables a  magistrate to  discharge  the  accused  when	 the
+complainant is	absent and  when the conditions laid down in
+the said  section  are	satisfied.
+Section  256(1)
+of	 the
+Criminal Procedure  Code enables  a magistrate to acquit the
+accused if  the complainant does not appear. Thus, the order
+of dismissal  of a  complaint by a criminal court due to the
+absence of  a complainant  is a	 proper order. Therefore, so
+far as	the accused  is concerned,  dismissal of a complaint
+for non-appearance  of the  complainant or  his discharge or
+acquittal on  the same	ground is  a final  order and in the
+absence of  any specific provision in the Code, a Magistrate
+cannot exercise	 any inherent jurisdiction. [776 E-F: 777 G-
+H]
+     2.(ii) There  is absolutely no provision in the
+Code of
+Criminal Procedure
+of 1908 empowering a Magistrate to review
+or recall an order passed by him.
+Code of Criminal Procedure
+does  contain  a  provision  for  inherent  powers,  namely,
+Section 561-A  which, however,	confers these  powers on the
+High Court  and the  High Court alone. Unlike Section 151 of
+Civil Procedure	 Code, the  subordinate criminal courts have
+no inherent  powers. In	 these circumstances, therefore, the
+learned Magistrate had absolutely no jurisdiction to re-call
+the order dismissing the complaint. [778 C-E]
+773
+     2.(iii) Filing  of a  second complaint  is not the same
+thing as  reviving a dismissed complaint after recalling the
+order of  dismissal. The
+Criminal Procedure  Code
+does	 not
+contain any  provision enabling	 the Criminal  Court to	 use
+such an inherent power. A second complaint is permissible in
+law if it could be brought within the limitations imposed by
+the Supreme  Court in Pramatha Nath Taluqdar v. Saroj Ranjan
+Sarkar [1962] Suppl. 2 S.C.R. 297. [777 A-B; 776 H]
+     Bindeshwari Prasad Singh v. Kali Singh, [1977] 1 S.C.R.
+125, followed.
+     B.D. Sethi	 v. V.P.  Dewan, 1971  Delhi Law  Times 162,
+over-ruled.
+     3. A  mere reading	 of
+Article  141
+brings	 into  sharp
+focus its expanse and all pervasive nature. There is nothing
+like any prospective operation alone of the law laid down by
+the Supreme  Court. The	 law laid  down by the Supreme Court
+applies to all pending proceedings. [780 D; 779 E]
+     Shenoy and	 Co. v.	 Commercial Tax	 Officer,  [1985]  2
+S.C.C. 512, relied upon.
+     In the  instant case,  the	 Additional  Sessions  Judge
+overlooked the	binding nature	of the	law declared  by the
+Supreme	 Court	 mandating  under
+Art.  141
+,	every  court
+subordinate to this Court to accept it. The High Court could
+have, if  it had  examined the	matter, corrected  the error
+into which  the Sessions Judge fell. The observations of the
+Sessions Judge	disclose a  confusion of  thought about	 the
+effect of  decision rendered  by the  Supreme  Court  and  a
+misreading of
+Article 141
+of the Constitution. [779 F-G;D-E]
+
+
+
+JUDGMENT:
+CRIMINAL APPELLATE	 JURISDICTION :	 Criminal Appeal No.
+184 of 1979.
+From the  Judgment and  Order dated  the 9.8.78  of the
+Delhi High Court in Criminal Misc. No. 391 of 1978.
+Rajender Nath  Sachar, D.N.  Mishra, Ms. L. Goswami and
+T.M. Ansari with him for the Petitioners.
+774
+V. Mahajan and C.V. Subba Rao for the Respondents.
+     The Judgment of the Court was delivered by
+     KHALID, J.	 This  Criminal	 appeal	 by  special  leave,
+involves the question :
+Whether a  Sub-ordinate  Criminal  Court  has	 any
+	  inherent jurisdiction	 outside the  provisions  of
+	  the
+Criminal Procedure Code
+?
+Incidentally, the  scope of
+Article 141
+of the Constitution
+also comes up for consideration.
+The  facts	 of  the  case	can  be	 stated	 first.	 The
+appellants, two	 in number,  are the  accused in a complaint
+filed by  the first  respondent in the Court of the Judicial
+Magistrate, First  Class, New  Delhi, disclosing  an offence
+punishable under
+Section 67
+and
+72C(l)(a)
+of the Mines Act,
+1952, read  with Regulation  106 of  the Metallifarous Mines
+Regulation 1961.  The learned  Magistrate took the complaint
+on file	 and issued  summons to	 the accused  to  appear  on
+6.1.1972. On  6.1.1972	 neither  the  complainant  nor	 the
+accused were  present and  therefore, the  Magistrate passed
+the following order :
+"Accused  not	  present.  None   present  for	 the
+	  complainant  also.   The   complaint	 is   hereby
+	  dismissed in default and for want of prosecution."
+On 13.1.1972,  the  complainant	 filed	an  application	 for
+restoration of	the complaint.	On 20.1.1972, the Magistrate
+passed the following order :
+"I  heard   Shri  T.S.  Sodhi.  The  complaint  be
+	  restored. Summon accused for 21/2."
+On 21.2.1972,  the accused  petitioners moved an application
+before the Magistrate stating that the order dated 20.1.1972
+was without  jurisdiction since	 the Magistrate	 had  become
+functus	 officio,   by	his   order  dated   6.1.1972.	This
+application was	 rejected by  the Magistrate  by  his  order
+dated 8.5.1972.	 He was	 of the	 view that  he had  inherent
+powers under  the
+Code	of Criminal  Procedure
+to review and
+re-call his earlier orders.
+775
+Aggrieved by  this order,	the petitioners	 filed	a  A
+revision before	 the  Court  of	 Additional  Chief  Judicial
+Magistrate, New Delhi, which was dismissed on 6/7/1973.
+This was  followed by  another revision before the High
+Court of  Delhi. The Delhi High Court dismissed the revision
+by its	order  dated  10.1.1975,  relying  upon	 an  earlier
+decision of  the same  Court to	 the effect  that a criminal
+court had  certain inherent  powers, though not specifically
+mentioned in the Code.
+On 5.8.1976,  this Court  delivered its Judgment in the
+case of
+Bindeshwari Prasad  Singh  v.	Kali  Singh
+,  [1977]
+S.C.R. 125  holding that  no criminal court had any inherent
+jurisdiction, not  provided for	 in the
+Criminal  Procedure
+Code
+. The  petitioners, armed  with this  decision, moved an
+application   before	the   Metropolitan   Magistrate	  on
+22.12.1976,  contending	 that  all  proceedings,  after	 the
+dismissal of  the complaint  by order  dated 6.1.1972,	were
+without jurisdiction  in the  light of	the law
+laid down by
+this Court  and requested  the Magistrate  to  drop  fruther
+proceedings. The  learned Metropolitan	Magistrate  accepted
+this contention and by his order dated 16.7.1977 dropped the
+proceedings against the petitioners.
+Aggrieved	by  this  order,  the  respondents  filed  a
+revision  before   the	Sessions   Judge,  New	 Delhi.	 The
+Additional Sessions  Judge, New	 Delhi, to  whom  this	case
+stood transferred,  reversed the  decision of the Magistrate
+by his	order dated  7.1.1978 and  held that  : "so  for  as
+Article 141
+of the  Constitution of  India and the ratio of
+these decisions	 is  concerned,	 there	can  be	 no  dispute
+whatsoever. At	the same  time a  pronouncement	 as  to	 the
+position of  law in a judicial decision by the Supreme Court
+cannot be treated as a sort of legislation by the Parliament
+giving retrospective  effect as	 to enjoin  reopening of all
+matters which have already become final and closed."
+Aggrieved by this order the petitioners moved the Delhi
+High Court  under
+Article  227
+of  the Constitution of India
+read with
+Section 482
+of the Code of Criminal Procedure, to
+quash further proceedings, relying upon the decision of this
+Court mentioned	 above and  contending that the order of the
+Sessions
+776
+Judge was  wrong. This	revision petition  was dismissed  in
+limine by the High Court on 9.8.1978, observing :
+"I find no sufficient reason to interfere with the
+	  impugned order. Dismissed."
+It is against this order that this appeal has been filed.
+The first	question to  be considered  is	whether	 the
+Magistrate could  have re-called  his order.  It  cannot  be
+disputed  that	the  Magistrate	 has  powers  to  dismiss  a
+complaint and  discharge the accused when the complainant is
+absent.
+In
+Ram Prasad Maitra v. Emperor
+, 1928 A.I.R. - Cal.
+569 a  division bench  of the  Calcutta High  Court  had  to
+consider  the	question  whether  the	Sessions  judge	 was
+justified in  directing the complaint to be sent back to the
+Magistrate  for	 further  enquiry  when	 the  complaint	 was
+dismissed under
+section 203
+of  Criminal  Procedure  Code.
+Answering the question in the negative, it was observed :
+"...... In a case like this, where the complainant
+	  does not  choose to be present, he cannot be heard
+	  afterwards to	 say that  the matter should be sent
+	  back to the Magistrate for further enquiry..."
+This  Judgment	 indirectly  recognises	  the  power   in  a
+Magistrate to dismiss a complaint for default. We agree with
+this conclusion.
+Section 249
+of the  Criminal Procedure  Code enables a
+Magistrate to  discharge the accused when the complainant is
+absent and when the conditions
+laid down in
+the said section
+are satisfied.
+Section 256(1)
+of the Criminal Procedure Code
+enables	 a   Magistrate	 to   acquit  the   accused  if	 the
+complainant does not appear. Thus, the order of dismissal of
+a complaint  by a  criminal court  due to  the absence	of a
+complainant is	a proper  order.
+But  the  question  remains
+whether a  magistrate can restore a complaint to his file by
+revoking his  earlier  order  dismissing  it  for  the	non-
+appearance of  the complainant	and proceed  with it when an
+application is	made by	 the complainant  to  revive  it.  A
+second complaint  is permissible  in  law  if  it  could  be
+brought within	the limitations	 imposed by  this  Court  in
+Pramatha Nath Taluqdar v. Saroj Ranjan Sarkar
+, [1962]
+777
+Suppl. 2 S.C.R. 297. Filing of a second complaint is not the
+A  same	 thing	as  reviving  a	 dismissed  complaint  after
+recalling the  earlier	order  of  dismissal.  The
+Criminal
+Procedure Code
+does not  contain any provision enabling the
+criminal court to exercise such an inherent power.
+In
+B.D. Sethi v. V.P. Dewan
+, 1971 Delhi Law Times 162 a
+division  bench	  of  the  Delhi  High	Court  held  that  a
+Magistrate could  revive a  dismissed  complaint  since	 the
+order dismissing the complaint was not a Judgment or a final
+order. In paragraph 9, the Court observes as follows :
+"9. As  long as  the order  of the Magistrate does
+	  not amount to a Judgment or a final order there is
+	  nothing  in	the
+Code   of	Criminal   Procedure
+prohibiting the  Magistrate  from  entertaining  a
+	  fresh application  asking for	 the same  relief on
+	  the same facts or from re-considering that order.
+	  During the course of the proceedings, a Magistrate
+	  has to  pass various	interlocutory orders  and it
+	  will	not  be	 correct  to  say  that	 he  has  no
+	  jurisdiction to re-consider them.."
+We would like to point out that this approach is wrong. What
+the Court  has to  see is  not whether	the Code of Criminal
+procedure contains  any provision  prohibiting a  Magistrate
+from entertaining  an application  to  restore	a  dismissed
+complaint, but	the task  should be  to find out whether the
+said Code  contains any	 provision enabling  a Magistrate to
+exercise an  inherent jurisdiction  which he  otherwise does
+not have.  It was  relying upon this decision that the Delhi
+High Court  in this  case directed the Magistrate to re-call
+the order  of dismissal	 of the	 complaint. The	 Delhi	High
+Court referred to various decisions dealing with section 367
+(old code)  of the
+Criminal Procedure Code
+as to what should
+be the	contents of  a Judgment.  In our  view,	 the  entire
+discussion is misplaced. So far as the accused is concerned,
+dismissal  of	a  complaint   for  non-appearance   of	 the
+complainant or his discharge or acquittal on the same ground
+is a  final  order  and	 in  the  absence  of  any  specific
+provision in  the Code,	 a Magistrate  cannot  exercise	 any
+inherent jurisdiction.
+778
+For our  purpose, this  matter is	now concluded  by  a
+judgment of  this Court	 in the	 case of
+Bindeshwari Prasad
+Singh v.  Kali Singh
+,  [1977] 1	 S.C.R. 125. We may usefully
+quote the following passage at page 126 :
+".......  Even   if	the   Magistrate   had	 any
+	  jurisdiction to  re-call this order, it could have
+	  been done  by another	 judicial order after giving
+	  reasons that he was satisfied that a case was made
+	  out for  re-calling the  order. We,  however, need
+	  not  dilate	on  this   point  because  there  is
+	  absolutely no	 provision in  the
+Code	 of Criminal
+	  Procedure
+of	1908 (which  applies to	 this  case)
+	  empowering a	Magistrate to  review or  re-call an
+	  order passed	by him.
+Code of  Criminal Procedure
+does contain	a  provision  for  inherent  powers,
+	  namely,  Section  561-A  which,  however,  confers
+	  these powers	on the High Court and the High Court
+	  alone. Unlike Section 151 of Civil Procedure Code,
+	  the subordinate  criminal courts  have no inherent
+	  powers. In  these  circumstances,  therefore,	 the
+	  learned Magistrate  had absolutely no jurisdiction
+	  to re-call the order dismissing the complaint. The
+	  remedy of  the respondent was to move the Sessions
+	  Judge or  the High  Court in	revision.  In  fact,
+	  after having	passed the  order dated	 23.11.1968,
+	  the  Sub-divisional	magistrate  became   functus
+	  officio and had no power to review or re-call that
+	  order	 on   any  ground   whatsoever.	  In   these
+	  circumstances, therefore,  the order even if there
+	  be one,  re-calling order dismissing the complaint
+	  was entirely	without jurisdiction. This being the
+	  position,  all  subsequent  proceedings  following
+	  upon re-calling  the said order, would fall to the
+	  ground including  order dated	 3.5.1972, summoning
+	  the accused  which must  also be  treated to	be a
+	  nullity and  destitute of  any legal	effect.
+The
+	  High	Court	has  not   at  all  considered	this
+	  important aspect  of the  matter which  alone	 was
+	  sufficient to	 put an end to these proceedings. It
+	  was  suggested   by  Mr.  D.	Goburdhan  that	 the
+	  application given  by him for re-calling the order
+	  of dismissal	of the	complaint would	 amount to a
+	  fresh complaint. We are,
+779
+however, unable  to  agree  with  this  contention
+	  because there was no fresh complaint and it is not
+	  well settled	that a second complaint can lie only
+	  on fresh  facts or even on the previous facts only
+	  if a	special case is made out. This has been held
+	  by this  Court in
+Pramatha Nath Taluqdar v. Saroj
+	  Ranjan  Sarkar
+(supra).   For   these   reasons,
+	  therefore, the appeal is allowed. The order of the
+	  High Court maintaining the order of the Magistrate
+	  dated 3.5.1972  is set  aside and the order of the
+	  Magistrate dated  3.5.1972 summoning the appellant
+	  is hereby quashed.
+When  the	matter	went  before  the  High	 Court,	 the
+decision of this Court
+referred above
+must have been brought
+to its	notice, since  the order  by the Additional Sessions
+Judge refers  to it.  We would	have happy if the High Court
+had considered the matter in some detail especially when its
+attention was  drawn to	 this decision instead of dismissing
+the revision  in limine.  The observations  of the  Sessions
+Judge, extracted  above, discloses  a confusion	 of  thought
+about the  effect of a decision rendered by this Count and a
+misreading of
+Article 141
+of the  constitution.  There  is
+nothing like any prospective operation alone of the law
+laid
+down by
+this Court. The law
+laid down by
+this court applies
+to all	pending	 proceedings.  If  the	Sessions  Judge	 had
+expressed his  helplessness because  of the earlier order of
+the High  Court binding	 on him and had allowed the revision
+on that	 ground, we  could  have  understood  the  reasoning
+behind it. He got rid of the effect of this Court's Judgment
+by observing that a decision by this Court cannot be treated
+as "a sort of legislation by Parliament" and thus overlooked
+the binding  nature of	the  law  declared  by	this  Court,
+mandating under
+Article 141
+,  every Courts  subordinate  to
+this Court to accept it. The High Court could have if it had
+examined the  matter, corrected	 the error  into  which	 the
+Sessions Judge fell.
+The sweep of
+Article 141
+of the Constitution, so far as
+the Judgments  of this	Court are  concerned,  came  up	 for
+consideration before  this Court  recently in
+Shenoy and Co.
+v. Commercial  Tax Officer
+,  [1985] (2)	 S.C.C. 512 to which
+one of	us was	a party. It is not necessary to refer to the
+facts of  that case,  in detail.  Suffice it to say that the
+contention
+780
+that the  law
+laid  down by
+this Court in an appeal filed by
+the State  would not bind the other parties against whom the
+State of  Karnataka did	 not  file  appeals  from  a  common
+Judgment, was repelled by this Court in the following words:
+"....It is,  therefore, idle	to contend  that the
+	  law
+laid down by
+this Court in that Judgment would
+	  bind only  the Hansa Corporation and not the other
+	  petitioners against  whom the	 State of  Karnataka
+	  had not  filed any  appeal. To  do so is to ignore
+	  the binding  nature of  a judgment  of this  Court
+	  under
+Article 141
+of the Constitution.
+Article 141
+reads as follows :
+"The law  declared by	 the Supreme  Court shall be
+	  binding on  all courts  within  the  territory  of
+	  India." A mere reading of this article brings into
+	  sharp focus  its  expanse  and  is  all  pervasive
+	  nature.  In	cases  like   this,  where  numerous
+	  petitions are disposed of by a common judgment and
+	  only one  appeal is  filed,  the  parties  to	 the
+	  common judgment  could very  well have  and should
+	  have intervened and could have requested the Court
+	  to hear  them also.  They cannot  be heard  to say
+	  that the  decision was  taken by this Court behind
+	  their back  or profess  ignorance of the fact that
+	  an appeal  had been filed by the State against the
+	  common judgment....
+To contend  that this	 conclusion applies  only to
+	  the party  before this  Court is  to	destroy	 the
+	  efficacy and integrity of the judgment and to make
+	  the mandate  of
+Article  141
+illusory. But setting
+	  aside the  common judgment  of the High Court, the
+	  mandamus issued  by the  High	 Court	is  rendered
+	  ineffective not  only	 in  one  case	but  in	 all
+	  cases."
+Normally, when	several matters	 are disposed of by a common
+Judgment, and  the defeated  party  files  only	 one  appeal
+against one  such matter  and succeeds	in that	 matter,  he
+would still  be faced  with the	 plea  of  finality  of	 the
+Judgment based on res-judicata by those against whom appeals
+were not  filed. But this plea did not find favour with this
+Court
+in
+the above
+781
+case
+. It  was held  that the Judgment rendered by this Court
+in one appeal, took away the finality of the common Judgment
+even against  those against  whom  appeals  were  not  filed
+because of the all pervasive operation of
+Article 141.
+We do  not think it necessary to probe further into the
+facts of  this case and lengthen this Judgment, for one good
+reason; this  case has	moved along  the  files	 of  various
+Courts for  more than  15 years	 and it is high time that we
+give it	 a decent  burial.
+In  view of	the law
+laid down by
+this Court in
+Bindeshwari Prasad Singh
+'s case (supra) we set
+aside the  order of  the High  Court, allow  this appeal and
+restore	 the   order  of   the	Magistrate,  dated  6.1.1972
+dismissing the complaint.
+M.L.A.					     Appeal allowed.
+782

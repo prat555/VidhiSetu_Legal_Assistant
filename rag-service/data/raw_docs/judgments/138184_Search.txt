@@ -1,0 +1,828 @@
+Title: Search
+Court: High Court
+Date: 3 of 1969
+Citation: citations: AIR1993CAL144, (1993)1CALLT162(HC), 1993(1)CHN307, 97CWN227, AIR 1993 CALCUTTA 144, (1993) 2 RENCR 246, (1993) 2 RENTLR 312, (1993) 2 RRR 454, (1993) 1 CAL HN 307, (1993) 1 CAL LJ 193, (1993) 1 CALLT 162, (1993) CAL WN 227
+Source: https://indiankanoon.org/doc/138184/
+
+[Cites
+67
+, Cited by
+64
+]
+Calcutta High Court
+Ratanlal Bansilal And Others vs Kishorilal Goenka And Others on 18 December, 1992
+Equivalent citations: AIR1993CAL144, (1993)1CALLT162(HC), 1993(1)CHN307, 97CWN227, AIR 1993 CALCUTTA 144, (1993) 2 RENCR 246, (1993) 2 RENTLR 312, (1993) 2 RRR 454, (1993) 1 CAL HN 307, (1993) 1 CAL LJ 193, (1993) 1 CALLT 162, (1993) CAL WN 227
+Author:
+Umesh Chandra Banerjee
+Bench:
+Umesh Chandra Banerjee
+ORDER
+
+
+
+ 
+
+ Ajit Kumar Sengupta, J.
+1. These two Full Bench References involving interpretation of
+S. 100
+of the Code of Civil Procedure, 1908 as amended, arise out of two several appeals entertained by a Division Bench of this Court. Each of the said appeals is directed against the judgment and decree of the District Court in first appeal reversing the decree for eviction of the sole defendant-tenant in each of the two several suits decreed by the trial court.
+2. Kishorilal Goenka, respondent in S.A. No. 354 of 1982 and Satya Narain Goenka, respondent in S.A. No. 355 of 1982 are brothers who had been occupying the second and first floors of the suit property respectively as tenants under separate tenancy.
+3. There are three-plaintiffs, who are the appellants herein. The first plaintiff, a Partnership firm, claims to be the owner of the one-half undivided share of the property and the second plaintiff is the owner of the rest half. Initially, the first two plaintiffs filed two several suits jointly for eviction of the respective tenant (the respective respondent) on diverse grounds. The first ground is that they had made unauthorised constructions in the respective parts of the suit property under their tenancy. During the pendency of the suit, the third plaintiff was added and the plaint allowed to be amended because meanwhile the third plaintiff purchased the suit property from the first and second plaintiffs and sought for eviction of the tenants on grounds of reasonable requirements. The trial Court on appreciation of evidence of witnesses and documents passed the decree for eviction finding all the grounds to be valid. The first appeal Court, however, reversed the decree on holding that the first plaintiff, the Partnership firm, is not the owner of the one-half share, but the said share was owned by its partner. Therefore, the notice for eviction was bad. The appeal Court also found that the constructions were not unauthorised and were made with consent of the owners. It further held that the third plaintiff viz. Shankara Hall and Shankara Institute of Philosophy and Culture cannot be said to have reasonable requirement to occupy the whole property for the fulfilment of its objects.
+4. It is from that judgment and decree of the first appellate Court that the present appeal has been filed. The gist of the grounds of appeal is that the decision in the first appeal is perverse, the finding of facts being contradictory of evidence on record, based on no evidence and on illegal assumptions and vitiated by irrelevant consideration and, exclusion of relevant materials and erroneous application of law.
+5. The Respondents now challenge the maintainability of these second appeals under the provisions of
+S. 100
+of the Code as amended in 1976.
+6. Before the Division Bench of this Court presided over by Shamsuddin Ahmed, J. the Respondents-Defendants relied on an earlier decision of the Division Bench of this Court presided over by A.M. Bhattacharjee, J. (as he then was), in Debokinandan Boobna v. Harasunder Sarkar, reported in (1988) 1 Cal LJ 278. There it was decided that no second appeal could lie under amended
+S. 100
+of the Code solely on the ground that the finding of the first appellate Court has been arrived at on no evidence or is such as could not be arrived at on the evidence on record by any reasonable man or even on ground of the finding having been arrived at on an erroneous application of law which is, otherwise, settled.
+7. However, the Division Bench presided over by Shamsuddin Ahmed, J., hearing the instant appeals on this preliminary question could not persuade itself to share the view taken in Boobna's case (supra) and is inclined to hold that legality of inference on facts is as well justiciable under
+S. 100
+of the Code as a substantial question of law within the meaning of its amended provision.
+8. If we go by the decision in Boobna's case (supra) the appeal is not maintainable. The earlier Division Bench in Boobna's case (supra) held that the expression "substantial question of law" as now appearing in the amended
+S. 100
+of the Code should be construed in the light of the tests laid down by the larger Bench of the Supreme Court consisting of five Judges in Sir Chunilal v. Mehta & Sons Ltd. v. Century Spinning and
+
+Manufacturing Co., .
+9. The tests laid down by the larger Bench of the Supreme Court are in the following terms (at p. 1318 of AIR):--
+"The proper test for determining whether a question of law raised in the case is substantial would, in our opinion, be whether it is of general public importance or whether it directly and substantially affects the rights of the parties and if so, whether it is either an open question in the sense that it is not finally settled by this Court or by the Privy Council or by the Federal Court or is not free from difficulty or calls for discussion of alternative views. If the question is settled by the highest court or the general principles to be applied in determining the question are well-settled and there is a mere question of applying those principles or that the plea raised is palpably absurd, the question would not be a substantial question of law."
+10. According to the reading of that earlier Division Bench of this Court, this passage from the judgment of the Supreme Court clearly shuts out a second appeal to the High Court under amended
+S. 100
+, where the grounds therein raise merely the question of perversity of fact-finding or erroneous application of law otherwise settled, since under the amended Section a second appeal involving a "substantial question of law" alone is to be entertained by the High Court.
+10.1 The tests of "substantial question of law" as emerging from the said passage determines the scope of the amended
+S. 100
+of the Code, according to the decision in Boobna's case (1988 (1) Cal LJ 278) (supra).
+For this support was drawn from the observations of a three-Judge Bench of the Supreme Court in
+Mahindra & Mahindra Ltd. v. Union of India
+, , to the effect that the tests in Sir Chunilal v. Mehta & Sons Ltd.  (supra) apply to determine whether the appeal raises a question of law and a substantial question of law, to be maintainable under amended
+S. 100
+, CPC.
+In the said decision in
+Mahindra & Mahindra Ltd.
+(supra) the same
+
+passage from Sir Chunilal v. Mehta (supra) has been quoted as the authoritative construction of the expression "substantial question of law".
+The Division Bench in Boobna's case held that the Supreme Court in
+Mahindra & Mahindra Ltd.
+(supra) having applied the same tests, which the larger Bench of the Supreme Court had earlier laid down; it is now settled law that the amended
+S. 100
+of the Code does not admit of any second appeal where the fact-finding is challenged on grounds of perversity of the finding of fact or the finding being otherwise vitiated.
+10.2 The decision in
+Mahindra & Mahindra Ltd.
+(supra) adopting the same tests as
+laid down in
+Sir Chunilal v. Mehta  (supra) for construing the expression "substantial question of law" in
+S. 100
+was held by that Division Bench as binding.
+10.3 Of course, the presiding Judge in Boobna's case (supra) in all fairness mentioned that the declaration as regards the import of the expression "substantial question of law" appearing in amended
+S. 100
+of the Code was not a necessary issue in
+Mahindra & Mahindra Ltd.
+(supra).
+The appeal in
+Mahindra Ltd.
+(supra) was one under
+S. 55
+of the Monopolies and Restrictive Trade Practices Act, 1969 (MRTP Act). Section 55 of the MRTP Act, incorporated S. 100 of the Code as it obtained at the commencement of that Act in 1969, i.e. before its amendment.
+S. 55
+being an instance of legislation by incorporation is to continue to be governed by the unamended S. 100.
+But, yet the Supreme Court in
+Mahindra & Mahindra Ltd.
+(supra) while holding the appeal before it as maintainable under unamended S. 100 of the Code observed, en passant, that if hypo-thetically amended Section could apply even then appeal would have been maintainable because the grounds of appeal in the case before it satisfied the tests
+laid down in
+the decision in Sir Chunilal v. Mehta (supra).
+10.4 The Division Bench in Boobna (1988 (1) Cal LJ 278) (supra) negatived the contention that the incidental observation on a hypothesis is an obiter. According to that Division Bench, the Supreme Court in
+
+Mahindra & Mahindra Ltd.  (supra) not only made a declaration of law as to the scope of and the tests applicable to the present S. 100 of the Code, but also applied the law so declared in deciding the question of maintainability of the appeal before it.
+10.5 The Division Bench further held that even if the observation in
+Mahindra & Mahindra Ltd.
+(supra) is an obiter, it, being that of the Supreme Court, binds all the High Courts because it is after all not merely an observation but a declaration of law, immaterial that the declaration was not necessary. Being a declaration of law it has the authoritative value in terms of
+Art. 141
+of the Constitution.
+Thus, the obiter also binds High Courts and resultantly the tests in Sit Chunilal v. Mehta  (supra) combined with the declaration in
+Mahindra & Mahindra Ltd.
+(supra) should also apply to a second appeal to the High Court under amended S. 100 of the Code. It has binding effect.
+10.6 Before the Division Bench that decided Boobna's case (supra), another decision of the Supreme Court (a three-Judge Bench) in
+Hooghly Jute Mills v. Their Employees
+, , was cited. In that case the Supreme Court held that the finding of fact reached by the Industrial Tribunal can be subject-matter of appeal as a substantial question of law if there was no evidence to support the finding or the finding was perverse or was such as no reasonable man could arrive at it. The decision was in the context of an appeal under
+S. 7
+of the Industrial Tribunal (Appellate Tribunal) Act, 1950, which allows appeals to the Tribunal only if a substantial question of law is involved. The scope of appeal under
+S. 7
+of that Act is pari materia with that under amended S. 100 of the Code.
+10.7 However, A. M. Bhattacharjee, J. (as he then was) in Boobna's case (1988 (1) Cal LJ 278) did not consider this decision in
+Hooghly Jute Mills
+(supra) as expository of the meaning of the expression "substantial question of law".
+According to His Lordship, the tests of substantiality of the question of
+
+law in
+Hooghly Jute Mills
+(supra) are
+laid down by
+a three-Judge Bench and, therefore, the tests in Sir Chunilal v. Mehta  (supra), being a decision of a larger Bench of five Judges should prevail.
+10.8 Again, in Boobna's case (supra) attention of the Court was invited to
+Budhwanti v. Gulab Chand Prasad
+, , where the Supreme Court similarly held that the finding of fact when based on assumption and no evidence becomes justiciable in second appeal. But the Division Bench considered the decision to be of no avail because it was a decision of a Bench comprising two Judges. Secondly, it did not in specific terms examine the effect of the amendment.
+11. But, the Division Bench presided over by Shamsuddin Ahmed, J., was not in agreement with the decision in Boobna's case (supra) on multiple counts. The first and foremost point of dissent is the equation of the import of the expression "substantial question of law" as appearing in
+Article 133(1)(a)
+of the Constitution and Section 100 of the Code. Sir Chunilal v. Mehta  (supra) deals with the scope of appeal under
+Article 133(1)
+of the Constitution.
+Article 133(1)
+of the Constitution after 13th
+Amendment Act, 1972
+requires that an appeal from the High Court to the Supreme Court and the grant of certificate under
+Article 134A
+shall require not only that the case involves "substantial question of law" but the substantial question of law must be of general importance as well. In the context of this limiting factor the decision in Sir Chunilal v. Mehta (supra) had to be what it is and should not be followed as the precedent defining the scope of amended Section 100 of the Code.
+11.1 Moreover, Sir Chunilal v. Mehta (supra) was a case decided before the amendment of
+Article 133(1)(a)
+of the Constitution by
+Amending Act
+1972, or 1973 amendment of
+Sections 109
+and
+110
+of the C.P.C. Therefore, the Supreme Court in Chunilal's case (supra) had no opportunity to consider the effect of amendment in
+Article 133(1)(a)
+of the Constitution and Section 100 of the
+
+Code. By implication the Bench holds that the tests in Chunilal (supra) are neither relevant nor of lasting value.
+11.2 The Bench also observed that the legislature had in mind different meaning of the expression "substantial question of law" while using it in
+Article 133(1)(a)
+of the Constitution, and Sections 109 and 110 of the Code on the one hand and in Section 100 of the Code on the other. Thus, the grounds for entertaining an appeal to the Supreme Court under
+Article 133(1)(a)
+of the Constitution and Section 109 of the Code and the grounds on which an appeal lies to the High Court under
+Section 100
+of the C.P.C. were clearly distinguished. An appeal to the Supreme Court, besides being on substantial question of law, has to be at the same time on a question of law to which attaches general importance. So the equation of Section 100 of the Code with
+Article 133(1)(a)
+of the Constitution or for that matter Section 109 of the Code is imperssible.
+11.3 Secondly, the construction of any expression in a Section should be such as harmonises with the rest part of the same legislation. If perversity of fact-finding for irrational or vitiated approaches and capricious assumptions is a total anathema to Section 100, it cannot go hand in hand with Section 103 of the Code, or Order XLI read with Order XL1I of the Code. These provisions are clear pointer that the legislature contemplates interference by the High Court in second appeal even on finding of facts where such finding is vitiated. That construction of a provision which pieces together with the totality of the legislative scheme of a particular enactment incorporating the provision is the only construction permissible. No expression in any part of it can be understood dehors the rest of the enactment. If the tests laid down in Chunilal v. Mehta  (supra) as rigidly interpreted in Boobna (1988 (1) Cat LJ 278) (supra) are taken to apply for entertainment of appeals under Section 100 of the Code, the provisions of Section 103 of the Code become nugatory. The same can be said of Order XLII. But Sections 100, 103 and Order XLI, XLII all
+
+stand as a range of provisions each being part of a unity of pattern. Those companion provisions predicate the room for the High Court to go into evidence and facts in second appeal. No embargo as inflexible as conceived in Boobna's case against review of the inference on facts can be thought of.
+11.4 The Division Bench presided over by Shamsuddin Ahmed, J., also differed on the question of the authoritative value of obiter of the Supreme Court. It has poignantly referred that the smaller Benches of the Supreme Court have not accepted the obiter in
+Mahindra & Mahindra Ltd.
+(supra) as binding. Therefore, the obiter cannot bind the High Court.
+12. This difference of opinion created difficulties and resulted in the reference of the matter to this Full Bench.
+13. In the tradition of judicial system of this country
+Section 100
+of CPC provides for a second appeal as a check against error of judgment at the District Court level, being the first appellate Court. But the facility for second appeal is not an absolute right. The right from the commencement was restricted. As we will see presently, Section 100 before its amendment had three clauses (a), (b) and (c). Nothing short of a question of law could be subject-matter of a second appeal. Clause (a) permitted second appeal where the first Appellate Court has decided the dispute contrary to law. Clause (b) provided for appeal where the Appeal Court of the first instance failed to determine some material issue of law. Clause (c) dealt with a substantial error of law or defect in the procedure adopted causing possible error or defect in the decision of the case upon the merits. This Clause (c) earned infamy as it had allegedly permitted litigants to degrade the High Court into a Court of first appeal because Clause (c) would be satisfied if the party appealing could show a substantial error or defect in the procedure adopted possibly affecting the decision on merits. Clause (c) was too widely worded and the litigants had successfully crafted their grounds to assail the decision on facts in second appeal, contrary to the intent and purpose of second appeal which is based
+
+on the fundamental principle that there should not be more than one appeal on a question of fact.
+14. One may wonder if there has been a substantial error or defect in the procedure or the process of adjudication and the same affects the soundness of the decision, how its correction by the High Court could bring mischief. Rather, mischief would arise from passivity of the High Court. It would tend the judicial system to discredit if miscarriage of justice has to go unremedied. Perhaps exception can be taken if the High Court hastens to re-evaluate evidence to examine the soundness of the decision on fact on each such complaint of procedural error, howsoever, inconsequential. It may be unwholesome and against public interest in that justice shall elude the successful party but economically weak. Whether the trend of judicial history justifies such fears is a question that does not belong here. But a view, though in minority, gained ground that the inference on fact should not be interfered with in second appeal. Even before the amendment there had been a few decisions that held that under Section 100 (unamended) the High Court has no jurisdiction to entertain a second appeal on the ground of an erroneous finding of fact, however, gross or inexcusable the error may seem to be (See: Durga Chowdharin v. Jawahir, (1891) ILR 18 Cal 23 (PC).
+15. The Supreme Court in Ramappa v. M. Bojappa, , observed :--
+"It may be that in some cases, the High Court dealing with the second appeal is inclined to take the view that what it regards to be justice or equity of the case has not been served by the findings of fact recorded by Courts of fact but on such occasions it is necessary to remember that what is administered in Courts is justice according to law and considerations of fair play and equity however, important they may be, must yield to clear and express provisions of the law. If in reaching its decisions in second appeals, the High Court contravenes the express provisions of Section 100, it would inevitably introduce in such decisions an element of disconcerting unpredictability which is
+
+usually associated with gambling; and that is a reproach which judicial process must constantly and scrupulously endeavour to avoid."
+16. Reference may be made to Deity Pattabhiramaswamy v. S. Hanyamayya AIR 1959 SC 57, where the admission of second, appeal was reproached for having introduced an element of gambling in litigation.
+17. Even in recent times the Supreme Court in
+Bholaram v. Ameerchand
+, , has held in the context of unamend-ed Section 100 that the finding of fact cannot be a subject-matter of appeal even if the error in the finding is grossly inexcusable.
+18. This brings home the truth that even before its amendment Section 100 was not considered to be all too permissive to admit of re-evaluation of fact. But the rectitude of interference by the High Court in the context of the facts of a particular case should not lead to a proposition in the abstract that legality of ultimate inference on facts found is beyond question by the final appeal Court under all circumstances.
+19. But the number of decisions holding that the findings of fact on no evidence or in disregard of evidence or perversity of conclusion would entitle the High Court to interfere with the findings of the Courts below is overwhelmingly large. The ruling in the cases to which we shall presently refer is that the facts found by lower Courts need not be questioned, but it is the soundness of the conclusions from them that can be in question and this is a matter of law. It is well-settled that the legal effect of a proved fact is essentially a question of law. Thus, even under the unamended section there was similar conflict of opinion as has now arisen before us (See Nafar Chandra Pal Chowdhury v. Sukur Sheik AIR 1918 PC 92; Dhannamal v. Rai Bahadur Lata Matisagar ;
+Gujarat Ginning and Manufacturing Co. v. Motilal Hirabhai Spinning & Manufacturing Co.
+.
+20. Mixed question of law and fact has been held to be a question of law. Facts may be settled, so is the law but its application to the fact may be troublesome and may call for a decision by the High Court.
+21. The earlier decision of the Division Bench of this Court has taken the view that the amended section has made a departure from the tradition and now restricts the scope of second appeal only to substantial question of law. Therefore, any question of law essentially involving the finding of fact is no more justiciable by the High Court. It implies that the cases of no evidence or illegality of conclusion on proven fact or the mixed question cannot be a matter of law for second appeal. The task which is to be addressed to by us is to find the parameter of the amended section. How far the new reading of
+Section 100
+, CPC as dispensing with the natural judicial concern for the inherent risk of failure of justice for perverse fact-finding is correct is the question that confronts us in this Full Bench reference.
+22. At this stage, it is necessary to juxtapose the provisions
+of the Code of Civil Procedure
+before and after the amendment of 1976. The unamended and amended provisions are excerpted below:
+Before Amendment of 1976
+   After Amendment of 1976
+100. Second Appeal-- (I) Save where otherwise expressly provided in the body of this Code
+  or by any other law for the time being in force, an appeal shall lie to the
+  High Court from every decree passed in appeal by any Court subordinate to a High
+  Court on any of the following grounds, namely --
+(100. Second Appeal)-- (1) Save as otherwise expressly provided in the body of this Code
+  or by any other law for the time being in force, an appeal shall lie to the
+  High Court from every decree passed in appeal by any Court subordinate to the
+  High Court, if the High Court is satisfied that the case involves a
+  substantial ques- tion of law.
+(a)
+    
+
+the decision being contrary to law or to some usage having the forceof law;
+(2)
+An appeal may lie under this section from an appellate decree passed ex parte
+(b)
+    
+
+the decision having failed to deter- mine some material issue of taw or usage having the force of law;
+(3)
+In an appeal under this Section the memorandum of appeal shall precisely state the substantial question of law in- volved in the appeal.
+(c)
+    
+
+a substantial error or defect in the procedure provided by
+  this Code or by any other law for the time beingin force, which may possibly
+  have produced error or defect in the de- cision of the case upon the merits.
+(4)
+Where the High Court is satisfied that a substantial question of law is involv- ed in any case, it shall formulate that question.
+(2)
+An appeal may lie under this section from  an appellate decree passed ex parte.
+(5)
+The appeal shall be heard on the question
+  so formulated and the respondent shall, at the hearing of the appeal, be
+  allow-ed to argue that the case does not involve such question.
+Provided that nothing in this sub-section shall be deemed to
+  take away or abridge the power of the Court to hear, for reasons to be
+  recorded, the appeal on any othersubstantial question of law, not formulat- ed by it, if if is
+  satisfied that the caseinvolves such question.
+23. The purpose of the amendment is expressly for securing finality of finding of fact at the stage of the first appeal. But, this concept of finality is being pushed to the extreme to give it absoluteness. Why such rigid view has come to be taken will later become evident when the relevant portions of the report of the Law Commission that heralded the amendments in the Code in 1976, will be referred to. One thing is, however, clear that now the ground for second appeal is only one, i.e. the case involves a substantial question of law. Of the difficulty with regard to the expression "substantial question of law" we are already aware. At the moment that may not detain us.
+24. The only point to note now is that by the exit, in particular, of Clause (c) of the
+
+earlier S. 100, the field of second appeal in the minor cases has seemingly been narrowed down. But one can perhaps doubt even on a contrast of the provisions before and after the amendment whether there is a change in the fundamentals. The old provision just as well would admit an appeal only on questions of law. Questions of fact were clearly excluded even earlier. Reading the old provision in a straightforward manner and in natural spectrum shows that appeal could lie in the past from decision that contradicts any law, or fails to decide any issue of law. The first change is that no second appeal would lie on ground of error or defect in procedure on mere apprehension vague, remote, distant and farfetched that it might affect the decision.
+25. There is yet another change. Even after the amendment the same situations enumerated in the old section shall constitute questions of law provided that the question of law is substantial. The difference that arises would turn on the word "substantial" qualify-ing the expression "question of law". That one word holds the key to the judicial controversy" we are to resolve. We shall come to the import of that word later.
+26. The next amendment is with regard to Section 103 of the Code. The unamended and the amended provisions are extracted below:--
+Before Amendment, 1976
+   After Amendment, 1976
+103. Power of High Court to determine issues of fact -- In any second appeal, the
+  High Court may, if the evidence on the record is sufficient, determine any
+  issue of fact necessary for the disposal of the appeal which has not been
+  determined by the lower Appellate Court or which has been wrongly determined
+  by such Court by reason of illegality, omission, error or defeat such as is
+  referred to in sub-section (1) of Section 100.
+103.
+Power of High Court to determine issue of fact -- In any second appeal, the
+  High Court may, if the evidence on the record is sufficient, determine any
+  issue necessary for the disposal of the appeal,--
+(a)
+   
+
+which has not been
+  determined by the lower Appellate Court or both by the Court of first
+  instance and the lower Appellate Court, or
+(b)
+   
+
+which has been wrongly
+  determined by such Court or Courts by reason of a decision on such question
+  of law as is referred to in Section 100.
+27. The amendment was made simultaneously with that of S. 100 of the Code. It is canvassed that for the purpose of shutting out the grounds of perversity of factual inference or mixed question of law and fact, a few words in the unamended S. 103 which referred to irregularity, error etc. have been omitted. However, the Section despite the change only makes it clear that it applies even where the failure to decide a question occurred not only in the lower Appellate Court but also in the trial Court.
+28. Suffice it to note at this stage that S. 103 enables the High Court in second appeal, where the evidence on the record is sufficient, to determine any issue necessary for the disposal of the appeal only.
+(a) if the lower appellate Court or the trial Court or both have not determined the issue; or
+(b) it has determined that issue wrongly by reason of a decision on such question as is referred to in S. 100 of the Code, i.e. a substantial question of law.
+The difference lies in that the earlier provision endowed power on the High Court to determine any issue of fact if necessary, while the power under the amended section is to determine "any issue" in contradistinction to earlier expression "any issue of fact". But one may reasonably visualise that by dropping the words "of fact" from the earlier expression "any issue of fact", the Legislature did not mean to oust "issue of fact". Rather, the word "issue" shorn of the need of its being one of fact has been given secularity, to take in both issues of law and issues of fact. The expression "any issue" may still imply reference to issue of fact, more so when the amended section by a separate Clause (b) refers to wrong decision on a substantial question of law. Therefore, by the logical process of elimination the word "issue" in Clause (a) of the new Section could embrace any issue other than the issue on a substantial question of law. For, Clause (b) separately deals with substantial question of law, while Clause (a) deals with "issue" in general.
+29.    This shows that the judicial review of facts in a second appeal is not altogether excluded universally and irrespective of the nature of fact-finding, a point to which Sharn-suddin Ahmed, J. has referred with a view to showing the incompatibility of S. 103 of the Code with the ratio in Boobna's case, (1988 (1) Cal LJ 278) (supra) rigidly construing the effect of the expression "substantial question of law", as a question bereft of fact under all circumstances.
+30. Next comes S. 109 of the Code as set out below which deals with appeals to the Supreme Court:--
+Appeals to the Supreme Court
+109. When appeals lie to the Supreme Court --- Subject to the provisions in Chapter IV of Part V of the Constitution and such rules as may, from time to time, be made by the Supreme Court regarding appeals from the Court of India, and to the provisions hereinafter contained, an appeal shall lie to the Supreme Court from any judgment, decree or final order in a civil proceeding of a High Court, if the High Court certifies -
+(i) that the case involves a substantial question of law of general importance; and
+(ii) that in the opinion of the High Court the said questions need to be decided by the Supreme Court.
+31. It has to be noted that S. 100 of the Code merely uses the expression "substantial question of law" but S. 109 requires not only that the case involved is a substantial question of law but, at once, is of general importance. This supports the view of Shamsuddin Ahmed, J., that in Boobna's case, (1988 (1) Cal LJ 278), S. 100 has been equated in a complete manner with Section 109 of the Code and
+Article 133(1)(a)
+of the Constitution in oversight of the differential of the scope of appeal to the High Court and the scope of appeal to the Supreme Court. It has to be noted that obviously S. 109 of the Code is meant for the major cases where the High Court is the First Court of Appeal while S. 100 of the Code deals with the second appeal from the District Court to the High Court.
+32. The High Court being the apex Court in a State, greater confidence is to be reposed in its decision and not too readily considered as open-ended. Its review by the Supreme Court shall in the first instance be necessary if the question of law arising is substantial and again of general importance. The same is true of an appeal to the Supreme Court under
+Article 133(1)(a).
+The Supreme Court would not sit in appeal over the decision of the High Court unless the ground involves a substantial question of general interest. But that is not the case with appeal under
+Section 100
+, C.P.C. where the High Court hears further appeal from the District Court which exercises the power of first appellate Court.
+33. Then conies Order XLI. There are many Rules under the said order which clearly show that the High Court is not robbed of its authority in exercising appellate jurisdiction to have the records of the lower Courts transmitted to it, or to have copies of exhibits in the Court from whose decree the appeal is preferred or to have the case remanded to the lower Court. These are all powers that could not be available if it was debarred absolutely from looking into the facts. These are tools that avail a Court in a finding facts as well as applying the law.
+34. Most important of all these rules is perhaps Rule 24. It authorises the Appellate Court, where evidence on record is sufficient, to resettle the issue, if necessary, notwithstanding that the judgment of the Court below has proceeded wholly upon some grounds other than that on which the Appellate Court proceeds. It can also under Rule 25 frame the issues and refer them for trial to the Court below whose decree is appealed against. It has the power to admit additional evidence.
+35. Evidence is inextricably connected with fact as we shall re-emphasise later. The evidence in law means deposition of witnesses, documents as is judicially well-settled; evidence is that which throws light on the truth of the fact in issue.
+36. It is true that Order XLI deals with the powers of the Court of Appeal of the first
+
+instance but the same powers are equally available to the Court of Second appeal as would appear from Order XLII, Rule I which reads:
+"The Rules of Order XL1 shall apply, so far as may be, to appeals from Appellate Decrees. "
+Therefore, the approach taken by Shamsud-din Ahmed, J., in relying on all these associated provisions to show the anomaly in the approach that applies the same standard of Article 133(1)(a) of the Constitution or S. 109 of the Code to Section 100 ibid, appeals to us.
+37. At this stage we should look to the Report of the Law Commission to unravel the mystique of the expression "substantial question of law". It was largely on the basis of redrafting by the Commission that the amendment has been carried out with some alterations for the trimming effect.
+38. 'The Report of the Law Commission is relevant for appreciating the meaning of "substantial question of law" and how
+S. 100
+, C.P.C. after amendment configures in the total scheme of the Code.
+39. A. M, Bhattacharjee, J. (as he then was) in Boobna's case, (1988 (I) Cal LJ 278) very aptly described as "fastidious" the view that the Report of the Law Commission cannot be used in interpreting an enactment or re-enactment. His Lordship in that connection referred to Udayan Chinubhai AIR 1977 SC 2319, which discarded the view.
+In
+Santa Singh v. State of Punjab
+, where the Supreme Court referred to the research done by the Law Commission which made several recommendations in its 48th Report in construing
+S. 235(2)
+of the Criminal Procedure Code, 1973.
+Reference may be made to
+Mithilesh Kumari v. Prem Behari Khare
+, , where the Supreme Court posed the question :
+"Is it permissible to refer to the Law Commission's report to ascertain the legislative intent behind the provision?"
+Their Lordships answered :
+"We are of the view, that where a particular enactment or amendment is the result of recommendation of the Law Commission of India, it may be permissible to refer to the relevant Report as in this case. What importance can be given to it will depend on the facts and circumstances of each case."
+40. This observation means that the Report is an external aid for comprehending a law enacted where it is the source of the legislative initiative. But the Law Commission's Report cannot be the last word. The ultimate source is the legislative intent and how far there is a fusion of the two. But the report is an aid, its importance depending on other related circumstances. However, it can by no means be the matrix of what is finally enacted and its words final. Such reference is in the best tradition only where the legislature's intention is otiscure.
+41. The initiator of the legislation whose recommendation Parliament considers before the re-enactment is legitimate and convenient source for external aid in interpretation. The initiator knows the circumstances that warranted the enactment and what mischief the extant law did not provide for and what remedy the Parliament has resolved and appointed to cure the disease. (Heyden's case (1584) 3 Co Rep 7a).
+42. The Supreme Court in
+CIT v. Sodra Devi
+, , referred to with approval, the following observations of the House of Lords in Eastman Photographic Materials Co. v. Controller General of Patents, Designs and Trade Marks, (1898) AC 571.
+"It appears to me that to construe the statute in question, it is not only legitimate but highly convenient to refer both to the former Act and to the ascertained evils to which the former Act had given rise, and to the later Act which provided the remedy. These three things being compared, I cannot doubt the conclusion."
+43.    It has been held by the Supreme Court
+
+that the Minister's speech, while presenting a Bill, has exposition value and helps the Courts know the legislative intent underlying the enactment (See
+Sole Trustee, Lok Sik-shana Trust v. CIT
+, );
+Indian Chamber of Commerce v. CIT
+, ; Addl.
+CIT v. Surat Art Silk Manufacturers' Association
+,  and
+K. P. Varghese v. ITO
+, .
+44. Taking such external aid falls under the rule of contemporanea expositio.
+45. As we have said, some caution is well advised against being carried away by such external sources. After all, such reports are mere expression of opinions which may not always go into the object of the enactment. They may be discarded to the extent they are ambiguous or obscure or inconsistent with the entirety of the legislative scheme. Here we have to discern how far the recommendations influenced the law-makers in amending the provision.
+46. Doubtless, the report led to the recasting of the section. It is further true that the Law Commission has shown a clear inclination towards exclusion of any ground as ground of second appeal touching the finding of fact -- whether on question of perversity of such finding or the question of the finding being vitiated or the decision being affected by erroneous application of law to the set of facts.
+47. This will be clear from paragraph 1J.22 of the report.
+"Commission's approach to proper scope of second appeal. I.J.22. It is in the light of the amended
+Article 133
+that we propose to approach the question about the scope of S. 100 of the Code as it should be after it is amended. It would be noticed that Clauses (a), (b) and (c) of S. 100 to which we will presently refer, are, in a sense, very wide in effect. In fact, as we will have occasion to point out, Clauses (b) and (c) have led to a plethora of conflicting judgments and it may be safely stated that ingenuity of the lawyers
+
+determined to seek admission for second appeals of their clients in the High Court, coupled with judicial subtlety which generally believes that even an erroneous finding of fact does, on the ultimate analysis, lead to injustice has unduly and unreasonably widened the horizon of S. 100. It is easy enough to understand what a point of law is : but in dealing with second appeal, Courts have devised and successfully adopted several other concepts, such as a mixed question of fact and law, a legal inference to be drawn from facts proved, and even the point that the case has not been properly approached by the Courts below. This has created confusion in the minds of the public as to the legitimate scope of the second appeal under S. 100 and has burdened the High Courts with an unnecessarily large number of second appeals."
+48. The eye of the storm is patently Clause (c) and the chief concern of the Commission is that the grounds for second appeal as mentioned in the unamended section burdened the High Courts with unnecessary large number of second appeals. There is also a barbed reference to the High Courts being a party to the proliferation of second appeals by taking within the expression "question of law" the concepts of mixed questions of fact and law, the legality of inference from facts proved and impropriety of the approach to facts by the Courts below. Thus, the Commission apparently has not viewed with approbation the historical trend of the working of the High Courts in this paragraph.
+49. There is, however, some amount of ambivalence in the approach of the Commission. Reference may be made to paragraph 1.J.33. In this paragraph, the Commission expressed the tyrannizing effect of second appeal on the successful parties financially weaker. Apart from the plethora of second appeals and the work-load on the High Courts the Commission was also concerned with the advantage taken by the wealthy defeated litigants of such access to the High Courts. While speaking in that vein the Commission some times over-reacted and showed readiness to sacrifice justice. But
+
+finally the Commission got into a dilemma. While the Commission blames the High Courts of encouraging second appeal in the name of justice it observed "no one can deny that Courts should be readily accessible to the people and when litigation is embarked upon there should be a remedy against erroneous decision". This, however, does not match with the earlier observation of the Commission in paragraph 1.3.22 that the belief that an erroneous finding of fact does in the ultimate analysis leads to injustice has unduly and unreasonably widened the horizon of S. 100 and should be eschewed by the High Courts. The two observations do not piece together.
+50. There is clear admission that erroneous finding of fact leads to injustice and there has to be a remedy, but the Commission desired that the legal remedy available should not be open to excesses which means that remedy should avail not to mere pretence of injustice but to real injustice. The immediately next statement in the said paragraph is that "this right of appeal should be within a reasonable limit and within the control of the resources of the litigants.
+51. In any case, one can say that despite all that the Commission has to say against the unamended S. 100, in the end, it could not afford to deny ready access of the parties to the Courts for remedy against erroneous decisions.
+52. Even while being very severe on Cl. (c) of the old section, the Commission has to concede in paragraph 1 .J.60 that "procedural defects of the nature mentioned in Cl. (c) of S. 100 cannot constitute a sufficient basis of invoking appellate jurisdiction in second appeal unless they raise "substantial" question of law." The qualifying clause is of great amount. It is not that the Commission could altogether rule out from its vista of vision C!. (c) of the defunct section. It only limited the application of Cl. (c). The contingency envisaged in Cl. (c) of the repealed section can still have a role to play in second appeal only where the procedural defects produce substantial question of law.
+53.   Tacit in this statement are the propositions :
+1) Procedural defects or errors are questions of law.
+2) They are not necessarily substantial questions of law.
+3) They could be, in the view of the Commission, substantial question of law if the effect is substantial.
+54. When read conjointly with the admission of the Commission as to the need of ready access of the people to appeal for remedy against injustice, this would mean that whenever miscarriage of justice occurs that would be a substantial question of law.
+55. In the same vein runs the observation of the Commission at paragraph 1.J.84. "At the same time, it should be clarified that the question of law can relate to procedure, e.g. improper rejection of evidence or improper admission of evidence in which case correction by the High Courts should be available if the question is substantial". Therefore, the Commission has taken no exception as such to the earlier S. 100 except to the marginal extent that the earlier provision left room even for any question of law, howsoever technical, trivial or peripheral to the basic issue in dispute to make its way to the High Court in second appeal. The Commission only wants to stop such a situation, despite error of procedure and despite erroneous application of law. Unless the effect bears down directly on the issues adjudicated upon resulting in injustice, the High Courts should not, according to the Commission, admit second appeal on grounds of technical triviality. Unless the ultimate fact-finding or the conclusion from the proven fact is not really affected, no second appeal should be entertained. In any case, the Commission admits that where justice is really in jeopardy a substantial question arises. That is the concept that underlies the expression "substantial question of law" used by the Commission in recommending the change.
+56. Therefore, "substantial question of law" as understood by the Commission does not necessarily strip the High Courts of the
+
+power to admit second appeal where justice has pre-eminently been the casualty of wantonly wrong finding of fact or blatantly wrong application of law to the proved facts or wrong decision on such facts.
+57. This is also clear from paragraphs I. J. 77 to 79 of the report where the nature of the substantial question of law has been Classified. In the first class falls the interpretation of enactments at the State level. The second class includes the interpretation of uncodified law and the taw of torts as well as personal law.
+58. The next class of substantial questions are questions though already decided by the High Courts, yet require further consideration as happens in the case of a judgment that is ambiguous or where there are conflicting decisions of the Division Benches of the High Courts.
+59. The last class is the residuary class which is absolutely left to the discretion of the High Courts. Here, the Commission accepts that the jurisdiction of the High Courts under S. 100 is "too wide to be capable of any defination in the abstract. "This omnibus class of substantial questions the Commission thought better to leave alone than to define. So, the Commission really did not intend to put any fetter on the discretion of the Courts. Under this class can come any second appeal on question of improper dealing with evidence by the Courts below, impermissible conclusion from the proved facts or wrong application of law to the proved set of facts. As we have earlier seen in paragraph 1.J.84, the Commission conceded that improper rejection of evidence or improper-admission of evidence are too serious matters to be glossed over by the High Court.
+60. The Commission was further aware that difficulties may arise from the use of the expression "substantial question of law" in S. 100 as the same expression also occurs in
+S. 109
+, C.P.C. as well as
+Art. 133
+of the Constitution. So, the Commission takes pains to note as abundant caution against the possible misconception that this expression in the amended section may mean substantial question of law as understood in those other
+
+laws. It, therefore, says in terms that "general importance" has no relevancy for S. 100 of the Code and "general importance" is the keynote alone for
+Art. 133
+of the Constitution and under S. 109 of the Code. In the words of the Commission-
+"it should be noted that we are not limiting the scope of appeal to the questions of law of general importance. If the law has been clearly
+laid down by
+the High Court, and the decision of the subordinate Courts in clear violation of the law as pronounced by the High Court, the power of the High Court to correct it should be left intact." (1-J.85)
+61. There is one more significant aspect. The Commission has at the end summed up its recommendation in paragraph 1.J.93 and the last observation in the paragraph is: "The proposed amendment does not go against the trend of history, as is shown by the evolution of S. 100." So, the Commission never intended the amendment to go counter to the tradition and the trend of history evolving around S. 100. Therefore, by importing the expression "substantial question of law" the Commission can be said only to have sought to eliminate frivolous, flimsy and fragile second appeals and exhorted the High Courts to be on the strictest vigil against entry of appeals on inconsequential but ingenious grounds. It does not by its own avowal preclude admission of appeal in cases where there has been judicial misconduct in the assessment or admission of evidence. This predicates that facts found upon such misconduct of the proceeding and misapplication of the procedure with regard to evidence will necessarily be a question of law touching the legality of inference on proved facts.
+62. The very observation of the Commission in paragraph 1.J.84 that improper rejection or admission of evidence raises substantial question of law shows that it has never been the intention of the Commission to rule out re-evaluation of evidence and facts in second appeal under all conditions.
+63. Evidence is inextricably related with the finding of fact. The word "evidence" according to its definition in
+S. 3
+of the Indian
+
+Evidence Act, 1872, means and includes (1) all statements which the Court permits or requires to be made before it by witness in relation to matter of facts under enquiry which statements are called oral evidence, and (2) all documents produced for the inspection of the Court. Such documents are called documentary evidence.
+64. Blackstone defines it as signifying that which demonstrates, makes clear or ascertains the truth of the very fact or point in issue either on the one side or on the other. The word "Evidence" according to Taylor, includes "all the legal means exclusive of mere arguments which did tend to prove or disprove any matter of fact, the truth of which is submitted to judicial investigation." According to Gfeenleaf, "evidence includes all the means by which any alleged matter of fact, the truth of which is submitted to investigation is established or disproved." Thus, if the High Court can admit second appeal according to the Law Commission, on the legitimacy of the matter, of dealing with evidence by the Courts below, the trial Court and the Court of Appeal, it cannot be said that perversity in finding of fact or misconduct in the collection and evaluation of evidence cannot be the subject-matter of appeal under S. 100.
+65. In Boobna (1988 (1) Cal LJ 278), it has been construed that the amended section now rules out any second appeal where the appeal is founded on any of the following grounds:--
+a) The finding of fact was arrived at on an erroneous application of law, or-
+b) Was based on no evidence at all, or,
+c) Was such as could not be arrived at by
+any reasonable person.
+66. So, according to this strand of judicial opinion, even if a settled law is wrongly applied to a particular set of facts, the party aggrieved has no remedy and is to suffer injustice even if it flows therefrom. Such a view is hard to get reconciled to. If the law is settled but is not applied to a set of facts despite the finding warranting its application, it is not perceivable how the legislature could
+
+conceive of barring the High Court from setting right the erroneous application. Alternatively, it may be that the law is settled but is applied to a wrong set of facts found, the injustice is then to go unredeemed. But there is no denying that facts showing close resemblance may call for different principles of law to be applied. Different principles of law may apply to two seemingly similar sets of facts as a very delicate line of distinction of substantial import may place them poles apart. Therefore, the principles of law may be steady and settled but one principle may not apply steadfastly to all similar fact situations for reason of a difference too slight for notice but with telling legal consequence. However, minor the difference, its legal consequence may be startlingly different. To this aspect we shall presently refer.
+67. Therefore, it cannot be said that erroneous application of law that is fraught with the substantial risk of justice being denied cannot be said to raise no question of law that is substantial.
+68. Next comes the fact finding on no evidence at all. A finding of fact without evidence is travesty of justice. There is no denying. As a matter of fact, the Law Commission itself has quoted the observation of Richard Couch in Pertap Chunder v. Mohindranath (1890) ILR 17 Cal 291 (PC) saying that a case of no evidence "would not raise a question of fact such as arises upon the issue itself, but a question of law for the consideration of the Judge." It further accepted that a case of no evidence is traditionally considered to raise a matter of law and quoted the observation of the Privy Council in Ram Gopal v, Shamskhaton (1893) ILR 20 Cal 93 as under:--
+"The facts found (by the lower appellate Court) need not be questioned. It is the soundness of the conclusions from them that is in question, and this is a matter of law."
+69. Where the finding of fact is on no evidence, it is then to be either on assumptions, or on surmises, and conjectures. How such a situation shall be allowed to go unremedied where it leads to the denial of
+
+justice? This will bring the judicial system to discredit before the people.
+70. The next class of cases which are also considered to be left out of the scope of second appeal is where the Judges act irrationally and perversely. It has become the tradition of thejudicial system of this country that the irrationality or perversity "Of the Court or a Tribunal of fact results in an illegality raising a question of law.
+In Boobna's case (1988 (1) Cal LJ 278) much reliance has been placed on the ratio in
+Mahindra & Mahindra Ltd.
+(supra). That is one main prop of the decision in Boobna.
+71. A close reading of the decision in
+Mahindra & Mahindra Ltd.
+(supra) would show that it is a correct view to take that the observation of the Supreme Court
+in that case
+as to the applicability of the tests in Chunilal v. Mehta  (supra) for the purpose of amended S. 100 of the Code is an obiter. In Mahindra & Mahindra  the respondents raised a preliminary objection against the maintainability of the appeal on the ground that under S. 55 of the MRTP Act read with amended S. 100 of the Code an appeal could lie only on a substantial question of law. The Supreme Court, in the first instance, rejected this plea saying in paragraph 9 that S. 55 of MRTP Act is an instance of legislation by incorporation and not legislation by reference. The said S. 55 of the MRTP Act provides for an appeal to the Supreme Court on "one or more of the grounds specified in S. 100." According to the Supreme Court, the expression "one or more of the grounds specified in S. 100" rules out the proposition that the scope of
+S. 55
+would also change with every change in S. 100 of the Code. The Supreme Court observed (at p. 812 of AIR):--
+"We fait to appreciate what relevance the legislative policy in regard to second appeals has to the right of appeal under
+S. 55
+so that
+S. 55
+should be inseparably linked or yoked to S. 100 and whatever changes take place in S. 100 must be automatically read into
+S. 55
+." (para 9) 
+
+ 
+
+ In that connection, the Supreme Court makes a difference between legislation by incorporation and legislation by reference. If S. 55 of the MRTP Act would have been enacted by a mere reference to S. 100 of the Code, it is only in that situation that the scope of appeal under
+S. 55
+would fluctuate with the changes of S. 100 of the Code. But that is not the case here, S. 55 of MRTP Act, 1969 bodily lifted
+S. 100
+, C.P.C. as it stood in 1969.
+72. The preliminary objection was found to be meritless. But incidentally the Court while rejecting this preliminary objection observed-
+"We may point out that even if the right of appeal under
+S. 55
+were restricted to the ground specified in the new S. 100, the present appeal would still be maintainable, since this involves a substantial question of law relating to the interpretation of
+S. 13(2)
+. (para 9)"
+Then for the tests of substantiality of the question of law the Supreme Court in
+Mahindra & Mahindra Ltd.
+(supra) refers to the tests
+laid down in
+Chunilal v. Mehta  (supra).
+So it is clear that the Supreme Court in
+Mahindra & Mahindra Ltd.
+(supra) by the way made the said observations on the hypothesis as though the new S. 100 of the Code regulated S. 55 of the MRTP Act.
+73. We shall presently see that in the light of the right reading of the ratio in Chunilal v. Mehta (supra) the observation in
+Mahindra & Mahindra
+(supra) loses much of its impact.
+Still some words, are to be said about its authoritative value in that part where it incidentally held that the tests for amended S. 100 are no different and are the same tests
+laid down in
+Chunilal v. Mehta (supra).
+74. The question arising from
+Mahindra & Mahindra
+(supra) is whether the Supreme Court's observation that for the amended provision of S. 100 the tests of a substantial question of law are those
+laid down in
+Chunilal v. Mehta, is an obiter.
+The Division Bench in Boobna's case (1988 (1) Cal LJ 278) is not inclined to accept that part of the decision in Mahindra & Mahindra as an obiter on the ground that though not
+
+necessary yet the Supreme Court in that case
+not only declared the effect of the amended
+S. 100 of the Code but also let that declaration
+[enter into its final decision. Therefore, where
+a declaration of law, though not directly
+arising from the issue before the Court, has
+application  in the  ratio, such declaration
+cannot be said to be an obiter.
+75.    There are various tests to find out whether a particular observation of the Court is part of the ratio or its obiter. The first test is whether that part of the decision results from the determination  of a live    issue  raised between the parties. A Judge may let fall various observations not precisely relevant to the issue before him. A hypothetical situation may be taken for illustration and he may by pothctically apply a law. Such illustration not being the issue it would not be proper to accord the observation equal weight with what is given to his actual    decision.
+In
+Mahindra & Mahindra
+(supra) what happened is that having decided the case.on the unamended S. 100 of the Code which was the live issue, the Supreme Court felt it unnecessary to pronounce on the question of applicability of the amended S. 100 of the Code but it was nevertheless tempted academically to indicate how it would have decided if that were necessary. Such observation cannot be endowed with the authority of an actual decision. It may have importance or persuasive value but not the authoritative value.
+76. But what is more important in Boobna's case than the question whether the observations of the Supreme Court in
+Mahindra & Mahindra
+(supra) could afford the tests for the amended S. 100, is the other proposition that even the obiter of the Supreme Court is binding on this Court. But this proposition is debatable. In this connection the following observation occurring in Salmond on Jurisprudence 12th Edition at page 176 is worth quoting:--
+"As against persons not parties to the suit, the only part of a case which is conclusive is the general rule of law for which it is authority. This rule or proposition the ratio decidendi, may be described roughly as the
+
+rule of law applied and acted on by the Court, or the rule which the Court regarded as governing the case."
+At another place the author observes:--
+"These observations by the way, obiter dicta, are without binding authority, but are nonetheless important; not only do they help to rationalise the law but they serve to suggest solution to problems not yet decided by the Courts. Indeed dicta of the House of Lords or of Judges who were masters of their fields, like Lord Blackburn, may often in practice enjoy greater prestige than the rationes of lesser judges."
+The observation of Paton also supports the view that the obiter cannot bind as a precedent :--
+"Clearly something said by a Judge about the law in his judgment which is not part of the course of reasoning leading to the decision of some question or issue presented to him for resolution, has no binding authority however persuasive it may be, and it will be described as an obiter dictum" (Paton: A Text Book of Jurisprudence, 4th Edition at page 210).
+77. Anyway, these controversies get diminished in relevance when one reads the ratio in Chunilal v. Mehta  and the tests laid down by it in its proper perspective. Those tests have no conflict with the view that a mixed question of law and fact or a question of law arising from a decision on no evidence or perverse inference is a question of law and when it substantially affects the parties it becomes a substantial question of law.
+78. The decision of the Supreme Court in Chunilal v. Mehta (supra) on which the earlier Division Bench in Boobna's case (1988 (I) Cal LJ 278) has exclusively rested in its decision requires one more look into it in its total purport. The excerpts of the passage may not throw broad light to show the vista in which the Supreme Court approached the matter as to what a substantial question of law is.
+79. The Supreme Court in the first instance held in Chunilal v. Mehta (supra)
+
+that a substantial question does not mean that a question of law has to be a question affecting parties beyond those who arc parties to the case in hand. A question of law jaffecting exclusively the rights of the parties to that case which throws up the question is also a substantial question. In one word a question of law to be substantial need net be 'of general importance.
+80. The decision recognises the earlier ratio of the Privy Council in Raghu Nath Prasad Singh v. Deputy Commissioner,  as a precedent, still valid. The proposition therein is still acceptable that a substantial question of law is a question of law as between the parties to the case involved and need not be a question of general importance. But the question of law confined to the rights as between the parties to the decree or the case takes on substantiality in nature under certain conditions. Such conditions are also stated by the Supreme Court before coming to its final formulation at page 1316 of the report. The Supreme Courl in Chunilal v. Mehta  observed-
+"What is a substantial question of law as between the parties would certainly depend upon the facts and circumstances of every case. Thus, for instance, if a question of law had been settled by the highest Court of the country, the question of law, however, important or difficult it may have been regarded in the past and however much it may affect any of the parties, would cease to be a substantial question of law. Nor again would a question of law which is palpably absurd be a substantial question of law as between the parties. The Bombay High Court, however, in an other earlier decision already adverted to have not properly appreciated the test laid down by the Privy Council for ascertaining what is a substantial question of law."
+81. The Bombay decision referred to in the observation is reported in
+Kaikhusroo Pirojsha Ghaiara v. C P Syndicate Ltd.
+AIR 1949 Bom 134. There the Bombay High Court observed that "ven though a decree may be of a complicated character, what the Court has to do is to look at its various provisions and
+
+draw its inference therefrom. Thus, according to the Bombay High Court, merely because the inference to be drawn is from a complicated decree, no substantial question of law would arise.
+According to the Supreme Court in Chunilal v. Mehta  (supra), apparently, in coming to this conclusion the Bombay High Court omitted to attach sufficient weight to the view of the Privy Council that a question of law is a substantial question of law when it affects the rights of the parties to the proceeding.
+82. Anyway, the ratio in Chunilal v. Mehta (supra) is clear on one point, viz. a question of law affecting the rights of the parties to the dispute and no parties beyond them can as well be a substantial question of law unless-- (a) the question of law raised is palpably absurd, (b) the law to apply is so well settled that it leaves no room for further difficulties to be resolved. It is in this train of reasoning that the celebrated passage quoted. in Boobna's case emerges laying down that the proper tests for determining a substantial question of law would be whether it is of general importance or whether it directly and substantially affects the rights of the parties and, if so, whether it is either an open question in the sense that it is not finally settled, or is not free from difficulties or calls for discussion of alternative views. Therefore, the test does not preclude a question affecting only the parties to the appeal and no other parties; such a question could also be a substantial question of law. Its substantiality, however, fades out if the question of law so arising has a ready answer from precedent or from law which is absolutely clear. The exclusionary test is only whether the question is previously determined and settled finally. But any vitiated or perverse finding of fact substantially affecting the parties has on this ratio to be substantial as perversity depends on the facts of each case and as a question of law shall always ask for a separate answer in each case and has thus to be always an open question.
+83. Interestingly, when the Supreme Court in Chunilal v. Mehta  (supra) says that a substantial question
+
+of law ceases to be substantial if it is settled, it does not speak of the correlation of fact situation and the legal situation. Different fact situation produces different legal consequences. It is a truism that the judge's task is to apply already established rule of law. He decides a case and in so doing all that he needs to do is to discover the relevant law and apply, it to the facts of the case. This position has been represented by Salmond on Jurisprudence in a syllogistic form of the following pattern:--
+(1) All fact situations of type A entail legal consequence B. 
+ 
+
+ (2) This is a fact situation of type A. 
+ 
+
+ (3) Therefore the legal consequence is B. 
+ 
+
+ (See Salmond on Jurisprudence, 12th Edition, page 183).
+84. But this settled state of law is perhaps the most elusive phenomenon. The state of law to apply may vary so materially that it may be1 very difficult to say that the legal consequence of apparently similar fact situations is settled. In this connection a classic example can be found in the two English decisions, viz. South Staffordshire Water Co. v. Sharman (1896) 2 QB 44 and Bridges v. Hawkesworth (1851) 21 LJQB 75. In the latter case a customer finds some money on the floor of a shop. The Court going by the rule of "finders -- keepers" awarded possession of the money to the customer and not to the shop keeper but in the former case the defendant found two gold rings in a mud pool owned and occupied by the plaintiffs. The Court refuses to follow the ratio in Bridges v. Hawkesworth on the ground that in the other case the money has been found in a public part of the shop but in the present case the rings were found in the pool not open to the public.
+85. This demonstrates that there can be few disputes where the syllogistic pattern as set out by Salmond would apply. Fact situations seldom match a type absolutely. Jt is also worth noting in this connection that this is precisely the reason why the facts of the case are also considered as part of the ratio
+
+decidendi. There is no ratio without the facts. This makes inevitable that in ascertaining the rule of law for every case the Judge has not only to see the state of law but also the state of facts. This is how the concept for mixed question of fact and law has emerged and such a mixed question has indisputably been accepted to be a question of law. The Law Commission has shown clear inclination to insulate S. 100 of the Code against such mixed question but such approach is not only misconceived and unreasonable but also impracticable. Lord Aktinson in Herbert v. Samuel Fox & Co. Ltd. (1916) I AC 405 laid down the proposition that an inference from facts is one of law in its application to mixed questions of law and fact but not so when applied to a question of pure fact. His exact words are:--
+".....Your Lordships were pressed with the usual argument, that as the County Court Judge, though a Judge of law and fact, is the sole judge of fact, his findings cannot be disturbed if there be any evidence before him upon which he, as a reasonable man, could find as he has found. That argument is quite sound if it be applied to pure findings of fact. It is utterly unsound if it be applied either to findings on pure questions of law or on mixed questions of law and fact .....It is wholly illegitimate, in my view, in cases such as the present, by finding in the words of the statute to endeavour to secure for a finding on a pure question of law, or on a mixed question of law and facts, that unassailability which properly belongs only to a finding on a question of pure fact."
+86. This passage has been quoted with approval by a three-Judge Bench in
+Sree Meenakshi Mills Ltd. v. C.l.T.
+. The observation, though made by Lord Atkinson in a case under the Workmen's Compensation Act, 1904, was held to be equally applicable to the revenue cases for invoking the advisory jurisdiction of the High Court or the Supreme Court, whereunder the Tribunal can refer to the High Court or the Supreme Court only the questions of law, the Tribunal being the final Court of fact.
+The Supreme Court in
+Sree Meenakshi Mills Ltd.
+(supra) heid that the inference from the primary fact becomes a mixed question of law and fact if the inference is in conflict with the statute law or the judge made law or if the legal consequence of the facts found is itself debatable. In that connection the delivering Judge Venkatarama Ayyar, J. picturesquely observed (at p. 58 of AIR):
+"In between the domains occupied respectively by questions of fact and of law, there is a large area in which both these questions run into each other, forming so to say, enclaves within each other. The questions that arise for determination in that area are known as mixed questions of law and fact. These questions involve first the ascertainment of facts on the evidence adduced and then a determination of the rights of the parties on an application of the appropriate principles of law to the facts ascertained. To take an example, the question is whether the defendant has acquired titie to the suit property by adverse possession. It is found on the facts that the land is a vacant site, that the defendant is the owner of the adjacent residential house and that he has been drying grains and cloth and throwing rubbish on the plot. The further question that has to be determined is whether the above facts are sufficient to constitute adverse possession in law. Is the user continuous or fugitive? Is it as of right or permissive in character? Thus, for deciding whether the defendant has acquired title by adverse possession, the Court has firstly to find on an appreciation of the evidence what the facls are. So far, it is a question of fact. It has to apply the principles of law regarding acquisition of title by adverse possession, and decide whether on the facts established by the evidence, the requirements of law are satisfied. That is a question of law. The ultimate finding on the issue must, therefore, be an inference to be drawn from the facts found, on the application of the proper principles of law, and it will be correct to say in such cases that an inference from facts is a question of law. In this respect, mixed questions of law and fact differ from pure questions of fact in which the final determination equally with the finding or ascertainment
+
+of basic facts does not involve the application of any principle of law. The proposition that an inference from facts is one of law will be correct in its application to mixed questions of law and fact but not to pure questions of fact."
+87. The place of mixed questions of fact and law is permanently carved out. In fact, the Law Commission has accepted that the judiciary is well aware of the fact-situation of which the legal consequence may give rise to such mixed questions and that it further has the judicial sanctity that in such mixed questions it is proper for the higher Courts to interfere.
+In fact, the Law Commission itself has referred to
+Sree Meenakshi Mills
+(supra).
+88. It is not intelligible how the Law Commission could conic to the conclusion that the judiciary of the land has by admitting such mixed questions as questions of law practically given a good-bye to the basic principles that on questions of fact the decisions of Courts of the first instance should be final, subject to one appeal. Where such mixed questions are substantial in the sense that they affect the rights of the parties involved in the case and affect them substantially it is not perceivable how the aggrieved party can be shut out from the second appeal. The test of substantiaiity of a question as
+laid down in
+Chunilal v. Mehta  (supra), inter alia, is whether the question affects the rights of the parties, may be, to the exclusion of the rest of the world or whether such mixed questions are not palpably absured or whether the legal consequence is not already determined by the highest court in the identical fact situation. If the answers to all the questions are in the affirmative, it is certain that the case presents a question of law which is substantial. Therefore, it does not carry conviction that such mixed questions should altogether be deprived of being settled by the higher forum beyond the first appellate authority. It cannot be said that admission of such questions would amount to over indulgence so as to be "yet another dice in the gamble."
+89.    On the question of cases where the
+
+appeal Court or both the trial Court and the Appeal Court arrive at a conclusion on no evidence the judiciary of this land as also abroad has always been consistent in the view that where no evidence goes into the decision that would not raise a question of fact but would raise a question of law. The soundness, of the conclusions as to fact from the evidence is a matter of law and it is also a matter of common perception that except where the cause of action is frivolous, such vitiated conclusion would substantially injure the interest of justice in that a party having a lawful cause suffers from injustice and its lawful rights are injuriously affected. The Law Commission itself has commented that the past precedents show that the judiciary has never flinched from its duty to cure such injustices. The Commission itself has quoted the observation from Nafar Chandra Pal Chowdhury (AIR 1918 PC 92) (supra). The sense of justice is perennial. Judicial conscience is immutable. After all, the judicial pronouncement is the authoritative statement of right or wrong and the sense of right and wrong cannot fluctuate merely by the fact that the judiciary has arrears of second appeals. The fundamental judicial sensibility would revulsc at the idea of reducing accumulation of the work of the High Court by the cheap expedient of blocking second appeals even where a decision has been arrived at to grave injustice of any of the parties to a case. The strong public interest in favour of doing justice and against denying it cannot be outweighed by the mere fact of accumulation of work and the arrears of cases in the High Court or for that matter at any other stages of the functioning of the judiciary of the land.
+That is precisely the reason why the Privy Council in Nafar Chandra Pal Chowdhury (supra) observed that though the fact found by the lower Appellate Court need not be questioned, it is the soundness of the conclusions of them that has to be questioned and that constitutes a matter of law. The Law Commission did not, however, indicate whe-
+ther it is the intention of the Commission to nullify these observations and seeks to achieve the expediency of leaving the parties wounded by the injustice of the lower Appellate Court to nurse the wound and rest
+
+reconciled to it.
+90. It is not conceivable that the Law Commission entertained any such idea because the Commission itself has stressed upon the redress of injustice. It referred to its 14th report where the Commission observed that the restriction should be only to this extent that the appeal should not be admitted merely because the appellant has shown an arguable or prima facie valid point of law arising in the appeal. What the Commission exhorted the Courts to do was to get satisfied that the decision of the lower Appellate Court on a point of law was erroneous and that in order to do justice between the appellant and the respondent it is essential that a further hearing should be given to both the parties. The Law Commission in its 54th report has not made any departure from this basic approach because such approach is immutable. That is why the Law Commission still left the powers of the High Court u/S. 103 more or less unaffected. It has for the same reason kept intact the provisions of Orders XLII and XLI as it stood before the amendment. The noninterference with these provisions clearly shows that in the ultimate analysis the Law Commission did not rule out the need for questions of facts and evidence being re-evaluated by the High Court.
+91. In this connection it is necessary to refer how in the different Acts the perversity of fact-finding or fact-finding vitiated in the diverse manner has always been treated as questions of law and the Courts have never had any hesitation to interfere with such finding of facts. For this purpose we would refer to decisions in the first instance under Tax Reference because the essential nature of Tax Reference is that the jurisdiction of the Court is merely advisory in respect of questions of law to the entire exclusion of question of pure fact.
+92. But before that we have to take notice of the decisions of the Supreme Court, may be, of smaller benches where despite the amendment, the second appeals have not been shut out in the manner the ratio in Boobna's case, (1988 (I) Cal LJ 278) seeks to do.
+93. There is a catena of decisions where the Supreme Court has accepted that the substantial question of law need not necessarily be of public importance. We have earlier referred to
+Budhwanti V. Gulab Chand Prasad
+,  (supra) where the Supreme Court held that perversity of the finding of fact or the finding vitiated by application of wrong tests or on the basis of conjectures and assumptions has to be set aside by the Supreme Court in a second appeal in order to render justice. In Boobna this decision was not considered to be expository of the effect of the amendment as the Supreme Court in this decision did not refer to that aspect at all. But it is to be noted that there the appellant before the Supreme Court pleaded that the High Court had erred in interfering with the finding of fact of the District Court and thus wrongly exercised its judicial discretion which S. 100 confers on it. It is true that the Supreme Court did not in terms refer to the amended provision of S. 100. But when it upheld the admission of the second appeal and the reversal of the order of the District Court it cannot be presumed that it was blind to the amendment. More so, when against the specific plea against the competence of the High Court, the Supreme Court observed (at p. 1487 of A1R)-
+"Since the appellate Judge had rendered his findings on the question of bona fide requirement of the shop by the landlord on baseless assumptions and wrong principles of law, the High Court was justified in setting aside the finding of the appellate Judge even though it was factual in character. It is true that inasecond appeal a finding of fact even if erroneous will generally not be disturbed but where it is found that the finding is vitiated by application of wrong tests or on the basis of conjectures and assumptions, then a High Court will be well within its rights in setting aside in a second appeal a patently erroneous finding in order to render justice to the party affected by the erroneous finding."
+Obviously, the Supreme Court in the case was not unmindful of what is a substantial question of law, and impliedly held that what
+
+substantially affected the rights of the parties to the dispute would assume a substantial character and further that the legality of finding of fact is a question of law. Therefore, in the case the erroneous finding affecting the party would be a substantial question of law.
+94. The expression "substantial question of law" has been defined by a three-Judge Bench of the Supreme Court in
+Pankaj Bhargava v. Mahinder Nath
+, , in the context of
+S. 39
+of Delhi Rent Control Act which is pari materia with
+S. 100
+, C.P.C. There it has been held that if the Courts below took an erroneous view of a fact and the same assumes a substantial character as between the parties, the question arising therefrom did involve a substantial character. The question directly and substantially affecting the parties would be a substantial question of law.
+The decision took notice of the tests of Sir Chunilal v. Mehta,  (supra).
+95. Thus for a question of law to assume substantiality it is enough if it affects the right of the parties.
+In
+Pankaj Bhargava
+(supra), the Supreme Court has further taken the view that even a mixed question of law and fact could constitute a substantial question of law and fact could constitute a substantial question of law and there cannot be a strait jacket formula for determining what question of law is a substantial one. It will depend on facts and circumstances of each case. But the primary consideration is whether on the question depends the rights of the parties in the case.
+This three-Judge Bench of the Supreme Court made this observation even after taking notice of the ratio of the larger Bench of the Supreme Court in Chunilal v. Mehta and Sons (supra).
+96. The learned Counsel for the respondents submits that though ChunilaPs case has been referred to, the observations in the concluding part of paragraph 9 of
+Bhargava
+'s case are contrary to the law declared by the larger Bench in Chunilal's case and accordingly cannot prevail. In paragraph 9 the Supreme Court observed :--
+"The proposition that reciprocal promises
+
+are sufficient to bring about the formation of a contract is well settled, and indeed elementary. But, the High Court does not appear to have been invited to examine the question whether this proposition in its application to the case assumed a substantial character as between the parties. The appeal did involve a question of law. That question directly and -substantially affected the rights of the parties. It is possible to assume that the High Court considered the question as a substantial one between the parties. We did not think that it would be appropriate to fault the judgment on this ground, though the point might well have been an eminently arguable one if it had been raised before the High Court. In any event in the view we take of the second contention this point loses its materiality."
+97. Learned Counsel for the respondents says that going by the tests in Chunilal (supra) any error in the application of settled principles will not raise a substantial question of law.
+The Supreme Court in
+Bhargava
+'s case, however, holds that such an error when directly and substantially affecting the rights of the parties, gives rise to a substantial question of law.
+The learned Counsel submits that misapplication of settled principles of law being excluded in its entirety by the larger Bench in Chunilal's case cannot be held to be within the scope of S. 100. According to him, in Chunilal's case the mere affecting of the rights of the parties is not considered as sufficient, it is to be the first condition, but it is circumscribed by the requirement of the second condition, viz., mere misapplication of a settled principle of law cannot be treated as a substantial question of law.
+98. In our view this submission is not based on a rational reading of the aforementioned two decisions. To our reading in Chunilal's case the primary condition is that any question of law that substantially affects the rights of the parties is a substantial question of law. The tests laid down in Chunilal nowhere says that a wrong application of settled law affecting substantially the rights of the parties would not raise a substantial question of law. The only substantial question as between the parties which the said
+
+paragraph excludes is the question that is, though substantial yet not an open question, that is to say, a question which is finally settled and is free from difficulty calling for further review. The Supreme Court in Chunilal says that where the substantial question between the parties by itself is an academic question not requiring further discussion it has to be excluded. Therefore, the contention of the learned Counsel that wrong application of a settled law cannot give rise to a substantial question even though the wrong application affects substantially the rights of the parties is misconceived. In fact, there is no reference in Chunilal to the effect of wrong application of a settled law. The idea that erroneous application of a settled law does not give rise to a substantial question of law is nowhere to be read in the tests laid down in Chunilal and has been super-imposed. There cannot be any reasonable view that the Court should remain passive even where a settled law is wrongly applied to a set of facts, seriously affecting the rights of the parties. This is the principle that forms the corner stone of the ratio in Pankaj Bhargava.
+99. The conflict between Chunilal,  and Pankaj Bhargava, , as visualised by the learned Counsel is totally non-existence and the two decisions are fully harmonious.
+100. It has been further submitted that the observations in Pankaj Bhargava have no authoritative value since the view was not material because the Court allowed the appeal on the contention other than the contention against appeal ability. But this argument has no substance. The statement in paragraph 9 that the preliminary objection "loses its materiality" means that the preliminary ground is rejected and the appeal is decided on the substantive ground. It is not an obiter. It directly decides that the appellant's preliminary ground that the High Court erred in entertaining the respondents' appeal is not tenable.
+101. In yet another decision Jagdish Singh v. Nathu Singh, , dealing with the jurisdiction of the High Court to re-
+appreciate evidence in a second appeal under the amended
+S. 100
+, C.P.C. it has been held by the Supreme Court that where the finding by the Courts of fact is vitiated by non-consideration of relevant evidence or by an essentially erroneous approach to the matter, the High Court is not precluded from recording proper findings.
+102. Another decision of a two-Judge Bench of the Supreme Court in Srichand Gupta v. Gtilzar Singh, , has expressed similar view. It held that the finding of fact is vitiated in law where it is primarily based on inadmissible evidence. The Court observes : "Having found the finding vitiated, it is open to the High Court to re-examine and re-appreciate the evidence on record ..... we do not find any error in such reappraisal".
+103. There is one more decision of the Supreme Court by a Bench of two Judges viz. Oil Bagrai Punjabi v. Sharad Chandra, . There the Supreme Court held that where in a suit the lower Courts had without considering any part of the evidence, oral or documentary, come to a finding of fact the High Court would be right in reversing the finding. The Court is under a duty to examine the entire relevant evidence or records and if it refuses to consider important evidence having direct bearing with the disputed issue and the error which arises is of a magnitude that it gives birth to a substantial question of law, the High Court is fully authorised to set aside the finding.
+104. In Boobna's case, (1988 (1) Cal LJ 278), much reliance has been placed on Sar-vate T. B. v. Nemichand, reported in 1966 MPLJ 26, where the Supreme Court has laid down that the finding as to whether the onus of proof has been discharged is a finding of fact, not open to challenge in the second appeal. But the decision does not lay down the proposition that the finding, even when not based on appreciation of evidence, shall remain outside the scope of second appeal. The Supreme Court in that case, in paragraph 6 of the decision, observed thus :
+"This finding of the District Court was
+
+based on appreciation of evidence and was binding upon the High Court, and the High Court had no power to reverse that finding......
+The inference of fact raised by the District Court was pre-eminently reasonable."
+Here is a case where there was no mis-appreciation of evidence by the District Court, nor any erroneous application of law, nor any perversity in the inference of fact drawn by the first Court of appeal. The Supreme Court in Special Leave Appeal overturned the decree of the High Court as the finding of the High Court was held as bordering on perversity. The case rather shows that perversity in the finding of an appeal Court, (the High Court in the case), has to be interfered with by the Supreme Court. On the same parity the perversity, if any, in the decision of the District Court as the appeal Court would be liable to be reversed by the High Court.
+At any rate, the decision lends no support to the view that perverse and vitiated finding of fact does not involve a substantial question of law and cannot be the subject matter of second appeal.
+105. The judicial trend has consistently shown that a question of law becomes a substantial one if the question affects the rights of or between the parties. In Chunilalv. Mehta,  (supra) this fundamental view has received only re-affirmation. The larger Bench of the Supreme Court in the case did not lay down, so to say, any new test as to what a substantial question of law is. The particular paragraph which we have referred to earlier clearly shows that whenever a case involves the question substantially affecting the rights of the parties to the case, a substantial question of law arises therefrom. So the affectation of the rights of the parties is the hallmark. Thus far is incontestable.
+106. Even under the various Special Acts the same question arises because under such Special Acts the Tribunal under the Act is the highest Court of fact and therefore there is no room for further reagitation on any question of facts. The fact found by such final fact-
+finding authority under the statute is conclusive on a question of fact. Yet the High Courts and the Supreme Court have accepted that any decision based on no evidence or vitiated by irrelevant material or perverse in any other manner can raise a question of law and such question necessarily affects the rights of the parties. The most useful in thiS connection would be to refer some of the landmarks under the Tax Law on this question of vitiated fact-finding or perversity of fact finding.
+107. A three-Judge Bench of the Supreme Court in
+CIT v. S. P. Jain
+, , has held that the High Court and the Supreme Court have always the jurisdiction to interfere with the findings of the Appellate Tribunal if it appears that either the Tribunal has misunderstood the statutory language because the proper construction of statutory language is a matter of law or it has arrived at a finding based on no evidence or the finding is inconsistent with the evidence or contradictory to it or it has acted on material partly relevant and partly irrelevant or where the Tribunal draws upon its own imagination and imports facts and circumstances not apparent from the record or bases its conclusions on mere conjectures or surmises or no person judicially acting and properly instructed as to the relevant law could have come to the determination reached. In all such cases the findings arrived at are vitiated. The Supreme Court ultimately held that such finding of fact would raise a question of law and the High Courts and the Supreme Court have to interfere.
+108. Similar is the view taken by another three-Judge Bench in an Income Tax Reference in
+Mehta Parikh & Co. v. CIT
+, , where the Supreme Court observed (at p. 558 of AIR):--
+"Facts proved or admitted may provide evidence to support further conclusions to be deduced from them, which conclusions may thus be conclusions of fact and such inferences from facts proved or admitted could be matters of law. The Courts should be entitled to intervene if it appears that the fact
+
+finding authority has acted without any evidence or upon a few of the facts which could not reasonably be entertained or the facts found are such that no person acting judicially and properly instructed as to the relevant law would have come to the determination in question."
+109. There is a string of decisions, all under the
+Income Tax Act
+, where similar view has been taken holding that inference on facts vitiated upon exclusion of evidence or irrelevancy of evidence or absence of evidence per se presents a question of law in that it is obviously erroneous in point of law. (See
+Lalchand Bhagat Ambica Ram v. CIT
+, ;
+Krishna Flour Mills v. CIT
+(1944) 1 ITR 501 (SC);
+Omar Salay Mohammed Sail v. CIT
+, ).
+110.
+In
+Dhirajlal Girdharilal v. CIT
+, , the Supreme Court observed that "if the Court of fact, whose decision on a question of fact is final, arrives at the decision by considering material which is irrelevant to the enquiry or by considering material which is partly relevant and partly irrelevant or bases its decision partly on conjectures, surmises and suspicions and partly on evidence, then in such a situation clearly an issue of law arises,"
+111. These principles came to be propounded under the tax law by reason of the fact that in taxation the Tribunal is the final Court of fact and there is no appeal therefrom. The propositions so
+laid down by
+the Supreme Court under the advisory jurisdiction by way of reference, strictly limited to answering questions of law, provide the best answer to the present question whether such vitiated inference on facts or perversity in the finding of fact could be first questions of law and secondly substantial questions of law. That they are questions of law is beyond doubt, because reference from the Tribunal's decisions can arise only on questions of law and not on question of fact and it is long settled that perversity of fact finding is very well a question of law, but the question is whether such vitiated conclusion of fact could raise a substantial question of law.
+The
+
+answer has to be in the affirmative, going by the tests of Sir Chunilal v. Mehta,  (supra) the vitiated finding of fact affects the right of the parlies to the matter and that one aspect is sufficient lo give the question substantiality, such question being always an open question depending on the state of evidence and its nexus with the conclusion arrived at. The factors entering into the matter in such cases are constant variables, incapable of being admeasured by any set rule of law.
+112.
+Under the Industrial Disputes (Appellate) Tribunal Act, 1950
+, the appeal is limited only to a question of substantial law. A mere question of law cannot invoke
+S. 7
+which confers on the party aggrieved the right to appeal. There also the right to appeal is restricted in the sense that the appeal shall lie only where it raises not only a question of law to the exclusion of question of fact but also a substantial question of law. In other words, the Tribunal has jurisdiction to entertain the appeal only if a substantial question of law is involved. The perversity of the approach being vitiated by reliance on irrelevant materials or exclusion of relevant material in reaching the inference or inference on no evidence is a substantial question of law. This has been decided in
+Hooghly Jute Mills v. Their Employees
+,  (supra).
+113. Alternatively, it has been held in East India Coal Co. Ltd. v. Parbati Shankar Mukherjee, reported in AIR 1959 SC 1222, that if the permission u/
+S. 33
+of the Industrial Disputes Act, 1947 has been granted not unfairly and not for victimisation, there could be no appeal therefrom, there being no vice of perversity in such dismissal.
+114. All these decisions go to show that the judiciary never rests wherever there is failure of justice for perverse treatment of evidence or irrationality underlying the conclusion on fact,
+115. Though the Law Commission has shown great concern for the workload and the mounting arrears of cases in the High Courts and has disapproved the laxity with which the High Courts are alleged to have admitted Second appeals, yet such concern cannot outweigh the public interest involved in seeking
+
+justice done between the parties. It is unthinkable that it could cross the mind of the Law Commission to sacrifice justice for the simple expedient of reducing workload of the judiciary by shutting out a party wronged by the decision at the lower Courts for perversity of the approach of the Court in arriving at a right factual inference. The public interest in favour of doing justice and against denying it is so strong that no other consideration, however much expedient, can out-weigh or override it. It is exactly the reason that in spite of all that the Commission has to say against the practice of the judiciary in admitting appeals on mixed questions of law and fact or inferences by the lower Courts on no evidence or a distorted view of evidence the Commission has ultimately to yield to the all-pervading supreme necessity for the Courts to reappraise the facts where the interests of justice so demand.
+116. The fact that
+S. 103
+of the Code of Civil Procedure still exists even after the amendment and further, the fact that the provisions of Order XL11 read with Order XLI have been left unaffected or untouched is an eloquent testimony that at the final stage the Law Commission found that the judicial review of evidence and materials and the conduct of the proceedings at the Courts below cannot altogether be ruled out. Even the Joint Committee of Parliament cannot be said to be in favour of taking away the rights of the second appeal drastically. This is clear from the cautious approach of the said Committee as manifest in their report which is in the following terms:
+"The Committee have carefully considered the question whether S. 100 of the Code should be retained in its present form or whether any modification therein is necessary. Having regard to the observations made by the Law Commission and the evidence tendered before it, the Committee feel that the scope of second appeals should be restricted so that litigations may not drag on for a long period. The Committee, therefore, feel that the amendment proposed in the Bill should be retained subject to certain modifications. As the amendment incorporated in the Bill
+
+stands, the Court is required to certify that the case involves a substantial question of law; the Committee feel that it should be sufficient if the Court is required to formulate the substantial question of law. The Committee also feel that the Court should not be required to state the reasons for formulating any question of law.
+The Committee also feel that the discretion of the Court to hear the appeal on any other question of law, not formulated by it, should not be taken away, so that justice may be done between the parties."
+117. The Committee did not find fit to comment on the mounting arrears in the High Court. The Committee's solicitude as expressed by the Committee was that there should be some restrictions as may prevent the mischief of the litigation dragging on for a long period. Nothing more than this is discernible in what the Committee said to the Parliament.
+118. 'The judicial conscience cannot rest reconciled to a situation that may expose citizenry to the substantial risk of grave injustice merely for the ease of lesser burden of work for the judiciary. It tends much to the discredit of a legal system in a country if its judiciary leans on freedom from work at the sacrifice of the duty of doingjustice and rising against its denial.
+119. If the lower Courts are given absolute freedom from judicial review of fact finding it will only be the worst kind of immunity for the Courts of fact from judicial review. Such pampering will lead to judicial escapades at the lower levels. The check and balance that has been operating on the Courts of fact, would go. So would go the judicial caution in deciding on facts.
+In this connection a memorable passage from the judgment of the Supreme Court in
+CIT v. S. P. Jain
+(supra) is worth quoting:
+"Any crystallisation of the view (of the Supreme Court) and its reluctance to interfere with the findings of fact should not make the Tribunals or the Income-tax authorities smug
+
+in the belief that as the Courts do not interfere with the findings which form the bed-rock upon which the law will be based they can act on that assumption in finding facts or by their mere ipse dixit that they are findings of fact wish it to be so assumed irrespective of whether they are sustainable in law or on the materials on record."
+120. The Supreme Court sounds a note of caution that immunity of the finding of fact from further judicial scrutiny may engender the tendency in the lower Courts to be smug and reckless to give free play to what they wish to be the findings of fact de hors evidence and legal propriety in the light of evidence. The Law Commission or for that matter the Parliament acting within the framework of our constitutional law, cannot be said to have bargained for such situation for the sake of reducing litigations.
+121. What the decision in Boobna's case (1988 (1) Cal LJ 278) suggest is total absence of forum for ventilating the grievance in the event of misconduct of fact finding process that is bound to make the lower Courts reckless and the consequences would be only appalling.
+122. As we have earlier indicated, if the tests laid down by the Supreme Court in Chunilal v. Mehta  (supra) do not spell out in terms that vitiated finding of fact which substantially affects the rights of the parties can be a substantial question of law, it is only because it was not necessary to be said. In the case of such perversity of finding of fact the matter is ever open for review and is never closed.
+As a matter of fact the tests accord with the view taken by us. So viewed, even the obiter in
+Mahindra and Mahindra
+(supra) is irrelevant, where the inference from fact is perverse.
+The question of perversity of factual inference very well passes the tests in Chunilal v. Mehta so long as the consequence is substantial and affects the party substantially. The obiter in Mahindra and Mahindra is then no impediment.
+123. There is one more difficulty that comes in the way of the Court denying
+
+justice to the litigant wronged by the vitiatd finding of fact. There is already a dilemma for judiciary in that it is not that law is always sound and there may be a gap between the law and the justice throwing a challenge to the judiciary. In such situation it is for the Court always to endeavour to achieve justice even in the midst of such anomaly. In this connection one sentence from Denning's "What Next in The Law" is very pertinent -- "I take it to be axiomatic that the object of the law is to do justice". So by necessary implication the presumption shall always be that whatever reforms the Law Commission may recommend and the legislature may enact, the ultimate object of the law is justice. Therefore, in construing a law that has the portent of grave injustice going unremedied, the Court shall always construe it against such contingencies to remove the risk to the public.
+124. It is an entrenched principle that dispensation of justice by itself constitutes a matter of public interest of the first degree because justice concerns another's good. Therefore, the interest of every citizen lies in justice being done and not being denied. Mortimer Adler J. in his essay "A Syntopicon of Great Books of the Western World" occurring in Encyclopedia Britannica, Chicago, 1952 page 853, quoted the following from the writing of Acquinas "To each one is due what is his own and it evidently pertains to justice that a man gives another his due. That is why justice, alone of all the virtues, implies the notion of duty". In Adler's own words "doing good to others or not injuring them when undertaken as a matter of strict justice, goes no farther than to discharge the debt which each man owes every other". Thus the Court as the dispenser of justice cannot say that justice need not be done for restful comfort of the Judge. That is the reason why the founding fathers of our Constitution provided for special appeal to the Supreme Court even when all processes of adjudication have made a complete round. It is a provision notwithstanding the provision for regular appeal from proceedings before the High Court. There may still remain some cases where justice might require the interference of the Supreme Court with decisions not only of
+
+the High Courts but also of any other Court or Tribunal of the land, save Military Tribunal. The power is not subject to any constitutional limitation and is left entirely to the discretion of the Supreme Court.
+125. Therefore, the impression that the Law Commission or for that matter, the legislature, in amending Sec. 100 of the Code imposed blanket restriction against reap-preciation of the evidence even where the finding of fact by the first appeal Court is perverse, inadequate and violative of natural justice is incorrect. It is not conceivable that the Commission or the Joint Committee of the Parliament, or the Parliament ever thought of reducing the justiciability of justiciable matters for stemming he proliferation of second appeals and the resultant arrears mounting at the High Courts. As a matter of fact, the Law Commission itself leaves scope for the High Court to examine evidence and substitute its own finding in cases where the first appeal Court rejects any evidence or fails to go into the evidence or goes by assumptions, surmises and conjectures. We have already seen that the Law Commission has clearly indicated that a second appeal in such contingencies should lie to the High Court.
+126. Another aspect is also to be noted that the entire controversy in Boobna's case (1988 (1) Cal LJ 278) has centered round the effect of the decisions in Chunilal v. Mehta  (supra) and
+Mahindra and Mahindra Ltd.
+(supra), but neither those two decisions of the Supreme Court nor the decision in Boobna had occasion to examine the effect of the amendment in the larger context of the recommendations of the Law Commission, the setting of Sec. 100 in the total scheme of the Code and the requirement of substantial justice. As a matter of fact, there is no precedent to draw upon in support of the proposition that in the wake of the amendment no appeal could lie from an order on the ground that the inferences have been drawn on no evidence or on assumptions and surmises or on evidence on which no reasonable man could draw such inference or has been drawn by erroneous application of law which is otherwise well settled.
+127. We have considered the pros and cons of the matter and the precedents cited. We fail to persuade ourselves to share the view in Boobna in that part which holds that no second appeal would lie from a finding of fact even when arrived at on no evidence or arrived at perversely or on erroneous application of the principle of law otherwise settled.-The weight of the precedents is heavier on the other side of the scale. Resultantly, the preliminary objection to the maintainability of the appeals urged on behalf of the respondents must fail.
+128. Let us now turn to the merits of the present appeals which involve not only the question of perversity but mixed questions of law and fact concerning the relations of landlord and tenants in the light of documents and their legal implications. The questions are substantial as the decisions affect the rights of the parties substantially.
+129. The first issue as to the existence of relationship of landlords and tenants between the parties presents particular difficulties as it raises a complex question of law, the complexity being enhanced by the later enactment of
+Benami Transactions (Prohibition) Act, 1988
+.
+130. Shortly stated, the facts of the case are that on January 7, 1969 the plaintiffs (appellants), namely a partnership firm M/s. Ratanlal Bansilal, and an individual, Kalyan Chand Saraoji, filed two several suits being Title Suit No. 3 of 1969 and Title Suit No. 12 of 1969 in the 3rd Court of Subordinate Judge at Alipore against the tenants, Kishori Lal Goenka and Satya Narain Goenka of second floor and first fioor respectively of premises No. 93 Southern Avenue, Calcutta, for their eviction. The grounds of eviction are as follows: --
+1. (a) The defendant Kishori Lal Goenka, the tenant of the second floor in Title Suit No. 3 of 1969, without the knowledge and consent of the plaintiffs/landlords, made unauthorized construction of:---
+(i) a kitchen of permanent nature on the terrace above the second floor flat;
+(ii) a cowshed in the rear vacant space; and
+(iii) conversion of western balcony of second floor into a bath and completely blocking the south and western part of the balcony by unauthorized construction of permanent nature during the pendency of the suit.
+(b) The defendant Satya Narain Goenka in Title Suit No. 12 of 1969, without the knowledge and consent of the plaintiffs, made unauthorized construction by removing railings of gallery in the first floor and covering the open space in the center of the circular gallery on the first floor with concrete slab, changing thereby the basic architectural feature of the building.
+He also drilled a hole (8" dia) for a drain pipeline breaking open the cemented floor of the balcony of the first floor for making a bathroom during the pendency of the suit.
+2. In both the suits it was alleged that both the tenants have been defaulters in payment of rent from December, 1967 till the filing of the suits.
+131. Before the institution of the suits there was an agreement for sale dated November 3, 1965 in pursuance whereof the plaintiff No. 3, Sankara Hall and Sankara Institute of Philosophy and Culture, purchased the said premises from the plaintiffs Nos. I and 2. The case of the plaintiff No. 1 has been that it purchased the property as equal co-owner with the plaintiff No. 2 in the name of Surendra Kumar as its benamidar with its funds and the plaintiff No. 1 is the real owner of undivided one half of the suit property. Contemporaneously the benamidar Surendra Kumar, executed a deed of disclaimer and release in favour of the partnership firm, appellant-plaintiff No. 1. While the suits were pending, the said Sankara Hall and Sankara Institute on an application made in that behalf was added as plaintiff No. 3 in both the suits in 1973. In 1976, applications were made in both the suits for amendment of the plaint for inserting a ground of reasonable requirement of the plaintiff No. 3 for its own use and occupation. On Feb., 12, 1977 the said applications for amendments were allowed.
+132. The case made out by the respondents-defendants is as follows:
+They dispute the title of the plaintiffs as owners and landlords. They claimed that their landlords were Kalyan Chand Surendra Kumar. There could be, therefore, no relationship of landlords and tenants between the plaintiffs and the defendants, who jointly gave them notice for ejectment and ultimately filed the suits.
+Plaintiff No. 1, a partnership firm, is not the owner and its claim that it had purchased the one-half undivided share of the property in the name of one Surendra Kumar is untenable. The fact that the benamidar executed a deed of disclaimer and release in November, 1965 in favour of the partnership firm, plaintiff No. I, does not invest the plaintiff No. 1 with ownership and therefore the notice for ejectment issued by the two co-owners of whom one is not a co-owner-cum-landlord, was void and non est. 
+ 
+
+ The construction of a kitchen on the roof and conversion of the balcony into a bath was made with the consent of the landlords.
+133. As indicated, the case of plaintiff No. 1 is that Surendra Kumar was its benamidar, and the plaintiff No. I is the real owner of undivided one-half share of the suit property. The benamidar executed a deed of release in November, 1965 in favour of appellant-plaintiff No. 1. As proof plaintiff No. 1 relied on its income-tax assessment records which showed that in respect of assessment year 1965-66 it was assessed in respect of its share of rental income from the property. The first appellate Court, however, did not give any weight to the income-tax records showing the assessment to tax of the income from the suit property in the hands of plaintiff No. 1, the partnership firm, on the ground that the plaintiff did not show similar assessment for earlier assessment years. The first appellate Court considered, and in our view rightly, that the assessment of the income from the property as the taxable income of the firm from the date of acquisition of the properly alone could prove the benami possession of the property by the
+
+appellant-plaintiff No. 1.
+134. But the question of proof of beneficial enjoyment of the property as the undisclosed owner now pales into insignificance by reason of the provisions of the
+Benami Transactions (Prohibition) Act, 1988
+which the Supreme Court has held to be retrospective in effect and shall govern all pending questions of ownership because the enactment by its very nature relates to transactions antecedent as well as subsequent to its commencement. (See
+Mithilesh Kumari v. Prem Behari Khare
+, ). That being the case, it has to be held that under the state of law as declared by the said Act and as interpreted by the Supreme Court it is in the benamidar that the vested right resides and the real owner cannot take away the right by proof of benami nature of the transaction. It is no more open to plaintiff No. I to plead enforceable right in it against the alleged benamidar in whose name the property stands.
+The Supreme Court in
+Mithilesh Kumar
+(supra) held thus:
+"Once a property is found to have been held benami, the real owner is bereft of any defence against the person in whose name the property is held or any other person. In other words, in its sweep
+S. 4
+envisages past benami transactions also within its retroactivity. In this sense the Act is both a penal and disqualifying statute. In case of a qualifying or disqualifying statute it may be necessarily retroactive. For example when a Law of Representation declares that all who have attained 18 years shall be eligible to vote, those who attained 18 years in the past would be as much eligible as those who attained that age at the moment of the law coming into force. When an Act is declaratory in nature the presumption against retrospectivity is not applicable. Acts of this kind only declare. A statute in effect declaring the benami transactions to be unenforceable belongs to this type. The presumption against taking away vested right will not apply in this case inasmuch as under law it is the benamidar in whose name the property stands, and law only enabled the real owner to recover the property from him
+
+which right has now been ceased by the Act. In one sense there was a right to recover or resist in the real owner against the benamidar. Ubi jus ibi remedium. Where there is a right, there is a remedy. Where the remedy is barred, the right is rendered unenforceable. In this sense it is a disabling statute. All the real owners are equally affected by the disability provision irrespective of the time of creation of the right."
+135. The aforesaid decision has been relied upon by the learned counsel for the respondents to contend that the prohibitory Act precludes the applicants from taking the plea of benami and the appellant-plaintiff, the firm, cannot set up any right as the co-owner-cum-landlord.
+As a matter of fact, this principle was independently propounded by the Division Bench presided over by A. M. Bhattacharjee, J. (as he then was), in
+Urmila Bala Dasi v. Probodh Chandra Ghosh
+, , cited on behalf of the respondents. There a Division Bench'of this Court has held that
+S. 4
+disables the real owner from executing the decree for possession. In that case the lower appellate Court and the High Court in second appeal, reversing the decree of the trial Court, held that Urmila and her deceased mother were mere benamidars, the real owner being Urmila's father and that upon death of the father it devolved upon the second wife of the father (Urmila's stepmother) who eventually conveyed the suit property to a third party. The third party obtained a writ of possession under O. 21, R. 35 directing Urmila to return the possession to the third party (O.P. 1). It was held that a proceeding for restitution is a proceeding in execution and is an "action" within its meaning in
+S. 4
+of the Act. Such action is barred by the said provision. By necessary implication the aforesaid decision is also an authority for the proposition that by virtue of the disabling enactment the real owner cannot take away the right of the ostensible owner to the property that stands in his name.
+136. Next comes the legal effect of the deed described as a deed of disclaimer and release executed on 24th December, 1964 (Exhibit 4), by Surendra Kumar in favour of
+
+plaintiff No. 1. The question is whether he said deed could duly convey the interest of Surendra Kumar in the suit property to plaintiff No. 1 so as to make the plaintiff No. 1 as one of the joint landlords.
+It is not in dispute that the document (Exhibit 4) executed by Surendra Kumar whom the respondents-defendants consider to be a co-owner in law and not the plaintiff No. 1, a partnership firm, is not a deed of conveyance simpliciter but a deed of disclaimer and release. The question is whether such a document can be a document capable of conveying the releasor's interest in the property in favour of the release, appellant-plaintiff No. 1. The crucial factor that is decisive is whether the releasor possessed rights and interest which he intended to release in favour of the releasee, the firm.
+137. There are decisions of this Court where it has been held that where the deed of, release or relinquishment is a mere declaration admitting that the executant had no interest in the property, it could not operate as a conveyance. See
+Jadu Nath Poddar v. Rup Lal Poddar
+(1906) ILR 33 Cal 967; Dharam Chand v. Mauji Sahu (1912) 16 Cal LJ 436 and Mathura Mohan Saha v. Ram Kumar Saha, 20 Cal WN 370 : (AIR 1916 Cal 136)).
+138. If the executant is possessed of rights, interest, title and claim in the property and relinquishes them in favour of another party upon the condition that the releasee would discharge certain debts of the executants, there would be due conveyance, no matter that the deed was stamped only as a release and not with ad valorem stamp. This view has been taken in Hemendra Nath Mukherji v. Kumar Nath Roy (1908) 12 Cal WN 478. Maclean, C.J. construed it as a transfer.
+139. The Supreme Court in
+Thayyil Mammo v. K. Ramunni
+, , supported this view and observed:
+"We think that a registered instrument styled a release deed releasing the right, title and interest of the executant in any property in favour of the releasee for valuable con-
+sideration may operate as a conveyance, if the document clearly discloses an intention to effect a transfer."
+140. Even when the release deed is executed and registered as such by the releasor without consideration, it may operate as transfer by way of gift when the instrument clearly shows intention to effect transfer and is signed by or on behalf of releasor and attested by at least two witnesses. A release can be usefully employed as a form of conveyance by a person having some right or interest. (See
+Kuppuswami Chettiar v. Arumugam Chettiar
+, ).
+141. It is contended on behalf of the appellants that Surendra Kumar, the bena-midar, by executing a registered instrument styled "deed of release" conveyed his right, title and interest in the suit property but such argument runs counter to the other arguments of the appellants-plaintiffs that Surendra Kumar is the benamidar of the partnership firm, appellant-plaintiff No. 1. When the appellant-plaintiff No. 1 claims that it is the real owner, the ostensible owner being the benamidar, it is no more open to it to argue that there was a conveyance by the deed of release. The benamidar before the enactment of
+Benami Transactions (Prohibition) Act
+could not have any right, title and interest in the property which the benamidar could convey. So, the deed of release could be said to be a mere declaration, a mere admission that the executant, i.e. the benamidar, had no right or interest in the property and it could not operate as conveyance. Then the execution of the deed by Surendra Kumar is of no consequence. As a matter of fact, a reading of the deed of release (Exhibit 4) clearly shows that it is nothing but an admission that the benamidar had no right, interest or title to the suit property, and was merely declaring himself to be the benamidar of the releasee, i.e. appellant-plaintiff No. 1.
+142. There could be an arguable point that the Supreme Court in
+Mithilesh Kumari
+(supra) has held that
+S. 4
+of the Benami Transactions (Prohibition) Act has retrospective operation and all benami-dars irrespective of the date of the benami
+transaction secures by virtue of this Act enforceable rights and title to the benami property. Therefore, as a consequence the benamidar, Surendra Kumar, should be deemed by retrospective operation of the law to be vested with such rights and title, even though in point of fact he had none on the date he executed the deed of release. But we need not go into the validity of the argument because the case of appellant-plaintiff No. 1 throughout the proceedings before the lower Courts has been that it is the real owner and Surendra Kumar is its benamidar. It has been pointed out by the learned counsel for the respondents that before the trial Court the appellant-plaintiff succeeded in proving the title of the plaintiff No. 1 by raising the plea of benami and by leading evidence to substantiate it. It was the contention of the appellant-plaintiffs before the trial Court that the said release deed did not operate as a deed of conveyance nor did it seek to create any title in favour of the firm. Therefore, the deed of conveyance even on that count cannot be now argued to have conveyed any title to the property to the releasee, i.e. appellant-plaintiff No. 1. It is not necessary for us to go into the validity of the argument that by the principle of fictional relation back as propounded by the Supreme Court in Mithilesh Kumari, the benamidar should be deemed to have title to the property on the date he executed the deed of release and whether in that view the deed of release was a deed of conveyance. We have to proceed on the basis that Surendra Kumar was the benamidar and in point of fact on the date of execution of the deed of release he had no right or interest in the property. Thus the ultimate effect would be that the appellant-plaintiff No. 1 could not be the owner of the said property and, for that matter, the landlord; and he was not entitled to seek eviction of the tenants-defendants.
+143. The next issue is whether notice under
+S. 106
+of the Transfer of Property Act read with
+S. 13(6)
+of the West Bengal Premises Tenancy Act issued by the plaintiffs Nos. 1 and 2 as co-owners could be valid and could lead to ejectment of the tenants. Plaintiff No. 1 claims to be the owner, denying the right and title of the lawful owner,
+
+even though it cannot in law set up any title as the landlord. The question is whether the joint notice so far as it relates to the other co-owner, Kalyanchand, Plaintiff No. 2 survives as a ground for ejectment. The learned counsel for the respondents submits that the infirmity of the notice with regard to plaintiff No. 1 and its claim of title as co-owner invalidates the notice as a whole.
+The learned Counsel for the appellants contends that even if the joint notice of ejectment is bad in law for one plaintiff but good for the other, the suit can proceed on the basis that it is instituted by him singly and that it is not necessary that all co-owners should join the suit for ejectment. Several decisions were relied on by the respective counsel to which we presently refer.
+144. In Shri Ram Pasrecha v. Jagannath, , it has been held that the plaintiff was a co-owner of the suit properties and filed a suit singly for eviction of the tenant. There the Supreme Court held that jurisprudentially it was not correct to say that a co-owner of the property was not its owner. He owns every part of the composite property along with others and it cannot be said that he is only a part owner of a fractional owner. The position will change only when partition takes place. The Supreme Court, therefore, did not accept the submission that the plaintiff who was admittedly a landlord and co-owner of the premises was not the owner of the premises within the meaning of
+Section 13(1)(f)
+of the West Bengal Premises Tenancy Act, 1956.
+This view was reiterated in
+Kanta Goel v. B. P. Pathak
+, .
+Therefore, the notice for eviction is valid even if it is held that plaintiff No. 1 is not the co-owner and could not be a party to the issue of the notice for ejectment, it is contended on behalf of the appellants.
+145. The contention was however contested by pointing out that it is not a case where one of the co-landlords can be said to be acting for and on behalf of other landlords on the basis of an expressed or implied arrangement. It is also not a case where one
+
+of the co-owners is admittedly the only landlord as is the case of Shri Ram Pasrecha  (supra). It is submitted that in the instant case the firm is claiming to be the owner denying the title of Surendra Kumar, the ostensible owner, on the plea of .benami. The plea having failed, the notice becomes illegal and the suit is not maintainable. According to the contention urged on behalf of the respondents/defend ants, where there are several landlords, the notice must be by all or one acting on their behalf. A notice or a suit by two landlords of which the title of one is found to be non-existent, cannot be treated as a suit on behalf of the absent co-landlord whose title is denied. The Respondents' case is that Surendra Kumar is still the co-landlord and his title is being denied and he is not also a plaintiff claiming ejectment of the respondents.
+I support the learned Counsel relied upon the decision of this Court in
+District Board v. Sarafat Ali
+. In that case the District Board was in khas possession of the lands in suit and acted as the lessor but the notice to quit served upon the defendants described the notice giver as the Secretary of Slate for India in the District Board. The notice was issued by the Chairman of the Dist. Board but the description of the notice-giver at the commencement of the nolice showed clearly that the Chairman was purporting to give that notice on behalf of the Govt. while the contents of the notice made it clear that the tenants were directed to deliver up possession to the District Board and not to the Govt. The Court held that "if the plaintiff Board in their own capacity as landlords let out the lands to the defendants, they must qua landlords serve notice on them to determine the tenancy". The Court finally held that such a defect in the notice is fatal to the plainiff's suits for eviction.
+146. Reference was further made to a decision of this Court in
+Parekh Brothers v. Kartik Chandra
+. That was also a suit for eviction. The case made out in the plaint was that there were three landlords while it was proved, as contended by the defendant, that there was only one landlord who was also one of the plaintiffs, The plaintiff contended that the names
+
+of other two co-plaintiffs not entitled to be landlords arc to be treated as surplusage and that he alone could succeed on the admission of the defendants. The Court held chat the plaintiff could not succeed. The contract that was pleaded was different from the one that was proved in evidence.
+147. In the case before us also it has been proved that the two landlords who are co-plaintiffs are not the landlords with whom the ontract of tenancy was entered into. It does not matter that one of the co-plaintiffs is a co-owner landlord. Since the other co-plaintiff is not a landlord, the suit cannot survive. Here the respondents-defendants do not admit the plaintiff No. 1 as the co-owner and co-landlord.
+148. Reliance was also placed upon a decision of the Full Bench of the Gujarat High Court in
+Nanalat Girdharlal v. Gulamnabi Jamalbhai Motorwala
+. There it was held that in the absence of any contract to the contrary where there are two or more co-owners of the property and either they grant a lease acting together or any one of them grants a lease on behalf of himself and acting as agent on behalf of the other co-owners or where a lease is granted by a landlord who is the sole owner of the leased property and thereafter by testate or intestate succession or by transfer inter vivos the leased property comes to be owned by two or more co-owners, no one single co-owner can give notice to quit determining the lease. It must be given by or on behalf of all co-owners. It is however sufficient if the notice is given by someone acting as agent on behalf of the co-owners. The agent may be one of the co-owners himself or he may be a third person. Such an agency may be expressed or implied but such authority must exist at the date when the notice is given. If the agent is acting pn special authority he must give notice in the name of the principal or expressly as agent on behalf of the principal, but if he is acting under authority incidental to the general agency to manage the lease property, he can give it in his own name.
+149.    The rule that a co-owner may maintain an action to eject a trespasser without
+
+joining other co-owners in such action can have no application. Where a co-owner seeks to evict a tenant who is in possession of the property after determination of the lease, such a tenant can be evicted only by an action taken by all co-owners.
+150. In the case before us it cannot be said that one co-owner issued the notice acting for himself and also acting on behalf of the other co-owner. As a matter of fact, here the case is also not that one co-owner singly has asked the tenants to quit. The case here is that one co-owner along with a third party pretending to be the co-owner to the denial of the title of the lawful co-owner issued the notice for ejectment and also filed the suit.
+151. The decision of the Supreme Court in Shri Ram Pasrecha  (supra) and
+Kanta Goal
+(supra) do not advance the case of the appellants-plaintiffs because here the question is not whether the notice of ejectment issued singly by one of the co-owners is valid. In those cases there was no dispute as to the title of the notice-giver as the landlord and co-owner. In the instant case the notice is invalid, as one of the notice-givers is not entitled to give the notice. Therefore, here the defect, in our view, amounts to an infirmity of the total notice and the defect is fatal to the suit.
+152. The rights and title of plaintiff No. 3 have also been disputed by the respondents before us. The suit was originally founded on a notice issued by the firm, plaintiff No. 1 and Kalyan Chand, plaintiff No, 2, Sankara Hall, plaintiff No. 3, purported to acquire the premises in 1971 long after the institution of the suit. The learned Counsel argued that there cannot be any lawful transfer of the interest of Sankara Hall as the co-owner where the plaintiff No. 3 purported to have purchased the same from the firm, plaintiff No. l, and Kalyan Chand, plaintiff No. 2. As has been earlier stated, the deed of release executed by Surendra Kumar in favour of the firm is no instrument of conveyance in the eye of law. The fact that Surendra Kumar executed the deed of conveyance to Sankara Hall is also immaterial because Surendra Kumar executed the said deed of conveyance
+
+(Exhibit 3(b)) not in his personal capacity but in his representative capacity as the partner of the said firm, plaintiff No. 1. According to the respondent, that conveyance could not be competent because Surendra Kumar executing the deed purporting to transfer the title of the firm to Sankara Hall, plaintiff No. 3, could not effectuate the transfer of property to the transferee i.e. Sankara Hall, passing any of the interests that subsisted in the property. The firm not being the holder of the title to the property was devoid of any interest and could not be competent as the transferor. It was not at the time of transfer capable of passing any interest in the property to a third party.
+This is clear from
+S. 8
+of the Transfer of Property Act. Under the said Act transferor can pass forthwith to the transferee only such interest which the transferor is then possessed of and capable of passing. But in the case the partnership firm had no rights, title or interest in the property which it could be capable of passing. This position also flows from the ratio of
+Mithilesh Kumari
+(supra). As we have held, the deed of release (Exhibit 4) executed by Surendra Kumar, the ostensible owner, did not operate as a conveyance.
+Again, according to the ratio in
+Mithilesh Kumari
+(supra), the firm as the real owner as alleged could not take away the rights, title and interest in the property which Surendra Kumar was invested with by virtue of
+S. 4
+of the Benami Transaction (Prohibition) Act. Therefore, the position of law is that it is only Surendra Kumar in his personal right as the co-owner who could make a valid transfer. The fact that he was the executant of the instrument of transfer in favour of plaintiff No. 3 acting not in his personal capacity but in his capacity as the partner does not mean that he was privy to the transaction. The transfer was by the firm though it had no title to transfer and act as the transferor of the property. The transfer was therefore invalid as the firm was not capable of passing any of the interests in the property for want of the title to the property transferred. Thus the rights of ownership of plaintiff No. 3 as the transferee of the property are seriously challenged by the respondents-defendants.
+153.    In our view, the contentions urged
+
+on behalf of the respondents have force. It has been the plaintiffs' case all through that Surendra Kumar is the benamidar of plaintiff No. I, the firm. If Surendra Kurnar is benamidar, he is to be considered to be the owner of the property by virtue of the retrospective operation of
+S. 4
+of the Benami Transactions (Prohibition) Act. If it is Surendra Kumar, who is the owner in his personal capacity, it is only he who can transfer the half share of the property to Sankara Hall, plaintiff No. 3. The transfer of the property by the firm through him as its partner is of no legal force and effect. So Sankara Hall, plaintiff No. 3 has no right to claim eviction of the respondents/ defendants on the ground of reasonable requirements.
+154. Next comes the issue whether there was violation of clauses (m), (o) and (p) of
+S. 108
+of the Transfer of Property Act as well as clauses (b) and (d) of
+S. 13(1)
+of the West Bengal Premises Tenancy Act. The respondent, Kishorilal, tenant of the second floor, admitted construction of some permanent structure as a kitchen on the terrace but denied having constructed any bath on the western balcony which is alleged to have been made before his entry into possession as tenant. According to his deposition on January 27, 1976 the kitchen was constructed 9 or 10 years before that date. On this basis the trial Court found that the year of construction of the kitchen on the terrace could be figured out as some time in 1966 or 1967. The trial Court found the statement discrepant with the other statement that the construction was made with consent subject to an increase in the rent in 1965. According to the trial Court when the rent was increased in 1965, the increase could not be relatable as consideration for permission to make the construction that took place in 1966 or 1967. This is perhaps not a good basis to conclude against the respondent's plea that the construction was not unauthorised but with consent. The statement of Kishorilal made on January 27, 1976 vaguely put the time of the construction as 9/10 years back. Such vague indication of the time of construction cannot be used against him. The plaintiffs alleged unauthorised construction. But they have not brought
+
+any proof when the construction took place. So we have to go by probability. The fact that the landlords, the appellants did not take any steps against such unauthorised construction for four years can reasonably lead to a presumption that the construction was made with the consent of ihe landlords.
+The appellants/plaintiffs as landlords produced no evidence to show that they were not passive against such unauthorised construction. The obvious presumption should be that they maintained passivity and an inference can be easily drawn that the construction had the consent of the landlord. It had at least passive acquiescence. Our attention has been drawn to a decision of the Supreme Court in
+Ganga Dutt Murarka v. Kartik Chandra Das
+reported in AIR 1961 SC 1069 and a decision of this Court in
+Surya Properties Pvt. Ltd. v. B. Nath
+,  to highlight that acceptance of higher rent does not by itself operate as waiver on the part of the landlord unless the increase is expressly relatable to the act of construction of permanent nature. True, the Courts have held that the right of the landlord to get eviction is not forfeited because of demanding some enhanced rent permissible under the provisions of the
+West Bengal Premises Tenancy Act
+but that does not assist or advance the appellants' case. In the appellants' case no explanation has been offered why the appellant did not act against the respondent, Kishorilal, for the alleged acts of damage to the property. If the constructions of such permanent structures were unauthorised and not with the consent as claimed by the respondent, the appellants would have acted against it immediately without waste of time. The course of conduct of the appellants circumstantially lends support to Kishorital's averment that he made the construction with consent.
+155, As regards the closing of the Circular Gallery by removing the railings on the first floor the defendant Satya Narain submitted before the Courts below that the removal was not made by him but one Mr. Handa who was a sub-tenant of the ground floor not under the tenancy of Satya Narain. Therefore he denied his accountability for such unauthorised construction made by the occupant of the ground
+
+floor. There is no evidence either to show that the alteration was effected by the said defendant. We cannot come to a firm conclusion that the wrongful act alleged is attributable to defendant, Satya Narain.
+156. As for the allegation that defendant Satya Narain had bored a hole (8" diameter) in the floor of the balcony on the first floor, Satya Narain averred that such hole was bored for the purpose of laying a pipe to drain out the accumulation in the urinal and the hole bored did not cause any damage to the property and could be readily filled in. It has been urged on behalf of the defendants/ respondents that it is not the law that the tenant cannot make any addition or alteration to meet his urgent needs. Unless a case of waste or damage is proved it cannot be said that there is any violation of S. 108(m), (o), (p) of the
+Transfer of Property Act
+.
+157. Reliance was placed in this connection on
+Om Pal v. Anand Swarup
+for the proposition that it is not every construction or alteration that would result in material impairment to the value or the utility of the building. The impairment must be of material nature as to substantially diminish the value of the building either from commercial or monetary point of view or from the utilitarian aspect of the building. The burden of proof of such material impairment is on the landlord. Therefore, the hole bored is so insignificant that it cannot be said to have led to any waste or damage.
+158. We are in agreement with the submissions made on behalf of the respondent Satyanarain. Moreover, we are not inclined to interfere in the findings of the lower Appellate Court since it cannot be said that there has not been proper appreciation of the evidence on the part of the lower Appellate Court. The questions which have been raised centering all these issues could not be said to be a question of law, for less a substantial question of law to call for interference. The whole issue depends on appreciation of evidence and in our view the lower Appellate Court arrived at its conclusion on due appreciation of evidence.
+159. We are left with one other major issue as to whether the plaintiff No. 3 has reasonable requirement so as to invoke
+Section 13(1) (ff)
+of the West Bengal Premises Tenancy Act and is entitled to recovery of possession of the suit house.
+160.    Plaintiff No. 3 is the present owner of the property. It purchased the property during the pendency of the suit by a deed of conveyance registered on March 26, 1971. As earlier stated, it was impleaded as plaintiff by virtue of leave of the trial Court to present amended plaint.
+161. Plaintiff No. 3 is an institution named Sankara Hall and Sankara Institute of Philosophy and Culture. It is at the moment occupying the ground floor along with the lawn. But its submission is that it requires additional accommodation for its object of propagation of teaching and philosophy of Sankaracharya by holding assembly of scholars and followers, holding discourses, classes for imparting education in the Vedas and Sanskrit literature, organising religious functions attracting large crowds. The trial Court referred to the objects of plaintiff Institute (Exhibit 24) which show that the objects of the plaintiff No. 3 are to organise and carry on research on the life and works and philosophy of Adi Sankara on the tradition and culture of his time, to hold seminars, conferences of scholars, historians and intellectuals, to undertake authentic work of publication and to cultivate Sanskrit learning, popularise Sanskrit study and literature. It is also admitted that the Institute has already been using the ground floor and the lawn. Kishori-tal, defendant-respondent in the first appeal in his deposition before the trial Court observed that the Institute may have requirement of the entire property for the pursuit of its objects. This evidence has been utilised by the trial Court to support the case of plaintiff No. 3.
+In the light of this set of facts of the trial Court however held that plaintiff No. 3 reasonably requires the possession of the entire property. The Appeal Court has gone by the number of students on the roll of the Institute. At the material time the students
+
+in the Vedic classes numbered 20, the Appeal Court considers that larger accommodation cannot reasonably be required. As for the object of establishing a library the Appeal Court suspects whether the Instifute is serious about setting up a library. Dr. Nalinaksha Sanyal, one of the founder members, in his deposition placed the number of students coming for training between 120 to 150. But the records of the Institute show 20 students on the roll. He further stated that the large gatherings which assembled to hear Jagat-guru Sankaracharya and other Hindu Saints of the country could not be accommodated. But possession of the whole house is no answer to this problem of accommodating large crowd. Similarly, Dr. Gouri Nath Shastri, Principal, Sanskrit College as P.W. 8 also indicated that people assemble to hear the reputed religious leaders and Scholars. Accommodation of assembly of people is extraneous to the question of requirement of the entire house suitable as residence.
+162. It is apparent that the first appellate Court came to its finding on the cumulative view of requirement of plaintiff No. 3 in the context of its mode of functioning and its roll strength. But the appellant plaintiff No. 3 submitted that the lower Appeal Court ignored the future requirements and relied upon a decision of a Division Bench of this Court presided over by A. M. Bhanacharjee J., as he then was. Emphasis was laid on the following passage of the judgment :--
+".......We are afraid that the first appellate
+Court in holding that for the invocation of
+Section 13(1) (ff)
+, the requirement must be currently existing at the date of the trial and can never be one to arise in future, has stated the law too rigidly. We are inclined to think that a requirement, even though not immediately existing, may still be good enough for the purpose of
+Section 13 (1)(ff)
+if it is certain in a reasonably foreseeable future. If the requirement is otherwise reasonable, it would be good enough to sustain a decree for ejectment even though it has not come into immediate existence at the date of the trial." (See Mano Ranjan v. Suchitia, ).
+163. We are totally in agreement with the view in the aforesaid decision of this Court that future requirement is also a factor to reckon with in determining the reasonable requirement of the landlord but the future requirement is also to be determined only with reference to some estimate projected by prevailing conditions. There should be indication of such requirement available in the present state of things. No vague plea for future requirement can pass the judicial test. Some foreknowledge is necessary for future requirement but none is available. Even before us no facts were adduced to show that such future requirement has actually emerged now that about two decades have elapsed since. It is not shown that the activities of plaintiff No. 3 have now a real constraint. We are not told that it is incurring expenditure for the pursuit of its objects either by way of rent for hiring alternative places, that it is now maintaining any part of its organisation in any separate tenanted premises, that it has a large collection of books which it finds no place to preserve as a library or that it is incurring expenditure for maintaining a reading room, library and for holding classes in tenanted premises. Such or any of such circumstances would have persuaded us to hold that the Appeal Court should have found bona fide future requirement. We do not find any reason to differ from the finding of the lower appellate court that the accommodation available to plaintiff No. 3 is not inadequate or its requirement for accommodation is not such as justifies the possession of the entire premises.
+164. One of the submissions made on behalf of the appellants is that the lower Appellate Court altogether excluded from consideration the statement of Kishorilal, defendant No. I admitting the requirement of the whole house for the activities and programme of Sankara Institute, Plaintiff No. 3. The statement is in the following words: "It may be that Sankara Institute requires the whole house for their activities and programme." But, the statement is taken out of context and construed as admission. A deposition has to be read as a whole to appreciate its true effect and no part can be
+
+read in isolation from its setting. Kishorilal in his immediately preceding statements denied having any knowledge about the activities of the Institute. In that context, the particular statement highlighted by the learned Counsel for the appellant is clearly a non-committal one. It signifies no more than his disinclination to offer any opinion on the requirement of the Institute.
+In our view, the particular statement on the cumulative effect of the entire deposition cannot be taken as admission of the requirement of the Institute, Plaintiff No. 3.
+Even if it is viewed that the Lower Appellate Court should have dealt with this aspect, in the ultimate analysis, it makes no difference. The statement which is unduly overstrained to mean admission indeed holds no relevancy as evidence in favour of the Institute, plaintiff No. 3. We are not, therefore, impressed that there has been any error in the appreciation of evidence by the first appellate Court to warrant interference on that score.
+165. For the reasons aforesaid, the appeals fail and are dismissed without any order as to costs.
+U.C. Banerjee, J.
+166. I agree.
+Shamsuddin Ahmed, J.
+167. I agree.
+N.K. Mitra, J.
+168. I agree.
+A.M. Bhattacharjee, Acting C.J.
+169. The draft of the judgment prepared by A. K. Sengupta, J., who is virtually speaking for the majority in this Full Bench, is so welt-written and well-considered that I would have been delighted if I could concur therein. But, notwithstanding his teamed dissertation, I have not been able to persuade myself to agree with his interpretation of
+S. 100
+of the Code of Civil Procedure and to take a view different from what I have taken in Boobna's case (supra) about the scope of that section and in that view these appeals must be dismissed. That is also the view of Sengupta, J. notwithstanding his facinating liberal activism. We, therefore, agree in the order proposed dismissing the appeals, though we profoundly differ in our views.
+170. Mr. Das Gupta learned counsel for the appellants has orally prayed for certificate ofleave to appeal to the Supreme Court under
+Art. 133
+read with
+Art. 134A
+of the Constitution. We have considered the submissions and we have also heard Mr. Saktinath Mukherjec appearing for the respondents. We do not think that any case has been made out for certificate of leave to appeal to the Supreme Court. The prayer is accordingly declined.
+Let certified copy be given expeditiously.
+171. Appeal dismissed.

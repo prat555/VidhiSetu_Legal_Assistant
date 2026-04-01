@@ -1,0 +1,2509 @@
+Title: Search
+Court: Supreme Court of India
+Date: 13 of 1985
+Citation: citations: AIR 1997 SUPREME COURT 1125, 1997 (3) SCC 261, 1997 AIR SCW 1345, 1997 LAB. I. C. 1069, 1997 (3) SCALE 40, 1997 (3) ADSC 223, 1997 ADSC 3 223, (1997) 3 JT 589 (SC), 1997 (1) UPLBEC 712, 1998 (2) SERVLJ 124 SC, (1998) 2 SERVLJ 124, 1998 (1) COM LJ 385 SC, (1997) 2 MAD LW 414, (1997) 69 ECR 401, (1997) 91 FJR 1, (1997) 228 ITR 725, (1997) 105 STC 618, (1997) 1 UPLBEC 712, (1997) WRITLR 358, (1997) 3 SUPREME 147, (1997) 1 ANDHWR 1, (1997) 1 CAL HN 73, (1997) 83 CUT LT 815, (1997) 1 CURLR 778, (1997) 1 GUJ LH 692, (1997) 1 MAHLR 804, (1997) 1 MPLJ 621, (1997) 1 ORISSA LR 408, (1997) 1 PAT LJR 84, (1997) 2 LAB LN 482, (1997) 2 MAH LJ 198, (1997) 2 SCT 423, (1997) 2 SERVLR 1, (1997) 3 SCALE 40, (1997) 92 ELT 318, 1997 SCC (L&S) 577, (1997) 3 BOM CR 449, AIRONLINE 1997 SC 611
+Source: https://indiankanoon.org/doc/1152518/
+
+[Cites
+86
+, Cited by
+2564
+]
+Supreme Court of India
+L. Chandra Kumar vs Union Of India And Others on 18 March, 1997
+Equivalent citations: AIR 1997 SUPREME COURT 1125, 1997 (3) SCC 261, 1997 AIR SCW 1345, 1997 LAB. I. C. 1069, 1997 (3) SCALE 40, 1997 (3) ADSC 223, 1997 ADSC 3 223, (1997) 3 JT 589 (SC), 1997 (1) UPLBEC 712, 1998 (2) SERVLJ 124 SC, (1998) 2 SERVLJ 124, 1998 (1) COM LJ 385 SC, (1997) 2 MAD LW 414, (1997) 69 ECR 401, (1997) 91 FJR 1, (1997) 228 ITR 725, (1997) 105 STC 618, (1997) 1 UPLBEC 712, (1997) WRITLR 358, (1997) 3 SUPREME 147, (1997) 1 ANDHWR 1, (1997) 1 CAL HN 73, (1997) 83 CUT LT 815, (1997) 1 CURLR 778, (1997) 1 GUJ LH 692, (1997) 1 MAHLR 804, (1997) 1 MPLJ 621, (1997) 1 ORISSA LR 408, (1997) 1 PAT LJR 84, (1997) 2 LAB LN 482, (1997) 2 MAH LJ 198, (1997) 2 SCT 423, (1997) 2 SERVLR 1, (1997) 3 SCALE 40, (1997) 92 ELT 318, 1997 SCC (L&S) 577, (1997) 3 BOM CR 449, AIRONLINE 1997 SC 611
+Author:
+A.M. Ahmadi
+Bench:
+A.M. Ahmadi
+,
+M.M. Punchhi
+,
+K. Ramaswamy
+,
+S.P. Bharucha
+CASE NO.:
+Appeal (civil)  481 of 1980
+
+PETITIONER:
+L. Chandra Kumar
+
+RESPONDENT:
+Union of India and others
+
+DATE OF JUDGMENT: 18/03/1997
+
+BENCH:
+A.M. Ahmadi CJI & M.M. Punchhi & K. Ramaswamy & S.P. Bharucha & S. Saghir
+Ahmad & K. Venkataswami & K.T. Thomas
+
+JUDGMENT:
+JUDGMENT
+
+1997 (2) SCR 1186
+
+A.M. Ahmadi, C.J.
+1. The special leave petitions, civil appeals and writ petitions which
+together constitute the present batch of matters before us owe their origin
+to separate decisions of different High Courts and several provisions in
+different enactments which have been made the subject of challenge. Between
+them, they raise several distinct questions of law; they have, however been
+grouped together as all of them involve the consideration of the following
+broad issues:
+(1) Whether the power conferred upon Parliament or the Stale Legislatures,
+as the case may be, by Sub-clause (d) of Clause (2) of
+Article 323A
+or by
+Sub-clause (d) of Clause (3) of
+Article 323B
+of the Constitution, totally
+exclude the jurisdiction of 'all courts', except that of the Supreme Court
+under
+Article 136
+, in respect of disputes and complaints referred to in
+Clause (1) of
+Article 323A
+or with regard to all or any of the matters
+specified in Clause (2) of
+Article 323B
+, runs counter to the power of
+judicial review conferred on the High Courts under Articles 226/227 and on
+the Supreme Court under
+Article 32
+of the Constitution?
+(2) Whether the Tribunals, constituted either under
+Article 323A
+or under
+Article 323B
+of the Constitution, possess the competence to test the
+constitutional validity of a statutory provision/rule?
+(3) Whether these Tribunals, as they are functioning at present, can be
+said to be effective substitutes for the High Courts in discharging the
+power of judicial review? If not, what are the changes required to make
+them conform to their founding objectives?
+2. We shall confine ourselves to the larger issues raised in this batch of
+matters without adverting to the specific facts of each of the matters; we
+shall, however, selectively refer to some of the impugned decisions and the
+provisions involved to the extent we find it necessary to do so in order to
+appreciate the policy- conflicts in, and to draw the parameters of, the
+controversy before us. The broad principles enunciated in this judgment
+will, at a later time, be applied by a Division Bench to resolve the
+disputes involved in each of the individual cases.
+3. The present controversy has been referred to us by an order of a
+Division Bench of this Court, reported in : (1995)IILLJ640SC , which
+concluded that the decision rendered by a five-Judge Constitution Bench of
+this Court in
+S.P. Sampath Kumar v. Union of India
+: (1987)ILLJ128SC ,
+needs to be comprehensively reconsidered. The order of the Division Bench,
+dated December 2, 1994, was rendered after it had considered the arguments
+in the first matter before us, C.A. No. 481 of 1989, where the challenge is
+to the validity of
+Section 5(6)
+of the Administrative Tribunals Act, 1985.
+After analysing the relevant constitutional provisions and the
+circumstances which led to the decision in
+Sampath Kumar
+'s case, the
+referring Bench reached the conclusion that on account of the divergent
+views expressed by this Court in a series of cases decided after
+Sampath
+Kumar
+'s case, the resulting situation warranted a "fresh look by a larger
+Bench over all the issues adjudicated by this Court in
+Sampath Kumar
+'s case
+including the question whether the Tribunal can at all have an
+Administrative Member on its Bench, if it were to have the power of even
+deciding constitutional validity of a statute or (Article) 309 rule, as
+conceded in Chopra's case".
+The "post- Sampath Kumar cases" which caused
+the Division Bench to refer the present matter to us are as follows:
+J.B.
+Chopra v. Union of India
+: (1987)ILLJ255SC ;
+M.B. Majumdar v. Union of
+India
+: (1991)IILLJ585bSC ; Amuya Chandra Kalita v. Union of India.  :
+(1990)ILLJ523SC ; R.K. Jain v. Union of India [1993] 4 SCC 119 and Dr.
+Mahabal Ram v. Indian Council of Agricultural Research  : (1991)IILLJ112SC
+.
+4. Before we record the contentions of the learned Counsel who appeared
+before us, we must set out the legal and historical background relevant to
+the present case.
+5. Part XIVA of the Constitution was inserted through Section 46 of the
+Constitution (42nd Amendment) Act, 1976 with effect from March 1,1977. It
+comprises two provisions,
+Articles 323A
+and
+323B
+, which have, for the sake
+of convenience, been fully extracted hereunder:
+PART XIVA TRIBUNALS
+
+323-A. Administrative tribunals.--  323-B. Tribunals for other
+
+(1) Parliament may, by law,  maters. -- (1) The appropriate provide for the
+adjudication or Legislature may, by law, provide trial by administrative
+Tribunals for the adjuration or trial by of disputes and complaints with
+tribunals of any disputes, respect to recruitment and complaints, or
+offences with conditions of service of persons respect to all or any of the
+appointed to public services and matters specified in Clause (2) posts in
+connection with the with respect to which such affairs of the Union or of
+any Legislature has power to make State or of any local or other laws.
+authority within the territory of India or under the control of the
+Government, of India or of any corporation owned or controlled by the
+Government. (2) A law made under Clause (1) (2) (2) The matters referred
+may -- to in Clause (1) are the following, namely:
+(a) provide for the (a) levy, assessment, establishment, of an collection
+and administrative tribunal for enforcement of any tax; the union and a
+separate administrative tribunal for each State or for two or more States;
+(b) specify the jurisdiction, (b) foreign exchange, import powers
+(including the and export across customs powers to punish for frontiers;
+contempt) and authority which may be exercised by each of the said
+tribunals; (c) provide for the procedure (c) industrial and labour
+(including provisions as to disputes; limitation and rules of evidence) to
+be followed by the said tribunals; (d)exclude the jurisdiction of all (d)
+land reforms by way of courts, except the jurisdiction acquisition by the
+State of of the Supreme Court under any estate as defined in
+Article 136
+,
+with respect to
+Article 31A
+or of any the disputes or complaints rights
+therein or the referred to in Clause (1); extinguishment or modification of
+any such rights or by way of ceiling on agricultural land or in any other
+way; (e) provide for the transfer to (e) ceiling on urban property; each
+such administrative tribunal of any cases pending before any court or other
+authority immediately before the establishment of such tribunal as would
+have been within the jurisdiction of such tribunal if the causes of action
+on which such suits or proceedings are based had arisen after such
+establishment; (f) repeal or amend any order (f) elections to either House
+made by the president of Parliament or the under Clause (3) of Article
+House or either House of 37ID; the Legislature of a State, but excluding
+the matters referred to in
+Article 329
+and
+Article 329
+A; (g) contain such
+supplemental, (g) production, procurement, incidental and supply and
+distribution of consequential provisions foodstuffs (including (including
+provisions as to edible oilseeds and oils) fee) as Parliament may and such
+other goods as deem necessary for the President may, by effective
+functioning of, and public notification, declare for the speedy disposal of
+to be essential goods for cases by, and the purpose of this article
+enforcement of the orders and control of prices of of, such tribunals. such
+goods; (3) The provisions of this Article (h) offences against laws with
+shall have effect respect to any of the notwithstanding anything in matters
+specified in Sub- any other provision of this clauses (a) to (g) and fees
+Constitution or in any other in respect of any of those law for the time
+being in matters; force. (i) any matter incidental to any of the matters
+specified in Sub-clauses (a) to (h). (3) A law made under Clause (1) may--
+(a) provide for the establishment of a hierarchy of tribunals; (b) specify
+the jurisdiction, powers (including the power to punish for contempt) and
+authority which may be exercised by each of the said tribunals ; (c)
+provide for the procedure (including provisions as to limitation and rules
+of evidence ) to be followed by the said tribunals ; (d) exclude the
+jurisdiction of all courts except the jurisdiction of the Supreme Court
+under
+Article 136
+with respect to all or any of the matters falling within
+the jurisdiction of the said tribunals; (e) provide for the transfer to
+each such tribunal of any cases pending before any court or any other
+authority immediately before the establishment of such tribunal as would
+have been within the jurisdiction of such tribunal if the causes of action
+on which such suits or proceedings are based had arisen after such
+establishment; (f) contain such supplemental, incidental and consequential
+provisions (including provisions as to fees) as the appropriate Legislature
+may deem necessary for the effective functioning of, and for the speedy
+disposal of cases by, and the enforcement of the orders of, such tribunals.
+(4) The provisions of this article shall have effect notwithstanding
+anything in any other provision of this Constitution or in any other law
+for the time being in force. Explanation. - In this article, "appropriate
+legislature", in relation to any matter, means Parliament or, as the case
+may be, a State Legislature competent to make laws with respect to such
+matter in accordance with the provisions of Part XI.
+(Emphasis added)
+6. We may now examine the manner in which these constitutional provisions
+have been sought to be implemented, the problems that have consequently
+arisen, and the manner in which Courts have sought to resolve them. Such an
+analysis will have to consider the working of the two provisions
+separately.
+Article 323
+A
+7. In pursuance of the powder conferred upon it by Clause (1) of
+Article
+323A
+of the Constitution, Parliament enacted the
+Administrative Tribunals
+Act, 1985
+(Act 13 of 1985) [hereinafter referred to as "the Act"]. The
+Statement of Objects and Reasons of the Act indicates that it was in the
+express terms of
+Article 323A
+of the Constitution and was being enacted
+because a large number of cases relating to service matters were pending
+before various Courts; it was expected that "the setting up of such
+Administrative Tribunals to deal exclusively with service matters would go
+a long way in not only reducing the burden of the various courts and
+thereby giving them more time to deal with other cases expeditiously but
+would also provide to the persons covered by the Administrative Tribunals
+speedy relief in respect of their grievances."
+8. Pursuant to the provisions of the Act, the Central Administrative
+Tribunal, with five Benches, was established on November 1, 1985. However,
+even before the Tribunal had been established, several writ petitions had
+been filed in various High Courts as well as this Court challenging the
+constitutional validity of
+Article 323A
+of the Constitution as also the
+provisions of the Act; the principal violation complained of being the
+exclusion of the jurisdiction of this Court under
+Article 32
+of the
+Constitution and of that of the High Courts under
+Article 226
+of the
+Constitution. Through an interim order dated October 31, 1985, reported as
+S.P. Sampath Kumar v. Union of India
+: (1985)4SCC458 , this Court directed
+the carrying out of certain measures with a view to ensuring the
+functioning of the Tribunal along constitutionally-sound principles.
+Pursuant to an undertaking given to this Court at the interim stage by the
+erstwhile Attorney General, An amending Act (Act 19 of 1986) was enacted to
+bring about the changes prescribed in the aforesaid interim order.
+9.
+When Sampath Kumar
+'s case was finally heard, these changes had already
+been incorporated in the body and text of the Act. The Court took the view
+that most of the original grounds of challenge-which included a challenge
+to the constitutional validity of Article 323A - did not survive and
+restricted its focus to testing only the constitutional validity of the
+provision of the Act. In its final decision, the Court held that though
+judicial review is a basic feature of the constitution, the vesting of the
+power of judicial review in an alternative institutional mechanism, after
+taking it away from the High Courts, would not do violence to the basic
+structure so long as it was ensured that the alternative mechanism was an
+effective and real substitute for the High Court. Using this theory of
+effective alternative institutional mechanisms as its foundation, the Court
+proceeded to analyse the provisions of the Act in order to ascertain
+whether they passed constitutional muster. The Court came to the conclusion
+that the Act, as it stood at that time, did not measure up to the
+requirements of an effective substitute and, to that end, suggested several
+amendments to the provisions governing the form and content of the
+Tribunal. The suggested amendments were given the force of law by an
+amending Act (Act 51 of 1987) after the conclusion of the case and the Act
+has since remained unaltered.
+10. We may now analyse the scheme and the salient features of the Act as it
+stands at the present time, inclusive as it is of the changes suggested in
+Sampath Kumar
+'s case.
+The Act
+contains 37 Sections which are housed in five
+Chapters. Chapter I ("Preliminary") contains three Sections;
+Section 3
+is
+the definition clause.
+11. Chapter II ("Establishment of Tribunals and Benches thereof) contains
+Sections 4
+to
+13
+.
+Section 4
+empowers the Central Government to establish :
+(1) a Central Administrative Tribunal with Benches at separate places; (2)
+an Administrative Tribunal for a State which makes a request in this
+behalf; and (3) a Joint Administrative Tribunal for two or more States
+which enter into an agreement for the purpose.
+Section 5
+states that each
+Tribunal shall consist of a chairman and such number of Vice-Chairmen and
+Judicial and Administrative Members as may be deemed necessary by the
+appropriate Government. Sub-section (2) of
+Section 5
+requires every Bench
+to ordinarily consist of one Judicial Member and one Administrative Member.
+Sub-section (6) of
+Section 5
+, which enables the Tribunal to function
+through Single Member Benches is the focus of some controversy, as will
+subsequently emerge, and is fully extracted as under:
+Section 5(6)
+- Notwithstanding anything contained in the foregoing
+provisions of this section, it shall be competent for the Chairman or any
+other Member authorised by the Chairman in this behalf to function as a
+Bench consisting of a single Member and exercise the jurisdiction powers
+and authority of the Tribunal in respect of such classes of cases or such
+matters pertaining to such classes of cases as the Chairman may by general
+or special order specify:
+Provided that if at any stage of the hearing of any such case or matter it
+appears to the Chairman or such Member that the case or matter is of such a
+nature that it ought to be heard by a Bench consisting of two Members the
+case or matter may be transferred by the chairman or, as the case may be,
+referred to him for transfer to such Bench as the Chairman may deem fit.
+12.
+Section 6
+deals with the qualifications of the personnel of the
+Tribunal. Since the first few sub-sections of
+Section 6
+are required to be
+considered subsequently, they may be reproduced hereunder:
+6. Qualifications for appointment of Chairman, Vice- Chairman or other
+Members. -
+(1) A person shall not be qualified for appointment as the Chairman unless
+he-
+(a) is, or has been, a Judge of a High Court; or
+(b) has, for at least two years, held the office of Vice-Chairman;
+(c) ..
+(2) A person shall not be qualified for appointment as the Vice-Chairman
+unless he--
+(a) is, or has been, or is qualified to be a Judge of a High Court; or
+(b) has, for at least two years, held the post of a Secretary to the
+Government of India or any other post under the Central or a State
+Government carrying a scale of pay which is not less than that of a
+Secretary to the Government of India; or
+
+(bb) has for at least five years, held the post of an Additional Secretary
+to the Government of India or any other post under the Central or a State
+Government carrying a scale of pay which is not less than that of an
+Additional Secretary to the Government of India; or
+(c) has, for a period of not less than three years, held office as a
+Judicial Member or an Administrative Member.
+(3) A person shall not be qualified for appointment as a Judicial Member
+unless he--
+(a) is, or has been, or is qualified to be, a Judge of a High Court; or
+(b) has been a member of the Indian Legal Service and has held a post in
+Grade I of that Service for at least three years.
+(3-A) A person shall not be qualified for appointment as an Administrative
+Member unless he--
+(a) has, for at least two years, held the post of an Additional Secretary
+to the Government of India or any other post under the Central or a State
+Government carrying a scale of pay which is not less than that of an
+Additional Secretary to the Government of India; or
+(b) has, for at least three years, held the post of a joint Secretary to
+the Government of India or any other post under the Central or a State
+Government carrying a scale of pay which is not less than that of a Joint
+Secretary to the Government of India.
+and shall, in either case, have adequate administrative experience.
+13. Sub-sections (4), (5) and (6) of
+Section 6
+provide that all the Members
+of the Central Administrative Tribunal, the State Administrative Tribunals
+and the Joint Administrative Tribunals shall be appointed by the President;
+in the case of the State Administrative Tribunals and the Joint
+Administrative Tribunals, the President is required to consult the
+concerned Governor(s). Sub-section (7) stipulates that the Chief Justice of
+India is also to be consulted in the appointment of the Chairman, Vice-
+Chairman and Members of all Tribunals under the Act.
+14.
+Section 8
+prescribes the terms of office of the personnel of the
+Tribunal as being for a duration of five years from the date of entering
+into office; there is also provision for reappointment for another term of
+five years. The maximum age limit permissible for the Chairman and the
+Vice-Chairman is 65 years and for that of any other Member is 62 years.
+Section 10
+stipulates that the salaries, terms and conditions of all
+Members of the Tribunal are to be determined by the central Government;
+such terms are, however, not to be varied to the disadvantage of any Member
+after his appointment.
+15. Chapter III ("Jurisdiction, powers and authority of Tribunals")
+consists of
+Sections 14
+to
+18
+.
+Sections 14
+,
+15
+and
+16
+deal with the
+jurisdiction, powers and authority of the Central Administrative Tribunal,
+the State Administrative Tribunals and the Joint Administrative Tribunals
+respectively. These provisions make it clear that except for the
+jurisdiction of this Court, the Tribunals under the Act will possess the
+jurisdiction and powers of every other Court in the country in respect of
+all service-related matters.
+Section 17
+provides that the Tribunals under
+the Act will have the same powers in respect of contempt as are enjoyed by
+the High Courts.
+16. Chapter IV ("Procedure") comprises
+Section 19
+to
+27
+.
+Section 21
+specifies strict limitation periods and does not vest the Tribunals under
+the Act with the power to condone delay.
+17. Chapter V ("Miscellaneous"), the final
+Chapter of the Act
+, comprising
+Sections 28
+to
+37
+, vests the Tribunals under the Act with ancillary powers
+to aid them in the effective adjudication of disputes.
+Section 28
+, the
+"exclusions of Jurisdiction" clause reads as follows:
+28. Exclusion of Jurisdiction of courts.-- On and from the date from which
+any jurisdiction, powers and authority becomes exercisable under this Act
+by a Tribunal in relation to recruitment and matters concerning recruitment
+to any Service or post or service matters concerning members of any Service
+or persons appointed to any Service or post, no court except--
+(a) the Supreme Court; or
+(b) any Industrial Tribunal, Labour Court or other authority constituted
+under the
+Industrial Disputes Act, 1947
+or any other corresponding law for
+the time being in force,
+
+Shall have, or be entitled to exercise any jurisdiction, powers or
+authority in relation to such recruitment or matters concerning such
+recruitment or such service matters.
+18. A facet which is of vital relevance to the controversy before us, and
+consequently needs to be emphasised, is that
+Section 28
+, when originally
+enacted, was in the express terms of Clause (2) (d) of
+Article 323A
+of the
+Constitution and the only exception made in it was in respect of the
+jurisdiction of this Court under
+Article 136
+of the Constitution. However,
+before the final hearing in
+Sampath Kumar
+'s case the provision was further
+amended to also save the jurisdiction of this Court under
+Article 32
+of the
+Constitution; this aspect has been noted in the judgment of Mishra, J. in
+Sampath Kumar
+'s case (at para 14).
+Since the Court in
+Sampath Kumar
+'s case
+had restricted its focus to the provisions of the Act, it expressed itself
+to be satisfied with the position that the power of judicial review of the
+Apex Court had not been tampered with by the provisions of the Act and did
+not venture to address the larger issue of whether Clause (2)(d) of
+Article
+323A
+of the Constitution also required a similar amendment.
+19.
+Section 29
+provides for the transfer to the Tribunals under the Act, of
+all service matters pending in every existing form before their
+establishment. The only exception carved out is in respect of appeals
+pending before High Courts.
+Section 35
+vests the Central Government with
+rule-making powers and
+Section 36
+empowers the appropriate Government to
+make rules to implement the provisions of the Act and the matters specified
+in it. By virtue of
+Section 37
+, the rules made by the Central Government
+are required to be laid before Parliament and, in the case of rules made by
+State Governments, before the concerned State Legislature (s).
+20.
+The Act
+and its provisions will be analysed in the course of this
+judgment. However, a preliminary appraisal of the framework of the Act
+would indicate that it was intended to provide a self- contained, almost
+wholly exclusive (the exceptions being specified in
+Section 28
+) forum for
+adjudication of all service related matters. The Tribunals created under
+the Act were intended to perform a substitution role as opposed to - and
+this distinction is of crucial significance-a supplemental role with regard
+to the High Courts.
+21. According to the information provided to us by Mr. K.N. Bhat, the
+learned Additional Solicitor General, apart from the Central Administrative
+Tribunal which was established on 1.11.1985, eight States have set up State
+Administrative Tribunals, all of which are presently functioning. The
+States, along with the date of establishment of the particular State
+Administrative Tribunals, are as follows: Andhra Pradesh (1.11.1989),
+Himachal Pradesh (1.9.1986), Karnataka (6.10.1986), Madhya Pradesh
+(2.8.1988), Maharashtra (8.7.1989), Orissa (14.7.1986), Tamil Nadu
+(12.12.1988) and west Bengal (16.1.1995).
+22. We may now analyse the "post-Sam path Kumar cases" which find mention
+in the order of the referring Bench.
+In
+J.B. Chopra
+'s case, a division
+Bench of this Court has occasion to consider one of the specific questions
+that has now arisen for our consideration, viz., whether the Central
+Administrative Tribunal constituted under the Act has the authority and the
+jurisdiction to strike down a rule framed by the President of India under
+the proviso to
+Article 309
+of the Constitution as being violative of
+Articles 14
+and
+16(1)
+of the Constitution.
+When the matter came up before
+the Division Bench, the issue was still being considered by the
+Constitution Bench in
+Sampath Kumar
+'s case.
+The Division Bench, therefore,
+deferred its judgment till the final pronouncement of the decision in
+Sampath Kumar
+'s case. Thereafter, it analysed the Constitution Bench's
+decision to arrive at the conclusion that "the Administrative Tribunal
+being a substitute of the High Court had the necessary jurisdiction, power
+and authority to adjudicate upon all disputes relating to service matters
+including the power to deal with all question pertaining to the
+constitutional validity or otherwise of such laws as offending
+Article 14
+and
+16(1)
+of the Constitution."
+23. An aspect which needs to be emphasised is that the Constitution Bench
+in
+Sampath Kumar
+'s case had not specifically addressed the issue whether
+the Tribunals under the Act would have the power to strike down statutory
+provisions or rules as being constitutionally invalid.
+However, the
+Division Bench in
+J.B. Chopras
+' case felt that this proposition would
+follow as a direct and logical consequence of the reasoning employed in
+Sampath Kumar
+'s case.
+24.
+In
+M.B. Majumdar
+'s case, a Division Bench of this Court had to confront
+the contention, based on the premise that in
+Sampath Kumar
+'s case this
+Court had equated the Tribunals established under the Act with High Courts,
+that the Members of the Central Administrative Tribunals must be paid the
+same salaries as were payable to Judges of the High Court.
+The Court, after
+analysing the text of
+Article 323A
+of the Constitution, the provisions of
+the Act, and the decision in
+Sampath Kumar
+'s case, rejected the contention
+that the Tribunals were the equals of the High Courts in respect of their
+service conditions.
+The Court clarified that in
+Sampath Kumar
+'s case, the
+Tribunals under the Act had been equated with High Courts only to the
+extent that the former were to act as substitutes for the latter in
+adjudicating service matters; the Tribunals could not, therefore, seek
+parity for all other purposes.
+25. In Amulya Chandra's case, a Division Bench of this Court had to
+consider the question whether a dispute before the central Administrative
+Tribunal could be decided by a single Administrative Member.
+The Court took
+note of Sub-section (2) of
+Section 5
+of the Act which, as we have seen,
+stipulates that a Bench of a Tribunal under the Act should ordinarily
+consist of a Judicial Member and an Administrative Member, as also the
+relevant observations in
+Sampath Kumar
+'s case, to conclude that under the
+scheme of Act, all cases should be heard by a Bench of two Members. It
+appears that the attention of the Court was not drawn towards Sub-section
+(6) of
+Section 5
+which, as we have noticed, enables a single Member of a
+Tribunal under the Act to hear and decide cases.
+26. The same issue arose for consideration before another Bench of this
+Court in Dr. Mahabal Ram's case. The Court took note of the decision in
+Amulya Chandra's case and, since the vires of Sub-section (6) of
+Section 5
+of the Act was not under challenge, held that Sub-sections (2) and (6) of
+Section 5
+are to be harmoniously construed in the following manner (supra
+at p. 404):
+..There is no doubt that what has been said in
+Sampath Kumar
+'s case would
+require safeguarding the interest of litigants in the matter of disposal of
+their disputes in a judicious way. Where complex questions of law would be
+involved the dispute would require serious consideration and thorough
+examination. There would, however, be many cases before the Tribunal where
+very often no constitutional issues or even legal points would be
+involved..We are prepared to safeguard the interests of claimants who go
+before the Tribunal by Holding that while allocating work to the Single
+Member - whether Judicial or administrative - in terms of Sub-section (6),
+the Chairman should keep in view the nature of the litigation and where
+questions of law and for interpretation of constitutional provisions are
+involved they should not be assigned to a Single Member. In fact, the
+proviso itself indicates Parliament's concern to safeguard the interest of
+claimants by casting an obligation on the Chairman and Members who hear the
+cases to refer to a regular bench of two members such cases which in their
+opinion require to be heard by a bench of two Members. We would like to add
+that it would be open to either party appearing before a Single Member to
+suggest to the Member hearing the matter that it should go to a bench of
+two Members. The Member should ordinarily allow (he matter to go to a bench
+of two Members when so requested. This would sufficiently protect the
+interests of the claimants and even of the administrative system whose
+litigation may be before the Single Member for disposal..The vires of Sub-
+section (6) has not been under challenge and, therefore, both the
+provisions in
+Section 5
+have to be construed keeping the legislative
+intention in view. We are of the view that what we have indicated above
+brings out the true legislative intention and the prescription in Sub-
+section (2) and the exemption in Sub-section (6) are rationalised.
+27.
+In
+R.K. Jain v. Union of India
+: 1993(65)ELT305(SC) , a Division Bench
+of this Court consisting of three of us (Ahmadi, CJI, Punchhi and
+Ramaswamy, JJ.) had occasion to deal with complaints concerning the
+functioning of the Customs, Excise and Gold Control Appellate Tribunal,
+which was set up by exercising the power conferred by
+Article 323B.
+In his
+leading judgment, Ramaswamy, J. analysed the relevant constitutional
+provisions, the Decisions in Sampath Kumar, J.B. Chopra and M.B. Majumdar
+to hold that the Tribunals created under
+Articles 323A
+and
+323B
+could not
+be held to be substitutes of High Courts for the purpose of exercising
+jurisdiction under
+Articles 226
+and
+227
+of the Constitution. Having had the
+benefit of more than five years' experience of the working of these
+alternative institutional mechanisms, anguish was expressed over their
+ineffectiveness in exercising the high power of judicial review. It was
+recorded that their performance had left much to be desired. Thereafter, it
+was noted that the sole remedy provided, that of an appeal to this Court
+under
+Article 136
+of the Constitution, had proved to be prohibitively
+costly while also being inconvenient on account of the distances involved.
+It was suggested that an expert body like the Law Commission of India
+should study the feasibility of providing an appeal to a Bench of two
+Judges of the concerned High Court from the orders of such Tribunals and
+also analyse the working of the Tribunals since their establishment, the
+possibility of inducting members of the Bar to man such Tribunals etc. It
+was hoped that recommendations of such an expert body would be immediately
+adopted by the Government of India and remedial steps would be initiated to
+overcome the difficulties faced by the Tribunals, making them capable of
+dispensing effective, inexpensive and satisfactory justice.
+28. In a separate but concurring judgment, Ahmadi, J.(as he then was)
+speaking for himself and Punchhi, J., endorsed the recommendations in the
+following words:
+..(T)he time is ripe for taking stock of the working of the various
+Tribunals set up in the country after the insertion of
+Articles 323A
+and
+323B
+in the Constitution. A sound justice delivery system is a sine qua non
+for the efficient governance of a country wedded to the rule of law. An
+independent and impartial justice delivery system in which the litigating
+public has faith and confidence alone can deliver the goods. After the
+incorporation of these two articles, Acts have been enacted whereunder
+tribunals have been constituted for dispensation of justice. Sufficient
+time has passed and experience gained in these last few years for taking
+stock of the situation with a view to finding out if they have served the
+purpose and objectives for which they were constituted. Complaints have
+been heard in regard to the functioning of other tribunals as well and it
+is time that a body like the Law Commission of India has a comprehensive
+look-in with a view to suggesting measures for their improved functioning.
+That body can also suggest changes in the different statutes and evolve a
+model on the basis whereof tribunals may be constituted or reconstituted
+with a view to ensuring greater independence. An intensive and extensive
+study needs to be undertaken by the Law Commission in regard to the
+Constitution of tribunals under various statutes with a view to ensuring
+their independence so that the public confidence in such tribunals may
+increase and the quality of their performance may improve. We strongly
+recommend to the Law Commission of India to undertake such an exercise on
+priority basis. A copy of this judgment may be forwarded by the Registrar
+of this Court to the Member Secretary of the Commission for immediate
+action.
+29. During the hearing, we requested the learned Additional Solicitor
+General of India, Mr. K.N. Bhat, to inform us of the measures undertaken to
+implement the directions issued by this Court in
+R.K. Jain
+'s case.
+We were
+told that the Law Commission had in fact initiated a performance-analysis
+on the lines suggested in the judgment; however, when the Division Bench
+issued its order indicating that
+Sampath Kumar
+'s case might have to be
+reviewed by a larger Bench, further progress on the study was halted.
+30. We may now apply ourselves to analysing the decision which has been
+impugned in one of the matters before us, C.A. No. 169 of 1994. The
+judgment,
+Sakinala Harinath and Ors. v. State of A.P.
+, rendered by a full
+Bench of the Andhra Pradesh High Court, has declared
+Article 323A (2)(d)
+of
+the Constitution to be unconstitutional to the extent it empowers
+Parliament to exclude the jurisdiction of the High Courts under
+Article 226
+of the Constitution; additionally,
+Section 28
+of the Act has also been held
+to be unconstitutional to the extent it divests the High Courts of
+jurisdiction under
+Article 226
+in relation to service matters.
+31. The Judgment of the Court, delivered by M.N. Rao, J. has in a elaborate
+manner, viewed the central issues before us against the backdrop of several
+landmark decisions delivered by Constitution Benches of this Court as also
+the leading authorities in the comparative constitutional law. The judgment
+has embarked on a wide-ranging quest, extending to the American, Australian
+and British jurisdictions, to ascertain the true import of the concepts of
+'judicial power', 'judicial review' and other related aspects. The judgment
+has also analysed a contention based on
+Article 371D
+of the Constitution,
+but, since that aspect is not relevant to the main controversy before us,
+we shall avoid its discussion.
+32. The Judgment of the Andhra Pradesh High Court has, after analyzing
+various provisions of our Constitution, held that under our constitutional
+scheme the Supreme Court and the High Courts are the sole repositories of
+the power of judicial review. Such power, being inclusive of the power to
+pronounce upon the validity' of statutes, actions taken and orders passed
+by individuals and bodies falling within the ambit of the impression
+"State" in
+Article 12
+of the Constitution, has only been entrusted to the
+constitutional courts, i.e., the High Courts and this Court. For this
+proposition, support has been drawn from the rulings of this Court in
+Kesavananda Bharati v. State of Kerala
+: AIR1973SC1461 , Special Reference
+No. 1 of 1964, [1965] 1 SCR 413;
+Indira Nehru Gandhi v. Raj Narain
+:
+[1975]3SCR854a ;
+Minerva Mills Ltd. v. Union of India
+: [1981]
+1SCR206 ,
+Kihoto Hollohan v. Zachillu and Ors.
+: [1992]1SCR686 and certain other
+decisions, all of which have been extensively analysed and profusely quoted
+from.
+33. Analysing the decision in
+Sampath Kumar
+'s case against this back-drop,
+it is noted that the theory of alternative institutional mechanisms
+established in
+Sampath Kumar
+'s case is in defiance of the proposition
+laid
+down in
+Kesvananda Bharati
+'s case, Special reference case and
+Indira
+Gandhi
+'s case, that the Constitutional Courts alone are competent to
+exercise the power of judicial review to pronounce upon the constitutional
+validity of statutory provisions and rules.
+The High Court, therefore, felt
+that the decision in
+Sampath Kumar
+'s case, being per incuriam, was not
+binding upon it. The High Court also pointed out that, in any event, the
+issue of constitutionality of
+Article 323A (2) (d)
+was neither challenged
+nor upheld in
+Sampath Kumar
+'s case and it could not be said to be an
+authority on that aspect.
+34. Thereafter, emphasising the importance of service matters which affect
+the functioning of civil servants, who are an integral part of a sound
+governmental system, the High Court held that service matters which involve
+testing the constitutionality of provisions or rules, being matters of
+grave import, could not be left to be decided by statutorily created
+adjudicatory bodies, which would be susceptible to executive influences and
+pressures. It was emphasised that in respect of constitutional Courts, the
+Framers of our Constitution had incorporated special prescriptions to
+ensure that they would be immune from precisely such pressures. The High
+Court also cited reasons for holding that the sole remedy provided, that of
+an appeal under
+Article 136
+to this Court, was not capable of being a real
+safeguard. It was also pointed out that even the saving of the jurisdiction
+of this Court under
+Article 32
+of the Constitution would not help improve
+matters. It was, therefore, concluded that although judicial power can be
+vested in a Court or Tribunal, the power of judicial review of the High
+Court under
+Article 226
+could not be excluded even by a constitutional
+Amendment.
+Article 323B.
+35. This provision of the Constitution empowers Parliament or the State
+Legislatures, as the case may be, to enact laws providing for the
+adjudication or trial by Tribunals of disputes, complaints or offences with
+respect to a wide variety of matters which have been specified in the nine
+Sub-clause of Clause (2) of
+Article 323B.
+The matters specified cover a
+wide canvas including inter alia disputes relating to tax cases, foreign
+exchange matters, industrial and labour cases, ceiling on urban property,
+election to State Legislatures and Parliament, essential goods and their
+distribution, criminal offences etc. Clause (3) enables the concerned
+Legislature to provide for the establishment of a hierarchy of Tribunals
+and to lay down their jurisdiction, the procedure to be followed by them in
+their functioning, etc. Sub-clause (d) of Clause (3) empowers the concerned
+Legislature to exclude the jurisdiction of all courts, except the
+jurisdiction of the Supreme Court under
+Article 136
+of the Constitution,
+with respect to all or any of matters falling within the jurisdiction of
+the Tribunals. The constitutional provision, therefore, invests Parliament
+of the State Legislatures, as the case may be, with powers to divest the
+traditional courts of a considerable portion of their judicial work.
+36. According to the information provided to us by Mr. K.N. Bhat, the
+learned Additional Solicitor General, until the present date, only four
+Tribunals have been created under
+Article 323B
+pursuant to legislations
+enacted by the Legislatures of three States. The first of these was the
+West Bengal Taxation Tribunal which was set up in 1989 under the
+West
+Bengal Taxation Tribunal Act, 1987
+. Similarly, the Rajasthan Taxation
+Tribunal was set up in 1995 under the Rajasthan Taxation Tribunal Act,
+1995. The State of Tamil Nadu has set up two Tribunals by utilising the
+power conferred upon it by
+Article 323B.
+The first of these was the Tamil
+Nadu Land Reforms Special Appellate Tribunal which was established on
+1.11.1990 under the Tamil Nadu Land Reforms (Fixation of Ceiling of Land)
+Amendment Act, 1985 to deal with all matters relating to land reforms
+arising under the
+Tamil Nadu Land Reforms (Fixation of Ceiling on Land)
+Act, 1961
+. Later, the Tamil Nadu Taxation Special Tribunal was established
+on 22.12.1995 under the Tamil Nadu Taxation Special Tribunal Act, 1992 to
+deal with cases arising under the
+Tamil Nadu General Sales Tax Act and
+Additional Sales Tax Act
+.
+37. Certain problems have arisen in the functioning of these Tribunals
+especially in respect of the manner in which they exclude the jurisdiction
+of their respective High Courts. This aspect can be illustrated by briefly
+adverting to the broad facts of two of the matters before us. C.A. No.
+1532-33 of 1993 arises as a result of conflicting orders issued by the West
+Bengal Taxation Tribunal and the Calcutta High Court. Certain petitioners
+had challenged the constitutional validity of some provisions in three
+legislations enacted by the West Bengal Legislature before the west Bengal
+Taxation Tribunal. After examining the matter and hearing the arguments
+advanced in response by the State of West Bengal, the West Bengal Taxation
+Tribunal, by this order dated 9.10.1991, upheld the constitutional validity
+of the impugned provisions. Thereafter, the constitutional validity of the
+same provisions was challenged in a Writ Petition before the Calcutta High
+Court. During the proceedings, the State of West Bengal raised the
+preliminary objection that by virtue of
+Section 14
+of the West Bengal
+Taxation Tribunal Act, 1987, which excluded the jurisdiction of the High
+Court in all matters within the jurisdiction of the Taxation Tribunal, the
+Calcutta High Court had no jurisdiction to entertain the writ petition.
+However, the High Court proceeded with the case and, by its judgment dated
+25.11.1992, declared the impugned provisions to be unconstitutional. These
+developments have resulted in an interesting situation, where the same
+provisions have alternately been held to be constitutional and
+unconstitutional by two different form, each of which considered itself to
+be empowered to exercise jurisdiction.
+38. S.L.P. No. 17768 of 1991 seeks to challenge a judgment of the Madras
+High Court which has held that the establishment of the Tamil Nadu Land
+Reforms Special Appellate Tribunal will not affect the powers of the Madras
+High Court to issue writs. This decision is based on the reasoning that the
+Legislature of the State had no power" to infringe upon the High Courts'
+powers to issue writs under
+Article 226
+of the Constitution and to exercise
+its powers of superintendence under
+Article 227
+of the Constitution."
+39. It is against these circumstances that we must now test the
+propositions put forth for our consideration.
+Submissions of Counsel.
+40. We have heard the submission of several learned senior counsel who
+appeared for the various parties before us. Mr. Rama Jois and Mr. Shanti
+Bhushan, through their respective arguments, urged us to review the
+decision in
+Sampath Kumar
+'s case and to hold
+Article 323
+A (2)(d) and
+Article 323
+B (3)(d) of the Constitution to be unconstitutional to the
+extent they allow Tribunals created under the Act to exclusively exercise
+the jurisdiction vested in the High Courts under
+Articles 226
+and
+227
+of
+the Constitution. On the other hand, Mr. Bhat, the learned Additional
+Solicitor General, Mr. P.P. Rao, and Mr. K.K. Venugopal urged us to uphold
+the validity of the impugned constitutional provisions and to allow such
+Tribunals to exercise the jurisdiction under
+Article 226
+of the
+Constitution. We have also heard arguments advanced on behalf of the
+Registrar of the Principal Bench of the Central Administrative Tribunal,
+who was represented before us by Mr. Kapil Sibal. Mr. V.R. Reddy, the
+learned Additional Solicitor General, urged us to set aside the judgment of
+the Madras High Court which affects the jurisdiction of the Tamil Nadu Land
+Reforms Special Appellate Tribunal. Certain other counsel have also
+addressed us in support of the main arguments advanced.
+41. Mr. Rama Jois, learned Counsel for the petitioner in W.P. No. 918 of
+1992, contended as follows: (i)
+Section 5(6)
+of the Act, insofar as it
+allows a single Member Bench of a Tribunal to test the constitutional
+validity of a statutory provision, is unconstitutional. This proposition
+flows from the decisions in
+Sampath Kumar
+'s case, Amulya Chandra's case and
+Dr. Mahabal Ram's case.
+In
+Sampath Kumar
+'s case, this Court had required a
+Bench of a Tribunal to ordinarily consist of a Judicial Member and an
+Administrative Member.
+Consequently,
+Section 5 (2)
+of the Act was
+accordingly amended; however, since
+Section 5(6)
+was not amended
+simultaneously, the import of the observations in
+Sampath Kumar
+'s case can
+still be frustrated.
+Even if the theory of alternative institutional
+mechanisms adopted in
+Sampath Kumar
+'s case, is presumed to be correct,
+Section 5(6)
+of the Act will have to be struck down as a single Member
+Bench of a Tribunal cannot be considered to be a substitute for the
+exercise of the power of a High Court under
+Article 226
+of the
+Constitution; (ii) The impugned provisions of the Constitution, insofar as
+they exclude the jurisdiction of the Supreme Court and the High Courts
+under
+Articles 32
+and of the Constitution, are unconstitutional. This is
+for the reason that: (a) Parliament cannot, in exercise of its constituent
+power, confer power on Parliament and the State Legislatures to exclude the
+constitutional jurisdiction conferred on the High Courts as the power to
+amend the Constitution cannot be conferred on the Legislatures; and (b)
+These provisions violate the basic structure of the Constitution insofar as
+they take away the power of judicial review vested in the Supreme Court
+under
+Article 32
+of the Constitution and the High Courts under
+Articles 226
+and
+227
+the Constitution. While the Tribunals constituted under
+Articles
+323A
+and
+323
+B can be vested with the power of judicial review over
+administrative action, the power of judicial review of legislative action
+cannot be conferred upon them.
+This proposition flows from
+Kesavananda
+Bharati
+'s case where it was held that under our constitutional scheme, only
+the constitutional courts have been vested with the power of judicial
+review of legislative action; (iii) While the provisions of the Act do not
+purport to affect the sacrosanct jurisdiction of the Supreme Court under
+Article 32
+of the Constitution,
+Articles 323A
+and
+323B
+allow Parliament to
+pursue such a course in future and are therefore liable to be struck down;
+(iv) The decision in
+Sampath Kumar
+'s case was founded on the hope that the
+Tribunals would be effective substitutes for the High Courts. This position
+is neither factually nor legally correct on account of the following
+differences between High Courts and these Tribunals: (a) High Courts enjoy
+vast powers as a consequence of their being Courts of record under
+Article
+215
+of the Constitution and also process the power to issue Certificates of
+Appeal under
+Articles 132
+and
+133
+of the Constitution in cases where they
+feel that a decision of this Court is required. This is not so for
+Tribunals; (b) the qualifications for appointment of a High Court Judge and
+the constitutional safeguards provided ensure the independence of and
+efficiency of the Judges who man the High Courts. The conditions prescribed
+for Members of Tribunals are not comparable; (c) While the jurisdiction of
+the High Courts is constitutionally protected, a Tribunal can be abolished
+by simply repealing its parent statute; (d) While the expenditure of the
+High Courts is charged to the Consolidated Fund of the States, the
+Tribunals are dependent upon the appropriate Government for the grant of
+funds for meeting their expenses. These and other differences give rise to
+a situation whereby the Tribunals, being deprived of constitutional
+safeguards for ensuring their independence, are incapable of being
+effective substitutes for the High Courts; (v) Under our constitutional
+scheme, every High Court has, by virtue of
+Articles 226
+and
+227
+of the
+Constitution, the power to issue prerogative writs or orders to all
+authorities and instrumentalities of the State which function within its
+territorial jurisdiction.
+In such a situation, no authority or Tribunal
+located within the territorial jurisdiction of a High Court can disregard
+the law declared by it. The impugned constitutional provisions, insofar as
+they seek to divest the High Courts of their power of superintendence over
+all Tribunals and Courts situated within their territorial jurisdiction,
+violate the basic structure of the constitution, and (vi) In view of the
+afore-stated propositions, the decision in
+Sampath Kumar
+'s case requires a
+comprehensive reconsideration.
+42. Mr. Shanti Bhushan, appearing for the respondent in C.A. No.
+1532-33/96, advanced the following submissions: (i) The 42nd Amendment to
+the Constitution, which introduced the impugned constitutional provisions,
+must be viewed in its historical context. The 42nd Amendment, being
+motivated by a feeling of distrust towards the established judicial
+institutions, sought, in letter and spirit, to divest constitutional courts
+of their jurisdiction. The aim was to vest such constitutional jurisdiction
+in creatures whose establishment and functioning could be controlled by the
+executive. Such an intent is manifest in the plain words of
+Articles 323A
+and
+323B
+which oust the jurisdiction vested in this Court and the High
+Courts under
+Articles 32
+, 226
+and
+227
+of the Constitution; (ii) The
+validity of the impugned provisions has to be determined irrespective of
+the manner in which the power conferred by them has been exercised.
+In
+Sampath Kumar
+'s case, this Court restricted its enquiry to the Act, which
+did not oust the jurisdiction under
+Article 32
+, and did not explore the
+larger issue of the constitutionality of
+Article 323A (2)(d)
+, which in
+express terms permits Parliament to oust the jurisdiction of the Supreme
+Court. This was not correct approach as the constitutionality of a
+provision ought not to be judged only against the manner in which power is
+sought to be exercised under it. The correct test is to square the
+provision against the constitutional scheme and then pronounce upon its
+compatibility. The vice in
+Article 323A (2)(d)
+is that it permits
+Parliament to enact, at a future date, a law to exclude the jurisdiction of
+this Court under
+Article 32.
+Being possessed of such potential for
+unleashing constitutional mischief in the future, its vires cannot be
+sustained; (iii) The power of judicial review vested in this Court under
+Article 32
+and the High Court under
+Article 226
+is part of the basic
+structure of the Constitution.
+The relevant portions of the decisions in
+Kesavananda Bharati
+'s case,
+Fertiliser Corporation Kamgar Union v. Union of
+India
+: (
+1981)ILLJ193SC and Delhi Judicial Service Association v. State of
+Gujarat
+: AIR1991SC2150 highlight the importance accorded to
+Article 32
+of
+the Constitution; (iv) The theory of alternative institutional mechanisms
+advocated in
+Sampath Kumar
+'s case ignores the fact that judicial review
+vested in the High Courts consists not only of the power conferred upon the
+High Courts but also of the High Courts themselves as institutions endowed
+with glorious judicial traditions. The High Courts had been in existence
+since the 19th century and were possessed of a hoary past enabling them to
+win the confidence of the people. It is this which prompted the Framers of
+our Constitution to vest such constitutional jurisdiction in them. A
+Tribunal, being a new creation of the executive, would not be able to
+recreate a similar tradition and environment overnight. Consequently, the
+alternative mechanisms would not, in the absence of an atmosphere conducive
+to the building of traditions, be able to act as effective alternatives to
+High Courts for the exercise of constitutional Jurisdiction.
+In Pratibha
+Bonnerjea v. Union of India  : AIR1996SC693 , this Court has analysed the
+special constitutional status of Judges of High Courts and explained how
+they are distinct from other tiers of the judiciary.
+43. Mr. A.K. Ganguli, appearing for the second and third respondents in
+C.A. 1532-33/93, adopted the arguments of Mr. Rama Jois and Mr. Bhushan. In
+addition, he cited certain authorities in support of his contention that
+the power to interpret the provisions of the Constitution is one which has
+been solely vested in the constitutional courts and cannot be bestowed on
+newly created quasi-judicial bodies which are susceptible to executive
+influences.
+44. Mr. K.N. Bhat, the learned Additional Solicitor General of India
+represented the Union of India which is a party in C.A. No. 169 of 1994 and
+C.A. No. 481 of 1989. His contentions are as follows: (i) Clause 2(d) of
+Article 323A
+and Clause 3(d) of
+Article 323B
+ought not to be struck down on
+the ground that they exclude the jurisdiction of this Court under
+Article
+32
+of the Constitution. On account of several decisions of this Court, it
+is a well-established proposition in law that the jurisdiction of this
+Court under
+Article 32
+of the Constitution is sacrosanct and is
+indisputably a part of the basic structure of the Constitution. This
+position had been clearly enunciated well before the 42nd Amendment to the
+Constitution was conceived. Therefore, Parliament must be deemed to have
+been aware of such a position and it must be concluded that the
+jurisdiction under
+Article 32
+was not intended to be affected. However, the
+jurisdiction of the High Courts under
+Article 226
+was sought to be removed
+by creating alternative institutional mechanisms. The theory enunciated in
+Sampath Kumar
+'s case is based on sound considerations and does not require
+any reconsideration; (ii) Alternatively,
+Articles 323A
+and
+323B
+do not seek
+to exclude the supervisory jurisdiction of the High Courts over all
+Tribunals situated within their territorial jurisdiction.
+Viewed from this
+perspective, the High Courts would still be vested with Constitutional
+powers to exercise corrective or supervisory jurisdiction; (iii) Since the
+decisions of this Court in Amulya Chandra's case and Dr. Mahabal Ram's case
+had clearly held that matters relating to the vires of a provision are to
+be dealt with by a Bench consisting of a judicial member and these
+guidelines will be followed in future, there is no vice of
+unconstitutionality in
+Section 5 (6)
+.
+45. Mr. P.P. Rao, learned Counsel for the State of Andhra Pradesh in C.A.
+No. 196 of 1994 and the connected special leave petitions, put forth the
+following submissions: (i) The matter before us involves a very serious,
+live problem which needs to be decided by adopting a pragmatic, cooperative
+approach instead of by a dogmatic, adversarial process. It is a fact that
+the Administrative Tribunals which were conceived as substitutes for the
+High Courts have not lived upto expectations and have instead, proved to be
+inadequate and ineffective in several ways. However, the striking down of
+the impugned constitutional provisions would, instead of remedying the
+problem, contribute to its worsening. The problem of pendency in High
+Courts which has been a cause for concern for several decades, has been
+focused upon by several expert committees and commissions. The problem of
+enormous increase in the volume of fresh institution coupled with massive
+areas has necessitated the seeking of realistic solutions in order to
+prevent High Courts from becoming incapable of discharging their functions.
+The consistent view of these expert committees has been that the only
+manner in which the situation can be saved is by transferring some of the
+jurisdiction of the High Courts, in relatively less important areas, to
+specially constituted Tribunals which would act as substitutes for the High
+Courts.
+In
+Sampath Kumar
+'s case, this Court was required to test the
+constitutional validity of providing for such a substitute to the High
+Court in the shape of Administrative Tribunals. While deciding the case,
+this Court had actually monitored the amendments to the Act by a series of
+orders and directions given from time to time as the learned Attorney
+General had offered to effect the necessary amendments to the Act to remove
+its defects. After the necessary amendments were made to the Act, this
+Court was satisfied that there was no need to strike, it down as it was of
+the view that the Act would provide an effective alternative forum to the
+High Courts for the resolution of service disputes. However, the actual
+functioning of the Tribunals during the last decade has brought forth
+several deficiencies which need to be removed. The remedy, however, lies
+not in striking down the constitutional provisions involved but in allowing
+the Union of India to further amend the Act so as to ensure that the
+Tribunals become effective alternative form; (ii)
+Article 323A (2)(d)
+does
+not violate the basic structure of the Constitution.
+The relevant
+observations in
+Keshvananda Bharati
+'s case, show that there is an inherent
+distinction between the individual provisions of the Constitution and the
+basic features of the Constitution. While the basic features of the
+Constitution cannot be changed even by amending the Constitution each and
+every provision of the Constitution can be amended under
+Article 368.
+The
+majority judgments in
+Keshavananda Bharti
+'s case emphatically state that
+the concept of separation of powers is a basic feature of the Constitution.
+It, therefore, follows that the powers of judicial review, which is a
+necessary concomitant of the independence of the judiciary, is also a basic
+feature of our Constitution. However, it does not follow that specific
+provisions such as
+Article 32
+or
+Article 226
+are by themselves part of the
+basic structure of the Constitution. In this regard, the history of
+Article
+31
+, which contained a Fundamental Right to Property and was shifted from
+Part III to Chapter IV of Part XII can be cited by way of an example; (iii)
+the essence of the power of judicial review is that it must always remain
+with the judiciary and must not be surrendered to the executive or the
+legislature. Since the impugned provisions save the jurisdiction of this
+Court under
+Article 136
+, thereby allowing the judiciary to have the final
+say in every form of adjudication, it cannot be said that the basic feature
+of judicial review had been violated. The constitutional bar is against the
+conferment of judicial power on agencies outside the judiciary. However, if
+within the judicial set-up, arrangements are made in the interests of
+bolter administration of justice to limit the jurisdiction under
+Article 32
+and
+226
+of the Constitution, there can be no grievance. In fact, it is in
+the interest of better administration of justice that this Court has
+developed a practice, even in the case of violation of Fundamental Rights,
+of requiring parties to approach the concerned High Court under
+Article 226
+instead of directly approaching this Court under
+Article 32
+of the
+Constitution. This, undoubtedly, has the effect of limiting the
+jurisdiction of this Court under
+Article 32
+but, being necessary for proper
+administration of justice, cannot be challenged as unconstitutional.
+Service matters, which are essentially in the nature of in-house disputes,
+being of lesser significance than those involving Fundamental Rights, can
+also be transferred to Tribunals on the same reasoning; (iv) By virtue of
+Order XXVII-A, Rule 1A, ordinary civil courts are empowered to adjudicate
+upon questions of vires of statutory rules and instruments. In view of this
+situation, there is no constitutional difficulty in empowering Tribunals to
+have similar powers; (v) Alternatively, in case we are inclined to take
+view that the power of judicial review of legislative enactments cannot in
+any event be conferred on any other Court or Tribunal, we may use the
+doctrine of reading down to save the impugned constitutional provisions. So
+construed, the High Courts would continue to have jurisdiction to decide
+the vires of an Act even in the area of service disputes and would,
+therefore, perform a supervisory role over Tribunals in respect of matters
+involving constitutional questions.
+46. Mr. K.K. Venugopal, representing the State of West Bengal in S.L.P. No.
+1063 of 1996 and C.A. No. 1532-33 of 1993, began by reiterating the
+contention that the impugned provisions do not seek to oust the
+jurisdiction of this Court under
+Article 32
+which is a basic feature of the
+Constitution. His alternative contention was that since the provisions do
+not exclude the jurisdiction under
+Article 136
+and since
+Article 32 (3)
+itself conceives of the delegation of that jurisdiction, the ouster of the
+jurisdiction under
+Article 32
+was not unconstitutional. This submission was
+based on the reasoning that, in the absence of any specific constitutional
+prohibition, both Parliament and the State legislatures were vested with
+sufficient legislation powers to effect changes in the original
+jurisdiction of this Court as well as the High Courts. He then stated that
+in the event that we are not inclined to hold in accordance with either of
+the earlier contentions, the doctrine of severability should be applied to
+excise the words "under
+Article 136"
+from the provisions and thus save them
+from the vice of unconstitutionality. Thereafter, he endeavoured to impress
+upon us the jurisprudential soundness of the theory of alternative
+institutional mechanism propounded in
+Sampath Kumar
+'s case. He then
+contended that the shortfalls in the Constitution of the Tribunals, the
+selection of their personnel, the methods of their appointment etc. are a
+consequence of legislative and executive errors of judgment; these
+shortfalls cannot affect the constitutionality of the parent constitutional
+provisions. He concluded by declaring that these constitutional amendments
+were lawfully incorporated by the representatives of the people in exercise
+of the constituent power of Parliament to remedy the existing problem of
+inefficacious delivery of justice in the High Courts.
+He counseled us not
+to substitute our decision for that of the policy evolved by Parliament in
+exercise of its constituent power and urged us to suggest suitable
+amendments, as was done in
+Sampath Kumar
+'s case, to make up for the
+shortfalls in the existing system.
+47. Mr. Kiran K. Shah, the petitioner in W.P. No. 789 of 1990, who is a
+lawyer practicing before the Ahmedabad Bench of the Central Administrative
+Tribunal, sought to apprise us of the practical problems faced by advocates
+in presenting their cases before the Central Administrative Tribunal and of
+several complaints regarding the discharge of their official duties.
+48. The Registrar of the Principle Bench of the Central Administrative
+Tribunal, who is the Second respondent in C.A. No. 481 of 1989, was
+represented before us by Mr. Kapil Sibal. The case of the Registrar is that
+the Tribunals, as they are functioning at present, are not effective
+substitutes for the High Courts. However, the creation of alternative
+institutional mechanisms is not violative of the basic structure so long as
+it is as efficacious as the constitutional courts. He urged us to
+discontinue the appointment of Administrative Members to the Tribunals and
+to ensure that the Members of the Tribunals have security of tenure, which
+is a necessary pre-requisite for securing their independence.
+49. Mr. V.R. Reddy, the learned Additional Solicitor General of India, drew
+our attention towards the judgment of the Madras High Court which is the
+subject of challenge in S.L.P. No. 17768 of 1991. Mr. Reddy endeavoured to
+convince us that the amendments incorporated in the legislation which
+created the Tamil Nadu Land Reforms Special Appellate Tribunal after the
+decision in
+Sampath Kumar
+'s case have the effect of making it a proper and
+effective substitute for the High Courts. He also submitted that the
+functioning of the Land Reforms Tribunal was essential for the effective
+resolution of disputes in that branch of law.
+50. We may now address the main issues which have been identified at the
+beginning of this judgment as being central to the adjudication of this
+batch of matters. This would involve an appreciation of the power of
+judicial review and an understanding of the manner and the
+instrumentalities through which it is to be exercised.
+51. The underlying theme of the impugned judgment of the A.P. High Court
+rendered by M.N. Rao, J. is that the power of judicial review is one of the
+basic features of our Constitution and that aspect of the power which
+enables courts to test the constitutional validity of statutory provisions
+is vested exclusively in the constitutional courts, i.e., the High Courts
+and the Supreme Courts. In this Regard, the position in American
+Constitutional Law in respect of Courts created under Article III of the
+Constitution of the United States has been analysed to state that the
+functions of Article III Courts (constitutional courts) cannot be performed
+by other legislative courts established by the Congress in exercise of its
+legislative power. The following decisions of the U.S. Supreme Court have
+been cited for support : National Mugal Insurance Co. of the District of
+Columbia v. Tidewater Transfer Co. 93 L. Ed. 1156 337 US 582, Thomas S.
+William v. United States 77 L. Ed. 1372 289 US 553, Cooper v. Aaron 3 L.
+Ed. 2d 5 358 US 1, Northern Pipeline Construction Co. v. Marathon Pipeline
+Co. and United States 73 L. Ed. 2d 59 458 US 50.
+52. We may briefly advert to the position in American Constitutional Law to
+the extent that it is relevant for our purpose. As pointed out by Henery J.
+Abraham, an acclaimed American Constitutional Law scholar, judicial review
+in the United States comprises the power of any court to hold
+unconstitutional and hence unenforceable any law, any official action based
+upon a law or any other action by a public official that it deems to be in
+conflict with the Basic Law, in the United States, its Constitution. It
+further stated that in the United States, the highly significant power of
+judicial review is possessed, theoretically, by every court of record, no
+matter how high or low on the judicial ladder. Though it occurs only
+infrequently, it is quite possible for a Judge in a low-level court of one
+of the 50 States to declare a Federal Law unconstitutional.
+53. The position can be better appreciated by analysing the text of
+Section
+1
+of Article III of the U.S. Constitution:
+Article III,
+Section 1
+- The Judicial Power of the United States, shall be
+vested in one Supreme Court, and in such inferior Courts as the Congress
+may from time to time ordain and establish. The Judges, both of the supreme
+and inferior Courts, shall hold their Offices during good behavior, and
+shall, at stated times, receive for their Services, a Compensation, which
+shall not be diminished during their Continuance in Office.
+(Emphasis added)
+54. The judgment of the A.P. High Court is, therefore, correct in asserting
+that the judicial power vested in Article III of the U.S. Constitution can
+only be exercised by courts created under
+Section 1
+of Article III.
+However, what must be emphasised is the fact that Article III itself
+contemplates the conferment of such judicial power by the U.S. Congress
+upon inferior courts so long as the independence of the Judges is ensured
+in terms of
+Section 1
+to Article III. The proposition which emerges from
+this analysis is that in the United States, though the concept of judicial
+power has been accorded great constitutional protection, there is no
+blanket prohibition on the conferment of judicial power upon courts other
+than the U.S. Supreme Court.
+55. Henry J. Abraham's definition of judicial review in the American
+context is, subject to a few modifications, equally applicable to concept
+as it is understood in Indian Constitutional Law. Broadly speaking,
+judicial review in India comprises three aspects: judicial review of
+legislative action, judicial review of judicial decisions and judicial
+review of administrative action. We are, for the present, concerned only
+with understanding the first two aspects.
+56. In the modern era, the origin of the power of judicial review of
+legislative action may well be traced to the classic enunciation of the
+principle by Chief, Justice John Marshall of the U.S. Supreme Court in
+Marbury v. Mad 1 Cr 137 (1803):
+It is emphatically the province and duty of the judicial department to say
+what the law is. Those who apply the rule to particular cases, must of
+necessity expound and interpret that rule..A law repugnant to the
+Constitution is void.. Courts as well as other departments are bound by
+that instrument.
+(Emphasis added)
+
+The assumption of such a power unto itself by the U.S. Supreme Court was
+never seriously challenged and, over the years, it has exercised this power
+in numerous cases despite the persisting criticism that such an exercise
+was undemocratic. Indeed, when the Framers of our Constitution set about
+their monumental task, they were well aware that the principle that courts
+possess the power to invalidate duly enacted legislations had already
+acquired a history of nearly a century and a half.
+57. At a very early stage of the history of this Court, when it was doubted
+whether it was justified in exercising such a power, Patanjali Sastri, CJ,
+While emphatically laying down the foundation of the principle held as
+follows
+State of Madras v. V.G. Row
+: 1952CriLJ966 :
+..[O]ur Constitution contains express provisions for judicial review of
+legislation as to its conformity with the Constitution, unlike as in
+America where the Supreme Court has assumed extensive powers of reviewing
+legislative acts under cover of the widely interpreted "due process" clause
+in the Fifth and Fourteenth Amendments. If, then, the courts, in this
+country face up to such important and none too easy task, it is not out of
+any desire to tilt at legislative authority in a crusader's sprit, but in
+discharge of a duty plainly laid upon them by the constitution. This is
+especially true as regards the "fundamental rights", as to which this
+Courts has been assigned the role of a sentinel on the qui vive. While the
+Court naturally attaches great weight to the legislative judgment, it
+cannot desert its own duty to determine finally the constitutionality of an
+impugned statute.
+(Emphasis added)
+58. Over the years, this Court has had many an opportunity to express its
+views on the power of judicial review of legislative action. What follows
+is an analysis of the leading pronouncements on the issue.
+59. While delivering a separate but concurring judgment in the five-Judge
+Constitution Bench Decision in
+Bidi Supply Co. v, The Union of India and
+Ors.
+: [1956]29ITR717(SC) , Bose, J. made the following observations which
+are apposite to the Present context:
+The heart and core of democracy lies in the judicial process, and that
+means independent and fearless judges free from executive control brought
+up in judicial traditions and training to judicial ways of working and
+thinking. The main bulwarks of liberty of freedom lie there and it is clear
+to me that uncontrolled powers of discrimination in matters that seriously
+affect the lives and properties of people cannot be left to executive or
+quasi executive bodies even if they exercise quasi judicial functions
+because they are then invested with an authority that even Parliament does
+not possess. Under the Constitution, Acts, of Parliament are subjected to
+judicial review particularly when they are said to infringe fundamental
+rights, therefore, if under the Constitution Parliament itself has not
+uncontrolled freedom, of action, it is evident that it cannot invest lesser
+authorities with that power.
+60. Special Reference No. 1 of 1964, was a case where a seven-Judge
+Constitution Bench of this Court had to express itself on the thorny issue
+of Parliamentary privileges. While doing so, the Court was required to
+consider the manner in which our Constitution has envisaged a balance of
+power between the three wings of Government and it was in this context that
+Gajendragadkar, CJ made the following observations:
+..[W]hether or not there is distinct and rigid separation of powers under
+the Indian Constitution, there is no doubt that the Constitution has
+entrusted to the Judicature in this country the task of construing the
+provisions of the Constitution and of safeguarding the fundamental rights
+of the citizens. When a statute is challenged on the ground that it has
+been passed by a Legislature without authority, or has otherwise
+unconstitutionally trespassed on fundamental rights, it is for the courts
+to determine the dispute and decide whether the law passed by the
+legislature is valid or not. Just as the legislatures are conferred
+legislative functions, and the functions and authority of the executive lie
+within the domain of executive authority, so the jurisdiction and authority
+of the Judicature in this country lie within the domain of adjudication. If
+the validity of any law is challenged before the courts, it is never
+suggested that the material question as to whether legislative authority
+has been exceeded or fundamental rights have been contravened, can be
+decided by the legislatures themselves. Adjudication of such a dispute is
+entrusted solely and exclusively to the Judicature of this country.
+(Emphasis added)
+61. It is interesting to note that the origins of the power of judicial
+review of legislative action have not been attributed to one source alone.
+While Sastri, C.J. found the power mentioned expressly in the text of the
+Constitution, Gajendragadkar, C.J. preferred to trace it to the manner in
+which the Constitution has separated powers between the three wings of
+Government.
+62.
+In
+Kesvananda Bharati
+'s case, a 13 - Judge Constitution Bench, by a
+majority of 7:6, held that though, by virtue of
+Article 368
+, Parliament is
+empowered to amend to Constitution, that power cannot be exercised so as to
+damage the basic features of the Constitution or to destroy its basic
+structure. The identification of the features which constitute the basic
+structure of our Constitution has been the subject-matter of great debate
+in Indian Constitutional Law. The difficulty is compounded by the fact that
+even the judgments for the majority are not unanimously agreed on this
+aspect. [There were five judgments for the majority, delivered by Sikri,
+C.J., Shelat & Grover, JJ. Hegde & Mukherjee, JJ. Jaganmohan Reddy, J. and
+Khanna, J. While Khanna, J. did not attempt to catalogue the basic
+features, the identification of the basic features by the other Judges are
+specified in the following paragraphs of the Court's judgments : Sikri,
+C.J. (para 292), Shelat and Grover, JJ. (para 582), Hegde and Mukherjee,
+JJ. (paras 632, 661) and Jaganmohan Reddy, J. (paras 1159, 1161)]. The
+aspect of judicial review does not find elaborate mention in all the
+majority judgments. Khanna, J. did, however, squarely address the issue (at
+para 1529):
+..The power of judicial review is, however, confined not merely to deciding
+whether in making the impugned laws the Central or State Legislatures have
+acted within the four corners of the legislative lists earmarked for them;
+the courts also deal with the question as to whether the laws are made in
+conformity with and not in violation of the other provisions of the
+Constitution..As long as some fundamental rights exist and are a part of
+the Constitution, the power of judicial review has also to be exercised
+with a view to see that the guarantees afforded by those rights are not
+contravened.. Judicial review has thus become an integral part of our
+constitutional system and a power has been vested in the High Courts and
+the Supreme Court to decide about the constitutional validity of provisions
+of statutes. If the provisions of the statute are found to be violative of
+any article of the Constitution, which is touchstone for the validity of
+all laws, the Supreme Court and the High Courts are empowered to strike
+down the said provisions.
+(Emphasis added)
+63. Shelat & Grover, JJ., while reaching the same conclusion in respect of
+Articles 32
+& 226
+, however, adopted a different approach to the issue (at
+para 577):
+There is ample evidence in the Constitution itself to indicate that it
+creates a system of checks and balances by reason of which powers are so
+distributed that none of the three organs it sets up can become so pre-
+dominant as to disable the others from exercising and discharging powers
+and functions entrusted to them. Though the Constitution does not lay down
+the principle of separation of powers in all its rigidity as is the case in
+the United States Constitution but it envisages such a separation to a
+degree as was found in Ranasinghe's case (supra). The judicial review
+provided expressly in our Constitution by means of
+Articles 226
+and
+32
+is
+one of the features upon which hinges the system of checks and balances.
+(Emphasis added)
+64.
+In
+Indira Nehru Gandhi v. Raj Narain
+, five-Judge Constitution Bench had
+to, inter alia, test the Constitutional validity of provisions which ousted
+the jurisdiction of all Courts including the Supreme Court, in election
+matters. Consequently, the Court was required to express its opinion on the
+concept of judicial review. Though all five Judges delivered concurring
+judgments to strike down the offending provision, their views on the issue
+of judicial review are replete with variations. Ray, C.J., was of the view
+that the concept of judicial review, while a distinctive feature of
+American Constitutional Law, is not founded on any specific Article in our
+Constitution. He observed that judicial review can and has been excluded in
+several matters; in election matters, judicial review is not a compulsion.
+He, however, held that our Constitution recognises a division of the three
+main functions of Government and that judicial power, which is vested in
+the judiciary cannot be passed to or shared by the Executive or the
+Legislature. (Paras 32, 43, 46, 52). Khanna, J. took the view that it is
+not necessary, within a democratic set up, (hat disputes relating to the
+validity of elections be settled by Courts of Law; he, however, felt that
+even so the legislature could not be permitted to declare that the validity
+of a particular election would act be challenged before any forum and would
+be valid despite the existence of disputes. (Para 207). Mathew, J. held
+that whereas in the United States of America and in Australia, the judicial
+power is vested exclusively in Courts, there is no such exclusive vesting
+of judicial power in the Supreme Court of India and the Courts subordinate
+to it. Therefore, the Parliament could, by passing a law within its
+competence, vest judicial power in any authority for deciding a dispute.
+(Paras 322 and 323). Beg, J. held that the power of Courts to test the
+legality of ordinary laws and constitutional amendments against the norms
+laid down in
+the Constitution flows from the 'supremacy of the
+Constitution' which is a basic feature of the Constitution. (Para 622).
+Chandrachud, J. felt that the contention that judicial review is a part of
+the basic structure and that any attempt to exclude the jurisdiction of
+courts in respect of election matters was unconstitutional, was too broadly
+stated. He pointed out that the Constitution, as originally enacted,
+expressly excluded judicial review in a large number of important: matters.
+The examples of
+Articles 136(2)
+and
+226(4) [
+exclusion of review in laws
+relating to armed forces],
+Article 262(2) [
+exclusion of review in river
+disputes]
+Article 103(1) [
+exclusion of review in disqualification of
+Members of Parliament],
+Article 329(a) [
+exclusion of review in laws
+relating to delimitation of constituencies and related matters], were cited
+for support. Based on this analysis, Chandrachud, J. came to the conclusion
+that since the Constitution, as originally enacted, did not consider that
+judicial power must intervene in the interests of purity of elections,
+judicial review cannot be considered to be a part of the basic structure in
+so far as legislative elections are concerned.
+65. The foregoing analysis reveals that the Judges in
+Indira Gandhi
+'s case,
+all of whom had been party to
+Kesavananda Bharati
+'s case, did not adopt
+similar approaches to the concept of judicial review. While Beg, J. clearly
+expressed his view that judicial review was a part of the basic structure
+of the Constitution, Ray, CJ and Mathew, J. pointed out that unlike in the
+American context, judicial power had not been expressly vested in the
+judiciary by the Constitution of India.
+Khanna, J. did not express himself
+on this aspect, but in view of his emphatic observations in
+Kesavananda
+Bharati
+'s case, his views on the subject can be understood to have been
+made clear. Chandrachud, J. pointed out that the Constitution itself
+excludes judicial review in a number of matters and felt that in election
+matters, judicial review is not a necessary requirement.
+66.
+In
+Minerva Mills v. Union of India
+, a five-Judge Constitution Bench of
+this Court had to consider the validity of certain provisions of the
+Constitution (42nd Amendment) Act, 1976 which inter alia, excluded judicial
+review. The judgment for the majority, delivered by Chandrachud, CJ for
+four Judges, contained the following observations(at p. 644, para 21):
+..Our Constitution is founded on a nice balance of power among the three
+wings of the State, namely, the Executive, the Legislature and the
+Judiciary. It is the function of the Judges, nay their duty, to pronounce
+upon the validity of laws. If courts are totally deprived of that power,
+the fundamental rights conferred upon the people will become a mere
+adornment because rights without remedies are as writ in water. A
+controlled Constitution will then become uncontrolled.
+(Emphasis supplied)
+67. The majority judgment held the impugned provisions to be
+unconstitutional. While giving reasons in support, Chandrachud, CJ stated
+as follows:
+..It is for the courts to decide whether restrictions are reasonable and
+whether they are in the interest of the particular subject. Apart from
+other basic dissimilarities,
+Article 31-C
+takes away the power of judicial
+review to an extent which destroys even the semblance of a comparison
+between its provisions and those of Clauses (2) to (6) of
+Article 19.
+Human
+ingenuity, limitless though it may be, has yet not devised a system by
+which the liberty of the people can be protected except through the
+intervention of courts of law.
+68. It may, however, be noted that the majority in Minerva Mills did not
+hold that the concept of judicial review was, by itself, part of the basic
+structure of the Constitution. The judgment of Chandrachud, CJ in the
+Minerva Mill
+'s case must be viewed in the context of his judgment in
+Indira
+Gandhi
+'s case where he had stated that the Constitution, as originally
+enacted, excluded judicial review in several important matters.
+69.
+In his minority judgment in
+Minerva Mill
+'s case, Bhagwati, J. held as
+follows:
+..The Constitution has, therefore, created an independent machinery for
+resolving these disputes and this independent machinery is the judiciary
+which is vested with the power of judicial review to determine the legality
+of executive action and the validity of legislation passed by the
+legislature. It is the solemn duty of the judiciary under the Constitution
+to keep the different organs of the State such as the executive and the
+legislature within the limits of the power conferred upon them by the
+Constitution. This power of judicial review is conferred on the judiciary
+by
+Articles 32
+and
+226
+of the Constitution..The judiciary is the
+interpreter of the Constitution and to the judiciary is assigned the
+delicate task to determine what is the power conferred on each branch of
+government, whether it is limited, and if so, what are the limits and
+whether any action of that branch transgresses such limits. It is for the
+judiciary to uphold the constitutional values and to enforce the
+constitutional limitations. That is the essence of the rule of law, which
+inter alia requires that "the exercise of powers by the government whether
+it be the legislature or the executive or any other authority, be
+conditioned by the Constitution and the law". The power of judicial review
+is an integral part of our constitutional system the power of judicial
+review..is unquestionably..part of the basic structure of the Constitution.
+Of course, when I say this I should not be taken to suggest that effective
+alternative institutional mechanisms or arrangements for judicial review
+cannot be made by Parliament.
+(Emphasis added)
+70. The A.P. High Court has, through the judgment of M.N. Rao, J., pointed
+out that the theory of alternative institutional mechanisms enunciated by
+Bhagwati, J. in his minority judgment in
+Minerva Mill
+'s case was not
+supported by or even mentioned in the majority judgment. In fact, such a
+theory finds no prior mention in the earlier decisions of this Court and,
+in the opinion of the A.P. High Court, did not represent the correct legal
+position.
+It is to be noted that in
+Sampath Kumar
+'s case, both Bhagwati, CJ
+and Misra, J. in their separate judgment have relied on the observations in
+the minority judgment of Bhagwati, J. in
+Minerva Mill
+'s case to lay the
+foundation of the theory of alternative institutional mechanisms.
+71. We may, at this stage, take note of the decision in
+Fertiliser
+Corporation Kamgar Union v. Union of India
+: (1981)ILLJ193SC , where
+Chandrachud, CJ appears to have somewhat revised the view adopted by him in
+Indira Gandhi
+'s case. In that case, speaking for the majority, Chandrachud,
+CJ held that "the jurisdiction conferred on the Supreme Court by
+Article 32
+is an important and integral part of the basic structure of the
+Constitution." (at para 11).
+72.
+In
+Kihoto Hollohan v. Zachillu and Ors.
+, a five-Judge Constitution
+Bench had to, inter alia, consider the validity of Paragraph 7 of the Tenth
+Schedule to the Constitution which excluded judicial review. The judgment
+for the minority, delivered by Verma, J. struck down the provision on the
+ground that it violated the rule of law which is a basic feature of the
+Constitution requiring that decisions be subject to judicial review by an
+independent outside authority. (Paras 181-182). Though the majority
+judgment delivered by Venkatachaliah, J. also struck down the offending
+provision, the reasoning employed was different. The judgment for the
+majority contains an observation to the effect that, in the opinion of the
+judges in the majority, it was not necessary for them to express themselves
+on the question whether judicial review is part of the basic structure of
+the Constitution. (Para 120).
+73. We may now analyse certain other authorities for the proposition that
+the jurisdiction conferred upon the High Courts and the Supreme-Court under
+Article 226
+and
+32
+of the Constitution respectively, is part of the basic
+structure of the Constitution. While expressing his views on the
+significance of draft
+Article 25
+, which corresponds to the present
+Article
+32
+of the Constitution, Dr. B.R. Ambedkar, the Chairman of the Drafting
+Committee of the Constituent Assembly stated as follows (CAD, Vol. VII, p.
+953):
+If I was asked to name any particular Article in this Constitution as the
+most important - an Article without which this Constitution would be a
+nullity--I could not refer to any other Article except this one. It is the
+very soul of the Constitution and the very heart of it and I am glad that
+the House has realised its importance.
+(Emphasis added)
+74. This statement of Dr. Ambedkar has been specifically reiterated in
+several judgments of this Court to emphasise the unique significance
+attributed to
+Article 32
+in our constitutional scheme. [See for instance,
+Khanna, J. in Kesavananda Bharati's case (p. 818), Bhagwati, J. in Minerva
+Mills (p. 678), Chandrachud, CJ Fertiliser Kamgar (para 11), R. Misra, J.
+in Sampath Kumar (p. 137)].
+75. In the Special Reference Case, While addressing this issue,
+Gajendragadhkar, CJ stated as follows (supra at pp. 493- 494):
+If the power of the High Courts under
+Article 226
+and the authority of this
+Court under
+Article 32
+are not subject to any exceptions, then it would be
+futile to contend that a citizen cannot move the High Courts or this Court
+to invoke their jurisdiction even in cases where his fundamental rights
+have been violated. The existence of judicial power in that behalf must
+necessarily and inevitably postulate the existence of a right in the
+citizen to move the Court in that behalf; otherwise the power conferred on
+the High Courts and this Court would be rendered virtually meaningless. Let
+it not be forgotten that the judicial power conferred on the High Courts
+and this Court is meant for the protection of the citizens' fundamental
+rights, and so, in the existence of the said judicial power itself is
+necessarily involved the right of the citizen to appeal to the said power
+in a proper case.
+(Emphasis added)
+76. To express our opinion on the issue whether the power of judicial
+review vested in the High Courts and into the Supreme Court under Articles
+226/227 and 32 is part of the basic structure of the Constitution, we must
+first attempt to understand what constitutes the basic structure of the
+Constitution. The Doctrine of basic structure was evolved in
+Kesvananda
+Bharati
+'s case. However, as already mentioned, that case did not lay down
+that the specific and particular features mentioned in that judgment alone
+would constitute the basic structure of our Constitution. Indeed, in the
+judgments of Shelat & Grover, JJ., Hegde & Mukherjee, JJ. and Jaganmohan
+Reddy, J., there are specific observations to the effect that their list of
+essential features comprising the basic structure of the Constitution are
+illustrative and are not intended to be exhaustive. In Indira Gandhi's
+case, Chandrachud, J. held that the proper approach for a Judge who is
+confronted with the question whether a particular facet of the Constitution
+is part of the basic structure, is to examine, in each individual case, the
+place of the particular feature in the scheme of our Constitution, its
+object and purpose, and the consequences of its denial on the integrity of
+our Constitution as a fundamental instrument for the governance of the
+country, (supra at pp. 751-752).
+This approach was specifically adopted by
+Bhagwati, J. in
+Minerva Mill
+'s case (supra at pp. 671-672) and is not
+regarded as the definitive test in this field of Constitutional Law.
+77. We find that the various factors mentioned in the test evolved by
+Chandrachud, J. have already been considered by decisions of various
+Benches of this Court that have been referred to in the course of our
+analysis. From their conclusions, many of which have been extracted by us
+in toto, it appears that this Court has always considered the power of
+judicial review vested in the High Courts and in this Court under
+Articles
+226
+and
+32
+respectively, enabling legislative action to be subjected to the
+scrutiny of superior courts, to be integral to our constitutional scheme.
+While several judgments have made specific references to this aspect
+[Gajendragadhkar, CJ in Special Reference case, Beg, J. and Khanna, J. in
+Kesavananda Bharti
+'s case, Chandrachud, CJ and Bhagwati, J. in Minerva
+Mills, Chandrachud, CJ in Fertiliser Kamgar, K.N. Singh, J. in Delhi
+Judicial Service Association, etc.] the rest have made general observations
+highlighting the significance of this feature.
+78. The legitimacy of the power of Courts within constitutional democracies
+to review legislative action has been questioned since the time it was
+first conceived. The Constitution of India, being alive to such criticism,
+has, while conferring such power upon the higher judiciary, incorporated
+important safeguards. An analysis of the manner in which the Framers of our
+Constitution incorporated provisions relating to the judiciary would
+indicate that they were very greatly concerned with securing the
+independence of the judiciary. These attempts were directed at ensuring
+that the judiciary would be capable of effectively discharging its wide
+powers of judicial review. While the Constitution confers the power to
+strike down laws upon the High Courts and the Supreme Court, it also
+contains elaborate provisions dealing with the tenure, salaries,
+allowances, retirement age of Judges as well as the mechanism for selecting
+Judges to the superior courts. The inclusion of such elaborate provisions
+appears to have been occasioned by the belief that, armed by such
+provisions, the superior courts would be insulated from any executive or
+legislative attempts to interfere with the making of their decisions. The
+Judges of the superior courts have been entrusted with the task of
+upholding the Constitution and to this end, have been conferred the power
+to interpret it. It is they who have to ensure that the balance of power
+envisaged by the Constitution is maintained and that the legislature and
+the executive do not, in the discharge of their functions, transgress
+constitutional limitations. It is equally their duty to oversee that the
+judicial decisions rendered by those who man the subordinate courts and
+tribunals do not fall foul of strict standards of legal correctness and
+judicial independence. The constitutional safeguards which ensure the
+independence of the Judges of the superior judiciary, are not available to
+the Judges of the subordinate judiciary or to those who man Tribunals
+created by ordinary legislations. Consequently, Judges of the latter
+category can never be considered full and effective substitutes for the
+superior judiciary in discharging the function of constitutional
+interpretation. We, therefore, hold that the power of judicial review over
+legislative action vested in the High Courts under
+Articles 226
+and in this
+Court under
+Article 32
+of the Constitution is an integral and essential
+feature of the Constitution, constituting part of its basic structure.
+Ordinarily, therefore, the power of High Courts and the Supreme Court to
+test the constitutional validity of legislations can never be ousted or
+excluded.
+79. We also hold that the power vested in the High Courts to exercise
+judicial superintendence over the decisions of all Courts and Tribunals
+within their respective jurisdictions is also part of the basic structure
+of the Constitution. This is because a situation where the High Courts are
+divested of all other judicial functions apart from that of constitutional
+interpretation, is equally to be avoided.
+80. However, it is important to emphasise that though the subordinate
+judiciary or Tribunals created under ordinary legislations cannot exercise
+the power of judicial review of legislative action to the exclusion of the
+High Courts and the Supreme Court, there is no constitutional prohibition
+against their performing a supplemental--as opposed to a substitution -
+role in this respect. That such a situation is contemplated within the
+constitutional scheme becomes evident when one analyses Clause (3) of
+Article 32
+of the Constitution which reads as under:
+32. Remedies for enforcement of rights conferred by this Part.--(1)..
+(2) ..
+(3) Without prejudice to the powers conferred on the Supreme Court by
+Clauses (1) and (2), Parliament may by law empower any other court to
+exercise within the local limits of its jurisdiction all or any of the
+powers exercisable by the Supreme Court under Clause (2).
+(Emphasis supplied)
+81. If the power under
+Article 32
+of the Constitution, which has been
+described as the "heart" and "soul" of the Constitution, can be
+additionally conferred upon "any other court", there is no reason why the
+same situation cannot subsist in respect of the jurisdiction conferred upon
+the High Courts under
+Article 226
+of the Constitution. So long as the
+jurisdiction of the High Courts under Articles 226/227 and that of this
+Court under
+Article 32
+is retained, there is no reason why the power to
+test the validity of legislations against the provisions of the
+Constitution cannot be conferred upon Administrative Tribunals created
+under the Act or upon Tribunals created under
+Article 323B
+of the
+Constitution. It is to be remembered that, apart from the authorisation
+that flows from Articles 232A and
+323B
+, both Parliament and the State
+Legislatures possess legislative competence to effect changes in the
+original jurisdiction of the Supreme Court and the High Courts. This power
+is available to Parliament under Entries 77, 78, 79 and 95 of List I and to
+the State Legislatures under Entry 65 of List II; Entry 46 of List III can
+also be availed of both by Parliament and the State Legislatures for this
+purpose.
+82. There are pressing reasons why we are anxious to preserve the
+conferment of such a power on these Tribunals. When the Framers of our
+Constitution bestowed the powers of judicial review of legislative action
+upon the High Courts and the Supreme Court, they ensured that other
+constitutional safeguards were created to assist them in effectively
+discharging this onerous burden. The expectation was that this power would
+be required to be used only occasionally. However, in the five decades that
+have ensued since Independence, the quantity of litigation before the High
+Courts has exploded in an unprecedented manner. The decision in
+Sampath
+Kumar
+'s case was rendered against such a backdrop.
+We are conscious of the
+fact that when a Constitution Bench of this Court in
+Sampath Kumar
+'s case
+adopted the theory of alternative institutional mechanisms, it was
+attempting to remedy an alarming practical situation and the approach
+selected by it appeared to be most appropriate to meet the exigencies of
+the time. Nearly a decade later, we are now in a position to review the
+theoretical and practical results that have arisen as a consequence of the
+adoption of such an approach.
+83. We must, at this stage, focus upon the factual position which
+occasioned the adoption of the theory of alternative institutional
+mechanisms in
+Sampath Kumar
+'s case. In his leading judgment, R. Misra, J.
+refers to the fact that since independence, the population explosion and
+the increase in litigation had greatly increased the burden of pendency in
+the High Courts. Reference was made to studies conducted towards relieving
+the High Courts of their increased load. In this regard, the
+recommendations of the Shah Committee for setting up independent Tribunals
+as also the suggestion of the Administrative Reforms Commission that Civil
+Service Tribunals be set up, were noted.
+Reference was also made to the
+decision in
+K.K. Dutta v. Union of India
+: (1980)IILLJ182SC , where this
+Court had, while emphasising the need for speedy resolution of service
+disputes, proposed the establishment of Service Tribunals.
+84. The problem of clearing the backlogs of High Courts, which has reached
+colossal proportions in our times is, nevertheless, one that has been the
+focus of study for close to a half century. Over time, several Expert
+Committees and Commissions have analysed the intricacies involved and have
+made suggestions, not all of which have been consistent. Of the several
+studies that have been conducted in this regard, as many as twelve have
+been undertaken by the Law Commission of India (hereinafter referred to as
+"the LCI"") or similar high level Committees appointed by the Central
+Government, and are particularly noteworthy.
+85. An appraisal of the daunting task which confronts the High Courts can
+be made by referring to the assessment undertaken by the LCI in its 124th
+Report which was released sometime after the judgment in Sampath Kumar's
+case. The Report was delivered in 1988, nine years ago, and some changes
+have occurred since, but the broad perspective which emerges is still, by
+and large, true:
+..The High Courts enjoy civil as well as criminal, ordinary as well as
+extraordinary, and general as well as special jurisdiction. The source of
+the jurisdiction is the Constitution and the various statutes as well as
+letters patent and other instruments constituting the High Courts. The High
+Courts in the country enjoy an original jurisdiction in respect of
+testamentary, matrimonial and guardianship matters. Original jurisdiction
+is conferred on the High Courts under the
+Representation of the People Act,
+1951
+,
+Companies Act, 1956
+, and several other special statutes. The High
+Courts, being courts of record, have the power to punish for its contempt
+as well as contempt of its subordinate courts. The High Courts enjoy
+extraordinary jurisdiction under
+Articles 226
+and
+227
+of the Constitution
+enabling it to issue prerogative writs, such as, the one in the nature of
+habeas corpus, mandamus, prohibition, QUO warranto and certiorari. Over and
+above this, the High Courts of Bombay, Calcutta, Delhi, Himachal Pradesh,
+Jammu and Kashmir and Madras also exercise ordinary original civil
+jurisdiction. The High Courts also enjoy advisory jurisdiction, as
+evidenced by Section 256 of the Indian Companies Act, 1556,
+Section 27
+of
+the Wealth Tax Act, 1957,
+Section 26
+of Gift Tax Act, 1958, and
+Section 18
+of Companies (Profits) Surtax Act, 1964. Similarly, there are parallel
+provisions conferring advisory jurisdiction on the High Courts, such as
+Section 130
+of Customs Act, 1962, and
+Section 354
+of Central Excises and
+Salt Act, 1944. The High Courts have also enjoyed jurisdiction under the
+Indian Divorce Act, 1869
+, and the
+Parsi Marriage and Divorce Act, 1936
+.
+Different types of litigation coming before the High Court in exercise of
+its wide jurisdiction bear different names. The vast area of jurisdiction
+can be appreciated by reference to those names, viz., (a) first appeals;
+(b) appeals under the letters patent; (c) second appeals; (d) revision
+petitions; (e) criminal appeals; (f) criminal revisions; (g) civil and
+criminal references; (h) writ petitions; (i) writ appeals; (j) references
+under direct and indirect tax laws; (k) matters arising under the
+Sales Tax
+Act
+; (1) election petitions under the
+Representation of the People Act
+,;
+(m) petitions under the
+Companies Act, Banking Companies Act
+and other
+special Acts and (n) wherever the High Court has original jurisdiction,
+suits and other proceedings in exercise of that jurisdiction. This varied
+jurisdiction has to some extent been responsible for a very heavy
+institution of matters in the High Courts.
+86. After analysing the situation existing in the High Courts at length,
+the LCI made specific recommendations towards the establishment of
+specialist Tribunals thereby lending force to the approach adopted in
+Sampath Kumar
+'s case. The LCI noted the erstwhile international judicial
+trend which pointed towards generalist courts yielding their place to
+specialist Tribunals. Describing the pendency in the High Courts as
+"catastrophic, crisis ridden, almost unmanageable, imposing ..an
+immeasurable burden on the system", the LCI stated that the prevailing view
+in Indian Jurisprudence that the jurisdiction enjoyed by the High Court is
+a holy cow required a review. It, therefore, recommended the trimming of
+the jurisdiction of the High Courts by setting up specialist
+courts/Tribunals while simultaneously eliminating the jurisdiction of the
+High Courts.
+87. It is important to realise that though the theory of alternative
+institutional mechanisms was propounded in
+Sampath Kumar
+'s case in respect
+of the Administrative Tribunals, the concept itself--that of creating
+alternative modes of dispute resolution which would relieve High Courts of
+their burden while simultaneously providing specialised justice-is not new.
+In fact, the issue of having a specialised Tax Court has been discussed for
+several decades; though the Report of the High Court Arrears Committee
+(1972) dismissed it as "ill-conceived", the LCI, in its 115th Report (1986)
+revived the recommendation of setting up separate Central Tax Courts.
+Similarly, other Reports of the LCI have suggested the setting up of 'Gram
+Nyayalayas' (1986) LCI, 114th Report , Industrial/Labour Tribunals 1987
+LCI, 122nd Report and Education Tribunals (1987) [LCI, 123rd Report .
+88.
+In
+R.K. Jain
+'s case, this Court had, in order to understand how the
+theory of alternative institutional mechanisms had functioned in practice,
+recommended that the LCI or a similar expert body should conduct a survey
+of the functioning of these Tribunals. It was hoped that such a study,
+conducted after gauging the working of the Tribunals over a sizeable period
+of more than five years would provide an answer to the questions posed by
+the critics of the theory. Unfortunately, we do not have the benefit of
+such a study. We may, however, advert to the Report of the Arrears
+Committee (1989-90), popularly known as the Malimath Committee Report,
+which has elaborately dealt with the aspect. The observations contained in
+the Report, to this extent they contain a review of the functioning of the
+Tribunals over a period of three years or so after their institution, will
+be useful for our purpose. Chapter VIII of the second volume of the Report,
+"Alternative Modes and Forums for Dispute Resolution", deals with the issue
+at length. After forwarding its specific recommendations on the feasibility
+of setting up 'Gram Nyayalayas', Industrial Tribunals and Educational
+Tribunals, the Committee has dealt with the issue of Tribunals set up under
+Articles 323A
+and
+323B
+of the Constitution. The relevant observations in
+this regard, being of considerable significance to our analysis, are
+extracted in full as under:
+Functioning of Tribunals
+
+8.63 Several tribunals are functioning in the country. Not all of them,
+however, have inspired confidence in the public mind.The reasons are not
+far to seek. The foremost is the lack of competence, objectivity and
+judicial approach. The next is their constitution, the power and method of
+appointment of personnel thereto, the inferior status and the casual method
+of working. The last is their actual composition; men of calibre are not
+willing to be appointed as presiding officers in view of the uncertainty of
+tenure, unsatisfactory conditions of service, executive subordination in
+matters of administration and political interference in judicial
+functioning. For these and other reasons, the quality of justice is stated
+to have suffered and the cause of expedition is not found to have been
+served by the establishment of such tribunals.
+8.64 Even the experiment of setting up of the Administrative Tribunals
+under the
+Administrative Tribunals Act, 1985
+, has not been widely welcomed.
+Its members have been selected from all kinds of services including the
+Indian Police Service. The decision of the State Administrative Tribunals
+are not appealable except under
+Article 136
+of the Constitution. On account
+of the heavy cost and remoteness of the forum, there is virtual negation of
+the right of appeal. This has led to denial of justice in many cases and
+consequential dissatisfaction. There appears to be a move in some of the
+State where they have been established for their abolition.
+Tribunals--Test for Including High Court's Jurisdiction
+
+8.65 A Tribunal which substitutes the High Court as an alternative
+institutional mechanism for judicial review must be no less efficacious
+than the High Court. Such a tribunal must inspire confidence and public
+esteem that it is a highly competent and expert mechanism with judicial
+approach and objectivity. What is needed in a tribunal, which is intended
+to supplant the High Court, is legal training and experience, and judicial
+acumen, equipment and approach. When such a tribunal is composed of
+personnel drawn from the judiciary as well as from services or from amongst
+experts in the field, any weightage in favour of the service members or
+expert members and value- discounting the judicial members would render the
+tribunal less effective and efficacious than the High Court.
+The Act
+setting up such a tribunal would itself have to be declared as void under
+such circumstances. The same would not at all be conducive to judicial
+independence and may even tend, directly or indirectly, to influence their
+decision making process, especially when the Government is a litigant in
+most of the cases coming before such tribunal. See
+S.P. Sampath Kumar v.
+Union of India
+reported in  : (1987)ILLJ128SC . The protagonists of
+specialist tribunals, who simultaneously with their establishment want
+exclusion of the Writ jurisdiction of the High Courts in regard to matters
+entrusted for adjudication to such tribunals, ought not to overlook these
+vital and important aspects. It must not be forgotten that what is
+permissible to be supplant by another equally effective and efficacious
+institutional mechanism is the High Courts and not the judicial review
+itself. Tribunals are not an end in themselves but a means to an end; even
+if the laudable objectives of speedy justice, uniformity of approach,
+predictability of decisions and specialist justice are to be achieved, the
+frame work of the tribunal intended to be set up to attain them must still
+retain its basic judicial character and inspire public confidence. Any
+scheme of decentralisation of administration of justice providing for an
+alternative institutional mechanism in substitution of the High Courts must
+pass the aforesaid test in order to be constitutionally valid.
+8.66 The overall picture regarding the tribunalisation of justice in our
+country is not satisfactory and encouraging. There is a need for a fresh
+look and review and a serious consideration before the experiment is
+extended to new areas of fields, especially if the constitutional
+jurisdiction of the High Courts is to be simultaneously ousted. Not many
+tribunals satisfying the aforesaid tests can possibly be established.
+(Emphasis added)
+89. Having expressed itself in this manner, the Malimath Committee
+specifically recommended that the theory of alternative institutional
+mechanisms be abandoned. Instead, it recommended that institutional changes
+be carried out within the High Courts, dividing them into separate
+divisions for different branches of law, as is being done in England. It
+stated that appointing more Judges to man the separate divisions while
+using the existing infrastructure would be a better way of remedying the
+problem of pendency in the High Courts.
+90. In the years that have passed since the Report of the Malimath
+Committee was delivered, the pendency in the High Courts has substantially
+increased and we are of the view that its recommendation is not suited to
+our present context. That the various Tribunals have not performed upto
+expectations is a self-evident and widely acknowledged truth. However, to
+draw an inference that their unsatisfactory performance points to their
+being founded on a fundamentally unsound principle would not be correct.
+The reasons for which the Tribunals were constituted still persist; indeed,
+those reasons have become even more pronounced in our times. We have
+already indicated that our constitutional scheme permits the setting up of
+such Tribunals. However, drastic measures may have to be resorted to in
+order to elevate their standards to ensure that they stand up to
+constitutional scrutiny in the discharge of the power of judicial review
+conferred upon them.
+91. We may first address the issue of exclusion of the power of judicial
+review of the High Courts. We have already held that in respect of the
+power of judicial review, the jurisdiction of the High Courts under Article
+226/227 cannot wholly be excluded. It has been contended before us that the
+Tribunals should not be allowed to adjudicate upon matters where the vires
+of legislations is questioned, and that they should restrict themselves to
+handling matters where constitutional issues are not raised. We cannot
+bring ourselves to agree to this proposition as that may result in
+splitting up proceedings and may cause avoidable delay. If such a view were
+to be adopted, it would be open for litigants to raise constitutional
+issues, many of which may be quite frivolous, to directly approach the High
+Courts and thus subvert the jurisdiction of the Tribunals. Moreover, even
+in these special branches of law, some areas do involve the consideration
+of constitutional questions on a regular basis; for instance, in service
+law matters, a large majority of cases involve an interpretation of
+Articles 14
+, 15
+and
+16
+of the Constitution. To hold that the Tribunals have
+no power to handle matters involving constitutional issues would not serve
+the purpose for which they were constituted. On the other hand, to hold
+that all such decisions will be subject to the jurisdiction of the High
+Courts under Articles 226/227 of the Constitution before a Division Bench
+of the High Court within whose territorial jurisdiction the Tribunal
+concerned falls will serve two purposes. While saving the power of judicial
+review of legislative action vested in the High Courts under Article
+226/227 of the Constitution, it will ensure that frivolous claims are
+filtered out through the process of adjudication in the Tribunal. The High
+Court will also have the benefit of a reasoned decision on merits which
+will be of use to it in finally deciding the matter.
+92. It has also been contended before us that even in dealing with cases
+which are properly before the Tribunals, the manner in which justice is
+dispensed by them leaves much to be desired. Moreover, the remedy provided
+in the parent statutes, by way of an appeal by special leave under
+Article
+136
+of the Constitution, is too costly and inaccessible for it to be real
+and effective. Furthermore, the result of providing such a remedy is that
+the docket of the Supreme Court is crowded with decisions of Tribunals that
+are challenged on relatively trivial grounds and it is forced to perform
+the role of a First Appellate Court. We have already emphasised the
+necessity for ensuring that the High Courts are able to exercise judicial
+superintendence over the decisions of Tribunals under
+Article 227
+of the
+Constitution.
+In
+R.K. Jain
+'s case, after taking note of these facts, it was
+suggested that the possibility of an appeal from the Tribunals on questions
+of law to a Division Bench of a High Court within whose territorial
+jurisdiction the Tribunal falls, be pursued. It appears that no follow-up
+action has been taken pursuant to the suggestion. Such a measure would have
+improved matters considerably. Having regard to both the afore-stated
+contentions, we hold that all decisions of Tribunals, whether created
+pursuant to
+Article 323A
+or
+Article 323B
+of the Constitution, will be
+subject to the High Court's writ jurisdiction under Articles 226/227 of the
+Constitution, before a Division Bench of the High Court within whose
+territorial jurisdiction the particular Tribunal falls.
+93. We may add here that under the existing system, direct appeals have
+been provided from the decisions of all Tribunals to the Supreme Court
+under
+Article 136
+of the Constitution. In view of our above-mentioned
+observations, this situation will also stand modified. In the view that we
+have taken, no appeal from the decision of a Tribunal will directly lie
+before the Supreme Court under
+Article 136
+of the Constitution; but
+instead, the aggrieved party will be entitled to move the High Court under
+Articles 226/227 of the Constitution and from the decision of the Division
+Bench of the High Court the aggrieved party could move this Court under
+Article 136
+of the Constitution.
+94. Before moving on to other aspects, we may summarise our conclusions on
+the jurisdictional powers of these Tribunals. The Tribunals are competent
+to hear matters where the vires of statutory provisions are questioned.
+However, in discharging this duty, they cannot act as substitutes for the
+High Courts and the Supreme Court which have, under our constitutional
+setup, been specifically entrusted with such an obligation. Their function
+in this respect is only supplementary and all such decisions of the
+Tribunals will be subject to scrutiny before a Division Bench of the
+respective High Courts. The Tribunals will consequently also have the power
+to test the vires of subordinate legislations and rules. However, this
+power of the Tribunals will be subject to one important exception. The
+Tribunals shall not entertain any question regarding the vires of their
+parent statutes following the settled principle that a Tribunal which is a
+creature of an Act cannot declare that very Act to be unconstitutional. In
+such cases alone, the concerned High Court may be approached directly. All
+other decisions of these Tribunals, rendered in cases that they are
+specifically empowered to adjudicate upon by virtue of their parent
+statutes, will also be subject to scrutiny before a Division Bench of their
+respective High Courts. We may add that the Tribunals will, however,
+continue to act as the only courts of first instance in respect of the
+areas of law for which they have been constituted. By this, we mean that it
+will not be open for litigants to directly approach the High Courts even in
+cases where they question the vires of statutory legislations (except, as
+mentioned, where the legislation which creates the particular Tribunal is
+challenged) by overlooking the jurisdiction of the concerned Tribunal.
+95. The directions issued by us in respect of making the decisions of
+Tribunals amenable to scrutiny before a Division Bench of the respective
+High Courts will, however, come into effect prospectively i.e. will apply
+to decisions rendered hereafter. To maintain the sanctity of judicial
+proceedings, we have invoked the doctrine of prospective over-ruling so as
+not to disturb the procedure in relation to decisions already rendered.
+96. We are also required to address the issue of the competence of those
+who man the Tribunals and the question of who is to exercise administrative
+supervision over them. It has been urged that only those who have had
+judicial experience should be appointed to such Tribunals. In the case of
+Administrative Tribunals, it has been pointed out that the administrative
+members who have been appointed have little or no experience in
+adjudicating such disputes; the Malimath Committee has noted that at times,
+IPS Officers have been appointed to these Tribunals. It is stated that in
+the short tenures that these Administrative Members are on the Tribunal,
+they are unable to attain enough experience in adjudication and in cases
+where they do acquire the ability, it is invariably on the eve of the
+expiry of their tenures. For these reasons, it has been urged that the
+appointment of Administrative Members to Administrative Tribunals be
+stopped. We find it difficult to accept such a contention. It must be
+remembered that the setting-up of these Tribunals is founded on the premise
+that specialist bodies comprising both trained administrators and those
+with judicial experience would, by virtue of their specialised knowledge,
+be better equipped to dispense speedy and efficient justice. It was
+expected that a judicious mix of judicial members and those with grass-
+roots experience would best serve this purpose. To hold that the Tribunal
+should consist only of judicial members would attack the primary basis of
+the theory pursuant to which they have been constituted. Since the
+Selection Committee is now headed by a Judge of the Supreme Court,
+nominated by the Chief Justice of India, we have reason to believe that the
+Committee would take care to ensure that administrative members are chosen
+from amongst those who have some background to deal with such cases.
+97. It has been brought to our notice that one reason why these Tribunals
+have been functioning inefficiently is because there is no authority
+charged with supervising and fulfilling their administrative requirements.
+To this end, it is suggested that the Tribunals be made subject to the
+supervisory jurisdiction of the High Courts within whose territorial
+jurisdiction they fall. We are, however, of the view that this may not be
+the best way of solving the problem. We do not think that our
+constitutional scheme requires that all adjudicatory bodies which fall
+within the territorial jurisdiction of the High Courts should be subject to
+their supervisory jurisdiction. If the idea is to divest the High Courts of
+their onerous burdens, then adding to their supervisory functions cannot,
+in any manner, be of assistance to them. The situation at present is that
+different Tribunals constituted under different enactments are administered
+by different administrative departments of the Central and the State
+Governments. The problem is compounded by the fact that some Tribunals have
+been created pursuant to Central Legislations and some others have been
+created by State Legislations. However, even in the case of Tribunals
+created by Parliamentary legislations, there is no uniformity in
+administration. We are of the view that, until a wholly independent agency
+for the administration of all such Tribunals can be set-up, it is desirable
+that all such Tribunals should be, as far as possible, under a single nodal
+Ministry which will be in a position to oversee the working of these
+Tribunals. For a number of reasons that Ministry should appropriately be
+the Ministry of Law. It would be open for the Ministry, in its turn, to
+appoint an independent supervisory body to oversee the working of the
+Tribunals. This will ensure that if the President or Chairperson of the
+Tribunal is for some reason unable to take sufficient interest in the
+working of the Tribunal, the entire system will not languish and the
+ultimate consumer of justice will not suffer. The creation of a single
+umbrella organisation will, in our view, remove many of the ills of the
+present system. If the need arises, there can be separate umbrella
+organisations at the Central and the State levels. Such a supervisory
+authority must try to ensure that the independence of the members of all
+such Tribunals is maintained. To that extent, the procedure for the
+selection of the members of the Tribunals, the manner in which funds arc
+allocated for the functioning of the Tribunals and all other consequential
+details will have to be clearly spelt out.
+98. The suggestions that we have made in respect of appointments to
+Tribunals and the supervision of their administrative function need to be
+considered in detail by those entrusted with the duty of formulating the
+policy in this respect. That body will also have to take into consideration
+the comments of experts bodies like the LCI and the Malimath Committee in
+this regard. We, therefore, recommend that the Union of India initiate
+action in this behalf and after consulting all concerned, place all these
+Tribunals under one single nodal department, preferably the Legal
+Department.
+99. Since we have analysed the issue of the constitutional validity of
+Section 5(6)
+of the Act at length, we may no pronounce our opinion on this
+aspect. Though the vires of the provision was not in question in Dr.
+Mahabal Ram's case, we a believe that the approach adopted in that case,
+the relevant portion of which has been extracted in the first part of this
+judgment, is correct since it harmoniously resolves the manner in which
+Sections 5(2)
+and
+5(6)
+can operate together. We wish to make it clear that
+where a question involving the interpretation of a statutory provision or
+rule in relation to the Constitution arises for the consideration of a
+single Member Bench of the Administrative Tribunal, the proviso to
+Section
+5(6)
+will automatically apply and the Chairman or the Member concerned
+shall refer the matter to a Bench consisting of at least two Members, one
+of whom must be a Judicial Member. This will ensure that questions
+involving the vires of a statutory provision or rule will never arise for
+adjudication before a single Member Bench or a Bench which does not consist
+of a Judicial Member. So construed,
+Section 5(6)
+will no longer be
+susceptible to charges of unconstitutionality.
+100. In view of the reasoning adopted by us, we hold that Clause 2(d) of
+Article 323A
+and Clause 3(d) of
+Article 323B
+, to the extent they exclude
+the jurisdiction of the High Courts and the Supreme Court under Articles
+226/227 and 32 of the Constitution, are unconstitutional.
+Section 28
+of the
+Act and the "exclusion of jurisdiction" clauses in all other legislations
+enacted under the aegis of
+Articles 323A
+and
+323B
+would, to the same
+extent, be unconstitutional. The jurisdiction conferred upon the High
+Courts under Articles 226/227 and upon the Supreme Court under
+Article 32
+of the Constitution is part of the inviolable basic structure of our
+Constitution. While this jurisdiction cannot be ousted, other courts and
+Tribunals may perform a supplemental role in discharging the powers
+conferred by Articles 226/227 and 32 of the Constitution. The Tribunals
+created under
+Article 323A
+and
+Article 323B
+of the Constitution are
+possessed of the competence to test the constitutional validity of
+statutory provisions and rules. All decisions of these Tribunals will,
+however, be subject to scrutiny before a Division Bench of the High Court
+within whose jurisdiction the concerned Tribunal falls. The Tribunals will,
+nevertheless, continue to act like Courts of first instance in respect of
+the areas of law for which they have been constituted. It will not,
+therefore, be open for litigants to directly approach the High Courts even
+in cases where they question the vires of statutory legislations (except
+where the legislation which creates the particular Tribunal is challenged)
+by overlooking the jurisdiction of the concerned Tribunal.
+Section 5(6)
+of
+the Act is valid and constitutional and is to be interpreted in the manner
+we have indicated.
+101. All these matters may now be listed before a Division Bench to enable
+them to be decided upon their individual facts in the light of the
+observations contained in this judgment.

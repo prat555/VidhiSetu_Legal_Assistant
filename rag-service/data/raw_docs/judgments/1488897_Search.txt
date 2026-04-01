@@ -1,0 +1,170 @@
+Title: Search
+Court: High Court
+Date: 5 of 1908
+Citation: citations: [2000]102COMPCAS378(MAD)
+Source: https://indiankanoon.org/doc/1488897/
+
+[Cites
+40
+, Cited by
+1
+]
+Madras High Court
+Ramaniyam Real Estates Ltd. vs P. Radhakrishnan on 29 June, 1998
+Equivalent citations: [2000]102COMPCAS378(MAD)
+JUDGMENT
+ 
+
+ S.S. Subramani, J.
+1. In all these revisions, a common question arises, i.e., whether the District Consumer Forum and a State Consumer Forum has powers to issue a commission to make a local inspection. In all these cases, the consumer forum has appointed a commissioner and asked for the report.
+2. According to the petitioner, the order of the forum is one without jurisdiction and, therefore, under
+Article 227
+of the Constitution of India, the same is liable to be quashed. The argument is that the forum itself is a creation of the statute and when the statute gives the powers anything which is not provided under the statute cannot be allowed by the consumer forum. In this case, the issuance of the commission is not provided under the statute and, therefore, it is one without jurisdiction.
+3. As against the said contention, the complainant before the consumer forum who is the respondent herein contended that the consumer forum has been specially enacted for speedy disposal of cases and it is an additional remedy provided for an aggrieved person. It is a judicial tribunal having the trappings of a court and since it decides the rights of the parties it has also power to take evidence. The issuance of commission is a mode of taking evidence and the same is not prohibited by the statute.
+4. It is further submitted that what is not prohibited under the statute, is entitled to be exercised by the Tribunal and, therefore, the impugned order does not call for interference.
+5. I heard learned counsel on both sides in detail. What is the scope of the proceeding whether before the District Forum or State Consumer Forum under the
+Consumer Protection Act
+, came up for consideration in
+Fair Air Engineers Pvt. Ltd. v. N. K. Modi
+. In that case, the question that arose for consideration was whether the provisions of
+Section 34
+of the Arbitration Act, could be invoked before a consumer forum and whether the proceedings before the forum are legal proceedings. Paragraphs 8 to 11 of the judgment are relevant for our purpose and the same read thus :
+"The crucial question is whether the proceedings of the forums created under the Act are legal proceedings and the authorities have the trappings of judicial authorities or a court within the meaning of
+Section  34
+of the Arbitration Act. Before going into the decision of this court it is necessary to read the provisions of the Act so that we can have a clear picture of the conspectus of its operation.
+Section 3
+envisages that 'the provisions of the Act shall be in addition to, and not in derogation of the provisions of any other law for the time being in force'.
+Section 10
+speaks of the constitution and composition of District Forums so as to consist of persons specified in Clauses (a) and (b). They shall include a person who is, or who has been, or is qualified to be a District Judge, as its President, apart from other members envisaged in Clause (b) in Sub-section (1) thereof. Similarly,
+Section 16
+of the Act speaks about the composition of the State Commission. It provides that each State Commission shall consist of a person who is, or has been, a judge of a High Court, appointed by the State Government, who shall be the President of the Commission, apart from other members envisaged under Clause (b) of Sub-section (1) thereof.
+Section 20
+of the Act, similarly, envisages the composition of the National Commission and a person who is, or has been, a judge of the Supreme Court, to be appointed by the Central Government, shall be its President, apart from other members envisaged in clause (b) of Sub-section (1) thereof. Thus, the presiding officers of the forums are judicial officers and in the case of commissions they are sitting or retired judges of the High Court or the Supreme Court, as the case may be. A remedy of complaint has been provided to the aggrieved consumer defined under
+Section 2(d)
+of the Act. The expression 'complaint' has been defined under
+Section 2(c)
+and 'complainant' has been defined under
+Section 2(b)
+of the Act.
+Section 12
+prescribes the manner in which the complaint shall be made. Section 24A provides for the period of limitation within which the complaint shall be laid, namely, within two"years from the date on which the cause of action has arisen.
+Section 13
+provides for the procedure after receipt of the complaint and for disposal thereof. The details thereof are not material except Sub-sections (4), (5) and (6) thereof which have a cutting edge as material in this behalf. Sub-section (4) postulates that for the purposes of that section, the District Forum shall have the same powers as are vested in a civil court under
+the Code of Civil Procedure
+, 1908, while trying a suit in respect of the enumerated matters, namely, (i) summoning and enforcing the attendance of any defendant or witness and examining the witness on oath, (ii) discovery and production of any document or other material object producible as evidence, (iii) the reception of evidence on affidavits, (iv) the requisitioning of the report of the concerned analysis or test from the appropriate laboratory or from any other relevant source, (v) issuing of any commission for the examination of any witness, and (vi) any other matter which may be prescribed. Under the rules framed under the Act, District Forums have got power to prescribe the procedure of collecting and discovering evidence. Under Sub-section (5), every proceeding before the District Forum shall be deemed to be a judicial proceeding within the meaning of
+Sections 193
+and
+228
+of the Indian Penal Code, 1860, and shall be deemed to be a civil court for the purpose of Section 195 and Chapter XXVI of the
+Code of Criminal Procedure
+, 1973. Sub-section (6) provides that where the complainant is a consumer referred to in Sub-clause (iv) of clause (b) of Sub-section (1) of
+Section 2
+, the provisions of Rule 8 of Order 1 of the First Schedule to
+the Code of Civil Procedure
+, 1908, shall apply subject to the modification that every reference therein to a suit or decree shall be construed as a reference to a complaint or the order of the District Forum thereon. The finding of the District Forum is envisaged under
+Section 14
+of the Act. If any person feels aggrieved by the order of the District Forum there is a right of appeal provided under
+Section 15
+to the State Commission. The State Commission, in addition to the remedy of appeal against the order of District Forum, has original jurisdiction to entertain Complaints if the matter is covered under its specified pecuniary jurisdiction. Under
+Section 18
+of the Act, the procedure for the disposal of complaints provided in
+Sections 12
+,
+13
+and
+14
+of the Act and the rules made thereunder, is made available for the disposal of the complaint or the appeals by the State Commission. Similarly, the National Commission under
+Section 23
+has been given, in addition to original jurisdiction, power to entertain an appeal against the order of the State Commission or to call for the records and pass appropriate orders, in the circumstances enumerated under clause (b) thereof, in any consumer dispute pending" before or decided by any State Commission. By operation of
+Section 22
+, the power of a civil court as specified in Sub-sections (4), (5) and (6) of
+Section 13
+of the Act are vested in the National Commission for disposal of any complaint or proceedings before it ; the procedure to be followed by it shall be such as may be prescribed by the Central Government. Under
+Section 23
+of the Act, remedy of appeal to this court is made available to any person aggrieved by an order of the National Commission.
+Section 24
+attaches finality to every order of the District Forum, State Commission or of the National Commission if no appeal is preferred within specified time. However, that is subject to any judicial review under
+Article 226
+or 32 of the Constitution.
+Section 25
+gives teeth to the orders passed by the District Forum, State Commission and National Commission ; every order can be enforced in the same manner as if it were a decree or an order made by a court in a civil suit pending therein ; it shall be lawful for the District Forum, State Commission or National Commission to send its orders, in case of its inability to execute them, for execution to the appropriate executing court. It is obligatory for the executing court to execute the order treating it to be a decree or order of a court sent to it for execution. For specific enforcement of the Act, Section 27 gives sanction of the State for imposing penalties against the trader or person against whom a complaint is made if he fails to comply with the order passed by the aforesaid District Forum, National Commission or State Commission, as the case may be.
+Thus, it would be seen that the District Forums, State Commissions and National Commission have all the trappings of a civil court and judicial authority. The proceedings before them are legal proceedings. A similar controversy was considered by this court in
+Bharat Bank Ltd. v. Employees of the Bharat Bank
+and in
+Associated Cement Companies Ltd. v. P. N. Sharma
+.
+In
+Sarojini Ramaswami v. Union of India
+, one of us : K. RamaswamyJ. had dealt with this aspect of the matter and held thus (SCC page 601, para. 139): 'It is, therefore, settled law that all the trappings of the court need not necessarily be present in a particular case to bring the authority as a Tribunal but the essential postulate must be that it must be the creature of the statute and the State should delegate its inherent power of judicial review to the Tribunal, all or some of the trappings of a court may or may not be present in a given case. The Tribunal should adjudicate the dispute between the parties before it, after giving reasonable opportunity to the parties, consistent with the principles of fair play and natural justice. It is not necessary that proprio vigore it is enforceable. The mere fact that it is subject to further orders does not take away the effect of the decision or findings recorded thereunder'.
+This court in a recent decision in
+Canara Bank v. Nuclear Power Corporation of India Ltd.
+[1995] 84 Comp Cas 70 ; [1995] Supp.(3) SCC 81 considered the controversy and held that the word 'court' must be read in the context in which it is used in the statute. It is permissible, given the context, to read it as comprehending the courts of civil judicature and courts or some tribunals exercising curial, or judicial powers. In the context in which the word 'court' is used in
+Section 9A
+of the Special Courts Act, 1979, it is intended to encompass all curial or judicial bodies which have the jurisdiction to decide matters or claims, inter alia, arising out of transactions in securities entered into between the stated dates in which a person notified was involved. Therein, the Company Law Board has been held to be a court exercising the functions of the court ; therefore, it is possessed of the trappings of a court. Thus, we have no hesitation to hold that the proceedings before the District Forum, State Commission and the National Commission are legal proceedings. The District Forum, National Commission and the State Commission are judicial authorities falling under
+Section 34
+of the Arbitration Act."
+6. A reading of
+the above decision
+makes it clear that the District Forum, State Commission and National Commission have all the trappings of the civil court and the proceedings are legal proceedings and they are also adjudicating disputes between parties. It should give reasonable opportunities to both consistent with the principles of fair play and natural justice.
+7. What is fair play and natural justice, in such cases, if no opportunity is given for adducing evidence ? The issuance of commission is to ascertain and to get at the truth and is a piece of evidence. In this case documentary evidence cannot be produced. The allegation is that there is a deficiency in service in the construction of building and it cannot be proved by documents nor can it be proved by oral evidence. It requires a local inspection by an expert and get a report. It is a piece of evidence which the forum is entitled to consider along with other evidence for adjudicating the rights of the parties.
+8.
+In a very recent decision of the Hon'ble Supreme Court in
+Spring Meadows Hospital v. Harjot Ahluwalia
+it was stated thus in para. 8 (page 804 of Comp Cas):
+"Before we examine the aforesaid questions it would be appropriate to nofice the scenario in which Parliament enacted the
+Consumer Protection Act
+(hereinafter referred to as "the Act"). The United Nations had passed a resolution in April, 1985, indicating certain guidelines under which the Government could make law for better protection of the interest of the consumers. Such laws were necessary more in the developing countries to protect the consumers from hazards to their health and safety and make them available speedier and cheaper redress. Consumerism has been a movement in which the trader and the consumer find each other as adversaries. Till last two decades in many developed and developing countries powerful consumer organisations have come into existence and such organisations have been instrumental in dealing with the consumer protection laws and in expansion of the horizon of such laws. In our country the legislation is of recent origin and its efficacy has not been critically evaluated which has to be done on the basis of experience. Undoubtedly the Act creates a framework for speedy disposal of consumer disputes and an attempt has been made to remove the existing evils of the ordinary court system.
+The Act
+gives a comprehensive definition of consumer who is the principal beneficiary of the legislation but at the same time in view of the comprehensive definition of the term 'consumer' even a member of the family cannot be denied the status of consumer under the Act and in an action by any such member of the family for any deficiency of service, it will not be open for a trader to take a stand that there is no privity of contract.
+The Consumer Protection Act
+confers jurisdiction on the Commission in respect of matters where either there is defect in goods or there is deficiency in service or there has been an unfair and restrictive trade practice or in the matter of charging of excessive price.
+The Act
+being a beneficial legislation intended to confer some speedier remedy on a consumer from being exploited by unscrupulous traders, the provisions thereof should receive a liberal construction."
+9. Their Lordships in the above order have held that it is for the purpose of speedy disposal of the consumer disputes an attempt is made to remove the existing evils of the ordinary court system and the Act being a beneficial legislation intended to confer a speedy remedy, the provisions therein should receive liberal consideration.
+10.
+Section 13(4)
+of the Consumer Protection Act deals with the procedure and powers of the District Forum. It says that some powers have also been vested on the civil court under
+the Code of Civil Procedure
+, 1908 (5 of 1908).
+Section 18
+of the Act deals with the procedure applicable to the State Commission.
+Section 13
+of the Act is made applicable by that provision. Similarly, under
+Section 22
+of the Act, the power under
+Section 13(4)
+of the Act is also made applicable to the National Commission.
+11. A reading of these provisions also makes it clear that the authorities under the
+Consumer Protection Act
+have the trapping's of court. I had occasion to consider the question whether under the Tamil Nadu Agricultural Land Record of Tenancy Right Act, an appellate authority constituted therein has power to grant stay which has not been provided under that Act. After taking into consideration the various decisions on the point it was held that unless the statute expressly prohibits the exercise of that power, the Tribunal has got powers to grant stay. In respect of procedural matters, all powers which are not specifically denied by the statute or by the statutory rules which are vouchsafed to a tribunal so that it may effectively exercise its judicial function. This decision is reported in Vishwa-nathan v. Subramanian [1997] 1 LW 821.
+12. In a recent decision in E. K. Mani v. District Consumer Disputes Redres-sal Forum [1995] 1 LW 755 the question that came for consideration was whether under
+Section 13
+of the Consumer Protection Act the powers under
+Order 9, Rule 13 of the Code of Civil Procedure
+can be invoked. The learned judge followed the two earlier decisions of the Hon'ble Supreme Court and has held in paragraphs 7, 8 and 9 thus :
+"In
+Satnam Verma v. Union of India
+, , the apex court had held that where an ex parte award is made and published in the Official Gazette, the Industrial Tribunal has the jurisdiction to entertain the application for setting it aside if sufficient cause is shown for absence of appearance on the date on which the award was made. It has further held that it is not correct to say that the Industrial Tribunal becomes functus officio, once the award is published in the Official Gazette, be it ex parte one, and the appropriate Government alone could set it aside.
+In
+Grindlays Bank v. Central Government Industrial Tribunal
+, , the apex court has held that though it is true that there is no express provision in the Act or the rules framed thereunder giving the Tribunal jurisdiction to do so, it is a well-known rule of statutory construction that a Tribunal or body should be considered to be endowed with such ancillary or incidental powers, as are necessary to discharge its functions for the purpose of doing justice between the parties. This case also arises where the question of setting aside the award under the
+Industrial Disputes Act
+came up for consideration,
+ 
+
+The contention put forth before the apex court is mentioned in paragraph 4 of the judgment. It reads as follows :
+'It is contended that neither the Act nor the rules framed thereunder confer any powers upon the Tribunal to set aside an ex parte award. It is urged that the award although ex parte, was an adjudication on merits as it was based on the evidence led by the appellant, and, therefore, the application made by respondent No. 3 was in reality an application for review and not a mere application for setting aside an ex parte award'.
+While answering this submission, the apex court had held as follows :"
+'It is true that there is no express provision in the Act or the rules framed thereunder giving the Tribunal jurisdiction to do so. But it is a well known rule of statutory construction that a Tribunalor body should be considered to be endowed with such ancillary or incidental powers as are necessary to discharge its functions effectively for the purpose of doing justice between the parties. In a case of this nature, we are of the view that the Tribunal should be considered as invested with such incidental or ancillary powers unless there is any indication in the statute to the contrary. We do not find any such statutory prohibition'.
+The ratio of this ruling squarely applies to the facts of this case."
+A similar view was taken in the decision in
+Manager, Indian Bank v. District Consumer Disputes Redressal Forum
+[1996] 2 MLJ 241 (Mad) by an Hon'ble judge of this court.
+In Malaravan v. Ragupathy [1998] 1 TNCR 1, the same principle was applied wherein I have held thus :
+"The principles of natural justice shall apply to a quasi-judicial Tribunal. The petitioners' request is for a direction to the complainant to produce certain documents in his custody, which will prove their case. Giving an opportunity to the petitioners to substantiate their case is only an extension of the principles of natural justice. Even if the Civil Procedure Code will not apply, as I said earlier, the principles of natural justice contemplate the taking of evidence and also the opportunity to give evidence."
+13. If that is the power given by the judicial authority, naturally, I do not think that the impugned order calls for interference under
+Article 227
+of the Constitution of India. That apart, for invoking
+Article 227
+of the Constitution of India, the petitioner has to plead that there is mainfest injustice by virtue of the order and if the same is not rectified by this court, he will be put to hardship. I do not find any such pleading, nor was any argument advanced in that regard.
+14. Consequently, all the civil revision petitions are dismissed. No costs. In view of the dismissal of the revisions, the connected C. M. Ps. are also dismissed.

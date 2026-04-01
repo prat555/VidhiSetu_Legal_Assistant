@@ -1,0 +1,1078 @@
+Title: Search
+Court: High Court
+Date: 2 of 2016
+Citation: SCC 562, Para-15]. In order to prove a contrary fact, the fact whose opposite is sought to be established must be proposed first. It is, therefore, an essential prerequisite that the foundational facts of the prosecution case must be established by leading evidence before the aforesaid statutory presumption is triggered in to shift the onus on the accused to prove the contrary.
+Source: https://indiankanoon.org/doc/76942728/
+
+[Cites
+78
+, Cited by
+392
+]
+Allahabad High Court
+Monish vs State Of U.P. And 3 Other on 9 February, 2023
+Author:
+Ajay Bhanot
+Bench:
+Ajay Bhanot
+HIGH COURT OF JUDICATURE AT ALLAHABAD
+ 
+ 
+
+ Court No. -74
+ 
+ Case :- CRIMINAL MISC. BAIL APPLICATION No. - 55026 of 2021
+ 
+Applicant :- Monish
+ 
+Opposite Party :- State Of U.P. And 3 Other
+ 
+Counsel for Applicant :- Shiv Prakash
+ 
+Counsel for Opposite Party :- G.A.  
+ 
+ with
+ 
+ Case :- CRIMINAL MISC. BAIL APPLICATION No. - 38452 of 2021
+ 
+Applicant :- Sandeep
+ 
+Opposite Party :- State Of U.P. Another
+ 
+Counsel for Applicant :- Akhilesh K. Dwivedi
+ 
+Counsel for Opposite Party :- G.A.
+ 
+ with 
+ 
+ Case :- CRIMINAL MISC. BAIL APPLICATION No. - 42694 of 2021
+ 
+Applicant :- Sohan Gautam
+ 
+Opposite Party :- State of U.P. and Another
+ 
+Counsel for Applicant :- Deepak Kumar Tripathi
+ 
+Counsel for Opposite Party :- G.A.    
+ 
+ with 
+ 
+ Case :- CRIMINAL MISC. BAIL APPLICATION No. - 50905 of 2021
+ 
+Applicant :- Pradeep Kumar Pal
+ 
+Opposite Party :- State Of U.P. And 3 Others
+ 
+Counsel for Applicant :- Dinesh Kumar Verma
+ 
+Counsel for Opposite Party :- G.A.
+ 
+ with 
+ 
+ Case :- CRIMINAL MISC. BAIL APPLICATION No. - 38124 of 2021
+ 
+Applicant :- Ram Ashish @ Roshan
+ 
+Opposite Party :- State of U.P. and Another
+ 
+Counsel for Applicant :- Preetam Yadav,Hari Prakash Singh
+ 
+Counsel for Opposite Party :- G.A.,Mohd. Sarwar Khan
+ 
+ with 
+ 
+ Case :- CRIMINAL MISC. BAIL APPLICATION No. - 10907 of 2022
+ 
+Applicant :- Ashish Haldhar
+ 
+Opposite Party :- State Of U.P. And 3 Others
+ 
+Counsel for Applicant :- Safiullah,Atul Pandey
+ 
+Counsel for Opposite Party :- G.A.
+ 
+ with 
+ 
+ Case :- CRIMINAL MISC. BAIL APPLICATION No. - 45095 of 2021
+ 
+Applicant :- Babi Thakur
+ 
+Opposite Party :- State of U.P. and Another
+ 
+Counsel for Applicant :- Satya Prakash Shukla
+ 
+Counsel for Opposite Party :- G.A.
+ 
+ with 
+ 
+ Case :- CRIMINAL MISC. BAIL APPLICATION No. - 2135 of 2022
+ 
+Applicant :- Rakesh
+ 
+Opposite Party :- State Of U.P And 3 Others
+ 
+Counsel for Applicant :- Vikas Tiwari
+ 
+Counsel for Opposite Party :- G.A.,Kartikey Singh
+ 
+ with 
+ 
+ Case :- CRIMINAL MISC. BAIL APPLICATION No. - 55734 of 2021
+ 
+Applicant :- Rizwan
+ 
+Opposite Party :- State Of U.P. And 3 Others
+ 
+Counsel for Applicant :- Sandeep Kumar Chaturvedi,Ramesh Chandra Mishra
+ 
+Counsel for Opposite Party :- G.A.,Om Prakash Singh,Ram Chandra Solanki
+ 
+              
+ 
+  Hon'ble Ajay Bhanot,J.
+1. The judgement is being structured in the following conceptual framework to facilitate the discussion:
+I
+ 
+ Introduction
+ 
+II 
+ 
+ Submissions of learned counsels
+ 
+III 
+ 
+ Issues arising for consideration 
+ 
+IV
+ 
+ Statutory Schemes
+ 
+V
+Section 94
+of the JJ Act : Case Laws
+ 
+
+ 
+VI 
+ 
+The Two Presumptions:
+a.
+Presumption of correctness of age related documents u/s 94 of JJ Act, 2015
+ 
+b.
+Presumption
+u/s 29
+of POCSO Act
+ 
+
+ 
+VII
+ 
+Norms of fair trial and presumptions under
+Section 94
+of the JJ Act and
+Section 29
+of POCSO Act & applicability of the said Act to determine the age of the victim
+ 
+VIII
+ 
+ Right of Bail:
+a.
+Constitutional perspectives 
+ 
+b.
+Parameters of bail under the POCSO Act
+ 
+
+ 
+IX
+ 
+Bails under POCSO Act : Conclusions 
+ 
+a
+ 
+Section 94 of JJ Act, 2015 & bails under the POCSO Act
+ 
+b.
+Sections 29
+and
+30
+of POCSO Act & bails under
+POCSO Act
+X
+ 
+ Order on bail application
+ 
+I. Introduction:
+2. The prosecution case is briefly this. The victim is a minor. The applicant committed inappropriate sexual acts with her. The applicant is a major.
+3. Shri S. P. Tiwari, learned counsel for the applicant has assailed the age of the victim as shown in the prosecution case and has made these submissions:
+(i). A false date of birth was got recorded in the school registers by the parents of the victim to give her an advantage in life.
+(ii). Various documents like Pariwar Register and Aadhar card which reflect her true age and contradict the prosecution case have not been produced.
+(iii). The pathological report reflects that the victim is 17 years of age.
+(iv). The victim is in fact a major. However, no medical examination to determine her age as per the latest scientific criteria and medical protocol was got done by expert doctors as it would falsify the prosecution case.
+(v). Inconsistencies in the age of the victim as stated in the F.I.R., the statement of the victim under
+Section 161
+Cr.P.C.,
+Section 164
+Cr.P.C., school certificate and the age in the pathological report discredit the prosecution case regarding the victim's minority.
+4. In Ashish Haldhar Vs. State of UP (Criminal Misc. Bail Application No. 10907 of 2022), it is contended by Shri Safiullah, learned counsel for the applicant that the age of the victim as per the radiological/medical report is 18 years. However, the school certificate records her age 13 years 06 months and 27 days. The victim in her statements under
+Sections 161
+Cr.P.C. and
+Section 164
+Cr.P.C. has asserted that she is 18 years of age. The F.I.R. as well as the statement of the first informant depict the age of the victim as 14 years.
+5. Similar discrepancies in respect of the age of the victim are exist in other connected bail applications as well.
+6. Shri Rishi Chaddha, learned Additional Government Advocate for the State contends that Section 94 of the Juvenile Justice (Care and Protection of Children) Act, 20151 contemplates that the age depicted in the documents enumerated therein is conclusive and the same cannot be put to challenge in bail proceedings. Further, the offence is disclosed in the F.I.R. which alone is sufficient to trigger the presumption of guilt under Section 29 of the Protection of Children from Sexual Offences Act, 20122.
+7. A number of members of the Bar submit that these two larger questions of law crop up regularly in bail applications under the
+POCSO Act, 2012
+. The issue needs to be decided in order to end the ambiguity in law.
+8. The same questions of law arise in all the companion bail applications.
+9. At this stage, the Court requested the members of the Bar to assist the Court on the questions of law.
+10. Apart from the counsels for the applicants, Shri Nazrul Islam Jafri, learned Senior Counsel assisted by Ms. Nasira Adil; Shri Vinay Saran, learned Senior Counsel assisted by Shri Saumitra Dwivedi, learned counsel; Shri Shwetashwa Agrawal, learned counsel; Shri Rajiv Lochan Shukla, learned counsel and Ms. Gunjan Jadwani, learned counsel kindly volunteered to assist the Court.
+11. On behalf of the State Shri Rishi Chaddha, learned Additional Government Advocate for the State has made his submissions.
+II. Submissions on behalf of learned counsel for the applicants and learned members of the Bar:
+12. Learned counsel for the applicant and other members of the Bar have contended that:
+(i). Age of a victim  has to be factored in while considering a bail application under
+POCSO Act
+offences.
+(ii). The accused can challenge the age of a victim in bail proceedings.
+(iii). Attention is called to the liberal interpretation of the enquiry under
+Section 94
+of the JJ Act, 2015 by authorities in point.
+(iv). The presumptions under
+Section 94
+of the JJ Act, 2015 and
+Section 29
+of the POCSO Act, 2012 can not prejudice the rights of an accused at the stage of bail.
+(v). A large number of cases under the
+POCSO Act
+relate to runaway couples, and arise from family opposition to such relationships. In bail application excluding evidence or limiting the challenge to the age of the victim which is often on the borderline of majority and at times false, would result in miscarriage of justice for the accused.
+Submissions on behalf of the State by learned AGA:
+(i).
+POCSO Act
+is a special Act where the legislature has made stringent provisions to protect the interests of victims who are minors.
+(ii).
+Section 94
+of the JJ Act, 2015 shall be strictly interpreted and applied at the bail stage to implement the intent of the legislature.
+(iii). The presumption of
+Section 29
+of the POCSO Act, 2012 is triggered at the lodgement of the F.I.R. otherwise its purpose will be defeated.
+(iv). The legislative intent was clearly to restrict the right of bail considering the gravity of the offences.
+III. Issues arising for consideration:
+13. Following questions of law thus arise for consideration in the bail application and the other companion bail applications:
+I. Whether at the stage of bail the age of the victim will be determined in accordance with
+Section 94
+of the JJ Act, 2015? If not what is the manner of assessing the age of a victim in a bail application under the
+POCSO Act
+when a challenge is laid to it by an accused?
+II. Whether the presumption of culpable intent under
+Section 29
+of the POCSO Act, 2012 is attracted against the accused at the stage of bail?
+IV. Statutory Schemes:
+14. The determination of age of a child victim under the
+POCSO Act
+has to be made in accordance with the procedure for determination of age contemplated in
+Section 94
+of the JJ Act, 2015 read with Rule 54 (18) (iv) of the Juvenile Justice (Care and Protection of Children) Model Rules, 20163. The provisions state thus:
+"94. Presumption and determination of age. (1) Where, it is obvious to the Committee or the Board, based on the appearance of the person brought before it under any of the provisions of this Act (other than for the purpose of giving evidence) that the said person is a child, the Committee or the Board shall record such observation stating the age of the child as nearly as may be and proceed with the inquiry under
+section 14
+or
+section 36
+, as the case may be, without waiting for further confirmation of the age.
+(2) In case, the Committee or the Board has reasonable grounds for doubt regarding whether the person brought before it is a child or not, the Committee or the Board, as the case may be, shall undertake the process of age determination, by seeking evidence by obtaining--
+(i) the date of birth certificate from the school, or the matriculation or equivalent certificate from the concerned examination Board, if available; and in the absence thereof;
+(ii) the birth certificate given by a corporation or a municipal authority or a panchayat;
+(iii) and only in the absence of (i) and (ii) above, age shall be determined by an ossification test or any other latest medical age determination test conducted on the orders of the Committee or the Board:
+Provided such age determination test conducted on the order of the Committee or the Board shall be completed within fifteen days from the date of such order.
+(3) The age recorded by the Committee or the Board to be the age of person so brought before it shall, for the purpose of this Act, be deemed to be the true age of that person."
+Rule 54 (18) (iv) of the J.J. Rules, 2016:
+"54. Procedure in cases of offences against children.- (18) (iv) For the age determination of the victim, in relation to offences against children under the Act, the same procedures mandated for the Board and the Committee under
+section 94
+of the Act to be followed."
+15. The procedure for determination of age of a child is provided in
+Section 34
+of the POCSO Act, 2012. The provision is being extracted hereinunder:
+"34. Procedure in case of commission of offence by child and determination of age by Special Court. (1) Where any offence under this Act is committed by a child, such child shall be dealt with under the provisions of 1[the
+Juvenile Justice (Care and Protection of Children) Act, 2015
+(2 of 2016)].
+(2) If any question arises in any proceeding before the Special Court whether a person is a child or not, such question shall be determined by the Special Court after satisfying itself about the age of such person and it shall record in writing its reasons for such determination.
+(3) No order made by the Special Court shall be deemed to be invalid merely by any subsequent proof that the age of a personas determined by it under sub-section (2) was not the correct age of that person."
+16.
+Section 49
+of Juvenile Justice (Care and Protection of Children) Act, 20004 read with Rule 12(3) of the Juvenile Justice (Care and Protection of Children) Rules, 20075  are reproduced below:
+"49. Presumption and determination of age.--
+(1). Where it appears to a competent authority that person brought before it under any of the provisions of this Act (otherwise than for the purpose of giving evidence) is a juvenile or the child, the competent authority shall make due inquiry so as to the age of that person and for that purpose shall take such evidence as may be necessary (but not an affidavit) and shall record a finding whether the person is a juvenile or the child or not, stating his age as nearly as may be.
+(2). No order of a competent authority shall be deemed to have become invalid merely by any subsequent proof that the person in respect of whom the order has been made is not a juvenile or the child, and the age recorded by the competent authority to be the age of person so brought before it, shall for the purpose of this Act, be deemed to be the true age of that person."
+Rule 12(3) of JJ Rules, 2007:
+"12. Procedure to be followed in determination of Age: (3) In every case concerning a child or juvenile in conflict with law, the age determination inquiry shall be conducted by the court or the Board or, as the case may be, the Committee by seeking evidence by obtaining--
+(a) (i)    the matriculation or equivalent certificates, if available; and in the absence 	whereof;
+(ii)       the date of birth certificate from the school (other than a play school) first 	attended; and in the absence whereof;
+(iii)     the birth certificate given by a corporation or a municipal authority or a 	panchayat;
+(b) and only in the absence of either (i), (ii) or (iii) of clause (a) above, the medical opinion will be sought from a duly constituted Medical Board, which will declare the age of the juvenile or child. In case exact assessment of the age cannot be done, the Court or the Board or, as the case may be, the Committee, for the reasons to be recorded by them, may, if considered necessary, give benefit to the child or juvenile by considering his/her age on lower side within the margin of one year.
+and, while passing orders in such case shall, after taking into consideration such evidence as may be available, or the medical opinion, as the case may be, record a finding in respect of his age and either of the evidence specified in any of the clauses (a)(i), (ii), (iii) or in the absence whereof, clause (b) shall be the conclusive proof of the age as regards such child or the juvenile in conflict with law."
+V.
+Section 94
+of JJ Act : Case Laws:
+17. Organic development of legal discourse is a salient feature of statutory enactments and judicial precedents dealing with juveniles in conflict with  law and child victims of crime.
+JJ Act, 2000
+read with JJ Rules, 2007 which preceded the current enactment will aid the understanding of evolution of law, and assist the interpretation of the extant statutes.
+18. While interpreting the scope and purpose of
+Section 32
+of the Juvenile Justice Act, 1986, a provision in pari materia with
+Section 49
+of the JJ Act, 2000, the Supreme Court in
+Bhola Bhagat v. State of Bihar6
+observed thus:
+"18. ..when a plea is raised on behalf of an accused that he was a "child" within the meaning of the definition of the expression under the Act, it becomes obligatory for the court, in case it entertains any doubt about the age as claimed by the accused, to hold an inquiry itself for determination of the question of age of the accused or cause an enquiry to be held and seek a report regarding the same, if necessary, by asking the parties to lead evidence in that regard. Keeping in view the beneficial nature of the socially oriented legislation, it is an obligation of the court where such a plea is raised to examine that plea with care and it cannot fold its hands and without returning a positive finding regarding that plea, deny the benefit of the provisions of an accused. The court must hold an enquiry and return a finding regarding the age, one way or the other..."                                  							      (emphasis supplied)
+19.
+Jitendra Ram v. State of Jharkhand7
+clarified that an unentitled person cannot be dealt with leniently only on the plea of delinquency advanced by the accused.
+The issue of juvenility according to
+Jitendra Ram
+(supra) had to be judged in the facts and circumstances of each case on merits.
+20. Rule 22 of the Jharkhand Juvenile Justice (Care and Protection of Children) Rules, 2003  which is in pari materia with Rule 12 of the JJ Rules, 2007, was in issue in
+Babloo Pasi v. State of Jharkhand8
+.
+The Supreme Court in
+Babloo Pasi
+(supra) declined to lay down a universal formula for age determination, and instead reiterated the need to judge every case on the basis of materials and evidences before the Court by holding as under:
+"22. It is well settled that it is neither feasible nor desirable to lay down an abstract formula to determine the age of a person. The date of birth is to be determined on the basis of material on record and on appreciation of evidence adduced by the parties. The Medical evidence as to the age of a person, though a very useful guiding factor, is not conclusive and has to be considered along with other cogent evidence."   					  				                 (emphasis supplied)
+21. Evidentiary value of documents like date of birth entry in school registers and manner of proving medical board opinions were appraised in the following manner in
+Babloo Pasi
+(supra):
+"27. ...
+Section 35
+of the said Act lays down that an entry in any public or other official book, register, record, stating a fact in issue or relevant fact made by a public servant in the discharge of his official duty especially enjoined by the law of the country is itself a relevant fact.
+28. It is trite that to render a document admissible under
+Section 35
+, three conditions have to be satisfied, namely: (i) entry that is relied on must be one in a public or other official book, register or record; (ii) it must be an entry stating a fact in issue or a relevant fact, and (iii) it must be made by a public servant in discharge of his official duties, or in performance of his duty especially enjoined by law. An entry relating to date of birth made in the school register is relevant and admissible under
+Section 35
+of the Act but the entry regarding the age of a person in a school register is of not much evidentiary value to prove the age of the person in the absence of the material on which the age was recorded.
+(emphasis supplied)
+29.Therefore, on facts at hand, in the absence of evidence to show on what material the entry in the Voters List in the name of the accused was made, a mere production of a copy of the Voters List, though a public document, in terms of
+Section 35
+, was not sufficient to prove the age of the accused. Similarly, though a reference to the report of the Medical Board, showing the age of the accused as 17-18 years, has been made but there is no indication in the order whether  the Board had summoned any of the members of the Medical Board and recorded their statement. It also appears that the physical appearance of the accused, has weighed with the Board in coming to the afore-noted conclusion, which again may not be a decisive factor to determine the age of a delinquent."
+(emphasis supplied)
+22. The issue of age determination under the scheme of
+JJ Act, 2000
+read with JJ Rules, 2007 was examined in
+Jabar Singh v. Dinesh
+and another9 in light of
+Section 35
+of the Evidence Act by stating forth:
+"27... The entry of date of birth of Respondent No.1 in the admission form, the school records and transfer certificates did not satisfy the conditions
+laid down in
+Section 35
+of the Evidence Act inasmuch as the entry was not in any public or official register and was not made either by a public servant in the discharge of his official duty or by any person in performance of a duty specially enjoined by the law of the country and, therefore, the entry was not relevant under
+Section 35
+of the Evidence Act for the purpose of determining the age of Respondent No.1 at the time of commission of the alleged offence."
+23.
+Jabar Singh
+(supra) also reprised the law
+laid down in
+Jyoti Prakash Rai v. State of Bihar10
+and
+Ravinder Singh Gorkhi v. State of U.P.11
+that age has to be determined  under the said statutes in the facts and circumstances of each case and upon evaluation of evidence before the Court.
+24.
+In
+Jitendra Singh
+(supra) the Supreme Court reiterated its earlier decisions in
+Gopinath Ghosh v. State of West Bengal12
+,
+Bhoop Ram v. State of U.P.13
+,
+Bhola Bhagat v. State of Bihar14
+, and
+Hari Ram v. State of Rajasthan15
+and did not limit the scope of an inquiry into age determination after a prima facie case for such inquiry was made out by stating:
+"9.The burden of making out a prima facie case for directing an enquiry has been in our opinion discharged in the instant case inasmuch as the appellant has filed along with the application a copy of the school leaving certificate and the marksheet which mentions the date of birth of the appellant to be 24-5-1988. The medical examination to which the High Court has referred in its order granting bail to the appellant also suggests the age of the appellant being 17 years on the date of the examination. These documents are sufficient at this stage for directing an enquiry and verification of the facts.
+10. We may all the same hasten to add that the material
+referred to above
+is yet to be verified and its genuineness and credibility determined. There are no doubt certain telltale circumstances that may raise a suspicion about the genuineness of the documents relied upon by the appellant. For instance, the deceased Asha Devi who was married to the appellant was according to Dr. Ashok Kumar Shukla, Pathologist, District Hospital, Rae Bareilly aged 19 years at the time of her death. This would mean as though the appellant husband was much younger to his wife which is not the usual practice in the Indian context and may happen but infrequently. So also the fact that the appellant obtained the school leaving certificate as late as on 17-11-2009 i.e. after the conclusion of the trial and disposal of the first appeal by the High Court, may call for a close scrutiny and examination of the relevant school record to determine whether the same is free from any suspicion, fabrication or manipulation. It is also alleged that the electoral rolls showed the age of the accused to be around 20 years while the extract from the panchayat register showed him to be 19 years old.
+11. All these aspects would call for close and careful scrutiny by the court below while determining the age of the appellant. The date of birth of appellant Jitendra Singh's siblings and his parents may also throw considerable light upon these aspects and may have to be looked into for a proper determination of the question. Suffice it to say while for the present we consider it to be a case fit for directing an enquiry, that direction should not be taken as an expression of any final opinion as regards the true and correct age of the appellant which matter shall have to be independently examined on the basis of the relevant material."
+25. Delineating the process of satisfaction to order an enquiry into juvenility and the ambit of such an enquiry, the Supreme Court in Abuzar Hossain alias
+Gulam Hossain v. State of West Bengal16
+, set forth thus:
+"39.2.For making a claim with regard to juvenility after conviction, the claimant must produce some material which may prima facie satisfy the court that an inquiry into the claim of juvenility is necessary. Initial burden has to be discharged by the person who claims juvenility.
+39.3 As to what materials would prima facie satisfy the court and/or are sufficient for discharging the initial burden cannot be catalogued nor can it be laid down as to what weight should be given to a specific piece of evidence which may be sufficient to raise presumption of juvenility but the documents referred to in Rule 12(3)(a)(i) to (iii) shall definitely be sufficient for prima facie satisfaction of the court about the age of the delinquent necessitating further enquiry under Rule 12. The statement recorded under Section 313 of the Code is too tentative and may not by itself be sufficient ordinarily to justify or reject the claim of juvenility. The credibility and/or acceptability of the documents like the school leaving certificate or the voters' list, etc. obtained after conviction would depend on the facts and circumstances of each case and no hard and fast rule can be prescribed that they must be prima facie accepted or rejected. In Akbar Sheikh2 and Pawan8 these documents were not found prima facie credible while in Jitendra Singh10 the documents viz., school leaving certificate, marksheet and the medical report were treated sufficient for directing an inquiry and verification of the appellant's age. If such documents prima facie inspire confidence of the court, the court may act upon such documents for the purposes of Section 7A and order an enquiry for determination of the age of the delinquent.
+(emphasis supplied)
+48. If one were to adopt a wooden approach, one could say nothing short of a certificate, whether from the school or a municipal authority would satisfy the court's conscience, before directing an enquiry. But, then directing an enquiry is not the same thing as declaring the accused to be a juvenile. The standard of proof required is different for both. In the former, the court simply records a prima facie conclusion. In the latter the court makes a declaration on evidence, that it scrutinises and accepts only if it is worthy of such acceptance. The approach at the stage of directing the enquiry has of necessity to be more liberal, lest, there is avoidable miscarriage of justice. Suffice it to say that while affidavits may not be generally accepted as a good enough basis for directing an enquiry, that they are not so accepted is not a rule of law but a rule of prudence. The Court would, therefore, in each case weigh the relevant factors, insist upon filing of better affidavits if the need so arises, and even direct, any additional information considered relevant including information regarding the age of the parents, the age of siblings and the like, to be furnished before it decides on a case to case basis whether or not an enquiry under Section 7A ought to be conducted. It will eventually depend on how the court evaluates such material for a prima facie conclusion that the Court may or may not direct an enquiry."
+(emphasis supplied)
+26. The Supreme Court in
+Mahadeo v. State of Maharasthra
+and another17 applied Rule 12(3)(b) of JJ Rules, 2007 for determination of age of a victim and held:
+"12. .....Under Rule 12 (3) (b), it is specifically provided that only in the absence of alternative methods described under 12 (3) (a) (i) to (iii), the medical opinion can be sought for. In the light of such a statutory rule prevailing for ascertainment of the age of a juvenile, in our considered opinion, the same yardstick can be rightly followed by the Courts for the purpose of ascertaining the age of a victim as well.  					 					      (emphasis supplied)
+13. In the light of our above reasoning, in the case on hand, there were certificates issued by the school in which the prosecutrix did her Vth standard and in the school leaving certificate issued by the said school under Exhibit 54, the date of birth of the prosecutrix has been clearly noted as 20.05.1990, and this document was also proved by PW-11. Apart from the transfer certificate as well as the admission form maintained by the primary school Latur, where the prosecutrix had her initial education, also confirmed the date of birth as 20.5.1990. The reliance placed upon the said evidence by the Courts below to arrive at the age of the prosecutrix to hold that the prosecutrix was below 18 years of age at the time of the occurrence was perfectly justified and we do not find any good grounds to interfere with the same."
+27. The ratio in
+Mahadeo
+(supra) was followed in the
+State of Madhya Pradesh v. Anoop Singh18
+.
+28. However, while applying JJ Rules, 2007 to determine the age of a victim, the Supreme Court in
+Jarnail Singh v. State of Haryana19
+took a strict view of the provisions and narrowed the scope of the enquiry to determine the victim's age by holding:
+"23.Even though Rule 12 is strictly applicable only to determine the age of a child in conflict with law, we are of the view that the aforesaid statutory provision should be the basis for determining age, even for a child who is a victim of crime. For, in our view, there is hardly any difference in so far as the issue of minority is concerned, between a child in conflict with law, and a child who is a victim of crime. Therefore, in our considered opinion, it would be just and appropriate to apply Rule 12 of the 2007 Rules, to determine the age of the prosecutrix VW-PW6. The manner of determining age conclusively, has been expressed in sub-rule (3) of Rule 12 extracted above. Under the aforesaid provision, the age of a child is ascertained, by adopting the first available basis, out of a number of options postulated in Rule 12(3). If, in the scheme of options under Rule 12(3), an option is expressed in a preceding clause, it has overriding effect over an option expressed in a subsequent clause. The highest rated option available, would conclusively determine the age of a minor. In the scheme of Rule 12(3), matriculation (or equivalent) certificate of the concerned child, is the highest rated option. In case, the said certificate is available, no other evidence can be relied upon. Only in the absence of the said certificate, Rule 12(3), envisages consideration of the date of birth entered, in the school first attended by the child. In case such an entry of date of birth is available, the date of birth depicted therein is liable to be treated as final and conclusive, and no other material is to be relied upon. Only in the absence of such entry, Rule 12(3) postulates reliance on a birth certificate issued by a corporation or a municipal authority or a panchayat. Yet again, if such a certificate is available, then no other material whatsoever is to be taken into consideration, for determining the age of the child concerned, as the said certificate would conclusively determine the age of the child. It is only in the absence of any of the aforesaid, that Rule 12(3) postulates the determination of age of the concerned child, on the basis of medical opinion."
+29. An accused person could not access protection under
+JJ Act, 2000
+, if the intent was only to cheat justice. Parag Bhati (Juvenile) through Legal Guardian-Mother-Rajni Bhati v. State of Uttar Pradesh and another20, cautioned that:
+"34. It is no doubt true that if there is a clear and unambiguous case in favour of the juvenile accused that he was a minor below the age of 18 years on the date of the incident and the documentary evidence at least prima facie proves the same, he would be entitled for this special protection under the
+Juvenile Justice Act
+. But when an accused commits a grave and heinous offence and thereafter attempts to take statutory shelter under the guise of being a minor, a casual or cavalier approach while recording as to whether an accused is a juvenile or not cannot be permitted as the courts are enjoined upon to perform their duties with the object of protecting the confidence of common man in the institution entrusted with the administration of justice.
+(emphasis supplied)
+35. The benefit of the principle of benevolent legislation attached to the
+JJ Act
+would thus apply to only such cases wherein the accused is held to be a juvenile on the basis of at  least prima facie evidence regarding his minority as the benefit of the possibilities of two views in regard to the age of the alleged accused who is involved in grave and serious offence which he committed and gave effect to it in a well-planned manner reflecting his maturity of mind rather than innocence indicating that his plea of juvenility is more in the nature of a shield to dodge or dupe the arms of law, cannot be allowed to come to his rescue."
+30. Relying on the ratio of
+Abuzar Hossain
+(supra), it was held in Parag Bhati (supra), that contradictory evidence was sufficient to cause an inquiry into the issue of age of the accused :
+"36. It is settled position of law that if the matriculation or equivalent certificates are available and there is no other material to prove the correctness, the date of birth mentioned in the matriculation certificate has to be treated as a conclusive proof of the date of birth of the accused. However, if there is any doubt or a contradictory stand is being taken by the accused which raises a doubt on the correctness of the date of birth then as laid down by this Court in
+Abuzar Hossain
+(supra), an enquiry for determination of the age of the accused is permissible which has been done in the present case." 				      (emphasis supplied)
+31. A discordant view was taken by a two judge Bench of the Supreme Court in
+Ashwani Kumar Saxena Vs. State of M.P.21
+which restricted the jurisdiction of the court and prohibited a detailed enquiry into determination of age in view of the provisions of
+JJ Act, 2000
+read with JJ Rules, 2007.
+32. However, the precedential value of
+Ashwani Kumar Saxena
+(supra) has to be viewed in light of these facts.
+The holdings of a three Judge Bench of the Supreme Court in Abuzar Hussain alias
+Gulam Hossain Vs. State of West Bengal22
+was not referred to the Supreme Court in
+Ashwani Kumar Saxena
+(supra).
+Jabar Singh
+(supra), a coordinate Bench judgement continues to be good law.
+Finally an integrated view of the controversy was taken in
+Sanjeev Kumar Gupta Vs. The State of Uttar Pradesh
+and another23.
+33.
+Sanjeev Kumar Gupta
+(supra) adopted a liberal approach and widened the scope of an enquiry determining the age consistent with the holding in
+Abuzar Hossain
+(supra), but opposed to a more constricted enquiry as contemplated in
+Ashwani Kumar Saxena
+(supra) or
+Jarnail Singh
+(supra) on the following footing:
+"15. The above decision in Abuzar Hossain alias
+Gulam Hossain
+(supra) was rendered on 10 October 2012.
+Though the earlier decision in
+Ashwani Kumar Saxena
+(supra) was not cited before the Court, it appears from the above extract that the three judge Bench observed that the credibility and acceptability of the documents, including the school leaving certificate, would depend on the facts and circumstances of each case and no hard and fast rule as such could be laid down. Concurring with the judgment of Justice RM Lodha, Justice TS Thakur (as the learned Chief Justice then was) observed that directing an inquiry is not the same thing as declaring the accused to be a juvenile. In the former the Court simply records a prima facie conclusion while in the latter a declaration is made on the basis of evidence. Hence the approach at the stage of directing the inquiry has to be more liberal."
+(emphasis supplied)
+34. After extracting
+Section 94
+of the JJ Act, 2015 in
+Sanjeev Kumar Gupta
+(supra) discussed the distinctions between
+JJ Act, 2015
+and
+JJ Act, 2000
+read with JJ Rules, 2007:
+"17...Clause (i) of Section 94 (2) places the date of birth certificate from the school and the matriculation or equivalent certificate from the concerned examination board in the same category (namely (i) above). In the absence thereof category (ii) provides for obtaining the birth certificate of the corporation, municipal authority or panchayat. It is only in the absence of (i) and (ii) that age determination by means of medical analysis is provided. Section 94(2)(a)(i) indicates a significant change over the provisions which were contained in Rule 12(3)(a) of the Rules of 2007 made under the Act of 2000. Under Rule 12(3)(a)(i) the matriculation or equivalent certificate was given precedence and it was only in the event of the certificate not being available that the date of birth certificate from the school first attended, could be obtained. In Section 94(2)(i) both the date of birth certificate from the school as well as the matriculation or equivalent certificate are placed in the same category."
+35. Similarly an enlarged scope of the age determination enquiry under
+Section 94
+of the JJ Act, 2015 was iterated by the Supreme Court in
+Ram Vijay Singh v. State of Uttar Pradesh24
+:
+"16. Apart from the said fact, there is an application submitted by the appellant himself for obtaining an Arms Licence prior to the date of the incident. In such application, he has given his date of birth as 30.12.1961 which would make him of 21 years of age on the date of the incident i.e. 20.7.1982. The Court is not precluded from taking into consideration any other relevant and trustworthy material to determine the age as all the three eventualities mentioned in sub-section (2) of
+Section 94
+of the Act are either not available or are not found to be reliable and trustworthy. Since there is a document signed by the appellant much before the date of occurrence, therefore, we are of the opinion that the appellant cannot be treated to be juvenile on the date of incident as he was more than 21 years of age as per his application submitted to obtain the Arms Licence."						                 (emphasis supplied)
+36.  More recently the parameters of enquiry for determination of age under the
+JJ Act, 2015
+arose for consideration before the Supreme Court in
+Rishipal Singh Solanki v. State of Uttar Pradesh
+and others25.
+37.
+Rishipal Singh Solanki
+(supra) first noticed the contrasting features of the J.J.Act, 2015 and J.J. Rules, 2007:
+"29. The difference in the procedure under the two enactments could be discerned as under:
+"29.1. As per
+JJ Act, 2015
+in the absence of requisite documents as mentioned in Sub-section (2) of Section 94(a) and (b), there is provision for determination of the age by an ossification test or any other medical age related test to be conducted on the orders of the Committee or the JJ Board as per Section 94 of the said Act; whereas, under Rule 12 of the JJ Rules, 2007, in the absence of relevant documents, a medical opinion had to be sought from a duly constituted Medical Board which would declare the age of the juvenile or child.
+29.2. With regard to the documents to be provided as evidence, what was provided under Rule 12 of the JJ Rules, 2007 has been provided under sub-
+section 2
+of
+section 94
+of the JJ Act, 2015 as a substantive provision.
+29.3. Under
+Section 49
+of the JJ Act, 2000, where it appeared to a competent authority that a person brought before it was a juvenile or a child, then such authority could, after making an inquiry and taking such evidence as was necessary, record a finding as to the juvenility of such person and state the age of such person as nearly as may be. Sub-section (2) of Section 49 stated that no order of a competent authority shall be deemed to have become invalid merely by any subsequent proof that the person in respect of whom the order had been made is not a juvenile and the age recorded by the competent authority to be the age of person so brought before it, for the purpose of the Act, be deemed to be the true age of that person.
+30. But, under
+Section 94
+of the JJ Act, 2015, which also deals with presumption and determination of age, the Committee or the JJ Board has to record such observation stating the age of the child as nearly as may be and proceed with the inquiry without waiting for further confirmation of the age. It is only when the Committee or the JJ Board has reasonable grounds for doubt regarding whether the person brought before it is a child or not, it can undertake the process of age determination, by seeking evidence.
+31. Sub-section (3) of Section 94 states that the age recorded by the Committee or the JJ Board to be the age of the persons so brought before it shall, for the purpose of the Act, be deemed to be the true age of that person. Thus, there is a finality attached to the determination of the age recorded and it is only in a case where reasonable grounds exist for doubt as to whether the person brought before the Committee or the Board is a child or not, that a process of age determination by seeking evidence has to be undertaken."
+38. Thereafter, upon analysis of cases in point
+Rishipal Singh
+(supra) thus sums up the law:
+"33.2.3. When an application claiming juvenility is made under
+section 94
+of the JJ Act, 2015 before the JJ Board when the matter regarding the alleged commission of offence is pending before a Court, then the procedure contemplated under
+section 94
+of the JJ Act, 2015 would apply. Under the said provision if the JJ Board has reasonable grounds for doubt regarding whether the person brought before it is a child or not, the Board shall undertake the process of age determination by seeking evidence and the age recorded by the JJ Board to be the age of the person so brought before it shall, for the purpose of the
+JJ Act, 2015
+, be deemed to be true age of that person. Hence the degree of proof required in such a proceeding before the JJ Board, when an application is filed seeking a claim of juvenility when the trial is before the concerned criminal court, is higher than when an inquiry is made by a court before which the case regarding the commission of the offence is pending (vide
+section 9
+of the JJ Act, 2015).
+33.3. That when a claim for juvenility is raised, the burden is on the person raising the claim to satisfy the Court to discharge the initial burden. However, the documents mentioned in Rule 12(3)(a)(i), (ii), and (iii) of the JJ Rules 2007 made under the
+JJ Act, 2000
+or sub-section (2) of
+section 94
+of JJ Act, 2015, shall be sufficient for prima facie satisfaction of the Court. On the basis of the aforesaid documents a presumption of juvenility may be raised.
+33.4. The said presumption is however not conclusive proof of the age of juvenility and the same may be rebutted by contra evidence let in by the opposite side.
+33.5. That the procedure of an inquiry by a Court is not the same thing as declaring the age of the person as a juvenile sought before the JJ Board when the case is pending for trial before the concerned criminal court. In case of an inquiry, the Court records a prima facie conclusion but when there is a determination of age as per sub-section (2) of
+section 94
+of 2015 Act, a declaration is made on the basis of evidence. Also the age recorded by the JJ Board shall be deemed to be the true age of the person brought before it. Thus, the standard of proof in an inquiry is different from that required in a proceeding where the determination and declaration of the age of a person has to be made on the basis of evidence scrutinised and accepted only if worthy of such acceptance.
+33.6. That it is neither feasible nor desirable to lay down an abstract formula to determine the age of a person. It has to be on the basis of the material on record and on appreciation of evidence adduced by the parties in each case.
+33.7.  This Court has observed that a hyper-technical approach should not be adopted when evidence is adduced on behalf of the accused in support of the plea that he was a juvenile.
+33.8. If two views are possible on the same evidence, the court should lean in favour of holding the accused to be a juvenile in borderline cases. This is in order to ensure that the benefit of the
+JJ Act, 2015
+is made applicable to the juvenile in conflict with law. At the same time, the Court should ensure that the
+JJ Act, 2015
+is not misused by persons to escape punishment after having committed serious offences.
+33.9. That when the determination of age is on the basis of evidence such as school records, it is necessary that the same would have to be considered as per
+Section 35
+of the Indian Evidence Act, inasmuch as any public or official document maintained in the discharge of official duty would have greater credibility than private documents.
+33.10. Any document which is in consonance with public documents, such as matriculation certificate, could be accepted by the Court or the JJ Board provided such public document is credible and authentic as per the provisions of the
+Indian Evidence Act
+viz.,
+section 35
+and other provisions.
+33.11. Ossification Test cannot be the sole criterion for age determination and a mechanical view regarding the age of a person cannot be adopted solely on the basis of medical opinion by radiological examination. Such evidence is not conclusive evidence but only a very useful guiding factor to be considered in the absence of documents mentioned in
+Section 94(2)
+of the JJ Act, 2015."
+39. Social realities and absence of reliable age related documents on many occasions were underlined in
+Mukarrab and others v. State of Uttar Pradesh26
+.
+"10. Age determination is essential to find out whether or not the person claiming to be a child is below the cut-off age prescribed for application of the
+Juvenile Justice Act
+. The issue of age determination is of utmost importance as very few children subjected to the provisions of the
+Juvenile Justice Act
+have a birth certificate. As juvenile in conflict with law usually do not have any documentary evidence, age determination, cannot be easily ascertained, specially in borderline cases. Medical examination leaves a margin of about two years on either side even if ossification test of multiple joints is conducted.
+11. Time and again, the questions arise: How to determine age in the absence of birth certificate? Should documentary evidence be preferred over medical evidence? How to use the medical evidence? Is the standard of proof, a proof beyond reasonable doubt or can the age be determined by preponderance of evidence? Should the person whose age cannot be determined exactly, be given the benefit of doubt and be treated as a child? In the absence of a birth certificate issued soon after birth by the concerned authority, determination of age becomes a very difficult task providing a lot of discretion to the Judges to pick and choose evidence. In different cases, different evidence has been used to determine the age of the accused.
+22. A reading of
+the above decision
+in Darga Ram alias Gunga's case shows that courts need to be aware of the fact that age determination of the concerned persons cannot be certainly ascertained in the absence of original and valid documentary proof and there would always lie a possibility that the age of the concerned person may vary plus or minus two years. Even in the presence of medical opinion, the Court showed a tilt towards the juvenility of the accused. However, it is pertinent to note that such an approach in Darga Ram alias Gunga's case was taken in the specific facts and circumstances of that particular case and any attempt of generalising the said approach could not be justifiably entertained."
+40.  Clearly the courts do not resist introduction of evidence beyond the documents enumerated in
+Section 94
+of the JJ Act, 2015 to arrive at the truth and to serve justice the facts and circumstances of a case so require.
+VI. The Two Presumptions:
+a. Presumption of correctness of age related documents under
+Section 94
+of the JJ Act, 2015:
+b. Presumptions under
+Section 29
+of the POCSO Act, 2012:
+41. The controversy has to seen from another perspective as well.
+Section 94
+of the J.J. Act, 2015 creates a hierarchy of documents which corresponds to the degree of reliability. From a bare reading, the provision envisages that where a document higher in the said pecking order is available, the documents lower in the statutory preference shall not be received in evidence.
+42. Such an embargo on receiving evidence is made on the foot of the concept of presumption of facts. In the context of the
+JJ Act, 2015
+, it means that when a document higher on the preferential scale of
+Section 94
+of the J.J. Act, 2015 is produced, it is presumed to be correct and sufficient to establish the age of the victim. Thus the need for any other evidence is obviated and reception of further evidence is proscribed.
+43. The second presumption relevant to the current controversy is engrafted in
+Sections 29
+and
+30
+of POCSO Act, 2012. The provision reads as under:
+"29. Presumption as to certain offences: Where a person is prosecuted for committing or abetting or attempting to commit any offence under
+sections 3
+,
+5
+,
+7
+and
+section 9
+of this Act, the Special Court shall presume, that such person has committed or abetted or attempted to commit the offence, as the case may be unless the contrary is proved.
+30. Presumption of culpable mental state. (1) In any prosecution for any offence under this Act which requires a culpable mental state on the part of the accused, the Special Court shall presume the existence of such mental state but it shall be a defence for the accused to prove the fact that he had no such mental state with respect to the act charged as an offence in that prosecution.
+(2) For the purposes of this section, a fact is said to be proved only when the Special Court believes it to exist beyond reasonable doubt and not merely when its existence is established by a preponderance of probability."
+44. The concept of presumptions in evidential law is applied by the legislature to dispense with the proof of certain facts.  The discussion will benefit from judicial precedents which analyse the first principles of law of presumptions and its applicability in the context of various statutes.
+45. Noticing the presumptions with regard to the culpable mental state of the accused in
+NDPS Act
+, the Supreme Court in
+Noor Aga v. State of Punjab27
+emphatically protected the norms on fair trial and the rights of an accused by holding:
+"57. It is also necessary to bear in mind that superficially a case may have an ugly look and thereby, prima facie, shaking the conscience of any court but it is well settled that suspicion, however high may be, can under no circumstances, be held to be a substitute for legal evidence.
+58.
+Sections 35
+and
+54
+of the Act, no doubt, raise presumptions with regard to the culpable mental state on the part of the accused as also place burden of proof in this behalf on the accused; but a bare perusal the said provision would clearly show that presumption would operate in the trial of the accused only in the event the circumstances contained therein are fully satisfied. An initial burden exists upon the prosecution and only when it stands satisfied, the legal burden would shift. Even then, the standard of proof required for the accused to prove his innocence is not as high as that of the prosecution. Whereas the standard of proof required to prove the guilt of accused on the prosecution is "beyond all reasonable doubt" but it is ''preponderance of probability' on the accused. If the prosecution fails to prove the foundational facts so as to attract the rigours of
+Section 35
+of the Act, the actus reus which is possession of contraband by the accused cannot be said to have been established.
+(emphasis supplied)
+59. With a view to bring within its purview the requirements of
+Section 54
+of the Act, element of possession of the contraband was essential so as to shift the burden on the accused. The provisions being exceptions to the general rule, the generality thereof would continue to be operative, namely, the element of possession will have to be proved beyond reasonable doubt.
+60. Whether the burden on the accused is a legal burden or an evidentiary burden would depend on the statute in question. The purport and object thereof must also be taken into consideration in determining the said question. It must pass the test of doctrine of proportionality. The difficulties faced by the prosecution in certain cases may be held to be sufficient to arrive at an opinion that the burden on the accused is an evidentiary burden and not merely a legal burden. The trial must be fair. The accused must be provided with opportunities to effectively defend himself."				      (emphasis supplied)
+46. The judgement of
+Noor Aga
+(supra) was affirmed by the majority view in the three Judge judgement rendered by the Supreme Court in
+Tofan Singh Vs. State of Tamil Nadu.28
+47. The presumption of culpable mental state under
+Section 29
+of POCSO Act, 2012 shall now be adverted to. The discussion will commence with the brief observations made in
+State of Bihar Vs. Rajballav Prasad
+alias Rajballav Prasad Yadav29:
+"22. Further, while making a general statement of law that the accused is innocent, till proved guilty, the provisions of
+Section 29
+of the Pocso Act have not been taken into consideration, which reads follows:
+"29. Presumption as to certain offences.--Where a person is prosecuted for committing or abetting or attempting to commit any offence under
+Sections 3
+,
+5
+,
+7
+and
+Section 9
+of this Act, the Special Court shall presume, that such person has committed or abetted or attempted to commit the offence, as the case may be unless the contrary is proved."
+48. The conditions precedent for applying the statutory presumption of culpable intent against an accused were enumerated after a scholarly foundation by Joymalya Bagchi, J. in
+Sahid Hossain Biswas v. State of West Bengal30
+:
+"23. A conjoint reading of the statutory provision in the light of the definitions, as aforesaid, would show that in a prosecution under the
+POCSO Act
+an accused is to prove `the contrary', that is, he has to prove that he has not committed the offence and he is innocent. It is trite law that negative cannot be proved [see
+Sait Tarajee Khimchand v. Yelamarti Satyam
+, (1972) 4 SCC 562, Para-15]. In order to prove a contrary fact, the fact whose opposite is sought to be established must be proposed first. It is, therefore, an essential prerequisite that the foundational facts of the prosecution case must be established by leading evidence before the aforesaid statutory presumption is triggered in to shift the onus on the accused to prove the contrary.
+(emphasis supplied)
+24. Once the foundation of the prosecution case is laid by leading legally admissible evidence, it becomes incumbent on the accused to establish from the evidence on record that he has not committed the offence or to show from the circumstances of a particular case that a man of ordinary prudence would most probably draw an inference of innocence in his favour. The accused may achieve such an end by leading defence evidence or by discrediting prosecution witnesses through effective cross-examination or by exposing the patent absurdities or inherent infirmities in their version by an analysis of the special features of the case. However, the aforesaid statutory presumption cannot be read to mean that the prosecution version is to be treated as gospel truth in every case. The presumption does not take away the essential duty of the Court to analyse the evidence on record in the light of the special features of a particular case, eg. patent absurdities or inherent infirmities in the prosecution version or existence of entrenched enmity between the accused and the victim giving rise to an irresistible inference of falsehood in the prosecution case while determining whether the accused has discharged his onus and established his innocence in the given facts of a case. To hold otherwise, would compel the Court to mechanically accept the mere ipse dixit of the prosecution and give a stamp of judicial approval to every prosecution, howsoever, patently absurd or inherently improbable it may be."
+(emphasis supplied)
+49. The time honoured and time tested rule of evidence that no presumption is absolute, and every presumption is rebuttable forms the basis of the judgement rendered by Manish Pitale, J. in
+Navin Dhaniram Baraiye v. The State of Maharashtra31
+, while interpreting the scope of presumption of culpable intent under
+Section 29
+of the POCSO Act :
+"18. A perusal of the above quoted provision does show that it is for the accused to prove the contrary and in case he fails to do so, the presumption would operate against him leading to his conviction under the provisions of the
+POCSO Act
+. It cannot be disputed that no presumption is absolute and every presumption is rebuttable. It cannot be countenanced that the presumption under
+Section 29
+of the POCSO Act is absolute. It would come into operation only when the prosecution is first able to establish facts that would form the foundation for the presumption under
+Section 29
+of the POCSO Act to operate. Otherwise, all that the prosecution would be required to do is to file a charge sheet against the accused under the provisions of the said Act and then claim that the evidence of the prosecution witnesses would have to be accepted as gospel truth and further that the entire burden would be on the accused to prove to the contrary. Such a position of law or interpretation of the presumption under
+Section 29
+of the POCSO Act cannot be accepted as it would clearly violate the constitutional mandate that no person shall be deprived of liberty except in accordance with procedure established by law.
+(emphasis supplied)
+24. The above quoted views of the Courts elucidate the position of law insofar as presumption under
+Section 29
+of the POCSO Act is concerned. It becomes clear that although the provision states that the Court shall presume that the accused has committed the offence for which he is charged under the
+POCSO Act
+, unless the contrary is proved, the presumption would operate only upon the prosecution first proving foundational facts against the accused, beyond reasonable doubt. Unless the prosecution is able to prove foundational facts in the context of the allegations made against the accused under the
+POCSO Act
+, the presumption under
+Section 29
+of the said Act would not operate against the accused. Even if the prosecution establishes such facts and the presumption is raised against the accused, he can rebut the same either by discrediting prosecution witnesses through cross-examination demonstrating that the prosecution case is improbable or absurd or the accused could lead evidence to prove his defence, in order to rebut the presumption. In either case, the accused is required to rebut the presumption on the touchstone of preponderance of probability."
+(emphasis supplied)
+50. The Kerala High Court in
+Joy V.S. v. State of Kerala32
+, highlighted the limitations of the statutory  presumption under
+Section 29
+of the POCSO Act, 2012 in the backdrop of
+Rajballav Prasad
+(supra) by observing:
+"10. This court is not oblivious to
+Section 29
+of the Act which contains a legislative mandate that the court shall presume commission of the offences by the accused unless the contrary is proved.
+Section 29
+of the Act states that where a person is prosecuted for committing or abetting or attempting to commit any offence under
+Sections 3
+,
+5
+,
+7
+and
+9
+of the Act, the Special Court shall presume, that such person has committed or abetted or attempted to commit the offence, as the case may be, unless the contrary is proved. The court shall take into consideration the presumption under
+Section 29
+of the Act while dealing with an application for bail filed by a person who is accused of the aforesaid offences under the Act (See: State of Bihar v. Rajvallav Prasad, (2017) 2 SCC 178 : AIR 2017 SC 630).
+11. However, the statutory presumption under
+Section 29
+of the Act does not mean that the prosecution version has to be accepted as gospel truth in every case. The presumption does not mean that the court cannot take into consideration the special features of a particular case. Patent absurdities or inherent infirmities or improbabilities in the prosecution version may lead to an irresistible inference of falsehood in the prosecution case. The presumption would come into play only when the prosecution is able to bring on record facts that would form the foundation for the presumption. Otherwise, all that the prosecution would be required to do is to raise some allegations against the accused and to claim that the case projected by it is true. The courts must be on guard to see that the application of the presumption, without adverting to essential facts, shall not lead to any injustice.
+The presumption under
+Section 29
+of the Act is not absolute. The statutory presumption would get activated or triggered only if the prosecution proves the essential basic facts. If the accused is able to create serious doubt on the veracity of the prosecution case or the accused brings on record materials which would render the prosecution version highly improbable, the presumption would get weakened. As held by the Apex Court in
+Siddharam Satlingappa Mhetre v. State of Maharashtra
+, frivolity in prosecution should always be considered and in the event of there being some doubt as to the genuineness of the prosecution, in the normal course of events, the accused is entitled to an order of anticipatory bail. No inflexible guidelines or straitjacket formula can be provided for grant or refusal of anticipatory bail. It should necessarily depend on facts and circumstances of each case in consonance with the legislative intention."                                                                    						                  (emphasis supplied)
+51. The following questions were framed by the Delhi High Court while determining the scope of
+Section 29
+of the POCSO Act, 2012 and the stage of its applicability in
+Dharmander Singh v. State (Govt. of NCT of Delhi
+)33:
+"41...iii. When and at what stage does the 'presumption of guilt' as engrafted in
+section 29
+get triggered ? and
+ 
+iv. Does the presumption apply only at the stage of trial or does it also apply when a bail plea is being considered ?
+v. Does the applicability or rigour of
+section 29
+depend on whether a bail plea is being considered before or after charges have been framed ?"
+52.  Bhambhani, J. in
+Dharmander Singh
+(supra), summed up the law in the following manner:
+"50. Drawing from the verdict of the Supreme Court and the views taken by the various High Courts in the above cases, in essence, the position is that to rebut a presumption, first, the presumptive proposition must itself be formulated based on relevant and credible material ; and second, the accused must know what presumption he has to rebut. It is not enough to say that the accused has been implicated by the police on charges under
+sections 3
+,
+5
+,
+7
+, and/or 9 of the POSCO Act. At the very least, the charges should have been framed by court against the accused under one or more of those sections for the presumption to arise; and mere implication by the police is not enough.
+51. Only when the trial court frames charges, does it form a prima facie opinion that there is a case for the accused to answer and defend. At the stage of framing charges, the trial court may decide not to frame charges against an accused under any of the sections mentioned in
+section 29
+but under some other provision; or, it may not frame charges against all accused persons under those sections. So, the presumption under
+section 29
+cannot arise before charges are framed.							     (emphasis supplied)
+52. If the presumption of guilt is taken to arise even before charges are framed, say when a court is considering a bail application, then the court will have to afford to the accused an opportunity to prove that he has not committed the offence; which would require the court to conduct a mini-trial, even when it is only considering a bail plea. What then would remain to be done during the trial itself ? In the opinion of this court it is not the purport of
+section 29
+that a mini-trial should be conducted at the stage of deciding a bail application. No such concept is known to law. Requiring production and analysis of evidence to form an opinion on the merits of the allegations; and to express a view on such evidence, is certainly not within the remit of a court considering a bail plea.                         							      (emphasis supplied)
+53.  Reprising the fundamental tenets of criminal jurisprudence and processual landmarks in constitutional law,
+Dharmander Singh
+(supra) explained the ratio of
+Rajballav Prasad
+(supra) by holding:
+"66. That
+section 29
+has been engrafted in the
+POCSO Act
+does not mean that the presumption of innocence, which is a foundational tenet of criminal jurisprudence, is to be thrown to the winds. If
+section 29
+is so interpreted as to apply it to the stage even before charges are framed, it would not pass constitutional muster since
+Article 21
+of our Constitution requires that all substantive as well as procedural provisions must be reasonable, just and fair, as held inter alia in Maneka Gandhi (supra). Such interpretation of
+section 29
+would also render the right of the accused to a fair trial nugatory and dead letter, which would again do violence to the constitutional guarantee contained in
+Article 21.
+67. Applying
+section 29
+to bail proceedings at a stage before charges are framed, would in effect mean that the accused must prove that he has not committed the offence even before he is told the precise offence he is charged with, which would do violence to all legal rationality.
+68. In view of the above discussion and after considering the opinion of the Supreme Court and the views taken by the other High Courts, this court is persuaded to hold that the presumption of guilt engrafted in
+section 29
+gets triggered and applies only once trial begins, that is after charges are framed against the accused but not before that. The significance of the opening words of
+section 29
+"where a person is prosecuted" is that until charges are framed, the person is not being prosecuted but is being investigated or is in the process of being charged. Accordingly, if a bail plea is considered at any stage prior to framing of charges,
+section 29
+has no application since upto that stage an accused is not being prosecuted.
+69. Therefore, if a bail plea is being considered before charges have been framed,
+section 29
+has no application ; and the grant or refusal of bail is to be decided on the usual and ordinary settled principles.
+70. Now coming to a scenario where a bail plea is being considered at a stage after charges have been framed, in keeping with the observations of the Supreme Court in
+Rajballav Prasad
+(supra), the presumption of guilt contained in
+section 29
+would get triggered and will have to be "taken into consideration".
+71. However, the dilemma would remain as to how the presumption of guilt contained in
+section 29
+is to be applied even after charges have been framed, when the accused has not been given the opportunity to rebut such presumption. When
+section 29
+engrafts the presumption of guilt against the accused, it also affords an opportunity to the accused to rebut the presumption by proving to the contrary. It cannot possibly be that the court should invoke half the provision of
+section 29
+while ignoring the other half, much less to the detriment of the accused. But even after charges are framed, the accused does not get the opportunity to rebut the presumption or to prove the contrary by leading defence evidence, until prosecution evidence is concluded. It would be anathema to fundamental criminal jurisprudence to ask the accused to disclose his defence; or, worse still, to adduce evidence in his defence even before the prosecution has marshalled its evidence. Again therefore, even for a stage after charges have been framed,
+section 29
+cannot be applied in absolute terms to a bail plea without doing violence to the 'due process' and 'fair trial' tenets read into
+Article 21
+of our Constitution.
+74. As always, when faced with such dilemma, the court must apply the golden principle of balancing rights. In the opinion of this court therefore, at the stage of considering a bail plea after charges have been framed, the impact of
+section 29
+would only be to raise the threshold of satisfaction required before a court grants bail. What this means is that the court would consider the evidence placed by the prosecution along with the charge-sheet, provided it is admissible in law, more favorably for the prosecution and evaluate, though without requiring proof of evidence, whether the evidence so placed is credible or whether it ex facie appears that the evidence will not sustain the weight of guilt."
+54. With the advantage of good authorities, the discussion on this issue can now be concluded with the following summation:
+1. The presumptions contemplated by law may vary from statute to statute as regards their nature and manner of applicability.
+3. Application of the presumptions contemplated in statutes does not preclude the courts from considering peculiar facts and circumstances of a case, nor do they compel the courts to accept the prosecution version as a gospel truth without due application of mind.
+2. The stage and manner in which the presumption shall apply will depend on the statutory scheme, facts and circumstances of a case and the nature of evidence.
+4. All presumptions are rebuttable. A challenge can weaken or rebut the presumption.
+5. The presumptions shall be applied in a manner that they are consistent with the first principles of fair trial in criminal jurisprudence and due process in constitutional processual jurisprudence.
+6. The condition precedent for triggering the presumption is that the primary or foundational facts have to be established by the prosecution by attaining standard of evidence which is beyond reasonable doubt and in accordance with law.
+7. Presumptions created in a statute will be attracted by the following process. In the first instance after the primary or foundational facts have to be established by applicable standards of evidence. At this stage, the accused will be alerted to his right to assail the presumption. The accused has to be afforded an opportunity to rebut the presumption. After these prerequisites are satisfied, the presumption may ripen into an established fact and made the basis of a judicial finding upon consideration of evidences in the facts and circumstances of a case.
+7. The manner and stage of triggering the presumption regarding age related documents under
+Section 94
+of the JJ Act for a juvenile offender shall differ from the case of a minor victim and against an adult accused under the
+POCSO Act
+.
+8. Prematurely triggering the presumptions under
+Section 94
+of the JJ Act, 2015 and
+Section 29
+of the POCSO Act, 2012 or inappropriately applying them at the stage of bail will violate the law and cause miscarriage of justice.
+VII. Norms of fair procedure in criminal jurisprudence and presumptions under
+Section 94
+of JJ Act and
+Section 29
+of the POCSO Act:
+55. Fair trial is the right of an accused and defines the credibility of the criminal justice system. The right of an accused to fair trial and bail also flows from settled canons of criminal jurisprudence and constitutional imperative of fair procedure enshrined in
+Article 21
+of the Constitution of India (see
+Maneka Gandhi vs. Union of India34
+).
+Also see
+Dharmender Singh
+(supra) which imports holdings on constitutional processual jurisprudence into criminal trial procedures and bails to uphold the rights of an accused.
+56. Some of the established norms of fair trial distilled from authorities on criminal and constitutional processual jurisprudence are these. An accused is innocent till he is proven guilty in accordance with law. In fact "presumption of innocence is a human right". (See
+Narendra Singh v. State of M.P35
+and
+Ranjitsing Brahmajeetsing Sharma v. State of Maharashtra36
+). The burden of proving the charge against an accused lies on the prosecution. The prosecution cannot be relieved of such burden in a casual manner. The standards of proving guilt in a criminal case is to prove the incriminating fact beyond reasonable doubt. Full opportunity has to be afforded to an accused to adduce admissible evidence in his defence.  The courts have a duty to ensure fairness of a trial.
+57. Upon appraising evidence in case multiple conclusions can be drawn, the one in favour of an accused shall be preferred by the court. Similarly, while interpreting a criminal provision if more than one view is possible, the court shall adopt the interpretation favourable to the accused.
+58. Juveniles in conflict with law are treated as a separate class by the legislature.
+The JJ Act, 2015
+is alert to the plight of juvenile offenders and also addresses issues raised in prosecution of juveniles. The enactment is reformative in intent and ameliorative in its content.
+The JJ Act, 2015
+clips procedure and limits evidence to shorten the period of trial and to soften the rigours of criminal prosecution for a juvenile offender. Such measures are intended to pave the way for the successful integration of juvenile offenders as responsible citizens in the society.
+59. Adult offenders being prosecuted under the
+POCSO Act
+are not similarly placed by the legislature as juvenile accused.
+60.
+Section 94
+of the JJ Act, 2015 was devised for juveniles in conflict with law but it is also applied to determine the age of child victims of sexual offences committed by adult accused. While determining a POCSO victim's age under Section 94 of the J. J. Act, 2015, it has to be acknowledged that there is a difference in the claim of juvenility raised by the accused, and the claim of minority of a victim set up by the prosecution.
+61. Interpretation of the provisions of
+Section 94
+of the JJ Act, 2015 read with Rule 54(18)(iv) of the JJ Rules, 2016 has to be made in a manner that it does not lead to miscarriage of justice for adult offenders accused under the
+POCSO Act
+.
+Section 94
+of the JJ Act, 2015, abridges the age determination procedure to benefit juvenile offenders, but its purpose is not to undermine the rights of adult accused.
+62.
+Under the JJ Act, 2015
+age of a juvenile offender is determined by "seeking evidence only if the Board/Committee entertains reasonable doubt as to whether person brought before it is a child or not" [See
+Rishipal Singh
+(supra)]. However, the age of a child victim has to be established by evidence beyond reasonable doubt in the first instance before charges can be brought home against an adult accused under the
+POCSO Act
+.
+63. Benefit of two years margin of error in medical determination of age is given to juvenile offenders [See para 33.8
+Rishipal Singh
+(supra)]. But such relaxation cannot be given while considering a medical report determining the age of a victim in a manner prejudicial to the right of the adult accused.
+64.
+Section 94
+of the JJ Act, 2015 does not lighten the burden of the prosecution to prove primary facts by adducing evidence which reaches the standard of "beyond reasonable doubt". The primary facts to trigger the presumption in the context of the age of a victim are the age related documents mentioned in Section 94 of the J J Act, 2015.
+65. Once the said documents are proved "beyond reasonable doubt" the prosecution may invoke the presumption of correctness of age recorded therein and contest introduction of further evidence. However, even at that stage the court may of its own volition or at the instance of the accused decline such plea and receive additional evidence to seek out true facts and serve justice. The courts also have an obligation to ensure that best evidence is produced at the trial.
+66. Rights of an accused to assail the prosecution evidences relating to the age of the victim or to adduce further evidence to rebut the prosecution case can not be infringed.
+67.
+Section 29
+of the POCSO Act, 2012 creates a presumption of culpable intent against the accused person. The provision cannot be read to mean that the accused shall be presumed to be guilty at the lodgement of the F.I.R. or criminal complaint till proven innocent at the trial. The presumption of innocence which is a fundamental tenet of criminal jurisprudence cannot be turned on its head by a faulty interpretation of the provision. The prosecution has to establish primary facts after attaining the required standards of evidence to trigger the presumption of culpable intent.
+VIII. Right of Bail:
+a. Constitutional Perspectives:
+68.  The right to bail is derived from statute but cannot be isolated from constitutional oversight.
+69.  Good authority has long entrenched the right of an accused to seek bail in the charter of  fundamental rights assured by the Constitution of India.
+70. Bail jurisprudence was firmly embedded in the constitutional regime of fundamental rights in
+Gudikanti Narasimhulu and Others Vs. Public Prosecutor, High
+Court of Andhra Pradesh37. Casting an enduring proposition of law in eloquent speech, V.R. Krishna Iyer, J. held:
+"1. Bail or jail?" -- at the pre-trial or post-conviction stage -- belongs to the blurred area of the criminal justice system and largely hinges on the hunch of the Bench, otherwise called judicial discretion. The Code is cryptic on this topic and the Court prefers to be tacit, be the order custodial or not. And yet, the issue is one of liberty, justice, public safety and burden of the public treasury, all of which insist that a developed jurisprudence of bail is integral to a socially sensitized judicial process. As Chamber Judge in this summit court I have to deal with this uncanalised case-flow, ad hoc response to the docket being the flickering candle light. So it is desirable that the subject is disposed of on basic principle, not improvised brevity draped as discretion. Personal liberty, deprived when bail is refused, is too precious a value of our constitutional system recognised under
+Article 21
+that the curial power to negate it is a great trust exercisable, not casually but judicially, with lively concern for the cost to the individual and the community. To glamorize impressionistic orders as discretionary may, on occasions, make a litigative gamble decisive of a fundamental right. After all, personal liberty of an accused or convict is fundamental, suffering lawful eclipse only in terms of "procedure established by law". The last four words of
+Article 21
+are the life of that human right."
+71. Engagement of fundamental rights in bail jurisprudence is a constant in constitutional law.
+72. The nexus of fundamental liberties of the citizens  and the right of bail came to the fore in
+Hussain and another Vs. Union of India38
+, when the Supreme Court was alerted to the issue of delay in consideration of grant of bail  applications in the courts.
+In
+Hussain
+(supra), it was enjoined:
+"22. Timeline for disposal of bail applications ought to be fixed by the   High Court."
+"29.1.1. Bail applications be disposed of normally within one week;"
+73. Nearer home the Allahabad High Court in
+Emperor Vs. H.L. Hutchinson
+and another39 stated that grant of bail is the rule and refusal is the exception on the foot of the following reasons:
+"11. The principle to be deduced from
+sections 496
+and
+497
+of the Criminal Procedure Code, therefore, is that grant of bail is the rule and refusal is the exception. That this must be so is not at all difficult to see. An accused person is presumed under the law to be innocent till his guilt is proved. As a presumably innocent person he is entitled to freedom and every opportunity to look after his own case. It goes without saying that an accused person, if he enjoys freedom, will be in a much better position to look after his case and to properly defend himself than if he were in custody. One of the complaints made by the applicants in this case is that their letters sent from the custody have been opened and inspected and censored, and, therefore, they were not in a position to conduct their defence with the aid of such friends as may he outside the prison. As I have said, it is obvious that a presumably innocent person should have his freedom to enable him to establish his innocence."
+74. The Supreme Court set its face against restrictions on the power of the courts to grant bail in
+Ranjitsingh Brahmajeetsing Sharma v. State of Maharashtra40
+by observing:
+"38. We are furthermore of the opinion that the restrictions on the power of the court to grant bail should not be pushed too far."
+75. Constitutionality of onerous conditions for grant of bail imposed by
+Section 45
+of the Money Laundering Act, 2002 was in issue in
+Nikesh Tarachand Shah Vs. Union of India
+and another41. This narrative will profit from a detailed consideration of the judgment.
+76. The Supreme Court in
+Nikesh Tarachand
+(supra) predicated its conclusions by delving into the jurisprudential origins of bails:
+"18. What is important to learn from this history is that Clause 39 of the Magna Carta was subsequently extended to pre-trial imprisonment, so that persons could be enlarged on bail to secure their attendance for the ensuing trial. It may only be added that one century after the Bill of Rights, the US Constitution borrowed the language of the Bill of Rights when the principle of habeas corpus found its way into
+Article 1
+Section 9
+of the US Constitution, followed by the Eighth Amendment to the Constitution which expressly states that, "excessive bail shall not be required, nor excessive fines imposed, nor cruel and unusual punishments inflicted". We may only add that the Eighth Amendment has been read into
+Article 21
+by a Division Bench of this Court in
+Rajesh Kumar v. State [Rajesh Kumar
+v. State, (2011) 13 SCC 706 : (2012) 2 SCC (Cri) 836] at paras 60 and 61."
+77. The enquiry into the constitutional validity of the assailed provisions began with the tests for violation of
+Article 14 "
+both in its discriminatory aspect and its manifestly arbitrary aspect".
+78. The discussion then proceeded to probe the effect of
+Article 21
+of the Constitution of India on the offending provisions for grant of bail. This enquiry was overlaid with a consideration of authorities "on the concept of due process in our constitutional jurisprudence whenever the court has to deal with a question affecting life and liberty of citizens".
+79. Finally in
+Nikesh Tarachand
+(supra), the onerous conditions for grant of bail in
+Section 45 (1)
+of the Prevention of Money Laundering Act, 2002, were declared unconstitutional being violative of
+Articles 14
+and
+21
+of the Constitution of India:
+"46. We must not forget that
+Section 45
+is a drastic provision which turns on its head the presumption of innocence which is fundamental to a person accused of any offence. Before application of a section which makes drastic inroads into the fundamental right of personal liberty guaranteed by
+Article 21
+of the Constitution of India, we must be doubly sure that such provision furthers a compelling State interest for tackling serious crime. Absent any such compelling State interest, the indiscriminate application of the provisions of
+Section 45
+will certainly violate
+Article 21
+of the Constitution. Provisions akin to
+Section 45
+have only been upheld on the ground that there is a compelling State interest in tackling crimes of an extremely heinous nature."             (emphasis supplied)
+80. The following statement of law propounded in
+Maneka Gandhi vs. Union of India42
+will fortify this narrative:
+"81... Procedure established by law", with its lethal potentiality, will reduce life and liberty to a precarious plaything if we do not ex necessitate import into those weighty words an adjectival rule of law, civilised in its soul, fair in its heart and fixing those imperatives of procedural protection absent which the processual tail will wag the substantive head. Can the sacred essence of the human right to secure which the struggle for liberation, with "do or die" patriotism, was launched be sapped by formalistic and pharisaic prescriptions, regardless of essential standards? An enacted apparition is a constitutional illusion. Processual justice is writ patently on
+Article 21.
+It is too grave to be circumvented by a black letter ritual processed through the legislature."
+81.
+In
+Arnab Manoranjan Goswami Vs. State of Maharashtra and Others,43
+the status of liberty in our constitutional value system, realities of the criminal justice process, and nature of the right of bail came up squarely for consideration.
+82. The Supreme Court in
+Arnab Goswami
+(supra) was cognizant of the tendency to misuse criminal law  and held unequivocally that the courts have to ensure that criminal law does not become "weapon for the selective harassment of the citizens".
+83. The self imposed fetters on grant of bail under
+Article 226
+of the Constitution of India were removed. The first principles of writ jurisdiction for upholding the fundamental liberties of the citizens were reiterated:
+"63....However, the High Court should not foreclose itself from the exercise of the power when a citizen has been arbitrarily deprived of their personal liberty in an excess of state power.
+64. While considering an application for the grant of bail under
+Article 226
+in a suitable case, the High Court must consider the settled factors which emerge from the precedents of this Court."
+84. Reinforcing the connection between the concept of liberty and the process of criminal law, the Supreme Court in
+Arnab Goswami
+(supra), discussed the attributes of liberty and delineated the duties of courts:
+"67. Human liberty is a precious constitutional value, which is undoubtedly subject to regulation by validly enacted legislation..... Courts must be alive to the need to safeguard the public interest in ensuring that the due enforcement of criminal law is not obstructed. The fair investigation of crime is an aid to it. Equally it is the duty of courts across the spectrum - the district judiciary, the High Courts and the Supreme Court - to ensure that the criminal law does not become a weapon for the selective harassment of citizens. Courts should be alive to both ends of the spectrum - the need to ensure the proper enforcement of criminal law on the one hand and the need, on the other, of ensuring that the law does not become a ruse for targeted harassment. Liberty across human eras is as tenuous as tenuous can be. Liberty survives by the vigilance of her citizens, on the cacophony of the media and in the dusty corridors of courts alive to the rule of (and not by) law. Yet, much too often, liberty is a casualty when one of these components is found wanting."
+"68...Our courts must ensure that they continue to remain the first line of defense against the deprivation of the liberty of citizens. Deprivation of liberty even for a single day is one day too many. We must always be mindful of the deeper systemic implications of our decisions."
+85.  In view of the constitutional moorings of the right of bail, curtailment of the said right cannot be permitted in absence of an express statutory mandate or contrary to the constitutional scheme. Nor can restrictions of on right of bail be readily inferred from a statute if other interpretations are possible.
+VIII. b. Parameters of bail under the
+POCSO Act
+:
+86. The Court while examining a bail application has to balance and reconcile diverse objectives, namely, the imperative of constitutional liberties of an accused, the necessity of bringing an offender to fair and speedy justice, and the mandate of upholding the law. In POCSO cases the victim has a statutory right to be heard.
+87. Parameters of bail are well settled by judicial precedents and practices achieve the aforesaid aims in full measure.
+88. Bails under
+POCSO Act
+offences have to be considered under
+Section 439
+Cr.P.C. and in accordance with the settled parameters of grant of bail which include nature and gravity of the offences, and the likelihood of an accused having committed the offence. The possibility of the accused reoffending, influencing witnesses and tampering with evidence or being a flight risk are also relevant factors to be considered while deciding a bail application.
+89.
+In POCSO Act
+related offences the age of a victim is a critical factor which will influence the decision to grant bail.
+90. No provisions circumscribing the right of bail can be distilled from the scheme of
+POCSO Act
+. The existing norms of bail jurisprudence are sufficient to effectively implement the
+POCSO Act
+and to serve justice. Of course, the threshold of satisfaction of the Court while granting bail may vary in the facts and circumstances of each case.
+IX. Bails under
+POCSO Act
+: Conclusions:
+a.
+Section 94
+of the JJ Act, 2015 & bails under
+POCSO Act
+:
+91. Applying the provisions of
+Section 94
+of the JJ Act, 2015, at the stage of bail would result in consequences not intended by the legislature. In bail proceedings curtailing the rights of an accused to assail the age of the victim stated in the prosecution case on the foot of correctness of documents enumerated in
+Section 94
+of the JJ Act, 2015, would be contrary to the scheme of the
+POCSO Act
+and violate the right of bail of the accused.
+92.  It would also be outrightly unfair to an accused to cause his imprisonment on the foot of documents and evidences which he can not freely challenge in a bail proceeding.
+93. In wake of the preceding narrative, the manner of consideration of age of a victim in a bail application under the
+POCSO Act
+shall be guided as follows:
+I. The procedure for determination of a victim's age provided in
+Section 94
+of the JJ Act, 2015 read with JJ Rules, 2016 shall not apply to bail applications, though the documents therein are liable to be considered. Age of victim as per procedure prescribed in
+Section 94
+of the JJ Act, 2015 is determined conclusively only in the trial.
+II. The line of enquiry and relevant factors to assess the age of the victim in a bail application under the
+POCSO Act
+offences are these. The consideration of the age related documents mentioned in
+Section 94
+of the JJ Act, 2015 i.e. school certificate (including matriculation), date of birth certificate issued by a local body, and medical report for age determination as produced by the prosecution is a good start point in the process.
+III. The accused has a right to assail the veracity of the age   of the victim as stated in the prosecution case.
+IV. The court while deciding the said bail application is obligated to independently:
+A. Examine the challenge laid to the victim's age by the accused applicant.
+B. Evaluate credible doubts about the age of the victim.
+V. The assessment of age in a bail order is of a tentative nature, and is based on probative value of documents which are yet to be proved or statements of witnesses who are still to be examined in court. Such determination by a court is not conclusive and is made only for the limited purpose for deciding the bail application.
+VI. Same parameters shall apply to the bail applications filed at a different stages of trial.  However, with each stage of the trial, the threshold of the satisfaction of the court may be raised in the facts and circumstances of the case. Heightened threshold of satisfaction means the duty of the court to give full weight to prosecution evidence, and due regard to the defence case while considering grant of bail.
+VII. It is not advisable to lay down an inflexible or a straitjacket formula for grant of bail which will fit all cases. Practices and precedents in point are a reliable guide for the Court while exercising its judicial discretion in bail proceedings and a good defence against arbitrary decisions.
+IX. b. Conclusions :
+Sections 29
+and
+30
+of POCSO Act & bails under the
+POCSO Act
+:
+94. The consideration of presumption of culpable intent under
+Sections 29
+and
+30
+of the POCSO Act and as contemplated in
+Rajballav
+(supra) at the stage of bail shall be governed by the principles of evidential law as regard presumptions and the holdings in
+Tofan Singh
+(supra),
+Joy V.S.
+(supra),
+Navin Dhaniram Baraiye
+(supra),
+Dharmander Singh
+(supra) and
+Sahid Hossain Biswas
+(supra) and shall be made in the following manner:
+1. Presumption of culpable intent under
+Section 29
+of the POCSO Act, 2012 will be attracted only in the manner and stage discussed earlier in the judgement.
+2. Presumption of culpable intent of the accused under
+Sections 29
+of the POCSO Act, 2012 shall not apply at the stage of pretrial bails.
+3. With each passing stage of trial, the threshold of satisfaction of the court to grant bail will be enhanced depending on the facts and circumstances of a case and the evidences introduced at the trial.
+4.  At all stages of prosecution the right of an accused to tender his defence or to assail the presumption of culpable intent cannot be restricted. The court has to consider the defence of the accused against the presumption of culpable intent to commit the offence.
+X. Order on Bail Application:
+95. By means of this bail application the applicant has prayed to be enlarged on bail in Case Crime No. 445 of 2021 at Police Station Majhola, District Moradabad, under
+Sections 376
+,
+506
+IPC and
+Sections 3
+/
+4
+POCSO Act and
+Sections 3(2)(v)
+,
+3(2)(va)
+,
+3(1)(2)
+of SC/ST Act.
+96. The applicant is on interim bail granted by this Court on 01.04.2022.
+97. The following arguments made by Shri S. P. Tiwari, learned counsel on behalf of the applicant, which could not be satisfactorily refuted by Shri Rishi Chaddha,  learned AGA from the record, entitle the applicant for grant of bail:
+(i). The prosecution case set out in the FIR states that the age of the victim is 15 years.
+(ii). The victim in her statement under
+Section 161
+Cr.P.C. has stated that she is 16 years of age. As per the transfer certificate issued by the school her age is 13 years and 3 months.
+(iii). There are material inconsistencies in the age related evidence relied on by the prosecution which discredits the prosecution case.
+(iv). The victim has been falsely shown as minor only to aggravate the offence and cause the imprisonment of the applicant under the stringent provisions of the
+POCSO Act
+.
+(v). The victim is infact a major. Medical examination to determine the correct age of the victim as per the latest scientific and medical protocol by eminent doctors from a reputed institution was not got done as it would falsify the prosecution case.
+(vi). The applicant and the victim were intimate.
+(vii). The F.I.R. is a result of an opposition of the victim's parents to her relationship with the applicant.
+(viii). The statement of the victim is tutored and made at the behest of her parents only to deflect attention from the conduct of the victim and to save the failing prosecution.
+(ix). No medical evidence corroborates forceful assault.
+(x). There is no evidence of forceful entry in the house of the victim. The victim was a consenting party.
+(xi). The applicant does not have any criminal history apart from the instant case.
+(xii). The applicant is not a flight risk. The applicant being a law abiding citizen has always cooperated with the investigation and undertakes to cooperate with the court proceedings. There is no possibility of his influencing witnesses, tampering with the evidence or reoffending.
+98. In the light of the preceding discussion and without making any observations on the merits of the case, the bail application is allowed.
+99. Let the applicant- Monish be released on bail in the aforesaid case crime number, on furnishing a personal bond and two sureties each in the like amount to the satisfaction of the court below. The following conditions be imposed in the interest of justice:-
+(i) The applicant will not tamper with the evidence or influence any witness during the trial.
+(ii) The applicant will appear before the trial court on the date fixed, unless personal presence is exempted.
+Order Date :- 09.02.2023
+ 
+Dhananjai Sharma

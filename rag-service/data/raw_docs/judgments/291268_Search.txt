@@ -1,0 +1,664 @@
+Title: Search
+Court: High Court
+Date: Unknown Date
+Citation: citations: 1999(1)ALD(CRI)224, 1998CRILJ1762
+Source: https://indiankanoon.org/doc/291268/
+
+[Cites
+53
+, Cited by
+9
+]
+Madras High Court
+Natturasu And Ors. vs The State on 8 January, 1998
+Equivalent citations: 1999(1)ALD(CRI)224, 1998CRILJ1762
+Author:
+M. Karpagavinayagam
+Bench:
+M. Karpagavinayagam
+ORDER
+ 
+
+M. Karpagavinayagam, J.
+1. The short question which is of genera] importance is, whether the power of the High Court or Sessions Court to grant anticipatory bail under
+Section 438
+Cr.P.C. comes to an end after the Magistrate has taken cognizance of non-bailable offence and issue process, namely, warrant for arrest against the accused ?
+2. The probe into the question referred above would incidentally give rise to several subsidiary questions also as given below :-
+(1) What is the meaning of Anticipatory bail ?
+(2) What is the scope, of
+Section 438
+Cr.P.C. ?
+(3) What is the period of duration of anticipatory bail ?
+(4) What is the stage at which
+Section 438
+, Cr.P.C. could be invoked ?
+(5) What is meant by the accusation ?
+(6) What is the meaning of the word "arrest" ?
+(7) By whom arrest could be effected ?
+3. Before dealing with these questions, let us, at the outset, refer Section 438 Cr.P.C.
+438. Direction for grant of bail to person apprehending arrest.- (1) When any person has reason to believe that he may be arrested on an accusation of having committed a non-bailable offence, he may apply to the High Court or the Court of Session for a direction under this section; and that Court may, if it thinks fit, direct that in the event of such arrest; He shall be released on bail.
+(2) When the High Court or the Court of Session makes a direction Under Sub-section (1), it may include such conditions in such directions in the light of the facts of the particular case, as it may think fit, including-
+(i) to (iii)...
+(iv) such other condition as may be imposed under Sub-section (3) of
+Section 437
+; as if the bail were granted under that section.
+(3) If such person is thereafter arrested without warrant by an officer in-charge of a police station on such accusation, and is prepared either at the time of arrest or at any time while in the custody of such officer to give bail, he shall be released on bail; arid if a Magistrate taking cognizance of such offence decides that a warrant should be issued in the first instance against that person, he shall issue a bailable warrant in conformity with the direction of the Court under Sub-section (1).
+4. In
+Section 438(1)
+Cr.P.C. there are two essential requirements, viz., (1) reason to believe that a person may be arrested; (2) such an arrest is on an accusation of having committed a non-bailable offence. Only when these requirements are fulfilled, the High Court or the Sessions Court could entertain the application for anticipatory bail and then consider the facts and circumstances of the case, in order to find out whether it is a fit case for anticipatory bail.
+5. The petitioner must show that he has reason to believe that he may be arrested for a non-bailable offence. The use of the expression "reason to believe" shows that the apprehension of the petitioner that he may be so arrested must be founded on reasonable grounds. Mere 'fear' is not 'belief. It is not merely enough for the petitioner to. show that he has some sort of a vague apprehension that some one is going to make an accusation against him, in pursuance of which he may be arrested.
+6. The grounds on which the belief of the petitioner is based that he may be arrested for a non-bailable offence, must be capable of being examined by the Court objectively, because only then, the High Court or the Court of Session can determine whether the petitioner has reason to believe that he may be so arrested.
+7. A belief can be said to be founded on reasonable grounds only if there is something tangible on the basis of which, it can be said that that the petitioner's apprehension that he may be arrested is genuine.
+8. The specific events and facts must be disclosed in the affidavit with the petition filed by the the petitioner in order to enable the Court to Judge the reasonableness of his belief for the exercise of the power conferred by the section.
+9. Therefore, the Court which grants anticipatory bail must take care to specify the non-bailable offence or offences in respect of which alone the order will be effective.
+10. What is the meaning of anticipatory bail? There is no much of difference between the Bail and Anticipatory bail. The only distinction between Bail and Anticipatory bail is that wheras the former is granted after arrest and therefore means release from the custody of the police, the latter is granted in anticipation of arrest and is therefore effective at the very moment of arrest. As such, the pre-arrest bail and post-arrest bail are one and the same, since both would relate to the release after arrest.
+11. From the collocation and scheme of Chapter XXXIII and
+Section 438
+Cr.P.C, it becomes explicitly clear that the legislature intended to bring anticipatory bail within the category of bail and not to treat it as something different from bail.
+12. Therefore, we can straightway trace out the meaning of the word 'bail' as found in the various judgments of the Supreme Court and the Law Dictionaries.
+13. The 'bail' means as per Wharton's Law Lexicon, to "set at liberty a person arrested on security being taken for his appearance'.
+14. As per the Encyclopaedia Britanhica, the bail is a procedure by which a Judge :or Magistrate sets at liberty one who has been arrested, upon receipt of security to ensure the release prisoner's latter appearance in Court for further proceedings.
+15. The Shorter Oxford English Dictionary gives the meaning for 'Bail Bond' as security given for his appearance at a time and place assigned. 'Bail' means temporary release from imprisonment on finding sureties or security to appear for trial.
+16. The meaning of 'Bail' as given in the Websters Encyclopaedic Unabridged Dictionary of the English Language is "to grant or obtain the liberty (of a person under arrest) on security given for his appearance when required as in Court for trial.
+17. Roget's Thesaurus of English Words and Phrases defines 'Bail' as security, surety, guaranty, etc.
+18. The Law Lexicon defines Bail Bond as "an instrument executed by one or more sufficient sureties and also by the person arrested, and conditioned for his appearance in the Court, out of which the arresting process is issued or any superior Court as may be directed."
+19.
+In
+Nagendra v. King Emperor
+AIR 1924 Cal 476 : 1924 (25) Cri LJ 732, it is held that the object of the bail is to secure the attendance of the accused at the time of the trial and that the proper test to be applied for the solution of the question whether bail should be granted or not is whether it is probable that the party will appear to take his trial.
+20. Under
+Section 441
+of Cr.P.C., when a person is released on bail, he is asked to execute a bond with sureties that such person shall appear before the Court to answer the charge levelled against him.
+21.
+In
+G. Narasimhulu v. Public Prosecutor
+the Apex Court held that the requirement for bail is merely to secure the attendance of the prisoner for trial and that it is the duty of the Court to admit the accused to bail, wherever practical, unless there are strong grounds for supposing that such persons would not appear to take the trial.
+22. Thus, it is clear that the object of the bail is to secure the attendance of the accused at the trial. The accused person who enjoys freedom is in a much better position to look after his case and to properly defend himself in, the trial than if he is in custody.
+23. In other words, as the Apex court holds, a presumed innocent person must have his freedom in the form of bail to enable him to establish his innocence at the trial.
+24. In other words, 'bail' connotes the process of procuring the release of an accused charged with certain offence by ensuring his future attendance in the Court for trial and compelling him to remain within the jurisdiction of the Court.
+25. The purpose of bailing out before the trial is to secure the presence of the accused when required, when there is the hardship of incarceration, before the guilt has been proved, while the presumption of innocence is to be given effect to.
+26. The act of arrest directly affects the freedom of movement of a person arrested. An order of bail gives back the accused that freedom, on condition that he would appear to take his trial.
+27. The effect of granting bail is, accordingly not to set the prisoner free from jail or custody, but to release him from the custody of law and to entrust him to the custody of law and to entrust him to the custody of his sureties who are bound to produce him to appear at his trial.
+28. So, the very same analogy, as indicated earlier, would be applicable to the anticipatory bail also.
+29. Section 438(2)(iv) (Anticipatory Bail) would provide for the imposition of condition as incorporated under Sub-section (3) of Section 437, Cr.P.C.
+30.
+Section 437(3) (Bail)
+enjoins that Court may impose any condition which the Court considers necessary in order to ensure that such person shall attend in accordance with the conditions of the bond executed under this Chapter.
+31.
+Section 441
+which falls under this Chapter says that the bail bond executed by the accused shall bind the person released on bail to appear before the Court to answer the charge. Thus, meaning of Bail or Anticipatory bail is the release of accused from custody to ensure his presence in the trial.
+32. Now, let us go to the scope of Section 438 of Cr.P.C.
+33. The
+Cr.P.C
+. 1898 did not contain any specific provision corresponding to the present
+Section 438
+. The need for amendment to the
+Cr.P.C
+. was felt for a long time as expressed by the various High Courts. The suggestions were made by different quarters in order to make the Code more effective.
+34. The Law Commission of India in its 41st Report, pointed out the necessity of introducing a provision in the Code enabling the High Court and the Court of Session to grant "anticipatory bail". The suggestion is as follows :-
+The necessity for granting anticipatory bail arises mainly because sometimes influential persons try to implicate their rivals in false cases for the purpose of disgracing them, or for other purposes by getting them detained in jail for some days.... Apart from false cases, where there are reasonable grounds for holding that a person accused of an offence is not likely to abscond, or otherwise misuse his liberty while on bail, there seems no justification to require him first to submit to custody, remain in prison for some days and then apply for bail.... We are further of the view that this special power should be conferred only on the High Court and the Court of Session, and that the order should take effect at the time of arrest or thereafter.
+35. The Law Commission further observed that there is no necessity to lay down in the statute certain conditions as provided in
+Section 437(1)
+, under which alone anticipatory bail could be granted and that the question of granting such anticipatory bail should be left "to the discretion of the Court" and ought not to be fettered by the statutory provision itself, since the discretion was being conferred upon superior courts which were expected to exercise it judicially.
+36. Thus, the legislature conferred a wide discretion on the High Court and the Court of Session, because its intention is to allow the higher Courts in the echelon a somewhat free hand in the grant of relief in the nature of anticipatory bail. That is the reason why Section 438(1) provides the language that the High Court or the Court of Session "may, if it thinks fit" direct that the accused be released on bail, whereas these words are absent in Sections 437 and 439 Cr. P.C.
+37. Furthermore, under
+Section 438(2)
+, the Courts while issuing such a direction, may include such conditions in such directions in the light of the facts of the particular case, as it may think fit. The words "as it may think fit" contained both in
+Section 438(1)
+and (2) would make it clear that the powers have been given to the higher courts such as High Court and the Court of Session are very wide, so that these Courts must be left free in the exercise of their judicial discretion to grant anticipatory bail if they consider it fit so to do on the particular facts and circumstances of the case and on such conditions as the case may warrant. Similarly, they also must be left free to refuse anticipatory bail if the circumstances of the case so warrant, on considerations similar to those mentioned in Sections 437 and 439 Cr.P.C.
+38. The law Commission further says in its Report that there is no risk involved in entrusting a wide discretion to the Court of Session and the High Court in granting anticipatory bail because, firstly, these are higher Courts manned by experienced persons, secondly, their orders are not final but are open to appellate or revisional scrutiny.
+39.
+In the light of the above observation, the Constitutional Bench of the Apex Court would hold in
+Gurbaksh Singh v. State of Punjab
+in the following words :
+Therefore, even if we were to frame a 'Code for the grant of anticipatory bail', which really is the business of the legislature, it can at best furnish broad guidelines and cannot compel blind adherence. In which case to grant bail and in which to refuse it is, in the very nature of things, a matter of discretion.... The concern of the Courts generally is to preserve their discretion without meaning to abuse it. It will be stange if we exhibit concern to stultify the discretion conferred upon the Courts by law.
+40. Thus, it is crystal clear that the Apex Court in the above judgment, in the light of the object of the introduction of
+Section 438
+and the observation of Law Commission relating to the necessity to give a free hand to the higher Courts in the matter of exercising their jurisdiction in granting anticipatory bail, has observed that there cannot be imposition of unnecessary restrictions on the scope of
+Section 438
+, when no such restrictions have been imposed by the legislature in terms of that Section.
+41. The Apex Court would go to the extent of observing that the imposition of an unreasonable limitation on the scope of
+Section 438
+or on the individual's right to seek for anticipatory bail by judicial decision, irrespective of whether it is imposed by the legislation would be violative of
+Article 21.
+42. According to the above Bench,
+Section 438
+is a procedural provision which is concerned with the personal liberty of the individual, who is entitled to the benefit of the presumption of innocence since he is not, on the date of his application for anticipatory bail, convicted of the offence in respect of which he seeks bail.
+43. It is further observed, on referring the judgment in
+Emperor v. H.L. Hutchinson
+AIR 1931 All 356 : 1931 (32) Cri LJ 1271, that it was very unwise to make an attempt to lay down any particular rule which will bind the High Court, having regard to the fact that the legislature itself left the judicial discretion of the Court unfettered.
+44. While referring about the 'judicial discretion' to be exercised by the High Court and the Court of Session, the Apex Court would observe as follows :-
+We would, therefore, prefer to leave the High Court and the Court of Session to exercise their jurisdiction under
+Section 438
+by a wise and careful use of their discretion which, by their long training and experience, they are ideally suited to do. The ends of justice will be better served by trusting these Courts to act objectively and in consonance with principles governing the grant of bail which are recognised over the years, than by divesting them of their discretion which the legislature has conferred upon them, by laying down inflexible rules of general application.
+45. Merely because wide powers conferred to the higher Courts,
+Section 438(1)
+cannot be invoked on the basis of general allegation. Though it is a device to secure the individual's liberty, the Courts should not allow it to be used as a passport to the commission of crimes or as a shield against all kinds of accusations. However, if an application for anticipatory bail is made to the High Court or the Court of Session, the Apex Court puts a mandate on those Courts to apply their own mind to the question and decide whether a case has been made out for granting such a relief and that it could not leave the question for the decision of the Magistrate concerned on the bail application under
+Section 437
+of the Code, as and when an occasion arises because such a course would defeat the very object of
+Section 438
+.
+46-49. The thorough reading of the judgment of the Constitutional Bench would go to show that though the powers are very wide, the judicial discretion must be properly exercised after proper application of mind to decide whether it is a fit case for granting anticipatory bail or not.
+50. The words 'judicial discretion' as referred in the judgment of the Apex Court in  (supra) is as follows (Para 3):-
+What, then, is 'judicial discretion' in this bail context? In the elegant words of Benjarriin Cardozo.
+The Judge, even when he is free, is still not wholly free. He is not to innovate at pleasure. He is not a knighterrant roaming at will in pursuit of his own ideal of beauty or of goodness. He is to draw his inspiration from Consecrated principles. He is not to yield to spasmodic sentiment, to vague and unregulated benevolence. He is to exercise a discretion informed by tradition, methodized by analogy, disciplined by system, and subordinated to 'the primordial necessity of order in the social life'. Wide enough in all conscience, is the field of discretion that remains.
+51. Therefore, though the powers are wide, the judicial discretion would impose self-restraint, but it should depend upon the facts and circumstances of the case.
+52. What is the period of duration for anticipatory bail? The answer for this question is very much available in the discussion made in the earlier paragraphs.
+53. The meaning of the anticipatory bail, as we referred earlier, is to release a person, in the event of arrest, on security being taken for his appearance in the Court to face the trial. The object of the introduction of
+Section 438
+is to avoid the detention of the accused in jail for some days at the instance of the influential persons for the purpose of disgracing them.
+54. Therefore, the bail or anticipatory bail as per the section need not be limited to a specified period, since it relates to the liberty and the freedom of the accused persons to defend the case effectively during the course of trial.
+55. There is nothing in
+Section 438
+indicating that the legislature does intend that the order of anticipatory bail shall be effective only up to a particular stage.
+56. In this context, the observation of the Constitutional Bench of the Apex Court in  (supra) is quite relevant, which is as follows (Para 38):-
+Should the operation of an order passed under
+Section 438(1)
+be limited in point of time? Not necessarily. The Court may, if there are reasons for doing so, limit the operation of the order to a short period until after the filing of an F.I.R. in respect of the matter covered by the order. The applicant may in such cases be directed to obtain an order of bail under
+Section 437
+or 439 of the Code within a reasonably short period after the filing of the F.I.R. as aforesaid. But this need not be followed as an invariable rule.  The normal rule should be not to limit the operation of the order in relation to a period of time.
+(Emphasis supplied by me)
+57. Therefore, anticipatory bail granted under
+Section 438
+, Cr.P.C. in respect of the accusation of non-bailable offence continues to be in operation till the conclusion of trial. Suppose, the bail or anticipatory bail already granted was cancelled on some contingencies by the Court of Law and consequently, detained in jail, then necessarily he has to seek fresh bail. Thus, it is evident that the period of duration for bail or anticipatory bail enures until the termination of trial, unless it is cancelled, in the meantime.
+58. The above view of mine is fortified by the decision in B.L. Verma v. State of Madhya Pradesh ILR (1979) Madh Pra 748 : 1979 Cri LJ (NOC) 190. In the said decision, it was argued that the anticipatory bail earlier granted would automatically stand cancelled with the filing of the charge sheet.
+59. It was held by the Division Bench of Madhya Pradesh High Court in the said decision that the moment a person is released on bail after arrest in compliance with the directions contained in the order passed under Section 438, it would be deemed as if it was a bail granted under Sub-section (1) of Section 437 and, therefore, it shall be in operation until cancelled by the High Court in accordance with the provisions contained in Sub-section (5) of Section 437 and that therefore, the bail of a person bailed out under an order under Section 438 would not stand cancelled or cannot be cancelled by a Magistrate merely on the ground that the charge sheet has been filed, and that therefore, it shall remain valid until the conclusion of the trial unless it is cancelled by an appropriate Court under Section 437(5) or 439(2), Cr.P.C.
+60. As I indicated earlier, there is no substantial difference between
+Sections 438
+and
+439
+, Cr.P.C., as regards the appreciation of the matter as to whether or not, the bail is to be granted. The only distinction is that in a case under
+Section 438
+, Cr.P.C. the person who approaches the Court apprehends that he may be arrested without any justification whereas, under
+Section 439
+, Cr.P.C., such a person approaches the Court after his arrest. This being so, the principle that governs Section 439, Cr.P.C. as regards the maintainability of the petition is also attracted to the petition under Section 438, Cr.P.C.
+61. In view of the above situation, the release of a person on anticipatory bail will enure till the conclusion of trial, unless it is cancelled.
+62. The cancellation of bail could be made under two relevant sections.
+62A. Under
+Section 437(5)
+, the Court other than the High Court or the Court of Session commits the accused person to custody by cancelling the bail already granted under
+Section 437(1)
+and (2). This section does not provide for the cancellation of the anticipatory bail.
+Section 438
+also does not refer about the contingencies under which the anticipatory bail could be cancelled.
+63. But,
+Section 439(2)
+, Cr.P.C. would provide for the cancellation of the bail as well as the anticipatory bail.
+Section 439(2)
+reads thus:
+A High Court or Court of Session may direct that any person who has been released on bail under this Chapter be arrested and commit him to custody.
+64. Therefore, the words 'under this Chapter' would indicate the cancellation of the anticipatory bail by the respective Courts. So, this is yet another clue to indicate that the anticipatory bail granted under Section 438 must be deemed to be the orders of bail under Section 439, Cr.P.C.
+65. In the light of the above, the anticipatory bail once granted must be held to be operative till the conclusion of trial, unless it is cancelled under Section 439, Cr.P.C.
+66. The grounds for cancellation of bail under
+Sections 437(5)
+and
+439(2)
+, Cr.P.C. are identical. If the accused misuses his liberty by indulging in similar criminal activities, interference with the course of investigation, attempts to tamper with or threaten the witnesses or there is likelihood of fleeing to another country, then the bail granted under those sections can be cancelled. However, unless there are very cogent and overwhelming circumstances, the bail or anticipatory bail cannot be easily cancelled.
+67. Bail once granted should not be cancelled in a mechanical manner without considering whether any supervening circumstances have rendered it no longer conducive to a fair trial to allow the accused to retain his freedom by enjoying the concession of bail during the trial.
+68. These are all the principles laid down for governing the situation to consider the cancellation of bail. Therefore, under this concept, one can come to the conclusion that the bail is granted to the accused to have freedom to face the trial and as such, the bail means to allow the person to enjoy the freedom till he is convicted on the conclusion of trial.
+69. Yet another section which provides for the cancellation is
+Section 209
+, Cr.P.C. Under this section, the Magistrate while committing the sessions case to the Court of Session shall remand the accused to custody during and until the conclusion of the trial.
+70. Though the section would indicate as though the bail or anticipatory bail originally granted will enure only up to the stage of
+Section 209
+, the reading of the entire section would make it clear that the Magistrate need not remand the accused to custody if he is already on bail.
+71.
+Section 209
+, Cr.P.C. would provide thus :-
+209: Commitment of case to Court of Session when offence is triable exclusively by it.-When in a case instituted on a police report or otherwise, the accused appears or is brought before the Magistrate and it appears to the Magistrate that the offence is triable exclusively by the Court of Session he shall-
+(a) commit, after complying with the provisions of
+Section 207
+or
+Section 208
+, as the case may be, the case to the Court of Session, and subject to the provisions of this Code relating to bail, remand the accused to custody until such commitment has been made;
+(b) subject to the provisions of this Code relating to bail, remand the accused to custody during, and until the conclusion of the trial;
+ 
+
+(C)...
+(d)...
+72. The words contained in the above subsections (a) and (b), namely, subject to the provisions of this Code relating to bail, remand the accused to custody, would disclose that the Magistrate has to consider whether he is already on bail or not. If that is so, the Magistrate shall not normally cancel the bail or anticipatory bail.
+73. In that event, the accused will be directed, while committing the case to the Court of Session, to appear before the Court of Session and continue to remain on bail until the conclusion of trial.
+74. To the similar effect, the Supreme Court and this Court gave a direction to the committing Magistrate not to remand the accused to, custody by cancelling the bail, which was already granted to him. The relevant observations made by the Supreme Court in the decision in
+Kewal Krishnan v. Suraj Bhan
+are as follows (Para 10) :-
+Section 209
+of the Code of 1973 dispenses with the inquiry preliminary to commitment in cases triable exclusively by a Court of Session, irrespective of whether such a case is instituted on a criminal complaint or a police report. If the Committing Magistrate thinks that it is not necessary to commit the accused, who may be on bail to custody, he may not cancel the bail. This has been made clear by the words, 'subject to the provisions of this Code relating to bail' occurring in Clause (b) of
+Section 209
+. Therefore, if the accused is already on bail, his bail should not be arbitrarily cancelled.
+75. Another question arose in the Apex Court in a case where bail granted under
+Section 167(2)
+, Cr.P.C. (default bail, that is, for having failed to file the charge sheet within the time prescribed) was sought to be cancelled on the ground that charge sheet was subsequently filed and that the earlier bail was riot on merits. But, this argument was rejected by the Supreme Court in the decision in
+Aslam Babalal Desai v. State of Maharashtra
+1992 SCC (Cri) 870 : 1992 AIR SCW 2621 by observing that the bail granted under
+Section 167(2)
+, though was not on merits, must be deemed to be an order of bail under
+Section 437
+or 439,
+Cr.P.C
+. This also would indicate that order of anticipatory bail must be deemed to be order of bail under
+Sections 437
+and
+439
+, Cr.P.C. which will be valid for the entire period of trial.
+76. At this juncture, two decisions of the Supreme Court have been brought to my notice in which the Apex Court upheld the order of anticipatory bail for a limited period passed by the Bombay High Court and the Delhi High Court.
+77. The first decision is Salaudin Abdul Samad Shaik v. State of Maharashtra . In this case, the Bombay High Court granted anticipatory bail for a limited period and directed the. accused to surrender before the Court and seek for bail after the said period is over. This was challenged before the Supreme Court. It is relevant to note in that case, that there was an amendment in
+Section 438
+, Cr.P.C. made by the Government of Maharashtra introducing the provision for interim anticipatory bail. So, in the said context, the Supreme Court held that the order passed by the Bombay High Court was valid.
+78. The second decision is
+K.L. Verma v. State
+(1996) 7 Scale 20. In this case also, the Apex Court in a petition challenging the order of anticipatory bail for a limited period passed by Delhi High Court held that it is desirable that such an order could be passed and then only the regular Court, on appreciation of the evidence, after the charge sheet has been filed, would be able to consider the bail application in the light of materials available in the Court.
+79. The above two authorities do not lay down any rule that the anticipatory bail cannot be granted for the entire period, which would enure till the termination of trial. These cases would relate to the above observation, on consideration of the facts and circumstances of that case, and desirably to pass such orders in suitable cases.
+80. The observation made in these decisions cannot be considered to be ratio decidendi in general, in view of the detailed interpretation of
+Section 438
+, Cr.P.C. earlier made by the Constitutional Bench in  (supra).
+81. In fact, the Constitutional Bench specifically observed, as referred earlier, that "the normal rule should be not to limit the; operation of the order in relation to the period of time....The High Court or the Court of Session, in an application for anticipatory bail, must apply its own mind and decide whether a case has been made out for granting such a relief. It cannot leave the question for the decision of the Magistrate under
+Section 437
+, Cr.P.C. as and when an occasion arises. Such a course will defeat the very object of Section 438 Cr.P.C.
+82. Therefore, the observation by the Constitutional Bench would disclose the ratio that the High Court or the Court of Session normally exercises its judicial discretion granting anticipatory bail for entire period by not limiting the operation of the order in relation to a period of time.
+83. As narrated earlier, the words contained in
+Sections 438(1)
+and
+438(2)
+, viz., "if it thinks fit" would empower the High Court or the Court of Session to make such a condition limiting to the period, considering the facts and circumstances of each case. But, it does not mean that the High Court or the Court of Session has no powers to grant absolute anticipatory bail.
+84. Even the Constitutional Bench of the Apex Court would observe that the Court, on some contingencies, may limit the operation of the order to a short period till the filing of the first information report and in such cases, the accused can be directed to obtain an order of bail under
+Sections 437
+and
+439
+, Cr.P.C. after filing of the first information report and that even this is not an invariable rule.
+85. Now, the two decisions
+referred above
+, limiting the period of time, could be considered to be the authorities to show that the Courts have got powers for limiting the period of anticipatory bail, as the words 'as it may think fit' in
+Section 438(1)
+and (2) permits the Court to pass such orders.
+86. It is not the view of the Apex Court that for the reason that the charge sheet had been filed, the Courts mentioned in
+Section 438
+have become defunct to exercise the powers under the said provision. If that was the view of the Apex Court, it would not have approved the granting of interim anticipatory bail for a limited period. When the High Court and the Sessions Court have been empowered to grant interim anticipatory bail for a limited period, there cannot be any restriction to the grant of anticipatory bail for the entire period till the trial is over.
+87. At what stage, the High Court or the Court of Session could be approached seeking the relief of anticipatory bail?
+88.
+Section 438(1)
+, Cr.P.C. provides that when any person has reason to believe that he may be arrested, he may approach the High Court or Sessions Court. It does not refer to a particular time or stage to have such an apprehension of arrest.
+89. However, the words and the language under
+Section 438(1)
+and (3) are so clear, so as to lead to the conclusion that whenever any person apprehends that he may be arrested for a non-bailable offence, he may seek for anticipatory bail, irrespective of the stages.
+90. Therefore, the apprehension that he may be arrested on an accusation of a non-bailable offence has alone to be given due consideration and weight, irrespective of the state of the case.
+91. When apprehension of arrest arises? The apprehension of arrest for a non-bailable offence, one can have at different stages, namely :-
+(a) during the period of investigation by the police after registration of F.I.R. and before filing of the final report under
+Section 173
+, Cr.P.C.;
+(b) during further investigation under
+Section 173(8)
+, Cr.P.C. even after filing of the charge sheet under
+Section 173
+, Cr.P.C.;
+(c) after taking cognizance by the Magistrate, summoning the accused under
+Section 204
+, Cr.P.C. through warrant;
+(d) while the Magistrate committing the Sessions case to the Court of Session under
+Section 209
+, Cr.P.C. and remanding the accused to custody;
+(e) during the enquiry or trial, if the Court, on the basis of the evidence let in, impleads a person as an accused under Section 319, Cr.P.C. for the purpose of summoning and detaining him under Section 319(2) and (3), Cr.P.C.
+92. The above five contingencies involve different stages. As seen earlier, once the person accused of is released on anticipatory bail or on bail at one stage, the operation of the bail continues till the conclusion of trial. Therefore, the person, who is already on bail or anticipatory bail, cannot be entitled to apply for a fresh anticipatory bail in. respect of the same accusation, in other stages.
+93. For instance, if a person, who is already on bail, did not appear before the Court and that therefore, the Court issues warrant of arrest, then the said person will certainly have the apprehension of arrest.
+94. But, in such a situation, the accused is not entitled to file an application for anticipatory bail, because he is already on bail or anticipatory bail in respect of the accusation of non-bailable offence. He shall, in such circumstance, have to take steps to recall the warrant.
+95. Therefore, the application for anticipatory bail would not deal with the situation, wherein the accused had appeared before the Court, in relation to the case in which he already obtained the bail.
+96. In other words, the application under
+Section 438
+, Cr.P.C. being dealt with only relates to the apprehension of arrest for the accusation of non-bailable offence only one.
+97. As narrated earlier, the apprehension for the arrest must be founded on reasonable grounds. Mere fear of arrest is no! enough.
+98. The grounds on which apprehension of arrest is based must be capable of being examined by the Court objectively. Then alone the Court can determine whether the petitioner has reason to believe that he would be arrested.
+99. Therefore,
+Section 438
+cannot ,be invoked, unless there is some material on the basis of which the Court can come to the conclusion that the apprehension of the petitioner for the arrest is genuine.
+100. In other words, specific events and facts must be disclosed by the petitioner preferably through an affidavit, in order to enable the High Court or the Court of Session to judge of the reasonableness of his belief. The existence of such belief is essential requirement for the exercise of power conferred by the section.
+101. The first stage is the commencement of investigation after the registration of the F.I.R. for the non-bailable offence. But, the Constitutional Bench of the Apex Court in  (supra) went to the extent of observing that in some circumstances even without registration of the F.I.R., the Court can grant the relief of anticipatory bail, if the reasonable belief of the apprehension is established before the Court by giving the details of the events and facts.
+102. The observation of the Apex Court is as follows :-
+The filing of a First Information Report is not a condition precedent to the exercise of the power under
+Section 438
+. The imminence of a likely arrest founded on a reasonable belief can be shown to exist even if an F.I.R. is not filed....Anticipatory bail can be granted even after an F.I.R. is filed, so long as the applicant has not been arrested.
+103. This would show that even during the investigation, there are two stages at which there may be apprehension of arrest. One is, before the F.I.R. and another is subsequent to the F.I.R.
+104. Prior to the registration of the F.I.R. there may not be arrest. The question of arrest would arise only after the registration of the F.I.R. .under Section 154, Cr.P.C.
+105. But, in the light of the observation of the Supreme Court, it can be concluded that if the applicant entertains the apprehension of arrest at the hands of the police at the petition enquiry before registering F.I.R., the High Court or the Court of Session could invoke
+Section 438
+, provided the imminence of a likely arrest is shown to exist to the Court.
+106. When such is the situation, the registration of the F.I.R. and continuation of the investigation would definitely give rise to the apprehension of arrest, in which event the accused in the said F.I.R. could very well approach the Court for seeking the relief of anticipatory bail, since registration of F.I.R. itself would be a strong material to show that he has got reason to believe that he may be arrested by the police.
+107. The second stage is, during the course of further investigation under
+Section 173(8)
+, Cr.P.C. If a person is not arrested in the first investigation and in the event of taking up for further investigation by the police either on the direction of the superior officer or on the direction of the Court or on the basis of fresh materials, which have come to light, the person against whom the materials have been collected in the further investigation could approach for anticipatory bail, since apprehension of arrest could be shown to the Court exists.
+108. During the course of investigation either before filing of the final report under
+Section 173
+, Cr.P.C. or in the further investigation under
+Section 173(8)
+, Cr.P.C., the Police Officer could arrest a person even without the warrant, provided the investigation with reference to the accusation of non-bailable offence relates to the cognizable offence.
+109. Similarly, the apprehension of arrest could exist when the investigation being conducted by the Police Officer, as per the direction under
+Section 156(3)
+, Cr.P.C. for a cognizable offence and while the investigation was undertaken as per the direction of the Court under
+Section 155(2)
+, Cr.P.C. for a non-cognizable offence, provided the investigating officer gets a warrant of arrest and also during the investigation under
+Section 202
+, Cr.P.C. with reference to non-bailable offence.
+110. The next stage for apprehension of arrest is at the time of taking cognizance by the Magistrate on entertaining the police report or the complaint and issuing warrant of arrest;
+111. Under Chapter XVI, the proceedings before the Magistrate commences. Under
+Section 204
+, Cr.P.C., the Magistrate after taking cognizance of an offence, can issue summons for the attendance of the accused. In a warrant case, he may issue warrant directing the police to arrest the accused to produce before him at a certain time.
+112. Though the Magistrate invariably issues summons even in a warrant case under
+Section 204
+, Cr.P.C. after taking cognizance, in a police case, when the police intimated to the Court that the accused person was not arrested, since he was absconding, the Magistrate issues warrant directing the police to apprehend the absconding accused.
+113. In this connection, it is to be noted that warrant is issued under
+Section 73
+, Cr.P.C. As per
+Section 73
+, Cr.P.C., the Court can issue warrant directing the police officer for the arrest of any escaped convict, the proclaimed offender or of any person who is an accused of non-bailable offence and is evading arrest. Therefore, the warrant under
+Section 73
+could be either during the investigation or further investigation or even after taking cognizance of offence and even for the person who has been convicted and escaped.
+114. The question arose in the decision in
+State v. Dawood Ibrahim Kaskar
+1997 SCC (Cri) 636 : 1997 Cri LJ 2989, is as to whether the Court can issue warrant under
+Section 73
+, Cr. P. C, after filing of the" charge sheet? After elaborate discussion, it was held in
+the said decision
+that even after taking cognizance of an offence, the police has got power to investigate into the matter further and that therefore, the Court can issue warrant to apprehend a person during further investigation for his production before the Court, as the warrant under
+Section 73
+, Cr.P.C. would apply to all stages.
+115. In view of the above observation, the -apprehension of arrest for non-bailable offence on warrant under
+Section 73
+, Cr.P.C. would entitle a person to invoke
+Section 438
+, Cr.P.C., though the case is taken on file and process issued under
+Section 204
+, Cr.P.C. on taking cognizance of the non-bailable offence.
+116.
+In
+P.V. Narasimha Rao v. State
+1997 Cri LJ 961, the Division Bench of the Delhi High Court was called upon to decide the question as to whether a petition under
+Section 438
+, Cr.P.C. would be maintainable even in a case where the Court has chosen to issue summons for the appearance of the accused without issuing warrant.
+117. The finding of the Delhi High Court is as follows (at P. 966 of Cri LJ):-
+After registration of the case, filing of the" charge sheet or filing of the complaint or taking cognizance or issuance of warrant, the accusation will not cease to be an accusation, at a later stage, there may be a stronger accusation or more evidence. Nevertheless, the accusation survives or continues....The language used is clear and unambiguous, namely, apprehension of "arrest on an accusation"....It is not as if circumstances justifying an application under
+Section 438
+would disappear once a Magistrate takes cognizance of the offence or even after he passes an order committing the case to the Sessions Court.
+118. At this juncture, it is brought to my notice a decision of the Division Bench of the Calcutta High Court in
+Bimaladak v. State
+1997 Cri LJ 1969, wherein it has been held that the submission of the charge sheet and the taking cognizance of a non-bailable offence disentitles the accused to file a petition for anticipatory bail.
+119. With the great respect to the Judges of the Division Bench of the Calcutta High Court, I am not able to persuade myself to subscribe to this view for the following reasons.
+120. The conclusion was arrived at by the Division Bench of the Calcutta High Court mainly on the basis of the concept that the presumption of innocence of the accused is, prima facie, lost after the submission of the charge sheet. The Constitutional Bench of the Apex Court would specifically hold that the accused shall be presumed to be innocent till he is convicted. But, contra to the settled decision, the Division Bench of Calcutta has come to the conclusion that since charge sheet was filed on the basis of prima facie materials, it cannot be submitted by the accused that the allegation is not substantiated, when he is, prima facie, liable for an accusation through charge sheet, which does not commensurate with his innocence.
+121. This decision has completely lost sight of the principles relating to the grant of anticipatory bail as
+laid down in
+Gurbaksh Singh Sibbia
+'s Case,  (supra).
+122. in fact, only when the charge sheet is filed and the cognizance is taken by the Magistrate and the process is issued, the apprehension of arrest will become more stronger. At least, during the course of investigation it could be said that the apprehension of arrest is not reasonable, since under
+Section 41(a)
+, Cr.P.C. the arrest is not mandatory.
+123. The reading of
+Section 41
+, Cr.P.C. would make clear that the arrest need not be resorted to in all cases automatically. The police has got a large discretion to arrest or not to arrest a person.
+124. Therefore, it can be said that during the investigation, when the police officer has decided not to arrest, there is no apprehension of arrest. But, after filing of the charge sheet and that too once the warrant is issued to arrest the accuse 1, then there would certainly be an apprehension of arrest by the police.
+125.
+In
+Joginder Kumar v. State of U.P.
+1994 SCC (Cri) 1172 : 1994 Cri LJ 1981 this aspect has been clearly dealt with by the Apex Court. The relevant observation is this (at P. 1986 of Cri LJ) :--
+The arrest need not be in every case....No arrest can be made because it is lawful for the police officer to do so. The existence of the power to arrest is one thing. The justification for the exercise of it is quite another. The police officer must be able to justify the arrest apart from his power to do so....No arrest can be made in a routine manner on a mere allegation of commission of an offence made against a person....There must be some reasonable justification in the opinion of the officer effecting the arrest that such arrest is necessary and justified. Except in heinous offences, an arrest must be avoided.
+126. Therefore, even during the investigation when the police officer decided not to arrest, then the person concerned need not have apprehension of arrest. But, once charge sheet is filed and warrant is issued, then the police officer is bound to arrest. Therefore, an application under
+Section 438
+, Cr.P.C. has become essential,
+127. As discussed earlier, one of the main requirements for invoking
+Section 438
+, Cr.P.C. is the accusation of a non-bailable offence. There may be an accusation even before the F.I.R. is registered by the police. After the registration of the F.I.R. the accusation gets strengthened. After the filing of the charge sheet or taking cognizance or issuance of warrant, the accusation will be still more stronger and the same would not cease to be an accusation. It means that the accusation survives till the conclusion of trial.
+128. What is meant by accusation? According to the Shorter Oxford English Dictionary, the word "accusation' means, "the act of accusing, or the being accused, the charge, or the declaration containing it, an indictment."
+129. According to the Websters Encyclopaedic 'unabridged Dictionary, the word 'accusation' means:
+a charge of wrong doing, imputation of guilt or blame, the specific offence charged; the act of accusing or charging.
+130. The word 'accusation' is defined in the Law Dictionary as "a charge against a person or corporation: 'in its broadest sense it includes indictment, presentment, information and any other form in which a charge of crime or offence can be made against an individual."
+131. According to LAW LEXICON, ACCUSATION : The charging of a person with a crime. Accusation is a charge made to a competent officer against one who has committed a crime with a view to bring him to justice and punishment.
+CHARGE: The expression 'charged with' as applied to a crime, is sometimes used in a limited sense, intending the accusation of a crime which preceded a formal trial.
+132. The charge is an accusation made against a person in respect of an offence alleged to have been committed by him. Charge signifies an accusation, made in a legal conduct, either of omission or commission by the person charged.
+133. POLICE REPORT : means a forma! charge sheet or challan containing accusation of a cognizable offence, submitted by a Police Officer, after investigation.
+134. In view of the meanings of the word 'accusation' contained in various Dictionaries, filing of the charge sheet and taking cognizance of the non-bailable offence with a specific accusation and consequent issuance of warrant would definitely entitle the person concerned to approach the Court claiming anticipatory bail, as there would be genuine apprehension of arrest.
+135. The next stage is the committal of the sessions case to the Court of Session. Under
+Section 209
+, Cr. P. C. the Magistrate shall commit the sessions case to the Court of Session and remand the accused to custody during and until the conclusion of trial by the Sessions Court.
+136.
+Section 209
+, Cr.P.C. deals with two types of cases. In a private complaint, the Magistrate in the case of Sessions shall examine the complainant and all his witnesses on oath and then to commit the case to Sessions after supplying of the documents under
+Section 208
+, Cr.P.C. to the accused. He shall also remand the accused to custody in order to make him to face the trial by the Sessions Court.
+137. In Police case, the Magistrate cannot examine any witness. Instead, under
+Section 207
+, Cr.P.C., the Magistrate shall furnish the accused all the documents filed under
+Section 173
+, Cr.P.C. by the Police. Only thereafter, he shall commit the case to Sessions by remanding the accused to custody.
+138. Both
+Section 209(a)
+and (b) would contain the words, "subject to the provisions of this Code relating to bail, remand the accused, to custody". These words would mean, as interpreted by the Apex Court, which we have referred earlier, that the Magistrate has to verify whether the accused person is already on bail. After verification, if it is found that he is already on bail, then the remand of the accused to custody would become unnecessary.
+139. That is the reason why this Court as well as the Apex Court in various authorities referred above would direct the Magistrate not to cancel the bail by remanding the accused to custody while committing the sessions case to the Court of Session, so that the period of bail or anticipatory bail already granted would enure until the conclusion of trial. Insuch a situation, there is no necessity for filing an application for bail or anticipatory bail.
+140. But in a private complaint, if the Magistrate, after the examination of witnesses under
+Section 202
+, Cr.P.C., decides to commit the case of Court of Session, then the Magistrate has necessarily to remand the accused to custody, of course, subject to the provisions of the
+Code of Criminal Procedure
+relating to bail.
+141.
+Section 437
+, Cr.P.C. is one of the provisions falling under Chapter XXXIII, which relates to provisions as to bail. Under this Section, the Magistrate is precluded from releasing any person who is accused of the non-bailable offence punishable with death or imprisonment for life. Therefore, if the Sessions case, which is being committed by the Magistrate, relates to the offence punishable with death or imprisonment for life, the Magistrate cannot consider bail, as he is not empowered to.
+142. Suppose if the accused person already obtained anticipatory bail with reference to the said private complainant, then the Magistrate need not remand him to the custody, in view of the general direction given by the Supreme Court not to remand the accused to custody, if he is on bail. Otherwise, he shall be remanded to custody. So, in the light of the above situation, the question now arises, as to whether the application for anticipatory bail could be maintained at the stage of committal especially in private complaint cases'.
+143. As indicated earlier, in all the previous stages we have considered the apprehension of arrest by the police on its own accord or on the warrant on an accusation of non-bailable offence, which is an important requirement for the exercise of power under Section 438, Cr.P.C.
+144. Bui in this type of case,
+Section 209
+committal does not provide for the arrest nor any reference about the police. Therefore, it may be argued that the apprehension of remand to custody under this section will not empower the High Court or the Court of Session to invoke
+Section 438
+, Cr.P.C. This situation would necessarily lead us to raise the question as to what is the meaning of the word "Arrest" and by whom arrest could be effected?
+145. The word "arrest" is not defined either in the Procedural Acts or in the various Substantive Acts, though
+Section 46
+of Cr.P.C. lays down the mode of arrest to be effected.
+146. Stroud's Judicial Dictionary, IV Edition, Volume I, at page 184, defines the word 'arrest' as follows :
+'arrest', is when one is taken and restrained from his liberty.
+147. In the Bouvier's Law Dictionary, 1914 Edition, Vol. I, the meaning is given thus :
+Arrest: to deprive a person of his liberty by legal authority.
+148. In the Dictionary of English Law (1959) by Earl Jowitt, Vol. I, the meaning of the word 'arrest' is given at page 152 as follows :-
+The restraining of liberty of a man's person in order to compel obedience to the order of a Court of Justice, to ensure that a person charged or suspected of a crime may be forthcoming to answer it. To arrest a person is to restrain him of his liberty by some lawful authority.
+149. Black's Law Dictionary, 5th Edition (1979), gives the following definition :
+Arrest: To deprive a person of his liberty by legal authority. Taking, under real or assumed authority, custody of another for the purpose of holding or detaining him to answer a criminal charge.
+150. 'A Dictionary of Law' by L.B. Curzon (1979) gives the meaning of the word 'arrest' at page 22, as follows :-
+To restrain and detain a person by lawful authority....
+151. The New Encyclopaedia Britannica, 15th Edition, Vol. I at page 540, states as follows about arrest:
+Arrest, placing of a person in custody or under restraint, usually for the purpose of compelling obedience to the law. If the arrest occurs in the course of criminal procedure, the purpose of the restraint is to hold the person for answer to a criminal charge.
+152. From the various definitions which we have extracted above, it is clear that the word 'arrest', when used in its ordinary and natural sense, means the apprehension or restraining or the deprivation of one's personal liberty.
+153. Under
+Section 41
+, Cr.P.C., the Police may arrest without warrant.
+Section 73
+, Cr.P.C. empowers the Police on the strength of the warrant issued by the Court to arrest the person irrespective of the stage of the case. Under
+Section 43
+, Cr.P.C., private person can arrest the offender.
+Section 44
+, Cr.P.C. provides for. the arrest of a person by the Magistrate.
+154. Therefore, once a person, having reason to believe that he may be arrested by a person competent to arrest on an accusation of non-bailable offence, he may approach the High Court or the Court of Session under
+Section 438
+, Cr.P.C. This section does not mention the arrest by whom and at what stage or on warrant or without warrant.
+155. The Honourable Mr. Justice S. Ratnavel Pandian (as he then was) on behalf of the Bench of the Apex Court in
+Directorate of Enforcement v. Deepak Mahajan
+1994 SCC (Crl) 785 : 1994 Cri LJ 2269 would observe as follows (at p 2284 of Cri LJ) :-
+Thus the Code gives power of arrest not only to a police officer and a Magistrate but also under certain circumstances or given situations to private persons. Further, when an accused person appears before a Magistrate or surrenders voluntarily, the Magistrate is entitled to take that accused persons into custody and deal with him according to law. Needless to emphasize that the arrest of a person is a condition precedent for taking him into judicial custody thereof. To put it differently, the taking of the person into judicial custody is followed after the arrest of the person concerned by the Magistrate on appearance or surrender....
+In the backdrop of the above legal position, the conclusion that can be derived is that a Magistrate can himself arrest or order any person to arrest any offender if that offender has committed an offence in his presence and within his local jurisdiction or on his appearance or surrender or is produced before him and take that person (offender), into his custody subject to the bail provisions.
+156. Therefore, this would make it clear that a person can apprehend arrest at the hands of the Magistrate for the purpose of remanding him to custody, while committing the sessions case to the Court of Session for trial with an accusation of non-bailable offence and this would certainly make that person to be entitled for approaching the Court under
+Section 438
+, Cr.P.C. if he was not already on bail in a police case. Even in a private complaint, while committing the case to the Court of Session, the accused person apprehending arrest by the Magistrate for remanding him to custody under Section 209, Cr.P.C. would very well invoke Section 438, Cr.P.C.
+157. The above view of mine is supported by the decision in B.L. Verma v. State ILR (1979) Madh Pra 748 : 1979 Cri LJ(NOC) 190. The relevant observation is this :-
+The High Court or the Court of Session is competent to grant anticipatory bail in exercise of its power under Sub-section (1) of
+Section 438
+even during the pendency of committal proceedings before the committing Magistrate directing that in the event of the accused being committed to the Court of Session and is taken into custody, he shall be released on bail.
+158. Though the word 'arrest' contained in
+Section 438
+is not mentioned in
+Section 209
+, Cr.P.C., the word "the Magistrate shall remand the accused to custody" as contained in
+Section 209
+would clearly disclose the powers of the Magistrate to arrest an accused in the case to be committed to the Sessions and then remand to custody, as there cannot be remand to custody without arrest.
+159. In the light of the foregoing discussion about the construction of
+Section 438
+, it cannot be contended that
+Section 438
+does not include within its fold a situation where a person makes an application apprehending his being taken to custody on a committal order of his commitment by a Magistrate for trial to the Court of Session. To put it differently, there is a nothing to indicate in
+Section 438(1)
+to exclude a direction to the Magistrate to release a person on bail in the event of his making an order for remanding the accused info custody on an order of committal having been made against the accused.
+160. Therefore, even at the committal stage, the accused can approach the High Court or Sessions Court, since the words "in the event of arrest" would also mean "in the event of remand the accused to custody on committal", provided he is not on bail earlier.
+161. The next stage is, when the person is impleaded as an accused when the evidence is let in under
+Section 319
+of Cr.P.C.
+Section 319
+comes under Chapter XXIV. This relates to the power to proceed against other persons who were not the accused before the Court, appearing to be guilty of an offence.
+162.
+Section 319
+, Cr.P.C. reads thus :- "Power to proceed against other persons appearing to be guilty of offence. -
+(1) Where, in the course of any inquiry into, or trial of, an offence, it appears from the evidence that any person not being the accused has committed any offence for which such person could be tried together with the accused, the Court may proceed against such person for the offence which he appears to have committed.
+(2) Where such person is not attending the Court, he may be arrested or summoned, as the circumstances of the case may require for the purpose aforesaid.
+(3) Any person attending the Court, although not under arrest or upon a summons, may be detained by such Court for the purpose of the inquiry into, or trial, the offence which he appears to have committed.'
+ 
+
+(4)...
+163. This section thus provides that in the course of any enquiry or trial, where it appears from the evidence that any person not being the accused has committed any offence for which such a person could be tried together with the accused, the Court may proceed against such person. If such person does not appear on summons, he may be arrested. The Court could also detain the person who has appeared before the Court on summons for the purpose of enquiry or trial.
+164. The reading of
+Section 319(1)
+to (3) would go to show that the arrest of a person could be made on a warrant even during the enquiry or trial after the commencement of the examination of witnesses and could be detained in jail throughout the period of trial.
+165. If the accusation, as found by the trial Court, relates to the non-bailable offence, the person so impleaded under Section 319 could also approach the High Court or the Court of Session, since he genuinely apprehends arrest by the Magistrate under Section 319(3), Cr.P.C. or by the police under the orders of the Court under Section 319(2), Cr.P.C.
+166. The only criteria for
+Section 438
+is the apprehension of arrest on an accusation of non-bailable offence either by the police or by the Magistrate irrespective of the stage of the proceedings initiated against him.
+167. In the light of the foregoing discussion, let us now come to the main question as to whether a petition for anticipatory bail is maintainable after the Magistrate issued non-bailable warrant on charge sheet being filed ?
+168. Referring a decision in
+Sundaram v. State of Tamil Nadu
+1995 2 Mad LW (Crl) 564, it is submitted that this Court has earlier taken the view that once a warrant is issued, the accused has to file an application under
+Section 70(2)
+, Cr.P.C. before the lower Court to recall the warrant issued by it. The relevant observation is as follows :-
+I am of the view that knocking at the doors of this Court under
+Section 438
+of the Code in such a situation is not a remedy at all. The proper procedure for the petitioners/accused is to approach the Court below and file an application for cancellation of the warrant so issued against them under Sub-section (2) of
+Section 70
+of the Code.
+169. A similar question has been raised before this Court, in yet another decision in
+Sennasi v. State
+1997 Mad LJ (Cri) 481. By citing the above authority, it is held by Hon'ble Justice Rengasamy that it is not the view of the Apex Court that for the reason that the charge-sheet has been filed or the non-bailable warrant is pending, the Courts mentioned in
+Section 438
+of the Code, have become defunct to exercise the powers under the said provision. The relevant observation is as under :
+Therefore, it is made clear that even if the non-bailable warrant is pending against an accused person, the High Court or the Sessions Court has absolute powers to exercise its discretion to grant anticipatory bail.
+170. In the light of the above observation, to which I am entirely in agreement, I may state that (1995) 2 Mad LW (Cri) 564 (supra) has not decided the ratio.
+171. As indicated earlier, in the light of the facts and circumstances of that case, this Court did not incline to exercise the powers of judicial discretion under
+Section 438
+and advised the parties to go and file an application before the lower Court to recall the warrant. Therefore, this cannot be the authority to show that the application under
+Section 438
+is not maintainable in a case, where non-bailable warrant was issued.
+172. The failure to exercise the discretionary powers is one thing. The lack of jurisdiction to exercise such powers is a different thing.
+173. In other words, this Court may not be inclined to grant anticipatory bail, keeping in view the fact that the Magistrate has taken cognizance and issued process. But, the mere non-exercise of such power does not mean that there is no such power at all.
+174. No doubt it is true that
+Section 70
+, Cr.P.C. lays down that every warrant of arrest issued by a Court, shall remain in force until it is cancelled by the Court which issued it, or until it is executed.
+175. Mere issuance of warrant on taking cognizance, in my view, would not affect the powers under
+Section 438
+to grant Anticipatory bail, since the issuance of warrant is yet another ground to make a plea before the High Court or the Court of Session by the accused that he has got a valid reason to believe that he would be arrested in respect of the case, which was taken on file for the accusation of non-bailable offence.
+176. In Sheik Khasim Bi v. State (Andhra Full Bench) , Justice Jayachandra Reddy (as he then was), who later became the Judge of the Supreme Court, in an elaborate discussion, mainly taking into consideration of the crux of the judgment of the Constitutional Bench of the Apex Court in  (supra), has held as follows :-
+We are aware that
+Section 70
+, Cr.P.C. lays down that every warrant of arrest issued by a court under the
+Cr.P.C
+. shall remain in force until it is cancelled by the court which issued it, or until it is executed.
+In such a situation also in cases of arrest pursuant to the warrant, the order under
+Section 438(1)
+has to be obeyed and can be given effect to by following the necessary procedure in the matters of relasing the persons on bail....Of course, as pointed out by the Supreme Court in
+Gurbaksh Singh
+'s case  (supra), it is purely within the discretion of the Court, but the fact that the charge sheet is filed and warrant is issued, is yet another strong circumstance which the Court should keep in view while exercising this extraordinary power.
+177.
+In
+Nirbhay Singh v. State of M.P.
+1995 Cri LJ 3317, Madhya Pradesh Full Bench, while answering to the similar question, has held that Anticipatory bail can be granted even after the Magistrate issued process or at the stage of committal of case to Sessions Court or even at a subsequent stage. The relevant observation is this (Paras 11 and 12):
+Sub-section (3) of
+Section 438
+, Cr.P.C. is the implementation part of the provisions and lays down in what manner the order allowing anticipatory bail is to be implemented. If the person is arrested without warrant by an officer-in-charge of a police station on the accusation in respect of which the order has been passed and if , he is prepared to furnish bail, he shall be released on bail. If subsequent to the order, the Magistrate taking cognizance of the offence decides that a warrant should be issued in the first instance against that person, a bailable warrant shall be issued in conformity with the direction of the Court under Sub-section (1). The effect of
+Section 71
+is the same as the effect of an order passed under
+Section 438(1)
+and the effectuation of this order is explained in the later part of Sub-section (3) of
+Section 438
+....It is not as if circumstances justifying an application under
+Section 438
+disappear once a Magistrate takes cognizance of the offence or even after he passes an order committing the case to the Sessions Court. Even at such stages, there may be circumstances warranting invocation of the special jurisdiction under
+Section 438
+.
+178. The reading of
+the entire judgment
+rendered by the Madhya Pradesh High Court Full Bench, would make it clear that the conflict between an order of Anticipatory bail and non bailable warrant has to be made in a pragmatic manner striking a balance between individual's right to personal freedom and invocation of right of police and, the procedure required to be followed by Magistrate.
+179. Both these decisions, that is, Madhya Pradesh Full Bench and Andhra Pradesh Full Bench, relied upon the judgment of a Division Bench of the Punjab and Haryana High Court rendered in
+Puran Singh v. Ajit Singh
+1985 Cri LJ 897, in support of their conclusions arrived at. in
+the said decision
+, after elaborately considering the various aspects, as
+referred above
+, it is held as follows :-
+The section makes no distinction whether the arrest is apprehended at the hands of the police or at the instance of the Magistrate. The issuance of a warrant by the Magistrate against a person, to my mind, justifiably gives rise to such an . apprehension and well entitles a person to make a prayer for his anticipatory bail. The High Court or the Court of Session may, however, decline to exercise its powers under
+Section 438(1)
+, Cr.P.C., keeping in view the fact that the Magistrate has summoned the accused through bailable warrant i.e., a relief almost similar to what can be granted by the Court under
+Section 438(1)
+, Cr.P.C. yet that does not mean that the Court has no jurisdiction to grant anticipatory bail to such an accused person. The grant of bail under
+Section 438(1)
+by the High Court or the Court of Session is, to my mind, dependent on the merits of a particular case and not the order of the Magistrate choosing to summon an accused through bailable or non-bailable warrant.
+180. As I pointed out earlier, the guidelines for granting Bail or Anticipatory Bail are more or less same. However, as pointed out by the Apex Court in a recent judgment, there is some slight deviation in the above concept.
+181. The relevant observation in State Rep. By the C.B.I., , is hereunder :-
+Consideration which should weigh with the Court while dealing with a request for anticipatory bail need not be the same as for an application to release on bail after arrest.
+182. The reason for the above observation is that in a grave of fence if the accused is equipped with an order of anticipatory bail before he is interrogated by the police, it would greatly harm the investigation and would impede the prospects of unearthing all the ramifications involved in the conspiracy and the public interest also would suffer as a consequence, as held in the
+The State of Andhra Pradesh v. Bimal Krishna Kundu
+.
+183. If such an apprehension is expressed by the prosecution opposing the anticipatory bail, then the Courts have to gave due consideration for the said submission, because the custodial interrogation is qualitatively more elicitation oriented than questioning the accused who is well ensconced with a favourable order under Section 438 Cr.P.C.
+184. As pointed out by the Apex Court in  (supra), in a case of very serious nature, especially when the accused wield the wide influence, the custodial and effective interrogation of the accused is of tremendous advantage in disinterring many useful informations and materials which would have been concealed.
+185. In fact, the Supreme Court would go to the extent of saying that when there are materials, already collected were capable of stretching an accusing finger towards the accused, who seeks for anticipatory bail, it is not at all a proper exercise of discretion by favouring him with an order of anticipatory bail under
+Section 438
+of the Code. This is one of the guidelines for consideration of the petition for anticipatory bail, given by the Apex Court in
+Director of Enforcement v. P.V. Prabhakar Rao
+.
+186. All the citations
+referred above
+would point out that if a custodial interrogation in a serious case is required by the investigating agency for unearthing the important materials, the High Court or the Sessions Court should not normally grant anticipatory bail. Therefore, the wide powers vested with the High Court or the Court of Session would invite the wise exercise of judicial discretion. In other words, every kind of judicial discretion. Whatever may be the nature of the matter, in regard to which it is required to be exercised, has to be used with a due care and caution.
+187. Liberty of the individual is desirable, but also desirable is the need to detect, investigate and prosecute those, guilty of any offence in the interest of the public at large.
+188. Therefore, in my considered opinion that though the High Court or the Court of Session has got enormous powers to give anticipatory bail for the entire period, such powers have to be properly exercised either to grant absolute anticipatory bail or anticipatory bail to the limited period or to dismiss the same following the above guidelines, as given in the judgments of the Apex Court.
+189. The following propositions emerge in the analysis of various questions raised above, as discussed in the earlier paragraphs :-
+(1) The High Court or the Court of Session has got powers to grant anticipatory bail in respect of a case involving non-bailable offence even after filing of the charge-sheet by the police and issuing of a warrant by the Magistrate, as they do not put an end to the power to grant relief under Section 438 Cr.P.C.
+(2) In view of the words "as it may think fit" contained in
+Section 438(1)
+and (2), the Court may, if there are reasons for doing so, limit the operation of the order to a short period and the petitioner may in such cases be directed to obtain an order of bail under
+Section 437
+or 439 of the Code within a reasonable short period after filing of the charge-sheet. But, this is not an invariable rule. Normally, rule should be not to limit the operation of the order in relation to a period of time.
+(3) The grant of anticipatory bail under
+Section 438
+Cr.P.C. by the High Court or the Court of Session is dependent on the merits of a particular case and not the order of the Magistrate choosing to summon an accused through bailable or non-bailable warrant.
+(4) The moment a person is released on bail, in the event of arrest, in accordance with the directions under
+Section 438
+, it should be deemed as if it was a bail granted under
+Section 437
+or 439
+Cr.P.C
+. Therefore, it shall be in operation until the conclusion of trial, unless it is cancelled by the appropriate Court under
+Section 437(5)
+or 439(2)
+Cr.P.C
+., as the purpose for bail is to make the accused to face the trial.
+(5) The application for anticipatory bail would not deal with the situation, wherein the accused had appeared before the Court earlier in relation to the case in which he already obtained bail.
+(6)
+Section 438
+provides for the seeking of the relief when there is an apprehension of arrest for non-bailable offence. It does not refer to a particular time nor particular stage. Therefore, whenever any person apprehends arrest for non-bailable offence, he may seek for anticipatory bail irrespective of the stage of the case.
+(7) Since the word 'arrest' would mean, accepting surrender and taking custody of the accused by the Magistrate, the accused could approach the Court seeking for anticipatory bail on apprehending arrest by the Magistrate either at the time of committal under
+Section 209
+Cr.P.C. in the private complaint or at the time of impleading the accused during the course of examination of witnesses under
+Section 319
+Cr.P.C. apprehending arrest by him.
+(8) In grave and serious offence when custodial interrogation is required to be done, the anticipatory bail need not be granted.
+(9) This Court as well as the Apex Court has held time and again that the Courts can grant relief only when the reason to believe that the accused may be arrested for the non-bailable offence is shown to exist. Therefore, in order to show the background of the case and the materials for the genuine apprehension, the Courts may insist for the affidavit to be filed by the petitioner, if not at least through supporting affidavit by some person related to him, in order to enable the Court to decide whether to grant the relief sought for or not.
+190. In the light of the above discussion, this application for anticipatory bail has to be disposed of. The offences are under
+Sections 147
+,
+148
+,
+448
+and
+366(A)
+I.P.C. It is stated that on 21-1-1996 one Chellaih Thevar gave a complaint to the respondent police that his daughter Isakki ammal was kidnapped by the petitioner and others on 20-1-1996 and the case has been registered for the above offences.
+191. It is submitted that the victim girl has been rescued and handed over to the parents. The petitioner filed an application before the Court of Session and the same was dismissed on 27-6-1997 only on the ground that the charge-sheet has already been filed and non-bailable warrant has been issued on 19-6-1997.
+192. In view of the fact that the investigation is aver and the co-accused has already been released on bail and the victim also joined her parents and the petitioners are the permanent residents of Tirunelveli Taluk, I am of the view that the petitioners may be enlarged on bail in the event of their arrest, since their apprehension of arrest is well founded due to the fact that the non-bailable warrant was issued on the basis of the charge sheet was filed against them.
+193. Therefore, the petitioners shall be released on bail, in the event of arrest, on each of them executing a bond for a sum of Rs. 500/-(Rupees five hundred) with one surety for a like sum each to the satisfaction of Judicial Magistrate-VI, Tirunelveli and on further condition that they shall appear before the concerned Court as and when required.
+194. The learned Magistrate, in view of the above orders, will direct the respondent police to return the warrant to the Court, as its execution has become unnecessary.
+195. Before parting with the case, I must record the valuable assistance given by Mr. A. Packiaraj, Mr. Asokan, senior counsel, Mr. Suresh and Mr. V. Padmanabhan and other counsel.
+196. I rather feel that I must make a special mention about Mr. Packiaraj, who is an Amicus Curiae appointed by this Court and who has made a thorough search on these questions of law and excellent presentation on the various propositions touching on these points. This Court records its full appreciation for his meticulous preparation in this case and effective assistance rendered to this Court.

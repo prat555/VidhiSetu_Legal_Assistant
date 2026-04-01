@@ -1,0 +1,1392 @@
+Title: Search
+Court: High Court
+Date: Unknown Date
+Citation: citations: AIRONLINE 2019 BOM 3331
+Source: https://indiankanoon.org/doc/124231947/
+
+[Cites
+20
+, Cited by
+2
+]
+Bombay High Court
+Mahaguj Collieries Ltd vs Adani Enterprises Ltd on 25 February, 2019
+Equivalent citations: AIRONLINE 2019 BOM 3331
+Author:
+B. P. Colabawalla
+Bench:
+B. P. Colabawalla
+Ladda
+
+
+
+               IN THE HIGH COURT OF JUDICATURE AT BOMBAY
+
+                         ORDINARY ORIGINAL CIVIL JURISDICTION
+
+                COMMERCIAL ARBITRATION PETITION No. 681/2018
+
+                                          ALONG WITH
+
+              COMMERCIAL ARBITRATION PETITION No. 682/2018
+
+
+
+   Mahaguj Collieries Limited                       ..                 ..Petitioner.
+
+              Vs
+
+   Adani Enterprises Limited                        ..                 ..Respondent.
+
+
+
+                                          .........................
+
+   Mr. Sanjay Jain a/with Ms. Sneha Phene, Mr. Jayendra
+   Kapadia, Mr. Fozan Lakdawala, Ms. Varsha Agarwal, Ms.
+   Janvi Manek I/by Little & Co. for the Petitioner in both the
+   petitions.
+
+   Mr. Vikram Nankani, Senior Advocate, a/with Mr.
+   Ashishchandra Rao, Mr. Abhileen Chaturvedi, Mr. Dhruv
+   Jain I/by Economic Laws Practice for the Respondent in
+   both the petitions.
+
+                                       .....................
+
+
+                                       CORAM : B. P. COLABAWALLA, J.
+                                       DATE : 25TH FEBRUARY, 2019.
+
+                                                                     1/29
+   carbp-681-18_1.docx
+
+        ::: Uploaded on - 26/02/2019                     ::: Downloaded on - 21/03/2019 11:14:39 :::
+ ORAL JUDGMENT:-
+1.                    Admit. By consent of the parties, both the arbitration
+
+petitions are taken up for hearing and final disposal.
+2.                    Both these petitions have been filed by the petitioner
+
+under 37 of the
+Arbitration and Conciliation Act, 1996
+(for short
+
+"the Act") challenging the order passed by the Arbitral Tribunal
+
+dated 19th March, 2018 (for short "the impugned order") under
+
+which the interim reliefs sought for by the petitioner herein was
+
+rejected and the interim relief sought for by the respondent herein
+
+was partially granted. The petitioner is the respondent before the
+
+arbitral Tribunal. The respondent herein is the claimant. For the
+
+sake of convenience, I shall refer to the parties as they were arrayed
+
+before the Arbitral Tribunal.
+3.                    By Arbitration Petition No. 681 of 2018, the petitioner
+
+(the respondent before the Tribunal) takes exception to the
+
+impugned order insofar as it restrains the petitioner (the
+
+respondent before the Tribunal) from enforcing the demand notice
+
+dated 9th November, 2017, during the pendency of the arbitration
+2/29
+carbp-681-18_1.docx
+::: Uploaded on - 26/02/2019                     ::: Downloaded on - 21/03/2019 11:14:39 :::
+proceedings. Arbitration Petition No. 682 of 2018 challenges that
+
+part of the impugned order by which the interim reliefs sought for
+
+by the petitioner (the respondent before the Arbitral Tribunal) were
+
+rejected by the Arbitral Tribunal. Since both the petitions arise out
+
+of the same arbitration proceedings, the facts in both the petitions
+
+are identical and hence both the petitions are being disposed of by
+
+this common order and judgment.
+4.                    The brief facts giving rise to the arbitral proceedings are
+
+that in furtherance of the Government Company Dispensation
+
+Scheme           under
+Section    3     (3)   (a)   (i)
+of    the     Coal      Mines
+
+(Nationalization)             Act,    1973,    the   Maharashtra            State       Power
+
+Generation Company Ltd ("MAHAGENCO") and the Gujarat State
+
+Electricity            Corporation     Ltd     ("GSECL")         were        allotted       the
+
+Machhakata and Mahanadi Coal Blocks located in the Talcher coal
+
+field in the State of Odisha. After the allocation of these Coal Blocks
+
+at Machhakata and Mahanadi, MAHAGENCO and GSECL formed a
+
+joint venture company called MAHAGUJ COLLIERIES LTD                                        (the
+
+respondent before the Tribunal) to exploit and develop the
+
+Machhakata Coal Block. In order to develop and operate the Coal
+
+Blocks, a tender was floated by the respondent to engage a Mine
+3/29
+carbp-681-18_1.docx
+::: Uploaded on - 26/02/2019                           ::: Downloaded on - 21/03/2019 11:14:39 :::
+Developer-cum-Operator ("MDO").               In response to the aforesaid
+
+tender floated by the respondent, the claimant formed a Consortium
+
+with PT Bara Jaya Utama, as Associate Member. The Consortium
+
+submitted its bid on 27th January, 2009.                  As the claimant led
+
+Consortium was the lowest bidder, the respondent vide its letter
+
+dated 20th May, 2009 issued a Letter of Intent (LOI) to the claimant
+
+on behalf of the Machhakata and Mahanadi Coal Blocks in the
+
+Talcher Coal Field.
+5.                    The claimant led Consortium furnished a Performance
+
+Bank Guarantee ("PBG") dated 19th August, 2009 amounting to
+
+Rs.150 Crores issued by ICICI Bank Limited guaranteeing the
+
+performance of its obligations. Subsequently, a Coal Mining Services
+
+Agreement ("CMSA") was entered into between M/s Adani
+
+Enterprises Limited (the claimant) and Mahaguj Collieries Limited
+
+(the respondent) on 6th May, 2010. This agreement was entered into
+
+between the parties for undertaking the exploration, development
+
+and mining of coal from the Machhakata and Mahanadi Coal Blocks
+
+in the Talcher coal field.
+6.
+In the meanwhile, the Hon'ble Supreme Court of India,
+4/29
+carbp-681-18_1.docx
+::: Uploaded on - 26/02/2019                    ::: Downloaded on - 21/03/2019 11:14:39 :::
+vide its judgment dated 25th August, 2014 and order dated 24th
+
+September, 2014, in the case of
+Manohar Lal Sharma Vs. The
+
+Principal Secretary & Ors
+[W.P. (Cri) 120 of 2012], cancelled the
+
+allocation of all Coal Blocks, including the Coal Blocks allocated to
+
+the respondent.
+7.                    In view of the aforesaid Supreme Court's judgment and
+
+order, certain disputes arose between the parties under the CMSA
+
+dated 6th May, 2010. Hence, the claimant invoked the arbitration
+
+clause in the CMSA and the Arbitral Tribunal came to be constituted.
+Once the Tribunal was constituted, directions were given by it and
+
+pursuant thereto the claimant filed its statement of claim dated 10th
+
+May, 2017 and the respondent filed its statement of defence as well
+
+as counterclaim (dated 21st September, 2017) for an amount of
+
+Rs.7854 crores, including a counterclaim for liquidated damages.
+After the respective pleadings were filed, points for determination
+
+have also been framed by the Tribunal and it has fixed the Schedule
+
+for recording oral evidence of the witnesses of the parties on the
+
+dates mentioned in the impugned order. I am informed that as of
+
+now, the second witness on behalf of the claimant is being cross-
+examined by the respondent.
+5/29
+carbp-681-18_1.docx
+::: Uploaded on - 26/02/2019                    ::: Downloaded on - 21/03/2019 11:14:39 :::
+8.                    Be that as it may, the respondent filed an application
+
+dated 15th December, 2017 under
+Section 17
+and
+31
+of the Act
+
+praying for the following interim award/ interim reliefs.
+"(a)      This Hon'ble Tribunal be pleased to grant
+                            an interim award to the Respondent for a
+                            sum of Rs.150 crores being the sum
+                            payable under the Undertaking dated 24th
+                            October, 2016;
+(b)       In the alternative and only in the event
+                            that this Hon'ble Tribunal does not deem it
+                            fit to grant the interim award as prayed
+                            for, this Hon'ble Tribunal be pleased to
+                            pass an order of interim protection,
+                            directing the Claimant to deposit a sum of
+                            Rs.150 crores in an escrow account
+                            maintained by any person nominated by
+                            the Tribunal."
+9.                    These reliefs were sought on the strength of an
+
+Undertaking dated 24th October, 2016 given by the claimant to the
+
+respondent which inter alia reads thus :
+"i.   This Undertaking shall relate to the period
+                             from     30.11.2009    upto      24.9.2014
+                             (hereinafter referred to as "Relevant
+                             Period").
+ii.   AEL shall pay without any demur merely
+                            on demand from MGCL, by way of one or
+                            more such demands subject to a
+                            maximum liability of Rs.150 crore only
+                            (either in one demand or as a sum total
+6/29
+carbp-681-18_1.docx
+::: Uploaded on - 26/02/2019                         ::: Downloaded on - 21/03/2019 11:14:39 :::
+of all such demands), upon MGCL
+                              stating      that       the      amount
+                              demanded/claimed is due by way of loss,
+                              damages or liquidated damages on any
+                              other ground for the Relevant Period.
+a)     Under the CMSA by reasons of any
+                                     past breach by AEL of any of the
+                                     terms or conditions contained in
+                                     the CMSA, during the Relevant
+                                     Period for which the CMSA was in
+                                     force, or
+b)     By reason of the AEL's failure to
+                                     have performed its obligations as
+                                     stipulated under the CMSA during
+                                     the Relevant Period for which the
+                                     CMSA is on force.
+iii.    AEL shall pay to MGCL any amount so
+                              demanded subject to maximum liability
+                              of Rs.150 crores within a period of 7
+                              (seven) calendar days from the date of
+                              receipt of such demand, notwithstanding
+                              any dispute or disputes raised by AEL in
+                              any suit or proceeding pending before
+                              any    court or tribunal       (including
+                              Arbitration Tribunal) in relation to the
+                              CMSA or this Undertaking.
+iv.    AEL's liability pursuant to this Undertaking
+                              is absolute and unequivocal."
+10.                   Before the Arbitral Tribunal, it was the case of the
+
+respondent that the claimant is in breach of its obligations under
+
+Clauses 3.2, 3.3 and 4.4 of the CMSA, by virtue of failing to achieve
+
+the Commencement Date as extended upto 30th October 2012 and
+
+the Commencement Date for Coal Production as extended upto 30th
+7/29
+carbp-681-18_1.docx
+::: Uploaded on - 26/02/2019                           ::: Downloaded on - 21/03/2019 11:14:39 :::
+October 2013. Accordingly, the respondent issued a demand notice
+
+dated 9th November 2017 invoking the Undertaking. The claimant
+
+replied to this Demand Notice by its letter dated 17th November, 2017
+
+and a response to which was given by the respondent on 7th
+
+December, 2017. It was on the basis of the aforesaid Undertaking
+
+dated 24th October, 2016 and the demand notice dated 9th November,
+
+2017 that the respondent filed the application before the Arbitral
+
+Tribunal under
+Section 31
+and
+17
+of the Act asking the Tribunal to
+
+pass an interim award in the sum of Rs.150 crores or in the
+
+alternative to direct the claimant to deposit the sum of Rs.150
+
+crores in an escrow account maintained by any person nominated by
+
+the Tribunal.
+11.                   In support of this application, the respondent argued
+
+before the Tribunal that as per the terms of the CMSA, the claimant
+
+had furnished a Performance Bank Guarantee (PBG) dated 19th
+
+August, 2009 for a sum of Rs.150 crores for guaranteeing the
+
+performance of its obligations under the CMSA. The said PBG was
+
+later replaced by a bank guarantee for an amount of Rs.75 crore,
+
+which was extended by the claimant from time to time, last of which
+
+took place on 25th February, 2016 extending the bank guarantee
+8/29
+carbp-681-18_1.docx
+::: Uploaded on - 26/02/2019                    ::: Downloaded on - 21/03/2019 11:14:39 :::
+upto 29th May, 2016.
+12.                   Thereafter, on the claimant's request, by its letter dated
+
+8th March, 2016 (Exhibit R-14 to the Statement of Defence), the
+
+respondent released the PBG of the claimant on the claimant
+
+furnishing the aforesaid Undertaking (dated 24th October, 2016) that
+
+the claimant would, merely on demand by the respondent, pay a sum
+
+of upto Rs. 150 crores to the respondent on account of liquidated
+
+damages or on any other ground. It was the respondent's case that
+
+this Undertaking was in replacement of the PBG and had to be
+
+interpreted as having the same force and effect as the PBG. The
+
+respondent in its application also averred that by letters dated 18th
+
+April, 2012, 18th June, 2012, 27th September, 2012 (Exhibit R-5 to
+
+the Statement of Defence, Vol 2 pg. 123), 6th March 2014 (Exhibit 15
+
+to the Counter Claim), 22nd April 2014 (Exhibit R-9 to the Statement
+
+of Defence, Vol.2 pg. 133) and 12th August 2014 (Exhibit 16 to the
+
+Counterclaim), the respondent informed the claimant about the
+
+claimant's default in achieving the Commencement Date and the
+
+Commencement of Coal Production date. This being the case, the
+
+claimant was liable to the respondent under the aforesaid
+
+Undertaking, was the argument.
+9/29
+carbp-681-18_1.docx
+::: Uploaded on - 26/02/2019                      ::: Downloaded on - 21/03/2019 11:14:39 :::
+13.                   The claimant resisted the application of the respondent
+
+inter alia on the ground that (a) the application raises disputed
+
+questions of fact and law including the validity of the Undertaking,
+
+and which are yet to be tried and decided at the trial; (b) the
+
+Undertaking is inexplicably linked to the respondent's claim for
+
+liquidated damages under clause 29 of the CMSA, which is pending
+
+adjudication in the counterclaim filed by the respondent and hence,
+
+the application is premature and misconceived; (c) when the
+
+claimant requested the respondent for returning the PBG after the
+
+Supreme Court judgment, the respondent refused to return the PBG
+
+and insisted for renewal of the PBG.                  When the project was
+
+terminated because of the judgment of the Supreme Court, there
+
+was no need for the claimant to go on incurring expenses for
+
+renewal of the PBG. Despite this, the claimant's request to return the
+
+PBG was acceptable to the respondent only if the claimant executed
+
+an Undertaking. By its letters dated 22nd and 27th April, 2015, the
+
+respondent had called upon the claimant to renew the PBGs, failing
+
+which, the respondent will invoke the PBGs to cover its "estimated
+
+losses" and it is in these circumstances, the claimant was coerced to
+
+execute the Undertaking; and (d) since the Supreme Court had
+10/29
+carbp-681-18_1.docx
+::: Uploaded on - 26/02/2019                     ::: Downloaded on - 21/03/2019 11:14:39 :::
+cancelled the allocation of Coal Blocks including the Coal Block for
+
+which the CMSA was executed (on the ground that the entire
+
+process relating to allocation, from inception, was illegal and null
+
+and void, and since the allocation of the Coal Blocks was ab initio
+
+null and void), the Undertaking itself was also ab initio null and void
+
+and therefore not enforceable.
+14.                   After noting the arguments of the claimant as well as the
+
+respondent, the Arbitral Tribunal came to a prima facie view that
+
+the Undertaking dated 24th October 2016 does not contain an
+
+admission of liability by the claimant to pay an amount of Rs.150
+
+crores to the respondent. It provides that the claimant shall pay to
+
+the respondent a sum of Rs. 150 crores upon a demand from the
+
+respondent that the amount demanded/claimed is due by way of
+
+loss, damages or liquidated damages or on any other ground for the
+
+relevant period by reason of any past breach by the claimant of any
+
+of the terms or conditions contained in the CMSA or by reason of any
+
+of the claimant's failure to perform its obligations as stipulated
+
+under the CMSA.                  The Tribunal recorded that the claimant had
+
+raised a serious dispute about the applicability of clause 29.2 of
+
+CMSA by invoking the force majeure clause which could be decided
+11/29
+carbp-681-18_1.docx
+::: Uploaded on - 26/02/2019                      ::: Downloaded on - 21/03/2019 11:14:39 :::
+only after considering the documents and oral evidence led by the
+
+parties. In these circumstances, the Tribunal held that there was no
+
+question of passing any interim award as contemplated under
+Section 31 (6)
+of the Act. I must mention that this part of the order
+
+is not challenged in this Petition, as indeed it cannot be, considering
+
+the provisions of
+Section 34
+of the Act.
+15.                   What is challenged before me are the findings and
+
+conclusions of the Tribunal in paragraphs 41 and 46 of the
+
+impugned order.              In paragraph 41 the Tribunal deals with the
+
+alternative prayer of the respondent for directing the claimant to
+
+deposit the amount of Rs.150 crores in an escrow account and
+
+opines that for such a prayer to be granted or considered, the
+
+respondent would have to make out a case similar to one under
+Order XXXVIII Rule 5 of the Code of Civil Procedure
+, 1908 (for short
+
+the "
+CPC
+"). The Tribunal thereafter noted that the respondent has
+
+not even pleaded any such case and therefore rejected the
+
+alternative prayer.              In paragraph 46 the Tribunal directed the
+
+claimant to furnish an Undertaking to the Tribunal within three
+
+weeks from the date of the impugned order that in case an award is
+
+made against the claimant, the claimant shall pay Rs.150 crores to
+12/29
+carbp-681-18_1.docx
+::: Uploaded on - 26/02/2019                    ::: Downloaded on - 21/03/2019 11:14:39 :::
+the      respondent.         While   directing   the     claimant         to give         this
+
+Undertaking, the Tribunal also restrained the respondent from
+
+enforcing its demand notice dated 9th November, 2017 during the
+
+pendency of the arbitral proceedings. It is this restraint order that
+
+is challenged in Arbitration Petition No. 681 of 2018 whereas the
+
+rejection of the alternative prayer for directing the claimant to
+
+deposit the amount of Rs.150 crores is challenged in Arbitration
+
+Petition No. 682 of 2018.
+16.                   In this factual backdrop, Mr Jain, the learned Counsel
+
+appearing on behalf of the respondent before the Tribunal,
+
+submitted that considering that the Undertaking dated 24th October,
+
+2016 given by the claimant was unequivocal and payment
+
+thereunder was to be made upon the respondent merely stating that
+
+the amount demanded/claimed is due by way of loss, damages or
+
+liquidated damages or on any other ground for the relevant period,
+
+was sufficient to infer that the liability at least to the extent of 150
+
+crores was clearly crystallized and to secure this amount, the
+
+Arbitral Tribunal ought to have granted the alternative prayer of
+
+deposit. He submitted that this is more so when one looks at the
+
+facts of the case and considering that this Undertaking was given in
+13/29
+carbp-681-18_1.docx
+::: Uploaded on - 26/02/2019                         ::: Downloaded on - 21/03/2019 11:14:39 :::
+lieu of the performance bank guarantee dated 19th August, 2009 and
+
+which was released to the claimant upon furnishing the aforesaid
+
+Undertaking. Mr. Jain submitted that since the Undertaking was
+
+given in substitution of the performance bank guarantee, the same
+
+has to be interpreted as having the same force and effect as the
+
+performance bank guarantee itself. If this be the case, then the
+
+Tribunal ought to have directed the claimant to deposit the sum of
+
+Rs.150 crore in an escrow account as prayed for in the alternative
+
+prayer of the respondent's application dated 15th December, 2017.
+
+Not having done so, the Tribunal's order suffers from serious legal
+
+infirmity and therefore ought to be interfered with by me under
+Section 37
+of the Act, was the submission of Mr. Jain.
+17.                   Mr. Jain then submitted that in any event, considering
+
+that the Tribunal had refused to pass any interim award in favour of
+
+the respondent or even ordered deposit of the sum of Rs.150 crores,
+
+the Tribunal was fully unjustified in restraining the respondent from
+
+enforcing their demand notice dated 9th November, 2017. Mr. Jain
+
+pointed out that the notice dated 9th November, 2017 was a notice
+
+that was given by the respondent to the claimant invoking the
+
+aforesaid             Undertaking.   By   restraining   the     respondent           from
+14/29
+carbp-681-18_1.docx
+::: Uploaded on - 26/02/2019                      ::: Downloaded on - 21/03/2019 11:14:39 :::
+enforcing the said notice, it was effectively restraining the
+
+respondent             from      enforcing   or   relying    upon       the     aforesaid
+
+Undertaking in all future proceedings, was the submission. He
+
+submitted that the Tribunal could not have passed such a drastic
+
+order especially considering that interim reliefs in favour of the
+
+respondent were already rejected by the Tribunal.                         He therefore
+
+submitted that even on this count, the impugned order requires
+
+interference.
+18.                   On the other hand, Mr. Nankani, the learned Senior
+
+Counsel, appearing on behalf of the claimant, submitted that the
+
+impugned order was a well reasoned one and was certainly a
+
+plausible view taken by the Tribunal which required no interference
+
+under
+Section 37
+of the Act. As far as the relief of deposit of Rs.150
+
+crores is concerned, Mr Nankani submitted that the aforesaid relief
+
+was in the nature of attachment before judgment as contemplated
+
+under
+Order XXXVIII Rule 5 of the CPC
+. He submitted that it is now
+
+well settled that while granting interim relief under
+Section 17
+, the
+
+principles that apply for granting relief either for attachment,
+
+injunction or appointment of a receiver would also apply to the
+
+Arbitral Tribunal whilst passing orders under
+Section 17
+.                                 He
+15/29
+carbp-681-18_1.docx
+::: Uploaded on - 26/02/2019                        ::: Downloaded on - 21/03/2019 11:14:39 :::
+submitted that in the facts of the present case, there was not even a
+
+single word in the application filed by the respondent making out a
+
+case under
+Order XXXVIII Rule 5 of the CPC
+. This being the case,
+
+the Tribunal was fully justified in rejecting the prayer for deposit of
+
+a sum of Rs.150 crores. As far as the injunction/restraint order
+
+passed against the respondent is concerned, Mr. Nankani submitted
+
+that the Tribunal's prima facie finding that there is no admission in
+
+the aforesaid Undertaking, the Tribunal was fully justified in
+
+restraining the respondent from enforcing the demand notice dated
+
+9th November, 2017.              For the all aforesaid reasons, Mr. Nankani
+
+submitted that there was no merit in either of the petitions and they
+
+ought to be dismissed.
+19.                   I have heard the learned counsel for the parties at length
+
+and perused the papers and proceedings in both the arbitration
+
+petitions. I have also carefully gone through the impugned order. I
+
+shall first deal with the issue of deposit of Rs.150 crores and which
+
+was the alternative prayer in the application of the respondent
+
+dated 15th December, 2017 filed before the Arbitral Tribunal.
+20.                   The application dated 15th December, 2017 filed by the
+16/29
+carbp-681-18_1.docx
+::: Uploaded on - 26/02/2019                      ::: Downloaded on - 21/03/2019 11:14:39 :::
+respondent before the Tribunal was an application under
+Section 17
+and
+31
+of the Act. The averments made in this application would
+
+clearly go to show that it was mainly for seeking an interim award
+
+under
+Section 31(6)
+of the Act. The averments in that regard can be
+
+found in Paragraphs 15, 16, 17 and 18 thereof. The only averments
+
+with reference to the alternative prayer regarding the deposit of
+
+Rs.150 crores can be found in paragraph 19 of this application and
+
+which reads thus:-
+"Without prejudice to the aforesaid, the
+                      Respondent submits that inspite of having
+                      clearly promised to pay the amount of Rs.150
+                      crores to the Respondent, the Claimant is
+                      completely dishonestly attempting to renege
+                      from its obligation. It is therefore likely that even
+                      in the event that a final award is passed against
+                      the Claimant by this Hon'ble Tribunal, the
+                      Claimant may attempt to dishonour the award
+                      also.    It is therefore submitted that in the
+                      alternative and only in the event that this Hon'ble
+                      Tribunal does not deem it fit to grant the interim
+                      award as prayed for this Hon'ble Tribunal ought
+                      to pass an order of interim protection, directing
+                      the Claimant to deposit the sum of Rs.150 crores
+                      in an escrow account maintained by any person
+                      nominated by this Hon'ble Tribunal."
+21.                   As can be seen from these averments, it is quite clear
+
+that there is no averment at all and no case whatsoever has been
+
+made out for ordering the claimant to deposit a sum of Rs.150
+
+crores. When such a relief is sought for, the principles that govern
+17/29
+carbp-681-18_1.docx
+::: Uploaded on - 26/02/2019                          ::: Downloaded on - 21/03/2019 11:14:39 :::
+the grant of such a relief are under the provisions of
+Order XXXVIII
+
+Rule 5 of the CPC
+. It is now well settled that the power under
+Order
+
+XXXVIII Rule 5 of the CPC
+is a drastic and extraordinary power.
+Such a power should not be exercised mechanically or merely for the
+
+asking. It should be used sparingly and strictly in accordance with
+
+the rules. The purpose of Order XXXVIII Rule 5 is not to convert an
+
+unsecured debt into a secured debt. Any attempt by a party to utilize
+
+the provisions of Order XXXVIII Rule 5 as a leverage for coercing
+
+the other party to settle the claim should be discouraged. It is now
+
+also well settled that the principles on which an order can be made
+
+for deposit by a Court would also apply to the Arbitral Tribunal. The
+
+principles
+laid down in
+the CPC
+for grant of interlocutory remedies
+
+must furnish a guide to the Arbitral Tribunal when it determines an
+
+application under
+Section 17
+of the Act. The underlying principles of
+Order XXXVIII Rule 5 of the CPC
+therefore have to be borne in mind
+
+while deciding an application under
+Section 17
+of the Act. This is
+
+now well settled.
+A Division Bench of this Court in the case of
+Nimbus Communications Ltd v. The Board of Control of Cricket
+in India [2012 SCC OnLine 287 : 2013 (1) MAH LJ 39] has
+
+reviewed the law on the subject and thereafter come to the
+
+conclusion that the principles
+laid down in
+the Code of Civil
+18/29
+carbp-681-18_1.docx
+::: Uploaded on - 26/02/2019                   ::: Downloaded on - 21/03/2019 11:14:39 :::
+Procedure 1908 for the grant of interlocutory remedies must
+
+furnish a guide to the Court when it determines an application under
+Section 9
+of the Arbitration and Conciliation Act, 1996. The
+
+underlying basis of Order 38, Rule 5 therefore has to be borne in
+
+mind while               deciding     an application under
+Section 9(ii)(b)
+.
+Paragraphs 16 to 24 of this decision reads thus :
+"16.
+Section 9
+of the Arbitration and Conciliation Act, 1996 enables
+                      a party to apply to the Court either before or during the arbitral
+                      proceedings or at any time after the making of an award but before
+                      it is enforced in accordance with
+section 36
+. Clause (ii) enables a
+                      party to seek an interim measure of protection in respect of the
+                      following matters:
+"(a) the preservation, interim custody or sale of any goods
+                                which are the subject-matter of the arbitration
+                                agreement;
+(b) securing the amount in dispute in the arbitration;
+(c) the detention, preservation or inspection of any property
+                                or thing which is the subject-matter of the dispute in
+                                arbitration, or as to which any question may arise therein
+                                and authorising for any of the aforesaid purposes any
+                                person to enter upon any land or building in the
+                                possession of any party, or authorising any samples to
+                                be taken or any observation to be made, or experiment
+                                to be tried, which may be necessary or expedient for the
+                                purpose of obtaining full information or evidence;
+(d) interim injunction or the appointment of a receiver;
+(e) such other interim measure of protection as may appear
+                                to the Court to be just and convenient, and the Court
+                                shall have the same power for making orders as it has
+                                for the purpose of, and in relation to, any proceedings
+                                before it."
+17. The provision enunciates that the Court shall have the same
+                      power for making orders as it has for the purpose of and in relation
+                      to any proceedings before it. Now it is in this background, that it
+                      would be necessary to consider the basic issue raised. The
+19/29
+carbp-681-18_1.docx
+::: Uploaded on - 26/02/2019                            ::: Downloaded on - 21/03/2019 11:14:39 :::
+submission of the first respondent is that when a Court passes an
+                      order providing for an interim measure of protection for securing
+                      the amount in dispute in arbitration, the power can be exercised
+                      only subject to the restrictions which are spelt out in
+Order 38, Rule
+                      5 of the Code of Civil Procedure
+, 1908. Order 38, Rule 5 applies in
+                      a situation where at any stage of a suit, the Court is satisfied that
+                      the defendant (i) is about to dispose of the whole or part of his
+                      property or (ii) is about to remove the whole or part of his property
+                      from the local limits of the jurisdiction of the Court with intent to
+                      obstruct or delay the execution of any decree that may be passed
+                      against him. In such an event the Court may direct the defendant
+                      either to furnish security in such sum as may be specified in the
+                      order, to produce the property and place it at the disposal of the
+                      Court when required or the value of the same or such portion as
+                      may be sufficient to satisfy the decree. The exercise of the power
+                      under Rule 5 of Order 38 is thus conditioned by two requirements,
+                      the first being in regard to the conduct of the defendant, in that he is
+                      about to alienate his property or to remove it from the jurisdiction
+                      of the Court and the second, the intention of the defendant to
+                      obstruct or delay the execution of a decree that may be passed
+                      against him. Parliament in the provisions of
+section 9(ii)(b)
+contemplated an interim measure of protection to secure the amount
+                      in dispute in the arbitration. The object underlying the conferment
+                      of the power upon the Court is to ensure that the fruits of an
+                      arbitral award which may eventually be passed against the
+                      defendant to the claim are not lost to the claimant by a dissipation
+                      of the property in the meantime. The issue as to whether the power
+                      which has been conferred on the Court under
+section 9
+is hedged in
+                      by the specific provisions
+of the Code of Civil Procedure
+, 1908
+                      came up before a Division Bench of this Court initially in
+National
+                      Shipping Company of Saudi Arabia v. Sentrans Industries Limited
+,
+                      2004 (2) Mh.L.J. 696 : 2004 (2) Bom.C.R. 1. The issue before the
+                      Court was whether the power exercisable by the Court under
+section 9(ii)(b)
+of passing an interim measure for securing the
+                      amount in dispute in the arbitration was restricted by the conditions
+                      of attachment before judgment as prescribed under Order 38, Rule
+5. Mr. Justice R.M. Lodha (as the Learned Judge then was)
+                      speaking for the Division Bench held that as a principle of law a
+                      special provision of the nature embodied in
+section 9(ii)(b)
+cannot
+                      be restricted by importing the provisions of Order 38, Rule 5. The
+                      Division Bench held that though the power under
+section 9(ii)(b)
+has not been made subject to the stringent provisions of Order 38,
+20/29
+carbp-681-18_1.docx
+::: Uploaded on - 26/02/2019                              ::: Downloaded on - 21/03/2019 11:14:39 :::
+Rule 5, the exercise of the power is guided by the paramount
+                      consideration that the claimant who obtains an award in his favour
+                      before the arbitrator ultimately is able to derive the fruits of the
+                      adjudication in executing the award. The Division Bench held as
+                      follows:
+"The order under
+section 9(ii)(b)
+is in the nature of interim
+                            protection order. In a special provision of the nature like
+                            section 9(ii)(b), we are afraid, exercise of power cannot be
+                            restricted by importing the provisions of Order 38, Rule 5 of
+                            the Code of Civil Procedure as it is. The legislature while
+                            enacting section 9(ii)(b) does not seem to us to have
+                            intended to read into it the provisions of Order 38, Rule 5 of
+                            the Code of Civil Procedure as it is.
+The provisions of Order 38, Rule 5, Civil Procedure Code
+                            cannot be read into the said provision as it is nor can power
+                            of the Court in passing an order of interim measure under
+section 9(ii)(b)
+be made subject to the stringent provision of
+                            Order 38, Rule 5. The power of the Court in passing the
+                            protection order to secure the amount in dispute in the
+                            arbitration before or during arbitral proceedings or at any
+                            time of making of the arbitral award but before it is enforced
+                            cannot be restricted by importing the provisions set out in
+                            Order 38 of Civil Procedure Code but has to be exercised
+                            ex debito justitiae and in the interest of justice. The Court
+                            while considering the application for interim protection under
+section 9(ii)(b)
+is guided by equitable consideration and
+                            each case has to be considered in the light of its facts and
+                            circumstances. The interim protection order contemplated
+                            under
+section 9(ii)(b)
+is granted by the Court to protect the
+                            interest of the party seeking such order until the rights are
+                            finally adjudicated by the Arbitral Tribunal and to ensure that
+                            the Award passed by Arbitral Tribunal is capable of
+                            enforcement. Though the power given to the Court under
+section 9(ii)(b)
+is very wide and is not in any way controlled
+                            by the provisions of the Code but such exercise of power,
+                            obviously, has to be guided by the paramount consideration
+                            that the party having a claim adjudicated in its favour
+                            ultimately by the arbitrator is in a position to get the fruits of
+                            such adjudication and in executing the Award. While dealing
+                            with the application for direction to the other party to deposit
+                            the security of the amount in dispute in the arbitration, the
+                            Court also has to keep in mind the drastic nature of such
+                            order and unless a clear case not only on the merits of the
+                            claim is made out but also the aspect that denial of such
+21/29
+carbp-681-18_1.docx
+::: Uploaded on - 26/02/2019                             ::: Downloaded on - 21/03/2019 11:14:39 :::
+order would result in grave injustice to the party seeking
+                            such protection order inasmuch as in the absence of such
+                            order, the applicant party succeeding before the Arbitral
+                            Tribunal may not be able to execute the Award. The
+                            obstructive conduct of the opposite party may be one of the
+                            relevant considerations for the Court to consider the
+                            application under
+section 9(ii)(b)
+. The party seeking
+                            protection order under
+section 9(ii)(b)
+ordinarily must place
+                            some material before the Court, besides the merits of the
+                            claim that order under
+section 9(ii)(b)
+is eminently needed to
+                            be passed as there is likelihood or an attempt to defeat the
+                            Award, though as indicated above, the provisions of Order
+                            38, Rule 5, Civil Procedure Code are not required to be
+                            satisfied. The statutory discretion given to the Court under
+section 9(ii)(b)
+must be exercised judicially in accordance
+                            with established legal principles and having regard only to
+                            relevant considerations. In our view, this is the proper
+                            approach for consideration of the application for interim
+                            relief under
+section 9(ii)(b)
+and we hold that the provisions
+                            of
+Order 38, Rule 5 of the Code of Civil Procedure
+cannot
+                            be read as it is and imported in
+section 9
+of the Act of 1996.
+                            We also hold without hesitation that the Court is competent
+                            to pass an appropriate protection order of interim measure
+                            as provided under
+section 9(ii)(b)
+outside the provisions of
+Order 38, Rule 5 Code of Civil Procedure
+. Each case under
+section 9(ii)(b)
+of the Act of 1996 has to be considered in its
+                            own facts and circumstances and on the principles of equity,
+                            fair play and good conscience."
+18.
+In a subsequent decision of the Supreme Court in
+Arvind
+                      Constructions Co. (P) Ltd. v. Kalinga Mining Corporation
+, 2008 (1)
+                      Mh.L.J. (S.C.) 7 : (2007) 6 SCC 798 the Supreme Court held that
+                      the power under
+section 9
+cannot be read as independent of the
+Specific Relief Act
+and it could not be contended that the
+                      restrictions placed by the
+Specific Relief Act
+cannot control the
+                      exercise of the power under
+section 9
+. The Court observed that
+                      while entertaining an application under
+section 9
+, the Court must
+                      have the same power for making orders as it has for the purpose of
+                      and in relation to any proceedings before it. Consequently the
+                      general rules that govern the Court while considering the grant of
+                      an interim injunction at the threshold would be attracted even while
+                      dealing with an application under
+section 9
+. The Court also noted
+                      the principle that when a power is conferred under a special statute
+22/29
+carbp-681-18_1.docx
+::: Uploaded on - 26/02/2019                            ::: Downloaded on - 21/03/2019 11:14:39 :::
+and is conferred on an ordinary Court of the land, without laying
+                      down any special condition for the exercise of that power, the
+                      general rules of procedure would apply. The Supreme Court
+                      adverted to the position which was inter alia taken by the Division
+                      Bench of this Court that the power under
+section 9
+is not controlled
+                      by
+Order 38, Rule 5 of the Code of Civil Procedure
+1908, but left it
+                      open to be determined in an appropriate case.
+19. In the decision of the Supreme Court in Adhunik Steels (supra)
+                      the respondent had obtained a mining lease from the State
+                      Government of Orissa and had an agreement with the appellant for
+                      raising manganese ore on its behalf. The term of the agreement was
+                      ten years with an option to renew. The respondent issued a notice of
+                      termination calling upon the appellant to remove itself from the site
+                      contending that its contract was in violation of the Mineral
+                      Concession Rules, 1960. The appellant thereupon moved the
+                      District Court under
+section 9
+for an injunction restraining the
+                      respondent from terminating the contract and from dispossessing it
+                      at site. The District Court allowed the application under
+section 9
+.
+                      The High Court in appeal upheld the contention of the respondent
+                      that the loss if any that may be sustained by the appellant could be
+                      calculated in monetary terms and that in view of
+section 14(3)(c)
+of
+                      the Specific Relief Act, an injunction could not be granted. In that
+                      view of the matter, the High Court did not consider it fit to enquire
+                      into the issue of the balance of convenience. Before the Supreme
+                      Court it was urged on behalf of the appellant that
+section 9
+was
+                      independent of
+Order 39 of the Code of Civil Procedure
+1908 and
+                      the exercise of the power was not subject to the provisions
+                      contained in the
+Specific Relief Act
+. The Supreme Court dealt with
+                      the submission in the following terms:
+"The grant of an interim prohibitory injunction or an interim
+                            mandatory injunction are governed by well known rules and
+                            it is difficult to imagine that the legislature while enacting
+section 9
+of the Act intended to make a provision which was
+                            de hors the accepted principles that governed the grant of
+                            an interim injunction. Same is the position regarding the
+                            appointment of a receiver since the section itself brings in,
+                            the concept of 'just and convenient' while speaking of
+                            passing any interim measure of protection. The concluding
+                            words of the section, "and the Court shall have the same
+                            power for making orders as it has for the purpose and in
+                            relation to any proceedings before it" also suggest that the
+                            normal rules that govern the Court in the grant of interim
+23/29
+carbp-681-18_1.docx
+::: Uploaded on - 26/02/2019                            ::: Downloaded on - 21/03/2019 11:14:39 :::
+orders is not sought to be jettisoned by the provision.
+                            Moreover, when a party is given a right to approach an
+                            ordinary Court of the country without providing a special
+                            procedure or a special set of rules in that behalf, the
+                            ordinary rules followed by that Court would govern the
+                            exercise of power conferred by the Act."
+20. The Supreme Court noted that the power to grant injunction by
+                      way of specific relief is covered by the
+Specific Relief Act, 1963
+,
+                      injunction being a form of specific relief.
+Section 9
+, the Supreme
+                      Court noted does not contain any special condition nor does it
+                      provide for a special procedure. The Court noted that whether an
+                      interim measure should be ordered permitting the appellant to carry
+                      on mining operations in the face of an attempted termination of the
+                      contract would lead the Court to a consideration of the classical
+                      rules for the grant of such an interim measure. This, it was held,
+                      had to be considered based on the well settled principles in that
+                      behalf. Consequently the Supreme Court held as follows:
+"Therefore, on the whole, we feel that it would not be correct
+                            to say that the power under
+section 9
+of the Act is totally
+                            independent of the well-known principles governing the
+                            grant of an interim injunction that generally govern the
+                            Courts in this connection."
+21. The Supreme Court directed that while the respondent should
+                      not enter into a contract for mining and lifting of minerals with any
+                      other entity until conclusion of the arbitral proceedings, there was
+                      no justification in preventing it from carrying on the mining
+                      operations by itself.
+22. The judgment of the Supreme Court in Adhunik Steels has noted
+                      the earlier decision in Arvind Constructions which holds that since
+section 9
+is a power which is conferred under a special statute, but
+                      which is exercisable by an ordinary Court without laying down a
+                      special condition for the exercise of the power or a special
+                      procedure, the general rules of procedure of the Court would apply.
+                      Consequently, where an injunction is sought under
+section 9
+the
+                      power of the Court to grant that injunction cannot be exercised
+                      independent of the principles which have been laid down to govern
+                      the grant of interim injunctions particularly in the context of the
+Specific Relief Act, 1963
+. The Court, consequently would be
+                      obligated to consider as to whether there exists a prima facie case,
+24/29
+carbp-681-18_1.docx
+::: Uploaded on - 26/02/2019                            ::: Downloaded on - 21/03/2019 11:14:39 :::
+the balance of convenience and irreparable injury in deciding
+                      whether it would be just and convenient to grant an order of
+                      injunction.
+Section 9
+, specifically provides in sub-clause (d) of
+                      clause (ii) for the grant of an interim injunction or the appointment
+                      of a receiver. As regards sub-clause (b) of clause (ii) the interim
+                      measure of protection is to secure the amount in dispute in the
+                      arbitration. The underlying object of Order 38, Rule 5 is to confer
+                      upon the Court an enabling power to require a defendant to provide
+                      security of an extent and value as may be sufficient to satisfy the
+                      decree that may be passed in favour of the plaintiff. The exercise of
+                      the power to order that security should be furnished is, however,
+                      preconditioned by the requirement of the satisfaction of the Court
+                      that the defendant is about to alienate the property or remove it
+                      beyond the limits of the Court with an intent to obstruct or delay
+                      execution of the decree that may be passed against him.
+In view of
+                      the decisions of the Supreme Court both in Arvind
+                      Constructions and Adhunik Steels, it would not be possible to
+                      subscribe to the position that the power to grant an interim measure
+                      of protection under
+section 9(ii)(b)
+is completely independent of the
+                      provisions
+of the Code of Civil Procedure
+1908 or that the exercise
+                      of that power is untrammelled by the Code. The basic principle
+                      which emerges from both the judgments of the Supreme Court is
+                      that though the
+Arbitration and Conciliation Act, 1996
+is a special
+                      statute,
+section 9
+does not either attach a special condition for the
+                      exercise of the power nor does it embody a special form of
+                      procedure for the exercise of the power by the Court. The second
+                      aspect of the provision which has been noted by the Supreme Court
+                      is the concluding part of
+section 9
+under which it has been specified
+                      that the Court shall have the same power for making orders as it
+                      has for the purpose of and in relation to any proceedings before it.
+                      This has been interpreted in both the judgments to mean that the
+                      normal rules that govern the Court in the grant of an interlocutory
+                      order are not jettisoned by the provision. The judgment of the
+                      Division Bench of this Court in
+National Shipping Company
+(supra)
+                      notes that though the power by
+section 9(ii)(b)
+is wide, it has to be
+                      governed by the paramount consideration that a party which has a
+                      claim adjudicated in its favour ultimately by the arbitrator should
+                      be in a position to obtain the fruits of the arbitration while
+                      executing the award. The Division Bench noted that the power
+                      being of a drastic nature, a direction to secure the amount claimed
+                      in the arbitration petition should not be issued merely on the merits
+                      of the claim, unless a denial of the order would result in grave
+25/29
+carbp-681-18_1.docx
+::: Uploaded on - 26/02/2019                            ::: Downloaded on - 21/03/2019 11:14:39 :::
+injustice to the party seeking a protective order. The obstructive
+                      conduct of the party against whom such a direction is sought was
+                      regarded as being a material consideration. However, the view of
+                      the Division Bench of this Court that the exercise of power under
+section 9(ii)(b)
+is not controlled by the provisions
+of the Code of
+                      Civil Procedure
+1908 cannot stand in view of the decision of the
+                      Supreme Court in Adhunik Steels.
+23.
+In a recent judgment of a learned Single Judge of the Delhi
+                      High Court in
+Steel Authority of India Ltd. v. AMCIPTY
+                      Ltd., O.M.P.
+417/2011 decided on 1 September, 2011, the judgment
+                      of the Division Bench of this Court in National Shipping Company
+                      was relied upon. The Delhi High Court observed that the provisions
+                      of Order 38, Rule 5 would serve as a guiding principle for the
+                      exercise of the jurisdiction while dealing with a petition under
+section 9
+requiring the respondent to furnish security and the basic
+                      consideration is that the Court should be satisfied that the
+                      furnishing of security is essential to safeguard the interest of the
+                      petitioner.
+24. A close reading of the judgment of the Supreme Court
+                      in Adhunik Steels would indicate that while the Court held that the
+                      basic principles governing the grant of interim injunction would
+                      stand attracted to a petition under
+section 9
+, the Court was of the
+                      view that the power under
+section 9
+is not totally independent of
+                      those principles. In other words, the power which is exercised by
+                      the Court under
+section 9
+is guided by the underlying principles
+                      which govern the exercise of an analogous power in
+the Code of
+                      Civil Procedure
+1908. The exercise of the power under
+section 9
+cannot be totally independent of those principles. At the same time,
+                      the Court when it decides a petition under
+section 9
+must have due
+                      regard to the underlying purpose of the conferment of the power
+                      upon the Court which is to promote the efficacy of arbitration as a
+                      form of dispute resolution. Just as on the one hand the exercise of
+                      the power under
+section 9
+cannot be carried out in an uncharted
+                      territory ignoring the basic principles of procedural law contained
+                      in
+the Code of Civil Procedure
+1908, the rigors of every procedural
+                      provision in
+the Code of Civil Procedure
+1908 cannot be put into
+                      place to defeat the grant of relief which would subserve the
+                      paramount interests of justice. A balance has to be drawn between
+                      the two considerations in the facts of each case. The principles
+laid
+                      down in
+the Code of Civil Procedure
+1908 for the grant of
+26/29
+carbp-681-18_1.docx
+::: Uploaded on - 26/02/2019                            ::: Downloaded on - 21/03/2019 11:14:39 :::
+interlocutory remedies must furnish a guide to the Court when it
+                      determines an application under
+section 9
+of the Arbitration and
+                      Conciliation Act, 1996. The underlying basis of Order 38, Rule 5
+                      therefore has to be borne in mind while deciding an application
+                      under
+section 9(ii)(b)
+."
+22.                   I must mention that this decision was rendered in the
+
+context of
+Section 9
+of the Act. However, now
+Section 17
+, after its
+
+Amendment in 2015, is virtually brought on par with
+Section 9
+. This
+
+being the case, the principle
+laid down by
+the Division Bench of this
+
+Court in the aforesaid decision of
+Nimbus Communications Ltd
+(supra) would also apply to the Arbitral Tribunal whilst exercising
+
+powers under
+Section 17
+of the Act.
+23.                   As mentioned earlier and as also recorded in the
+
+impugned order, there is not a single averment in the application
+
+that would justify the order of the deposit. In fact, the impugned
+
+order categorically records that the respondent's alternative prayer
+
+for directing the claimant to deposit the amount of Rs.150 crores in
+
+an escrow account can be considered only if the respondent makes
+
+out a case similar to one under
+Order XXXVIII Rule 5 of the CPC
+.
+The Tribunal also records that the respondent has not even pleaded
+
+any such case. This being the position, I do not find that the Arbitral
+
+Tribunal had in any way gone wrong in refusing the prayer of the
+27/29
+carbp-681-18_1.docx
+::: Uploaded on - 26/02/2019                          ::: Downloaded on - 21/03/2019 11:14:39 :::
+respondent for directing the claimant to deposit the sum of Rs.150
+
+crores.
+24.                   This now leaves me only to deal with whether the
+
+Tribunal was justified in restraining the respondent from enforcing
+
+the demand notice dated 9th November, 2017. On going through the
+
+impugned order and the
+Section 17
+application filed by the claimant
+
+dated 21st November, 2017, I fail to understand what was the
+
+purpose of granting such an injunction. As can be seen from the
+
+facts narrated above, this application was filed prior to the
+
+application filed by the respondent seeking an interim award or in
+
+the alternative, a prayer for deposit.         It is quite clear that this
+
+application was filed to scuttle the respondent either from getting an
+
+interim award or from getting an order for deposit of the sum of
+
+Rs.150 crores. Both the applications were heard together by the
+
+Arbitral Tribunal and disposed of by the common impugned order.
+Once having rejected the application of the respondent on merits
+
+there was absolutely no purpose that would have been served by
+
+restraining the respondent from enforcing its demand notice. To my
+
+mind, the effect of such restraint is to prevent the respondent from
+
+relying upon the Undertaking dated 24th October, 2016 which forms
+28/29
+carbp-681-18_1.docx
+::: Uploaded on - 26/02/2019                 ::: Downloaded on - 21/03/2019 11:14:39 :::
+the subject matter of the demand notice. This, in my opinion, could
+
+not have been done. If the respondent, on the basis of the aforesaid
+
+Undertaking, is entitled to take recourse to any other proceedings
+
+which it may be entitled to in law, then the respondent cannot be
+
+restrained in this proceeding from adopting any such other
+
+proceeding. I therefore find that this restraint, apart from being
+
+unnecessary, was wholly unjustified. In these circumstances, the
+
+impugned order only insofar as it restrains the respondent from
+
+enforcing the demand notice dated 9th November, 2017 is set aside.
+25.                   Both the arbitration petitions are disposed of in the
+
+aforesaid terms. However, there shall be no order as to costs.
+(B. P. COLABAWALLA, J.)
+29/29
+carbp-681-18_1.docx
+::: Uploaded on - 26/02/2019                    ::: Downloaded on - 21/03/2019 11:14:39 :::

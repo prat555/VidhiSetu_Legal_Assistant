@@ -1,0 +1,296 @@
+Title: Search
+Court: High Court
+Date: Unknown Date
+Citation: citations: [1989]180ITR464(KAR), [1989]180ITR464(KARN), 1989(2)KARLJ424
+Source: https://indiankanoon.org/doc/1745506/
+
+[Cites
+22
+, Cited by
+11
+]
+Karnataka High Court
+Ramkumar Mills P. Ltd. vs Commissioner Of Income-Tax on 3 June, 1989
+Equivalent citations: [1989]180ITR464(KAR), [1989]180ITR464(KARN), 1989(2)KARLJ424
+JUDGMENT
+ 
+
+Rama Jois, J.
+1. This is a reference made by the Income-tax Appellate Tribunal, Bangalore Bench, under
+section 256(1)
+of the Income-tax Act, 1961. The question of law referred for our opinion reads :
+"Whether, for the purposes of
+section 22
+of the Income-tax Act, 1961, the ownership of property is transferred only by execution and registration of sale deed and not by other acts such as delivering vacant possession and giving all rights of interest in the property including the right of realisation of rent ?"
+2. The relevant facts are these : The assessment year is 1978-79. The assessee, being the owner of certain industrial sheds at Ahmedabad, had leased them to one Y. G. Panduranga Setty and four others, from July 31, 1974, for a period of 98 years on an annual rent of Rs. 35,000. The assessee, with the consent of the lessee, entered into an agreement on September 1, 1975, with a partnership firms styled Lakshmi Commercial Corporation for the sale of the property for a consideration of Rs. 4,20,000. In that performance of the agreement, the assessee delivered vacant possession of the property to Lakshmi Commercial Corporation giving the firm all rights, title and interest which the assessee had in the property including the right to collect the rent from the property. The assessee could not execute the sale deed so as to bring about the transfer of property in favour of Lakshmi Commercial Corporation. The question raised by the assessee before the Income-tax Officer was that the income from the said property was not chargeable to tax in the hands of the assessee. The assessee also invoked the provisions of
+section 53A
+of the Transfer of Property Act and contended that in part performance of the contract for sale, possession of the property had been handed over to Lakshmi Commercial Corporation and the assessee retained no right to receive any income from the property and, therefore, the income from that house property was not chargeable to tax under the Act. The claim of the assessee was negatived by the Income-tax Officer. He held that, in the eye of law, the assessee was the owner of the property and, therefore, it was chargeable to tax under
+section 22
+of the Act. The Appellate Assistant Commissioner also held that the transfer of immovable property of the value of Rs. 100 and above could be only by means of a registered instrument and in the absence of such an instrument, the assessee continued to be the owner of the property and, therefore, liable to pay tax. The assessee appealed to the Tribunal. The Tribunal also affirmed the view taken by the Income-tax Officer and the Appellate Assistant Commissioner. Thereafter, at the instance of the assessee, the question set out earlier had been referred for our opinion.
+3. Learned counsel for the Revenue submitted that, in view of the ratio of the decision in Nawab Sir Mir Osman Ali Khan v. CWT , the question has to be answered in the affirmative and against the assessee.
+4. The question for consideration in Ali Khan's case  was whether, under the provisions of the
+Wealth-tax Act
+, a property in respect of which consideration had been received and possession had been handed over to the intending purchaser, though the sale deed was not executed, was property belonging to the person concerned and, therefore, liable to wealth-tax under the provisions of the
+Wealth-tax Act, 1957
+? The expression "net wealth" has been defined under
+section 2(m)
+of the Wealth-tax Act, which reads thus :
+"2(m) 'net wealth' means the amount by which the aggregate value computed in accordance with the provisions of this Act of all the assets, wherever located, belonging to the assessee on the valuation date, including assets required to be included in his net wealth as on that date under this Act, is in excess of the aggregate value of all the debts owed by the assessee on the valuation date..."
+5. The Supreme Court, on an interpretation of the above provision, held that the properties in respect of which registered sale deeds had not been executed, though consideration for sale had been received and possession had been handed over to the purchaser, legally does not belong to the vendee and it continues to belong to the vendor.
+6. From the above decision, it is clear that the Supreme Court held that notwithstanding the fact that a person had entered into an agreement to sell his property in favour of another and had also received full consideration and handed over possession of the property to the vendee for the purpose of the
+Wealth-tax Act
+, the property continues to belong to the vendor if a registered instrument of sale has not been executed. It is true that the Supreme Court observed that they were confining the interpretation to the provisions of
+section 2(m)
+of the Wealth-tax Act, particularly having regard to the words "belonging to" used in the said provision. But, in our opinion, the reasoning and the basis on which the Supreme Court held that in such circumstances the property continues to belong to the vendor equally holds goods for the purpose of interpretation of
+section 22
+of the income-tax Act. That provision reads :
+"22. Income from house property. - The annual value of property consisting of any buildings or lands appurtenant thereto of which the assessee is the owner, other than such portions of such property as he may occupy for the purposes of any business or profession carried on by him the profits of which are chargeable to income-tax shall be chargeable to income-tax under the head 'Income from house property'."
+7. The above section clearly provides that the annual value of property consisting of any buildings or lands appurtenant thereto of which the assessee is the owner, except to the extent provided in the provision, shall be chargeable to income-tax under the head "Income from house property". Though a vendee who has entered into an agreement to purchase the property has paid the consideration and has also secured possession, still he does not become the owner of the property until and unless a registered sale deed is executed. He might be entitle to claim certain rights under
+section 53A
+of the Transfer of Property Act, 1882, but still he does not become the owner. For the purpose of
+section 22
+of the Act, all that we have got to see is whether the assessee continues to be the owner of the property in question or has ceased to be the owner, and the very reasoning given by the Supreme Court in Ali Khan's case [1986] 162 ITR 888 to hold that the property belongs to the vendor so long as a registered instrument has not been executed, is also sufficient to hold that, in the present case, the assessee continued to be the owner of the property and, therefore, the view taken by the authorities is right.
+8. Learned counsel for the assessee, however, relied on the judgment of the Supreme Court in
+R. B. Jodha Mal Kuthiala v. CIT
+[1971] 82 ITR 570. In
+the said decision
+, the question for consideration was whether the assessee
+in that case
+was liable to pay tax on income from his property situated in Pakistan which had vested in the Custodian of Evacuee Property in Pakistan. The Supreme Court, on an interpretation of
+section 9
+of the Income-tax Act, held that the owner, for the purpose of liability to pay the tax, must be the person who exercises the rights of the owner in his own right. On an interpretation of the provisions of
+section 6(1)
+of the Pakistan (Administration of Evacuee Property) Ordinance, 1949, the Supreme Court held that the property vested in the Custodian under
+section 6(1)
+of the said Ordinance and, therefore, the assessee, whose property so vested in the Custodian and who could not exercise any right in relation to that property except with the consent of the Custodian, could not be considered as "owner" for the purpose of
+section 9
+of the Act.
+9. Learned counsel for the assessee also relied on the judgment of the Punjab and Haryana High Court in
+Kala Rani v. CIT
+[1981] 130 ITR 321. That was a case in which the question for consideration was whether a person who had secured possession of a property pursuant to an agreement to sell after paying full consideration but without there being a registered sale deed, was liable to tax under the provisions of the Act. The Punjab High Court held that as the assessee had occupied the property after the execution of the agreement of sale in his favour, he was in a position to earn income from the property sold to him and further he had paid the entire consideration to the vendor at the time of the execution of the agreement and no payment was required to be made or made at the time of actual registration of the document and, therefore, the income from such property, even during the period prior to the execution of sale deed, was liable to tax at his hands. This decision does support the contention of the assessee for the reason that if the purchaser who was put in possession of the property could be regarded as owner liable to tax under
+section 22
+of the Act, it follows that the seller could not be regarded as owner. The decision of the Patna High Court in Addl.
+CIT v. Sahay Properties and Investment Co. P. Ltd.
+[1983] 144 ITR 357 is also similar to the decision in
+Kala Rani
+'s case . The vendee
+in that case
+who had secured possession of the property after payment of the consideration pursuant to an agreement of sale, but in whose favour there was no registered sale deed, was regarded as owner for the purpose of
+section 22
+of the Income-tax Act. The Allahabad High Court has also taken a similar view in the case of Addl.
+CIT v. U. P. State Agro Industrial Corporation Ltd.
+[1981] 127 ITR 97.
+10. There are several other decisions of other High Court in which a contrary view has been taken. However, according to learned counsel for the assessee, in view of the ratio of the decision of the Supreme Court in
+Kuthiala
+'s case [1971] 82 ITR 570, the question referred has to be answered in favour of the assessee.
+Learned counsel for the Revenue, however, contends that the decision in
+Kuthiala
+'s case  rendered under the provisions of the Administration of Evacuee Property Ordinance, according to which the property vested in the Custodian, is not apposite to the question for consideration in this case.
+11. I shall now proceed to consider the validity of the rival contentions. Prior to the decision of the Supreme Court in
+Kuthiala
+'s case [1971] 82 ITR 570, in the case of
+CIT v. Ganga Properties Ltd.
+, the question was considered by the Calcutta High Court. The Calcutta High Court held that in the case of a sale of immovable property, a registered document is necessary to give effect to the sale and the sale takes effect only from the date of execution of the document and that, in Indian law, beneficial ownership is unknown and there is only one owner, namely, the legal owner, and that the expression "income from property" used in
+section 6
+and
+9
+of the Indian Income-tax Act, 1922, refers to the income of the legal owner of the property and he is the only person assessable to tax on the basis of the bona fide annual value thereof.
+A similar view was taken by the Gujarat High Court in
+CIT v. Ashaland Corporation
+[1982] 133 ITR 55 after the decision in
+Kuthiala
+'s case , though there is no reference to that decision.
+There is, however, the decision of the Bombay High Court in the case of
+CIT v. Zorostrian Building Society Ltd.
+[1976] 102 ITR 499, in which a similar view had been taken after rejecting the contention that the decision of the Calcutta High Court in Ganga Properties [1970] 77 ITR 637 and decisions of other High Courts taking a similar view were impliedly overruled by
+Kuthiala
+'s case . The relevant portion of that judgment reads (pp. 513, 514, 517) :
+"It was, however, strongly urged by Mr. Kolah that these decisions of the Calcutta High Court, Bombay High Court and the Delhi High Court should be regarded as impliedly overruled by a later decision of the Supreme Court in the case of
+R. B. Jodha Mal Kuthiala v. CIT
+[1971] 82 ITR 570. In this case, the Supreme Court had occasion to consider the provisions of the Pakistan (Administration of Evacuee Property) Ordinance, 1949...
+The Supreme Court has analysed with meticulous care the provisions of the Evacuee Ordinance and has considered the effect thereof. It is pointed out that the Ordinance starts by saying that it is an Ordinance to provide for the administration of evacuee property and not management of evacuee property. The expression 'administration', in relation to an estate, in law means management and settling of that estate. It is a power to deal with the estate. The evacuee could not take possession of his property. He could not lease that property. He could not sell that property without the consent of the Custodian. He could not mortgage that property. He could not realise the income of the property. On the other hand, the Custodian could take possession of that property. He could realise its income. He could alienate the property and he could under certain circumstances demolish the property. All the rights that the evacuee had in the property he left in Pakistan were exercisable by the Custodian excepting that he could not appropriate the proceeds for his own use. The evacuee could not exercise any rights in that property except with the consent of the Custodian. He merely had some beneficial interest in that property. No doubt that residual interest in a sense is ownership. The property having vested in the Custodian, who had all the powers of the owner, he was the legal owner of the property. In the eye of the law, the Custodian was the owner of that property. It was upon scrutiny of the effect of the Ordinance that the Supreme Court first took the view that the Custodian should be regarded as the owner and it was in that light that the test whether the assessee was the person entitled to the income of that property was considered. It will not be possible for us to divorce the test of mere receipt of income apart from vesting of the property under the Evacuee Ordinance. None of the decisions on which reliance is placed by Mr. Joshi was cited before the Supreme Court and there is nothing in the findings of the Supreme Court which will persuade us to take the view that the said decisions should be treated as impliedly overruled. The case before the Supreme Court has not been decided upon the mere fact of having possession and the right to receive income. The entire provisions of the Evacuee Ordinance have been considered and it is after scrutiny of the provisions of the said Ordinance that the view has been taken that an evacuee assessee cannot be regarded as 'owner' within the meaning of
+section 9
+...
+Thus, it is quite evident from the facts of this case that even though the purchaser was put into possession with all the other rights incidental thereto, in the absence of a registered sale deed, as the value of the property exceeded Rs. 100, the transferee cannot be regarded as 'owner' and, for asserting such a right,
+section 53A
+of the Transfer of Property Act was not available.
+Thus, our answer to the question referred to us is in the affirmative."
+12. The Delhi High Court, whose decision in
+Kuthiala
+'s case [1968] 69 ITR 598 (Delhi) [FB] was upheld by the Supreme Court [1971] 82 ITR 570, itself had the occasion to consider the question with reference to the provisions of
+section 9
+of the Indian Income-tax Act, 1922 (the corresponding section of the
+Income-tax Act, 1961
+, being
+section 22
+) in
+CIT v. D. L. F. Housing Construction P. Ltd.
+[1981] 128 ITR 773. This was, however, a case where the seller remained in possession even after execution of the sale deed and the buyer was not earning any income from the property. But, on principle, it makes no difference.
+Relying on
+Kuthiala
+'s case , the assessee contended that he was not in a position to get the income from the property and, therefore, not liable to pay tax. The contention was negatived. The relevant portion of the judgment reads (at pp. 782, 783) :
+"In our considered opinion, the decisions given in the case of Jodhamal Kuthiala on appeal  do not, in any manner, come to the aid of the assessee. There, by the operation of a statute in Pakistan, the property had vested in the custodian who had in the eye of law become its owner. It was as such that the courts declined to treat the assessee as owner within the meaning of
+section 9
+of the 1922 Act. A property, it was observed by the Supreme Court, cannot be owned by two persons, each one having independent and exclusive right over it. Hence, for the purpose of
+section 9
+, the owner must be that person who can exercise the right of an owner not on behalf of the owner but in his own right. Moreover, the Delhi High Court has specifically excluded cases where an assessee of his own volition chose not to earn income from the property or circumstances did not permit him to earn income even though he had dominion or control over the property. In such cases,
+section 9
+of the Act was considered applicable and the property income was still assessable in his hands... The tax on the property was attached to this ownership. It was not dependent upon the assessee enjoying any income. If it allowed the seller to still remain in possession or even had kept the premises vacant and locked, it could not escape from the levy of tax on the notional income of the property. The Bombay High Court decision in the case of D. M. Vakil [1946] 14 ITR 298, fully supports the claim of the Revenue that the mere fact that the trustees or the owner could not have realised any income whatsoever from the property would not render them not liable to pay any income-tax in respect of that property.
+We are, therefore, in agreement with the conclusion arrived at by the Tribunal in so far as the matter raised in question No. 1 is concerned. The question is answered in the affirmative."
+13. Thus, the Delhi High Court held that the execution of the sale deed had the effect of passing the ownership of the property to the vendee and the tax on property was attached to this ownership and it was not dependent upon the assessee enjoying any income from that property and if the assessee had allowed the seller to still remain in possession, he could not escape from the levy of tax on the notional income from the property. The ratio of the decision is, whoever is, in the eye of law, the owner of the property, he is liable to pay tax under
+section 22
+of the Income-tax Act.
+14. The Andhra Pradesh High Court has also taken a similar view in the case of
+CIT v. Nawab Mir Barkat Ali Khan
+[1974] Tax LR 90. The Andhra Pradesh High Court held that so long as the sale deed had not been executed, the liability to pay tax on income from property does not cease; the position of such person is "owner" within the meaning of
+section 9
+of the Indian Income-tax Act, 1922, and the corresponding section, namely,
+section 22
+of the Income-tax Act, 1961. The relevant portion of the judgment reads (at page 95) :
+"We are, therefore, satisfied that the agreement to sell does not create any beneficial ownership according to Indian law in the purchaser. Nor does it create any equitable ownership in him. It is the vendor who continues to be the owner of the properties agreed to be sold until a lawfully registered sale deed is executed by him. The word 'owner' in
+section 9
+or 22, therefore, must be understood in this sense and cannot be understood in any other sense. There is no justification either in the scheme of the Act or in the context or setting of
+section 9
+or 22 for giving meaning to the term 'owner' as beneficial or equitable owner which concept is not recognised in India and in fact it is specifically contrary to the express provisions of the law. The Nizam, therefore, in spite of these agreements continues to be liable to pay tax on the income of such property under
+section 9
+or 22 of the Act."
+15.
+In this decision, there is no consideration of the decision of the Supreme Court in
+Kuthiala
+'s case [1971] 82 ITR 570.
+Another Division Bench of the Andhra Pradesh High Court has taken a contrary view holding that in view of the ratio in
+Kuthiala
+'s case , a person who has parted with possession is not the owner for purposes of
+section 22
+of the Income-tax Act.
+That decision is
+CIT v. Sahney Steel and Press Works (P
+.) Ltd. . There is no consideration of the decisions of the Bombay, Delhi and Calcutta High Courts
+referred to above
+and further there is no consideration of even the earlier Division Bench judgment of the same High Court in the case of Barkat Ali Khan [1974] Tax LR 90 (AP).
+However, in the case of Nawab Sir Mir Osman Ali Khan v. CWT [1986] 162 ITR 888, the Supreme Court has referred to the decision of the Andhra Pradesh in
+Barkat Ali Khan
+'s case [1974] Tax LR 90, of the Calcutta High Court in
+Ganga Properties
+' case [1970] 77 ITR 637, of the Gujarat High Court in
+Ashaland Corporation
+'s case [1982] 133 ITR 55. The relevant portion of the judgment reads (at pp. 895, 896, 897) :
+"In
+CIT v. Nawab Mir Barkat Ali Khan
+[1974] Tax LR 90, it was held by the Andhra Pradesh High Court that when a vendor had agreed to sell his property as in the instant case and had received consideration therefore but had not executed a registered sale deed, his liability to pay tax on income from that property did not cease. His position as 'owner' of the property within the meaning of
+section 9
+of the Indian Income-tax Act, 1922, and
+section 22
+of the Income-tax Act, 1961, did not thereby change. According to
+the said decision
+, the agreement to sell and the receipt of consideration by the assessee, the Nizam of Hyderabad, did not create any beneficial ownership according to Indian law in the purchaser, nor did it create any equitable ownership in him. The ownership did not change until the registered sale deed was executed by the vendor. The term 'owner' in
+section 9
+of the 1922 Act or
+section 22
+of the 1961 Act did not mean beneficial or equitable owner, which concept was not recognised in India.
+In the instant case, as we have noticed, the position is different. We are not concerned with the expression 'owner'. We are concerned with whether the assets in the casts and circumstances of the case belonged to the assessee any more...
+The Bench decision of the Calcutta High Court in
+CIT v. Ganga Properties Ltd.
+[1970] 77 ITR 637, rested on the terms of
+section 9
+of the India Income-tax Act, 1922, and the court reiterated again that in Indian law, beneficial ownership was unknown; there was but one owner, namely, the legal owner, both in respect of vendor and purchaser, and trustee and cestui que trust. The income from house property refers to the legal owner and further in the case of a sale of immovable property, a registered document was necessary. But these propositions as noted hereinbefore rested on the use of the expression in
+section 9
+of the Indian Income-tax Act, 1922. It used the expression 'owner' unlike 'belonging to'...
+The Gujarat High Court had occasion to deal with part performance in the case of an agreement of sale in
+CIT v. Ashaland Corporation
+[1982] 133 ITR 55. The Gujarat High Court noted that in the case of a person who was a dealer in land, the business transaction would be completed only when the purchase or sale transaction was complete. In order to decide whether the business transaction was complete. the question of vital importance was whether title in the property has passed. It was only on the passing of tile that the transaction became complete and unless the transaction was complete, any advance receipt of money towards the transaction would not form part of income or profit. It was observed by the Gujarat High Court that the doctrine of part performance embodied in
+section 53A
+of the Transfer of Property Act, 1882, had only a limited application and it afforded only a good defence to the person put in possession under an agreement in writing to protect his possession to the extent provided in section 53A, but an agreement in writing to sell, coupled with the parting of possession would not confer any legal title on the purchaser and take the land out of the stock-in-trade of the seller if the seller was a dealer in land. The context in which the Gujarat High Court had to deal with this question was entirely different. The Gujarat High Court had to proceed on the basis that the assessee under the
+Income-tax Act
+was the owner and he was dealing in land and, therefore, whether the land was stock-in-trade was the question. In the instant appeal, we are concerned with the express in 'belonging to'. Therefore, the observation of the Gujarat High Court would not be quite opposite to the problem of the instant appeal."
+16. As can be seen from the above paragraphs, the Supreme Court did not say that the view taken by the Andhra Pradesh, Calcutta and Gujarat High Courts was contrary to the decision in
+Kuthiala
+'s case .
+On the other hand, the Supreme Court distinguished the decisions on the basis of the use of the word "owner" in
+section 9
+of the Income-tax Act and the words "belonging to" in the
+Wealth-tax Act
+which impliedly means that the view taken by the Andhra Pradesh High Court in
+Barkat Ali Khan
+'s case [1974] Tax LR 90 (AP) and the Calcutta High Court in
+Ganga Properties
+' case [1970] 77 ITR 637 and the Gujarat High Court in
+Ashaland Corporation
+'s case [1982] 133 ITR 55 on the interpretation of the word "owner" used in
+section 9
+of the Indian Income-tax Act, 1922, and
+section 22
+of the Income-tax Act, 1961, is correct.
+17. On a careful consideration of the matter, I am of the view that the ratio in
+Kuthiala
+'s case  is not apposite to the question arising for consideration in this case. That was a case in which the property of an evacuee statutorily vested in the custodian under the provisions of the Pakistan (Administration of Evacuee Property) Ordinance, 1949, and the decision was rendered entirely on the interpretation of the provisions of the Ordinance.
+I am in respectful agreement with the view taken by the Bombay High Court that the ratio of the decision in
+Kuthiala
+'s case  is no basis to hold that a person who had parted with possession of property in favour of the intending purchaser but had not executed the sale deed is not the owner, as also with the view taken by the Delhi High Court that whoever is the owner of a property in the eye of law is also the owner for purposes of
+section 22
+of the Income-tax Act and that the decision in
+Kuthiala
+'s case  constitutes no basis to take a contrary view. I am also in respectful agreement with the views expressed by the Calcutta High Court in the case of Ganga Properties Ltd. [1970] 77 ITR 637, the Andhra Pradesh High Court in the case of Barkat Ali Khan [1974] Tax LR 90, and I respectfully disagree with the contrary view taken by the Punjab, Patna and Allahabad High Courts and in the later decision of the Andhra Pradesh High Court.
+18. In the result, I answer the question referred to us in the affirmative and against the assessee.
+Rajendra Babu, J.
+19. The question of law referred for our opinion is as follows :
+"Whether, for purposes of
+section 22
+of the Income-tax Act, 1961, the ownership of property is transferred only by execution and registration of sale deed and not by other acts such as delivering vacant possession and giving all rights of interest in the property including the right of realisation of rent ?"
+20. For the assessment year 1978-79, the assessee leased certain sheds to one Y. G. Panduranga Setty and four others for a period of 98 years from July 31, 1974, for an annual rent of Rs. 35,000. The assessee, with the consent of the lessee, entered into an agreement on September 1 1975, for sale of the property in question to Lakshmi Commercial Corporation, a partnership firm, for a consideration of a sum of Rs. 4,20,000. Pursuant to the agreement, the assessee delivered vacant possession of the property to the said firm with all the right, title and interest which the assessee had in the property including the right to collect rent from the same. For some reason or the other, the assessee could not execute the sale deed and complete the transfer of property in favour of Lakshmi Commercial Corporation. The Income-tax Officer held that the assessee was the owner of the property and, therefore, was chargeable to tax under
+section 22
+of the Income-tax Act, 1961 (in short "the Act"), rejecting the contentions raised on behalf of the assessee that as the assessee could not get any income from the property in question and in view of the agreement entered into by it with the said Lakshmi Commercial Corporation, it was impossible for it to collect rent in respect of the property and, therefore, it was not liable to be charged to tax. On appeal, the Appellate Assistant Commissioner held that the property being worth more than Rs. 100 could be transferred only by a registered instrument and in the absence of the same, the assessee continued to the owner of the property and ownership was enough to attract the liability under
+section 22
+of the Act. This view was affirmed by the Tribunal on second appeal.
+21. Before us, learned counsel for the assessee contended, relying upon a decision of the Supreme Court in
+R. B. Jodha Mal Kuthiala v. CIT
+[1971] 82 ITR 570, that for the purpose of
+section 22
+of the Act, the owner must be the person who is capable of receiving the rent or income of a property and in the present case, inasmuch as possession had been passed on to the vendee, although a registered sale deed has not been executed, and as full consideration has been received,
+section 53A
+of the Transfer of Property Act is attracted. Since no one including the owner can disturb the possession of the vendee, there cannot be a better claim for ownership than that of the vendee and, in the circumstances, he being entitled to receive the rent or income of the property must be held to be the owner for the purpose of the said section. It was also submitted that a practical view must be taken in the matter. Merely because there is some residue left with the original owner for no practical purpose, the vendor or the assessee cannot be treated as owner of the property. All that the vendor or the assessee has, after he parted with possession pursuant to the agreement of sale, is only the husk of a title and no real rights of ownership.
+Bearing this aspect in mind, the Supreme Court in Nawab Sir Mir Osman Ali Khan (Late) v. CWT [1986] 162 ITR 888 noticed the difference in language found in the provisions of
+sections 22
+of the Act and 3 of the
+Wealth-tax Act
+with particular reference to the expressions "belonging to" and "ownership" found therein.
+Therefore, it was submitted that the decision in Nawab Sir Mir Osman Ali Khan's case  could not be of any assistance to the Department and the case should turn on the ratio of the decision in
+Kuthiala
+'s case . The Supreme Court steered clear of the concept of ownership while dealing with the question whether a property belongs to a person for the purpose of levy of wealth-tax under the
+Wealth-tax Act
+.
+Therefore, when the Supreme Court, in categorical terms, makes itself very clear by stating that the provisions with which it was concerned were different in language and that it was not concerned with either
+section 22
+of the 1961 Act or with
+section 9
+of the 1922 Act, I am of the view that it would not be appropriate to apply the ratio of the decision in Osman Ali Khan's case  to a case which attracts the provisions of
+section 22
+of the Act.
+22.
+In the context of the contentions raised by learned counsel, what is to be considered is the scope of
+section 22
+of the Act and the applicability of the decision in
+Kuthiala
+'s case . The liability to tax under
+section 22
+of the Act arises from ownership or property and the expression "owner" refers or relates to property and not to the owner of annual wealth or any person having any interest in the property but to the owner as such. Although in dome decisions which have been referred to in the order of my learned brother, the view is that mere ownership without right to possession or enjoyment of property would not attract a liability under
+section 22
+of the Act, the preponderant view expressed in decisions of several High Courts is that notwithstanding that an agreement of sale has been effect and possession delivered on payment of consideration either in full or in substantial measure and
+section 53A
+of the Transfer of Property Act is attracted, even so the vendee cannot be treated as full owner of the property until a registered sale deed is executed.
+What came up for consideration in
+Kuthiala
+'s case , was a very peculiar situation as noticed by their Lordships in paras 9 and 10, which read thus (at p. 575) :
+"The question is who is the 'owner' referred to in this section ? Is it the person in whom the property vests or is it he who is entitled to some beneficial interest in the property ? It must be remembered that
+section 9
+brings to tax the income from property and not the interest of a person in the property. A property cannot be owned by two persons, each one having independent and exclusive right over it. Hence, for the purpose of
+section 9
+, the owner must be that person who can exercise the rights of the owner, not on behalf of the owner but in his own right.
+For a minute, let us look at things from the practical point of view. If the thousands of evacuees who left practically all their properties as well as businesses in Pakistan had been considered as the owners of those properties and business as long as the 'Ordinance' was in force, then those unfortunate persons would have had to pay income-tax on the basis of the annual letting value of their properties and on the income, gains and profits of the business left by them in Pakistan though they did not get a paisa out of those properties and businesses. Fortunately, no one in the past interpreted the law in the manner Mr. Mahajan wants us to interpret it. It is true that equitable considerations are irrelevant in interpreting tax laws. But, those laws, like all other laws, have to be interpreted reasonably and in consonance with justice."
+23. In the peculiar circumstances noticed by their Lordships in the aforesaid paragraphs, the Supreme Court took the view it did. Therefore, the principles that could be applicable to a case where, by operation of law, a person is deprived of the control in regard to a property stand entirely on a different footing from a situation where a person voluntarily places himself in a situation where he does not wish to collect the income in regard to a property. Therefore, the principles stated in
+Kuthiala
+'s case  cannot be applied to the facts of the present case.
+The view expressed by the Andhra Pradesh High Court in
+CIT v. Sahney Steel and Press Works (P
+.) Ltd. [1987] 168 ITR 811 is based upon some earlier decisions, all of which relied upon a decision wherein the court was concerned with the transfer of a movable property like a bus. In regard to the transfer of movable property, no formalities such as that the same should be in writing and is required to be registered are necessary. Hence, the principles applicable to a case of immovable property - which property has some peculiar restrictions in regard to transfer of ownership - make all the difference and those decisions, to which reference has been made at the Bar, cannot be used for the benefit of the assessee.
+Hence, I entirely agree with the view expressed by my learned brother but, at the same time, I express my reservations regarding the applicability of the decision of the Supreme Court in Osman Ali Khan's case [1986] 162 ITR 888 to the facts of the present case.

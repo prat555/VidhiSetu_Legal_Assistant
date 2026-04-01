@@ -1,0 +1,97 @@
+INDIAN LAW CORRECTIONS & CRITICAL UPDATES
+==========================================
+This file contains landmark corrections, overrulings, and critical legal changes
+that prevent the AI from giving outdated or wrong answers. Always prefer these
+over general corpus knowledge when there is a conflict.
+
+---
+
+CONSTITUTIONAL LAW
+------------------
+1. Right to Privacy is a Fundamental Right under Article 21.
+   Landmark case: Justice K.S. Puttaswamy (Retd.) v. Union of India (2017), 9-judge bench of the Supreme Court unanimously held that privacy is a fundamental right under the Constitution of India.
+
+2. Right to Education (Article 21A) was inserted by the 86th Constitutional Amendment Act 2002, making free and compulsory education for children aged 6-14 a fundamental right.
+
+3. Article 370 was abrogated on 5 August 2019 by Presidential Order. The special status of Jammu & Kashmir was revoked and the state was bifurcated into two Union Territories: Jammu & Kashmir and Ladakh. The Supreme Court upheld this abrogation in December 2023.
+
+4. The NJAC (National Judicial Appointments Commission) Act was struck down by the Supreme Court in Supreme Court Advocates-on-Record Association v. Union of India (2015), restoring the collegium system for judicial appointments.
+
+---
+
+CRIMINAL LAWS — MAJOR REPLACEMENTS (EFFECTIVE JULY 1, 2024)
+-------------------------------------------------------------
+5. IPC 1860 (Indian Penal Code) has been REPLACED by Bharatiya Nyaya Sanhita (BNS) 2023, effective 1 July 2024. BNS contains 358 sections. However, offences committed before 1 July 2024 continue to be tried under IPC 1860.
+
+6. CrPC 1973 (Code of Criminal Procedure) has been REPLACED by Bharatiya Nagarik Suraksha Sanhita (BNSS) 2023, effective 1 July 2024. Key changes include: statutory timeline for trial completion, mandatory audio-video recording of search and seizure, 90-day detention extended to 60 days in some cases.
+
+7. Indian Evidence Act 1872 has been REPLACED by Bharatiya Sakshya Adhiniyam (BSA) 2023, effective 1 July 2024. Electronic and digital records are now explicitly recognised as primary evidence.
+
+8. Sedition Law (Section 124A IPC) is under review. The Supreme Court in 2022 stayed all pending trials and proceedings under Section 124A IPC and asked the government to reconsider the law. Under BNS 2023, sedition as a standalone offence has been removed and replaced with Section 152 (acts endangering sovereignty and integrity).
+
+---
+
+CYBER AND TECHNOLOGY LAWS
+--------------------------
+9. Section 66A of the Information Technology Act 2000 was STRUCK DOWN as unconstitutional by the Supreme Court in Shreya Singhal v. Union of India (2015). It violated the right to freedom of speech and expression under Article 19(1)(a). Any prosecution or FIR under Section 66A after this judgement is void and illegal.
+
+10. The Digital Personal Data Protection Act (DPDPA) 2023 was enacted on 11 August 2023. It governs the processing of digital personal data in India. It supersedes relevant provisions of the IT Act 2000 relating to data protection and is the primary data protection law in India.
+
+---
+
+FAMILY AND PERSONAL LAWS
+-------------------------
+11. Triple Talaq (instant talaq / talaq-e-biddat) has been declared UNCONSTITUTIONAL by the Supreme Court in Shayara Bano v. Union of India (2017). A 5-judge bench held it manifestly arbitrary and violative of Article 14. The Muslim Women (Protection of Rights on Marriage) Act 2019 subsequently criminalised the practice with up to 3 years imprisonment.
+
+12. Section 377 IPC (criminalising consensual same-sex relations) was PARTIALLY STRUCK DOWN in Navtej Singh Johar v. Union of India (2018) by a 5-judge Supreme Court bench, decriminalising consensual sexual relations between adults in private. Section 377 continues to apply to non-consensual acts and acts involving minors.
+
+13. Adultery (Section 497 IPC) was STRUCK DOWN as unconstitutional in Joseph Shine v. Union of India (2018). Adultery is no longer a criminal offence under Indian law, though it may be a ground for divorce.
+
+14. Hindu Succession Act 1956 — Daughters have equal coparcenary rights in Hindu Undivided Family (HUF) property by virtue of the Hindu Succession (Amendment) Act 2005. The Supreme Court in Vineeta Sharma v. Rakesh Sharma (2020) clarified that daughters get equal coparcenary rights regardless of whether the father was alive when the 2005 amendment came into force.
+
+---
+
+CONSUMER AND CITIZEN RIGHTS
+----------------------------
+15. Consumer Protection Act 2019 replaced the Consumer Protection Act 1986 effective 20 July 2020. Key changes: e-commerce complaints included, Central Consumer Protection Authority (CCPA) established, product liability provisions added, pecuniary jurisdiction of District Forum raised to Rs. 1 crore, State Commission to Rs. 10 crore, National Commission above Rs. 10 crore.
+
+16. Right to Information Act 2005 — The RTI (Amendment) Act 2019 changed the tenure and service conditions of the Chief Information Commissioner and Information Commissioners, making them subject to Central Government notification rather than fixed 5-year terms.
+
+---
+
+LABOUR LAWS
+-----------
+17. Four Labour Codes have been enacted to consolidate 29 central labour laws:
+    (a) Code on Wages 2019 — consolidates Minimum Wages Act 1948, Payment of Wages Act 1936, Payment of Bonus Act 1965, Equal Remuneration Act 1976
+    (b) Industrial Relations Code 2020 — consolidates Industrial Disputes Act 1947, Trade Unions Act 1926, Industrial Employment (Standing Orders) Act 1946
+    (c) Occupational Safety, Health and Working Conditions Code 2020 — consolidates Factories Act 1948 and 12 other laws
+    (d) Social Security Code 2020 — consolidates EPF Act 1952, ESIC Act 1948, Maternity Benefit Act 1961, Gratuity Act 1972 and 5 other laws
+    NOTE: As of 2024, these Labour Codes have been enacted but NOTIFIED rules are still pending in several states; the old laws therefore continue to operate in practice.
+
+---
+
+PROPERTY AND REAL ESTATE
+-------------------------
+18. Benami Transactions (Prohibition) Amendment Act 2016 significantly strengthened the Benami Transactions (Prohibition) Act 1988. Benami transactions can attract confiscation of property and imprisonment of up to 7 years plus fine.
+
+19. Real Estate (Regulation and Development) Act 2016 (RERA) came into force on 1 May 2017. All states/UTs were required to establish their own RERA authority. Builders must register projects and are liable for defects for 5 years from possession.
+
+---
+
+CRIMINAL PROCEDURE — KEY CHANGES UNDER BNSS 2023
+-------------------------------------------------
+20. Under BNSS 2023, Zero FIR can be filed at any police station regardless of jurisdiction; it must be transferred to the appropriate station within 15 days.
+
+21. Under BNSS 2023, victims have the right to receive a copy of the FIR free of cost.
+
+22. Under BNSS 2023, Handcuffs can only be used in specified serious offences such as terrorism, organised crime, rape, acid attacks, drug trafficking, and murder.
+
+23. Under BNSS 2023, trials in absentia (without the accused) are now permitted in cases where the accused is a proclaimed offender and a period of 90 days has elapsed.
+
+---
+
+MISCELLANEOUS
+-------------
+24. The Prevention of Money Laundering Act 2002 (PMLA) — The Supreme Court in Vijay Madanlal Choudhary v. Union of India (2022) upheld the wide powers of the Enforcement Directorate (ED) including the power of arrest without a warrant, the reverse burden of proof, and the admissibility of statements made to ED officers.
+
+25. Insolvency and Bankruptcy Code 2016 — The Supreme Court in Committee of Creditors of Essar Steel v. Satish Kumar Gupta (2019) held that the resolution plan approved by the CoC is binding on all stakeholders including operational creditors.

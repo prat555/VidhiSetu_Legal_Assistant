@@ -39,3 +39,12 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# integrated rag-service python artifacts
+rag-service/__pycache__/
+rag-service/**/*.pyc
+rag-service/.venv/
+
+# integrated rag-service local vector db artifacts
+rag-service/vectorstore/
+rag-service/qdrant_store/

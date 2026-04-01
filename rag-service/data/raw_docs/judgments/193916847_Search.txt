@@ -1,0 +1,1071 @@
+Title: Search
+Court: Supreme Court of India
+Date: 20 June 2022
+Citation: SCC 12
+Source: https://indiankanoon.org/doc/193916847/
+
+[Cites
+41
+, Cited by
+349
+]
+Supreme Court of India
+Mohammed Zubair vs State Of Nct Of Delhi on 20 July, 2022
+Author:
+D.Y. Chandrachud
+Bench:
+A S Bopanna
+,
+Surya Kant
+,
+Dhananjaya Y Chandrachud
+Reportable
+
+                                       IN THE SUPREME COURT OF INDIA
+                                      CRIMINAL ORIGINAL JURISDICTION
+
+
+                                      Writ Petition (Criminal) No 279 of 2022
+
+
+
+          Mohammed Zubair                                                     .... Petitioner
+
+                                                       Versus
+
+
+
+          State of NCT of Delhi & Ors                                           ....Respondents
+
+
+
+
+                                                  JUDGMENT
+Dr Dhananjaya Y Chandrachud, J
+
+
+
+      1                  The petitioner is the co-founder of ALT News, a fact checking portal which
+
+          conducts its activities under the auspices of Pravda Media Foundation. ALT
+
+          News was launched in February 2017. Pravda Media Foundation is a company
+
+          registered under
+Section 8
+of the Companies Act 2013.
+2                  On 20 June 2022, FIR 172 of 2022 was registered at the Special Cell of
+
+          the Delhi Police for alleged offences punishable under
+Sections 153-A
+, 295-A,
+Signature Not Verified
+Digitally signed by
+Sanjay Kumar
+Date: 2022.07.25
+17:07:35 IST
+Reason:
+1
+201 and 120-B of the
+Indian Penal Code
+18601. The offence under
+Section 35
+of
+
+    the Foreign Contribution (Regulation) Act 20102 was added during the course of
+
+    investigation. The petitioner was arrested on 27 June 2022 and was remanded to
+
+    police custody for a day by the order of the Duty Magistrate. The custodial order
+
+    was extended for a further period of four days by the Chief Metropolitan
+
+    Magistrate, Patiala House Courts, Delhi. On 30 June 2022, a search took place at
+
+    the residential premises of the petitioner in Bangalore. The legality of the order of
+
+    police remand has been challenged before the High Court of Delhi in which
+
+    notice has been issued on 1 July 2022. On 2 July 2022, the petitioner was
+
+    remanded to fourteen days of judicial custody and his application for bail was
+
+    rejected by the Chief Metropolitan Magistrate at Patiala House Courts, Delhi. On
+
+    15 July 2022, he was granted regular bail by the Additional Sessions Judge.
+
+
+3            The Delhi Police have submitted a status report on the course of the
+
+    investigation, which has been carried out in pursuance of FIR No 172 of 2022,
+
+    before the Additional Sessions Judge. The status report notes the course of the
+
+    investigation which spans into tweets alleged to have been put out by the
+
+    petitioner. According to the status report, “for the purpose of recovery of the
+
+    laptop and mobile phone used in committing this crime and for the purpose of
+
+    interrogation of the accused to find out other tweets/posts and larger part of the
+
+    conspiracy, if any, Mohd Zuber was arrested in this case on 27.06.22. He
+
+    disclosed that he is co-founder of ALT News and in order to gain popularity he
+
+    posts such contents/post that triggers religious sentiment and he remain trending
+1
+“
+IPC
+”
+2
+“FCRA”
+2
+in news/ social media and he can get recovered the laptop and mobile phone
+
+    used in committing this crime”.
+4           The status report has also adverted to seven tweets put out by the
+
+    petitioner on the basis of which the Police at the Special Cell is continuing its
+
+    investigation. The extract from the status report submitted by the Delhi Police in
+
+    regard to the above tweets reads as follows:
+“
+(i) Tweet 1:-against Mahant Bajrang Muni Ji of Rashtriya Hindu Sher Sena,
+
+            Khairabad, Sitapur, Uttar Pradesh.
+(ii) Tweet 2:- Sanjay Showing facebook live video of Kurukshetra war of
+
+            Mahabharat to Dhritrastra: Biplab Deb.
+(iii) Tweet 3:- 'Bajrang Bali' ki aarti kama shuru karo, 'hanuman chalisa' ka path
+
+            karo, bandar kabhi nuksaan nahin pahuchayega.
+(iv) Tweet 4:- Ancient laptops had no processors & RAM. It was later copied by
+
+            Missionary Mathematician Charles Babage. Sanskrit learning was
+
+            essential for computer literacy those days. Only Virat Hindus could operate
+
+            computer as lower castes were never allowed to learn Sanskrit.
+(v) Tweet 5:- Equality to all is Real Ram Rajya. Be it Donkey.
+(vi) Tweet 6:- We Vishnu A Merry Krishna "POSTCARD NEWS" Christianity is
+
+            Krishna Neeti and Vatican City was called as Vatika!!!!Subhash Chandra
+
+            Bose's assistant. The said tweet is present on the twitter account of
+
+            Mohammed Zubair and posted on 25 Dec, 2017 at 1:20PM (1 PP)
+(vii)     Tweet 7 :- A tweet was posted by him on 30 Oct, 2021 at 3:03 PM in
+
+            which two photos one of Vatican City and one of Shiva Lingam were
+
+            shown and comparison between them are made. And he wrote This
+3
+reminds me of @shanknaad post on Vatika-Vatican City. The said tweet is
+
+                   present on the twitter account of Mohammed Zubair.”
+5                  Apart from the above FIR which has been registered at the Special Cell in
+
+    Delhi, a series of FIRs have been registered against the petitioner, both before
+
+    and after the FIR before the Special Cell. These FIRs are:
+(i)       FIR No 502/2021 dated 15 June 2021 registered at PS Loni Border,
+
+                      District Ghaziabad for offences punishable under
+Sections 153
+,
+153-A
+,
+295-A
+,
+505
+,
+120-B
+and
+34
+of IPC;
+(ii)      FIR No 199/2021 dated 24 July 2021 registered at PS Charthawal,
+
+                      Muzaffarnagar for offences punishable under
+Sections 192
+,
+504
+and
+506
+of IPC;
+(iii)     FIR No 193/2021 dated 27 August 2021 registered at PS Chandauli for
+
+                      offences punishable under
+Section 67
+of the Information Technology
+
+                      Act 20003;
+(iv)       FIR No 511/2021, dated 18 September 2021 registered at PS
+
+                      Mohamadi District Lakhimpur for offences punishable under
+Sections
+
+                      153-A
+,
+153B
+/
+505(1)
+B and 505(2) of
+IPC
+;
+(v)        FIR No 226/2022 dated 1 June 2022 registered at PS Khairabad,
+
+                      District Sitapur for offences punishable under
+Section 295-A
+of IPC and
+Section 67
+of the IT Act;
+(vi)      FIR No 286/2022 dated 10 June 2022 registered at PS Sikandrarao,
+
+                      Hathras for offences punishable under Sections 147, 149, 153A, 353,
+3
+“IT Act”
+4
+188, 120-B of IPC and under Section 7 of the Criminal Law
+
+                      Amendment Act 19324; and
+(vii)      FIR No 237/2022 dated 4 July 2022 registered at PS Hathras Kotwali
+
+                      for offences punishable under
+Sections 153-A
+,
+295-A
+,
+298
+of IPC and
+section 67
+of the IT Act.
+6               The status of the FIRs is indicated below:
+(i) In FIR No 199/2021 registered at Police Station Charthawal, the petitioner
+
+                was granted bail on 30 July 2021 by the Judicial Magistrate;
+(ii) In FIR No 511/2021 registered at Police Station Mohamadi, the petitioner
+
+                was remanded on 11 July 2022 to fourteen days of judicial custody. An
+
+                application seeking police custody was listed for submissions on 20 July
+
+                2022;
+(iii) In FIR No 226/2022 at Police Station Khairabad, the petitioner was
+
+                remanded to judicial custody for 14 days by the JMFC-I, Sitapur on 4 July
+
+                2022 and to police custody between the period from 8 July 2022 until 14
+
+                July 2022. By an order of this Court dated 8 July 2022, the petitioner was
+
+                granted interim bail in Special Leave Petition (Crl) No 6138 of 2022. The
+
+                order of interim bail was extended on 12 July 2022 pending further orders;
+and
+(iv) In FIR No 237/2022 registered at Police Station Hathras Kotwali, the
+
+                petitioner has been remanded to fourteen days of judicial custody on 13
+
+                July 2022. On 15 July 2022, an application seeking fourteen days of police
+
+                custody was filed.
+4
+“CLA”
+5
+7                In the meantime, arising out of the FIRs which have been registered at
+
+    diverse Police Stations in the State of Uttar Pradesh, the petitioner as well as the
+
+    Director of ALT News / Pravda Media Foundation (and the company) were
+
+    served with notices under
+Section 41A
+of the Code of Criminal Procedure 19735
+
+    or, as the case may be, under
+Section 91
+of CrPC for the production of
+
+    documents such as: (i) the balance sheet of the last three years; (ii) the income
+
+    tax returns of the Director and co-founders; (iii) details with regard to the payment
+
+    of corporate tax by ALT News / Pravda Media Foundation; (iv) PAN cards of ALT
+
+    News / Pravda Media Foundation; (v) bank statements of ALT News / Pravda
+
+    Media Foundation for the last three years; (vi) details of donations received since
+
+    the inception of the ALT News website; and (vii) an undertaking in regard to the
+
+    source of funds.
+8                These proceedings invoke the jurisdiction under
+Article 32
+of the
+
+    Constitution of India. The relief which has been sought primarily is for the
+
+    quashing of the following FIRs, namely:
+“a)   F.I.R no. 502/2021, dt. 15.06.2021, PS Loni
+                                   Border, district Ghaziabad
+u/s 153
+,
+153-A
+,
+295-A
+,
+505
+,
+120-B
+and
+34
+of the Indian
+                                   Penal Code, 1860.
+b)    Case     Crime     No.  199/2021,   dt.
+                                   24.07.2021,PS Charthawal, Muzaffamagar
+                                   u/Sec 192, 504, 5061PC.
+
+                             c)    FIR no. 511/2021, dt. 18.09.2021, PS
+                                   Mohamadi district Lakhimpur, u!Sec 153-A,
+                                   153B/505(1)8 and 505(2)
+IPC
+.
+
+                             d)    FIR no. 237/2022, dt. 04.07.2022, PS
+                                   Hathras Kotwali on a complaint dt.
+5
+“
+CrPC
+”
+6
+14.06.2022 u/Sec 153-A, 295-A, 298
+IPC
+and
+section 67
+of the IT Act.
+
+                             e)     Case Crime no. 286/2022 dt. 10.06.2022,
+                                    Hathras, PS Sikandrarao, u/s 147, 149,
+                                    153A, 353, 188, 120-B of the
+Indian Penal
+                                    Code
+, 1860 and
+u/s 7
+of the CLA Act;”
+In the alternative, the petitioner seeks a direction that the above FIRs along with
+
+     FIR No. 226/2022, PS Khairabad, Sitapur should be clubbed with FIR No
+
+     172/2022 which is under investigation by the Special Cell of Delhi Police.
+9               Office Memorandum No. DG-8-94-(30) of 20226 has been issued on 10
+
+     July 2022, in terms of which a Special Investigation Team7 has been constituted
+
+     by the Director General of Police, Uttar Pradesh for investigating the six FIRs
+
+     which have been registered against the petitioner in Uttar Pradesh.
+
+10               Apart from the prayer for quashing the FIRs or, in the alternative, for
+
+     clubbing the investigation of the six FIRs mentioned in the OM with the FIR which
+
+     is pending investigation before the Special Cell in Delhi, the petitioner seeks
+
+     interim release on bail in all the FIRs, which are set out above, and a protective
+
+     order of this Court directing that no coercive steps be taken with respect to FIR
+
+     193 of 2021, PS Chandauli.
+11               The petition was mentioned before this Court for urgent orders on 18 July
+
+     2022 with the permission of the Hon’ble Chief Justice of India. While entertaining
+
+     the petition on 18 July 2022, this Court directed that no precipitate steps shall be
+6
+“OM”
+7
+“SIT”
+7
+taken against the petitioner on the basis of the five FIRs which form the subject
+
+     matter of these proceedings. Notice was issued by this Court on 18 July 2022.
+
+12              We have heard Ms Vrinda Grover, senior counsel appearing on behalf of
+
+     the petitioner and Ms Garima Prashad, senior counsel and Additional Advocate
+
+     General appearing on behalf of the State of Uttar Pradesh.
+
+13              Appearing on behalf of the petitioner, Ms Vrinda Grover submitted that:
+(i)        The tweets which have been put out by the petitioner are the subject
+
+                   matter of the FIRs which have been registered in Delhi and in Police
+
+                   Stations within different districts in the State of Uttar Pradesh;
+(ii)       All the FIRs, broadly speaking, implicate alleged offences punishable
+
+                   under the same provisions, namely,
+Sections 153A
+,
+295A
+,
+298
+and
+505
+of IPC and
+Section 67
+of the IT Act;
+(iii)      In the FIR which has been registered at the Special Cell in Delhi, the
+
+                   petitioner was subjected to an order of remand, following which
+
+                   eventually he has been granted regular bail by the Additional Sessions
+
+                   Judge at the Patiala House Courts. The status report which has been
+
+                   submitted by the Delhi Police before the Additional Sessions Judge
+
+                   would indicate that the scope of the investigation has been widened so
+
+                   as to also include the provisions of the FCRA; and
+(iv)       Broadly speaking, the tweets which have been adverted to in the status
+
+                   report submitted by the Delhi Police before the Additional Sessions
+
+                   Judge also form the subject matter of the FIRs which have been
+
+                   registered in the diverse Police Stations in the State of Uttar Pradesh.
+8
+14              On the above premises, counsel submitted that:
+(i)        In none of the tweets has the petitioner even remotely used any
+
+                   language which is improper or which would amount to an offence with
+
+                   reference to which the provisions of the criminal law could be invoked;
+(ii)       On the contrary, in several of the tweets, the petitioner had tagged the
+
+                   Uttar Pradesh Police and had invited action by the law enforcement
+
+                   machinery consequent on speeches made by other persons which were
+
+                   found to be objectionable;
+(iii)      The gravamen of all the FIRs which have been registered against the
+
+                   petitioner essentially remains the same, arising out of the tweets by the
+
+                   petitioner;
+(iv)       The instrument of criminal law has been used to harass and silence the
+
+                   voice of the petitioner which would be apparent from the manner in
+
+                   which the petitioner has been made to face successive proceedings
+
+                   arising out of the FIRs which have been lodged in the State of Uttar
+
+                   Pradesh; and
+(v)        The petitioner has a real and genuine apprehension in regard to the
+
+                   safety and security of his life following the publication of several tweets
+
+                   which have administered threats and placed a bounty on his safety.
+15              Hence, it has been submitted that in the exercise of its jurisdiction under
+Article 32
+of the Constitution, the Court should quash the FIRs since none of the
+
+     tweets on the basis of which FIRs have been registered provokes hatred towards
+
+     any community or is derogatory to any religion or a religious denomination.
+9
+16              Opposing these submissions, Ms Garima Prashad submitted that:
+(i)        There is a genuine apprehension that the tweets which have been put
+
+                   out by the petitioner have spread hate;
+(ii)       The tweets which have been put out by the petitioner have a real
+
+                   potential to create a communal divide;
+(iii)      The SIT was formed by the State of Uttar Pradesh considering the
+
+                   gravity of the situation, in order to maintain peace and harmony; and
+(iv)       The conduct of the petitioner in engaging in repeated acts of tweeting
+
+                   would justify the invocation of criminal law.
+17              The narration of facts in the prefatory part of the judgement would indicate
+
+     that FIR No 172/2022 which has been registered on 20 June 2022 at the Special
+
+     Cell of the Delhi Police invokes offences punishable under
+Sections 153-A
+,
+295-
+A, 201 and 120-B of
+IPC
+, to which the investigating authority has added the
+
+     provisions of
+Section 35
+of FCRA. The Delhi Police have submitted a
+
+     comprehensive status report before the Additional Sessions Judge at the Patiala
+
+     House Courts bearing on the course of investigation, the tweets which form the
+
+     subject matter of the investigation, and the search and seizure which has been
+
+     carried out at the premises of the petitioner. In other words, it is evident from the
+
+     record that the investigation which has been conducted by the Special Cell of the
+
+     Delhi Police is comprehensive in nature and extends across the gamut of tweets
+
+     put out by the petitioner. The petitioner was granted regular bail in the
+
+     proceedings arising out of FIR No 172/2022 by an order dated 15 July 2022 of
+
+     the Additional Sessions Judge at the Patiala House Courts.
+10
+18          In the proceedings which reached this Court arising out of FIR No
+
+     226/2022 registered at PS Khairabad in the District of Sitapur, the petitioner was
+
+     granted interim bail on 8 July 2022. The order granting interim bail has been
+
+     extended pending further orders on 12 July 2022.
+19          The grant of bail, first by this Court on 12 July 2022 and next by the Patiala
+
+     House Courts on 15 July 2022, however, has not been sufficient to secure the
+
+     personal liberty of the petitioner. The petitioner is still embroiled in successive
+
+     FIRs which have been registered in diverse Police Stations in the State of Uttar
+
+     Pradesh where he is in judicial custody and applications for the grant of bail are
+
+     pending. The prosecution seeks orders for police remand.
+
+20          Essentially, the allegations against the petitioner pertain to the tweets
+
+     which have been put out by him. The three notices issued by Police Stations at
+
+     Hathras Kotwali, Sikandra Rao, and Khairabad under
+Section 91
+CrPC are
+
+     verbatim the same. Having found from the record that the petitioner has been
+
+     subjected to a sustained investigation by the Delhi Police, we find no reason or
+
+     justification for the deprivation of the liberty of the petitioner to persist any further.
+
+     Consequently, we are of the view that the petitioner must be released on interim
+
+     bail in each of the FIRs which forms the subject matter of these proceedings,
+
+     under
+Article 32
+of the Constitution.
+The existence of the power of arrest must be
+
+     distinguished from the exercise of the power of arrest. The exercise of the power
+
+     of arrest must be pursued sparingly. In the present case, there is absolutely no
+
+     justification to keep the petitioner in continued custody any further and to subject
+
+     him to an endless round of proceedings before diverse courts when the
+
+     gravamen of the allegations in each of the said FIRs arises out of the tweets
+11
+which have been put out by the petitioner, and which also form the subject matter
+
+     of the investigation being conducted by the Delhi Police in FIR 172/2022.
+
+21             In
+Arnab Ranjan Goswami v. Union of India,8
+while dealing with the
+
+     issue of a multiplicity of proceedings and harassment to the accused, a two judge
+
+     bench of which one of us (Dr DY Chandrachud) was a part, held:
+“32.
+Article 32
+of the Constitution constitutes a
+                            recognition of the constitutional duty entrusted to
+                            this Court to protect the fundamental rights of
+                            citizens. The exercise of journalistic freedom lies at
+                            the core of speech and expression protected by
+Article 19(1)(a).
+The petitioner is a media journalist.
+                            The airing of views on television shows which he
+                            hosts is in the exercise of his fundamental right to
+                            speech and expression under
+Article 19(1)(a).
+India’s freedoms will rest safe as long as
+                            journalists can speak truth to power without
+                            being chilled by a threat of reprisal. The exercise
+                            of that fundamental right is not absolute and is
+                            answerable to the legal regime enacted with
+                            reference to the provisions of
+Article 19(2).
+But to
+                            allow a journalist to be subjected to multiple
+                            complaints and to the pursuit of remedies
+                            traversing multiple states and jurisdictions
+                            when faced with successive FIRs and
+                            complaints bearing the same foundation has a
+                            stifling effect on the exercise of that freedom.
+                            This will effectively destroy the freedom of the
+                            citizen to know of the affairs of governance in the
+                            nation and the right of the journalist to ensure an
+                            informed society. Our decisions hold that the right
+                            of a journalist under
+Article 19(1)(a)
+is no higher
+                            than the right of the citizen to speak and express.
+                            But we must as a society never forget that one
+                            cannot exist without the other. Free citizens cannot
+                            exist when the news media is chained to adhere to
+                            one position.”
+
+                                                            (emphasis supplied)
+8
+(2020) 14 SCC 12
+12
+Further, this Court reiterated the role of courts in protecting personal liberty and
+
+     ensuring that investigations are not used as a tool of harassment:
+“60. [...] Courts must be alive to the need to safeguard the
+                  public interest in ensuring that the due enforcement of
+                  criminal law is not obstructed. The fair investigation of
+                  crime is an aid to it. Equally it is the duty of courts across
+                  the spectrum – the district judiciary, the High Courts and
+                  the Supreme Court – to ensure that the criminal law does
+                  not become a weapon for the selective harassment of
+                  citizens. Courts should be alive to both ends of the
+                  spectrum – the need to ensure the proper
+                  enforcement of criminal law on the one hand and the
+                  need, on the other, of ensuring that the law does not
+                  become a ruse for targeted harassment. Liberty across
+                  human eras is as tenuous as tenuous can be. Liberty
+                  survives by the vigilance of her citizens, on the
+                  cacophony of the media and in the dusty corridors of
+                  courts alive to the rule of (and not by) law. Yet, much too
+                  often, liberty is a casualty when one of these components
+                  is found wanting.
+61. [...] The doors of this Court cannot be closed to a
+                  citizen who is able to establish prima facie that the
+                  instrumentality of the State is being weaponized for using
+                  the force of criminal law. Our courts must ensure that
+                  they continue to remain the first line of defense
+                  against the deprivation of the liberty of citizens.
+Deprivation of liberty even for a single day is one day
+                  too many. We must always be mindful of the deeper
+                  systemic implications of our decisions.”
+
+                                                         (emphasis supplied)
+
+
+22         As regards the prayer for quashing of the FIRs, an essential aspect of the
+
+     matter which must be noticed at this stage is that the investigation by the Special
+
+     Cell of the Delhi Police in FIR No 172/2022 pertains to offences of a cognate
+
+     nature to those which have been invoked in the FIRs which have been lodged
+
+     before the Police Stations in Uttar Pradesh. Before this court can embark on an
+
+     enquiry as to whether the FIRs should be quashed, it is appropriate that the
+
+     petitioner pursues his remedies in accordance with the provisions of
+Article 226
+13
+of the Constitution and/or
+section 482
+of the CrPC. However, a fair investigative
+
+     process would require that the entirety of the investigation in all the FIRs should
+
+ be consolidated and entrusted to one investigating authority. The overlap in the
+
+ FIRs, emanating as they do from the tweets of the petitioner, only goes to
+
+     emphasize the need for a consolidated, as opposed to piece-meal investigation
+
+     by a diverse set of law enforcement agencies.
+23         We are accordingly of the view that the alternate prayer which has been
+
+     adduced on behalf of the petitioner should be accepted, as a consequence of
+
+     which all the FIRs which have been registered against the petitioner including the
+
+     FIRs which have been noted above arising out of the Petitioner’s tweets should
+
+     be transferred for investigation to the Special Cell of the Delhi Police. As a
+
+     consequence of the above direction, the SIT which has been constituted by the
+
+     Uttar Pradesh Police shall be rendered redundant and shall be disbanded. While
+
+     we have not proceeded to quash the FIRs as sought in prayer (a), we expressly
+
+     clarify that we have granted liberty to the petitioner to move the High Court of
+
+     Delhi in proceedings under
+Section 482
+CrPC, in the event that he is advised to
+
+     seek the quashing of the FIRs before the High Court of Delhi. All proceedings in
+
+     connection with the FIRs shall lie before the High Court of Delhi for such
+
+     remedies as are available in law. The direction for the transfer of the investigation
+
+     of the FIRs which have been registered in Uttar Pradesh to the Special Cell of the
+
+     Delhi Police shall apply to all the existing FIRs forming the subject matter of the
+
+     tweets which have been put out by the petitioner and to any future FIRs which
+
+     may be registered against him on the same subject matter.
+14
+24          We also order and direct that the petitioner shall be entitled to the
+
+     protective order of interim bail which has been granted by this Court not only in
+
+     respect of the FIRs which have already been registered, but also in respect of the
+
+     FIRs which will hereafter be registered on the same subject matter in regard to
+
+     the tweets which have been put out by him.
+25          As evident from the facts narrated above, the machinery of criminal justice
+
+     has been relentlessly employed against the petitioner. Despite the fact that the
+
+     same tweets allegedly gave rise to similar offences in the diverse FIRs mentioned
+
+     above, the petitioner was subjected to multiple investigations across the country.
+
+     Consequently, he would be required to hire multiple advocates across districts,
+
+     file multiple applications for bail, travel to multiple districts spanning two states for
+
+     the purposes of investigation, and defend himself before multiple courts, all with
+
+     respect to substantially the same alleged cause of action. Resultantly, he is
+
+     trapped in a vicious cycle of the criminal process where the process has itself
+
+     become the punishment. It also appears that certain dormant FIRs from 2021
+
+     were activated as certain new FIRs were registered, thereby compounding the
+
+     difficulties faced by the petitioner.
+26          Police officers are vested with the power to arrest individuals at various
+
+     stages of the criminal justice process, including during the course of investigation.
+
+     However, this power is not unbridled. In terms of
+Section 41(1)(b)(ii)
+of the CrPC,
+
+     the police officer in question must be satisfied that such arrest is necessary to
+
+     prevent the person sought to be arrested from committing any further offence, for
+
+     proper investigation of the offence, to prevent the arrestee from tampering with or
+
+     destroying evidence, to prevent them from influencing or intimidating potential
+15
+witnesses, or when it is not possible to ensure their presence in court without
+
+     arresting them.
+27             Police officers have a duty to apply their mind to the case before them and
+
+     ensure that the condition(s) in
+Section 41
+are met before they conduct an arrest.
+
+     This Court has time and again, reiterated the importance of doing so, including in
+Arnesh Kumar v. State of Bihar,9
+where the Court observed:
+“6. [...] The existence of the power to arrest is one thing,
+                       the justification for the exercise of it is quite another.
+                       Apart from power to arrest, the police officers must be
+                       able to justify the reasons thereof. No arrest can be made
+                       in a routine manner on a mere allegation of commission
+                       of an offence made against a person…”
+28             We once again have occasion to reiterate that the guidelines
+laid down in
+Arnesh Kumar
+(supra) must be followed, without exception. The raison d'être of
+
+     the powers of arrest in relation to cognizable offences is
+laid down in
+Section 41
+.
+
+     Arrest is not meant to be and must not be used as a punitive tool because it
+
+     results in one of the gravest possible consequences emanating from criminal law:
+the loss of personal liberty. Individuals must not be punished solely on the basis
+
+     of allegations, and without a fair trial. When the power to arrest is exercised
+
+     without application of mind and without due regard to the law, it amounts to an
+
+     abuse of power. The criminal law and its processes ought not to be
+
+     instrumentalized as a tool of harassment.
+Section 41
+of the CrPC as well as the
+
+     safeguards in criminal law exist in recognition of the reality that any criminal
+
+     proceeding almost inevitably involves the might of the state, with unlimited
+
+     resources at its disposal, against a lone individual.
+9
+(2014) 8 SCC 273
+16
+29           The counsel for the State of Uttar Pradesh attempted to persuade this
+
+     Court that the petitioner must be barred from tweeting when he is on bail. Section
+
+     438(2) stipulates that the High Court or the Court of Sessions can direct a person
+
+     to be released on conditional bail. The provision provides that the Court shall
+
+     impose conditions in the context of the facts of a particular case. The list of
+
+     illustrative bail conditions stipulated in Sections 437 and 438 relate to the need to
+
+     ensure a proper investigation and fair trial10 or to prevent the accused from
+
+     committing an offence similar to the one he is suspected of11, or in the interest of
+
+     justice12. The phrase ‘interest of justice’ has been interpreted in prior judgments of
+
+     this Court where it has been held that the discretion of the Court in imposing
+
+     conditions on bail must be exercised judiciously and to advance a fair trial.13 The
+
+     bail conditions imposed by the Court must not only have a nexus to the purpose
+
+     that they seek to serve but must also be proportional to the purpose of imposing
+
+     them. The courts while imposing bail conditions must balance the liberty of the
+
+     accused and the necessity of a fair trial. While doing so, conditions that would
+
+     result in the deprivation of rights and liberties must be eschewed.
+In the decision
+
+     in
+Parvez Noordin Lokhandwalla v. State of Maharashtra14
+, a two-Judge
+
+     Bench of this Court, of which one of us (Dr DY Chandrachud) was a part, it was
+
+     observed that bail conditions must not be disproportionate to the purpose of
+
+     imposing them:
+“21. [...] The conditions which a court imposes for the
+                      grant of bail - in this case temporary bail - have to
+10
+Sections 438(2)
+and
+437 (3)(c)
+of CrPC
+11
+Section 437(3)(b)
+of CrPC
+12
+Section 437
+of CrPC
+13
+Kunal Kumar Tiwari v. The State of Bihar, (2018) 16 SCC 74; Dataram Singh v. State of Uttar Pradesh, (2013)
+     15 SCC 570;
+Sumit Singh v. State (NCT of Delhi
+), (2013) 15 SCC 570.
+14
+(2020) 10 SCC 77
+17
+balance the public interest in the enforcement of criminal
+                    justice with the rights of the accused. The human right to
+                    dignity and the protection of constitutional safeguards
+                    should not become illusory by the imposition of conditions
+                    which are disproportionate to the need to secure the
+                    presence of the accused, the proper course of
+                    investigation and eventually to ensure a fair trial. The
+                    conditions which are imposed by the court must bear a
+                    proportional relationship to the purpose of imposing
+                    conditions. The nature of the risk which is posed by the
+                    grant of permission as sought in this case must be
+                    carefully evaluated in each case.”
+
+30            Merely because the complaints filed against the petitioner arise from posts
+
+     that were made by him on a social media platform, a blanket anticipatory order
+
+     preventing him from tweeting cannot be made. A blanket order directing the
+
+     petitioner to not express his opinion - an opinion that he is rightfully entitled to
+
+     hold as an active participating citizen - would be disproportionate to the purpose
+
+     of imposing conditions on bail. The imposition of such a condition would
+
+     tantamount to a gag order against the petitioner. Gag orders have a chilling effect
+
+     on the freedom of speech. According to the petitioner, he is a journalist who is the
+
+     co-founder of a fact checking website and he uses Twitter as a medium of
+
+     communication to dispel false news and misinformation in this age of morphed
+
+     images, clickbait, and tailored videos. Passing an order restricting him from
+
+     posting on social media would amount to an unjustified violation of the freedom of
+
+     speech and expression, and the freedom to practice his profession.
+
+31            For the above reasons, we allow the petition in part in terms of the
+
+     following directions:
+(i)      The petitioner shall stand enlarged on interim bail, subject to his filing a
+
+                 personal release bond in the amount of Rs 20,000 in connection with
+
+                 the following FIRs:
+18
+a)     FIR No. 502/2021, dated 15.06.2021, PS Loni Border,
+
+                      district Ghaziabad
+u/s 153
+,
+153-A
+,
+295-A
+,
+505
+,
+120-B
+and
+34
+IPC.
+b)     FIR No. 193/2021 dated 27.08.2021 registered at PS
+
+                      Chandauli for offences punishable under
+Section 67
+of
+
+                      IT Act.
+c)     FIR No. 511/2021, dated 18.09.2021, PS Mohamadi
+
+                      district Lakhimpur, u/s 153-A, 153B/505(1)8 and 505(2)
+IPC
+.
+d)     FIR No. 226/2022 dated 01.06.2022, PS Khairabad,
+
+                      district Sitapur, u/Sec 295-A(2)
+IPC
+and
+Section 67
+of
+
+                      IT Act.
+e)     FIR No. 286/2022 dated 10.06.2022, PS Sikandrarao,
+
+                      Hathras, u/s 147, 149, 153A, 353, 188, 120-B of IPC
+
+                      and u/s 7 of the CLA Act; and
+f)     FIR No. 237/2022, dated 04.07.2022, PS Hathras
+
+                      Kotwali on a complaint dated 14.06.2022 u/Sec 153-A,
+
+                      295-A, 298
+IPC
+and
+section 67
+of the IT Act;
+(ii)   As regards Crime No 199 of 2021 dated 24 July 2021 registered at PS
+
+       Charthawal, Muzaffarnagar, the charge-sheet under
+Section 173
+of
+
+       CrPC has been filed. The proceedings in respect of the said Case
+19
+Crime shall stand transferred to the Chief Judicial Magistrate, Patiala
+
+        House Courts and shall be taken up from the stage that has been
+
+        reached before the earlier Court. The petitioner has been enlarged on
+
+        bail. The order enlarging the petitioner on bail shall continue to remain
+
+        in force;
+(iii)   The investigation into the FIRs set out in paragraph (i) above shall
+
+        stand transferred from the Uttar Pradesh Police to the Special Cell of
+
+        the Delhi Police. As a consequence, the SIT which was constituted by
+
+        the Director General of Police, Uttar Pradesh on 10 July 2022, shall
+
+        stand disbanded;
+(iv)    The directions contained in (i) and (iii) above shall stand extended to
+
+        any other FIR which may be registered against the petitioner hereafter
+
+        in respect of the same subject matter as the above FIRs in which event
+(a) the investigation of the FIR shall stand transferred to the Special
+
+        Cell of the Delhi Police; (b) the petitioner shall be entitled to the order of
+
+        interim bail, as set out above.
+(v)     The petitioner would be at liberty to pursue his rights and remedies in
+
+        proceedings under Article 226 of the Constitution / Section 482 of CrPC
+
+        before the High Court of Delhi in respect of the FIRs which have been
+
+        or which may be registered against him, and in that event, nothing
+
+        contained in this judgment shall amount to an expression of opinion on
+
+        the merits of such proceedings; and
+(vi)    The bail bonds in compliance with the above direction shall be
+
+        presented before the Chief Judicial Magistrate at the Patiala House
+20
+Courts, Delhi. Immediately upon the presentation of the bail bonds, the
+
+              Superintendent at the Tihar Jail shall take necessary steps to ensure
+
+              that the petitioner is released from judicial custody no later than by 6
+
+              pm today.
+32         Pending application, if any, stands disposed of.
+…..…..…....…........……………….…........J.
+                                             [Dr Dhananjaya Y Chandrachud]
+
+
+
+
+                                            …..…..…....…........……………….…........J.
+                                             [Surya Kant]
+
+
+
+
+                                            …..…..…....…........……………….…........J.
+                                             [A S Bopanna]
+
+
+
+     New Delhi;
+July 20, 2022
+21

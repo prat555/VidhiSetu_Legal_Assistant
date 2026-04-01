@@ -1,0 +1,406 @@
+INDIAN LEGAL FREQUENTLY ASKED QUESTIONS (FAQs)
+===============================================
+This file provides plain-language answers to common legal questions asked by
+Indian citizens. These FAQs serve as a high-quality retrieval source for the
+legal RAG system.
+
+---
+
+CONSTITUTIONAL RIGHTS
+---------------------
+Q: What are my fundamental rights under the Indian Constitution?
+A: The Constitution of India guarantees six categories of Fundamental Rights under Part III (Articles 12–35):
+   1. Right to Equality (Articles 14–18) — equal treatment before law, no discrimination on grounds of religion, race, caste, sex, or place of birth, abolition of untouchability.
+   2. Right to Freedom (Articles 19–22) — freedom of speech and expression, assembly, association, movement, residence, and profession; protection against arbitrary arrest.
+   3. Right against Exploitation (Articles 23–24) — prohibition of human trafficking, forced labour, and employment of children in hazardous work.
+   4. Right to Freedom of Religion (Articles 25–28) — freedom of conscience, practice, and propagation of religion.
+   5. Cultural and Educational Rights (Articles 29–30) — protection of minority languages and cultures, right to establish educational institutions.
+   6. Right to Constitutional Remedies (Article 32) — right to move the Supreme Court for enforcement of fundamental rights; Dr. Ambedkar called this the heart and soul of the Constitution.
+
+Q: What is Article 21 and why is it important?
+A: Article 21 states: "No person shall be deprived of his life or personal liberty except according to procedure established by law." The Supreme Court has expanded this to include: right to live with dignity, right to health, right to privacy (K.S. Puttaswamy case 2017), right to livelihood, right to a fair trial, right to education, and right to a clean environment.
+
+Q: What is the Right to Information (RTI)?
+A: Under the Right to Information Act 2005, any Indian citizen can request information from any public authority within 30 days (48 hours for life/liberty matters). The Central Public Information Officer (CPIO) must provide the information or give reasons for refusal. First appeal lies to a senior officer; second appeal lies to the Central/State Information Commission. Fees: Rs. 10 application fee, Rs. 2 per page. Below poverty line applicants are exempt from fees.
+
+---
+
+CRIMINAL LAW
+------------
+Q: What is an FIR and how is it filed?
+A: FIR (First Information Report) is a written document prepared by police on receipt of information about a cognizable offence. Under Section 154 CrPC (now Section 173 BNSS 2023):
+   - You can give information orally or in writing at any police station.
+   - If oral, police must reduce it to writing and read it back to you.
+   - You are entitled to a free copy of the FIR.
+   - Police CANNOT refuse to register an FIR in a cognizable offence. If they refuse, you can: (a) send complaint to Superintendent of Police by registered post, (b) file a private complaint before a Magistrate under Section 156(3) CrPC, or (c) approach the High Court.
+   - Under BNSS 2023, a Zero FIR can be filed at any police station, which is then transferred to the appropriate jurisdiction.
+
+Q: What is the difference between a bailable and non-bailable offence?
+A: Bailable offence: Bail is a right, not a favour. The accused can demand bail from the police officer or Magistrate as a matter of right. Examples: causing hurt, public nuisance, defamation.
+   Non-bailable offence: Bail is at the discretion of the court (not the police). Examples: murder, rape, dacoity, kidnapping. Bail in non-bailable offences is governed by Section 437 and 439 CrPC (Sections 480, 483 BNSS 2023).
+
+Q: What are my rights when arrested?
+A: Under Article 22 of the Constitution and CrPC/BNSS:
+   - Right to be informed of the grounds of arrest immediately.
+   - Right to consult and be defended by a lawyer of your choice.
+   - Right to be produced before a Magistrate within 24 hours of arrest (excluding travel time).
+   - Right to inform a family member or friend about your arrest.
+   - Police must prepare a memo of arrest signed by a witness and countersigned by you.
+   - You cannot be detained beyond 24 hours without a Magistrate's order.
+   - D.K. Basu v. State of West Bengal (1997) SC guidelines on arrest must be followed: arrest memo, right to inform relative, medical examination, etc.
+
+Q: What is anticipatory bail?
+A: Anticipatory bail (Section 438 CrPC / Section 482 BNSS 2023) is bail granted in anticipation of arrest. Any person who has reason to believe they may be arrested for a non-bailable offence can apply to Sessions Court or High Court for anticipatory bail. Grounds considered: nature of accusation, applicant's antecedents, possibility of fleeing justice, possibility of tampering with evidence.
+
+Q: What is the punishment for murder under Indian law?
+A: Under IPC Section 302 (now BNS Section 103), murder is punishable with: (a) death penalty, or (b) imprisonment for life, AND a fine. The death penalty is given only in the "rarest of rare" cases as per the Supreme Court's ruling in Bachan Singh v. State of Punjab (1980).
+
+Q: What constitutes rape under Indian law?
+A: Under Section 375 IPC (now Section 63 BNS 2023), rape includes penetration without consent or with consent obtained by fraud, force, intoxication, impersonation or when the woman is underage (below 18). Punishment: minimum 7 years to life imprisonment (Section 376 IPC / Section 64 BNS). Aggravated rape (gang rape, rape of minors under 12) carries minimum 20 years to life or death (Section 376D IPC / Section 70 BNS).
+
+---
+
+PROPERTY AND CIVIL LAW
+----------------------
+Q: What documents are needed to prove ownership of immovable property?
+A: Key documents: (1) Sale deed registered at Sub-Registrar's office, (2) Encumbrance Certificate (EC) showing no prior charges, (3) Property tax receipts, (4) Possession certificate, (5) Mutation entry in revenue records (khata/patta), (6) Link documents showing chain of title for at least 13 years. Under the Transfer of Property Act 1882 and Registration Act 1908, a sale deed for property worth Rs. 100 or more must be compulsorily registered.
+
+Q: What is the limitation period for filing a civil suit?
+A: Under the Limitation Act 1963: (a) Recovery of money / enforcement of contract: 3 years from date of breach, (b) Recovery of immovable property: 12 years, (c) Recovery of movable property: 3 years, (d) Suit against government: 30 years though suits on contract against government have shorter periods. Limitation can be extended if the plaintiff was under legal disability (minority, insanity) or if the defendant fraudulently concealed the cause of action.
+
+---
+
+FAMILY LAW
+----------
+Q: What are the grounds for divorce under the Hindu Marriage Act 1955?
+A: Under Section 13 of the Hindu Marriage Act 1955, grounds for divorce include: adultery, cruelty, desertion for 2+ years, conversion to another religion, unsoundness of mind, virulent and incurable leprosy (removed by 2019 amendment), venereal disease, renunciation of the world (sanyas), presumption of death (7+ years missing).
+   Divorce by mutual consent: Section 13B allows divorce by mutual consent after 1 year of separation; parties file jointly, wait 6 months (first motion), then file second motion within 18 months. The Supreme Court in Amardeep Singh v. Harveen Kaur (2017) held that the 6-month cooling-off period can be waived by the court.
+
+Q: What is a maintenance order and who can claim it?
+A: Under Section 125 CrPC (now Section 144 BNSS 2023): wife, minor children, adult children unable to maintain themselves, and parents who are unable to maintain themselves can claim maintenance from a person with sufficient means. The Magistrate can order monthly maintenance. The Supreme Court has held that a woman in a live-in relationship can also claim maintenance (Chanmuniya v. Virendra Kumar Singh Kushwaha, 2011).
+   Under Muslim law, the Muslim Women (Protection of Rights on Divorce) Act 1986 (as clarified by Danial Latifi v. Union of India, 2001) requires a husband to make reasonable and fair provision for the divorced wife's entire life, not just the iddat period.
+
+Q: What protection does a woman have against domestic violence?
+A: Under the Protection of Women from Domestic Violence Act 2005 (PWDVA), any woman who has been in a domestic relationship (including live-in) can seek: (1) Protection order — prohibiting the respondent from committing acts of violence, (2) Residence order — allowing her to stay in shared household, (3) Monetary reliefs — for medical expenses, loss of earnings, (4) Custody order — interim custody of children, (5) Compensation order — for injuries. Application is made to the Magistrate. A Protection Officer assists the victim. The police can be directed to give protection during proceedings.
+
+---
+
+CONSUMER RIGHTS
+---------------
+Q: Where can I file a consumer complaint?
+A: Under the Consumer Protection Act 2019: (a) District Consumer Disputes Redressal Commission: claims up to Rs. 1 crore, (b) State Consumer Disputes Redressal Commission: claims between Rs. 1 crore and Rs. 10 crores, (c) National Consumer Disputes Redressal Commission: claims above Rs. 10 crores. You must file within 2 years of the cause of action. The complaint can be filed online on the eDaakhil portal. You do not need a lawyer. Filing fee is nominal (Rs. 200–5,000 depending on claim amount).
+
+Q: What are my rights as a consumer?
+A: Under Section 2(9) of the Consumer Protection Act 2019, consumer rights include: (1) Right to be protected against hazardous goods/services, (2) Right to be informed about quality, quantity, purity, standard and price, (3) Right to choose from a variety of goods/services, (4) Right to be heard in consumer forums, (5) Right to seek redressal against unfair trade practices, (6) Right to consumer education.
+
+---
+
+LABOUR RIGHTS
+-------------
+Q: What is the minimum wage in India?
+A: Minimum wages are set separately by the Central Government (for central sphere employments) and by each State Government (for state sphere employments). Under the Minimum Wages Act 1948 (now being consolidated under the Code on Wages 2019), there is both a statutory minimum wage and a National Floor Level Minimum Wage (NFLMW) recommended by the Central Government. Minimum wages vary by state, sector, and skill category. Failure to pay minimum wages is a criminal offence attracting fine and/or imprisonment.
+
+Q: Am I entitled to gratuity and when?
+A: Under the Payment of Gratuity Act 1972, gratuity is payable to an employee on: (a) superannuation, (b) retirement/resignation, (c) death or disablement (no minimum service required), (d) after completion of continuous service of not less than 5 years (except in case of death/disablement). Formula: (Last drawn basic salary + DA) × 15/26 × number of completed years of service. Maximum gratuity (tax-exempt): Rs. 20 lakhs (enhanced by amendment in 2018).
+
+Q: What are my rights if I am terminated from employment?
+A: Under Industrial Disputes Act 1947 (for workmen in establishments with 100+ workers), retrenchment requires: (a) 1 month's notice or pay in lieu, (b) retrenchment compensation at 15 days' wages per completed year of service, (c) prior permission of appropriate government authority for establishments with 100+ workers. An employee can challenge wrongful termination before the Labour Court/Industrial Tribunal. Contract employees and those in managerial/supervisory positions may have different rights under their contracts.
+
+---
+
+CYBER LAW
+---------
+Q: What is the punishment for hacking under the IT Act?
+A: Under Section 66 of the Information Technology Act 2000 (as amended in 2008), hacking or unauthorised access to a computer system is punishable with imprisonment up to 3 years, or fine up to Rs. 5 lakhs, or both. Note: Section 66A (online offensive messages) was struck down by the Supreme Court in Shreya Singhal v. Union of India (2015) and is no longer in force.
+
+Q: What is cyberstalking and what are the legal remedies?
+A: Cyberstalking involves repeated use of electronic communication to harass, intimidate, or follow a person online. Legal provisions: (a) Section 354D IPC (now Section 78 BNS 2023) — stalking, including online stalking, punishable with up to 3 years imprisonment (first offence) and up to 5 years (subsequent offence), (b) Section 66A IT Act — STRUCK DOWN (Shreya Singhal 2015), cannot be used, (c) Section 67 IT Act — publishing obscene material online, punishable up to 3 years and Rs. 5 lakhs fine (first offence).
+
+---
+
+TAXATION
+--------
+Q: When is it mandatory to file an Income Tax Return (ITR)?
+A: Under the Income Tax Act 1961, ITR filing is mandatory if: (a) gross total income exceeds the basic exemption limit (Rs. 3 lakhs for new regime / Rs. 2.5 lakhs for old regime in FY 2023-24), (b) you have deposited Rs. 1 crore or more in bank accounts, (c) you have spent Rs. 2 lakhs or more on foreign travel, (d) you have paid Rs. 1 lakh or more as electricity bill, (e) you are a company or firm regardless of income, (f) you want to claim TDS refund or carry forward losses.
+
+Q: What is GST and how does it work?
+A: Goods and Services Tax (GST) is a unified indirect tax that replaced multiple indirect taxes (excise duty, service tax, VAT, etc.) from 1 July 2017. It is a dual GST — Central GST (CGST) and State GST (SGST) for intra-state supplies; Integrated GST (IGST) for inter-state supplies. Tax rates: 0%, 5%, 12%, 18%, 28% depending on the goods/services. Businesses with turnover above Rs. 40 lakhs (goods) / Rs. 20 lakhs (services) must register for GST.
+
+---
+
+REAL ESTATE
+-----------
+Q: What protection does RERA give to homebuyers?
+A: Under the Real Estate (Regulation and Development) Act 2016 (RERA): (a) Builders must register projects with the state RERA authority before launching, (b) Builders cannot collect more than 10% advance without registered sale agreement, (c) Builders must deposit 70% of collections in a dedicated escrow account, (d) Possession delay: buyers entitled to interest at SBI MCLR+2% for every month of delay, or refund with interest, (e) Defects: builder responsible for structural defects for 5 years from possession date, (f) Buyers can file complaints with State RERA authority; appeals lie to Appellate Tribunal.
+
+---
+
+MOTOR VEHICLES
+--------------
+Q: What is the compensation for a road accident victim?
+A: Under the Motor Vehicles Act 1988 and the Motor Vehicles (Amendment) Act 2019: (a) Hit-and-run cases: Rs. 2 lakhs for death, Rs. 50,000 for grievous hurt (from Solatium Fund), (b) Third-party insurance claims before Motor Accident Claims Tribunal (MACT): structured formula under Section 163A or fault-based claim under Section 166, (c) In Sarla Verma v. Delhi Transport Corporation (2009), Supreme Court laid down multiplier method for calculating compensation in fatal accidents, (d) Good Samaritan protection: under 2019 amendment, a bystander who helps accident victim in good faith is protected from police/legal harassment.
+
+---
+
+ENVIRONMENT
+-----------
+Q: What legal action can I take against a polluting factory?
+A: Available remedies: (a) File complaint with State Pollution Control Board (SPCB) under Water Act 1974 and Air Act 1981. Board can issue closure order, (b) File complaint under Environment Protection Act 1986 with the Ministry of Environment, Forest and Climate Change (MoEFCC), (c) National Green Tribunal (NGT): file application before the NGT under the National Green Tribunal Act 2010 — the NGT has original jurisdiction over substantial environmental questions and can award compensation, (d) File PIL in High Court or Supreme Court under Article 226 or 32 for violations of right to clean environment (protected under Article 21).
+
+---
+
+ARBITRATION
+-----------
+Q: Can I be forced to go to arbitration instead of court?
+A: Under the Arbitration and Conciliation Act 1996 (as amended in 2015 and 2019), if a valid arbitration agreement exists between parties, a court referring to Section 8 must refer the dispute to arbitration. However, certain disputes cannot be arbitrated (non-arbitrable): criminal matters, matrimonial/succession matters, insolvency, tenancy under rent control acts, consumer disputes under Consumer Protection Act (NCDRC has held consumer forums are an alternate remedy and cannot be ousted by arbitration). Arbitral awards can be challenged in court only on limited grounds under Section 34.
+
+Q: How is an arbitral award enforced in India?
+A: A domestic arbitral award is enforced like a court decree under Section 36 of the Arbitration and Conciliation Act 1996. Once the period for challenging the award under Section 34 (3 months + 30 days) has expired without a challenge, or if the challenge has been dismissed, the award-holder can file an execution petition in the appropriate court. Foreign awards from countries that are parties to the New York Convention or Geneva Convention are enforceable under Part II of the Act.
+
+Q: What is the difference between mediation and arbitration?
+A: Arbitration: A private adjudicatory process where a neutral arbitrator hears both sides and delivers a binding award. Governed by the Arbitration and Conciliation Act 1996. The award can be enforced as a court decree.
+   Mediation: A consensual, non-adjudicatory process where a neutral mediator facilitates a settlement between parties. Governed by the Mediation Act 2023. The settlement agreement reached through mediation is final and binding and can be enforced as a court decree. Either party can withdraw from mediation at any time before settlement.
+
+---
+
+CONSTITUTIONAL LAW — WRITS AND REMEDIES
+----------------------------------------
+Q: What are the five writs available under the Indian Constitution?
+A: Under Article 32 (Supreme Court) and Article 226 (High Courts), the following writs can be issued:
+   1. Habeas Corpus ("produce the body") — to secure release of a person unlawfully detained. Can be issued against private individuals as well as state.
+   2. Mandamus ("we command") — to direct a public authority or government body to perform its legal duty. Cannot be issued against the President or Governors, or against a private individual.
+   3. Prohibition — issued by a superior court to an inferior court or tribunal directing it to stop proceedings it has no jurisdiction to hear.
+   4. Certiorari — issued by a superior court to quash an order or decision of an inferior court, tribunal or quasi-judicial body acting without jurisdiction or in violation of natural justice.
+   5. Quo Warranto ("by what authority") — to challenge a person's right to hold a public office. The petitioner must show the person is holding office without lawful authority.
+
+Q: What is a Public Interest Litigation (PIL) and how do I file one?
+A: A PIL is a petition filed in the Supreme Court (Article 32) or High Court (Article 226) by any public-spirited person on behalf of the public or a disadvantaged group, even if the petitioner is not personally aggrieved. There is no fixed format — even a postcard or letter to the Chief Justice has been treated as a PIL (epistolary jurisdiction). Requirements: (a) the matter must be of genuine public interest, (b) the relief sought must be for enforcement of a fundamental right or a constitutional provision, (c) the petitioner must not have any personal interest or private gain. Court fee is nominal (Rs. 50 in Supreme Court). The Supreme Court has used PILs to address prison reforms, environmental protection, child labour, and bonded labour.
+
+Q: What are Directive Principles of State Policy?
+A: Directive Principles of State Policy (DPSP) are guidelines contained in Part IV (Articles 36–51) of the Constitution for the State to follow when making laws and policies. They are non-justiciable (cannot be enforced in court) but are fundamental in governance. They include: right to adequate means of livelihood, equal pay for equal work, free legal aid, right to work, public health, uniform civil code, living wage for workers, participation of workers in management, and protection of environment. The Supreme Court in Minerva Mills v. Union of India (1980) held that Fundamental Rights and DPSP together form the core of the Constitution and must be balanced.
+
+Q: Can the President or Governor be sued in civil or criminal proceedings?
+A: Article 361 of the Constitution grants immunity to the President and Governors from: (a) court proceedings for acts done in the exercise of official powers, (b) criminal proceedings during their term of office, (c) civil proceedings for personal acts — 2 months' notice must be given before filing. However, this immunity does not extend to constitutional review of their actions by the courts (e.g., presidential assent to a constitutional amendment can be challenged).
+
+---
+
+CRIMINAL LAW — ADDITIONAL
+--------------------------
+Q: What is cheating under Indian law and what is the punishment?
+A: Under Section 415 IPC (now Section 318 BNS 2023), cheating means: (a) deceiving a person and fraudulently or dishonestly inducing them to deliver property, or (b) inducing a person to do or omit an act causing damage to their body, mind, reputation, or property. Punishment under Section 417 IPC (simple cheating): up to 1 year imprisonment or fine or both. Section 420 IPC (cheating and dishonestly inducing delivery of property — now Section 318(4) BNS): up to 7 years imprisonment and fine.
+
+Q: What is defamation under Indian law?
+A: Under Section 499 IPC (now Section 356 BNS 2023), defamation means making or publishing an imputation about a person with intent to harm or knowing it will harm that person's reputation. It covers both spoken (slander) and written (libel) forms. Punishment: Section 500 IPC / Section 356(2) BNS — simple imprisonment up to 2 years or fine or both. Ten exceptions exist in Section 499 IPC including truth for public good, fair comment on public conduct, reports of court proceedings, and opinion on literary/artistic work. Note: defamation is both a civil wrong (tort) and a criminal offence in India, unlike many other countries.
+
+Q: What is the law on kidnapping and abduction?
+A: Under IPC (now BNS 2023): Kidnapping from India (Section 360 IPC / Section 137 BNS): taking a person outside India without consent. Kidnapping from lawful guardianship (Section 361 IPC / Section 137 BNS): taking a minor (under 16 for boy, under 18 for girl) or unsound mind person without the guardian's consent. Abduction (Section 362 IPC / Section 138 BNS): compelling or inducing any person to go from one place to another. Punishment for kidnapping: up to 7 years + fine. Kidnapping for ransom: up to death penalty.
+
+Q: What is the NDPS Act and what are its punishments?
+A: The Narcotic Drugs and Psychotropic Substances Act 1985 (NDPS) governs offences relating to narcotic drugs and psychotropic substances. Punishments depend on the quantity involved:
+   - Small quantity: up to 1 year rigorous imprisonment or Rs. 10,000 fine or both.
+   - Intermediate quantity: between small and commercial — up to 10 years + Rs. 1 lakh fine.
+   - Commercial quantity: minimum 10 years to maximum 20 years + Rs. 1 to 2 lakhs fine. Second conviction: mandatory death penalty or life imprisonment at court's discretion.
+   Bail under NDPS: Section 37 imposes strict conditions — bail can be granted only if (a) there are reasonable grounds to believe the accused is not guilty and (b) they will not commit any offence while on bail. This reverse burden applies.
+
+Q: What constitutes corruption under the Prevention of Corruption Act?
+A: Under the Prevention of Corruption Act 1988 (amended 2018), public servants and persons who bribe them are both punishable. Key offences: (a) taking or demanding a bribe (undue advantage) — 3 to 7 years imprisonment + fine, (b) criminal misconduct (misappropriating public property or possessing disproportionate assets) — 4 to 10 years + fine, (c) GIVING a bribe to a public servant — up to 7 years + fine. However, a person compelled to give a bribe must report it to law enforcement within 7 days to be entitled to a defence.
+
+Q: What is Section 498A IPC and how is it applied?
+A: Section 498A IPC (now Section 85 BNS 2023) deals with cruelty by husband or his relatives against a married woman. "Cruelty" includes: (a) wilful conduct likely to drive her to suicide or cause grave injury, (b) harassment for dowry. It is a cognizable, non-bailable, non-compoundable offence. Punishment: imprisonment up to 3 years + fine. The Supreme Court in Arnesh Kumar v. State of Bihar (2014) issued guidelines to prevent automatic arrest under 498A — police must conduct a preliminary inquiry before arrest to ensure the complaint is not frivolous.
+
+---
+
+PROPERTY AND CIVIL LAW — ADDITIONAL
+-------------------------------------
+Q: What is an injunction and when can I get one?
+A: An injunction is a court order requiring a party to do or refrain from doing a specific act. Under the Specific Relief Act 1963 and Order XXXIX of CPC: (a) Temporary injunction: granted at any stage of the suit to preserve the status quo. Test: (i) prima facie case, (ii) balance of convenience, (iii) irreparable harm if not granted. (b) Permanent injunction: granted after full trial. (c) Mandatory injunction: orders the defendant to do a positive act, granted only when compensation would be inadequate. Application is made by filing a Notice of Motion or interlocutory application in the pending suit.
+
+Q: What is the process for filing a civil suit in India?
+A: Under the Code of Civil Procedure 1908: (a) Identify the appropriate court — pecuniary jurisdiction (value of suit) and territorial jurisdiction (where defendant resides or cause of action arose), (b) Draft a plaint — contains facts, reliefs sought, valuation of suit, (c) Pay court fees based on valuation, (d) File plaint with supporting documents, (e) Court issues summons to defendant within 30 days, (f) Defendant files written statement within 30 days (extendable to 90 days), (g) Issues framed, evidence recorded, arguments heard, (h) Judgment and decree. Commercial disputes above Rs. 3 lakhs go to Commercial Courts under the Commercial Courts Act 2015 with mandatory pre-institution mediation.
+
+Q: What rights does a tenant have against eviction?
+A: Tenant rights vary by state as rent control is a state subject. Generally: (a) under state Rent Control Acts, a landlord cannot evict a tenant except on specified grounds (non-payment of rent, subletting without permission, nuisance, landlord's bona fide need, etc.), (b) in states where old Rent Control Acts apply, eviction of long-term tenants requires a court order even if the lease has expired, (c) in states with newer rental laws (e.g., Model Tenancy Act 2021), disputes go before a Rent Authority rather than civil court. Eviction without a court order (by forcibly dispossessing a tenant or cutting off utilities) is illegal and the landlord can be prosecuted.
+
+Q: What happens to property when someone dies without a Will (intestate succession)?
+A: For Hindus, Buddhists, Jains, Sikhs: Hindu Succession Act 1956 applies. Class I heirs (son, daughter, widow, mother, etc.) inherit simultaneously and equally. Daughters have equal rights as sons in ancestral property (amendment 2005, confirmed in Vineeta Sharma v. Rakesh Sharma 2020). For Muslims: personal law applies — the estate is divided per Quran-prescribed shares among heirs after deducting debts. For Christians and Parsis: Indian Succession Act 1925 applies.
+
+Q: What is a partition suit and how do co-owners divide property?
+A: Under the Partition Act 1893 and Hindu law, any co-owner of property can file a suit for partition. The court can either: (a) divide the property in kind (physical division) if possible, (b) order a sale and distribution of proceeds if physical division is not practicable. Under the Hindu Succession Act 1956, a coparcener in a Hindu Undivided Family (HUF) can demand partition. Daughters became coparceners by virtue of the 2005 amendment.
+
+---
+
+FAMILY LAW — ADDITIONAL
+------------------------
+Q: How is child custody decided after divorce?
+A: Under the Guardians and Wards Act 1890 and the Hindu Minority and Guardianship Act 1956, the paramount consideration is the welfare of the child. Courts consider: (a) child's age and gender (young children generally stay with mother), (b) child's wishes (if old enough — typically 9+ years), (c) each parent's financial capability and stability, (d) existing bonding and schooling arrangements, (e) any history of abuse or neglect. Types of custody: (1) Physical/residential custody — child lives with one parent, (2) Joint custody — alternates between parents, (3) Sole custody — one parent; other gets visitation. Custody orders are always subject to modification by the court based on changed circumstances.
+
+Q: What is the law on adoption in India?
+A: For Hindus (including Buddhists, Jains, Sikhs): Hindu Adoption and Maintenance Act 1956 governs. A Hindu male or female (if unmarried, divorced, or widow) can adopt. Key requirements: adopted child must be Hindu, not a close relative, and below 15 years unless custom permits. For all other communities and for inter-country adoption: The Juvenile Justice Act 2015 read with CARA (Central Adoption Resource Authority) guidelines apply. Foreigners and NRIs must adopt through CARA. Adoption deed must be registered. Muslims, Christians, Parsis, and Jews cannot adopt under personal law — they can only take a child as a guardian (Guardians and Wards Act 1890) or adopt through the JJ Act route.
+
+Q: What is the Special Marriage Act 1954?
+A: The Special Marriage Act 1954 provides for civil marriage between any two persons regardless of religion or nationality. Key features: (a) notice of intended marriage must be given to the Marriage Officer 30 days before the ceremony, (b) the notice is displayed publicly — any person can object within 30 days, (c) marriage is solemnized before the Marriage Officer and 3 witnesses, (d) a marriage certificate is issued. Importance: allows inter-religious and inter-caste marriages; succession to property of parties married under this Act is governed by the Indian Succession Act 1925 (not personal law).
+
+Q: What is a Hindu Undivided Family (HUF) and what are its legal implications?
+A: A Hindu Undivided Family (HUF) is a legal entity under Hindu law consisting of all persons lineally descended from a common ancestor and their wives and unmarried daughters. Key features: (a) the HUF is a distinct taxable entity under the Income Tax Act, (b) coparceners (male and female members) have a birth right in joint family property, (c) the Karta (usually the senior-most coparcener) manages HUF property, (d) a coparcener can demand partition at any time, (e) after the 2005 amendment, daughters are coparceners with equal rights. HUF is used for tax planning — income from HUF property is taxed separately from individual income.
+
+---
+
+WOMEN PROTECTION — ADDITIONAL
+------------------------------
+Q: What constitutes sexual harassment at the workplace under POSH?
+A: Under the Sexual Harassment of Women at Workplace (Prevention, Prohibition and Redressal) Act 2013 (POSH), sexual harassment includes unwelcome sexual acts or behaviour — (a) physical contact and advances, (b) demand or request for sexual favours, (c) making sexually coloured remarks, (d) showing pornography, (e) any other unwelcome physical, verbal, or non-verbal conduct of a sexual nature. Every organisation with 10 or more employees must constitute an Internal Complaints Committee (ICC). Smaller organisations complain to the Local Complaints Committee (LCC) at the district level. Time limit: 3 months from incident (extendable by 3 months). Penalties on employer: Rs. 50,000 fine; repeat violation leads to cancellation of licence.
+
+Q: What is the procedure for filing a dowry harassment complaint?
+A: Dowry demand or harassment is punishable under: (a) Section 498A IPC / Section 85 BNS — cruelty by husband or relatives: up to 3 years + fine, (b) Section 4 Dowry Prohibition Act 1961 — demanding dowry: 6 months to 2 years + Rs. 10,000 fine, (c) Section 306 IPC / Section 108 BNS — abetment of suicide (if the victim dies). For suspicious deaths within 7 years of marriage: Section 304B IPC (dowry death) / Section 80 BNS applies — minimum 7 years to life imprisonment. To file a complaint: go to the nearest police station, or file before a Magistrate, or contact the National Commission for Women (NCW) helpline 7827170170.
+
+---
+
+CHILD PROTECTION — ADDITIONAL
+------------------------------
+Q: What is the POCSO Act and when does it apply?
+A: The Protection of Children from Sexual Offences (POCSO) Act 2012 protects children (below 18 years) from sexual assault, sexual harassment, and pornography. Key features: (a) gender-neutral — protects both boys and girls, (b) offences: penetrative sexual assault (min. 10 years), aggravated penetrative assault (min. 20 years to death), sexual assault, sexual harassment, use of child for pornography, (c) Special Courts are designated for POCSO trials which must be completed within 1 year, (d) victim's identity cannot be disclosed publicly, (e) provision for child-friendly procedures: inquiry by woman police officer, presence of trusted adult during statement, no repeated examination, (f) mandatory reporting: any person who knows of a POCSO offence must report it to police; failure to report is itself an offence under Section 21.
+
+Q: What rights does a juvenile have when accused of a crime?
+A: Under the Juvenile Justice (Care and Protection of Children) Act 2015, a person below 18 at the time of alleged offence is generally a juvenile. Key protections: (a) treated by Juvenile Justice Board (JJB), not regular criminal courts, (b) cannot be sentenced to death or life imprisonment, (c) identity must not be disclosed in media, (d) maximum sentence: 3 years in observation/special home. Exception: juveniles between 16–18 years accused of heinous offences (e.g., murder, rape) can be assessed by JJB and tried as adults — maximum punishment is life imprisonment (reformatory in nature).
+
+Q: What is the Right to Education Act and what does it guarantee?
+A: The Right of Children to Free and Compulsory Education (RTE) Act 2009 guarantees: (a) free and compulsory education to all children aged 6–14 years (Article 21A), (b) private unaided schools must reserve 25% seats for children from weaker sections (EWS quota) — the school is reimbursed by the government, (c) no detention policy — children cannot be held back or expelled till Class 8, (d) age-appropriate admission — a child can seek admission in class appropriate to their age even without prior schooling.
+
+---
+
+LABOUR LAW — ADDITIONAL
+------------------------
+Q: What are the working hours limits under Indian labour law?
+A: Under the Factories Act 1948: (a) maximum 9 hours per day and 48 hours per week, (b) no worker can work more than 10.5 hours including overtime, (c) overtime wages must be paid at double the ordinary wages, (d) a rest interval of at least 30 minutes after 5 hours of continuous work, (e) total hours including overtime cannot exceed 60 hours per week. IT/ITES sector, construction workers, and contract workers have specific rules under respective State Shops and Establishments Acts.
+
+Q: Am I entitled to maternity leave and how much?
+A: Under the Maternity Benefit (Amendment) Act 2017: (a) paid maternity leave for 26 weeks for first two children, (b) 12 weeks for third and subsequent children, (c) 12 weeks for adoptive mothers of children below 3 months, (d) 12 weeks for commissioning mothers (surrogacy), (e) work from home option after return, (f) crèche facility compulsory in establishments with 50+ employees, (g) dismissal during maternity leave is illegal.
+
+Q: What is the Employees' Provident Fund (EPF) and who is entitled to it?
+A: Under the Employees' Provident Funds and Miscellaneous Provisions Act 1952, EPF applies to establishments with 20 or more employees. Contributions: 12% of basic salary + DA by employee, 12% by employer (split: 8.33% to EPS, 3.67% to EPF). Interest declared annually by EPFO (8.15% for 2022-23). Withdrawal: full withdrawal on retirement, on being unemployed for 2+ months, or on specific conditions (buying a house, illness, marriage). Employees can check their account on the EPFO portal and transfer EPF when changing jobs via UAN (Universal Account Number).
+
+Q: What are my rights under the Industrial Disputes Act if I am laid off?
+A: Under the Industrial Disputes Act 1947: Layoff means inability of employer to provide work due to shortage of material, coal, power, or natural calamity. Laid-off workers (other than casual/badli workers) are entitled to compensation equal to 50% of basic wages + DA for the period of layoff. The first 45 days are compensated at 50%; beyond 45 days, the employer can either continue compensation or retrench. Retrenchment requires: 1 month's notice or wages in lieu, 15 days' compensation per year of service, prior government approval for establishments with 100+ workers.
+
+---
+
+CONSUMER AND CITIZEN RIGHTS — ADDITIONAL
+-----------------------------------------
+Q: Can I complain against an insurance company for claim rejection?
+A: Yes. Options: (a) File a grievance with the Insurance Company's Grievance Redressal Officer (GRO) first, (b) If not resolved within 30 days, approach the Insurance Ombudsman (free, covers life and general insurance disputes up to Rs. 30 lakhs), (c) File a complaint before the Consumer Court — insurance is a "service" under the Consumer Protection Act 2019, (d) IRDAI has an online complaint portal (Bima Bharosa) and Integrated Grievance Management System (IGMS). Time limit before Consumer Court: 2 years from date of rejection.
+
+Q: What are my rights against a bank for deficiency in service?
+A: Banks are service providers under the Consumer Protection Act 2019. Common complaints: wrongful debit, failure to credit, ATM/online transaction fraud, unfair loan charges, wrong CIBIL reporting. Remedies: (a) Written complaint to Branch Manager and Grievance Redressal Officer, (b) If not resolved in 30 days: approach the RBI Banking Ombudsman (Centralised Ombudsman Scheme 2021) — free, covers complaints up to Rs. 20 lakhs, (c) For digital fraud: RBI mandates zero liability on customer if they report fraud to bank within 3 working days of receiving communication from the bank (RBI Circular on Limiting Liability of Customers 2017), (d) File before Consumer Court for higher amounts or consequential damages.
+
+Q: What legal aid is available for people who cannot afford lawyers?
+A: Under the Legal Services Authorities Act 1987, free legal services are available to: (a) members of SC/ST, (b) victims of trafficking or beggary, (c) women and children, (d) persons with disabilities, (e) persons in custody, (f) persons whose annual income is below Rs. 3 lakhs (Central threshold; states may differ). Services: free legal advice, representation in court, drafting of documents, Lok Adalat settlement. Contact your District Legal Services Authority (DLSA) or call NALSA helpline 15100 (toll-free). Lok Adalats offer binding settlement on pre-litigation disputes with no court fees.
+
+---
+
+CYBER AND TECHNOLOGY — ADDITIONAL
+-----------------------------------
+Q: What should I do if I am a victim of online financial fraud?
+A: Immediate steps: (a) Call the National Cybercrime Helpline 1930 immediately — this is a 24×7 helpline; funds are more likely to be frozen if reported within the first hour, (b) File a complaint online at cybercrime.gov.in, (c) Report to your bank immediately and request a transaction reversal/chargeback, (d) File an FIR at your local police station for Section 420 IPC (cheating) + applicable IT Act sections. For UPI fraud: also report to NPCI (National Payments Corporation of India). RBI's zero-liability policy: if fraud is reported to the bank within 3 days and occurred due to bank's negligence, the customer has zero liability.
+
+Q: What is the legal position on data privacy under Indian law?
+A: The Digital Personal Data Protection Act 2023 (DPDPA) is India's primary data protection law. Key rights of individuals (data principals): (a) Right to information about personal data being processed, (b) Right to correction and erasure of personal data, (c) Right to grievance redressal, (d) Right to nominate another person to exercise rights. Obligations on data fiduciaries (companies): purpose limitation, storage limitation, data minimisation, security safeguards. Penalties: up to Rs. 250 crores for breach of data security safeguards. The Data Protection Board of India will adjudicate complaints.
+
+Q: Is it illegal to record a private conversation in India?
+A: Recording a conversation you are a party to is generally not illegal. However: (a) recording a conversation you are NOT a party to (interception) without authorisation is an offence under Section 5 of the Indian Telegraph Act 1885 and Section 69 of the IT Act 2000, (b) publishing or sharing a private communication without consent may attract liability under the IT Act and tort law, (c) secretly recording in a private space (bedroom, bathroom) with intent to misuse is an offence under Section 354C IPC (voyeurism) / Section 77 BNS 2023. Recordings are admissible as evidence in court under BSA 2023 subject to proof of authenticity.
+
+Q: What are the legal consequences of posting fake news or misinformation online?
+A: Several laws apply: (a) Section 505 IPC / Section 353 BNS 2023 — making, publishing, or circulating statements causing public mischief, fear, or alarm: up to 3 years + fine, (b) Section 153A IPC / Section 196 BNS — promoting enmity between groups: up to 3 years (5 years if in place of worship), (c) Section 67 IT Act — publishing obscene or false content: up to 3 years + fine, (d) Defamation laws (civil and criminal) apply if a specific person's reputation is harmed. Note: Section 66A IT Act was struck down (Shreya Singhal 2015) and cannot be used.
+
+---
+
+FINANCIAL AND BANKING — ADDITIONAL
+------------------------------------
+Q: What happens when a cheque bounces in India?
+A: Under Section 138 of the Negotiable Instruments Act 1881, bouncing of a cheque (due to insufficient funds) is a criminal offence. Procedure: (a) the payee must give a demand notice to the drawer within 30 days of receiving the returned cheque memo, (b) the drawer must make payment within 15 days of receiving the notice, (c) if not paid, the payee must file a complaint before the Magistrate within 30 days of expiry of the 15-day period. Punishment: imprisonment up to 2 years OR fine of up to twice the cheque amount OR both.
+
+Q: What is the SARFAESI Act and what are borrower's rights?
+A: The SARFAESI Act 2002 empowers banks and financial institutions to recover secured loans without court intervention. The bank can take possession of mortgaged property, sell or lease it — all without a court decree. Borrower's rights: (a) the borrower must receive a 60-day notice before any action is taken, (b) if aggrieved, the borrower can appeal to the Debt Recovery Tribunal (DRT) within 45 days on depositing 50% of the outstanding amount (can be waived for hardship), (c) residential property of value up to Rs. 1 crore cannot be sold under SARFAESI without DRT approval.
+
+Q: What is the procedure when a person defaults on a loan?
+A: Steps a lender takes: (a) 90 days of default classifies the loan as a Non-Performing Asset (NPA), (b) SARFAESI notice (if secured loan): 60-day notice to repay, (c) Recovery through DRT or NCLT (under IBC for companies), (d) Default reported to CIBIL/Experian/Equifax affecting credit score. For the borrower: (a) negotiate a one-time settlement (OTS) with the bank — banks must have a transparent OTS policy under RBI guidelines, (b) apply for loan restructuring, (c) if a company: seek resolution under IBC 2016 before NCLT.
+
+---
+
+BUSINESS AND COMMERCIAL — ADDITIONAL
+--------------------------------------
+Q: How is a private limited company incorporated in India?
+A: Under the Companies Act 2013: (a) obtain Digital Signature Certificates (DSC) for proposed directors, (b) apply for Director Identification Number (DIN), (c) file SPICe+ form on the MCA21 portal — this combined form handles name reservation, incorporation, DIN allotment, PAN, TAN, EPFO, ESIC registrations, (d) attach Memorandum of Association (MOA), Articles of Association (AOA), identity/address proofs, (e) the Registrar of Companies issues a Certificate of Incorporation (CoI) with a CIN. Minimum: 2 shareholders and 2 directors (1 must be resident in India).
+
+Q: What is the insolvency process for a company under IBC 2016?
+A: Under the Insolvency and Bankruptcy Code 2016: (a) any financial creditor, operational creditor (if default exceeds Rs. 1 crore), or corporate debtor itself can file before the NCLT, (b) on admission, a moratorium begins — no suits can be filed against the corporate debtor, (c) an Interim Resolution Professional (IRP) is appointed, (d) a Committee of Creditors (CoC) is formed of financial creditors, (e) a resolution plan approved by 66% vote of CoC is binding on all stakeholders, (f) the entire CIRP must be completed within 180 days (extendable to 330 days), (g) if no resolution plan is approved, the company goes into liquidation.
+
+Q: What constitutes an anti-competitive agreement under the Competition Act?
+A: Under the Competition Act 2002, agreements that cause an appreciable adverse effect on competition (AAEC) are void. Two categories: (a) Horizontal agreements (between competitors): price-fixing, market sharing, bid-rigging — presumed to have AAEC (per se violations), (b) Vertical agreements (between supply chain members): tie-in arrangements, exclusive supply/distribution — require proof of AAEC. The Competition Commission of India (CCI) can impose penalties up to 10% of average turnover for 3 preceding financial years. Cartel members face up to 3 times the profit or 10% of turnover per year of cartel duration.
+
+---
+
+PROPERTY AND REAL ESTATE — ADDITIONAL
+---------------------------------------
+Q: What is the stamp duty on property registration?
+A: Stamp duty is a state subject and varies by state (typically 4–8% of property value). Additional charges: registration fee (usually 1% of property value, max Rs. 30,000 in some states). Important rules: (a) stamp duty must be paid before or at the time of execution of the document, (b) an unstamped or insufficiently stamped document is not admissible in evidence, (c) deficiency in stamp duty can be cured by paying the deficit + penalty (10 times the deficit) to the Collector of Stamps, (d) women buyers get concession in stamp duty in many states (1–2% discount).
+
+Q: What is the land acquisition process and what compensation is available?
+A: Under the Land Acquisition, Rehabilitation and Resettlement Act 2013 (LARR Act): (a) Social Impact Assessment (SIA) must be conducted, (b) Consent: 80% of affected families' consent required for private projects; 70% for PPP projects, (c) Compensation: market value × multiplier (1.5–2 in rural areas, 1 in urban) + 100% solatium = total compensation at least 2–4 times market value, (d) Rehabilitation and Resettlement (R&R) entitlements: housing, employment, annuity, etc. Compensation disputes go to Civil Court or Land Acquisition Reference to District Court.
+
+---
+
+MOTOR VEHICLES — ADDITIONAL
+-----------------------------
+Q: What are the penalties for traffic violations under the Motor Vehicles Act 2019?
+A: The Motor Vehicles (Amendment) Act 2019 significantly increased penalties: (a) Drunken driving: first offence — Rs. 10,000 or up to 6 months imprisonment or both; second offence — Rs. 15,000 or up to 2 years imprisonment, (b) Driving without licence: Rs. 5,000, (c) Driving without insurance: Rs. 2,000 (first offence), Rs. 4,000 (second offence), (d) Over-speeding: Rs. 1,000–2,000 for light motor vehicle, (e) Using mobile phone while driving: Rs. 5,000, (f) Helmetless riding: Rs. 1,000 + suspension of licence for 3 months, (g) Not wearing seat belt: Rs. 1,000. Traffic challans can be paid online at echallan.parivahan.gov.in.
+
+Q: What happens if someone is killed in a hit-and-run accident?
+A: Under the Motor Vehicles Act 1988 (amended 2019): (a) Even if the offending vehicle is untraced, compensation is available: Rs. 2 lakhs for death, Rs. 50,000 for grievous hurt (from Motor Vehicles Accident Fund), (b) If the vehicle is traced: FIR under Section 304A IPC (causing death by negligence) / Section 106 BNS — up to 2 years imprisonment + fine, (c) Civil compensation: family of deceased can file a claim before Motor Accidents Claims Tribunal (MACT) under Section 166 MVA — the tribunal awards compensation based on the multiplier method (Pranay Sethi v. Oriental Insurance Co., 2017).
+
+---
+
+ENVIRONMENT LAW — ADDITIONAL
+------------------------------
+Q: What is the National Green Tribunal (NGT) and how do I file a complaint?
+A: The National Green Tribunal Act 2010 established the NGT with original jurisdiction over all substantial environmental questions including enforcement of environmental laws, compensation for environmental damage, and implementation of environmental decisions. Key features: (a) any person can file an application, (b) NGT must dispose of matters within 6 months, (c) NGT can award compensation under the "polluter pays" principle, (d) NGT has benches at New Delhi (Principal), Bhopal, Pune, Kolkata, and Chennai, (e) NGT orders can be appealed to the Supreme Court.
+
+Q: What are the laws against poaching and wildlife crime in India?
+A: Under the Wildlife (Protection) Act 1972 (amended 2022): (a) all animals listed in Schedule I (tiger, lion, leopard, elephant, rhinoceros, etc.) have the highest protection — no hunting or trade, (b) hunting any scheduled animal without a licence: imprisonment 3–7 years + Rs. 10,000 fine; for Schedule I animals, minimum 3 years imprisonment, (c) ivory trade is banned; possession of ivory without permit is an offence, (d) the Wildlife Crime Control Bureau (WCCB) coordinates enforcement. CITES implementation in India prohibits cross-border trade of protected species.
+
+---
+
+TAXATION — ADDITIONAL
+----------------------
+Q: What is the difference between capital gains tax and income tax on sale of property?
+A: Under the Income Tax Act 1961: Property held for more than 2 years: Long-Term Capital Gains (LTCG) — taxed at 20% with indexation benefit OR 12.5% without indexation (as changed by Finance Act 2024). Property held for 2 years or less: Short-Term Capital Gains (STCG) — taxed as per applicable income tax slab rate. TDS of 1% is deducted by the buyer if property value exceeds Rs. 50 lakhs (Section 194-IA). Exemptions: Section 54 (reinvestment in another residential property within 1/2 years of sale), Section 54EC (investment in specified bonds within 6 months).
+
+Q: What is TDS and how can I claim a TDS refund?
+A: TDS (Tax Deducted at Source) is tax deducted at the source of payment — e.g., employer deducts TDS from salary, bank deducts TDS from interest above Rs. 40,000 per year. TDS certificates: Form 16 (salary), Form 16A (non-salary). To claim a refund: (a) File your Income Tax Return (ITR) — TDS credit is automatically reflected as taxes already paid, (b) If taxes paid exceed your actual tax liability, the excess is a refund credited directly to the bank account linked with PAN, (c) Track refund status on incometax.gov.in. If refund is delayed beyond the statutory period, interest at 6% per annum is payable by the government (Section 244A).
+
+---
+
+GENERAL LEGAL AWARENESS
+------------------------
+Q: How do I file a complaint against a government official?
+A: Options: (a) Central Vigilance Commission (CVC) for central government employees: complaint at cvc.gov.in, (b) Lokpal (for central government employees including Group A, B, C, D) under the Lokpal and Lokayuktas Act 2013 — covers all central public servants including ministers, (c) Lokayukta (state-level) for state government employees — jurisdiction varies by state, (d) RTI query to know about the official's actions, (e) Writ petition in High Court under Article 226, (f) Anti-Corruption Bureau (ACB) of the state police, (g) Prevention of Corruption Act complaint before an ACB court.
+
+Q: What is a Lok Adalat and how does it work?
+A: Lok Adalat (People's Court) is an alternative dispute resolution mechanism under the Legal Services Authorities Act 1987. Key features: (a) Cases pending in court or at pre-litigation stage can be settled, (b) No court fees — fees paid for the original case are refunded if settled at Lok Adalat, (c) The Lok Adalat award is final and cannot be appealed; it is deemed a decree of a civil court, (d) Both parties must consent to the settlement. Permanent Lok Adalats are established for public utility services (transport, postal, insurance, hospitals, power, water) and can pass an award without parties' consent for public utility disputes. Common matters: motor accident claims, matrimonial disputes (except divorce), labour disputes, compoundable criminal offences.
+
+Q: What is the difference between High Court and Supreme Court jurisdiction?
+A: High Court (Article 226): (a) Original jurisdiction: writ jurisdiction (broader than Article 32 — covers any legal right, not just fundamental rights), company winding up, testamentary matters, (b) Appellate jurisdiction: appeals from District Courts and Subordinate Courts, (c) Supervisory jurisdiction over all subordinate courts (Article 227). Supreme Court (Articles 32, 136): (a) Original jurisdiction: disputes between states, enforcement of fundamental rights, (b) Appellate jurisdiction: by certificate from High Court (Articles 132–134) or by Special Leave Petition (SLP) under Article 136 — can grant leave from any court or tribunal in India, (c) Advisory jurisdiction: President can seek the Court's opinion on questions of law (Article 143), (d) Supreme Court decisions are binding on all courts in India (Article 141).
+
+Q: What is the process to get a certified copy of a court judgment?
+A: A certified copy can be obtained from the court's record room. Process: (a) Submit an application to the Reader/Copying Section specifying the case number, date, and document required, (b) Pay the prescribed fee (varies by court and pages), (c) The copy is typically ready within 1–7 working days, (d) Urgent copy: available on payment of higher fee, (e) E-copying facility: available in Supreme Court, most High Courts, and some District Courts — searchable on ecourts.gov.in. Certified copies are required for: filing appeals, stamp duty purposes, court proceedings in other courts.
+
+Q: What is the difference between a cognizable and non-cognizable offence?
+A: Cognizable offence: Police can arrest without a warrant, investigate without a court order, and file a charge sheet (e.g., murder, robbery, assault, rape). The First Schedule of CrPC / Schedule II of BNSS classifies offences. Non-cognizable offence: Police cannot arrest without a warrant; they must obtain a warrant from a Magistrate before arresting (e.g., defamation, public nuisance, cheating up to small amounts). In non-cognizable matters, the aggrieved party must file a complaint before a Magistrate, who then may authorise investigation.
+
+Q: What is a summons case vs. a warrant case?
+A: Under CrPC (now BNSS 2023): Summons case: offence punishable with less than 2 years imprisonment. Procedure is simpler — summons issued, accused appears, plea recorded, evidence recorded expeditiously. Warrant case: offence punishable with death, life imprisonment, or imprisonment exceeding 2 years. Procedure involves: charge framing, prosecution evidence, defence evidence, arguments, and judgment.
+
+Q: What is anticipatory bail vs. regular bail vs. default bail?
+A: Regular bail (Section 437/439 CrPC / Sections 480/483 BNSS): sought after arrest in a non-bailable offence. Anticipatory bail (Section 438 CrPC / Section 482 BNSS): sought before arrest to prevent arrest in a non-bailable offence. Default bail (Section 167(2) CrPC / Section 187 BNSS): if the police fail to file a charge sheet within the statutory time limit (60 days for offences with up to 10 years punishment, 90 days for offences with life/death punishment), the accused has an indefeasible right to bail — this is called default bail or statutory bail. The accused must apply for default bail before the charge sheet is filed.
+
+Q: Can a criminal case be compromised or settled between the parties?
+A: Only compoundable offences can be settled between parties. Under First Schedule of CrPC / BNSS: (a) Offences compoundable without court permission: minor hurt, defamation, cheating up to certain amounts — victim and accused can settle directly, (b) Offences compoundable with court permission: grievous hurt, adultery (previously), dishonest misappropriation — both sides appear before court to record compromise. Non-compoundable offences (murder, rape, dacoity, etc.) cannot be settled privately — the state prosecutes regardless of the victim's wishes. However, in matrimonial cases (including 498A IPC), the Supreme Court in various judgments has allowed quashing of FIR if parties have genuinely settled and reached a compromise.

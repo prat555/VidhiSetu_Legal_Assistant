@@ -1,0 +1,1836 @@
+Title: Search
+Court: High Court
+Date: 1 of 1872
+Citation: citations: AIR 2020 DELHI 156, AIRONLINE 2020 DEL 910
+Source: https://indiankanoon.org/doc/170404652/
+
+[Cites
+66
+, Cited by
+8
+]
+Delhi High Court
+Deepti Kapur vs Kunal Julka on 30 June, 2020
+Equivalent citations: AIR 2020 DELHI 156, AIRONLINE 2020 DEL 910
+Author:
+Anup Jairam Bhambhani
+Bench:
+Anup Jairam Bhambhani
+$~SB~1
+
+*      IN THE HIGH COURT OF DELHI AT NEW DELHI
+
+%                                             Dated : 30th June, 2020
+
++      CM(M) 40/2019 and CM APPL.No.1226/2019
+
+       DEEPTI KAPUR                                   ..... Petitioner
+                          Through : Mr. Rakesh Vats, Advocate
+
+                          versus
+
+       KUNAL JULKA                                      ..... Respondent
+                          Through:     Ms. Kaadambari Singh Puri,
+                                       Advocate with Ms. Lovina Ropia,
+                                       Advocate
+       CORAM:
+       HON'BLE MR. JUSTICE ANUP JAIRAM BHAMBHANI
+
+                           J U D G M E N T
+ANUP JAIRAM BHAMBHANI, J.
+This petition under
+Article 227
+of the Constitution of India impugns
+order dated 24.12.2018 made by the learned Principal Judge (South), Family
+Court, Saket, Delhi in HMA No.609/2012 titled Kunal Julka vs. Deepti
+Kapur.
+2.     The issue at hand arises from a matrimonial dispute which is pending
+before the Family Court by way of a divorce petition bearing HMA
+No. 609/2012, the relevant details of which are referred to hereinafter.
+3.     The petitioner/wife is the respondent in the aforesaid divorce petition
+which was filed on 26.09.2012 by the respondent/husband seeking
+
+_______________________________________________________________________
+C.M.(M) 40/2019                                                     page 1 of 46
+ dissolution of their marriage on the ground of cruelty available under
+section
+13(1)(ia)
+of the Hindu Marriage Act, 1955. In the divorce proceedings, the
+husband filed a Compact Disc (CD) purporting to contain an audio-video
+recording of the wife supposedly speaking with her lady friend, by name
+Sugandha, on phone and talking about the husband and his family in a
+manner, which the husband claims was derogatory, defamatory and
+constituted cruelty to him. In the written statement filed by the wife in the
+divorce proceedings, she opposed the taking on record of the CD and the
+purported transcript of conversation contained therein. The wife opposed the
+CD being brought on record on the ground, firstly, that the contents of the
+CD were tampered with and were therefore not authentic ; and secondly, that
+the contents of the CD were not admissible in evidence since they were a
+recording of a 'private' conversation that the wife had had with a friend,
+which had been secretly recorded by the husband, without the knowledge or
+consent of the wife, in breach of her fundamental right to privacy.
+4.     In response to the wife's objections, the husband moved an
+application before the Family Court, in which he in effect sought
+appointment of an expert to prove the genuineness of the CD with the
+purpose of bringing the CD on record. Agreeing with the husband's
+contentions, by way of impugned order dated 24.12.2018, the Family Court
+allowed the husband to bring on record the evidence comprised in the CD,
+while directing that the contents of the CD be examined by the Forensic
+Science Laboratory (FSL) to assess the genuineness of the recording. By
+way of the impugned order, the Family Court has directed the FSL to render
+its opinion on the following aspects :
+_______________________________________________________________________
+C.M.(M) 40/2019                                                       page 2 of 46
+                   "The FSL shall report :(l) (sic) Whether the contents of CD
+                  and the original recording in the recording device are at
+                  variance? (2) Whether the original recording has been
+                  tempered (sic) with? (3)Whether the transcript relied upon
+                  by the petitioner is correct, as per the original recording?"
+5.        While the prayer made in the application on which the Family Court
+has made the impugned order is somewhat ambiguous, the essential question
+raised in the present proceeding is as regards the admissibility of the
+contents of the CD, since according to the wife, the conversation comprised
+in the CD has been recorded in breach of her fundamental right to privacy;
+and is therefore inadmissible in evidence.
+Petitioner's submissions :
+6.        The wife's objection arises from the conceded position that the audio-
+video recording on the CD was made by means of a CCTV camera installed
+by the husband in the bedroom of the parties ; and that is how the
+conversation between the wife and her friend came to be recorded. The wife
+accordingly contends that since the evidence comprised in the CD was
+collected in breach of the wife's fundamental right to privacy, the same is
+not admissible in a court of law. Relying on a Constitution Bench judgment
+of the Supreme Court in Justice K. S. Puttaswamy (Retd.) &
+Anr. vs. Union
+of India & Ors.1
+, the wife has urged that privacy has (now) been recognised
+by the Supreme Court as a fundamental right, available to a person not only
+against the State but also against private individuals. It is argued that a
+person is entitled to criticise someone and not share the criticism with the
+world ; and that a person has a right to all thoughts and behavioural patterns
+1
+(2017) 10 SCC 1
+
+_______________________________________________________________________
+C.M.(M) 40/2019                                                         page 3 of 46
+ within one's zone of privacy.        In this context, it is urged that the
+conversation between the wife and her friend, conducted in the bedroom and
+therefore in the belief that the same was being conducted in private, cannot
+be brought on record and be cited in evidence. It is further submitted that
+since the husband's action of secretly recording the conversation using a
+CCTV camera installed in the bedroom is a violation of the wife's
+fundamental right to privacy, the recording is per se illegal and therefore not
+admissible in evidence.
+7.     In the context of
+section 14
+of the Family Courts Act 1984 ('
+Family
+Courts Act
+', for short), it is argued, that though this provision otherwise
+empowers a Family Court to receive evidence, if in the opinion of the
+Family Court, such evidence assists it to deal effectually with a dispute,
+whether or not the same is otherwise relevant or admissible under the
+Indian
+Evidence Act
+1872 ('
+Evidence Act
+', for short), yet this section does not
+permit evidence which is inadmissible "as per the Constitution" to be taken
+on record. Relying upon certain judicial precedents, it is argued on behalf of
+the wife that since the conversation comprised in the CD was recorded in
+breach of the wife's fundamental right to privacy as recognised in the
+Constitution, it cannot be admitted in evidence even under
+section 14
+of the
+Family Courts Act.
+8.     Additionally it has been urged that the husband's action of
+surreptitiously and clandestinely recording the wife's telephone conversation
+with her friend also amounts to an offence under
+section 354-D
+of the Indian
+Penal Code 1860, whereby the very act of recording such conversation is a
+criminal offence, punishable in law ; and accordingly evidence collected by
+
+_______________________________________________________________________
+C.M.(M) 40/2019                                                     page 4 of 46
+ committing a penal offence must per se be inadmissible in a court of law for
+any purpose and under any statute.
+Respondent's submissions :
+9.     On the other hand, it is the husband's contention that although privacy
+has been recognised by the Supreme Court as a fundamental right, this right
+is not absolute but is subject to exceptions. Relying upon other judicial
+precedents, it is urged that the husband was entitled to establish cruelty on
+the wife's part and to prove his case seeking dissolution of marriage on that
+ground ; and in these circumstances, the wife's right to privacy must give
+way to the husband's right to bring evidence to prove his case, else the
+husband would be denied the right to fair trial guaranteed under
+Article 21
+of the Constitution. It is of course also argued on behalf of the husband, that
+section 14
+of the Family Courts Act specifically empowers a Family Court
+to receive evidence, if in its opinion such evidence will assist the court to
+deal effectively with the dispute, regardless of whether the same is otherwise
+relevant or admissible under the
+Evidence Act
+.
+10.    In support of their respective submissions, the parties have cited the
+following judicial precedents:
+Precedents cited by the petitioner/wife :
+(i)       Justice K. S. Puttaswamy (Retd.) &
+Anr. vs. UOI & Ors
+.
+(supra) : in which a 9-Judge Constitution Bench of the
+                  Supreme Court has held that the right to privacy is a
+                  constitutionally protected right of an individual.
+_______________________________________________________________________
+C.M.(M) 40/2019                                                        page 5 of 46
+(
+ii)        Rayala M. Bhuvaneswari vs. Nagaphanender Rayala2
+: in
+                       which a single Judge of the Andhra Pradesh High Court has
+                       held that the act of phone tapping by the husband is illegal
+                       and infringed the wife's right to privacy.
+(
+iii)       State of Punjab vs. Baldev Singh3
+: in which, while dealing
+                       with
+section 50
+of The Narcotic Drugs and Psychotropic
+                       Substances Act 1985 ('
+NDPS Act
+', for short), a 5-Judge
+                       Constitution Bench of the Supreme Court has held that while
+                       considering the aspect of fair trial, the nature of the evidence
+                       obtained and the nature of the safeguard violated are both
+                       relevant factors. Courts cannot allow admission of evidence
+                       against an accused where the court is satisfied that the
+                       evidence had been obtained by conduct of which the
+                       prosecution ought not to take advantage, particularly when
+                       that conduct causes prejudice to the accused.
+Precedents cited by the respondent/husband :
+(
+i)         Yusufalli Esmail Nagree vs. The State of Maharashtra4
+: in
+                       which a 3-Judge Bench of the Supreme Court has held that a
+                       tape recording can be considered as a statement, provided it
+                       is not tampered with; and that the tape recording was done
+                       without knowledge is not in itself an objection to its
+                       admissibility.
+2
+MANU/AP/0907/2007
+3
+(1999) 6 SCC 172
+4
+(1967) 3 SCR 720
+
+_______________________________________________________________________
+C.M.(M) 40/2019                                                             page 6 of 46
+(
+ii)        N. Sri Rama Reddi & Ors. vs. V. V. Giri
+5 : in which a
+                       5-Judge Constitution Bench of the Supreme Court has upheld
+                       the decision in
+S. Pratap Singh vs. State of Punjab
+: (1964) 4
+                       SCR 733, that a tape recorded conversation is admissible. It
+                       was further held that a tape recording can be used to
+                       corroborate as well as contradict evidence.
+(
+iii)       R. M. Malkani vs. State of Maharashtra
+6 : in which a 2-
+                       Judge Bench of the Supreme Court has held that conversation
+                       that is tape recorded by an external device, without tampering
+                       or interrupting telephone lines, is admissible in evidence. In
+                       this case the Supreme Court has spelt-out three conditions for
+                       admissibility of a tape recording, namely (a) relevance, (b)
+                       voice identification and (c) proof of accuracy. Further it has
+                       been held that evidence, even if procured illegally, is
+                       admissible.
+(
+iv)        Ziyauddin Burhanuddin Bukhari vs. Brijmohan Ramdass
+                       Mehra & Ors.7
+: in which a 3-Judge Bench of the Supreme
+                       Court has held that tape recordings of speeches were
+                       documents under
+section 3
+of the Evidence Act, which stood
+                       on no different footing than photographs, and were
+                       admissible after satisfying the three conditions as laid down
+                       inter alia in
+RM Malkani
+(supra).
+5
+(1970) 2 SCC 340
+6
+(1973) 1 SCC 471
+7
+(1976) 2 SCC 17
+
+_______________________________________________________________________
+C.M.(M) 40/2019                                                           page 7 of 46
+(
+v)          X vs. Hospital Z8
+: in which a 2-Judge bench of the Supreme
+                        Court has held that the disclosure by a doctor of a serious
+                        disease suffered by a prospective groom that saved the
+                        prospective wife from contracting that disease, did not invade
+                        the man's right to privacy, despite the fact that one of the
+                        most important aspects of a doctor-patient relationship is the
+                        doctor's duty to maintain secrecy about a patient's medical
+                        condition ; and that though the right to privacy is one of the
+                        basic human rights, it is not treated as absolute and is subject
+                        to such action as may lawfully be taken for prevention of
+                        crime or disorder or protection of health or morals or
+                        protection of rights and freedoms of others.
+For completeness
+                        it must be noted that upon an application made subsequently,
+                        a 3-Judge bench of the Supreme Court in
+X vs. Y Hospital9
+clarified that the decision of the 2-Judge bench decided only
+                        that revealing the man's medical condition to the fiancé's
+                        relatives did not violate his right to privacy since the fiancé
+                        had a right to know about the medical status of the man she
+                        was to marry, while holding that certain other observations
+                        made by the 2-Judge bench were uncalled for.
+(
+vi)         Sharda vs. Dharmpal10
+: in which a 3-Judge Bench of the
+                        Supreme Court has held that a matrimonial court has the
+                        power to order a person to undergo medical tests ; and
+8
+(1998) 8 SCC 296
+9
+(2003) 1 SCC 500
+10
+(2003) 4 SCC 493
+
+_______________________________________________________________________
+C.M.(M) 40/2019                                                              page 8 of 46
+                         passing of such an order by the court would not be in
+                        violation of the right to personal liberty under
+Article 21;
+and
+                        that if a party refuses to submit himself to medical
+                        examination despite a court order, the court will be entitled to
+                        draw an adverse inference against that party.
+(
+vii)        Tukaram S. Dighole v. Manikrao Shivaji Kokate
+11 : in
+                        which a 2-Judge Bench of the Supreme Court, citing
+Ziyauddin Burhanuddin Bukhari
+(supra), has held that tape
+                        recordings are documents under
+section 3
+of the Evidence
+                        Act, which stood on no different footing than photographs;
+                        and were admissible after satisfying the three conditions as
+                        laid down inter alia in
+R.M. Malkani
+(supra), though with
+                        more stringent standards of proof.
+(viii)       Anurag Kumar Singh & Ors. vs. State of Uttarakhand &
+                        Ors.12 : in which a 2-Judge Bench of the Supreme Court has
+                        held that courts cannot give any direction contrary to the
+                        statutes or rules made thereunder in purported exercise of
+                        judicial discretion.
+(
+ix)         Anvar P. V. vs. P.K. Basheer & Ors.13
+: in which a 3-Judge
+                        Bench of the Supreme Court has held that electronic record
+                        produced for inspection of the court is documentary evidence
+                        under
+section 3
+of the Evidence Act, to be proved in
+11
+(2010) 4 SCC 329
+12
+(2016) 9 SCC 426
+13
+(2014) 10 SCC 473
+
+_______________________________________________________________________
+C.M.(M) 40/2019                                                              page 9 of 46
+                     accordance with the procedure prescribed under
+section 65-B
+of the Evidence Act.
+(x)      Justice K. S. Puttaswamy (Retd.) &
+Anr. vs. UoI & Ors
+.
+(supra) : in which a 9-Judge Constitution Bench of the
+                    Supreme Court has held that the right to privacy is a
+                    fundamental right; however it is not an absolute right and has
+                    to be placed in the context of other rights and values.
+(
+xi)     Havovi Kersi Sethna vs. Kersi Gustad Sethna14
+: in which a
+                    single Judge of the Bombay High Court has followed the
+                    tests laid down inter alia in
+RM Malkani
+(supra) as to the
+                    admissibility of tape recorded conversations.
+(
+xii)    Manohar Lal Agrawal vs. Santosh & Ors.
+15 : in which a
+                    Division Bench of the Rajasthan High Court has held that the
+                    Family Court has been left free to receive any evidence or
+                    material which assists it to deal effectually with a dispute and
+                    the provisions of the
+Evidence Act
+would not be applicable.
+(
+xiii)   Preeti Jain vs. Kunal Jain & Anr.
+16 : in which a single
+                    Judge of the Rajasthan High Court has held that the
+                    'privilege' in respect of husband-and-wife communication
+                    under
+section 122
+of the Evidence Act is eclipsed by
+section
+                    14
+of the Family Courts Act 1984.
+14
+SCC OnLine Bom 120
+15
+MANU/RH/0162/1993
+16
+SCC OnLine Raj 2838
+
+_______________________________________________________________________
+C.M.(M) 40/2019                                                          page 10 of 46
+(xiv)     Sagrika Debata vs. Satyanarayan Debata & Anr. 17 : in
+                     which a Division Bench of the Orissa High Court has held
+                     that consideration of evidence by a Family Court is not
+                     restricted by the rules of relevancy or admissibility provided
+                     under the
+Evidence Act
+.
+(
+xv)      Akham Ibodi Singh vs. Akham Biradhwaja Singh & Anr18
+.:
+in which case a single Judge of the Gauhati High Court has
+                     held that the Family Court deals with disputes concerning the
+                     family by adopting an approach radically different from that
+                     adopted in ordinary civil proceedings ; and that
+section 14
+of
+                     the Family Courts Act does not suffer from any vice of either
+                     arbitrariness or being fanciful.
+(
+xvi)     Pootholi Damodaran Nair vs. Babu
+19 : in which a single
+                     Judge of the Kerala High Court has held that a tape recording
+                     can be considered as a statement provided it is not tampered
+                     with; and the tests laid down inter alia in
+R.M. Malkani
+(supra) are followed.
+Decision of the Family Court :
+11.       In allowing the husband's application, the Family Court has dealt with
+the rival contentions of the parties in the following way :
+"7.1 There can be no dispute to the law
+laid down in
+K.S.Puttaswamy & Anr.
+'s case (supra). The law, as
+17
+2009 SCC OnLine Ori 82
+18
+2006 SCC OnLine Gau 276
+19
+2005 SCC OnLine Ker 189
+
+_______________________________________________________________________
+C.M.(M) 40/2019                                                         page 11 of 46
+                   enunciated by a Full Bench (sic) of the Hon'ble Supreme
+                  Court of India is binding and sacrosanct.
+However, this
+                  court is of the opinion that the scope of
+K.S.Puttaswamy &
+                  Anr.
+'s case (supra) is restricted to a stage prior to violation
+                  of the right to privacy. The Hon'ble Supreme Court of India
+                  has held that a person has a right to maintain his privacy.
+                  This right has been conferred the status of a Fundamental
+                  right. The protection has been enunciated to be available
+                  against state, as well, as non-state entities. However, the
+                  consequences of such violation, on the admissibility/
+                  inadmissibility of the evidence collected by such violation,
+                  are not the subject matter or have not been discussed in the
+                  judgment."
+"7.2 Thus, in the present case, the act of petitioner/ husband
+              of planting an audio-video recorder without the knowledge
+              and permission of respondent, certainly amounts to invasion
+              of respondent's right to privacy. Petitioner had no right to
+              plant such a device. Having planted the said recorded (sic)
+              and made a recording therein, the legally permissible
+              consequences would follow. In appropriate proceedings,
+              petitioner can be held liable for violating the respondent's
+              Fundamental right to privacy. The question that needs to be
+              answered by this court in the present application is, from
+              the next stage onwards i.e. 'whether the evidence so
+              collected in violation of respondent's Fundamental right
+              to privacy is admissible or not ?. This court is of the
+              opinion that
+K.S.Puttaswamy & Anr
+'s case (supra) is silent
+              on this question.
+Reliance upon law
+laid down in
+X Vs.
+              Hospital Z
+'s, case (supra) and Sharda Vs. Dharampal's
+              case (supra) also does not answer this question.
+In
+X Vs.
+              Hospital Z
+'s case (supra), it was held by the Hon'ble
+              Supreme Court that dissemination of information about a
+              person being infected with HIV +ve is not hit by right of
+
+_______________________________________________________________________
+C.M.(M) 40/2019                                                           page 12 of 46
+                   privacy, as the prospective spouse has a right to protect
+                  herself from being infected. In Sharda Vs. Dharampal's
+                  case (supra), Family courts' power to direct a person to
+                  undergo medical test was held not violative of
+Article 21
+of
+                  the Constitution of India. The judgments relied upon by ld.
+                  counsels based on
+Article 19
+& 21
+of the Constitution of
+                  India, therefore, do not answer the question, which this
+                  court is required to answer."
+(Emphasis supplied)
+12.    The Family Court has further given the following reason for receiving
+the evidence filed by way of the CD in light of
+section 14
+of the Act :
+"8.1 It is sec.-14 of the
+Family Court of Act
+, which squarely
+              & clearly answers the question posed. Sagarika Devatta's
+              case (supra) elucidates the object of sec.-14 of the
+Family
+              Courts Act
+. The legislature's wisdom to keep the procedure
+              in legal aspect of a Family Court, to be simple and non-
+              complicated have been held to be the object of the Sec.-14
+              of the Family Court Act. For ready reference, Sec.-14 of the
+              Family Court Act is reproduced hereinbelow :
+******
+
+              It is, therefore, evident that the Family Court is within its
+              right to receive any report, statement, document or
+              information, which in the opinion of the court will assist it
+              in effectually dealing with a dispute between the parties;
+              whether such evidence is relevant or admissible or not.
+              Therefore, the question of admissibility of the evidence
+              collected by violating the respondent's right to privacy,
+              would not be gone into, by a Family Court and the evidence
+              shall be taken on record; if the court is of the opinion, that
+              such evidence will assist it in dealing with the dispute
+              effectively."
+_______________________________________________________________________
+C.M.(M) 40/2019                                                        page 13 of 46
+                   "8.2 This court is of the opinion that the conversation
+                  between the respondent and her friend, wherein, she has
+                  allegedly spoken about the petitioner/ his family and the
+                  status of the matrimonial life would, certainly assist the
+                  court in effectively deciding the dispute between the
+                  parties. Such a piece of evidence is certainly relevant.
+                  Therefore, in view of sec.-14 of the
+Family Court Act
+, the
+                  evidence can not be thrown out on the ground that the same
+                  is inadmissible. Dr. Hingorani's argument that the
+                  admissibility mentioned in Sec.-14 of The Family Courts Act
+                  pertains to admissibility under
+Indian Evidence Act
+and not
+                  under the Constitution of India, does not impress this court.
+                  The question of admissibility has been defined only under
+                  the
+Indian Evidence Act
+and there is no way that
+                  appreciation of admissibility of evidence can be carried out
+                  under Constitution of India. Therefore, court is of the
+                  opinion that the audio-video recording, as contained in the
+                  CD is certainly permissible to be taken on record and
+                  considered for effectively adjudicating the dispute between
+                  the parties."
+(Emphasis supplied)
+13.       The Family Court has differed with the view taken by a single Judge
+of the Rajasthan High Court in
+Vishal Kaushik vs. Family
+Court & Anr.20,
+holding that judgement to be per incuriam for the reason that, according to
+the Family Court, the law
+laid down by
+the Supreme Court in
+R.M. Malkani
+(supra) as followed in
+State vs. Navjot Sandhu
+21 was not brought to the
+notice of the Rajasthan High Court and has therefore not been considered.
+14.       The Family Court has relied essentially upon the law as expatiated by
+the Supreme Court in
+Navjot Sandhu
+(supra), as is discussed later in this
+judgment.
+20
+2015 SCC OnLine Raj 7851
+21
+(2005) 11 SCC 600
+
+_______________________________________________________________________
+C.M.(M) 40/2019                                                         page 14 of 46
+ Discussion and conclusions :
+15.    The impugned order requires to be tested on the anvil of well-worn
+principles of admissibility of evidence ; as moulded in light of
+section 14
+of
+the Family Courts Act, which creates a special dispensation for a Family
+Court receiving evidence to effectively decide disputes before it ; and above
+all in view of the overarching effect of the recent, authoritative recognition
+given by the Constitution Bench judgment of our Supreme Court to the right
+to privacy as a fundamental, though not absolute, right. In assessing the
+scope and operation of
+section 14
+of the Family Courts Act, attention must
+also be given to the interpretative principles of a 'special law' prevailing
+over the 'general law' ; and of a 'later statute' prevailing over an 'earlier
+statute'. The question also needs to be addressed as to whether admissibility
+is to be decided based only on principles of evidence or also based on
+constitutional rights and principles. Finally, it also needs to be seen if ethical
+and moral considerations should also be factored-in for deciding
+admissibility of evidence.
+16.    At this point, it would be useful to extract the relevant Constitutional/
+statutory provisions which need to be considered. These are:
+The Family Courts Act
+1984
+              "14.
+Application of Indian Evidence Act, 1872
+.-A Family
+              Court may receive as evidence any report, statement,
+              documents, information or matter that may, in its opinion,
+              assist it to deal effectually with a dispute, whether or not the
+              same would be otherwise relevant or admissible under the
+Indian Evidence Act, 1872
+(1 of 1872)."
+"20. Act to have overriding effect.- The provisions of this
+              Act shall have effect notwithstanding anything inconsistent
+_______________________________________________________________________
+C.M.(M) 40/2019                                                        page 15 of 46
+                   therewith contained in any other law for the time being in
+                  force or in any instrument having effect by virtue of any law
+                  other than this Act."
+(Emphasis supplied)
+Indian Evidence Act
+1872
+
+              "5. Evidence may be given of facts in issue and relevant facts-
+              Evidence may be given in any suit or proceeding of the
+              existence or non-existence of every fact in issue and of such
+              other facts as are hereinafter declared to be relevant, and of no
+              others.
+Explanation--This section shall not enable any person to give
+              evidence of a fact which he is disentitled to prove by any
+              provision of the law for the time being in force relating to Civil
+              Procedure."
+"7. Facts which are the occasion, cause or effect of facts in
+              issue-
+Facts which are the occasion, cause, or effect, immediately or
+              otherwise, of relevant facts, or facts in issue, or which
+              constitute the state of things under which they happened, or
+              which afforded an opportunity for their occurrence or
+              transaction, are relevant."
+"8. Motive, preparation and previous or subsequent conduct
+              Any fact is relevant which shows or constitutes a motive or
+              preparation for any fact in issue or relevant fact.
+              The conduct of any party, or of any agent to any party, to
+              any suit or proceeding, in reference to such suit or
+              proceeding, or in reference to any fact in issue therein or
+              relevant thereto, and the conduct of any person an offence
+              against whom is subject of any proceeding, is relevant, if
+              such conduct influences or is influenced by any fact in issue
+
+
+_______________________________________________________________________
+C.M.(M) 40/2019                                                         page 16 of 46
+                   or relevant fact, and whether it was previous or subsequent
+                  thereto.
+Explanation 1- The word "conduct" in this section does not
+              include statements, unless those statements accompany and
+              explain acts other than statements, but this explanation is
+              not to affect the relevancy of statements under any other
+              section of this Act.
+Explanation 2--When the conduct of any person is
+              relevant, any statement made to him or in his presence and
+              hearing, which affects such conduct is relevant."
+"Section 65B : Admissibility of electronic records.
+(1) Notwithstanding anything contained in this Act, any
+                 information contained in an electronic record which is
+                 printed on a paper, stored, recorded or copied in optical or
+                 magnetic media produced by a computer (hereinafter
+                 referred to as the computer output) shall be deemed to be
+                 also a document, if the conditions mentioned in this section
+                 are satisfied in relation to the information and computer in
+                 question and shall be admissible in any proceedings,
+                 without further proof or production of the original, as
+                 evidence or any contents of the original or of any fact stated
+                 therein of which direct evidence would be admissible."
+(Emphasis supplied)
+           Constitution of India
+              "21. Protection of life and personal liberty - No person
+              shall be deprived of his life or personal liberty except
+              according to procedure established by law."
+17.    The Statement of Objects and Reasons (SOR) of the Family Courts
+Act enunciates the main purpose of its enactment in the following words :
+_______________________________________________________________________
+C.M.(M) 40/2019                                                       page 17 of 46
+                    "Several associations of women, other organizations and
+                  individuals have urged, from time to time, that Family Courts
+                  be set up for the settlement of family disputes, where emphasis
+                  should be laid on conciliation and achieving socially desirable
+                  results and adherence to rigid rules of procedure and evidence
+                  should be eliminated. The Law Commission in its 59th report
+                  (1974) had also stressed that in dealing with disputes
+                  concerning the family the court ought to adopt an approach
+                  radically different from that adopted in ordinary civil
+                  proceedings and that it should make reasonable efforts at
+                  settlement before the commencement of the trial."
+******
+                  "2. The Bill inter alia, seeks to--
+******
+h) simplify the rules of evidence and procedure so as to enable
+                  a Family Court to deal effectually with a dispute;"
+(Emphasis supplied)
+
+meaning thereby, that apart from the emphasis on settlement of disputes by
+conciliation, the other main objective was to ensure expeditious proceedings
+inter alia by simplifying the rules of evidence required to be followed by
+Family Courts.
+18.       One of the earliest, leading decisions on the question of admissibility
+of tape-recorded conversations is Regina vs. Maqsud Ali22, where a secretly
+tape-recorded conversation was the only incriminating piece of evidence
+implicating the accused persons for murder. In the face of strong objection
+raised by the defence however, in exercise of his discretion, the trial judge
+admitted the tape recording in evidence. In this backdrop, the court of
+22
+(1966) 1 QB 688
+
+_______________________________________________________________________
+C.M.(M) 40/2019                                                       page 18 of 46
+ criminal appeal held that there was no difference in principle between a tape
+recording and a photograph; accordingly, a tape recording was admissible in
+evidence provided that its accuracy could be proved and the voices properly
+identified and provided the evidence was relevant and otherwise admissible.
+The court did not lay down any exhaustive set of rules by which the
+admissibility of evidence could be judged but observed that such evidence
+had always to be regarded with caution and assessed in the light of all the
+circumstances of a particular case. The court further observed that but for
+the fact that the tape recorder was a mechanical device, it was no different
+from an eavesdropper, and since the accused were not in custody and no
+caution was required, the use of the tape recorder could not be said to
+operate unfairly against them. The court said that the method of taking the
+tape recording could not affect its admissibility, which still remained a
+matter for the discretion of the judge. The court however added that it
+should not be taken to be saying that such recordings are admissible
+whatever the circumstances, but it does appear wrong to deny to the law of
+evidence advantages to be gained by new techniques and new devices.
+19.       The law in India in relation to 'admissibility' of evidence is crisp,
+clear and consistent. A 5-Judge Constitution Bench of the Supreme Court in
+Pooran Mal vs. The Director of Inspection (Investigation), New Delhi &
+Ors.23
+(and connected matters) was considering a challenge to the seizure of
+articles consisting of account books, documents and valuables by Income
+Tax Authorities, purporting to exercise their authority for search and seizure
+under
+section 132
+of the Income Tax Act 1961 and Rule 112-A of Income
+23
+(1974) 1 SCC 345
+
+_______________________________________________________________________
+C.M.(M) 40/2019                                                      page 19 of 46
+ Tax Rules. The legal challenge was that the said provisions were violative of
+the fundamental rights guaranteed under
+Articles 14
+, 19(1)(f)
+, 19(1)(g)
+and
+31
+of the Constitution. Enunciating the law on the point, the Supreme Court
+observed as under:
+"23.                       ******
+              Now, if the
+Evidence Act, 1872
+which is a law consolidating,
+              defining and amending the law of evidence, no provision of
+              which is challenged as violating the Constitution -- permits
+              relevancy as the only test of admissibility of evidence (See
+Section 5
+of the Act) and, secondly, that Act or any other
+              similar law in force does not exclude relevant evidence on the
+              ground that it was obtained under an illegal search or seizure,
+              it will be wrong to invoke the supposed spirit of our
+              Constitution for excluding such evidence. Nor is it open to us
+              to strain the language of the Constitution, because some
+              American Judges of the American Supreme Court have spelt
+              out certain constitutional protections from the provisions of the
+              American Constitution.
+In
+M.P. Sharma v. Satish Chander
+already referred to, a search and seizure made under the
+Criminal Procedure Code
+was challenged as illegal on the
+              ground of violation of the fundamental right under
+Article
+              20(3)
+, the argument being that the evidence was no better than
+              illegally compelled evidence. In support of that contention
+              reference was made to the Fourth and Fifth Amendments of the
+              American Constitution and also to some American cases which
+              seemed to hold that the obtaining of incriminating evidence by
+              illegal seizure and search tantamounts to the violation of the
+              Fifth Amendment. The Fourth Amendment does not place any
+              embargo on reasonable searches and seizures. It provides that
+              the right of the people to be secure in their persons, papers and
+              effects against unreasonable searches and seizures shall not be
+              violated. Thus the privacy of a citizen's home was specifically
+              safeguarded under the Constitution, although reasonable
+_______________________________________________________________________
+C.M.(M) 40/2019                                                     page 20 of 46
+               searches and seizures were not taboo. Repelling the
+              submission, this Court observed at p. 1096:
+"A power of search and seizure is in any system of
+                    jurisprudence an overriding power of the State for the
+                    protection of social security and that power is necessarily
+                    regulated by law. When the Constitution makers have
+                    thought fit not to subject such regulation to
+                    constitutional limitations by recognition of a
+                    fundamental right to privacy, analogous to the American
+                    Fourth Amendment, we have no justification to import it,
+                    into a totally different fundamental right, by some process
+                    of strained construction. Nor is it legitimate to assume that
+                    the constitutional protection under
+Article 20(3)
+would be
+                    defeated by the statutory provisions for searches."
+It, therefore, follows that neither by invoking the spirit of our
+              Constitution nor by a strained construction of any of the
+              fundamental rights can we spell out the exclusion of evidence
+              obtained on an illegal search."
+"24. So far as India is concerned its law of evidence is
+              modelled on the rules of evidence which prevailed in English
+              Law, and Courts in India and in England have consistently
+              refused to exclude relevant evidence merely on the ground
+              that it is obtained by illegal search or seizure.
+In
+Barindra
+              Kumar Ghose v. Emperor
+the learned Chief Justice Sir
+              Lawrence Jenkins says at page 500:
+"Mr Das has attacked the searches and has urged that, even if
+              there was jurisdiction to direct the issue of search warrants, as
+              I hold there was, still the provisions of the
+Criminal Procedure
+              Code
+have been completely disregarded. On this assumption he
+              has contended that the evidence discovered by the searches is
+              not admissible, but to this view I cannot accede. For, without in
+              any way countenancing disregard of the provisions prescribed
+              by the Code, I hold that what would otherwise be relevant does
+              not become irrelevant because it was discovered in the course
+_______________________________________________________________________
+C.M.(M) 40/2019                                                       page 21 of 46
+               of a search in which those provisions were disregarded. As
+              Jimutavahana with his shrewd common sense observes -- "a
+              fact cannot be altered by 100 texts," and as his commentator
+              quaintly remarks: "If a Brahmana be slain, the precept 'slay
+              not a Brahmana' does not annul the murder". But the absence
+              of the precautions designed by the Legislature lends support to
+              the argument that the alleged discovery should be carefully
+              scrutinized."
+******
+              In Kuruma v. Queen [1955 AC 197] where the Privy Council
+              had to consider the English Law of Evidence in its application
+              to Eastern Africa, Their Lordships propounded the rule thus:
+"The test to be applied, both in civil and in criminal cases, in
+              considering whether evidence is admissible is whether it is
+              relevant to the matters in issue. If it is, it is admissible and the
+              Court is not concerned with how it was obtained."
+******
+              In Kuruma case, Kuruma was searched by two police officers
+              who were not authorised under the law to carry out a search
+              and, in the search, some ammunition was found in the unlawful
+              possession of Kuruma. The question was whether the evidence
+              with regard to the finding of the ammunition on the person of
+              Kuruma could be shut out on the ground that the evidence had
+              been obtained by an unlawful search. It was held it could not be
+              so shut out because the finding of ammunition was a relevant
+              piece of evidence on a charge for unlawful possession. In a
+              later case before the Privy Council in Herman
+              King v. Queen [(1969) 1 AC 304] which came on appeal from a
+              Court of Appeal of Jamaica, the law as laid down in Kuruma
+              case was applied although the Jamaican Constitution
+              guaranteed the constitutional right against search and seizure
+              * * * * * * In other words search and seizure for the purposes
+              of preventing or detecting crime reasonably enforced was not
+              inconsistent with the constitutional guarantee against search
+_______________________________________________________________________
+C.M.(M) 40/2019                                                        page 22 of 46
+                   and seizure. It was held in that case that the search of the
+                  appellant by a Police Officer was not justified by the warrant
+                  nor was it open to the Officer to search the person of the
+                  appellant without taking him before a Justice of the Peace.
+                  Nevertheless it was held that the Court had a discretion to
+                  admit the evidence obtained as a result of the illegal search and
+                  the constitutional protection against search of person or
+                  property without consent did not take away the discretion of the
+                  Court. Following Kuruma v. Queen the Court held that it was
+                  open to the Court not to admit the evidence against the
+                  accused if the Court was of the view that the evidence had
+                  been obtained by conduct of which the prosecution ought not
+                  to take advantage. But that was not a rule of evidence but a
+                  rule of prudence and fair play. It would thus be seen that in
+                  India, as in England, where the test of admissibility of evidence
+                  lies in relevancy, unless there is an express or necessarily
+                  implied prohibition in the Constitution or other law evidence
+                  obtained as a result of illegal search or seizure is not liable to
+                  be shut out."
+(Emphasis supplied)
+20.    Following earlier decisions, the position regarding admissibility of
+evidence is very pithily captured by a 2-Judge Bench of the Supreme Court
+in
+Navjot Sandhu
+(supra) as follows :
+"154.                     ******
+              The legal position regarding the question of admissibility of the
+              tape-recorded conversation illegally collected or obtained is no
+              longer res integra in view of the decision of this Court in
+R.M.
+              Malkani v. State of Maharashtra
+. In that case, the Court
+              clarified that a contemporaneous tape record of a relevant
+              conversation is a relevant fact and is admissible as res gestae
+              under
+Section 7
+of the Evidence Act. Adverting to the argument
+
+_______________________________________________________________________
+C.M.(M) 40/2019                                                          page 23 of 46
+                   that
+Section 25
+of the Telegraph Act, 1885 was contravened the
+                  learned Judges held that there was no violation. At the same
+                  time, the question of admissibility of evidence illegally obtained
+                  was discussed. The law was laid down as follows: (SCC p. 477,
+                  para 24)
+
+                       "There is warrant for the proposition that even if
+                       evidence is illegally obtained it is admissible. Over a
+                       century ago it was said in an English case where a
+                       constable searched the appellant illegally and found a
+                       quantity of offending article in his pocket that it would be
+                       a dangerous obstacle to the administration of justice if it
+                       were held, because evidence was obtained by illegal
+                       means, it could not be used against a party charged with
+                       an offence.
+See Jones v. Owens. The Judicial Committee
+                       in Kuruma v. R. dealt with the conviction of an accused of
+                       being in unlawful possession of ammunition which had
+                       been discovered in consequence of a search of his person
+                       by a police officer below the rank of those who were
+                       permitted to make such searches. The Judicial Committee
+                       held that the evidence was rightly admitted. The reason
+                       given was that if evidence was admissible it matters not
+                       how it was obtained. There is of course always a word of
+                       caution. It is that the judge has a discretion to disallow
+                       evidence in a criminal case if the strict rules of
+                       admissibility would operate unfairly against the accused.
+                       That caution is the golden rule in criminal jurisprudence."
+"155. We may also refer to the decision of a Constitution Bench
+              of this Court in
+Pooran Mal v. Director of Inspection
+              (Investigation
+) in which the principle stated by the Privy
+              Council in Kuruma case was approvingly referred to while
+              testing the evidentiary status of illegally obtained evidence.
+_______________________________________________________________________
+C.M.(M) 40/2019                                                          page 24 of 46
+                   Another decision in which the same approach was adopted is a
+                  recent judgment in
+State v. N.M.T. Joy Immaculate
+. ****** "
+(Emphasis supplied)
+21.    Although in Puttaswamy (supra) the 9-Judge Constitution Bench of
+the Supreme Court has not dealt with the law and principles of evidence in
+the context of the right to privacy, the observations of the Supreme Court in
+that case that are relevant for purposes of the present discussion are the
+following :
+On the right to privacy being a fundamental right :
+"644. The right to privacy is a fundamental right. It is a right
+              which protects the inner sphere of the individual from
+              interference from both State and non-State actors and allows
+              the individuals to make autonomous life choices."
+On right to privacy not being an absolute right:
+"325. Like other rights which form part of the fundamental
+              freedoms protected by Part III, including the right to life and
+              personal liberty under
+Article 21
+, privacy is not an absolute
+              right. A law which encroaches upon privacy will have to
+              withstand the touchstone of permissible restrictions on
+              fundamental rights. In the context of
+Article 21
+an invasion of
+              privacy must be justified on the basis of a law which stipulates
+              a procedure which is fair, just and reasonable. The law must
+              also be valid with reference to the encroachment on life and
+              personal liberty under
+Article 21.
+An invasion of life or
+              personal liberty must meet the threefold requirement of (i)
+              legality, which postulates the existence of law; (ii) need,
+              defined in terms of a legitimate State aim; and (iii)
+              proportionality which ensures a rational nexus between the
+              objects and the means adopted to achieve them."
+_______________________________________________________________________
+C.M.(M) 40/2019                                                     page 25 of 46
+        On the need to place right to privacy in the context of other rights
+       and values:
+"509. Based upon the prevalent thinking of the US Supreme
+              Court, a seminal judgment was delivered by Mathew, J. in
+Gobind [Gobind v. State of M.P.
+, (1975) 2 SCC 148 : 1975
+              SCC (Cri) 468].
+This judgment dealt with the M.P. Police
+              Regulations, similar to the Police Regulations contained in
+Kharak Singh [Kharak Singh v. State of U.P.
+, AIR 1963 SC
+              1295 : (1963) 2 Cri LJ 329 : (1964) 1 SCR 332].
+After setting
+              out the majority and minority opinions in
+the said judgment
+,
+              Mathew, J. went on to discuss the US Supreme Court judgments
+              in Griswold [Griswold v. Connecticut, 1965 SCC OnLine US
+              SC 124 : 14 L Ed 2d 510 : 85 S Ct 1678 : 381 US 479 (1965)]
+              and Roe [Roe v. Wade, 1973 SCC OnLine US SC 20 : 35 L Ed
+              2d 147 : 410 US 113 (1973)] .
+In a very instructive passage the
+              learned Judge held: (
+Gobind
+case [
+Gobind v. State of M.P.
+,
+              (1975) 2 SCC 148 : 1975 SCC (Cri) 468] , SCC pp. 155-57,
+              paras 22-24 & 27-28)
+
+                  "                    ******
+23.     Individual autonomy, perhaps the central concern
+                  of any system of limited Government, is protected in part
+                  under our Constitution by explicit constitutional
+                  guarantees. In the application of the Constitution our
+                  contemplation cannot only be of what has been but what
+                  may be. Time works changes and brings into existence new
+                  conditions. Subtler and far-reaching means of invading
+                  privacy will make it possible to be heard in the street
+                  what is whispered in the closet. Yet, too broad a definition
+                  of privacy raises serious questions about the propriety of
+                  judicial reliance on a right that is not explicit in the
+                  Constitution. Of course, privacy primarily concerns the
+                  individuals. It therefore relates to and overlaps with the
+                  concept of liberty. The most serious advocate of privacy
+                  must confess that there are serious problems of defining
+
+_______________________________________________________________________
+C.M.(M) 40/2019                                                    page 26 of 46
+                   the essence and scope of the right. Privacy interest in
+                  autonomy must also be placed in the context of other
+                  rights and values.
+24.      Any right to privacy must encompass and protect
+                  the personal intimacies of the home, the family, marriage,
+                  motherhood, procreation and child-bearing. This
+                  catalogue approach to the question is obviously not as
+                  instructive as it does not give analytical picture of
+                  distinctive characteristics of the right to privacy. Perhaps,
+                  the only suggestion that can be offered as unifying
+                  principle underlying the concept has been the assertion
+                  that a claimed right must be a fundamental right implicit
+                  in the concept of ordered liberty.
+******
+27.     There are two possible theories for protecting
+                  privacy of home. The first is that activities in the home
+                  harm others only to the extent that they cause offence
+                  resulting from the mere thought that individuals might be
+                  engaging in such activities and that such "harm" is not
+                  constitutionally protectable by the State. The second is
+                  that individuals need a place of sanctuary where they can
+                  be free from societal control. The importance of such a
+                  sanctuary is that individuals can drop the mask, desist for
+                  a while from projecting on the world the image they want
+                  to be accepted as themselves, an image that may reflect
+                  the values of their peers rather than the realities of their
+                  natures.
+28.     The right to privacy in any event will necessarily
+                  have to go through a process of case-by-case development.
+                  Therefore, even assuming that the right to personal liberty,
+                  the right to move freely throughout the territory of India
+                  and the freedom of speech create an independent right to
+                  privacy as an emanation from them which one can
+_______________________________________________________________________
+C.M.(M) 40/2019                                                     page 27 of 46
+                        characterise as a fundamental right, we do not think that
+                       the right is absolute."
+The Police Regulations were, however, not struck down,
+                       but were termed as being perilously close to being
+                       unconstitutional."
+(Emphasis supplied)
+22.       It is crucial to note however, that at the time that the decisions in
+M.P.
+Sharma & Ors. vs. Satish Chandra & Ors.24
+and subsequently in
+Pooran
+Mal
+(supra) were rendered, privacy was not recognised as a fundamental
+right under the Constitution, as indeed no such right had been expressly
+enunciated by our Founding Fathers.
+Today however, in Puttaswamy
+(supra), our Supreme Court has recognised privacy as a fundamental right,
+while qualifying it to say that the right to privacy is not absolute but is
+subject to exceptions, limitations and contours ; and must be placed in the
+context of other rights and values.
+However, even at the time of
+M.P.
+Sharma
+(supra) and
+Pooran Mal
+(supra),
+Articles 14
+, 19(1)(f)
+, 19(1)(g)
+,
+20(3)
+and
+31
+, under which these cases arose, were very much in Part-III of
+the Constitution dealing with fundamental rights; and yet the Supreme Court
+opined that merely because a search or seizure was illegally conducted and
+may amount to breach of a fundamental right, that would not make the
+search or seizure invalid in law. Applying the same principle, this court is of
+the view that although today, privacy is recognised as a fundamental right,
+that alone would not make evidence collected in breach of that right,
+inadmissible. Muchless would it negate the specific statutory dispensation
+contained in
+section 14
+of the Family Courts Act, which says that evidence
+24
+AIR 1954 SC 300
+
+_______________________________________________________________________
+C.M.(M) 40/2019                                                          page 28 of 46
+ would be admissible, whether or not the same is otherwise relevant or
+admissible under the
+Evidence Act
+.
+23.       While a litigating party certainly has a right to privacy, that right must
+yield to the right of an opposing party to bring evidence it considers relevant
+to court, to prove its case. It is a critical part of the hallowed concept of fair
+trial that a litigating party gets a fair chance to bring relevant evidence
+before court. It is important to appreciate that while the right to privacy is
+essentially a personal right, the right to a fair trial has wider ramifications
+and impacts public justice, which is a larger cause. The cause of public
+justice would suffer if the opportunity of fair trial is denied by shutting-out
+evidence that a litigating party may wish to lead at the very threshold.
+24.       Since no fundamental right under our Constitution is absolute, in the
+event of conflict between two fundamental rights, as in this case, a contest
+between the right to privacy and the right to fair trial, both of which arise
+under the expansive
+Article 21
+, the right to privacy may have to yield to the
+right to fair trial. Reference in this regard may be made to the observations
+of a 5-Judge Constitution Bench decision of our Supreme Court in
+Sahara
+India Real Estate Corporation Limited & Ors. vs.                   Securities and
+Exchange Board of India & Anr.25
+, where the court observes thus :
+" ..... It must not be forgotten that no single value, no matter
+                  exalted, can bear the full burden of upholding a democratic
+                  system of government. Underlying our constitutional system are
+                  a number of important values, all of which help to guarantee
+                  our liberties, but in ways which sometimes conflict. Under of
+                  Constitution, probably, no values are absolute. All important
+25
+(2012) 10 SCC 603
+
+_______________________________________________________________________
+C.M.(M) 40/2019                                                          page 29 of 46
+                   values, therefore, must be qualified and balanced against other
+                  important, and often competing, values. This process of
+                  definition, qualification and balancing is as much required with
+                  respect to the value of freedom of expression as it is for other
+                  values. Consequently, free speech, in appropriate cases, has got
+                  to correlate with fair trial. It also follows that in an appropriate
+                  case one right (say freedom of expression) may have to yield to
+                  the other right like right to a fair trial. Further, even
+Articles
+                  14
+and
+21
+are subject to the test of reasonableness after the
+                  judgement of this Court in
+Maneka Gandhi v. Union of India
+."
+(Emphasis supplied)
+25.
+In fact, the rule of evidence that the test of admissibility of evidence is
+only its relevancy, laid down inter-alia in
+Pooran Mal
+(supra) has been
+followed by our courts even after Puttaswamy (supra).
+In one of the most
+recent judgments in
+Yashwant Sinha & Ors. vs. Central Bureau of
+Investigation
+through its Director & Anr. 26 , where the issue before the
+Supreme Court was whether it should permit certain documents, which the
+State Authorities alleged had been unauthorisedly removed from the records
+of the Ministry of Defence, to be placed on record in a review petition; and
+whether the review petitioners should be permitted to rely upon such
+unauthorisedly procured documents. The Attorney General had submitted
+that the Supreme Court could not consider these documents. Dealing with
+this objection the Supreme Court opined as under:
+"9. An issue has been raised by the learned Attorney with
+                  regard to the manner in which the three documents in question
+                  had been procured and placed before the Court. In this regard,
+                  as already noticed, the documents have been published in The
+                  Hindu newspaper on different dates. That apart, even assuming
+26
+(2019) 6 SCC 1
+
+_______________________________________________________________________
+C.M.(M) 40/2019                                                            page 30 of 46
+                    that the documents have not been procured in a proper manner
+                   should the same be shut out of consideration by the Court ?
+In
+Pooran Mal v. Director of Inspection
+this Court has taken the
+                   view that the "test of admissibility of evidence lies in its
+                   relevancy, unless there is an express or necessarily implied
+                   prohibition in the Constitution or other law evidence obtained
+                   as a result of illegal search or seizure is not liable to be shut
+                   out".
+******
+                   "45. I may also notice another aspect. Under the common law,
+                   both in England and in India, the context for material being
+                   considered by the court is relevancy. There can be no dispute
+                   that the manner in which evidence is got, namely, that it was
+                   procured in an illegal manner would not ordinarily be very
+                   significant in itself in regard to the court's decision to act upon
+                   the same [see in this context judgment of this Court in
+Pooran
+                   Mal v. Director of Inspection
+]."
+(Emphasis supplied)
+26.        Coming now to the scope and purport of
+section 14
+of the Family
+Courts Act, that has been discussed in a judgment of a Co-ordinate Bench of
+the Bombay High Court in
+Deepali Santosh Lokhande vs. Santosh
+Vasantrao Lokhande
+27, in which case, while deciding an application to
+bring on record electronic evidence under
+section 65B
+of the Evidence Act,
+the Bombay High Court has taken the following view :
+"5. Having considered the submissions as urged on behalf of
+                   the parties, it is quite clear that the proceeding before the
+                   Family Court would stand on a different footing from the
+                   proceeding before the regular Civil Courts where the rigour of
+                   the provisions of the
+Evidence Act
+are fully applicable for the
+27
+2018 (1) Mh. L.J. 944
+
+_______________________________________________________________________
+C.M.(M) 40/2019                                                            page 31 of 46
+               Civil Court to evaluate the evidence on preponderance of
+              probabilities and for that matter even the proof of electronic
+              record. It is apposite to examine the provisions of
+section 14
+of
+              the Family
+              Courts Act which reads as under:....."
+******
+              "6. ........ The object, effect and consequence of this provision
+              is to remove any embargo on the Family Court to first examine
+              the relevancy or admissibility of the documents under
+Indian
+              Evidence Act
+in considering such documents in adjudication of
+              the matrimonial dispute. The Statement of Object and Reasons
+              leading to the enactment of the Family Court's Act would also
+              become a guiding factor so as to ascertain the intention of the
+              legislature in framing
+section 14
+when it uses the above words.
+              One of the objects of the legislation as Clause 2 (h) of the
+                  Statement of Object and Reasons would provide is "simplify the
+                  rules of evidence and procedure so as to enable a Family Court
+                  to deal effectively with a dispute". This clearly manifests the
+                  intention of the legislature to remove complexities in the
+                  application of rules of evidence to make the procedure more
+                  comprehensible so as to enable a Family Court to deal
+                  effectively with a matrimonial dispute under the
+Family Courts
+                  Act
+, which is a special Act."
+"7. When
+section 14
+stipulates and says that the Family Court
+              can receive a document in evidence irrespective of the same
+              being relevant or admissible in evidence under the
+Evidence
+              Act
+, it signifies two important facets namely that the Family
+              Court at the threshold cannot reject a document on the ground
+              that the document is not legally admissible in evidence and
+              secondly the test and rigor of relevancy and admissibility of the
+              document can be dispensed with by the Family Court if the
+              Family Court is of the opinion that any evidence would assist it
+
+_______________________________________________________________________
+C.M.(M) 40/2019                                                       page 32 of 46
+                   to deal effectively with the dispute. It cannot be disputed that
+                  admissibility presupposes relevancy as admissibility is founded
+                  on law whereas relevancy is determined by Court using judicial
+                  skills, logic and experience. Admissibility does not signify that
+                  a particular fact stands proved but merely that such a fact is
+                  received by the Court for the purpose of being weighed. The
+                  learned Judge overlooked that merely because the documents
+                  are marked as Exhibits and the same also becoming available
+                  for cross-examination, is neither an admission as to documents
+                  nor can be treated as an admission of its contents."
+(Emphasis supplied)
+
+Furthermore, discussing the effect of
+section 20
+of the Family Courts Act,
+which gives overriding effect to that statute, the Bombay High Court has
+held as under :
+"9. A cumulative reading of
+section 14
+and
+section 20
+of the
+              Family Courts Act, takes within its ambit the restricted
+              applications of the provisions of the
+Evidence Act
+qua the
+              documentary evidence which includes electronic evidence,
+              whether or not the same is relevant or admissible, if in the
+              opinion of the Family Court such evidence would assist the
+              Family Court to deal effectively with the matrimonial dispute.
+              Considering the above object and the intention of the
+              legislature, in providing for a departure, from the normal rules
+              of evidence under the
+Evidence Act
+, in my opinion, there was
+              no embargo for the learned Judge of the Family Court to
+              accept and exhibit the documents as sought by the petitioner-
+              wife. Ultimately, it is the absolute power and authority of the
+              Family Court either to accept or disregard a particular
+              evidence in finally adjudicating the matrimonial dispute.
+              However, to say that a party would be precluded from placing
+              such documents on record and or such documents can be
+              refused to be exhibited unless they are proved, in my opinion,
+
+_______________________________________________________________________
+C.M.(M) 40/2019                                                         page 33 of 46
+                   goes contrary to the object of
+section 14
+of the Family Courts
+                  Act"
+"10. In matrimonial cases, the Family Court is expected to
+              adopt standards as to how a prudent person would gauge the
+              realities of life and a situation of commotion and turmoil
+              between the parties and applying the principle of
+              preponderance of probabilities, consider whether a particular
+              fact is proved. Thus, the approach of the Family Court is
+              required to be realistic and rational to the facts in hand rather
+              than technical and narrow. It cannot be overlooked that
+              matrimonial disputes involve human problems which are
+              required to be dealt with utmost human sensitivity by using all
+              intelligible skills to judge such issues. The Family Court has a
+              special feature where in a given case there may not be legal
+              representation of the parties.
+Section 13
+of the Act makes such
+              a provision. In such a situation, the parties who are not experts
+              in law cannot be expected to know the technical rules of the
+              evidence qua the relevancy, admissibility and proof of
+              documents. Thus, the strict principles as referred in the
+              impugned order on the decisions which are not under the
+Family Courts Act
+, would not be of any relevance in the
+              proceedings before the Family Court."
+"11. Thus, in my opinion, even if there is any electronic record
+              for which certificate under
+section 65-B
+of the Evidence Act is
+              necessary, it would not preclude the learned Judge of the
+              Family Court to exhibit such documents and receive such
+              documents in evidence, on forming an opinion as to whether the
+              documents would assist the Court, to deal effectively with the
+              dispute in hand. Such exercise has not been undertaken in
+              passing the impugned order."
+(Emphasis supplied)
+
+
+_______________________________________________________________________
+C.M.(M) 40/2019                                                       page 34 of 46
+27.       In this court's opinion, the Legislature being fully cognisant of the
+foregoing principle of admissibility of evidence, has enacted
+section 14
+infact to expand that principle insofar as disputes relating to marriage and
+family affairs are concerned ; and the Family Court is thereby freed of all
+rigours and restrictions of the law of evidence. The Legislature could not
+have enunciated it more clearly than to say that the Family Court "may
+receive as evidence any report, statement, documents, information or matter
+that may, in its opinion, assist it to deal effectually with a dispute, whether
+or not the same would be otherwise relevant or admissible under the
+Indian
+Evidence Act, 1872
+". Therefore the only criterion or test under
+section 14
+for a Family Court to receive, that is to say admit, evidence is its subjective
+satisfaction that the evidence would assist it to deal effectually with the
+dispute. It may also be relevant to note that under
+section 13
+of the Family
+Courts Act, parties are to represent themselves without the assistance of
+lawyers ; and therefore even more so, all technical aspects of admissibility
+of evidence are to be ignored before a Family Court, since parties appearing
+in-person cannot be expected to be well versed with the technicalities of the
+law of evidence. Reference in this regard may be made to the observations
+made by a Division Bench of the Bombay High Court in Shiv Anand
+Damodar Shanbhag vs Sujata Shiv Anand Shanbhagh28.
+28.       For the record, the vires of
+section 14
+of the Family Courts Act has
+not been challenged by the petitioner in these proceedings.
+29.       To be sure, in view of the expressed intention of the Legislature in
+section 14
+of the Family Courts Act, all that is being said here is that
+28
+2013 SCC OnLine Bom 421
+
+_______________________________________________________________________
+C.M.(M) 40/2019                                                      page 35 of 46
+ evidence, whether collected legitimately or otherwise, may be received by
+the Family Court if it is of opinion that the evidence would assist it to
+effectively decide the dispute. It is not being suggested that the Family
+Court is bound to believe, accept or act upon such evidence for purposes of
+adjudication.
+30.    As observed by the Bombay High Court in the aforementioned case, it
+is noteworthy that, what is permitted under
+section 14
+is only for the Family
+Court to receive evidence without the rigours and shackles of the
+conventional rules of evidence, with the only threshold test being that in the
+opinion of the Family Court that piece of evidence will assist it to deal
+effectively with the dispute at hand. Thereafter however, the Family Court is
+free to either accept or discard or give weightage or disregard a particular
+piece of evidence when finally adjudicating the dispute. As under the
+ordinary law of evidence, so also under
+section 14
+, there is absolutely no
+compulsion on the Family Court to accept a given piece of evidence as proof
+of a fact-in-issue or of a relevant fact, merely because such evidence has
+been taken on record by disregarding all rigours of the rules of evidence.
+Correspondingly, it is open to the contesting party to dispute, cross-examine
+and disprove the evidence so cited; and to thereby contest any claim being
+made on the basis of such evidence. The limited relaxation as it were, in
+section 14
+is that even if under the
+Evidence Act
+or under conventional rules
+of evidence, a certain piece of evidence (whether a report, statement,
+document, information or other matter) is ex-facie found to be not relevant
+and therefore not admissible, the Family Court may yet receive such
+evidence on record if in its opinion, the evidence would assist it to deal
+
+
+_______________________________________________________________________
+C.M.(M) 40/2019                                                    page 36 of 46
+ effectively with the dispute. What credence, value or weightage is to be
+given to the evidence so received is discretionary upon the judge, when
+finally adjudicating the dispute.
+31.       Another settled principle of interpretation of statutes that guides us in
+understanding the scope and operation of
+section 14
+is the maxim 'generalia
+specialibus non derogant'. In Barker vs. Edger & Others 29 , the Privy
+Council of the House of Lords has pithily summarised the purport of the
+maxim in the following words :
+"The general maxim is, "Generalia specialibus non derogant."
+When the Legislature has given its attention to a separate
+                   subject, and made provision for it, the presumption is that a
+                   subsequent general enactment is not intended to interfere with
+                   the special provision unless it manifests that intention very
+                   clearly. Each enactment must be construed in that respect
+                   according to its own subject-matter and its own terms."
+While in the above case, the Privy Council was dealing with a
+subsequent general enactment, the principle applies a fortiori to a
+subsequent special enactment. That is to say, a special enactment would
+prevail, whether made earlier or subsequently, over a general enactment if
+that is the discernible intention of the Legislature in relation to the subject
+matter of the special enactment.
+Our Supreme Court has also dealt with the
+issue in
+Sharat Babu Digumarti vs. Government (NCT of Delhi
+)30 in which
+the issue was of construing
+section 81
+of the Information Technology Act
+2000, which provision is in pari materia with
+section 20
+of the Act and
+29
+1898 AC 748
+30
+(2017) 2 SCC 18
+_______________________________________________________________________
+C.M.(M) 40/2019                                                         page 37 of 46
+ gives an overriding effect to the
+Information Technology Act
+over anything
+inconsistent therewith contained in any other law for the time being in force.
+The other provision of law in question was
+section 292
+of the Indian Penal
+Code 1860 which makes the sale of obscene books etc. a penal offence.
+In
+Sharat Babu Digumarti
+(supra), the Supreme Court has opined as under :
+"32.
+Section 81
+of the IT Act also specifically provides that the
+              provisions of the Act shall have effect notwithstanding anything
+              inconsistent therewith contained in any other law for the time
+              being in force. All provisions will have their play and
+              significance, if the alleged offence pertains to offence of
+              electronic record. It has to be borne in mind that
+IT Act
+is a
+              special enactment. It has special provisions.
+Section 292
+IPC
+              makes offence sale of obscene books, etc. but once the offence
+              has a nexus or connection with the electronic record the
+              protection and effect of
+Section 79
+cannot be ignored and
+              negated. We are inclined to think so as it is a special provision
+              for a specific purpose and the Act has to be given effect to so as
+              to make the protection effective and true to the legislative
+              intent. This is the mandate behind
+Section 81
+of the IT Act. The
+              additional protection granted by the
+IT Act
+would apply."
+******
+
+              "37. The aforesaid passage clearly shows that if legislative
+              intendment is discernible that a latter enactment shall prevail,
+              the same is to be interpreted in accord with the said intention.
+              We have already referred to the scheme of the
+IT Act
+and how
+              obscenity pertaining to electronic record falls under the scheme
+              of the Act. We have also referred to
+Sections 79
+and
+81
+of the
+              IT Act. Once the special provisions having the overriding effect
+              do cover a criminal act and the offender, he gets out of the net
+              of
+IPC
+and in this case, Section 292. It is apt to note here that
+              electronic forms of transmission are covered by the
+IT Act
+,
+_______________________________________________________________________
+C.M.(M) 40/2019                                                      page 38 of 46
+                   which is a special law. It is settled position in law that a special
+                  law shall prevail over the general and prior laws.
+When the Act
+in various provisions deals with obscenity in electronic form, it
+                  covers the offence under
+Section 292
+IPC."
+(Emphasis supplied)
+32.    To address the aspect whether ethical and moral considerations should
+be factored-in to decide admissibility of evidence, attention may be drawn
+to the observation of the Supreme Court in
+Pooran Mal
+(supra), where the
+court said that when there is no express or specifically implied prohibition
+in the Constitution, it is uncalled for and unwarranted to invoke the spirit of
+the Constitution to exclude evidence. Equally so, in the face of the settled
+rule of evidence as augmented by
+section 14
+of the Family Courts Act, it
+would be unwarranted to bring into the picture subjective and undefined
+ethical and moral values or considerations, to decide if evidence should
+even be receivable by a Family Court. Without at all denigrating the
+importance of ethical and moral considerations, in the opinion of this court,
+to say that a Family Court should shut-out evidence at the very threshold on
+the basis of how it is collected, would be (i) in breach of
+section 14
+which
+unequivocally expresses the intention of the Legislature ; (ii) in breach of
+settled principles of evidence ; and (iii) in breach of the enunciation by the
+Supreme Court that though the right to privacy is a fundamental right, it is
+not absolute and must be placed in the context of other rights and values.
+Such construction would have more potential for mischief than possible
+salutary effect.
+33.    If it were to be held that evidence sought to be adduced before a
+Family Court should be excluded based on an objection of breach of privacy
+
+_______________________________________________________________________
+C.M.(M) 40/2019                                                            page 39 of 46
+ or some other cognate right, then in many a case the provisions of
+section 14
+would be rendered nugatory and dead-letter. It must be borne in mind that
+Family Courts have been established to deal with what are essentially
+sensitive, personal disputes relating to dissolution of marriage, restitution of
+conjugal rights, legitimacy of children, guardianship, custody, and access to
+minors; which matters, by the very nature of the relationship from which
+they arise, involve issues that are private, personal and involve intimacies. It
+is easily foreseeable therefore, that in most cases that come before the
+Family Court, the evidence sought to be marshalled would relate to the
+private affairs of the litigating parties. If
+section 14
+is held not to apply in its
+full expanse to evidence that impinges on a person's right to privacy, then
+section 14
+may as well be effaced from the statute. And yet, falling back
+upon the general rule of evidence, the test of admissibility would only be
+relevance ; and accordingly, even ignoring
+section 14
+, fundamental
+considerations of fair trial and public justice would warrant that evidence be
+received if it is relevant, regardless of how it is collected. No purpose would
+therefore be served by emasculating the salutary provisions of
+section 14
+of
+the Family Courts Act by citing breach of privacy. Looking at it
+dispassionately, even assuming evidence is collected in breach of privacy, at
+best and at worst, it is the process of collection of evidence that would be
+tainted not the evidence itself.
+34.      The sequitur to the aforesaid constitutional and legal landscape is
+that :
+(a) The settled rule, purely from the standpoint of the law of
+              evidence, is that evidence is admissible so long as it is relevant,
+
+_______________________________________________________________________
+C.M.(M) 40/2019                                                         page 40 of 46
+               regardless of how it is collected. Digressing from this settled
+              position would have wide ramifications and consequences; and
+              would be a serious hindrance to judicial proceedings across the
+              board, in several foreseeable and unforeseeable ways. On the
+              other hand, the possible misuse of this rule of evidence,
+              particularly in the context of the right to privacy, can be
+              addressed by prudent exercise of judicial discretion by a court
+              not at the time of receiving evidence but at the time of using
+              evidence at the stage of adjudication ;
+(b) Merely admitting evidence on the record is not proof of a fact-
+in-issue or a relevant fact ; admitting evidence is not even
+              reliance by the court on such evidence ; admitting evidence is
+              mere inclusion of evidence in the record, to be assessed on a
+              comprehensive set of factors, parameters and aspects, in the
+              discretion of the court ;
+(c) The limited threshold test of 'relevance' ensures that the right
+              of a party to bring evidence to court, and thereby to a fair trial,
+              is not defeated. What weight is to be given to evidence so
+              brought-in, and whether or not the court ultimately relies upon
+              such evidence for proof of a fact-in-issue or a relevant fact, is
+              always in the discretion of the court. This, a court may do on
+              other considerations, including considerations of justice and fair
+              play. We must be clear that the test of admissibility is only a
+              'threshold test', which opens the doors of the court, as it were,
+              so that relevant evidence brought by a litigating party is
+
+_______________________________________________________________________
+C.M.(M) 40/2019                                                       page 41 of 46
+               permitted entry into the court records. It does not bind the court
+              to treat such evidence as proof of a fact-in-issue or relevant fact.
+Section 14
+of the Family Courts Act makes this threshold test
+              even less stringent, in that the Family Court may receive
+              evidence, whether or not it would otherwise be relevant or
+              admissible under the
+Evidence Act
+, provided in its opinion such
+              evidence would assist it in effectively dealing with the dispute;
+(d) It appears that a crucial facet of the above rule of evidence has
+              so far been ignored, namely the consequences that may follow
+              if evidence is collected illegally by violation of someone's
+              rights. Merely because a court allows evidence to be admitted,
+              does not mean that the person who has illegally collected such
+              evidence is absolved of liability that may arise, whether in civil
+              or criminal law or both ;
+(e)
+Although MP Sharma
+(supra) and
+Pooran Mal
+(supra) were
+              decided before the right to privacy was authoritatively
+              recognised as a fundamental right in Puttaswamy (supra), the
+              challenge in those two cases also arose from allegations of
+              violation of fundamental rights inter alia under
+Articles 20(3)
+and
+14
+of the Constitution.
+Also, the decision in Puttaswamy
+              does not allude to any change in the principles of admissibility
+              of evidence by reason of recognition of privacy as a
+              fundamental right ; and in fact the principle of Pooran Mal has
+              been followed by the Supreme Court even as recently as 2019
+              in
+Yashwant Sinha
+(supra), which is a post-Puttaswamy
+
+_______________________________________________________________________
+C.M.(M) 40/2019                                                        page 42 of 46
+               judgment, though in the context of documents procured illegally
+              from a ministry and not in breach of any fundamental right ;
+(f)   Drawing from the observations of the Supreme Court in
+Tukaram S. Digole
+(supra), a word of caution would be in place
+              here. The Family Court must bear in mind that tape recordings
+              are   more   susceptible   to   tampering   and   alteration    by
+              transposition, excision etc., which may be difficult to detect;
+              and therefore such evidence must be received and treated with
+              caution and circumspection ; and, to rule-out the possibility of
+              any kind of tampering, the standard of proof applied by a court
+              for the authenticity and accuracy of a tape recording should be
+              more stringent as compared to other documentary evidence;
+(g) In the context of
+section 50
+of the NDPS Act, in
+Baldev Singh
+(supra) the Supreme Court has said that while considering the
+              aspect of fair trial, the nature of evidence obtained and the
+              nature of the safeguard violated are both relevant factors. If
+              therefore, evidence has been collected in a search conducted in
+              violation of the statutory mandate of
+section 50
+of the NDPS
+              Act, the admission of such evidence would make the trial
+              unfair ; and in that circumstance, the evidence must be
+              excluded.
+Under the Family Courts Act
+, on the other hand, the
+              statutory mandate of
+section 14
+is to relax the rules of
+              admissibility of evidence, which relaxation must therefore
+              guide the Family Court.
+_______________________________________________________________________
+C.M.(M) 40/2019                                                     page 43 of 46
+35.    That being said however, considering the breadth of the power
+conferred upon it under
+section 14
+of the Family Courts Act, some
+safeguards are required to be considered by the Family Court while
+exercising its power to receive evidence under that provision. Firstly, even
+though a given piece of evidence may have been admitted on the record, the
+Family Court must be extremely circumspect in what evidence it chooses to
+rely upon in deciding the dispute, particularly the authenticity and
+genuineness of the evidence, for which stringent standards must be applied.
+Secondly, if in its opinion the nature of the evidence sought to be adduced is
+inappropriate, embarrassing or otherwise sensitive in nature for any of the
+litigating parties, or for that matter for some other person not directly
+connected with the litigation, the court may restrict the parties who are
+present in court at the time of considering such evidence ; or may anonymise
+or redact the evidence ; or may conduct in-camera proceedings so as not to
+cause distress to any person or party, while at the same time not hesitating to
+receive evidence that the Family Court considers necessary for effectively
+deciding the dispute. All proceedings must be conducted strictly within the
+bounds of decency and propriety; and no opportunity should be given to any
+party to create a spectacle in the guise of producing evidence. Thirdly, in
+egregious cases, the Family Court may initiate or direct initiation of legal
+action against a litigating party or other person, who may appear guilty of
+procuring evidence by illegal means. Any party aggrieved by the production
+of such evidence would also be at liberty to initiate appropriate proceedings,
+whether in civil or criminal law, against concerned parties for procuring
+evidence illegally, although the initiation or pendency of such proceeding
+
+
+_______________________________________________________________________
+C.M.(M) 40/2019                                                     page 44 of 46
+ shall not make the evidence so produced inadmissible before the Family
+Court.
+36.      It may be noted that in the impugned order the Family Court has
+expressed its subjective opinion that the recording comprised in the CD will
+certainly assist it in deciding the dispute between the parties ; and that
+therefore the evidence on the CD is relevant. Even otherwise, the
+conversation between the wife and her friend, which is the subject matter of
+recording on the CD, in which she is alleged to have spoken about the
+husband and his parents, would be a 'relevant fact' as understood in law,
+upon a combined reading of
+sections 5
+,
+7
+and
+8
+of the Evidence Act. To that
+extent therefore, the contents on the CD are relevant for purposes of the
+divorce proceedings.
+37.      While consistency in law is of utmost importance and law must get its
+full play regardless of the fact situation, this court must record the unease it
+feels with regard to a certain aspect that has arisen in this matter. Marriage is
+a relationship to which sanctity is still attached in our society. Merely
+because rules of evidence favour a liberal approach for admitting evidence
+in court in aid of dispensation of justice, this should not be taken as approval
+for everyone to adopt any illegal means to collect evidence, especially in
+relationships of confidence such as marriage. If the right to adduce evidence
+collected by surreptitious means in a marital or family relationship is
+available without any qualification or consequences, it could potentially
+create havoc in people's personal and family lives and thereby in the society
+at large. For instance, if a spouse has the carte blanche to install a recording
+device in a bedroom or other private space or to adopt any means
+
+
+_______________________________________________________________________
+C.M.(M) 40/2019                                                       page 45 of 46
+ whatsoever to collect evidence against the partner, even if in circumstances
+of matrimonial discord, it would be difficult to foresee the length to which a
+spouse may go in doing so ; and such possibility would itself spell the end of
+the marital relationship. It is not uncommon for spouses to continue living
+together, even in matrimonial strife, for years on-end. So, while law must
+trump sentiment, a salutary rule of evidence or a beneficent statutory
+provision, must not be taken as a license for illegal collection of evidence.
+38.    In the above view of the matter, and subject to the above observations,
+this court finds no infirmity in the impugned order and the same is upheld.
+39.    The petition is disposed of in the above terms, leaving the parties to
+bear their respective costs.
+40.    Pending applications, if any, shall also stand disposed of.
+ANUP JAIRAM BHAMBHANI, J.
+June 30, 2020
+vk/Ne
+
+
+
+
+_______________________________________________________________________
+C.M.(M) 40/2019                                                      page 46 of 46

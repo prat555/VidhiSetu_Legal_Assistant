@@ -1,0 +1,755 @@
+Title: Search
+Court: High Court
+Date: 3 of 1928
+Citation: citations: [1988]170ITR238(MAD)
+Source: https://indiankanoon.org/doc/60947/
+
+[Cites
+61
+, Cited by
+91
+]
+Madras High Court
+M.V. Valliappan And Ors. vs Income-Tax Officer And Ors. on 13 January, 1988
+Equivalent citations: [1988]170ITR238(MAD)
+JUDGMENT
+ 
+
+  M.N. Chandurkar, C.J.
+1. All the above-mentioned writ petitions which involve questions relating to the validity, scope and interpretation of the provisions of
+section 171(9)
+of the Income-tax Act, 1961 (hereinafter referred to as the Act), which was introduced by the Finance (No. 2) Act, 1980, are disposed of by this common judgment. In order to appreciate the contentions raised by the several counsel appearing in these petitions, it would be enough to refer to the admitted facts in W.Ps. Nos. 994 and 995 of 1984.
+2. The petitioner in W.P. No. 994 of 1984 was the karta of a Hindu undivided family consisting of himself, his wife, his minor son and his minor daughter, and has filed the petition on behalf of the Hindu undivided family which was assessed as such. The Hindu undivided family was a partner in some partnership firms in which the funds of the Hindu undivided family were invested. On April 13, 1979, a partial partition of certain assets belonging to the Hindu undivided family was effected with effect from that date. A deed of partition evidencing the said partial partition was also executed. An application under
+section 171(2)
+of the Act for recognition of the said partial partition came to be filed before the Income-tax Officer. The Income-tax Officer made an order recognising the said partial partition on December 28, 1979, in the assessment proceeding for the assessment year 1979-80. The order read :
+"During the course of assessment proceedings, it is claimed that a partial partition in the family in respect of the credit balance in the three firms (sic). Account copies were filed. Necessary questionnaire have also been filed. These were verified and found correct. The claim of partial partition is, therefore, accepted."
+3. A return came to be filed for the assessment year 1980-81 on behalf of the Hindu undivided family on April 12, 1980, in respect of the income of the Hindu undivided family. This income did not include the income from the property which was the subject-matter of the partial partition. The incomes derived from the assets which were the subject of partial partition were declared by the respective individuals in their respective returns. The assessment of the petitioner-assessee was taken up and finalised by the Income-tax Officer having regard to the order recognising the partial partition made earlier on December 28,1979. The assessment took into account the income from the assets retained by the Hindu undivided family. The taxable income was determined at Rs. 26,860. A return for wealth-tax for the assessment year 1980-81 was also filed and accepted by the same Income-tax Officer.
+4. However, a notice dated March 4, 1983, purporting to be one under
+section 148
+of the Act was received by the petitioner stating that the income of the petitioner had escaped assessment and the Income-tax Officer proposed to reopen the completed assessment for the year 1980-81.
+5. The assessee objected to the reopening of the assessment on the ground that the order under
+section 171
+of the Act recognising the partition not having been cancelled or revoked, continued to be effective and that as long as that order stood, no income from the partitioned properties subsequent to the date of partition could be assessed in the hands of the Hindu undivided family. These objections were rejected by the Income-tax Officer and the Income-tax Officer, by an order dated November 30, 1983, reopened the assessment and made a fresh assessment including the income relating to the assets which were partitioned and allotted to the individual members, in the hands of the Hindu undivided family. The total income was determined at Rs. 94,172 and tax of Rs. 44,954 was levied. This reassessment is challenged by the petitioner in the writ petition.
+6. The facts in W.P. No. 995 of 1984 are identical. The petitioner in this writ petition is also a Hindu undivided family of which the karta was the brother of the petitioner in W.P. No. 994 of 1984. A deed of declaration of partial partition of certain assets belonging to the Hindu undivided family consisting of S. S. D. Chandrasekaran, son of late S. S Duraisamy Nadar, his wife, one minor son and an unmarried minor daughter was made on April 12, 1979, in respect of capital contribution made in certain partnership firms. This partial partition was recognised by the Income-tax Officer, Tuticorin, by an order dated December 28, 1979. A return for the assessment year 1980-81 was filed disclosing the income earned by the Hindu undivided family for the year ending April 12, 1980, excluding the income from the properties subjected to partial partition. An assessment order came to be passed on January 22, 1981, accepting the return. The Income-tax Officer, however, issued a notice under
+section 147(b)
+of the Act for reassessment of the income of the Hindu undivided family. Accordingly, an order of reassessment was made by the Income-tax Officer and the income from the property which was the subject-matter of partial partition dated April 12, 1979 was included in the income of the Hindu undivided family on the ground that having regard to the provisions of
+section 171(9)
+of the Act, a partition made after December 31, 1978, had to be treated as null and void and the Hindu undivided family was, therefore, liable to be assessed as if no partial partition had taken place. This reassessment order has been challenged in this writ petition.
+7. In both these writ petitions the reassessment orders are sought to be quashed on the ground that the provisions of
+section 171(9)
+of the Act are unconstitutional.
+8. While W. Ps. Nos. 994 and 995 of 1984 arise out of the assessment orders for the assessment year 1980-81, the two petitioners have also filed two more petitions, viz., W.Ps. Nos. 6162 of 1984 and 5430 of 1984 to similarly quash the assessment orders for the assessment year 1981-82.
+9. The action of the Income-tax Officer in invoking the provisions of
+section 171(9)
+of the Act in cases where partial partition has already been recognised before
+section 171(9)
+of the Act has come into force is challenged on the ground that the income of the property which is the subject-matter of partial partition cannot be treated as the income of the Hindu undivided family because if the income in fact does not belong to the Hindu undivided family, it cannot be taxed in the hands of the Hindu undivided family. If
+section 171(9)
+of the Act is to be so construed as to permit inclusion of income received by or accrued or arising to the individual members of the Hindu undivided family from the properties allotted to them in a partial partition in the hands of the Hindu undivided family, which does not receive the said income. such action will be without authority of law and hence violative of
+article 265
+of the Constitution of India. The validity of
+section 171(9)
+of the Act is also challenged on the ground that the date December 31, 1978, has been arbitrarily fixed and even genuine partial partitions effected long prior to the coming into force of
+section 171(9)
+were being affected retrospectively by the construction placed on
+section 171(9)
+by the Revenue.
+Section 171(9)
+was, therefore, violative of the provisions of
+article 14
+of the Constitution of India. It is then argued that if the challenge to the validity of
+section 171(9)
+is not accepted, then the provisions of
+section 171(9)
+will take effect only for the assessments for and after the assessment year 1980-81 and since a claim for recognition of partial partition under
+section 171
+can be made only once and if such claim is recognised already in respect of the previous assessment year 1979-80, then, notwithstanding that the partition has taken place after December 31, 1978, it must be treated as valid for all subsequent assessment years. It is argued that if the partitioned properties have been excluded from the assessment of the Hindu undivided family in the assessment year 1979-80, that income cannot then be included in the income of the Hindu undivided family for the assessment year 1980-81. Therefore, it is argued that having regard to the fact that
+section 171(9)
+of the Act came into force only with effect from April 1, 1980, the provisions thereof should at best be so construed as to render ineffective any partial partitions made after December 31, 1978, only if the claim under
+section 171
+of the Act is made for the first time in the assessment year 1980-81. Such construction alone, accordingly to learned counsel, would fit in with the scheme of
+section 171
+of the Act.
+10. Several counsel have advanced arguments in their respective writ petitions which have been heard along with W.Ps. Nos. 994 and 995 of 1984.
+11. The substantial argument in all these cases is that if after a partial partition, the income from the partitioned property does not in fact belong to the Hindu undivided family, then such income cannot be taxed in the hands of the Hindu undivided family and if this is sought to be done by enacting
+section 171(9)
+, then the provision in
+section 171(9)
+must itself be struck down as invalid and unconstitutional.
+12. In so far as the constitutional validity of
+section 171(9)
+is concerned, it is challenged on the ground of violation of
+article 14
+of the Constitution of India on the footing that there is no rationale behind fixing December 31, 1978, as the date after which all partial partitions will either not be recognised or even if they were recognised, they were directed to be derecognised and findings in respect thereof specially recorded under sub-section (3) were declared to be null and void.
+Article 14
+is also invoked on the basis that partitions effected after December 31, 1978, themselves has been treated unequally.
+13. Mrs. Nalini Chidambaram, appearing on behalf of the Revenue, has contended that derecognition of partial partitions contemplated by clause (a) of
+section 171(9)
+was only for the limited purpose of levy and collection of income-tax and that such partial partitions could, as between the parties, be treated as perfectly valid for the purpose of the law of inheritance, succession and other laws. According to learned counsel, with effect from April 1, 1980. notwithstanding a partial partition, the family would be deemed to be the owner of the properties subjected to partial partition and notwithstanding the fact that a partial partition had been effected, in so far as partial partition effected after December 31,1978, was concerned, the assessment would have to be made as if no such partial partition had taken place. Learned counsel argued that by enacting the non obstante clause in
+section 171(9)
+of the Act, Parliament intended to override the earlier part of the provisions in sub-sections (1) to (8) of
+section 171
+and those sub-sections of
+section 171
+were made inapplicable to the partial partitions effected after December 31, 1978. It was argued that
+section 171(9)
+cannot be characterised as retrospective in operation merely because partial partitions effected after December 31, 1978, have been derecognised. The argument was that since
+section 171(9)
+came into force only from April 1,1980, merely because a fact requisite for its operation is drawn from a time antecedent to its passing,
+section 171(9)
+cannot be termed as retrospective. Learned counsel refuted the argument advanced on behalf of the assessees that since Parliament has failed to enact a deeming provision by which the Hindu undivided family could have been fictionally made. the owner of the property, which was the subject-matter of partial partition, the amendment had misfired. According to her, when there was a provision requiring the Income-tax Officer not to recognise the partial partition, the status of the recipient of the income from the partitioned property was statutorily fixed as the Hindu undivided family. The provisions in
+section 171(9)
+were only intended to provide for the machinery of levy and collection of tax, according to her.
+14. With regard to the challenge on the ground of violation of
+article 14
+of the Constitution of India, the argument was that so long as the classification is not arbitrary or oppressive, a meticulous scrutiny of the impact on different persons or groups could not be made by the court. It was further argued that when Parliament is at liberty to choose more than one date and in its wisdom selects a particular date, the court will not be justified in striking down the law on the ground that Parliament should have adopted another date which, in the opinion of the court, was more reasonable, unless the court is convinced that the particular date adopted was capricious, fanciful, arbitrary or clearly unjust. Learned counsel for the Revenue contended that
+section 171(9)
+was enacted as a measure to prevent tax evasion and must, therefore, be upheld having regard to the decision of the Supreme Court in McDowell & Co. Ltd. v. CTO [1985] 154 ITR 148.
+15. At the very outset, we would like to mention that a large number of authorities have been cited before us. We shall, however, refer to only such of the authorities as we think are necessary and relevant for the purpose of deciding the contentions raised before us.
+16. Before we deal with the several contentions, it would be worthwhile ascertaining the nature and scope of the provisions of
+section 171
+. It is not, however, necessary to reproduce in extenso the provisions of
+section 171
+of the Act. Under sub-section (1), it is provided that the Hindu family hitherto assessed as undivided is deemed for the purpose of the Act to continue to be a Hindu undivided family except where and in so far as a finding of partition has been given in respect of the Hindu undivided family. The Explanation at the end of
+section 171
+defines "partition and "partial partition" as follows :
+"Explanation. - In this section, -
+(a) 'partition' means -
+(i) where the property admits of a physical division, a physical division of the property, but a physical division of the income without a physical division of the property producing the income shall not be deemed to be a partition; or
+(ii) where the property does not admit of a physical division then such division as the property admits of, but a mere severance of status shall not be deemed to be a partition;
+(b) 'partial partition' means a partition which is partial as regards the persons constituting the Hindu undivided family, or the properties belonging to the Hindu undivided family, or both."
+17. The "partition" referred to in
+section 171(1)
+of the Act can, therefore, be either a full partition of property as contemplated by clauses (i) and (ii) of the definition or it could be a partial partition as regards the persons constituting the Hindu undivided family or the properties belonging to the Hindu undivided family or both. Thus, the concept of partial partition relevant for the purposes of
+section 171
+would also be partial partition of the properties only without partition as regards the persons constituting the Hindu undivided family.
+18. The proceeding in which a finding of partition is to be recorded and the procedure to be followed for recording a finding of partition is provided in
+section 171(2)
+and
+section 171(3)
+of the Act. Under sub-section (2), before a finding of partition is recorded, a claim has to be made at the time when assessment proceedings under
+section 143
+or 144 are taken by or on behalf of any member of a Hindu family which is assessed earlier as an undivided Hindu family. When such a claim is made either of a total partition or a partial partition among the members of such family, the Income-Tax officer has to make an enquiry after giving notice of the enquiry to all the members of the family. The Income-tax Officer has, thereafter, to record a finding as to whether there has been a total or a partial partition of the joint family property and if there has been a partition, the date on which it has taken place (sub-
+section 3
+). Under sub-section (4), it is provided that if the finding is that the partition has taken place during the previous year, then the total income of the joint family in respect of the period up to the date of partition has to be assessed as if no partition had taken place and under clause (b) of sub-section (4), each member or group of members is made jointly and severally liable for the tax on the income so assessed, notwithstanding anything contained in clause (2) of
+section 10
+and such liability is in addition to any tax for which he or it may be separately liable. If the partition has taken place after the, expiry of the previous year, then the total income of the previous year of the joint family has to be assessed as if no partition had taken place. In such a case also, the provisions of clause (b) of sub-section (4), so far as may be, have been made applicable. Sub-section (6) provides that notwithstanding anything contained in
+section 171
+, if the Income-tax Officer finds after the completion of the assessment of a Hindu undivided family that the family has already effected a partition, whether total or partial, the Income-tax Officer shall proceed to recover the tax from every person who was a member of the family before the partition, and every such person shall be jointly and severally liable for the tax on the income so assessed. However, under sub-section (7), it is expressly provided that the several liability of any member or group of members shall be computed according to the portion of the joint family property allotted to him or it, at the partition, whether total or partial. Sub-section (8) makes the provisions of
+section 171(1)
+to
+171(7)
+applicable in relation to the levy and collection of any penalty, interest, fine or other sum in respect of any period up to the date of the partition, whether total or partial, of a Hindu undivided family as they apply in relation to the levy and collection of tax in respect of any such period. Then comes sub-section (9) which, as already pointed out, was introduced by the Finance (No. 2) Act, 1980. This sub-section reads as follows :
+"(9) Notwithstanding anything contained in the foregoing provisions of this section, where a partial partition has taken place after the 31st day of December, 1978, among the members of a Hindu undivided family hitherto assessed as undivided, -
+(a) no claim that such partial partition has taken place shall be inquired into under sub-section (2) and no finding shall be recorded under sub-section (3) that such partial partition had taken place and any finding recorded under sub-section (3) to that effect whether before or after the 18th day of June, 1980, being the date of introduction of the Finance (No. 2) Bill, 1980, shall be null and void;
+(b) such family shall continue to be liable to be assessed under this Act as if no such partial partition had taken place;
+(c) each member or group of members of such family immediately before such partial partition and the family shall be jointly and severally liable for any tax, penalty, interest, fine or other sum payable under this Act by the family in respect of any period, whether before or after such partial partition;
+(d) the several liability of any member or group of members aforesaid shall be computed according to the portion of the joint family property allotted to him or it at such partial partition,   
+ 
+
+ and the provisions of this Act shall apply accordingly."
+19. The effect of sub-section (9) clearly was that a partial partition of a Hindu undivided family effected after December 31, 1978, was not to be recognised for tax purposes. According to the Revenue, sub-section (9) was introduced with a view to curb the practice of creating multiple Hindu undivided families by making partial partitions. This provision came into force for the first time from April 1, 1980, and became applicable for the first time in the case of assessments for the assessment year 1980-81 and then in the case of subsequent assessments. On a plain reading, the partial partition referred to in sub-section (9) had to be a partition which had taken place after December 31, 1978. In addition such a partition had to be "among the members of a Hindu undivided family hitherto assessed as undivided". Therefore, the provision is restricted in its applicability to a case where a Hindu undivided family was assessed as such and there was subsequently a partial partition among the members of such a Hindu undivided family. In such a case a bar was created that no enquiry shall be made under sub-section (2) into a claim that such partial partition has taken place. There was also a bar that no finding shall be recorded under sub-section (3) that such partial partition had taken place. Clause (a) of sub-section (9) further provided that if any finding was recorded before or after June 18, 1980, which was the date of the introduction of the Finance (No. 2) Bill, 1980, that partial partition had taken place after December 31, 1978, then that finding was to be treated as null and void. Consequently, under clause (b) of sub-section (9), such family was to continue to be liable to be assessed under the Act as if no such partial partition had taken place. Clauses (c) and (d) provided for the joint and several liability of each member or group of members of such family before such partial partition and of the family itself in respect of any tax, penalty, interest, fine or other sum payable under the Act by the family in respect of any period whether before or after such partial partition. However, the several liability of any member or group of members had to be computed according to the portion of the joint family property allotted to him or it at such partial partition.
+20.
+Section 171
+, as it stood before the introduction of sub-section (9), was basically analogous to the provisions of
+section 25A
+of the Indian Income-tax Act, 1922.
+Section 171
+has been construed by two decisions of the Supreme Court to which we shall make a reference. Since some argument has been advanced that just as when
+section 25A
+of the 1922 Act was in force and partial partition was not recognised, the income from properties allotted to the members of such partition could not be included in the income of the Hindu undivided family, the same would now be the position after the enactment of
+section 171(9)
+, it would be useful to refer to certain decisions with regard to
+section 25A
+of the 1922 Act.
+Section 25A
+of the 1922 Act which was introduced by the Indian Income-tax (Amendment) Act, 1928 (3 of 1928), was enacted for removing a lacuna which the working of the 1922 Act had disclosed. Under the provisions of the 1922 Act, as they stood prior to the amendment in 1928, when the assessee was an undivided family, no assessment could be made thereon if at the time of assessment, it had become divided because at that point of time, there was no undivided family in existence which could be taxed, though when the income was received in the year of account the family was joint. The individual members of the family could also not be taxed in respect of such income as the same was exempt from tax under
+section 14(1)
+of the 1922 Act. The effect was that the Hindu undivided family which had become divided at the time of assessment escaped tax altogether.
+It was to remove this lacuna that
+section 25A
+was enacted which provided that until an order was made under that section, the family should be deemed to continue as an undivided family. When an order was made under that section, the effect was that while the tax payable on the total income is apportioned among the divided members or groups, all of them were made liable for the tax payable on the total income of the family. The object of
+section 25A
+was considered by the Supreme Court in Addl.
+ITO v. A. Thimmayya
+[1965] 55 ITR 666. The following observations may be reproduced (pp. 669 and 670) :
+"
+Under the Indian Income-tax Act, 1922
+, as it originally stood, a Hindu undivided family was regarded by
+section 3
+as a unit of assessment, but no machinery was set up for levying tax or for enforcing liability to tax on the members of the family, if before the order of assessment the family was divided. Absence of this machinery was more acutely felt because of
+section 14(1)
+which provided that tax shall not be payable by an assessee in respect of any sum which he received as a member of a Hindu undivided family. Income received by a Hindu undivided family could not, therefore, be assessed and collected from the members of the family, if at the time of making the assessment, the family was divided. To rectify what was obviously a lacuna, the Legislature incorporated section 25A for assessment and enforcement of liability to tax income received by a Hindu undivided family, which was no longer in existence at the date of assessment. But the new section went very much beyond rectifying the defect in the statute which necessitated the amendment.......
+The section makes two substantive provisions - (i) that a Hindu undivided family which has been assessed to tax shall be deemed, for the purposes of the Act, to continue to be treated as undivided and, therefore, liable to be taxed in that status unless an order is passed in respect of that family recording partition of its property as contemplated by sub-section (1); and (ii) if at the time of making an assessment it is claimed by or on behalf of the members of the family that the property of the joint family has been partitioned among the members or groups of members in definite portions, i.e., a complete partition of the entire estate is made, resulting in such physical division of the estate as it is capable of being made, the Income-tax Officer shall hold an enquiry, and if he is satisfied that the partition had taken place, he shall record an order to that effect."
+21. The above observations highlight the fact that section 25A of the 1922 Act was introduced to remedy a situation where though a Hindu undivided family was a unit of assessment and had in fact received income, there was no machinery provided under the Act for assessing the tax and enforcing the liability to tax in cases where a Hindu undivided family had received income in the year of account but was no longer in existence as such at the time of assessment. As pointed out by the Supreme Court in
+Govinddas v. ITO
+[1976] 103 ITR 123, this difficulty was more acute by reason of the provision contained in
+section 14(1)
+of the 1922 Act which said that the tax shall not be payable by an assessee in respect of an income which he received as a member of a Hindu undivided family, with the result that the income of a Hindu undivided family could not be assessed and the tax could not be collected from the members of the family if at the time of making the assessment the family was divided.
+22. A comparison of the provisions of section 25A of the 1922 Act and
+section 171
+of the Act was made in
+Govinddas
+' case  in which the changes in the law as a result of the enactment of
+section 171
+of the Act have been pointed out. The principal change was that section 171 applies not only to cases of total partition but also to cases of partial partition. The other change was that by introducing section 171(9) which provided that even where no claim of total or partial partition is made at the time of making assessment under section 143 or section 144 and, therefore, no order recording partition was made in the course of assessment as contemplated in sub-sections (2) to (5), the Legislature provided that if it is found after the completion of the assessment that the family has already effected a partition, total or partial, all the members shall be jointly and severally liable for the tax assessed as payable by the joint family and the tax liability was to be apportioned among the members according to the portion of the joint family property allotted to each of them. Sub-section (6) of section 171 thus imposed for the first time, in cases where it had been found after the completion of the assessment that the family has already effected a total or partial partition, joint and several liability on the members for the tax assessed on the Hindu undivided family though by sub-section (7) the liability was limited to the portion of the joint family property received on partition.
+23.
+In
+Kalloomal Tapeswari Prasad (HUF) v. CIT
+[1982] 133 ITR 690, the Supreme Court, after referring to the construction placed on section 25A of the 1922 Act by several High Courts and the Supreme Court, pointed out that the income-tax law introduced certain conditions of its own in order to give effect to the partition as recognised by Hindu law. The Supreme Court observed as follows (p. 703) :
+"It is thus clear that Hindu law does not require that the property must in every case be partitioned by metes and bounds or physically into different portions to complete. Disruption of status can be brought about by any of the modes
+referred to above
+and it is open to the parties to enjoy their share of property as tenants-in-common in any manner known to law according to their desire. But the income-tax law introduces certain conditions of its own to give effect to the partition under
+section 171
+of the Act."
+24. Pointing out that the partition referred to in section 171(1) which contains a deeming provision would obviously include a partial partition also either as regards the persons constituting the undivided family or as regards properties belonging to it, or both, in view of the provisions contained in the other sub-sections of section 171 and the Explandaion to section 171, the Supreme Court observed as follows (p. 704) :
+"A transaction can be recognised as a partition under section 171 only if, where the property admits of a physical division, a physical division of the property has taken place. In such a case, mere physical division of the Income without a physical division of the property producing income cannot be treated as a partition. Even where the property does not admit of a physical division, then such division as the property admits of, should take place to satisfy the test of a partition under section 171. Mere proof of severance of status under Hindu law is not sufficient to treat such a transaction as a partition. If a transaction does not satisfy the above additional conditions, it cannot be treated as a partition under the Act even though under Hindu law there has been a partition-total or partial. The consequence will be that the undivided family will be continued to be assessed as such by reason of sub-section (1) of section 171."
+25. One of the arguments raised in
+Kalloomal
+'s case  was that after there is a partial partition as regards some properties between members of an undivided family, the members of an undivided family continued to be members of such family owning the remaining properties which were yielding income and, therefore, the undivided family is liable to be assessed as such only in respect of the income derived by it from the remaining items of property owned by it and the income derived from properties which have gone out of the ownership of the family should be excluded from the total income of the family. This contention was rejected and the Supreme Court took the view that the fiction enacted in section 171(1) which provided that a Hindu family hitherto assessed as undivided shall be deemed for the purposes of the Act to continue to be a Hindu undivided family except where and in so far as a finding of partition has been given under section 171 in respect of the Hindu undivided family, operated in such a case also because the family which has become divided as regards the property which is the subject-matter of partial partition, is deemed to continue as the owner of the property and the recipient of the income derived from it except where and in so far as the finding of partition has been given under section 171. The Supreme Court then observed as follows (pp. 706, 707) :
+"In such a case it is obvious that the real state of affairs is in fact different from what is created by the fiction and it cannot be said that there is no occasion for the fiction to operate. That is the true meaning of
+section 171(1)
+of the Act. In view of the substantial changes that are brought about in section 171, we find it impossible to accept the contention that the fiction in
+section 171(1)
+of the Act does not operate in the case of partial partitions as regards property where the composition of the family has remained unchanged."
+26. This position was reiterated later in the same judgment in the following words (p. 709) :
+"We have already held that
+section 171
+of the Act applies to all partitions - total and partial - and that unless a finding is recorded under section 171 that a partial partition has taken place, the income from the properties should be included in the total income of the family by virtue of sub-section (1) of
+section 171
+of the Act. To put it in other words, what would have been the position of a Hindu undivided family, which had claimed in assessment proceedings under the 1922 Act that a total partition had taken place and had failed to secure a finding to that effect in its favour under section 25A thereof, would be the position of a Hindu undivided family, which has failed to substantiate its plea of partial partition as regards property under
+section 171
+of the Act. The property which is the subject- matter of partial partition would continue to be treated as belonging to the family and its income would continue to be included in its total income until such a finding is recorded. That is the true effect of section 171(1)."
+27. It is, therefore, now well established that notwithstanding the fact that there is a partial partition as contemplated by Hindu law between members of a undivided family, if before the partition, the Hindu undivided family was assessed as a unit, such family would continue to be assessed as a unit unless a claim as contemplated under sub-section (2) of section 171 is made that there has been a partial partition and the Income-tax Officer is satisfied on making an enquiry that there has been a partition of the joint family property and he records a finding to that effect. Section 171, therefore, contemplates that initially it is the Hindu undivided family which is assessed as a unit. This is highlighted by the fact that section 171(1) uses the phraseology "a Hindu family hitherto assessed as undivided". Thus, in order that either in the case of total partition in respect of the income from the partitioned property, the Hindu undivided family should cease as an assessable unit or in the case of a partial partition in respect of the income which arises from the property which is the subject-matter of partial partition should be excluded from the income of the Hindu undivided family, there has to be a finding as contemplated by section 171. But it must be appreciated that once there is a finding that there has been a partition, the real state of affairs that the members have effected a partition cannot be ignored by the tax authorities and the Hindu undivided family will cease to be an assessable unit or in the case of a partial partition of property, the income from the partitioned property cannot be treated as income of the Hindu undivided family.
+28. We shall first deal with the several arguments advanced with regard to the scope and working of the provisions of section 171(9) before we consider the arguments with regard to the validity of
+section 171(9)
+of the Act. The findings that will be recorded on the alternative contentions will be subject to the view which we shall take on the question of validity of section 171(9).
+29. By using the non obstante clause "notwithstanding anything contained in the foregoing provisions of this section" in section 171(9) Parliament has excluded the provisions of sub-sections (2) and (3) and has given overriding effect to
+section 171(9)
+of the Act. Admittedly, sub-section (9) comes into force with effect from April 1, 1980, for the assessment year 1980-81. As already pointed out, clause (a) of sub-section (9), therefore, contemplates that originally before the assessment year 1980-81, the income from joint family property is assessed in the hands of the Hindu undivided family and a claim is made in the assessment year 1980-81 that a partial partition has taken place after December 31, 1978. In such a case, section 171(9)171(9) provides that the claim that the partial partition has taken place and that the income from the properties have gone to the share of certain members of the Hindu undivided family shall not be enquired into and no finding shall be recorded under sub-section (3). From the scheme of section 171, it is clear that the claim contemplated by section 171(2) can be made only once in the course of the assessment proceedings.
+If once a claim is made that there is a total or partial partition and in so far as partial partition is concerned, particular income is excluded from the assessment of the Hindu undivided family, then for the subsequent assessment years, it is not again necessary to make any fresh claim regarding the same partition. The finding regarding a partition, if recorded, is effective for all the subsequent assessment years unless the finding is set aside by the appropriate authority. Once an order is made as contemplated by
+section 171(3)
+of the Act, the Hindu undivided family will cease to be assessable in respect of the income from the property which has been partitioned. While dealing with the provisions of section 25A of the 1922 Act in
+Joint Family of Udayan Chinubhai v. CIT
+[1967] 63 ITR 416, the Supreme Court, after observing that a decision reached in one year would be a cogent factor in the determination of a similar question in the following year though ordinarily there is no bar against the investigation by the Income-tax Officer of the same facts on which a decision in respect of an earlier year was arrived at, observed as follows (p. 423) :
+But this rule, in our judgment, does not apply in dealing with an order under section 25A(1). Income from property of a Hindu undivided family, "hitherto" assessed as undivided, may be assessed separately if an order under section 25A(1) had been passed. When such an order is made, the family ceases to be assessed as a Hindu undivided family. Threafter, that family cannot be assessed in the status of a Hindu undivided family unless the order is set aside by a competent authority. Under clause (3) of section 25A, if no order has been made notwithstanding the severance of the joint family status, the family continues to be liable to be assessed in the status of a Hindu undivided family, but once an order has been passed, the recognition of severance is granted by the Income-tax Department, and clause (3) of section 25A will have no application."
+30. In a case where a claim has already been made in respect of a partial partition which has taken place after December 31, 1978, in the assessment proceedings for the assessment year 1979-80, which would be the first year in which a claim could be made in respect of a partial partition made between January 1, 1979, and March 31, 1979, and if a finding has already been recorded and the assessment made for the assessment year 1979-80, such an assessee is not required to once again make a claim for the assessment year 1980-81. On the very terms of clause (a) of sub-section (9) of section 171, therefore, if a finding is recorded in respect of the assessment year 1979-80, the first part of that clause which merely provides "that no claim that such partial partition has taken place shall be enquired into" will not be attracted at all, because for the assessment year 1980-81, no such claim is required to be made even though partial partition has taken place after December 31, 1978, because such a claim has been made and already enquired into and accepted. The latter part of clause (a) which provides that "any finding recorded under sub-section (3) to that effect whether before or after June 18, 1980, being the date of introduction of the Finance (No. 2) Bill, 1980, shall be null and void" must be read along and harmoniously with the first part of clause (a). The finding referred to in the latter part of clause (a) is on a claim which is contemplated by the opening words of clause (a). If the opening words of clause (a) refer only to a claim made for the first time in the assessment year 1980-81, then the latter part of clause (a) must also be read as referring to a claim for recognition of a partial partition effected after December 31, 1978, but made for the first time in the assessment year 1980-81. Only such a finding which may have been recorded between April 1, 1980, and June 18, 1980, or after June 18, 1980, will be covered by clause (a).
+31. By way of illustration, it may be pointed out that there can be a case where a partial partition has taken place after December 31, 1978, and before April 1, 1979, and a claim in respect of such partition could well have been made in the assessment year 1979-80, but has not been made. However, such a claim is made for the first time by the Hindu undivided family in the assessment year 1980-81. To such a case, the provisions of clause (a) will be attracted because the claim is being made for the first time in the assessment year 1980-81. The operation of sub-section (9) must, therefore, be restricted only to cases where a claim in respect of a partial partition which is effected after December 31, 1978, is made for the first time in the assessment year 1980-81. These provisions will not fasten themselves on a partial partition which has already been recognised in the assessment year 1979-80 and a finding recorded in respect of such a claim for the assessment year 1979-80 will not be affected by the invalidating provision in clause (a) of sub-section (9) of
+section 171
+of the Act.
+32. It is then contended by Mr. Ramachandran, Mr. Subramaniam, Mr. Ram Gopal and Mrs. Chitra who appear in W.P. No. 162 of 1983 and W.P. No. 6036 of 1983, that Parliament has not enacted any fiction in section 171(9) as has been done in
+section 171(1)
+of the Act. It is pointed out that
+section 171(1)
+of the Act specifically provided that the Hindu family hitherto assessed as undivided shall be deemed for the purposes of the Act to continue to be a Hindu undivided family except in so far as a finding of partition has been given under section 171. The argument is that Parliament should also have provided for a similar deeming fiction in
+section 171(9)
+of the Act if it was intended that not withstanding a partial partition, the income from the property which has been allotted to any member of the Hindu undivided family, should still be treated as the income of the Hindu undivided family. Reference is also made to the provisions of
+sections 60
+to
+64
+of the Act and particularly to
+section 64
+in which the Legislature has made an express provision for including the income of the spouse, minor child, etc., in the income of the individual. No such similar provision, it is contended, has been made and, therefore, according to the learned counsel, to borrow the words of Lord Macmillan in IRC v. Ayrshire Employers Mutual Insurance Association Ltd. [1948] 16 ITR (Supplement 80, 85(HL) : "The Legislature has plainly missed fire."
+33. Another limb of the same argument is that since no deeming fiction treating the income from the property which is the subject-matter of partial partition as the income of the Hindu undivided family has been made, the income earned by the individual members from the properties which have been partially partitioned cannot be assessed in the hands of the Hindu undivided family as it cannot at all form part of the income of the Hindu undivided family. Mr. Subramaniam has relied on the decision of this court in Kannan Chetty (A.) v. CIT [1963] 50 ITR 601. That was a case in which a divided member of a joint family had alienated his ascertained share in the family properties, though the properties had not been divided by metes and bounds and it was held that notwithstanding the fact that an order had not been made under
+section 25A
+of the Indian Income-tax Act, 1922, the income from the alienated property could not be included in the income of the joint family on the footing that such income still belonged to the joint family.
+34. Mrs. Nalini Chidambaram, learned counsel appearing on behalf of the Revenue, has, however, contended that the words of clause (b) of section 171(9) are sufficient to enable income-tax to be assessed in respect of the income of the property which was the subject-matter of partial partition in the hands of the Hindu undivided family and assessing the Hindu undivided family in the same manner as it had hitherto been assessed before the partial partition had taken place. She has pointed out that the words in clause (b) of sub-section (9), "such family shall continue to be liable to be assessed under this Act as if no such partial partition had taken place" were sufficient to authorise the continuance of the assessment of the Hindu undivided family notwithstanding the fact that a partial partition had taken place after December 31, 1978.
+35. Now, it is undoubtedly true that phraseology similar to the one which is found in section 171(1) has not been used in section 171(9). But the use of the deeming fiction was not the only mode available to Parliament, if Parliament wanted to provide that even in cases where partition had taken place after December 31, 1978, the Hindu undivided family shall continue to be assessed. Subject to the contention that sub-section (9) is invalid, it appears to us that that object could be achieved, if permissible, by making a provision of the kind that is to be found in clause (b) of sub-section (9) of
+section 171
+of the Act. Indeed, clause (b) of sub-section (9) is an express provision which permits a Hindu undivided family, among the members of which there is a partial partition, to be assessed as it had been hitherto assessed as if no such partial partition had taken place. Reading the substantive part of sub-section (9) along with clause (b), the material part of sub section (9) would read as follows : ".... . where a partial partition has taken place after December 31, 1978, among the members of a Hindu undivided family hitherto assessed as undivided, such family shall continue to be liable to be assessed under this Act as if no such partial partition had taken place". The words, "such family" in clause (b) refer to the Hindu undivided family hitherto assessed as undivided. If sub-section (9) of section 171 is valid, the effect of that sub-section is that even though there has been a partial partition after December 31, 1978, if in the assessment year 1980-81 a claim is made that a partial partition had taken place after December 31, 1978 the Hindu undivided family which was hitherto assessed as undivided that is to say, which was assessed as a Hindu undivided family at a time when the claim of partial partition was made, such family shall continue to be liable to be assessed as if no such partial partition had taken place. If such a provision was legally permissible, clause (b) of sub-section (9) could be construed as an express provision permitting a Hindu undivided family hitherto assessed as a Hindu undivided family to be continued to be so assessed.
+36. Our attention has been invited to the decisions of this court in Meyyappa Chettiar (M.S.M.M.M.) v. CIT [1950] 18 ITR 586 and Kannan Chetty (A.) v. CIT [1963] 50 ITR 601 and the decision of the Kerala High Court in
+ITO v. Smt.N.K. Sarada Thampatty
+[1976] 105 ITR 67 in support of the proposition that notwithstanding the provision in
+section 171(9)
+of the Act, it is not competent for the Income-tax Officer to include income which is not in fact received by the Hindu undivided family, but is received by a separated member of the Hindu undivided family in the assessment of the Hindu undivided family.
+In Meyyappa Chettiar's case [1950] 18 ITR 586 (Mad) which arose under
+section 25A
+of the Indian Income-tax Act 1922, this court held that if there is a partial partition or an item of property is alienated to a stranger or an asset of the family is divided and a partnership is constituted and the family continues joint and owns other properties, the assessment on the basis of Hindu undivided family will be confined to the income from the property so remaining undivided and the income from the property partitioned or alienated will be excluded from the computation of the income for assessment. In Kannan Chetty's case [1963] 50 ITR 601 (Mad) which also arose under
+section 25A
+of the Indian Income-tax Act, 1922, this court held that the income from the properties of a divided member of the Hindu undivided family could not be assessed as that of the Hindu undivided family. In the Kerala decision a Division Bench of the Kerala High Court while construing the provisions of
+section 171
+of the Act took the view that there are no express words in section 171, nor is there any necessary implication arising from the words of the section that the income which was really the income of the members of the family after the division in status of the family must be treated as or deemed to be the income of the Hindu undivided family which has been created by the legal fiction. Observing that a Hindu undivided family was a separate and distinct entity for the purposes of the
+Income-tax Act
+and that the charging section only charges the income of such an entity, it was observed that if that entity as such had not received any income, it was inconceivable that any income of any other person though that person was an erstwhile member of a Hindu undivided family could be assessed as the income of that Hindu undivided family. The Division Bench held that the only reasonable explanation that can be placed on section 171 was that if during an accounting year or any part of it, a Hindu undivided family had not been disrupted and during that period it had received income, that income could be assessed, even though at the time of the assessment, the Hindu undivided family had ceased to exist and the section only enabled by virtue of a legal fiction to assess an entity which has really ceased to exist but treating it as in existence. But, according to the Division Bench, such assessment must be on the income earned or received by the Hindu undivided family.
+37. Relying on these three decisions, it has been argued specially by Mr. Subramaniam that notwithstanding the provisions of
+section 171(9)
+of the Act, if in fact and as a result of partial partition, the income from the assets which have been partitioned does not belong to the Hindu undivided family, such income cannot be assessed in the Hindu undivided family and the position as set out in the decisions in Meyyappa Chettiar's case [1950] 18 ITR 586 (Mad), Kannan Chetty's case [1963] 50
+ITR 601 (Mad) and Sarada Thampatty
+'s case  must necessarily follow as a consequence of the partial partition notwith standing the fact that such partial partition is not permitted to be recognised if it is effected after December 31, 1978. Now, undoubtedly, the three decisions relied upon do support the assessees.
+The argument on behalf of the Revenue is that the effect of the decision of the Supreme Court in
+Kalloomal Tapeswari Prasad (HUF) v. CIT
+[1982] 133 ITR 690 is that the law
+laid down in
+these three decisions is no longer good law.
+The decision of the Supreme Court in
+Kalloomal
+'s case [1982] 133 ITR 690 was an appeal against the decision of the Allahabad High Court in
+Kalloomal Tapeshwari Prasad v. CIT
+[1973] Tax LR 697. The Hindu undivided family which was originally assessed as M/s. Kalloomal Tapeswari Prasad consisted of two brothers, Chandoolal and Sita Ram. Chandoolal had five sons and Sita Ram had one wife and two sons. Inclusive of Chandoolal and Sita Ram, the joint family consisted of ten members. A partial partition of the cloth business of the family was made in 1951. This partial partition was accepted by the Income-tax Department and the cloth business was treated as belonging to a partnership firm. On December 11, 1963, the family made another partial partition but orally. This partial partition was in respect of 18 immovable properties. The properties were not divided by metes and bounds, but the coparceners maintained separate accounts of the income from the properties and the net profits were divided in accordance with the respective shares at the end of the year and credited to the separate account of each member. In the assessment proceedings for the year 1964-65, the Hindu undivided family claimed that the income of the 18 properties was not liable to be assessed in its hands, but that it should be assessed in the assessment of the individual members of the family. The Income-tax Officer held that the partial partition did not satisfy the requirements of
+section 171
+of the Act on the ground that the partition was not made by a registered instrument and it was not proved that the properties were incapable of division. The entire income of the 18 properties was, therefore, included in the income of the Hindu undivided family. On appeal to the Appellate Assistant Commissioner, though he disagreed with the finding that a registered deed of partition was necessary, he affirmed the finding that section 171(1) was not satisfied and the family, therefore, could not claim the benefit of the partial partition. The Tribunal also affirmed the finding of the Appellate Assistant Commissioner. When the matter was taken in reference to the Allahabad High Court the High Court confirmed the finding that the properties were capable of division by apportionment and equalisation by payment of money and since there was no physical division and mere severance of status could not be deemed to be a partition within the meaning of
+section 171
+of the Act, the assessee was not entitled to succeed in its claim for recognition of the partial partition. The other question which fell for decision by the Allahabad High Court was whether the income of the properties which are partitioned under the Hindu law, but with regard to which an order accepting the claim of partial partition was not made, was liable to be included in the computation of the income of the Hindu undivided family. The Allahabad High Court held that since December 11, 1963, on which date the partial partition took place, the members of the Hindu undivided family will be deemed to hold the 18 properties as tenants-in-common and not as joint tenants, with the result that these properties ceased to belong to the coparcenary of the joint Hindu family and the income derived from these properties was not income received by the joint family, the assessee. The Division Bench, in paragraph 11, observed as follows ([1973] Tax LR 697, 699) :
+"The Income derived from these properties was not income received by the joint Hindu family, the assessee. In accordance with the Hindu law such income could not hence be included in the assessment of the Hindu undivided family. The share of the income of the individual members was liable to be assessed in their individual assessments."
+38.
+In support of this view, among other decisions, the Division Bench relied on the decision of this court in Meyyappa Chettiar's case [1950] 18 ITR 586 and the decisions in
+Sunder Singh Majithia v. CIT
+[1942] 10
+ITR 457 (PC), Gordhandas T. Mangaldas v. CIT
+[1943] 11
+ITR 183 (Bom), Waman Satwappa Kalkhatgi v. CIT
+[1946] 14
+ITR 116 (Bom) and Lakhmichand Baijnath v. CIT
+which are all decisions arising under
+section 25A
+of the Indian Income-tax Act, 1922.
+This view of the Allahabad High Court was reversed by the Supreme Court in
+Kalloomal
+'s case [1982] 133 ITR 690 pointing out that the property which was the subject-matter of partial partition would continue to be treated as belonging to the family and its income would continue to be included in its total income until a finding as contemplated by
+section 171
+of the Act is recorded. The Supreme Court, reversing the decision of the Allahabad High Court on the second question, observed as follows (page. 710) :
+"As long as a finding is not recorded under section 171 holding that a partial partition had taken place, the Hindu undivided family should be deemed for the purposes of the Act to be the owner of the property which is the subject-matter of partition and also the recipient of the income from such property. The assessment should be made as such and the tax assessed can be recovered as provided in the Act. In the circumstances the decision of the High Court on the second question has to be reversed. We, accordingly, record our answer to the second question in the affirmative and in favour of the Department."
+39. We have earlier referred to the controversy which was formulated in the second question which was referred to the Allahabad High Court. For the purpose of appreciating the ratio of the Supreme Court decision, we may reproduce the second question here. The second question reads as follows :
+"Whether, on the facts and in the circumstances of the case, the Tribunal was justified in holding that the income from the properties in dispute which were accepted to have been partitioned under the Hindu law but with regard to which an order accepting the claim of partial partition was not made was liable to be included in the computation of the assessee's income ?"
+40. The above question has undoubtedly been answered in favour of the Department and the view of the Allahabad High Court in para. 11 of the judgment has been reversed by the Supreme Court. It has, however, to be appreciated that the thrust of the second question was directed at those cases in which there has been a partition of the properties but there has been no finding accepting the claim for partial partition by the Income-tax Officer. That decision cannot, however, be treated as an authority for the proposition that notwithstanding a provision for recognising a partial partition, the income of separated properties could be treated as income of the Hindu undivided family without even making an enquiry as to whether in fact there has been a partition and whether that partition satisfies the requirements of section 171. This decision cannot also be treated as an authority for the proposition that though there is a partial partition, that partition can be altogether ignored. Indeed, in our view, section 171 is a legislative recognition of the concept that the income which ceases to be the income of the Hindu undivided family consequent upon a partition cannot be assessed in the hands of the Hindu undivided family. The requirement that the claim for partition should be made before the Income-tax Officer and should be accepted by him is only to ensure that there has been a partition as contemplated by the definition of "partition". That conclusion does not detract from the legal position that the income which does not belong to the Hindu undivided family cannot be taxed in the assessment of the Hindu undivided family, if in fact the income has ceased to be the income of the Hindu undivided family and this has been verified by the Income-tax Officer.
+41. We may point out that in so far as the decision of the Kerala High Court in
+Sarada Thampatty
+'s case [1976] 105 ITR 67 is concerned, though one of the learned Judges (T. Kochu Thommen J.)
+who was a party to the decision has in a later decision in
+Sankaranarayanan v. CIT
+, himself pointed out (at page 568) that the decision in
+Sarada Thampatty
+'s case , stands impliedly over-ruled by the subsequent decision of the Supreme Court in
+Kalloomal
+'s case [1982] 133 ITR 690, it is significant that at page 567 of the judgment in
+Sankaranarayanan
+'s case , the learned Judge has himself pointed out that
+section 171
+of the Income-tax Act continues to regard the family, despite severance in status, as joint for the purpose of assessing the income derived from the properties jointly held by the family prior to partition, except where a finding has been made under the section that the partition has actually resulted in a physical division of the properties." (underlining ours)
+42. It is argued before us both by Mr. Subramaniam and Mr. Ram Gopal that the decision in
+Kalloomal
+'s case , cannot have any relevance at all while deciding the validity of
+section 171(9)
+of the Act because that decision was rendered prior to the enactment of section 171(9). It appears to us that there is much substance in this argument.
+43. It is true that in
+Kalloomal
+'s case , the Supreme Court has undoubtedly laid down that if a partial partition is not recognised as required by section 171, then even though the income of the property which is the subject-matter of partial partition is in fact not the income of the Hindu undivided family, it can still be taxed in the hands of the Hindu undivided family.
+This does not, however, mean that the effect of the decision in
+Kalloomal
+'s case , is that the income which does not belong to the Hindu undivided family and belongs to a member of the Hindu undivided family consequent upon a partition, whether partial or complete, is liable to be assessed straightaway in the hands of the Hindu undivided family or that the income which does not in fact and in law belong to the assessee can as a matter of course be included in his income. Therefore, the main question which arises in these cases is whether it is permissible to enact a provision altogether shutting out an enquiry with regard to a partition which has taken place after December 31, 1978, so as to include in the assessment of the Hindu undivided family income which in fact and in law does not belong to the Hindu undivided family.
+The decision of the Supreme Court in
+Kalloomal
+'s case , cannot be of any assistance to the Revenue in so far as the validity of
+section 171(9)
+of the Act is challenged on the ground that the income which does not belong to the Hindu undivided family is included in its income without any opportunity being given to show that the said income does not belong to the Hindu undivided family.
+44. The validity of the provision in
+section 171(9)
+of the Act is also challenged on the ground that the date December 31, 1978, has been arbitrarily fixed and the provision, therefore, violates
+article 14
+of the Constitution of India. The argument is that the "previous year" relevant for the assessment year 1980-81 would earliest be the previous year beginning from May 1, 1978, and ending on April 30, 1979, and the "last year" would be the year beginning from April 1, 1979, and ending with March 31, 1980. The argument is that having regard to the fact that once
+section 171(9)
+of the Act becomes operative from the assessment year 1980-81, a partial partition effected between May 1, 1978, and March 31, 1980, could be brought within the assessment year 1980-81. But the effect of specifying December 31, 1978, as the date after which partial partitions have been derecognised is that an arbitrary classification comes into being, because, partial partitions between May 1, 1978, and December 31, 1978, even though their "previous year" would be relevant to the assessment year 1980-81, would be excluded and such partitions would not fall within the mischief of
+section 171(9)
+of the Act, while the assessees who have effected partial partition in the previous year relevant to the same assessment year 1980-81, after January 1, 1979, would be hit by
+section 171(9)
+of the Act. An argument is also advanced that the date December 31, 1978, has no nexus to the object of the amendment. A further argument is advanced that even a genuine partial partition effected long prior to the publication of the Bill,i.e., June 18, 1980, is affected by section 171(9) and section 171(9) having affected even completed transactions which were perfectly valid when they were entered into, is invalid.
+45. Learned counsel appearing on behalf of the Revenue has, however contended that, strictly speaking, section 171(9) cannot be treated as retrospective in operation merely because partial partitions effected after December 31, 1978, have been derecognised. The argument is that the provision derecognising partial partition comes into effect only prospectively and just because a part of the requisites for its operation is drawn from a time antecedent to its passing, the statute cannot be said to be retrospective. Reliance is placed by learned counsel for the Revenue on the decision of the Supreme Court in D.G. Gouse & Co. (Agents) Pvt. Ltd. v. State of Kerala, . In that decision, the Supreme Court, while dealing with the validity of the
+Kerala Buildings Tax Act
+(7 of 1975), which was brought into force retrospectively from April 1 1973, held that the choice of April 1, 1973, as the date of imposition of the tax under the Act could not be assailed as discriminatory under
+article 14
+of the Constitution of India. The Supreme Court, in paragraph 14 of the judgment, has observed as follows (p. 276 of AIR 1980 SC) :
+"It has however not been shown how it could be said that the Act has taken away or impaired any vested right of the assessees before us which they had acquired under any existing law, or what that vested right was. It may be that there was no liability to building tax until the promulgation of the Act (earlier, the Ordinances) but mere absence of an earlier taxing statute cannot be said to create a 'vested right', under any existing law, that it shall not be levied in future with effect from a date anterior to the passing of the Act. Nor can it be said that by imposing the building tax from an earlier date, any new obligation of disability has been attached in respect of any earlier transaction or consideration.
+The Act
+is not therefore retrospective in the strictly technical sense."
+46. Specifically dealing with the question as to whether the choice of April 1, 1973, as the date of imposition of the building tax could be assailed as discriminatory with reference to
+article 14
+of the Constitution of India, the Supreme Court has observed as follows (p. 277 of AIR 1980 SC) :
+"Nor can the choice of April 1, 1973, as the date of imposition of the building tax be assailed as discriminatory with reference to
+article 14
+of the Constitution. It will be enough for us to refer in this connection to the following passage from this court's decision in
+Union of India v. Parameswaran Match Works
+, which was a case under the
+Central Excises and Salt Act, 1944
+, -
+"The choice of a date as a basis for classification cannot always be dubbed as arbitrary even if no particular reason is forthcoming for the choice unless it is shown to be capricious or whimsical in the circumstances. When it is seen that a line or a point there must be and there is no mathematical or logical way of fixing it precisely, the decision of the Legislature or its delegate must be accepted unless we can say that it is very wide off the reasonable mark. See Louisville Gas & E. Co. v. Coleman [1927] 277 US 32 per Justice Holmes."
+47. Learned counsel for the Revenue has also argued that
+section 171(9)
+of the Act was in the nature of a machinery provision and that it was clearly intended by Parliament that after April 1, 1980, even though there was a partial partition between members of a Hindu undivided family, such family shall continue to be liable to be assessed as if no such partial partition has taken place.
+48. The principle with regard to the validity of a taxing provision is well established. It is now well-established that
+article 14
+of the Constitution of India applies even in the case of taxing statutes. In Khandige Sham Bhat v. Agrl. ITO [1963] 48 ITR (SC) 21, it was pointed out by the Supreme Court that a taxation law cannot claim immunity from the equality clause of the Constitution and that while the taxation statute cannot be arbitrary and oppressive, the court cannot for obvious reasons meticulously scrutinise the impact of its burden on different persons. After referring to the well-known decision of the Supreme Court in Ram Krishna Dalmia's case, , the Supreme Court observed as follows (p. 26 of 48 ITR (SC)) :
+"Though a law ex facie appears to treat all that fall within a class alike, if in effect it operates unevenly on persons or property similarly situated, it may be said that the law offends the equality clause. It will then be the duty of the court to scrutinise the effect of the law carefully to ascertain its real impact on the persons or property similarly situated. Conversely. a law may treat persons who appear to be similarly situate differently, but on investigation, they may be found not to be similarly situate. To state it differently, it is not the phraseology of a statute that governs the situation but the effect of the law that is decisive. If there is equality and uniformity within each group, the law will not be condemned as discriminative, though due to some fortuitous circumstance arising out of a peculiar situation, some included in a class get an advantage over others, so long as they are not singled out for special treatment. Taxation law is not an exception to this doctrine : vide Purshottam Govindji Halai v. Addl.
+Collector of Bombay  and Moopil Nair v. State of Kerala
+, . But in the application of the principles, the courts, in view of the inherent complexity of fiscal adjustment of diverse elements, permit a larger discretion to the Legislature in the matter of classification, so long it adheres to the fundamental principles underlying the said doctrine. The power of the Legislature to classify is of ' wide range and flexibility' so that it can adjust its system of taxation in all proper and reasonable ways."
+49.
+In
+Bihari Lal v. Chief Settlement Commissioner
+, , it was pointed out by the Supreme Court that every law must have a beginning or time from which it operates and no rule which seeks to change the law can be held invalid for the mere reason that it effects an alteration in the law. The Supreme Court also pointed out that it is sometimes possible to plead injustice in a rule which is made to operate with retrospective effect, but the view that a rule which operates prospectively is invalid because a difference made between the past and the future is one which is untenable.
+50. To the same effect are the observations in
+Udai Ram v. Union of India
+, AIR 1968 SC 1138, where, in paragraph 37, the Supreme Court while dealing with the challenge to the validity of the Land Acquisition (Amendment and Short Title Validation) Act, 1967, on the ground of violation of
+article 14
+of the Constitution of India, has observed as follows (p. 1156) :
+"We are not impressed by the argument that a person whose land may be covered by a notification under
+section 4
+issued more than one year before 20th January, 1967, would seemingly be treated differently from a person whose land comes under the notification under
+section 4
+after that date. The Legislature has sought to improve upon the existing provisions of the
+Land Acquisition Act
+and there is no discriminatory treatment which should be struck down as violative of
+article 14.
+The Legislature in its wisdom thought that some time limit should be fixed in respect of
+section 4
+notification issued before 20th January, 1967; and that a time limit should also be fixed for acquisition where such a notification is issued after that date. No fault can be found with the Legislature because it has provided for a period of two years in one case and three years in the other. As was pointed out in
+Jalan Trading Co v. Mazdoor Union
+:
+'Equal protection of the laws is denied if in achieving a certain object, persons, objects or transactions similarly circumstanced are differently treated by law and the principle underlying that different treatment has no rational relation to the object sought to be achieved by the law.'"
+51. In Hathising Manufacturing Co. v. Union of India, , a challenge was made to the validity of
+section 25FFF
+of the Industrial Disputes Act, 1947, on the ground that it was hit by
+article 14
+of the Constitution of India. The contention was that the section made a distinction between employers who closed their undertakings on or before November 28, 1956, that is the date from which the section was brought into force retrospectively, and those who closed their undertakings after that date. Negativing the challenge, the Supreme Court held that the State was undoubtedly prohibited from denying to any person equality before the law or equal protection of the laws, but by enacting law which applies generally to all persons who come within its ambit as from the date on which it becomes operative, no discrimination is practised. It was pointed out that when Parliament passed a law imposing a liability as following from certain transactions prospectively, it evidently makes a distinction between those transactions which are covered by the Act and those which are not covered by the Act, because they were completed before the date on which the Act was enacted. This differentiation, however, does not amount to discrimination which is liable to be struck down under
+article 14.
+It was also pointed out that
+article 14
+strikes at the discrimination in the application of the laws between persons similarly circumstanced, and it does not strike at a differentiation which may result by the enactment of a law between transactions governed thereby and those which are not governed thereby. The section was held to be valid on the ground that it created a civil liability which was strictly prospective and was not hit by
+article 14.
+It was pointed out that by bringing within its fold transactions before the date of its enactment, in truth, the date of the application of the Act is related back to a period anterior to the date on which the Act was enacted. It may be recalled that the effect of section 25FFF was that the liability to pay compensation arose in respect of undertakings closed on or after November 28, 1956, under section 25FF by an Act which came into force on June 6, 1957, but with retrospective effect from November 28, 1956.
+52. It is no doubt true that December 31, 1978, happens to be the last day of the calendar year. But, as already pointed out, a partial partition effected between January 1, 1979, and March 31, 1979, will become relevant for the purposes of the assessment year 1979-80. We have already pointed out earlier that the provision of section 171(9) is restricted only to a claim in respect of a partial partition effected after December 31, 1978, made for the first time in the assessment year 1980-81 and that the provision of section 171(9)(a) will not affect a partial partition which has already been recognised in the assessment year 1979-80, and in respect of which a finding has already been recorded in the assessment proceedings for the assessment year 1979-80. This illustrates one set of cases in which partial partitions though made after December 31, 1978, will not be affected by section 171(9). We have also pointed out that even with regard to partial partitions effected after December 31, 1978, some partial partitions will be affected by section 171(9), while some others will not be affected, though all of them will fall for consideration in the assessment year 1980-81. Partitions effected between May 1, 1978, and December 31, 1978, are being treated differently in respect of the same assessment year 1980-81 with reference to the partial partitions which were effected after January 1, 1979, which also were relevant for the assessment year 1980-81 which would be hit by section 171(9). This indicates that having regard to the same year of assessment 1980-81, there is no rationale behind the hostile treatment to be given to certain partitions relevant for the assessment year as compared with certain other partitions which are also relevant for the said assessment year, but were effected before December 31, 1978. This circumstance along with what we have earlier pointed out that partial partition effected after December 31, 1978 but becoming relevant only for the assessment 1979-80 is not affected by section 171(9) clearly, in our view, indicates that the choice of the date December 31, 1978, has no rationale behind it and appears to us to be clearly arbitrary.
+53. Though a certain amount of flexibility with regard to a taxing provision is permissible, as pointed out by the Supreme Court in D.G. Gouse & Co.'s case, , if the fixation of the date is arbitrary and capricious, such an enactment would be open to attack on the ground of infringement of
+article 14
+of the Constitution of India.
+54. The substantial challenge to the provisions of section 171(9) which needs consideration is whether notwithstanding a partial partition and not withstanding the fact that the Hindu undivided family does not receive any income from the property which is the subject-matter of a partial partition, the Hindu undivided family can be assessed to tax in respect of income which neither accrues to it nor is received by it by making a provision that no enquiry should be made with regard to a partition which has in fact been effected after December 31,1978.
+Section 171(9)
+of the Act directs that even though a member of the Hindu undivided family which is assessed as Hindu undivided family has separated himself from the Hindu undivided family in respect of certain properties, the Income tax Officer should continue to assess the income of the partitioned property which is in fact earned by the divided member as a part of the total income of the family. It is argued that though the Hindu undivided family has no beneficial interest in the property which is partitioned and the income from the said property does not belong to it, it will be liable to pay a higher rate of tax or the income derived from its own properties, because the income of the separated property is also taken into account as its income. It is pointed out that the effect of section 171(9) is that the Hindu undivided family is required to file a return of income earned by the divided member over whom the Hindu undivided family cannot exercise any control, nor can it ask for the accounts of the income earned by the individual member and there is no statutory obligation on the divided member to reimburse the Hindu undivided family in respect of the tax assessed on the footing that the income belonged to the Hindu undivided family. Even with regard to the separated member, it is alleged that discrimination occurs because his income may be clubbed with the income earned by the Hindu undivided family and the income is subject to a higher rate of taxation than what would have been the rate if the income was assessed in his hands. It is also argued that the provisions of
+section 4
+and the definition of total income in
+section 5
+of the Income-tax Act, 1961, do not permit the assessment of income earned by a member of the Hindu undivided family from the separated property in the hands of the Hindu undivided family. The argument is that by enacting
+section 171(9)
+, what is intended to be done by Parliament is to enlarge the scope of the charging provisions in
+sections 4
+and
+5
+which is not permissible and assessment of income from the separated property acquired by the individual members in the hands of the Hindu undivided family is violative of
+article 265
+of the Constitution of India.
+55. Learned counsel appearing on behalf of the Revenue has, however, justified the enactment of
+section 171(9)
+on the ground that the provision was enacted solely with the object of checking tax avoidance and reference is made to the decision of the Supreme Court in McDowell and Co. Ltd. v. CTO [1985] 154 ITR 148. In McDowell's case, the Supreme Court has indicated what should be the proper approach when dealing with a provision of a taxing statute which is intended to deal with tax avoidance. In the last but one paragraph, the Supreme Court observed as follows (p. 160) :
+"We must recognise that there is behind taxation laws as much moral sanction as behind any other welfare legislation and it is a pretence to say that avoidance of taxation is not unethical and that it stands on no less a moral plane than honest payment of taxation. In our view, the proper way to construe a taxing statute, while considering a device to avoid tax, is not to ask whether the provisions should be construed literally or liberally, nor whether the transaction is not unreal and not prohibited by the statute, but whether the transaction is a device to avoid tax, and whether the transaction is such that the judicial process may accord its approval to it."
+56. Now, undoubtedly, in the observations reproduced above, the Supreme Court has pointed out that the real test is whether the transaction is a device to avoid tax and whether the transaction is such that the judicial process may accord its approval to it. The competence of Parliament to enact a law to prevent evasion of tax has also been recognised by the Supreme Court in
+Balaji v. ITO
+[1961] 43 ITR 393, where a reference was made to the decision in
+Sardar Baldev Singh v. CIT
+and it was pointed out that entry 54 of List I of the Seventh Schedule sustains a law made to prevent evasion of tax.
+57. Now, while it is true that courts must not put their seal of approval on a device which is specifically intended to avoid a tax, it cannot be assumed that in every case when a partial partition is effected between some or all members of a joint Hindu family, the partition must be treated as a dubious device to evade tax even though the partition is real and has been given effect to. The real question which falls to be determined in the present case is whether when a member of a Hindu undivided family has a vested legal right to have a partial partition of some of the properties of the Hindu undivided family by exercising his right of partition under the personal law, a partial partition resulting from the exercise of such a legal right can be set at naught by treating it automatically as a dubious device resorted to with a view to avoid the burden of taxation without any enquiry whatsoever. The indirect effect of the provisions of
+section 171(9)
+is that even genuine and real partial partitions in respect of certain properties will not be given effect to by virtue of the provisions of
+section 171(9)
+if they are effected after December 31, 1978.
+Section 171(9)
+is a provision of general application. It affects all Hindu undivided families and it affects all partial partitions which may or may not be effected with the specific purpose and object of reducing the burden of taxation. Strictly speaking, when a right under the personal law is exercised by a member of the Hindu undivided family even assuming for a moment that it is exercised with a view to reduce the burden of taxation, it cannot, in our view, be styled as a dubious device if the partition has in fact been acted upon and is not sham or bogus. It appears to us that the effect of
+section 171(9)
+is that it virtually negatives the right of partition under the personal law only in certain cases of partition after December 31, 1978. There is no valid basis or justification for treating Hindu undivided families separately in a hostile manner with reference to the date December 31, 1978.
+58. Even otherwise, we are inclined to take the view that under the garb of not making the machinery provision in
+section 171
+applicable to partial partitions effected after December 31, 1978, Parliament has purported to enlarge the scope of the provisions of
+sections 4
+and
+5
+of the Income-tax Act.
+Section 4
+is the charging provision. Sub-section (1) of
+section 4
+reads as follows :
+"4. Charge of income-tax. - (1) Where any Central Act enacts that income-tax shall be charged for any assessment year at any rate or rates, income-tax at that rate or those rates shall be charged for that year in accordance with, and subject to the provisions of, this Act in respect of the total income of the previous year or previous years, as the case may be, of every person :
+Provided that where by virtue of any provision of the Act income-tax is to be charged in respect of the income of a period other than the previous year, income-tax shall be charged accordingly."
+59. Now, it is true that the word "person" used in
+section 4
+has to be read by virtue of the definition of "person" in
+section 2(31)
+as including (i) an individual; (ii) a Hindu undivided family, (iii) a company, (iv) a firm, (v) an association of persons or a body of individuals, whether incorporated or not, (vi) a local authority, and (vii) every artificial juridical person not falling within any of the preceding sub-clauses. The fact, however, remains that the object of
+section 4
+is to charge the total income of the previous year of a person, who in a given case, may be an individual or a Hindu undivided family. The subject-matter of the charge is the total income of the previous year of such person. Therefore the assessment to be made has to be in respect of the total income of the person concerned. In other words, before the income is assessed to income-tax, it must be shown that it is the income of the person who is assessed. This is the substantive provision of the Act. As pointed out by the Federal Court in
+Chatturam v. CIT
+[1947] 15 ITR 302, the liability to pay tax is founded on the charging section. A person is liable to pay income-tax only in respect of incomes earned by him, and earning and the capacity in which a person earns income have been held to go together.
+(See
+Indira Balakrishna v. CIT
+[1956] 30 ITR 320 (Bom) as affirmed by the Supreme Court in
+CIT v. Indira Balkrishna
+[1960] 39 ITR 546.
+60.
+Section 5
+defines "total income". Under sub-section (1) of
+section 5
+, the total income of a person who is a resident, subject to the provisions of the Act, includes all income from whatever source derived which is received or is deemed to be received in India in such year or by or on behalf of such person or accrues or arises or is deemed to accrue or arise to him in India during such year or accrues or arises to him outside India during such year. The proviso is not material for our purpose. Therefore, the normal rule is that unless the income is received or is deemed to be received by the person who is the assessee in India or accrues or arises or is deemed to accrue or arise in India, a receipt cannot fall within the scope of "total income". It cannot be doubted that in the case of an individual who has acquired some property as a result of partial partition which originally belonged to the Hindu undivided family and the income from which was, prior to partial partition, assessed in the hands of the Hindu undivided family, that income ceases to be the income of the Hindu undivided family from the date of partition and cannot be brought to tax under
+sections 4
+and
+5
+in the hands of the Hindu undivided family. This position is recognised by the enactment of
+section 171
+itself except that the exclusion of income from the income of the Hindu undivided family is subject to a finding with regard to partial partition.
+Section 171
+, therefore, recognises the legal position that subject to the finding on the fact of partition, no income which does not belong to the Hindu undivided family can be taxed in the hands of the Hindu undivided family.
+61. The proposition that income which does not belong to the individual cannot be taxed in his hands is well settled.
+In
+Sir Sundar Singh Majithia v. CIT
+[1942] 10 ITR 457, the Privy Council pointed out that
+section 25A
+of the Indian Income-tax Act, 1922, had no reference at all to any case in which the Hindu undivided family remained in existence at the time of the assessment. With reference to
+section 25A
+of the 1922 Act, the Privy Council observed (p.464) :
+"No difficulty whatever in the assessment of a Hindu undivided family is caused - or was ever thought to be caused - by the fact that in one year it has certain assets and certain income therefrom and that in the next year it is found to have parted with one asset and to be no longer in receipt of the same income. The same assessee has a different income in each year - that is all. It matters nothing whether the particular asset no longer possessed by the undivided family has become the separate property of a member or belongs to a stranger."
+62.
+In
+Waman Satwappa Kalghatgi v. CIT
+[1946] 14 ITR 116 (Bom), referring to
+Majithia
+'s case [1942] 10 ITR 457 (PC), Kania C.J. pointed out that it was open to the members of a joint Hindu family to separate one of its assets, so as to make it not to belong to the joint family and in respect of which they can enter into an agreement of partnership. If that asset was a business, the income derived from carrying on such a business thereafter would not form part of the joint family income and
+section 25A
+would not come in the way of such an arrangement. It was pointed out that this was in accordance with the ordinary rule that there was nothing in Hindu law to prevent individual members from holding separate property and in such a case, the member will be liable to be taxed on his separate income.
+The learned Chief Justice in
+Waman Satwappa Kalghatgi
+'s case [1946] 14 ITR 116 (Bom), observed as follows (p.128) :
+"The essence of the section is that the income must in the first instance be received by the joint family as such. Once it is so received it makes no difference whether the joint family exists or not on the date of the assessment. This section, in my opinion, clearly brings out what was pointed out by the Privy Council in
+Majithia
+'s case [1942] 10 ITR 457, that the scheme of the section was to tax joint family income as a unit if it was received as such by the joint family, even though at the date of the assessment there may have been a partition."
+63. In the same decision, Chagla J. (as he then was) made it clear that in the case of a partial partition, the Hindu family must be considered to be joint for the purposes of the
+Income-tax Act
+to the extent of those assets which had not been partitioned, and to the extent it had parted with the assets, those assets can no longer be considered to be assets of the family or forming part of the total income of the family or that the family was liable to pay tax thereon under
+section 25A(2)
+. Referring to the provisions of
+section 25A(2)
+of the Indian Income-tax Act, 1922, the learned judge observed as follows (p. 128) :
+"But what has got to be remembered is that under sub-clause (2) of
+section 25A
+, what has got to be assessed is the total income of the joint family. Therefore, in every case, the Income-tax authorities have to ascertain what is the total income of the joint family. It is true that although the joint family has ceased to exist in the eye of the Hindu law still it may continue in the eye of the
+Income-tax Act
+, and till all the properties have been partitioned, the income received by the karta from the properties still not partitioned will still be the income of the joint family. But all the same it must be found as a fact that the joint family as recognised by the
+Income-tax Act
+has received the income which is sought to be assessed."
+64.
+In
+Meyappa Chettiar v. CIT
+[1950] 18 ITR 586, this court held that a division of business brought about by a father in exercise of the power under Hindu law was valid and effective notwithstanding the unequal nature of the division and that the income attributable to the business must be excluded from the total income of the family. That was a case in which the Appellate Tribunal had taken the view that the division of business was unequal and as there was no physical division of the movable and immovable properties as contemplated by
+section 25A
+, the partition could not be recognised.
+65.
+In
+CIT v. Purushottam Das Rais
+[1966] 61 ITR 86, the Allahabad High Court took the view that where there is no disruption of the status of a Hindu joint family, the family can divide some properties only among its members and in such a case, the joint family continues to be assessed as such in respect of its income from the properties not divided, and the members would be liable to be assessed as individuals on the income from the properties allotted to them, whether specifically or in shares. It was pointed out that it was irrelevant to consider in a claim for partial partition whether the properties had been partitioned in definite portions.
+66. A Division Bench of the Kerala High Court held in
+ITO v. Smt N. K. Sarada Thampatty
+[1976] 105 ITR 67, that a Hindu undivided family is a separate and distinct entity for the purposes of the Act and that the charging section only charges the income of such an entity. It was pointed out that if that entity as such had not received any income it was inconceivable that any income of any other person, though that person was an erstwhile member of a Hindu undivided family, could be assessed as income of that Hindu undivided family. The Division Bench considered
+section 171
+and observed that the only reasonable interpretation that could be placed on that section was that if during an accounting period or any part of it, a Hindu undivided family had not been disrupted and that during that period it had received income, that income could be assessed, even though at the time of the assessment the Hindu undivided family had ceased to exist. It was pointed out that by legal fiction, the section enables the assessment of an entity which had really ceased to exist, treating it as in existence.
+67. As already pointed out, all these decisions were referred to by the Supreme Court in
+Kalloomal
+'s case [1982] 133 ITR 690 and with regard to partial partition, the Supreme Court pointed out that the property which is the subject-matter of partial partition would continue to be treated as belonging to the family and its income would continue to be included in the total income until a finding is recorded under
+section 171
+.
+68. Now, even on behalf of the petitioners, it is not argued, and rightly that the income from the separate property obtained by an erstwhile member of a Hindu undivided family as a result of partial partition, should be independently assessed in the hands of the individual member even without a finding as contemplated by
+section 171
+. The petitioners do not dispute that, as pointed out by the Supreme Court in
+Kalloomal
+'s case [1982] 133 ITR 690, "as long as a finding is not recorded under
+section 171
+holding that partial partition had taken place, the Hindu undivided family should be deemed for the purposes of the Act to be the owner of the property which is the subject-matter of partition and also the recipient of the income from such property". The argument is that the provision now made in
+section 171(9)
+which debars the Income-tax Officer from recording such a finding is bad. The petitioners' contention is that the effect of shutting out an enquiry with regard to a partial partition, as now provided by
+section 171(9)
+, is that income which does not belong to the joint family is being taxed in the hands of the joint family. This contention, in our view, is clearly well-founded because it is one thing to say that the Income-tax Officer will be entitled to go into the question of partial partition and decide whether a partial partition has taken place or not, and another to say that notwithstanding the partial partition, the property will be treated as that of the Hindu undivided family. Since this is the effect of
+section 171(9)
+, it entrenches upon the charging provision under
+section 4
+and purports to bring to charge an income which does not belong to the Hindu undivided family to be assessed in the hands of the Hindu undivided family. Enactment of such a provision, in our view, amounts to enlarging the scope of
+sections 4
+and
+5
+of the Act and must be held to be invalid.
+69. The effect of
+section 171(9)
+also is that income over which the Hindu undivided family has no control is required to be disclosed in the return as its own income and the joint family is exposed to the consequences of a penalty being levied in case the disclosure is found to be inaccurate, not full and complete. For such a disclosure, the Hindu undivided family has to depend on the person who is the owner of the property and if the information with regard to his income is not truly and fully disclosed to the Hindu undivided family, the consequence is that the Hindu undivided family is required to face penal consequences in respect of income which, in fact as well as in law, does not belong to it at all. Liability to punishment for concealment not by the Hindu undivided family but by one of its members would be contrary to all established principles of penal jurisprudence. A provision of law which has the effect of fastening such a penal liability in respect of something over which the Hindu undivided family has no control, cannot but be construed as arbitrary.
+70. Learned counsel for the Revenue has herself chosen to treat the provisions of
+section 171
+as not being on par with the provisions made in Chapter 5 of the Act which specifically deals with income of other persons included in assessee's total income. According to learned counsel for the Revenue, the provisions of
+section 171
+cannot be equated with the provisions of
+section 64
+, under which the total income of an individual includes the income of spouse or minor children which arises directly or indirectly if they fall in any of the sub-clauses (i) to (vii) of
+section 64(1)
+. Learned counsel contended that when Parliament includes income of a third person in the income of the assessee, it is conscious of the fact that the property as well as the income belongs to the third person, but nevertheless, such income was included in the assessee's income. This provision, in
+section 64
+, according to learned counsel stands on a footing different from
+section 171(9)
+which, according to learned counsel, was specifically enacted as a measure to check tax evasion.
+71. Now, it must be remembered that the provisions in
+section 64
+of the Income-tax Act, 1961, were enacted with the specific purpose of checking tax evasion.
+Section 16
+of the 1922 Act was the predecessor of
+section 64
+of the 1961 Act. Considering the provisions of that section, in Balaji. v. ITO [1961] 43 ITR 393 cited supra, the Supreme Court, while dealing with
+section 16(3)(a)(i)
+and (ii), after referring to the provisions for registration of partnership and assessment of a partnership firm and the partner, observed as follows (p.398) :
+"This provision was intended for the benefit of partners of a business, for it made them liable only to pay tax on their own income. But it gave an effective handle to evade taxation in another direction. A husband or a father could nominally take his wife or his minor sons in partnership with him so that the tax burden might be lightened, for, if the income was divided between a number of people, the income derived by an individual therefrom might fall under the limits of taxable income or under a less onerous slab. This device enables an assessee to secure the entire income of the business but at the same time to evade income-tax which he would have otherwise been liable to pay."
+72. Later, in the same judgment, the Supreme Court pointed out that a similar device would not ordinarily be resorted to by individuals by entering into partnership with persons other than those mentioned in the sub-section, as it would involve the risk of the third party turning round and asserting his own rights.
+73. It has to be remembered that the necessity to enact the provisions in
+section 16(3)(a)(i)
+and (ii) arose because a partnership between the assessee, his wife and minor children would clearly be a nominal partner ship brought about with the express purpose of avoiding tax liability, because the income which purported to belong to the wife and minor son of the assessee would for all intents and purposes be available to the assessee himself. It must be remembered that if the partner was a major son, his income was not liable to be included in the income of the assessee. The consideration which weighed with Parliament when it enacted
+section 16
+of the 1922 Act or
+section 64
+of the 1961 Act does not hold good in the case of a partial partition, the right to effect which flows unconditionally from Hindu law. While in the case of a partnership between a minor son, wife and the assessee himself, the income substantially remains the income of the assessee himself, in the case of a partial partition, the income in fact and in law ceases to be the income of the joint family. The members of the Hindu undivided family were under their personal law entitled to have a part of the property separated and such partial partition could not, therefore, be treated as a dubious device to avoid taxation if as a result of exercising a right vested under the personal law, a genuine partial partition has been brought about.
+74. The Supreme Court in
+Balaji
+'s case [1961] 43 ITR 393, referred to the fact that the question as to whether the Legislature had power to levy tax on one person for the income of another, was left open in
+Sardar Baldev Singh
+'s case [1960] 40 ITR 605.
+It may be pointed out that one of the arguments of the learned Solicitor-General in
+Sardar Baldev Singh
+'s case , was that entry 54 in List I permitted tax on income and that it also authorised taxing of A on the income of B. This was in reply to the argument of Mr. Sastri that section 23A of the 1922 Act was incompetent as it purports to tax the shareholders on the income of the company in which they held shares. The argument was that section 23A of the 1922 Act did not give a right to a shareholder, on an order being made under section 23A, to realise from the company the dividend which by the order is deemed to have been paid to him and the submission was that the income remains the income of the company, and a shareholder was taxed on a portion of it representing the dividend deemed to have been paid to him which position factually was found to be correct. The argument of the Solicitor-General was that where a shareholder was taxed on the income of the company, the two being considered separate legal entities, the tax was none the less on income though the burden of the tax was put on one to whom the income had not accrued or by whom it had not been received and that this was well within the scope of entry 54. The Supreme Court, however, did not think it necessary to go into that question and they observed (p. 617) :
+"We do not consider it necessary to pronounce on this question or as to the correctness of the decisions cited so far as they support it. In our view, the legislative competence to enact the section can be clear]y upheld on the ground that it was to prevent evasion of income-tax and that would be enough to dispose of the argument advanced by Mr. Sastri that the section was an incompetent piece of legislation."
+75.
+In
+Balaji
+'s case [1961] 43 ITR 393, the Supreme Court observed that (p. 397) :
+"A final decision by this court on such an important question at the earliest point of time is highly desirable, but, with some reluctance, we are leaving open this question once again, as the position can be satisfactorily disposed of on a narrower basis."
+76. It is obvious that it suits the Revenue to say that the provisions of
+section 171(9)
+are not intended for taxing an income of one person in the hands of another, because, if this was the purpose and object of
+section 171
+, that would create an infirmity in the section, as such is not the power of Parliament under entry 54. That is why an argument is advanced that the provisions of
+section 171(9)
+must be upheld on the ground that it is intended to nullify the device of partial partition for the purpose of tax evasion.
+77. Now, an inference of tax evasion does not automatically follow from the fact that the assessee has exercised his legal right to have a partial partition effected, even though such a partial partition has the effect of reducing the tax burden. It cannot be overlooked that in exercise of a right under the personal law, a member of a Hindu undivided family can legitimately ask for a partial partition and if as a result of such partial partition the tax liability is reduced, it cannot be called a device in the sense that there is something sinister about such partition. There cannot be a wholesale assumption that all partial partitions have been made merely to evade taxes. Such an assumption implies that a]l partial partitions after December 31, 1978, are an eyewash to hoodwink the Income-tax Officer and that the income from the separate property of a member of a Hindu undivided family is in fact the income of the Hindu undivided family. There is no rational basis for such an assumption If, in fact, the partial partition is a sham and is not acted upon, the Legisture had made sufficient provision in
+section 171
+itself which enabled an enquiry to be made and if on an enquiry it is found that there is in fact no partition, then justifiably, the assessment had to be continued in the name of the Hindu undivided family. But once a partial partition has been found to be genuine and when under the Hindu law the motive for the partition is not relevant, it is difficult to see how merely because there is a reduction of tax liability as a result of such partition, the Legislature could deny to the members of the Hindu undivided family the benefit which must necessarily follow from the fact of partition. There was no justification whatsoever to treat partitions before December 31, 1978, in any manner different from the partitions after December 31, 1978, inasmuch as both the partitions were governed by the same personal law applicable to the parties.
+78. We are unable to accept the argument that
+section 171(9)
+should be upheld as a measure to prevent tax evasion. We have gone carefully through the judgment in McDowell's case . That decision cannot, in our view, be read as laying down that every attempt at tax planning is illegitimate and must be ignored or that every transaction or arrangement which is perfectly permissible under law which has the effect of reducing the tax burden of the assessee, must be looked upon with disfavour. Having regard to the new approach adopted by the English courts in the matter of considering the legitimacy of a scheme of tax planning which has been now adopted by the Supreme Court in McDowell's case , only colourable devices adopted for evading a tax liability will have to be ignored by courts. It appears to us on a careful reading of that decision that a legitimate transaction which does not amount to a dubious device is not hit even by the new approach adopted by the English courts and by the Supreme Court. This is clear from the separate judgment delivered by Ranganath Misra J. in McDowell's case , in which the learned judge has observed as follows (p. 171) :
+"Tax planning may be legitimate provided it is within the framework of law. Colourable devices cannot be part of tax planning and it is wrong to encourage or entertain the belief that it is honourable to avoid the payment of tax by resorting to dubious methods. It is the obligation of every citizen to pay the taxes honestly without resorting to subterfuges."
+79. The learned judge quoted with approval the observations in the decision of the Gujarat High Court in
+CIT v. Sakarlal Balabhai
+[1968] 69 ITR 186, which were as follows (p. 200) :
+"Tax avoidance postulates that the assessee is in receipt of amount which is really and in truth his income liable to tax but on which he avoids payment of tax by some artifice or device. Such artifice or device may apparently show the income as accruing to another person, at the same time making it available for use and enjoyment to the assessee as in a case falling within
+section 44D
+or mask the true character of the income by disguising it as a capital receipt as in a case falling within section 44E or assume diverse other forms... But there must be some artifice or device enabling the assessee to avoid payment of tax on what is really and in truth his income. If the assessee parts with his income producing asset, so that the right to receive income arising from the asset which, therefore, belonged to the assessee is transferred to and vested in some other person, there is no avoidance of tax liability : no part of the income from the asset goes into the hands of the assessee in the shape of income or under any guise..." (underlining ours)
+80. This decision of the Gujarat High Court has been affirmed by the Supreme Court in
+CIT v. Sakarlal Balabhai
+[1972] 86 ITR 2.
+81. The above observations will, therefore, indicate that where even as a part of tax planning, the assessee genuinely parts with an income producing asset and such a transaction has the effect of reducing his tax burden, because then no part of the income from that asset comes into the hands of the assessee, and that income accrues to some other person such an arrangement will not be hit by the ratio in McDowell's case .
+82. We may point out that the effect of the decisions of the House of Lords in IRC v. Burmah Oil Co. Ltd. [1981] 54 TC 200 and the judgment of the House of Lords in Ramsay's case [1981] 2 WLR 449, both of which have been referred to by the Supreme Court in McDowells case [1985] 154 ITR 148, was considered by the Privy Council in IRC v. Challenge Corporation Ltd. [1987] 2 WLR 24 in the context of
+section 99
+of the Income-tax Act, 1976, of New Zealand.
+Section 99
+provided for certain agreements purporting to alter the incidence of tax to be void. Under that provision it was provided that any contract shall be absolutely void as against the Commissioner of Inland Revenue "if and to the extent that, directly or indirectly.. its purpose or effect"is to reduce "any liability to income-tax". Dealing with
+section 99
+, Lord Templeman, delivering the judgment of the Privy Council, observed at page 31 of the report as follows :
+"Income-tax is mitigated by a taxpayer who reduces his income or incurs expenditure in circumstances which reduce his assessable income or entitle him to reduction in his tax liability.
+Section 99
+does not apply to tax mitigation because the taxpayer's tax advantage is not derived from an 'arrangement', but from the reduction of income which he accepts or the expenditure which he incurs.
+83. Thus, when a taxpayer executes a covenant and makes a payment under the covenant, he reduces his income. If the covenant exceeds six years and satisfies certain other conditions, the reduction in income reduces the assessable income of the taxpayer. The tax advantage results from the payment under the covenant.
+84. When a taxpayer makes a settlement, he deprives himself of the capital which is a source of income and thereby reduces his income. If the settlement is irrevocable and satisfies certain other conditions, the reduction in income reduces the assessable income of the taxpayer. The tax advantage results from the reduction of income.
+85. Where a taxpayer pays a premium on a qualifying insurance policy, he incurs expenditure. The tax statute entitles the taxpayer to reduction of tax liability. The tax advantage results from the expenditure on the premium.
+86. A taxpayer may incur expense on export business or incur capital or other expenditure which by statute entitles the taxpayer to a reduction of his tax liability. The tax advantages result from the expenditure for which Parliament grants specific tax relief.
+87. When a member of a specified group of companies sustains a loss,
+section 191
+allows the loss to reduce the assessable income of other members of the group. The tax advantage results from the loss sustained by one member of the group and suffered by the whole group.
+88.
+Section 99
+does not apply to tax mitigation where the taxpayer obtains a tax advantage by reducing his income or by incurring expenditure in circumstances in which the taxing statute affords a reduction in tax liability.
+89.
+Section 99
+does apply to tax avoidance. Income-tax is avoided and a tax advantage is derived from an arrangement when the taxpayer reduces his liability to tax without involving him in the loss or expenditure with entitles him to that reduction. The taxpayer engaged in tax avoidance does not reduce his income or suffer a loss or incur expenditure but nevertheless obtains a reduction in his liability to tax as if he had.
+90. This decision clearly shows that when courts adopted the approach of looking upon with disfavour the schemes intended at tax avoidance, such an : approach did not rule out the permissibility of mitigating the tax burden. What is the nature of such tax avoidance which will attract the progressive approach of the courts made in Burmah Oil Co. Ltd.'s case [1981] 54 TC 200 and Ramsay's case [1981] 2 WLR 449 (HL) is highlighted in the last paragraph quoted above, when Lord Templeman pointed out that avoidance of tax takes place and tax advantage is derived from an arrangement in which the income of the taxpayer is not reduced nor does he suffer a loss nor incurs any expenditure but yet he obtains a reduction in his tax liability. As observed by Lord Templeman, "the taxpayer engaged in tax avoidance does not reduce his income or suffer a loss or incur expenditure but nevertheless obtains a reduction in his liability to tax as if he had". This, in our view, is the crux of the new approach adopted by the English courts and approved by the Supreme Court. It is the dubious device which results in avoidance of tax liability without either reducing his income or suffering a loss or incurring an expenditure, that is looked upon with disfavour by courts by not giving recognition to such a device. This is more clearly made by Lord Templeman in the following page 33 of [1987] 2 WLR :
+"In an arrangement of tax avoidance the financial position of the taxpayer is unaffected (save for the cost of devising and implementing the arrangement) and by the arrangement the taxpayer seeks to obtain a tax advantage without suffering that reduction in income, loss or expenditure which other taxpayers suffer and which Parliament intended to be suffered by any taxpayer qualifying for a reduction in his liability to tax".
+91. As pointed out by Lord Templeman, "ost tax avoidance involves a pretenc" (underlining ours). It is this kind of pretence which appeared on the facts of the Burmah Oil Co. Ltd.'s case [1981] 54 TC 200 and in Ramsay's case (1981) 2 WLR 449 (HL). In Burmah Oil Co. Ltd's case (1981) 54 TC 200, the House of Lords refused to accept that a taxpayer had achieved the result of creating a tax loss that was not a real loss at all. In Ramsay's case (1981) 2 WLR 449 (HL), capital gains tax was sought to be avoided by making a deductible loss matched by a non chargeable gain and setting off the loss against a pre-existing chargeable gain, when in reality the taxpayer did not make any loss at all.
+92. Thus in our view, even in the light of the new approach laid down in McDowell's case , every attempt by a taxpayer to reduce his tax burden cannot be rejected as impermissible on the ground that it is intended to avoid tax. The permissibility of a legitimate attempt to reduce the tax burden is indeed approved even in Ramsay's case [1981] 2 WLR 449 (HL). The scheme which became the subject-matter of scrutiny in Ramsay's case which consisted of a number of steps to be carried out, documents to be executed, was found ultimately to result in neither gain or loss. The effect of the scheme was summarised by Lord Wilberforce at page 455 of [1981] 2 WLR as follows :
+"In each case two assets appear like particles in a gas chamber with opposite charges one of which is used to create the loss, the other of which gives rise to an equivalent gain which prevents the tax payer from supporting any real loss, and which gain is intended not to be taxable. Like the particles these assets have a very short life. Having served their purpose, they cancel each other out and disappear. At the end of the series of operations, the taxpayer's financial position is precisely what it was at the beginning, except that he has paid a fee, and certain expenses, to the promoter of the scheme."
+93. After referring to the decision in IRC v. Duke of Westminster [1936] AC 1 (HL), Lord Wilberforce pointed out that the well-known principle which flowed from that decision that " given that a document or transaction is genuine, the court cannot go behind it to some supposed underlying substance, is not to be overstated or overextended". The approach to be made in respect of such documents was set out by Lord Wilberforce as follows (p. 457 of [1981] 2 WLR) :
+"While obliging the court to accept documents or transactions, found to be genuine, as such, it does not compel the court to look at a document or a transaction in blinkers, isolated from any context to which it properly belongs. If it can be seen that a document or transaction was intended to have effect as part of a nexus or series of transactions, or as an ingredient of a wider transaction intended as a whole, there is nothing in the doctrine to prevent it being so regarded : to do so is not to prefer form to substance, or substance to form. It is the task of the court to ascertain the legal nature of any transaction to which it is sought to attach a tax or a tax consequence and if that emerges from a series or combination of transactions, intended to operate as such, it is that series or combination which may be regarded. For this there is authority in the law relating to income-tax and capital gains tax : see Chinn v. Collins [1981] 2 WLR 14 and Inland Revenue. Commissioners v. Plummer [1980] AC 896)."
+94. Lord Wilberforce, while dealing with the limitations of the Westminster doctrine, referred to the decision in IRC v. Plummer [1980] AC 896, in which the House of Lords affirmed the finding of the Special Commissioners that the transaction in question in that case was a bona fide commercial transaction and that it was legitimate to have regard to all the arrangements as a whole. In the earlier part of the judgment, Lord Wilberforce had set out certain principles which flowed from the earlier decisions and one of the principles stated by him was as follows (p. 456 of [1981] 2 WLR) :
+"A subject is entitled to arrange his affairs so as to reduce his liability to tax. The fact that the motive for a transaction may be to avoid tax does not invalidate it unless a particular enactment so provides. It must be considered according to its legal effect.
+It is for the fact-finding commissioners to find whether a document, or a transaction, is genuine or a sham. In this context, to say that a document of transaction is a 'sham' means that while professing to be one thing, it is in fact something different. To say that a document or transaction is genuine, means that, in law, it is what it professes to be, and it does not mean anything more than that."
+95. With regard to these principles, Lord Wilberforce undoubtedly pointed out that these principles did not exclude the new approach, but what is important is that the new approach was applicable in a case where the tax consequence emerged from a series of transactions and all those transactions had to be considered to see whether they were entered into only as a part of a scheme of tax avoidance. In Ramsay's case [1981]2 WLR 449 (HL), all the transactions which were part of a scheme were regarded together and Lord Wilberforce found that from the beginning they were designed to produce neither gain nor loss. As pointed out by Lord Fraser at page 470, the taxpayer in the two cases before the House of Lords bought a complete scheme for which he paid a fee and thereafter he was not required to produce any more money, although large sums of money were credited and debited to him in the course of the complicated transactions required to carry out the scheme. It was pointed out that throughout the whole series of transactions, the money was kept within a closed circuit from which it could not escape.
+96. The principle that up to a particular stage, a scheme of tax avoidance is acceptable within limits was recognised by Lord Scarman in Furniss v. Dawson [1984] 1 All ER 530 (HL). Lord Scarman observed (p. 533) :
+"What has been established with certainty by the House in Ramsay's case is that the determination of what does, and what does not, constitute unacceptable tax evasion is a subject suited to development by judicial process. The best chart that we have for the way forward appears to me, with great respect to all engaged on the map-making process, to be the words of Lord Diplock in IRC v. Burmah Oil Co. Ltd. [1982] Simon's Tax Cases 30 at page 32 which my noble and learned friend, Lord Brightman, quotes in his speech. These words leave space in the law for the principle enunciated by Lord Tomlin in IRC v. Duke of Westminster [1936] AC 1 at 19; [1935] All ER rep. 259 at 267 that every man is entitled if he can to order his affairs so as to diminish the burden of tax. The limits within which this principle is to operate remain to be probed and determined judicially. Difficult though the task may be for judges, it is one which is beyond the power of the blunt instrument of legislation. Whatever a statute may provide, it has to be interpreted and applied by the courts; and ultimately it will prove to be in this area of judge-made law that our elusive journey's end will be found."
+97. The difference between the approach in Westminster's case [1936] AC 1 in which there was only one transaction in question and Ramsay's case [1981] 2 WLR 449 (HL) where there were a series of interdependent transactions designed to produce a given result, was referred to by Lord Bridge and the departure from Westminster's case was put by Lord Bridge as follows at page 535 :
+"When one moves, however, from a single transaction to a series of interdependent transactions designed to produce a given result, it is, in my opinion, perfectly legitimate to draw a distinction between the substance and the form of the composite transaction without in any way suggesting that any of the single transactions which make up the whole are other than genuine. This has been the approach of the United States federal courts enabling them to develop a doctrine whereby the tax consequences of the composite transaction are dependent on its substance, not its form. I shall not attempt to review the American authorities, nor do I propose a wholesale importation of the American doctrine in all its ramifications into English law. But I do suggest that the distinction between form and substance is one which can usefully be drawn in determining the tax consequences of composite transactions and one which will help to free the courts from the shackles which have for so long been thought to be imposed on them by Westminster's case."
+98. The approach to be adopted in a case of tax avoidance was restated by Lord Brightman in the concluding part of the judgment when the learned law Lord observed as follows at page 543 :
+"But for my part I have no doubt that the correct approach in this type of case, where inferences have to be drawn, is for the commissioners to determine (infer) from their findings of primary fact the further fact whether there was a single composite transaction in the sense in which I have used that expression, and whether that transaction contains steps which were inserted without any commercial or business purpose apart from a tax advantage, and for the appellate court to interfere with that inference of fact only in a case where it is insupportable on the basis of the primary facts so found."
+99. It, therefore, appears to us that the decision in McDowell's case  and the English decisions which adopted a new approach in the case of a scheme consisting of several transactions, does not rule out a transaction which is real and genuine from being ignored merely on the ground that it results in reducing the tax burden. Where there is a commercial or a business purpose in a transaction which only means that a transaction has the result of reducing the tax burden as a result of a real deprivation of income as in the case of a family partition, that transaction would, in our view, be a permissible attempt for reducing the tax burden.
+100. Therefore, even applying the ratio of McDowell's case , if a partial partition has to be rejected on the ground that it is a dubious device to reduce the tax burden, it would not be permissible to reject the partial partition without making any enquiry as to the genuineness or otherwise of the partial partition. It is also to be borne in mind that the right to ask for a partial partition is the right of the individual member of the Hindu undivided family. Where an individual member of a Hindu undivided family exercises his legal right to have a partial partition effected in respect of some property belonging to the Hindu undivided family, the said partition cannot be termed as a device adopted by the Hindu undivided family which is the assessee. The right to partial partition being inherent in the member of the Hindu undivided family, the Hindu undivided family has no right to resist the demand for a partial partition and, therefore, the Hindu undivided family as an assessee cannot be charged with resorting to a dubious device for the purposes of tax avoidance. It is, therefore, abundantly clear that the validity of
+section 171(9)
+cannot be sustained on the ground that it is a measure to counteract the tendency to tax avoidance. Consequently, inasmuch as the income which does not belong to the Hindu undivided family but in fact and in law belongs to a member of the Hindu undivided family consequent upon a partial partition, is brought to tax in the hands of the Hindu undivided family, the provision in
+section 171(9)
+, in our view, necessarily suffers from legislative incompetence.
+101. There is one more aspect of the question which requires to be noticed.
+Section 171(9)
+refers to a partial partition which has taken place among the members of a Hindu undivided family "hitherto assessed as undivided". The bar of sub-section (9), therefore, operates only in respect of a partial partition among the members of a Hindu undivided family which was an assessee prior to the assessment year 1980-81 if the partition has taken place after December 31, 1978. That bar, however, does not operate if there is a partial partition among members of a Hindu undivided family which is not an assessee for the assessment year 1980-81. In a case where the Hindu undivided family is not assessed to any tax prior to the assessment year 1980-81, a partial partition between members of such a family, even if it takes place after December 31, 1978, would be permissible and outside the mischief of
+section 171(9)
+. In the case of such a partition the income of a member of a Hindu undivided family which accrues to him as a result of a partial partition effected even after December 31, 1978, if taxable, will be taxed only in the hands of the said individual member, and not in the hands of the Hindu undivided family. There is no rationale behind treating the two sets of the Hindu undivided families, one, which was an assessee prior to the assessment year 1980-81, and the other which is not an assessee and becomes an assessee after the assessment year 1980-81 differently in so far as the partial partition and the income of the separated member from the property which he acquires as a result of the partial partition are concerned. On this ground also, we are of the view that
+section 171(9)
+suffers from invalidity on the ground of discrimination and arbitrariness and must, therefore, be declared as void.
+102. We accordingly hold that
+section 171(9)
+of the Income-tax Act, 1961, suffers from legislative incompetence and is also void on the ground of violation of
+article 14
+of the Constitution of India.
+103. For the purpose of clarity, we summarise our conclusions as follows :
+(1)
+Section 171(9)
+of the Income-tax Act, 1961, cannot be sustained on the ground that it is a measure to counteract the tendency to tax avoidance and it suffers from legislative incompetence.
+(2)
+Section 171(9)
+of the Income-tax Act, 1961, is also void on the ground of violation of
+article 14
+of the Constitution of India.
+(3)
+Section 171(9)
+of the Income-tax Act, 1961, entrenches upon the charging provision in
+section 4
+of the Income-tax Act, 1961, and purports to bring to charge the income which does not belong to the Hindu undivided family to be assessed in the hands of the Hindu undivided family. The provision thus enlarges the scope of
+sections 4
+and
+5
+of the Act and is, therefore, invalid.
+(4)
+Section 171(9)
+of the Income-tax Act, 1961, has the effect of fastening a penal liability on the Hindu undivided family when in fact, in the case of a partial partition, the liability for concealment of income is that of the member of the Hindu undivided family who earned the income in his own right and not of the Hindu undivided family.
+(5) The effect of
+section 171(9)
+of the Income-tax Act, 1961, is that it virtually negatives the right of partition under the personal law only in certain cases of partition after December 31, 1978, and there is no valid basis or justification for treating Hindu undivided families separately in a hostile manner with reference to the date December 31, 1978, the choice of the date being clearly arbitrary.
+(6) The operation of
+section 171(9)
+of the Income-tax Act, 1961, is restricted only to cases where a claim in respect of a partial partition which is effected after December 31, 1978, is made for the first time in the assessment year 1980-81.
+(7) The provisions of
+section 171(9)
+of the Income-tax Act, 1961, will not fasten any liability in respect of a partial partition which has already been recognised in the assessment year 1979-80, and a finding recorded in respect of such a claim for the assessment year 1979-80 will not be affected by the invalidating provision in clause (a) of sub-section (9) of
+section 171
+of the Act.
+104. Having regard to the aforesaid conclusions, we proceed to dispose of the individual writ petitions as follows :
+W.Ps. Nos. 992 and 993 of 1981. - These writ petitions are allowed and the notice of demand made under
+section 156
+of the Income-tax Act. 1961, on the footing that the claim for partial partition is not allowed as the partial partition took place after December 31, 1978, is quashed. The assessment under the
+Wealth-tax Act
+for the year 1979-80 is also quashed. We may also state that so far as these two writ petitions are concerned, learned counsel for the Revenue was fair enough to concede that the writ petitions should be allowed.
+W.P. No. 162 of 1983. - This writ petition is allowed and the notices and the reassessment made under
+section 147(b)
+of the Income-tax Act, 1961, and the consequent notices of demand for the assessment years 1980-81 and 1981-82 dated October 29, 1982, after derecognising the partial partition are quashed.
+W.P. No. 6036 of l983. - This writ petition is allowed and the order of the Income-tax Officer rejecting the claim of the assessee for recognition of the partial partition in view of the provisions of
+section 171(9)
+of the Act is quashed.
+W.Ps. Nos. 904 to 906 of 1984. - These writ petitions are allowed and the notices for rectification under
+section 154
+of the Income-tax Act, 1961, are quashed.
+W.Ps. Nos. 994, 995 and 5430 of 1984. - These writ petitions are allowed and the notices issued under
+section 147(b)
+of the Income-tax Act, 1961, impugned in W.Ps. Nos. 994 and 995 of 1984 are quashed and the assessment proceedings for the year 1981-82 are quashed.
+W.P. No. 6162 of 1984. - This writ petition is allowed and the impugned assessment order is quashed.
+W.P. No. 9283 of 1984. - This writ petition is allowed and the petitioner is granted a declaration that the provisions of
+section 171(9)
+of the Income-tax Act, 1961, are unconstitutional.
+105. In the circumstances of the case, we make no order as to costs in these writ petitions.

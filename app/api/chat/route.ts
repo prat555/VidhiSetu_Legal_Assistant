@@ -1,81 +1,77 @@
-import { GoogleGenerativeAI } from '@google/generative-ai';
 import { NextRequest, NextResponse } from 'next/server';
 
-const genAI = new GoogleGenerativeAI(process.env.GEMINI_API_KEY || '');
+const RAG_SERVICE_URL = process.env.RAG_SERVICE_URL || 'http://127.0.0.1:8002';
+const RAG_FALLBACK_URL = process.env.RAG_SERVICE_FALLBACK_URL || 'http://localhost:8000';
 
-const SYSTEM_PROMPT = `You are an expert legal assistant specializing in Indian law. Your role is to:
+interface RagChatRequest {
+  message: string;
+  session_id?: string;
+}
 
-1. Provide accurate information about Indian legal matters, including:
-   - Constitutional law
-   - Criminal law (IPC, CrPC, etc.)
-   - Civil law
-   - Corporate law
-   - Family law
-   - Property law
-   - Consumer rights
-   - Labor law
-
-2. Help users understand legal concepts in simple, accessible language
-3. Guide users on legal procedures and documentation
-4. Suggest when professional legal consultation is necessary
-5. Provide relevant case law references when applicable
-6. Always mention that your advice is informational and not a substitute for professional legal counsel
-
-Remember:
-- Be precise and cite relevant sections of Indian laws when applicable
-- Use simple language to explain complex legal concepts
-- Always remind users to consult with a qualified lawyer for specific legal matters
-- Be empathetic and professional
-- If uncertain about something, acknowledge it and suggest consulting a legal professional`;
+interface RagChatResponse {
+  answer: string;
+  sources: string[];
+  cached: boolean;
+}
 
 export async function POST(req: NextRequest) {
   try {
     const { messages } = await req.json();
 
-    if (!process.env.GEMINI_API_KEY) {
+    if (!messages || messages.length === 0) {
       return NextResponse.json(
-        { error: 'Gemini API key not configured' },
-        { status: 500 }
+        { error: 'No messages provided' },
+        { status: 400 }
       );
     }
 
-    // Use Gemini 2.5 Flash - latest stable version with excellent performance
-    const model = genAI.getGenerativeModel({ 
-      model: 'models/gemini-2.5-flash',
-    });
-
-    // Format conversation history
-    const chatHistory = messages.slice(0, -1).map((msg: any) => ({
-      role: msg.role === 'user' ? 'user' : 'model',
-      parts: [{ text: msg.content }],
-    }));
-
     const lastMessage = messages[messages.length - 1].content;
 
-    // Start chat with history
-    const chat = model.startChat({
-      history: [
-        {
-          role: 'user',
-          parts: [{ text: SYSTEM_PROMPT }],
-        },
-        {
-          role: 'model',
-          parts: [{ text: 'Understood. I am ready to assist with Indian legal matters. I will provide accurate information, explain concepts clearly, and always remind users to consult with qualified lawyers for specific legal advice. How may I help you today?' }],
-        },
-        ...chatHistory,
-      ],
-      generationConfig: {
-        maxOutputTokens: 2048,
-        temperature: 0.7,
-      },
+    if (!lastMessage || typeof lastMessage !== 'string') {
+      return NextResponse.json(
+        { error: 'Invalid message format' },
+        { status: 400 }
+      );
+    }
+
+    const ragUrls = [RAG_SERVICE_URL, RAG_FALLBACK_URL];
+    let data: RagChatResponse | null = null;
+    let lastError = '';
+
+    for (const baseUrl of ragUrls) {
+      try {
+        const ragResponse = await fetch(`${baseUrl}/api/legal-chat`, {
+          method: 'POST',
+          headers: {
+            'Content-Type': 'application/json',
+          },
+          body: JSON.stringify({
+            message: lastMessage,
+          } as RagChatRequest),
+        });
+
+        if (!ragResponse.ok) {
+          const errorData = await ragResponse.text();
+          lastError = `${baseUrl} -> ${ragResponse.status}: ${errorData}`;
+          continue;
+        }
+
+        data = (await ragResponse.json()) as RagChatResponse;
+        break;
+      } catch (error: any) {
+        lastError = `${baseUrl} -> ${error?.message || 'request failed'}`;
+      }
+    }
+
+    if (!data) {
+      throw new Error(`RAG service failed on all endpoints. Last error: ${lastError}`);
+    }
+
+    return NextResponse.json({
+      message: data.answer,
+      sources: data.sources,
+      cached: data.cached,
     });
-
-    const result = await chat.sendMessage(lastMessage);
-    const response = await result.response;
-    const text = response.text();
-
-    return NextResponse.json({ message: text });
   } catch (error: any) {
     console.error('Error in chat API:', error);
     return NextResponse.json(

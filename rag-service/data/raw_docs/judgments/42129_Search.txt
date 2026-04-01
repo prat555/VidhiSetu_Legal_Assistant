@@ -1,0 +1,204 @@
+Title: Search
+Court: High Court
+Date: 43 and 1943
+Citation: citations: [1962]46ITR442(P&H)
+Source: https://indiankanoon.org/doc/42129/
+
+[Cites
+38
+, Cited by
+10
+]
+Punjab-Haryana High Court
+Seth Harish Chandra vs Union Of India. on 28 March, 1961
+Equivalent citations: [1962]46ITR442(P&H)
+JUDGMENT
+The only question for decision in this case is whether the present suit is barred by the provisions of
+section 67
+of the Indian Income-tax Act, 1922.
+Messrs. Model Food Dehydrating Company, Shidipura, Delhi, admittedly an unregistered firm, was assessed to income-tax for the assessment year 1942-43 and 1943-44 by the income-tax authorities on 28th February, 1947, and 25th March, 1948, vide assessment orders exhibits D-1 and D-2, respectively. In these assessment orders Sohan Mal Golcha was shown as one of the partners of this firm. The tax due from this firm for these two assessment years was Rs. 1,34,486-10-0. All the partners of the firm being jointly and severally liable for this tax, the Income-tax Officer issued the recovery certificate asking the Special Assistant Collector, Delhi, to recover this amount from Sohan Mal Golcha. Thereupon, Sohan Mal Golcha filed the writ petition under
+article 226
+of the Constitution of India challenging this recovery in the Punjab High Court at Simla, and the same was dismissed on 30th July, 1951. Thereafter, he moved the Supreme Court by a petition under
+article 32
+of the Constitution of India, which was also dismissed on 11th November, 1952. After giving the required notice under
+section 80
+, Civil Procedure Code, the present suit was filed by him against the Union of India on 15th September, 1953, for a declaration that the plaintiff not being a partner of the assessee firm could not be proceeded against for the recovery of the tax. In this suit he also claimed an injunction restraining the defendant from demanding or recovering the said tax from him. In the alternative, declaration was claimed that the assessment and recovery proceedings, in so far as they affected him, were illegal, ultra vires, collusive and mala fide and were, consequently, ineffective and inoperative against him.
+A preliminary objection was taken by the defendant that the suit was barred under the provisions of
+section 67
+of the Indian Income-tax Act. This objection found favour with both the courts below and the suit was, consequently, dismissed.
+It may be mentioned that Sohan Mal Golcha died during the pendency of the litigation before the lower appellate court and his son, Harish Chander Golcha, was substituted in his place as his legal representative and he has filed the present second appeal in this court.
+Learned counsel for the appellant strenuously urged that the present suit was not for setting aside or modifying any assessment made under this Act and was, therefore, not barred by the provisions of
+section 67
+of the Act. He further submitted that the assessment orders passed by the income-tax authorities were without jurisdiction so far as Sohan Mal Golcha was concerned, because (a) he was not served in his capacity as a partner of this firm with a notice under
+section 20(2)
+/
+34
+of the Act since the same was sent to the firm "care of" him and, in fact, also he was not a partner of this firm, and (b) in any case, no assessment could be made one year beyond the date of the alleged service of this notice and such an assessment could not be called "an assessment made under the Act". He also urged that no notice of demand under
+section 29
+of the Income-tax Act having been served on the appellant, no recovery proceedings could have been taken against him. He also contended that the assessment orders passed by the income-tax authorities were mala fide, fraudulent and collusive because Shri Bhagwan, one of the partners of the firm, had made misrepresentations to the income-tax authorities and got these orders of assessment passed against the appellant fraudulently and as such the civil courts had jurisdiction to try the suit. For the determination of the question of the maintainability of the suit, only his allegations in the plaint had to be seen. Lastly, the leaned counsel submitted that the honble judges of the Supreme Court, while disposing of the writ petition, had observed that the proper remedy of the appellant was to file a regular suit.
+Section 67
+lays down :
+"No suit shall be brought in any civil court to set aside or modify any assessment made under this Act, and no prosecution, suit or other proceeding shall lie against any officer of the Government for anything in good faith done or intended to be done under this Act."
+A bare reading of this section would show that the civil courts cannot entertain any suit in which the relief claimed is the setting aside or modification of any assessment order made under the Act. The contention of the appellant that the present suit was not for setting aside or modifying the assessment orders is not correct, because, in reality, if his suit is decreed, the result would be that the assessment orders passed against him would have to be set aside. Though in form the relief claimed does not profess to modify or set aside the assessment, in substance, it does. As such, the provisions of
+section 67
+of the Act would be attracted and the suit would be barred.
+As regards the contention that the assessment orders were without jurisdiction on the grounds mentioned above, there is no force in the same because the income-tax authorities by virtue of the provisions of
+section 3
+,
+23(5)
+,
+26
+and
+44
+of the Income-tax Act are authorised to determine the partners of the assessee firm and fix their liability.
+The procedure regarding service of notices is given in
+section 63
+of the Act. It was for the income-tax authorities to see whether proper service had been effected or not. Besides, the appellant himself has produced notices under
+section 22(4)
+and
+37
+of the Act, dated 24th January, 1948, and 5th February, 1945, which were addressed to him. Moreover, the assessment orders show that, according to the income-tax authorities, the appellant was duly served and assessed to income-tax as a partner of the firm, after making the necessary enquiries.
+The procedure regarding the income escaping assessment is given in
+section 34(3)
+of the Act and the income-tax authorities are empowered to make the assessment within the period prescribed in this section. It may also be mentioned that this point was not argued before the learned Senior Subordinate Judge, as would be clear from paragraph 6 of his judgment.
+Thus, it would be seen that the income-tax authorities were authorised to deal with all these matters. If the Income-tax Officer had, according to the appellant, made some mistakes in arriving at a decision either on fact or in law on any of these points, he could go up in appeal to the higher authorities provided under the Act, in which effective and appropriate machinery is provided for the review of any assessment. It cannot be said that where an assessment is erroneous or wrong, a suit can be brought in the civil courts to set aside or modify the assessment.
+There is no merit in the contention that the assessment made by the income-tax authorities could not be called "an assessment made under the Act" because the meaning of the phrase "assessment made under this Act" is :
+"... an assessment finding its origin in an activity of the assessing officer acting as such.... The phrase describes the provenance of the assessment : it does not relate to its accuracy in point of law. The use of the machinery provided by the Act, not the result of that use, is the test (vide
+Raleigh Investment Co. Ltd. v. Governor-General
+in Council).
+Regarding the contention that no demand notice was issued under
+section 29
+of the Act, it may be mentioned that this objection was not raised in any of the courts below. It has not even been taken in the grounds of appeal filed in this court. Besides, under
+section 63(2)
+of the Act, a notice under the Act could be addressed to any member of the firm. Moreover, this matter could also be agitated by the appellant before the higher authorities provided under the Act. The jurisdiction of the civil courts cannot be invoked for the purpose of correcting procedural irregularities committed by the income-tax authorities in the assessment and recovery proceedings under the Act. For this purpose, the aggrieved party should knock at the door of the higher authorities provided under the Act itself. It cannot be said that such like irregularities would make the orders of the authorities without jurisdiction. Even if the income-tax authorities make mistakes either on fact or in law, the proper forum for curing the defects is the one provided under the Act itself. It is not where there is inherent lack of jurisdiction or the provisions of the Act itself are alleged to be ultra vires of the Constitution that a litigant can go to the civil court and seek redress of his grievance.
+As regards the contention that the impugned assessment orders passed by the income-tax authorities were mala fide, fraudulent and collusive, this point also does not seem to have been raised before the lower appellate court though it was urged before the trial court and the finding on the same was against the appellant. Reliance for this submission was made on a full bench decision in Lahore Electric Supply Co. Ltd. v. Province of Punjab. That case, however, is distinguishable because there an executive order under the
+Defence of India Act
+was sought to be challenged in the civil court. Unlike the Income-tax Act, no elaborate machinery by way of appeal, revision, etc., for the redress of grievances was provided under the
+Defence of India Act
+. In the present case, the appellant could file an appeal before the income-tax authorities and could agitate this point there. His remedy does not lie by way of a suit in a civil court.
+Even if the allegations in the plaint are seen as alleged by the learned counsel for the appellant, I am of the view that this is not a case which should be tried by a civil court. All the points raised by the plaintiff appellant should have been agitated before the higher authorities provided under the Act itself. In case he was still dissatisfied with their decision on any point of law, he could ask the Appellate Tribunal to refer the question of law to the High Court under
+section 66
+of the Act.
+Regarding the last contention, no copy of the judgment of the Supreme Court has been produced on the record to show that the learned judges had directed the appellant to file the present suit. Moreover, this point also was not taken in any of the courts below.
+Learned counsel for the appellant submitted that the case of
+Raleigh Investment Co. Ltd. v. Governor-General
+in Council, on which reliance had been placed by both the courts below, did not lay down good law after the coming into force of the provisions of
+article 265
+of the Constitution, which says that no tax shall be levied or collected except by authority of law.
+In this connection, he cited a number of authorities, but mainly relied on State on
+State of Tripura v. Province of East Bengal
+;
+Himmatlal Harilal Mehta v. State of Madhya Pradesh
+and
+S. C. Prashar v. Vasantsen Dwarkadas
+.
+In the
+State of Tripura v. Province of East Bengal
+it was held that where a person had been served with a notice calling for a return of income, it was open to him to file a suit for a declaration that the provision of law, under which he was sought to be assessed, was ultra vires and void and for a perpetual injunction to restrain the State and the taxing authority from taking any steps to assess him. In this case, the decision of the Privy Council in the case of Raleigh Investment Co. Ltd. was distinguished and it was held that such a suit was not a suit to set aside or modify an assessment, because no assessment had yet been made when the suit was instituted.
+The decision of the Supreme Court, it is true, has considerably whittled down the effect of the Privy Council decision in
+Raleigh Investment Co. Ltd.s
+case because, according to the learned judges, a suit could be filed in a civil court if illegal and unauthorised assessment proceedings were started against the plaintiff by the income-tax authorities. It may, however, be mentioned that the rule of law
+laid down by
+the Supreme Court does not help the appellant as the facts of the instant case are clearly distinguishable.
+Himmatlal Harilal Mehta v. State of Madhya Pradesh
+was a case in which Explanation II to section 2(g) of the Central Provinces and Berar Sales Tax Act (21 of 1947), as amended by Act 15 of 1949, was challenged by a writ petition as being ultra vires the State Legislature and the learned judges of the Supreme Court did not follow
+Raleigh Investment Co. Ltd.s
+case. The rule of law
+laid down in
+Raleigh Investment Co. Ltd.,s case had been modified to this extent, that a person who challenges the vires of the Act, under which action is taken by the authorities, can file a writ petition and is not bound to use the machinery expressly provided under the Act for this purpose. It may again be mentioned that this authority does not apply to the facts of the present case.
+In
+S. C. Prashar v. Vasantsen Dwarkadas
+no assessment had yet been made, but only a notice under
+section 34
+of the Income-tax Act for filing a return had been issued and the assessee, immediately on the receipt of the notice, challenged the competency of the authority of the Income-tax Officer to take any assessment proceedings pursuant to that notice by means of a writ petition in the High Court.
+In this authority,
+Raleigh Investment Co. Ltd.s
+case was distinguished and reliance was placed on
+State of Tripura v. Province of East Bengal
+for holding that an illegal threat to assessment could be challenged otherwise than by the machinery provided by the
+Income-tax Act
+. It would be seen, therefore, that this case also does not help the appellant.
+In support of his other submissions, learned counsel for the appellant further relied on
+Johilla Coalfields Co. Ltd. v. Commissioner of Income-tax
+,
+Moti Lal Purshottam Das v. Income-tax Officer
+,
+Kanpur, T. Govindaswamy v. Income-tax Officer
+, Special Survey Circle, Bangalore, Kailash Nath v. State of U. P., Sardara Singh v. Custodian,
+Muslim Evancuees Property and Rayalseema Constructions v. Deputy Commercial Tax Officer, Mannady Division, Madras
+.
+In
+Johilla Coalfields Co. Ltd. v. Commissioner of Income-tax
+, it was held that the original assessment was invalid since it was not made within one year from the date of the service of the notice. It would be seen that this decision was given by the High Court on a reference under
+section 66(1)
+of the Income-tax Act and the question of filing a suit in a civil court regarding this matter was not involved in this authority and as such it has no application to the facts of the present case.
+In
+Moti Lal Purshottam Das v. Income-tax Officer
+,
+Kanpur and T. Govindaswamy v. Income-tax Officer, Special Survey Circle, Bangalore
+, it was held that no recovery proceedings could be taken against a person under the
+Income-tax Act
+unless first a notice of demand was served on that person.
+These authorities are distinguishable on the ground that the notice of demand in the instant case was, at any rate, given to one partner of the firm and such a notice was tantamount to a notice served on the other partners by reason of
+section 63
+of the Act and the other partners would be "assessees in default" within
+section 46(1)
+of the Act and amount of tax and penalty due from them would be "arrears" within
+section 46(2)
+of the Act (vide
+E. M. Muthappa Chettiar v. Income-tax Officer, Special Circle, Coimbatore
+). Moreover, these decisions were given in writ petitions and not in a regular suit like the present one.
+In
+Kailash Nath v. State of U. P.
+it was observed that if a tax was levied without due legal authority on any trade or business, it was open to the citizen aggrieved to approach the Supreme Court for a writ under
+article 32
+of the Constitution, since his right to carry on a trade was violated or infringed by the imposition and such being the case,
+article 19(1)(g)
+of the Constitution came into play. This has nothing to do with the facts of the present case.
+In Sardara Singh v. Custodian, Muslim Evacuees Property it was held as under :
+"Though a Custodian of evacuee property appointed under the Act cannot be described as a court of law, his functions are quasijudicial and it is incumbent upon him to follow the provisions of law as well as the rules that have the force of law. Consequently, when he ignores a mandatory rule, that is, rule 14(4) and cancels or varies and allotment without giving notice to the persons likely to be affected by his order, he acts without jurisdiction and his order must be quashed under
+article 226
+of the Constitution."
+This authority has no application to the facts of the present case.
+In
+Rayalseema Constructions v. Deputy Commercial Tax Officer, Mannady Division, Madras
+it was held :
+"Laws have to be worked through human agency, and men are liable to err. The Constitution does not guarantee that the persons employed to administer the law will not make mistakes when exercising the powers conferred on them. If they make mistakes in the exercise of their powers, the persons affected must ordinarily use the remedies of appeal, reference or revision, as the case may be. But, where there is an absence of jurisdiction, the situation is materially altered. And, it would not make any difference whether the absence of jurisdiction arises out of an attempt to usurp jurisdiction or because the officer has through ignorance or otherwise strayed beyond the limits of his jurisdiction. In relation to a tax, where an assessing officer acts outside the boundaries of his jurisdiction, his acts would to that extent be null and void. No one would have any power to call upon a citizen to make payment of a tax so imposed and, if any authority seeks to collect a tax so imposed, the citizen can call in aid
+article 265
+and seek the assistance of the High Court."
+It is clear that the question of filing a suit in a civil court was not involved in this authority.
+In may be mentioned that no authority has been cited by the learned counsel for the appellant in which it was held that in similar circumstances a suit could be filed by the aggrieved party in a civil court. It is beyond dispute that the powers of the Supreme Court and the High Courts in matters of issuing writs in exercise of their special jurisdiction are very wide. From this, it does not follow that the civil courts have got the jurisdiction to try all suits, including those the jurisdiction of which has been specifically or impliedly taken away by any statute.
+Learned counsel for the respondent, on the other hand, inter alia, relied on
+Kalwa Devadatham v. Union of India
+, Secretary of State for India v. V. M. Meyyappa Chettiar and
+C. A. Abraham v. Income-tax Officer, Kottayam
+.
+In
+Kalwa Devadatham v. Union of India
+it was held :
+"If the assessee has failed to pursue the remedies provided in the
+Income-tax Act
+against an assessment he cannot resort to a civil court for questioning the correctness of that assessment.
+In Secretary of State for India v. V. M. Meyyappa Chettiar also it was held :
+"In respect of matters which the
+Income-tax Act
+has left to be determined by the Income-tax authorities their decision cannot be questioned by a suit in the civil court.
+The plaintiff who was assessed to income-tax in British India on the income received by him from his business in Saigon (Burma) instituted a suit for a declaration that he was not liable to be assessed under the
+Indian Income-tax Act
+inasmuch as he was not a resident of British India but was permanently residing in French territory when the income accrued to him. The income-tax authorities had found after proper inquiry that he was residing in British India during the period in question and had assessed him to income-tax accordingly : Held, that the assessing authorities had power to determine the question whether the plaintiff resided in British India, and as they had found after due enquiry that he was a resident of British India, the civil court had no jurisdiction to entertain the suit. Held, further, that the fact that the assessee had been assessed under
+section 23(4)
+and had no other remedy would not give him a right to maintain a suit of this nature in the civil court."
+It was also observed at page 344 :
+"............it seems to me unwarranted to assume that in all cases in which a prerogative writ can, according to those observations, issue from a superior court, there must also exist a right of civil suit in the ordinary courts of the land."
+On the very page, the learned judges approved of the following observations :
+"In Reg. v. Bolton, which is referred to with approval in L.R. 5 P.C. at page 443 and numerous later decisions, it was observed that the test of jurisdiction (for this purpose) was whether or not the authority in question had power to enter upon the enquiry, no whether its conclusions in the course of it were true or false."
+In
+C. A. Abraham v. Income-tax Officer, Kottayam
+, their Lordships of the Supreme Court held :
+"
+The Income-tax Act
+provides a complete machinery for assessment of tax and imposition of penalty and for obtaining relief in respect of any improper order passed by the income-tax authorities. The tax-payer cannot be permitted to abandon resort to that machinery and to invoke the jurisdiction of the High Court under
+article 226
+of the Constitution when he has adequate remedy open to him by way of an appeal to the Appellate Tribunal."
+In view of what I have said above, I would dismiss this appeal. In the peculiar circumstances of this case, however, I would leave the parties to bear their own costs throughout.
+Appeal dismissed.

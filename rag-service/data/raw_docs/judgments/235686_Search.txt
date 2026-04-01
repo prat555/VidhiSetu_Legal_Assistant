@@ -1,0 +1,174 @@
+Title: Search
+Court: High Court
+Date: 1 WLR 1578
+Citation: citations: (1985)ILLJ185DEL
+Source: https://indiankanoon.org/doc/235686/
+
+[Cites
+29
+, Cited by
+3
+]
+Delhi High Court
+Bank Of Maharashtra vs Om Prakash Malwaliya on 25 May, 1984
+Equivalent citations: (1985)ILLJ185DEL
+JUDGMENT
+1. This revision petition is directed against order dated 10th April, 1981, of a subordinate judge holding that the civil Court has jurisdiction to try the suit and also that the same is not liable to be dismissed as the declaration prayed for can be granted even in the absence of any prayer for a consequential relief.
+2. The facts giving rise to the present revision petition succinctly are that the respondent (plaintiff) was employed as a Daftri with the petitioner, viz., Bank of Maharashtra. He was prosecuted for an offence under Ss. 110/112/117 of the
+Bombay Police Act
+as extended to the Union Territory of Delhi and he was convicted of the same on 30th June, 1977, on his plea of guilty. A fine of Rs. 20 was imposed on him and in default of payment of fine he was sentenced to simple imprisonment for three days by the Court of a Metropolitan Magistrate, New Delhi. He filed a revision petition against his conviction and sentence which was partly allowed by Shri D. R. Khanna, Additional Sessions Judge, as his Lordship then was, vide order dated 15th November, 1977. He was given the benefit of
+Probation of Offenders' Act, 1958
+, and was simply admonished under
+S. 3
+of the said Act. In the meanwhile, the respondent was suspended on 29th June, 1977, consequent upon his arrest by the police in the aforesaid case and he was eventually dismissed from the service of the petitioner-Bank, vide memorandum dated 6th July, 1977, under the provisions of clause 19.3(b) of the first Bipartite Settlement which had been arrived at between the managements of certain banking companies including the petitioner-Bank and their workmen who were represented by the All India Bank Employees Association and All India Bank Employees Federation on 19th October, 1966. Feeling aggrieved by the order of dismissal, respondent filed an appeal to the Chairman of the petitioner-Bank but of no avail. Thereupon the respondent instituted a suit for declaration that the aforesaid order of his dismissal from service was void and inoperative on the grounds enumerated in the plaint, one such ground being that his conviction for the aforesaid offence did not involve any moral turpitude and as such clause 19.2 of the Bipartite Settlement could not be invoked to dismiss him.
+3. The suit was resisted by the petitioner-defendant, inter alia, the ground that the civil Court had no jurisdiction to try the same and it being an industrial dispute, the plaintiff could seek redress only from a Labour Court under the
+Industrial Disputes Act
+(for short, the Act). It was further contended that the plaintiff had not prayed for any consequential relief and as such the suit for mere declaration did not lie in view of the prohibition contained in the proviso to
+S. 34
+of the Specific Relief Act.
+4. The trial Court framed the following issues :
+(1) Whether this Court has no jurisdiction to try the suit as alleged in the preliminary objection No. 1 of the written statement ? OPD.
+(2) Whether the suit is liable to be dismissed in view of the preliminary objection No. 2 of the written statement ? OPD.
+As stated above, the learned Sub-Judge found both the issues in favor of the plaintiff-respondent; hence this revision petition.
+5. I have heard the counsel for the parties at length and bestowed my careful thought and consideration on the points in issue. It is common ground between the parties that the provisions of the award of the All India Industrial Tribunal presided over by Shri P. Sastry, commonly known as Sastry Award, as modified and enacted by the
+Industrial Disputes (Banking Companies) Decision Act, 1955
+, the
+Industrial Disputes Banking Companies Decision Amendment Act, 1957
+, and subsequently modified by the award of the National Industrial Tribunal presided over by Mr. Justice K. T. Desai, commonly known as Desai Award, first Bipartite Settlement dated 19th October, 1966, and the second Bipartite Settlement dated 12th October, 1970, govern the terms and conditions of the employees of the banks which were parties thereto, the petitioner-Bank being one of them. In other words, the Sastry Award as modified in its present form embodies the terms and conditions of service of the bank employees. The following clauses of the Bipartite Settlement are relevant for the purpose of this case :
+"19.1 A person against whom disciplinary action is proposed or likely to be taken shall, in the first instance, be informed of the particulars of the charge against him and he shall have a proper opportunity to give his explanation as to such particulars. Final orders shall be passed after due consideration of all the relevant facts and circumstances. With this object in view, the following shall apply :
+19.2 By the expression 'offence' shall be meant any offence involving moral turpitude for which an employee is liable to conviction and sentence under any provision of law.
+19.3 (a) When in the opinion of the management an employee has committed an offence, unless he be otherwise prosecuted, the bank may take steps to prosecuted him or get him prosecuted and in such a case he may also be suspended.
+(b) If he be convicted, he may be dismissed with effect from the date of his conviction or given any lesser form of punishment as mentioned in Clause 19.6 below.
+(c)     *         *              *               *          *  
+  (d)     *         *              *               *          *
+6. As stated above, the petitioner-bank invoked clause 19.3(b) of the Bipartite Settlement for dismissing the respondent. It is beyond the pale of controversy that the respondent is a workman as defined in the Act. It is also admitted by both the sides that by virtue of the provisions contained in
+S. 2-A
+of the Act, which introduces a legal fiction that the dispute of an individual workman connected with or arising out of his discharge, dismissal, retrenchment or termination of service by his employer will constitute an industrial dispute; notwithstanding that no other workman nor any union of workmen is a party to the dispute, the controversy between the parties must be deemed to be an 'industrial dispute'. It may be noticed here that the said provision does away with the requirement of espousal of an individual dispute for converting it into an industrial dispute in cases where the dispute arises out of (a) discharge, (b) dismissal, (c) retrenchment or (d) termination of services of an individual workman. This section was inserted by the
+Industrial Disputes (Amendment) Act, 1965
+, and as such formerly a dispute of an individual workman did not fall within the ambit of an industrial dispute but is could become one, if it was taken up by a trade union or a substantial number of workmen of the establishment. The vital question which falls for determination in the instant case, therefore, is whether despite the existence of an industrial dispute between the parties, the civil Courts would have jurisdiction to entertain and try the suit or not. Under
+S. 9
+of the Code of Civil Procedure, the Courts in India have, subject to certain restrictions, jurisdiction to try suits of civil nature excepting suits of which their cognizance is either expressly or impliedly barred.
+It is well-settled that the exclusion of jurisdiction of the civil Court is not to be readily inferred and such exclusion must be either explicitly expressed or clearly implied. The mere conferment of a special jurisdiction on a Tribunal in respect of a matter does not in itself exclude the jurisdiction of the civil Courts. However, a statute may expressly or by necessary implication bar the jurisdiction of the civil Courts in respect of a particular matter. It is equally well-settled that even if jurisdiction of Civil courts is excluded in respect of any particular matter, they still would have jurisdiction to examine into cases where the provisions of a particular statute conferring exclusive jurisdiction on a Tribunal have not been complied with or where the statutory Tribunal has not acted in conformity with the fundamental principles of natural justice (see in this connection
+Pabbojan Tea Co. Ltd. v. Deputy Commissioner, Lakhimpur
+, ).
+6.
+The Act
+does not contain any provision expressly barring the jurisdiction of the civil Courts to entertain disputes which may fall within the ambit of an "industrial dispute" or within the provisions of Chapter V-A or V-B of the Act. These Chapters specifically confer certain special rights on the workmen which are not available to them in common law or under any other statute. It is now well-settled that an adjudicatory authority under the industrial law is not bound by the contract between an industrial employer and his workmen and the Industrial Tribunals can award reinstatement of a dismissed employee, re-frame wage structure, award various allowances, fringe benefits, bonus and gratuity, etc. In such cases, civil Courts will have no jurisdiction to grant a decree for enforcing such rights. Since the Act creates certain special rights and also provides redress for the same, there can be no doubt that civil Courts will have no jurisdiction to grant a decree to enforce such rights. The difficulty, however, arises in cases where an "industrial dispute" is for the purpose of enforcing any right, obligation or liability under general law or the common law and not a right, obligation or a liability created by the industrial law. The Supreme Court has, on a review of various decision of itself and the High Courts summed up the principles applicable to the jurisdiction of the civil Court in relation to an industrial dispute in
+Premier Automobiles Ltd. v. Kamlekar Shantaram Wadke
+, (1975) 48 FJR 252, 269, as follows :
+"(1) If the dispute is not an industrial dispute, nor does it relate to enforcement of any right under the Act, the remedy lies only in the civil Court.
+(2) If the dispute is an industrial dispute arising out of a right or liability under the general or common law and not under the Act, the jurisdiction of the civil Court is alternative, leaving it to the election of the suitor concerned to choose his remedy for the relief which is competent to be granted in a particular case.
+(3) If the industrial dispute relates to the enforcement of a right or an obligation created under the Act, then the only remedy available to the suitor is to get an adjudication under the Act.
+(4) If the right which is sought to be enforced is a right created under the Act such as Chapter V-A, then the remedy for its enforcement is either S. 33C or the raising of an industrial dispute, as the case may be."
+7. However, in relation to principle 2, the Supreme Court hastened to add (at p. 270) that "there will hardly be a dispute which will be an industrial dispute within the meaning of
+S. 2(k)
+of the Act and yet will be one arising out of a right or liability under the general or common law only and not under the Act. Such a contingency, for example, may arise in regard to the dismissal of an unsponsored workman which in view of the provision of law contained in
+S. 2A
+of the Act will be an industrial dispute even though it may otherwise be an individual dispute. Civil Courts, therefore, will have hardly an occasion to deal with the type of cases falling under principle 2. Cases of industrial disputes by and large, almost invariably, are bound to be covered by principle 3 stated above."
+8. We are obviously concerned in the instant case with the applicability of principle No. 2 because the contention raised is that the dispute in the instant case, although an industrial dispute, has the general/common law as its fountain head and it does not spring from any right to liability created by the Act. The answer to this question will obviously depend upon the nature and legal character of the service conditions as embodied in the Sastry Award as modified by Bipartite Settlements, etc.
+9. The learned counsel for the petitioner has canvassed with considerable fervour that the challenge in the instant case is to the invocation of clause 19.3(b) of the Sastry Award (supra) and as such the dispute between the parties must be considered to be one arising out of the Sastry Award as modified from time to time which is binding on the parties under the Act. Thus, according to him, only a Labour/Industrial Court would be competent to grant the requisite relief. However, looking at the whole matter in proper perspective, this argument cannot be accepted. It is no doubt true that the Sastry Award as modified would be binding on the parties as embodying all the terms and conditions of service of the bank employees. However, the genesis of the provisions contained in clauses 19.2 and 19.3(b) is traceable to the mandatory provisions of law contained is
+S. 10(1)(b)(i)
+of the Banking Regulation Act, 1949, which lays down that no banking company shall employ or continue the employment of any person who is or at any time has been convicted by a criminal Court of an offence involving moral turpitude. Hence, the right/obligation of the petitioner-Bank to dismiss the respondent from service has its origin in the aforesaid statutory provisions which is imperative in its nature rather than the Sastry Award. The said provision will not be less a statutory one, merely because it is veiled in the cloak of the Sastry Award or Bipartite Agreement. Obviously, neither any Industrial Tribunal nor the parties to the Bipartite Agreement could afford to ignore the mandate of this statute as contained in
+S. 10
+of the Banking Regulation Act which specifically deals with prohibition of employment of managing agents and lays down restrictions on certain forms of employment. It may be pertinent to notice that even if the management does not wish to dismiss an employee who has been convicted of an offence involving moral turpitude, the employee cannot be continued in service of the Bank in view of the prohibition contained in S. 10(1)(b)(i) of the aforesaid Act. Looking at the matter from this angle, there is no escape from the conclusion that the industrial dispute in the instant case relates to the enforcement of a right/obligation created under the general law/
+Banking Regulation Act, 1949
+, rather than the Sastry Award as modified by Bipartite Agreement. The mere fact that the said provision has been engrafted in the Sastry Award would not make it a creature of that Award so as to have a binding force under
+S. 18(1)
+of the Act only. Hence, resort to the civil Courts cannot be held to be barred by necessary implication.
+Indeed, such a contingency has been clearly recognised by the Supreme Court in the case of an industrial dispute falling within the ambit of S. 2A as distinguished from an industrial dispute falling within the purview of
+S. 2(k)
+of the Act by way of illustration given in paragraph 24 of the judgment in
+Premier Automobiles Ltd.
+(supra).
+In this view of the matter, I am fortified by a recent decision of a Full Bench of Punjab & Haryana High Court reported as (1982) 1 SLR 663, Sukhi Ram v. State of Haryana, S. S. Sandhawalia, C.J., speaking for the Court, has observed :
+"A close reading of the aforesaid paragraph 24 in
+Premier Automobiles Ltd.
+case (supra) would show that their Lordships themselves visualised an individual industrial dispute falling under
+S. 2A
+of the Act as one in which the contingency of a resort to the civil Court would be available. They had only observed that industrial disputes within the meaning of
+S. 2(k)
+of the Act would be and large be under the Act and thus governed by principle (3). If principle (2) were to be so literally construed, then the alternate remedy visualised thereby would be rendered virtually nugatory."
+10. In this view of the matter, therefore, the respondent had the option to choose between the two alternative remedies as stated by the Supreme Court in principle (2) and he has in his wisdom chosen to seek redress from the civil Court rather than a Labour Court, even though, it is well-established by a long string of precedent that the powers of the Labour Court while deciding industrial disputes under the Act are far more extensive and wider than that of the civil Court. The civil Courts, therefore, will have jurisdiction to decide whether the dismissal of the respondent from service is in conformity with the provisions contained in clauses 19.2 and 19.3, clauses (b), of the Sastry Award as modified which as observed earlier is based upon the statutory provision contained in
+S. 10(1)(b)(i)
+of the Banking Regulation Act.
+11. The next submission made by the learned counsel for the petitioner-Bank is that the relationship of master and servant between the parties was based on contract of service and, as such, even if the dismissal of the respondent from service is wrongful, his only remedy is to claim damages for breach of contract. On the other hand, the contention of the learned counsel for the respondent is that a Nationalised Bank is an authority within the meaning of
+Art. 12
+of the Constitution of India and, as such, the employees of such a body have acquired a legal statue and the Court would be perfectly justified and legally competent to grant a declaration that the order of dismissal is void and inoperative in case it is found to be not in conformity with the terms and conditions of his service or if the basic principles of natural justice have not been complied with. The legal position with regard to the cases of dismissal of a servant was enunciated by the Supreme Court in
+Sirsi Municipality v. Cecelia Kom Francis Tellis [1973-I L.L.J.
+226] at 230 as under :
+"15. The cases of dismissal of a servant fall under three broad heads. The first head relates to relationship of master and servant governed purely by contract of employment. Any breach of contract in such a case is enforced by a suit for wrongful dismissal and damages. Just as a contract of employment is not capable of specific performance, similarly breach of contract of employment is not capable of finding a declaratory judgment of subsistence of employment. A declaration of unlawful termination and restoration to service in such a case of contract of employment would be indirectly an instance of specific performance of contract for personal services. Such a declaration is not permissible under the law of specific Relief Act.
+16. The second type of cases of master and servant arises under Industrial Law. Under that branch of law a servant who is wrongfully dismissed may be reinstated. This is a special provision under the Industrial Law. This relief is a departure from the reliefs available under the Indian Contract Act and the Specific Relief Act which do not provide for reinstatement of a servant.
+17. The third category of cases of master and servant arises in regard to the servant in the employment of the State or of public or local authorities or bodies created under statute.
+18. Termination or dismissal of what is described as a pure contract of master and servant is not declared to be a nullity, however wrongful or illegal it may be. The reason is that dismissal in breach or contract is remedied by damages. In the case of a servant of the State or of local authorities or statutory bodies, Courts have declared in appropriate cases the dismissal to be invalid if the dismissal is contrary to rules of natural justice or if the dismissal is in violation of the provisions of the statutes."
+12. This legal proposition was re-affirmed by the Supreme Court in Sukhdev Singh v. Bhagatram [1985-I L.L.J. 399]. It observed :
+"These regulations imposed obligations on the statutory authorities. These statutory authorities cannot deviate from the conditions of service. Any deviation will be enforced by legal sanction of declaration by Courts to invalidate actions in violation of rules and regulations. The existence of rules and regulations under statute is to ensure regular conduct with a distinctive attitude to the conduct as a standard. The statutory regulations in the cases under consideration give employees a statutory status and impose restrictions on the employer and the employee with no option to vary the conditions."
+13. That being the well-established legal position in respect of employment of a statutory body or a corporation as it may be called, it has to be first seen whether the petitioner which is admittedly a Nationalised Bank is an authority within the meaning of
+Art. 12
+of the Constitution or not.
+14. There is a long catena of decisions in which various Nationalised Banks have been held to be an authority within the scope of
+Art. 12.
+It is for the reason that these Nationalised Banks have been created by statute, namely, the
+Banking Companies (Acquisition and Transfer of Undertakings) Act, 1970
+. They are wholly owned by the Central Government and the provisions contained in the said Act make it abundantly clear that the Central Government exercises profound control over their policies and functioning. Moreover, it is abundantly clear from the provisions of the said Act that the Government instead of itself carrying on the business of banking, has chosen to a carry on the business through the instrumentality of the Nationalised Banks called "corresponding new banks" created by the said Act and wholly owned by the Government .... It is now well-settled that if the corporate body is but an instrumentality or agency of Government and answers the test of
+Art. 12
+then it will fall within the ambit of the expression "other authorities" and is, a "State" within the meaning or
+Art. 12 (See
+Ramana Dayaram Shetty v. International Airport Authority of India [1979-II L.L.J.
+217]).
+Reference in this context may also be made to
+Lachman Dass Aggarwal v. Punjab National Bank
+(1978) 52 FJR 306, United Commercial Bank v. V. J. Vyas, (1977) Lab IC 1013 and N. B. Shukla v. Bank or Baroda, [1979-I L.L.J. 291] in which it has been held by the High Courts of Punjab & Haryana, Calcutta and Bombay that Nationalised Banks are statutory bodies and authorities within the meaning of
+Art. 12
+of the Constitution.
+15. I am in respectful agreement with the view taken in these cases. If that be so, it would follow as a necessary corollary that the employees of the Nationalised Banks have acquired a statutory statue and an element of public employment or service has come into being. This would be abundantly clear from a perusal of
+S. 12(2)
+of the Banking Companies (Acquisition and Transfer of Undertakings) Act, 1970, which provides that every officer or other employee of an existing bank shall become, on the commencement of the Act an officer or other employee, as the case may be, of the "corresponding new bank" and shall hold his office or service in that bank on the same terms and conditions.
+S. 19
+of the said Act confers powers on the Board of Directors of a "corresponding new bank" to make regulations after consultation with the Reserve Bank of India and with the previous sanction of the Central Government, inter alia, providing for the conditions or limitations subject to which the "corresponding new bank" may appoint officers or other employees and fix their remuneration and other terms and conditions of their service. Sub-s. (3) thereof further lays down that until any regulation is made under sub-s. (1), the Articles of Associations of the existing Bank and every regulation, rule, bye-law or order made by the existing bank shall, if in force at the commencement of the Act, be deemed to be the regulations made under sub-s. (1) and shall have effect accordingly. In other words, the rules, regulations, bye-laws or orders made by the former Banks with regard to service conditions of their employees have by legal fiction acquired statutory force. An argument was, however, advanced by the learned counsel for the petitioner that the Sastry Award, as modified which embodies the terms and conditions of service of various bank employees including the petitioner, cannot by any stretch of reasoning be called a regulation, rule, bye-law or order within the meaning of sub-s. (3) of
+S. 19
+of the Banking Companies (Acquisition and Transfer of Undertakings) Act, 1970. Reliance in this connection has been placed by him on a reported decision of the Madras High Court in S. Palni v. Indian Bank [1980-I L.L.J. 187], which tends to support this view. It was held therein that "the Sastry Award as modified by the Desai Award has no statutory force and its provisions cannot be enforced by the petitioner in proceedings under S. 226 of the Constitution of India". As for the Bipartite Settlement it was observed that "the settlement is only in the nature of a decree of a civil Court, it cannot be enforced by a prerogative writ of mandamus as an instrument having the force of law".
+16. With great respect to the learned Judge, I have grave doubts about the correctness of this view inasmuch as the context in which the words "regulation, rule, bye-law or order" have been used in sub-s. (3) of
+S. 19
+would indicate that the same are not to be interpreted literally.
+In
+Lachman Dass Aggarwal
+'s case (supra) a circular letter containing terms and conditions of the service of the bank officers and employees which had been issued prior to the nationalisation of the Punjab National Bank was held to have statutory force by virtue of
+S. 19(3)
+as if it were a regulation made under
+S. 19(1)
+and (2) of the aforesaid Act. If a unilateral order made by an existing bank prior to its nationalisation could be transformed into a statutory rule/order by virtue of the said sub-section, there is no valid reason why an Industrial Award or a Bipartite Settlement which is binding on both the bank and its employees should not be deemed to have acquired statutory force. Needless to say that no regulation, rule, bye-law or order made by any existing Bank prior to its nationalisation had any statutory force. They were just in the nature of internal arrangements or terms of contract governing conditions of the service of their employees. Certainly, Sastry Award and Desai Award, which had been made by Industrial Tribunals, as modified by the Bipartite Settlement, stood on a higher pedestal.
+17. I am, therefore, of the considered view that the terms and conditions of service of the bank employees incorporated in the Sastry Award as modified acquired statutory force on the nationalisation of the petitioner-Bank and the effect of sub-s. (2) of
+S. 12
+of the Act would be that until the service of an employee is terminated or until the terms and conditions are altered by appropriate regulations by a nationalised bank, an employee of the existing bank would continue to enjoy his rights and privileges of employment on the same terms which shall be binding on the Nationalised Bank in all respects. In other words, it would be obligatory on a nationalised bank to scrupulously observe the same while terminating the services of their employees.
+18. If I am right in this view of the matter, it would as a natural corollary follow that the spectre of common law doctrine that contract of personal service cannot be specifically enforced will not haunt this branch of law. In other words, if the dismissal from service is ab initio void and inoperative, there is no question of granting reinstatement because there is no cessation of service and a mere declaration would follow that the respondent continues to be in service with all consequential benefits. It may be pertinent here to allude to the following observations of Lord Wilberforce in Malloch v. Aberdeen Corporation (1971) 1 WLR 1578, 1595 :
+"One may accept that if there are relationships in which all requirements of the observance of rules of natural justice are excluded (and I do not wish to assume that this is inevitably so), these must be confined to what have been called 'pure master and servant cases', which I take to mean cases in which there is no element of public employment or service, no support by statute, nothing in the nature of an office or a status which is capable of protection. If any of these elements exist, then, in my opinion, whatever the terminology used, and even though in some inter parties aspects the relationship may be called that of master and servant, there may be essential procedural requirements to be observed, and failure to observe them may result in a dismissal being declared to be void."
+19. This authority was quoted with approval by Mathew, J. in Sukh Dev Singh's case (supra) and this legal position seems to be well-established by now.
+20. Assuming arguendo that the terms and conditions of service of bank employees as embodied in the Sastry Award as modified have not acquired statutory force, there can be no shadow of doubt that the same are still binding on the parties and the bank must observe the same scrupulously being a statutory body while dealing with a case of public employment. As observed by Beg, J. (as His Lordship then was (in
+Sirsi Municipality
+'s case [1973-I L.L.J. 226].
+"Even where there was no specific rule on the subject like Rule 143 in the case before us, this Court has held that violation of implied rules of natural justice, in exercise of a quasi-judicial statutory power, results in a legally void decision. It was so held because the obligation to observe rules of natural justice was imperative in such a situation."
+His Lordship referred to
+State of Orissa v. Dr. (Miss) Binapani Dei
+, , 1271, in which it was held that :
+"Duty to act judicially would, therefore, arise from the very nature of the function intended to be performed, it need not be shown to be super-added. If there is power to decide and determine to the prejudice of a person, duty to act judicially is implicit in the exercise of such power ....." and His Lordship then concluded :
+"This principle would be equally applicable to local Government bodies which fall within the definition of "State" given a
+Art. 12
+of the Constitution."
+As for grant of declaratory relief in such a situation, His Lordship observed :
+"If the decision to dismiss the respondent was void and inoperative in law, there seems no reason why a declaration to that effect be not granted. ............ Damages could not wipe off the stigma attached to the record of the servant. The law requires that, before the future of the servant is allowed to be marred by a blot on the record of the servant concerned rules of natural justice must be complied with."
+Similarly, in Sukh Dev Singh's case (supra), Mathew. J., said :
+"Even assuming that the regulations have no force of law, I think since the employment under these corporations is public employment, an employee would get a status which would enable him to obtain declaration for continuance in service if he was dismissed or discharged contrary to the regulations."
+In this context, His Lordship adverted to the following principle laid down by Justice Frankfurter in Vitarelli v. Seaton, (1959) 359 US 535 at pp. 546-547 which, according to His Lordship, should govern the situation :
+"An executive agency must be rigorously held to the standards by which it professes its action to be judged .... Accordingly, if dismissal from employment is based on a defined procedure, even though generous beyond the requirements that bind such agency, that procedure must be scrupulously observed .... This judicially evolved rule of administrative law is now firmly established and, if I may add, rightly so. He that takes the procedural sword shall perish with that sword."
+Following the dictum laid down in Sukh Dev Singh's case (supra), a Division Bench of this Court held in
+A. R. Joshi v. State Bank of India
+, (1980) 56 FJR 537 at p. 540, that an employee of a statutory body (the State Bank of India in the said case) "was entitled to invoke the principle of natural justice as the manner in which the disciplinary proceedings were conducted against him left much to be desired."
+Thus, the rule of law is well-established that since termination of service affects the status of an employee in public employment, it must be in consonance with the principles of natural justice. As was said by Lord Denning in Regina v. Gaming Board for Great Britain, (1970) 2 QB 417, 430 :
+"At one time it was said that the principle only apply to judicial proceedings and not to administrative proceedings. That hereby was scotched in Ridge v. Baldwin, (1964) AC 40."
+To sum up, therefore, a suit for mere declaration that dismissal of the respondent from service is void and inoperative is maintainable and it is not necessary for the respondent to seek any consequential relief by way of damages, etc.
+C.M. No. 14 of 1984
+21. This application was made by the respondent-plaintiff under Order 6, Rule 17, read with
+S. 151
+of the Code of Civil Procedure for amendment of his plaint. He wanted to introduce paragraph 9(vii) and (viii) in the plaint by way of additional plea and aver that the impugned order of dismissal being in violation of the principles of natural justice, as he had not been afforded any opportunity for hearing, was bad in law. However, the said application was dismissed in default of appearance on 18th January, 1984. The learned counsel for the respondent again took up this matter, of course, verbally, during the course of arguments and reiterated that the proposed amendment should be allowed. As seen above, observance of minimal rules of natural justice, viz., that a man has a right to be heard before a decision adversely affecting him is taken, being imperative, this plea becomes very relevant and indeed necessary for the just decision of the case. Suffice it to say that, in order to ensure fair play, the Court may impose the procedural requirement of natural justice, either where there are no statutory requirements or where there are, by requiring them to be carried out in accordance with the principles of natural justice.
+22. Under these circumstances. I consider it to be just and proper that this request be allowed. Consequently, I restore this application and grant permission to the respondent to amend the plaint as prayed therein. Of course, the petitioner shall have a right to file an additional written statement to the amended plaint.
+23. As a result, this revision petition is dismissed. However, no order is made as to costs.

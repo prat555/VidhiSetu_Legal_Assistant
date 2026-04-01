@@ -1,0 +1,1176 @@
+Title: Search
+Court: High Court
+Date: 3
+AIR 2010
+Citation: citations: AIR 2020 DELHI 132, AIRONLINE 2020 DEL 881
+Source: https://indiankanoon.org/doc/191602740/
+
+[Cites
+20
+, Cited by
+4
+]
+Delhi High Court
+Gammon India Ltd. & Ors. vs National Highways Authority Of India on 23 June, 2020
+Equivalent citations: AIR 2020 DELHI 132, AIRONLINE 2020 DEL 881
+Author:
+Prathiba M. Singh
+Bench:
+Prathiba M. Singh
+SINDHU KRISHNAKUMAR
+
+                                                                                        23.06.2020 14:19
+
+
+                                $~
+                                *       IN THE HIGH COURT OF DELHI AT NEW DELHI
+                                                                           Reserved on: 10th January, 2020
+                                                                           Date of decision:23rd June 2020
+                                +       OMP 680/2011 (New No. O.M.P. (COMM)392/2020) & I.A.
+                                        11671/2018
+
+                                        GAMMON INDIA LTD. & ANR.                    ..... Petitioners
+                                                     Through: Dr. P. C. Markanda, Senior Advocate
+                                                              with Mr. Chirag Shroff and Ms.
+                                                              Neihal Dogra, Advocates. (M:
+                                                              9811032077)
+                                                     versus
+                                        NATIONAL HIGHWAYS AUTHORITY OF INDIA .... Respondent
+                                                     Through: Ms. Padma Priya and Mr. Dhruv
+                                                              Nayar, Advocates. (M: 9810026319)
+                                        CORAM:
+                                        JUSTICE PRATHIBA M. SINGH
+                                                          JUDGMENT
+Prathiba M. Singh, J.
+1.      Arbitration was to be the panacea for the woes of litigation. As an
+                                `alternate dispute resolution' mechanism, arbitration has however become
+                                complex, owing to several reasons such as long delays, challenges in
+                                enforcement, high costs etc., One other reason rendering arbitral processes
+                                complex is `MULTIPLICITY' - multiple invocations, multiple references,
+                                multiple Arbitral Tribunals, multiple Awards and multiple challenges,
+                                between the same parties, in respect of the same contract or the same series
+                                of contracts. Repeated steps have been taken in judgments and by
+                                amendments to the law, to make the system efficient, but more needs to be
+                                done.
+O.M.P. (COMM)392/2020                                             Page 1 of 31
+Signature Not Verified
+Digitally Signed
+By:PRATHIBA M SINGH
+Signing Date:23.06.2020 13:41
+Brief Facts
+2.     In the present case, a contract was executed between Gammon-
+                                Atlanta JV, a Joint Venture of Gammon India Ltd. and Atlanta Ltd.
+                                (hereinafter "Contractor") and National Highways Authority of India
+                                (hereinafter "NHAI") on 23rd December, 2000 for the work of widening to
+                                4/6 lanes and strengthening of existing 2 lane carriageway of NH-5 in the
+                                State of Orissa from km 387.700 to 414.000 (Khurda to Bhubaneswar)
+                                Contract Pkg. OR-1 (hereinafter "Project"). The value of the work was
+                                approximately Rs.118.9 crores. The date of commencement of the contract
+                                was fixed as 15th January, 2001 and the project was to be executed within 36
+                                months i.e., by 14th January, 2004.
+3.     The Project was not executed within the prescribed time. Extensions
+                                for completing the Project were granted till 31st December, 2006. Vehicular
+                                traffic was allowed on the main carriageway in March, 2007 and according
+                                to the Contractor, this amounted to a deemed 'taking over' of the
+                                carriageway by NHAI and hence completion.
+Award No.1 - 5th October, 2007
+4.     During the course of execution of the Project, disputes had arisen
+                                between the parties in respect of some claims. The same were raised both by
+                                the Contractor and by NHAI. On 1st August, 2004, the Disputes Review
+                                Board (hereinafter "DRB") was constituted in terms of sub-clause 67.1 of
+                                the Conditions of Particular Application (hereinafter, "COPA"). The DRB
+                                is stated to have expressly communicated its inability to resolve issues
+                                pertaining to a period earlier to its constitution. The DRB thus did not
+                                resolve the issues and accordingly, the Contractor invoked arbitration under
+                                sub-clause 67.3 of COPA vide notice dated 27th January, 2005. The relevant
+O.M.P. (COMM)392/2020                                          Page 2 of 31
+Signature Not Verified
+Digitally Signed
+By:PRATHIBA M SINGH
+Signing Date:23.06.2020 13:41
+claims referred for arbitration are as under:
+"Claim 2.1: Compensation for losses incurred on
+                                              account of overhead and expected profit
+                                              Claim 2.2: Compensation for reduced productivity
+                                              of machinery and equipment deployed.
+Claim 2.3: Revision of rates to cover for increase
+                                              of cost of materials and labour during extended
+                                              period over and above the relief available under
+                                              escalation (price adjustment) provision in the
+                                              agreement."
+5.     The Arbitral Tribunal, consisting of Mr. P.B. Vijay, Mr. C.C.
+                                Bhattacharya and Mr. R.T. Atre, was appointed and the award was rendered
+                                on 5th October, 2007 (hereinafter "Award No.1"). The findings in Award
+                                No.1 with respect to Claim Nos. 2.1, 2.2 & 2.3 are as under:
+• Claim No.2 was found to not be barred by limitation as even though the
+                                  DRB was constituted on 1st August, 2004, it expressed its inability to
+                                  give its recommendation only on 17th November, 2004. Thus, the
+                                  limitation period of 56 days was considered to begin from 17 th
+                                  November, 2004, making the notice dated 27th January, 2005 within the
+                                  prescribed limitation period.
+• The Contractor claimed compensation on the basis of the following six
+                                  alleged breaches by NHAI: (1) Late appointment of key personnel, (2)
+                                  Delay in payments, (3) Virtual suspension of BC work from December,
+                                  2003 to March, 2005, (4) Failure to sanction adequate extension of time,
+                                  (5) Failure to constitute Dispute Review Board and (6) Delay in handing
+                                  over of site.
+• As regards the first five alleged breaches, the Arbitral Tribunal
+                                  (hereinafter, "AT") found that the actions of NHAI either did not
+                                  materially affect the progress of the work, the Claimant's preparedness
+                                  itself was inadequate or that alternate relief is available/has been availed
+                                  by the Contractor. It was therefore held that the Contractor did not
+                                  deserve any compensation on these grounds.
+O.M.P. (COMM)392/2020                                            Page 3 of 31
+Signature Not Verified
+Digitally Signed
+By:PRATHIBA M SINGH
+Signing Date:23.06.2020 13:41
+• As regards the sixth alleged breach, the AT concluded that the initial
+                                  work of the Contractor was affected by NHAI's inability to fulfill its
+                                  obligations under Clause 42.01, however, once the hindrances were
+                                  removed, the Contractor was not able to accelerate the progress of the
+                                  work. The Contractor's claim for compensation was therefore restricted
+                                  to the initial contract period during which time approximately Rs.37/-
+                                  crores worth of work is estimated to have been affected.
+                                • With respect to Claim 2.1, since the Contractor's deployment of
+                                  resources on overheads and their underutilization was admitted to the
+                                  extent of 14.28%, compensation of Rs.5.28/- cores (14.28/100 x 37) was
+                                  awarded to the Contractor. The claim for loss of profits was, however,
+                                  rejected on the ground that the Contractor is still executing the work and
+                                  will earn profit/loss commensurate with the work done.
+                                • With respect to Claim 2.2, the AT held that though work worth Rs.37
+                                  crores was affected during the initial contract period, since the Contractor
+                                  itself was responsible for underutilization of machinery and equipment,
+                                  compensation of only 5% i.e., Rs. 1.85/- crores (5/100 x 37), could be
+                                  awarded.
+• With respect to Claim 2.3, it was observed that this sub-claim had not
+                                  been mentioned in the list of claims included in the notice dated 27th
+                                  January, 2005 invoking arbitration, followed by letter dated 21st
+                                  February, 2005. Claim 2.3 was therefore considered outside the AT's
+                                  terms of reference.
+6.     Thus, as per Award No.1, Claim Nos. 2.1 and 2.2 were allowed and
+                                Claim No.2.3 was rejected on the ground that it was outside the terms of
+                                reference.
+7.     Award No.1 was challenged by the Contractor and by NHAI in OMP
+                                99/2008 and OMP 107/2008. In OMP 99/2008, the Contractor withdrew the
+                                challenge in respect of Claim No. 2.3, which was rejected and sought liberty
+                                to approach the 2nd Arbitral Tribunal. Vide order dated 13th March, 2009, the
+                                same was permitted in the following terms:
+O.M.P. (COMM)392/2020                                            Page 4 of 31
+Signature Not Verified
+Digitally Signed
+By:PRATHIBA M SINGH
+Signing Date:23.06.2020 13:41
+"The petitioner seeks to withdraw the
+                                              challenge to the claim 2.3 with liberty to
+                                              agitate the same before the arbitrator. The
+                                              counsel for the respondent without prejudice
+                                              to the rights and contentions of the
+                                              respondent, to take pleas qua the said claim
+                                              before the arbitrator has no objection to the
+                                              amendment being allowed.
+Accordingly, the application is allowed.
+                                              The grounds XVI and XVII raised with
+                                              regard to claim 2.3 and the prayer
+                                              paragraph also in relation to claim 2.3 is
+                                              allowed to be amended in the aforesaid
+                                              terms with liberty to the petitioner to pursue
+                                              the said claim before the Arbitral Tribunal
+                                              and without prejudice to the rights of the
+                                              respondent to take all pleas in opposition
+                                              thereto before the Arbitral Tribunal."
+8.     Award No.1 was thereafter upheld by a ld. Single Judge of this Court
+                                on 15th November, 2016. Two ld. Division Benches also upheld the award
+                                vide judgments dated 18th January, 2017 and 20th February, 2017. Two
+                                SLPs, being SLP (C) No. 17022/2017 and 22663/2017, were dismissed on
+                                8th August, 2017 and 11th September, 2017 respectively. Thus, Award No. 1
+                                attained finality.
+Award No.2 - 21st February, 2011 (Impugned Award)
+9.     In 2007, the Contractor had invoked the jurisdiction of the DRB in
+                                respect of payment of Tack Coat under bill of quantities (hereinafter,
+                                "BOQ") item No. 4.02 (b). The DRB rejected the said claim. Thus, the said
+                                claim, along with certain other claims, were referred to the Arbitral Tribunal
+                                consisting of three members, namely, Mr. Sarup Singh, Mr. C.C.
+                                Bhattacharya and Justice E. Padmanabhan (Retd.). This Tribunal was
+O.M.P. (COMM)392/2020                                            Page 5 of 31
+Signature Not Verified
+Digitally Signed
+By:PRATHIBA M SINGH
+Signing Date:23.06.2020 13:41
+constituted on 2nd January, 2008. Claim 2.3 of Award No.1 was then filed
+                                before this AT owing to the permission granted by the Court on 13th March
+                                2009. Vide award dated 21st February, 2011 (hereinafter, "Award No.2") by
+                                a 2:1 majority, claims of the Contractor were rejected. The minority award
+                                granted the claims of the Contractor.
+10.      The various claims referred to the second Arbitral Tribunal, which
+                                rendered Award No.2, are as under:
+"1. Compensation for losses incurred on account
+                                               of extra expenditure incurred on increased cost of
+                                               materials, labour, POL etc. for the balance work
+                                               executed beyond the stipulated date of completion
+- Rs.1456.83 lacs (Claim 2.3 in AT 1)
+2.     Payment of tack coat - Rs. 49,17,00,822/-
+3.     Interest pendente lite and future @ 18% p.a.
+                                               of the award sum under claim No.1 and claim
+                                               No.2.
+4.     Cost of Arbitration proceedings."
+11.      The findings of the majority award in respect of Claim No.1 are set
+                                out herein-below:
+• That claim no.1 is not barred by limitation. The finding of the Arbitral
+                                         Tribunal is as under:
+"1.41     The claim was referred to DRB on
+                                                 17.11.2004 (C-94).      DRB could not make
+                                                 recommendations within 56 days. The contractor
+                                                 invoked the Arbitration clause on 25.1.2002 (C-
+98) for certain claims including Claim No.2.3
+                                                 (which is claim no.1 here). The first AT ruled that
+                                                 the said claim was outside the reference made to
+                                                 Tribunal. This observation/order is recorded in
+                                                 the award dated 05-10-2007 (C-101). This claim
+                                                 is for seeking compensation for losses incurred
+                                                 on account of extra expenditure incurred on
+O.M.P. (COMM)392/2020                                                Page 6 of 31
+Signature Not Verified
+Digitally Signed
+By:PRATHIBA M SINGH
+Signing Date:23.06.2020 13:41
+increased cost of material, labour, POL etc.
+                                            beyond 14-01-2004. The contractor invoked
+                                            Arbitration clause on 25-1-2005, i.e. when the
+                                            work was still in progress. This period is well
+                                            within the provision of
+Article 137
+of
+Limitation
+                                            Act
+. This Claim has not been adjudicated upon
+                                            by the 1st Tribunal."
+• On merits, the 2nd AT held that the delay of two weeks in the
+                                          appointment of the engineer and delay of five weeks, by the
+                                          NHAI, in intimating the Contractor, was a short delay and did not
+                                          affect the progress of the work.
+• That there was a delay in providing a hindrance-free work site to
+                                          the Contractor by NHAI.
+• The 2nd AT further analysed that the total value of the work was
+                                          approximately Rs.118.90 crores. Work worth Rs. 5031.43 lakhs
+                                          was carried out by January, 2004 i.e., the stipulated period for
+                                          completion of the contract. This constituted 42.3% of the work in
+                                          monetary terms. The balance work was 57.7%, for which a
+                                          hindrance-free site was already available. To execute this work,
+                                          the Contractor took 4 years. Thus, there was clearly a low level of
+                                          performance by the Contractor despite the site being available,
+                                          which is, in fact, recorded in minutes dated 15th June, 2004.
+                                       • Insofar as delay in payment was concerned, there were three bills
+                                          which were to be paid. Payments in respect thereof were released
+                                          on 15th October 2003, 16th December, 2003 and 6th March, 2004.
+                                          It was held that the delay in payment was very small and did not
+                                          cause hindrance in the work. It was further observed that in any
+O.M.P. (COMM)392/2020                                            Page 7 of 31
+Signature Not Verified
+Digitally Signed
+By:PRATHIBA M SINGH
+Signing Date:23.06.2020 13:41
+case, under clause 60.8, the Contractor was entitled to interest for
+                                          the delayed period.
+• The ground taken that there was suspension of the entire BC work
+                                          due to delays by NHAI was rejected after a detailed factual
+                                          analysis of the Arbitral Tribunal. The Arbitral Tribunal also relied
+                                          upon Award No.1, which dealt with this very issue, to reject the
+                                          claim of the Contractor for compensation.
+• Non-grant of time extension was not considered in Award No.2 as
+                                          the same was pending before the DRB.
+• The 2nd AT held that there was no delay in constitution of the
+                                          DRB.
+• In view of the above findings, the Arbitral Tribunal in Award No.2
+                                          considered Clause 70.3 and 70.2 of the contract. The said clauses
+                                          are extracted herein below:
+"Sub- Clause 70.2: Other changes in cost
+                                              To the extent that full compensation for any rise or
+                                              fall in the costs to the Contractor is not covered by
+                                              the provisions of this or other clauses in the
+                                              Contract, the unit rates and prices included in the
+                                              Contract shall be deemed to include amounts to
+                                              cover the contingency of such other rise or fall in
+                                              cost.
+Sub-Clause 70.3: Adjustment formula
+                                              The adjustment to the Interim Payment Certificates
+                                              in respect of changes in cost and legislation shall
+                                              be determined from the following formula:
+Pn = A + b Ln + c Mn + d Fn + Bn
+                                                           Lo    Mo Fo        B3
+                                              Where:
+O.M.P. (COMM)392/2020                                                 Page 8 of 31
+Signature Not Verified
+Digitally Signed
+By:PRATHIBA M SINGH
+Signing Date:23.06.2020 13:41
+Pn is a price adjustment factor to be applied to the
+                                              amount for the payment of the work carried out in
+                                              the subject month, determined in accordance with
+                                              Sub-Clause 60.1(d), and with Sub-Clauses 60.1 (e)
+                                              and (f), where such variations and Daywork are
+                                              not otherwise subject to adjustment.
+                                              A = 0.50, b = 0.15, c = 0.25, d = 0.10
+                                              Ln. Mn. Fn. Etc., are the current cost indices or
+                                              reference prices of the cost elements in the specific
+                                              currency for month "n" determined pursuant to
+                                              Sub-Clause 70.5, applicable to each cost element:
+                                              and
+                                              Lo. Mo. Fo. Etc. are the base cost indices or
+                                              reference prices corresponding to the above cost
+                                              elements at the date specified in Sub-Clause 70.5.
+                                              The amounts, determined as payable to the
+                                              contractor as a price adjustment factor in a
+                                              currency or currencies other than the Indian
+                                              Rupee. Will be converted from Indian Rupees to
+                                              the currency or currencies of payment at the
+                                              exchange rate (s), as determined by the Reserve
+                                              Bank of India, on the date of current index and not
+                                              at the rate (s) established in the Appendix to Bid, if
+                                              any."
+• After analysing the two clauses, the Arbitral Tribunal arrived at
+                                       the following conclusion:
+"1.49 Every contract for construction work has
+                                              some inbuilt uncertainties. Such uncertainties arise
+                                              during construction period due to lack of complete
+                                              and timely fulfilment of the obligations by the
+                                              claimant and the respondent towards the other
+                                              party. It leads to delay in the completion of work.
+                                              The financial effect of some of such uncertainties
+                                              cannot be truly quantified.        Therefore it is
+                                              regulated by making certain provision/conditions
+                                              in the contract agreement.
+1.50 The 1st AT has awarded Rs. 5.28 crores and
+O.M.P. (COMM)392/2020                                                Page 9 of 31
+Signature Not Verified
+Digitally Signed
+By:PRATHIBA M SINGH
+Signing Date:23.06.2020 13:41
+Rs. 1.85 crores towards claim 2.1 and claim
+                                              No.2.2 respectively. Apparently the provisions of
+                                              section 55 of Indian Contract Act, where ever
+                                              applicable, stand covered through the award order
+                                              passed by 1st AT.
+1.51 With the provisions under clause 70.2 of the
+                                              contract agreement, statement of the witness CW-1
+                                              during cross examination does not provide any
+                                              support to the claimant.
+1.52 The Arbitral Tribunal holds that under the
+                                              provisions of Sub Clause 70.2, this claim does not
+                                              succeed. Nothing more is admissible for payment
+                                              beyond the provisions of sub clause 70.3. Hence
+                                              amount awarded is Rs. Nil only."
+12.    The present petition challenges Award No.2.
+Award No.3 - 20th February, 2012
+13.    NHAI imposed liquidated damages on the Contractor for the delay
+                                caused. Seven disputes were referred to the DRB on 24th March, 2008.
+                                However, dissatisfied with the recommendations of the DRB, a third
+                                arbitration was invoked by the Contractor vide letter dated 23rd December,
+                                2008. The following claims were referred to the Arbitral Tribunal consisting
+                                of Mr. RH Tadvi, Mr. V. Velayutham and Mr. V.S. Karandikar:
+"1. Recovery of alleged Liquidated Damages
+2. Recovery of Building and other construction
+                                              Workers Welfare Cess
+3. Recovery of Alleged Penalty for not providing
+                                              vehicles to the Engineer
+4. Premature recovery of discretionary advance
+5. Interest on Discretionary Advance
+6. Earthworks pertaining to Clearing and
+                                              Grubbing
+7. Claim for payment of interest due to premature
+                                              deductions of secured
+O.M.P. (COMM)392/2020                                             Page 10 of 31
+Signature Not Verified
+Digitally Signed
+By:PRATHIBA M SINGH
+Signing Date:23.06.2020 13:41
+advance by the Respondent.
+8. Interest pendente lite and future
+9. Cost of Arbitration Proceeding"
+14.      Vide award dated 20th February, 2012 (hereinafter, "Award No.3")
+                                the Contractor's claim for recovery of amounts paid as liquidated damages
+                                was allowed. The findings in Award No.3 in respect of Claim No.1 are
+                                summarised below:
+• Claim 1: The Contractor was allowed a refund of the entire amount of
+                                      liquidated damages imposed. Refund was given on the ground that the
+                                      Contractor was entitled to a further extension of time and hence the
+                                      imposition of liquidated damages was illegal. It was observed that NHAI
+                                      could not impose liquidated damages on the Contractor when it had
+                                      failed to provide a hindrance-free site and had also taken over the road. It
+                                      was also found that in contravention of the contract, prior notice for
+                                      imposition of liquidated damages was not issued. Furthermore, since
+                                      certified payments to the Contractor were withheld, it was held that the
+                                      Contractor had the right to slow down the rate of work as per the terms of
+                                      the contract. The Contractor was also awarded interest @10% p.a.
+                                      compounded monthly for the payments withheld against the liquidated
+                                      damages. A declaratory award, prohibiting the imposition of further
+                                      liquidated damages, was also given.
+15.      Award No.3 has been upheld by a ld. Single Judge and a ld. Division
+                                Bench of this Court. NHAI has paid the awarded sum and the award has
+                                attained finality.
+O.M.P. (COMM)392/2020                                               Page 11 of 31
+Signature Not Verified
+Digitally Signed
+By:PRATHIBA M SINGH
+Signing Date:23.06.2020 13:41
+Procedural History of the Present Petition
+16.    The present petition was filed in August, 2011. Initially itself, it was
+                                submitted by the Contractor that it does not press objections qua Claim No.2
+                                i.e., payment of tack-coat. This was recorded in order dated 20th September,
+                                2011 as under:
+"Learned counsel for the petitioner, on
+                                              instructions, submits that the petitioner does not
+                                              press the objections to the award made on claim
+                                              No.2. Mr. Bansal also submits that another
+                                              arbitration proceeding in relation to levy of
+                                              liquidated damages under the same contract, by
+                                              the respondent, is pending disposal before another
+                                              tribunal. Arguments have been heard and the
+                                              award has been reserved in those proceedings."
+17.    The petition was then dismissed for non-prosecution on 20th January,
+                                2017. The same was, however, restored on 15th March, 2017. Vide order
+                                dated 6th August, 2019, the counsel for the parties, on a query from the
+                                Court, submitted as under:
+"Dr. P. C. Markanda, ld. senior counsel for the
+                                              Petitioner submits that according to his client, the
+                                              indices were frozen as in the original contract
+                                              period. He relies on a few letters which have been
+                                              placed on record. Hence according to him, no
+                                              escalation was in fact paid.
+On the other hand, ld. counsel for NHAI
+                                              submits that the escalation as per Clause 70.3 has
+                                              been paid to the Petitioner to the tune of
+                                              Rs.15,29,15,363/- up to the last
+IPC
+No.94.
+In view of the Full Court Reference, further
+                                              hearing is deferred to 4th September, 2019."
+18.    Thus, the only claim to be considered in this petition is Claim No.1,
+                                wherein the case of the Contractor is that the revision of rates did not take
+O.M.P. (COMM)392/2020                                                Page 12 of 31
+Signature Not Verified
+Digitally Signed
+By:PRATHIBA M SINGH
+Signing Date:23.06.2020 13:41
+place and hence, the Contractor is entitled to additional amounts.
+Submissions of Ld. Counsels
+19.    Mr. Markande, ld. Senior Counsel appearing for the Contractor, has
+                                raised a two-fold argument. First, it is submitted that the finding in Award
+                                No.3 that NHAI was responsible for the delay would bind the present
+                                proceedings as well. Secondly, that even otherwise, the delay was clearly
+                                caused by NHAI and the Contractor is entitled to escalation/compensation
+                                for the losses due to the said delays. The submission is that there were
+                                delays in the appointment of the engineer and handing over of the site and
+                                delays caused due to non-payment of dues, placing of variation order which
+                                had to be executed by the Contractor, non-grant of extension of time to the
+                                Contractor and default/delay in constituting the DRB.
+20.    The findings of the Arbitral Tribunal in Award No.2 with respect to
+                                Claim No.1 are that the consequences for uncertainties and delays during
+                                construction work are fully provided for in the contract itself. Insofar as any
+                                damages/compensation are concerned, which the Contractor may be entitled
+                                to claim under
+Section 55
+of the Indian Contract Act, 1872 (hereinafter,
+                                "ICA"), the same were found to be covered by Award No.1 which awarded
+                                Rs.5.28 crores and Rs.1.85 crores towards Claims 2.1 and 2.2 of the
+                                Contractor. Submission of Mr. Markande, ld. Senior Counsel, is that the
+                                claim has been confused by the Arbitral Tribunal as being an award under
+                                Section 55 of the ICA whereas, in fact, Claim No.1 was not a claim under
+                                Section 55.
+21.    It is further argued by Mr. Markande, that in Award No.3 there was a
+                                clear finding that NHAI had caused a delay on various counts and hence, in
+O.M.P. (COMM)392/2020                                            Page 13 of 31
+Signature Not Verified
+Digitally Signed
+By:PRATHIBA M SINGH
+Signing Date:23.06.2020 13:41
+view of the finding in Award No.3, this claim ought to be automatically
+                                allowed. Reliance is placed on the minority award of the 2nd AT to argue
+                                that the minority award clearly distinguishes between compensation payable
+                                under Section 55 and Section 73 of the ICA. He urges this Court to uphold
+                                the minority award under which the Contractor has been awarded the
+                                following sum:
+"In the result there will be an Award in the
+                                              following terms:
+I.    The Respondent is directed to pay to the
+                                                    Claimant the sum of Rs.49,17,00,822/- with
+                                                    subsequent interest @ of 18% P.A. on
+                                                    Rs.32,97,36,489/- from 22.10.2007 till date
+                                                    of payment towards tack-coat work executed
+                                                    falling under BOQ entry 4.02 (b).
+II.   The Claimant is entitled to the relief of
+                                                    declaration declaring that the Claimant is
+                                                    entitled to payment for the balance of work
+                                                    falling under BOQ entry 4.02 (b) Tack-coat
+                                                    as and when executed at the rate of
+                                                    Rs.400/sq.m.
+III. The Respondent is directed to pay
+                                                    Rs.1456.83 Lakhs to the Claimant towards
+                                                    loss incurred on account of extra
+                                                    expenditure incurred on increased cost of
+                                                    materials, labour, POL etc. with interest @
+                                                    12% P.A from 01.02.2005 the date of claim
+                                                    and till the date of payment.
+IV. The relief of declaration prayed for as to
+                                                    compensation for the future period and
+                                                    balance of work executed during such
+                                                    period is left open to be agitated in future.
+And
+                                              V.    Both the parties shall bear their respective
+                                                    costs     in    the    present    proceedings
+                                                    throughout."
+O.M.P. (COMM)392/2020                                           Page 14 of 31
+Signature Not Verified
+Digitally Signed
+By:PRATHIBA M SINGH
+Signing Date:23.06.2020 13:41
+22.    On the other hand, on behalf of NHAI, Ms. Padma Priya, ld. Counsel,
+                                submits that Award No.2 is detailed. The Contractor had multiple
+                                opportunities before the Arbitral Tribunal and has lost on both counts. The
+                                minority award is of no consequence once the majority award has rejected
+                                the claims of the Contractor. Ld. Counsel further submits that there was no
+                                reason as to why this Claim was not included in the reference leading to
+                                Award No.1. This claim according to her is barred. It is further submitted by
+                                ld. Counsel that escalation has in fact been granted under Clause 70.3. She
+                                further urges that the findings by the DRB, 1 st AT and the 2nd AT are
+                                consistent and thus the petition is liable to be dismissed.
+Analysis and Findings
+23.    The chronology of facts set out above shows that the parties had
+                                appointed three Arbitral Tribunals which adjudicated different disputes and
+                                claims. There were three Awards. Award No.1 and 3 have attained finality.
+                                In this petition, the challenge is to Award No.2. The Contractor's
+                                submission is that the findings in Award no.3 be relied upon, for setting
+                                aside Award no.2. The question that arises is whether it is permissible for
+                                the Contractor to jettison the findings in Award No.3 to argue that Award
+                                No.2 ought to be set aside and the claims of the Contractor ought to be
+                                allowed. Before going into the challenge to Award no.2, the legal position
+                                on multiple arbitrations and multiple awards needs to be analysed.
+24.    A perusal of the provisions of the
+Arbitration and Conciliation Act,
+                                1996
+shows that the statute envisages that disputes can be raised at different
+                                stages and there can be multiple arbitrations in respect of a single contract.
+O.M.P. (COMM)392/2020                                            Page 15 of 31
+Signature Not Verified
+Digitally Signed
+By:PRATHIBA M SINGH
+Signing Date:23.06.2020 13:41
+By way of illustration,
+Section 7(1)
+,
+Section 8(3)
+and
+Section 21
+, can be
+                                seen, which read:
+"7. Arbitration agreement. - (1) In this Part,
+                                              "arbitration agreement" means an agreement by
+                                              the parties to submit to arbitration all or certain
+                                              disputes which have arisen or which may arise
+                                              between them in respect of a defined legal
+                                              relationship, whether contractual or not.
+8. Power to refer parties to arbitration where
+                                              there is an arbitration agreement -
+(3) Notwithstanding that an application has been
+                                              made under sub-section (1) and that the issue is
+                                              pending before the judicial authority, an
+                                              arbitration may be commenced or continued and
+                                              an arbitral award made.
+21. Commencement of arbitral proceedings. -
+Unless otherwise agreed by the parties, the
+                                              arbitral proceedings in respect of a particular
+                                              dispute commence on the date on which a request
+                                              for that dispute to be referred to arbitration is
+                                              received by the respondent."
+Under
+Sec. 7
+the agreement to arbitrate could be for `all or certain disputes
+                                which have arisen or which may arise'. Under
+Sec.8
+if a particular
+                                proceeding is pending in court and there is a lis as whether a particular
+                                dispute is arbitrable, for other disputes, arbitration can be commenced or
+                                continued and even the award can be made. This means that, if the court,
+                                thereafter comes to the conclusion that the dispute is arbitrable, after the first
+                                reference is either pending or concluded, a second reference can be made.
+                                The commencement of proceedings under
+Section 21
+is to be construed in
+                                respect of a particular dispute. Thus, if there are multiple disputes which
+O.M.P. (COMM)392/2020                                               Page 16 of 31
+Signature Not Verified
+Digitally Signed
+By:PRATHIBA M SINGH
+Signing Date:23.06.2020 13:41
+have been raised at different times, the commencement of proceedings
+                                would be different qua each of the disputes. All these provisions show that
+                                there can be multiple claims and multiple references at multiple stages.
+25.    Filing of different claims at different stages of a contract or a project
+                                is thus permissible in law, inasmuch as the contract can be of a long duration
+                                and the parties may wish to seek adjudication of certain disputes, as and
+                                when they arise. Despite this permissibility, multiplicity ought to be avoided
+                                as discussed hereinafter.
+26.    The endeavour of Courts in the domain of civil litigation is always to
+                                ensure that claims of parties are adjudicated together, or if they involve
+                                overlapping issues, the subsequent suit is stayed until the decision in the first
+                                suit. It is with the intention of avoiding multiplicity that the principles
+                                enshrined in
+Order 2 Rule 2 CPC
+,
+Section 10
+CPC and Res Judicata are part
+of the Code of Civil Procedure
+from times immemorial. However, since
+                                arbitral proceedings are strictly not governed by
+the Code of Civil
+                                Procedure
+, 1908, it is possible for parties to invoke arbitration as and when
+                                the disputes arise, but should the same be permissible without any limitation
+                                and ignoring the principles of public policy as enshrined in these provisions.
+27.    Multiple arbitrations before different Arbitral Tribunals in respect of
+                                the same contract is bound to lead to enormous confusion. The constitution
+                                of multiple Tribunals in respect of the same contract would set the entire
+                                arbitration process at naught, as the purpose of arbitration being speedy
+                                resolution of disputes, constitution of multiple tribunals is inherently
+                                counter-productive.
+28.    Typically, in construction contracts, the claims may be multiple in
+                                number but the underlying disputes about breach, delays, termination etc.,
+O.M.P. (COMM)392/2020                                              Page 17 of 31
+Signature Not Verified
+Digitally Signed
+By:PRATHIBA M SINGH
+Signing Date:23.06.2020 13:41
+would form the core of the disputes for almost all claims. As is seen in the
+                                present case, parties have invoked arbitration thrice, raising various claims
+                                before three different Tribunals which have rendered three separate Awards.
+                                Considering that a previously appointed Tribunal was already seized of the
+                                disputes between the parties under the same contract, the constitution of
+                                three different Tribunals was unwarranted and inexplicable. A situation
+                                where multiple Arbitral Tribunals parallelly adjudicate different claims
+                                arising between the same parties under the same contract, especially raising
+                                overlapping issues, is clearly to be avoided.
+29.       Multiple arbitrations can be of various categories:
+(i) Arbitrations and proceedings between the same parties under the
+                                          same contract.
+(ii) Arbitrations and proceedings between the same parties arising
+                                          from a set of contracts constituting one series, which bind them in a
+                                          single legal relationship.
+(iii) Arbitrations and proceedings arising out of identical or similar
+                                          contracts between one set of entities, wherein the other entity is
+                                          common.
+30.       In Category (i) cases seeking a second reference under
+Section 11
+of
+                                the Arbitration and Conciliation Act, 1996 for adjudication of disputes, the
+                                Supreme Court and High Courts have referred disputes between the same
+                                parties arising under the same contract, to arbitration.
+In
+Indian Oil
+                                Corporation Vs. SPS Engg Co. Ltd1
+, a claim relating to risk-execution of
+                                balance work, which was not referred to the first Tribunal, was referred to
+                                arbitration.
+Similar is the position in
+Sam India Built Well (P) Ltd. v. UOI
+1
+(2011) 3 SCC 507
+O.M.P. (COMM)392/2020                                              Page 18 of 31
+Signature Not Verified
+Digitally Signed
+By:PRATHIBA M SINGH
+Signing Date:23.06.2020 13:41
+& Ors. [Arb.
+P. 106/17, decided on 8th September, 2017];
+Parsvnath
+                                Developers Limited and Ors. v. Rail Land Development Authority [Arb
+.
+P.
+                                724/18, decided on 31st October, 2018];
+Parsvnath Developers Limited and
+                                Ors. v. Rail Land Development Authority [Arb
+. P. 710/19, decided on 19th
+                                May, 2020].
+31.     In a set of petitions involving several caterers and the Indian Railway
+                                Catering & Tourism Corporation Limited2 (IRCTC cases) involving 25
+                                petitions which fell in category (iii) above, the Delhi High Court recently
+                                appointed a single arbitrator to adjudicate the disputes.
+32.     However, what can lead to enormous uncertainty and confusion which
+                                ought to be avoided is the constitution of separate Arbitral Tribunals for
+                                separate claims in respect of the same contract, especially when the first
+                                Arbitral Tribunal is still seized of the dispute or is still available to
+                                adjudicate the remaining claims. In Dolphin Drilling Ltd. v. ONGC3, the
+                                Supreme Court, while considering the question as to whether a second
+                                reference for arbitration ought to be made, observed as under:
+"5. The plea raised by the respondent voices a real
+                                                problem. It is unfortunate that arbitration in this
+                                                country has proved to be a highly expensive and
+                                                time consuming means for resolution of disputes.
+                                                But on that basis it is difficult to read the
+                                                arbitration clause in the agreement as suggested
+                                                by the respondent. ...
+6. The plea of the respondent is based on the
+                                                words "all disputes" occurring in paragraph 28.3
+                                                of the agreement. Mr. Agrawal submitted that
+                                                those two words must be understood to mean "all
+2
+ARB.P. 745-51/2019; ARB.P. 753/2019; ARB.P. 755-61/2019; ARB.P. 763/2019; ARB.P. 765-70/2019;
+                                ARB.P. 780/2019; ARB.P. 789/2019 & ARB.P. 797/2019
+3
+AIR 2010 SC 1296
+O.M.P. (COMM)392/2020                                                           Page 19 of 31
+Signature Not Verified
+Digitally Signed
+By:PRATHIBA M SINGH
+Signing Date:23.06.2020 13:41
+disputes under the agreement" that might arise
+                                              between the parties throughout the period of its
+                                              subsistence. However, he had no answer as to
+                                              what would happen to such disputes that might
+                                              arise in the earlier period of the contract and get
+                                              barred by limitation till the time comes to refer "all
+                                              disputes" at the conclusion of the contract. The
+                                              words "all disputes" in Clause 28.3 of the
+                                              agreement can only mean "all disputes" that might
+                                              be in existence when the arbitration clause is
+                                              invoked and one of the parties to the agreement
+                                              gives the arbitration notice to the other. In its
+                                              present form Clause 28 of the agreement cannot be
+                                              said to be a one-time measure and it cannot be
+                                              held that once the arbitration clause is invoked the
+                                              remedy of arbitration is no longer available in
+                                              regard to other disputes that might arise in
+                                              future."
+33.    A perusal of the above finding of the Supreme Court clearly shows
+                                that the Court has expressed its displeasure about the arbitration process
+                                becoming a highly expensive and time-consuming means for resolution of
+                                disputes. Owing to the wording of the clause, in the said case, the Supreme
+                                Court referred the parties to arbitration for the second time. The underlying
+                                ratio of Dolphin (supra), on a careful reading, is that all disputes that are in
+                                existence when the arbitration clause is invoked, ought to be raised and
+                                referred at one go. Though there is no doubt that multiple arbitrations are
+                                permissible, it would be completely contrary to public policy to permit
+                                parties to raise claims as per their own convenience. While provisions
+of the
+                                CPC
+do not strictly apply to arbitral proceedings, the observations of the
+                                Supreme Court in Dolphin (supra) show that when an arbitration clause is
+                                invoked, all disputes which exist at the time of invocation ought to be
+O.M.P. (COMM)392/2020                                              Page 20 of 31
+Signature Not Verified
+Digitally Signed
+By:PRATHIBA M SINGH
+Signing Date:23.06.2020 13:41
+referred and adjudicated together. It is possible that subsequent disputes may
+                                arise which may require a second reference, however, if a party does not
+                                raise claims which exist on the date of invocation, it ought not to be given
+                                another chance to raise it subsequently unless there are legally sustainable
+                                grounds. This is necessary in order to ensure that there is certainty in arbitral
+                                proceedings and the remedy of arbitration is not misused by parties. The
+                                constitution of separate arbitral tribunals is a mischief which ought to be
+                                avoided, as the intent of parties may also not be bona fide.
+34.     It is the settled position in law that the principles of res judicata apply
+                                to arbitral proceedings4. The observations of the Supreme Court in Dolphin
+                                (supra) also clearly show that principles akin to
+Order II Rule 2 CPC
+also
+                                apply to arbitral proceedings. The issue as to whether any claims are barred
+                                under
+Order II Rule 2 CPC
+or whether any claim is barred by res judicata is
+                                to be adjudicated by the arbitral tribunal and not by the Court 5. Keeping in
+                                mind the broad principles which are encapsulated in
+Order II Rule 2 CPC
+, as
+                                also
+Section 10
+and
+Section 11
+of the CPC, which would by itself be
+                                inherent to the public policy of adjudication processes in India, it would be
+                                impermissible to allow claims to be raised at any stage and referred to
+                                multiple Arbitral Tribunals, sometimes resulting in multiplicity of
+                                proceedings as also contradictory awards. Thus, this Court is of the
+                                considered opinion that:
+4
+K.V. George v. Secretary to Government, Water and Power Department, Trivandrum & Ors.
+,
+AIR 1990
+                                SC 53
+5
+Indian Oil Corporation v. SPS Engg. Co. Ltd
+, (2011) 3 SCC 507; Sam India Built Well (P) Ltd. v. UOI &
+                                Ors. [Arb.
+P. 106/17, decided on 8th September, 2017];
+Parsvnath Developers Limited and Ors. v. Rail
+                                Land Development Authority [Arb
+.
+P. 724/18, decided on 31st October, 2018];
+Parsvnath Developers
+                                Limited and Ors. v. Rail Land Development Authority [Arb
+. P. 710/19, decided on 19th May, 2020]
+O.M.P. (COMM)392/2020                                                                Page 21 of 31
+Signature Not Verified
+Digitally Signed
+By:PRATHIBA M SINGH
+Signing Date:23.06.2020 13:41
+i.     In respect of a particular contract or a series of contracts that
+                                       bind the parties in a legal relationship, the endeavour always ought to
+                                       be to make one reference to one Arbitral Tribunal.
+The solution
+                                       proposed by the Supreme Court (Aftab Alam, J.,) in paragraph 9 of
+                                       Dolphin (supra) i.e., to draft arbitration clauses in a manner so as to
+                                       ensure that claims are referred at one go and none of the claims are
+                                       barred by limitation, may be borne in mind. The said observation in
+                                       Dolphin (supra) reads:
+"9. The issue of financial burden caused by the
+                                              arbitration proceedings is indeed a legitimate
+                                              concern but the problem can only be remedied by
+                                              suitably amending the arbitration clause. In future
+                                              agreements, the arbitration clause can be recast
+                                              making it clear that the remedy of arbitration can
+                                              be taken recourse to only once at the conclusion
+                                              of the work under the agreement or at the
+                                              termination/cancellation of the agreement and at
+                                              the same time expressly saving any disputes/claims
+                                              from becoming stale or time-barred etc. and for
+                                              that reason alone being rendered non-arbitrable."
+ii.    If under a contract, disputes have arisen and the arbitration
+                                       clause is to be invoked, at different stages, the party invoking
+                                       arbitration ought to raise all the claims that have already arisen on the
+                                       date of invocation for reference to arbitration. It would not be
+                                       permissible for the party to refer only some disputes that have arisen
+                                       and not all. If a dispute and a claim thereunder has arisen as on the
+                                       date of invocation and is not mentioned, either in the invocation letter
+                                       or in the terms of reference, such claim ought to be held as being
+                                       barred/waived, unless permitted to be raised by the Arbitral Tribunal
+O.M.P. (COMM)392/2020                                             Page 22 of 31
+Signature Not Verified
+Digitally Signed
+By:PRATHIBA M SINGH
+Signing Date:23.06.2020 13:41
+for any legally justifiable/sustainable reasons.
+                                       iii.   If an Arbitral Tribunal is constituted for adjudicating some
+                                       disputes under a particular contract or a series thereof, any further
+                                       disputes which arise in respect of the same contract or the same series
+                                       of contracts, ought to ordinarily be referred to the same Tribunal. The
+                                       Arbitral Tribunal may pronounce separate awards in respect of the
+                                       multiple references, however, since the Tribunal would be the same,
+                                       the possibility of contradictory and irreconcilable findings would be
+                                       avoided.
+iv.    In cases belonging to Category (iii) involving different parties
+                                       and the same organisation, where common/overlapping issues arise,
+                                       an endeavor could be made as in the IRCTC cases (supra) to
+                                       constitute the same Tribunal. If that is however not found feasible, at
+                                       least challenges to the Awards rendered could be heard together, if
+                                       they are pending in the same Court.
+v.     At the time of filing of petitions under
+Section 11
+or
+Section 34
+or any other provision of the
+Arbitration and Conciliation Act, 1996
+,
+                                       specific disclosure ought to be made by parties as to the number of
+                                       arbitration references, Arbitral Tribunals or court proceedings pending
+                                       or adjudicated in respect of the same contract and if so, the stage of
+                                       the said proceedings.
+vi.    If there are multiple challenges pending in respect of awards
+                                       arising out of the same contract, parties ought to bring the same to the
+                                       notice of the Court adjudicating a particular challenge so that all the
+                                       challenges can be adjudicated comprehensively at one go. This would
+                                       ensure avoiding a situation as has arisen in the present case where
+O.M.P. (COMM)392/2020                                             Page 23 of 31
+Signature Not Verified
+Digitally Signed
+By:PRATHIBA M SINGH
+Signing Date:23.06.2020 13:41
+Award Nos.1 and 3 have attained finality and the challenge to Award
+                                       No.2 continued to remain pending.
+35.    Coming to the facts, a perusal of the dates would reveal that Award
+                                No.1 was passed on 5th October, 2007 and the Contractor inter alia,
+                                challenged the rejection of Claim 2.3 under
+Section 34
+of the Arbitration and
+                                Conciliation Act, 1996. Parallelly, the Contractor invoked arbitration in
+                                respect of some more claims in 2007. So, while the challenge to Award No.1
+                                was pending, including the rejection of Claim 2.3, the second arbitration was
+                                continuing. In 2009, the Contractor then sought permission of the Court to
+                                agitate Claim 2.3 before the second AT, which it was permitted to do,
+                                keeping open NHAI's objections. It didn't end there. Thereafter, a third
+                                arbitration, in respect of recovery of amounts collected as liquidated
+                                damages, along with other claims, was invoked by the Contractor on 23rd
+                                December, 2008. Award No.2 was passed on 21st February, 2011 i.e., when
+                                the third arbitration was still continuing. The present OMP came to be filed
+                                in August, 2011. In order dated 20th September, 2011, it is noticed that the
+                                third arbitral proceeding is underway. The third Arbitral Tribunal concluded
+                                its proceedings and rendered its award on 20 th February, 2012. The said
+                                award attained finality on 14th August, 2013. NHAI is also stated to have
+                                paid the awarded sum thereunder.
+36.    While Awards No. 1 and 3 have attained finality, the challenge in
+                                respect of Award No.2 i.e., the present petition, continues to remain
+                                pending. Parties may not have brought to the notice of the Court deciding
+                                OMP No.584/2012, arising out of Award No. 3, that the OMP relating to
+                                Award No.2 is pending before the Court.
+O.M.P. (COMM)392/2020                                           Page 24 of 31
+Signature Not Verified
+Digitally Signed
+By:PRATHIBA M SINGH
+Signing Date:23.06.2020 13:41
+37.    It is in this background that the Court has to consider the submissions
+                                made on behalf of the Contractor that the findings in Award No.3 have to be
+                                read for deciding the present petition. The question that arises is whether it
+                                is permissible to read the findings of a subsequent award to decide
+                                objections against the previous award.
+38.    Claim No. 2.3 related to compensation for non-grant of escalation of
+                                rates i.e., revision of rates to cover increased cost of material and labour
+                                beyond the escalation provision provided in the agreement. This claim was
+                                one of the claims raised before the first AT which was, however, rejected by
+                                the first AT in the following terms:
+"2.2.3.4         Arbitral Tribunal's observations and
+                                                        Conclusion.
+2.2.4.1          The Claimant preferred this Claim
+                                                        No.2 under three sub-heads as
+                                                        follows:
+Claim 2.1: Compensation for
+                                                              losses incurred on account of
+                                                              overhead and expected profit,
+                                                              Claim 2.2: Compensation for
+                                                              reduced       productivity    of
+                                                              machinery and equipment
+                                                              deployed.
+Claim 2.3:"Revision of rates to
+                                                              cover for increase of cost of
+                                                              materials and labour during
+                                                              extended period over and
+                                                              above the relief available under
+                                                              escalation (price adjustment)
+                                                              provision in the agreement.
+Under sub-claims 2.1, 2.2 & 2.3 the
+                                                        Claimant demanded compensation of
+                                                        Rs. 3751.48 lacs, Rs. 1374.93 lacs
+                                                        and 1406.03 lacs respectively for the
+O.M.P. (COMM)392/2020                                            Page 25 of 31
+Signature Not Verified
+Digitally Signed
+By:PRATHIBA M SINGH
+Signing Date:23.06.2020 13:41
+period from 15.01.2004 to 06.07.2006
+                                                        (CA-XV dated 30.10.2006). The
+                                                        Claimant has finally not demanded a
+                                                        declaratory award for these sub-
+                                                        claims.
+2.2.4.2          Out of the above three sub claims, the
+                                                        sub claim No. 2.3 does not find a
+                                                        mention in the list of claims included
+                                                        in the notice invoking Arbitration
+                                                        dated 27.01.2005 (C-87) followed by
+                                                        letter dated 21.02.2005 (C-89).
+Although, this notice (C-87) is in
+                                                        continuation of the Claimant's notice
+                                                        dated 25.01.2005 to the General
+                                                        manager of the Respondents (C-86),
+                                                        the letter dated 27.01.2005 (C-87),
+                                                        being the later of two letters and
+                                                        addressed      to    the    Chairman
+                                                        (Employer), finally prevails over the
+                                                        letter dated 25.01.2005 (C-86). The
+                                                        notice to commence arbitration dated
+                                                        27.01.2005 in its third para graph
+                                                        clearly mentions as follows - "In
+                                                        terms of clause 67.1, we give notice of
+                                                        our intention to commence arbitration
+                                                        in respect of the following
+                                                        issues/claims" (Emphases supplied).
+Here the Claimants have listed 9
+                                                        claims. Sub-Claims 2.3 referred to
+                                                        above is not included in this list. In
+                                                        the very first meeting of the AT held
+                                                        on 06.04.2005 it was made clear by
+                                                        the AT that the present arbitration is
+                                                        only for the claims contained in the
+                                                        Contractor's letters dated 27.01.2005
+                                                        and 21.02.2005.
+Hence the AT rules that sub-
+claim 2.3 is outside its terms
+O.M.P. (COMM)392/2020                                             Page 26 of 31
+Signature Not Verified
+Digitally Signed
+By:PRATHIBA M SINGH
+Signing Date:23.06.2020 13:41
+reference."
+39.    Thus, the first AT was of the opinion that Claim 2.3 ought to have
+                                been part of the invocation/reference letter. The said claim, having not been
+                                raised in the invocation letter, was held to be outside the terms of reference.
+                                There is no doubt that in 2009 this Court permitted the Contractor to agitate
+                                the claim before the second AT, however, all objections of NHAI were kept
+                                open. The Second AT has, in the impugned award, come to the conclusion
+                                that escalation is not liable to be granted because of Clause 70.2, as also the
+                                fact that the first AT has taken care of all the escalations which were to be
+                                awarded to the Contractor. The reasoning of the Arbitral Tribunal is that
+                                insofar as delays, if any, by NHAI are concerned, the first AT has granted all
+                                the claims raised by the Contractor and no further claims are liable to be
+                                granted. The second AT has also analysed the aspects of delay and
+                                concluded that the four year delay by the Contractor after the site was
+                                available, was wholly unjustified.
+40.    The reasoning of the second AT is that Clause 70.2 provides for all
+                                possible changes in cost i.e., rise or fall in prices. Clauses 70.2 and 70.3
+                                provide the formula for grant of escalation which has been granted to the
+                                Contractor. In view of the said clauses, the second AT holds that no further
+                                compensation is liable to be granted. The escalation clause in the contract
+                                has a clearly specified formula. If any rise or fall in costs is not covered by
+                                the contract, as per Clause 70.2 the unit rates and prices mentioned in the
+                                contract would be deemed to cover such contingency. A clear interpretation
+                                of this clause would be that if escalation is otherwise not provided under the
+                                contract, the only escalation permissible would be under Clause 70.2. The
+O.M.P. (COMM)392/2020                                             Page 27 of 31
+Signature Not Verified
+Digitally Signed
+By:PRATHIBA M SINGH
+Signing Date:23.06.2020 13:41
+impugned award records that the Contractor did not provide any evidence to
+                                support this claim. Since NHAI has already paid as per the escalation clause
+                                in the contract, no further escalation is permissible.
+41.    In Award No.1, on delay, the Tribunal concludes that delay is
+                                attributable to NHAI only to the extent that there was a delay by NHAI in
+                                handing over the site. The first AT observes that though the initial work of
+                                the Contractor was affected by NHAI's inability to fulfil its obligations
+                                under Clause 42.01, once the hindrances were removed, the Contractor was
+                                not able to accelerate the progress of the work. However, the 3rd AT, while
+                                dealing with the claim for recovery of liquidated damages, records that
+                                NHAI did not provide sufficient evidence to support the claim that delay
+                                was caused by the Contractor. These awards have to independently stand on
+                                their own legs. Any attempt to conflate Award no.1 into Award no.2 or
+                                Award no.3 into Award no.2 would lead to extremely unpredictable
+                                consequences. Ideally, since the core issue was of delay, one Tribunal ought
+                                to have dealt with all claims. However, that has not happened. It has been a
+                                20-year long journey since the contract was executed in 2000 and the Court
+                                is still wrestling with multiplicity of proceedings, arising out of one contract.
+                                There needs to be an end to such multiplicity of litigations. The second
+                                Award on its own, is quite well reasoned and is also in terms of the clauses
+                                of the contract. In view of the same, it cannot be said that the findings in the
+                                impugned Award no.2 are prone to challenge.
+42.    On behalf of the Contractor, various judgments have been cited to
+                                support the proposition that claims for damages due to delay and claims for
+                                escalation/revision of rates are distinct. Both claims can be adjudicated upon
+                                and granted separately. Grant of damages does not defeat the claim for
+O.M.P. (COMM)392/2020                                              Page 28 of 31
+Signature Not Verified
+Digitally Signed
+By:PRATHIBA M SINGH
+Signing Date:23.06.2020 13:41
+escalation. This proposition is not in doubt. However, in the present case,
+                                escalation/revision of rates as per the contract has already been granted and
+                                the Contractor has been compensated for the delays both in Award No.1 and
+                                Award No.3. Claim No.1 (Claim No.2.3 before the first AT) is rightly
+                                rejected on two counts: (i) that the same was not included in the initial
+                                reference, though the dispute had already arisen, (ii) the delays after the
+                                clear availability of site was that of the Contractor and (iii) no escalation
+                                beyond what is permissible in Clause 70.2 is liable to be granted. Escalation
+                                as provided in the Contract has already been granted. This reasoning is not
+                                faulty and is not liable to be interfered with.
+43.        While hearing a petition under
+Section 34
+of the Arbitration and
+                                Conciliation Act, 1996, it would be incongruous to hold that a finding in a
+                                subsequent award would render the previous award illegal or contrary to
+                                law.       The award would have to be tested as on the date when it was
+                                pronounced, on its own merits, and not on the basis of subsequent findings
+                                which may have been rendered by a later Arbitral Tribunal.
+In
+Vijay Karia
+                                & Ors. v. Prysmian Cavil E Systemic SRL & Ors.6
+the Supreme Court
+                                rejected the argument that since the award under challenge is irreconcilable
+                                and inconsistent with another award, it deserved to be set aside. Thus, the
+                                findings of the second AT do not suffer from any patent illegality or
+                                perversity and no other grounds for interference under
+Section 34
+of the
+                                Arbitration and Conciliation Act, 1996 are made out. Even if, for the sake of
+                                argument, one looks at the findings of the third AT, those relate to delays
+                                caused in the project and the right of NHAI to impose liquidated damages.
+                                Escalation or compensation for non-payment of increased rates, is not the
+6
+[Civil Appeal No. 1544 of 2020, decided on 13 th February, 2020]
+O.M.P. (COMM)392/2020                                                  Page 29 of 31
+Signature Not Verified
+Digitally Signed
+By:PRATHIBA M SINGH
+Signing Date:23.06.2020 13:41
+subject matter of Award No.3. Thus, none of the findings in Award No.3 can
+                                be jettisoned or incorporated into the present petition to rule in favour of the
+                                Contractor           qua      Award        No.2       for     awarding   compensation/rate
+                                revision/escalation. The stand of the Contractor is thus not tenable and is
+                                liable to be rejected. The findings of the majority award are clear and
+                                succinct - the scope of interference is very limited. This Court does not find
+                                any merit in the present petition.
+44.        The issue of multiplicity in arbitral proceedings also needs to be
+                                effectively dealt with to ensure that a long-drawn arbitral journey, as in the
+                                present case, is avoided. Parties to arbitration are expected to adhere to a
+                                bona fide discipline of use of arbitral processes. There appears to be a clear
+                                need for streamlining the same. The Delhi High Court has issued several
+                                practice directions under the Act. One such direction7 requires that when
+                                petitions under
+Section 9
+of the Arbitration and Conciliation Act, 1996, are
+                                filed, it is mandatory for the party to mention that no other petition on the
+                                same cause of action was filed. In an attempt to further avoid multiplicity of
+                                Tribunals and inconsistent/contradictory awards, as has arisen in the present
+                                case, the following directions are issued:
+i.    In every petition under
+Section 34
+of the Arbitration and Conciliation
+                                           Act, 1996 (hereinafter, "
+Section 34
+petition"), the parties
+                                           approaching the Court ought to disclose whether there are any other
+                                           proceedings pending or adjudicated in respect of the same contract or
+                                           series of contracts and if so, what is the stage of the said proceedings
+                                           and the forum where the said proceedings are pending or have been
+                                           adjudicated.
+7
+Practice Direction No.16/Rules/DHC, dated 7th December, 2009
+O.M.P. (COMM)392/2020                                                         Page 30 of 31
+Signature Not Verified
+Digitally Signed
+By:PRATHIBA M SINGH
+Signing Date:23.06.2020 13:41
+ii.   At the time when a
+Section 34
+petition is being heard, parties ought to
+                                       disclose as to whether any other
+Section 34
+petition in respect of the
+                                       same contract is pending and if so, seek disposal of the said petitions
+                                       together in order to avoid conflicting findings.
+                                iii.   In petitions seeking appointment of an Arbitrator/Constitution of an
+                                       Arbitral Tribunal, parties ought to disclose if any Tribunal already
+                                       stands constituted for adjudication of the claims of either party arising
+                                       out of the same contract or the same series of contracts. If such a
+                                       Tribunal has already been constituted, an endeavor can be made by
+                                       the arbitral institution or the High Court under
+Section 11
+, to refer the
+                                       matter to the same Tribunal or a single Tribunal in order to avoid
+                                       conflicting and irreconcilable findings.
+                                iv.    Appointing authorities under contracts consisting of arbitration
+                                       clauses ought to avoid appointment or constitution of separate
+                                       Arbitrators/ Arbitral Tribunals for different claims/disputes arising
+                                       from the same contract, or same series of contracts.
+45.    The present order be sent to the Ld. Registrar General for being
+                                placed before Hon'ble the Chief Justice for considering if any modifications
+                                are required to be made in the Rules of the Delhi High Court framed under
+                                the
+Arbitration and Conciliation Act, 1996
+.
+46.    The present order be also sent to the Secretary, Ministry of Law &
+                                Justice, Government of India and the Chairman, National Highway
+                                Authority of India.
+PRATHIBA M. SINGH
+                                                                                         JUDGE
+                                JUNE 23, 2020/dk/dj/T
+O.M.P. (COMM)392/2020                                             Page 31 of 31
+Signature Not Verified
+Digitally Signed
+By:PRATHIBA M SINGH
+Signing Date:23.06.2020 13:41
