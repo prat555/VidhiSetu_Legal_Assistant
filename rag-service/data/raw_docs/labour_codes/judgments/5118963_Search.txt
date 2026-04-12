@@ -1,0 +1,886 @@
+Title: Search
+Court: High Court
+Date: Unknown Date
+Citation: SCC
+741. That was a case where the Supreme Court had constituted the arbitral
+Source: https://indiankanoon.org/doc/5118963/
+
+[Cites
+30
+, Cited by
+2
+]
+Delhi High Court
+Mr. Vijay Gupta vs Ms. Renu Malhotra on 19 December, 2008
+Author:
+A.K. Sikri
+Bench:
+A.K.Sikri
+,
+Manmohan Singh
+Reportable
+                    IN THE HIGH COURT OF DELHI AT NEW DELHI
+
+                             + E.F.A. (OS) No.12/2008
+
+                                                      Date of Hearing: 05.11.2008
+                                                     Date of Decision: 19.12.2008
+
+#Mr. Vijay Gupta                            .....Appellant
+!                                           Through: Mr. Chandan Kumar
+
+                    Versus
+
+$Ms. Renu Malhotra                          .....Respondents
+                                            Through Mr. Deependra Hooda
+
+CORAM :-
+*THE HON'BLE MR.JUSTICE A.K.SIKRI
+THE HON'BLE MR. JUSTICE MANMOHAN SINGH
+
+      1.Whether Reporters of Local papers may be allowed to
+        see the Judgment?
+      2.To be referred to the Reporter or not?
+      3.Whether the judgment should be reported in the Digest?
+
+A.K. SIKRI, J.
+:
+1. A brief narration of factual matrix would suffice to decide an interesting
+
+      and important issue pertaining to the pecuniary jurisdiction of this Court to
+
+      entertain the execution petition.     The appellant herein had filed an
+
+      execution petition seeking enforcement of award dated 31.8.2005 whereby
+
+      awarding a sum of Rs.9,56,760/- with interest @ 10% from 1.9.2005 till
+
+      payment. Learned Single Judge held that this Court does not have the
+
+      pecuniary jurisdiction to entertain the said execution petition and
+
+      therefore, Registry is directed to return the said execution petition to the
+
+      decree holder for being filed before the appropriate court. It is on the
+
+      premise that the High Court has original civil jurisdiction in respect of
+
+      matters where the amount involved is more than Rs.20 lakhs.
+EFA (OS) No.12/08                                                       Page 1 of 16
+2. The facts, in brief, are as follows:-
+3. The appellant (hereinafter referred to as the 'decree holder') had certain
+
+      disputes with the respondent (hereinafter referred as the 'judgment
+
+      debtor') and therefore, the appellant filed application under
+Section 11(6)
+of the Arbitration and Conciliation Act, 1996 (hereinafter referred to as the
+
+      'Act') in this Court seeking appointment of arbitrator. This application was
+
+      filed in December 1998 when pecuniary jurisdiction of this Court was in
+
+      respect of those matters where value of the suit/proceedings is Rs.5 lakhs
+
+      and above.     Vide orders dated 27.2.2002 this Court appointed a Sole
+
+      Arbitrator to adjudicate the disputes. When the proceedings were pending
+
+      before the Arbitrator, the judgment debtor wanted to summon some
+
+      additional witnesses. For this purpose, the judgment debtor filed OMP
+
+      No.297/2003 in this Court seeking summoning of those four additional
+
+      witnesses, which application was entertained by this Court and allowed
+
+      vide orders dated 13.1.2005.
+4. The learned Arbitrator had also passed some interim directions in exercise
+
+      of his powers under
+Section 17
+of the Act. The judgment debtor again
+
+      approached this Court by filing application under
+Section 37(2)(b)
+of the Act
+
+      (OMP NO.382/2004). This petition was also contested on merits. Initially,
+
+      vide orders dated 29.10.2004 the impugned order was stayed subject to
+
+      judgment debtor furnishing an undertaking that she would not dispose of
+
+      the network/cable connection in question and will not create any third
+
+      party interest therein.      The judgment debtor had furnished such an
+
+      undertaking. Ultimately, that OMP was also disposed of by orders dated
+EFA (OS) No.12/08                                                       Page 1 of 16
+27.3.2006. In the meantime, as pointed above, the Arbitrator went ahead
+
+      with the adjudication on the main disputes and rendered his award dated
+
+      31.8.2005 awarding a sum of Rs.9,56,760/- with interest @ 10% per annum
+
+      from 1.9.2005 till payment in favour of the appellant. Since the judgment
+
+      debtor did not make payment, the decree holder filed Execution Petition
+
+      No.4/2006, which has met the fate as mentioned above, namely, the
+
+      learned Single Judge of this Court has refused to entertain the same for lack
+
+      of pecuniary jurisdiction.
+5. The pivotal fact which needs to be noted herein is that with effect from
+
+      25.5.2003 the pecuniary jurisdiction of this Court was raised from Rs.5 lakhs
+
+      to Rs.20 lakhs and above. Howsoever, all pending applications filed under
+
+      the Act were allowed to be heard by this Court. The judgment debtor filed
+
+      petition under
+Section 34
+of the Act in the District Court on 28.11.2005
+
+      challenging the award. However, before the learned Additional District
+
+      Judge the judgment debtor made a request for withdrawing the petition on
+
+      the ground that as the matter had earlier been proceeded with by the High
+
+      Court under
+Section 11
+of the Act, the District Court did not have the
+
+      jurisdiction to try the petition. The petition was allowed to be returned to
+
+      the judgment debtor for filing the same before the appropriate court.
+Thereafter, the judgment debtor sought review of order dated 18.4.2006
+
+      permitting withdrawal which was also dismissed vide orders dated
+
+      22.3.2007.    Against that order, FAO No.155/2007 is preferred by the
+
+      judgment debtor, which is still pending in this Court.
+EFA (OS) No.12/08                                                       Page 1 of 16
+6. The first relevant provision for examining the issue would be
+Section 2(e)
+of
+
+      the Act which defines "Court" as the entire issue is as to which is the
+
+      competent "Court" to entertain the execution petition. We will have to
+
+      initiate our discussion on this issue by taking note of this definition, which is
+
+      as under:-
+"court" means the principal Civil Court of original
+                          jurisdiction in a district, and includes the High
+                          Court in exercise of its ordinary original civil
+                          jurisdiction, having jurisdiction to decide the
+                          questions forming the subject-matter of the
+                          arbitration if the same had been the subject
+                          matter of a suit, but does not include any Civil
+                          Court of a grade inferior to such principal Civil
+                          Court, or any Court of Small Causes;"
+7. What clearly follows is that principal Civil Court of original jurisdiction in a
+
+      district, which has the jurisdiction to decide the question forming the
+
+      subject-matter of the arbitration if the same had been subject-matter of a
+
+      suit, would be the "Court" for the purpose of this Act. It specifically
+
+      includes the High Court which has ordinary original civil jurisdiction, like
+
+      Delhi High Court. The application under
+Section 11
+was filed, in the instant
+
+      case, in the year 1998 when Delhi High Court had the necessary original
+
+      civil jurisdiction to entertain the said application as the claim stated therein
+
+      was more than Rs.5 lakhs. At that time, the applicants were supposed to
+
+      approach the District Court. The legal position in this behalf was settled by
+
+      the Supreme Court in the case of M/s. S.B.P. & Co. v. M/s. Patel Engineering
+
+      Ltd. and Anr., JT 2005 (9) SC 219 wherein the Supreme Court, inter alia,
+
+      held that application under
+Section 11
+could be filed only in the High Court
+
+      or the Supreme Court inasmuch as per the provisions of
+Section 11
+, the
+EFA (OS) No.12/08                                                           Page 1 of 16
+power is with the Chief Justice of the High Court or the Supreme Court, as
+
+      the case may be, to entertain such petitions or any person authorized by
+
+      him and such a person could not be the District Judge.             Therefore,
+
+      application under
+Section 11
+is to be addressed to the Chief Justice of the
+
+      High Court which can be entertained by the Chief Justice or any other
+
+      designated Judge of the High Court.
+8.
+Section 42
+of the Act stipulates that where, with respect to an arbitration
+
+      agreement, any application has been made in a Court that Court alone shall
+
+      have jurisdiction over the arbitral proceedings and all subsequent
+
+      applications arising out of that agreement and the arbitral proceedings shall
+
+      be made in that Court and in no other Court. Precise language of that
+
+      Section is as under:-
+"
+Section 42-
+Jurisdiction- Notwithstanding
+                         anything contained elsewhere in this Part or in
+                         any other law for the time being in force, where
+                         with respect to an arbitration agreement any
+                         application under this Part has been made in a
+                         Court, that Court alone shall have jurisdiction over
+                         the arbitral proceedings and all subsequent
+                         applications arising out of that agreement and the
+                         arbitral proceedings shall be made in that Court
+                         and in no other Court."
+9. The question which arose for consideration, on an earlier occasion, was as
+
+      to whether by virtue of provisions of
+Section 42
+of the Act it would only be
+
+      the High Court which would entertain the execution petition, if the High
+
+      Court had appointed the Arbitrator under
+Section 11
+of the Act. By catena
+
+      of decisions the answer given to this question is in the negative. Some
+
+      judgments noted by the learned Single Judge in this behalf are:-
+EFA (OS) No.12/08                                                        Page 1 of 16
+i.    NDMC Versus D.K. Construction Company, OMP
+                           No.55/2005.
+ii.    National Thermal Power Corporation Versus R.S. Avtar
+                           Singh and Anr., 2002 (3) ALR 8 (Delhi).
+iii.   Kinetic Capital Finance Ld. Versus Anil Kumar Misra, 87
+                           (2000) DLT 405
+                    iv.    Apparel Export Promotion Council Versus Prabhati Patni,
+                           Proprietor Comfort Furnishers and Anr., 125 (2005) DLT
+511.
+10.The rationale given in the aforesaid judgments is that the expression "Chief
+
+      Justice" as contained in
+Section 11
+of the Act, is not synonymous with the
+
+      term the "Court" as defined in
+Section 2(e)
+of the Act, and therefore merely
+
+      because an Arbitrator has been appointed by the High Court, the same in
+
+      itself would not be sufficient to vest jurisdiction with the High Court to
+
+      entertain any other/subsequent applications relating to the said arbitral
+
+      proceedings in which the Arbitrator was appointed, irrespective of the
+
+      pecuniary limits on its jurisdiction.
+11.There was no quarrel about this proposition of law. We may only note that
+
+      even the Supreme Court has now affirmed the aforesaid view in the case of
+
+      Garhwal Mandal Vikas Nigam Ltd. v. Krishna Travel Agency, (2008) 6 SCC
+741. That was a case where the Supreme Court had constituted the arbitral
+
+      tribunal in an application filed under
+Section 11(6)
+of the Act. After the
+
+      award was made by the arbitral tribunal, petition under
+Section 34
+of the
+
+      Act was filed before the Supreme Court challenging that award.              The
+
+      Supreme Court held that if the plea of the respondent is accepted that
+
+      matter should be decided by the Supreme Court that would mean that in
+
+      every case where the Supreme Court passes an order, be it on appeal from
+EFA (OS) No.12/08                                                          Page 1 of 16
+the order passed by the High Court under
+Section 11(6)
+of the Arbitration
+
+      and Conciliation Act, 1996, the Supreme Court will become a Principal Civil
+
+      Court of Original Jurisdiction. If the argument is further taken to its logical
+
+      conclusion that would mean that the parties will have to approach the
+
+      Supreme Court by making an application under
+Section 34
+, i.e., for setting
+
+      aside the award. The expression "Court" used in
+Section 34
+of the Act will
+
+      also have to be understood ignoring the definition of "court" in the Act.
+
+      Similarly, if High Court exercises jurisdiction under
+Section 11(6)
+, the High
+
+      Court would become Principal Civil Court of Original Jurisdiction. In such a
+
+      situation, right to appeal under
+Section 37(1)(b)
+will also be circumvented.
+
+      Such a plea cannot therefore be accepted. The position in law was, thus,
+
+      summed up in the following manner:-
+"10. We further reiterate that the view taken by
+                         this Court in
+Natinal Aluminium Co. Ltd. v.
+                         Pressteel & Fabrications (P) Ltd.
+and
+State of Goa
+                         v. Western Builders
+is the correct approach and
+                         we reaffirm the view that in case any appointment
+                         of arbitrator is made by the High Court under
+Section 11(6)
+, the Principal Civil Court of Original
+                         Jurisdiction remains the District Court and not the
+                         High Court. And likewise, if an appointment of the
+                         arbitrator is made by this Court
+,
+in that case
+also,
+                         the objection can only be filed before the Principal
+                         Civil Court of Original Jurisdiction as defined in
+Section 2(1)(e)
+of the 1996 Act. Thus, in this view
+                         of the matter, we hold that the plea raised by the
+                         learned counsel for the petitioner that this Court
+                         should entertain the award given by the arbitrator
+                         appointed by this Court and all objections to it
+                         should be disposed of by this Court is
+                         unacceptable and consequently, the prayer made
+                         in the application is rejected."
+EFA (OS) No.12/08                                                         Page 1 of 16
+12.Learned counsel for the decree holder, however, wants to rely upon two
+
+      circumstances on the basis of which he seeks benefit of
+Section 42
+of the
+
+      Act. These are:
+a) when the application was filed by the decree holder
+
+                           under
+Section 11
+of the Act, the High Court had the
+
+                           pecuniary jurisdiction to entertain that application.
+Therefore, notwithstanding the judgment in Patel
+
+                           Engineering, which clarified the issue later, even
+
+                           otherwise the application under
+Section 11(6)
+of the Act
+
+                           in the year 1998 was maintainable only in the High Court
+
+                           and not before the District Court as the claim was more
+
+                           than Rs.5 lakhs. It is for this reason that application was
+
+                           preferred in the High Court, as otherwise because of the
+
+                           position in law prevailing as on that date, the District
+
+                           Court was competent to entertain the application under
+Section 11
+of the Act in those cases where the claim was
+
+                           less than Rs.5 lakhs;
+b) the judgment debtor had herself filed applications under
+Sections 27
+and
+37(2)(b)
+of the Act in this Court which
+
+                           were entertained by this Court and decided on merits.
+
+                           Thus, when earlier proceedings were filed in this Court
+
+                           with respect to an arbitration proceeding, this Court
+
+                           only had the jurisdiction over the arbitral proceedings
+EFA (OS) No.12/08                                                          Page 1 of 16
+and all subsequent application in view of
+Section 42
+of
+
+                         the Act.
+13.Before we proceed to consider these submissions, it would be necessary to
+
+      take note of certain judgments on which reliance was placed by the counsel
+
+      for the parties. Learned counsel for the appellant referred to and relied
+
+      upon the following judgments to buttress his aforesaid submission:-
+(
+i)    Sasken Communication Technologies Limited v. Prime Telesystems
+             Limited & Ors.
+, 99 (2002) DLT 640
+                         In this case the competency of Delhi High Court to
+
+             entertain the petition under
+Section 11(4)
+of the Act was challenged
+
+             on the ground that earlier application under
+Section 9
+of the Act
+
+             seeking interim measure was filed in the Bombay High Court and
+
+             therefore, in view of the position of law contained in
+Section 42
+, it
+
+             was only Bombay High Court which had necessary jurisdiction to
+
+             entertain subsequent proceedings.      Accepting this contention, a
+
+             learned Single Judge of this Court explained the legal position and
+
+             answered the issue as under:-
+"12.
+Section 42
+of the Arbitration Act relating to
+                         the jurisdiction of the Courts puts a positive
+                         embargo against the invoking of the jurisdiction of
+                         different Courts by laying down that
+                         notwithstanding anything contained elsewhere in
+                         the said part of the Act or in any other law for the
+                         time being in force, where with respect to an
+                         Arbitration Agreement any application under the
+                         said part has been made in a Court, that Court
+                         alone shall have jurisdiction over the arbitral
+                         proceedings and all subsequent applications
+                         arising out of an agreement and the arbitral
+                         proceedings shall be made in that Court and in no
+                         other Court. This section provides the Forum for
+                         entertaining the application under the Act and is
+EFA (OS) No.12/08                                                        Page 1 of 16
+intended to ensure that all the proceedings
+                    relating to an Arbitration Agreement take place in
+                    the same Court so as to avoid conflict of decisions.
+                    It is also intended to prevent undue harassment of
+                    the parties by putting them before the same Court
+                    in spite of competence of different Courts within
+                    the jurisdiction of which different parts of cause
+                    of action might have arisen. The contention of
+                    learned Counsel for the petitioner that
+Section 42
+of the Act creates a bar only when the earlier
+                    application is before a Court of competent
+                    jurisdiction is absolutely correct but the question
+                    as to whether the Court before whom an earlier
+                    application has been filed is a Court of competent
+                    jurisdiction or not has to be adjudicated by that
+                    Court itself. Other Courts cannot come into
+                    picture and entertain subsequent applications till
+                    the earlier Court holds that it has no jurisdiction.
+                    Therefore, so long Bombay High Court does not
+                    hold that it has no territorial jurisdiction in the
+                    matter and the Agreement between the parties
+                    conferring jurisdiction upon the Courts at Mumbai
+                    is not enforceable all applications under the Act
+                    have to be made before Bombay High Court only
+                    and in no other Court even if a part of cause of
+                    action has arisen within the jurisdiction of some
+                    other Court also.
+13. In the case of M/s. D.L.F. Industries v.
+Standard Chartered Bank and Another reported
+                    in AIR 1999 Delhi 11, the terms of Arbitration
+                    Agreement between the parties were quite
+                    identical to the terms between the parties in the
+                    present case. In the said case the parties had
+                    agreed that the venue of arbitration shall be at
+                    Bangalore and in the jurisdiction clause they had
+                    stipulated that the contract shall be governed by
+                    the Laws and Regulations of India and will be
+                    subject to the exclusive jurisdiction of the Courts
+                    at Bangalore. The only difference in the wordings
+                    of the
+Article 36.1
+as well as 37.1 in the present
+                    case and the Arbitration Clauses in the said case
+                    was the use of word "Bangalore" instead of
+                    "Mumbai". A learned Single Judge of this Court
+                    came to the conclusion that the contract was
+                    subject to the exclusive jurisdiction of the Courts
+                    at Bangalore. In para 7 of the judgment it was
+                    further held that
+Section 9
+and
+Section 42
+of the
+EFA (OS) No.12/08                                                   Page 1 of 16
+Act being in part I an application moved under
+Section 9
+also attracts
+Section 42
+of the Act and
+                          precludes the parties from moving any other
+                          Court in regard to the applications under the Act."
+(
+ii)   S.K. Contractor & Engineers v. Hindustan Petroleum Corporation
+             Limited
+, 2008 (2) Arb. LR 263 (Delhi)
+                          In this case also, an objection with regard to the
+
+             territorial jurisdiction of Delhi High Court to entertain the petition
+
+             filed under
+Section 34
+of the Arbitration and Conciliation Act was
+
+             raised. The agreement between the parties contained a clause by
+
+             which exclusive jurisdiction of the courts situated at Mumbai was
+
+             conferred. On this basis it was contended that even if part of cause
+
+             of action had arisen in Delhi, since exclusive jurisdiction was rested in
+
+             the court at Mumbai by agreement between the parties, petition
+
+             under
+Section 34
+could not be filed in Delhi. This argument was
+
+             countered by the petitioner submitting that on an earlier occasion
+
+             application under applications under
+Sections 12
+and
+13
+of the Act
+
+             was filed in Delhi High Court and the respondent had not raised any
+
+             objection with regard to jurisdiction and contested the said OMP on
+
+             merits. Therefore, the agreement by which exclusive jurisdiction was
+
+             conferred upon the Bombay High Court has been waived and by
+
+             virtue of
+Section 42
+of the Act, subsequent proceedings have to be
+
+             filed in Delhi High Court. Learned Single Judge of this Court accepted
+
+             this contention of the petitioner therein in the following manner:-
+"5. .....The said clause 14.10, therefore, clearly
+                          restricted the jurisdiction to the courts at Mumbai.
+                          However, this was by agreement between the
+                          parties. The case of the petitioner is that it is by
+EFA (OS) No.12/08                                                          Page 1 of 16
+agreement between the parties that this clause has
+                          been waived. This can be discerned from the fact
+                          that when the petitioner filed the earlier OMP No.
+                          388/2006 under
+Section 12
+and
+13
+of the said Act,
+                          the respondents raised no objection with regard to
+                          jurisdiction and, in fact, submitted arguments on
+                          merits. It is another matter that the said OMP No.
+                          388/2006 was dismissed by this Court but, it was
+                          not dismissed on the question of jurisdiction. I am
+                          in agreement with the learned counsel for the
+                          petitioner that by virtue of the fact that the
+                          respondent did not raise any objection with regard
+                          to jurisdiction when the earlier petition under the
+                          said Act had been filed before this Court, the
+                          respondent would be deemed to have waived the
+                          condition with regard to exclusivity of jurisdiction of
+                          the Courts situated at Mumbai. As much as clause
+14.10 is contractual, so is waiver (See:
+Dawsons
+                          Bank Ltd v. Nippon Menkwa Kabushiki Kaish
+                          (Japan Cotton Trading Co. Ltd
+: AIR 1935 Privy
+                          Council 79;
+Mademsetty Satyanarayana v. G.
+                          Yelloji Rao and others
+: AIR 1965 SC 1405; Supdt. Of
+                          Taxes, Dhubri and Others v.M/s Onkarmal
+                          Nathmal Trust: (1976) 1 SCC 766;
+Krishna Bahadur
+                          v. Purna Theatre and Others
+: (2004) 8 SCC 229).
+That being the case, the provisions of
+Section 42
+of
+                          the said Act would come into play. Since the first
+                          application had been filed before this Court, all
+                          subsequent applications under the said Act falling
+                          within the ambit of
+Section 42
+would also have to
+                          be filed before this Court.
+14.Learned counsel for the respondent, on the other hand, referred to the
+
+      following judgments in support of his plea:-
+(i)    Pandey & Co. Builders (P) Ltd. v. State of Bihar and Another,
+                    (2007) 1 SCC 467
+                                In this case, order of the Arbitrator was
+
+                    challenged by filing appeal under
+Section 37
+of the Act. This
+
+                    appeal was filed in the Patna High Court. The question which
+
+                    arose for determination was as to whether the appeal could be
+
+                    entertained by the High Court or it was to be filed in the
+EFA (OS) No.12/08                                                          Page 1 of 16
+District Court. In view of definition of 'court' appearing in
+Section 2(1)(e)
+of the Act, the Apex Court held that appeal
+
+                    against such an order of the Arbitrator lies before the 'court'
+
+                    and such a court has to be one which has the original
+
+                    jurisdiction. Since Patna High Court did not have the original
+
+                    jurisdiction, appeal was rightly returned by the Patna High
+
+                    Court on that ground.
+We are not directly concerned with such a
+
+                    situation in the instant case as Delhi High Court has the original
+
+                    jurisdiction as well. However, the only purpose for citing this
+
+                    judgment by the learned counsel for the respondent was that
+
+                    the expression "original jurisdiction" is to be read keeping in
+
+                    view the pecuniary jurisdiction and since the amount in
+
+                    question was less than Rs.20 lakhs, the High Court lacked the
+
+                    pecuniary jurisdiction to entertain the execution petition. He
+
+                    also referred to para 34 of the judgment which provides a
+
+                    distinction between an appeal and application in the following
+
+                    terms:-
+"34. There exists a distinction between an
+                                 appeal and an application.           Whereas
+Section 31(4)
+of the 1940 Act or
+Section 42
+of the 1996 Act provides for an application,
+                                 sub-section (2) of
+Section 37
+of the 1996 Act
+                                 provides for a statutory appeal. A forum of
+                                 an appellate court must be determined with
+                                 reference to the definition thereof
+                                 contained in the 1996 Act."
+EFA (OS) No.12/08                                                          Page 1 of 16
+(
+ii)   S.K. Brothers v. Delhi Development Authority
+, 152 (2008) DLT
+239
+The learned Single Judge of this Court in the case
+
+                    judgment refused to entertain the execution petition for
+
+                    executing the award/decree amount of which was less than
+
+                    Rs.20 lakhs, i.e., less than the pecuniary jurisdiction of this
+
+                    Court. However, in the process the learned Single Judge also
+
+                    expressed his view that execution application is not "arbitral
+
+                    proceedings" within the meaning of
+Section 42
+of the Act and
+
+                    the counsel for the respondent has referred to this judgment
+
+                    highlighting this aspect of the judgment dealt with by the
+
+                    learned Single Judge.
+15.We have considered the aforesaid submission in the light of various
+
+      judgments cited by the counsel for the parties. We have already opined
+
+      that in view of the law
+laid down in
+said judgments, particulars whereof are
+
+      given hereinabove, merely because the High Court appointed the Arbitrator
+
+      in the application filed under
+Section 11(6)
+of the Act would not mean that
+
+      subsequent proceedings, including execution petition have to be filed in the
+
+      High Court. If the amount of the award is less than Rs.20 lakhs the
+
+      execution petition shall have to be filed before the District Court which has
+
+      the necessary pecuniary jurisdiction to entertain the same. For this reason,
+
+      contention mentioned above needs to be rejected. Even if application
+
+      under
+Section 11
+filed in the year 1998 was because of the reason that this
+
+      Court had the pecuniary jurisdiction, would be of no avail. All said and
+
+      done, order for appointment was passed under
+Section 11
+of the Act and it
+EFA (OS) No.12/08                                                        Page 1 of 16
+is now a settled law that the expression 'Chief Justice' as contained in
+Section 11
+of the Act is not synonymous with the term 'Court' as defined in
+Section 2(e)
+of the Act. Therefore, benefit of
+Section 42
+cannot be taken on
+
+      this basis. What remains to be answered is as to whether the execution
+
+      petition is competent in this Court because on an earlier occasion
+
+      applications under
+Sections 27
+and
+37(2)(b)
+of the Act were filed in this
+
+      Court and therefore, all subsequent proceedings would be maintainable in
+
+      this Court alone by virtue of
+Section 42
+of the Act. No doubt,
+Section 42
+of
+
+      the Act confers exclusive jurisdiction on this Court over the "arbitral
+
+      proceedings and all subsequent applications arising out of that agreement."
+
+      However, execution application would be competent in this Court only if it
+
+      is in the nature of "arbitral proceedings". It has to be relatable to the
+
+      arbitral proceedings or be termed as 'application' arising out of the
+
+      arbitration agreement.
+Answer to this has to be in the negative in view of
+S.K. Brothers v. Delhi Development Authority
+(supra) holding that execution
+
+      application is neither "arbitral proceedings" within the meaning of
+Section
+
+      42
+of the Act or subsequent application arising out of the agreement. No
+
+      doubt, it is the judgment by a learned Single Judge.
+However, in arriving at
+
+      this conclusion the learned Single Judge has relied upon the judgment of
+
+      the Supreme Court in
+Pandey & Co. Builders (P) Ltd. v. State of Bihar and
+
+
+      Another
+(supra) and stated the position in the following manner:-
+"7. The Apex Court in
+Pandey & Co. Builders (P)
+                         Ltd. v. State of Bihar and Another
+, VIII (2006)
+                         SLT=IV (2006) CLT 313(SC)= (2007) 1 SCC 467, has
+                         further held that
+Section 42
+only applies to
+                         applications and not to appeals under
+Section 37
+of the Act. Applying the same reasoning, Section
+EFA (OS) No.12/08                                                         Page 1 of 16
+42 would also not apply to execution applications.
+                         The execution application is not "arbitral
+                         proceedings" within the meaning of
+Section 42
+of
+                         the Act and is not a subsequent application arising
+                         out of the agreement and the arbitral
+                         proceedings. In fact, the arbitral proceedings
+                         come to an end when the time for making an
+                         application to set aside the arbitral award expires
+                         and the execution application is an enforcement
+                         of the award which takes the colour of a decree
+                         under
+the CPC
+, by virtue of the provisions of
+Section 36
+of the Act."
+16.We are in agreement with the aforesaid view and the position in law
+
+      explained by the learned Single Judge in that judgment. For the aforesaid
+
+      reasons we hold that the impugned judgment returning the execution
+
+      petition is perfectly in order and does not call for any interference. We,
+
+      therefore, dismiss this appeal but leave the parties to bear their own costs.
+(A.K. SIKRI)
+                                                                  JUDGE
+
+
+
+December 19, 2008                                           (MANMOHAN SINGH)
+hp.                                                             JUDGE
+EFA (OS) No.12/08                                                        Page 1 of 16

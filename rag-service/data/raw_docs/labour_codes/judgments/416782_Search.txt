@@ -1,0 +1,643 @@
+Title: Search
+Court: High Court
+Date: 3 of 1949
+Citation: citations: AIR1969P&H110
+Source: https://indiankanoon.org/doc/416782/
+
+[Cites
+70
+, Cited by
+27
+]
+Punjab-Haryana High Court
+Bhaiya Ram Hargo Lal vs Mahavir Prasad Murari Lal Mahajan on 26 July, 1968
+Equivalent citations: AIR1969P&H110
+JUDGMENT
+
+
+ 
+
+ R.S. Narula, J.
+1. The circumstances in which the following three question of law have been referred to this Full Bench at the instance of P. C. Pandit, J. are given in substantial details in the order of reference passed by the learned Single judge, on July 23, 1968, and need not be recapitulated any detail:-
+(i) whether an ejectment application under section 13 of the  East  Punjab urban  Rent restriction Act (3 of 1949) can be field  without the prior issue of notice under section 106 of the Transfer of property Act, 1882;
+(ii) Whether the objection regarding  non-issue of a notice under section 106 of the Transfer of property Act can be waived by the tenant; and
+(iii) whether objection as to the validity of the notice can be waived by a tenant in a case in which a defective notice has been issued.
+2.    The admitted facts giving rise to this reference are that the respondent  (hereinafter called the landlord) gave one week's notice of ejectment to the petitioner (hereinafter referred to as the tenant) on July 26, 1965, before presenting an application to the Rent Controller for ejectment under
+Section 13 (3) (a) (I)
+of the East Punjab Urban Rent Restriction Act (3 of 1949) (hereinafter referred to as the Act) on August 27, 1965, and that the contractual monthly tenancy of Bhaiya Ram tenant had not been terminated any earlier by any other notice.  The saving of the notice was pleaded in the petition for eviction.  In the tenant's  written statement, the receipt of the notice was denied.  No issue was framed regarding the factum of service or validity of the notice referred to above.  The  Rent controller passed an order for ejectment which was upheld by the Appellate authority.   In the revision petition field by the tenant in this court under
+section 15
+of the Act, it was sought to be argued, inter alia, that no notice under Section 106 of the Transfer of property  Act terminating  the lease in favour of the tenant had been issued by the landlord before filing the  application for ejectment and, therefore, no order for eviction of the tenant under
+section 13
+of the Act could be passed against him.  It had been held by a division Bench of this  court (Falshaw and J. L. Kapur, JJ.)
+in
+Bawa Singh V. Kundan Lal
+, 1952-54 Pun LR 358=(AIR 1952 Punj 422), that the Act is a complete code by itself and, therefore, excludes the necessity of serving a notice under Section 106 of the Transfer of property Act as a condition precedent for successfully claiming ejectment of a monthly tenant.
+In
+Sawaraj Pal V. Janak Raj
+1968-70 Pun LR 720= (AIR 1969 Punj 26), my  Lord Shamsher Bahadur, J. and myself held following the subsequent chain of authorities by the supreme Court, to which reference will presently be made, that the only effect of a landlord succeeding in providing that his case fell within one of the clauses of
+Section 13
+entitling him to eject his tenant was to take the case out of the purview of
+section 13
+which grants a blanket protection against the eviction of the tenant subject to the exceptions carved out in that provision, and that the said section merely places further restrictions and fetters on the ordinary rights of a landlord to eject his tenant, but does not purport to take away any of the pre-existing rights of a tenant under the general law of the state.
+The Division Bench in
+Sawaraj  Pal
+'s case, 1968-70 Pun LR 720=(AIR 1969 Punj 26) (Supra) held, inter alia that the argument of the landlord to the effect that the act being a complete code by itself  could no more be invoked in view of the ratio of the judgments of the Supreme Court in cases under  the Bombay Rents, Hotel and Lodging House rates (control) Act (57 of 1947) (hereinafter called the Bombay Rent Act) and in
+Manujendra Dutt V. Purnedu Prasad Roy
+, AIR 1967 Sc 1419, under the West  Bengal Thika Tenancy Act.
+As the earlier Division Bench judgment in the case of Bawa Singh, 1952-54 Pun LR 358=(AIR 1952 Punj 422) (Supra) was not
+Sawaraj Pal
+'s case, 1968-70 Pun LR 720=(AIR 1969 Ounj 26) and as reliance was sought to be placed on the same for canvassing the point of view of the landlord, the learned Single Judge rightly thought it necessary to have the main point (question No. 1)  settled more authoritatively by a full bench on account of the apparent conflict between the two Division Bench Judgments, the earlier of which was not noticed in the later one though arguments on which the earlier judgment was based had been dealt with by us in
+Sawaral Pal
+'s case, 1968-70 Pun LR 720=(AIR 1969  Punj 26).
+This is how in the present reference we are called upto answer the above said three questions so as to resolve the conflict between the Division Bench judgments of this Court in the case of Bawa singh, 1952-54 Pun LR 358=(AIR 1952 Punj 422) on the one hand and the later Bench decision in
+Sawaraj Pal
+'s case, 1968-70 Pun LR 720=(AIR 1969 Punj 26) on the other.
+3.  It is the common case of both sides that the statutory provisions of the  Transfer of property Act do not apply to the Punjab.  Nor is there any dispute about the well settled proposition of law that the equitable principles contained in any of the provisions of that enactment have all along been and are entitled to be followed in Punjab and principles of equity, justice and good conscience relating to the points covered by those provisions, for or against which there is no specific statutory enactment in force in the State.  The first question on which the parties, therefore, joined issue before us during the course of their  arguments was whether the requirements of section 106 of the transfer of property Act, and if so to what extent, contain principles of equity, justice and good conscience which may be invoked as such by litigants in this state.  The  relevant part of section 106 of the Transfer of property Act reads:-
+"In the absence of a contract or local law or usage to the contrary.......................... a lease of immovable property for any other purpose (for any purpose other than agricultural or manufacturing) shall be  deemed to be a lease from month to month, terminable, on the part of either lessor or lessee, by fifteen day's notice expiring with the end of a month of the tenancy.
+Every notice under this section must be in writing signed by or on behalf of the person giving it, and either be sent by post.............."
+The relevant  requirements of the section in the absence of a contract or law to the contrary, are:-
+(1) a monthly tenancy can be terminated by a notice in writing;
+(2) the notice should be of fifteen days;
+(3) the fifteen days' notice must expire with the end of a month of the tenancy; and   
+ 
+
+ (4) the notice should be served in the manner prescribed by the section.
+Section 111 of the Transfer of property  Act enumerates the methods by which a lease of immovable property may be determined Clause (h) of that section which is relevant reads:-
+"A lease of immovable property determines on the expiration of a notice to determine the lease, or to quit, or of intention to quit, the property leased, duly given by one party to the other."
+Section 6
+of the Punjab Laws  act (4 of 1872) provides that in cases not otherwise  specially provided for i.e., in cases not covered by any statutory law or customary law or customary law personal law, the judges have to decide cases coming before them "according to justice, equity and good conscience."  It  is on account of the said statutory provision that the courts in the state are bound to decide questions - not covered by the general. Statutory, customary or personal law applicable in the state - according to justice, equity and good conscience.
+4.  If it is once, held as is claimed by the respondent that nothing contained in Section 106 of the Transfer of property Act can be invoked on principles of equity, justice or good conscience; and that a monthly tenant is not entitled to anonymous at all for being required to vacate the premises under his tenancy, no other question would arise in this case, In Chuni Lal V. Chuni Lal, AIR 1923 Lah 659, Moti Sagar , J. held that where there is no contract, Section 106 applies as the said section merely lays down in a codified form what in fact has always been understood to be the general law on the subject.  The learned judge went to the length  of holding that even an agreement to the contrary providing for one month's notice does not amount to validating a notice which might have been given at any time as an agreement to the contrary was only as to the period of the notice, but the notice must all the same end with the month of the tenancy as required by section 106 of the Transfer of property Act.
+The general law relating to the invoking of equitable principles contained in any statutory provision which does not otherwise apply to Punjab was lais down by a Full bench of the Lahore High Court In Milkha  Singh V. Mst. Shankari, AIR 1947 Lah 1 (FB).  The dispute there related to the invoking of the principles contained in Section 53A of the Transfer of property  Act, no part of the Act being otherwise applicable to the State of Punjab.  The bench of five judges held (by majority of four to one) that "the mention of section 53A, Transfer of property Act, in the proviso to
+Section 49
+, Registration Act, cannot deprive the province of the Punjab of the benefit of the proviso simply because the Transfer of property act is not in force in this province."
+It was held that though Section 53A was not applicable to the Punjab the principles embodied therein are applicable.  It was held that so far as the defence of part performance is concerned, the position in the Punjab is exactly the same as in other parts of the country where the Transfer of property Act is in force.  In hasham, v. Mt. Fazal Begum, AIR 1947 Lah 382, the question that arose before Achhru ram, J. was similar to the main point  with which we have to deal in this reference.  The claim for ejectment had been decreed by the District Judge on the ground that the premises in question were required by the plaintiff for her personal use and ejectment on that ground was permitted by the proviso to
+Section 10
+of the Punjab Urban Rent restriction Act (10 of 1941) which proviso contained exceptions to the bar contained in the purview of
+Section  10
+for maintaining a suit for ejectment subject to certain restrictions,  The proviso to
+section 10
+of the 1941 Punjab act was in the following terms:-
+"provided that nothing in this  section shall apply where the tenant  has committed any act contrary to the provisions of clause (o) or clause (p) of section 108, Transfer of property act, 1882, or has been guilty of conduct which is a nuisance or an annoyance to any adjoining or neighbouring occupier, or where the premises are reasonably and bona fide required by the landlord either for the erection  of buildings or for his own occupation or for the occupation of any person, for whose benefit the premises are held, o where the landlord can show any cause which may be deemed satisfactory by the Court."
+The District Judge had repelled the tenant's plea that the landlord was  not entitled to succeed as he had not terminated the monthly tenancy by a notice in terms of section 106 of the Transfer of property act.  The same point was pressed before the Lahore High Court in the second appeal before Achhru Ram, J.  Allowing the plea of the tenant, the learned judge held:-
+"The only effect of the plaintiff succeeding in establishing that the premises  were required by her for her own personal use was to take the case out of the purview of
+section 10
+which places certain restrictions on the ordinary common law right of a landlord to eject his tenant who is not holding for a fixed term by the service on him of a notice to quit.  It means that any suit brought for the ejectment of a tenant by a landlord who needs the premises for his own personal use shall be decided according to the ordinary law governing the relations between landlords and tenants and not with reference to the provisions of
+section 10
+according to which a six months'  notice to quit or notice or such longer period as may be required under the contract of tenancy is a condition precedent for the maintainability of a suit for the tenant's ejectment."
+4A.  In spite of the fact that the Transfer of property Act did not apply to the Punjab, it was held by the Lahore High Court in Hasham's  case, AIR 1947 Lah 382 (Supra), that a tenancy which is for a fixed term can except in cases where the tenant has done or omitted to do something which involves a forfeiture of the tenancy or otherwise gives the landlord the right of re-entry, be determined only by the service on the defendant of a valid notice to quit, and without the determination of the tenancy a suit for ejectment  cannot be maintained.
+In Rattan Sen V. Smt. Krishna Kaur AIR 1933 Lah 134, and in a recent Judgment of the Delhi High Court in C. L. Mehra & Sons  V. Kharak Singh, 1968-70 Pun LR (Delhi) 55, it was held that in the absence of a contract to the contrary a monthly tenant is entitled  to at least  a fifteen days' notice of eviction even in places where the Transfer of property Act does not apply.  It was in this state of law that Shamsher Bahadur J., and myself held in  Sawaraj pal's case, 1968-70 Pun LR 720=(AIR 1969 Punj 26) that a monthly tenancy in the Punjab in the absence of a specific contract and in the absence of any statutory provision to the contrary, cannot be terminated without serving at least fifteen days' notice of eviction as a condition precedent to the claim of possession in an action under the Act.  Out of the relevant requirements of Section 106 of the Transfer of property Act,  it appears to us that the statutory presumption of a tenancy being monthly and the requirement of service of a notice of ejectment contain  principles  of equity, justice and good conscience.  So far as the second ingredient of the section is concerned that is, about the notice being for fifteen days, all that need be said is that once it is held that a notice of ejectment is necessary, it goes without saying that such notice must be reasonable.  What is reasonable notice may normally depend on the circumstances of each case, but it appears to us that the period of fifteen days required by Section 106 is practically the minimum reasonable period required for terminating a monthly tenancy.
+Mr. Gokul Chand Mittal, the learned counsel for the landlord-respondent, referred to the following  passage in the judgment of the Supreme court in Namdeo Lokman V. Marmadabai, AIR 1953 SC 228 (at P. 233):-
+"In our opinion, the provision as to notice in writing as a preliminary to a suit for ejectment based on any principles of justice, equity or good conscience and cannot govern leases made prior to the coming into force of the Transfer of property Act, 1882, or to leases executed property to 1-4-1930."
+And argued that on the analogy of the judgment of the Supreme court in  Namdeo's case. AIR 1953 SC 228 it should be held that the requirements of clause (h) of section 111, and of section 106 of the Transfer of property Act, cannot be invoked as they are not based on any principles of justice, equity or good conscience.
+The argument of Mr. Gokal Chand Mittal appears to us to be misconceived.  Their Lordship held in Unequivocal terms (paragraph 16 of the AIR report) that "it is axiomatic that the Court must apply the principles of justice, equity and good conscience transactions which come up before them for determination even though statutory provisions of the Transfer of property Act are not made applicable to these transactions."
+On that basis it was, therefore, held "that the provisions of the Act (transfer  of property Act) which are but a statutory recognition of the rules of justice, equity and good conscience also govern those transfers.  If, therefore we are satisfied that the particular principle to which the legislature has now given effect by the amendment of Section 111(g) did in fact represent a principle if justice, equity and good conscience, undoubtedly the case will have to be decided in accordance with the rules laid down in the section., although in express terms it has not been made applicable to leases executed prior of 1929 or even prior to the Transfer of property act coming into force"  The radio of the judgment is contained in the above quoted passage.  It  was on applying the principles set out in the passage quoted above that their Lordships of the Supreme court held in Namdeo's case, AIR 1953  SC 228 that the introduction of the provision for service of a notice under clause (g) of Section 111 of the Transfer of property Act by the amending Act of 1929 was not based of principles of equity, justice or good conscience.  That cannot possibly be held to apply to the requirement of a notice of termination of a monthly tenancy referred to in section 106 of the Transfer of property Act which provision has been enacted in recognition of a pre-existing principle of equity and good conscience, we, therefore, hold that the principles of section 106 of the Transfer of property Act have to be invoked under
+section 6
+of the Punjab Laws Act and are accordingly deemed to be requirements of law in the absence of any statutory provision or contract to the contrary.
+At the same time we have not been persuaded by the petitioner hold contrary to what we decided in sawaraj
+Pal
+'s case, 1968-70 Pun LR 720=(AIR 1969 Punj 26) about the third requirement of the section relating to the necessity of the notice terminating strictly with the end of the month of a tenancy not being  part of the general law as the said rule is too technical to be called in aid as a mere principle of equity.
+5.  Having held that despite the fact that the Transfer of property act is not applicable to the state of Punjab, it  is necessary under the general law of the land to terminate a monthly tenancy by at least fifteen day's notice of ejectment, all that remains to be considered in connection with the first question is whether the said requirement (which will for the purposes of the said question be treated on the same level as a statutory requirement) has been abrogated by anything contained in the
+East Punjab Urban Rent Restriction Act
+1949 or not.  Before dealing with the first question referred to us.  I would refer to the case law on the subject in a year wise chronological order.
+6.  In Gurupada Haldar Jiban Kriashna  Das Firm V. Arjoondas Goenka, AIR 1949 Cal 61, a learned Single judge of the Calcutta High court had to deal with proviso (b) to
+section 12 (1)
+of the Calcutta Rent Ordinance (1946) which provided that a tenant would lose the immunity from eviction conferred by
+section 12 (1)
+of the said Ordinance, where in the absence of a contract the contrary, the tenant had without the consent of the landlord in writing sub-let the premises.
+Section 12 (1)
+gave protection to tenants against eviction and the proviso contained the category of cases in which the protection given by the purview would be lost.  I t was argued on behalf of the tenant the despite his case falling squarely in clause (b) of the proviso referred to above, he was not liable to ejectment without the service on him of a notice to quit the premises.  Biswas, J. held that ejectment could not be ordered unless it was proved (I) that the requisite notice to quit had been served; and also (ii) that the tenant had done something which deprived him of the protection to which he would otherwise  have been entitled to under the purview of
+Section 12 (1)
+of the Ordinance.  The abovesaid judgment of the learned single Judge of the Calcutta High court was specifically disapproved by J. L. Kapur, J. in Hem chand V. Smt,sham Devi, 1955-57 Pun LR 441, to which case reference will presently be made.
+7.   Next comes the judgment of the Supreme court in
+Brij Raj Krishna v. S. K.
+shaw  and brothers.  AIR 1951 SC 115. , on certain observations in which reliance has continuously been thereafter placed for holding in favour of the landlord on the point in question.  It is therefore, necessary to deal with that case at a little  length.  The landlord field an application under
+Section 11 (1) (a)
+of the Bihar Buildings (Lease Rent and Eviction) control act (3 of 1947) (hereinafter called the Bihar Act) before the House controller for the eviction of the tenant on the ground of non-payment of rent
+Section 11 (1)
+of the Bihar act provided:-
+"Notwithstanding anything contained in any agreement or law to the contrary  and subject to the provisions of
+section 12
+, where attendant is in possession of any building, he shall not be liable to be evicted therefrom, whether in execution of a decree of otherwise except.........................."
+Then followed the list of cases in which the protection conferred by
+Section 11 (1)
+would not be available to a tenant.  The House Controller passed an order for the eviction of the tenant on the ground of non-payment of rent.  The commissioner upheld the order in appeal.  The tenant thereupon field a suit in the Munsif's Court at Patna for a declaration to the effect that the order of the controller was illegal, ultra vires and without jurisdiction.  The decree of the trial court dismissing that suit of the tenant was upheld in appeal, but the High Court reversed the same and held that the order of House controller was without jurisdiction.  The High Court observed that the expression ""non-payment of rent" in section 11 of the Bihar Act must be given an interpretation which would have the effect of enlarging the protection against the determination of a tenancy enjoyed by a tenant under the ordinary law, and therefore the tenant who brought all the rent due from him in court before the order of his eviction in court be passed, was deemed to be protected against eviction.  For so holding reliance was placed on section 111 of the Transfer of property Act.
+On a  certificate granted by the High court, the landlord went up in appeal to the Supreme court.  It was held by Fazl ali, J., who wrote the judgment of the court, that any attempt to  import the provisions relating to the law of Transfer of property for the interpretation of
+section 11
+of the Bihar act would seem to be out of place as that section begins with the words "notwithstanding anything contained in any agreement or law to the contrary."  I t was  in that context that the learned Judge observed that
+section 11
+of the Bihar act is a self-contained section and it is wholly unnecessary to go outside the Bihar Act for determining whether a tenant is liable to be evicted or not and under what conditions he could be evicted.  Their Lordships of the supreme court held that inasmuch as
+Section 11
+of the Bihar act clearly provided that a tenant was not liable to be evicted except on certain conditions and one of the conditions laid down for the eviction of a  monthly tenant was non-payment of rent and if the controller was satisfied that there had been non-payment of rent, an order for ejectment had to be passed.  It is noteworthy that the question which was before the Supreme court in
+Brij Raj Krishna
+'s case, AIR 1951 SC 115 (Supra), was whether the scope of the exception to the protection granted to tenants against eviction could be enlarged by invoking the provisions of some enactment containing the general law the operation of which had been excluded by the non obstante clause with which
+section 11
+started.
+No question of applying the general law of the land on the point on which the special Act was silent arose in that case.  What the Patna high court had held, which was not approved by the supreme court, was that though Section 11 (3) (b) of the Bahir Act provided that "controller shall, if he is satisfied that the claim of the landlord is bona fide, make an order directing the tenant to put the landlord  in possession of the building" in case of non-payment of rent,  the provision conferred a right upon the landlord very much in excess of the right that he enjoys under the ordinary law in the matter of determination of tenancy and unless the section was interpreted in the manner which appealed to the High Court, it would have conferred very much larger power on the Civil courts under the ordinary law in the matter of passing decrees for eviction of tenants.
+The Patna High court had further held that the principles of law and equity on which relief against forfeiture for "non-payment of rent" is based, will have been completely abrogated, and he protection of a tenant in possession of a building in stead of being enlarged will have been very much curtailed."  It was in this context that the supreme court held that the Bihar  Act sets up a complete machinery for the investigation of the matters referred to in the relevant section upon which the jurisdiction of the controller to order eviction of a tenant depends, and that, therefore, the controller alone had to decide whether or not there was non-payment or rent and no suit lay against his such finding as his decision had been made final by the act.
+Their  Lordships observed that the Bihar Act has entrusted controller with a jurisdiction which uncludes the authority to determine whether there is non-payment of rent or not, and also to order eviction of a tenant in case he is found guilty of non-payment and that even if the controller might be deemed to have wrongly decided the question of non-payment of rent, his order could not be questioned in a Civil court.  The landlord's appeal to the Supreme court was allowed on that short ground.  The above analysis of the judgment of the supreme court in the case of Brij Raj Krishna,  AIR 1951 SC 115 would show that the Supreme Court never held that  in the absence of a specific statutory provision or a contract to the contrary, the requirements of section 106 of the transfer of property Act are abrogated by a provision in  a Rent control act which merely grants projection against eviction to tenants subject to certain exceptions.
+8.    Then comes the judgment of Fal shaw and J. L. Kapur, JJ.,  in 1952-54 Pun LR 358=(AIR 1952 Punj 422) (Supra) on account of which this reference to this Full Bench has been necessitated.  The case arose under this very Punjab act (East Punjab Urban Rent restriction act, 3 of 1949).  Notice of ejectment had actually been issued in that case requiring the tenant to vacate the premises by the 1st of October, 1950.  The controversy related to the validity of that notice under section 106 of the Transfer of property act.  It was the contention of the landlord to the effect that the rent act which was a complete code by itself, had superseded the provisions of the Transfer of property act,  that prevailed with the learned judges of the division  Bench, J. L. Kapur, J., with whom Falshaw , J., agreed referred to some English and Indian decided cases, and firstly held on the facts of the case that the court below was in error in holding that the notice was not a proper one.  He further observed that the relationship between landlord ands tenant was at that time regulated in the Punjab by the 1949 act, and after referring to the provisions of
+section 13
+of the act, and to the judgment of the supreme court in the judgment of the supreme Court in the case of  Brij Raj  Krishna AIR 1951 SC 115, held:-
+"This shows quite clearly that in order to determine whether a tenant has become liable to eviction or not, the controller must confine himself to the provisions of the act,  and to no other provision."
+The learned judge distinguished the judgment in Hasham's case, AIR 1947 Lah 382 (Supra) on the ground that the wording of the proviso in the 1941 Punjab Act was different inasmuch as Section 108 of the transfer of property Act had been specifically referred to therein, and it could not, therefore, be said that the rule laid down in that case by Achhru Ram, J., would be applicable to a case where the elaborate and self-contained provision of the Rent restriction act applied.
+9.  a Division bench of the Bombay High court (Chagla, C. J. and Bhagwati, J.), was called upon to consider the scoped and effect of section 28 of the Bombay act in Raghubit Narayanan V. G. A> Fernandes, AIR 1953 Bom 76.  Their Lordships held that
+Section 28
+of the Bombay Act applied only to those suits between a landlord and tenant where a landlord had  become entitled to possession or recovery of the demised premised and that a landlord becomes entitled to possession only where there is determination of tenancy, which can be determined by any of the modes laid down in section 111 of the transfer of property Act.  The Bench of the Bombay High Court, further held that once a tenancy is determined as aforesaid then section 108(q) of the Transfer of property act, requires the lessee to put the lessor into possession of the property, and that it was, therefore, clear that it was only on the determination of the lease or tenancy that the landlord becomes entitled to the possession of the property and it is only then that he can file a suit for a decree for possession in which case section 28 applies and in such a case suit can only be filed  as provided in the Bombay rent Act.
+If the law laid down by chagla, C. J. and Bhagwati, J. is correct, we would be bound to answer question No.1 referred to us in favour of the tenant.
+It may be mentioned at this very stage that the abovesaid judgment of the Bombay High Court was expressly approved by their Lordships of the supreme court in the case of
+Punjalal Bhagwanddin v. Bhagwatiprasad Prabhuprasad
+, AIR 1963 SC 120.
+10.  Another judgment which was approved by the supreme Court in the same case was given by a division bench of the Saurashtra high court (Shah, C. J. and Baxi, J.) in Karsandas Ramji V. Karsanji, AIR 1953 Sau 113.  The question that arose before the Saurashtra High court related to the applicability of sections 108 and 111 of the Transfer of property act to an action for ejectment  field under the Bombay Rent Act, which Act was held to apply to Saurashtra.  The Division bench held in so many words that a tenancy must be duly determined either by a notice to quit or by efflux of time or under one or other of the clauses of section 111 of the Transfer of property Act, before a landlord can sue to evict his tenant on any of the grounds contained in the various clauses of sub-section (1) of section 13 of the Bombay Rent Act.  Reference was made by the Saurashtra high court to the judgment amongst others of Achhru  Ram, J. in Hasham's case, AIR 1947 Lah 382 (supra) for coming to the abovementioned conclusion.  The learned Judges held that  repeal of the relevant provision of the Transfer of property Act could not be implied from the provisions of
+section 15
+or from any other provisions of the Bombay rent Act.
+11.  In ILR 1955 Punj 36=1955-57 Pun LR 441, the same question came up for consideration before another Division Bench of this Court consisting of G. D. Khosla and J. L. Kapur, JJ.  The main judgment was written by Khosla, J.  The learned Judge observed that on a first reading of
+section 9
+of the Delhi and Ajmer -Merwara Rent control act (19 of 1947) it appeared to hi m that the provisions of the Rent control Act were only put in a negative form and were not enabling.  On a careful reading of the judgment of the supreme Court in the case of Brij Raj Krishna. AIR 1951 SC 115, however he came to the conclusion that the 1947
+Delhi Rent Act
+was "really a complete code in itself" and then held-
+"It seems to me, therefore, that the Rent control Act lays down not only the rights inter se of the landlord and tenant, but also provides the procedure for obtaining the relief of ejectment, and that being so, the provisions of section 106 of the Transfer of property act requiring the serving of so notice upon the tenant have no relevance when considering an application for ejectment made under the Rent control Act.  I am therefore, of the opinion that no notice was necessary in this case."
+12.  It  appears that the judgment of the Calcutta high court in Gurupada Haldar Jiban Krishana Das's case, AIR 1949 Cal 61 (Supra) had been cited before the  Bench on behalf of the tenant. J. L. Kapur, J. , who appended a separate short note of his own while agreeing with the order proposed by Khosla, J., added in that connection as below:-
+"Mr. Bishan Narain referred to a judgment of the Calcutta High court in AIR 1949 Cal 61 (Supra), where it was held that the provisions of section 108 of the Transfer of property Act are applicable in spite of the fact that the Act of West Bengal provides that the Calcutta Rent ordinance would be applicable notwithstanding anything contained in the Transfer of property Act of 1882.  With due deference to the opinion of the learned Judge, I am unable to agree that if the provisions of the Calcutta ordinance were applicable in spite of the Transfer of property Act, the provisions with regard to notice would also be applicable."
+13.   It would thus be observed that whereas the personal inclination of Khosla, J. in Hem Chand's case, ILR (1955) Punj 36=37 Pun LR 441 was in favour of the tenant, he appeared to be completed to hold in favour of the landlord as he did, on the assumption that the observations of Fazal  Ali, J. in
+Brij Raj Krishna
+'s case, AIR 1951 SC 115 (already referred to) had impliedly laid down that the provisions of section 106 of the Transfer of property Act had been abrogated by the relevant provisions in the Rent control act. J. L. Kapur J., had already expressed his opinion on the point in question while writing the judgment of Division Bench in the case of Bawa singh, 1952-54 Pun LR 358=(AIR 1952 Punj 422).
+While re-affirming the same view the learned Judge categorically  disapproved of the principles
+laid down in
+the judgment of the Calcutta High court in Gurupada Haldar Jiban Krishna Das's case AIR 1941 Cal 61.  It is noteworthy that the correctness of the view expressed by a division Bench of this court in Hem Chand's case, ILR (1955) Punj 36=37 Pun LR 441 came up for consideration before the supreme Court in AIR 1963 SC 120 (to which judgment detailed reference will hereinafter be made), and their Lordships expressly abstained of the Division Bench of this Court had laid down the correct law in this respect or not.
+14.
+In
+Ganga Dutt Murarka V. Kartik Chandra Das
+AIR 1961 SC 1067, it was held that  where a contractual tenancy to which the rent control legislation applies has expired by efflux of time or by  determination by notice to quit and the tenant continues in possession of the premises by virtue of statutory protection, the occupation of the premises by the tenant is not because of any right arising from the contract which has already  been determined and that the statue protects his possession so long as the conditions which justify the lessor in obtaining an order of eviction do not exist.  Their Lordships further held that once the prohibition against the exercise of jurisdiction by the court is removed, the right to obtain possession by the lessor under the ordinary law springs into action and the exercise of the lessor's right to evict the tenant will not, unless the stature provides  otherwise, be conditioned.
+The case arose under
+Section 12
+of the Calcutta Rent Ordinance (5 of 1946).  The said section provided, inter alia, that notwithstanding anything contained in the Transfer of property act, the presidency Small Cause courts Act or the
+Indian Contract  Act
+, no order or decree  for the recovery of possession of any premises shall be made so long as the tenant pays rent to the full extent allowable by the ordinance and performs the conditions of the tenancy.  Exceptions against the protection contained in the purview of
+section 12
+were carved out in the proviso  to that section which permitted landlords to obtain possession of the tenancy premises if the conditions specified in the proviso were fulfilled.
+The ordinance was replaced by West Bengal Act 1 of 1947 which was, for all practical purposes in the same terms.  The landlord served notice, dated May 15, 1947, on the tenant to vacate and deliver possession of the premises on the expiry of the contractual of the period of the tenancy which expired  on June 15, 1947.  Though possession was not delivered in spite of the termination of the contractual tenancy, the landlord continued to accept rent in the meantime,  West Bengal Act, 1 of 1947, was replaced  by West Bengal Act 5 of 1948 and the same was in turn replaced by the West Bengal  Act 38 of 1948 which ultimately gave place to West Bengal premises Rent control act, 1950.
+Section 12
+of the 1950 Act gave protection to tenants against eviction including  those whose tenancies had expired.  At the same time, it was provided that the landlord would be entitled to obtain a decree for ejectment on specified grounds.  After the 1950 Act had come into force, the landlord served a notice upon the tenant "to quit, vacate and deliver possession of the premises occupied", which the tenant was described as holding as :monthly tenant" on the expiry of April 14, 1951.  The tenant having failed to comply with the notice, the action of the landlord in the Small Cause court was decreed in his favour.
+The first Appellate court reversed the decree on the ground that acceptance of rent after the determination of the tenancy gave the appellant the status of a "tenant holding over", and since the tenancy was for a manufacturing purpose, it could be determined only by six months' notice expiring with the year of tenancy, which notice had not been served.  The landlord's second appeal was accept by the High court and the decree of the small Cause Court directing the eviction of the tenant was restored.
+In a further appeal to the Supreme court  under
+Article 133(1)(c)
+of the Constitution  it was held, as already stated,  that the necessity to give notice under section 106 of the Transfer of property Act relates to a contractual tenancy or to a statutory tenancy.  Their Lordships further held that where a contractual tenancy to which the rent control legislation applies has expired either by efflux of time or by determination by notice to quit and the premises, acceptance of rent from the tenant by the landlord after the determination of the contractual tenancy would not afford ground for holding that the landlord has assented to a new contractual tenancy.
+15.   In AIR 1963 SC 120 the relevant facts were these.  On October 16, 1954, the landlord gave notice to the tenant to quit the premises on the last date of the month of the tenancy as he had not paid arrears of rent for over six months.  On December 16, 1954, the landlord field a  suit for the ejectment of the tenant under
+section 12 (3) (a)
+of the Bombay rent Act.  The trial court decreed the suit for ejectment.  Tenant's appeal against the decree of the trial Court and a further petition for revision to the High court were both dismissed.  In further appeal to the supreme Court by special leave of that court under
+Article 136
+of the Constitution, one of the points urged on behalf of the tenant was that the notice to quit was not given in accordance with law as it did not comply with the requirements of section 106 of the Transfer of property Act.  It was in that context that the Supreme court proceeded to determine whether it is a condition  precedent for the institution of a suit by a landlord for the recovery of possession from a tenant who has  been in arrears of rent that there had been first determination of the contractual tenancy.
+In that context Raghubar Dayal  J., who prepared the judgment of the court observed as below:-
+"When a tenancy is created under a contract between the landlord and the tenant,, that contract must hold good and continue to be in force till according to law or according to the terms of the contract. It comes to an end.  Section 111 of the Transfer of property Act sales the various  circumstances in which a lease of immovable property determines.  Clause (h) provides for the determination of the lease on the expiration of a notice to determine the lease, or to quit, or of intention to quit, the property leased, duly given by one party to the other.  There is nothing  in the act which would give a right to the landlord  to determine the tenancy and thereby to get the right to evict the tenant and recover possession.  This act was enacted for the purpose of controlling the rents and repairs of certain premises and of evictions due to the tendency of landlords to take advantage of the extreme scarcity of premises compared to the demand for them.
+The Act
+intended therefore, to restrict the rights which the landlords possessed either for charging excessive rents or for evicting tenants.  A tenant stood in no  need of protection against eviction by the landlord so long as he had the necessary protection under the terms of the contract between him and the landlord.  He could not be evicted till his tenancy was determined according to law and therefore there  was no necessity for providing any further protection in the act against his eviction so long as his tenancy continued to exist under the contract.
+Sub-section (1) of
+section 12
+of the Act provides that a landlord  shall not be entitled to the recovery of possession of any premises so long as the tenant pays, or is  ready and willing to pay, the amount of the standard rent and permitted increases, if any and observes and performs the other conditions of the tenancy, in so far as they are consistent with the provisions of the Act.  It creates a restriction on the landlord's right to the recovery of possession.  When the landlord will have such a right is not provided by it.  Ordinarily the landlord will have a right to recover possession from the tenant when the tenancy had determined.  The provisions of this section therefore will operate against the landlord after the determination of the tenancy by any of the modes referred to in Section 111 of the Transfer of property Act.  What this section of the Act provides is that even after the determination of the tenancy, a landlord will not be entitled to recover possession, though a right to recover possession gets vested in him, so long as the tenant complies with that he is required to do by this section.  It is this extra protection given by this section which will be useful to the tenant after his tenancy has determined.  The section does not create a new right in the landlord to evict the tenant when the tenant does not pay his rent.  It does not say so and therefore it is clear that a landlord's right to evict the tenant for default in payment or rent will arise only after the tenancy is determined and the continued possession of the tenant is not on account of the contractual terms but on account of the statutory right conferred on him to continue in possession so long as he complies with what sub-section (1) requires of him.  The landlord is restricted from evicting the tenant till the tenant does not do what he is required to do for peaceful possession under sub-section (1) of
+section 12
+.  We are, therefore of opinion that where a tenant is in possession under a lease from the landlord, he is not to be evicted for a cause which would give rise to a suit for recovery of possession under
+section 12
+if his tenancy has not been determined already.  It follows that whenever a tenant acts in a way which would remove the bar on the landlord's right to evict him, it is necessary for the landlord to serve him with a notice determining his tenancy and also serve him with a notice under sub-section (2) of
+Section 12
+of the Act."
+It is significant that sub-section (2) of
+Section 12
+provided for a special kind of notice not required under the ordinary law as a condition precedent for getting the premises vacated on the ground of non-payment of rent.  That notice had also to be served in the manner provided by section 106 of the Transfer of property Act. Despite these facts it was unequivocally held by their Lordships of the Supreme court that the provisions of
+Section 12
+of the Bombay Rent act would operate against the landlord only after the determination of the tenancy by any of the modes referred to in section 111 of the Transfer of property. Act and that whenever a tenant acts in a way, which would remove the bar on the landlord's roght to evict him, it is necessary notice determining his tenancy in addition to the notice required under sub-section 92) of
+section 12
+.
+Their lordships observed that possession of the lessee after the expiry or determination of the lease was by virtue of the provisions of the Act and not by virtue of the extension of the period of lease.  As already observed at an earlier stage in this judgment the supreme court expressly approved the observations of Chagla, C. J. and Bhagwati, J., in AIR 1953 Bom 76 (Supra) and also referred with approval to the judgment of the Saurashtra High  Court in AIR 1953 Sau 113 (Supra).  When a reference was made to their own earlier judgment in AIR 1951 SC 115 (Supra), their Lordships of the Supreme Court pointed out that section 12 of the Bombay Rent Act was worded differently from section 11 of the Bihar Act.  It was held that there is nothing in
+Section 12
+of the Bombay Rent act which overrides the provisions of the Transfer of property Act.  I have already referred to the supreme court having left the question of the correctness of the judgment of a Division  Bench of this court in Hem Chand's case, ILR (1955) Punj 36=37 Pun LR 441 (Supra), open.  They did mention that there is nothing in the Bombay  Rent Act corresponding to the provisions of
+section 13 (1)
+of the Delhi and Ajmer-Merwara Rent control Act, but left the Punjab case with the following observations:-
+"It is unnecessary for us to  consider whether  Hem Chand's case, ILR (1955) Punj 36, was rightly decided or not."
+Whereas one side has contended before us that this amounts to the supreme court not having approved of the judgment of this court in Hem Chand's case, ILR (1955) Punj 36 when an opportunity arose for doing so, the other side has contended that the Supreme  Court did not hold the Punjab case to have been wrongly decided.  All that the mean is that their Lordships expressly abstained from expressing their opinion on the point decided by this court in Hem Chand's case, ILR (1955) Punj 36 one way or the other.
+In
+Punjalal Bhagwandan
+'s case, AIR 1963 SC 120 the Supreme court clearly brought out a distinction between "right to possession "on the one hand and the "right to recover possession" on the other; and held that right to possession arises when the tenancy is determined, and the right to recover possession follows the right to possession and arises when the person in possession does not make over possession as he is bound to do under the law , and there arises the necessity to recover possession through court for which certain additional hurdles have been placed in the way of the landlord by the Rent restriction Act.  It was in this context that the Supreme Court held:-
+"It is clear that the provisions of
+section 12
+deal with the stage of the recovery of possession and not with the stages prior to it and that they come into play only when the tenancy is determined and a right to possession  has come in existence, of course , if there was no contractual tenancy, and a person is deemed to be a tenant only on account of a statute giving him right to remain in possession, the right to possession arises on the person in possession acting in a manner which according to the statute, gives the landlord right to recover possession, and no question for the determination of the tenancy arises, as really speaking there was no tenancy in the ordinary sense of that expression.  It is for the sake of convenience that the right to possession, by virtue of the provisions of a statute , has been referred to as statutory tenancy."
+The conclusion of the supreme Court on the relevant point in
+Punjalal Bhagwandin
+'s case, AIR 1963 SC 120 was couched in the following language:-
+"We are, therefore, of opinion that so long as the contractual tenancy continues a landlord cannot sue for the recovery of possession even if
+section 12
+of the Act does not bar the institution of such a suit, and that in order to take advantage of this provision of the Act he must first determine the tenancy in accordance with the provisions of the Transfer of property Act."
+16. Mention may also be made of the Supreme Court Judgment in
+Pooran Chand V. Motilal
+, AIR 1964 SC 461, as reference was made thereto by the learned Counsel for the respondent.  The contention of the Counsel  for the tenant to the effect that the provisions of
+section 13(1)
+of the Delhi Rent control  Act afford an additional protection to a tenant (in addition to the notice requisite under
+section 106
+of the Transfer of Property Act), and that they do not enable the landlord to  dispense with a statutory notice before filing a suit for eviction was left open by the supreme court with the following observations:-
+"It is not necessary in this appeal to express our opinion on the validity of this contention, for we are satisfied that the term of the tenancy had expired by efflux of time and, therefore, no question of statutory notice would arise."
+So far as the law
+laid down by
+the Supreme court  in
+Pooran Chands
+'s case.
+AIR 1964 SC 461 (Supra) on the point in question is concerned it does not appear to project the matter further than the pronouncement of their Lordships in
+Ganga Dutt Murarka
+'s case, AIR 1961 SC 1067 (Supra).
+17.  The next important judgment  to which reference has been made by both sides was given by the supreme Court in
+Abbasbhai V. Gulamnabi
+, AIR 1964 SC 1341.  Once again the case arose under the Bombay rent act.
+Section 12
+of the act provides that a landlord shall not be entitled to the recovery of possession of any premises so long as (broadly speaking) the tenant continues to pay rent and performs the other conditions of the tenancy , in so far as they are consistent with the provisions of that Act.  Sub-section (2) of that section requires a landlord to serve a special type of notice on the tenant as a condition precedent for instituting a suit for ejectment if the ground on which ejectment is sought is non-payment of rent.  Section 106 of the Transfer of property Act is referred to in sub-section (2) of
+section 12
+only for defining the manner of service of the notice, and for no other purpose.  It is
+section 13
+of the Bombay Rent act, which contains a list of the grounds on which the landlord may claim to recover possession of any premises notwithstanding the general protection contained in
+section 12
+.  Sub-section(1) of
+section 13
+starts with the words:-
+"Notwithstanding anything contained in this Act, a landlord shall be entitled to recover possession of any premises if the court is satisfied............"
+It is significant to note that the non obstante clause with which sub-sec (1) of
+section 13
+starts dose not make any reference to section 106 f the Transfer of property Act, bur only to the other provisions of the Bombay Rent act itself.  An order for eviction had been passed by the High Court of Gujarat against the tenant
+in that case
+on the ground that he was not ready and willing to pay the standard rent.  The suit for eviction had been filed before the Civil judge without terminating the contractual tenancy by notice under the Transfer of property Act.  Their lordships of the supreme court held that sub-section (10 of section 12 of the Bombay Rent Act "applies to a tenant who continues to remain in occupation after the contractual tenancy is determined; it does not grant a right to evict a contractual tenant without determination of the contractual tenancy.  Protection from eviction is claim-able by the tenant even after determination of the contractual tenancy so long as he pays or is ready and willing to pay the amount of the standard rent and permitted increases and observes and performs other conditions of the tenancy consistent with the provisions of the Act."  The order of eviction passed by the High court was set aside with the abovequoted observations.
+18.  The same question arose before then supreme court in a case arising under the Madhya Pradesh Accommodation control act (23 of 1955) (hereinafter called the Madhya Pradesh Act).  This was supreme court in Mangilal V. Sugan Chand, AIR 1965 SC 101, on October 24, 1963. ( I am mentioning this date for the purpose which will become apparent while dealing with a recent Full Bench judgment of the madras High court).  The opening words of
+Section 4
+of that Act provide that "no suit  shall be field  in any  Civil court against a tenant for his eviction from any accommodation except on one or more of the following grounds.............." Then follows a list of the grounds on which eviction can be sought.  The ground on which eviction was claimed in Mangilal's case, AIR 1965 SC 101 (Supra) was "that the tenant has failed to make payment to the landlord of any arrears of rent within one month of the service upon him of a written notice of demand from the landlord."  The Supreme court pointed out that the abovesaid  provision was very different from the provisions contained in the Bombay rent act.
+It was held (per Mudholkar, J., who prepared the judgment of the court) that the provisions of
+section 4
+of the Madhya Pradesh act are in addition to those of the Transfer of property act, and that before a tenant can be evicted by a landlord he must comply both with the provisions of section 106 of the Transfer of property act and those of section 4 of the Madhya Pradesh Act, as the last rotate chapter v of the Transfer of property Act which deals with leases of immovable property.  It was then held:-
+"The requirement of section 106 of the Transfer of property act is that a lease from month of month can be terminated only after giving fifteen day's notice expiring with the end of a month of the tenancy either by the landlord to the tenant or by the tenant to the landlord.  Such a notice is essential for bringing to an end the relationship of landlord and tenant.  Unless the relationship is validity terminated the landlord does not get the right to obtain possession of the premises by evicting the tenant.  Section 106 of the Transfer of property Act does not provide for the satisfaction of any additional requirements.  But, then,
+section 4
+of the Accommodation act steps in and provides that unless one of the several grounds set out therein is established or exists the landlord cannot evict the tenant."
+19.  On September 22, 1966 the Supreme court delivered judgment in AIR 1967 SC 1419.  This case arose under the
+Calcutta Thika Tenancy Act
+(2 of 1949) as amended by the Calcutta Thika Tenanct (Amendment) Act (6 of 1953) (hereinafter called the
+Calcutta Act
+).  The contractual stipulation in the lease-deed between the parties to that litigation provided for the service of a six months notice of termination of the tenancy.  The opening part of
+section 3
+of the Calcutta Act provides:-
+"Notwithstanding anything contained in any other law for the time being in force, or in any contract, a Thika tenant shall, subject to the provisions of this Act, be liable to ejectment from his holding on one or more of the following grounds, and not otherwise; namely,.........................."
+Section 4
+of the Calcutta Act states that it shall not be competent for a landlord to eject any Thika tenant from his holding unless the landlord has given the Thika tenant "notice in the  manner provided in section 106 of the Transfer of property Act, 1882............" Notices of different periods are prescribed to be given for claiming ejectment on different grounds in the various clauses mentioned under
+section 4
+sub-section (1) of
+section 5
+then provides that:-
+"notwithstanding anything contained in any other law for the time being in force but subject to the provisions of
+section 28
+, a landlord wishing to eject a Thika tenant on one or more of the grounds specified in
+section 3
+shall apply in the prescribed manner  to the controller for an order in that behalf and, on receipt of such application, the controller shall,................make an order directing the Thika tenant to vacate the holding and, subject to the provisions of
+Section 10
+to put the landlord in possession thereof."
+Section 28
+confers on the court power to rescind of vary decrees and orders in certain cases and we are not concerned with that provision for the purposes of deciding the questions referred to us.  The word "notwithstanding" in
+Section 3
+of the Calcutta act was interpreted by the Supreme court to mean , on a true construction thereof, "that even where the contractual tenancy is properly terminated notwithstanding the landlord's right to possession under the Transfer of property Act or contract of lease he cannot one of the grounds set out in
+section 3
+."  Their Lordships observed that the Rent Acts are not ordinarily intended to interfere with contractual  leases and are Acts for the protection of tenants and are consequently restrictive and not enabling , conferring no new rights of action, but restricting the existing rights either under the contract or under the general law.  Their Lordships then referred to a statutory tenancy arising when a tenant under a lease holds over, that is, when a when a tenant remains in possession after the expiry of determination of the contractual tenancy.  In that context it was observed that the right to hold over, which has been called the right of irremovability thus is a right which comes into existence after the expiration of the lease and until the lease is terminated or expires by the efflux of time, a tenant need not seek protection under that right unless his tenancy has otherwise determined under the general law, as the tenant is till then protected by the lease in breech of which he cannot be evicted.
+Reference was then made to the earlier judgments of their Lordships in AIR 1964 SC 1341, and AIR 1965 SC 101.  The Madras High Court had held in Krishna Murthy V. Parthaarathy , AIR 1949 Mad 780 that
+Section 7
+of the Madras Buildings (Lease and Rent control) Act (15 of 1946) (hereinafter referred to as the 1946 Madras Act) had its own scheme of procedure, and, therefore, there was no question, of an attempt to reconcile that act with the Transfer of property Act.  On that view the Madras High Court decided that an application for eviction could be made to the Rent Controller even before a notice to quit terminated the contractual tenancy.  It may be appropriate to mention here that
+Section 7
+of the 1946 Madras Act was  for all practical purpose pari materia with Section 13  of the Punjab Act of 1949 with which we are concerned.
+Their Lordship of the Supreme Court held in
+Manujendra Dutt
+'s case, AIR 1967 SC 1419 (Supra) that the decision of the Madras High Court in the case of  R. Krishnamurthy, AIR 1949 Mad 780 (Supra) "is clearly contrary to the decisions of this court in
+Abbasbhai
+'s case, AIR 1964 Sc 1341, and Mangilal's case , AIR 1965 SC 101, and therefore is not correct law."  The relevant legal question which their Lordships of the Supreme court were called upon to decide was answered  in paragraph 7 of the AIR (1967 SC 1419) report in the following words:-
+"To summaries the position:
+The Thika Tenancy Act
+does not confer any additional  rights on a landlord but on the contrary imposes certain restrictions on his right to evict a tenant under the general law or under the contract of lease.  The Thika Act like other Rent Acts enacted in various states imposes  certain further restrictions on the right of the landlord to evict his tenant  and lays down that the status  of irremovability of a tenant cannot be got rid of except on specified grounds set out in
+section 3
+.  The right of the  appellant therefore to have a notice as provided for by the proviso to clause  7 of the lease was not in any manner affected by section 3 of the Thika Act.  The effect of the non obstante clause was that even where a landlord has duly terminated the contractual tenancy or is otherwise entitled to evict his tenant  he would stile entitled  to a decree for eviction provided that his claim for possession falls under any one or more of the grounds in
+section 3
+.  Before therefore the respondents could be said to be entitled to a decree for eviction they had first to give six months' notice as required by the proviso to clause 7 of the lease and such notice not having been admittedly given their suit for eviction could not succeed."
+20.  It is significant to note that
+Section 3
+of the Calcutta Act starts with the non obstante clause, that no provisio  in the
+Calcutta Act
+requires the service of a notice of termination of the tenancy that there  is no provision in the Act requiring that such a notice need not be served and that the Act is almost a complete code laying down even the detailed procedure for initiating an action for eviction and contains an exhaustive list of the grounds on which eviction can be sought.
+21.  The last judgment of the Supreme court to which reference  may be made in this connection arose under the Delhi Rent control Act in
+Delhi Motor Co. V. U. A. Basrukar
+, AIR 1968 SC 794.  One of the questions which arose before the Supreme Court was whether the claim for  eviction could be decreed without serving a notice under section 106 of the Transfer of property  Act.  On  the appraisal of the relevant evidence available on the record of that case, their Lordships held that the lease which had been brought into existence between the parties was certainly for a period exceeding one year and was not a lease from month to month.  It was observed that at no stage had it been pleaded and no evidence had been led to show that independent of the documents on the basis of which the supreme court came to the abovementioned  finding there was no material from which it could be inferred that a lease from month to month had come into existence between the landlord and the tenant.
+In those circumstances, observed their Lordships, "Section 106 of the Transfer of property Act could clearly be inapplicable, and  the lease has to be held to be for a period exceeding one year..................."  It  is obvious from a reference to the judgment of the Supreme court in the case of Delhi Motor co., AIR 1968 SC 794 (Supra), that the only reason for not insisting on the service of a notice under section 106 of the Transfer of property Act was that the section itself was not applicable to the facts of the case and  it was not held that
+section 106
+of the Transfer of Property Act stood abrogated by anything contained in the rent control law applicable to Delhi.
+22.  It was in the abovementioned state of law that we held in  Sawaraj pal's case 1968-70 Pun LR 720=)AIR 1969 Punj 26) that in Punjab where the principles of section 106 of the Transfer of property Act have all along been applied, it is necessary, in the absence of a contract to the contrary, to terminate a monthly tenancy by notice under section 106 of the Transfer of Property act before instituting ac action under
+Section 13
+of the East Punjab Urban Rent  Restriction Act (3 of 1949), inasmuch as the said Punjab Act does not absolve a landlord from the obligation of serving the requisite notice and does not take away from the tenant a perfect defence of his not being liable to ejectment without the service of such a notice.  As soon as all the relevant judgments of the Supreme court on the first question had been read out extensively Mr. Gokal Chand Mittal, the learned counsel for the landlord, lost all his enthusiasm and merely asked us repeatedly to make it clear in our judgment that no notice under Section 106 of the Transfer of property Act need be served in a case where the contractual tenancy has already comer to an end either by efflux on time or under any of the other clauses of section 111 of the Transfer of property Act.
+There is indeed no quarrel with that proposition of law.  Nothing contained in the Rent Control act authorises or requires the service of a notice under section 106 of the Transfer of property Act, where such a notice would not have been required under the general law applicable to a case independent of the 1949 Punjab Act.  At the same time, nothing contained in the Rent control  Act, with which we are concerned, abrogates the necessity of terminating a contractual monthly lease by the notice required under section 106 of the Transfer of property Act in a case in which the landlord could not succeed in his claim for eviction of a tenant without serving such a notice under the general law.  It was not my intention to say anything beyond this in the judgment of the Division Bench in Sawaraj pal's case  1968-70 Pun LR 720= (AIR 1969 Pun 26).  It is by now well settled that nothing contained in the
+Transfer of Property Act
+requires a tenancy to be terminated by a notice if it has already been determined either according to the terms of the particular lease or under the relevant provisions of the Transfer of property Act.  The question of serving a notice under
+section 106
+of the Transfer of Property Act arises only in those cases:-
+(1) where the provisions or principles of that section are applicable;
+(2) where the contractual tenancy or the tenancy which is deemed to have come into existence under
+section 116
+of the Transfer of Property Act is a monthly tenancy; and   
+ 
+
+ (3) where such a monthly tenancy is subsisting and has not already come to an end by efflux of time or by forfeiture or by having been determined by an appropriates notice under
+Section 106
+itself.
+23.   A statutory tenancy which has been called by Meggary as a mere status  of irremovability, commences after the contractual tenancy has come to an end in any manner provided by law.  We may not be understood to lay down that it is necessary to terminate even a statutory tenancy by a notice under
+Section 106
+of the Transfer of Property Act even after the contractual tenancy has already come to an end.  "Statutory tenancy" is a mere misnomer usually adopted because of the statutory definition of the word "tenant" contained in the Rent Acts.  The definition in the Punjab Act is in the following terms:-
+"tenant" means any person by whom or on whose account rent is payable for a building or rented land and includes a tenant continuing in possession after the termination of the tenancy in his favour, but does not include a person placed in occupation of a building or rented land by its tenant, unless with the consent in writing of the landlord, or a person to whom the collection of rent on fees in a public ,market, cart-stand or slaughter -house or of rents for shops has been farmed out or leased by a municipal town or notified area committee."
+Since the statute calls a person whose tenancy has already been  determined a tenant for the purposes of the relevant Act, he is given the  title of a statutory tenant.  In fact, as already recognised by the Supreme Court, it is a mere right or status if irremovability and does not amount to anything more than a restricted statutory protection against eviction to which a tenant has otherwise become liable under the general law.
+24.  What the learned counsel for the landlord tried to contend on the merits of the controversy involved in the first question was that section 13 of the Punjab Act has impliedly repealed
+section 106
+of the Transfer of Property Act.  There is no force whatever in that argument.  It was held in Kutner V. Phillips, (1891) 2 QB 267:-
+"Now a repeal by implication is only effected when the provisions of a later enactment are so inconsistent with or repugnant to the provisions of an earlier one, that the two cannot stand together, in which case the maxim, 'Ledges posteriors contraries abrogant' applies.  Unless two Acts are so plainly repugnant to each other, that effect cannot be given to both at the same time, a repeal will not be implied, and special Acts are not repealed  by general Acts unless there is some express reference to the previous legislation, or unless there is a necessary inconsistency in the two Acts standing together."
+In the case of AIR 1953 Sau 113 (Supra), Shah, C. J. (as Chief Justice of the Saurashtra High Court) held subject analyzing the entire law on the subject that the general principle governing the construction of Acts of this nature is that unless two Acts are so plainly repugnant to each other that effect cannot be given to both at the same time, a repeal will not be  implied.  The argument which was being dealt with in that case was also about
+Section 106
+of the Transfer of Property Act having been impliedly repealed by section 12 (b) of the Bombay Rent Act.
+In
+Dr, H. S. Rikhy V. The New Delhi Municipal Committee
+, AIR 1962 SC 554, one of the contentions which prevailed with the court was that no relationship of landlord and tenant had been established between the parties as the written contract of tenancy entered into by the Municipal Committee with Dr. Rikhy did not conform to the formalities required by
+Section 47
+of the Punjab Municipal Act, and that mere acceptance of rent from the occupiers of the municipal shop  did not create relationship of landlord and tenant.  It was sought to be argued on behalf of the landlord that the provisions of
+Section 47
+of the Punjab municipal Act had been impliedly repealed by the Delhi and Ajmer Rent control Act (38 of 1952), because the statutory definitions of landlord, premises and tenant, in the Delhi Rent control Act were inconsistent with the requirements of
+Section 47
+of the Punjab municipal Act.
+It was in that context that the Supreme Court while dealing with the question of reparably inconsistency, held in that connection as below:-
+"In our opinion, there is no substance in this contention.  We have already pointed out that those definitions postulate the relationship of landlord and tenant which can come into existence only by a transfer of interest in immovable property, in pursuance of a contract.  These definitions are entirely silent as to the mode of crating the relationship of landlord and tenant.  Therefore,  the question is whether the complete silence as to the mode of creating the relationship between landlord and tenant can be construed as making a provision by implication, inconsistent with the terms of
+section 47
+of the Municipal Act.  In our opinion, the mere absence of such provisions does not  create any inconsistency as would attract the application of
+section 38
+of the  Act.  It is noteworthy that the provision of
+section 38
+of the act were not relied upon either in the High court or in the court on first instance."
+Applying the abovesaid principles of  construction of statutes relating to the question of repeal by repugnancy we are clearly of the opinion that nothing contained in the
+East Punjab Urban Rent Restriction Act
+(3 of 1949) can be said to impliedly repeal the Transfer to property side with
+section 13
+of the Punjab act.
+25.  mr. Gokal  Chand Mittal, the learned counsel for the respondent, tried to distinguish the Bombay cases decided  by the supreme court on the ground that sub-section (2) of section 12 of the Bombay Rent Act specifically mentions the requirement of service of notice under
+section 106
+of the Transfer of property Act.  To say the least, the submission of the learned counsel is wholly  fallacious.  Sub-section (2) of Section 12 of the Bombay Rent Act requires the service of a special lined of notice of demand as a pre-requisite for claiming eviction on account of non-patient of rent.  A notice referred  to in this provision of law is not the notice required under
+Section 106
+of the transfer of property Act.  In fact sub-section (2) of
+section 12
+does not at all talk of a notice of eviction or a notice terminating the monthly tenancy.  It only requires one month's notice of demand of the standard  rent being served by the landlord on the tenant before he can claim possession of the demised premises from a tenant on the ground of non-payment of such rent.  Instead of saying in
+Section 12 (2)
+that the notice required under that provision "must be in writing signed by or on behalf of the person giving it and either be sent by post to the party who is intended to be bound by it or be tendered or delivered personally to such party or to one of his family members or servant at his residence or if such tender or delivery is not practicable, affixed to a conspicuous part of the property." The Bombay legislature merely said that the notice in question manner provided in
+section 106
+of the Transfer of property act, 1882."  This does not by any stretch of imagination equate the notice required under sub-section (2) of
+section 12
+with any kind of a notice for determination the tenancy.
+26  At the conclusions of the arguments of the learned /counsel for the parties.  Mr. Roop Chand Chaudhry advocate made an oral request to us to permit him to add to the submissions of  Mr, Gokal Chand Mittal as an Intervener on behalf of various landlords whom he represents in some other cases.  Without passing any formal order permitting intervention we allowed Mr. Roop Chand  to place before us any relevant judgment on the main point which might not have been brought to our notice by the learned Counsel for the contesting  parties.  Chaudhry Roop Chand first referred to the relevant passage on page 983 of the twenty-sixth edition of "Woodfall on Landlord and Tenant." And submitted that it is settled law according to the English practice that no notice  of termination of a statutory tenancy is necessary.  He then relied in the same connection on the judgment of the Supreme court, in
+Dr. K. A. Dhairyawan V. J. R. Thakur
+, AIR 1958 SC 789, wherein it was held that the period of the lease having expired and the tenant having been given notice to quit, he was bound to vacate the demised premises unless  he was protected by the relevant Rent restriction Act, which was the
+Bombay Act
+in the Case.
+It is needless to dilate further on this point as I have already held that in vies of the authoritative pronouncement of the supreme court in the case of
+Ganga Dutt Mururka, AIR 1961 SC
+1067 (Supra), it is only a contractual tenancy which need be terminated by the notice stipulated in the contract of tenancy or in the absence of such  a stipulation by the notice  required by
+section 106
+of the Transfer of property Act in cases to which that provision applies, but if once the contractual tenancy is continuing in occupation in his capacity as tenant, as defined in the Rent control Act, and is protected against eviction he is merely enjoying the status of irremovability, usually known as statutory tenancy, which need not again be determined by a notice to quit and that such a right of status is automatically terminated on the tenant incurring any of the disqualification's against protection enumerated in the relevant Rent control act.
+27.  Chaudhry  Roop Chand then placed before us the judgment of a Full Bench of the madras High Court in
+M/S. Raval and Co. V. K. G Ramachandran
+, AIR 1967 Mad 57. In a very elaborate and exhaustive judgment on the subject, the Ful;l Bench of the Madras High Court has after considering a large number of previous cases, held that
+section 10
+of the Madras Buildings (lease and Rent control) Act (18 of 1960) is a complete code for the eviction of tenants on certain grounds with special machinery provided for the relevant decision and that the special features contained in that provision distinguish it from those under the Transfer of property Act  and make it amply clear that the said Madras Act is intended to be a departure from the pre-existing law, viz., the Transfer of property act in so far as it relates to tenancies of buildings, and that it is not necessary  that the tenancy should first be determined by notice under
+section 106
+of the Transfer of property Act before the landlord can avail himself of the grounds mentioned in the section.
+For have that view, the learned Judges have alia inter followed an  earlier  judgment of a Division bench of the madras High court In AIR 1949  Mad 780. (Reference to the said case is made in paragraph 25 of the AIR report of the Full Bench judgment).
+In the same paragraph mof the Full Bench judgment in which
+R. Krishnamurthy
+'s case, AIR 1949 Mad 780 is referred to, reliance has also been placed by the Full Bench on the Division Bench judgment of the Punjab High Court in ILR (1955) Punj 36=37 Pun LR 441 (Supra) in respect of the Delhi and Ajmer Merwara Rent control Act, the decision about which I have already made observations in an earlier part of this judgment.
+It is noticeable that the judgment of the division Bench of the Madras High Court in
+R. Krishnamurthy
+'s case, AIR 1949 Mad 780 has  since been categorically and specifically disapproved by the supreme court in
+Manujendra Dutta
+'s case, AIR 1967 SC 1419 (Supra) which arose under the Calcutta Thika tenancy Act.  (Reference may in this connection be made to AIR 1967 SC 1419 at page 1423, column I).
+Moreover, the judgments of the supreme court in
+Ganga Dutt Muruka
+'s case, AIR 1961 SC 1067, and in the case of Abbasbhai Alimahomed, AIR 1964 SC 1341 do not appear to have been placed before the; earned judges constituting the Full Bench of the madras High Court.
+It is significant that while overruling the madras view contained in
+R. Krishnamurthy
+'s case, AIR 1949 Mad 780 their Lordships of the Supreme Court specifically observed in their judgment in
+Manujendra Dutt
+'s case, AIR 1967 SC 1419 that the said madras view  was no longer correct law in the face of the judgment of the Supreme court in
+Abbasbhai  Alimohamed
+'s case, AIR 1964 SC 1341.  Moreover, the Full Bench judgment of the Madras High court does not appear to be of much assistance for answering the question that has been referred to us.  It was
+Section 7
+of the madras Buildings (Lease and Rent control) Act (15 of 1946) which could be substantially compared with Section 13 of the East Punjab Act.  While construing
+Section 7
+of the 1946 Madras Act, the Division Bench of that court held inR.
+Krishnamurthy's case, AIR 1949 Mad 780 that the provisions of
+section 106
+of the Transfer of property  Act had been abgroated.
+The judgment of the Madras high court in
+R, Krishnamurthy
+'s case, AIR 1949 Mad 780 having been overruled, it can hardly be said that the earlier Punjab Division bench judgment adopting the same view has laid down the correct law.  The Madras Act (18 of 1960) is a much more detailed enactment.
+Section 10
+of that Act which is a detailed  chapter  relating to eviction of tenants, contains a vast number of provisions and prescribes a somewhat complicated machinery for evicting a tenant in given  eventualities.  The provision seems to be in the nature  of an enabling  piece of legislation which entitles a landlord who seeks to evict his tenant to apply to the controller for a direction in that behalf, and authorises the controller to deal with such an application according to the prescribed procedure.
+Clause (d) of sub-section (3) of
+section 10
+states that where the tenancy is for a specified period agreed upon between the landlord and the tenant, the landlord shall not be entitled to apply under  that sub-section for the eviction of the tenant before the expiry of such a period.  It is clear that after the expiry of the fixed period of tenancy, no question of serving a notice would ordinarily arise as the tenant would then be in occupation merely as a statutory tenant and would be liable to eviction on any of the three grounds mentioned in sub-section (3) of
+section 10
+.  Moreover equitable  alternative provision giving time to the tenant to vacate even after an order for eviction is passed against him under clause (e) of sub-section (3) of
+section 10
+is contained in the said provision which requires the controller to specify a date by which the tenant has to deliver possession to the landlord in a case where the controller makes an order directing the tenant to put the landlord  in possession.
+The second proviso to clause (e) states that the controller may give tenant a reasonable time for putting the landlord in possession of the building and may extend such time so as not to exceed three months in the aggregate.  The scheme and provisions of the 1960 Madras Act appear to be substantially different from the East Punjab Act.  Even otherwise, it appears to us, and we say so with the greatest respect to the learned Judges who constituted the Full  Bench  of the Madras High court, that the law
+laid down by
+that court in the case of
+M/S. Raval & Co. AIR 1967 Mad 57 (FB
+) (Supra) is not easily reconcilable with the authoritative pronouncements of the  Supreme court in
+Abbasbhai Alimanomed
+'s case AIR 1964 SC 1341 and in.  Bench as it may, the correct position regarding the East  Punjab Act does not appear to admit of the slightest doubt.  The provisions and principles relating to "lease of immovable property" are
+laid down in
+chapter V of the Transfer of Property Act.
+Section 105
+with which this chapter begins defines "a lease of immovable property" as a transfer  of aright to enjoy such property.
+Section 106
+states, inter alia that in the absence of a contract ,  or local law or usage to the contrary, a lease of immovable property for any purpose other than agriculture or manufacturing shall be deemed to be a lease from month to month.  The rest of the section which has already been quoted in an earlier part of this judgment provides for the machinery to determine  such a lease by fifteen day's notice.  Section 107 contains technical rules relating to the manner of making the lease.
+Section 108
+lays down the implied convents between a lessor and a lessee.  Part 'A' of the section enumerates the rights and liabilities of the lessor.  Part 'B' deals with the "rights and liabilities of the lessee".  Clause (q) of Part 'B' states:-
+"One the determination of the lease,  the lessee is bound to put the lessor into possession of the property."
+Sections 109
+and
+110
+are not relevant for our present purposes
+section 111
+prescribes the modes of determination of leases.  Clause (h) (already quoted earlier) provides for determination of a lease by due service of a notice.  A notice under
+Section 106
+is covered by this clause.
+Sections 112
+,
+114
+and
+115
+provide respectively for waiver of forfeiture, for relief against forfeiture in certain cases and about the effect of  forfeiture on under-leases etc.
+section 116
+deals with the effect of holding over after the determination of a lease if the lessor accepts rent, after such determination.  Chapter V ends with
+Section 117
+which is not relevant for our purposes.
+28.  The part of
+section 106
+with which we are concerned deals with monthly tenancies of all three types, viz:-
+(i) where a lease expressly states that it is from month to month;
+(ii) where the lease is silent on the point and the law, therefore, presumes it to be a lease from month to month;
+(iii) where fter the expiry of a lease for a fixed period or otherwise, a tenant becomes a monthly tenant under
+section 116
+of the Transfer of property Act in the circumstances described in that provision.
+29.  Under the general law, an action for eviction of a tenant during the pendency and continuance of his monthly contractual lease (failing in any of the abovementioned categories) is bound  to fail if the lease has not been determined by a proper notice to quit under
+Section 106
+of the Transfer of Property Act in cases to which that provision or its principles apply.  Till such determination, a landlord cannot claim the eviction of his tenant as
+Section  108(A)(c)
+provides, inter alia, that "the lessor shall be deemed to contract with the lessee that, if  the latter pays the rent reserved by the lease and performs the contracts binding on the lessee, he may hold the property during the time limited by the lease without interruption."  So long as  the right to recover possession under the common law of the land does not accrue to the landlord, the tenant does not need any statutory protection against eviction.  As soon, however as the general law entitles the landlord to recover possession, e.g., where a monthly  tenancy is determined in the manner provided by
+section 106
+of the Transfer of Property Act, the liability of the lessee under clause (q) of part (B) of
+section 108
+is to put the landlord into possession of the party.
+It is at that stage that the Rent Restriction Act steps in  and says that "the tenant so continuing in possession after the termination of the tenancy on his favour (who becomes a statutory tenant within the meaning of the definition of the word "tenant" in
+Section 2 (I)
+of the Act) shall not be evicted from the building or rented land in his possession as such before of after the commencement of the 1949 Act.   (ii) or otherwising; except  in the circumstances enumerated in
+Section 13
+of the Act.  Though the definition of "tenant" in
+Section 2 (I)
+has made the Act applicable to the tenant despite the determination of his tenancy, it is again emphasized in sub-section (1) of
+section 13
+that the protection
+referred to above
+is available to the tenant not only before but even after the termination of his contractual tenancy.  The protection  against eviction, therefore, operates in two ways.  So far as the period "before the termination of tenancy" is concerned, the protection operates in the matter of restriction the grounds on which eviction can be sought notwithstanding an agreement to the contrary in a lease.  The said protection results only in restricting the grounds of eviction, but does not either expressly or by implication take away the normal defenses of a tenant including  that of his tenancy not having been determined by a notice required in or according to the principles of
+Section 106
+of the Transfer of Property Act.
+So far however, as the protection is given by
+Section 13
+to statutory tenants, i.e., persons whose tenancy had under the general law been determined in accordance with law and who had become liable to hand over possession  108 (B) (q) of the
+Transfer of Property Act
+, the only protection that is available subject to any other statutory provision in force at the relevant  time, is to the extent specifically mentioned in
+Section 13
+of the Act.  This shows that in either eventuality, i.e., whether during contractual tenancy or during  statutory tenancy the grounds on which eviction of a tenant can be sought are only those contained in
+section 13
+of the Act. To that extent and for that purpose
+section 13
+is a complete code in itself.  All that this means is that  eviction  cannot be sought on any ground mentioned in the
+Transfer of Property Act
+or in the Rent deed which is not contained in
+Section 13
+.  Nothing contained in
+section 13
+is in consistent with
+section 106
+of the Transfer of Property Act.  No provision in the Act either expressly or impliedly requires that a notice   determining a statutory  tenancy  has to be given before an action is brought under
+Section 13
+.  Wherever any further notice of demand or other notice  is required as a condition precedent for evicting a statutory tenant whose contractual tenancy has already come to an end, it is and has to be specifically so provided in the Rent Restriction Act itself.  This seems to be the legal position so far as the first question referred to us is concerned, and we appear to be fully supported by the trend of authorities and the authoritative pronouncements of their Lordships of the already been made.
+30.  I now turn to the second and third questions referred to us i.e., whether objection  relating to the non-issue  of a notice under
+Section 106
+of the Transfer of Property Act where such a notice is otherwise required to be served, or objection as to the validity of such a notice can in law be waived by a tenant or not.  Our answer to these two questions is in the affirmative.  The circumstances in which a tenant is deemed to have waived the notice or an objection to its validity would very from case to case and the question of waiver would have to be decided in each case on its own peculiar facts Mr. A. N. Mittal, the learned Counsel for the tenant, was fair enough to himself to cite the judgment of the Assam High Court in Kishanlal Singol V. hari kisson, AIR 1956 Assam 113, wherein it has been held that the question about notice to quit is a mixed question of law and fact and the tenants may be taken to have waived the fifteen days' notice requisite under the terms of the contract to tenancy, and to have been satisfied with the sufficiency and validity of the notice when they fail to raise the point in the lower Courts and especially when they raise the point about the factum of want of service of notice only.  By referring to the abovesaid judgment of the Assam high Court, we may not be understood to have approved of the dictum of the learned Chief Justice of that court about the objection to the validity of sufficiency of the notice having been waived merely by denial of factum of service of notice.  We are expressing no opinion on that point.  We are however, in  respectful agreement with the judgment of the Assam High Court to the extent to which it holds that objection to the non-service of the requisite notice as well as to is invalidity on account of sufficiency of the period of notice, can in law waived by a tenant.
+31.  Counsel then referred to the judgment of P.  C. Pandit J., in Raj Kumar V. Major Gurmitinder Singh, 1968-70 Pun LR 672.  The learned Judge has held in that case that where the tenant did not take up the plea in his written statement that an order of ejectment would be without jurisdiction on account of want of notice terminating the tenancy., he is deemed to have waived the objection, and that he cannot be allowed to raise the objection when the decision on merits had gone against him.  In the instant case, the objection as to the non-service of the requisite notice had admittedly been taken in the written statement of the tenant, and, therefore, the second  part of the dictum of the learned   Judge referred to above cannot be directly relevant.
+But we have no hesitation at all in approving of the ratio of the judgment of the learned Judge on the point that a tenant can waive an objection as to non-service of a notice required under to on the principles of
+Section 106
+of the Transfer of Property Act.  Mr. Mittal half-jeartedly argued that the law laid down by the Assam High court and by Pandit, J. in the aforesaid two case is not quite correct, and that the right of a monthly tenant to resist eviction without being served with the requisite notice cannot be waived as it is a statutory right.
+He relied for this proposition on a judgment of the Calotte High Court in
+Chandra  Nath Mukherjee V. Chulai Pashi
+AIR 1960 Cal 40. S. K. Sen, J., held
+in that case
+that since
+Section 111(g)
+does not contain any clause the contrary" the statutory requirement of notice specified in
+Section 111(g)
+of the Transfer of Property Act cannot be waived by contract and must prevail.
+The ratio of the Judgment of the Calcutta High Court in
+Chandra Nath Mukherjee
+'s case, AIR 1960 Cal 40 (Supra), goes against the tenant so far as the point before us is concerned.  The basic principle which is relevant in this connection is that if a statutory provision itself provides that a person sought to be benefit by it can contract out of it, the protection granted by that provision can be waived by the person concerned, but if contracting out of the statutory protection is either expressly or impliedly prohibited, the protection of such a provision cannot be waived.  It appears that the judgment of Sen, J. was obviously  based on the above said principle,
+Section 106
+of the Transfer of Property Act contains the clause "in the absence of a contract or local law or usage to the contrary".  That being so, contracting out of the protecting afforded by that provision itself.  It cannot, therefore, in out opinion, be argued successfully that the protection granted by
+section 106
+of the Transfer of Property Act cannot be waived.
+32.  Mr. Gokal chand Mittal, learned Counsel for the landlord, on the other hand invited our attention to the judgment in
+Vellayan Chettiar  V. Government of the Province of Madras
+,
+AIR 1947 PC 197, Charu Chandra V. Snigdhendu Prosad
+,
+AIR 1948 Cal 150, Province of Bihar V. Kamakshya Narain Singh
+,
+AIR 1950 Pat 366, and the District Board Banaras V. Churhu Rai
+, AIR 1956 All 680, in all of which cases it has been held that it is open to a defendant for whose benefit the notice is prescribed by
+Section 80
+of the Code of Civil Procedure to waive the same.  In the case of the District Board Banaras, AIR 1956 All 680 it was further held that where the plea of defect in or want of notice was not pressed in the trial court nor was it raised in the memorandum of first appeal and of second appeal, the High court, in the circumstances of the case wad justified on holding that the right based on the ground of notice had been waived.
+The learned counsel for the petitioner could not possibly contest the proposition of law relating to the legality of waiving an objection as to non-service  of validity of notice under
+Section 80
+of the Code oc Civil procedure, but submitted that whereas the notice under that provision of the code is not a part of the cause of action of a suit as held in Union if
+India v. Firm Balwant Singh Jaswant Singh
+, AIR 1957 Punj 27, a notice under
+Section 106
+of the Transfer of Property act is a part of cause of action and therefore, the latter cannot be waived though the former may be.  So far as the provisions
+referred to above
+are concerned the distinction pointed out by the learned counsel for the petitioner appears to be without any practical difference.
+Section 80
+of the code of Civil Procedure is really couched in much stronger and  more mandatory terms than
+Section 106
+of the Transfer of Property  Act.  If notice under
+Section 80
+of the civil procedure Code does not from part of cause of action of a suit, there is nothing to show that the notice under
+Section 106
+of the Transfer of Property Act which cannot be required to be served at all in certain contingencies, is necessarily a part of a cause of action for eviction.
+The basic principles governing waiver have been authoritatively
+laid down by
+their Lordships of the supreme court in Basheshar Nath V. Commissioner of Income-tax Delhi and Rajasthan, AIR 1950 SC 149.  The question that arose for decision before the Supreme court in that case was whether an assessee of income-tax can waive his fundamental right guaranteed under
+Article 14
+of the Constitution, and the answer given by their Lordships was in the negative.  The decision was given regarding fundamental right under
+Article 14
+of the Constitution and about no other fundamental rights.  It was held that the doctrine of waiver could have no application to provisions of law which have been enacted as a matter of constitutional policy.  Distinction was drawn by the supreme court (I) between rights conferred on citizens by statutes, commonly known as statutory rights (ii) rights conferred by the constitution, i.e., the constitution rights; and (iii) fundamental rights.
+Their Lordships did not specifically consider the question whether statutory rights can or cannot be waived, but went to the length of holding that even non-fundamental constitutional rights could be waived by citizens and it is only when rights conferred are put on the highest pedestal and are given the status of fundamental rights as distinguished from other constitutional rights that they become inviolable, and cannot, therefore, be waived by a citizen.  In this state of law there appears to be absolutely no doubt that an objection as to non-service or invalidity of a notice under
+Section 106
+of the Transfer of Property Act can be waived by a tenant as he is entitled by the express provision of that section to contract out of its requirements.  We particularly so hold because in the Punjab the requirement of the notice in question is not even a statutory requirement in the strict sense, but is invoked as a principle of equity, justice and good conscience.
+33.  For the foregoing reasons  we hold that the judgment of the earlier Division Bench of this court in
+Bawa Singh V. Kundal Lal
+, 1952 Pun LR 358, is no longer good law in view  of the chain of subsequent supreme court judgments already referred to and that the ratio of the judgment of the subsequent Division Bench in 1968-70 Pun LR 720=(AIR 1969 Punj 26), lays down the correct law.  Our answer to question No. 1, therefore, is:-
+(i) An application for  ejectment of a monthly tenant under
+Section 13
+of the East Punjab Urban Rent Restriction act (3 of 1949) cannot succeed without the contractual tenancy being first determined by a notice under
+section 106
+of the Transfer of Property Act;
+(ii) No notice under
+section 106
+of the Transfer of Property Act is required to be served as a condition precedent for filing an application for eviction of a mere statutory tenant whose contractual tenancy has already been terminated by an appropriate notice, or whose tenancy has already come to an end by efflux of time or forfeiture or for any other valid reason under any of the clauses of
+section 111
+of the Transfer of Property Act, and in whose favour no new contractual tenancy has thereafter been created:
+(iii) A fifteen day's notice under
+Section 106
+of the Transfer of Property Act is not required to be served even to terminate a contractual monthly tenancy when there is an express stipulation to the contrary in the contract of tenancy or when the service of such notice  is rendered unnecessary by any local law or usage.  At the same time a notice of a longer period will have to be served to terminate a contractual tenancy where a specific term in the contract so requires;
+(iv)  Want of service of notice under
+section 106
+of the Transfer of Property Act continues to be a good defence despite the enforcement of
+East Punjab Urban Rent Restriction Act
+(3 of 1949) in every case in which such a defence would have been valid and available under the general law of the State if the Rent Restriction Act had not been enacted as the Punjab act has not impliedly repealed or abrogated
+Sections 106
+and
+111(h)
+of the Transfer of Property Act or the principles of those provisions in so far as they have been applied in Punjab is principles of equity, justice and good conscience;
+(v) Nothing contained in the Rent Restriction Act or this judgment can be deemed to require the service of a notice under
+Section 106
+of the Transfer of Property Act in a case where such a notice would not have been required if the Rent Restriction Act was not in force;
+(vi)  The notice required to be served in the Punjab (where statutory provisions of
+Section 106
+of the Transfer of Property Act do not apply and merely its equitable principles have been applied) has to be a notice to quit or a notice  terminating the tenancy and such notice must give reasonable time to quit.  Considering the law
+laid down in
+various decided cases, fifteen days appear to be the minimum reasonable period of such a notice.  In the Punjab, however such a notice need not necessarily terminate strictly with the end of a month of the tenancy.
+Our answer to questions Nos. 2 and 3 is:-
+(i) Plea of want of notice under
+Section 106
+of the Transfer of Property Act is not such that cannot be waived by a tenant.  A tenant is entitle to waive the objection regarding non-issue of such a notice if he likes.  Waiver is however a deliberate and conscious act as distinguished from estoppel which may be created by law.  Whether the objection has in fact been waived or not in a particular case is a question of fact which has to be decided like any other such question on the direct and circumstances evidence available in a given case;
+(ii) Objection as to validity of a notice is merely a part of the main objection as to non-issue of the requisite notice and  likes. e.g., tenant may accept a shorter notice than that of fifteen  days to be sufficient notice.  But the mere denial of receipt of notice by a tenant may not, on proof  of service of a notice as to the period of the notice not being reasonable.
+34.  With the above answers this revision will now go back to the learned Single Judge for hearing and disposal in accordance with law.
+Shamsher Bahadur, J.
+35. I agree.
+Gopal Singh, J.
+36. I agree.
+ORDER  
+ 
+
+ P.C. Pandit, J. (28-10-1968)-
+37. This may be read in continuation my order dated 23-7-1968 by which, after disposing  of one of the two contentions raised by the learned counsel for the petitioner.  I had referred three points of law to a decide the second contention of the learned counsel.  The Full Bench has answered those three points of law by their decision dated 3rd October 1968 and the revision petition has now been again placed before me for final disposal.
+38.  In view of the Full Bench decision, learned counsel for the petitioners has conceded that there was no merit left in his second contention as well.
+39.  The result is that this petition fails and is dismissed, but with no order as to one month to vacate the premises.
+40.                                                                                                        Petition dismissed.

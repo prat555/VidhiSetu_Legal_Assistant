@@ -1,0 +1,677 @@
+Title: Search
+Court: High Court
+Date: Unknown Date
+Citation: citations: AIRONLINE 2020 DEL 1750
+Source: https://indiankanoon.org/doc/198417772/
+
+[Cites
+35
+, Cited by
+21
+]
+Delhi High Court
+Aarka Sports Management Pvt. Ltd. vs Kalsi Buildcon Pvt. Ltd on 6 July, 2020
+Equivalent citations: AIRONLINE 2020 DEL 1750
+Author:
+J.R. Midha
+Bench:
+J.R. Midha
+$~
+* IN THE HIGH COURT OF DELHI AT NEW DELHI
+%                                        Date of Decision: 6th July, 2020
+
++      ARB.P. 662/2019
+       AARKA SPORTS MANAGEMENT PVT. LTD.             ..... Petitioner
+                       Through: Mr.Kumar    Mihir,       AOR        with
+                                Mr.Shamik Narain, Advocate
+                       versus
+       KALSI BUILDCON PVT. LTD                     ..... Respondent
+                       Through: Mr.Sharan Thakur, Mr.Siddharth
+                                Thakur,   Mr.Gurmehar            Sistani,
+                                Mr.Ketan Paul and Mr.Vijay Kumar,
+                                Advocates
+       CORAM:
+       HON'BLE MR. JUSTICE J.R. MIDHA
+                          JUDGMENT
+1.     The petitioner is seeking appointment of an arbitrator under
+Section
+11
+of the Arbitration and Conciliation Act.
+2.     The arbitration agreement between the parties is contained in clause
+15 of the operation, maintenance and management agreement dated 16 th
+March, 2018, which is reproduced hereunder:
+―15. Governing Law, Jurisdiction & Dispute Resolution
+         15.1 This Agreement shall be governed by and construed in
+              accordance with the laws of India and subject to clauses 15.2
+              and 15.3, the jurisdiction of this Agreement shall be
+              exclusively in the courts of New Delhi, India.
+         15.2 Negotiation: The Parties shall negotiate in good faith and use
+              reasonable efforts to settle any dispute, difference or claim
+              raised, arising out of or in connection with this Agreement
+              including the construction, validity, execution, performance,
+              termination or breach hereof (hereinafter referred to as
+              ‗Dispute'). In the event that the Parties are unable to reach a
+              resolution within 30 (thirty) days of the start of Dispute the
+Arb. P. 662/2019                                                Page 1 of 16
+same shall be settled by binding arbitration.
+         15.3 Arbitration: Any Dispute which is not settled by Mediation,
+              shall be determined by Arbitration under the
+Arbitration and
+              Conciliation Act, 1996
+, as amended by the
+Arbitration and
+              Conciliation (Amendment) Act, 2015
+. The Arbitration shall
+              be conducted before a sole arbitrator appointed with the
+              mutual consent of both Parties. If the Parties are unable to
+              reach an agreement on the choice of an arbitrator within 30
+              days of the Notice of Arbitration by either Party, the Parties
+              shall approach the court of proper jurisdiction for
+              appointment of arbitrator.‖
+                                                         (Emphasis Supplied)
+3.     The petitioner invoked the arbitration vide notice dated 26th February,
+2019 which was replied by the respondent on 20th March, 2019.
+4.     The arbitration agreement as well as notice of invocation are not
+disputed. Learned counsel for the respondent however disputes the
+jurisdiction of this Court to entertain this petition. According to the
+respondent, Delhi is neither the seat of arbitration nor any cause of action
+arose at Delhi. The agreement was drawn at Ranchi; the agreement was
+signed at Lucknow and the place of performance/execution of the agreement
+was Patna, Bihar.
+5.     Learned counsel for the petitioner urged at the time of the hearing that
+this Court has exclusive jurisdiction to entertain this petition under clause
+15.1 which specifically provides that the jurisdiction of the agreement shall
+be exclusively with the Courts at New Delhi. Reliance was placed on Indus
+Mobile Distribution Private Limited v. Datawind Innovations Private
+Limited, (2017) 7 SCC 678; Brahmani River Pellets Limited v. Kamachi
+Industries Limited, (2019) SCC OnLine SC 929; State of West Bengal v.
+Associated Contractors, (2015) 1 SCC 32;
+NJ Construction v. Ayursundra
+Arb. P. 662/2019                                                  Page 2 of 16
+Health Care Pvt. Ltd.
+, 2018 (168) DRJ 274;
+Raman Deep Singh Taneja v.
+Crown Realtech Private Limited
+, 2017 SCC OnLine Del 11966;
+Rohit
+Bhasin v. Nandini Hotels
+, 2013 SCC OnLine Del 2300;
+Spentex Industries
+Ltd. v. Louis Dreyfus Commodities India Pvt. Ltd.
+, (2019) 258 DLT 138;
+and
+Virgo Softech Ltd. v. National Institute of Electronics and
+Information Technology
+, 2018 SCC OnLine Del 12722.
+6.     Learned counsel for the respondent urged at the time of the hearing
+that clause 15.1 of the agreement is invalid as Delhi is not the seat of
+agreement; no cause of action arose at Delhi and the respondent does not
+work at Delhi. It was submitted that agreement was drawn at Ranchi; the
+agreement was signed at Lucknow and place of performance/execution was
+Patna. It was further submitted that the parties cannot confer jurisdiction on
+a Court which otherwise has no jurisdiction.        Reliance was placed on
+Interglobe Aviation Limited v. N. Satchidanand
+, (2011) 7 SCC 463. It was
+further submitted that Clause 15.1 is not absolute and is subject to Clause
+15.3 which records that the parties shall approach the "Court of proper
+jurisdiction‖. It was further submitted that the "Court of proper jurisdiction"
+is the "Court" as per
+Section 2(1)(e)
+of the Arbitration and Conciliation Act.
+It was submitted that this Court is not a competent Court within the meaning
+of
+Section 2(1)(e)
+of the Arbitration and Conciliation Act as neither the
+cause of action arose at Delhi nor the parties work at Delhi and the
+agreement does not provide any seat of arbitration. Reliance was placed on
+GE Countrywide Consumer Financial Services Ltd. v. Surjit Singh Bhatia
+,
+2006 (89) DRJ 73;
+Apparel Export Promotion Council v. Prabhati Patni,
+ILR
+(2005) II Delhi 1066; and
+Gulati Construction Co., Jhansi v. Betwa
+River Board
+, AIR 1984 Del 299.
+With respect to
+Indus Mobile Distribution
+Arb. P. 662/2019                                                  Page 3 of 16
+Private Limited
+(supra) relied upon by the petitioner, it was submitted that
+the arbitration clause
+in that case
+provided seat of arbitration to be Mumbai
+whereas the arbitration clause in the present case does not provide for the
+seat of arbitration.
+Legal Position
+7.     Section 2(1)(e) of the Arbitron and Conciliation Act defines "Court"
+which is reproduced hereunder:-
+―
+Section 2
+. Definitions.-(1) In this Part, unless the context
+           otherwise requires-
+xxx            xxx           xxx
+(e) ―Court‖ means the Principal Civil Court of Original
+           Jurisdiction in a district, and includes the High Court in
+           exercise of its ordinary original civil jurisdiction, having,
+           jurisdiction to decide the questions forming the subject-matter
+           of the arbitration if the same had been the subject-matter of a
+           suit, but does not include any civil court of a grade inferior to
+           such Principal Civil Court, or any Court of Small Causes;
+xxx            xxx           xxx
+               (2) This Part shall apply where the place of arbitration is in
+           India.‖
+8.
+Section 20
+of the Arbitration and Conciliation Act defines "Place of
+Arbitration" which is reproduced hereunder:-
+―
+Section 20
+. Place of arbitration.- (1) The parties are free
+           to agree on the place of arbitration.
+(2) Failing any agreement referred to in sub-section (1), the
+           place of arbitration shall be determined by the Arbitral
+           Tribunal having regard to the circumstances of the case,
+           including the convenience of the parties.
+(3) Notwithstanding sub-section (1) or sub-section (2), the
+           Arbitral Tribunal may, unless otherwise agreed by the parties,
+           meet at any place it considers appropriate for consultation
+           among its members, for hearing witness, experts or the parties,
+           or for inspection of documents, goods or other property‖.
+Arb. P. 662/2019                                                   Page 4 of 16
+9.
+Section 31(4)
+of the Arbitration and Conciliation Act provides that the
+arbitral award shall state its date and place of arbitration as determined in
+accordance with
+Section 20
+.
+Section 31(4)
+of the Arbitration and
+Conciliation Act is reproduced hereunder:-
+―
+Section 31
+. Form and contents of arbitral award. -
+(1)...........................................................................
+           (2)...........................................................................
+           (3)...........................................................................
+           (4) The arbitral award shall state its date and the place of
+           arbitration as determined in accordance with
+Section 20
+and
+           the award shall be deemed to have been made at that place.‖
+
+Judgments cited by the Petitioner
+10.
+In
+Indus Mobile Distribution Private Limited v. Datawind
+Innovations Private Limited
+, (2017) 7 SCC 678, the arbitration agreement
+provided that the seat of the arbitration shall be at Mumbai. The agreement
+also provided for exclusive jurisdiction of Mumbai Courts. An application
+for appointment of an arbitrator was filed before Delhi High Court on the
+ground that part of the cause of action arose at Delhi and, therefore, the
+clause providing for seat of arbitration at Mumbai was not valid. This Court
+held that exclusive jurisdiction clause would not apply as no part of the
+cause of action arose at Mumbai. This
+Court further held
+that the Courts of
+only three territories had jurisdiction, namely, Delhi and Chennai (from and
+to where goods were supplied), and Amritsar (which is the registered office
+of the appellant company). This Court appointed an arbitrator which was
+challenged before the Supreme Court.
+The Supreme Court held that
+Section 20
+recognizes autonomy of the
+parties to choose a neutral seat of arbitration where no part of the cause of
+Arb. P. 662/2019                                                 Page 5 of 16
+action arose. The Supreme
+Court further held
+that the once the seat is
+determined, the Court of that place would have exclusive jurisdiction to
+regulate the arbitration proceedings arising out of the agreement between the
+parties. The Supreme
+Court further held
+that the neutral seat chosen by the
+parties may not have jurisdiction under any of the provisions of
+Section 16
+to
+21
+of Code of Civil Procedure. The Supreme Court held that Mumbai
+Courts alone had exclusive jurisdiction, as Mumbai was the seat of
+arbitration. The relevant portion of
+the said judgment
+is reproduced
+hereunder:-
+―9. The concept of juridical seat has been evolved by the courts
+           in England and has now been firmly embedded in our
+           jurisprudence.       Thus,      the     Constitution      Bench
+           in BALCO v. Kaiser       Aluminium        Technical     Services
+           Inc. [BALCO v. Kaiser Aluminium Technical Services Inc.,
+           (2012) 9 SCC 552 : (2012) 4 SCC (Civ) 810] has adverted to
+           ―seat‖ in some detail. Para 96 is instructive and states as
+           under:
+―We are of the opinion, the term ―subject-matter of the
+                   arbitration‖ cannot be confused with ―subject-matter
+                   of the suit‖. The term ―subject-matter‖ in
+Section
+                   2(1)(e)
+is confined to Part I. It has a reference and
+                   connection with the process of dispute resolution. Its
+                   purpose is to identify the courts having supervisory
+                   control over the arbitration proceedings. Hence, it
+                   refers to a court which would essentially be a court of
+                   the seat of the arbitration process. In our opinion, the
+                   provision in
+Section 2(1)(e)
+has to be construed keeping
+                   in view the provisions in
+Section 20
+which give
+                   recognition to party autonomy. Accepting the narrow
+                   construction as projected by the learned counsel for the
+                   appellants would, in fact, render
+Section 20
+nugatory.
+                   In our view, the legislature has intentionally given
+                   jurisdiction to two courts i.e. the court which would
+                   have jurisdiction where the cause of action is located
+Arb. P. 662/2019                                                  Page 6 of 16
+and the courts where the arbitration takes place. This
+                   was necessary as on many occasions the agreement
+                   may provide for a seat of arbitration at a place which
+                   would be neutral to both the parties. Therefore, the
+                   courts where the arbitration takes place would be
+                   required to exercise supervisory control over the
+                   arbitral process. For example, if the arbitration is held
+                   in Delhi, where neither of the parties are from Delhi,
+                   (Delhi having been chosen as a neutral place as
+                   between a party from Mumbai and the other from
+                   Kolkata) and the tribunal sitting in Delhi passes an
+                   interim order under
+Section 17
+of the Arbitration Act,
+                   1996, the appeal against such an interim order under
+Section 37
+must lie to the courts of Delhi being the
+                   courts having supervisory jurisdiction over the
+                   arbitration proceedings and the tribunal. This would be
+                   irrespective of the fact that the obligations to be
+                   performed under the contract were to be performed
+                   either at Mumbai or at Kolkata, and only arbitration is
+                   to take place in Delhi. In such circumstances, both the
+                   courts would have jurisdiction i.e. the court within
+                   whose jurisdiction the subject-matter of the suit is
+                   situated and the courts within the jurisdiction of which
+                   the dispute resolution i.e. arbitration is located.‖
+                                                       (emphasis in original)
+10. Paras 98 to 100 have laid down the law as to ―seat‖ thus:
+xxx                  xxx                  xxx
+                   A plain reading of
+Section 20
+leaves no room for doubt
+                   that where the place of arbitration is in India, the
+                   parties are free to agree to any ―place‖ or ―seat‖
+                   within India, be it Delhi, Mumbai, etc. In the absence of
+                   the parties' agreement thereto,
+Section 20(2)
+authorises
+                   the tribunal to determine the place/seat of such
+                   arbitration. Section 20(3) enables the tribunal to meet
+                   at any place for conducting hearings at a place of
+                   convenience in matters such as consultations among its
+                   members for hearing witnesses, experts or the parties.‖
+                          xxx                   xxx                 xxx
+Arb. P. 662/2019                                                   Page 7 of 16
+13. This Court reiterated that once the seat of arbitration has
+           been fixed, it would be in the nature of an exclusive jurisdiction
+           clause as to the courts which exercise supervisory powers over
+           the arbitration. (See para 138.)‖
+                         xxx                   xxx                  xxx
+19. A conspectus of all the aforesaid provisions shows that the
+           moment the seat is designated, it is akin to an exclusive
+           jurisdiction clause. On the facts of the present case, it is clear
+           that the seat of arbitration is Mumbai and Clause 19 further
+           makes it clear that jurisdiction exclusively vests in the Mumbai
+           courts. Under the Law of Arbitration, unlike
+the Code of Civil
+           Procedure
+which applies to suits filed in courts, a reference to
+           ―seat‖ is a concept by which a neutral venue can be chosen by
+           the parties to an arbitration clause. The neutral venue may not
+           in the classical sense have jurisdiction -- that is, no part of the
+           cause of action may have arisen at the neutral venue and
+           neither would any of the provisions of
+Sections 16
+to
+21
+of CPC
+           be attracted. In arbitration law however, as has been held
+           above, the moment ―seat‖ is determined, the fact that the seat is
+           at Mumbai would vest Mumbai courts with exclusive
+           jurisdiction for purposes of regulating arbitral proceedings
+           arising out of the agreement between the parties.
+20. It is well settled that where more than one court has
+           jurisdiction, it is open for the parties to exclude all other courts.
+For an exhaustive analysis of the case law, see
+Swastik Gases
+           (P) Ltd. v. Indian Oil Corpn. Ltd. [Swastik Gases (P)
+           Ltd.
+v. Indian Oil Corpn. Ltd., (2013) 9 SCC 32 : (2013) 4 SCC
+           (Civ) 157] This was followed in a recent judgment in B.E.
+           Simoese Von Staraburg Niedenthal v. Chhattisgarh Investment
+           Ltd. [B.E. Simoese Von Staraburg Niedenthal v. Chhattisgarh
+           Investment Ltd., (2015) 12 SCC 225 : (2016) 1 SCC (Civ) 427]
+           Having regard to the above, it is clear that Mumbai courts
+           alone have jurisdiction to the exclusion of all other courts in the
+           country, as the juridical seat of arbitration is at Mumbai.‖
+                                                          (Emphasis Supplied)
+11.
+In
+Brahmani River Pellets Limited v. Kamachi Industries Limited
+,
+Arb. P. 662/2019                                                      Page 8 of 16
+(2019) SCC OnLine SC 929, the arbitration agreement provided that the
+venue of the arbitration shall be at Bhubaneswar. An application for
+appointment of an arbitrator was filed before the Madras High Court. The
+respondent raised an objection to the jurisdiction on the ground that the
+parties agreed the seat of arbitration to be Bhubaneswar and, therefore, the
+Orissa High Court alone had exclusive jurisdiction. The Madras High Court
+held that in absence of any express clause excluding jurisdiction of other
+Courts, both the Madras High Court and the Orissa High Court had
+jurisdiction. The decision of Madras High Court was challenged before the
+Supreme Court. The Supreme Court held that the parties agreed to have the
+venue of arbitration proceedings at Bhubaneswar and, therefore, Orissa High
+Court had exclusive jurisdiction to deal with the matter. The relevant portion
+of
+the said judgment
+is reproduced hereunder:-
+―18. Where the contract specifies the jurisdiction of the court at
+           a particular place, only such court will have the jurisdiction to
+           deal with the matter and parties intended to exclude all other
+           courts. In the present case, the parties have agreed that the
+           ―venue‖ of arbitration shall be at Bhubaneswar. Considering
+           the agreement of the parties having Bhubaneswar as the venue
+           of arbitration, the intention of the parties is to exclude all other
+           courts. As held in Swastik, non-use of words like ―exclusive
+           jurisdiction‖, ―only‖, ―exclusive‖, ―alone‖ is not decisive and
+           does not make any material difference.
+19. When the parties have agreed to have the ―venue‖ of
+           arbitration at Bhubaneswar, the Madras High Court erred in
+           assuming the jurisdiction under
+Section 11(6)
+of the Act. Since
+           only Orissa High Court will have the jurisdiction to entertain
+           the petition filed under
+Section 11(6)
+of the Act, the impugned
+           order is liable to be set aside.‖
+                                                       (Emphasis Supplied)
+Arb. P. 662/2019                                                     Page 9 of 16
+12.
+In
+State of West Bengal v. Associated Contractors
+, (2015) 1 SCC 32,
+the objections under
+Section 34
+of the Arbitration and Conciliation Act were
+filed before the Principal Civil Court of the District Jalpaiguri, West Bengal
+on the ground that earlier an interim order under
+Section 9
+was passed by the
+Calcutta High Court in different proceedings. A writ petition was filed
+before Calcutta High Court to challenge the jurisdiction in principal civil
+Court. The Calcutta High Court held that the parties had submitted to the
+jurisdiction of the High Court in its ordinary original civil jurisdiction in
+connection with different earlier proceedings arising out of the said contract
+and the jurisdiction of the Court of the District Judge to entertain the said
+application for setting aside of the award was excluded under
+Section 42
+of
+the Act. The decision of High Court was challenged in the Supreme Court.
+The Supreme Court rejected the objection to the jurisdiction and laid down
+the principles relating to
+Section 2(1)(e)
+and
+Section 42
+of the Arbitration
+and Conciliation Act, which are not relevant for the present case.
+13.
+In
+NJ Construction v. Ayursundra Health Care Pvt. Ltd.
+, 2018 (168)
+DRJ 274, the agreement provided the seat of the arbitration at New Delhi
+and jurisdiction of Guwahati Courts. An application for appointment of
+arbitrator was filed before the Delhi High Court in which the objection of
+jurisdiction was raised.
+Following Indus Mobile Distribution Private
+Limited
+(supra), this Court held that the Delhi Courts had exclusive
+jurisdiction as Delhi was the seat of arbitration.
+14.
+In
+Raman Deep Singh Taneja v. Crown Realtech Private Limited
+,
+2017 SCC OnLine Del 11966, the agreement provided the venue of
+arbitration proceedings to be Faridabad and exclusive jurisdiction of Delhi
+Courts. An application for appointment of an arbitrator was filed before
+Arb. P. 662/2019                                                     Page 10 of 16
+Delhi High Court. The agreement stipulated that where the disputes have to
+be adjudicated without reference to the arbitration, Courts at Delhi would
+have exclusive jurisdiction, but if the disputes have to be resolved through
+arbitration, venue being at Faridabad, Haryana, the Courts at Faridabad,
+Haryana, would have exclusive jurisdiction. This Court held that the
+Faridabad Courts had exclusive jurisdiction, since the arbitration clause had
+been invoked and the venue of the arbitration proceedings was Faridabad.
+15.
+In
+Rohit Bhasin v. Nandini Hotels
+, 2013 (5) AD (Del.) 710, the
+agreement provided the venue of the arbitration to be Delhi in case the
+disputes were to be resolved by arbitration and the jurisdiction for civil
+Court at Noida and Allahabad High Court for civil disputes. An application
+for appointment of an arbitrator was filed before Delhi High Court. This
+Court held that the Delhi Courts had exclusive jurisdiction since the venue
+of arbitration was New Delhi and part of cause of action also arose at Delhi.
+16.
+In
+Spentex Industries Ltd. v. Louis Dreyfus Commodities India Pvt.
+Ltd.
+, (2019) 258 DLT 138, the objections under
+Section 34
+of the Arbitration
+and Conciliation Act were filed before the Delhi High Court on the ground
+that the agreement provided for exclusive jurisdiction of Delhi Courts to deal
+with any matter arising out of the arbitration proceedings or the award. The
+respondent raised an objection to the maintainability on the ground that the
+arbitration was conducted under the rules and bye-laws of Cotton
+Association of India (CAI) and proceedings were held in Cotton Association
+of India's office in Mumbai. Rule 32 of the Rules and Bye-laws of CAI
+provided that place or venue of arbitration shall be India. Considering that
+Mumbai was not the seat/venue of the arbitration and the arbitration was
+held in CAI's premises for convenience, this Court held that Delhi High
+Arb. P. 662/2019                                                 Page 11 of 16
+Court had exclusive jurisdiction to consider the objections.
+17.
+In
+Virgo Softech Ltd. v. National Institute of Electronics and
+Information Technology
+, 2018 SCC OnLine Del 12722, the arbitration
+agreement provided that the arbitration proceedings shall be held at New
+Delhi and the Courts at Chandigarh shall have exclusive jurisdiction to
+entertain any dispute arising therefrom. An application for appointment for
+an arbitrator was filed before the Delhi High Court. This Court held that the
+Court at Chandigarh alone had the territorial jurisdiction as New Delhi was
+not the "seat" but only a "venue" of the arbitration.
+Judgements cited by the Respondent
+18.
+In
+Interglobe Aviation Limited v. N. Satchidanand
+, (2011) 7 SCC
+463, the Supreme Court held that any clause which ousts the jurisdiction of
+all Courts having jurisdiction and confers jurisdiction on a Court not
+otherwise having jurisdiction, would be invalid. The parties cannot by
+agreement confer jurisdiction. The ouster of jurisdiction of some Courts is
+permissible so long as the Court on which exclusive jurisdiction is
+conferred, had jurisdiction. However, there was no arbitration agreement
+in
+that case
+.
+19.
+In
+AAA Landmark Ltd. v. Akme Projects Ltd
+, 2018 SCC OnLine Del
+7586, the agreement provided for exclusive jurisdiction of Delhi Courts.
+The application for appointment of an arbitrator was filed before Delhi High
+Court in which an objection of jurisdiction was raised on the ground that the
+previously, a petition under
+Section 9
+of the Arbitration and Conciliation Act
+was filed before the Gurgaon Court. This Court allowed the objection
+holding that all subsequent applications arising out of the agreement have to
+be filed before Gurgaon Court as the petition under
+Section 9
+was previously
+Arb. P. 662/2019                                                 Page 12 of 16
+filed before the Gurgaon Court.
+20.
+In
+GE Countrywide Consumer Financial Services Ltd. v. Surjit
+Singh Bhatia
+, 2006 (89) DRJ 73, an application for appointment of an
+Arbitrator was filed before Delhi High Court on the ground that the
+agreement stipulated the place of arbitration to be Delhi. This Court rejected
+the application on the ground that the loan was applied and disbursed at
+Ahmedabad and no part of cause of action arose at Delhi.
+This judgment is
+prior to
+Indus Mobile Distribution Private Limited
+(supra) in which the
+Supreme Court held that the Court at seat of arbitration shall have exclusive
+jurisdiction.
+21.
+In
+Apparel Export Promotion Council v. Prabhati Patni, ILR
+(2005)
+II Delhi 1066, the objections under
+Section 34
+of the Arbitration and
+Conciliation Act were filed before the Delhi High Court in which the
+objection of territorial jurisdiction was raised on the ground that the
+agreement provided for exclusive jurisdiction of Jaipur Courts. This Court
+dismissed the objections holding that the situs of arbitration or the fact that
+the award was made at a particular place, would not be relevant for
+conferring jurisdiction.
+This judgment is also prior to
+Indus Mobile
+Distribution Private Limited
+(supra) in which the Supreme Court held that
+the Court at seat of the arbitration shall have exclusive jurisdiction.
+22.
+In
+Gulati Construction Co., Jhansi v. Betwa River Board
+, AIR 1984
+Del 299, the arbitrator filed an award under the
+Arbitration Act, 1940
+before
+Delhi High Court on the ground that the arbitration proceedings were
+conducted at Delhi. The Delhi High Court returned the award holding that
+the arbitration proceedings having been conducted and the award having
+been made in New Delhi, does not give this Court jurisdiction to entertain
+Arb. P. 662/2019                                                    Page 13 of 16
+the award as neither cause of action arose at Delhi nor the parties reside or
+work for gain at Delhi. This judgment was in the context of
+Section 14
+of the
+Arbitration Act, 1940 and is not relevant for the present case.
+Summary of Principles
+23.
+Section 20 (1)
+of the Arbitration and Conciliation Act empowers the
+parties to determine the seat of arbitration. The parties are at liberty to
+choose a neutral seat of arbitration where neither the cause of action arose
+nor the parties reside or work and
+Sections 16
+to
+20
+of the Code of Civil
+Procedure would not be attracted.
+24.    Once the seat is determined, the Court of that place shall have
+exclusive jurisdiction to deal with all matters relating to arbitration
+agreement between the parties.
+25.    If the parties have not determined the seat of arbitration, the seat of
+arbitration shall be determined by the Arbitral Tribunal under
+Section 20(2)
+of the Arbitration and Conciliation Act.
+26.    If the parties have not agreed on the seat of the arbitration, the Court
+competent to entertain an application under
+Section 11
+of the Arbitration and
+Conciliation Act would be the "Court‖ as defined in
+Section 2(1) (e)
+of the
+Act read with
+Sections 16
+to
+20
+of the Code of Civil Procedure.
+Findings
+27.    The arbitration agreement dated 16th March, 2018 does not stipulate
+any seat of arbitration as the parties had not agreed on the seat of the
+arbitration under
+Section 20(1)
+of the Arbitration and Conciliation Act. In
+that view of the matter, the seat of the arbitration shall be determined by the
+Arbitral Tribunal under
+Section 20(2)
+of the Arbitration and Conciliation
+Act.
+Arb. P. 662/2019                                                  Page 14 of 16
+28.    Since the parties have not agreed on the seat of the arbitration, the
+Court within the meaning of
+Section 2(1)(e)
+of Arbitration and Conciliation
+Act read with
+Sections 16
+to
+20
+of Code of Civil Procedure would be
+competent to entertain an application under
+Section 11
+of the Arbitration and
+Conciliation Act.
+29.    This Court lacks territorial jurisdiction as Delhi is not the seat of
+arbitration; no cause of action arose at Delhi and the respondent does not
+work at Delhi. The agreement was drawn at Ranchi, signed at Lucknow and
+was to be performed at Patna.
+30.    The petitioner could have succeeded if the agreement had provided
+the seat of arbitration to be Delhi. In that case, this Court would have
+exclusive jurisdiction to entertain this application.
+31.    Clause 15.1 which provides for exclusive jurisdiction of Delhi Courts,
+is not valid as the parties cannot confer jurisdiction on a Court which
+otherwise has no jurisdiction. That apart, clause 15.1 is subject to clauses
+15.2 and 15.3.
+32.    The judgments cited by the petitioner do not support the case of the
+petitioner. The petitioner has relied upon cases in which the agreements
+provided the seat of arbitration, which eventually determined the jurisdiction
+of the Court whereas the agreement dated 16th March, 2018, in the present
+case, does not determine the seat. In that view of the matter, the jurisdiction,
+in the present case, has to be determined according to
+Section 2(1)(e)
+of the
+Arbitration and Conciliation Act read with
+Sections 16
+to
+20
+of the Code of
+Civil Procedure.
+Conclusion
+33.    This Court holds that it has no territorial jurisdiction to entertain this
+Arb. P. 662/2019                                                    Page 15 of 16
+petition.
+34.    The petition is dismissed with liberty to the petitioner to approach the
+Court of competent jurisdiction.
+J.R. MIDHA, J.
+JULY 06, 2020
+rsk/dk/ds/ak
+Arb. P. 662/2019                                                  Page 16 of 16

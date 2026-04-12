@@ -1,0 +1,338 @@
+Title: Search
+Court: High Court
+Date: 6 of 2020
+Citation: SCC 722 in which it has been held that if the "Venue of Arbitration" is designated without specifying the "Seat of Arbitration" in the arbitration agreement, the stated "Venue'" is the "Juridical Seat of Arbitration". Thus the application under
+Source: https://indiankanoon.org/doc/30298384/
+
+[Cites
+30
+, Cited by
+8
+]
+Allahabad High Court
+Hasmukh Prajapati vs Jai Prakash Associates Ltd. Through Its ... on 17 February, 2022
+Author:
+Siddharth
+Bench:
+Siddharth
+HIGH COURT OF JUDICATURE AT ALLAHABAD
+ 
+ 
+
+A.F.R.
+ 
+Reserved on :- 20.01.2022
+ 
+Delivered on :- 17.02.2022
+ 
+
+ 
+Case :- MATTERS UNDER ARTICLE 227 No. - 6890 of 2021
+ 
+Petitioner :- Hasmukh Prajapati
+ 
+Respondent :- Jai Prakash Associates Ltd. Through Its Managing Director
+ 
+Counsel for Petitioner :- Veerendra Kumar Shukla,Vidhu Prakash Pandey
+ 
+Counsel for Respondent :- Rohan Gupta
+ 
+
+ 
+Hon'ble Siddharth,J.
+1. Heard Sri Vidhu Prakash Pandey, learned counsel for the petitioner and Sri Anurag Khanna, learned Senior Advocate assisted by Sri Rohan Gupta, learned counsels for the respondent.
+2. This petition under
+Article 227
+of the Constitution of India has been filed challenging the order dated 18.08.2021 passed by Presiding Officer, Commercial Court, Gautam Budh Nagar, in Misc. Application No. 6 of 2020 in Arbitration Application No. 26 of 2019, Jai Prakash Associates Ltd. Vs. Hasmukh Prajapati, preferred
+u/s 34
+of Arbitration and Conciliation Act, 1996 (arising out of award dated 16.02.2019 passed by the Arbitral Tribunal (Sole Arbitrator), New Delhi, in
+Arbitration No. 15 of 2018, Hasmukh Prajapati Vs. Jai Prakash Associates Ltd.
+) partly allowing the claim of the petitioner.
+3. The brief facts of the case are as follows :-
+(i) The petitioner booked an Apartment No.0301 in Kalypso Court, Tower No. l, Jaypee Greens Noida, admeasuring 315.12Sq. mtrs, in terms of the Concession Agreement, executed between Yamuna Expressway Industrial Development Authority and Jaypee Industries Limited, for the project of Yamuna Expressway Industrial Development Authority and as per the standard terms and conditions of the allotment of the apartment at Jaypee
+ 
+Greens, respondent was under obligation to hand over the possession of constructed apartment to the allottee maximum within 36 months and additional grace period of 90 days from the date of its allotment.
+(ii) The petitioner deposited Rs.18,48,000/- on 17.11.2007 on account of advance, against booking of said apartment which has been allotted in favour of petitioner vide provisional allotment letter dated 11.02.2008 for a total consideration of Rs. 1,96,02,400/-, subjcet to standard terms and conditions and the provisional allotment letter dated 11.02.2008 has been partially modified. Accordingly, the details of consideration has been revised from Rs.1,96,02,400/- to Rs.1,75,22,560/- and converted from "InstalIments Linked Plan" to "Down Payment Plan".
+(iii) As per the payment plan, the petitioner has deposited balance of full Down Payment amount of Rs. 1,38,27,527/- through Demand Draft, issued by GE Money Housing Finance Co. on 27.08.2008 and balance payment of Rs.2,99,360/- was made on 09.09.2008 for booking against unit Ref. No.K0010301 in Kalypso Court-1, Jaypec Greens, Noida but even after expiry of 36 months, the permissible time for handing over possession of fully constructed/ ready apartment, even after passing of 4 years, the possession of apartment, allotted to the petitioner, has not been handed over rather illegal demand notices have been sent by the respondent.
+(iv) Vide letter dated 18.07.2014, the petitioner has been informed about delivery of possession of apartment, subject to NGT clearance and due to the said reason, the apartment was not ready for delivery to its allottee. NGT has restrained Noida to issue completion certificate and the said condition finds mention in the letter dated 18.07.2014 itself.
+(v) As on 14.04.2015, the petitioner's dues became Rs. 3,79,939.53 but still flat was not constructed.
+(vi) Vide order dated 02.06.2015, the petitioner has been informed through partially modified allotment letter demanding additional car parking charges of Rs. 5,00,000/- but the petitioner visited the office and came to know that a huge interest has also been imposed on him.
+(vii) For waiver of interest on unpaid amount and delivery of possession of apartment no. KLP 0301, the petitioner moved several applications before respondent but it neither delivered possession nor waived the interest on unpaid amount and ultimately, the petitioner has received the offer of possession of apartment vide a letter on 20.12.2015.
+(viii) Petitioner has received letter for the possession of apartment vide letter dated 21.04.2016 and after the gap of more than nine years, respondents have handed over the possession of the apartment, booked by the petitioner on 08.06.2007 for which, the petitioner has taken housing loan in the year 2008 from N.B.F.C. and paying the interest at the rate of 13% from 2008 and the respondent has enjoyed the money deposited by the petitioner for more than nine years without any cogent and justifiable reason.
+(ix) Petitioner preferred
+Arbitration Application No.8 of 2017, "Hasmukh Prajapati Vs. Jai Prakash Associates Ltd
+" in which, respondent filed counter affidavit, wherein it has been admitted that in case of any dispute, arising between the parties, the place of the arbitration will be at "New Delhi", therefore all the proceedings, arising out of the arbitration proceedings, shall be maintainable at New Delhi.
+(x) This Court vide order dated 01.02.2018 appointed Hon'ble Mr. Justice Sunil Ambwani (Retd.), Office B-27 (FF) Defence Colony, New Delhi, as arbitrator and the petitioner filed his claim before sole arbitrator, having its seat at New Delhi which was registered as Arbitration Case
+No. 15 of 2018, Hasmukh Prajapati Vs. Jai Prakash Associates Ltd. The Tribunal
+, having its venue at New Delhi, was pleased to pass an award dated 16.02.2019 and partly allowed the claim of the petitioner as claimed through the Arbitration Case No.15 of 2018.
+(xi) Assailing the arbitral award dated 16.02.2019, passed by Arbitral Tribunal comprising of Hon'ble Mr. Justice Sunil Ambwani, delivered at New Delhi, the respondent preferred an Arbitration Application No.26 of 2019 (Jai Prakash Associates Ltd. Vs. Hasmukh Prajapati) under
+Section 34
+of Arbitration and Conciliation Act, before Distriet Judge, Gautam Budh Nagar in which, exceeding its jurisdiction, the court of District Judge, Gautam Budh Nagar, proceeded with the case and issued notice to the petitioner.
+(xii) Questioning the legality and validity of the arbitration proceedings under
+Section 34
+of the Act, before the District Judge, Gautam Budh Nagar, the petitioner filed a
+Writ-C No.33003 of 2019, Hasmukh Prajapati Vs. Jai Prakash Associates
+, before this  Court. This Court has directed the petitioner to raise the objection, regarding the jurisdiction of the Court to adjudicate the issue raised under
+Section 34
+of the Act, before the learned court below itself vide its order dated 17.10.2019.
+(xiii) In compliance to the order dated 17.10.2019 of this Court, the petitioner moved an application being Paper No.16Ga along with affidavit (17Ga) in Arbitration Application No. 26 of 2019 (Jai Prakash Associates Vs. Hasmukh Prajapati) which has been rejected by the Commercial Court, Gautam Budh Nagar, by passing the impugned order dated 18.08.2021 (Annexure No. 9 to the petition). Hence, the petitioner has approached this Court against the same through the present petition.
+4. The order dated 18.08.2021 passed by the Commercial Court, Gautam Budh Nagar, has been assailed in the present petition before this Court.
+5. The issue to be decided by this Court is whether the Commercial Court at Gautam Budh Nagar has jurisdiction to hear the case
+u/s 34
+of the Arbitration and Conciliation Act, 1996 regarding the arbitral award dated 16.02.2019 passed by sole arbitrator, having its venue at New Delhi, which has been specified in the arbitration agreement, but not the seat of the arbitration. The other issues are regarding the application of provision of
+Section 42
+of the Act aforesaid to the execution of final award after conclusion of arbitration proceedings in terms of
+Section 32
+of the Act and whether execution application for enforcement of arbitral award passed at New Delhi can be filed at Gautam Budh Nagar which has no supervisory jurisdiction over the Arbitral Tribunal.
+6. Learned counsel for the petitioner has submitted that from the perusal of the arbitral award dated 16.02.2019, it is quite evident that "Venue of Arbitration" proceedings has been chosen to be at "New Delhi" by both the parties and the arbitration clause does not specifies the "Seat of Arbitration". Thus, in the absence of the specified "Seat of Arbitration" in arbitral agreement, the venue of arbitration will be the juridical seat of arbitration proceedings and as such, the impugned proceedings under
+Section 34
+of the Arbitration and Conciliation Act, challenging the arbitral award dated 16.10.2019, is not maintainable in District- Gautam Budh Nagar, rather it is maintainable in the court at Delhi having supervisory jurisdiction over the Arbitral Tribunal. The impugned order dated 18.08.2021 and the proceedings under
+Section 34
+are wholly illegal and untenable and the same are liable to be set aside by this Court holding the same to be without jurisdiction. In support of the aforesaid submissions/arguments, the petitioner has relied upon the judgment of the Hon'ble Supreme Court reported as   2019 0 Supreme (SC) 1350, BGS SGS SOMA JV Versus NHPC Ltd. The relevant paragraph nos. 98, 99 and 100 relied upon are as follows :-
+98. We have extracted the arbitration agreement in the present case (as contained in Clause 67.3 of the agreement between the parties) in paragraph 3 of this judgment. As per the arbitration agreement, in case a dispute was to arise with a foreign contractor, clause 67.3(ii) would apply. Under this sub-clause, a dispute which would amount to an 'international commercial arbitration within the meaning of
+Section 2(1)(f)
+of the Arbitration Act, 1990, would have to be finally settled in accordance with the
+Arbitration Act, 1990
+read with the UNCITRAL Arbitration Rules, and in case of any conflict, the
+Arbitration Act, 1996
+, is to prevail (as an award made under Part I is considered a domestic award under
+Section 2(7)
+of the Arbitration Act, 1996, notwithstanding the fact that it is an award made in an international commercial arbitration). Applying the Shashoua principle delineated above, it is clear that if the dispute was with a foreign contractor under Clause 67.3 of the agreement, the fact that arbitration proceedings shall be held at New Delhi/Faridabad, India in sub-clause (vi) of Clause 67.3, would amount to the designation of either of these places as the "seat" of arbitration, as a supranational body of law is to be applied, namely, the UNCITRAL Arbitration Rules, in conjunction with the
+Arbitration Act, 1996
+. As such arbitration would be an international commercial arbitration which would be decided in
+India, the Arbitration Act,1996
+, is to apply as well. There being no other contra indication in such a situation, either New Delhi or Faridabad, India is the designated "seat" under the agreement, and it is thereafter for the parties to choose as to in which of the two places the arbitration is finally to be held.
+99. Given the fact that if there were a dispute between NHPC Ltd. and a foreign contractor, clause 67.3(vi) would have to be read as a clause designating the "seat of arbitration, the same must follow even when sub-clause (vi) is to be read with sub-clause (i) of Clause 67.3, where the dispute between NHPC Ltd. would be with an Indian Contractor. The arbitration clause in the present case states that "Arbitration Proceedings shall be held at New Delhi/Faridabad, India...", thereby signifying that all the hearings, including the making of the award, are to take place at one of the stated places. Negatively speaking, the clause does not state that the venue is so that some, or all, of the hearings take place at the venue; neither does it use language such as "the Tribunal may meet", or "may hear witnesses, experts or parties". The expression "shall be held" also indicates that the so-called "venue" is really the "seat" of the arbitral proceedings. The dispute is to be settled in accordance with the
+Arbitration Act, 1996
+which, therefore, applies a national body of rules to the arbitration that is to be held either at New Delhi or Faridabad, given the fact that the present arbitration would be Indian and not international. It is clear, therefore, that even in such a scenario, New Delhi/Faridabad, India has been designated as the "seat" of the arbitration proceedings.
+100. However, the fact that in all the three appeals before us the proceedings were finally held at New Delhi, and the awards were signed in New Delhi, and not at Faridabad, would lead to the conclusion that both parties have chosen New Delhi as the "seat" of arbitration under
+Section 20(1)
+of the Arbitration Act, 1996. This being the case, both parties have, therefore, chosen that the Courts at New Delhi alone would have exclusive jurisdiction over the arbitral proceedings. Therefore, the fact that a part of the cause of action may have arisen at Faridabad would not be relevant once the "seat" has been chosen, which would then amount to an exclusive jurisdiction clause so far as Courts or the "seat" are concerned.
+7. He has next submitted that in the matter of BGS SGS SOMA JV Versus NHPC Ltd. (supra), it has been held by the Hon'ble Supreme Court that if both the parties have chosen the seat of arbitration at New Delhi, court of Delhi, will have the exclusive jurisdiction to entertain and hear the dispute under
+Section 34
+of the Act. It has been held by the Hon'ble Supreme Court that once the "Seat" has been chosen, it would then amount to an exclusive jurisdiction clause so far as Court of the Seat is concerned.
+8. He has next submitted that in the case in hand, no seat of arbitration was specified, moreover, the parties agreed about venue of arbitration to be at New Delhi and accordingly, the arbitral proceedings took place at New Delhi and award has been passed  and signed at New Delhi.
+In BGS SGS SOMA JV Versus NHPC Ltd. (supra), the Hon'ble Supreme Court has dealt with several judgments including
+Roger Shashoua V. Mukesh Sharma & Ors.
+, (2017) 14 SCC 722 in which it has been held that if the "Venue of Arbitration" is designated without specifying the "Seat of Arbitration" in the arbitration agreement, the stated "Venue'" is the "Juridical Seat of Arbitration". Thus the application under
+Section 34
+is maintainable at New Delhi and the court at Gautam Buddh Nagar, U.P., India, has got no jurisdiction to entertain the case under
+Section 34
+of the Arbitration and Conciliation Act, 1996.
+9. He has also submitted that the provisions of
+Section 42
+of Arbitration and Conciliation Act provides that any application with respect to an arbitration agreement can be made to that court alone which has supervisory jurisdiction over the Arbitral Tribunal and in no other court. The language of the aforesaid provision is self explanatory that it is applicable till the finalization of the arbitral proceedings and after termination of the arbitral proceedings i.e., after pronouncement of the final award by the Arbitral Tribunal, in terms of
+Section 32
+of the Arbitration and Conciliation Act, the arbitral proceedings stands terminated.
+10.  He has further submitted that
+Section 36
+of the Arbitration and Conciliation Act provides that the arbitral award shall be enforced under the relevant provisions
+of the Code of Civil Procedure
+, 1908, in the same manner as if it were a decree of the court and in the present case after the pronouncement of the arbitral award, the arbitration proceedings stands terminated and hence, the provisions of
+Section 42
+of Arbitration Act are not affected, thus, the application for execution can be filed before any court where the said decree/award can be executed. Thus, filing of execution proceedings in the Court at District- Gautam Budh Nagar is not tenable in the eyes of law.
+In support of the arguments advanced in support of other issues raised, the petitioner has relied upon the judgment of Hon'ble Supreme Court in the case of
+Sundaram Finance Limited V. Abdul Samad and another
+, (2018) 3 SCC 622 (Relevant paragraph nos. 17, 19 and 20). The relevant paragraph nos. 17, 19 and 20 of the aforesaid judgement are as follows :-
+17. However, what has been lost sight of is
+Section 32
+of the said Act, which reads as under:
+32. Termination of proceedings-(1) The arbitral proceedings shall be terminated by the final arbitral award or by an order of the Arbitral Tribunal under sub-section (2).
+(2) The Arbitral Tribunal shall issue an order for the termination of the arbitral proceedings where- (a) the claimant withdraws his claim, unless the respondent objects to b the order and the Arbiral Tribunal recognises a legitimate interest on his part in obtaining a final settlement of the dispute;
+(b) the parties agree on the termination of the proceedings; or (c) the Arbitral Tribunal finds that the continuation of the proceedings has for any other reason become unnecessary or impossible.
+(3) Subject to
+Section 33
+and sub-section (4) of
+Section 34
+, the mandate of the Arbitral Tribunal shall terminate with the termination of the arbitral proceedings."
+The aforesaid provision provides for arbitral proceedings to be terminated by the final arbitral award. Thus, when an award is already made, of which execution is sought, the arbitral proceedings already stand terminated on the making of the final award. Thus, it is not appreciated how
+Section 42
+of the said Act, which deals with the jurisdiction issue in respect of arbitral proceedings, would have any relevance. It does appear that the provisions of the said Code and the said Act have been mixed up.
+19. The Madras High Court in
+Kotak Mahindra Bank Ltd. v. Sivakama Sundaris
+referred to
+Section 46
+of the said Code, which spoke of precepts but stopped at that. In the context of the Code, thus, the view adopted is that the decree of a civil court is liable to be executed primarily by the court, which passes the decree where an execution application has to be filed at the first instance. An award under
+Section 36
+of the said Act, is equated to a decree of the court for the purposes of execution and only for that purpose. Thus, it was rightly observed that while an award passed by the Arbitral Tribunal is deemed to be a decree under
+Section 36
+of the said Act, there was no deeming fiction anywhere to hold that the court within whose jurisdiction the arbitral award was passed should be taken to be the court, which passed the decree. The said Act actually transcends all territorial barriers.
+20. We are, thus, unhesitatingly of the view that the enforcement of an award through its execution can be filed anywhere in the country where such a decree can be executed and there is no requirement for obtaining a transfer of the decree from the court, which would have jurisdiction over the arbitral proceedings.
+11.  Learned counsel for the petitioner has submitted that the "venue" and "place of arbitration" can not be used interchangeably. In the case in hand the "Seat of Arbitration" has not been designated, only "Venue of Arbitration" has been agreed by the parties in the arbitration agreement and entire arbitral proceedings took place at the said venue. Thus, no question of interchange arises and paragraphs 20 and 21 of the judgment relied upon by the counsel for respondent in the case of Mankastu Impex Private Limited Vs. Air Visual Limited, (2020) 5 SCC 399 has no relevance to the facts of the case. It is not applicable at all.
+12.  Learned Senior Counsel for the respondent has submitted that the Clause 10.6 of the standard terms and conditions of allotment/ provisional allotment provided as under :
+"Governing Law and Jurisdiction: the allotment/provisional allotment shall be governed and interpreted by and construed in accordance with the laws of India, without giving effect, if applicable, to the principles of conflict of laws, thereof or thereunder and subject to the provisions of Clause 10.9 hereof, the Courts of Gautam Budh Nagar, U.P., India, shall have jurisdiction over all matters arising out of or relating to this allotment/provisional allotment."
+13.  He has further submitted that further Clause 10.9 of the standard terms and conditions of allotment/provisional allotment states as under : "Dispute Resolution: Any and all disputes arising out of or in connection with or in relation hereto shall so far as possible, in the first instance, be amicably settled between the Company and the Applicant. In the event of disputes, claim and/or differences not being amicably resolved such disputes shall be referred to sole arbitration of a person not below the rank of General Manager nominated for the purpose of Chairman of the Company. The proceedings of the Arbiration shall be conducted in accordance with the provisions of the Arbitration & Conciliation act, 1996, as amended from time to time, or any reules made thereunder. The applicant hereby gives his consent to the appointment of the sole arbitator as specified herein above and waives any objections that he may have to such appointment or to the award that may be given by the Arbitrator. The venue of the arbitration shall be New Delhi, India."
+14.  He has next submitted that in the case of
+Mankastu Impex Private Limited vs. Airvisual Limited
+, (2020) 5 SCC 399 at Para 20 it has been held by a three Judge Bench of the Hon'ble Apex Court that : "It is well settled that "seat of arbitration" and "venue of arbitration" cannot be used interchangeably. It has also been established that mere expression "place of arbitration" cannot be the basis to determine the intention of the parties that they have intended that place as the "seat" of arbitration. The intention of the parties as to the "seat" should be determined from other clauses in the agreement and the conduct of the parties."  Therefore, it is amply clear that seat and venue of arbitration cannot be used interchangeably and venue merely refers to a convenient location selected by the parties to carry out the arbitration proceedings.  Furthermore, the ''seat' of arbitration should be determined from other clauses in the agreement and the conduct of the parties.
+15.  He has also submitted that while Clause 10.6 categorically provides that the governing law and jurisdiction would be at Gautam Budh Nagar, the words ''subject to provisions of clause 10.9' have been used only to pave the way for the agreement to provide for the venue of arbitration proceedings at New Delhi which was a convenient location to carry out the arbitration proceedings. It may be noted that in case, the words in Clause 10.6 - subject to provisions of Clause 10.9' were interpreted to mean that the 'seat' of arbitration would remain at New Delhi, Clause 10.6, would be rendered completely nugatory and contradictory, since in that event, the courts at Gautam Budh Nagar could never have any jurisdiction. Therefore, in the present case, Clause 10.6 of the standard terms and conditions confers exclusive jurisdiction to the courts of Gautam Budh Nagar, U.P., and venue of arbitration which in the present case is New Delhi, which was merely a convenient location to carry out the arbitration proceedings. In the present case, the petitioner has himself submitted to the jurisdiction of the Courts in Uttar Pradesh, at the very first instance, since he had preferred an application under
+Section 11
+before this Hon'ble Court, pursuant to which the arbitrator was appointed. Execution proceedings have also been filed by the respondent before the Commercial Court, Gautam Budh Nagar.  Therefore, the petitioner was always clear that the jurisdiction was at Gautam Budh Nagar and not at New Delhi. Furthermore, in case the argument of the petitioner is accepted and New Delhi is held to be the 'seat' of arbitration, it would render the reference order passed by this Hon'ble Court under
+Section 11
+, without jurisdiction, rendering the award itself a nullity. Alternatively, even if it was assumed that New Delhi and Gautam Buddha Nagar had concurrent jurisdiction, under
+Section 42
+of the Act, 1996, the Courts at New Delhi would have no jurisdiction to entertain any subsequent applications, since the very first application under
+Section 11
+had been filed before this Hon'ble Court. Therefore, Commercial Court at Gautam Budh Nagar has Jurisdiction to entertain the application under
+Section 34
+, preferred by the respondent. Hence, the petition lacks merit and is liable to be dismissed.
+16.  This petition first of all involves resolution of a controversy that has gained considerable importance in arbitration proceedings regarding the "Venue-Seat" issue.
+17.  The juridical seat of arbitration, as a concept, did not find a place in the
+Arbitration Act
+of 1940. Significant importance was afforded to the juridical seat of arbitration under the
+Arbitration and Conciliation Act, 1996
+. However, the jurisdiction of the courts over such arbitral proceedings remained with the court exercising original jurisdiction as per
+Section 2(1)(e)
+of the 1996 Act. While
+Section 20
+of the 1996 Act granted parties the autonomy to choose the ''place' of arbitration. It did so in an ambiguous manner without distinguishing between ''seat' and ''venue'. Addressing the ambiguity, 246th Law Commission Report had suggested replacing the words ''place' for ''seat' or ''venue.' However, these amendments were not enacted. As a result, the conflict between the juridical seat and jurisdiction of the court persisted along with the confusion pertaining to the distinction between ''seat' and ''venue'.
+18.  It is notable that the act does not defines the term "seat" or "venue".
+Section 20
+of the Act merely defines the "place of arbitration" which is often used interchangeably with the terms "seat" and "venue". This use of the terms "seat" and "venue" interchangeably often leads to controversy which has been resolved at number of times by the Hon'ble Supreme Court but it keeps on arising in different factual sittings of different cases and becomes subject matter of decisions by the courts repeatedly.
+19.  The term "seat" is of utmost importance as it connotes the situs of arbitration. The term "venue" is often confused with the term "seat" but it is more a place often chosen as convenient location by the parties to carry out arbitration proceedings but should not be confused with "seat". The term "seat" carries more weight than "venue" or "place".
+20.  In 2009, the English judgment of Shashoua (2009) EWHC 957 held that the seat of arbitration is to have an exclusive jurisdiction over all proceedings that arise out of the arbitration. It laid the significant contrary indicia test as per which a place of arbitration is a stipulation that such place shall be the seat of the arbitration and consequently determine the lex fori in the absence of any significant contrary indicia. The position was further confirmed by the Division Bench of Hon'ble Supreme Court in the case of
+Roger Shashoua & Ors v Mukesh Sharma & Ors
+(supra).
+21.
+The Bharat Aluminium Co v. Kaiser Aluminium Technical Services Inc
+, (2012) 9 SCC 552 judgment, rendered by the Hon'ble Supreme Court in 2012, relied on the principle laid in Shashoua and acknowledged that the terms ''seat' and ''place' can be used interchangeably. It held while laying the principle of ''concurrent jurisdiction' in paragraph 96 of the judgment that two courts can have jurisdiction over arbitration applications viz. (i) courts possessing the subject-matter/cause of action jurisdiction and (ii) courts where the place/seat of arbitration was designated. However, the principle of concurrent jurisdiction was not intended to replace the principle of ''significant contrary indicia.' The existence of multiple venues was only perceived to be a matter of convenience.
+22.  The Hon'ble Supreme Court in the case of BALCO (supra) clarified the legal position in paragraph no. 96 as under:
+Section 2(1)(e)
+of the Arbitration Act, 1996 reads as under:
+"2. Definitions (1) In this Part, unless the context otherwise requires -
+(a)-(d)
+(e) "Court" means the principal Civil Court of original jurisdiction in a district, and includes the High Court in exercise of its ordinary original civil jurisdiction, having jurisdiction to decide the questions forming the subject matter of the arbitration if the same had been the subject matter of a suit, but does not include any civil court of a grade inferior to such principal Civil Court, or any Court of Small Causes."
+We are of the opinion, the term "subject matter of the arbitration" cannot be confused with "subject matter of the suit". The term "subject matter" in
+Section 2(1)(e)
+is confined to Part I. It has a reference and connection with the process of dispute resolution. Its purpose is to identify the courts having supervisory control over the arbitration proceedings. Hence, it refers to a court which would essentially be a court of the seat of the arbitration process. In our opinion, the provision in
+Section 2(1)(e)
+has to be construed keeping in view the provisions in
+Section 20
+which give recognition to party autonomy. Accepting the narrow construction as projected by the learned counsel for the appellants would, in fact, render
+Section 20
+nugatory. In our view, the legislature has intentionally given jurisdiction to two courts i.e. the court which would have jurisdiction where the cause of action is located and the courts where the arbitration takes place. This was necessary as on many occasions the agreement may provide for a seat of arbitration at a place which would be neutral to both the parties. Therefore, the courts where the arbitration takes place would be required to exercise supervisory control over the arbitral process. For example, if the arbitration is held in Delhi, where neither of the parties are from Delhi, (Delhi having been chosen as a neutral place as between a party from Mumbai and the other from Kolkata) and the tribunal sitting in Delhi passes an interim order under
+Section 17
+of the Arbitration Act, 1996, the appeal against such an interim order under
+Section 37
+must lie to the Courts of Delhi being the Courts having supervisory jurisdiction over the arbitration proceedings and the tribunal. This would be irrespective of the fact that the obligations to be performed under the contract were to be performed either at Mumbai or at Kolkata, and only arbitration is to take place in Delhi. In such circumstances, both the Courts would have jurisdiction, i.e., the Court within whose jurisdiction the subject matter of the suit is situated and the courts within the jurisdiction of which the dispute resolution, i.e., arbitration is located.
+23.  The above observation in BALCO were understood to give concurrent jurisdiction over the arbitral proceedings to (i) courts possessing the subject-matter/cause of action jurisdiction and (ii) courts where the place/seat of arbitration was designated.
+24.  What ensued post BALCO, was a clash between the territoriality principle, as espoused under
+Section 20
+of the 1996 Act and the cause of action/subject-matter jurisdiction of the courts, as per
+Section 2(1)(e)
+of the 1996 Act.
+25.  The cases that followed post BALCO clarified that concurrent jurisdiction is vested in the courts of seat and venue, only in case of domestic arbitrations when the seat of arbitrations is in India as there is no risk of conflict of judgments of different jurisdictions, as all courts in India would follow the Indian Law as held in
+Enercon (India) Ltd. and Ors. v. Enercon Gmbh and Anr.
+, (2014) 5 SCC 1.
+26.  However, in 2018, there appeared room for uncertainty as it was noticed that the Hon'ble Supreme Court had deviated from the Shashoua Principle, 2009 EWHC 957 (Comm) : (2009) 2 Lloyd's Rep 376 approved by the same court in BALCO (supra).
+In the case of
+Union of India v. Hardy Exploration and Production (India) Inc.
+, (2019) 13 SCC 472, the Hon'ble Supreme Court held that the parties had Kuala Lumpur as the venue of arbitration but were silent on the seat. After dispute arose, the arbitration proceedings commenced and the award was signed at Kuala Lumpur. Thereafter the appellant sought to challenge the award under the Act before the Delhi High Court contending that Delhi was the seat of arbitration.
+On appeal the Hon'ble Supreme Court delivered a judgment deviating from the
+Shashoua Principle
+(supra). The Court held that the parties had not chosen the seat of arbitration and noted that the Tribunal also had not made any findings with respect to the same. It was observed that Kuala Lumpur was designated by the parties as the venue of arbitration and thus it did not mean that Kuala Lumpur had become the seat of arbitration. The Court concluded that a venue could become a seat of arbitration only if something else is added to it as a concomitant.
+Opinion of the Hon'ble Supreme Court does not appears to be in consonance with the
+Shashoua Principle
+(supra) approved by the same court in BALCO (supra).
+27.  Thereafter in 2019, the Hon'ble Supreme Court had another occasion to revisit this issue in BGS SGS SOMA JV (supra).
+It is interesting to note that in this case, the coordinate Bench (3 Judges) had reiterated the
+Shashoua Principle
+(supra) contrary to the observations made in
+Hardy Exploration
+(supra). The Court propounded a test and laid down that when a particular place is designated as the venue of arbitration the same should be considered to be the seat of arbitration. It noted that this should be coupled with the fact that the parties have not made any other contrary indication that the venue is not the seat of arbitration.
+The Court observed that the decision in
+Hardy Exploration
+(supra) is per incuriam as it did not follow ratio
+laid down by
+the Constitutional Bench in BALCO (supra) that wholeheartedly adopted the
+Shashoua Principle
+(supra) in Indian law.
+It appears that there is uncertainty whether the decision of the Court in
+Hardy Exploration
+(supra) or BGS SGS SOMA JV (supra) holds the field, as a concurrent Bench could not have overruled the judgment in
+Hardy Exploration
+(supra).
+28.
+In March 2020, another conundrum had arisen before the Hon'ble Supreme Court in
+Mankastu Impex (P) Ltd. v. Airvisual Ltd.
+(supra). In this case the arbitration agreement was unique as it did not use the words "seat" or "venue". The arbitration agreement laid down that the arbitration would be administered in Hong Kong and the place of arbitration was Hong Kong. It also stated that the governing law was Indian law and that the courts of New Delhi shall have jurisdiction. Accordingly when dispute arose, Mankastu approached the Hon'ble Supreme Court of India for appointment of arbitrator contending that as Indian law was the governing law and the courts at New Delhi had jurisdiction therefore New Delhi was the seat of arbitration.
+Mankastu relied on
+Hardy Exploration
+(supra). Airvisual contended as Hong Kong was designated as the place of arbitration and therefore Hong Kong was also the seat of arbitration.
+Airvisual relied on BGS SGS SOMA JV (supra) for this purpose.
+29.  It is interesting to note the method of inquiry adopted by the Hon'ble Supreme Court in arriving at its conclusion that Hong Kong was the seat of arbitration. The Hon'ble Supreme Court instead of applying the ratio in
+Hardy Exploration
+(supra) or BGS SGS SOMA JV (supra), employed a different method of inquiry altogether.
+Although, the Hon'ble Supreme Court did not expressly follow
+Hardy Exploration
+(supra), it appears to have arrived at a similar conclusion on a different line of reasoning. The Court held that it would not be safe to conclude that the place of arbitration would automatically become the seat of arbitration without examining other pertinent indications in the contract to discern the true intention of the parties. The Hon'ble Supreme Court observed that since it was agreed that the arbitration proceedings should be administered in Hong Kong, thus, seat of arbitration was Hong Kong.
+30.  Recently a Division Bench of the Hon'ble Supreme Court in M/s
+Inox Renewables Ltd. v. Jayesh Electricals Ltd.
+, passed on 13.04.2021 in Civil Appeal No. 1556 of 2021 arising out of SLP (C) No. 29161 of 2019) has reiterated the decision in BGS SGS SOMA JV (supra), equating the juridical concepts of seat and venue. In this regard, the Court has clarified that a shift in venue by mutual agreement between the parties would tantamount to shifting of the place/ seat of arbitration.
+31.  From the above consideration of the judgement of the Hon'ble Supreme Court regarding the "seat" and "venue" controversy, this Court finds that the judgement of the Hon'ble Supreme Court in the case of BALCO (supra) still holds good.
+The judgement in the case of
+Hardy Exploration
+(supra) or BGS SGS SOMA JV (supra) are of two coordinate Benches of three Hon'ble Judges and their ratios are contrary to each other.
+While Hardy Exploration
+(supra) stipulated that a chosen venue could not by itself assume the status of seat of arbitration in the absence of additional indica, BGS SGS SOMA JV (supra) prescribed that a chosen seat of arbitration proceedings would become the seat of arbitration in the absence of any "significant contrary indica".
+The recent judgement in the case of  M/s
+Inox Renewables Ltd.
+(supra) follows BGS SGS SOMA JV (supra).
+32.  The Hon'ble Supreme Court in the case of BALCO (supra) clearly held that there was concurrent jurisdiction conferred on the courts ceased with the subject matter in dispute and the courts where the arbitration was carried out. However, such concurrent jurisdictions will not replace the "significant contrary indica test" as per the Shashoua principle.
+33.  In the present case, the arbitration agreement clearly shows that the parties agreed as per Clause 10.6 that the governing law and the jurisdiction of the courts would be the courts of Gautam Buddh Nagar, U.P., India and it shall have jurisdiction over all matters arising out of or relating to the allotment/provisional allotment subject to the provisions of Clause 10.9 of the standard terms and conditions. This exception regarding Clause 10.9 constitutes "significant contrary indica" as per Shashoua principle in agreement regarding treating the "venue" of arbitration (New Delhi) as "seat" of arbitration proceedings (Gautam Buddh Nagar) where the cause of action arose. In Clause 10.9 regarding dispute resolution, it was agreed that the "venue" of arbitration shall be New Delhi, India. Accordingly, the sole arbitrator conducted the arbitration proceedings at the agreed venue of New Delhi and passed the award. From the standard terms and conditions/agreement between the parties, it is clear that the parties never clearly stated about the seat of arbitration but from Clause 10.6 of the agreement, the courts at Gautam Buddh Nagar, U.P., India, was agreed to have jurisdiction over all matters arising out of or relating to the allotment/provisional allotment. This clause proves that the parties had chosen the "seat" of arbitration as Gautam Buddh Nagar, U.P., India, and the "venue" of arbitration as New Delhi, India.
+34.  The petitioner approached this Court for appointment of the Arbitrator under
+Section 11
+of the Act. Earlier, when the dispute regarding jurisdiction was raised, the petitioner again approached this Court by way of WRIT- C No. 33003 of 2019 and this Court directed vide order dated 17.10.2019 that the petitioner may raise objection regarding the jurisdiction of the court at Gautam Buddh Nagar, U.P., India before the court concerned and in compliance of the order of this Court, the impugned order dated 18.08.2021 has been passed by the Commercial Court at Gautam Buddh Nagar, U.P., India. This Court has jurisdiction over the courts at Gautam Buddh Nagar, U.P., India. The petitioner never approached the Delhi High Court for appointment of Arbitrator nor he has initiated any execution proceedings
+u/s 36
+of the Act before any court at Delhi. This Court finds force in the argument of the learned counsel for the respondent that in case the argument of the petitioner is accepted and New Delhi is held to be the seat of arbitration, the reference order passed by this Court
+u/s 11
+would become without jurisdiction and if Clause 10.6 of the agreement, which provides exception for Clause 10.9, is interpreted to mean that the seat of arbitration would be New Delhi, Clause 10.6 would become redundant.
+35.  The other issues raised by the learned counsel for the petitioner regarding application of
+Section 42
+of the Act to the execution of final award and whether execution application can be filed at Gautam Buddh Nagar for enforcement of arbitral award passed at New Delhi also require consideration.
+36.  Before proceeding to decide the aforesaid issues, a look at
+Section 42
+and
+Section 2(1)(e)
+of the Act is required which are as follows :-
+"42. Jurisdiction - Notwithstanding anything contained elsewhere in this Part or in any other law for the time being in force, where with respect to an arbitration agreement any application under this Part has been made in a Court, that Court alone shall have jurisdiction over the arbitration proceedings and all subsequent applications arising out of that agreement and the arbitral proceedings shall be made in that Court and in no other Court."
+Section 2(1)(e)
+-
+"(i) in the case of an arbitration other than international commercial arbitration, the principal Civil Court of original jurisdiction in a district, and includes the High Court in exercise of its ordinary original civil jurisdiction, having jurisdiction to decide the questions forming the subject-matter of the arbitration if the same had been the subject-matter of a suit, but does not include any Civil Court of a grade inferior to such principal Civil Court, or any Court of Small Causes;
+(ii) in the case of international commercial arbitration, the High Court in exercise of its ordinary original civil jurisdiction, having jurisdiction to decide the questions forming the subject-matter of the arbitration if the same had been the subject-matter of a suit, and in other cases, a High Court having jurisdiction to hear appeals from decrees of courts subordinate to that High Court."
+What clearly follows from the above definition is that as regards arbitrations, other than international commercial arbitrations, the principal Civil Court of original jurisdiction in a district, which has the jurisdiction to decide the question forming the subject-matter of the arbitration if the same had been subject-matter of a suit, would be the competent "Court" for the purpose of this Act. It specifically includes the High Court which has ordinary original civil jurisdiction, like Allahabad High Court.
+37.  Prior to the amendment of 2015, the question as to whether application
+u/s 11
+falls within the purview of
+Section 42
+had been deliberated upon and answered in the negative in catena of judgments.
+38.  By way of the
+Arbitration & Conciliation (Amendment) Act, 2015
+(herein after referred to as the Amendment Act), inter alia, a significant change that has been brought about in
+Section 11
+of the Arbitration & Conciliation Act, 1996, is the insertion of the words "High Court" and "Supreme Court " instead of "Chief Justice" and "Chief Justice of India".
+39.  This particular amendment has a direct bearing on the interpretation of
+Section 42
+of the Act which envisages exclusion/bar of all courts other than 'Court' before which any application under Part I has been initially made with respect to an arbitration agreement.
+40.  A perusal of
+Section 42
+of the Arbitration and Conciliation Act, 1996 clearly indicates that if in respect of an arbitration agreement any application under Part I is made in a court, that court alone shall have jurisdiction over the arbitral proceedings and all subsequent applications arising out of that agreement and the arbitral proceedings shall be made in that court and no other court. The first application which is made before a court should have jurisdiction to entertain subsequent applications. Secondly for the purpose of applicability of the
+Section 42
+of Arbitration Act, the court has to decide whether the first application was the application provided in the first part of the
+Arbitration and Conciliation Act, 1996
+. Since the application
+u/s 11
+of the Act was an application under
+Part I of the Arbitration and Conciliation Act, 1996
+,
+Section 42
+of the Arbitration and Conciliation Act, 1996 will be attracted to the proceedings
+u/s 34
+of the Act. The award passed at New Delhi can be executed in the court at Gautam Buddh Nagar in view of paragraph no. 20 of the judgement of the Apex Court in the case of
+Sundaram Finance Limited
+(supra) also.
+41.  In view of the above consideration, it is held that the order dated 18.08.2021 passed by the Commercial Court, Gautam Buddh Nagar, is in accordance with law.
+42.  The petition is accordingly, dismissed.
+Order Date :- 17.02.2022
+ 
+KS

@@ -3,6 +3,7 @@ from __future__ import annotations
 import asyncio
 import json
 import logging
+import re
 from contextlib import asynccontextmanager
 from collections.abc import AsyncIterator
 
@@ -16,6 +17,13 @@ from api.cache import get_cached, get_semantic_cached, init_redis, redis_status,
 # Basic logging helps monitor cache behavior and startup readiness.
 logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
+
+
+def _normalize_user_question(message: str) -> str:
+    """Normalize known legal-term typos for more reliable retrieval and caching."""
+    normalized = message.strip()
+    normalized = re.sub(r"\banticipatory\s+bill\b", "anticipatory bail", normalized, flags=re.IGNORECASE)
+    return normalized
 
 
 class LegalChatRequest(BaseModel):
@@ -41,15 +49,9 @@ async def lifespan(_: FastAPI) -> AsyncIterator[None]:
         logger.info("Redis initialized")
     except Exception as e:
         logger.warning("Redis initialization failed (non-critical): %s", e)
-    
-    # Lazy import to avoid metadata issues during module load
-    try:
-        from api.rag_chain import get_rag_chain
-        await get_rag_chain()
-        logger.info("Legal RAG chain preloaded")
-    except Exception as e:
-        logger.warning("RAG chain preload failed: %s", e)
-    
+
+    # Keep startup lightweight and stable on Windows by avoiding eager model preload.
+    # The RAG chain is initialized lazily on the first request.
     yield
 
 
@@ -69,7 +71,7 @@ async def legal_chat(payload: LegalChatRequest) -> LegalChatResponse:
     """Serve grounded legal answers with cache-first behavior."""
     from api.rag_chain import get_rag_chain
     
-    question = payload.message.strip()
+    question = _normalize_user_question(payload.message)
     if not question:
         raise HTTPException(status_code=400, detail="message cannot be empty")
 
@@ -82,8 +84,8 @@ async def legal_chat(payload: LegalChatRequest) -> LegalChatResponse:
         )
 
     try:
-        chain = await get_rag_chain()
-        query_embedding = await chain.embed_query(question)
+        chain = await asyncio.wait_for(get_rag_chain(), timeout=90)
+        query_embedding = await asyncio.wait_for(chain.embed_query(question), timeout=60)
 
         semantic_cached_payload = await get_semantic_cached(query_embedding)
         if semantic_cached_payload:
@@ -93,7 +95,7 @@ async def legal_chat(payload: LegalChatRequest) -> LegalChatResponse:
                 cached=True,
             )
 
-        result = await chain.ask(question)
+        result = await asyncio.wait_for(chain.ask(question), timeout=120)
         answer = result["answer"]
         sources = result["source_documents"]
 
@@ -117,7 +119,7 @@ async def legal_chat_stream(payload: LegalChatRequest) -> StreamingResponse:
     """Stream answer tokens to clients while generation continues in the background."""
     from api.rag_chain import get_rag_chain
     
-    question = payload.message.strip()
+    question = _normalize_user_question(payload.message)
     if not question:
         raise HTTPException(status_code=400, detail="message cannot be empty")
 
@@ -137,8 +139,8 @@ async def legal_chat_stream(payload: LegalChatRequest) -> StreamingResponse:
         )
 
     try:
-        chain = await get_rag_chain()
-        query_embedding = await chain.embed_query(question)
+        chain = await asyncio.wait_for(get_rag_chain(), timeout=90)
+        query_embedding = await asyncio.wait_for(chain.embed_query(question), timeout=60)
 
         semantic_cached_payload = await get_semantic_cached(query_embedding)
         if semantic_cached_payload:
@@ -155,7 +157,7 @@ async def legal_chat_stream(payload: LegalChatRequest) -> StreamingResponse:
                 headers={"Cache-Control": "no-cache", "X-Accel-Buffering": "no"},
             )
 
-        token_stream, sources = await chain.ask_stream(question)
+        token_stream, sources = await asyncio.wait_for(chain.ask_stream(question), timeout=120)
     except Exception as exc:  # noqa: BLE001
         logger.exception("RAG streaming setup failed")
         raise HTTPException(status_code=500, detail=f"Internal server error: {exc}") from exc
@@ -203,15 +205,8 @@ async def legal_chat_stream(payload: LegalChatRequest) -> StreamingResponse:
 @app.get("/health")
 async def health() -> dict[str, object]:
     """Expose service readiness details for monitoring."""
-    from api.rag_chain import get_rag_chain
-    try:
-        chain = await get_rag_chain()
-        count = await chain.chunks_loaded()
-    except Exception:  # noqa: BLE001
-        count = 0
-
     return {
         "status": "ok",
-        "chunks_loaded": count,
+        "chunks_loaded": None,
         "redis": await redis_status(),
     }

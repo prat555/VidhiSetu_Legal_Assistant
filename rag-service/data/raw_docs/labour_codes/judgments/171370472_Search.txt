@@ -1,0 +1,3299 @@
+Title: Search
+Court: High Court
+Date: 2 of 1974
+Citation: SCC OnLine Del 124 Hardeep Bajaj v.
+Source: https://indiankanoon.org/doc/171370472/
+
+[Cites
+79
+, Cited by
+66
+]
+Delhi High Court
+Dayawati vs Yogesh Kumar Gosain on 17 October, 2017
+Author:
+Anu Malhotra
+Bench:
+Anu Malhotra
+$~
+*IN THE HIGH COURT OF DELHI AT NEW DELHI
+
++                             CRL.REF.No.1/2016
+%                                       Reserved on : 28th February 2017
+                                       Date of decision : 17th October 2017
+
+
+        DAYAWATI                                       ..... Petitioner
+                              Through:     Mr. Gautam Pal, Adv. for the
+                                           complainant
+                              versus
+        YOGESH KUMAR GOSAIN             ..... Respondent
+                    Through: Mr. Ajay Digpaul, Adv. for the
+                             respondent
+
+                                           Mr. J.P. Sengh, Sr. Adv., Ms.
+                                           Veena Ralli alongwith Mr.
+                                           Ravin Kapur and Mr. Siddharth
+                                           Aggarwal, Advs. as Amici
+                                           Curiae.
+        CORAM:
+        HON'BLE THE ACTING CHIEF JUSTICE
+        HON'BLE MS. JUSTICE ANU MALHOTRA
+
+                              JUDGMENT
+GITA MITTAL, ACTING CHIEF JUSTICE
+1.      The legal permissibility of referring a complaint cases under
+Section 138
+of the NI Act for amicable settlement through mediation;
+procedure to be followed upon settlement and the legal implications of
+breach of the mediation settlement is the subject matter of this
+judgment.           Shri Bharat Chugh, as the concerned Metropolitan
+Crl.Ref.No.1/2016                                         Page 1 of 89
+Magistrate (NI Act) - Central - 01/THC/ Delhi, when seized of
+Complaint Case Nos.519662/2016 and 519664/2016 (Old Complaint
+Case Nos.2429/2015 and 2430/2015) under
+Section 138
+of the
+Negotiable Instruments Act ("
+NI Act
+" hereafter) passed an order dated
+13th January, 2016, the following questions under
+Section 395
+of the
+Code of Criminal Procedure ("
+Cr.P.C
+" hereafter) to this court for
+consideration :
+"1. What is the legality of referral of a criminal
+        compoundable case (such as one
+u/s 138
+of the NI Act) to
+        mediation?
+2.    Can the Mediation and Conciliation Rules, 2004
+        formulated in exercise of powers under
+the CPC
+, be
+        imported and applied in criminal cases? If not, how to fill
+        the legal vacuum? Is there a need for separate rules
+        framed in this regard (possibly
+u/s 477
+of the CrPC)?
+3.    In cases where the dispute has already been referred
+        to mediation - What is the procedure to be followed
+        thereafter? Is the matter to be disposed of taking the very
+        mediated settlement agreement to be evidence of
+        compounding of the case and dispose of the case, or the
+        same is to be kept pending, awaiting compliance thereof
+        (for example, when the payments are spread over a long
+        period of time, as is usually the case in such settlement
+        agreements)?
+4.     If the settlement in Mediation is not complied with -
+        is the court required to proceed with the case for a trial on
+        merits, or hold such a settlement agreement to be
+        executable as a decree?
+5.    If the Mediated Settlement Agreement, by itself, is
+        taken to be tantamount to a decree, then, how the same is
+        to be executed? Is the complainant to be relegated to file
+        an application for execution in a civil court? If yes, what
+Crl.Ref.No.1/2016                                       Page 2 of 89
+should be the appropriate orders with respect to the
+        criminal complaint case at hand. What would be the effect
+        of such a mediated settlement vis-à-vis the complaint
+        case?"
+(Emphasis by us)
+        The reference has been registered as Crl.Ref.No.1/2016.
+2.      Given the importance of the questions raised in criminal law, by
+an order dated 15th March, 2016, we had appointed Mr. Siddharth
+Aggarwal, Advocate as amicus curiae in the matter. On the 20th of
+July 2016, having regard to the nature of the above issues which had
+been crystallized by the ld. Metropolitan Magistrate and in view of
+their extensive experience on all aspects of mediation, we had also
+appointed Mr. J.P. Sengh, Sr. Advocate as well as Ms. Veena Ralli,
+Advocate (currently Member and Organizing Secretary respectively of
+the Organizing Committee of Samadhan - Delhi High Court Mediation
+and Conciliation Centre), both senior and experienced mediators, as
+amici curiae in the matter.
+3.      Court notice was also issued to the counsel for the parties in
+both CC Nos.2429/2015 & 2430/2015, Dayawati v. Yogesh Kumar
+Gosain pending in the court of the Metropolitan Magistrate for
+appearance before us and they stand represented through counsel
+before us.
+4.      Written submissions stand filed by learned amici curiae to assist
+this court. We have had the benefit of hearing Mr. J.P. Sengh, Senior
+Advocate, Ms. Veena Ralli, Advocate and Mr. Siddharth Aggarwal,
+Crl.Ref.No.1/2016                                       Page 3 of 89
+Advocate as amici curiae as well as Mr. Gautam Pal, ld. counsel for
+the complainant and Mr. Ajay Digpaul, ld. counsel for the respondent
+in the complaints under
+Section 138
+of the NI Act.
+5.          We set down hereunder the headings under which we have
+considered the matter :
+I.        Factual matrix (paras 6 to 16)
+
+      II.       Alternate dispute resolution mechanisms statutorily
+                recognized (paras 17 to 20)
+
+     III.       Statutory provisions (paras 21 to 31)
+
+     IV.        Scope of
+Section 89
+of the Code of Civil Procedure,
+                1908 (paras 32 to 41)
+
+      V.        Statutory power to refer matters for dispute resolution
+                and effect of a settlement (paras 42 to 49)
+
+     VI.        Power of criminal courts to refer cases to mediation
+                (paras 50 to 57)
+
+     VII.       Process to be followed in reference of above disputes
+                in criminal law to mediation (para 58)
+
+     VIII.      Dispute resolution encouraged in several cases by the
+Supreme Court in non-compoundable cases as well
+                (paras 59 to 62)
+
+     IX.        Nature of proceedings under
+Section 138
+of the NI Act
+                (paras 63 to 67)
+
+      X.        Permissibility of settlement of offence under
+Section
+                138
+of the NI Act (paras 68 to 73)
+Crl.Ref.No.1/2016                                         Page 4 of 89
+XI.       Mediation and Conciliation Rules, 2004 - notified the
+               Delhi High Court (paras 74 to 77)
+
+     XII.      Impact of settlement of disputes in a complaint under
+Section 138
+Negotiable Instruments Act by virtue of
+               Lok Adalat under the
+Legal Services Authorities Act,
+               1987
+(paras 78 to 80)
+
+     XIII.     What is the procedure to be followed if in a complaint
+               case under
+Section 138
+of the NI Act, a settlement is
+               reached in mediation? (paras 81 to 107)
+
+     XIV.      Breach of such settlement accepted by the court -
+consequences? (paras 108 to 117)
+     XV.       Reference answered (para 118)
+
+     XVI.      Result (paras 119 to 121)
+We now propose to discuss the above issues in seriatim :
+I.         Factual matrix
+6.         Before dealing with the questions raised before us, it is
+necessary to briefly note some essential facts of the case.              The
+appellant Smt. Dayawati ("complainant" hereafter) filed a complaint
+under
+Section 138
+of the NI Act, complaining that the respondent Shri
+Yogesh Kumar Gosain herein ("respondent" hereafter) had a liability
+of `55,99,600/- towards her as on 7th April, 2013 as recorded in a
+regular ledger account for supply of fire-fighting goods and equipment
+to the respondent on different dates and different quantities. In part
+discharge of this liability, the respondent was stated to have issued two
+account payee cheques in favour of the complainants of `11,00,000/-
+(Cheque No.365406/- dated 1st December, 2014) and `16,00,000/-
+Crl.Ref.No.1/2016                                         Page 5 of 89
+(Cheque No.563707 dated 28th November, 2014).            Unfortunately,
+these two cheques were dishonoured by the respondent's bank on
+presentation on account of "insufficiency of funds".
+7.      As a result, the complainant was compelled to serve a legal
+notice of demand on the respondent which, when went unheeded, led
+to the filing of two complaint cases under
+Section 138
+of the NI Act
+before the Patiala House Courts, New Delhi being CC Nos.89/1/15
+and 266/1/15. In these proceedings, both parties had expressed the
+intention to amicably settle their disputes. Consequently, by a
+common order dated 1st April, 2015 recorded in both the complaint
+cases, the matter was referred for mediation to the Delhi High Court
+Mediation and Conciliation Centre.
+8.      We extract hereunder the operative part of the order dated 1 st
+April, 2015 which reads as follows :
+"... Ld. Counsel for accused submits that accused is willing
+        to explore the possibilities of compromise. Ld. Counsel for
+        complainant is also interested (sic) in compromise talk. Let
+        the matter be referred to Mediation Cell, High Court Delhi,
+        Delhi. Parties are directed to appear before the Mediation
+        Cell, Hon'ble High Court, Delhi on 15.04.2015 at 2:30
+        p.m."
+9.      It appears that after negotiations at the Delhi High Court
+Mediation and Conciliation Centre, the parties settled their disputes
+under a common settlement agreement dated 14th May, 2015 under
+which the accused agreed to pay a total sum of `55,54,600/- to the
+complainant as full and final settlement amount in installments with
+Crl.Ref.No.1/2016                                      Page 6 of 89
+regard to which a mutually agreed payment schedule was drawn up. It
+was undertaken that the complainant would withdraw the complaint
+cases after receipt of the entire amount. In the agreement drawn up,
+the parties agreed to comply with the terms of the settlement which
+was signed by both the parties along with their respective counsels.
+We extract the essential terms of the settlement hereunder :
+"xxx                    xxx                        xxx
+6.    The following settlement has been arrived at between
+        the parties hereto :
+a)     That the second party shall pay a total sum of
+        Rs.55,54,600/- to the first party towards full and final
+        settlement of all the claims of the first party against the
+        second party.
+b)    That on 25.06.2015, the second party shall pay
+        Rs.11,00,000/- to the first party by way of
+        NEFT/RTGS/demand draft.
+c)    That on 25.10.2015, the second party shall pay
+        Rs.16,00,000/- to the first party by way of
+        NEFT/RTGS/demand draft.
+d)    The balance sum of Rs.28,54,600/- shall be paid by
+        the second party to the first party within 18 months from
+        25.11.2015 by way of NEFT/RTGS/demand draft in equal
+        monthly installments i.e. Rs.1,58,600/-
+e)    That the second party shall also provide "C-Form
+        (Sales Tax, Mumbai)" to the first party against Bill Nos.R
+        605 dated 27.02.2013 and R 607 dated 06.03.2013.
+f)     That the first party undertakes to withdraw the
+        present CC Nos. 89/1/15 and 266/1/15 upon receipt of
+        entire settlement amount from the second party."
+(Emphasis by us)
+Crl.Ref.No.1/2016                                      Page 7 of 89
+10.     This settlement agreement was placed before the court on 1st
+June, 2015 when the following order was recorded :
+"File received back from the Mediation Centre with report
+        of settlement. Settlement agreement dated 14.05.2015 gone
+        through. At joint request, put up for compliance of
+        abovesaid settlement agreement and for making of first
+        installment on 30.06.2015"
+(Emphasis by us)
+11.     Unfortunately, the accused/respondent herein failed to comply
+with the terms of the settlement. Though vested with the obligation
+thereunder to pay a sum of `11,00,000/- as the first installment on 25th
+June, 2015, he paid only a sum of `5,00,000/- to the complainant
+through RTGS without giving any justification. On the 30th June of
+2015, the Metropolitan Magistrate consequently recorded thus:
+"... Ld. Counsel for complainant submits that the accused
+        has not made the payment of first installment in terms of
+        mediation settlement dated 14.05.2015.
+Ld. Counsel for complainant further submits that
+        accused was to pay first installment of Rs. 11,00,000/- on or
+        before the 25.06.2015 however he has paid only Rs.
+        5,00,000/- through RTGS. No reasonable explanation for
+        the non-payment of full amount of first installment is given
+        by the accused. Further, no assurance is given by the
+        accused for making of the due installments within the
+        stipulated time.
+Considering the facts of the case and submissions on
+        behalf of both the parties, it is apparent that the accused is
+        not willing to comply with the terms and conditions of the
+        mediation settlement. Hence, mediation settlement failed.
+Crl.Ref.No.1/2016                                       Page 8 of 89
+Let the matter be proceeded on merit, put up on
+        14.08.2015"
+(Emphasis by us)
+12.     Thereafter, two more opportunities were given by the
+Metropolitan Magistrate on 14th August, 2015 and 21st August, 2015
+to the accused to comply with the settlement. Finally, in view of the
+continued non-compliance, the matter was listed for framing of notice
+on 28th September, 2015 and trial on merits.
+13.     In the meantime, the Negotiable Instruments (Amendment)
+Ordinance, 2015, received the assent of the President of India on the
+26th of December, 2016. On account of promulgation of the ordinance,
+Section 142
+of the Negotiable Instuments Act, 1881 stood amended
+with regard to jurisdiction of offences under
+Section 138
+of the
+enactment and therefore these cases stood transferred from Patiala
+House Courts to Tis Hazari Courts at which stage the matter came to
+be placed before the ld. referral judge.
+14.     At this stage, an application dated 16th November, 2015 was
+filed by the complainant seeking enforcement of the settlement
+agreement dated 14th May, 2015 placing reliance on the judicial
+precedents reported at 2013 SCC OnLine Del 124 Hardeep Bajaj v.
+ICICI; 2015 SCC OnLine Del 7309 Manoj Chandak v. M/s Tour
+Lovers Tourism (India) Pvt Ltd and 2015 SCC OnLine Del 9334 M/s
+Arun International v. State of Delhi
+. The complainant urged that the
+settlement agreement was arrived at after long negotiations and
+meetings; that it was never repudiated by the accused nor challenged
+Crl.Ref.No.1/2016                                    Page 9 of 89
+on grounds of it being vitiated for lack of free consent or any other
+ground and lastly, that the accused having paid part of the first agreed
+installment, has also acted upon the mediation settlement and cannot
+be allowed to wriggle free of his obligation under the same.
+15.     The respondent, on the other hand, argued that the settlement
+agreement was not binding contending primarily, for the first time,
+that the settlement amount was exorbitant and onerous pointing out
+that the complaints were filed with regard to two cheques which were
+for a cumulative amount of `27,00,000/- while the settlement amount
+was of `55,54,600/- and this by itself was evidence that the agreement
+was unfair, arbitrary and not binding on the accused. It was further
+urged that on receipt of the case from the mediation cell, the statement
+of the parties ought to have been recorded before the court whereby
+the parties would have adopted the mediation settlement agreement so
+that the same bore the imprimatur of the court. As per the respondent,
+absence of such statement in the case denuded the settlement
+agreement of its binding nature and efficacy.
+16.     The ld. Metropolitan Magistrate was of the view that these
+questions had arisen, not just in this case, but a plethora of other cases
+as well. Consequently, the order dated 13th of January 2016 was
+passed making the aforestated reference under
+Section 395
+of the
+Cr.P.C. to this court. At the same time, so far as the complaints under
+Section 138
+of the NI Act are concerned, the ld. MM additionally
+directed thus :
+Crl.Ref.No.1/2016                                       Page 10 of 89
+"In view of the question of law that has arose in the
+        present case, the decision on which is necessary for further
+        proceedings and a proper adjudication of the present case -
+        a reference has been made
+u/s 395
+of the CrPC for
+        consideration and guidance of the Hon'ble High Court of
+        Delhi.
+The office attached to this court is directed to send
+        this Reference Order to the Ld. Registrar General, Hon'ble
+        High Court of Delhi in appropriate manner and through
+        proper channel.
+List the matter now on 06.06.2016 awaiting the
+        outcome of the reference and clarity on the legal issue."
+II.     Alternate dispute      resolution    mechanisms       statutorily
+        recognized
+17.     Let us, first and foremost, briefly examine the genesis, modes
+and methods of dispute resolution available to disputants.            It is
+common knowledge that other than the traditional adversarial
+litigation before courts, alternate dispute resolution mechanisms found
+as being increasingly suited for various classes of cases, stand given
+statutory recognition and have received judicial recommendation as
+well.
+18.     The legislature has increasingly awarded statutory recognition
+and provided for alternate dispute resolution mechanisms to parties in
+several enactments, some completely dedicated to this process. These
+include lok adalats (
+Section 19
+of the Legal Services Authorities Act,
+1987); arbitration and conciliation (Parts I & III of Arbitration and
+Conciliation Act, 1996 as well as
+Section 89(a)
+& (b)
+of the Code of
+Civil Procedure
+, 1908 incorporated on 1st of July 2002); judicial
+Crl.Ref.No.1/2016                                     Page 11 of 89
+settlement and mediation (
+Section 89(c)
+& (d)
+of the Code of Civil
+Procedure
+).
+19.     Some other statutes that recognize and prescribe alternate
+dispute resolution attempts mandatorily include the
+Hindu Marriage
+Act
+(
+Section 23
+), the
+Family Courts Act, 1984
+(
+Section 9
+) and; the
+Industrial Disputes Act, 1947
+(
+Section 10
+).
+20.     We find that so far as criminal proceedings are concerned,
+statutory      recognition   stands   given   to   settlements     between
+complainants/victims and accused persons under
+Section 320
+of the
+Cr.P.C which also provides the limits of permissibility and the
+procedure to be followed by the court in compounding of offences.
+III.    Statutory provisions
+21.     Before examining the reference, we may for expediency extract
+the relevant provisions of the
+Negotiable Instruments Act, 1881
+; the
+Legal Services Authority Act, 1987
+;
+the Code of Civil Procedure
+,
+1908 and the
+Code of Criminal Procedure
+, 1973 in one place.
+22.     The relevant statutory provisions of
+Negotiable Instruments
+Act, 1881
+read as follows:
+"138 Dishonour of cheque for insufficiency, etc., of funds
+        in the account. --Where any cheque drawn by a person on
+        an account maintained by him with a banker for payment of
+        any amount of money to another person from out of that
+        account for the discharge, in whole or in part, of any debt
+        or other liability, is returned by the bank unpaid, either
+        because of the amount of money standing to the credit of
+        that account is insufficient to honour the cheque or that it
+Crl.Ref.No.1/2016                                       Page 12 of 89
+exceeds the amount arranged to be paid from that account
+        by an agreement made with that bank, such person shall be
+        deemed to have committed an offence and shall, without
+        prejudice to any other provisions of this Act, be punished
+        with imprisonment for a term which may be extended to
+        two years, or with fine which may extend to twice the
+        amount of the cheque, or with both: Provided that nothing
+        contained in this section shall apply unless--
+(a) the cheque has been presented to the bank within a
+        period of six months from the date on which it is drawn or
+        within the period of its validity, whichever is earlier;
+(b) the payee or the holder in due course of the cheque, as
+        the case may be, makes a demand for the payment of the
+        said amount of money by giving a notice in writing, to the
+        drawer of the cheque, within thirty days of the receipt of
+        information by him from the bank regarding the return of
+        the cheque as unpaid; and
+(c) the drawer of such cheque fails to make the payment of
+        the said amount of money to the payee or, as the case may
+        be, to the holder in due course of the cheque, within fifteen
+        days of the receipt of the said notice.
+Explanation.-- For the purposes of this section, "debt or
+        other liability" means a legally enforceable debt or other
+        liability.]"
+xxx                       xxx                       xxx
+143. Power of Court to try cases summarily.- (1)
+        Notwithstanding anything contained in the
+Code of
+        Criminal Procedure
+, 1973, all offences under this Chapter
+        shall be tried by a Judicial Magistrate of the first class or
+        by a Metropolitan Magistrate and the provisions
+        of Sections 262 to 265 (both inclusive) of the said Code
+        shall, as far as may be, apply to such trials:
+Crl.Ref.No.1/2016                                       Page 13 of 89
+Provided that in the case of any conviction in a summary
+        trial under this section, it shall be lawful for the Magistrate
+        to pass a sentence of imprisonment for a term not
+        exceeding one year and an amount of fine exceeding five
+        thousand rupees:
+Provided further that when at the commencement of, or in
+        the course of, a summary trial under this section, it appears
+        to the Magistrate that the nature of the case is such that a
+        sentence of imprisonment for a term exceeding one year
+        may have to be passed or that it is, for any other reason,
+        undesirable to try the case summarily, the Magistrate shall
+        after hearing the parties, record an order to that effect and
+        thereafter recall any witness who may have been examined
+        and proceed to hear or rehear the case in the manner
+        provided by the said Code.
+(2) The trial of a case under this section shall, so far as
+        practicable, consistently with the interests of justice, be
+        continued from day to day until its conclusion, unless the
+        Court finds the adjournment of the trial beyond the
+        following day to be necessary for reasons to be recorded in
+        writing.
+(3) Every trial under this section shall be conducted as
+        expeditiously as possible and an endeavour shall be made
+        to conclude the trial within six months from the date of
+        filing of the complaint."
+xxx                       xxx                        xxx
+147. Offences to be compoundable.--Notwithstanding
+        anything contained in the
+Code of Criminal Procedure
+,
+        1973 (2 of 1974), every offence punishable under this Act
+        shall be compoundable."
+(Emphasis by us)
+23.
+The Legal Services Authorities Act, 1987
+provides for
+constitution of legal services authorities to provide free and competent
+Crl.Ref.No.1/2016                                        Page 14 of 89
+legal services to the weaker sections of the society as well as to ensure
+that opportunities for securing justice are not denied to any citizen by
+reason of economic or other disabilities, and also postulates alternate
+dispute resolution mechanism as lok adalats. The relevant statutory
+provisions of
+Legal Services Authorities Act, 1987
+regarding dispute
+resolution are reproduced hereafter :
+"19. Organisation of Lok Adalats.--
+(1) Every State Authority or District Authority or the
+        Supreme Court Legal Services Committee or every High
+        Court Legal Services Committee or, as the case may be,
+        Taluk Legal Services Committee may organise Lok Adalats
+        at such intervals and places and for exercising such
+        jurisdiction and for such areas as it thinks fit.
+xxx                         xxx                      xxx
+        (5) A Lok Adalat shall have jurisdiction to determine and
+        to arrive at a compromise or settlement between the
+        parties to a dispute in respect of--
+(i) any case pending before; or
+(ii) any matter which is falling within the jurisdiction of,
+        and is not brought before, any court for which the Lok
+        Adalat is organised: Provided that the Lok Adalat shall
+        have no jurisdiction in respect of any case or matter
+        relating to an offence not compoundable under any law.
+20. Cognizance of cases by Lok Adalats.--
+(1) Where in any case referred to in clause (i) of sub-
+section (5) of section 19
+        (i)         (a) the parties thereof agree; or
+(b) one of the parties thereof makes an application
+                    to the court,
+Crl.Ref.No.1/2016                                          Page 15 of 89
+for referring the case to the Lok Adalat for settlement and
+        if such court is prima facie satisfied that there are chances
+        of such settlement; or
+(ii) the court is satisfied that the matter is an appropriate
+        one to be taken cognizance of by the Lok Adalat,
+        the court shall refer the case to the Lok Adalat:
+Provided that no case shall be referred to the Lok
+        Adalat under sub-clause (b) of clause (i) or clause (ii) by
+        such court except after giving a reasonable opportunity of
+        being heard to the parties.
+(2) Notwithstanding anything contained in any other law
+        for the time being in force, the Authority or Committee
+        organising the Lok Adalat under sub-section (1) of
+section
+        19
+may, on receipt of an application from any one of the
+        parties to any matter referred to in clause (ii) of sub-
+section (5) of
+section 19
+that such matter needs to be
+        determined by a Lok Adalat, refer such matter to the Lok
+        Adalat, for determination:
+Provided that no matter shall be referred to the Lok
+        Adalat except after giving a reasonable opportunity of
+        being heard to the other party.
+(3) Where any case is referred to a Lok Adalat under sub-
+section (1) or where a reference has been made to it under
+        sub-section (2), the Lok Adalat shall proceed to dispose of
+        the case or matter and arrive at a compromise or
+        settlement between the parties.
+(4) Every Lok Adalat shall, while determining any
+        reference before it under this Act, act with utmost
+        expedition to arrive at a compromise or settlement between
+        the parties and shall be guided by the principles of justice,
+        equity, fair play and other legal principles.
+        (5) Where no award is made by the Lok Adalat on the
+        ground that no compromise or settlement could be arrived
+Crl.Ref.No.1/2016                                       Page 16 of 89
+at between the parties, the record of the case shall be
+        returned by it to the court, from which the reference has
+        been received under sub-section (1) for disposal in
+        accordance with law.
+(6) Where no award is made by the Lok Adalat on the
+        ground that no compromise or settlement could be arrived
+        at between the parties, in a matter referred to in sub-
+        section (2), that Lok Adalat shall advise the parties to seek
+        remedy in a court.
+(7) Where the record of the case is returned under sub-
+        section (5) to the court, such court shall proceed to deal
+        with such case from the stage which was reached before
+        such reference under sub-section (1).
+21. Award of Lok Adalat.-
+(1) Every award of the Lok Adalat shall be deemed to be a
+        decree of a civil court or, as the case may be, an order of
+        any other court and where a compromise or settlement has
+        been arrived at, by a Lok Adalat in a case referred to it
+        under sub-section (1) of
+section 20
+, the court-free paid in
+        such case shall be refunded in the manner provided under
+        the
+Court Fees Act, 1870
+(7 of 1870).]"
+(2) Every award made by a Lok Adalat shall be final and
+        binding on all the parties to the dispute, and no appeal
+        shall lie to any court against the award.
+(Emphasis by us)
+24.     Let us also examine
+Section 89
+of the Code of Civil Procedure,
+1908 ("
+CPC
+" hereafter), relevant statutory provisions whereof also
+prescribe alternate dispute resolution mechanisms, which are as under:
+Crl.Ref.No.1/2016                                       Page 17 of 89
+"89. Settlement of disputes outside the Court
+
+
+        (1) Where it appears to the court that there exist elements
+        of a settlement which may be acceptable to the parties, the
+        court shall formulate the terms of settlement and give
+        them to the parties for their observations and after
+        receiving the observation of the parties, the court may
+        reformulate the terms of a possible settlement and refer
+        the same for-
+(a) arbitration;
+(b) conciliation
+(c) judicial settlement       including     settlement
+                    through Lok Adalat; or
+(d) mediation.
+(2) Where a dispute had been referred-
+(a) for arbitration or conciliation, the provisions of
+                    the
+Arbitration and Conciliation Act, 1996
+shall
+                    apply as if the proceedings for arbitration or
+                    conciliation were referred for settlement under the
+                    provisions of that Act.
+(b) to Lok Adalat, the court shall refer the same to
+                    the Lok Adalat in accordance with the provisions of
+                    sub-section (1) of
+section 20
+of the Legal Services
+                    Authority Act, 1987 and all other provisions of that
+                    Act shall apply in respect of the dispute so referred
+                    to the Lok Adalat;
+(c) for judicial settlement, the court shall refer the
+                    same to a suitable institution or person and such
+                    institution or person shall be deemed to be a Lok
+                    Adalat and all the provisions of the
+Legal Services
+                    Authority Act, 1987
+shall apply as if the dispute
+Crl.Ref.No.1/2016                                             Page 18 of 89
+were referred to a Lok Adalat under the provisions
+                    of that Act;
+(d) for mediation, the court shall effect a
+                    compromise between the parties and shall follow
+                    such procedure as may be prescribed."
+(Emphasis supplied)
+25.     So far as the civil suits are concerned, the Legislature has
+amended
+the CPC
+to incorporate Rules 1A, 1B and 1C in Order X
+which are reproduced hereunder:
+"1-A. Direction of the court to opt for any one mode of
+        alternative dispute resolution.-- After recording the
+        admissions and denials, the Court shall direct the parties
+        to the suit to opt either mode of the settlement outside the
+        Court as specified in sub-section (1) of
+Section 89
+. On the
+        option of the parties, the court shall fix the date of
+        appearance before such forum or authority as may be
+        opted by the parties.
+1-B. Appearance before the conciliatory forum or
+        authority.-- Where a suit is referred under Rule 1-A, the
+        parties shall appear before such forum or authority for
+        conciliation of the suit.
+1-C. Appearance before the Court consequent to the
+        failure of efforts of conciliation.-- Where a suit is referred
+        under Rule 1-A and the presiding officer of conciliation
+        forum or authority is satisfied that it would not be proper in
+        the interest of justice to proceed with the matter further,
+        then, it shall refer the matter again to the court and direct
+        the parties to appear before the Court on the date fixed by
+        it."
+(Emphasis by us)
+Crl.Ref.No.1/2016                                         Page 19 of 89
+26.     We may also usefully extract the provisions of Rule 3 of
+Order
+XXIII of the CPC
+which provide the manner in which a civil court
+will proceed upon adjustment of a suit, wholly or in part, by an
+agreement or compromise. This provision reads thus :
+"3. Compromise of suit.- Where it is proved to the
+        satisfaction of the court that a suit has been adjusted
+        wholly or in part by any lawful agreement or compromise
+        in writing and signed by the parties, or where the
+        defendant satisfies the plaintiff in respect of the whole or
+        any part of the subject matter of the suit, the court shall
+        order such agreement, compromise or satisfaction to be
+        recorded, and shall pass a decree in accordance therewith
+        so far as it relates to the parties to the suit, whether or not
+        the subject matter of the agreement, compromise or
+        satisfaction is the same as the subject matter of the suit: -
+Provided that where it is alleged by one party and denied
+        by the other than an adjustment or satisfaction has been
+        arrived at, the court shall decide the question; but no
+        adjournment shall be granted for the purpose of deciding
+        the question, unless the court, for reasons to be recorded,
+        thinks fit to grant such adjournment."
+(Emphasis by us)
+27.     At this point, it is also necessary to examine from the Cr.P.C.,
+the provisions of Section 29, which provides the sentence which a
+magistrate may pass; Section 320 which stipulates cases which may be
+compounded by the parties as well as those which may be
+compounded with the leave of the court or otherwise; Section 357
+which provides for award of compensation while awarding a sentence
+of fine or of which fine forms a part; Section 421 which provides for
+the manner in which a fine may be recovered and Section 431 which
+Crl.Ref.No.1/2016                                        Page 20 of 89
+enables a court to recover any money by virtue of an order made under
+the Cr.P.C.
+28.
+Sections 29
+and
+320
+of the Cr.P.C., are relevant for the present
+consideration, read as follows :
+"29. Sentences which Magistrates may pass
+        (1) The Court of a Chief Judicial Magistrate may pass any
+        sentence authorised by law except a sentence of death or of
+        imprisonment for life or of imprisonment for a term
+        exceeding seven years.
+(2) The Court of a Magistrate of the first class may pass a
+        sentence of imprisonment for a term not exceeding three
+        years, or of fine not exceeding five thousand rupees, or of
+        both.
+(3) The Court of a Magistrate of the second class may pass
+        a sentence of imprisonment for a term not exceeding one
+        year, or of fine not exceeding one thousand rupees, or of
+        both.
+(4) The Court of a Chief Metropolitan Magistrate shall
+        have the powers of the Court of a Chief Judicial Magistrate
+        and that of a Metropolitan Magistrate, the powers of the
+        Court of a Magistrate of the first class."
+320. Compounding of offences.--(1) The offences
+        punishable under the sections of the
+Indian Penal Code
+(45
+        of 1860) specified in the first two columns of the Table
+        next following may be compounded by the persons
+        mentioned in the third column of that Table:--
+xxx             xxx                xxx
+        (2) The offences punishable under the sections of the
+Indian Penal Code
+(45 of 1860) specified in the first two
+        columns of the Table next following may, with the
+        permission of the Court before which any prosecution for
+Crl.Ref.No.1/2016                                      Page 21 of 89
+such offence is pending, be compounded by the persons
+        mentioned in the third column of that Table:--
+xxx            xxx                xxx"
+                           (Emphasis supplied)
+29.     The provisions of
+Sections 357
+,
+421
+,
+431
+of the Cr.P.C. which
+enable the court to direct payments of monetary amounts and enable
+recovery thereof, by the trial courts also may be extracted and read as
+follows :
+"357. Order to pay compensation
+        (1) When a Court imposes a sentence of fine or a sentence
+        (including a sentence of death) of which fine forms a part,
+        the Court may, when passing judgment, order the whole
+        or any part of the fine recovered to be applied-
+(a) in defraying the expenses properly incurred in the
+        prosecution;
+(b) in the payment to any person of compensation for any
+        loss or injury caused by the offence, when compensation is,
+        in the opinion of the Court, recoverable by such person in a
+        Civil Court;
+(c) when any person is convicted of any offence for having
+        caused the death of another person or of having abetted the
+        commission of such an offence, in paying compensation to
+        the persons who are, under the
+Fatal Accidents Act, 1855
+(13 of 1855 ), entitled to recover damages from the person
+        sentenced for the loss resulting to them from such death;
+(d) when any person is convicted of any offence which
+        includes theft, criminal misappropriation, criminal breach
+        of trust, or cheating, or of having dishonestly received or
+        retained, or of having voluntarily assisted in disposing of,
+        stolen property knowing or having reason to believe the
+        same to be stolen, in compensating any bona fide purchaser
+Crl.Ref.No.1/2016                                      Page 22 of 89
+of such property for the loss of the same if such property is
+        restored to the possession of the person entitled thereto.
+        (2) If the fine is imposed in a case which is subject to
+        appeal, no such payment shall be made before the period
+        allowed for presenting the appeal has elapsed, or, if an
+        appeal be presented, before the decision of the appeal.
+        (3) When a Court imposes a sentence, of which fine does
+        not form a part, the Court may, when passing judgment,
+        order the accused person to pay, by way of compensation,
+        such amount as may be specified in the order to the person
+        who has suffered any loss or injury by reason of the act for
+        which the accused person has been so sentenced.
+        (4) An order under this section may also be made by an
+        Appellate Court or by the High Court or Court of Session
+        when exercising its powers of revision.
+(5) At the time of awarding compensation in any
+        subsequent civil suit relating to the same matter, the Court
+        shall take into account any sum paid or recovered as
+        compensation under this section."
+"421. Warrant for levy of fine
+        (1) When an offender has been sentenced to pay a fine,
+        the Court passing the sentence may take action for the
+        recovery of the fine in either or both of the following ways,
+        that is to say, it may-
+(a) issue a warrant for the levy of the amount by
+        attachment and sale of any movable property belonging to
+        the offender;
+(b) issue a warrant to the Collector of the district,
+        authorising him to realise the amount as arrears of land
+        revenue from the movable or immovable property, or
+        both, of the defaulter: Provided that, if the sentence directs
+        that in default of payment of the fine, the offender shall be
+Crl.Ref.No.1/2016                                        Page 23 of 89
+imprisoned, and if such offender has undergone the whole
+        of such imprisonment in default, no Court shall issue such
+        warrant unless, for special reasons to be recorded in
+        writing, it considers it necessary so to do, or unless it has
+        made an order for the payment of expenses or
+        compensation out of the fine under section 357.
+        (2) The State Government may make rules regulating the
+        manner In which warrants under clause (a) of sub- section
+        (1) are to be executed, and for the summary determination
+        of any claims made by any person other than the offender
+        in respect of any property attached in execution of such
+        warrant.
+(3) Where the Court issues a warrant to the Collector
+        under clause (b) of sub- section (1), the Collector shall
+        realise the amount in accordance with the law relating to
+        recovery of arrears of land revenue, as if such warrant
+        were a certificate issued under such law: Provided that no
+        such warrant shall be executed by the arrest or detention in
+        prison of the offender."
+"431. Money ordered to be paid recoverable as fine
+        Any money (other than a fine) payable by virtue of any
+        order made under this Code, and the method of recovery
+        of which is not otherwise expressly provided for, shall be
+        recoverable as if it were a fine:
+Provided that section 421 shall, in its application to
+        an order under section 359, by virtue of this section, be
+        construed as if in the proviso to sub- section (1) of section
+        421, after the words and figures" under section 357", the
+        words and figures" or an order for payment of costs under
+        section 359" had been inserted."
+(Emphasis supplied)
+Crl.Ref.No.1/2016                                       Page 24 of 89
+30.     Given the questions referred to us, we may also extract
+hereunder the extent of the rule making power of the High Court under
+Section 477
+of the Cr.P.C. which reads thus :
+"477. Power of High Court to make rules -
+(1) Every High Court may, with the previous approval of
+        the State Government, make rules--
+(a) as to the persons who may be permitted to act as
+        petition-writers in the Criminal Courts subordinate to it;
+(b) regulating the issue of licences to such persons, the
+        conduct of business by them, and the scale of fees to be
+        charged by them.
+(c) providing a penalty for a contravention of any of the
+        rules so made and determining the authority by which such
+        contravention may be investigated and the penalties
+        imposed;
+(d) any other matter which is required to be, may be,
+        prescribed.
+(2) All rules made under this section shall be published in
+        the Official Gazette."
+(Emphasis supplied)
+31.     The Delhi High Court has on 11th August, 2005 notified the
+"Mediation And Conciliation Rules 2004" to guide mediation in
+Delhi. We extract hereunder the relevant extract, as amended, thereof:
+"(TO BE PUBLISHED IN PART IV OF DELHI GAZETTE
+                             EXTRAORDINARY)
+                    HIGH COURT OF DELHI : NEW DELHI
+                            NOTIFICATION
+Crl.Ref.No.1/2016                                     Page 25 of 89
+No.171/Rules/DHC                            Dated: 11th August, 2005
+        In exercise of the rule making power under Part X
+of the Code of
+        Civil Procedure
+, 1908 (5 of 1908) and clause (d) of sub-section (2) of
+Section 89
+of the said Code and all other powers enabling it in this
+        behalf, the High Court of Delhi hereby makes the following rules :-
+MEDIATION AND CONCILIATION RULES, 2004
+        Rule 1 : Title
+        "The Rules will apply to all mediation and conciliation connected
+        with any suit or other proceeding pending in the High Court of
+        Delhi or in any court subordinate to the High Court of Delhi. The
+        mediation in respect of any suit or proceeding pending before the
+        High Court of Delhi or any other Court or Tribunal may be referred
+        to the Delhi High Court Mediation and Conciliation Centre or any
+        other Mediation Centre set up by Legal Services Authorities. Upon
+        such a reference being made to Delhi High Court Mediation and
+        Conciliation Centre, the same will be governed by the Charter of the
+        Delhi High Court Mediation and Conciliation Centre and to those
+        mediation proceedings, the present Rules will apply mutatis
+        mutandi." These Rules shall be called the Mediation and
+        Conciliation Rules, 2004.
+Rule 2: Appointment of Mediator/Conciliator
+(a) Parties to a suit or other proceeding may agree on the name of
+        the sole mediator/conciliator for mediating between them. ...
+xxx                          xxx                           xxx
+        Rule 3 : Panel of mediators/conciliators
+        xxx                          xxx                           xxx
+(b)(i) The District & Sessions Judge shall, for the purpose of
+        appointing the mediator/conciliator to mediate between the parties in
+        the suits or proceedings prepare a panel of the
+        mediators/conciliators within a period of thirty days of the
+        commencement of these rules and shall submit the same to the High
+        Court for approval. On approval of the said panel by the High Court,
+        with or without modification, which shall be done within thirty days
+        of the submission of the panel by the District & Sessions Judge, the
+        same shall be put on the Notice Board.
+xxx                          xxx                           xxx
+Crl.Ref.No.1/2016                                              Page 26 of 89
+Rule 24 : Settlement agreement
+a) Where an agreement is reached between the parties in regard to
+        all the issues in the suit or proceeding or some of the issues, the
+        same shall be reduced to writing and signed by the parties or their
+        constituted attorney. If any counsel has represented the parties, the
+        conciliator/mediator may obtain his signature also on the settlement
+        agreement.
+(b) The agreement of the parties so signed shall be submitted to the
+        mediator/conciliator who shall, with a covering letter signed by him,
+        forward the same to the Court in which the suit or proceeding is
+        pending.
+(c) Where no agreement is arrived at between the parties, before the
+        time limit stated in Rule 18 of where, the mediator/conciliator is of
+        the view that no settlement is possible, he shall report the same to
+        the Court in writing.
+Rule 25 : Court to fix a date for Recording settlement and passing
+        decree
+(a) On receipt of any settlement, the Court shall fix a date of
+        hearing normally within seven days but in any case not beyond a
+        period of fourteen days. On such date of hearing, if the Court is
+        satisfied that the parties have settled their dispute(s), it shall pass a
+        decree in accordance with terms thereof.
+(b) If the settlement dispose of only certain issues arising in the suit
+        or proceeding, on the basis of which any decree is passed as stated in
+        Clause (a), the Court shall proceed further to decide remaining
+        issues."
+(Emphasis supplied)
+
+
+IV.     Scope of
+Section 89
+of the Code of Civil Procedure, 1908
+32.     Mediation as a mode of alternate dispute settlement thus finds
+statutory recognition in
+Section 89
+of the Code of Civil Procedure.
+33.     Valuable light is thrown on the interpretation of
+Section 89
+in
+the judicial pronouncements rendered by the Supreme Court of India
+Crl.Ref.No.1/2016                                                Page 27 of 89
+in (2003) 1 SCC 49, Salem Advocate Bar Assn. v. Union of India
+(Salem Bar I); (2005) 6 SCC 344, Salem Advocate Bar Assn. v.
+Union Of India (Salem Bar II) and (
+2010) 8 SCC 24, Afcons
+Infrastructure Ltd. & Anr. v. Cherian Varkey Constructions Co. Pvt.
+Ltd
+.
+34.     Extensive amendments were effected to
+the Code of Civil
+Procedure
+by the Legislature by Act 46 of 1999.           Amongst the
+provisions inserted, was
+Section 89
+which provided for settlement of
+disputes outside the court through use of alternate dispute redressal
+mechanisms.         Several writ petitions came to be filed before the
+Supreme Court of India challenging the amendments effected to
+the
+Code of Civil Procedure
+by the Amendment Act 46 of 1999 and
+Amendment Act 22 of 2002. Amongst these was W.P.(C)No.496/2000
+titled
+Salem Advocate Bar Assn. v. Union of India
+.
+This writ petition
+came to be decided, along with connected writ petitions, by way of the
+judgment dated 25th October, 2002 reported at (
+2003) 1 SCC 49,
+Salem Advocate Bar Assn. v. Union of India
+(commonly known as
+Salem Bar I). So far as the amendments and insertion of
+Section 89
+of
+the Code of Civil Procedure was concerned, the Supreme Court
+observed that
+Section 89
+was a new provision and even through
+arbitration or conciliation had been in place as modes of settling the
+disputes, this had not really reduced the burden of the courts. The
+court was of the view that modalities had to be formulated for the
+manner in which
+Section 89
+as well as other provisions which had
+been introduced by way of amendments, may have to be operated. For
+Crl.Ref.No.1/2016                                     Page 28 of 89
+this purpose, a Committee was constituted to ensure that the
+amendments made became effective and resulted in quicker
+dispensation of justice.
+35.      This was followed by a later pronouncement in the same case
+reported at (
+2005) 6 SCC 344, Salem Advocate Bar Assn. v. Union Of
+India
+(commonly referred to as Salem Bar II), whereby the Supreme
+Court further clarified the position holding as follows :
+"57. A doubt has been expressed in relation to clause (d) of
+Section 89(2)
+of the Code on the question as to finalisation of the
+      terms of the compromise. The question is whether the terms of
+      compromise are to be finalised by or before the mediator or by
+      or before the court. It is evident that all the four alternatives,
+      namely, arbitration, conciliation, judicial settlement including
+      settlement through the Lok Adalat and mediation are meant to be
+      the action of persons or institutions outside the court and not
+      before the court. Order 10 Rule 1-C speaks of the "Conciliation
+      Forum" referring back the dispute to the court. In fact, the court
+      is not involved in the actual mediation/conciliation. Clause (d)
+      of
+Section 89(2)
+only means that when mediation succeeds and
+      parties agree to the terms of settlement, the mediator will report
+      to the court and the court, after giving notice and hearing to the
+      parties, "effect" the compromise and pass a decree in
+      accordance with the terms of settlement accepted by the parties.
+      Further, in this view, there is no question of the court which
+      refers the matter to mediation/conciliation being debarred from
+      hearing the matter where settlement is not arrived at. The judge
+      who makes the reference only considers the limited question as to
+      whether there are reasonable grounds to expect that there will be
+      a settlement, and on that ground he cannot be treated to be
+      disqualified to try the suit afterwards, if no settlement is arrived
+      at between the parties.
+xxx                        xxx                      xxx
+62. When the parties come to a settlement upon a reference
+      made by the court for mediation, as suggested by the Committee
+Crl.Ref.No.1/2016                                         Page 29 of 89
+that there has to be some public record of the manner in which
+      the suit is disposed of and, therefore, the court has to first
+      record the settlement and pass a decree in terms thereof and if
+      necessary proceed to execute it in accordance with law. It
+      cannot be accepted that such a procedure would be unnecessary.
+      If the settlement is not filed in the court for the purpose of
+      passing of a decree, there will be no public record of the
+      settlement. It is, however, a different matter if the parties do not
+      want the court to record a settlement and pass a decree and feel
+      that the settlement can be implemented even without a decree.
+      In such eventuality, nothing prevents them in informing the
+      court that the suit may be dismissed as a dispute has been
+      settled between the parties outside the court."
+(Emphasis by us)
+36.
+In (
+2010) 8 SCC 24, Afcons Infrastructure Ltd. & Anr. v.
+Cherian Varkey Constructions Co. Pvt. Ltd.
+, the Supreme Court was
+called upon to consider the scope of
+Section 89
+of the CPC. Certain
+errors by the draftsman were noted in
+Section 89
+of the CPC. In this
+judgment, the court further interpreted the statute to implement the
+spirit, object and intendment of the provisions. We may usefully refer
+to para 25 of the judgment in this regard, which reads as follows:
+"25. In view of the foregoing, it has to be concluded
+         that proper interpretation of
+Section 89
+of the Code
+         requires two changes from a plain and literal reading of
+         the section. Firstly, it is not necessary for the court, before
+         referring the parties to an ADR process to formulate or
+         reformulate the terms of a possible settlement. It is
+         sufficient if the court merely describes the nature of
+         dispute (in a sentence or two) and makes the reference.
+         Secondly, the definitions of "judicial settlement" and
+         "mediation" in clauses (c) and (d) of
+Section 89(2)
+shall
+         have to be interchanged to correct the draftsman's error.
+Crl.Ref.No.1/2016                                         Page 30 of 89
+Clauses (c) and (d) of
+Section 89(2)
+of the Code will read
+        as under when the two terms are interchanged:
+(c) for "mediation", the court shall refer the same to a
+        suitable institution or person and such institution or
+        person shall be deemed to be a Lok Adalat and all the
+        provisions of the
+Legal Services Authorities Act, 1987
+(39
+        of 1987) shall apply as if the dispute were referred to a
+        Lok Adalat under the provisions of that Act;
+(d) for "judicial settlement", the court shall effect a
+        compromise between the parties and shall follow such
+        procedure as may be prescribed.
+The above changes made by interpretative process shall
+        remain in force till the legislature corrects the mistakes,
+        so that
+Section 89
+is not rendered meaningless and
+        infructuous."
+(Emphasis supplied)
+37.     With regard to anomalies in
+Section 89
+of the CPC, the
+Supreme Court has thus held that where the court has referred the
+matter to mediation, the mediator shall be deemed to be a Lok Adalat
+under the
+Legal Services Act
+. For cases covered under
+Section 89
+of
+the CPC, it is thus abundantly clear that the mediated settlement and
+settlement before "another Judge", would have the same efficacy and
+binding status as an award of the Lok Adalat which is deemed to be a
+decree.
+38.     The Supreme Court has also stipulated that mediated settlement
+would have to be placed before the courts concerned for recording of
+the settlement and disposal of the case. We extract hereunder para 39
+of Afcons wherein this is discussed :
+Crl.Ref.No.1/2016                                     Page 31 of 89
+"39. Where the reference is to a neutral third party
+        ("mediation" as defined above) on a court reference,
+        though it will be deemed to be reference to Lok Adalat, as
+        the court retains its control and jurisdiction over the
+        matter, the mediation settlement will have to be placed
+        before the court for recording the settlement and disposal.
+        Where the matter is referred to another Judge and
+        settlement is arrived at before him, such settlement
+        agreement will also have to be placed before the court
+        which referred the matter and that court will make a
+        decree in terms of it."
+(Emphasis supplied)
+
+        As a result of the pronouncement in Afcons,
+Section 89
+of the
+C.P.C. thus stands modified to the extent noted above.
+39.     So far as the procedure to be adopted by a court upon reference
+of the disputes in a civil case to an ADR mechanism is concerned, the
+same stands further considered in Afcons. The relevant portion of the
+judgment is reproduced as under :
+"43 We may summarise the procedure to be adopted by a
+        court under
+Section 89
+of the Code as under:
+(a) When the pleadings are complete, before framing
+        issues, the court shall fix a preliminary hearing for
+        appearance of parties. The court should acquaint itself with
+        the facts of the case and the nature of the dispute between
+        the parties.
+(b) The court should first consider whether the case falls
+        under any of the category of the cases which are required
+        to be tried by courts and not fit to be referred to any ADR
+        processes. If it finds that the case falls under any excluded
+        category, it should record a brief order referring to the
+        nature of the case and why it is not fit for reference to ADR
+Crl.Ref.No.1/2016                                       Page 32 of 89
+processes. It will then proceed with the framing of issues
+        and trial.
+(c) In other cases (that is, in cases which can be referred to
+        ADR processes) the court should explain the choice of five
+        ADR processes to the parties to enable them to exercise
+        their option.
+(d) The court should first ascertain whether the parties are
+        willing for arbitration. The court should inform the parties
+        that arbitration is an adjudicatory process by a chosen
+        private forum and reference to arbitration will permanently
+        take the suit outside the ambit of the court. The parties
+        should also be informed that the cost of arbitration will
+        have to be borne by them. Only if both parties agree for
+        arbitration, and also agree upon the arbitrator, the matter
+        should be referred to arbitration.
+(e) If the parties are not agreeable for arbitration, the
+        court should ascertain whether the parties are agreeable
+        for reference to conciliation which will be governed by the
+        provisions of the
+AC Act
+. If all the parties agree for
+        reference to conciliation and agree upon the conciliator(s),
+        the court can refer the matter to conciliation in accordance
+        with
+Section 64
+of the AC Act.
+(f) If the parties are not agreeable for arbitration and
+        conciliation, which is likely to happen in most of the cases
+        for want of consensus, the court should, keeping in view
+        the preferences/options of parties, refer the matter to any
+        one of the other three ADR processes: (a) Lok Adalat; (b)
+        mediation by a neutral third-party facilitator or mediator;
+and (c) a judicial settlement, where a Judge assists the
+        parties to arrive at a settlement.
+(g) If the case is simple which may be completed in a single
+        sitting, or cases relating to a matter where the legal
+        principles are clearly settled and there is no personal
+        animosity between the parties (as in the case of motor
+        accident claims), the court may refer the matter to Lok
+        Adalat. In case where the questions are complicated or
+        cases which may require several rounds of negotiations,
+        the court may refer the matter to mediation. Where the
+Crl.Ref.No.1/2016                                        Page 33 of 89
+facility of mediation is not available or where the parties
+        opt for the guidance of a Judge to arrive at a settlement, the
+        court may refer the matter to another Judge for attempting
+        settlement.
+(h) If the reference to the ADR process fails, on receipt of
+        the report of the ADR forum, the court shall proceed with
+        hearing of the suit. If there is a settlement, the court shall
+        examine the settlement and make a decree in terms of it,
+        keeping the principles of Order 23 Rule 3 of the Code in
+        mind.
+(i) If the settlement includes disputes which are not the
+        subject-matter of the suit, the court may direct that the
+        same will be governed by
+Section 74
+of the AC Act (if it is a
+        conciliation settlement) or
+Section 21
+of the Legal Services
+        Authorities Act, 1987 (if it is a settlement by a Lok Adalat
+        or by mediation which is a deemed Lok Adalat). If the
+        settlement is through mediation and it relates not only to
+        disputes which are the subject-matter of the suit, but also
+        other disputes involving persons other than the parties to
+        the suit, the court may adopt the principle underlying
+        Order 23 Rule 3 of the Code. This will be necessary as
+        many settlement agreements deal with not only the disputes
+        which are the subject-matter of the suit or proceeding in
+        which the reference is made, but also other disputes which
+        are not the subject-matter of the suit.
+(j) If any term of the settlement is ex facie illegal or
+        unenforceable, the court should draw the attention of
+        parties thereto to avoid further litigations and disputes
+        about executability."
+(Emphasis by us)
+40.     In para 44, the Supreme Court has also laid down certain
+consequential aspects which have to be borne in mind while giving
+effect to
+Section 89
+of the Code.          Para 44 of the judgment is
+reproduced as under :
+Crl.Ref.No.1/2016                                        Page 34 of 89
+"44. The court should also bear in mind the following
+        consequential aspects, while giving effect to
+Section 89
+of
+        the Code:
+(i) If the reference is to arbitration or conciliation, the
+        court has to record that the reference is by mutual consent.
+        Nothing further need be stated in the order-sheet.
+(ii) If the reference is to any other ADR process, the court
+        should briefly record that having regard to the nature of
+        dispute, the case deserves to be referred to Lok Adalat, or
+        mediation or judicial settlement, as the case may be. There
+        is no need for an elaborate order for making the
+        reference.
+(iii) The requirement in
+Section 89(1)
+that the court should
+        formulate or reformulate the terms of settlement would only
+        mean that the court has to briefly refer to the nature of
+        dispute and decide upon the appropriate ADR process.
+(iv) If the Judge in charge of the case assists the parties
+        and if settlement negotiations fail, he should not deal with
+        the adjudication of the matter, to avoid apprehensions of
+        bias and prejudice. It is therefore advisable to refer cases
+        proposed for judicial settlement to another Judge.
+(v) If the court refers the matter to an ADR process (other
+        than arbitration), it should keep track of the matter by
+        fixing a hearing date for the ADR report. The period
+        allotted for the ADR process can normally vary from a
+        week to two months (which may be extended in exceptional
+        cases, depending upon the availability of the alternative
+        forum, the nature of case, etc.). Under no circumstances
+        the court should allow the ADR process to become a tool
+        in the hands of an unscrupulous litigant intent upon
+        dragging on the proceedings.
+(vi) Normally the court should not send the original
+        record of the case when referring the matter to an ADR
+        forum. It should make available only copies of relevant
+        papers to the ADR forum. (For this purpose, when
+        pleadings are filed the court may insist upon filing of an
+        extra copy). However if the case is referred to a court
+Crl.Ref.No.1/2016                                       Page 35 of 89
+annexed mediation centre which is under the exclusive
+        control and supervision of a judicial officer, the original
+        file may be made available wherever necessary."
+(Emphasis by us)
+41.     In para 45, the court had clarified that these were guidelines
+subject to such changes as the concerned court may deem fit with
+reference to the special circumstances of the case.
+There is thus complete clarity on the manner in which a court
+must proceed when making a reference to mediation.
+V.      Statutory power to refer matters for dispute resolution and
+        effect of a settlement
+42.     We have extracted above
+Section 19
+of the Legal Services Act,
+1987 providing for the organization of Lok Adalats. The Lok Adalats
+have the jurisdiction under sub-
+section 5
+of
+Section 19
+to determine
+and to arrive at a compromise or settlement between the parties to a
+dispute in respect of :
+(i)     any case pending before, or
+(ii)    any matter which is falling within the jurisdiction of, and is not
+brought before, any court for which the Lok Adalat is
+        organized.
+Provided that the Lok Adalat shall have no jurisdiction in
+respect of any case or matter relating to an offence not compoundable
+under the law.
+Thus so far as criminal cases are concerned, a Lok Adalat has
+jurisdiction over only such criminal matters that relate to offences
+Crl.Ref.No.1/2016                                       Page 36 of 89
+compoundable by law i.e. under
+Section 320
+of the Cr.P.C. or under
+any special enactment.
+It is also to be noted that under this enactment, it is also
+specifically provided that "court" means a "civil, criminal or revenue
+court".
+43.     So far as cognizance of cases by Lok Adalats are concerned, the
+same is taken in accordance with
+Section 20
+of the enactment. This
+may be by agreement between the parties or upon one party making an
+application. It can also be by way of a reference by the court.
+44.     By virtue of
+Section 21
+of the Legal Services Act, an award
+made by the Lok Adalats shall be final and binding and no appeal
+shall lie in any court against it. The award is deemed to be "decree of
+civil court" or, as the case may be, "an order of any other court".
+The statute therefore, makes no distinction between an award in
+a civil or criminal case.
+45.     So far as the civil suits which are tried in accordance with the
+provisions
+of Code of Civil Procedure
+are concerned, the mandate of
+Section 89
+of the C.P.C. enables the court to refer the parties for
+settlement of disputes outside the court including for judicial
+settlement to Lok Adalats and mediation.
+46.
+Order X of the C.P.C
+. provides the modalities for implementing
+the mandate of
+Section 89
+CPC.
+Crl.Ref.No.1/2016                                      Page 37 of 89
+47.     Additionally the provisions of the
+Arbitration and Conciliation
+Act, 1996
+enable reference of matters where there is an arbitration
+agreement, for dispute resolution by arbitration and conciliation.
+48.     The
+Code of Criminal Procedure
+, 1973 and the
+Negotiable
+Instruments Act, 1881
+unfortunately contain no provisions for
+reference of the matters thereunder to alternate dispute resolution
+mechanisms.
+49.     As
+the Code of Civil Procedure
+would have no application to
+criminal proceedings to which the
+Code of Criminal Procedure
+applies,
+Section 89
+of the C.P.C. cannot and would not, in terms, apply
+to the proceedings under
+Section 138
+of the NI Act.
+VI.     Power of criminal courts to refer cases to mediation
+50.     We have found that, though
+the Code of Civil Procedure
+contains a specific provision in
+Section 89
+of the C.P.C. enabling
+reference of matters to alternate dispute redressal, however, so far as
+criminal cases are concerned, it is amply clear that the
+Code of
+Criminal Procedure
+does not contain any express statutory provision
+enabling the criminal court to refer the parties to a forum for alternate
+dispute resolution including mediation.      The same is the position
+regarding cases under the
+NI Act
+. Therefore, the question which first
+begs an answer is whether the criminal court can in any manner refer
+parties before it to dispute resolution by mediation.
+51.     In para 18 of Afcons, the Supreme Court has given illustrations
+of certain categories of cases that were normally not considered
+Crl.Ref.No.1/2016                                       Page 38 of 89
+suitable for alternate dispute resolution processes. Prosecution for
+criminal offences has been mentioned as not suitable. The judgment
+also notes that the categorization enumerated is merely illustrative and
+not inflexible.     As the legal validity of mediation in criminal
+compoundable cases was not specifically in question, there is thus no
+authoritative judicial pronouncement prohibiting the same.
+52.      Out of the alternate dispute redressal mechanisms adopted by
+this country's legal system, the mediation movement as a reliable
+mechanism, has gained both acceptability and popularity. In an article
+titled     "Mediation    :   Constituents,   Process      and          Merit"
+(http://gujarathighcourt.nic.in/mediation/sbs1.htm) authored by S.B.
+Sinha, J. (Retd. Judge of the Supreme Court of India), it has been
+noted that unlike litigation and arbitration, which consists of formal
+evidentiary hearings and a final adjudication, mediation was a semi-
+formal negotiation aimed at allowing parties to settle disputes, not
+only amicably but also economically and expeditiously by a process of
+self and participatory determination. It is noted that mediation as a
+method of dispute resolution was not a unique or new concept and that
+it had in fact evolved through long standing traditions, was being used
+by tribes and villages across our country long before it came to be
+statutorily recognized in the recent past. The roots of mediation have
+been traced back to texts such as "Kautilya's Arthashastra" as well as
+the Panchayati Raj system.        The references to Lord Krishna's
+mediation between Kauravas and Pandavas during the Mahabharata
+are legendary.
+Crl.Ref.No.1/2016                                      Page 39 of 89
+53.     Mediation undoubtedly provides an efficient, effective, speedy,
+convenient and inexpensive process to resolve disputes with dignity,
+mutuality, respect and civility where parties participate in arriving at a
+negotiated settlement rather than being confronted with a third party
+adjudication of their disputes. The very fact that it enables warring
+parties to sit across the table and negotiate, even if unsuccessful in
+dispute resolution, undergoing the process creates an atmosphere of
+harmony and peace in which parties learn to 'agree to disagree'.
+54.     The examination of the statutory regime and the practice
+governing mediation shows that the genesis of the mediation may rest
+on a court referral whereby the court refers the parties in a pending
+case, with their consent, to mediation. However, the availability of
+mediation as a platform to negotiate a settlement does not rest on a
+court referral. The parties are enabled to approach the mediation
+centre or the mediator even without the court order in what is referred
+to as 'pre-litigation mediation' which is really an effort to resolve the
+dispute before filing a case to explore the possibility of dispute
+resolution without court intervention. Inasmuch as we are not
+concerned with the consequences of a settlement in a pre-litigation
+mediation or the manner of its enforceability, we do not propose to
+dwell on it in this judgment.
+55.     Mr. J.P. Sengh, Senior Advocate would emphasize before us
+that it is the parties who are referred to the mediation, and, not the lis
+before the court. It is contended that the power to refer parties to
+mediation is irrespective of the nature of the case before the court, and
+Crl.Ref.No.1/2016                                       Page 40 of 89
+that it could be civil or criminal. We find that inasmuch as it is the
+parties who are referred to mediation, this would be the correct legal
+position.
+56.     We have extracted above the provisions of
+Section 320
+of the
+Cr.P.C.
+Section 320
+of the Cr.P.C. enumerates and draws a distinction
+between offences as compoundable, either between the parties or with
+the leave of the court. This provision clearly permits and recognizes
+the settlement of specified criminal offences. Settlement of the issue(s)
+is inherent in this provision envisaging compounding. The settlement
+can obviously be only by a voluntary process inter se the parties. To
+facilitate this process, there can be no possible exclusion of external
+third party assistance to the parties, say that of neutral mediators or
+conciliators.
+57.     Therefore, even though an express statutory provision enabling
+the criminal court to refer the complainant and accused persons to
+alternate dispute redressal mechanisms has not been specifically
+provided by the Legislature, however, the
+Cr.P.C
+. does permit and
+recognize settlement without stipulating or restricting the process by
+which it may be reached. There is thus no bar to utilizing the alternate
+dispute mechanisms including arbitration, mediation, conciliation
+(recognized under Section 89 of CPC) for the purposes of settling
+disputes which are the subject matter of offences covered under
+Section 320 of the Cr.P.C.
+Crl.Ref.No.1/2016                                      Page 41 of 89
+VII. Process to be followed in reference of above disputes in
+     criminal law to mediation
+58.     So what is the process to be followed in disputes under criminal
+law? So far as criminal matters are concerned,
+Section 477
+of the
+Cr.P.C. enables the High Court to make rules regarding any other
+matter which is required to be prescribed.         The Mediation and
+Conciliation Rules stand notified by the Delhi High Court in exercise
+of the rule making power under Part X
+of the Code of Civil Procedure
+,
+Section 89(2)(d)
+of the C.P.C. as well as "all other powers enabling
+the High Court" in this behalf. The Rules therefore, clearly provide
+for mediation not only in civil suits, but also to "proceeding pending
+in the High Court of Delhi or in any court subordinate to the High
+Court of Delhi". So far as Delhi is concerned, these rules would
+apply to mediation in a matter referred by the court concerned with a
+criminal case as well as proceedings under
+Section 138
+of the NI Act.
+VIII. Dispute resolution encouraged in several cases by the
+      Supreme Court in non-compoundable cases as well
+59.     We note that there have been several instances when the
+Supreme Court has approved exercise of inherent powers under
+Section 482
+of the Cr.P.C. by the High Court for quashing criminal
+cases on account of compromise/settlement even though they are not
+included in the list of compoundable cases under
+Section 320
+of the
+Cr.P.C. In (2012) 10 SCC 303, Gian Singh v. State of Punjab, it was
+held that this was in exercise of statutory power of the High Court
+under
+Section 482
+of the Cr.P.C. The relevant extract of the judgment
+is reproduced as under :
+Crl.Ref.No.1/2016                                      Page 42 of 89
+"61. ... But the criminal cases having overwhelmingly
+        and predominatingly civil flavour stand on a different
+        footing for the purposes of quashing, particularly the
+        offences arising from commercial, financial, mercantile,
+        civil, partnership or such like transactions or the offences
+        arising out of matrimony relating to dowry, etc. or the
+        family disputes where the wrong is basically private or
+        personal in nature and the parties have resolved their
+        entire dispute. In this category of cases, the High Court
+        may quash the criminal proceedings if in its view, because
+        of the compromise between the offender and the victim,
+        the possibility of conviction is remote and bleak and
+        continuation of the criminal case would put the accused
+        to great oppression and prejudice and extreme injustice
+        would be caused to him by not quashing the criminal case
+        despite full and complete settlement and compromise with
+        the victim. In other words, the High Court must consider
+        whether it would be unfair or contrary to the interest of
+        justice to continue with the criminal proceeding or
+        continuation of the criminal proceeding would
+        tantamount to abuse of process of law despite settlement
+        and compromise between the victim and the wrongdoer and
+        whether to secure the ends of justice, it is appropriate that
+        the criminal case is put to an end and if the answer to the
+        above question(s) is in the affirmative, the High Court
+        shall be well within its jurisdiction to quash the criminal
+        proceeding."
+(Emphasis supplied)
+60.     In a recent pronouncement dated 4th October, 2017, reported at
+2017 SCC OnLine SC 1189 Parabatbhai Aahir @ Parbatbhai
+Bhimsinhabhai Karmur and Ors Vs State of Gujarat and Anr a
+three-Judge bench of the Supreme Court speaking through D.Y.
+Chandrachud, J. cited with approval, inter alia, the judgment in Gian
+Singh reiterating that in exercise of its inherent jurisdiction under
+Crl.Ref.No.1/2016                                       Page 43 of 89
+Section 482
+of the Cr.P.C, the High Court is empowered to quash
+FIRs/Criminal Proceedings emanating from non-compoundable
+offences if the ends of justice and the facts of the case, so warrant.
+While, so approving the Supreme Court, laid down the exposition of
+the law in the form of exhaustive guidelines which are extracted thus:
+'(i) Section 482 preserves the inherent powers of the High
+        Court to prevent an abuse of the process of any court or to
+        secure the ends of justice. The provision does not confer new
+        powers. It only recognises and preserves powers which
+        inhere in the High Court;
+(ii) The invocation of the jurisdiction of the High Court to
+        quash a First Information Report or a criminal proceeding
+        on the ground that a settlement has been arrived at between
+        the offender and the victim is not the same as the invocation
+        of jurisdiction for the purpose of compounding an offence.
+While compounding an offence, the power of the court is
+        governed by the provisions of
+Section 320
+of the Code of
+        Criminal Procedure, 1973. The power to quash under
+        Section 482 is attracted even if the offence is non-
+        compoundable.
+(iii) In forming an opinion whether a criminal proceeding
+        or complaint should be quashed in exercise of its jurisdiction
+        under Section 482, the High Court must evaluate whether the
+        ends of justice would justify the exercise of the inherent
+        power;
+(iv) While the inherent power of the High Court has a wide
+        ambit and plenitude it has to be exercised; (i) to secure the
+        ends of justice or (ii) to prevent an abuse of the process of
+        any court;
+Crl.Ref.No.1/2016                                      Page 44 of 89
+(v) The decision as to whether a complaint or First
+        Information Report should be quashed on the ground that the
+        offender and victim have settled the dispute, revolves
+        ultimately on the facts and circumstances of each case and
+        no exhaustive elaboration of principles can be formulated;
+(vi) In the exercise of the power under Section 482 and
+        while dealing with a plea that the dispute has been settled,
+        the High Court must have due regard to the nature and
+        gravity of the offence. Heinous and serious offences
+        involving mental depravity or offences such as murder, rape
+        and dacoity cannot appropriately be quashed though the
+        victim or the family of the victim have settled the dispute.
+        Such offences are, truly speaking, not private in nature but
+        have a serious impact upon society. The decision to continue
+        with the trial in such cases is founded on the overriding
+        element of public interest in punishing persons for serious
+        offences;
+(vii) As distinguished from serious offences, there may be
+        criminal cases which have an overwhelming or
+        predominant element of a civil dispute. They stand on a
+        distinct footing in so far as the exercise of the inherent
+        power to quash is concerned;
+(viii) Criminal cases involving offences which arise from
+        commercial, financial, mercantile, partnership or similar
+        transactions with an essentially civil flavour may in
+        appropriate situations fall for quashing where parties have
+        settled the dispute;
+(ix) In such a case, the High Court may quash the
+        criminal proceeding if in view of the compromise between
+        the disputants, the possibility of a conviction is remote and
+        the continuation of a criminal proceeding would cause
+        oppression and prejudice; and
+Crl.Ref.No.1/2016                                     Page 45 of 89
+(x) There is yet an exception to the principle set out in
+        propositions (viii) and (ix) above. Economic offences
+        involving the financial and economic well-being of the state
+        have implications which lie beyond the domain of a mere
+        dispute between private disputants. The High Court would be
+        justified in declining to quash where the offender is involved
+        in an activity akin to a financial or economic fraud or
+        misdemeanour. The consequences of the act complained of
+        upon the financial or economic system will weigh in the
+        balance.'
+61.     The judicial precedent in (
+2013) 5 SCC 226, K. Srinivas Rao v.
+D.A. Deepa
+is in the context of a complaint filed by the respondent
+wife under
+Section 498A
+of the Indian Penal Code, against the
+appellant husband and his family members, the offence under
+Section
+498A
+of the IPC being non-compoundable. Noting that mediation, as
+a method of alternative dispute redressal had got legal recognition,
+observations regarding settlements of matrimonial disputes were made
+in paras 39 and 46 by the Supreme Court to the courts dealing with
+matrimonial matters which read thus :
+"39. Quite often, the cause of the misunderstanding in a
+        matrimonial dispute is trivial and can be sorted out.
+        Mediation as a method of alternative dispute resolution has
+        got legal recognition now. We have referred several
+        matrimonial disputes to mediation centres. Our experience
+        shows that about 10% to 15% of matrimonial disputes get
+        settled in this Court through various mediation centres. We,
+        therefore, feel that at the earliest stage i.e. when the
+        dispute is taken up by the Family Court or by the court of
+        first instance for hearing, it must be referred to mediation
+        centres. ...
+Crl.Ref.No.1/2016                                      Page 46 of 89
+xxx                       xxx                        xxx
+44. We, therefore, feel that though offence punishable
+        under
+Section 498-A
+IPC is not compoundable, in
+        appropriate cases if the parties are willing and if it
+        appears to the criminal court that there exist elements of
+        settlement, it should direct the parties to explore the
+        possibility of settlement through mediation. This is,
+        obviously, not to dilute the rigour, efficacy and purport of
+Section 498-A
+IPC, but to locate cases where the
+        matrimonial dispute can be nipped in bud in an equitable
+        manner. The Judges, with their expertise, must ensure that
+        this exercise does not lead to the erring spouse using
+        mediation process to get out of clutches of the law. During
+        mediation, the parties can either decide to part company on
+        mutually agreed terms or they may decide to patch up and
+        stay together. In either case for the settlement to come
+        through, the complaint will have to be quashed. In that
+        event, they can approach the High Court and get the
+        complaint quashed. If, however, they choose not to settle,
+        they can proceed with the complaint. In this exercise, there
+        is no loss to anyone. If there is settlement, the parties will
+        be saved from the trials and tribulations of a criminal case
+        and that will reduce the burden on the courts which will be
+        in the larger public interest. Obviously, the High Court
+        will quash the complaint only if after considering all
+        circumstances it finds the settlement to be equitable and
+        genuine. Such a course, in our opinion, will be beneficial
+        to those who genuinely want to accord a quietus to their
+        matrimonial disputes.
+xxx                       xxx                        xxx
+46. We, therefore, issue directions, which the courts
+        dealing with the matrimonial matters shall follow.
+xxx                       xxx                        xxx
+        46.2. The criminal courts dealing with the complaint
+        under
+Section 498-A
+IPC should, at any stage and
+        particularly, before they take up the complaint for
+        hearing, refer the parties to mediation centre if they feel
+Crl.Ref.No.1/2016                                        Page 47 of 89
+that there exist elements of settlement and both the parties
+        are willing. However, they should take care to see that in
+        this exercise, rigour, purport and efficacy of
+Section 498-A
+IPC is not diluted. Needless to say that the discretion to
+        grant or not to grant bail is not in any way curtailed by this
+        direction. It will be for the court concerned to work out the
+        modalities taking into consideration the facts of each case.
+        46.3. All mediation centres shall set up pre-litigation
+        desks/clinics; give them wide publicity and make efforts to
+        settle matrimonial disputes at pre-litigation stage."
+(Emphasis supplied)
+62.     Therefore, the Supreme Court has recognized the permissibility
+of the High Court's quashing the criminal prosecutions in exercise of
+their inherent jurisdiction under
+Section 482
+of the Cr.P.C. on a
+consideration of the subject matter of the cases. The Supreme Court
+has accepted compromises in non-compoundable offences upon
+evaluation of the genuineness, fairness, equity and interests of justice
+in continuing with the criminal proceedings relating to non-
+compoundable offences, after settlement of the entire dispute
+especially in offences arising from "commercial, financial, civil,
+partnership" or such like transactions or relating to matrimonial or
+family disputes which are private in nature.
+IX.     Nature of proceedings under Section 138 of the NI Act
+63.     Before proceeding with the examination of the questions under
+reference, it is necessary to examine the spirit, intendment and object
+of the incorporation of
+Section 138
+of the NI Act, the Preamble
+whereof states "Whereas it is expedient to define and amend the law
+Crl.Ref.No.1/2016                                        Page 48 of 89
+relating to promissory notes, bills of exchange and cheques". It is
+therefore, evident that
+Section 138
+of the NI Act was introduced to
+inculcate faith in the efficacy of banking operations and credibility in
+transacting business of negotiable instruments (Ref.: (
+2003) 3 SCC
+232, Goaplast P. Ltd. V. Chico Ursula D'Souza & Anr.
+).
+64.
+In (
+2011) 4 SCC 593, Kaushalya Devi Massand v. Roopkishore
+Khore
+, the Supreme Court drew the following distinction between the
+traditional criminal offences and the offence under
+Section 138
+of the
+NI Act observing thus :
+"11. Having considered the submissions made on behalf of
+        the parties, we are of the view that the gravity of a
+        complaint under the
+Negotiable Instruments Act
+cannot
+        be equated with an offence under the provisions of the
+        Penal Code, 1860 or other criminal offences. An offence
+        under
+Section 138
+of the Negotiable Instruments Act,
+        1881, is almost in the nature of a civil wrong which has
+        been given criminal overtones."
+(Emphasis supplied)
+65.     We also find useful the observations of the Supreme Court in
+(
+2012) 1 SCC 260, R. Vijayan v. Baby
+wherein the court was
+determining an issue in respect of compensation when fine is imposed
+as the sentence or it forms part of the sentence.                In this
+pronouncement, the Supreme Court noted that cases arising under
+Section 138
+of the NI Act are really "civil cases masquerading as
+criminal cases". The statutory object in effect appears to be both
+punitive as also compensatory and restitutive in regard to cheque
+dishonouring cases. The judgment notes that Chapter XVII of the
+Crl.Ref.No.1/2016                                     Page 49 of 89
+enactment is a unique exercise which bears the dividing line between
+civil and criminal jurisdictions and that it provides a single forum to
+enforce a civil and criminal remedy.
+66.
+In this regard, the observations of the Supreme Court in (
+2010)
+5 SCC 663, Damodar S. Prabhu v. Sayed Babalal H
+also shed
+valuable light, relevant extract whereof is as below :
+"17. In a recently published commentary, the following
+      observations have been made with regard to the offence
+      punishable under
+Section 138
+of the Act [cited from: Arun
+      Mohan, Some thoughts towards law reforms on the topic of
+Section 138
+, Negotiable Instruments Act--Tackling an
+      avalanche of cases (New Delhi: Universal Law Publishing Co.
+      Pvt. Ltd., 2009) at p. 5]:
+"... Unlike that for other forms of crime, the
+          punishment here (insofar as the complainant is concerned)
+          is not a means of seeking retribution, but is more a means
+          to ensure payment of money. The complainant's interest
+          lies primarily in recovering the money rather than seeing
+          the drawer of the cheque in jail. The threat of jail is only a
+          mode to ensure recovery. As against the accused who is
+          willing to undergo a jail term, there is little available as
+          remedy for the holder of the cheque.
+If we were to examine the number of complaints filed
+          which were 'compromised' or 'settled' before the final
+          judgment on one side and the cases which proceeded to
+          judgment and conviction on the other, we will find that the
+          bulk was settled and only a miniscule number continued."
+18. It is quite obvious that with respect to the offence of
+      dishonour of cheques, it is the compensatory aspect of the
+      remedy which should be given priority over the punitive
+      aspect. There is also some support for the apprehensions
+      raised by the learned Attorney General that a majority of
+      cheque bounce cases are indeed being compromised or
+      settled by way of compounding, albeit during the later stages
+Crl.Ref.No.1/2016                                          Page 50 of 89
+of litigation thereby contributing to undue delay in justice
+      delivery. The problem herein is with the tendency of litigants
+      to belatedly choose compounding as a means to resolve their
+      dispute. Furthermore, the written submissions filed on behalf
+      of the learned Attorney General have stressed on the fact that
+      unlike
+Section 320
+CrPC,
+Section 147
+of the Negotiable
+      Instruments Act provides no explicit guidance as to what stage
+      compounding can or cannot be done and whether
+      compounding can be done at the instance of the complainant
+      or with the leave of the court."
+(Emphasis by us)
+67.      It is quite apparent that proceedings under
+Section 138
+of the NI
+Act have a special character. They arise from a civil dispute relating to
+dishonouring to a cheque but may result in a criminal consequence.
+Even though the statute is punitive in nature, however, its spirit,
+intendment and object is to provide compensation and ensure
+restitution as well which aspects must received priority over
+punishment. The proceedings under
+Section 138
+of the NI Act are
+therefore, distinct from other criminal cases. It is well settled that they
+are really in the nature of a civil wrong which has been given criminal
+overtones.
+X.       Permissibility of settlement of offence under Section 138 of
+         the NI Act
+68.      So far as the offence/proceedings under
+Section 138
+of the NI
+Act are concerned, the Legislature has provided
+Section 147
+which
+specifically stipulates that "every offence punishable under this Act
+shall be compoundable". It is important to note that
+Section 147
+of
+the statute contains a non-obstante provision and is applicable
+Crl.Ref.No.1/2016                                        Page 51 of 89
+notwithstanding anything contained in the
+Code of Criminal
+Procedure
+. Therefore, irrespective of and apart from the offences
+stipulated under
+Section 320
+of the Cr.P.C.,
+Section 147
+of the NI Act
+makes the offence under
+Section 138
+of the NI Act specifically
+compoundable.
+69.     The impact of the non-obstante clause in
+Section 147
+of the NI
+Act has been considered by the High Court of Gujarat in the judgment
+reported at (
+2005) CriLJ 431, Rameshbhai Somabhai Patel v.
+Dineshbhai Achalanand Rathi
+wherein the court held thus:
+"8. The victim of the offence can compound the offence
+        notwithstanding anything contained in Cr. P.C. 1973. In
+        other words, the parties can settle the alleged criminal
+        wrong and conclude their dispute under adjudication and
+        request the Court where it is pending to pass appropriate
+        order viz: order of acquittal. Undisputedly, the petitioner
+        accused has approached this Court for scrutiny of the
+        legality and validity of the order of conviction and sentence
+        and, therefore, the original complainant can positively
+        appear before this Court and say that he has compounded
+        the offence with the accused and now he has not to pursue
+        the remedy, that he is not interested in proceeding with the
+        complaint and to see that the accused is sent to the prison.
+        The effect of the same would be practically or say similar to
+        a withdrawal from the prosecution with or without any
+        qualification. So, the original complainant if comes to the
+        Court and says that he is withdrawing himself from
+        prosecution on account of compromise and he has
+        compounded the matter, then obviously the conviction and
+        sentence shall have to be annulled/set aside. Considering
+        the language of the section, even there is no scope for the
+        Court to consider whether such a request should be
+        accepted or not. No formal permission to compound the
+        offence is required to be sought for.
+Crl.Ref.No.1/2016                                       Page 52 of 89
+9. Considering the language of
+Section 147
+of the N.I. Act,
+        it is not necessary to consider the scheme of
+Section 320
+of CrPC, but to appreciate the questions posed, it can still
+        be looked into other relevant provision.
+Section 320
+of
+        CrPC divides compoundable offences in two different parts
+        by Sub-section (1). and Sub-section (2). Subsequent
+        subsections deal with other contingencies, qualifications or
+        embargoes. But
+Section 147
+of the N.I. Act says that
+        offence shall be compoundable and it does not provide for
+        any other or further qualification or embargo like Sub-
+        section (2) of
+Section 320
+of CrPC. The parties can
+        compound the offence as if the offence is otherwise
+        compoundable. Thus, the offence is made straightaway
+        compoundable like the case described under Sub-section
+        (1) of
+Section 320
+of CrPC. Subsection (9) of
+Section 320
+of CrPC has no room to play because of non
+        obstante clause in
+Section 147
+of the N.I. Act. ....
+10. The declaration placed before the Court and the
+        presence of the original complainant respondent No. 1
+        today before the Court takes me to a conclusion that the say
+        of the complainant should be accepted that he has
+        withdrawn from prosecution because he has compounded
+        the offence out of the Court. As per the settled legal
+        position, the effect of compounding of the offence is that
+        of acquittal."
+(Emphasis by us)
+70.     On this aspect, valuable light is thrown on this issue also in the
+pronouncement of the Supreme Court in
+Damodar S. Prabhu
+'s case
+wherein the Supreme Court has laid down the guidelines while
+interpreting
+Section 138
+and
+147
+of the NI Act to encourage litigants
+in cheque dishonouring cases to opt for compounding during early
+stages of the litigation to ease choking of the criminal justice system.
+To encourage this, a graded scheme of imposing costs on parties who
+unduly delay compounding of the offence and for controlling filing of
+Crl.Ref.No.1/2016                                       Page 53 of 89
+the complaints in multiple jurisdictions relatable to same transactions
+has been proscribed. We extract hereunder the relevant directions of
+the Supreme Court in this regard :
+"21. ... In view of this submission, we direct that the
+        following guidelines be followed:
+THE GUIDELINES
+(i) In the circumstances, it is proposed as follows:
+(a) That directions can be given that the writ of
+                summons be suitably modified making it clear to the
+                accused that he could make an application for
+                compounding of the offences at the first or second
+                hearing of the case and that if such an application is
+                made, compounding may be allowed by the court
+                without imposing any costs on the accused.
+(b) If the accused does not make an application for
+                compounding as aforesaid, then if an application
+                for compounding is made before the Magistrate at a
+                subsequent stage, compounding can be allowed
+                subject to the condition that the accused will be
+                required to pay 10% of the cheque amount to be
+                deposited as a condition for compounding with the
+                Legal Services Authority, or such authority as the
+                court deems fit.
+(c) Similarly, if the application for compounding is
+                made before the Sessions Court or a High Court in
+                revision or appeal, such compounding may be
+                allowed on the condition that the accused pays 15%
+                of the cheque amount by way of costs.
+(d) Finally, if the application for compounding is
+                made before the Supreme Court, the figure would
+                increase to 20% of the cheque amount."
+(Emphasis supplied)
+Crl.Ref.No.1/2016                                        Page 54 of 89
+71.     The court has however, observed in this judgment that
+Section
+147
+of the Act did not carry any guidance on how the court will
+proceed with the compounding of the offence under the enactment and
+that the scheme legislatively contemplated under
+Section 320
+of the
+Cr.P.C. cannot be followed in the strict sense. It was to overcome the
+hurdle because of the legislative vacuum that the graded scheme was
+provided to give some guidance and to save valuable time of the
+courts.
+72.
+In this regard, reference may also usefully be made to the
+pronouncement of the Supreme Court reported at (
+2014) 5 SCC 590,
+Indian Banks Association & Ors. v. Union of India
+wherein the court
+observed thus :
+"21. This Court in
+Damodar S. Prabhu v. Sayed Babalal
+        H.
+[(2010) 5 SCC 663 : (2010) 2 SCC (Civ) 520 : (2010) 2
+        SCC (Cri) 1328] laid down certain guidelines while
+        interpreting
+Sections 138
+and
+147
+of the Negotiable
+        Instruments Act to encourage litigants in cheque
+        dishonour cases to opt for compounding during early
+        stages of litigation to ease choking of criminal justice
+        system; for graded scheme of imposing costs on parties
+        who unduly delay compounding of offence; and for
+        controlling of filing of complaints in multiple jurisdictions
+        relatable to same transaction, which have also to be borne
+        in mind by the Magistrate while dealing with cases under
+Section 138
+of the Negotiable Instruments Act."
+(Emphasis by us)
+73.     The above further reinforces the position that there is no legal
+prohibition upon a court, seized of a complaint under
+NI Act
+, to
+encourage dispute resolution by recourse to the alternate dispute
+Crl.Ref.No.1/2016                                       Page 55 of 89
+resolution methods including mediation. On the contrary, the
+guidelines
+laid down by
+the court in Damodar S. Prabhu
+unequivocally encourage settlement. Mediation, as a mechanism for
+dispute resolution and arriving at a settlement automatically gets
+reinforced so far as a case under
+Section 138
+of the NI Act is
+concerned.
+XI.     Mediation and Conciliation Rules, 2004 - notified the Delhi
+        High Court
+74.     Mediation in Delhi is guided by the Mediation and Conciliation
+Rules, 2004. These Rules source the rule making power to "Part X
+and Clause (d) of sub-section (2) of
+Section 89
+"
+of the Code of Civil
+Procedure
+, 1908 as well as "all other powers enabling" the High Court
+of Delhi to make such Rules.
+75.     The Delhi Mediation and Conciliation Rules, 2004 apply to all
+mediations and conciliations connected with "any suit or other
+proceedings pending in the High Court of Delhi or in any other court
+subordinate to the High Court of Delhi". These rules further state that
+mediation in respect of any "suit or proceeding pending before the
+High Court or any other court or tribunal" may be referred to the
+Delhi High Court Mediation and Conciliation Centre or any other
+mediation centre set up by the
+Legal Services Authorities Act, 1987
+.
+76.     In this regard, we may advert to
+Article 227
+of the Constitution
+of India as well as
+Section 477
+of the Cr.P.C. which enables the High
+Court to make such rules.
+Crl.Ref.No.1/2016                                      Page 56 of 89
+77.     The Mediation and Conciliation Rules, 2004 stand notified by
+the High Court of Delhi which would guide the process to be followed
+even in references to mediation arising under
+Section 138
+of the N.I.
+Act.
+XII. Impact of settlement of disputes in a complaint under
+Section
+     138
+Negotiable Instruments Act by virtue of Lok Adalat under
+     the
+Legal Services Authorities Act
+, 1987
+78.     Given the reference under examination, it is therefore, necessary
+to examine what would be the impact of a settlement of disputes in a
+complaint under
+Section 138
+of the NI Act before the Lok Adalat
+constituted under the
+Legal Services Authorities Act, 1987
+? This
+issue was the subject matter of consideration before the Supreme
+Court in the judgment reported at (
+2012) 2 SCC 51, K. Govindam
+Kutty Menon v. C.D. Shaji
+. The Kerala High Court had taken a view
+that when a criminal case is settled at a Lok Adalat, the award passed
+by it has to be treated only as an order of the criminal court and that it
+cannot be executed as a decree of the civil court. This finding was
+overturned by the Supreme Court. We extract hereunder the
+observations of the Supreme Court in paras 12, 13 and 26 :
+"12. Unfortunately, the said argument was not acceptable
+        to the High Court. On the other hand, the High Court has
+        concluded that when a criminal case is referred to the Lok
+        Adalat and it is settled at the Lok Adalat, the award
+        passed has to be treated only as an order of that criminal
+        court and it cannot be executed as a decree of the civil
+        court. After saying so, the High Court finally concluded
+        that "an award passed by the Lok Adalat on reference of a
+        criminal case by the criminal court as already concluded
+        can only be construed as an order by the criminal court
+Crl.Ref.No.1/2016                                       Page 57 of 89
+and it is not a decree passed by a civil court" and
+        confirmed the order of the Principal Munsif who declined
+        the request of the petitioner therein to execute the award
+        passed by the Lok Adalat on reference of a complaint by the
+        criminal court.
+13. On going through the Statement of Objects and
+        Reasons, definition of "court", "legal service" as well as
+Section 21
+of the Act, in addition to the reasons given
+        hereunder, we are of the view that the interpretation
+        adopted by the Kerala High Court in the impugned order
+        is erroneous.
+xxx                       xxx                      xxx
+26. From the above discussion, the following propositions
+        emerge:
+(1) In view of the unambiguous language of
+Section 21
+of the Act, every award of the Lok Adalat shall be
+            deemed to be a decree of a civil court and as such it is
+            executable by that court.
+(2)
+The Act
+does not make out any such distinction
+            between the reference made by a civil court and a
+            criminal court.
+(3) There is no restriction on the power of the Lok
+            Adalat to pass an award based on the compromise
+            arrived at between the parties in respect of cases
+            referred to by various courts (both civil and criminal),
+            tribunals, Family Court, Rent Control Court, Consumer
+            Redressal Forum, Motor Accidents Claims Tribunal and
+            other forums of similar nature.
+(4) Even if a matter is referred by a criminal court
+            under
+Section 138
+of the Negotiable Instruments Act,
+            1881 and by virtue of the deeming provisions, the
+            award passed by the Lok Adalat based on a
+            compromise has to be treated as a decree capable of
+            execution by a civil court."
+(Emphasis by us)
+Crl.Ref.No.1/2016                                      Page 58 of 89
+79.     The judgment of the Supreme Court reported at (
+2014) 10 SCC
+690 Madhya Pradesh State Legal Services Authority v. Prateek Jain
+in Civil Appeal No. 8614/2014 decided on 10 th September, 2014, also
+brings forth that even when cases under
+Section 138
+of the NI Act
+were settled before the Lok Adalat, the guidelines in Damodar S.
+Prabhu are to be followed, with modifications, if any, qua reduction
+of costs if necessary. In para 23 of the judgment, the court stated the
+legal position thus :
+"23. Having regard thereto, we are of the opinion that even
+        when a case is decided in the Lok Adalat, the requirement of
+        following the Guidelines contained in
+Damodar S.
+        Prabhu [Damodar S. Prabhu v. Sayed Babalal H.
+, (2010) 5
+        SCC 663 : (2010) 2 SCC (Civ) 520 : (2010) 2 SCC (Cri)
+        1328] should normally not be dispensed with.
+However, if
+        there is a special/specific reason to deviate therefrom, the
+        court is not remediless as
+Damodar S. Prabhu [Damodar S.
+        Prabhu v. Sayed Babalal H.
+, (2010) 5 SCC 663 : (2010) 2
+        SCC (Civ) 520 : (2010) 2 SCC (Cri) 1328] itself has given
+        discretion to the court concerned to reduce the costs with
+        regard to specific facts and circumstances of the case, while
+        recording reasons in writing about such variance. Therefore,
+        in those matters where the case has to be decided/settled in
+        the Lok Adalat, if the court finds that it is a result of positive
+        attitude of the parties, in such appropriate cases, the court
+        can always reduce the costs by imposing minimal costs or
+        even waive the same. For that, it would be for the parties,
+        particularly the accused person, to make out a plausible case
+        for the waiver/reduction of costs and to convince the court
+        concerned about the same.
+This course of action, according
+        to us, would strike a balance between the two competing but
+        equally important interests, namely, achieving the objectives
+        delineated     in
+Damodar       S.     Prabhu [Damodar          S.
+        Prabhu v. Sayed Babalal H.
+, (2010) 5 SCC 663 : (2010) 2
+        SCC (Civ) 520 : (2010) 2 SCC (Cri) 1328] on the one hand
+Crl.Ref.No.1/2016                                         Page 59 of 89
+and the public interest which is sought to be achieved by
+        encouraging settlements/resolution of case through the Lok
+        Adalats on the other hand."
+(Emphasis by us)
+80.     The Supreme Court has thus declared the legal position that the
+Legal Services Authorities Act
+did not make out any distinction
+between the reference made by a civil court and a criminal court.
+Upon settlement before the Lok Adalat even in a criminal case, the
+award of the Lok Adalat has to be treated as a decree capable of
+execution by a civil court. The guidelines contained in Damodar S.
+Prabhu are required to be followed even upon such settlement subject
+to the discretion to the court concerned to reduce/wave the costs with
+regard to the specific facts and circumstances of the case.
+XIII. What is the procedure to be followed if in a complaint case
+      under
+Section 138
+of the NI Act, a settlement is reached in
+      mediation?
+81.     So what would be the appropriate procedure for recording a
+settlement reached by the parties upon their referral to mediation
+during the pendency of a complaint under
+Section 138
+of the NI Act?
+82.     The above discussion would show that proceedings under
+Section 138
+of the NI Act stand categorized as quasi-civil. In order to
+provide meaningful interpretation and to do complete justice in such
+proceedings, criminal courts are known to have often utilized the
+principles in
+the Code of Civil Procedure
+in such cases. These include
+the summary proceedings for maintenance under Section 125 of the
+Cr.P.C. as well as the proceedings under Section 145 of the Cr.P.C.
+Crl.Ref.No.1/2016                                      Page 60 of 89
+83.     In this regard, reference may usefully be made to a judgment of
+the      High       Court   of   Madhya       Pradesh      reported      at
+MANU/MP/1150/2012, Sunitabai v. Narayan. The court in this
+revision petition was considering a challenge to a trial court order
+rejecting an application for amendment of pleadings in proceedings
+under
+Section 125
+of the Cr.P.C. While considering the permissibility
+of amendment of the petition under
+Section 125
+of the Cr.P.C., the
+court held thus :
+"06. As per settled preposition, the proceeding under
+Section
+        125
+of the Cr.P.C. is treated to be a quasi-civil proceeding
+        and in such premises, the provisions of
+Order 6 Rule 17 of
+        the CPC
+or some other provision of such Code could not be
+        applied strictly but whenever the specific provision in this
+        regard is not available in the special enactment then in that
+        position, Court may adopt the principal (sic:principle) laid
+        down by the Apex Court either in the civil case or in the
+        criminal case.
+In such premises, if the present matter is
+        examined in the light of the decision of the Apex Court in the
+        matter     of
+P.   Venkateswarlu v. Motor       &     General
+        Traders
+reported in AIR 1975 Supreme Court 1409 holding
+        that the parties have right to amend the pleadings on the
+        basis of the subsequent event which has come into existence
+        during pendency of the suit, then the aforesaid application of
+        amendment deserves to be allowed by allowing this
+        revision."
+(Emphasis by us)
+        Thus the court permitted application of the principles which
+bind a civil court regarding amendment of pleadings, to proceedings
+under
+Section 125
+of the Cr.P.C. treated as quasi civil in nature and
+permitted its amendment.
+Crl.Ref.No.1/2016                                       Page 61 of 89
+84.
+In a decision dated 3rd February, 2010 in Crl.R.C.No.780/2006
+entitled
+Chinnappaiyan v. Chinnathayee
+, a Single Judge of the
+Madras High Court held that:
+"...though a petition under
+Section 125 (1)
+of the Code is
+        made before the criminal court - as defined under
+Section
+        6
+of the Code essentially, the right that is decided by the
+        said Court is purely civil in nature. Therefore,
+        undoubtedly, the order made by the Magistrate
+        under
+Section 125 (1)
+of the Code for maintenance is the
+        culmination of such a civil right of an individual.
+        But,
+Section 125(3)
+of the Code empowers the Court to
+        impose a sentence of imprisonment, in the event of failure
+        to obey such order made under
+Section 125(1)
+of the Code.
+        To this extent, the proceeding is criminal in nature. To put
+        it comprehensively, a proceeding initiated under
+Section
+        125
+of the Code is quasi-civil and quasi-criminal. The
+        Hon'ble Supreme Court has held so in several judgments.
+        Regarding the procedure for making claim before the Court
+        for maintenance, what is filed under
+Section 125 (1)
+of the
+        Code is pure and simple a petition and not a complaint as
+        defined in
+Section 2(d)
+of the Code. This would again
+        indicate that a proceeding under
+Section 125
+of the Code
+        is treated as a quasi-civil and quasi criminal proceeding."
+(Emphasis furnished)
+85.
+In the context of proceedings under
+Section 145
+of the Cr.P.C.,
+in 1963
+CriLJ 491, Madansetty Tirpataiah v. Stats S.I.P. Atmakur
+,
+the High Court of Andhra Pradesh was considering a revision petition
+challenging the order of the Sub-Divisional Magistrate whereby the
+petitioner's application for inter alia filing additional documents was
+rejected. The court was therefore, called upon to rule on jurisdiction
+of the SDM to permit filing of documents at a late stage. While
+Crl.Ref.No.1/2016                                      Page 62 of 89
+considering such question, the court also observed on the nature of the
+proceedings and held thus :
+"6. Further, to my mind, proceedings under
+Section 145
+of
+        the Cr PC are more or less of a quasi-civil nature. So that
+        on analogy of Civil Suit, in cases under this Section if
+        within the time fixed by the Magistrate, the party is not in a
+        position to file documents in his possession which support
+        his claim, and he is able to satisfy the Court that for
+        sufficient and valid reasons he could not file the said
+        documents with in the prescribed time, it would be open to
+        the Magistrate in the ends of justice to allow a party to file
+        the said documents.
+7. It is no doubt true that there is no provision in the
+Criminal Procedure Code
+analogous to Civil Procedure,
+        for filing of documents at a late stage, but having regard
+        to the nature of the proceedings in the ends of justice such
+        exercise of discretion cannot entirely be ruled out.
+xxx                 xxx                xxx."
+                              (Emphasis by us)
+86.     Thus courts have had regard to the nature of proceedings, and,
+wherever found that criminal proceedings are really quasi-civil in
+nature, so far as matters of procedure is concerned, consistently
+expanded the limits of specific statutory prescription in order to do
+complete justice between the parties, keeping in mind the elements of
+public interest as well as the spirit, object and intendment of the
+legislation.
+87.     In the present case, other than the settlement agreement, there is
+no judicial order of any court that binds the respondent to honour the
+settlement arrived at during mediation.
+Crl.Ref.No.1/2016                                        Page 63 of 89
+88.     It is reported that even if a mediated settlement agreement is
+reached, generally criminal complaints under
+Section 138
+of the NI
+Act are withdrawn/compounded by the complainants only after receipt
+of the entire amount(s) agreed as part of the settlement. The criminal
+courts thus necessarily have to keep the complaint pending, awaiting
+the implementation of the negotiated settlement.
+89.     The present reference manifests that in the event of breach of
+the settlement, the courts have to recommence proceedings on merits
+and the evidentiary/legal value of the mediated settlement remains
+undetermined. This has enabled many accused to divert the complaint
+to mediation only with the intent to effectively delay the proceedings
+under
+Section 138
+of the NI Act.
+90.     Mr. Siddharth Aggarwal, ld. amicus curiae has placed certain
+judicial precedents on this aspect before us. In (2013) SCC OnLine
+Del 124, Hardeep Bajaj v. ICICI Bank Ltd., the petitioner had
+entered into an amicable settlement dated 26th May, 2012 for payment
+to the respondent bank in mediation undertaken during the pendency
+of the complaint under
+Section 138
+of the NI Act to make payment of
+Rs.9,08,800/- in full and final settlement of the bank claim in monthly
+installments of Rs.1,50,000/- commencing from 26th May, 2012, the
+last of which was payable on 26th October, 2012. Without abiding
+with the settlement, the petitioner approached the ld. MM for
+modifying the settlement. The ld. MM noticed that the petitioner had
+violated the successive undertakings given by him and dismissed the
+application for modification with costs. The petitioner approached
+Crl.Ref.No.1/2016                                     Page 64 of 89
+this court by way of a revision petition which was dismissed. In para
+10 of the judgment, the ld. Single Judge of this court has noted that
+"once the settlement reached is accepted by the court or an
+undertaking is given, it becomes binding on the parties".
+91.     In (2015) SCC OnLine Del 7309, Manoj Chandak v. Tour
+Lovers Tourism (India) Pvt. Ltd., the respondent failed to honour the
+mediated settlement dated 26th July, 2013 reached in complaints under
+Section 138
+of the NI Act, 1881. Instead, after three months, it filed
+an application for reconsideration of the settlement on the ground that
+the signatures of its authorized representatives were forcibly obtained
+and that he had no instructions to agree to the terms of the settlement.
+This application was allowed by the trial court by the order dated 25 th
+April, 2014 and the parties were again referred to mediation. A
+challenge was laid regarding the voluntariness of the mediated
+settlement.         The learned Single Judge therefore, held that "since
+question of fact are being raised regarding voluntariness of the
+mediated settlement, therefore, it would be appropriate that an
+opportunity is granted by trial court to respondents to lead evidence to
+show that the mediated settlement was not a voluntary one".
+92.
+In yet another pronouncement reported at (2015) SCC OnLine
+Del 9334, M/s
+Arun International v. State of Delhi & Anr.
+, a
+settlement regarding the subject matter of the complaint under
+Section
+138
+of the NI Act was reached before the Court annexed mediation
+centre in the Rohini District Courts which was placed before the
+magistrate in the pending proceedings.          The court recorded the
+Crl.Ref.No.1/2016                                       Page 65 of 89
+statement of the respondent no.2 admitting the claim of the
+complainant and seeking an adjournment to pay the agreed amount.
+Two years were sought by the respondent no.2 from the the 25th
+November, 2013 being the date of making of the statement before the
+ld. Metropolitan Magistrate.
+Vide order dated 16th February, 2015, the
+ld. Metropolitan Magistrate returned the complaints for want of
+territorial jurisdiction, in view of the ratio of the Supreme Court in the
+pronouncement of
+Dashrath Rupsingh Rathore v. State
+.                The ld.
+Single Judge held that the order dated 16th February, 2015 was illegal
+and contrary to law, in view of the fact that the matter stood settled
+before the Mediation Centre as also that the decision in Dashrath
+Rupsingh Rathore was inapplicable, the complaint cases having gone
+to the stage of
+Section 145(2)
+of the Cr.P.C. In para 7, the learned
+Single Judge had observed that "it is settled law and even otherwise
+the settlement of the mediation as well is deemed to be a decree and
+cannot be challenged".
+In view of the above enunciation of the law, this position is not
+legally correct.
+93.     Our attention is also drawn to the pronouncement of the ld.
+Single Judge of the Kerala High Court in the judgment reported at
+(
+2014) 3 KLJ 637, Sreelal v. Murali Menon & Anr. The
+petitioner in
+this case was the complainant in a complaint under
+Section 138
+of the
+NI Act. On the date for evidence, on the request of the accused, the
+matter was referred for mediation where a settlement dated 17th
+February, 2014 was reached and six months time was given for
+Crl.Ref.No.1/2016                                       Page 66 of 89
+payment. In the settlement, the parties had agreed that in default, the
+complainant was allowed to proceed with the case and, if the amount
+was paid, then the complainant would have to withdraw the case.
+While the petitioner/complainant was willing to wait the agreed period
+for payment, the respondent was insisting that the mediated agreement
+had the effect of an award; that the petitioner was not entitled to
+proceed with the case; and that his remedy was to execute the
+agreement as if it was an award under the
+Legal Services Act
+. In paras
+12 and 13 of the judgment, the court has explained the alternative
+dispute resolution process in cases under
+Section 138
+of the NI Act
+thus :
+"12. Then, the question is what is to effect of mediation
+         agreement in a criminal matter. Admittedly, if the matter is
+         referred for mediation, the mediator is not acting neither
+         as Adalath nor as an Arbitrator or Conciliator to resolve
+         the disputes by passing an award either under the
+         provisions of
+Legal Services Authorities Act
+or under the
+         provisions of the
+Arbitration and Conciliation Act
+. Even if,
+         the matter is referred in a civil case for mediation under
+S.
+         89
+of the Code of Civil Procedure, even then, the mediator
+         is not passing any judgment, but he is only facilitating the
+         parties to arrive at the settlement and help them to draw the
+         mediation agreement and after the agreement is signed by
+         the parties, and counter signed by the Advocates, then, it
+         will be forwarded to the Court which referred the matter
+         and that Court will pass a decree on the basis of the
+         agreement applying the principle under O. 23 R. 3
+of
+         Code of Civil Procedure
+accordingly. Till, the seal of the
+         court is affixed on the agreement, and a decree is passed
+         on that basis that agreement, it has no legal effect in the
+         eye of law. So, even if a mediation agreement reaches the
+         criminal court, agreeing to settle the issue on certain
+Crl.Ref.No.1/2016                                        Page 67 of 89
+terms, the criminal court cannot rely on that agreement
+        and pass a civil decree, relegating the parties to get the
+        amount realized by filing execution petition before the Civil
+        Court and it can only on the basis of the evidence either
+        convict or acquit the accused and if the case is
+        compounded, if it is a compoundable offence, then it can
+        record compounding and that compounding will have the
+        effect of an acquittal under
+S. 320(8)
+of Code of Criminal
+        Procedure.
+13. Further, the counsel for the respondent relied on the
+        decision reported in Govindankutty Metion v. Shaji (2011
+        (4) KLT 857 (SC)) and argued that since the matter is
+        referred for mediation and the parties have settled the
+        dispute in the mediation, then it will have the effect of a
+        civil decree and the complainant cannot proceed with the
+        criminal case and he can only execute the award as though
+        it is a civil decree.
+It is true that in the decision relied on by
+        the counsel for the respondent namely,
+Govindankutty
+        Menon
+'s case (supra), the Hon'ble Supreme Court has held
+        that if the case under
+S. 138
+of the Negotiable Instruments
+        Act is referred to Adalath by a criminal court and if the
+        matter is settled in the Adalath, then by virtue of the
+        deeming provision, an award passed by the Adalath based
+        on the compromise has to be treated as a decree capable
+        of execution by a civil court. In that case, a case under
+S.
+        138
+of the Negotiable Instruments Act was referred to
+        Adalath constituted under the
+Legal Services Authorities
+        Act
+by a Criminal Court and in the Adalath, parties have
+        agreed on terms and provided time for payment of the
+        amount and that compromise was recorded and
+        accordingly an award was passed in the Adalath and the
+        criminal case was closed. When, the complainant filed an
+        execution petition before the Munsiff s Court for realisation
+        of the amount and the Munsiff dismissed the execution
+        petition on the ground that Criminal Court cannot pass a
+        civil decree even in Adalath which was affirmed by this
+        court but when that was challenged before the Hon'ble
+        Supreme Court, the Hon'ble Supreme Court reversed the
+Crl.Ref.No.1/2016                                           Page 68 of 89
+finding and held that by virtue of the deeming provision
+         under
+S. 21
+of the Legal Services Authorities Act, even, in
+         cases under
+S. 138
+of the Negotiable Instruments Act if a
+         compromise was accepted and an award has been passed
+         in the Adalath, then that will have the effect of a civil
+         decree and that can be executed through civil court as
+         though it is a decree of a civil court. The facts are different
+         in this case as already discussed, the mediation cannot be
+         treated at par with Lok Adalath as mediator has no power
+         to pass any award as provided under the
+Legal Services
+         Authorities Act
+. So the dictum is not applicable to the
+         facts in this case."
+(Emphasis by us)
+         In view of the position in legislation, the court had declared the
+correct legal position that mediation cannot be treated at par with the
+Lok Adalat and that the mediator has no power to pass an award as a
+Lok Adalat which is deemed to be a decree under the
+Legal Service
+Authority Act, 1987
+.
+94.      In para 14, the Kerala High Court considered the question as to
+whether such agreement could be treated as evidence in a criminal
+matter. While answering this question, it was observed by the court
+that even if the complainant had agreed in the mediation to settle the
+matter for a lesser amount than the amount mentioned in the cheque, it
+could not be said that the actual amount due is the amount agreed in
+the mediation. Para 14 of the judgment reads as follows :
+"14. Then, the question is whether the agreement entered into
+      between the parties in a mediation can be treated as evidence
+      in a criminal matter. It may be mentioned here, unless the
+      agreement is accepted by the court and a decree is passed
+      under
+S. 89
+of the Code of Criminal Procedure r/w O. 23 R. 3
+Crl.Ref.No.1/2016                                         Page 69 of 89
+of Code of Civil Procedure
+, that will have no effect, unless
+    that has been converted into a conciliation agreement based
+    on which an award is passed by the Conciliator under the
+    provisions of the
+Arbitration and Conciliation Act
+. Further, it
+    is the cardinal principle in the mediation that whatever
+    transpired in the mediation cannot be disclosed even before the
+    court of law and that cannot be called upon to be produced as
+    evidence as well as it will affect the confidentiality of the things
+    transpired in the process of mediation. So the party who did not
+    honour the settlement which was effected in the process of
+    mediation, then, is not entitled to use the same as evidence
+    before the court and agreement also cannot be marked in
+    evidence as it has no legal effect unless it is accepted by the
+    court and a decree is passed under
+S. 89
+r/w O. 23 R. 3
+of the
+    Code of Civil Procedure
+. That cannot be possible in a
+    Criminal Court. Further even if the party had agreed to settle
+    the matter for a lesser amount than the amount mentioned in
+    the cheque in the mediation, it cannot be said that, that was the
+    amount payable as in the mediation, parties can forgo so many
+    things for the purpose of achieving harmony between the
+    parties and restore their relationship. So the amounts arrived
+    in a mediation also cannot be used as evidence for coming to
+    the conclusion that the amount mentioned in the cheque is
+    not the real amount due, and the complainant is not entitled
+    to maintain the action on the basis of that cheque. The court
+    has to allow the parties to adduce evidence ignoring the
+    mediation agreement and dispose of the case on the basis of
+    evidence adduced by parties as it should not be put in evidence
+    in view of the bar under rules 20, 21 and 22 of the Civil
+    Procedure (Alternative Disputes Resolution) Rules Kerala 2008
+    which reads as follows:--
+Rule 20:-- Confidentiality, disclosure and inadmissibility
+       of information--
+(1) The mediator shall not disclose confidential
+              information concerning the dispute received from any
+              party to the proceedings unless permitted in writing
+              by the said party.
+Crl.Ref.No.1/2016                                        Page 70 of 89
+(2) Parties shall maintain confidentiality in respect of
+               events that transpired during mediation and shall not
+               rely on or introduce the said information in any other
+               proceedings as to:
+(a) views expressed by a party in the course of the
+                  mediation proceedings;
+(b) documents obtained during the mediation which
+                  were expressly required to be treated as
+                  confidential or other notes, drafts or information
+                  given by parties or mediators;
+(c) Proposals made or views expressed by the
+                  mediator.
+(d) Admission made by a party in the course of
+                  mediation proceedings.
+(e) The fact that a party had or had not indicated
+                  willingness to accept a proposal.
+(3) There shall be no stenographic or audio or video
+               recording of the mediation proceedings.
+Rule 21:-- Privacy- Mediation sessions and meetings are
+        private; only the concerned parties or their counsel or
+        authorised representatives can attend. Other persons may
+        attend only with the permission of the parties or with the
+        consent of the mediator.
+Rule 22:-- Immunity- No mediator shall be held liable for
+        anything bona fide or omitted to be done by him during the
+        mediation proceedings for civil or criminal action nor shall
+        he be summoned by any party to the suit to appear in a court
+        of law to testify in regard to information received by him or
+        action taken by him or in respect of drafts or records
+        prepared by him or shown to him during the mediation
+        proceedings."
+95.     It was held by the court that the agreement arrived at in the
+mediation cannot be used as the evidence to contend that the amount
+mentioned in the cheque was not the real amount.                 In these
+Crl.Ref.No.1/2016                                      Page 71 of 89
+circumstances, the party violating the mediation agreement, cannot use
+the same as evidence before the court and that the agreement has no
+legal effect unless it has been "accepted by the court and a decree is
+passed under
+Section 89
+r/w
+Order 23 Rule 3 of the Code of Civil
+Procedure
+." which was not possible in a criminal court.
+96.     So far as mediation in Delhi is concerned, in the "Mediation
+and Conciliation Rules, 2004", Rule 20 is concerned with
+"confidentiality, disclosure and inadmissibility of information",
+Rule 21 mandates privacy in the mediation sessions while Rule 22
+prescribes immunity from civil/criminal proceedings to the mediator
+for anything done bona fide or omitted to be done during the
+mediation proceedings.
+97.     In cases under
+Section 138
+of the NI Act, judicial reinforcement
+of this sound principle is to be found in the encouragement by the
+Supreme Court to settlements of the disputes between parties at early
+stages. This is in keeping with the legislative mandate of
+Section 147
+,
+so that the spirit, intendment and object of this statutory provision can
+be effectively realized.
+98.     We have noted above that
+Section 147
+of the NI Act has made
+the offence under
+Section 138
+of the NI Act compoundable.
+Proceedings under
+Section 138
+of the NI Act have been considered as
+quasi civil by the courts. Therefore, in principle, the procedure which
+applies to recording a settlement in civil cases could guide the
+procedure to be followed and be applied for recording a settlement
+between the parties to a complaint under
+Section 138
+of the NI Act.
+Crl.Ref.No.1/2016                                      Page 72 of 89
+Guidance on this aspect is provided by the provisions of
+Order XXIII
+Rule 3 of the CPC
+and the practice followed by the civil courts upon a
+compromise arrived at between the parties to a suit.
+99.     So far as the statutory provision is concerned,
+Order XXIII Rule
+3 of the CPC
+reads as follows :
+"3. Compromise of suit.- Where it is proved to the
+        satisfaction of the court that a suit has been adjusted wholly
+        or in part by any lawful agreement or compromise in
+        writing and signed by the parties, or where the defendant
+        satisfies the plaintiff in respect of the whole or any part of
+        the subject matter of the suit, the court shall order such
+        agreement, compromise or satisfaction to be recorded, and
+        shall pass a decree in accordance therewith so far as it
+        relates to the parties to the suit, whether or not the subject
+        matter of the agreement, compromise or satisfaction is the
+        same as the subject matter of the suit: -
+Provided that where it is alleged by one party and denied by
+        the other than an adjustment or satisfaction has been
+        arrived at, the court shall decide the question; but no
+        adjournment shall be granted for the purpose of deciding the
+        question, unless the court, for reasons to be recorded, thinks
+        fit to grant such adjournment."
+(Emphasis by us)
+100. The
+Code of Criminal Procedure
+as well as the
+NI Act
+have
+provided only for compounding of offences. No procedure regarding
+the manner in which a settlement agreement required to be placed or
+considered by the court has been provided.
+101. Reference can usefully be made to certain pronouncements
+under
+the Code of Civil Procedure
+, wherein the Legislature has
+Crl.Ref.No.1/2016                                       Page 73 of 89
+provided Rule 3 of Order XXIII, which specifically provides for
+"Compromise of suits". The Legislature has prescripted that if it is
+"proved to the satisfaction of the court" that a suit has been adjusted
+wholly or in part by any "lawful agreement or compromise in writing
+and signed by the parties", the court shall order such agreement or
+compromise to be recorded and shall pass a decree in accordance
+thereof, so far as it relates to the parties in the suit. It is important to
+note that
+Order XXIII Rule 3 of the CPC
+permits the consideration of
+the agreement, whether or not the subject matter of the agreement or
+compromise is the same as the subject matter of the suit. While
+the
+Code of Civil Procedure
+would have no application to the proceedings
+which are guided by the
+Criminal Procedure Code
+, however, given the
+legislative vacuum, there appears to be no reason as to why the
+principles which apply to consideration of a settlement under
+Order
+XXIII Rule 3 of the CPC
+cannot be applied for consideration of a
+settlement which is the subject matter of consideration by a court
+under
+Section 320
+of the Cr.P.C. or
+Section 147
+of the NI Act. The
+principles of Rule 3 or
+Order XXIII of the C.P.C
+., as laid in judicial
+pronouncements, can be summarized thus:
+(i)     For a compromise to be held to be binding, it has to be signed
+         either by the parties or by their counsels or both, failing which
+Order XXIII Rule 3 of the CPC
+would not be applicable.
+(Ref. : (
+1988) 1 SCC 270, Gurpreet Singh v. Chatur Bhuj
+         Goel
+; (
+2009) 6 SCC 194, Sneh Gupta v. Devi Sarup & Ors
+.)
+Crl.Ref.No.1/2016                                        Page 74 of 89
+(ii)
+Order XXIII Rule 3 of the CPC
+casts an obligation on the court
+         to be satisfied that the settlement agreement is lawful and is in
+         writing and signed by the parties or by their counsels.
+         (Ref. : (
+1978) 2 SCC 179, Suleman Noormohamed & Ors. v.
+         Umarbhai Janubhai
+; (
+2006) 1 SCC 148, Amteshwar Anand v.
+         Virender Mohan Singh & Ors.
+).
+(iii)   An obligation is cast on the court under
+Order XXIII Rule 3 of
+         the CPC
+to order the agreement to be recorded and pass a
+         decree in accordance thereof.
+(Ref. : (
+2006) 1 SCC 148, Amteshwar Anand v. Virender
+         Mohan Singh & Ors.
+(paras 26 and 27)).
+(iv)    A consent decree is really a contract between the parties with
+         the seal of the court superadded to it.
+(Ref. : (
+1969) 2 SCC 201, Baldevdas Shivlal & Anr. v.
+         Filmistan Distributors (India) P. Ltd. & Ors.
+; (
+2002) 100
+         DLT 278, Hindustan Motors Ltd. v Amritpal Singh Nayar &
+         Anr.
+; (
+2007) 14 SCC 318, Parayya Allayya Hittalamani v. Sri
+         Parayya Gurulingayya Poojari & Ors.
+).
+(v)     A consent decree may operate as an estoppel as well.
+[Ref. :
+AIR 1956 SC 346, Raja Sri Sailendra Narayan Bhanja
+         Deo v. State of Orissa
+; (
+2007) 14 SCC 318, Parayya Allayya
+         Hittalamani v. Sri Parayya Gurulingayya Poojari & Ors.
+(para 15)].
+Crl.Ref.No.1/2016                                       Page 75 of 89
+102. The practice followed by the civil court before whom the
+settlement in writing, duly signed by the parties, is placed, is to record
+the statements of parties confirming that the settlement was entered
+into voluntarily, without any force, pressure or undue influence; that it
+contained the actual terms of the settlement; and undertakings of the
+parties to remain bound by the terms thereof. Upon being satisfied
+that the settlement was voluntary and lawful, the civil court takes it on
+record accepting the undertaking and passing a decree in terms
+thereof.
+103. In the pronouncement of the Allahabad High Court reported at
+AIR 1930 All 409 : 1929 SCC OnLine All 140, Emperor v. Jhangtoo
+Barai & Anr., the court was considering whether there was in fact a
+composition of the offence or not? It was observed that the best
+possible evidence was that of the document signed by the parties
+which was in the handwriting of the complainant himself that the
+composition was correct. In para 6, it was also observed that if all the
+parties were present in court, it was entirely unnecessary for any
+verification of such composition. The court noted that "The
+complainant was literate. He signed the document in his own writing.
+It must presumed, unless it is proved to the contrary, that the
+complainant well understood the one small paragraph that appeared
+in the document. In any case, the only verification that was required
+was a simple question to the parties whether they signed the document
+and whether they understood its contents. There can be no doubt that
+on that day there was a valid composition within the meaning of
+Crl.Ref.No.1/2016                                       Page 76 of 89
+section 345
+of the Code of Criminal Procedure before the court. It was
+therefore the duty of the Magistrate upon that day, and without any
+unnecessary delay, to have pronounced an acquittal. I am clear that it
+is incompetent for any person, once having entered into a valid
+composition, to withdraw from it."
+104. Binding the parties to a settlement agreement entered into
+through a formal mediation process and being held accountable for
+honouring the same is really enforcing the legislative mandate in
+enacting
+Sections 138
+and
+147
+of the NI Act i.e. to ensure an
+expeditious time bound remedy for recovery of the cheque amounts.
+Breach of a lawful entered agreement would not only frustrate the
+parties to the mediation, but would be opposed to the spirit,
+intendment and purpose of
+Section 138
+of the NI Act and would defeat
+the ends of justice. The courts cannot permit use of mediation as a
+tool to abuse judicial process.
+105. There is no legal prohibition upon a criminal court seized of
+such complaint, to whom a mediated settlement is reported, from
+adopting the above procedure. Application of the above enunciation
+of law to a mediation arising out of a criminal case manifests that a
+settlement agreement would require to be in writing and signed by the
+parties or their counsels. The same has to be placed before the court
+which has to be satisfied that the agreement was lawful and consent of
+the parties was voluntary and not obtained because of any force,
+pressure or undue influence. Therefore, the court would record the
+statement of the parties or their authorized agents on oath affirming
+Crl.Ref.No.1/2016                                    Page 77 of 89
+the settlement, its voluntariness and their undertaking to abide by it in
+the manner followed by the civil court when considering a settlement
+placed before it under
+Order XXIII Rule 3 of the CPC
+. The court
+would thereafter pass an appropriate order accepting the agreement,
+incorporating the terms of the settlement regarding payment under
+Section 147
+of the NI Act and the undertakings of the parties. The
+court taking on record the settlement stands empowered to make the
+consequential and further direction to the respondent to pay the money
+in terms of the mediated settlement and also direct that the parties
+would remain bound by the terms thereof.
+106. In having so proceeded, there is a satisfaction of the
+voluntariness and legality of the terms of the settlement of the court
+and acceptance of the terms thereof as well as a specific order in terms
+thereof.     Consequently, the amount payable under the settlement,
+would become an amount payable under an order of the criminal
+court.
+107. So far as the disputes beyond the subject matter of the litigation
+is concerned, upon the settlement receiving imprimatur of the court,
+such settlement would remain binding upon the parties and if so
+ordered, would be subject to the orders of the court.
+XIV. Breach of such settlement accepted by the court -
+consequences?
+108. The instant reference has resulted because of the failure of the
+court to have recorded the settlement and undertakings binding the
+accused person in the complaint under
+Section 138
+of the NI Act to
+Crl.Ref.No.1/2016                                       Page 78 of 89
+abide by the settlement arrived at during mediation. There can be no
+manner of doubt that once a settlement is reported to the court and
+made the basis of seeking the court's indulgence, the parties ought not
+to be able to resile from such a position. So what is the remedy
+available to a complainant if the respondent commits breach of the
+mediation settlement and defaults in making the agreed payments?
+109. Let us examine as to whether the legislature has provided any
+mechanism in the
+Cr.P.C
+. for recovery of monetary amounts.
+110. We have extracted
+Section 421
+of the Cr.P.C. above which
+provides the mechanism to recover fines, by issuing a warrant for the
+levy of the amount by attachment and sale of any movable property
+belonging to the offender and/or by issuing a warrant authorizing the
+realization of amounts as arrears of land revenue from movable and
+immovable property of the defaulter.
+111. In the event of either party resiling from the agreed upon
+settlement which has received the imprimatur of the court, the party
+attempting to breach the settlement and undertaking cannot be
+permitted to avoid making the payment. Such party also should not be
+allowed to violate such undertaking given to the opposite side as well
+as the court.
+112. In (2009) 6 SCC 652, Vijayan v. Sadanandan K. & Anr., it was
+held that Section 431 read with
+Section 421
+of the Cr.P.C. is
+applicable to recovery of compensation ordered under Section 357(5).
+Crl.Ref.No.1/2016                                     Page 79 of 89
+113. Section 431 Cr.P.C., also extracted above, provides if any
+money, other than a fine, is payable by virtue of any order made under
+the Cr.P.C., the method of recovery whereof is not expressly provided
+for, shall be recoverable in terms of Section 421 Cr.P.C.
+114. In the event that a criminal court passes order accepting the
+mediated settlement between the parties and directs the accused to
+make payment in terms thereof, the settlement amount becomes
+payable under the order of the court. Such order having been passed
+in proceedings under Section 138 of the NI Act, would be an order
+under Section 147 of the NI Act and Section 320 of the Cr.P.C.
+115. In proceedings where settlement is permitted under
+Section 320
+of the Cr.P.C., it would be an order thereunder.
+116. Where proceedings are disposed on settlement terms by the
+High Court, it would be an order passed in exercise of jurisdiction
+under Section 482 of the Cr.P.C. Upon breach of such order and non-
+payment of the agreed amounts, the same may be recoverable in terms
+of Section 431 read with Section 421 Cr.P.C.
+117. In addition, if the party has tendered an undertaking to abide by
+the terms of the agreement, which stands accepted by the court, in the
+event of breach of the undertaking, action and consequences under the
+Contempt of Courts Act
+could also follow.
+Crl.Ref.No.1/2016                                     Page 80 of 89
+XV. Reference answered
+118. In view of the above, the reference made by the ld. Metropolitan
+Magistrate by the order dated 13th January, 2016 (extracted in para 1
+above) is answered thus :
+Question I : What is the legality of referral of a criminal
+compoundable case (such as on
+u/s 138
+of the NI Act) to mediation?
+It is legal to refer a criminal compoundable case as one under
+Section 138
+of the NI Act to mediation.
+Question II : Can the Mediation and Conciliation Rules, 2004
+formulated in exercise of powers under
+the CPC
+, be imported and
+applied in criminal cases? If not, how to fill the legal vacuum? Is
+there a need for separate rules framed in this regard (possibly
+u/s
+477
+of the CrPC)?
+The Delhi Mediation and Conciliation Rules, 2004 issued in
+exercise of the rule making power under Part-10 and Clause (d) of
+sub-section (ii) of
+Section 89
+as well as all other powers enabling the
+High Court of Delhi to make such rules, applies to mediation arising
+out of civil as well as criminal cases.
+Question III : In cases where the dispute has already been referred
+to mediation - What is the procedure to be followed thereafter? Is
+the matter to be disposed of taking the very mediated settlement
+agreement to be evidence of compounding of the case and dispose of
+the case, or the same is to be kept pending, awaiting compliance
+thereof (for example, when the payments are spread over a long
+period of time, as is usually the case in such settlement agreements)?
+In the context of reference of the parties, in a case arising under
+Section 138
+of the NI Act, to mediation is concerned, the following
+procedure is required to be followed :
+Crl.Ref.No.1/2016                                        Page 81 of 89
+III (i)         When the respondent first enters appearance in a
+complaint under
+Section 138
+of the NI Act, before proceeding further
+with the case, the Magistrate may proceed to record admission and
+denial of documents in accordance with
+Section 294
+of the Cr.P.C.,
+and if satisfied, at any stage before the complaint is taken up for
+hearing, there exist elements of settlement, the magistrate shall inquire
+from the parties if they are open to exploring possibility of an
+amicable resolution of the disputes.
+III (ii)        If the parties are so inclined, they should be informed by
+the court of the various mechanisms available to them by which they
+can arrive at such settlement including out of court settlement; referral
+to Lok Adalat under the
+Legal Services Authorities Act, 1987
+; referral
+to the court annexed mediation centre; as well as conciliation under
+the
+Arbitration and Conciliation Act, 1996
+.
+III (iii)       Once the parties have chosen the appropriate mechanism
+which they would be willing to use to resolve their disputes, the court
+should refer the parties to such forum while stipulating the prescribed
+time period, within which the matter should be negotiated (ideally a
+period of six weeks) and the next date of hearing when the case should
+be again placed before the concerned court to enable it to monitor the
+progress and outcome of such negotiations.
+III (iv)        In the event that the parties seek reference to mediation,
+the court should list the matter before the concerned mediation
+centre/mediator on a fixed date directing the presence of the
+parties/authorized representatives before the mediator on the said date.
+Crl.Ref.No.1/2016                                        Page 82 of 89
+III (v)         If referred to mediation, the courts, as well as the
+mediators, should encourage parties to resolve their overall disputes,
+not confined to the case in which the reference is made or the subject
+matter of the criminal complaint which relates only to dishonouring of
+a particular cheque.
+III (vi)        The parties should endeavour to interact/discuss their
+individual resolutions/proposals with each other as well and facilitate
+as many interactions necessary for efficient resolution within the
+period granted by the court. The parties shall be directed to appear
+before the mediator in a time bound manner keeping in view the time
+period fixed by the magistrate.
+III (vii)       In the event that all parties seek extension of time beyond
+the initial six week period, the magistrate may, after considering the
+progress of the mediation proceedings, in the interest of justice, grant
+extension of time to the parties for facilitating the settlement. For the
+purposes of such extension, the magistrate may call for an interim
+report from the mediator, however keeping in mind the confidentiality
+attached to the mediation process. Upon being satisfied that bona fide
+and sincere efforts for settlement were being made by the parties, the
+magistrate may fix a reasonable time period for the parties to appear
+before the mediator appointing a next date of hearing for a report on
+the progress in the mediation. Such time period would depend on the
+facts and circumstances and is best left to the discretion of the
+magistrate who would appoint the same keeping in view the best
+interest of both parties.
+Crl.Ref.No.1/2016                                        Page 83 of 89
+Contents of the settlement
+
+III (viii)      If a settlement is reached during the mediation, the
+settlement agreement which is drawn-up must incorporate :
+(a) a clear stipulation as to the amount which is agreed to be
+        paid by the party;
+(b) a clear and simple mechanism/method of payment and the
+        manner and mode of payment;
+(c) undertakings of all parties to abide and be bound by the
+        terms of the settlement must be contained in the agreement to
+        ensure that the parties comply with the terms agreed upon;
+(d) a clear stipulation, if agreed upon, of the penalty which
+        would enure to the party if a default of the agreed terms is
+        committed in addition to the consequences of the breach of the
+        terms of the settlement;
+(e) an unequivocal declaration that both parties have executed
+        the agreement after understanding the terms of the settlement
+        agreement as well as of the consequences of its breach;
+(f) a stipulation regarding the voluntariness of the settlement
+        and declaration that the executors of the settlement agreement
+        were executing and signing the same without any kind of force,
+        pressure and undue influence.
+III (ix)        The mediator should forward a carefully executed
+settlement agreement duly signed by both parties along with his report
+to the court on the date fixed, when the parties or their authorized
+representatives would appear before the court.
+Crl.Ref.No.1/2016                                      Page 84 of 89
+Proceedings before the court
+
+III (x)         The magistrate would adopt a procedure akin to that
+followed by the civil court under
+Order XXIII of the C.P.C
+.
+III (xi)        The magistrate should record a statement on oath of the
+parties affirming the terms of the settlement; that it was entered into
+voluntarily, of the free will of the parties, after fully understanding the
+contents and implications thereof, affirming the contents of the
+agreement placed before the court; confirming their signatures
+thereon. A clear undertaking to abide by the terms of the settlement
+should also be recorded as a matter of abundant caution.
+III (xii)       A statement to the above effect may be obtained on
+affidavit. However, the magistrate must record a statement of the
+parties proving the affidavit and the settlement agreement on court
+record.
+III (xiii)      The magistrate should independently apply his judicial
+mind and satisfy himself that the settlement agreement is genuine,
+equitable, lawful, not opposed to public policy, voluntary and that
+there is no legal impediment in accepting the same.
+III (xiv)       Pursuant to recording of the statement of the parties, the
+magistrate should specifically accept the statement of the parties as
+well as their undertakings and hold them bound by the terms of the
+settlement terms entered into by and between them. This order should
+clearly stipulate that in the event of default by either party, the amount
+agreed to be paid in the settlement agreement will be recoverable in
+terms of Section 431 read with Section 421 of the Cr.P.C.
+Crl.Ref.No.1/2016                                        Page 85 of 89
+III (xv)        Upon receiving a request from the complainant, that on
+account of the compromise vide the settlement agreement, it is
+withdrawing himself from prosecution, the matter has to be
+compounded. Such prayer of the complainant has to be accepted in
+keeping with the scheme of
+Section 147
+of the NI Act. (Ref.:(
+2005)
+CriLJ 431, Rameshbhai Somabhai Patel v. Dineshbhai Achalanand
+Rathi
+)
+        At this point, the trial court should discharge/acquit the accused
+person, depending on the stage of the case. This procedure should be
+followed even where the settlement terms require implementation of
+the terms and payment over a period of time.
+III (xvi)       In the event that after various rounds of mediation, the
+parties conclude that the matter cannot be amicably resolved or
+settled, information to this effect should be placed before the
+magistrate who should proceed in that complaint on merits, as per the
+procedure prescribed by law.
+III (xvii)      The magistrate should ensure strict compliance with the
+guidelines and principles
+laid down by
+the Supreme Court in the
+pronouncement reported at (
+2010) 5 SCC 663, Damodar S. Prabhu v.
+Sayed Babalal H
+and so far as the settlement at the later stage is
+concerned in (
+2014) 10 SCC 690 Madhya Pradesh State Legal
+Services Authority v. Prateek Jain
+.
+III (xvii)      We may also refer to a criminal case wherein there is an
+underlying civil dispute. While the parties may not be either permitted
+in law to compound the criminal case or may not be willing to
+Crl.Ref.No.1/2016                                       Page 86 of 89
+compound the criminal case, they may be willing to explore the
+possibility of a negotiated settlement of their civil disputes. There is
+no legal prohibition to the parties seeking mediation so far as the
+underlying civil dispute is concerned.
+In case a settlement is reached,
+the principles
+laid down by
+us would apply to settlement of such
+underlying civil disputes as well.
+In case reference in a criminal case is restricted to only an
+underlying civil dispute and a settlement is reached in mediation, the
+referring court could require the mediator to place such settlement in
+the civil litigation between the parties which would proceed in the
+matter in accordance with prescribed procedure.
+Question IV : If the settlement in Mediation is not complied with - is
+the court required to proceed with the case for a trial on merits, or
+hold such a settlement agreement to be executable as a decree?
+In case the mediation settlement accepted by the court as above
+is not complied with, the following procedure is required to be
+followed :
+IV (i)          In the event of default or non-compliance or breach of the
+settlement agreement by the accused person, the magistrate would
+pass an order under Section 431 read with
+Section 421
+of the Cr.P.C.
+to recover the amount agreed to be paid by the accused in the same
+manner as a fine would be recovered.
+IV (ii)         Additionally, for breach of the undertaking given to the
+magistrate/court, the court would take appropriate action permissible
+in law to enforce compliance with the undertaking as well as the
+Crl.Ref.No.1/2016                                        Page 87 of 89
+orders of the court based thereon, including proceeding under
+Section
+2(b)
+of the Contempt of Courts Act, 1971 for violation thereof.
+Question V : If the Mediated Settlement Agreement, by itself, is
+taken to be tantamount to a decree, then, how the same is to be
+executed? Is the complainant to be relegated to file an application
+for execution in a civil court? And if yes, what should be the
+appropriate orders with respect to the criminal complaint case at
+hand. What would be the effect of such a mediated settlement vis-à-
+vis the complaint case?
+V (i) The settlement reached in mediation arising out of a criminal
+case does not tantamount to a decree by a civil court and cannot be
+executed in a civil court.
+However, a settlement in mediation arising out of referral in a
+civil case by a civil court, can result in a decree upon compliance with
+the procedure under
+Order XXIII of the C.P.C
+. This can never be so
+in a mediation settlement arising out of a criminal case.
+XVI. Result
+119. The present reference, under
+Section 395(2)
+of the CrPC, is
+answered in the above terms.
+120. We place on record our deep appreciation for the amici curiae:
+Mr. J.P. Sengh, Senior Advocate; Ms. Veena Ralli, Advocate and Mr.
+Siddharth Agarwal, Advocate, who have rendered indispensable and
+worthy assistance to us, in this matter.
+Crl.Ref.No.1/2016                                      Page 88 of 89
+121. Let the record of Complaint Case Nos.519662/2016 and
+519664/2016 be forthwith returned to the trial court, which shall
+proceed in the matter, in accordance with law.
+ACTING CHIEF JUSTICE
+
+
+                                                 ANU MALHOTRA, J.
+OCTOBER 17, 2017/aj
+Crl.Ref.No.1/2016                                    Page 89 of 89

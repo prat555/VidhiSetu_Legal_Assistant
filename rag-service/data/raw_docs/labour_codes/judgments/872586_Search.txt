@@ -1,0 +1,1236 @@
+Title: Search
+Court: High Court
+Date: 5 of 1908
+Citation: SCC 539} that the language of
+Source: https://indiankanoon.org/doc/872586/
+
+[Cites
+127
+, Cited by
+3
+]
+Madras High Court
+Sundaram Brake Linings Ltd vs Kotak Mahindra Bank Ltd on 5 January, 2007
+Author:
+V. Ramasubramanian
+Bench:
+V. Ramasubramanian
+IN  THE HIGH COURT OF JUDICATURE AT MADRAS
+
+(Ordinary Original Civil Jurisdiction)
+
+Thursday, the 24th day of  July  2008
+
+THE HON'BLE MR. JUSTICE V. RAMASUBRAMANIAN
+
+A.NO.8078 OF 2007
+
+IN
+ 
+C.S.NO.1072 OF 2007
+
+Sundaram Brake Linings Ltd.,
+180, Anna Salai,
+Chennai 600 006				..Plaintiff
+
+			VS
+1. Kotak Mahindra Bank Ltd.,
+No.39, Montieth Road, (First Floor)
+CEEBROS Centre,
+Chennai 600 008.
+2. M.S. Subramanian
+Block No.85, New Door No.AE 159
+4th Avenue, Shanthi Colony,
+Anna Nagar West,
+Chennai 600 040.
+3. G. Manikandan
+No.116, 5th Cross Street,
+Balaji Nagar,
+Kolathur,
+Chennai 600 099.				..Defendants
+
+
+A.No.8078 of 2007:-
+KOTAK MAHINDRA BANK LTD., a
+banking company, incorporated under the 
+laws of India, having office at 39, Montieth
+Road,  1st Floor, Ceebros Centre, Chennai-
+600 008, with its registered  office at 36-38A,
+Nariman Bhavan, 227, Nariman Point,
+Mumbai 400 021.					..Applicant
+
+				VS
+1. SUNDDRAM BRAKE LININGS LTD.,
+a company incorporated  in India under the
+Companies Act, 1956
+, having its registered 
+office at No.180, Anna Salai, Chennai-600 006,
+and having an office at Padi, Chennai-600 050.
+2. M.S. Subramanian
+Block No.85, New Door No.AE 159
+4th Avenue, Shanti Colony, Anna Nagar,
+West, Chennai-600 040.
+3. G. Manikandan
+No.116, 5th Cross Street,
+Balaji Nagar,
+Kolathur, Chennai-600 099.			..Respondents
+
+	Application praying that this Hon'ble Court be pleased to pass an order directing the Suit to be referred to arbitration in terms of the Arbitration Agreement  dated 5.1.2007 between the Plaintiff & First Defendant be not made.
+This application having been heard on 14.02.2008 in the presence of Mr. A. L. Somayaji, Senior Counsel for M/s. Iyer & Thomas, advocates     for      the     applicant herein, and Mr. Arvind P. Datar, Senior Counsel for M/s. P.R.Raman, C.Seethapathy & A. Umasankar, advocates for the 1st respondent herein, and upon reading the Judges Summons, and the affidavit of R.Prabhakar, and the counter affidavit of K.Mahesh, and the rejoinder of R.Prabhakar, filed herein and having stood over for consideration till this date and coming on this day before this court for orders in the presence of the said advocates for the parties hereto, and the respondents 2 and 3 herein, not appearing in person or by advocate, and this court observing that in an application under
+section 8
+(as distinguished from an application under -
+section 45
+), the judicial Authority cannot go into the question as to whether the agreement is null and void, inoperative or incapable of being performed, the plaintiff should only raise these issues before the Arbitrator Justice B. N. Srikrishna (Retd.) who has already entered reference,
+
+	This is an application taken out by the 1st defendant in the suit, C.S.No.1072 of 2007, under
+Section 8
+of the Arbitration and Conciliation Act, 1996, to refer the parties to arbitration in terms of the agreement dated 05.01.2007.
+2.Heard Mr.A.L.Somayaji, learned Senior Counsel for the applicant/1st defendant and Mr. Arvind P. Datar, learned Senior Counsel for the 1st respondent/plaintiff.
+3.  The brief facts, sans unnecessary details, essential for the disposal of this application, are as follows:-
+(a) On 05.01.2007, the applicant/1st defendant and the 1st respondent/plaintiff entered into an Agreement known as I.S.D.A. Master Agreement.  The said agreement is in a standard format, as prescribed by International Swap Dealers Association.  The Master Agreement has a Schedule attached to it, comprising of 5 parts. It is only in the Schedule that the actual transaction between the parties is reduced into specifics.
+(b) The aforesaid I.S.D.A. Master Agreement was signed on behalf of the applicant by its authorised signatory and on behalf of the 1st respondent (plaintiff) by its Financial Controller and Secretary, who is impleaded as the 2nd defendant in the suit.
+(c) The I.S.D.A. Master Agreement is actually a transaction in derivatives. It is a "forward contract" entered into by the plaintiff with the first defendant (who is an authorised dealer in foreign exchange) to hedge an exposure to exchange risk, on account of heavy fluctuation in the rate of exchange of foreign currencies.
+(d) Though such transactions border on speculations to some extent, they have been recognised statutorily by the Foreign Exchange Management (Foreign exchange derivatives contracts) Regulations, 2000 issued under the
+Foreign Exchange Management Act, 1999
+and by the Reserve Bank of India (Amendment) Act, 2006.
+(e) Therefore, in pursuance of a Resolution passed by the Board of Directors of the plaintiff Company on 21.07.2005 (Resolution No.2065), authorising the 2nd defendant (Financial Controller and Secretary of the plaintiff) to enter into Spot and Forward Foreign Exchange Contracts, Options and any other Derivative Instruments, the 2nd and 3rd defendants are said to have finalised 52 Derivative Cross Currency Deals.  Out of those 52 Deals, only 9 Deals are now in force and the rest of them are already closed.  Out of those 9 Deals, 2 were with the applicant (Bank) herein and the other Deals were with other Banks. Out of the 2 Deals which the defendants 2 and 3 entered into on behalf of the plaintiff with the applicant/1st defendant, one relates to the I.S.D.A. Master Agreement dated 05.01.2007, which is the subject matter of the present dispute.
+(f) It is the case of the plaintiff that the Cross Currency Deals were finalised and the agreements were entered into by the defendants 2 and 3 on behalf of the plaintiff, without the specific authorisation or approval of the Board of Directors and that the Chairman of the plaintiff Company came to know about such deals only on 06.11.2007 from one of the independent Directors of the Company.  Thereafter, the plaintiff has come to Court with the present suit seeking a declaration that the I.S.D.A. Master Agreement dated 05.01.2007 is void ab initio, illegal, vitiated by fraud, opposed to Public Policy and not binding on the plaintiff Company and for a permanent injunction restraining the 1st defendant from acting under the terms of the Master Agreement.
+4. Essentially, the respondent/plaintiff assails the ISDA Master agreement as null and void and unenforceable, on the ground-
+(i) that there was actually no underlying exposure, on account of which the agreement (to hedge) was just speculative in nature making it a pure and simple wagering contract which is declared as void by
+section 30
+of the Indian Contract Act;
+(ii) that the transaction is opposed to public policy and violative of the law declared by RBI and hence void by virtue of section 23 of the Contract Act; and
+(iii) that the defendants 2 and 3 acted in violation of the authority conferred upon them by the Board of Directors of the company, exposing the company to great financial risk and hence the company was not bound by their act.
+5. The plaint was presented on 30.11.2007 and it was admitted on 03.12.2007.  Along with the suit, the plaintiff filed an application for injunction in O.A.No.1314 of 2007. The 1st defendant Bank was on caveat and hence, they took notice on 04.12.2007 when the application for injunction was moved. Immediately thereafter, the 1st defendant filed the present application under
+Section 8
+of the Arbitration and Conciliation Act, 1996 seeking reference of the dispute to arbitration in terms of Part-5, Clause(j) of the Schedule to the Master Agreement dated 05.01.2007.
+6.  Before proceeding further, it is relevant to take note of one important fact pleaded by the applicant/1st defendant Bank, viz., that the Bank had already invoked the Arbitration Clause, by a notice dated 26.11.2007 (4 days prior to the filing of the present suit). The Bank had also moved the High Court of Bombay on 27.11.2007 in Arbitration Petition No.446 of 2007 for interim reliefs under
+Section 9
+of the Arbitration and Conciliation Act.  A retired Judge of the Supreme Court had already entered upon the reference by a letter dated 29.11.2007.
+7.  The I.S.D.A. Master Agreement which is the subject matter of dispute in the present suit is dated 5-1-2007.
+Section 13(a)
+, (b), (c) of the Standard Format of the said Master Agreement, got substituted under Part-5, Clause (j) of the Schedule to the I.S.D.A. Master Agreement, by new provisions.  After this substitution,
+Section 13(b)
+in the Standard Format of the I.S.D.A. Master Agreement, contains a clause for resolution of any dispute, difference or question, through arbitration.  Even the plaintiff does not question the existence of the Arbitration Agreement, but they question only the validity and enforceability of the same.
+8.  Mr.Arvind P.Datar, learned Senior Counsel appearing for the plaintiff, contended-
+(a) that when the very validity of the Arbitration Agreement is questioned and a declaration is sought to the effect that the Agreement is null and void and vitiated by fraud, this Court cannot refer the dispute to arbitration, without going into the question about the validity of the agreement at least prima facie;
+(b) that the agreement in question is nothing but a wagering contract declared by statute to be void ab initio under Section 30 of the Indian Contract Act, 1872 and that therefore, the arbitration clause which forms part of the said agreement cannot be infused with any life; and
+(c) that the entire transaction covered by the agreement in question is highly speculative in nature, opposed to public policy and violative of the statutory provisions and the rules and guidelines issued by the Reserve Bank of India and hence, it is also hit by
+Section 23
+of the Contract Act, on account of which, the arbitration clause has become a dead letter.
+9.  Per contra, Mr.A.L.Somayaji, learned Senior Counsel for the applicant (1st defendant Bank) contended-
+(a) that a reference under
+Section 8
+, in contra distinction to a reference under
+Section 45
+, is peremptory in nature, without leaving any scope for the judicial authority to go into the question as to whether the agreement is null and void or vitiated by fraud;
+(b) that the I.S.D.A. Master Agreement is neither a wagering contract nor an agreement opposed to Public Policy and that it is authorised by the Reserve Bank of India and adopted and entered into by several nationalised banks; and
+(c) that since the 1st defendant Bank has already called the shots, by approaching the Bombay High Court under
+Section 9
+and also by appointing an Arbitrator in terms of the agreement, the suit cannot proceed further.
+10. It is true that the Supreme court had held in
+P.Anand Gajapathi Raju vs. P.V.G.Raju
+{2000(4) SCC 539} that the language of
+Section 8
+is peremptory in nature.
+The said decision is also quoted with approval in subsequent decisions in
+Hindustan Petroleum Corporation Ltd., vs. Pinkcity Midway Petroleums
+reported in {2003 (
+6) SCC 503} and Rashtriya Ispat Nigam Ltd., and Another vs. Verma Transport Co.
+reported in {2006 (7) SCC 275} etc. The rationale behind
+the said decision
+is that
+section 5
+of the Arbitration and Conciliation Act,1996 limits the extent of judicial intervention. The relevant portion of
+the said decision
+is as follows:-
+"4. Part I of the new Act deals with domestic arbitrations.
+Section 5
+, which is contained in Part I of the new Act, defines the extent of judicial intervention in arbitration proceedings.  It says that notwithstanding anything contained in any other law for the time being in force, in matters governed by Part I, no judicial authority shall intervene except where so provided in that Part.
+Section 5
+brings out clearly the object of the new Act, namely, that of encouraging resolution of disputes expeditiously and less expensively and when there is an Arbitration Agreement, the Court's intervention should be minimal........"
+It is pertinent to note that
+section 5
+is peculiar to
+Part I of the Act
+and there is no corresponding provision in Part II, except that
+sections 45
+and
+54
+(in Part II) contain an in-built safety valve within which a judicial authority is permitted to play a role. The applicability of section 5 is also specifically restricted only to Part I.
+11. But
+section 5
+as well as the decisions of the Apex court quoted above, do not deal with a situation where the contract is assailed as void ab-initio and vitiated by fraud. Therefore, the question as to the role of the court while considering  an application under
+section 8
+, when the contract itself is challenged as void, requires an elaborate consideration.
+12. The I.S.D.A. Master Agreement in question in the present suit, is challenged as void ab-initio on the ground that it is hit by
+Section 23
+(as opposed to Public Policy) and
+section 30
+of the Indian Contract Act (on account of being a wagering contract). But before entering into the grey area as to whether it is actually so, it is necessary to see, at the out set, if
+section 8
+of the Arbitration and Conciliation Act, 1996, leaves any scope for this Court to stray into such area at all. This exercise is essential, since
+section 45
+of the Act dealing with International Commercial Arbitration, specifically empowers a judicial authority, while considering an application for reference of the dispute to arbitration, to go into the question as to whether an agreement is null and void or inoperative or incapable of being enforced. But
+section 8
+does not contain, in such express terms, a similar gate pass. It is only by inference, if at all such inference is permissible, that such a power can be read into
+section 8
+. Therefore, the question to be taken up, at the threshold, is as to whether in an application under
+section 8
+, this Court can take up the exercise of determining whether the I.S.D.A. Agreement is null and void, unenforceable and vitiated by fraud or not.
+Scope of Enquiry under
+Section 8
+.
+13.  There are 3 provisions in the
+Arbitration and Conciliation Act, 1996
+, which enables a party to a judicial proceeding to seek a reference of the dispute to arbitration. They are
+sections 8
+,
+45
+and
+54
+of the Act.
+Section 8
+of the Act reads as follows:-
+"8.Power to refer parties to arbitration where there is an Arbitration Agreement.-
+(1) A judicial authority before which an action is brought in a matter which is the subject of an Arbitration Agreement shall, if a party so applies not later than when submitting his first statement on the substance of the dispute, refer the parties to arbitration.
+(2) The application referred to in sub-section(1) shall not be entertained unless it is accompanied by the original Arbitration Agreement or a duly certified copy thereof.
+(3) Notwithstanding that an application has been made under sub-section (1) and that the issue is pending before the judicial authority, an arbitration may be commenced or continued and an arbitral award made."
+Section 45
+of the Act reads as follows:-
+"45.Power of judicial authority to refer parties to arbitration.-
+Notwithstanding anything contained in Part I or in
+the Code of Civil Procedure
+, 1908 (5 of 1908), a judicial authority, when seized of an action in a matter in respect of which the parties have made an agreement referred to in
+Section 44
+, shall, at the request of one of the parties or any person claiming through or under him, refer the parties to arbitration, unless it finds that the said agreement is null and void, inoperative or incapable of being performed."
+Section 54
+of the Act reads as follows:-
+"54.  Power of judicial authority to refer parties to arbitration-
+Notwithstanding anything contained in Part I or in
+the Code of Civil Procedure
+, 1908 (5 of 1908), a judicial authority, on being seized of a dispute regarding a contract made between persons to whom
+section 53
+applies and including an Arbitration Agreement, whether referring to present or future differences, which is valid under that section and capable of being carried into effect, shall refer the parties on the application of either of them or any person claiming through or under him to the decision of the arbitrators and such reference shall not prejudice the competence of the judicial authority in case the agreement or the arbitration cannot proceed or becomes inoperative."
+14. While
+Section 8
+, which falls under
+Part-I of the Act
+, relates to domestic arbitration,
+Sections 45
+and
+54
+, which fall under
+Part-II of the Act
+, relate to International Commercial Arbitration under the New York Convention Awards and the Geneva Convention Awards respectively.  On a comparative study of
+Sections 8
+,
+45
+and
+54
+of the Act, it is seen that the Law Makers made each one of them different and distinct in their scope, ambit and operation.  Prima facie, there appears to be the following distinctions between these provisions:-
+(a)
+Sections 45
+and
+54
+start with a non obstante clause, so as to exclude anything contained in
+Part-I of the Act
+or in
+the Code of Civil Procedure
+from being applied to the proceedings, to which
+sections 45
+and
+54
+apply.
+Section 8
+does not contain such a non obstante clause. Therefore the power of the judicial authority while dealing with an application under
+section 8
+is circumscribed by
+section 5
+. To make matters worse,
+section 16
+which falls in
+Part I of the Act
+, empowers the Arbitral Tribunal itself to go into such questions relating to jurisdiction and to the existence or validity of the Arbitration Agreement. Therefore
+section 8
+is conditioned by
+sections 5
+and
+16
+.
+(b)
+Section 8
+makes it mandatory for the court, to refer the parties to arbitration, if the party seeking a reference to arbitration, applies not later than when submitting the first statement on the substance of the dispute. Such a stipulation (to apply before submitting the first statement on the substance of the dispute) is not found in
+Sections 45
+and
+54
+.
+(c) The word, 'party' appearing in
+Section 8(1)
+has a restrictive meaning in view of the definition of the said word under
+Section 2(1)(h)
+, that it would mean only a party to an Arbitration Clause.  On the contrary,
+Section 45
+does not contain such a restriction.
+Section 45
+enables any of the parties to the Arbitration Agreement or even any person claiming through or under him to seek a reference.
+Section 54
+also enables the parties as well as any person claiming through or under them to seek a reference.
+(d) More importantly, the mandate under
+Section 45
+to refer the parties to arbitration, indicated by the word, "shall" appearing in the section, is watered down by the last part of
+Section 45
+, whereby a leverage is given to the Judicial Authority not to refer the parties to arbitration if it finds that the agreement is null and void, inoperative or incapable of being performed. Such a discretion conferred upon the Judicial Authority in the later part of
+Section 45
+is conspicuously absent in
+Section 8
+.
+Section 54
+goes a step further in stipulating that if the agreement or the arbitration cannot proceed or becomes inoperative, the reference to arbitration shall not prejudice the competence of the Judicial Authority.
+(e) As stated above, section 5 of the Act, which restricts the power of intervention of a Judicial authority and section 16 which empowers the Arbitral Tribunal itself to rule on its own jurisdiction, apply only to Part-I. Therefore, they apply only to the proceedings covered by section 8 and not to proceedings covered by sections 45 and 54, since sections 45 and 54 begin with a non obstante clause relating to Part-I.
+15. The difference between
+sections 8
+and
+45
+was noted by the Apex court in
+Shin-Etsu Chemical Co. Ltd., vs. Aksh Optifibre Ltd., and another
+(2005) 7 Supreme Court Cases 234, in the following words:-
+"12.
+Section 8
+of the Act is a departure from
+Section 34
+of the Old Act.  Under this section the judicial authority has no discretion. It is mandatory for the judicial authority to refer the parties to arbitration on the existence of conditions stipulated in the section.  Unlike
+Section 45
+, the judicial authority under
+Section 8
+has not been conferred the power to refuse reference to arbitration on the ground of invalidity of the agreement.  It is evident that the object is to avoid delay and accelerate reference to arbitration leaving the parties to raise objections, if any, to the validity of the Arbitration Agreement before the arbitral forum and/or post-award under
+Section 34
+of the Act.
+18.....As already noticed, unlike
+Section 45
+the objection as to the validity of the Arbitration Agreement cannot be raised as a defence to an application filed under
+Section 8
+.  ...
+38.  It is true that
+Section 5
+limits judicial intervention in the manner provided therein. It accelerates the arbitral process by curtailing chances of delay that may be caused in court proceedings.  But, at the same time, it is also clear that though
+Sections 8
+and
+45
+both deal with the power of judicial authority to refer parties to arbitration, in the former which deals with domestic arbitration, no provision has been made for examining at that stage the validity of the Arbitration Agreement whereas under
+Section 45
+which deals with arbitrations to which the New York Convention applies, a specific provision has been made to examine the validity of the Arbitration Agreement in the manner provided in
+Section 45
+. Both provisions are differently structured albeit the purpose of both is to refer parties to arbitration but in one case domestic arbitration and in the other case international arbitration. Unlike
+Section 8
+which provides that the application shall be moved not later than when submitting the first statement of the substance of the dispute, under
+Section 45
+there is no such limitation.  The apparent reason is that insofar as domestic arbitration is concerned, the legislature intended to achieve speedy reference of disputes to the Arbitral Tribunal and left most of the matters to be raised before the arbitrators or post-award.  In case of foreign arbitration, however, in its wisdom the legislature left the question relating to the validity of the Arbitration Agreement being examined by the court.  One of the main reasons for the  departure being the heavy expense involved in such arbitrations which may be unnecessary if the Arbitration Agreement is to be invalidated in the manner prescribed in
+Section 45
+."
+Though the above view formed part of the minority decision of Justice Y.K.Sabharwal, as he then was, the majority view of the other 2 learned Judges (Justices D.M.Dharmadhikari and B.N. Srikrishna) was not different, in so far as this particular aspect was concerned. This is seen from the following passage, of the decision of the majority:-
+"66. The contrast in the language between
+Sections 8
+and
+45
+of the Act has been rightly noticed by my learned Brother.
+Section 8
+, which leaves no discretion in the court in the matter of referring parties to arbitration, does not apply to the present case, as we are concerned with
+Part II of the Act
+. On the other hand,
+Section 45
+which is directly applicable to the present case, empowers the court to refuse a reference to arbitration if it "finds" that the Arbitration Agreement is "null and void, inoperative or incapable of being performed".
+16. Thus,
+sections 8
+,
+45
+and
+54
+enumerate 3 different situations in which applications for reference of the disputes to arbitration could be made and the Act maintains a clear distinction between the powers exercisable by a judicial authority in each of those situations. The scope of the enquiry under each of these sections is to be different. Is the distinction so maintained under the Act, between
+sections 8
+,
+45
+and
+54
+, real and substantial or only illusory and insignificant ? Is the absence in
+section 8
+, of the rider "unless it finds that the said agreement is null and void, inoperative or incapable of being performed," as found in
+section 45
+of the Act, deliberate, meaningful and has a purpose or is it only an accidental omission on the part of the parliament? Can the court supply the casus omissus?
+17. In UNIQUE BUTYLE TUBE INDUSTRIES (P) lTD -VS U.P. FINANCIAL CORPORATION 2003 (2) SCC 455, the Supreme Court pointed out that as a first principle, a court cannot supply the casus omissus. But in para 14 of
+the said judgment
+, the Supreme Court also indicated the circumstances under which an exception to the general rule is permissible. Para 14 reads as follows:-
+"Two principles of construction- one relating to casus omissus and the other in regard to reading the statute as a whole-- appear to be well settled. Under the first principle a casus omissus cannot be supplied by the court except in the case of clear necessity and when the reason for it is found in the four corners of the statute itself but at the same time a casus omissus should not be readily inferred and for that purpose all the parts of a statute or section must be construed together and every clause of a section should be construed with reference to the context and other clauses thereof so that the construction to be put on a particular provision makes a consistent enactment of the whole statute. This would be more so if literal construction of a particular clause leads to manifestly absurd or anomalous results which could not have been intended by the legislature. "An intention to produce an unreasonable result" said Danckwerts, L.J., in Artemiou V. Procopiou (All ER p.544-I) "is not to be imputed to a statute if there is some other construction available." Where to apply words literally would "defeat the obvious intention of the legislation and produce a wholly unreasonable result", we must "do some violence to the words" and so achieve that obvious intention and produce a rational construction. Per Lord Reid in Luke v. IRC where at AC p.577 he also observed:(AllER p.664 I) "This is not a new problem, though our standard of drafting is such that it rarely emerges."
+It follows from the above decision of the Supreme Court that casus omissus should not be readily inferred. It  cannot be supplied by the court except in the case of clear necessity and when the reason for it is found in the four corners of the statute itself. Therefore let me find out if a clear necessity has arisen in this case to supply the casus omissus and to read into
+section 8
+, what is not provided therein but what is specifically provided in
+section 45
+.
+18. Despite the fact that the latter part of
+section 45
+, empowering the court to go into the question of nullity and voidity of the agreement, is conspicuously absent in
+section 8
+and despite the difference between the scope of the enquiries under
+sections 8
+and
+45
+, it was contended by Mr.Arvind P.Datar, learned Senior Counsel for the respondent/plaintiff that the case on hand would fall under the exception to the general rule relating to casus omissus and that this court can still go into the question as to whether the agreement is null and void or vitiated by fraud. This contention is advanced for 2 reasons, viz.,
+(a) that once fraud is alleged vitiating all solemn acts or an agreement is assailed to be void ab initio, it would drown not only the main agreement between the parties but would also drown the arbitration clause/agreement along with it; and
+(b) that while holding the power conferred under section 11 of the Arbitration and Conciliation Act to be a judicial power, the Constitution Bench of the Supreme Court found, in SBP & Co -vs- Patel Engineering Ltd., 2005 (8) SCC 618, that sections 8 and 11 are complementary in nature and hence the court is bound to decide the jurisdictional issue raised before it.
+Effect of fraud on the Arbitration Agreement
+19. Regarding the first contention, it is no doubt true that fraud vitiates all solemn acts. Fraud is a powerful explosive device which could shatter to pieces, the entire agreement between the parties. "Can the Arbitration clause survive the explosion?", is the question, on which, there is a long line of decisions, some of which, take a non conventional approach. Let me now examine some of those decisions.
+20.
+In one of the earliest decisions on the point, namely,
+Karunakumar Datta Gupta vs. Lankaran Patwari
+(AIR 1933 Calcutta 759), a learned Judge of the Calcutta High Court took the view that where the contract is challenged as being void on the ground of illegality, the arbitration clause contained in the contract is also avoided. The relevant portion of
+the said decision
+is extracted here under:-
+"......... In Smith, Coney and Barrett vs. Becker, Grey & Co. the principle is clearly acknowledged that if the contract is challenged as being void on the ground of illegality, the arbitration clause contained in the contract is also avoided .............I consider that the same result follows from an analysis of the
+Contract Act
+. By
+S.2 (g)
+of the Act, an agreement, which is not enforceable by law, is void. By
+S.2(h)
+, it is only an agreement enforceable by law that is a "a contract". By
+S.30
+, an agreement by way of wager is a void agreement. It is no more a contract than an agreement affected by Ss.20, 23 or
+S.25
+.  I, therefore, agree with the view expressed tentatively by Panckridge,J., in Chong Wong's case (1), to the effect that such a suit lies....
+21. In Abdul Kadir Shamsuddin Bubere -vs- Madhav Prabhakar (AIR 1962 Supreme Court 406), the Supreme court held as follows:-
+"17. There is no doubt that where serious allegations of fraud are made against a party and the party who is charged with fraud desires that the matter should be tried in open court, that would be a sufficient cause for the court not to order an Arbitration Agreement to be filed and not to make the reference.  But it is not every allegation imputing some kind of dishonesty, particularly in matters of accounts, which would be enough to dispose a court to take the matter out of the forum which the parties themselves have chosen.  This to our mind is clear even from the decision in Russell's case (1880)14 Ch D 471.  In that case there were allegations of constructive and actual fraud by one brother against the other and it was in those circumstances that the court made the observations to which we have referred above.  Even so, the learned Master of the Rolls also observed in the course of the judgment at p.476 as follows:-
+"Why should it be necessarily beyond the purview of this contract to refer to an arbitrator questions of account, even when those questions do involve misconduct amounting even to dishonesty on the part of some partner?  I do not see it.  I do not say that in many cases which I will come to in the second branch of the case before the Court, the Court may not, in the exercise of its discretion, refuse to interfere; but it does not appear to me to follow of necessity that this clause was not intended to apply to all questions, even including questions either imputing moral dishonesty or moral misconduct to one or other of the parties".
+We are clearly of opinion that merely because some allegations have been made that account are not correct or that certain items are exaggerated and so on that is not enough to induce the court to refuse to make a reference to arbitration.  It is only in cases of allegations of fraud of a serious nature that the court will refuse as decided in Russell's case (1880) 14 Ch D 471 to order an Arbitration Agreement to be filed and will not make a reference."
+But the above decisions of the Calcutta High Court and the Supreme court were rendered long prior to the enactment of the
+Arbitration and Conciliation Act, 1996
+and hence we have to see if the 1996 Act  created any difference.
+22. Post 1996 Act, K.P.Sivasubramanian,J., took the view, in
+H.G.Oomor Sait and another vs. O.Aslam Sait
+(2001 (3) CTC 269, that where allegations of fraud are made, the parties need not be referred to arbitration. The relevant portion of his decision is as follows:-
+"28.  ....... Courts have repeatedly held that in cases where substantial questions of law arise for consideration or issues which require serious consideration of evidence relating to fraud and misrepresentation etc. are involved, such cases are best left to the civil Court and that the Arbitrator will not be competent to go into the said issues".
+29........... I agree that the solemn agreement between the parties to resolve the disputes by an alternative forum before the Arbitrator should be strictly complied with.  But when the dispute involves consideration of substantial questions of law and contested allegations of mala fides, fraud, misrepresentation etc., which depend on adducing of and scrutiny of detailed oral and documentary evidence, then the parties as well as the Civil Court would be justified in ignoring the arbitration clause.
+Section 27
+of the 1996 Act provides for the Arbitrator to seek the assistance of the Court in taking evidence is an example of the admitted deficiencies of a proceeding before the arbitrator.  Even after obtaining such assistance from the Civil Court, the Arbitrator would still be unable to appreciate the demeanor of the witnesses which is an essential feature of appreciation of oral evidence.  Assuming that the grounds of challenge of an arbitration award as provided under the New Act has been narrowed down compared to the old Act, that would be all the more reason why the jurisdiction of the Civil Court to go into such contentious issues like substantial questions of law or serious allegation of fraud etc., requiring detailed evidence, should be properly reserved for a Civil Court to go into and decide".
+32.  ........In Amarchand Lalit Kumar vs. Shree Ambica Jute Mills, AIR 1966 SC 1036 the Supreme Court had enlisted the following five grounds for revoking the contract of arbitration:
+(i)  Excess or refusal of jurisdiction by arbitrator.
+(ii) Misconduct of arbitrator.
+(iii) Disqualification of arbitrator.
+(iv) Charges of fraud.
+(v) Exceptional cases."
+23.  A similar view was taken by A.Kulasekaran,J., in M/S GDR Financial Services Pvt. Ltd., and another vs. M/s Allsec Securities Ltd., (2001 (3) CTC 461). But a view contrary to the one taken by K.P.Sivasubramanian,J., and A.Kulasekaran,J., had already been taken by R.Jayasimha Babu,J., in an unreported decision in
+Madras Refineries Ltd., vs. Southern Petrochemicals Industries Corporation Ltd.
+, (decided on 11.03.1996 in A.No.571 of 1996 in C.S.No.67 of 1996) wherein it was held as follows:-
+"37.  Allegations of fraud, against a party to the Arbitration Agreement are however open to scrutiny in arbitration proceedings. There is no prohibition in law, whether express or implied, whereby the arbitrator is prevented from examining allegations of fraud.  Though the Courts have, while exercising their discretionary power under
+S.34
+of the Arbitration Act, declined to stay proceedings in the suit when serious allegations of fraud are made against a party to an Arbitration Agreement if that party desires to have a trial in open court,  and have on occasions also declined stay even against the wishes of the party against whom such allegations were made, if a prima facie case of fraud had been made out, it has never been the view of the courts that there is any inherent lack of jurisdiction in an arbitrator to decide upon allegations of fraud made against a party to an Arbitration Agreement.
+38.  In the oft quoted case of Russell vs. Russell (1880 14 Ch. D.471) the question that arose for consideration was as to whether the Court, having regard to the discretionary power vested in it under
+S.11
+of the Common Law Procedure Act, 1854, should, in the exercise of that discretion refuse to allow matters which had been expressly agreed to be referred to arbitration, to be referred in view of fraud having been alleged against the defendant. Jessell M.R., who decided that case observed: "First of all, is it true that the parties to a contract can hardly be supposed to have endeavoured to refer to an arbitration an attempt by one of them to cheat the other?  I can find no reason for assuming it.  A fraudulent man would not desire publicity, but would wish that question to be inquired into before a private tribunal.  Nor does it follow that the man who has been defrauded wants publicity.  It is an injury to the credit of the firm.  .... why should it be necessarily beyond the purview of this contract to refer to an arbitrator questions of account, even when those questions do involve misconduct amounting to dishonesty,on the part of the same partner?  I do not see it.  I do not say that in many cases which I will come to in the second branch of the case before the Court, Court may not in exercise of its discretion, refuse to interfere; but it does not appear to me to follow of necessity that this clause was not intended to apply to all questions, even including questions either imputing moral dishonesty or moral misconduct to one or other of the parties".
+39. These observations of Jessell M.R. were referred to with approval by the Supreme Court in the case of
+Abdul Kadir Shamsuddin Bubere vs. Madhav Prabakar Oak
+(AIR 1962 SC 406).
+40. In England,by 24(2) of the
+Arbitration Act
+, the High Court is given the power to order that the Arbitration Agreement shall cease to have effect if the dispute between the parties involves the question as to whether any such party is guilty of fraud.
+S.24(2)
+reads as under: "where an agreement between any parties provides that disputes which may arise in the future between them shall be referred to arbitration, and a dispute which so arises involves the question whether any such party been guilty of fraud, the High Court shall, so far as may be necessary to enable that question to be determined by the High Court, have power to order that the agreement shall cease to have effect and power to give leave to revoke the authority of any arbitrator or umpire appointed by or by virtue of the agreement" .
+41. In India, even in the absence of any statutory provision similar to
+S.24(2)
+of the English Act, the power to decline stay in cases where serious question of fraud arose for consideration was exercised under
+S.34
+which confers a discretionary power on the court to refuse stay if there were sufficient reasons as to why the matter brought before the court should not be referred to arbitration.
+42.
+Section 8(1)
+of the Ordinance does not recognise any discretionary power in the court to decline making a reference.  If the conditions expressly stated as also those necessarily implicit in
+S.8
+are satisfied a reference must be made.  Reference to arbitration cannot be declined on account of allegation of fraud having been made by a plaintiff, as such a dispute is one which the arbitrator can settle under the law in force, and the exercise of that power by the arbitrator is not opposed to public policy".
+24. A Division Bench of this court has also taken the view that even the question of fraud has to be gone into only in the arbitration proceedings.
+In
+NIIT Limited vs. Ashish Deb & Another
+(2004-2-L.W.244), the Division Bench of this court held as follows:-
+"13.  Though the respondents/plaintiffs have challenged the validity of the agreement on the ground that a fraud was played on them, the same also can be gone into by the arbitrator in view of powers given under
+Sec.16
+of the Act. This aspect was not considered by the learned Judge while rejecting the Application filed under
+Sec.8
+of the Act by the appellant/defendant. Hence, we are inclined to interfere with the order passed by the learned Judge".
+Thus the view taken by the Division Bench supports the view taken by R.Jayasimha Babu,J., though the same has not specifically been referred to. Even a Division Bench of the Karnataka High Court took a similar view in Lexicon Finance Limited  -vs- Union of India and others {2002(3) Arb.LR 60 (Karnataka) (DB). It is as follows:-
+"A perusal of the aforesaid provision makes it clear that an arbitration clause in an agreement shall be treated an agreement independent of other terms of the contract and even if the Arbitral Tribunal were to hold that the contract is null and void it shall not entail ipso jure the invalidity of the arbitration clause.  In other words even if the contract is held to be void the clause regarding arbitration found in a void contract would not become void.  It exists independently of the said contract and it could be enforced."
+25. In India Household and Healthcare Ltd., vs. LG Household and Healthcare Ltd. (AIR 2007 SC 1376), the Supreme court considered the effect of an allegation of fraud and held as follows:-
+"3. Respondent, however, contends that the said agreement was preceded by a Memorandum of Understanding dated 1.11.2003. Respondent further contends that the said purported Memorandum of Understanding and licence agreement dated 08.05.2004 are vitiated by a fraud of a very large magnitude fructified by a criminal conspiracy hatched between M/s K.P.Jayram Pillai and Vijay R.Singh representing the petitioner and M/s C.H.Kim and B.K.Jung representing the respondent. The petitioner Company bribed the said C.H.Kim and B.K.Jung for the purpose of creation of the aforesaid documents.  They had already been convicted and sentenced to undergo imprisonment by the Korean Criminal Court.  It was contended that they misused their official position to advance private benefit.  There seems to be a substantial and reasonable nexus to promote personal advantage. There was furthermore no ostensible authority on their part to represent the company.  The said Memorandum of Understanding also contravenes the Korean laws in terms whereof the execution thereof required the prior approval of and a duly executed power of attorney from the Representative Director and the Chief Executive Officer of the respondent which did not exist in the present case.
+10. It is also no doubt true that where existence of an Arbitration Agreement can be found, apart from the existence of the original agreement, the Courts would construe the agreement in such a manner so as to uphold the Arbitration Agreement. However, when a question of fraud is raised, the same has to be considered differently. Fraud, as is well known, vitiates all solemn acts.  A contract would mean a valid contract; an Arbitration Agreement would mean an agreement which is enforceable in law".
+12. The power of this Court, therefore, no longer is an administrative power. The purported Arbitration Agreement is an international commercial Arbitration Agreement.
+Section 16
+of the 1996 Act which is in Chapter 4 of Part I thereof may not, thus, be applicable in this case.  Even if it applies, the jurisdiction of the arbitrator to determine his own jurisdiction is on the basis of that arbitration clause which may be treated as an agreement independent  of the other terms of the contract and his decision that the contract is null and void shall not entail ipso jure the invalidity of the arbitration clause.  But, the question would be different where the entire contract containing the Arbitration Agreement stands vitiated by reason of fraud of this magnitude.
+13. It may be noticed that Part II of the 1996 Act contains a provision for approaching the court.
+Section 45
+of the 1996 Act contains a non-obstante clause.  A judicial authority, therefore, may entertain an application at the instance of a party which alleges that there exists an Arbitration Agreement whereupon judicial authority may refer the parties to arbitration, save and except in a case where it finds that the said agreement is null and void, inoperative and incapable of being performed.
+Section 8
+of the 1996 Act, however, is differently worded.
+14. Thus, as and when a question in regard to the validity or otherwise of the Arbitration Agreement arises, a judicial authority would have the jurisdiction under certain circumstances to go into the said question".
+But the above decision of the Supreme Court is of no assistance in arriving at a conclusion, since it arose in respect of international commercial arbitration governed by
+Part II of the Act
+and the Supreme court even while holding as aforesaid, noted that
+section 8
+is differently worded. Therefore it is clear that the above decision cannot be applied to a case arising under
+section 8
+.
+26. Thus it is seen that the judicial opinion on the effect of an allegation of fraud upon the Arbitration Agreement has swung from one extreme to the other. On the one extreme, we have the Calcutta High Court taking the view in
+Karunakar Datta Gupta
+'s case (AIR 1933 Cal 759) that the Arbitration Agreement would be avoided by fraud and K.P.Sivasubramaniam.,J (in
+H.G.Oomor Sait
+case 2001 (3) CTC 269) and A.Kulasekaran,J., (in GDR Financial Services case 2001(3)CTC 461) also taking a similar view.
+On the other extreme, we have R.Jayasimha Babu,J.,(in MRL case) as well as the Division Bench of this court (in
+NIIT
+case) taking the view that there is no impediment for the arbitrator himself to go into the allegations of fraud.
+The decisions of the Supreme court in
+Abdul Kadir Shamsuddin Bubere
+case (AIR 1962 SC 406) and India Household and Healthcare case (AIR 2007 SC 1376) present different dimensions.
+In India Household and Healthcare case, the Supreme court was concerned with international commercial arbitration and hence the rider in
+section 45
+was very much available. In order to ensure that the Supreme court is not misunderstood, the Supreme court emphasised in that case that
+section 8
+is differently worded. Therefore the decision in India Household and Healthcare case case cannot be applied here.
+In
+Abdul Kadir Shamsuddin Bubere
+case (AIR 1962 SC 406), the Supreme court made a dichotomy between cases where serious allegations of fraud are made and cases where the allegations of fraud are not serious enough to deny a reference to arbitration.
+Even in the former type of cases, (where serious allegations of fraud are made) the Supreme court took cue from Jessel.M.R., in Russell's case that the person charged with serious allegations of fraud, may opt for a hearing in open court, indicating thereby that the choice of forum may lie in the hands of the person who is charged with fraud. Therefore all the above decisions do not appear to take us to our destination on a well laid highway and hence we have to find a way out by ourselves. But before I do so, let me examine the other contention of the learned Senior counsel for the plaintiff.
+Argument based upon complimentary nature of
+sections 8
+and
+11
+27. The other limb of the argument of Mr.Arvind P.Datar, learned Senior counsel for the plaintiff is based upon the decision of the Supreme Court in SBP & CO. vs. PATEL ENGINEERING LTD. AND ANOTHER ((2005) 8 Supreme Court Cases 618), wherein the Supreme court noted the complimentary nature of
+sections 8
+and
+11
+and held in para 16 of its judgement that "the judicial authority is entitled to, has to and bound to decide the jurisdictional issue raised before it, before making or declining a reference."  The Supreme court further pointed out that "if it is held that the Chief Justice has no right or duty to decide the question or cannot decide the question, it will lead to an anomalous situation in that the judicial authority under
+section 8
+can decide but not a Chief Justice under
+section 11
+".  After so explaining the complimentary nature of
+sections 8
+and
+11
+, the Apex court held in para 19 as follows:-
+"19. It is also not possible to accept the argument that there is an exclusive conferment of jurisdiction on the Arbitral Tribunal, to decide on the existence or validity of the Arbitration Agreement.
+Section 8
+of the Act contemplates a judicial authority before which an action is brought in  a matter which is the subject of an Arbitration Agreement, on the terms specified therein, to refer the dispute to arbitration.  A judicial authority as such is not defined in the Act.  It would certainly include the court as defined in
+Section 2(e)
+of the Act and would also, in our opinion, include other courts and may even include a special tribunal like the Consumer Forum (see
+Fair Air Engineers (P) Ltd., vs. N.K.Modi
+).  When the defendant to an action before a judicial authority raises the plea that there is an Arbitration Agreement and the subject matter of the claim is covered by the agreement and the plaintiff or the person who has approached the judicial authority for relief,disputes the same, the judicial authority, in the absence of any restriction in the Act, has necessarily to decide whether, in fact, there is in existence a valid Arbitration Agreement and whether the dispute that is sought to be raised before it, is covered by the arbitration clause.  It is difficult to contemplate that the judicial authority has also to act mechanically or has merely to see the original Arbitration Agreement produced before it, and mechanically refer the parties to an arbitration.  Similarly,
+Section 9
+enables a Court, obviously, as defined in the Act, when approached by a party before the commencement of an arbitral proceeding, to grant interim relief as contemplated by the section.  When  a party seeks an interim relief asserting that there was a dispute liable to be arbitrated upon in terms of the Act, and the opposite party disputes the existence of an Arbitration Agreement as defined in the Act or raises a plea that the dispute involved was not covered by the arbitration clause, or that the court which was approached had no jurisdiction to pass any order in terms of
+Section 9
+of the Act, that Court has necessarily to decide whether it has jurisdiction, whether there is an Arbitration Agreement which is valid in law and whether the dispute sought to be raised is covered by that agreement.  There is no indication in the Act that the powers of the court are curtailed on these aspects. On the other hand,
+Section 9
+insists that once approached in that behalf, "the court shall have the same power for making orders as it has for the purpose of and in relation to any proceeding before it".
+Surely, when a matter is entrusted to a civil court in the ordinary hierarchy of courts without anything more, the procedure of that court would govern the adjudication (see
+R.M.A.R.A. Adaikappa Chettiar vs. R.Chandrasekhara Thevar
+)".
+In short, the ratio laid down by the Constitution Bench of the Supreme court in the above case (SBP & Co case) is
+(i) that sections 8 and 11 are complimentary in nature and
+(ii) that there is no exclusive conferment of jurisdiction on the Arbitral Tribunal under
+section 16
+to decide the existence or validity of the Arbitration Agreement.
+28. But the
+ratio
+laid down in
+the above decision
+to the effect that
+sections 8
+and
+11
+are complimentary in nature, has to be reconciled with the other decisions of the Supreme court, where the dividing line between
+sections 8
+and
+45
+are clearly spelt out and a Line of Control (LOC) or Lakshman rekha is pointed out. If so done, one can appreciate that the difference deliberately maintained by the law makers between
+sections 8
+and
+45
+cannot be obliterated judicially. It is axiomatic that a decision is to be construed for what it lays down as a proposition of law and not for what flows out of it by inference.
+Therefore I am unable to accept the submission made on the basis of
+S.B.P.&Co
+case.
+29. From the above discussion in entirety, it is clear--
+(i)  that
+section 8
+is differently worded than
+section 45
+;
+(ii) that the leverage given to a judicial authority under section 45 and 54 is deliberately not made available under section 8; and
+(iii) that despite the general proposition of law that fraud vitiates the entire contract, the
+Arbitration and Conciliation Act, 1996
+permits in express terms, an enquiry into the question of nullity and voidity of the agreement, only under
+section 45
+and not under
+section 8
+. (In other words, if fraud vitiates the entire agreement including the arbitration clause or agreement, there is no necessity for the Law makers to add a rider in
+section 45
+and spell out what is so obvious in law).
+Therefore, the answer to the question as to whether the present case falls under the general rule relating to casus omissus or under its exception, has to be traced to the historical background of the 1996 Act.
+Historicity of the law of Arbitration
+30. If we look at the legislative history of the Law of Arbitration in India, it is seen that the earliest special enactment on arbitration was the Indian Arbitration Act, 1899, whose operation was limited to Presidency Towns and to such other areas as may be prescribed by the appropriate Provincial Government.    The     Second     Schedule   to
+the        Code 
+of     Civil    Procedure
+,    1908,     also    contained   provisions 
+relating to arbitration outside the operation and scope of 1899 Act.
+Subsequently, The Arbitration Act, 1940
+, was enacted as a self contained and exhaustive Code and it repealed the Arbitration Act, 1899, and the Second Schedule to
+the Code of Civil Procedure
+, 1908.
+31. The efficacy and the working of
+The Arbitration Act, 1940
+, came under severe criticism even by the Apex Court on several occasions. In Guru Nanak Foundation -vs- Rattan and Sons, 1981 (4) SCC 634, the Supreme Court observed as follows:-
+"Interminable, time consuming, complex and expensive court procedures impelled jurists to search for an alternative forum, less formal, more effective and speedy for resolution of disputes avoiding procedural claptrap and this led them to
+Arbitration Act, 1940
+(Act for Short).  However, the way in which the proceedings under the Act are conducted and without an exception challenged in Courts, has made lawyers laugh and legal philosophers weep.  Experience shows and law reports bear ample testimony that the proceedings under the Act have become highly technical accompanied by unending prolixity, at every stage providing a legal trap to the unwary.  Informal forum chosen by the parties for expeditious disposal of their disputes has by the decisions of the Courts been clothed with 'legalese' of unforeseeable complexity."
+The above passage was quoted with approval in Trustees of The Port of Madras -vs- Engineering Constructions Corporations Ltd, {1995 (5) SCC 531}.
+32. Again, in Panchu Gopal Bose -vs- Board of Trustees For Port of Calcutta {1993(4) SCC 338}, the Supreme Court quoted from Robertson's history that "honest men dread arbitration more than they dread law suits." A more scathing but frank observation was made in Executive Engineer, Minor Irrigation Division Orissa -vs- N.C.Budharaj (Dead) by Lrs., 2001 (1) CTC 375 as follows:-
+"The arbitration proceeding has been a racket in this country and in construing the law in relation to the powers of the arbitrator, the courts must construe the provisions of the law rather strictly."
+33. Thus, on the one hand, even courts were getting suffocated about arbitration becoming "allergetic dispute resolution mechanism" (A.D.R.) rather than an "alternative dispute resolution mechanism". But on the other hand, the world of Economics and Trade was getting shrunk into microchips and the geographical boundaries of trade and commerce started disappearing fast. Therefore, a growing need was felt by the United Nations Commission on International Trade Law (UNCITRAL) to codify and present an uniform Model Law relating to International Commercial Arbitration.  Accordingly, a Model Law was adopted on the 21st June, 1985, by the  United Nations Commission on International Trade Law. It came to be known as UNCITRAL Model Law. The General Assembly, in its Resolution dated 11th December 1985, recommended that "all States give due consideration to the Model Law on International Commercial Arbitration, in view of the desirability of uniformity of the law of arbitral procedures and the specific needs of international commercial arbitration practice."
+34. Having gained a bitter experience from the working of the
+Arbitration Act,1940
+, for more than 5 decades, the Parliament decided to adopt the Model Law and hence enacted
+The Arbitration and Conciliation Act, 1996
+. The preamble to the Act refers to the adoption of the Model Law by the United Nations Commission on International Trade Law  and  the recommendation made by the General Assembly of the United Nations to the member States to give due consideration to the same in view of the desirability for uniformity of the law relating to arbitral procedures and the specific needs of the International Commercial Arbitration Practice.  The preamble declares that it was made in tune with the aforesaid Model Law.
+35. In paragraph No.2 of the Statement of Objects and Reasons for the 1996 Act, there is a reference not merely to the adoption of the Model Law by UNCITRAL and the recommendation made by the General Assembly to the member States, but also to the harmonisation of the concepts prevailing in various systems of the world. The last part of paragraph No.2 of the Statement of Objects and Reasons, reads as follows:-
+"An important feature of the said UNCITRAL Model Law and Rules is that they have harmonised concepts of Arbitration and Conciliation of different legal systems of the world and thus contain provisions which are designed for universal application."
+36. The Statement of Objects and Reasons also recognised the fact that the UNICITRAL Model Law and Rules are intended to deal only with International Commercial Arbitration and Conciliation.  However, it is stated that the same model could  be applied even to domestic arbitration with certain modifications.  Paragraph No.3 of the Statement of Objects and Reasons, reads as follows:-
+"Though the UNCITRAL Model Law and Rules are intended to deal with international commercial arbitration and conciliation, they could, with appropriate modifications, serve as a model for legislation on domestic arbitration and conciliation.  The present Bill seeks to consolidate and amend law relating to domestic arbitration, international commercial arbitration, enforcement of foreign arbitral awards and to define the law relating to conciliation, taking into account the said UNCITRAL Model Law and Rules."
+37. Thus it is made clear by the Statement of Objects and Reasons--
+(i) that  insofar as Part II of the 1996 Act is concerned, it was simply an adoption of the UNCITRAL Model Law, since Part II deals with International Commercial Arbitration; and
+(ii) that insofar as
+Part I of the Act
+is concerned, the UNCITRAL Model Law was adopted "with appropriate modifications".
+38. Now if we carefully scan the UNCITRAL Model Law and make a comparison of the same with the provisions of the 1996 Act, we may note that the adoption of the
+Model Law in Part II of the Act
+, as well as the deviations made from the Model Law in Part I, are both significant. The following tabular form will highlight the area where the Model Law was just faithfully adopted and the area where it was adopted with modifications:-
+UNCITRAL Model Law
+1996 Act
+Article 2
+contains the definitions of the words "arbitration", "Arbitral Tribunal", and "court".
+Section 2
+of the Act adopts the same definition for the words "arbitration" and "Arbitral Tribunal" but gives a different meaning to the word "Court", to take care of the Indian Context.
+Apart from the definition of the above 3 words,
+Section 2
+defines a few more words or expressions.
+Sub Sections (2) to (9) of
+Section 2
+deals with the applications of
+Part I of the Act
+to various situations and contingencies.
+Article 3
+deals with receipt of written communications by the parties.
+Section  3
+adopts the same.
+Article 4
+deals with the waiver of right to object.
+Section 4
+adopts
+Article 4
+substantially.
+Article 5
+bars the intervention of Courts in matters governed by this law.
+Section 5
+contains a similar bar with a non obstante clause at the beginning.  In other words,
+Section 5
+declares that notwithstanding anything contained in any other law for the time being in force, no judicial authority shall intervene in matters governed by this Part, except where so provided in this Part.
+Article 6
+enables the Courts to perform certain functions referred to in some Articles.
+Section 6
+provides for Administrative assistance to facilitate the conduct of  arbitral proceedings.
+Article 7
+defines an Arbitration Agreement and also describes its form and essential features.
+Section 7
+is in pari materia with
+Article 7
+except that the contents are divided into 5 sub sections.
+Article 8
+deals with the power of the Court to refer parties to arbitration, where there is an Arbitration Agreement, unless it finds that the agreement is null and void, inoperative or incapable of being performed.
+Section 8
+reproduces the contents of
+Article 8
+with 2 significant modifications, viz.,
+(a) the rider contained in the last part of Article 8(1), viz., "unless it finds that the agreement is null and void, inoperative or incapable of being performed"  is omitted in Section 8(1) and
+(b) that
+Section 8(2)
+enables the Court  not to entertain an application under
+Section 8(1)
+unless it is accompanied by the original Arbitration Agreement or a duly certified copy thereof.
+However,
+Section 45
+of  the Act incorporates the aforesaid rider, in the case of International Commercial Arbitration governed by Newyork Convention Awards.
+Article 9
+enables a party to seek interim measures of protection from a Court before or during arbitral proceedings.
+Section 9
+not only contains such a provision, but also deals in extenso, the nature of the interim measures that could be granted by a Court.
+While
+Article 9
+of the Model Law restricts the right to grant interim reliefs only before or during the arbitral proceedings,
+section 9
+of the Act enables the grant of  such reliefs even after the arbitral award was made but before it is enforced under
+Section 36
+.
+Articles 10
+, 11
+, 12
+, 13
+, 14
+and
+15
+deal with  number of arbitrators, appointment of arbitrators, grounds for challenge, challenge procedure, failure or impossibility to act and appointment of substitute arbitrator.
+Except making small deviations,
+Sections 11
+to
+15
+contain similar provisions under the same headings.  The small modifications relate to the number of arbitrators where it is not fixed under the agreement, the power of the Chief Justice or the designated Judge to appoint arbitrators etc.
+Article 16
+deals with the competence of the Arbitral Tribunal to rule on its own jurisdiction.
+Section 16
+is a reproduction of
+Article 16
+with a slight modification.
+Article 16
+of the UNCITRAL Model Law enables an Arbitral Tribunal to rule on a plea relating to jurisdiction either as a preliminary question or in an award on the merits and also provides for a reference to a Court of such a decision within 30 days, if a preliminary ruling is given.  But
+Section 16
+does not provide for a reference on the decision relating to the preliminary question of  jurisdiction.
+Article 17
+empowers Arbitral Tribunal to order interim measures.
+Section 17
+reproduces the same.
+Article 18
+mandates that the parties be treated with equality and given full opportunity to present his case.
+Section 18
+is the reproduction of the same.
+Article 19
+enables the parties to agree on the procedure to be followed by the Arbitral Tribunal in conducting the proceedings.
+Section 19
+reproduces the same, with an additional mandate that the Arbitral Tribunal shall not be bound by
+the CPC
+or
+Indian Evidence Act
+.
+Article 20
+deals with the place of arbitration.
+Section 20
+reproduces the same.
+Article 21
+indicates the date of commencement of arbitral proceedings.
+Section 21
+reproduces the same.
+Article 22
+relates to the language of arbitration.
+Section 22
+reproduces the same.
+Article 23
+lays down the requirements of filing a statement of claim, the defence, submission of documents and the power to  amend the pleadings.
+Section 23
+reproduces the same.
+Article 24
+deals with hearings and written proceedings.
+Section 24
+substantially reproduces the same.
+Article 25
+deals with default of a party either to file a statement of claim or to file a statement of defence or to appear and produce evidence.
+Section 25
+reproduces the same.
+Article 26
+enables the Arbitral Tribunal to appoint experts to report on specific issues.
+Section 26
+reproduces the same, but with a modification.  While
+Article 26
+enables an Arbitral Tribunal to seek the assistance of a competent Court of the State, in taking evidence,
+Section 26
+does not enable the tribunal to seek such assistance. But a similar provision is incorporated in
+Section 27
+, more elaborately.
+Article 27
+enables Court assistance in taking evidence.
+Section 27
+enables an Arbitral Tribunal or even a party, with the approval of the Arbitral Tribunal to seek assistance of a Court in taking evidence.
+Article 28
+deals with the rules applicable to the substance of dispute.
+Section 28
+substantially reproduces the same and adopts the principles of  ex aequo et bono and amiable compositeur, only if the parties have expressly authorised the tribunal to adopt them.
+Article 29
+enables decision making by the Arbitral Tribunal, by a majority.  It also enables the presiding arbitrator to decide the questions of procedure, by himself, if so authorised by the parties or by the other members.
+Section 29
+reproduces the same.
+Article 30
+deals with settlement of a dispute during the course of the arbitral proceedings and enables the tribunal to pass an award on agreed terms, if requested by the parties and not objected to by the tribunal.
+Section 30
+not only reproduces the contents of
+Article 30
+, but also goes a step further by stipulating that the Arbitral Tribunal may encourage settlement of  the dispute by using mediation, conciliation or other procedures during the arbitral proceedings, with the consent of the parties.
+Article 31
+deals with the form and contents of the award.
+Section 31
+reproduces the contents of
+Article 31
+, by dividing those contents into sub sections (1) to (5).  But in addition to what is contained in
+Article 31
+,
+Section 31
+provides four additional matters viz., (1)that the Arbitral Tribunal  is entitled to pass an interim award (2) that the Arbitral Tribunal is entitled to award interest at such rate as it deems fit (3) that the amount indicated in the arbitral award shall carry interest at 18% p.a. from the date of the award till the date of payment, unless the award provides otherwise and (4) that the tribunal is entitled to fix the costs of arbitration.
+Article 32
+deals with termination of arbitral proceedings.
+Section 32
+reproduces the same.
+Article 33
+deals with correction and interpretation of award and the making of additional award.
+Section 33
+reproduces the same.
+Article 34
+deals with the recourse available to a party, to challenge the arbitral award, before a Court.
+Section 34
+reproduces the same, with two modifications viz., (a) under the explanation to sub section (2) (b) (ii) to
+Section 34
+,  an award induced or affected by fraud or corruption or violation of
+Section 75
+or 81, is  stated to be opposed to the public policy of India and (b) the proviso to sub section (3) of
+Section 34
+enables a Court to condone the delay upto 30 days in challenging an award before a Court.
+Articles 35
+and
+36
+deal with the binding nature of an arbitral award and the grounds on which the recognition or enforcement of  an arbitral award may be refused.
+Sections 35
+and
+36
+of the Act attach finality to the award and make the award enforceable under
+the Code of Civil Procedure
+in the same manner as if the award were a decree of Court.  Thus, the Act makes a substantial deviation from the provisions of
+Article 36
+, in the sense that the Act does not provide for the refusal to recognise or enforce an arbitral award.
+UNCITRAL MODEL Law contains only 36 Articles.
+1996 Act contains additional provisions relating to  
+i)appealable orders
+ii)deposits to be made before the tribunal
+iii)lien on arbitral award and deposits as to    costs
+iv) the effect of the death of a party about the Arbitration Agreement and its enforceability
+v) the effect of insolvency of a party
+vi)jurisdiction
+vii) limitation
+viii)enforcement of  New York Convention Awards
+ix) enforcement of Geneva Convention Award
+x) Conciliation and the procedure to be adopted in relation thereto.
+xi)Supplemental provisions such as the power to make rules and to remove difficulties
+xii)repeal and savings of  the Arbitration (Protocol and  Convention) Act, 1937, the Arbitration Act, 1940 and the Foreign Awards (Recognition  and Enforcement) Act, 1961 and
+xiii) the First, Second and Third Schedules, containing the Convention on the recognition and enforcement of  Foreign Arbitral Awards (relating to New Yark Convention), Protocol on Arbitration Clauses and Convention on the execution of  Foreign Arbitral Awards (relating to Geneva Convention).
+39. From the above comparative table, it is clear that even while adopting most of the Articles of the UNCITRAL Model Law, the Parliament has chosen to make (1) additions (2) deletions and (3) modifications. These additions, deletions and modifications do not appear to be accidental slips, born out of non application of mind. They appear to be deliberate acts of additions, deletions and alterations, born out of a conscious decision to make the UNCITRAL Model Law suitable to Indian industrial climate. Therefore, judicial discipline requires that the Courts do not tinker or tamper with the provisions of the Statute, especially when the deviation from the model law adopted, is clearly as a result of a conscious decision.
+40. A comparison of
+Article 8
+of the UNCITRAL Model Law with the provisions of
+Sections 8
+,
+45
+and
+54
+of the 1996 Act would show that the contents of
+Article 8
+of the Model Law have been---
+a) adopted with the omission of the latter part of
+Article 8
+,  insofar as domestic arbitration is concerned (under
+Section 8
+).
+b) adopted with a modification, insofar as international commercial arbitration under the New York Convention Award is concerned (under Section 45) and
+c) adopted with a modification, insofar as international commercial arbitration under the Geneva Convention Award is concerned (under
+section 54
+).
+41.
+Article 8
+of the Model Law contains a rider, which reads "unless it finds that the agreement is null and void, inoperative or incapable of being performed". This rider is deliberately omitted to be included (obviously with a purpose), in
+Section 8
+of the 1996 Act.  But the same rider is imported verbatim into
+Section 45
+of the Act, while dealing with an identical power of a judicial authority to refer the parties to arbitration, in respect of New York Convention Awards. Interestingly, such a rider is not found even in
+section 54
+, which deals with a similar provision relating to Geneva Convention Awards (though there is a different melody under
+s.54
+).
+42.The Supreme court noted this difference in the language employed, between
+sections 8
+,
+45
+and
+54
+of the Act and
+Article 8
+of the Model law in
+Rashtriya Ispat Nigam Ltd., and another vs. Verma Transport Co.
+{(2006) 7 Supreme Court Cases 275} as follows:-
+15.
+Article 8
+of the Model Rules is as under:
+"(1) A court before which an action is brought in a matter which is the subject of an Arbitration Agreement, shall, if a party requests not later than when submitting his first statement on the substance of the dispute, refer the parties to arbitration unless it finds that the agreement is null and void, inoperative or incapable of being performed.
+(2) Where, in such case, arbitral proceedings have already commenced, the Arbitral Tribunal may continue the proceedings while the issue of its jurisdiction is pending with the court".
+17.
+Section 8
+of the 1996 Act, however, although lifted the first part of the said
+Article 8
+did not contain the expression contained in the second part therein.  The Indian Parliament has gone beyond the recommendations made by the UNCITRAL Model Rules in enacting
+Sections 8
+and
+16
+of the 1996 Act.
+18.  The provisions of
+Sections 8
+and
+16
+of the 1996 Act may be compared with
+Sections 45
+and
+54
+thereof.
+Section 45
+deals with the New York Convention, whereas
+Section 54
+deals with the Geneva Convention Awards.  The difference can be immediately noticed.  Whereas under
+Sections 45
+and
+54
+, the court exercises its supervisory jurisdiction in relation to arbitration proceedings, in terms of
+Section 16
+of the 1996 Act, the arbitrator is entitled to determine his own jurisdiction. We, however, do not mean to suggest that Part II of the 1996 Act does not contemplate determination of his own jurisdiction by the Arbitral Tribunal as we are not called upon to determine the said question. We have referred to the aforementioned provisions only for the purpose of comparing the difference in the language used by the Indian Parliament while dealing with the domestic arbitration vis-a-vis the international arbitration."
+43. Thus, the legislative intent, to delete the above rider, as found in
+Article 8
+of the Model Law, while conferring powers upon the judicial authority under
+section 8
+, is loud and clear, unambiguous and is obviously a product of a conscious decision to do so.  Therefore, in my considered view, reading such a rider as found in
+Article 8
+of the Model Law (and also incorporated into
+Section 45
+), into
+Section 8
+of the Act, would do violence to the legislative intent. In view of the scheme of the Act, such violence to the legislative intent is not warranted, so as to make the case fall under the exception to the rule of casus omissus.
+44. If we read the rider contained in
+Article 8
+of the Model Law into
+Section 8
+, it would result in the Court arrogating to itself, a jurisdiction, to decide in the first instance, whether the Arbitration Agreement is null and void, inoperative or incapable of being performed. The arrogation or assumption of such a power to itself by the Court, despite the specific non-conferment of the power under the Statute, would not only amount to a violation of the express provisions of the Statute but also amount to disregarding the legislative intent.
+45. That the Parliament took a conscious decision not to confer powers upon a judicial authority to go into the question as to whether the Arbitration Agreement is null and void, inoperative or incapable of being performed, in respect of domestic arbitrations, is borne out by the following factors:-
+1) The contents of
+Article 8
+of the Model Law have been reproduced verbatim in
+Section 8
+, with one addition and one deletion. The addition is the incorporation of a requirement that the application shall be accompanied by the original Arbitration Agreement or a certified copy thereof.  The deletion is of the rider "unless it finds that the agreement is null and void, inoperative or incapable of being performed".
+2) In respect of international commercial arbitration, to which the New York Convention Awards apply, the judicial authority is conferred with the power, under
+Section 45
+, to reject a reference, if it finds that the agreement is null and void, inoperative or incapable of being performed.  At the same time, in respect of international commercial arbitration to which Geneva Convention Awards apply, no such power is conferred under
+Section 54
+.
+46. The omission of the rider in
+Sections 8
+and
+54
+and the inclusion of the rider in
+Section 45
+are not without significance.  The omission and commission have not happened unintentionally.  Till the advent of 1996 Act, the severability or separability of the arbitration clause, from the main agreement, of which it formed a part, posed great challenges.
+The Arbitration Act, 1940
+, did not specifically provide for treating the arbitration clause contained in the main contract, as a separate agreement by itself. Therefore, the Courts were flooded with legal issues on the ability of the arbitration clause to survive the agreement, of which it formed a part, whenever the main contracts were assailed as vitiated by fraud etc..
+47.
+In one of the earliest decisions, in
+Union of India vs. Kishorilal Gupta
+(AIR 1959 SC 1362), the Constitution Bench of the Supreme Court considered the issue of severability of the arbitration clause from the main contract and laid down the following principles:-
+"1. An arbitration clause is a collateral term of a contract as distinguished from its substantive terms; but nonetheless it is an integral part of it;
+2.However comprehensive the terms of an arbitration clause may be, the existence of the contract is a necessary condition for its operation, it perishes with the contract;
+3. The contract may be non est in the sense that it never came legally into existence or it was void ab initio;
+4. Though the contract was validly executed, the parties may put an end to it as if it had never existed and substitute a new contract for it solely governing their rights and liabilities thereunder;
+5. In the former case, if the original contract has no legal existence, the arbitration clause also cannot operate,   for   along   with  the  original
+
+contract, it is also void; in the latter case, as the original contract is extinguished by the substituted one, the arbitration clause of the original contract perishes with it; and
+6. Between the two falls, many categories of disputes in connection with a contract, such as the question of repudiation, frustration, breach etc..  In those cases, it is the performance of the contract that has come to an end, but the contract is still in existence for certain purposes in respect of disputes arising under it or in connection with it.  As the contract subsists for certain purposes, the arbitration clause operates in respect of these purposes".
+48. In the next decision in Khardah Company Ltd. -vs- Raymon & Co. (India) Private Ltd. (AIR 1962 Supreme Court 1810), the Supreme court invoked the principle of "ex nihilo nihil fit" (nothing produces nothing). It was held therein as follows:-
+"4. ..... But the question is not whether Cl.14 is all comprehensive but whether it could be enforced when the agreement of which it forms an integral part is held to be illegal.  Logically speaking, it is difficult to conceive how when an agreement is found to be bad, any portion of it can be held to be good.  When the whole perishes, its parts also must perish.  'Ex nihilo nil fit'.  On principle therefore it must be held that when an agreement is invalid every part of it including the clause as to arbitration contained therein must also be invalid.
+5.  That indeed is what has been
+laid down in
+the decisions which have been cited before us.  The leading case on the subject is the decision of the House of Lords in Heyman v. Darwins Ltd., 1942 AC 356. There the question was whether repudiation of a contract by a party thereto had the effect of annulling the arbitration clause contained therein.  It was held that it had not.  It was in this context that the law as to the circumstances under which an arbitration clause in an agreement would become unenforceable came in for elaborate discussion. Summing up the law on the subject Viscount Simon, L.C. Observed:  "If the dispute is whether the contract which contains
+
+the clause has ever been entered into at all, that issue cannot go to Arbitration under the clause, for the party who denies that he has ever entered into the contract is thereby denying that he has ever joined in the submission. Similarly, if one party to the alleged contract is contending that it is void ab initio (because, for example, the making of such a contract is illegal), the arbitration clause cannot operate, for on this view the clause itself also is void. But in a situation where the parties are at one in asserting that they entered into a binding contract, but a difference has arisen between them whether there has been breach by one side or the other, or whether circumstances have arisen which have discharged one or both parties from further performance, such differences should be regarded as differences which have arisen "in respect of" or "with regard" or "under" the contract and an arbitration clause which uses these, or similar, expressions should be construed accordingly."
+6.  Lord Macmillan  with whom Lord Russel agreed observed:"If it appears that the dispute is whether there has ever been a binding contract between the parties, such a dispute cannot be covered by an arbitration clause in the challenged contract.  If there has never been a contract at all, there has never been as part of it an agreement to arbitrate.  The greater includes the less.  Further, a claim to set aside a contract on such ground as fraud, duress or essential error cannot be the subject-matter of a reference under an arbitration clause in the contract sought to be set aside.
+10.  According to Lord Porter, then, there can be an agreement to refer a dispute as to the validity of a contract to arbitration, that where such an agreement is part of the contract which is impugned as invalid, then it can have no existence apart from it and there can be no reference based thereon, but where such an agreement is distinct and separate from the impugned contract, a reference pursuant thereto will be valid and it is possible that both these agreements might be contained in one document.
+11. The Law is thus summarised in Halsbury's Laws of England, Third Edition Vol.2, p.24, para 56: "The matter in question in the legal proceedings which it is sought to stay must be within the scope of the Arbitration Agreement .................  If however, the point in dispute is whether the contract containing the clause was ever entered into at all or was void ab initio, illegal or obtained (for example) by fraud, duress or undue influence, the clause does not apply and a stay will be refused."
+The same view was reiterated in Waverly Jute Mills Co.Ltd. -vs- Raymon & Co. (AIR 1963 Supreme Court 90).
+49. The decisions in
+Khardah Company Ltd., v. Raymon & Co. (India) Pvt. Ltd.
+(
+AIR 1962 Supreme Court 1810) and Waverly Jute Mills Co. Ltd., vs. Raymon & Co. (India) Pvt.Ltd
+.
+(AIR 1963 Supreme Court 90) were also followed in
+Jaikishan Dass Mull vs. Luchhiminarain Kanoria and Co.
+{(1974) 2 Supreme Court Cases 521}. In that case, two members of the East India Jute and Hessian Exchange Limited, entered into contracts for the purchase of  Hessian cloth, on the terms and conditions set forth in the contract notes which were in printed form as prescribed in Appendix IV to the bye laws of the Exchange.  In the printed format, there was a clause for delivery of goods along side the export vessel in the port of Calcutta, after giving a notice of a duration agreed to between the parties. The said clause was scored out. Later, the parties entered into three cross contracts, by way of settlement of the earlier two contracts and the deliveries under the first set of contracts, were set off against each other and differences in price were claimed as due and payable. The Calcutta High Court held such contracts which were in the nature of forward contracts, to be illegal and void, as they were in violation of the prescribed form under bye-law 1(b) r/w
+section 15 (3A)
+of the Forward Contracts Act. Consequently, the Calcutta High Court held that the arbitration clause contained in those contracts would fall along with the main contracts, of which, they formed a part.  While upholding
+the said decision
+, the Supreme Court held as follows:-
+"6.  Now, there can be no doubt that if a contract is illegal and void, an arbitration clause, which is one of the terms thereof, must also perish along with it.  As pointed out by Viscount Simon, L.C. In Heyman vs. Darwins Ltd.,  .. if one party to the alleged contract is contending that it is void ab initio (because, for example, the making of such a contract is illegal), the arbitration clause cannot operate, for on this view the clause itself also is void".  The arbitration clause being an integral part of the contract cannot stand, if the contract itself is held to be illegal."
+50. In ITC Ltd., -vs- G.J.Fernandes, AIR 1989 SC 839, the Supreme court considered the effect of a contract assailed as being void, on the agreement to submit to arbitration, with particular reference to
+section 34
+of the old Act. Relying upon the decision in Joe Lee Ltd., -vs- Lord Dalmeny (1927) 1 Ch.300, the Supreme court held therein as follows:-
+"Where the objection is that the arbitration is a nullity, it amounts to an objection of want of jurisdiction. The term "Arbitration Agreement" includes "agreement to refer" and "submission" to arbitrator. A submission forming part of a void contract is itself void and cannot be enforced. Where a firm of book makers had engaged in betting transactions with the defendants on the terms that any dispute which might arise should be referred to arbitration it was held that the whole contract was void and unenforceable and that the defendants could not be compelled to submit to arbitration"
+51. Even in the above decision, Heyman -vs- Darwins (1942) AC 356, cited in many of the earlier decisions for several decades, was quoted by the Apex court. But, interestingly, in para 18 of the said judgment, the Supreme court made it clear that the jurisdiction of the arbitrator may not always stand ousted. The relevant portion of para 18 of the said decision is as follows:-
+"If the arbitration clause is so wide as to have included the very validity or otherwise of the contract on the grounds of fraud, misrepresentations, mutual mistake or any valid reason, the arbitrator surely will have jurisdiction to decide even that dispute. Two extreme cases have to be avoided, namely, if simply because there is an arbitration clause all suits including one questioning the validity or existence or binding nature of the parent contract is to be referred to arbitrator irrespective of whether the arbitration clause covered it or not, then in all cases of contracts containing arbitration clause the parties will be deprived of the right of a civil suit. On the other hand if despite the arbitration clause having included or covered ex facie even a dispute as to the existence, validity or binding nature of the parent contract to allow the suit to proceed and to deprive the arbitrator of his jurisdiction to decide the question will go contrary to the policy and objects of the
+Arbitration Act
+as embodied in
+sections 32
+,
+33
+and
+34
+of the Act."
+52. Thus, in the above decision, the Supreme court carved out a principle, even under the 1940 Act, that if the arbitration clause was wide enough to cover issues such as the validity or otherwise of the contract, on grounds of fraud, misrepresentation, mutual mistake or any valid reason, then the jurisdiction of the arbitrator will not get ousted. This possibility is what is now incorporated statutorily, under
+section 16 (1)
+of the Arbitration and Conciliation Act, 1996.
+53. Interestingly, a comparison of
+Article 16
+of the Model Law would reveal that the contents of
+Article 16 (1)
+are imported as such into
+Section 16 (1) (a)
+and (b). The contents of
+Article 16 (2)
+are segregated and made into
+Sections 16 (2)
+, (3) and (4).
+Article 16 (3)
+of the Model Law empowers the Arbitral Tribunal to rule on its own jurisdiction either as a preliminary question or in an award on merits. If the issue of jurisdiction is decided as a preliminary question by the Arbitral Tribunal,
+Article 16 (3)
+of the Model Law enables a party aggrieved by such decision to challenge that ruling before a Court. But
+Sections 16 (5)
+and (6) make a complete departure from
+Article 16 (3).
+The departure from
+Article 16
+of the Model Law is two fold namely (1) that while
+Article 16 (3)
+enables the Arbitral Tribunal to decide the question of jurisdiction also as a preliminary issue,
+Section 16
+does not enable the Arbitral Tribunal to do so and (2) that while
+Article 16 (3)
+permits a challenge to be made to the decision of the Arbitral Tribunal on the preliminary issue before a Court,
+Section 16
+does not permit the same. The following table will illustrate the deviation made in
+Section 16
+from
+Article 16
+of the Model Law:-
+Article 16
+Section 16
+(1)
+The Arbitral Tribunal may rule on its own jurisdiction, including any objections with respect to the existence or validity of the Arbitration Agreement. For that purpose, an arbitration clause which forms part of a contract shall be treated as an agreement independent of the other terms of the contract. A decision by the Arbitral Tribunal that the contract is null and void shall not entail ipso jure the invalidity of the arbitration clause.
+(1) The Arbitral Tribunal may rule on its own jurisdiction, including ruling on any objections with respect to the existence or validity of the Arbitration Agreement, and for that purpose, -
+(a) an arbitration clause which forms part of a contract shall be treated as an agreement independent of the other terms of the contract; and
+(b) a decision by the Arbitral Tribunal that the contract is null and void shall not entail ipso jure the invalidity of the arbitration clause.
+(2) A plea that the Arbitral Tribunal does not have jurisdiction shall be raised not later than the submission of the statement of defence. A party is not precluded from raising such a plea by the fact that he has appointed, or participated in the appointment of, an arbitrator. A plea that the Arbitral Tribunal is exceeding the scope of its authority shall be raised as soon as the matter alleged to be beyond the scope of its authority is raised during the arbitral proceedings. The Arbitral Tribunal may, in either case, admit a later plea if it considers the delay justified.
+(2) A plea that the Arbitral Tribunal does not have jurisdiction shall be raised not later than the submission of the statement of defence; however, a party shall not be precluded from raising such a plea merely because that he has appointed, or participated in the appointment of, an arbitrator.
+(3) A plea that the Arbitral Tribunal is exceeding the scope of its authority shall be raised as soon as the matter alleged to be beyond the scope of its authority is raised during the arbitral proceedings.
+(4) The Arbitral Tribunal may, in either of the cases referred to in sub-section (2) or sub-section (3), admit a later plea if it considers the delay justified.
+(3) The Arbitral Tribunal may rule on a plea referred to in paragraph (2) of this Article either as a preliminary question or in an award on the merits. If the Arbitral Tribunal rules as a preliminary  question that it has jurisdiction, any party may request, within thirty days after having received notice of that ruling, the Court specified in
+Article 6
+to decide the matter, which decision shall be subject to no appeal; while such a request is pending, the Arbitral Tribunal may continue the arbitral proceedings and make an award.
+(5) The Arbitral Tribunal shall decide on a plea referred to in sub-section (2) or sub-section (3) and, where the Arbitral Tribunal takes a decision rejecting the plea, continue with the arbitral proceedings and make an arbitral award.
+(6) A party aggrieved by such an arbitral award may make an application for setting aside such an arbitral award in accordance with
+Section 34
+.
+54. Thus the Model contained in
+Articles 7
+and
+16 (1)
+and
+(2)
+of the Model Law have been faithfully adopted and imported into
+Section 7
+and
+Sections 16(1)
+to
+16(4)
+of the 1996 Act, but the Model Law contained in
+Article 16 (3)
+is not imported into
+Section 16
+, sending a clear message down the line (i) that the arbitration clause could be made the life line or black box which could survive any disaster; (ii) that the Arbitral Tribunal itself is competent to decide whether the contract is null and void, inoperative or incapable of being performed; (iii) that the decision of the tribunal that the contract is null and void, will not render the arbitration clause invalid and (iv) that the decision of the Arbitral Tribunal on the question of its jurisdiction need not be a preliminary issue amenable to challenge even at that stage.
+55. As a matter of fact, the above principles incorporated in
+section 16(1)
+, viz.,
+a) that the arbitration clause shall be treated as an agreement independent of the other terms of the contract;
+b) that the Arbitral Tribunal itself can decide the validity of the Arbitration Agreement including the question as to its nullity and voidity; and
+c) that even a decision declaring the contract as null and void will not make the arbitration clause invalid;
+appear to have been accepted and adopted in many of the neighbouring countries especially SAARC countries after the advent of the UNCITRAL Model Law. Canada, Australia and a few states in U.S.A., have also adopted the Model Law.
+56. The Bangladesh Arbitration Act of 2001, while adopting
+Article 16
+of the Model Law, enables the Arbitral Tribunal, under
+Section 17
+to decide whether the Arbitration Agreement is against public policy or incapable of being performed.
+Section 17
+of the said Act, reads as follows:-
+"17. Competence of Arbitral Tribunal to rule on its own jurisdiction:-  Unless otherwise agreed by the parties, the Arbitral Tribunal may rule on its own jurisdiction on any questions including the following issues, namely -
+(a) whether there is existence of a valid Arbitration Agreement;
+(b) whether the Arbitral Tribunal is properly constituted;
+(c) whether the Arbitration Agreement is against public policy;
+(d) whether the Arbitration Agreement is incapable of being performed; and
+(e) what matters have been submitted to arbitration in accordance with the Arbitration Agreement".
+Section 18
+of the Act provides for severability of the Arbitration Agreement, for the purpose of enabling the Arbitral Tribunal to rule on its own jurisdiction. Limited powers are conferred on the High Court under the said Act, to determine any question as to the jurisdiction of the Arbitral Tribunal, if any of the parties to the Arbitration Agreement makes an application in this regard. However, the said powers are circumscribed by certain conditions prescribed under
+Section 20(2)
+of the said Act.
+57. Similarly, Section 16 of the Nepal Arbitration Act, 1999, makes it clear that the Arbitrator shall take a decision, before commencing proceedings on the matter referred to him, as to whether the contract because of which the dispute has emerged, is itself illegal or null and void. It is interesting to note that the Nepal Act provides for an appeal to an Appellate Court against such a decision.  Sub-section (3) of
+Section 16
+declares that even though an arbitration clause is found to be an integral part of one single contract, the arbitration clause will not be taken to be null and void even if the arbitrator finds that the contract by itself is null and void.
+Section 16
+reads as follows:-
+"16. Power of the Arbitrator to Determine
+                Jurisdiction:-
+(1) In case any party wishes to make a claim that the arbitrator has no jurisdiction over the dispute which has been referred to him for settlement, or that the contract because of which the dispute has emerged is itself illegal or null and void, it may do so before the arbitrator.  The arbitrator must before starting proceeding on the matter referred to him, take a decision on his jurisdiction or the validity or effectiveness of the contract.
+(2) Any party which is not satisfied with the decision taken under sub section (2) may file an appeal with the Appellate Court within 30 days from the date of decision, and the decision taken by that Court on the matter shall be final.
+(3) For the purpose of taking a decision on the validity or effectiveness of a contract under sub section (1), in case the contract contains provisions for the settlement of disputes through arbitration as its integral part, such provisions shall be taken as a separate agreement, and even if the arbitrator takes a decision holding the contract as null and void, such provisions shall not be held to be legally null and void for that reason alone."
+58.
+The Arbitration Act, 1940
+of Pakistan does not appear to have been brought in tune with the Model Law.  However,
+Section 32
+of the Act bars the institution of a suit on any ground whatsoever, for a decision upon the existence, effect or validity of an Arbitration Agreement or award. It reads as follows:-
+"32. Bar to suit contesting Arbitration Agreement or award:- Notwithstanding any law for the time being in force, no suit shall lie on any ground whatsoever, for a decision upon the existence, effect or validity of an Arbitration Agreement or award, nor shall any Arbitration Agreement or award be set aside, amended, modified or in any way affected otherwise than as provided in this Act".
+However,
+Sec.34
+of the said Act whittles down the effect of Se.32 to some extent.
+59.
+The Arbitration Act, 1995
+of Srilanka adopts the same principles as contained in the Model Law.  Under
+Section 11
+of the Act, the Arbitral Tribunal is conferred with jurisdiction to rule on any question as to the existence or validity of an Arbitration Agreement or as to whether such agreement is contrary to public policy or is incapable of being performed.  However,
+Section 11(1)
+also enables a party to the arbitral proceedings to apply to the High Court for a determination of any such question.  But
+Section 12
+makes it clear that the Arbitration Agreement which forms part of another agreement shall be deemed to constitute a separate agreement for the purpose of deciding the jurisdiction of the tribunal and the validity of the Arbitration Agreement.
+Section 11
+reads as follows:-
+"11. Competence of Arbitral :
+(1) An Arbitral Tribunal may rule on its Arbitral jurisdiction including any question, with respect to the existence or validity of the Arbitration Agreement or as to whether such agreement is contrary to public policy or is incapable of being performed; but any party to the arbitral proceedings may apply to the High Court for a determination of any such question.
+(2) Where an application has been made to the High Court under subsection (1) the Arbitral Tribunal may continue the arbitral proceedings pending the determination of such question by the High Court".
+60. The (English) Arbitration Act, 1996, also recognises the separability of the Arbitration Agreement under
+Section 7
+and declares that the Arbitration Agreement shall not be regarded as invalid, non-existent or ineffective.  However,
+Section 9 (4)
+of the Act gives a small leverage to the Court to refuse to stay the legal proceedings if it is satisfied that the Arbitration Agreement is null and void or incapable of being performed.
+Sections 7
+and
+9
+are as follows:-
+"7.  Separability of Arbitration Agreement-
+Unless otherwise agreed by the parties, an Arbitration Agreement which forms or was intended to form part of another agreement (whether or not in writing) shall not be regarded as invalid, non-existence or has become ineffective, and it shall for that purpose be treated as a distinct agreement.
+9.Stay of legal proceedings-
+(1) A party to an Arbitration Agreement against whom legal proceedings are brought (whether by way of claim or counterclaim) in respect of a matter which under the agreement is to be referred to arbitration may (upon notice to the other parties to the proceedings) apply to the court in which the proceedings have been brought to stay the proceedings so far as they concern that matter.
+(2) An application may be made notwithstanding that the matter is to be referred to arbitration only after the exhaustion of other dispute resolution procedures.
+(3) An application may not be made by a person before taking the appropriate procedural step (if any) to acknowledge the legal proceedings against him or after he has taken any step in those proceedings to answer the substantive claim.
+(4) On an application under this section the court shall grant a stay unless satisfied that the Arbitration Agreement is null and void, or incapable of being performed.
+(5) If the court refuses to stay the legal proceedings, any provision that an award is a condition precedent to the bringing of legal proceedings in respect of any matter is of no effect in relation to those proceedings."
+Section 30(1)(a)
+of the Act which is akin to
+Section 16
+of our Act (though not in pari materia), enables the Arbitral Tribunal to rule on the existence of a valid Arbitration Agreement. But unlike
+Section 16
+of our Act,
+Section 30
+of the English Act provides for an appeal or review against such a ruling of the Arbitral Tribunal on its own substantive jurisdiction, under sub-section (2) of
+Section 30
+read with
+Section 32
+.
+Section 45
+also enables a Court to determine any question of law, arising in the course of arbitration proceedings, subject to certain conditions.
+Section 72
+of the Act saves the right of a person, to question, by proceedings in a Court for a declaration or injunction or other appropriate relief, as to whether there was a valid Arbitration Agreement.  The right saved under
+Section 72
+, is curiously of a person who takes no part in the proceedings. Thus, English Law gives ample scope for a person (i) either to challenge the validity of the Arbitration Agreement before the tribunal or (ii) to seek recourse to
+Section 30 (2)
+by filing an appeal or review against the ruling of the Arbitral Tribunal on such decision regarding jurisdiction (iii) or to seek a decision from a Court on a preliminary point of law or (iv) to seek a declaration or injunction or other appropriate relief before a Court without taking part in the arbitral proceedings. Therefore, English decisions may not be of any assistance particularly after the 1996 Act, for the simple reason that our Act tends to reduce the role of the Court, while the
+English Act
+does not.
+61. In so far as Canada is concerned, with the exception of Quebec, each of Canada's provinces and territories has two arbitration statutes: one for domestic arbitrations and another for international arbitrations. The applicable federal statute, namely, the Commercial Arbitration Act (R.S.C. 1985, c.C-34.6), governs both domestic and international commercial arbitrations but is limited to disputes involving the federal government, federal Crown corporations and certain enumerated federal agencies. All other arbitrations are governed by provincial or territorial law.
+Since the implementation of the UNCITRAL Model Law, Canadian courts have demonstrated a clear shift in policy in favour of arbitrations over court proceedings. On at least two occasionsin Automatic Systems Inc. v. Bracknell Corp. (1994) 18 O.R. (3d) 257, and in Canadian National Railway Co v. Lovat Tunnel Equipment Inc. (1999) 174 D.L.R. (4th) 385the Ontario Court of Appeal has stated that any ambiguities in the interpretation of arbitral legislation or agreements should be resolved in favour of arbitration.
+Canadian courts regularly implement
+Article 8(1)
+of the Model Law, which requires the stay of a judicial proceeding in favour of an arbitration where one party wishes to enforce the Arbitration Agreement (see Automatic Systems Inc v. Bracknell Corp. [1994] 18 O.R. [3d] 257). All Canadian jurisdictions have adopted
+Article 16
+of the Model Law by providing that the Arbitration Agreement is independent of the contract in which it is found and thereby permitting the Arbitral Tribunal to determine its own jurisdiction, including objections with respect to the existence of an Arbitration Agreement. Domestic arbitrations are governed by similar principles. For example, section 17(1) of the Ontario Arbitration Act provides that "an Arbitral Tribunal may rule on its own jurisdiction to conduct the arbitration and may in that connection rule on objections with respect to the existence or validity of the Arbitration Agreement.
+62. In so far as U.S.A. is concerned, some of the states have adopted the UNCITRAL Model Law, but the federal law namely, the United States Arbitration Act, 1925, now known as Federal Arbitration Act, does not appear to have been brought in tune with  the Model Law.
+Section 2
+of the said Act provides that a written Arbitration Agreement may be denied enforcement on such grounds as exist at law or in equity for the revocation of any contract. In their book "Arbitration Law in America- A Critical Assessment", published by the Cambridge University Press, the authors Edward Brunet and Richard E. Speidel,  say the following on the question of separability of the arbitration clause and its enforcement:
+"The practical effect of the separability doctrine is that in most cases, an attack on the validity or enforceability of the underlying contract will not be regarded as a direct attack on the arbitration clause and that these disputes can be decided by arbitrators under a 'broad' arbitration clause. The nagging exception is where one party attacks the 'very existence' of the underlying contract by claiming that it is void ab initio (as opposed to public policy) or that no contract was ever formed.
+The debate over 'competence' and 'separability' involves a piece of the age old struggle between courts and arbitrators. Assuming that the tribunal does not have competence to decide its own jurisdiction, the 'separability' doctrine gives the arbitrator the power to decide the merits of whether the contract in which the Arbitration Agreement is contained is enforceable. An award on a matter within the scope of 'separability' doctrine is entitled to deferential review, that is it cannot be reviewed on the merits even though it determines indirectly the validity of the Arbitration Agreement. On the other hand if the tribunal has power through agreement of parties to determine its own jurisdiction, the separability doctrine is less important"
+63. Thus an over view of arbitration law after the advent of the UNCITRAL Model Law, both in India and in the neighbouring countries as well as in England, Canada and U.S., shows--
+(i) that the arbitration clause could be "broad" enough to cover disputes relating to the validity of the contract itself even on grounds of fraud, misrepresentation etc., in which case the jurisdiction of the Arbitral Tribunal is not ousted; and
+(ii) that if the arbitration clause is not broad enough to cover those disputes, even then the 'separability' doctrine could be invoked to sustain an arbitration except in those exceptional cases pointed out as 'nagging exceptions' in the aforesaid book.
+It is on account this fundamental principle that the Supreme court pointed out the possibility of a 'broad arbitration clause'  in ITC Ltd -vs- G.J.Fernandes AIR 1989 839.
+64. Therefore, if by agreement, parties could have disputes where allegations of fraud, misrepresentation etc., are made, referred to arbitration, it is certainly possible for the legislature to bring them within the purview of arbitration. This is what the 1996 Act has done by virtue of
+section 16
+of the Act. In so far as domestic arbitration is concerned, what a court can do at the pre reference stage, is restricted to what is prescribed under
+sections 8
+,
+9
+and
+11
+. That it cannot traverse beyond what is provided therein, is also stated in
+section 5
+. Similarly what an Arbitral Tribunal can do is spelt out in
+section 16
+. If the deletion in
+section 8
+, of the rider contained in
+section 45
+is a case of omission,  the insertion of a similar rider in
+section 16
+empowering the Arbitral Tribunal to go into the question, is a case of commission. This, therefore, is a clear signal to the fact that in so far as domestic arbitration is concerned, the question as to whether an Arbitration Agreement is vitiated by fraud etc., are also to be determined only by the Arbitral Tribunal. It does not fall under the exception to the rule of casus omissus and hence the court cannot supply the same by resorting to the maxim "ex nihilo nihil fit".
+65. The reintroduction of Section 89 into
+the Code of Civil Procedure
+, by
+C.P.C. (Amendment) Act, 1999
+, which was earlier repealed by the
+Arbitration Act
+of 1940 is a pointer to the fact that the object of the Legislature is to encourage alternative dispute resolution mechanisms. The seal of approval put on the validity
+of the C.P.C
+. (Amendment) Act, in Salem Advocate Bar Association case {(2003) 1 SCC 49} and the directions issued in the second Salem Advocate Bar Association case {(2005) 6 SCC 344} are also pointers to the above fact.
+66. In view of the above, I am of the considered view that in an application under
+section 8
+, this court cannot, nay, need not, go into the question as to whether an Agreement entered into between the plaintiff and the defendant is vitiated by fraud etc., since the said question can also be determined by the Arbitrator himself. (i) The difference in language between
+sections 8
+and
+45
+, (ii) the adoption of the UNCITRAL Model Law as such in
+section 45
+, but with a modification in
+section 8
+, (iii) the doctrine of separability incorporated in
+section 16
+with a power for the arbitrator to adjudicate even the question of nullity and voidity (iv) the deviation made in
+Section 16
+from
+Article 16
+of the Model Law, elicited in paragraph-53 above and (v) the developments that have taken place world wide, are all pointers to the fact that the arbitration clause, contained in a contract to which Part-I of the 1996 Act would apply, is to act as a black box in an aircraft.  The crash of the contract (like that of the aircraft), its reasons, implications and consequences are to be ascertained only by invoking the arbitration clause. Therefore I hold that this application under
+section 8
+deserves to be allowed.
+67. There is one last issue raised by the respondent/plaintiff, namely that the defendants 2 and 3 are not parties to the Arbitration Agreement and that therefore when a comprehensive suit is laid, as against persons who are, as well as who are not, parties to the Arbitration Agreement, the parties cannot be referred to arbitration. This argument is based upon the ratio laid down by the Apex court in
+Sukanya Holdings (P) Ltd., vs. Jayesh H.Pandya and another
+{(2003) 5 Supreme Court Cases 531}. The relevant portion of
+the said decision
+is as follows:-
+"14.  Thirdly, there is no provision as to what is required to be done in a case where some parties to the suit are not parties to the Arbitration Agreement.  As against this, under
+Section 24
+of the Arbitration Act, 1940, some of the parties to a suit could apply that the matters in difference between them be referred to arbitration and the court may refer the same to arbitration provided that the same can be separated from the rest of the subject-matter of the suit.  The section also provided that the suit would continue so far as it related to parties who have not joined in such application".
+68. But
+the above decision
+is of no assistance to the respondent/plaintiff. The said decision, does not lay down as a proposition of law that the moment a person who is not a party to an Arbitration Agreement is roped in, the jurisdiction of the Arbitral Tribunal stands ousted. In a Civil Suit, the plaintiff is the dominus litus and he may cite any one as a party, at the time of institution. Such a privilege granted to a plaintiff cannot be (mis)used as a gate pass to avoid an Arbitration Agreement. In the present suit, the defendants 2 and 3, who were only Officers of the plaintiff, have been cited as defendants 2 and 3, without any relief being sought against them. They are impleaded only in view of the allegations made against them that they exceeded the authority conferred upon them to enter into derivatives transactions. In other words, the plaintiff requires their presence as witnesses and not as parties against whom any relief is sought for. In paragraph-30 of the plaint, it is made clear by the plaintiff that no specific relief has been sought against defendants 2 and 3. In such circumstances, their impleadment in the suit, cannot enure to the benefit of the plaintiff to avoid the Arbitration Agreement.
+69. In the light of my conclusion that in an application under
+Section 8
+(as distinguished from an application under
+Section 45
+), the Judicial Authority cannot go into the question as to whether the agreement is null and void, inoperative or incapable of being performed, the plaintiff should only raise these issues before the Arbitrator Justice B.N.Srikrishna (Retd.), who has already entered reference.
+70. In view of the above, the application A.No.8078 of 2007 is allowed. No costs.
+svn
+
+
+
+
+
+
+[ PRV / 15962 ]

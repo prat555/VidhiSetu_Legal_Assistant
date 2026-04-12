@@ -1,0 +1,2662 @@
+Title: Search
+Court: High Court
+Date: 35 of 2010
+Citation: SCC 705 and other
+Source: https://indiankanoon.org/doc/114204376/
+
+[Cites
+25
+, Cited by
+4
+]
+Delhi High Court
+Saisudhir Energy Limited vs Ntpc Vidyut Vyapar Nigam Limited on 8 September, 2016
+Author:
+Manmohan Singh
+Bench:
+Manmohan Singh
+*      IN THE HIGH COURT OF DELHI AT NEW DELHI
+
+%                         Judgment reserved on: 11th August, 2016
+                      Judgment pronounced on: 8th September, 2016
+
++             O.M.P. No.410/2015 & I.A. No.15360/2015
+
+       SAISUDHIR ENERGY LIMITED                   ..... Petitioner
+                     Through    Mr.C. Mohan Rao, Adv. with
+                                Mr.Lokesh Kumar Sharma, Adv.
+
+                              versus
+
+       NTPC VIDYUT VYAPAR NIGAM LIMITED        ..... Respondent
+                      Through  Mr.Maninder Singh, ASG with
+                               Mr.Bharat Sangal, Mr.Prabhas
+                               Bajaj & Ms.S.Spandana Reddy,
+                               Advs.
+
++      O.M.P. No.446/2015, I.A. Nos.17294-96/2015 &
+       20015/2015
+
+       NTPC VIDYUT VYPAR NIGAM LTD                ..... Petitioner
+                      Through   Mr.Maninder Singh, ASG with
+                                Mr.Bharat Sangal, Mr.Prabhas
+                                Bajaj & Ms.S.Spandana Reddy,
+                                Advs.
+
+                              versus
+
+       SAISUDHIR ENERGY LTD                           ..... Respondent
+                     Through           Mr.C. Mohan Rao, Adv. with
+                                       Mr.Lokesh Kumar Sharma, Adv.
+
+       CORAM:
+       HON'BLE MR.JUSTICE MANMOHAN SINGH
+
+MANMOHAN SINGH, J.
+1.     By way of this common order, I propose to decide the cross-
+objections filed by both the parties under Section 34 of the Arbitration
+OMP Nos.410/2015 & 446/2015                                  Page 1 of 72
+and
+Conciliation Act, 1996
+(hereinafter referred to as the "Act"),
+arising out of the Arbitral Award dated 21st July, 2015 passed by the
+Arbitral Tribunal.       Two out of three Arbitrators have passed the
+Majority Award and the third Arbitrator has passed the dissenting
+Minority Award.
+2.     OMP No.410/2015 has been filed by M/s. Saisudhir Energy Ltd.
+(hereinafter referred to as "Saisudhir"), challenging the Arbitral Award
+dated 21st July, 2015 whereby the Arbitral Tribunal by majority held
+that NTPC Vidyut Vyapar Nigam Ltd. has not suffered any loss and
+hence is not entitled for any damages, but despite of the said finding,
+the Arbitral Tribunal granted damages of Rs.1.2 Crores. It is alleged
+that the Arbitral Tribunal in violation of Fundamental Policy of Indian
+law had passed the said direction. By the said petition, the minority
+Award has also been challenged as a whole.
+3.     NTPC Vidyut Vyapar Nigam Ltd. (hereinafter referred to as
+"NVVN") has filed OMP No.446/2015 for setting aside the Majority
+Award in its entirety and the Minority Award to the extent of the
+direction therein to NVVN to refund a sum of Rs.4 crores to Saisudhir.
+4.     NVVN is claiming for damages of Rs.54,12,32,000/- by alleging
+that that as per the Liquidated Damages (LD) clause in the contract, it
+is entitled for the said amount.
+5.     Brief facts of the case as per the pleadings are that:-
+(i)   NVVN is a Government concern which has been identified by
+           the Government of India as Nodal Agency for facilitating
+           purchase and sale of solar PV power under the Jawaharlal
+           Nehru National Solar Mission (JNNSM) of the Government of
+           India.
+OMP Nos.410/2015 & 446/2015                                      Page 2 of 72
+Saisudhir      is   a   Company    incorporated      under      the
+Companies Act, 1956
+who is engaged in the business of
+           power generation.
+(ii) The target of the Mission is to deploy 20,000 MW of grid-
+connected solar power by the year 2022. The objective of
+           the Mission is to promote ecologically sustainable growth
+           while addressing India's energy security challenge. It will
+           also constitute a major contribution by India to the global
+           effort to meet the challenges of climate change, since solar
+           energy is environment-friendly as it has zero emissions
+           while generating electricity or heat. The Mission was
+           launched with a view to achieve the long-term objective of
+           facilitating       sustainable    power       generation       through
+           alternative/renewable         sources   of   energy,   and    reducing
+           dependence on non-renewable sources of energy which are
+           a major cause for environmental degradation and global
+           warming.
+(iii) In order to meet the objectives of the Mission, in view of the
+           high cost of purchasing solar power, it was decided to
+           bundle solar power along with cheaper unallocated quota of
+           power generated at NTPC owned coal-based stations, and
+           selling this bundled power to distribution utilities at CERC
+           regulated prices. It was also decided that NVVN would enter
+           into PPAs with Solar Power Developers with a commitment
+           to purchase power at fixed rate for a period of 25 years.
+In the guidelines for selection of the Solar Power
+           Projects under the Mission, it has been provided that the
+           objective of the guidelines is to, inter alia, facilitate a quick
+OMP Nos.410/2015 & 446/2015                                           Page 3 of 72
+start    up    of   the   Mission   and   to   facilitate   speedier
+           implementation of the new projects to be selected to meet
+           the Phase-I target.
+(iv) It has also been provided in the guidelines that final
+           selection of the project shall be done on the basis of
+           discount to be offered by the Solar Power Developers on the
+           CERC approved tariff, being Rs.15.39 per unit. Further, the
+           Bid Bond to be submitted by the Solar Power Developer
+           would be proportional to the amount of discount voluntarily
+           offered by the Solar Power Developer. As per Clause 4.6 of
+           the PPA, the amount of liquidated damages for delay in
+           commissioning of the project is directly proportional to the
+           amount of Bid Bond.
+(v) The foundation of allowing the Solar Power Developer to
+           voluntarily decide the amount of Bid Bond and not to go for
+           adventurous bidding was for the apparent reason that the
+           bidder would exercise its choice for the Bid Amount having
+           regard to the clear understanding that in the event it
+           commits any delay in the execution of the project, it would
+           become liable and would be in a position to pay damages to
+           the extent of the Bid Bond.
+6.     Phase-1 Batch-II Guidelines were issued in August, 2011 by
+MNRE (GOI) for selection of grid connected Solar Power Projects.
+Accordingly, the NVVN issued Request for Selection (RfS) on 24th
+August, 2011 for inviting applications from interested Solar Power
+Project developers for setting up Solar Photo Voltaic Projects in
+accordance with the terms and conditions set out in the RfS.
+OMP Nos.410/2015 & 446/2015                                        Page 4 of 72
+Saisudhir under the above invitation submitted its RfS for
+setting up of 20 MW Solar PV Project at Plot No.27, Vidyuthnagar,
+Ananthapur - 515001, Andhra Pradesh who was selected in terms of
+RfS and the Power Purchase Agreement (PPA) was signed by the
+Saisudhir with the NVVN on 24th January, 2012. Thereafter, Request
+for Proposal (RfP) document was issued to the Saisudhir vide Letter
+dated 17th November, 2011. The NVVN then issued a Letter of Intent
+(LOI) to the Saisudhir for selection under JNNSM Phase-1 Batch-2 on
+28th December, 2011.
+7.     Saisudhir at its own assessment of all relevant factors, had
+voluntarily submitted a bid of supplying power at Rs.8.22 per unit,
+offering a discount of Rs.7.17 per unit. As such, Saisudhir was
+required to submit a Bid Bond of Rs.50.154 crores, which was
+calculated on the basis of the amount of discount voluntarily offered
+by them. This Bid Bond was required as a security against the
+commitment of the Solar Power Developer to commence supply of
+solar power from the scheduled commissioning date, in consideration
+for which NVVN had agreed to purchase the solar power at a fixed
+rate for a period of 25 years.       It had thus understood and had
+accepted that in the event of any delay, it shall be liable to pay a sum
+equivalent to the Bid Bond as liquidated damages.
+8.     NVVN had agreed to purchase solar power from Saisudhir at a
+fixed price of Rs.8.22 per unit [i.e. the price quoted by Saisudhir in its
+Bid] for a period of 25 years. In other words, in consideration for the
+commitment of Saisudhir to commence supply of solar power from
+26th February, 2013, NTPC had guaranteed the purchase of such solar
+power at a fixed rate for a period of 25 years, notwithstanding the
+OMP Nos.410/2015 & 446/2015                                   Page 5 of 72
+reduction in cost of production/purchase of solar power in the next 25
+years.
+8.1    Time was the essence for the entire process of selection as well
+as under the PPA for completing the conditions prescribed therein. In
+terms of Article 4.1.1 (c) of the PPA, Saisudhir was obliged, at its own
+cost and risk, to commence supply of power up to the contracted
+capacity to NVVN no later than the Schedule Commissioning date and
+continuance of the supply of power throughout the term of the
+Agreement. Schedule Commissioning date as defined under the PPA
+was 26th February, 2013. Therefore, it was imperative for the
+Saisudhir under the provisions of PPA, to commence supply of Power
+by 26th February, 2013.
+8.2    It   was    agreed     between   the   parties   that   any     delay        in
+commencement of supply of power entails LD as prescribed under the
+Article 4.6
+of the PPA, and the extracts of the same have been
+reproduced herein below:
+"If the SPD is unable to commence supply of power to
+       NVVN by the Scheduled Commissioning Date other than for
+       the reason specified in Article 4.5.1 , the SPD shall pay to
+       NVVN, Liquidated Damages for the delay in such
+       commencement of supply of power and making the
+       Contracted Capacity available for dispatch by the
+       scheduled Commissioning date as per following:
+a) Delay upto one (1) month - NVVN will encash 20%
+              of total Performance Bank Guarantee.
+b) Delay of more than one(1) month and upto two
+              months- NVVN will encash 40% of the total
+              Performance Bank Guarantee
+OMP Nos.410/2015 & 446/2015                                          Page 6 of 72
+c) Delay of more than two month and upto three
+                 months-   NVVN    will  encash  the  remaining
+                 Performance Bank Guarantee."
+For delay beyond three months, Saisudhir would attract LD at
+the rate of Rs.1,00,000/- per MW per day for a period up to 18
+months of signing of the PPA.
+9.     It   is    an   admitted   position   that   Saisudhir    has     failed       to
+commission its project by the Scheduled Commissioning Date i.e. 26 th
+February, 2013.
+10.    The dispute in the present case has arisen from the delay
+caused by Saisudhir in providing solar power in terms of the Power
+Purchase Agreement executed between Saisudhir and NVVN. As per
+the terms of the PPA dated 24th January, 2012, Saisudhir was obliged
+to supply 20 MW of solar power from 26th February, 2013 for a period
+of 25 years. Saisudhir commissioned the supply of 10MW from 26th
+April, 2013, i.e. after a delay of two months from the Scheduled
+Commissioning          Date.   The   remaining      capacity    of   10MW         was
+commissioned by Saisudhir from 24th July, 2013, i.e. after a delay of
+approximately 5 months from the Scheduled Commissioning Date.
+11.    It was pleaded by the NVVN before the Arbitral Tribunal that
+electricity is utility service being provided by it. It is neither practical
+nor possible to compute damages for all tangible/intangible losses
+with reference to any utility where hundreds and thousands of the
+users/consumers are dependent upon such utility service. It is a
+settled position in law that the named amount of damages in the
+agreement is the genuine pre-estimate and there is no obligation to
+prove the loss.
+OMP Nos.410/2015 & 446/2015                                            Page 7 of 72
+12.     The contention of NVVN is that the contract being in respect of
+Public Utility Service, it is not possible to assess the loss and hence,
+the LD's as provided in the contract are liable to be allowed as
+genuine pre estimate of actual losses suffered.
+In support of the
+contention NVVN relied on the judgment of the Supreme Court in
+ONGC Ltd. v. Saw Pipes Ltd.
+, (2003) 5 SCC 705 and other
+decisions of the Supreme Court and High Courts following the dicta of
+said judgment.
+13.     In order to justify the delay, it was stated by Saisudhir that due
+to various reasons which are completely beyond the control of the
+NVVN, (but not covered by the force majeure clause under the
+contract),    the    project   was   delayed.   The   Saisudhir   could      not
+commence production of energy by 26th February, 2013, the
+Commercial Operation Date. Saisudhir started pumping 10MW energy
+from 26th April, 2013 and the remaining 10MW Energy from 24th July,
+2013. There was thus, a delay of 2 months in pumping 10MW and 5
+months delay in pumping the remaining 10MW energy to the NVVN.
+Saisudhir addressed a letter dated 30th January, 2013 to the
+NVVN seeking extension of time by two months, explaining the
+reasons for the delay in completing the project. The NVVN vide letter
+dated 31st March, 2013, rejected the request of the Saisudhir for
+extension of time stating that a notice of 'force majeure' under clause
+11.5.1 of PPA is a necessary condition for entitlement of the benefit
+under force majeure clause and as the NVVN has not received any
+force majeure notice, the Saisudhir is not entitled for extension of
+time.
+14.     In view of rejection of extension of time, Saisudhir apprehended
+that the NVVN may encash the Bank Guarantees provided by
+OMP Nos.410/2015 & 446/2015                                       Page 8 of 72
+Saisudhir who filed OMP No.173/2013 before this Court seeking to
+restrain from encashing the Bank Guarantees. This Court vide order
+dated 27th February, 2013 granted interim order in favour of the
+Saisudhir, restraining the NVVN from encashing the bank guarantees,
+with a direction to the Saisudhir to keep the bank guarantees alive.
+Thereafter, the Arbitral Tribunal of three members was constituted for
+adjudicating the disputes between the parties. This Court vide order
+dated 23rd May, 2013, permitted the parties to place the pleadings,
+which were available before this Court, before the Arbitral Tribunal for
+passing appropriate orders under
+Section 17
+of the Act. The parties
+however, did not press for orders under
+Section 17
+of the Act and
+addressed arguments on the main claims. The Bank Guarantees to
+the extent of Rs.54,12,32,000/- were extended from time to time and
+were valid till 25th August, 2015.
+15.    Saisudhir filed a claim statement, inter-alia, contending that
+NVNN has not invested a single rupee in the project and has not
+suffered any loss or damage and in view of the settled position of law,
+is not entitled for any damages or compensation and cannot invoke
+the Bank Guarantees. Under Claim No.2, Saisudhir claimed refund of
+the charges incurred by it in keeping the Bank Guarantees alive. By
+the time of filing the statement of claim, Saisudhir had incurred a sum
+of Rs.70,44,187/- in maintaining the Bank Guarantees and sought an
+award for the said amount plus the amount to be incurred in
+maintaining the Bank Guarantees during the pendency of arbitration
+proceedings. By the time of filing of the written submissions, the
+Saisudhir had incurred a sum of Rs.1,71,83,047/- (The total amount
+incurred in maintaining the bank guarantee from July, 2013 to 25th
+OMP Nos.410/2015 & 446/2015                                 Page 9 of 72
+August, 2015 is Rs.2,24,66,278/-) on count of maintaining Bank
+Guarantees and sought an award for the same under claim No.2.
+16.    Saisudhir also claimed that it is entitled for costs of arbitration.
+NVVN submitted a claim for the sum of Rs.77,51,199/- and as the
+litigation costs incurred in the matter by the time of filing of written
+submissions including the amounts paid to the Arbitrators subsequent
+to    reserving    the    award,   the   NVVN   had   incurred   a   sum     of
+Rs.91,68,887/- on account of fee of Arbitrators, counsels' fee and
+travelling expenses, expenses toward Arbitration venue etc.
+17.    The main contention before the Arbitral Tribunal on behalf of
+Saisudhir was that NVVN has not invested a single rupee in the
+project and has not suffered any loss whatsoever thus, NVVN is not
+entitled for any damages. Referring to the provisions of
+Sections 73
+and
+74
+of the Indian Contract Act and judgment of the                Supreme
+Court in
+Fateh Chand v. Balkishan Dass
+,
+AIR 1963 SC 1405,
+Maula Bux v. Union of India
+, (
+1969) 2 SCC 554, Union of India v.
+Rampur Distillery and Chemicals Co. Ltd.
+, (1973) 1 SCC 649,
+ONGC v. Saw Pipes Ltd., (
+2003) 5 SCC 705, State of Kerala v.
+United Shipper and Dredgers Ltd.
+,
+AIR 1982 Ker 281, Praveen
+Oberoi v. Raj Kumari
+, (
+2014) 207 DLT 116 and Vishal Engineers
+& Builders v. Indian Oil Corporation Ltd.
+, (2012) 1 Arb.LR 253
+(Delhi) (DB), Saisudhir contended that NVVN is not entitled for any
+damages, as it was a simple case of breach of contract.
+18.    It was alleged that NVVN at the best is entitled to compensation
+only to the extent of loss suffered. As NVVN has not suffered any loss
+in the present case, the question of compensation or damages does
+not arise and the entire project cost of Rs.193 Crores was incurred by
+Saisudhir. The NVVN was under an obligation to act in terms of as
+OMP Nos.410/2015 & 446/2015                                      Page 10 of 72
+well as in furtherance of the objectives of the Mission i.e. propagation
+of Solar Energy; it cannot act in a manner detrimental to the
+objectives of the Mission, if this Court would permit the NVVN to
+encash Bank Guarantees for a short delay of few months, it would put
+a death knell on the project, which was to last for 25 years. It was
+also submitted before the Arbitral Tribunal by Saisudhir that as
+production of solar energy is not commercially viable and was
+conceived keeping in view the long term benefits, profit or immediate
+generation of energy is not the object of the Mission and the project
+cannot be jeopardized for the short delay. The project was to supply
+solar   energy      for   25   years    and   a   delay   of   2-5   months          is
+inconsequential. It is stated by Saisudhir before the Arbitral Tribunal
+that NVVN is under a triple obligation: (i) as a State under
+Article 12
+of the Constitution of India, (ii) under
+Section 74
+of the Contract Act,
+and (iii) in terms of the objectives of the Mission;                 to act in a
+reasonable and fair manner.            The NVVN should not act in an unfair
+manner to penalize Saisudhir for the short delay, for no fault of
+Saisudhir by seeking damages, when it suffered no loss at all.
+19.     The NVVN filed a statement of defence contending that under
+the Power Purchase Agreement, Saisudhir was under an obligation to
+set up the project at its own cost and risk and to commence supply of
+power to the contracted capacity. Due to delay in commencement of
+supply of power, the project as well as discoms, (who were to
+purchase power from the petitioner) suffered.                  According to the
+NVVN, its investment is in the form of the obligation to purchase
+power for 25 years and the damages stipulated under the contract are
+genuine estimate of the loss suffered; Saisudhir knowing well the
+liability to pay damages submitted the Bank Guarantees, and
+OMP Nos.410/2015 & 446/2015                                          Page 11 of 72
+Saisudhir was also not entitled for extension of time merely on
+asking. Referring to force majeure clause in the agreement, the NVVN
+contended that the same is not applicable. The NVVN also denied the
+plea    of      the   Saisudhir   that   the   damages   are   exorbitant     or
+unreasonable.
+20.    The Arbitral Tribunal vide majority Award dated 21st July, 2015
+has allowed the claims of the Saisudhir by holding that the NVVN
+cannot levy any Liquidated Damages, as the NVVN has not suffered
+any loss and hence, the burden of proof of proving the same is on the
+NVVN for the breach committed by the Saisudhir. It is further held
+that the NVVN has not suffered any loss, as the NVVN has not
+invested any money in the project and hence, is not entitled to the
+liquidated damages as claimed. It was opined by the Tribunal that the
+liquidated damages as levied by the NVVN is totally unreasonable and
+unjustified and Saisudhir is entitled for the return of BGs amount to
+Rs.53,92,32,000/- which was submitted by Saisudhir as a part of
+earnest money deposit (EMD).
+21.    The main reasons for passing the Majority Award by the Arbitral
+Tribunal after discussing the pleadings of the parties and the
+documents in favour of Saisudhir are mentioned in para 113 of the
+Majority Award which reads as under:-
+"113. From the above discussion, AT is of the view:
+i.      The respondent has not invested any money in the
+                 project.
+ii.     The respondent has not suffered any loss, as no
+                 effort has been made to prove the same.
+         iii.    The respondent had not suffered on account of its
+                 consequential breach to supply energy to discoms,
+                 as no claim of discoms against the respondent on
+OMP Nos.410/2015 & 446/2015                                       Page 12 of 72
+account of consequential breach on part of the
+              respondent, have been placed before the AT.
+         iv. The respondent has also not suffered any loss of
+              capital or loss of interest on capital, having not
+              invested any amount in the project.
+v. The respondent has not established that the project
+              has suffered on count of delay.
+vi. The project is not of such a nature as to cause loss
+              on count of mere delay unlike construction of a road
+              for public purpose, school, hospital, sewage pumping
+              station etc.,
+         vii. The object of the mission being long term promotion
+              of solar energy (25 years in this case), a delay of
+              about 2-5 months in the present case is not of much
+              consequence."
+22.    It is also pertinent to mention here that despite of the said
+reasoning, in the Majority Award in para 114, it was held as under:-
+"114. In view of the above, it is difficult to hold that the
+         respondent has suffered loss, which needs to be
+         compensated by the claimant. The AT therefore holds
+         that the respondent has not suffered any loss in
+         completing the project in time.        However, since the
+         claimant has failed to complete the work in time and has
+         delayed the same for 2-5 months, which has delayed the
+         supply of power to the respondent, the AT is of the view
+         that the claimant is liable to pay Rs.1.2 Crores to the
+         respondent as 20% of the amount specified in the
+         original performance guarantee at the rate of Rs.30 Lacs
+         per MW for the delayed performance. The AT awards
+         accordingly."
+23.    The second claim of the Saisudhir regarding charges and costs
+incurred in maintaining the bank guarantees was decided in para 115
+of the Award.          The relevant extracts of the same have been
+reproduced here as under:-
+"115. .......The claimant made a claim of Rs.1,71,83,047
+         on account of maintaining bank guarantees for the period
+OMP Nos.410/2015 & 446/2015                                   Page 13 of 72
+of delay not attributable to the claimant. The respondent
+         contended that the claimant had to maintain the bank
+         guarantee as a consequence of the interim injunction
+         obtained by the claimant.         The interim orders are
+         conditional in nature and for the benefit of the claimant.
+         The claimant thus cannot seek to fasten the liability of
+         maintaining the Bank Guarantees on the respondent.
+         Thus the claim of the claimant for reimbursement of bank
+         charges for maintaining the bank guarantees is rejected
+         and AT awards nil amount against the same."
+24.    The minority award published on 21st July, 2015 by one of the
+Members of the Arbitral Tribunal who has taken a dissenting view and
+has arrived at different findings in paras 117 to 124, is contrary to the
+majority award. The said paras 117 to 124 read as under:
+"117. Further Clause 2.9 in its last para of Guidelines and
+        Clause 3.19 of RfS (Para 3 at Page 116 of SOC) clearly
+        stipulates that in case NVVN selects the Claimant and
+        offers to execute the PPA and the Claimant refuses or is
+        not in a position to implement /execute the PPA within
+        the stipulated time frame, the BGs towards the EMD and
+        Bid Bond shall be encashed by NVVN. It is thus amply
+        clear that even prior to executing the PPA, the Claimant
+        was certainly liable to have the BGs towards EMD and Bid
+        Bond encashed on Claimant's failure to forge ahead with
+        contract execution. This condition not being part of
+        contract, it would be in the nature of guarantee and
+        certainly not hit by
+Section 73
+or
+Section 74
+of The Indian
+        Contract Act 1872, which deals only with contractual
+        terms. It may perhaps be pertinent to reproduce
+Section
+        74
+of The Indian Contract Act 1872 which stipulates as
+        under:
+Quote
+              "
+Section 74
+: Compensation for breach of
+              contract where penalty stipulated for:- When a
+              contract has been broken, if a sum is named in the
+              contract as the amount to be paid in case of such
+              breach, or if the contract contains any other
+              stipulation by way of penalty, the party complaining
+OMP Nos.410/2015 & 446/2015                                  Page 14 of 72
+of the breach is entitled, whether or not actual
+              damage or loss is proved to have been caused
+              thereby, to receive from the party who has broken
+              the contract reasonable compensation not exceeding
+              the amount so named or, as the case may be, the
+              penalty stipulated for. "
+The breach, on the part of the Claimant in fulfilling
+        its obligations, not only resulted in injury to the
+        implementation of the Mission but also resulted in injury
+        to the Discoms for failure to fulfill the renewable purchase
+        obligation with the Discoms. The liquidated damages
+        provided under the Clause 4.6 are a genuine pre-estimate
+        of loss suffered by the Respondent, which cannot be
+        directly evaluated or measured due to the nature of
+        transaction and being formed partly from the Bid offer of
+        the Claimant, made on its own volition. The factum of
+        occurrence of loss in such a case is inherent in the delay
+        on the part of the Claimant in the commissioning of the
+        Project.
+I am inclined to toe the line of argument of the
+        Respondent as it obviously could not have pleaded the
+        loss or produced any evidentiary evidence. The
+        Respondent is, as such, entitled to receive from Claimant
+        who has delayed the commissioning of the Power Plant a
+        reasonable compensation.
+118. It is an admitted fact that out of 20. MW, with COD
+        being 26.02.2013 the Claimant commissioned 10MW on
+        26.04.2013 with a delay of 02 months the remaining
+        10MW on 24.07.2013 (Refer Page 1 RH-2) with a delay of
+        about 05 months. It has to be noted that it may not be
+        possible to work out the exact loss because the Solar
+        Power to be generated cannot be replaced by Solar Power
+        generated elsewhere as all such Solar Projects are tied up
+        with their respective Agreements to supply discoms after
+        bundling of Power. Therefore as LD and which is directly
+        related to the bid submitted by the Claimant has to be
+        treated as a genuine pro-estimate of loss and the
+        Claimant is bound to pay LD to the Respondent in terms
+        of
+Article 4.6
+of the PPA (Refer Page 82 of SOC).
+OMP Nos.410/2015 & 446/2015                                  Page 15 of 72
+119.       We must not lose sight of the fact that the
+        Claimant was selected at the stage of RfP because of the
+        discount offered by it. And accordingly the amount of Bid
+        Bond submitted was directly proportional to the discount
+        offered by the Claimant and in case it had offered lesser
+        discount the amount of Bid Bond would have been less.
+        The Claimant chose a discount of Rs.7.17/ unit and as
+        such must mitigate its responsibility fully in term of an
+        agreed PPA.
+120.       Here it may perhaps be prudent to cite also
+Sections 126
+and
+127
+of The Indian Contract Act, 1872
+        which speaks of "Contract of Guarantee". A "Contract of
+        Guarantee" is a contract to perform the promise or
+        discharge the liability, of a third person in case of his
+        default. Any benefit given to the principal debtor is a
+        consideration to the surety for giving the guarantees. And
+        in the present case the Bank is the surety for issuing the
+        guarantee to NVVN on behalf of the Claimant Encashment
+        of such guarantees is obviously distinct from damages for
+        breach of contract. I am certainly convinced about it.
+121.       Further a reference to "Law of Guarantee" by
+        Geraldine Andrews, 6th Edition, Sweet and Maxwell
+        Chapter 16 at Page 616 (Refer Page 60 of RH-1) states
+        and makes it distinctly clear that performance
+        bond/performance guarantee are to be treated as
+        substitutes for cash and are security for due performance
+        which the beneficiary would be entitled to in case of
+        alleged breach of contract (Refer Page 63 of RH-1). It was
+        further held that such performance bonds or similar
+        instruments performed the Role of an effective safeguard
+        against nonperformance, inadequate performance or
+        delayed performance.
+122.        In fact CONSTRUCTION LAW Volume-II by
+        Julian Bailey (Refer Pages 66-70 of RH-1) clearly indicates
+        that such performance bonds/ guarantees are distinct
+        from the underlying contract and need to be given effect
+        to.
+OMP Nos.410/2015 & 446/2015                                 Page 16 of 72
+123.       A reference to Hudson's Building and
+        Engineering Contracts 12th Edition (Pages 77- 81 of RH-1)
+        and 1978 (1) ALL ER 976 Edward Owen Engineering Ltd.
+        Vs. Barclays Bank International Ltd. (Pages 82-93 of RH-
+1) holds that performance guarantees are virtually
+        promissory notes payable on demand, to be honoured
+        according to the agreed terms and conditions.
+124.       And even in 1986 II Lloyd's Report 146 Siporex
+        Trade SA Vs. Banque Indo Suez (Refer Pages 94- 112 of
+        RH-1), it was held at Page 106 of RH-1 that the whole
+        commercial purposes of a performance bond is to provide
+        security which is to be readily, promptly and assuredly
+        realizable when the default occurs. And I accordingly hold
+        that Respondents are entitled to encash the BGs."
+25.    However, in para 133.1, in the Minority Award, NVVN was asked
+to encash these BGs but partially accepted to the tune of Rs.4 Crores,
+i.e. the amount towards EMD lying in the form of Performance Bank
+Guarantee which NVVN should refund back to the Saisudhir within 90
+days from the date of announcement of that Award, which is also
+challenged by the NVVN in its objections being OMP No.446/2015.
+26.    Notices in both the petitions were issued by the earlier Bench.
+Both the parties have made their submissions. They have also filed
+their written submissions.     Mr.Maninder Singh, learned ASG and
+Senior Advocate instructed by Mr.Bharat Sangal, Advocate appeared
+on behalf of NVVN and addressed the arguments.           On behalf of
+Saisudhir, Mr.C.Mohan Rao, Advocate with Mr.Lokesh Kumar Sharma
+has made the submissions.
+27.    Mr.C.Mohan Rao, learned counsel appearing on behalf of
+Saisudhir has referred the relevant part of the pleadings, various
+paras of majority award as well as minority award. He also referred
+large number of judgments in support of his submissions.        He says
+OMP Nos.410/2015 & 446/2015                                 Page 17 of 72
+that the facts and circumstances in the present case are materially
+different than the case of
+Saw Pipes
+(supra).
+The facts in present
+case are similar to the judgment of
+Kailash Nath Associates v.
+DDA
+, (2015) 4 SCC 136. He argued that NVVN in the present case
+has neither invested any amount nor suffered any loss and proved
+any damages. Thus, the plea of NVVN is not substainable.
+28.    Mr.Rao submits that the Supreme Court in
+Kailash Nath
+Associates
+(supra) explained as to when a LD clause in a contract
+may be taken as pre estimate of losses suffered and held as under:-
+"43.1       Where a sum is named in a contract as a
+       liquidated amount payable by way of damages, the party
+       complaining of a breach can receive as reasonable
+       compensation such liquidated amount only if it is a
+       genuine pre-estimate of damages fixed by both
+       parties and found to be such by the court. In other
+       cases, where a sum is named in a contract as a
+       liquidated amount payable by way of damages, only
+       reasonable compensation can be awarded not
+       exceeding the amount so stated."
+Mr.Rao argues that the Supreme Court in BSNL v. Reliance
+Communications Ltd., (2011) 1 SCC 394, explained that when the
+amount stipulated is in terrorem or forces a party to perform the
+contract, it would amount to penalty. It was held as under:-
+"47.  According to Chitty on Contracts "whether a
+       provision is to be treated as a penalty is a matter of
+       construction to be resolved by asking whether at the time
+       the contract was entered into the predominant contractual
+       function of the provision was to deter a party from
+       breaking the contract or to compensate the innocent party
+       for breach. The question to be always asked is whether the
+       alleged penalty clause can pass muster as a genuine pre-
+       estimate of loss". (See para 26-126 of Chitty on Contracts,
+       30th edition) The fact that damage is difficult to assess
+OMP Nos.410/2015 & 446/2015                                 Page 18 of 72
+with precision strengthens the presumption that a sum
+       agreed between the parties represents a genuine attempt
+       to estimate it and to overcome the difficulties of proof at
+       the trial."
+He also relied upon the relevant extract of the Law of Contract
+by G.H. Treitel (10th edition), as per which a clause is penal if it
+provides for -
+".....a payment stipulated as in terrorem of the offending
+       party to force him to perform the contract. If, on the other
+       hand, the clause is an attempt to estimate in advance the
+       loss which will result from the breach, it is a liquidated
+       damages clause. The question whether a clause is penal or
+       pre-estimate of damages depends on its construction and
+       on the surrounding circumstances at the time of entering
+       into the contract."
+"Lastly, the fact that a sum of money is payable on breach
+       of contract is described by the contract as "penalty" or
+       "liquidated damages" is relevant but not decisive as to
+       categorization."
+29.    He says that if the pleadings in the above matter are examined,
+it is clear that the objective of the mission was promotion of solar
+power and not immediate supply of power. NVVN had admitted that
+LDs are levied not due to delay in delivery of power or delay in sale of
+power due to delay in commissioning of the project.        NVVN never
+contended that the LDs were agreed as pre-estimate of losses as it
+pleaded that the objective of the LDs was to prevent Saisudhir from
+abandoning the project. In case the objectives of the Mission is
+considered in a meaningful manner, it would appear that in fact, the
+nature of contract was not in respect of Public Utility and the LDs are
+not stipulated as pre-estimate of losses. Thus, none of the arguments
+advanced on behalf of NVVN before this Court is contrary to the
+pleadings and against the settled legal position. The main purpose of
+OMP Nos.410/2015 & 446/2015                                 Page 19 of 72
+inclusion of Clause 6.4 in the Contract was that his client should not
+break the contract.           The said clause was stipulated in the nature of
+terrorem so that his client must perform the contract in time and the
+said clause amount to penalty and not damages.
+He    submits     that      the   Supreme     Court    in
+Kailash     Nath
+Associates
+(supra) also        held   that   "Since
+Section   74
+awards
+reasonable compensation for damage or loss caused by a breach of
+contract, damage or loss caused is a sine qua non for the
+applicability of the section." As NVVN had not suffered any loss,
+therefore, it is not entitled for any damages.
+30.    Mr.Rao has referred the pleadings which indicate that the object
+of the Mission was promotion of solar energy and not immediate
+supply of solar power to any consumer. The Mission was conceived as
+a long term measure. The Mission has set the ambitious target of
+generation of 20000 Mega Watts (MW) of Solar Power by 2022
+through "long term policy, large scale deployment goals, aggressive
+R & D."
+Mr.Rao has also referred the preamble of the Mission among
+others which provided that "The successful implementation of the
+JNNSM requires the identification of resources to overcome
+the financial, investment, technology, institutional and other
+related barriers, which confront solar power development in
+India. The penetration of solar power, therefore, requires
+substantial support." The scope and objectives of the Mission are:
+i)     To facilitate of quick start of JNNSM.
+
+       ii)    To ensure serious participation for projects to be
+selected under JNNSM. (LD's are provided to ensure this
+              objective)
+OMP Nos.410/2015 & 446/2015                                            Page 20 of 72
+iii)     To facilitate speedier implementation of the new projects
+                to be selected to meet the Phase-I target of JNNSM.
+iv)      To enhance the               confidence       in   the   project
+                developers; and
+
+       v)       To provide manufacturing in solar sector in India.
+31.    He submits that the Mission was to be implemented in three
+phases.       NVVN     was      appointed    as   a   Nodal    Agency    for    the
+implementation of Phase-I of the Mission. The first phase was divided
+into two batches. The capacity allocated under Batch-I was 150 MW
+Photovoltaic (PV) power generation. Under Batch-I, Saisudhir gave a
+bid for and successfully implemented a 5 MW project.                     Batch-II
+targeted 350 MW of PV power. Bids were invited for setting up of the
+project by the bidders at their own cost and bids are awarded to a
+bidder giving maximum discount on the bench mark tariff fixed by the
+Central       Electricity     Regulatory    Commission    (CERC).    The       CERC
+approved tariff under Batch-II was Rs.15.39 per unit. On this
+Saisudhir gave a discount of Rs.7.17 per unit offering to supply Solar
+Power at Rs.8.22 per unit.
+Mr.Rao states that despite of investing more than the estimated
+project cost of Rs.193 Crores, Saisudhir could not complete the
+project in time due to various reasons completely beyond its control
+including the reason of non-availability of sand in view of complete
+ban imposed on sand mining in Andhra Pradesh by the High Court of
+Andhra Pradesh.             Saisudhir, therefore, addressed a letter to NVVN
+seeking extension of time by 2 months vide letter dated 13th January,
+2013. NVVN rejected the request for extension of time by its letter
+dated 31st January, 2013.
+OMP Nos.410/2015 & 446/2015                                          Page 21 of 72
+In the very first paragraph of the claim statement filed before
+the Arbitral Tribunal Saisudhir contended that:
+"1.   .......The contention of the claimant in essence is that
+       the respondent is not entitled for any damages as the
+       respondent has not invested a single rupee towards the
+       project and has not suffered any loss or damage. The
+       respondent is merely a nodal agency for the
+       implementation of the Jawaharlal Nehru National Solar
+       Mission (JNNSM) and is required to act in conformity with
+       the policies and objections of the mission and cannot take
+       any action contrary to the objectives of the mission. The
+       action of the respondent in seeking damages from the
+       claimant has the effect of stifling and killing the
+       development and production of solar energy. It is the
+       further contention of the claimant that the respondent is
+       also not entitled for any damages in view of provisions of
+Section 73
+&
+74
+of the Indian Contract Act."
+32.    Mr.Rao says that though the NVVN has not suffered any loss,
+however, in paragraph 1 of reply to the statement of claim, it is
+contended that "....The delay in commissioning of project,
+therefore, delays purchase and sale of solar power causing
+loss of committed energy to discoms".              Further, NVVN in
+paragraph 14 of reply to the statement of claim contended that
+"Failure of the claimant in performing his obligations under the PPA
+would not only            result in injury for failure to perform in
+implementation of JNNSM but would also result in injury to
+discoms for failure to fulfilment of Renewable Purchase Obligation
+(RPO) with them. The respondent thus suffered tangible               and
+intangible losses as a Nodal Agency for non performance of
+claimant."
+33.    Mr.Rao also submits that NVVN admitted in its pleadings that
+the objectives of the Mission who is not designated as nodal agency
+OMP Nos.410/2015 & 446/2015                                Page 22 of 72
+for any purpose other than procuring solar power and therefore, it
+cannot be canvassed that it was also designated for furthering any of
+the purposes or objectives of the Mission except for the purchase of
+solar power.
+34.    Mr.Rao submits that the contention of the parties regarding the
+objectives of the mission was considered in the majority award in
+paras 69 to 73 who rejected the contention of NVVN. The majority
+award held as under:
+"71. The Mission was conceived with the avowed object
+       of promoting Solar Power. It was not profitable or
+       commercially viable to set up a Solar Power plant. Serious
+       impetus is required to promote Solar Power, keeping in
+       view the future power requirements. The objectives and
+       the measures required to be taken to promote Solar Power
+       are clearly spelt out in the preamble of the Mission.
+       Everyone, who is associated with the Mission are
+       bound by the objectives of the Mission. No one,
+       particularly the agency that was entrusted with the
+       task of implementing the Mission can contend that it
+       is not bound by the objectives of the Mission. The
+       best laid out plans go wary because long term goals
+       envisaged by Mission are usually ignored for short
+       term immediate benefits jeopardising the Mission. It
+       is therefore, difficult to accept the contention of the
+       respondent that it is merely concerned with the
+       purchase of Solar Power and is not concerned with
+       the objectives of the Mission. Considering the JNNS
+       Mission and its objectives, the contention of the
+       respondent that it is merely a nodal agency for procuring
+       solar power from SPD's and is not concerned with the
+       objectives of the Mission cannot be accepted. It is clear
+       from clause 2.7 (d) of the guidelines for selection of Solar
+       PV projects that an SPD is required to provide bank
+       guarantees on count of bid bond on a graded scale in order
+       to discourage adventurous bids. It is open to the
+       respondent to sustain the same on the grounds specified in
+       the Mission documents. It is not open to the respondent to
+       contend that it is not at all concerned with the objectives
+OMP Nos.410/2015 & 446/2015                                 Page 23 of 72
+of the Mission. Various provisions in the Mission documents
+       are to be considered harmoniously keeping in view the
+       objectives sought to be achieved by Mission and the
+       portion in the preamble designating the respondent as a
+       nodal agency for procuring solar power from SPD's cannot
+       be read in isolation completely excluding other provisions
+       and the objectives."
+He submits that it has incorrectly come to the conclusion in the
+minority award wherein while dealing with the guidelines of Clause
+2.6 it was held that ".....justifiably there was no other purpose for
+NVVN other than procuring Solar Power under PPA." This finding in
+the minority award that objectives of the mission are not binding on
+NVVN, which is nodal agency for the implementation of the Mission is
+absolutely perverse.
+35.    The other contention of Saisudhir is that NVVN is under a Triple
+Obligation to act in a reasonable and fair manner. Firstly, being State
+within the meaning of
+Article 12
+of the Constitution of India (in
+refusing to grant reasonable extension of time considering Saisudhir
+was at no fault in completing the project and was prevented in view of
+blanket ban on sand mining in Andhra Pradesh by the High Court of
+Andhra Pradesh.) Secondly, keeping in view of the objectives of the
+mission viz; promotion of Solar Power and finally, in terms of
+Section
+74
+of the Indian Contract Act, which mandates reasonable damages in
+case of loss.
+It is submitted by Mr.Rao that the judgments relied on by NVVN
+however does not support the contention of NVVN and have
+specifically provided that the State must act in a reasonable and fair
+manner.      The issue regarding the requirement of NVVN to act in a
+reasonable and fair manner was considered in the majority award in
+OMP Nos.410/2015 & 446/2015                                 Page 24 of 72
+paragraphs 75 to 84. Quoting from the very same judgments relied
+on by NVVN, the majority award held:
+"80. The legal position is thus exactly the opposite of
+       what has been propounded by the respondent. While
+       according to the respondent "The principles of
+       administrative law like fairness, arbitrariness etc. have no
+       place when dealing with the commercial transactions in
+       which the government is a party," the judgment relied on
+       by the respondent itself has clearly and categorically stated
+       that "the court can examine the decision making
+       process and interfere if it is found vitiated by
+       malafides unreasonableness and arbitrariness. The
+       state,   its   corporations,      instrumentalities      and
+       agencies have the public duty to be fair to all
+       concerned".
+81. Thus the contention of the respondent that it is
+       not required to act in a fair and reasonable manner
+       cannot be accepted. ....."
+Thus, the majority award is not required to be interfered with.
+36.    It is contended by Mr.Rao that his client Saisudhir had pleaded
+and produced the evidence in support of the contention that NVVN
+had not suffered any loss who contrary to the scheme and object of
+the Mission has levied damages. The majority award in paragraphs
+89 to 93 considered the contention of NVVN that the claim is
+premature. It was held as under:
+"91. .....The contention that the respondent has not raised
+       any demand for liquidated damages hence the claim is
+       premature is misleading, as the respondent, under the
+       facts of the case, is not required to raise any demand. The
+       respondent however, is under an obligation to justify its
+       entitlement for liquidated damages once the same is under
+       challenge. Even in the written arguments, rather than
+       providing justification, the respondent resorted to a
+       misleading contention that it has not pleaded any
+       loss as it had not raised any demand. The loss, if
+OMP Nos.410/2015 & 446/2015                                  Page 25 of 72
+any, is a question of fact, which the Tribunal has to
+       determine on the basis of pleadings and proof. Once
+       the claimant has asserted that the respondent has
+       not invested a single rupee and has not suffered any
+       loss, it is imperative for the respondent to give a
+       justifiable response. The respondent cannot shirk or
+       avoid its burden of showing loss merely on the
+       ground that it has not raised the demand. Loss is
+       different from raising a demand on account of loss. When
+       the only dispute between the parties is whether the
+       respondent is entitled to damages, for the loss sustained,
+       the respondent escapes the liability to show the loss on the
+       ground that it has not raised the demand. The question is,
+       the entitlement of the respondent for damages, which it is
+       under an obligation to justify irrespective of the fact
+       whether it chose to make a demand for the same or not."
+37.    It is stated by Mr.Rao that the majority award considered the
+contention of NVVN that due to delay in supply of power mission has
+suffered loss in paragraph 101 of the award. The majority award held
+as under:
+"101. The claimant on the other hand submitted that the
+       Mission has not suffered any loss on account of delay.
+       According to the claimant if the respondent is
+       permitted to levy damages it would put a death knell
+       on the claimant and the Mission would suffer. Except
+       for making a statement the respondent has not
+       stated as to what loss the Mission has suffered. We
+       would have accepted the contention of the
+       respondent that the Mission had suffered loss, had
+       the claimant abandoned the project. In such a case
+       loss to the Mission could have been assumed. We are
+       not inclined to accept the contention that the Mission has
+       suffered loss on count of delay. The very object of
+       providing the high bid bond was 'to prevent adventurous
+       bidding'. The respondent in the Written Submissions
+       (in para 2.6) contended that the bid bond is
+       submitted to ensure that the bidder executes the
+       contract and does not run away after selection. In
+OMP Nos.410/2015 & 446/2015                                 Page 26 of 72
+the present case the bidder certainly did not run
+       away, though there was delay. It is thus difficult to
+       accept the contention that the Mission has suffered
+       on count delay in completing the project."
+It is also contended by Mr.Rao that the majority award also
+considered the contention of NVVN that the delay has resulted in
+injury to the discoms due to the delay in paragraph 102 of the Award.
+The majority award held as under:
+"102. The further contention of the respondent is that the
+       delay has caused an injury to discoms as the respondent
+       has failed to supply energy to discoms. The contention is
+       not that the respondent has suffered any injury. The
+       contention is that the breach on part of the claimant has
+       resulted in consequential breach on part of the respondent
+       is supplying energy to the discoms. Thus conversely, the
+       respondent can claim damages from the claimant on the
+       discoms making claim for damages against the
+       respondent.     Discoms however, made no claim for
+       damages against the respondent. Consequential breach on
+       part of the respondent has not resulted in any loss to the
+       respondent and hence, the respondent cannot raise any
+       claim against the claimant."
+He submits that after appreciation of pleadings and law, the
+Arbitral Tribunal held as under:
+"98. The law on the aspect of liquidated damages is
+         crystal clear. The principle has been reiterated time and
+         again. Breach simplicitor would not entitle a party for
+         damages.      A party who suffered loss on account of
+         breach is entitled to be compensated for the loss suffered
+         and to the extent of loss suffered. In case where an
+         amount is stipulated, a party who suffered loss on count
+         of breach would be entitled for reasonable compensation
+         not exceeding the amount. This aspect is clear from the
+         judgments quoted above. Without exception all the
+         judgments reiterated the very same legal position."
+OMP Nos.410/2015 & 446/2015                                 Page 27 of 72
+"105. As stated, the law is consistent and all the cases
+         cited before us, Court have held that a party can claim
+         damages only when it suffers loss. In Fateh Chand, Maula
+         Bux, Rampur Distillery, United Shippers and Dredges,
+         Praveen Oberoi, Vishal Engineers the courts denied
+         damages on the ground that the party claiming damages
+         have not suffered any loss."
+38.    It is also submitted by Mr.Rao that on one hand, the NVVN had
+not pleaded or made any effort to show that it had suffered any loss
+on count of delay, as the stand of the NVVN was that the discoms
+have suffered the loss, the mission has sufferd the loss and it is
+premature for the NVVN to quantify the loss as it had not taken any
+action even to encash the bank guarantees and the said contentions
+were considered and rejected by the majority Arbitral Tribunal by
+giving reasons. On the other hand, the minority award held that it is
+inclined to toe the line of argument of the NVVN as it obviously could
+not have pleaded the loss or produced any evidentiary evidence. The
+NVVN is, as such, entitled to receive from the Saisudhir who had
+delayed     the   commissioning   of   the   Power   Plant   a   reasonable
+compensation.
+39.    It is submitted that the decision in minority award granting
+compensation of Rs.49,92,32,000/- is absolutely perverse. The
+minority award could not have granted any compensation after
+holding that there are no pleadings or evidence in support of the
+claim for damages.
+40.    Mr.Rao states that the decision in the minority award that NVVN
+has not pleaded any loss, there is no evidence and still NVVN is
+entitled for damages is absolutely perverse. The reasoning given in
+the majority award is flawless and cannot be interdicted under
+OMP Nos.410/2015 & 446/2015                                      Page 28 of 72
+Section 34
+of the Act. Thus, the objections of NVVN are liable to be
+dismissed.
+41.    Mr.Rao submits that the majority award, however, in violation
+of Fundamental Policy of Indian law granted Rs.1.2 crores as
+damages. The majority award held as under:-
+"114. In view of the above, it is difficult to hold that the
+       respondent has suffered loss, which needs to be
+       compensated by the claimant. The AT therefore holds
+       that the respondent has not suffered any loss in
+       completing the project in time. However, since the
+       claimant has failed to complete the work in time it
+       has delayed the same for 2-5 months, which has
+       delayed the supply of power to the respondent, the
+       AT is of the view that the claimant is liable to pay
+       Rs.1.2 Crores to the respondent as 20% of the amount
+       specified in the original performance guarantee at the rate
+       of Rs.30 Lacs per MW for the delayed performance."
+42.    Mr.Rao contends that the majority arbitrations having correctly
+appreciated the position of law that loss is sine qua non for damages
+and damages cannot be granted merely on count of breach                       and
+having specifically held       that "In view of above it is difficult of hold
+that the respondent has suffered any loss which needs to be
+compensated by the claimant.             The AT therefore, holds that the
+respondent has not suffered any loss in completing the project in
+time" violated the Fundamental Policy of Indian law by awarding
+damages of Rs.1.2 Crores.
+The    award     of    Rs.1.2   Crores   as   damages   is   clearly     by
+disregarding the biding judgments of the Courts which the majority
+arbitrators have taken note of.          The Supreme Court in
+Associate
+Builders v. DDA
+(2015) 3 SCC 49 in para 27 held as under:
+OMP Nos.410/2015 & 446/2015                                         Page 29 of 72
+"Coming to each of the heads contained in Saw Pipe
+       judgment, we will first deal with the head 'fundamental
+       policy of Indian law'. It has already been seen from
+       Renusagar Judgment that violation of
+Foreign Exchange
+       Act
+and disregarding orders of superior courts in India
+       would be regarded as being contrary to the fundamental
+       policy of Indian law. To this it could be added that the
+       biding effect of the judgment of a superior court being
+       disregarded would be equally violative of the fundamental
+       policy of Indian law."
+Mr.Rao argued that the majority Arbitrators having once come
+to the conclusion that damages cannot be awarded in the absence of
+loss, and having held that NVVN has not suffered any loss,
+disregarded the binding judgments. Hence, the award of damages of
+Rs.1.2 crores in favour of NVVN is in violation of Fundamental Policy
+of Indian Law.
+43.    With regard to reliance on the judgment of the Supreme Court
+in ONGC v. Saw Pipes (supra), Mr.Rao submits that as per NVVN,
+damages were awarded in the said judgment, without there being a
+finding of loss and the arbitrators have committed a patent illegality
+in holding that ONGC had suffered loss. In support thereof, the NVVN
+relied upon paragraph 106 of the Majority award in which it has been
+held as under:
+"106.    Damages were allowed in the case of Saw Pipes
+       and Construction and Design Services cases on a specific
+       finding that the breach has resulted in losses. In Saw
+       Pipes there is a specific findings that ONGC suffered
+       huge loss on count of failure to supply pipes. It is
+       not even contended in Saw Pipes that what has been
+       stipulated as liquidated damages was unreasonable.
+       Thus in the said case breach, loss as well as
+       reasonableness of damages stipulated are proved. For the
+       said reason the court allowed damages."
+OMP Nos.410/2015 & 446/2015                                Page 30 of 72
+Mr.Rao says that the contention of NVVN that in
+Saw Pipes
+(supra) damages were awarded even in the absence of finding of loss
+is incorrect. In fact
+in that case
+there was a clear finding of loss but
+there was no proof regarding the extent of loss. This is evident from
+para 67 of
+the said judgment
+which is reproduced here as under:
+"67. Take for illustration construction of a road or a
+         bridge. If there is delay in completing the construction of
+         road or bridge within the stipulated time, then it would
+         be difficult to prove how much loss is suffered by the
+         society/State. Similarly, in the present case, delay took
+         place in deployment of rigs and on that basis actual
+         production of gas from platform B-121 had to be
+         changed. It is undoubtedly true that the witness
+         has stated that redeployment plan was made
+         keeping in mind several constraints including
+         shortage of casing pipes. The Arbitral Tribunal,
+         therefore, took into consideration the aforesaid statement
+         volunteered by the witness that shortage of casing
+         pipes was only one of the several reasons and not
+         the only reason which led to change in deployment of
+         plan or redeployment of rigs Trident II platform B-121. In
+         our view, in such a contract, it would be difficult to
+         prove exact loss or damage which the parties suffer
+         because of the breach thereof. In such a situation, if
+         the parties have pre-estimated such loss after clear
+         understanding, it would be totally unjustified to arrive at
+         the conclusion that the party who has committed breach
+         of the contract is not liable to pay compensation. It would
+         be against the specific provisions of
+Sections 73
+and
+74
+of the Indian Contract Act. There was nothing on
+         record that compensation contemplated by the
+         parties was in any way unreasonable. It has been
+         specifically mentioned that it was an agreed
+         genuine pre-estimate of damages duly agreed by
+         the parties. It was also mentioned that the liquidated
+         damages are not by way of penalty. It was also provided
+         in the contract that such damages are to be recovered by
+         the purchaser from the bills for payment of the cost of
+         material submitted by the contractor. No evidence is
+OMP Nos.410/2015 & 446/2015                                  Page 31 of 72
+led by the claimant to establish that the stipulated
+         condition was by way of penalty or the
+         compensation contemplated was, in any way,
+         unreasonable. There was no reason for the Tribunal not
+         to rely upon the clear and unambiguous terms of
+         agreement stipulating pre-estimate damages because of
+         delay in supply of goods. Further, while extending the
+         time for delivery of the goods, the respondent was
+         informed that it would be required to pay stipulated
+         damages.
+Mr.Rao says that in
+Saw Pipes
+case (supra), the Supreme
+Court found that due to breach on part of Saw Pipes, ONGC had
+suffered loss. Specifically there is proof of loss in the form of
+redeployment of rigs Trident II platform B-121 but 'difficult to prove
+exact loss or damage.'
+Mr.Rao referred the LD clause in
+Saw Pipes
+(supra) case which
+is entirely different from the LD clause in the present case.
+The LD
+clause in the
+Saw Pipes
+case (supra) provided as under:
+"38. .....
+"11.       Failure and termination clause/liquidated
+         damages.--Time and date of delivery shall be essence of
+         the contract. If the contractor fails to deliver the stores,
+         or any instalment thereof within the period fixed for such
+         delivery in the schedule or at any time repudiates the
+         contract before the expiry of such period, the purchaser
+         may, without prejudice to any other right or remedy
+         available to him, recover damages for breach of the
+         contract:
+(a) Recovery from the contractor as agreed
+         liquidated damages are not by way of penalty, a
+         sum equivalent to 1% (one per cent) of the contract price
+         of the whole unit per week for such delay or part thereof
+         (this is an agreed, genuine pre-estimate of
+         damages duly agreed by the parties) which the
+         contractor has failed to deliver within the period fixed for
+         delivery in the schedule, where delivery thereof is
+OMP Nos.410/2015 & 446/2015                                   Page 32 of 72
+accepted after expiry of the aforesaid period. It may be
+         noted that such recovery of liquidated damages may be
+         up to 10% of the contract price of whole unit of stores
+         which the contractor has failed to deliver within the
+         period fixed for delivery......"
+It is stated by Mr.Rao that
+Saw Pipes
+(supra) is a case where
+the parties have agreed that "this is an agreed, genuine pre-estimate
+of damages duly agreed by the parties." In view of this clause, the
+Supreme Court held as under:
+"41.        Therefore, when parties have expressly
+         agreed that recovery from the contractor for breach of
+         the contract is pre-estimated genuine liquidated
+         damages and is not by way of penalty duly agreed
+         by the parties, there was no justifiable reason for the
+         Arbitral Tribunal to arrive at a conclusion that still the
+         purchaser should prove loss suffered by it because of
+         delay in supply of goods.
+42. ......Not only this, it was also agreed that:
+(a) liquidated damages for delay in supplies will be
+         recovered by paying the authority from the bill for
+         payment of cost of material submitted by the contractor;
+(b) liquidated damages were not by way of penalty
+         and it was agreed to be genuine pre-estimate of
+         damages duly agreed by the parties;
+(c) this pre-estimate of liquidated damages is not
+         assailed by the respondent as unreasonable
+         assessment of damages by the parties."
+44.
+In a nut shell, counsel has referred the following different
+features between the
+Saw Pipes
+case (supra) and the present case
+who has tried to canvass that due to which the ratio of
+Saw Pipes
+(supra) cannot be applied to the present case:
+OMP Nos.410/2015 & 446/2015                                 Page 33 of 72
+i.      In
+Saw Pipes
+(supra) parties have specifically agreed that
+              the LD's are genuine pre-estimate of actual damages and
+              not penalty.
+In the present case, contract merely provided LD
+              and has not specified whether it is genuine pre-estimate or
+              penalty. The present case is squarely covered by the
+              judgment of
+Kailash Nath Associates
+(supra)
+
+      ii.     In
+Saw Pipes
+(supra) no evidence is led by the claimant to
+              establish that the stipulated condition was by way of
+              penalty.
+In the present case, Saisudhir specifically pleaded
+              that LD's are in the nature of penalty (para 19 of claim
+              statement)      NVVN   admitted/pleaded    that   the     LD's    are
+              provided to prevent the bidder from abandoning the project
+              and to secure performance of contract and also pleaded that
+              where the LD's are intended to secure performance of the
+              contract' it would be penalty. Thus, admittedly the present
+              case is a case of penalty.
+iii.
+In
+Saw Pipes
+(supra) there are no pleadings or evidence
+              that the compensation contemplated was, in any way,
+              unreasonable.
+45.        It is submitted by him that in the present case, Saisudhir
+pleaded that the entire action of NVVN is unreasonable. It was also
+pleaded that NVVN levy of damages is not reasonable and is in
+violation of
+Section 74
+of the Contract Act.            Once the facts in the
+present case are to be considered as different from other cases
+referred by Mr.Maninder Singh, learned ASG, no advantage can be
+OMP Nos.410/2015 & 446/2015                                           Page 34 of 72
+derived by the NVVN. Mr.Rao submits that the Arbitral Tribunal was
+correct to the extent that "In Saw Pipes there is a specific finding that
+ONGC suffered huge loss on count of failure to supply pipes. It is not
+even contended in Saw Pipes that what has been stipulated as
+liquidated damages was unreasonable" and the objection of NVVN is
+absolutely not correct.
+46.    The objections of NVVN based on Public Utility and it is
+impossible to assess damages hence, NVVN is entitled for agreed LD's
+cannot be raised as NVVN has failed to plead the same.
+47.    The first submission of Mr.Maninder Singh, learned ASG is that
+the majority award is patently illegal and suffers from errors apparent
+on the face of the record. It is rendered against the pleadings, law
+and contrary to the relevant clauses of the contract, therefore, it
+deserves to be set aside by this Court. It is submitted by him that
+the Arbitrators, even while holding that it is difficult to hold that NVVN
+has suffered loss, have thereafter held that "therefore, NVVN has not
+suffered any loss."           He says that the Arbitrators have failed to
+appreciate the settled position of law that in cases where it is difficult
+or impossible to compute the actual loss suffered as a result of the
+breach of contract, the genuine pre-estimate of damages, as provided
+in the contractual terms agreed to between the parties, would be
+treated as a measure for the reasonable compensation for liquidated
+damages to be awarded. He referred the celebrated judgment of the
+Supreme Court in the case of
+Saw Pipes
+(supra).
+48.    Mr.Maninder Singh submits that the law
+laid down in
+the above
+referred case is being followed in all subsequent judgments delivered
+by the Supreme Court and the High Courts.            The said judgment is
+binding in nature. But in the majority award, the Arbitral Tribunal
+OMP Nos.410/2015 & 446/2015                                   Page 35 of 72
+without appreciating the real disputes has published the Award which
+is perverse and against the public policy.
+49.    It is argued by Mr.Maninder Singh that the finding in para 106
+of the Majority Award about the mandate of
+Saw Pipes
+case (supra)
+by mentioning that ONGC
+in that case
+had suffered huge loss on
+count of failure to supply pipes is entirely incorrect.
+On this aspect, I
+agree with the argument of Mr.Maninder Singh that the Majority
+Award is totally contrary to the observations made at page 43 of the
+Saw Pipes
+(supra) judgment, wherein the Arbitral Tribunal
+in that
+case
+had recorded a specific finding that ONGC had failed to establish
+any loss.
+50.    Mr.Maninder Singh, learned ASG has refuted the submissions
+made on behalf of Saisudhir that NVVN has neither proved nor
+pleaded that any loss has been caused to it on account of the delay
+caused by Saisudhir in commissioning of the solar power. He also
+submits that the Saisudhir was neither forced, nor the amount
+mentioned in clause 4.6 stipulated is in terrorem, as Saisudhir with
+open eyes had signed the contract and it knew the consequences in
+case of delay in the project. It was a commercial deal; Saisudhir now
+cannot be permitted to give any excuse by making the submission
+that the clause is in the nature of forcing a party to perform the
+contract, thus, it would be merely penalty.
+He submits that the said contention is false and contrary to
+pleadings of the NVVN and the Contract, as it was specifically pleaded
+that loss has been caused to it by the said delay on account of
+Saisudhir.
+OMP Nos.410/2015 & 446/2015                                  Page 36 of 72
+51.    Mr.Maninder Singh, learned ASG submits that from the day one
+the disputes had arisen between the parties, the submission of NVVN
+was that electricity is utility service being provided by it.      It is
+submitted that it is neither practical nor possible to compute damages
+for all tangible/intangible losses with reference to any utility where
+hundreds and thousands of the users/consumers are dependent upon
+such utility service. It is a settled position in law that the named
+amount of damages in the agreement is the genuine pre-estimate and
+there is no obligation to prove the loss.
+52.    Mr.Maninder Singh also submits that it is an admitted position
+that as per sale price of Rs.8.22 per unit quoted by them, Saisudhir is
+receiving revenue of approximately Rs.2.5 crores per month from the
+sale of solar power to NVVN and this amount per annum is to the tune
+of approximately Rs.30 crores. The total revenue earned by Saisudhir
+from the solar power project over a period of 25 years, for which
+NVVN is obliged to purchase solar power at a fixed rate, would
+amount to approximately Rs.750 crores [Rs.30 crores per annum X
+25 years = Rs.750 crores]. As such, the compensation for pre-
+estimated damages arising from delay in commissioning the project,
+being Rs.60.154 crores as calculated in terms of Clause 4.6 and
+agreed to by the parties, would amount to only about 8% of the total
+revenue earnings of Saisudhir from the Solar Power Project (being
+approx. Rs.750 crores).
+Mr.Maninder Singh, learned ASG submits that from the above, it
+becomes clear that in such contracts as in the present case, where
+the actual loss/damage cannot be computed/assessed, the genuine
+pre-estimate of damages, as agreed between the parties, serves as a
+OMP Nos.410/2015 & 446/2015                                Page 37 of 72
+measure for reasonable compensation to be awarded in case of
+breach of the contract.
+53.    He submits that all arguments of judicial review etc. raised on
+behalf of Saisudhir before this Court are as if a Writ Petition is being
+considered by this Court for non-grant of an opportunity to participate
+in the bidding process under the Mission.       In the present case, a
+contract has followed the Mission and the entire relationship between
+NVVN and Saisudhir is to be determined within the four corners of the
+agreement signed between them. NVVN had entered into this contract
+purely as a commercial contract for supply of electricity to be
+distributed to thousands and millions of consumers as utility service.
+54.    He refuted the argument on behalf of Saisudhir that the
+objective of the Solar Mission is not for immediate supply of electricity
+is totally misconceived. The obligations of the contractor are governed
+by the contract where the stipulation in Clause 4.6 has been accepted
+and where even one day's delay invites imposition of liquidated
+damages. Similarly, the guidelines which were sought to be relied
+upon have no overriding effect on the contract executed between the
+parties. The relationship between the parties is purely governed by
+the contract. Thus, the Arbitral Award dated 21st July, 2015 deserves
+to be set aside by this Court, being contrary to the terms of the
+contract and also the statutory provisions of the
+Contract Act
+as well
+as the judgments of the Supreme Court and the High Courts.
+55.    Let me now deal with the legal issues raised by both the parties
+in view of facts and circumstances in the present matter. Firstly, I
+would like to refer the provision of relevant Clause 4.6 of the pre-
+estimate liquidated damages of the PPA which is reproduced herein
+below:-
+OMP Nos.410/2015 & 446/2015                                  Page 38 of 72
+"....4.6 Liquidated Damages for delay in commencement of
+       supply of power to NVVN
+
+       4.6.1     If the SPD is unable to commence supply of power
+                 to NVVN by the Scheduled Commissioning Date
+                 other than for the reasons specified in Article
+                 4.5.1, the SPD shall pay to NVVN, Liquidated
+                 Damages for the delay in such commencement of
+                 supply of power and making the Contracted
+                 Capacity available for dispatch by the Scheduled
+                 Commissioning Dates as per the following:
+a.       Delay upto one (1) month - NVVN will encash 20%
+                 of total Performance Bank Guarantee proportionate
+                 to the Capacity not commissioned.
+b.       Delay of more than one (1) month and upto two
+                 months - NVVN will encash 40% of the total
+                 Performance Bank Guarantee proportionate to the
+                 Capacity not commissioned.
+c.       Delay of more than two and upto three months -
+NVVN will encash the remaining Performance Bank
+                 Guarantee proportionate to the Capacity not
+                 commissioned.
+4.6.2     In case the commissioning of Power Project is
+                 delayed beyond three (3) months, the SPD shall
+                 pay to NVVN, the Liquidated Damages at rate of
+                 Rs.1,00,000/- per MW per day of delay for the
+                 delay in such remaining Capacity which is not
+                 commissioned. The amount of liquidated damages
+                 would be recovered from the SPD from the
+                 payments due on account of sale of solar power to
+                 NVVN.................."
+56.    In terms of Sub-clauses a, b & c of Article 4.6.1 of PPA
+depending on the actual delay in the commissioning of the project,
+the NVVN's case before the Arbitral Tribunal as well as before this
+Court is that NVVN is entitled to levy liquidated damages amounting
+OMP Nos.410/2015 & 446/2015                                 Page 39 of 72
+to 20%, 40% or remaining 40% of the total Performance Bank
+Guarantee proportionate to the delay, by encashing the said Bank
+Guarantees. The said
+Article 4.6
+is an integral part of the Power
+Purchase Agreement which is not disputed by any party.
+57.    As far as the delay in commencement of supply of powers is
+concerned, it is not denied by the Saisudhir that there is a breach on
+its part. It is also not disputed that the time was the essence of the
+contract.     As per Clause 4.1.1 (c) of the Contract Agreement, the
+Saisudhir was obliged at its own cost and risk to commence the
+supply of power as per schedule date, i.e. 26th February, 2013 which
+is not supplied as on date and the delay has happened. Counsel for
+the Saisudhir does not dispute the figure of calculation of liquidated
+damages imposed by NVVN.
+Saisudhir also does not dispute the factual position that the
+delay caused in commissioning the solar power in the present case is
+not attributable to Force Majeure, nor its case is attributed towards
+NVVN, rather it is admitted that the delay has occurred on the side of
+Saisudhir who had tried to justify before the Arbitral Tribunal, nor the
+said clause of force majeure was invoked by the Saisudhir.
+58.    It is apparent from the above that Clause 4.6 of the PPA
+provides for the pre-estimate of damages, as agreed between the
+parties, to be paid by Saisudhir to NVVN in case of any delay in
+supply of solar power as per the terms of the Contract. The provision
+of Clause 4.6, agreed to between the parties, provides for the
+formula/methodology for genuine pre-estimate of damages. The
+quantum of delay and the quantum of electricity are relevant factors
+in operating the provision of Clause 4.6 of the Agreement.
+OMP Nos.410/2015 & 446/2015                                  Page 40 of 72
+59.    The principles of law governing the provision for genuine pre-
+estimate of damages in contracts where it is difficult or impossible to
+compute the amount of actual loss caused by breach of contract in
+those type of cases where in a contract for supply of a public utility
+service, one would get the answer from the provisions of
+Sections 73
+and
+74
+of the Indian Contract Act, 1872 as well as the various judicial
+pronouncements of the Supreme Court and the High Courts, who
+have, from time to time, interpreted the above said provisions after
+considering the respective clauses of liquidated damages as agreed
+between the parties.
+60.    The said relevant provisions have been reproduced herein
+below:
+Section 73
+of the Contract Act provides as under:-
+"73. Compensation for loss or damage caused by
+       breach of contract.-- When a contract has been broken,
+       the party who suffers by such breach is entitled to receive,
+       from the party who has broken the contract, compensation
+       for any loss or damage caused to him thereby, which
+       naturally arose in the usual course of things from such
+       breach, or which the parties knew, when they made the
+       contract, to be likely to result from the breach of it.
+Such compensation is not to be given for any remote and
+       indirect loss or damage sustained by reason of the breach.
+       Compensation for failure to discharge obligation
+       resembling those created by contract.--When an
+       obligation resembling those created by contract has been
+       incurred and has not been discharged, any person injured
+       by the failure to discharge it is entitled to receive the same
+       compensation from the party in default, as if such person
+       had contracted to discharge it and had broken his contract.
+       Explanation.--In estimating the loss or damage arising
+       from a breach of contract, the means which existed of
+       remedying the inconvenience caused by the non-
+       performance of the contract must be taken into account...."
+OMP Nos.410/2015 & 446/2015                                   Page 41 of 72
+Section 74
+of the Contract Act, which deals with liquidated
+damages for breach of contract, provides as under:-
+"74. Compensation for breach of contract where
+         penalty stipulated for:- [When a contract has been
+         broken, if a sum is named in the contract as the amount
+         to be paid in case of such breach, or if the contract
+         contains any other stipulation by way of penalty, the
+         party complaining of the breach is entitled, whether or
+         not actual damage or loss is proved to have been caused
+         thereby, to receive from the party who has broken the
+         contract reasonable compensation not exceeding the
+         amount so named or, as the case may be, the penalty
+         stipulated for.
+Explanation.-- A stipulation for increased interest from
+         the date of default may be a stipulation by way of
+         penalty.]
+         Exception -- When any person enters into any bail-bond,
+         recognizance or other instrument of the same nature or,
+         under the provisions of any law, or under the orders of
+         the [Central Government] or of any [State Government],
+         gives any bond for the performance of any public duty or
+         act in which the public are interested, he shall be liable,
+         upon breach of the condition of any such instrument, to
+         pay the whole sum mentioned therein.
+Explanation.-- A person who enters into a contract with
+         Government does not necessarily thereby undertake any
+         public duty, or promise to do an act in which the public
+         are interested.........."
+61.    There is no force in the argument of Mr.Rao that the NVVN has
+pleaded anywhere in the pleading that NVVN has suffered any
+damages or any amount is invested, rather as per the pleadings in
+the Statement of Defence filed on behalf of NVVN before the Arbitral
+Tribunal, the argument of the learned ASG is correct.       The relevant
+averments made therein are reproduced herein below:-
+OMP Nos.410/2015 & 446/2015                                  Page 42 of 72
+".............The amount of liquidated damages is a genuine
+       pre-estimate of the actual loss suffered by the Respondent
+       due to the delay by the Claimant in supply of solar power.
+       Not only had the Respondent made an investment in this
+       project by agreeing to purchase the solar power from the
+       Claimant at a rate offered by them in RFP for 25 years,
+       irrespective of any fluctuation in the rate over the years,
+       but had also been dependent on the Claimant's promise to
+       fulfill his obligations under the contract on time so that the
+       Respondent could in turn fulfill his responsibilities as the
+       nodal government agency for supply of solar power to the
+       distributors. Therefore, since the amount of pre estimated
+       damages to be paid by the Claimant on default had been
+       voluntarily agreed to by both the parties at the time of
+       signing of the PPA, the Claimant shall now be liable to pay
+       the same................"
+"................It is denied that the Respondent has not invested
+       any money towards the project as alleged. It is submitted
+       that the investment of the Respondent is in its
+       commitment to the Claimant to purchase power from the
+       Claimant's Project at a agreed higher rate tariff for full
+       term of 25 years irrespective of competition/lower price
+       expected in Solar Power in future years. The delay in
+       commissioning of project, therefore, delays the purchase
+       and sale of solar power, causing loss of committed energy
+       to Discoms.................."
+"....................In fact the discounted tariff which has been
+       offered by the Claimant is still much higher than the tariff
+       fixed by CERC for (non-solar) Thermal Power Plants and
+       the Claimant to take advantage of this higher tariff for a
+       period of 25 years, of its own volition and will made its bid
+       for the project and gave the discount..............."
+"...............That failure of the Claimant in performing his
+       obligations under the PPA would not only result in injury
+       for failure to perform in implementation of the JNNSM but
+       would also result in injury to Discoms for failure to
+       fulfilment of Renewable Purchase Obligation (RPO) in terms
+       of Article 6.8.3 of the PSA signed by Respondent with
+       them. The Respondents has thus suffered tangible and
+OMP Nos.410/2015 & 446/2015                                   Page 43 of 72
+intangible losses as a Nodal Agency for non-performance
+       of Claimant..............."
+"...........It is however denied that the Respondent is not
+       entitled to any damages as alleged. It is denied that the
+       Respondent has not suffered any loss as alleged........."
+".............That the PPA was signed only under the condition
+       that the Claimant Company should start the supply of
+       power on or before the Scheduled Commissioning Date so
+       that the Respondent Company could further sell the solar
+       power bundled with thermal power to distribution
+       Companies for distribution to the general public for
+       domestic and commercial use. It is submitted that timely
+       supply of solar power by the Claimant was an essential
+       part of the entire cycle of sale and onward distribution of
+       electricity by the Respondent company and because of the
+       delay by the Claimant, the Respondent has not only
+       suffered a huge loss of profit but has also fallen back on its
+       own target of supplying solar power to the electricity
+       distributors due to no fault of their own. Moreover, the
+       Respondent Company has agreed under the PPA to buy
+       solar power from the Claimant at the rate proposed by the
+       Claimant for 25 years irrespective of any fluctuation in the
+       actual rate over the years. Not only does this reflect the
+       trust of the Respondent in the Claimant company's ability
+       to honour the contract but also shows the enormous
+       investment made by the Respondent by way of
+       commitment and reputation in the entire Scheme.
+       Consequently, the Liquidated Damages fixed under the
+       clause 4.6 of the PPA are completely justified in light of the
+       losses suffered by the Respondent......................."
+".................In the present case, the amount stipulated as
+       liquidated damages is a genuine pre estimate of the
+       damages suffered by the Respondent as elaborated earlier.
+       Under no circumstances can it be said that clause 4.6 is
+       meant as a threat to the Claimant or that the amount is so
+       extravagant or unconscionable as to completely exceed the
+       actual quantum of damages. In fact, clause 4.6 of the PPA
+       envisages encashment of only 20% of the total
+       Performance Bank Guarantee proportionate to the capacity
+       not commissioned for a delay of upto one month, 40%
+OMP Nos.410/2015 & 446/2015                                   Page 44 of 72
+encashment for delay of one month to two months and the
+       remaining value of the guarantee only after a delay of
+       more than two months upto three months. This clearly
+       shows that the amount of liquidated damages is only to
+       mitigate the damages suffered by the Respondent as a
+       consequence of delay and is hence distributed over a
+       period of time to be levied only when actual damages are
+       caused and also to give an opportunity to the Claimant to
+       commence supply as early as possible to avoid paying a
+       higher amount of liquidated damages............"
+"................It is submitted that as already elucidated in the
+       previous paras, the Respondent has suffered huge losses
+       because of the delay by the Claimant in commissioning the
+       solar power project. Further, it is denied that the liquidated
+       damages provided under clause 4.6 is not a genuine pre
+       estimate of loss suffered by the Respondent................."
+"................Not only had the Claimant known from the very
+       beginning i.e. since before the signing of the PPA, of its
+       financial liability in case of delay in commissioning the
+       project, the amount to be paid as damages was also
+       known and is completely reasonable considering the extent
+       of the loss incurred by the Respondent company.................."
+62.    The second argument of Mr.Rao has also no force that the
+NVVN has not pleaded its case of public utility and no benefit can be
+derived by the NVVN, as in para-19 of the Statement of Defence filed
+before the Arbitral Tribunal, it was specifically pleaded as under:-
+".....That the PPA was signed only under the condition that
+       the Claimant Company should start the supply of power on
+       or before the Scheduled Commissioning Date so that the
+       Respondent Company could further sell the solar power
+       bundled with thermal power to distribution Companies for
+       distribution to the general public for domestic and
+       commercial use. It is submitted that timely supply of solar
+       power by the Claimant was an essential part of the entire
+       cycle of sale and onward distribution of electricity by the
+       Respondent company, and because of the delay by the
+       Claimant, the Respondent has not only suffered a huge
+OMP Nos.410/2015 & 446/2015                                   Page 45 of 72
+loss of profit but has also fallen back on its own target of
+       supplying solar power to the electricity distributors due to
+       no fault of their own. Moreover, the Respondent Company
+       has agreed under the PPA to buy solar power from the
+       Claimant at the rate proposed by the Claimant for 25
+       years, irrespective of any fluctuation in the actual rate over
+       the years. Not only does this reflect the trust of the
+       Respondent in the Claimant company's ability to honour
+       the contract but also shows the enormous investment
+       made by the Respondent by way of commitment and
+       reputation in the entire Scheme.           Consequently, the
+       Liquidated Damages fixed under the clause 4.6 of the PPA
+       are completely justified in light of the losses suffered by
+       the Respondent."
+63.    Third submission of Mr.Rao is without any substance that NVVN
+has not specifically pleaded that it has suffered any damages, as well
+as the issue of public utility. It is evident from the pleadings and the
+written submissions filed on behalf of NVVN before the Arbitral
+Tribunal, inter alia, alleged as under:-
+"3.21 It must also be kept in mind that though it is a
+       purely commercial transaction but it relates to a service of
+       prime public importance and deprivation of such public
+       utility though not capable of being strictly evaluated can be
+       compensated for by the Arbitrators.
+3.22 Please see Hon'ble Supreme Court Judgment in 2003
+       (5) SCC 705 ONGC Vs. Saw Pipes Ltd. wherein it was
+       specifically laid down that the in construction of public
+       utilities like roads, bridges etc. (which would include solar
+       power plants) it would be difficult to prove how much loss
+       is suffered by the society/state on account of delay in
+       performance of the contract. It was further laid down that
+       in such cases if the parties have a pre-estimated such loss,
+       it would be unjustified to come at a conclusion that the
+       party in breach need not pay compensation as the party
+       aggrieved could not prove the actual loss.
+OMP Nos.410/2015 & 446/2015                                   Page 46 of 72
+3.23 In the present case also the Claimant has admittedly
+       delayed in commissioning its Solar Power Project by nearly
+       two months in regard to 10MW and by about 4 months in
+       regard to the remaining 10 MWs. The scheduled
+       commissioning date as per the PPA was 26.02.2013.
+However,    the  Claimant     commissioned    10MW     on
+       26.04.2013 and the remaining 10 MW on 24.07.2013.
+3.24 It is noteworthy that in case of Solar PV power
+       projects, in case of failure of the claimant to commission
+       the project or in case of delay in such commissioning, it is
+       not possible to assess the loss because the Solar Power to
+       be generated by the Claimant's project cannot be replaced
+       by Solar Power generated by any other project as all such
+       Solar Projects are tied down with agreements to supply
+       various discoms after bundling of power. Such power also
+       cannot be replaced by thermal power as that would be
+       contrary to the purposes of the JNNNSM and would not be
+       usable to fulfill the requirement of various discoms to use a
+       proportion of renewable energy in their business.
+3.25 It is therefore clear that in the present case though a
+       loss occurs due to delay in commissioning of the Claimant's
+       project, it cannot be evaluated as stated above and
+       therefore the pre-estimate of such loss stated as liquidated
+       damages and which is directly relatable to the bid
+       submitted by the Claimant has to be treated as a genuine
+       pre-estimate of loss and would not fall within the definition
+       of penalty as contained in
+Section 74
+of the contract act.
+       Thus, the Claimant is bound to pay liquidated damages to
+       the Respondent in terms of
+Article 4.6
+of the PPA (Page 82
+       of Volume 1).
+.......................
+3.30 ........the investment of the NVVN in this project is the
+       promise to buy power from the Claimant at a fix rate for
+       25 years.
+......................
+6.2 It must be kept in mind that the LD are being levied
+       not due to delay in delivery of power or delay in sale of
+       power but it is due to delay in commissioning of the
+       project. It is noteworthy that as argued hereinabove, in
+OMP Nos.410/2015 & 446/2015                                  Page 47 of 72
+the instant case the fact that there is a loss is evident from
+       the delay in commissioning of the Plant and there being
+       non-availability of contracted capacity of 20MW power
+       from the project for the delay period. In absence of a
+       process to evaluate the exact loss in case of a solar PV
+       Project being a public utility, a graded figure agreed to
+       between the parties as a genuine pre-estimate of damages
+       would    be    a   legally   binding     provision    on    the
+       Claimant................"
+64.    Admittedly, the electricity is utility service; the facility is to be
+enjoyed by the public immediately once it is supplied. It is practically
+impossible to assess loss as the said utility is enjoyed by thousands of
+users/consumers who all the times kept on waiting for utility service.
+65.    From the nature of the clause, the liquidated damages provided
+under Clause 4.6 are a genuine pre-estimate of the damages, agreed
+to by the parties, and have nothing to do with the actual proof of loss.
+The definition of the penalty clause as given by Black's Law
+Dictionary, Eighth Edition, on page 1169 is "a contractual provision
+that assesses against a defaulting party an excessive monetary
+charge unrelated to the actual harm."
+66.    One of the contentions on behalf of Saisudhir in its arguments is
+that NVVN has not proved any loss from the delay caused by
+Saisudhir in commissioning the supply of solar power. From a reading
+of the provision of
+Section 74
+of the Contract Act, it becomes
+abundantly clear that when a genuine pre-estimate of damages for
+breach of contract is provided in the contract, as agreed by the
+parties, the party complaining of breach would be required to receive
+such reasonable compensation whether or not actual damage or loss
+is proved to have been caused thereby.
+OMP Nos.410/2015 & 446/2015                                     Page 48 of 72
+67.    As far as back in 1969, while dealing with the provisions of
+Section 73
+and
+74
+of the Contract Act, three Judges Bench of the
+Supreme Court made the following pertinent observations in the case
+of
+Maula Bux
+(supra) :-
+"6.   .........It is true that in every case of breach of
+       contract the person aggrieved by the breach is not required
+       to prove actual loss or damage suffered by him before he
+       can claim a decree, and the court is competent to award
+       reasonable compensation in case of breach even if no
+       actual damage is proved to have been suffered in
+       consequence of the breach of contract. But the expression
+       'whether or not actual damage or loss is proved to have
+       been caused thereby' is intended to cover different classes
+       of contracts which come before the courts. In case of
+       breach of some contracts it may be impossible for the court
+       to assess compensation arising from breach, while in other
+       cases compensation can be calculated in accordance with
+       established rules. Where the court is unable to assess the
+       compensation, the sum named by the parties if it be
+       regarded as a genuine pre-estimate may be taken into
+       consideration as the measure of reasonable compensation,
+       but not if the sum named is in the nature of a penalty.
+       Where loss in terms of money can be determined, the
+       party claiming compensation must prove the loss suffered
+       by him..................."
+68.    It is clear that in such contracts where it is difficult/impossible
+to assess the actual loss, the genuine pre-estimate of damages as
+agreed between the parties may be taken into consideration as the
+measure of reasonable compensation. In the present case, the
+agreement in question is a contract for supply of electricity which is
+further to be bundled with power from other sources and supplied to
+various distribution utilities for further supply to individual consumers.
+The distribution of power which were to be generated by the Saisudhir
+was supposed to be utilized by the consumers.
+OMP Nos.410/2015 & 446/2015                                   Page 49 of 72
+69.
+In the case of
+Saw Pipes
+(supra), the Supreme Court was
+seized with an Arbitral Award arising out of a dispute regarding a
+contract for supply of steel casing pipes. In that case, the respondent
+had delayed the supply of casing pipes to the petitioner beyond the
+agreed date of delivery. Clause 11 of the Contract
+in that case
+provided for the recovery of liquidated damages from the contractor
+in case of delay in supply of the casing pipes. Despite holding that the
+delay in supply could not be attributed to a Force Majeure event [as in
+the present case], the Arbitral Tribunal passed its award in the
+following terms:-
+"34. ..........Thereafter, the Arbitral Tribunal considered
+       various decisions of this Court regarding recovery of
+       liquidated damages and arrived at the conclusion that it
+       was for the appellant to establish that it had suffered any
+       loss because of the breach committed by the respondent in
+       not supplying the goods within the prescribed time-limit.
+       The Arbitral Tribunal thereafter appreciated the evidence
+       and arrived at the conclusion that in view of the statement
+       volunteered by Mr. Arumoy Das, it was clear that shortage
+       of casing pipes was only one of the other reasons which led
+       to the change in the deployment plan and that it has failed
+       to establish its case that it has suffered any loss in terms
+       of money cecause of delay in supply of goods under the
+       contract. Hence, the Arbitral Tribunal held that the
+       appellant has wrongfully withheld the agreed amount of US
+       $ 3,04,970.20 and Rs 15,75,559 on account of customs
+       duty, sales tax, freight charges deducted by way of
+       liquidated damages..........."
+In the case of
+Saw Pipes
+(supra), it has been recorded by the
+Supreme Court that the Arbitral Tribunal had come to the conclusion
+that ONGC had failed to establish suffering of any loss.
+It was also
+observed that
+Saw Pipes
+(supra) was also not a case of force
+majeure. The Tribunal, on such a finding that ONGC had not suffered
+OMP Nos.410/2015 & 446/2015                                 Page 50 of 72
+any loss, had held that the money retained by the ONGC was
+wrongful. The said finding of the Arbitral Tribunal had been upheld by
+both the Single Judge as well as the Division Bench of the Bombay
+High Court.
+The Supreme Court had reversed the finding of the Arbitral
+Tribunal and held that liquidated damages would be payable as
+genuine estimate of the losses and made the following observations:-
+"64. It is apparent from the aforesaid reasoning recorded
+       by the Arbitral Tribunal that it failed to consider
+Sections
+       73
+and
+74
+of the Indian Contract Act and the
+ratio
+laid
+       down in
+Fateh Chand
+case wherein it is specifically held
+       that jurisdiction of the court to award compensation in case
+       of breach of contract is unqualified except as to the
+       maximum stipulated; and compensation has to be
+       reasonable. Under
+Section 73
+, when a contract has been
+       broken, the party who suffers by such breach is entitled to
+       receive compensation for any loss caused to him which the
+       parties knew when they made the contract to be likely to
+       result from the breach of it. This section is to be read with
+Section 74
+, which deals with penalty stipulated in the
+       contract, inter alia (relevant for the present case) provides
+       that when a contract has been broken, if a sum is named
+       in the contract as the amount to be paid in case of such
+       breach, the party complaining of breach is entitled,
+       whether or not actual loss is proved to have been caused,
+       thereby to receive from the party who has broken the
+       contract reasonable compensation not exceeding the
+       amount so named.
+Section 74
+emphasizes that in case of
+       breach of contract, the party complaining of the breach is
+       entitled to receive reasonable compensation whether or not
+       actual loss is proved to have been caused by such breach.
+       Therefore, the emphasis is on reasonable compensation. If
+       the compensation named in the contract is by way of
+       penalty, consideration would be different and the party is
+       only entitled to reasonable compensation for the loss
+       suffered. But if the compensation named in the contract for
+       such breach is genuine pre-estimate of loss which the
+       parties knew when they made the contract to be likely to
+OMP Nos.410/2015 & 446/2015                                  Page 51 of 72
+result from the breach of it, there is no question of proving
+       such loss or such party is not required to lead evidence to
+       prove actual loss suffered by him. Burden is on the other
+       party to lead evidence for proving that no loss is likely to
+       occur by such breach. Take for illustration: if the parties
+       have agreed to purchase cotton bales and the same were
+       only to be kept as a stock-in-trade. Such bales are not
+       delivered on the due date and thereafter the bales are
+       delivered beyond the stipulated time, hence there is breach
+       of the contract. The question which would arise for
+       consideration is -- whether by such breach the party has
+       suffered any loss. If the price of cotton bales fluctuated
+       during that time, loss or gain could easily be proved. But if
+       cotton bales are to be purchased for manufacturing yarn,
+       consideration would be different.........................
+............... 66.
+In
+Maula Bux
+case the Court has specifically
+       held that it is true that in every case of breach of contract
+       the person aggrieved by the breach is not required to
+       prove actual loss or damage suffered by him before he can
+       claim a decree and the court is competent to award
+       reasonable compensation in a case of breach even if no
+       actual damage is proved to have been suffered in
+       consequence of the breach of contract. The Court has also
+       specifically held that in case of breach of some contracts it
+       may be impossible for the court to assess compensation
+       arising from breach.
+67. Take for illustration construction of a road or a
+       bridge. If there is delay in completing the construction of
+       road or bridge within the stipulated time, then it would be
+       difficult to prove how much loss is suffered by the
+       society/State. Similarly, in the present case, delay took
+       place in deployment of rigs and on that basis actual
+       production of gas from platform B-121 had to be
+       changed................ In our view, in such a contract, it
+       would be difficult to prove exact loss or damage which the
+       parties suffer because of the breach thereof. In such a
+       situation, if the parties have pre-estimated such loss after
+       clear understanding, it would be totally unjustified to arrive
+       at the conclusion that the party who has committed breach
+       of the contract is not liable to pay compensation. It would
+OMP Nos.410/2015 & 446/2015                                     Page 52 of 72
+be against the specific provisions of
+Sections 73
+and
+74
+of
+       the Indian Contract Act. There was nothing on record that
+       compensation contemplated by the parties was in any way
+       unreasonable. It has been specifically mentioned that it
+       was an agreed genuine pre-estimate of damages duly
+       agreed by the parties. It was also mentioned that the
+       liquidated damages are not by way of penalty...............
+       There was no reason for the Tribunal not to rely upon the
+       clear and unambiguous terms of agreement stipulating
+       pre-estimate damages because of delay in supply of
+       goods............................
+68.    From the aforesaid discussions, it can be held that:
+(1)   Terms of the contract are required to be taken into
+       consideration before arriving at the conclusion whether the
+       party claiming damages is entitled to the same.
+(2)   If the terms are clear and unambiguous stipulating
+       the liquidated damages in case of the breach of the
+       contract unless it is held that such estimate of
+       damages/compensation is unreasonable or is by way of
+       penalty, party who has committed the breach is required to
+       pay such compensation and that is what is provided in
+Section 73
+of the Contract Act.
+(3)
+Section 74
+is to be read along with
+Section 73
+and,
+       therefore, in every case of breach of contract, the person
+       aggrieved by the breach is not required to prove actual
+       loss or damage suffered by him before he can claim a
+       decree. The court is competent to award reasonable
+       compensation in case of breach even if no actual damage is
+       proved to have been suffered in consequence of the breach
+       of a contract.
+(4)    In some contracts, it would be impossible for the
+       court to assess the compensation arising from breach and
+       if the compensation contemplated is not by way of penalty
+       or unreasonable, the court can award the same if it is
+       genuine pre-estimate by the parties as the measure of
+       reasonable compensation............"
+OMP Nos.410/2015 & 446/2015                                   Page 53 of 72
+70.    Yet in another decision in the case of BSNL v. Reliance
+Communications Ltd., (2011) 1 SCC 394, the Supreme Court was
+dealing with Clause 6.4.6 of the Interconnection Agreement between
+BSNL and Reliance Communication which provided for damages in
+case of wrongly routed calls. It was detected by BSNL that Reliance
+was indulging in "call masking" so as to tamper with CLI (Calling Line
+Identification)     of   International   Long   Distance   (ILD)    calls    and
+camouflaging them as local calls, so as to avoid the higher charges
+prescribed for ILD calls. In the said clause 6.4.6, it had been provided
+that even if some unauthorized calls were detected, BSNL would be
+liable to recover the highest applicable call charges for all the calls
+recorded on the trunk group of Reliance for the preceding two
+months. Relying on the said clause, BSNL raised bills on Reliance
+levying "penalty" for illegal routing of calls.
+On behalf of Reliance, it had been contended that not only is
+Clause 6.4.6 itself penal in nature, further that BSNL was under an
+obligation to draw distinction between unauthorized calls and calls
+without/modified CLI. In other words, it had been contended on
+behalf of Reliance that the Clause 6.4.6 providing for damages was
+penal in nature, and that BSNL had not proved the amount of actual
+loss suffered by it. It was, inter alia, contended by the counsel for
+Reliance that:-
+"20. The learned counsel submitted that under the
+Contract Act
+no party is entitled to recover punitive
+       damages for any breach of contract. That, in terms of
+Section 73
+of the Act, the party which suffers by any
+       breach of contract is entitled to receive, from the party
+       who has broken the contract, compensation for any loss or
+       damage caused to him thereby, which naturally arose in
+       the usual course of things from such breach. Such
+OMP Nos.410/2015 & 446/2015                                        Page 54 of 72
+compensation is not to be given for any remote or indirect
+       loss or damage.
+21. According to the learned counsel, in terms of
+Section
+       73
+of the Contract Act in order to receive compensation for
+       loss or damage, the party claiming such compensation
+       must prove the alleged loss or damage. However,
+Section
+       74
+carves out an exception to the ordinary legal
+       requirement of proving loss or damage. In terms of
+Section
+       74
+when a contract is breached, if a sum is named in the
+       contract as the amount to be paid in case of such breach or
+       if the contract contains no other stipulation by way of
+       penalty, the party complaining of the breach is entitled,
+       whether or not actual loss or damage is proved to have
+       been caused thereby, to receive from the party who has
+       broken the contract, reasonable compensation not
+       exceeding the amount so named or, as the case may be,
+       the penalty stipulated for. It thus follows, according to the
+       learned counsel, from
+Section 74
+of the Contract Act that
+       regardless of whether the contract specifies a sum to be
+       paid in the event of breach or whether it contains any
+       other penal provision, the party complaining of the breach
+       is only entitled to receive reasonable compensation.
+22. In the alternative, the learned counsel submitted
+       that inasmuch as Clause 6.4.6 provides for payment of an
+       amount beyond reasonable compensation for loss or
+       damage, it is to that extent unenforceable in law.
+In this
+       connection the learned Senior Counsel has placed reliance
+       on the judgments,
+Fateh Chand v. Balkishan Dass
+; BSNL v.
+       Motorola India (P) Ltd.;
+Maula Bux v. Union of India
+and
+Union of India v. Raman Iron Foundry
+. According to the
+       learned counsel Clause 6.4.6 is wholly one-sided penal
+       provision inasmuch as it entitles the appellant to receive
+       monies from Reliance on account of breach and not vice
+       versa............"
+On the other hand, the contention on behalf of BSNL was in the
+following terms:-
+"10. .........In this regard, the learned Senior Counsel
+       submitted       that   the    agreement    pertains   to
+OMP Nos.410/2015 & 446/2015                                  Page 55 of 72
+telecommunication services which is a capital intensive
+       venture and which requires seamless and uninterrupted
+       service. A disruption in such services would result not only
+       in financial loss to BSNL and Reliance but also to a large
+       number of subscribers of both the companies. Moreover,
+       the learned Senior Counsel submitted that it is technically
+       impossible for BSNL to trace or block a call with a
+       tampered (masked) CLI. That, on a given day a single PoI
+       handles millions of minutes of calls which are handed over
+       to BSNL and in such a situation it is not commercially
+       feasible to decipher which call is genuine and which call is
+       without CLI/tampered CLI. Thus, Clause 6.4.6 should be
+       interpreted against the background knowledge
+referred to
+       above
+and, if so read, it becomes clear that the said clause
+       is inserted in the agreement for commercial prudence as a
+       thumb rule and should as such be interpreted in that
+       manner..................
+x      x     x     x       x
+12. Lastly, according to the learned counsel, where a
+       contract prescribes payment of a sum on default, even if
+       the sum payable may be larger than the actual loss, when
+       the contract is between parties with equal bargaining
+       power, and as long as the sum payable is not extravagant,
+       it should not be characterised as penalty. Similarly, where
+       an agreed sum is payable upon a default, if the loss
+       accruing to the claimant from the default in question
+       cannot be accurately or even reasonably be ascertained,
+       then such sum cannot be classified as penalty and once a
+       stipulation is held not to be a penalty, there is no need for
+       actual proof of loss................."
+The Supreme Court while accepting the contentions of BSNL,
+and rejecting the submissions made on behalf of Reliance, it held as
+under:-
+"46. .........It is not possible to trace each such
+       unauthorised call, particularly its nature, as to from which
+       place it originated and if it was possible the cost of tracing
+       such call(s) may be much more than actual damage, if
+       ascertainable, and therefore, a "rough and ready measure"
+OMP Nos.410/2015 & 446/2015                                   Page 56 of 72
+is provided in Clause 6.4.6 which measure is a reasonable
+       pre-estimate of damage.
+(iv) Whether Clause 6.4.6 represents penalty or pre-
+             estimate of reasonable compensation for the loss?
+47.     According to Chitty on Contracts
+
+             "whether a provision is to be treated as a penalty is a
+             matter of construction to be resolved by asking
+             whether at the time the contract was entered into the
+             predominant contractual function of the provision
+             was to deter a party from breaking the contract or to
+             compensate the innocent party for breach. The
+             question to be always asked is whether the alleged
+             penalty clause can pass muster as a genuine pre-
+             estimate of loss." (See Paras 26-126 of Chitty on
+             Contracts, 30th Edn.)
+
+       The fact that damage is difficult to assess with precision
+       strengthens the presumption that a sum agreed between
+       the parties represents a genuine attempt to estimate it and
+       to overcome the difficulties of proof at the trial.
+48. According to the Law of Contract by G.H. Treitel
+       (10th Edn.), a clause is penal if it provides for
+
+             "a payment stipulated as in terrorem of the offending
+             party to force him to perform the contract. If, on the
+             other hand, the clause is an attempt to estimate in
+             advance the loss which will result from the breach, it
+             is a liquidated damages clause. The question whether
+             a clause is penal or pre-estimate of damages
+             depends on its construction and on the surrounding
+             circumstances at the time of entering into the
+             contract."
+49. Lastly, the fact that a sum of money is payable on
+       breach of contract is described by the contract as "penalty"
+       or "liquidated damages" is relevant but not decisive as to
+       categorisation................
+OMP Nos.410/2015 & 446/2015                                     Page 57 of 72
+x      x       x       x   x
+52. ............... Thus, in our view, Clauses 6.4.6(a) and
+       6.4.6(b) provide for pre-estimate of damages. It is so also
+       for one more reason. The clause, as stated above, restricts
+       the higher IUC rate made applicable for calls only for last
+       two preceding months and not for last three years or the
+       longer period. These time lines are an indicia showing that
+       Clause 6.4.6 is not penal but a pre-estimate of reasonable
+       compensation for the loss foreseen at the time of entering
+       into the agreement.
+53. Lastly, it may be noted that liquidated damages
+       serve the useful purpose of avoiding litigation and
+       promoting commercial certainty and, therefore, the court
+       should not be astute to categorise as penalties the clauses
+       described as liquidated damages. This principle is relevant
+       to regulatory regimes. It is important to bear in mind that
+       while categorising damages as "penal" or "liquidated
+       damages", one must keep in mind the concept of pricing of
+       these contracts and the level playing field provided to the
+       operators because it is on costing and pricing that the loss
+       to BSNL is measured and, therefore, all calls during the
+       relevant period have to be seen. (See Communications Law
+       in India by Vikram Raghavan at p. 639.) Since Clause 6.4.6
+       represents pre-estimate of reasonable compensation,
+Section 74
+of the Contract Act is not violated. Thus, it is
+       not necessary to discuss various judgments of this Court
+       under
+Section 74
+of the Contract Act................."
+As such, in
+BSNL v. Reliance
+, the Supreme Court held that:-
+"a.   Where actual loss / damage is unascertainable, the
+       clause for liquidated damages would be a "rough and
+       ready" measure which would serve as a reasonable pre-
+       estimate of damages.
+b.      The fact that damage is difficult to assess with
+       precision strengthens the presumption that a sum agreed
+       between the parties represents a genuine attempt to
+       estimate it and to overcome the difficulties of proof at the
+       trial."
+OMP Nos.410/2015 & 446/2015                                 Page 58 of 72
+71.     It is contended by Mr.Maninder Singh, learned ASG that the
+judgment in the case of
+Saw Pipes
+(supra), and the argument of
+public utility service was placed before the Tribunal in the present
+case.
+It is only the judgment in the case of M/s Construction &
+Design Service v. Delhi Development Authority, reported in
+(2015) 14 SCC 263, which had become available after the hearing
+before the Arbitral Tribunal was over, that was placed before the
+Arbitral Tribunal and, admittedly, opportunity was given to the
+counsel on behalf of Saisudhir to make its submissions.
+72.     Mr.Maninder Singh has also referred another decision on utility
+services rendered by the Division Bench of this Court in the case of
+Saini Construction Company v. Delhi Jal Board
+, decided on 29th
+October, 2015 in RFA(OS) No. 48/2015. In the said case, which dealt
+with a contract for laying water pipelines, "penalty" levied on the
+contractor for causing delay in the performance of the contract, the
+Single Judge of this Court, while dismissing the suit filed on behalf of
+the petitioner, inter alia, held as under:-
+"(i). .......The defendant was well within its right to levy
+        penalty (10% of contract value) in terms of clause 2 of
+        contract entered into between the parties in view of dictum
+        of law
+laid down by
+Supreme Court in the decision reported
+        as (2003) 5 SCC 705 ONGC Vs. Saw Pipes Ltd. that where
+        contract itself has pre-estimated liquidated damages which
+        would be incurred by the department in the case of breach,
+        there is no necessity on the part of department to prove
+        actual losses suffered by it............."
+While dismissing the appeal against the judgment of the Single
+Judge, the Division Bench of this Court held as under:-
+OMP Nos.410/2015 & 446/2015                                  Page 59 of 72
+"46. The upshot of the above discussion is that the delay
+       in start/completion of execution of work is entirely
+       attributable to the plaintiff.
+47. Concededly, clauses 2 and 3 of the contract entered
+       into between the parties prescribes levy of penalty @ 10%
+       of contract value as also forfeiture of security deposit and
+       invocation of performance guarantee upon the contractor
+       (plaintiff) in case of breach of contract committed by the
+       contractor.
+48. Law on the subject has been authoritatively laid
+       down in paragraph 68 of decision of Supreme Court
+       reported as 2003 (5) SCC 705 ONGC vs. Saw Pipes Ltd.
+       which reads as under.....................
+49. In a nutshell, Supreme Court holds in Saw Pipes's
+       case (supra) that a liquidated damage would be a damage
+       which on the face of it ensues if there is a breach of a
+       contract, but its estimation is not possible and thus the
+       parties would be perfectly justified in quantifying the same
+       as a reasonable pre-estimate of the loss. Such am amount
+       would be recoverable as a loss; without proof of the
+       quantum of the loss; because the quantum has been
+       agreed to by the parties; and the loss is inherent.
+50. Suffice it to state that observations made by
+       Supreme Court in para 68 of
+Saw Pipes
+'s case (supra) are
+       squarely applicable in the present case as per which
+       delayed constructions such as completing construction of
+       road or bridges within stipulated time would be difficult to
+       be linked with actual losses suffered by the State and in
+       such cases the pre-estimated damages envisaged in the
+       contract have to be paid.
+51. Now, laying of water pipes is not something from
+       which revenue would be generated by the State. It is a
+       public utility service for providing water to its citizens. That
+       apart, in a delayed project, interest on blocked capital
+       would obviously be a measure of damages.
+OMP Nos.410/2015 & 446/2015                                     Page 60 of 72
+52. In view thereof, no fault can be found with the act of
+       defendant of levying penalty in terms of clauses 2 and 3 of
+       contract entered into between the parties upon the plaintiff
+       for having delayed execution of work in question. 53. In
+       view of above discussion, the present appeal is dismissed
+       with cost against the appellant and in favour of the
+       respondent..........."
+73.    It is confirmed by Mr.Maninder Singh that the view of the
+Division Bench of this Court has been upheld by the Supreme Court
+vide order dated 29th February, 2016, wherein the Supreme Court had
+dismissed the SLP filed against the abovementioned judgment of this
+Court, being SLP(C) No.5324/2016.
+74.    He has also referred the decision of a Single Bench of this Court
+who has taken the same view in the case of M/s
+Forbes Gokak Ltd.
+v. Central Warehousing Corporation
+, decided on 1st February,
+2010 in OMP No.306/2000 wherein the argument for requirement of
+actual proof of loss was rejected by the Single Judge of this Court and
+it was held as under:-
+"19. Mr. Alag thereafter referred to para 26 of the Award
+       and contended that the respondent corporation had not
+       proved any loss and he accordingly argued that thus
+       liquidated damages could not have been awarded. Mr. Alag
+       also in support of the proposition that loss should actually
+       have been proved has relied upon the judgments of the
+       Supreme Court in the cases of
+Fateh Chand Vs. Balkishan
+       Das
+AIR 1963 SC 1405 and Maula Bux Vs. Union of India
+AIR 1969 2 SSC 554.
+20. In my opinion, the contention of Mr. Alag that since
+       the admitted fact is that loss has not been proved,
+       therefore, no amounts could have been awarded towards
+       liquidated damages is not a correct argument. The
+       Supreme Court in the judgment of ONGC Vs. Saw Pipes
+       (2003) 5 SCC 705 has considered all earlier judgments as
+       regards
+Section 74
+of the Contract Act, including the
+       judgment in
+Maula Bux
+case. The Supreme Court in Saw
+OMP Nos.410/2015 & 446/2015                                 Page 61 of 72
+Pipe‟s case has said that there are two types of contracts
+       when we talk of imposition of liquidated damages under
+Section 74
+of the Contract Act. In the first type of
+       contracts, where loss is caused, the same can be proved,
+       then, in such cases, the person who suffers loss must
+       necessarily prove the loss in spite of the fact that there is a
+       provision for liquidated damages and the figure of
+       liquidated damages is only the upper limit of damages to
+       be awarded. The second type of contracts are those
+       contracts where losses cannot be easily proved. These
+       contracts are such as for building of a toll road or
+       construction of an oil rig.
+These examples have been
+       specifically given along with the law with respect to
+Sections 73
+and
+74
+of the Contract Act in paras 46, 64, 66
+       and 67 of the
+Saw Pipes
+case............
+21. I have recently had the occasion to consider the
+       judgment in
+Saw Pipe
+'s case in the OMPs 498/2007
+       reported as Belco Enterprises Vs. DTC decided on 21st
+       January, 2010 wherein by referring to the aforesaid paras
+       in
+Saw Pipes
+case, I have held that where there is delay in
+       supply of the buses after fabrication of the bus bodies by
+       the contractor to the Delhi Transport Corporation, then,
+       once there is a clause of liquidated damages, actual
+       damages need not to be proved. In that judgment I have
+       given the rationale that ridership in a bus is not something
+       which can be easily proved and therefore parties were fully
+       entitled to agree on a genuine pre-estimate of damages
+       because either the buses could have run full or could have
+       run empty or could have run partly full or partly empty.
+It
+       is to overcome these types of situations where losses
+       cannot be easily proved that the concept of liquidated
+       damages has been brought in by the legislature in the form
+       of
+Section 74
+of the Contract Act and accordingly explained
+       by the Supreme Court in the
+Saw Pipes
+case.
+In the present case, on account of the delays and
+       defaults in completion of the transportation in the
+       prescribed time by the petitioner it cannot be disputed that
+       there would have been loss of business, reputation, good
+       will etc. to the respondent and which losses are such which
+       cannot be easily proved. Once the quality of services of the
+       respondent had fallen on account of the tardy action of the
+       petitioner it was bound to cause loss of business to the
+OMP Nos.410/2015 & 446/2015                                    Page 62 of 72
+respondent and which loss cannot easily be proved
+       inasmuch as how many customers the respondent lost on
+       account of delays caused by petitioner and how many more
+       customers respondent would have had if work had been
+       done on time and the business profits consequently in each
+       of the circumstance it would have generated or lost, cannot
+       be easily proved. Consequently, it was fully open to the
+       parties, in cases such as the present, to fix a clause with
+       respect to liquidated damages as a genuine pre-estimate of
+       damages and which they have so done.
+In my opinion, therefore, the contention of Mr. Alag
+       that losses have to be actually proved, is not a sound
+       contention and in fact it has been rejected by the Supreme
+       Court in the
+Saw Pipes
+case. I therefore, reject this
+       contention as urged on behalf of the counsel for the
+       petitioner....................."
+75.    Lastly, Mr.Maninder Singh, learned ASG has heavily relied upon
+the recent decision of the Supreme Court wherein the same principles
+of law with respect to contracts where it is difficult/impossible to
+assess the actual loss were reiterated by the Supreme Court in its
+judgment in the case of M/s Construction & Design Service
+(supra).
+76.    From all the decisions referred by Mr.Maninder Singh, learned
+ASG, it is clear beyond any doubt that
+Section 74
+of the Contract Act
+stipulates that in case of breach of contract, the party complaining the
+breach is entitled to receive reasonable damages whether or not
+actual loss is proved to have been caused by such breach.
+In the present case, breach of contract is admitted by the
+Saisudhir. No doubt, loss is not proved. There are pleadings by way of
+defence on behalf of NVVN that the loss has been suffered due to
+non-supply of power to the consumers in time, which is public utility
+service.    The    NVVN       was   pressing   for   compensation   named       in
+OMP Nos.410/2015 & 446/2015                                         Page 63 of 72
+Clause 4.6 of the Contract; it is genuine pre-estimated damages and
+it is difficult to assess being the supply of power a subject of public
+utility. Although, Saisudhir has tried to justify its position, by stating
+that the present case does not cover with the guidelines and
+principles laid down in
+Saw Pipes
+(supra), however, if any one
+examine the pleadings and relevant clauses of the contract, the
+situation is otherwise as canvassed by the Saisudhir.
+77.    As admittedly, there was breach on the part of Saisudhir on
+account of delay supply of power.      The electricity is utility service.
+The facility was to be enjoyed by the consumers. There is a provision
+for damages under Clause 4.6 which are in the nature of fixed
+compensation and nothing to do with actual damages to be proved.
+There was pleading that it is difficult of assess the same being a case
+of public utility. It is a commercial contract. Both the parties have
+signed with open eyes. NVVN is a Government concern. It is a nodal
+agency for facilitating purchase and sale of Solar P.V. Power. Thus,
+there is no force in the submissions of Mr.Rao that NVVN is nobody to
+receive the compensation as it was merely working for Mission and if
+compensation at all suffered, it was only Mission and not NVVN. It is
+a matter of fact that NVVN has signed the contract who is a
+responsible person in the dispute.      Even, Saisudhir has raised the
+claims against NVVN and not against the mission. Thus, the
+arguments are without any valid force.
+78.    Under these circumstances, the facts of the present case and
+law applicable thereon are directly covered under the decisions of
+Saw Pipes
+(supra) and recent judgment of the Supreme Court in
+Construction and Design Services (supra) wherein the situation as
+in the present case is similar to a large extent. The other set of
+OMP Nos.410/2015 & 446/2015                                   Page 64 of 72
+decisions referred by Mr.Rao are not applicable to the facts and
+situations available in the present case. In those cases, the issue of
+public     utility   services   and   the   difficulty   of   non-assessing     of
+compensation were not involved. Thus, those decisions are clearly
+distinguishable in the situation available in the present case.
+79.      The point which falls for consideration is whether in a contract
+involving public utility service in the absence of proof of any loss
+suffered by the party complaining the breach, the Court has to grant
+pre-estimated sum stipulated in the contract as damages in full or the
+Court has any other alternative left to grant reasonable compensation
+uptil the limit of stipulated damages as claimed in the contract.
+80.      Mr.Maninder Singh, learned ASG is of the opinion that the Court
+has to assume the amount stipulated as pre-estimated damages in
+the contract, as the amount contemplated by the parties at the time
+of contract as correct without any need for any formal sum, the Court
+has to proceed further in granting the said stipulated amount in full
+especially in a case of public utility services inasmuch as in such
+cases, the compensation of actual loss is not possible due to non
+financial nature of losses which are additionally required to be
+considered along with financial losses. Thus, the Court has no option
+but to assume the entire sum as correct and in such a case, the Court
+shall not go into the aspect of the damages irrespective of the fact
+whether the Court has the option to grant reasonable compensation
+as damages in alternative to the pre-estimated damages in full as per
+Section 74
+of the Contract Act.
+81.      The contention of Mr.Maninder Singh has been examined. The
+point which the learned counsel wants this Court to consider has
+already been revisited by the Supreme Court by examining its own
+OMP Nos.410/2015 & 446/2015                                         Page 65 of 72
+decision in the case of
+ONGC
+(Supra) in its another decision in the
+case of Construction and Design Services which is heavily relied
+upon by Mr.Maninder Singh, learned ASG wherein similar point fell for
+consideration and the Supreme Court speaking through Justice
+Adarsh Kumar Goel framed the said question in the following manner:
+"2.    The question raised for our consideration is when and
+       to what extent can the stipulated liquidated damages for
+       breach of a contract be held to be in the nature of penalty
+       in the absence of evidence of actual loss and to what
+       extent the stipulation be taken to be the measure of
+       compensation for the loss suffered even in the absence of
+       specific evidence. The further question is whether burden
+       of proving that the amount stipulated as damages for
+       breach of contract was penalty is on the person committing
+       breach."
+The said case was also relating to the contract involving public
+utility service which is for construction of sewerage pumping station
+which can be evinced from para 4 of
+the said judgment
+. The said
+contract also contained pre-estimated damages in the event of any
+delay in completion of said project. Para 3 of
+the said judgment
+has
+been reproduced herein below:-
+"3.   The respondent, Delhi Development Authority,
+       awarded a contract vide agreement dated 4-10-1995 to
+       the appellant for constructing a sewerage pumping station
+       at CGHS area at Kondli Gharoli at Delhi. Clause 2 in the
+       agreement provided as follows:
+"The contractor shall comply with the said time
+           schedule. In the event of the contractor failing to
+           comply with this condition, he shall be liable to pay as
+           compensation an amount equal to one per cent or such
+           smaller amount as the Superintending Engineer, Delhi
+           Development Authority (whose decision shall be final)
+           may decide on the said estimated cost of the whole
+           work for everyday that the due quantity of work
+           remains incomplete; provided always that the entire
+OMP Nos.410/2015 & 446/2015                                 Page 66 of 72
+amount of compensation to be paid under the
+           provisions of this clause shall not exceed ten per cent
+           of the estimated cost of work as shown in the tender."
+The Supreme Court in the referred case after quoting the
+findings rendered by the Courts below proceeded to examine the
+decision passed in the case of
+Saw Pipes
+(supra) and other related
+decisions like
+Fateh Chand
+(supra) and thereafter proceeded to
+observe in para 14 of the judgment as under:
+"14. There is no dispute that the appellant failed to
+       execute the work of construction of sewerage pumping
+       station within the stipulated or extended time. The said
+       pumping station certainly was of public utility to maintain
+       and preserve clean environment, absence of which could
+       result in environmental degradation by stagnation of water
+       in low lying areas. Delay also resulted in loss of interest on
+       blocked capital as rightly observed in para 7 of the
+       impugned judgment [DDA v.Construction & Design
+       Services, U.P. Jal Nigam, RFA (OS) No. 35 of 2010, decided
+       on 10-2-2012 (Del)] of the High Court. In these
+       circumstances, loss could be assumed, even without proof
+       and burden was on the appellant who committed breach to
+       show that no loss was caused by delay or that the amount
+       stipulated as damages for breach of contract was in the
+       nature of penalty. Even if technically the time was not of
+       essence, it could not be presumed that delay was of no
+       consequence. Thus, even if there is no specific evidence of
+       loss suffered by the respondent-plaintiff, the observations
+       in the order of the Division Bench that the project being a
+       public utility project, the delay itself can be taken to
+       have resulted in loss in the form of environmental
+       degradation and loss of interest on the capital are not
+       without any basis."
+82.    From reading of para 14, it is clear that the Supreme Court has
+observed that delay in execution of the contract involving public utility
+service where there is delay in completion of project, the loss could
+OMP Nos.410/2015 & 446/2015                                   Page 67 of 72
+be assumed even without formal proof and the said loss would also
+include non financial loss like loss on environment degradation, loss
+on interest on capital, etc. However, by saying so, Supreme Court has
+not divested the powers of the court to examine the reasonability of
+the grant of damages which may in terms of
+Section 74
+of the Act
+mean that damages in part as a matter of compensation or uptil the
+limit of pre-estimated sum as mentioned in the contract depending
+upon the touchstone of principle of compensation which is governing
+the rule of grant of damages.
+83.    Of course, it is left to the discretion of the Court as to what can
+constitute compensation to the party in a given case. This can be
+seen by going through the decision of Construction (supra) in para
+15 onwards of the said case wherein after observing that the loss
+could be assumed in the cases involving delay in execution of public
+utility contract, Supreme Court proceeded to venture into the
+discussion of grant of compensation to the party complaining the
+breach as against grant of full amount on presumptuous basis. Para
+15 of the said judgment has been reproduced herein below:
+"15. Once it is held that even in the absence of specific
+       evidence, the respondent could be held to have suffered
+       loss on account of breach of contract, and it is entitled to
+       compensation to the extent of loss suffered, it is for the
+       appellant to show that stipulated damages are by way of
+       penalty. In a given case, when the highest limit is
+       stipulated instead of a fixed sum, in the absence of
+       evidence of loss, part of it can be held to be reasonable
+       compensation and the remaining by way of penalty. The
+       party complaining of breach can certainly be allowed
+       reasonable compensation out of the said amount if not the
+       entire amount. If the entire amount stipulated is genuine
+       pre-estimate of loss, the actual loss need not be proved.
+       Burden to prove that no loss was likely to be suffered is on
+       the party committing breach, as already observed."
+OMP Nos.410/2015 & 446/2015                                   Page 68 of 72
+84.    Thereafter, the Supreme Court in that case proceeded to
+exercise its discretion of treating half of the sum as claimed in the
+contract as reasonable compensation. This can be evinced by reading
+para 17 of the judgment which has been reproduced herein below:
+"17. Applying the above principle to the present case, it
+       could certainly be presumed that delay in executing the
+       work resulted in loss for which the respondent was entitled
+       to reasonable compensation. Evidence of precise amount of
+       loss may not be possible but in the absence of any
+       evidence by the party committing breach that no loss was
+       suffered by the party complaining of breach, the court has
+       to proceed on guesswork as to the quantum of
+       compensation to be allowed in the given circumstances.
+       Since the respondent also could have led evidence to show
+       the extent of higher amount paid for the work got done or
+       produce any other specific material but it did not do so, we
+       are of the view that it will be fair to award half of the
+       amount claimed as reasonable compensation."
+85.    Upon fair reading of the relevant paragraphs of the judgment
+passed by the Supreme Court in the case of Construction and
+Design Services (supra), it is clear that the Supreme Court has
+retained the power of the court to examine as to what extent the
+party complaining the breach is entitled to compensation in the event
+of breach in the contract involving public utility service containing
+pre-estimated damages and the same is rightly so in view of the
+provision of
+Section 74
+of the Act.
+86.    In fact, the Supreme Court itself treated half of the sum
+contemplated in the contract as reasonable damages. Therefore, the
+submission of Mr.Maninder Singh, learned ASG for grant of full
+compensation as provided in clause 4.6 has already been answered
+OMP Nos.410/2015 & 446/2015                                 Page 69 of 72
+by Supreme Court itself in its own judgment referred by him above
+which has considered all the decisions referred by Mr.Maninder Singh
+87.    Coming back to the present case, since the delay in execution is
+at the stage of prior to commencement of the work in the contract
+where the delay has been explained by Saisudhir on account of
+various reasons and there is no evidence of any suffering of loss nor it
+was proved. On the contrary, it is the case of Saisudhir that the
+amount stipulated is terrorem in nature and his client in a way is
+forcing to perform the contract and at the best, it should be the
+amount of penalty.
+88.    It was also canvassed that the provision of Clause 4.6 of the
+Contract was kept only for the purpose to defer his client from
+breaking the contract in-between period, although the main purpose
+of the Mission was to ensure serious participation for project, to
+facilitate speedier implementation of the new project and to enhance
+the   confidence       in     the   project   development   and   to   provide
+manufacturing in solar sector in India. It was submitted that though
+Saisudhir had invested project cost of Rs.193 crores and it could not
+complete the project in time due to reasons beyond its control.
+89.    Considering the peculiar fact and circumstances in the present
+case also which are somehow similar to the case of Construction
+and Design Services (supra), I am of the view to award half of the
+amount claimed by the NVVN as reasonable compensation as against
+provided compensation by modifying the Award published by minority
+Arbitrator and by setting aside the Award published by majority
+Arbitrators as the findings arrived in the majority award are wholly
+contrary to law, facts and the Clause 4.6 of the Contract. The said
+findings are perverse, illogical and shake the conscious of the court
+OMP Nos.410/2015 & 446/2015                                       Page 70 of 72
+when the same are applied to the facts and circumstances of the
+present case.      Now, the question is how to recover the payment of
+50% LD by NVVN from Saisudhir. NVVN did not suffer any loss so as
+to claim damages.         The reasons for awarding half of the amount in
+this matter are that NVVN did not invest any amount in the project
+nor the NVVN has proved any actual damage, although there was no
+requirement in law. The objective of the Mission was to promote Solar
+Power, though NVVN impliedly agreed that supply is not the objective
+of the Mission. One of the reasons for providing steep LD's was that it
+did not want any developers to abandon the contract.        The delay in
+commissioning of the project in itself has not caused any loss.
+Saisudhir has incurred Rs.193 crores on the project. The loan was
+taken from the bank. The project is to last for 25 years. The delay is
+only for few months. It is a clear case of hardship otherwise it would
+put a death of knell of the project.
+90.    As far as the mode of payment is concerned, balance has to be
+strike in view of the situation in the matter. NVVN has claimed
+damages of Rs.54,12,32,000/-.         Now, it is to be considered as how
+half of the amount is to be received by NVVN. It is difficult because
+of the reason that it is a solar project. It is a dream project of the
+Government.        This Court does not wish that the project should be
+killed. In view of such LD imposed by NVVN, the condition of the
+Saisudhir is in bad shape, as I have been informed that the bank has
+initiated the proceedings against the Saisudhir.
+Thus, in view of the peculiar facts and circumstances, I am of
+the view that half of the amount of damages, i.e. Rs.27,06,16,000/-
+shall be received by the NVVN by adjusting Rs.25 lac every month
+OMP Nos.410/2015 & 446/2015                                  Page 71 of 72
+from the revenue of approximately Rs.2.25 crores per month which is
+being received from NVVN.
+The said amount of Rs.25 lac monthly adjustment of amount
+would be deducted from 1st October, 2016 till the half of the amount
+is paid by the NVVN. No objection by way of affidavit be filed within
+two weeks from today.         Once the affidavit is filed, the bank
+guarantees would be released and Saisudhir, however, would not be
+entitled to claim maintenance charges and costs, as claimed.
+91.    Both the petitions are accordingly disposed of.          Pending
+applications also stand disposed of. Parties to bear their own costs.
+92.    This Court wishes to put on record its appreciation for the
+co-operation and fairness in making their submissions to the point by
+Mr.Maninder Singh, learned ASG appearing on behalf of NVVN, as
+usual, and also Mr.C.Mohan Rao, Advocate appearing on behalf of
+Saisudhir who has argued the matter so well and, thus, this Court
+feels that Mr.Rao possesses all the qualities of a Senior Advocate.
+(MANMOHAN SINGH)
+                                                    JUDGE
+SEPTEMBER 08, 2016
+OMP Nos.410/2015 & 446/2015                                 Page 72 of 72

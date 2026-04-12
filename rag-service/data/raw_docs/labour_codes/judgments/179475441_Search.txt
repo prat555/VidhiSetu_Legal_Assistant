@@ -1,0 +1,2944 @@
+Title: Search
+Court: High Court while remanding the matter back to the
+Date: 04 to 2006
+Citation: Citation not found
+Source: https://indiankanoon.org/doc/179475441/
+
+[Cites
+28
+, Cited by
+2
+]
+Income Tax Appellate Tribunal - Delhi
+M/S Nokia Corporation, New Delhi vs Adit, New Delhi on 2 September, 2019
+IN THE INCOME TAX APPELLATE TRIBUNAL
+            DELHI BENCHES 'E', NEW DELHI
+         Before Sh. Bhavnesh Saini, Judicial Member
+             Dr. B. R. R. Kumar, Accountant Member
+
+        ITA No. 1006/Del/2010 : Asstt.                Year : 2004-05
+        ITA No. 1007/Del/2010 : Asstt.                Year : 2005-06
+        ITA No. 1008/Del/2010 : Asstt.                Year : 2006-07
+        ITA No. 5819/Del/2010 : Asstt.                Year : 2007-08
+Nokia Corporation                      Vs   Asstt. Director of Income Tax,
+(Formerly Nokia Networks OY)                Circle-2(1), International Taxation,
+C/o Tarandeep Singh, F-99,                  New Delhi
+Lajpat Nagar-II,
+New Delhi-110024
+(APPELLANT)                                 (RESPONDENT)
+PAN No. AABCN3748E
+
+        ITA No. 1236/Del/2010 : Asstt. Year : 2004-05
+        ITA No. 1237/Del/2010 : Asstt. Year : 2005-06
+        ITA No. 1238/Del/2010 : Asstt. Year : 2006-07
+
+Asstt. Director of Income Tax,         Vs   Nokia Corporation
+Circle-2(1), International Taxation,        C/o S.R. Batliboi & Co., 4th
+New Delhi                                   Floor, Golf View, Tower-B,
+                                            Sector    Road,    Sector-42,
+                                            Gurgaon
+(APPELLANT)                                 (RESPONDENT)
+PAN No. AABCN3748E
+
+                    Assessee by : Ms. Rashmi Chopra, Adv.
+                    Revenue by : Sh. G. K. Dhall, CIT DR
+
+Date of Hearing: 09.07.2019            Date of Pronouncement: 02.09.2019
+                                      2                    ITA Nos. 1006 to 1008, 1236
+                                                             to 1238 & 5819/Del/2010
+                                                                Nokia Corporation
+
+
+
+                                ORDER
+
+Per Dr. B. R. R. Kumar, Accountant Member:
+Si nce, the i ssues i nvol ved i n all these appeal s are common ,
+they      were   heard   together   and   are   bei ng   di sposed        off     by
+common order. G round Nos. 2 & 6 are not presse d.
+2.     The assessee has rai sed the foll owi ng grounds:
+"1. Ba sed on facts and ci rcumstan ces of the case and
+     in law, the learned C ommissioner of              Income-
+     tax(Appeals) [hereinafter referre d to as the CIT(A)]
+     has erre d in holding that the income earned by the
+     appellant     from     supply     of   telecommunication
+     equipment (comprising of hardwa re and software) t o
+     Indian telecom operat ors is taxa ble in India on the
+     basis    that    the    appellant    has   a   Permanent
+     Establishment ('PE') in India under the provisions of
+Article 5
+of the Double Taxation Avoidance Agreement
+     between     India    and   Finland   ("India-Finland  tax
+     treaty").
+2.     Not pressed
+3.   Without    prejudice,    ba sed  on    facts   and
+     circumstances of the case and in law, the ld. CIT (A)
+     has erre d in applying gl obal net operating ma rgin of
+     16.46 percent t o estimate the income from su pply of
+     telecommunication equipment.
+4.    Without  prejudice,   ba sed  on    facts   and
+     circumstances of the case and in law, the ld. CIT (A)
+     has erred in not considering the India specific Profit
+     and Loss account furnished by the appellant, which
+     reflected losses incurre d from supplies made to
+     customers in India.
+5.   Without   prejudice,   ba sed   on    facts  and
+     circumstances of the case and in law, the ld. CIT (A)
+     has erred in attributing 20 perce nt of the estimated
+3                ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                   Nokia Corporation
+
+income from supply of telecomm unication equipment
+to the alleged PE in In dia, by completely ignoring the
+following facts submitted by the appellant:
+(a) Supply contracts/purchase orde rs, being high
+      value    contracts,   we re  'concluded/accepted '
+      outside India in view of the fact that the 'powe r
+      to conclude ' contra cts vests with the Boa rd of
+      Directors/othe r approving authority off the
+      assessee base d outside India at the registered
+      office of the company in Helsinki (Finland).
+(b) No supply contracts were signed in India.
+(c) No income can be said to hav e accrued on
+      account of mere signing of contra cts, as uphel d
+      by the Hon'ble Supreme Cou rt i n the case of
+      Ishikawajima Ha rima Heavy Industries Co. Ltd.
+(288 ITR 408)
+(d) The appellant's role was limited to supply of
+      telecom equipment and it did not have any role
+      in network planning activities undertaken in
+      India.
+6.   Not pressed
+7. Based on facts and circumstances of the case and
+ in law, the ld. CIT (A) ha s e rre d in uphol ding the
+ action of the lea rned asse ssing officer who has
+ arbitra rily imputed Rs 50 ,000,00 0 as income f rom
+ vendor financing and taxed the same in the hands of
+ the appellant in India as business Income, without
+ providing any Justification for Imputation of the said
+ Income and without seeking any information and
+ detail    from  the  appellant   nor   providing   any
+ opportunity to the appellant to contest such addition.
+8. Based on facts and circumstances of the case and
+ in law, the learned CIT (A) has erred in relying upon
+ the unfounded allegations made by the learned
+ assessing officer to h old a 'Fixed Place PE' of the
+ appellant in India unde r the provisions of
+Article 5(1)
+of the India-Finland Tax Treaty, in respect of
+4                ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                       Nokia Corporation
+
+     research & development ('R&D') a ctivities undertaken
+     by Nokia India Private Limited ( Nokia India) in India
+     for the appellant.
+8.1    Without  prejudice,    based  on    facts  and
+     circumstances of the ca se and in law, the leaned CT
+     (A) has erred in applying the profit margin rate of
+     21.42 percent on the total expenses incurred by
+     Nokia Indi a on R&D a ctivities and attributing 100 %
+     of the same to the alleged PE of the appellant in
+     India.
+8.2   Without    prejudice,   based    on   facts   and
+     circumstances of the case and in law, the learned CIT
+     (A) has e rred in not appreciati ng that an a rm's
+     length payment has been made by the appellant to
+     Nokia Indi a in respect of R &D activities undertaken
+     by Noki a India, which has alrea dy been offered to tax
+     in India by Nokia India.
+8.3   Without   prejudice,   based   on    facts   and
+     circumstances of the case and in law, the learned CIT
+     (A) has erred in not allowing deduction for payments
+     made by the appellant to Nokia India while
+     computing    the   income     from   R&D     activities
+     undertaken in India.
+9. Based on facts and circumstances of the case and
+     In law, the learned CIT (A) has erred In upholding
+     the levy of interest under
+section 2348
+of the
+     Income-tax    Act,  1961,    thereby  ignoring    the
+     Judgment of the Hon'ble T ribunal In appellant's ow n
+     case for AY 1997-98 and AY 1998-99."
+3.   The Revenue has rai sed the foll owing grounds:
+"1. On the facts and circumstances of the case, Ld.
+     CIT(A) has erred in attributing onl y 20% of profits t o
+     activity of the PE in India for supply of Hardware.
+2. On the facts and circumstance s of the case, Ld.
+     CIT(A) has erred in attributing only 20% of profits of
+     activity of the PE in India for supply of Ope rating
+     Systems Software.
+5                        ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                                            Nokia Corporation
+3. On the facts and circumstance s of the case, Ld.
+      CIT(A) has erred in attributin g the profits on
+      Research & Development (R&D) a ctivities in the same
+      proportion as the proporti on of Global Profits are
+      attributable to ratio of Global R &D Expenses & Globa l
+      Expenses and thus disrega rding th e facts that Global
+      Expenses even contain expenses of the branches
+      where R&D activities are not even carrie d out."
+4.    The i ssues i n the grounds taken by the assessee as well as
+the   revenue       i nvol ved    simil ar       i ssues.    Hence,     taken        up     and
+adjudi cated together.
+5.    Bri ef background of the case are that Noki a Corporati on i s
+a    company    i ncorporated under                the l aws of        Finl and and i s
+engaged        in      the        busi ness          of        suppl yi ng        advanced
+tel ecommuni cati ons systems and equi pment for use i n fi xed
+and mobil e phone networks. The assessee has presence i n Indi a
+i n the form a 100% subsi di ary by the name of Noki a Indi a
+Pri vate Ltd (hereinafter referred t o as Noki a Indi a). Accordi ng
+to the assessee its Indi an li ai son offi ce had become defunct
+after i ncorporati on of the Indi an subsi di ary, Noki a Indi a, i n May
+1995 and was cl osed i n January 2002 after obtai ning requi si te
+approval s from the Reserve Ban k of Indi a. For the rel evant
+previ ous   years      the       appell ant       fil ed    i ts   returns     of     i ncome
+decl ari ng 'Nil ' i ncome. In the assessment orders passed by A0 ,
+the appell ant has been hel d to consti tute a PE i n Indi a and
+revenues deri ved by the appell ant from foll owi ng sources were
+taxed in Indi a:
+Suppl y of hardware,
+Suppl y of operati ng system software
+6                   ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                                Nokia Corporation
+
+Income       from   Vendor   fi nanci ng (Onl y   for   assessment           years
+2003-04 to 2006-07); and
+Income       from   Re search   &   Development     acti vi ti es    (Onl y      for
+assessment years 2004-05, 2005-06 and 2006-07).
+Revenues from suppl y of ha rdwa re have been al l ocated at 60
+percent of the total suppl y revenues and 100% of the gl obal
+profi t margi ns earned by the appell ant were attri buted to the
+PE. Revenues from suppl y of software have been all ocated as
+40 percent of the total suppl y revenues and were taxed a s
+'royal ty' both under the provi si ons of secti on 9(1)(vi ) of the
+Act and Arti cl e 13 of the Indi a-Finl and Tax Treaty on a gross
+basi s.    Rs.5,00,00,000/-     has   bee n   imputed    as    i ncome        from
+vendor fi nanci ng. In respect of R&D acti vi ties, Noki a Indi a's
+R&D center in Indi a has been held as a fixed pl ace of busi ness
+for the appel l ant from where R&D acti vity of the appell ant i s
+carri ed out. An attri buti on of 125% to 130% of profi ts from
+R&D expenses incurred i n Indi a has been made.
+6.       Comprehensi vel y the i ssues i s to be adjudi cated i n the
+case are that
+-   Whether the appell ant consti tutes a PE i n Indi a, thereby
+         resul ti ng i n taxati on of revenues from suppl y of telecom
+         hardwa re to the Indi an customers
+-   If the appell ant consti tutes a PE i n Indi a, what i s the
+         quantum of profi ts attri butabl e to such PE i n Indi a
+-   Whether revenues from suppl y of software are i n the
+         nature of 'royal ty' / 'fees for techni cal servi ces' under the
+         provi si ons of the Act and the Indi a-Finl and Tax Treaty
+7                    ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                                         Nokia Corporation
+-   Whether the assessi ng offi cer has correctl y i mputed the
+         i ncome     of     Rs   5,00,00,000/-       as   i ncome      from        vendor
+         financing        (Rel evant    for   Assessment       Years      2003-04          to
+         2006-07)
+-   Whether the appel l ant consti tutes a PE i n Indi a on account
+         of R&D acti viti es undertaken i n Indi a under the terms of
+         sub-contracti ng            agreement       executed        between             the
+         appel l ant and Noki a Indi a (Rel evant for Assessment Years
+         2004-05 to 2006-07)
+7.       The orde rs of the l d. CIT (A) we re mai nl y based on the
+orde r of the Speci al Bench of ITAT Del hi dated 22.06.2005 i n
+the case of assessee. Later, the matter reached the Hon'bl e
+Hi gh Court where the Hon'bl e Hi gh Court has passe d an orde r
+dated 07.09.2012 25 Taxman 225 deali ng wi th the i ssues.
+Later,         the   Speci al    Bench        was   consti tuted      foll owing         the
+di recti ons of the Hon'bl e Hi gh Court                  and the ITAT Speci al
+Bench, Del hi passed an order dat ed 05.06.2018 65 ITR (T) 23
+for the assessment year 1997-98 and 1998-99.
+8.       Ground Nos. 1 , 3 t o 5 of asse ssee's a ppeal i n ITA Nos.
+1006 to 1008/Del /2010, Ground Nos. 2 & 3 of asse ssee's
+appeal i n ITA No. 5819/Del /2010 and Ground Nos. 1 to 3 of
+departmental appeal in ITA Nos. 1236 to 1238/Del/2010 deal s
+wi th exi stence of permanent establi shment i n Indi a.
+9.       Wi th regard to the PE, the l d. CIT (A) adjudi cated base d
+on       the    order     of   the    Speci al    Bench   of   ITAT      Del hi      dated
+22.06.2005. The rel evant part of the order i s as under:
+"Taking up the second part of the second question a s
+         to whether the Indian subsidiary of the assessee,
+8                ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                   Nokia Corporation
+
+referred t o as NTPL , can be consi dered as a PE of the
+assessee in India, we are of the view that having
+regard of the findings re corded by both the Assessing
+Officer and the CIT(Appeals), the NTPL can be
+considere d as a PE. The issue has been dealt with in
+paragraph 6 .3 of the orde r of the CIT(Appeals) ,
+though in several earlier pa rts of the orde r, there i s
+scattered reference to this a spe ct of the matter.
+However, the final decision of the CIT(Appeals) is
+only in paragraph 6 .3 of his order. A reading of this
+paragraph shows clearly that wha t the CIT(Appeals)
+has in mind, as in the case of the A.O., is that NTPL ,
+the Indian subsidiary, is the virtual proje ction of the
+assessee itself in India, though this idea may not
+have been prope rly articulated i n the order of the
+Income-tax authorities. The main point brought out
+by them is that in respect of the services rendere d
+by NTPL to the assessee under the "ma rketing
+agreement", it was compensated on the basis of cost
+plus 5% which means that in a ddi tion to getting the
+expenses reimbursed, NTPL will get 5% more. It
+stands to reason that in respect of the marketing
+activity, NTPL has no scope for incurring any loss.
+Nevertheless, its accounts Show s a book loss of Rs.
+10    crores   (approximately)    and    even    if  the
+depreciati on loss of Rs. 2 croe s i n ignored still the
+loss is a round Rs. 8 crore s. The question, posed by
+the Income-tax authorities is : Where from this loss
+has arisen ? The answe r is that such a loss has arisen
+only from the installation activity carried out by the
+NTPL. In other words the installation charges
+received by NTPL from the cellula r operat or in India
+were not commensurate with the costs and expenses
+incurred therefore and that is the reason why such a
+loss has been incurred. Now the other question i s
+how does that result in NTPL bei ng regarded as the
+PE of the assessee company.
+The answer is that since
+NTPL is a wholly owned subsi diary of the assessee in
+India and is consequently in a position to control an d
+monitor its activities, the install ation charges were
+directed to be so fixed that they were not
+commensurate with the services rendered by NT PL.
+The next question will be why would the assessee do
+so. We cannot think of any other reason except that
+9                 ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                    Nokia Corporation
+
+the part of the price for installation of the GSM
+equipment was diverted as the price for the supply
+contract . Whether there is direct evidence or not for
+this conclusion, or whether it 1s permissible for us
+even    to   make     such    an    inference   from   the
+circumstances of the case, i s not really material for
+the present purpose. What it material is that there
+was ample scope for the assessee to control and
+monitor the activities of NTPL w hich, it should be
+remembered i s a l00% subsidia ry of the assessee, in
+such a manner that NT PL became a virtual projecti on
+of the assessee company in Indi a. The other point
+made by the Income-tax authorities was that the
+assessee even re presented t o t he Indian cellular
+operat or that it will not dilute its share holding in the
+Indian subsidiary bel ow 51% w ithout the written
+permission of the Indian cellular operat ors. This
+allegation of the Income-tax authorities has not been
+refuted or proved wrong by the assessee in the
+course of the proceedings before them or even
+before us. This also shows th at the distinction
+between the two corporate entities, namely, the
+assessee on one hand and NTPL , its 100% subsidiary
+on the other hand, virtually got blurred with the
+result that it can be said that when the Indian
+cellular ope rators were dealing with NTPL in
+connection    with     the   installation   contract   and
+marketing agreement, they were in fact dealing with
+the assessee itself. We are therefore, the opinion
+that the test propounded by the Andhra Pra desh High
+Court in the case of
+CIT Vs. Vi
+shakhapatnam Port
+Trust 144 ITR 146 i s fully answered. We are ,
+therefore, unable to find fault with the CIT(Appeals)
+for holding that NTPL , the 100% Indian subsidia ry of
+the assessee, constituted the a sse ssee's PE in India ."
+(Emphasis Supplied).
+As I have mentioned above, the facts of the case
+before me for Assessment Years 2 002-03 to 2006-07
+are similar t o the facts before the Honourable Special
+Bench of the Delhi ITAT f or AY 19 97-98 and 1998-99.
+Accordingly,     relying   on   the  decision  of  the
+Honourable Special Bench of the Delhi ITAT, I
+confirm the action of the assessing officer in this
+10               ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                        Nokia Corporation
+
+      regard and uphold that the Nokia India constitutes
+      appellant's PE in India."
+10.   It was brought t o our noti ce that thi s matter of dependent
+agent PE, fi xed based PE and att ri buti on of profi ts have been
+di scussed and stands adjudi cated by the order of the Spe ci al
+bench of ITAT Del hi dated June 05, 2018. The rel evant porti on
+of the order i s reproduced hereunder for rea dy reference.
+43. The key sequitur and proposi tion which is culle d
+      out from the judgment of the H on'ble Supreme Cou rt
+      is that;
+firstly, the fix place should be w here the commercia l
+      and economic activity of the enterprise is carried out;
+secondly, such a fix place acts as a virtual projection
+      of the foreign enterprise;
+thirdly, PE must have three characteristics, st ability
+      productivity and dependence; and
+
+      lastly, fixed place of the business must be at the
+      disposal of the foreign enterpri se through which it
+      conducts business.
+Thus, according to the Supreme Court the 'disposa l
+      test' is pa ramount which needs to be seen while
+      analyzing fixed place PE under
+Article 5(1).
+Though in
+      our humble unde rstanding, the test of pe rmanency
+      qua fixed place has been slightly diluted by the
+      Hon'ble Court but not the "disposal test". Again this
+      judgment of Hon'ble Supreme Court has been
+      reiterated and referre d extensively in a subse quent
+      judgment by the Hon'ble Supreme Court in the case of
+Asstt. DIT v. E-Fund IT Solution
+(supra) , whe rein the
+      Hon'ble Apex Court ha d quoted e xtensively the same
+      views and commentaries and al so the judgment of
+      Formula One World Champi onship Ltd. and held that
+      there must exist a fixed place in India which is at
+      disposal of foreign enterprise through which they carry
+      on their own business.
+In tha t case, the In dian
+11                ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                    Nokia Corporation
+
+subsidiary company of the fore ign enterprise wa s
+rendering su pport se rvices which enabled the foreign
+enterprise in turn to rende r servi ces to its client an d
+the outsourcing of w ork t o the In dian subsidia ry wa s
+held to be not giving ri se to fixed place of PE. Thi s
+judgment of the Hon'ble Supreme Court nearly
+clinches the issue before hand i n so far as role of
+Indian subsidiary while deciding the fix place PE.
+44. Now in the light of the aforesaid principle we shall
+examine the various kinds of contra cts/activities
+undertaken by the assessee and the facts and material
+on record, spe cifically with reference to the followin g
+activities which have been identified by the Hon'bl e
+High Court while remanding the matter back to the
+Tribunal.
+(a) Signing of contracts;
+(b) Network planning;
+(c) Negotiation of off-shore contra ct in India.
+As discussed ea rlier, the Assessi ng Officer ha s note d
+that LO was engaged in the activities of network
+planning, negotiation of contra ct and si gning of
+contracts, however in the earlier round it has been
+categori cally held that LO is n ot a PE qua these
+activities and nowhere there is a categorical an d
+specific finding by the Assessing Officer or by the ld.
+CIT(A) in the entire orde r that t here exist any fixed
+place PE qua the Indian subsidia ry, i.e., NIPL, except
+for stating that office of the LO and NIPL were co-
+located, employees of the assesse e were w orking wit h
+NIPL and therefore , it constituted a fixed place PE. If
+that reasoning alone is t o be ta ke n into conside ration ,
+then such an interpretation of PE did not found judicia l
+favour either by the ea rlier Special Bench or by th e
+Hon'ble High C ourt qua the LO, hence on sam e
+reasoning and principle , NIPL w ould also cannot be
+reckoned as fixed place PE. Be that as may be, one of
+the key arguments by the Revenue before us is that
+foreign expat riates we re present in NIPL office wh o
+were working as an employee of NIPL and we re
+engaged in the business of NIPL, i.e., installation and
+marketing a ctivities. The key th rust of the l d. C IT-DR
+12                ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                   Nokia Corporation
+
+before us was that; firstly, Country Manager of LO
+continued to be the MD of the NIPL; secondly, the
+identity between LO and NIPL we re blurre d and NIPL
+was nothing but 'virtual projecti on' of the assessee in
+India; thirdly, NIPL w as doing m ost of the activities in
+India like Ma rket Development, liaisioning with
+customers,     technical   assistan ce,   marketing     of
+products, etc.; fourthly, employees of the assessee
+company we re seconded to NIPL for installation
+contract of NIPL, and their salari es were paid by th e
+assessee, therefore , through these employees PE gets
+constituted and in support he strongly relied upon the
+judgment of Morgan Stanley and Centrica India off-
+shore Private Ltd. (supra); la stly, whenever the
+assessee's employee used t o come to India then NIPL
+was providing infrast ructure facilities like, telephone,
+fax, vehicles, etc. which goes to show that there was
+a place in the form of NIPL which was at the disposal
+of the assessee.
+45. First of all, in so fa r as the allegation that the
+Country Manage r of the LO continued to be the
+Managing Dire ctor of the Indian Company, the same
+has with reference to one employee, namely, Mr.
+Hannu Karavitra who was the Country Manager in L O
+and in that capacity has signed t wo contracts in the
+month of February and March, 19 95. These contract s
+were signed when NIPL wa s not even in existence.
+After the incorporation of NIPL on 23.05.1995, n ot a n
+iota of evidence has been brought on record that Mr.
+Hannu Karavitra had signed any contract on behalf of
+the assessee. He w as a Managi ng Direct or of NIPL
+from 01.01.1996 t o 31.07 .1999 and after he w a s
+employed with NIPL , he has not signed any supply
+contracts    with  the   Indian   customers.   All  the
+installation contracts which have been signed by th e
+NIPL have been executed by the NIPL independently
+with the Indian customers on principal to principa l
+basis an d any income received or accrued thereof, wa s
+subject to tax in India. During the course of the
+hearing, it wa s brought to ou r notice that on one
+assignment letter dated 24.05.199 5 was signed by Mr.
+Hannu Karavitra whereby on shore se rvices were
+assigned to NIPL and while working in India he was
+13                ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                    Nokia Corporation
+
+receiving salary from a ssessee only. First of all, Mr.
+Hannu Karavitra was employed with the LO earlier,
+prior to the incorporation of NIPL and he was not
+employed with the Indian company. In any case
+assignment was from assessee to NIPL and n o
+authority was being exercised on behalf of the
+assessee company vis-à-vis the customers. Whether
+Mr. Hannu Ka ravitra w as representative of the
+assessee and w as working f or NIPL or was receiving
+salary from a ssessee, same would have some
+relevance in the context of 'Servi ce PE', but certainly
+not while examining the 'fixed pl ace PE'. Even if the
+arguments sake it is accepted that he was a seconde d
+employee to NIPL , then also if he had worked unde r
+the control of NIPL despite lien was maintained with
+assessee company, then also it does not lead to an
+inference that assessee company was having any kin d
+of a PE, leave alone under paragraph 1 of
+Article 5 .
+Similarly the allegation has been made by the
+Assessing Officer as well as strongly contended by th e
+learned CIT-DR that employees of the NIPL were
+mostly belonging to the assessee company as some of
+the expatriates/ technical persons were working on
+installation contract of NIPL for which activities,
+salaries were paid and manage d by assessee. This
+concept perhaps may assume some significance while
+deciding the concept 'Service PE ' for which reliance
+was also pla ced by the lea rned CIT-DR on Morga n
+Stanley and Centrica off-shore Pvt. Ltd, however as
+per the then existing provision of
+Article 5
+between
+India and Finland treaty, there wa s no such concept of
+'Service PE' pe r se except for certain activities
+mentioned in clause (a) and (b) of Paragraph 3 of
+Article 5
+, which ostensibly are not applicable at all .
+Since none of the on-shore activities are carried ou t
+by the assessee in India al beit wa s done by its India n
+subsidiary, provisions of para gra ph 3 of
+Article 5
+will
+also not attract. Once there is no concept of 'Service
+PE' (though there is no allegation by the Assessing
+Officer or C IT (A) that there is any kind of service PE) ,
+then such plea of the learned CIT-DR has no legs t o
+stand. His core a rgument was on the point that
+installation activities done through employees of the
+assessee constitutes a 'Se rvice PE' and asse ssee wa s
+14                ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                    Nokia Corporation
+
+unable to furnish the details of e mployees working in
+NIPL al ongwith the details of their duration an d
+therefore, in a bsence of such details adverse view
+should be drawn for tre ating these employees
+constituting PE in India. The entire thrust of his
+argument simply whittles down for the reason that
+firstly, there is absolutely no con cept of 'Se rvice PE' in
+the then existing provision of Arti cle 5; and secondly,
+other than off-shore su pply of equipment, no othe r
+activities has been carried out by the assessee after
+the incorporation of the Indian subsidiary NIPL an d
+this fact has been accepted by th e Hon'ble High Cou rt
+also. Thus, any activities relating to NIPL unde r the
+independent contract cannot be re ckoned to constitute
+a PE in the context of
+Article 5(1);
+and even if for
+argument sake it is accepted that the activities of
+NIPL were manage d by assessee , then also, it doe s
+not constitute PE qua activities of supply contract or
+any activity from where it can be held that any income
+has been received or accrued to t he assessee in India
+or through or f rom any asset i n India. NIPL is an
+independent entity and all its income from Indi a
+operati on is liable for tax in India.
+46. Another set of allegati ons whi ch can said to have
+some significance is that; whenever the employees of
+the assessee were visiting India in the context of
+networking, assigning or negot iation of off-shore
+supply contract , the employees of NIPL we re either
+assisting by providing certain administrative support
+services made available in the form of telephone, fa x
+and conveyance; or the NIPL was providing technica l
+and marketing support services to assessee and hence
+it is assisting in sale of equipments of the assessee in
+India and therefore , NIPL pe r-se by 'force of attracti on
+rule' will constitute a PE, because even if one sale of
+the assessee is through Indian company then by virtue
+of this rule as enshrined in
+Article 7
+of India-Finland
+DTAA, PE will get constituted and there w ould be a
+deemed PE in the form of Indian company whose
+income has to be attributed a ccordingly. This secon d
+part of allegati on does n ot hold ground at all ,
+because; firstly, as stated in the earlier part of the
+orde r, assessee and NIPL have e ntered into sepa rate
+15                ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                   Nokia Corporation
+
+marketing and technical support agreements in
+respect of the projects installed a nd has no correlation
+with the supply contra ct. This h as been specifically
+held so by the Hon'ble High Court also in para gra ph 34
+reproduced in the earlier pa rt of the orde r; secondly ,
+not only that, f or rende ring these services NIPL wa s
+compensated with cost plus ma rk up of 5% which
+though has been a dversely commented by the
+Assessing Officer and ld. CIT (A) but there has been
+no determination of ALP under transfe r pricin g
+mechanism.      This    inter   alia   means    that   the
+remuneration paid by the assesse e to NIPL for these
+services has to be re ckoned at arm's length; and
+lastly, not one off-shore sale ha s happened in India
+through NIPL and this fact has again been accepted by
+the Hon'ble High Court in its orde r that no pa rt of off-
+shore supply wa s concluded in India with any business
+connection in India as it was i ndependent contract
+between Assessee and Telecom operators in India. In
+so far as allegation of administrat ive support service s
+provided to employees of asse sse e in India for su pply
+contract by NIPL and hence it leads to fixed place PE ,
+strong reliance has been placed by Ld. CIT-DR on the
+statement of the then Managing Director, Mr. Simon
+Bresford. From the relevant statement he had pointed
+out that how the marketing support services have
+been provided by the Indian company to the assesse e
+and also the a dministrative su pport se rvices we re
+provided by NIPL to assessee . Regarding ma rketin g
+support services by NIPL to a ssessee we have already
+discussed a bove that it was done under sepa rate
+contract and NIPL wa s remunerat ed at arm 's length .
+In so far as a dministrative facilities being provide d by
+the NIPL t o the expatri ates coming for signing of
+contract on behalf of the Nokia Fi nland, he had stated
+that, administrative support like office support, ca rs,
+telephones, etc. was being provided by NIPL; an d
+earlier office of liaison office of NIPL are at the sam e
+premise in the year 1995. Relying on such statement,
+ld. CIT-DR has vehemently contended that this
+material facts itself goes to prove that there is a fixed
+place PE which was at the disposa l of the assessee. In
+light of such contention, we have to see whether an y
+place of business wa s provide d by NIPL t o the
+16               ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                  Nokia Corporation
+
+assessee which can be said t o be at a disposal of the
+assessee for ca rrying out its business wholly or partly
+in India. The sequitur of the judgment of Hon'ble Apex
+Court a s incorporated a bove is that, in order t o
+ascertain a s to whether an e stabli shment being a fixed
+place for PE or not is that physically located premise s
+have to be 'at the disposal of the enterprise s'.
+Nowhere the disposal test has been diluted by the
+Hon'ble Apex Court rather it ha s been reiterated at
+various places not only in the Formula One Worl d
+Championship judgment but also in the subsequent
+judgment of E-Fund. As culled out from the certain
+observati ons of the Assessing Officer as well as the
+statement of the MD that the employees of the
+assessee whenever came t o India for the pu rpose of
+supply contract f or negotiation on network planning,
+then they were provided administrative services like
+telephone, fax and conveyance. Now, whether such
+kind of facilities can at all be treated to be a fixed
+place of business of the assessee company. Telephon e
+or fax or a car cannot be reckoned as physically
+located premise. The word u sed in
+Article 5(1)
+i s
+'fixed place of business through which business of
+enterprise is wholly or pa rtly carried out'. A fixed
+place alludes to some kind of a particular locati on ,
+physically located premise or some place in physical
+form. Nowhere is it borne out that any kind of
+physically located premise or a pa rticular locati on was
+made available to the assessee which was at th e
+disposal of the assessee for carrying out wholly or
+partly its business through that place. Not only there
+should be an existence of a fixed place of business but
+also through that fixed place business of the
+enterprise should be wholly or pa rtly carried out. N o
+such material has been brought on record that any
+kind of such fixed place was made available. Providin g
+telephone or fax or conveyance services can ever be
+equated with fixed place. Even the co-location of
+earlier LO office and the Indian subsidiary company
+was only in the initial year of 1 995 and later on L O
+office has moved out which is also evident from the
+statement of the Managing Director. Thus, providin g
+such kind of a dministrative support services t o th e
+assessee's employees visiting Indi a will not form fixed
+17                ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                   Nokia Corporation
+
+place PE, and therefore, the gre at emphasis by the
+learned DR on this point is not much of credence as it
+lacks any further mate rial support or evidence that
+any physical place was made available which can be
+said to be at the disposal of the a ssessee for ca rryin g
+out its off-shore supply contract in India. In fact the
+entire allegation of fixed place was qua the LO an d
+never in the context of NIPL by the Assessing Officer.
+The entire case of the Assessing Officer was that NIPL
+is a DAPE of the assessee, because all employees of
+the assessee were either working for the NIPL or NIPL
+was underta king ce rtain marke ting and technical
+support services for the assessee. The concept of
+DAPE w ould be discu ssed in succeeding pa ragraphs.
+However, so far a s the issue of fixed place PE is
+concerned the same does not get established at all by
+making to reference of providing of telephone, fax and
+car facility to the employees of assessee visiting
+India.   As    rega rds  allegati on   that    expatriates
+employees of a ssessee in India were assisting the
+NIPL and hence used the office of NIPL, is of n o
+relevance qua a ssessee 's business, because, th e
+technical expatriates we re in Indi a to a ssist/help NIPL
+with performance of installation a ctivities of NIPL and
+not to carry out the business of the assessee which
+was manufacturing and sale of network equipments.
+This activity per se cannot be reckoned that the Indian
+office was being used for the pu rpose of assessee 's
+business or assessee was unde rtaking business in
+India through fixed place of business. The test laid
+down by the H on'ble Supreme Court does n ot ge t
+satisfied in this case as nothing has been brought on
+record by the AO or ld. CIT-DR tha t any physical space
+was made available which can be said to be at the
+disposal of assessee for asse sse e's own business of
+supply and sale of equipments.
+47. Now coming t o the paragra phs 2, 3 and 4 of
+Article 5
+, it is not the case of an y one that the NIPL
+constitutes any kind of PE under these provisions.
+Albeit if one goes by clause (e) of Paragraph 4 of
+Article 5
+, where it has been ca tegorically provide d
+that the PE shall not be dee med to include a
+maintenance of a fixed place of bu siness solely either;
+18               ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                  Nokia Corporation
+a) for the purpose of advertising; b) for the supply of
+information or for scientific research; c) bein g
+activities solely of a preparat ory or an auxiliary
+character in the business of the enterprise. This
+clause clearly excludes any a ctivities solely for
+prepa ratory or auxiliary in nature and if one goes by
+scope of remand by the Hon'ble High Court, i.e., t o
+see, whether signing, networking planning and
+negotiation constitutes a PE and also whether profits
+can be attri buted to such activities, then such kind of
+an activity ostensibly falls within the scope and realm
+of prepa rat ory or auxiliary in nature, because mere
+signing, planning and negotiation or networking before
+supply of goods, a re preliminary activities and
+therefore, unde r this all pervasi ve exclusion clause
+there cannot be any PE which can be deemed either in
+terms of Paragra phs 1, 2 and 3 of
+Article 5.
+Under the
+present DT AA if activities a re in the nature of
+prepa ratory and auxiliary cha ract er, then same have
+been specifically excluded from being treated as PE.
+Hence, even if for the argument's sake it is accepted
+that there can be some kind of fixed place unde r
+Article 5(1)
+, then such a place cannot be reckoned a s
+PE, because the activities ca rrie d out f rom such a
+place are in the nature of preparatory and auxiliary .
+Accordingly, in te rms of
+Article 5 (4)
+, there could not
+be any fixed place PE under
+Article 5(1)
+because the
+activities of the assessee in India were purel y
+pertaining to network plannin g, negotiation and
+signing of contracts bef ore off-shore supply of (GSM)
+equipments and sale of goods have been made off-
+shore outside India .
+48. Coming to the Dependent Age nt PE as provided i n
+paragraph 5 of
+Article 5
+, the key considerati on for
+holding an agent to be a deemed PE is that, a
+person/enterprise wh o is not an a gent of independent
+status is acting in a contracting state (here in this
+case India) on behalf of an enterprise of othe r
+contracting state (here Finland) in respect of any
+activities where he habitually exercises an authority t o
+conclude contracts on behalf of th e enterprise; or if he
+has no such authority, but habitu ally maintains stock
+of goods or merchandise which he regularly delivers
+19                ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                    Nokia Corporation
+
+goods or merchandise on behalf of the enterprise,
+then he is deemed to be DAPE. From the material facts
+discussed in detail herein above are that the entire
+contract supply of off-shore e quipments has been
+done by the assessee outside In dia and no activity
+relating to off-shore supply has been performed in
+India. There is no material fact on record that NIPL
+has negotiated or concluded any contract of supply of
+equipment on behalf of the assessee which binds the
+assessee. The title of the goods supplied i s di rectly
+passed on t o the cust omers in In dia and NIPL neither
+undertakes any negotiation process nor assist in
+delivery of goods. Under a DAPE the character of the
+agent can be said t o be dete rmined; firstly, his
+commercial activities for the enterprise is subject t o
+instruction or comprehensive control; and secondly ,
+he does not bear the entreprene urial risk. The agent
+must have sufficient authority to bind enterprise 's
+participati on in the business activities and the agent
+involves the enterprise to a pa rticular extent in the
+business activities. Thus, the qualified character of
+the agency is the authorization to act on behalf of
+somebody else so much as t o conclude the contra cts.
+Here the NIPL neither has any authority to conclude
+contracts for supply nor any of t he orde rs ha s bee n
+booked by NIPL which can be said to be binding upon
+the assessee. NIPL is an indepen dent entity carrying
+out activities of installation, technical support se rvices
+for the equipments installed are being carried out on
+principal to principal basi s independently with Indian
+customers; and ma rketing su pport agreement is a n
+independent agreement with the a ssessee for which i t
+is remunerated at a rm's length and none of it s
+activities   even    remotely     rela te to   supply    of
+equipments, leave alone habitually exercising any
+authority to conclude contra ct. La stly, it bears its own
+entrepreneurial risks.
+49. We shall in brief examine various allegati ons of
+the AO, which has been ha rped u pon by the Ld. CIT-
+DR also t o contend that there is some kind of PE in
+the form of DAPE. Fi rst of all, Assessing Officer a s
+discussed in the earlier part of this orde r has time and
+again referred t o the employment details of Mr. Hann u
+20                 ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                     Nokia Corporation
+
+Karavitra which we have alrea dy clarified that he wa s
+the employee of the assessee as Country Manager in
+LO till the time NIPL was not incorporated and afte r
+the incorporation of NIPL , he became the Managing
+Director and his pe riod and design ation of empl oyment
+is contained in pa ge 369 (9 to 11 ) of the pape r book,
+from where it is seen that he w a s Managing Di rector
+between 01.01.1996 to 31.07.1999. It has already
+been clarified that once the said employee came int o
+rolls of NIPL, he has not signe d a ny contract with any
+Indian customer for off-shore supplies but has signed
+installation contract s on behalf of the NIPL . All th e
+details of supply cont racts are contained at page 20 3
+of the paper book which al so giv es the details of the
+persons signing it and none of the supply contract ha d
+been signed by any employee of NIPL. Thus, the basi c
+condition contained in
+Article 5 (5)
+does n ot stan d
+satisfied at all. The contract which has been signed by
+NIPL is installation which cannot be reckoned DAPE ,
+because assessee in India has not carried out any
+installation activities on its own . In so far a s the
+allegation of the Assessing Officer that NIPL was in
+complete control of the assessee and was subject t o
+its instruction. This again in our opinion is not a
+relevant consideration at all for a creation of a DAPE
+as discussed a bove, be cause none of the supply
+activities of the assessee has been carried out by NIPL
+and the employees if at all w ere for the NIPL 's
+activities in India for which it is li able to tax in India .
+Further, for the purpose of this clause also, if
+activities are of preparatory and auxiliary in nature,
+then again the same will not sati sfy the threshold of
+DAPE. The Assessing Officer has also referred to the
+fact that in the accounts of LO for the peri od ending
+31st December, 1995, there w as an expenditure of
+Rs.5 crores which su ddenly from the year 1996, got
+shifted in the Indian company and from there he
+draws an inference that Indian company has not
+received any compensation for the same from
+assessee and this shows the close business connection
+between the NIPL and the assessee. This observation
+again is of n o consequence, beca use when the Indian
+company came into existence in May, 1995 operation s
+of the LO were slowly scaled dow n and there was no
+21               ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                  Nokia Corporation
+
+was requirement of the LO and the employees of the
+LO were transferred to the Indi an Company w.e .f .
+June 1995. In so far as the allegat ion of the Assessing
+Officer that NIPL is a depen dent agent, we find that
+nowhere he has brought on record that NIPL had any
+authority to conclude contracts relating to supply of
+equipments on behalf of the asse ssee. The Managin g
+Director in his statement in answer to question no.9
+has clearly stated that network pl anning was a service
+which could be provided by NIPL; however he
+categori cally emphasized that it is pre-bid exercise
+which was only exercised to request for quotation .
+Nowhere it has been sai d in the statement that NIPL in
+anyway had authority to conclude contract on behal f
+of the assessee . In so fa r as the other allegation of
+the Assessing Officer which has been discussed in the
+earlier pa rt that, NIPL has concl uded contra cts with
+cellular operat ors for installation services and it
+becomes responsi bility of assessee to get the
+contracts executed by the NIPL; and further assesse e
+had issued guarantee to the Indian customers that it
+will get the contract s executed by NIPL , again has n o
+significance for dete rmination of DAPE, because such a
+contention of the Assessing Officer may have bee n
+relevant for composite contra ct si tuation which is not
+the consideration in the present case and does not
+have any bearing whatsoever in this matter. Even
+otherwise also a ssisting in performance of th e
+installation services of NIPL doe s not ma ke India n
+Company DAPE of assessee under
+Article 5(5);
+and
+revenues from installation is any way being taxed in
+India. Coming to an other allegation that all the
+contracts we re signed in India and employees of the
+Indian company have attended meeting at the time of
+finalization of such contracts as w itnesses, is again of
+no consequence either for the purpose of fixed place
+PE or DAPE, because for the fixed place, disposal test
+needs to be satisfied; and for DAPE, authority to
+conclude contracts which is binding on the assessee
+needs to be seen. Next objection of AO is that th e
+warranty and guarantee services provided by NIPL 's
+employee were m onitore d by assessee and for the
+installation work done by Indian company, some kin d
+of note regarding installation contracts were sent t o
+22               ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                 Nokia Corporation
+
+the assessee. This objection ha s no relevance for
+determination of PE , because, fi rstly, it would have
+been of some relevance in the case of composite
+contract   situation;  and   secon dly,  managing   or
+providing gua rantee by assessee does not yield any
+income to the assessee, albeit to NIPL, which is taxed
+in India. Lastly, in so far as the expatriates of NIPL
+were responsible for installation w ork were employees
+of the assessee, only proves that assessee provide d
+necessary assistance, informati on, knowledge an d
+expertise to do the work. This observation of AO only
+goes to prove that that expatriate s employees depute d
+in NIPL are in connection with the installation
+contracts executed by NIPL and since there is no
+concept of 'Service PE' in India , therefore, nothing
+turns around on such observati on. Thus, on the fact s
+and material on record, we hold t hat there is no DAPE
+within the scope and terms of
+Article 5(5)
+of the
+treaty.
+50. Admittedly, paragraph 6 of
+Article 5
+is not
+applicable. Pa ragraph 7 of
+Article 5
+deals with 'a gent
+of independent status.' Independe nce of an agent has
+to be both legal as well as e con omic independence .
+Legal independence has t o be see n from the context ,
+whether the agent's commercia l activities for his
+principal a re subject t o detail ed instructions or
+comprehensive cont rol by the pri ncipal or n ot; or t o
+what extent the agent exercises freedom in the
+conduct of his business on behalf of principal; or th e
+agent's scope of authority is affected by limitations on
+the scale of business which may be conducted by the
+agent. Econ omic independence h as to be seen f rom
+the context as t o what extent the agent bea rs th e
+'entrepreneuri al risk" or "business risk" and a gent's
+activities are n ot integrated with those of the
+principal; and whether the agent acts exclusively for
+the    principal.  The   tests   for  determining    the
+independent status has to be see n from what kind of
+activities is being ca rrie d out by the agent for his
+principal. Here in this case , first of all we have t o
+borne in mind that installation activity carried out by
+NIPL is not generating any revenue or income for the
+assessee in India albeit any incom e from such activity
+23                ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                   Nokia Corporation
+
+is already subje ct to tax in India. The off-shore supply
+contract is ca rried out by assesse e on FOB basi s from
+Finland and as discussed in fore going paragraphs NIPL
+is carrying out various onsh ore activities, like
+installation activity, marketing a nd technical support
+services, which fact ha s been cl early highlighted by
+the Hon'ble High Court in para 34, that these activities
+have nothing to do with su pply cont ract. The
+consideration accruing or a rising under the contra cts
+undertaken by NIPL is al ready assessed in the hands
+of NIPL in India and there is n o adverse inference in
+this respect. The dispute as highli ghted by the Hon'ble
+High Court only pertains to the consideration under
+the Supply Agreement entered between the assesse e
+and the various customers. Qua the supply contract
+nothing is being pe rforme d by t he NIPL in In dia a s
+agent of the assessee. None of the onshore activities
+of NIPL can be said t o be devote d wholly and almost
+wholly on behalf of the asse ssee, because , the
+contracts unde rtaken an d signed by NIPL in India are
+independent and on principal to principal ba sis with
+the Indian customers and assessee has not signed any
+kind of installation contra ct with the Indian customers
+for which it could be said that the installation activity
+of NIPL was wholly and almost wholly on behalf of the
+assessee. The tw o contracts which were signed ea rlie r
+prior t o the incorporation of NIPL were sepa rate an d
+assigned to it and income from such installation has
+been shown in the hands of NIPL in India. There is n o
+income whatsoever from install ation activities has
+been earned by the assessee in India or can be
+attributed either directly or indirectly through NIPL.
+Insofar as othe r activities like ma rketing and technical
+support services a re concerned, same has bee n
+transacted at arm 's length a s di scussed in detail in
+foregoing pa ras, hence no profi t can be attributed
+from these activities as held by the Hon'ble High
+Court. Even if NIPL is held t o be; subject to significant
+control with respect t o the manner in which work is t o
+be carried out; is subject to detail instructions from
+the assessee a s to the conduct of work; is exercisin g
+less freedom in the conduct of business on behalf of
+assessee; seeking approval f rom the assessee for the
+manner in which the business is to be conducted; etc.,
+24                ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                    Nokia Corporation
+
+then all such control if at all coul d be only in relation
+to the contracts ca rrie d out by the NIPL in India t o
+ensure technical quality of the contact work done.
+When there is absolutely no income generated t o th e
+assessee f rom installati on contract work done in Indi a
+by the NIPL, then all such comprehensive control doe s
+not have much relevance.
+Article 5(7)
+will apply only
+when some of the activities of the foreign enterprise
+are done by an agent wholly or almost wholly on
+behalf of that enterprise. Here th e crucial test is that
+activities of the assessee must be carried out through
+the agent wholly and almost whol ly for the assessee .
+When installation activity is not carrie d out by the
+assessee in India and is done by NIPL on principal t o
+principal basis with the customers then there is no
+question of examining the inst allation activity for
+purpose of PE. The activity carried out by the assessee
+through an agent in India woul d be key factor for
+examining PE. Thus, provision of paragraph 7 of
+Article 5
+will also not apply.
+51. Lastly, coming to paragraph 8 of
+Article 5
+, it
+clearly states that mere fa ct that company which is a
+resident of a contra cting status controls or i s
+controlled by a com pany which is resident of the othe r
+contracting states or which ca rrie s on the business i n
+other state, whether through a PE or othe rwise shal l
+not of itself constitutes either company or a PE of
+other. This inter alia means that if the NIPL, i.e., a n
+Indian company is controlled by assessee who i s
+resident of Finland, then this by itself will not
+constitute a PE . Thus, a subsidia ry cannot be reckone d
+to constitute PE merely because i t is controlled by a
+foreign enterprise. In other w ords simply be cause
+NIPL is a subsidiary and is controlled by assessee i t
+will not be t reated a s a PE. Eve n the OECD and U N
+Model C onventions cla rify that mere existence of
+foreign enterprise's subsidia ry in a source st ate shoul d
+not give rise to foreign enterprise's PE in the source
+state. The reason being that the existence of a
+subsidiary   does    not   by   itsel f, constitute   that
+subsidiary company is a PE of its Parent entity, on the
+principle that, for the purpose of taxation, a
+subsidiary com pany constitutes an independent legal
+25                ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                    Nokia Corporation
+
+entity in the source state. This h as been held so by
+the Hon'ble Apex Court in the case E-Fund IT
+Solutions. Thus, the exception giv en in Article 5(8) to
+a company controlled by a forei gn enterprise or it s
+subsidiary answers m ost of the allegation made by th e
+Department that NIPL being a subsidiary of the
+assessee itself will provide status of a PE.
+52. In so far as the argument of the learned CIT DR
+that Indian subsidiary is a virtual projecti on of the
+assessee as empl oyees of Assessee Company were
+practically performing all kinds of work, and therefore ,
+it has to be treated as a perman ent establishment of
+assessee.
+In su pport of such a concept of virtua l
+projection, st rong reliance has been placed on the
+judgment of the Hon'ble Andh ra Pradesh High C ourt i n
+the case of
+CIT v. Vishakapatna
+m Port Trust (supra)
+which the learned CIT DR submitted that have been
+referred and relied upon by the Hon'ble Suprem e
+Court in the case of Formula One (supra) also. First of
+all, the concept of 'virtual projection' has to be seen
+in the context of any of the ingredient of PE enshrine d
+in
+Article 5.
+Hon'ble Andhra Prade sh High Court while
+explaining the concept of fixed place PE, obse rved that
+the PE postulates existence of a substantial element of
+enduring or pe rmanent nature of a foreign enterpri se
+in another country which can be attributed to a fixed
+place of business in that country. Such a fixed place
+should be of such a nature that it would amount to a
+virtual projecti on of the foreign enterprise of one
+country to the soil of an other cou ntry. The concept of
+'virtual proje ction' fl ows from the fixed place itself or
+with any other parameters of establishment of PE
+under
+Article 5.
+This concept alon e is not relevant but
+has to be seen in relation to fixed place or any other
+concept of PE. The Hon 'ble Supreme C ourt whil e
+coming to the conclusi on in pa ra graph 76 , held tha t
+not only Buddh Internati onal Circuit was a fixed place
+where the commercial or economic activity of
+conducting Formula One Champi onship was ca rrie d
+out, but one could clea rly discern that it was a virtual
+projection of a foreign enterprise, namely, Formul a
+One on the soil of this country. All the characteristic
+of the fixed place PE including the physical location
+26                ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                    Nokia Corporation
+
+and disposal test stood satisfied. The concept of
+virtual projecti on cannot be in vacuum dehors any
+other parameters of PE. In other words, virtual
+projection is in relation to either fixed place or in
+relation to any other parame ters or con ditions
+envisaged      in
+Article  5.
+As    in   the  case    of
+Vishakapatnam Port T rust, it was in relation to fixe d
+place. The concept of virtual proje ction doe s not mean
+that even without a fixed place, virtual projection
+itself will lead to an inference of a PE. If on a fact s
+there is no est ablishment of a fixe d place and disposal
+test is not satisfied, then virtual projecti on itself
+cannot be held to be a factor for cre ation of a PE .
+Thus, the concept of virtual projection brought in by
+the AO will not lead to any kind of establishment of
+PE. In so fa r as allegation of t he department that
+employees of assessee were responsible for all the
+activities, it has been already de alt by us that if at all
+it may have some bearing or relevance when
+examining Service PE, which was absent in the then
+prevalent DTAA. Thus, we hol d that there is no PE
+within the terms of
+Article 5
+of India Finland DTAA.
+53. Now we shall deal with issue of whether assesse e
+had any kind of a business conne ction in India in the
+form of NIPL. Th ough this issue has become slightly
+academic in view of our above finding, because even if
+it is held that assessee had a bu siness connection in
+India, then also unde r the treaty provisions, if there i s
+no PE in terms of
+Article 5
+, the n no income can be
+attributed to India under
+Article 7.
+The Hon 'ble High
+Court while remanding the matter back t o the Tri bunal
+in terms of paragraph 38 has also directed to examine
+as to whether the subsidia ry of the assessee w ould
+provide    business   connection    or   is   Permanen t
+Establishment. Thus, for the sake of completeness, we
+shall discuss in brief, whether the assessee was
+having any kind of business connection in India or not .
+The provision of Se ction 5 of the
+Income-tax Act
+defines the scope of total income and su b secti on (2)
+reads as under:--
+"(2) Subject to the provisions of this Act, the tota l
+  income of any previous year of a person wh o is a
+27                ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                   Nokia Corporation
+
+  non-resident includes all     incom e   from    whatever
+  source de rived which--
+(a) is received or is deemed to be received in India
+  in such year by or on behalf of such person; or
+(b) accrues or arises or is dee med to a ccrue or
+  arise to him in India during such year.''
+
+First requirement is whether any income is deemed to
+have been received in India to non-resident. Here on
+the facts of the case this cl ause may not be
+applicable, because undisputedly the title of the goods
+of the GSM equipments supplied by the assessee has
+been transferred outside India and the payments hav e
+also been received by the asse ssee outside India .
+Secondly, coming t o the provisi ons of su b secti on 2(b)
+which deals with accrual of incom e or deemed a ccrua l
+of income, the provision of Secti on 9 has to be seen
+as it stood at the relevant time which read as under:
+"Income deemed to accrue or a rise in India.
+  9 (1) The following incomes sh all be deemed t o
+  accrue or arise in India:--
+(i) all income accruing or arising, whether directly
+  or indi rectly, through or f rom any business
+  connection in India , or th rou gh or from any
+  property in India, or through or f rom any asset or
+  source of income in India, [* * *] or through th e
+  transfer of a capital asset situate in India.
+Explanation-- For the purposes of this clause --
+(a) in the case of a business of which all the
+  operati ons are n ot carried out in India, the income
+  of the business deemed under thi s clause to accrue
+  or arise in India shall be only such part of the
+  income as i s reasona bly attributable to th e
+  operati ons carried out in India;
+(b) in the case of a non-resident , no income shall
+  be deemed t o accrue or arise in India to him
+  through or from ope rations which are confined t o
+28                ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                   Nokia Corporation
+
+  the purchase of goods in India for the purpose of
+  export;
+(c) in the case of a n on-residen t, being a pe rson
+  engaged in the business of running a news agency
+  or of publishing newspape rs, ma gazines or journals,
+  no income shall be deemed to a ccrue or arise in
+  India to him through or f rom activities which are
+  confined to the collection of news and views in
+  India for transmissi on out of India
+(d) in the case of a non-resident, being --
+(1) an individual who is not a citizen of India ; or
+
+    (2) a firm which does not have any partner who is
+    a citizen of India or who is residen t in India; or
+
+    (3) a company which does not have any
+    shareholde r who is a citizen of India or wh o is
+    resident in India,
+
+    no income shall be deemed t o accrue or a rise in
+    India to such individual, firm or company through
+    or from operati ons which are confined to the
+    shooting of any cinematograph fil m in India."
+The provisions of
+section 9(1)(i)
+of the Act clearly
+provide that income accruing or arising, whether
+directly or indi rectly, through or from any business
+connection in India , or th rough or from any prope rty
+in India, or through or from any asset or sou rce of
+income in India, or through the transfer of a capital
+asset situated in India shall be taxable in India if they
+come within the meaning of income deemed to a ccru e
+or a rise in India as explained in
+Section 9
+of the Act .
+Thus, where any income a ccrues or a rises t o a non-
+resident through or from any "business connection" in
+India where all the ope rations are not ca rried out i n
+India only such income will be chargeable t o tax in
+India as can be attributed to th e operati ons ca rrie d
+out in India. In light of these provisions and facts of
+the case, we will analyse the rival contentions of the
+29               ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                  Nokia Corporation
+
+parties and the judicial proposition highlighted before
+us in this regard.
+54. Before us, regarding the ex istence of business
+connection, Mr. Dee pak Ch opra relied upon the
+judgment of Hon 'ble Supreme C ou rt in the case of
+C IT
+v. R. D. Agga
+rwal and C o. [1965] 56 ITR 20 (SC) and
+submitted that mere pe rformance of some activities in
+the Indian Territ ory does not afford a bu siness
+connection of foreign com pany in India. What is
+important to examine here is that the trading
+activities within the territories should be linked with
+the trading activities carried on outside the taxable
+territories. Here , in this case, he submitted that the
+activity in question is the off-shore supply of
+equipment for which relevant trading activities are
+procuring of raw materials, manufacture of finished
+goods, sale and delivery of goods, which all have been
+carrie d out outside India. Only the marketing activities
+which have been pe rformed by th e Indian C ompany i s
+somehow relevant, but for that there is a separat e
+agreement between the assessee and NIPL and alrea dy
+income arising there from to the Indian company has
+been offered to tax in the hands of NIPL.
+The activities
+performed by NIPL only led to making of offers by the
+customers in the taxable territorie s to purchase goods
+manufactured by the non-resident which latter was not
+obliged to acce pt. Thus, in view of the principle
+laid
+down by
+the Hon 'ble Supreme C ourt in the case of
+R.D. Aga rwal and Co. (supra) he submitted that no
+business connection can be sai d to exist in the present
+case. The conce pt of agency as en visaged in the scope
+of business connection
+u/s.9(1)(i)
+of the Act wa s
+introduced by the
+Finance Act
+, 20 03 and hence woul d
+not be a pplicable to the a ssessment years unde r
+consideration. Without prejudice , he submitted that
+how much portion of the profits whatsoever from the
+off-shores supply can be taxed in India is moot point.
+Regarding the agreements for contracts of supply of
+goods sold to the customers on CIP/FCA basis, h e
+submitted that Hon'ble High C ourt in assessee's ow n
+case had given a very categorical finding that taxable
+event, i.e., transfer of title took place outside India ,
+in support paragraph 17 of the judgment was relie d
+30                ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                  Nokia Corporation
+
+upon which is quite relevant hence for the sake of
+ready reference is reproduced hereunder:--
+"17. We find that the terms of contract make i t
+  clear that acceptance test is not a material event
+  for pa ssing the title and risk i n the equipment
+  supplied. It is because of the re ason that even if
+  such test found out that the system did n ot conform
+  to the contractual pa rameters, as per a rticle 21.1 of
+  the supply contract, the only consequence would be
+  that the Cellular Operator would be entitled to call
+  upon the assessee to cure defect by repairing or
+  replacing the defective part. If there was delay
+  caused due t o the acceptance test not bein g
+  complied with,
+Article 19
+of the Supply Cont ract
+  provided for damages. Thus, the taxable event took
+  place outside India with the passi ng of the propert y
+  from seller to buyer and acceptance was not
+  determinative of this factor. Th e position might
+  have been different if the buyer had the right t o
+  reject the equipment on the failure of the
+  acceptance test carried out in India............"
+Finally, he strongly relied upon the judgment of
+  Hon'ble Delhi High Court in the case of Norte l
+Networks India International Inc. v. DIT
+[2016] 386
+  ITR 353/241 Taxman 464/69 taxmann.com 47 and
+  submitted that this judgment squ arely clinches the
+  issue in favour of the assessee and strongly relied
+  upon paragraphs 43 to 47 of
+the said judgment
+.
+  Relying upon the aforesaid judgm ent, he submitted
+  that mere existence of a business connection it i s
+  not enough to trigger taxa bility in India in respect
+  of off-shore supply of telecom m equipment to
+  Indian customers because there must be same
+  activity carried out in India relating to the off-shore
+  supply.
+55. On the other hand, lea rned C IT-DR has reiterate d
+the same set of arguments that right from negotiation
+of contract t o supply was undertaken through
+employees of the assessee eith er independently or
+through NIPL and the entire marketing activities for
+31                ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                   Nokia Corporation
+
+such sale has been done throu gh NIPL. Hence, it
+constitutes a business connection in India.
+56. We have heard the rival contentions made by the
+parties and also material place d on record. First of all,
+we find that the Hon'ble High Court in the context of
+LO has held that there is no material or evidence on
+the basis of which it can be said that LO can offer a
+business connection to asse ssee i n India and it doe s
+not constitute PE of the assessee in India. The same
+reason ostensibly applies to NIPL also, as the term s
+and conditions of supply contract continues as spelle d
+out in para 17 of the judgment remains the same.
+Further, the Hon'ble High Court i n paragraph 13 ha s
+noted that income which has been earned by the
+assessee is a result of suppl y of softwa re an d
+hardwa re license under the suppl y agreement and i f
+supply agreement is taken on standalone basis then
+such supplies under this agreement were made outside
+India. The prope rties and goods h as passe d on t o the
+buyers under the supply contra ct outside India whe re
+the equipment was manufactured and for coming t o
+this conclusion, the Hon'ble High Court has referre d
+and relied upon the judgment of Hon'ble Supreme
+Court in the case of Ishikawajima Harima Heavy
+Industries Ltd. (su pra) that such agreement would not
+be taxable in India and no profit arising from supply of
+equipment outside India would be chargeable to tax in
+India. The Hon'ble C ourt has even drawn the parallel s
+from the ratio of
+the said judgment
+of the Hon'ble
+Supreme Court in the following manner:--
+"(i) In both the case s the property in the equipment
+  passed outsi de India and in the case even the risk
+  passed outsi de India;
+(ii) the case Ishikawajima's even though it was to
+  perform onshore se rvices includin g the erection and
+  commissioning of the equipment supplied by it ,
+  nevertheless, the Supreme Court held that no part
+  of the profit on the offshore supply of the
+  equipment was taxable in India as a consequence of
+  the performance of such activities in India. In th e
+  assessee's case the a ssessee doe s not perform an y
+32                ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                 Nokia Corporation
+
+service in India in connection with the installation
+of the equipment or otherwise;
+(iii) the performance of the a ccept ance test in Indi a
+was not conside red a relevant circumstance whilst
+determining whether any part of the profit on the
+offshore supply was charge able to tax in India in
+the case of Ishikawajima, so also in the assessee's
+case.
+(iv) although admittedly a permanent establishment
+existed in the case of Ishi kawaji ma, nevertheless,
+the Court held that no part of the profit arisin g
+from the supply of the equipment was chargea ble to
+tax in India as the permanent est ablishment had no
+role t o play in the transa ction sou ght to be taxed a s
+it look place abroad, whilst in the case of the
+assessee, it has been f ound as a fact by both the
+appellate      authorities     that    no     permanent
+establishment existed;
+(v) the mere signing of the con tract pu rsuant t o
+which the supply was made in India, in both case s
+does not result in giving rise to a tax liability in
+India;
+(vi) the existence of the overall responsibility
+clause was held to be irrelevant in Ishikawajima's
+case and likewise the overall agreement executed in
+the assessee's case should not make any difference
+to the taxability of the equipment supplied;
+(vii) giving the nomenclature of a turnkey project
+or w orks contract is n ot releva nt in determining
+whether any profit arising f rom the supply of
+equipment     pursuant   to   such   contract  wa s
+chargeable to tax in India;
+(viii) the Supreme Court relied upon Instruction No.
+1829 to come to the conclusion t hat the existence
+of an overall responsibility clause was not mate rial
+in determining the tax liability arising from the
+offshore supply of equipment and as the said
+instruction continues to be in force for the
+33                ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                   Nokia Corporation
+
+  assessment year relevant to the present appeal s,
+  the existence of an overall agreement should make
+  no difference to the taxability of the equipment
+  supplied by the assessee."
+In paragraph 15, the Hon'ble Court has further
+observed that no doubt the contract in question was
+signed in India but it may not be a relevant
+circumstance to determine the taxability of such an
+income and for this proposition th ey have referred the
+judgment of Hon 'ble Andh ra Prade sh High Court in th e
+case of Skoda Export v. Addl. CIT [1983] 143 ITR
+452/[1984] 17 Taxman 256.
+Finally in paragraph 17 a s
+incorporate d    above,   Hon'ble   High    Court     ha s
+categori cally said that the taxable event took place
+outside India with the passing of the property from
+seller to buyer and acceptance test is not the
+determinative of this factor an d further refe rring t o
+the judgment of Hon'ble Supreme Court in the case of
+Mahabir Commercial Co. Ltd. v. CIT
+[1972] 86 ITR 417
+(SC), held that overall agreement does not result the
+income accruing in India and t he execution of a n
+overall agreement is prom oted by purely commercial
+considerations as India Cellular Operat or w ould be
+desirous of having a single entity that could liaise
+with. Thus, it was conclude d that the place of
+negotiation, the place of signing of agreement or
+formula acceptance there of or ove rall responsibility of
+the assessee are relevant circu mstances. Since the
+transaction i s relating to the sale of goods, the
+relevant factor and determinative factor would be a s
+to where the property in good passes and in th e
+present case, the finding is that the property has
+passed on high seas. In the present case, the goods
+were manufactured outside India and even the sal e
+has taken place outside India a nd once this fact is
+established even in those cases where there is a on e
+composite contract supply has to be segregated from
+installation   and   only  then   would    question    of
+apportionment arise having re gard to expresse d
+language of
+Section 9(1)(i)
+of th e Act, which make s
+the income taxable in India to the extent it arises i n
+India.
+34                ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                   Nokia Corporation
+57. Whence in the concept of LO already a categori cal
+finding has been given by the Hon'ble High Court that
+supply of off-shore e quipment w hich has been done
+outside India cannot be held t o be taxable in In dia ,
+then the same principle and proposition would also be
+applicable in the case of NIPL also, because , so fa r a s
+the supply contracts a re conce rne d there is absolutely
+no change in the fa cts and circumstances as even
+after the NIPL is incorporate d in May, 1995, the off
+shore supply equipment and the supply contract
+remained the same. The marketing activities and
+installation contract unde rtaken by NIPL has been on
+principal to principal basis; and in the case of former
+agreement between assessee and NIPL , the payment
+has been made to NIPL on cost plus marku p basi s
+which has not been disturbed; and in the late r
+agreement there is an indepen de nt contracts by NIPL
+with Indian customers which has nothing to do with
+the assessee. The income arising from both the
+contracts are taxable in the ha nds of the NIPL in
+India. Thus, the finding and the ratio of the Hon'ble
+High Court would a pply mutatis mutandis though
+rendered in the context of LO will also apply in the
+case of NIPL as qua the supply contract the re is n o
+material change in any case.
+58. Apa rt from the ju dgment of Hon'ble Delhi High
+Court in the case of assessee as discussed above, we
+find that, Hon'ble High Court in Nortel Network Indi a
+International Inc.
+(supra) someh ow on similar set of
+facts has reiterated the same principle. Before that
+the relevant facts in the said case were as under:--
+The assessee was incorporated in the USA and was
+  a tax resident of the USA. The assessee was a part
+  of the N group which was state d to be a leadin g
+  supplier of hardware and softwa re for global system
+  for mobile communication cellula r ra dio teleph one
+  systems. The assessee was a step-down subsidia ry
+  of N, a company incorporated in Canada. N(C) also
+  had an indirect subsidia ry in In dia N (I) . N (I)
+  negotiated and entere d into three contra cts with R ,
+  namely, optical equipment contract, optical service s
+  contract and the softwa re contract on June 8, 2002 .
+35               ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                 Nokia Corporation
+
+  On the same date, N (I) entered i nto an a greement
+  assigning all rights and obligations to sell, supply
+  and    deliver  equipment    under   the   equipment
+  contract to the assessee . R and N(C) were also
+  parties to the assignment contract and in terms
+  thereof, N(C) gua ranteed the pe rformance of th e
+  equipment contract by the assessee (assignee). In
+  terms of the assignment con tract, R place d
+  purchase orde rs dire ctly on the assessee and also
+  made all payments for the equipment supplied
+  directly to the assessee. The equi pment supplied t o
+  R was manufactured by N(C) and another grou p
+  entity in Ireland. The same was invoiced by the
+  assessee directly to R and consideration for it was
+  received directly by the assesse e. The Assessin g
+  Officer held that income arose t o the a ssessee i n
+  India and w as a ssessa ble. T he Commissione r
+  (Appeals): held that keeping in view the facts of the
+  case, 50 per cent, of the assessee's estimated
+  profits could be att ributed to the permanent
+  establishment in India. This was upheld by the
+  Tribunal. The Income-tax authoriti es concluded that
+  the assessee w as a shadow com pany of N(C) an d
+  both the companies we re esse ntially a singular
+  entity. In other words the Income-tax authorities
+  disrega rded the corporate structure of the assesse e
+  and proceeded on the basis that it s identity was the
+  same as N(C).
+On the issue, whether the appellant had a PE, both
+fixed place PE and DAPE in India in the terms of
+liaison office Nortel Canada an d also in terms of
+subsidiary Nortel Network India Pv t. Ltd. which carried
+out installation services, Hon 'ble High Court obse rved
+and held as under:--
+'It is appa rent from the plain reading of
+Section
+  9(1)
+of the Act that all income which accrues or
+  arises through or from any business connection i n
+  India would be deemed t o accrue or a rise in India .
+In
+CIT v. R.D. Aggarwal & Co.
+: (1965) 56 ITR 20
+  (SC), the Supreme Cou rt observ ed that business
+  connection w ould mean "a rel ation between a
+  business carried on by a non-re sident and some
+36                ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                 Nokia Corporation
+
+activity in the taxable territ ories which are
+attributable dire ctly or indi rectly to the earnings,
+profits or gains of such busine ss". However, by
+virtue of Explanation 1 to
+Section 9(1)
+of the Act ,
+only such part of the income wh ich is reasonably
+attributable to operati ons ca rrie d out in India woul d
+be taxable. Thus, if it is accepted that the Assessee
+has received only the consideration for the
+equipment manufactured and delivered oversea s, i t
+would be difficult to uphold the view that any part
+of Assessee 's income is chargeabl e to tax under the
+Act as n o portion of the said income could be
+attributed to ope rations in India.
+44. There is little material on re cord to hold tha t
+Nortel India habitually exercises any authority on
+behalf of the Assessee or Nortel C anada to conclude
+contracts on their behalf. There is also no material
+on record which w ould indi cate that Nortel Indi a
+maintained any stocks of goods or merchan dise in
+India from which goods were regu larly delivered on
+behalf of the Assessee or Nortel Canada. Thus, by
+virtue of Explanation 2 read with Explanation 3 t o
+Section 9(1) (i)
+of the Act, no part of Assessee 's
+income could be brought to tax u nder the Act. It i s
+only when a non-resident Assessee's income i s
+taxable under the Act that the question whether any
+benefit under the Double Taxation Avoidance T reaty
+is required to be examined.
+**    **   **
+47. As noticed e arlier, there seem s to be no dispute
+that the title to the equipment passed in favour of
+Reliance overseas. However, the AO, CIT (A) an d
+ITAT did not consider the same to be relevant as
+according to them, the equipment continued to be
+in the possessi on of the " Nortel Group" till its fina l
+acceptance by Reliance. In our v iew, even if it is
+accepted that the equipment supplied oversea s
+continued to be in possession of Nortel India till the
+final acceptance by Reliance, the same would n ot
+imply that the Assessee 's incom e from su pply of
+equipment could be taxed under t he Act. Clause (a)
+37                ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                   Nokia Corporation
+
+  of Explanation 1 to
+Section 9
+( 1)(i) of the Act
+  postulates the principle of a pport ionment and only
+  such income that can be reasonably attributed to
+  operati ons in India w ould be chargeable t o ta x
+  under the Act . The position in Ish ikawajima-Harim a
+  Heavy Industries (supra) was al so similar. There
+  too, the equipments were supplied overseas and the
+  contract or continued to retain con trol of e quipment
+  and material till the provisional acceptance of th e
+  work or the termination of the contract.'
+
+Thus, the Hon'ble High C ourt i n Nortel's case ha s
+clearly concluded that equipments supplied oversea s
+cannot be taxed unde r the Act and as pe r clause (a) of
+Explanation 1 to
+Section 9(1)(i)
+which postulates the
+principle of apportionment, the only such income that
+can be reasona bly attributed to assessee in India
+could be cha rgea ble to tax u nder the Act an d
+therefore, unde r the fact where there is off sh ore
+supply of equipments nothing can be held to be taxed
+in India in terms of
+Section 9
+( 1). In fact, in the
+finding of the Hon 'ble High C ourt in para gra phs 69 t o
+72, it has been held that the Indian subsidiary of
+Nortel and LO will not constitute a PE. For the sake of
+ready reference, paragraphs 69 t o 72 a re reproduce d
+hereunder:--
+69. The AO, CIT (A) and ITAT have held that the
+  office of Nortel India and Nortel LO constituted a
+  fixed place of business of the Assessee. As pointed
+  out earlier, we find no materia l on record that
+  would even remotely sugge st that Nortel LO ha d
+  acted on behalf of the Assessee or Nortel Canada in
+  negotiating and concluding agre ements on their
+  behalf. Thus, it is not possi ble t o acce pt that the
+  offices of Nortel LO could be con sidered a s a fixed
+  place of business of the Assessee. In so far as
+  Nortel India is concerned, there is also no evidence
+  that the offices of Nortel India we re at the di sposal
+  of the Assessee or Nortel Canada. Even if it is
+  accepted that Nortel India had a cted on behalf of
+  the Assessee or Nortel Canada, it does not
+  necessarily follow that the offices of Nortel Indi a
+  constituted a fixed place busi ness PE of the
+38                ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                Nokia Corporation
+
+Assessee or Nortel Canada . Nortel India i s a n
+independent company and a sepa rate taxable entity
+under the Act . There i s no materi al on record which
+would indicate that its office was used as an office
+by the Assessee or Nortel Cana da. Even if it i s
+accepted that certain a ctivities were carried on by
+Nortel India on behalf of the Assessee or Nortel
+Canada, unless the conditions of paragraph 5 of
+Article 7
+of the Indo-US DTAA is satisfied, it cannot
+be held that Nortel India constitu ted a fixed place
+of business of the Assessee or Nortel Canada.
+70. The AO has further alleged t hat the offices of
+Nortel LO and Nortel Indi a were used as a sale s
+outlet. In our view, this finding is also unmerited as
+there is no material which w ould support this view .
+The facts on record only indicate that Nortel Indi a
+negotiated contracts with Reliance. Even assuming
+that the contracts f orm a pa rt of the single turnkey
+contract , which include supply of equipment - as
+held by the authorities below - the same cannot
+lead to the conclusion that Nortel India was acting
+as a sales outlet.
+71. The AO's conclusion that there is an installation
+PE in India, is also without an y merit. A bare
+perusal of the Services Contract clearly indicates
+that the tasks of installation, commissioning an d
+testing was contracted to Nortel India and Nortel
+India performed such tasks on its own behalf an d
+not on behalf of the Assessee or Nortel Canada .
+Undisputedly, Nortel India was also received the
+agreed consideration      for pe rf ormance  of   the
+Services Contra ct directly by Reliance.
+72. The finding that Nortel Indi a i s a services PE of
+the Assessee is also errone ous. Th ere is no material
+to hold that Nortel India pe rformed services on
+behalf of the Assessee.
+73. The AO has also held that Nortel Indi a
+constituted Dependent Agent PE of the Assessee in
+India. The aforesaid conclusi on wa s premised on the
+finding that Nortel India habitually concludes
+39                ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                   Nokia Corporation
+
+  contracts on behalf of the Assessee and othe r
+  Nortel Group Companies. In the present case, there
+  is no materi al on record which w ould indicate tha t
+  Nortel India ha bitually exercises authority t o
+  conclude contracts for the Assessee or Nortel
+  Canada. In order to conclude t hat Nortel Indi a
+  constitutes a Dependent Agent PE, it would be
+  necessary for the AO to n otice at least a fe w
+  instances where contracts had been concluded by
+  Nortel India in India on behalf of other grou p
+  entities. In absence of any such e vidence, this view
+  could not be sustained.
+74. The CIT (A) as well as the ITAT has proceede d
+  on the basis that the Assessee had employed the
+  services of Nortel India for fulfilling its obligation s
+  of installation, commissi oning, a fter sales service
+  and warranty services. The ITAT also concurre d
+  with the view that since employees of grou p
+  companies had visited Indi a in connection with the
+  project, the business of the Assessee was carrie d
+  out by those employees from the business premise s
+  of Nortel India and Nortel LO. In this rega rd, it i s
+  relevant to observe that a subsidi ary company is an
+  independent tax entity and its income is chargeabl e
+  to tax in the state where it is resident. In the
+  present case, the tax payable on activities carried
+  out by Nortel India w ould have to be ca ptured i n
+  the hands of Nortel India.
+Chapter X of the Act
+provides an exhaustive mechanism for determining
+  the Arm s Length Price in case of related pa rty
+  transactions f or ensu ring that real income of a n
+  Indian Assessee i s charged to ta x under the Act .
+  Thus, the income from installation, commissioning
+  and testing activities as well as any function
+  performed by expatriate employ ees of the group
+  companies seconded to Nortel India would be
+  subject to tax in the hands of Nortel India and the
+  same cannot be considere d as income of the
+  Assessee."
+This judgment of Hon'ble Delhi High Court clearl y
+clinches the issues in hand, both on the point of
+taxability u/s. 9(1)(i) and also in the context of PE.
+40               ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                  Nokia Corporation
+
+Thus, respectfully following the ratio laid down in
+aforesaid judgment of Hon 'ble High Court in the case
+of assessee as well a s in the case of Nortel, we hol d
+that income of the assessee from off-shore supply of
+equipments in pursuance of supply contract cannot be
+brought to tax in India.
+59. Since we have al ready held that nothing is taxabl e
+on   account   of  signing,   netw ork  planning    an d
+negotiation of off shore supply contracts, therefore ,
+there is no question of any attribution of income on
+account of these activities which are purely related t o
+supply contracts. Accordingly, the issue of att ribution
+which has been remanded back by the Hon'ble High
+Court has become pu rely academic.
+60. Now coming to the last issue of taxability of
+interest from Vendor Financing, we find that the
+Assessing Officer in his order ha s made the a ddition
+on the ground that assessee prov ided credit facilities
+to its cust omers f or which it shou ld have charge d the
+interest on the same. For comin g to this conclusi on,
+he has referre d to one clause giv en in paragraph 6.9
+of the contract between the assessee and Modi Telstra
+to conclude that purchaser we re liable to pay interest
+@18% for ea ch day ela psed f rom the due date of
+actual payment. Thus, the only reason for ma king
+such an addition was existence of a particular clause
+in the agreement signed between the assessee and
+some of the Indian Cellular Opera tors. The ld. CIT (A)
+too has confirmed the said addi tion on the groun d
+that, since the assessee is foll owing a me rcantile
+system of accounting and a s per t he contract assesse e
+was entitled to receive such interest, and therefore ,
+same should have been accounte d for and in support
+he has relied upon the judgment of Hon'ble Supreme
+Court in the case of State Ban k of Travancore (supra) .
+Ld. counsel for the assessee had submitted that the
+said ju dgment has al ready been distinguished in the
+subsequent judgment of Hon'ble Supreme Court in the
+case of UCO Bank (supra) and se condly, only the real
+income can be brought t o tax an d not something on
+hypothetical   basis,    because    t here  has   to   be
+corresponding liability to the other party to wh om the
+41                ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                   Nokia Corporation
+
+income becomes due and here such a clause was never
+enforced by the parties. Al ready the arguments of
+both the parties have been incorporated in ea rlier pa rt
+of the order; therefore , same is not being discusse d
+again.
+61. After conside ring the relevant finding and riva l
+contentions, we find that, it has not been brought on
+record that in any of the contra ct the assessee ha d
+charged any interest on delayed payment or providin g
+any credit facilities to its customers or any custome r
+has paid any such am ount for ea ch day elapsed f rom
+the due date to the actual payme nt. Once none of the
+parties have either acknowledge d the debt or any
+corresponding liability of the othe r pa rty to pay, then
+it cannot be held that any income should be taxed on
+notional basis which has neither accrued nor received
+by the assessee. Whence the benefit of credit period
+given to the customers has neit her accrued to the
+assessee n or ackn owledged by th e other person, then
+it cannot be said that interest on notional basis shoul d
+be calculated for the purpose of taxation. Otherwise ,
+it is a well settled proposition th at income cannot be
+generated, actual or accrued if no income has actuall y
+been accrued or received to the assessee. There ha s
+to be some income which has resu lted to the assessee
+and even though in books, entri es have been made
+about hypothetical income which does not materialize d
+at all cannot be brought to tax. Th e income tax is levy
+on real income, i .e., the profits a rrived on commerci al
+principles. Assessee must have re ceived or acquired a
+right to receive the income before it can be taxed. In
+other words, there must be a debt owed t o it by
+somebody if it is to be taxed on accrual basis unless a
+debt has been created in favour of the assessee by
+somebody it cannot be sai d that income has accrue d
+to it or it ha s a ri ght to receiv e the income. This
+proposition has been well settled by Hon'ble Supreme
+Court in the case of
+E.D. Sassoon Co. Ltd. v. CIT
+[1954] 26
+ITR 27, CIT v. Ashokbhai Chaamanbha
+i
+[1965] 56
+ITR 42, CIT v. Shoorji Vallabhdas and C
+o.
+[1962] 46 ITR 144 and Godhara Electricity Co. Ltd. v .
+CIT, [1997] 225 ITR 746/91 Taxm an 351. Further, the
+judgment of Hon'ble Supreme Court in the case of
+42               ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                 Nokia Corporation
+
+State Bank of T ravancore, (supra) which has bee n
+relied upon by the ld. CIT (A), has not been treated t o
+be correct enunciation of law by the Hon'ble Suprem e
+Court in the ca se of Godha ra Electricity Co. Lt d.
+(supra) and UC O Ban k (supra). Here in the present
+case, the assessee itself has n ot treated the amoun t
+of interest to be due from any of the telecomm
+operat ors either recognise d as a debt or a s a legal
+claim. Even the conduct of the parties show that such
+a clause even though may have been agreed upon ha s
+never been enforce d or a cted upon. In such a
+situation, in our opinion, the amount of interest
+cannot const rue a de bt due to th e assessee. Further,
+assessee has not debited the account of any customer
+with interest which can be treat ed as income of the
+assessee. Nowhere has it been h eld by the Assessing
+Officer/CIT (A) that such an interest is legally
+claimable right against the Indian customers i n
+respect of interest on delayed cre dit period on Vendor
+Financing. Thus, we hold that when assessee has
+neither treated the amount to be legally claimed nor
+has acknowledge d any debt due too on its customer as
+delayed payment then it cannot be held that any
+interest accrued to the asse ssee, and therefore, such
+a notional charging of interest f or each day elapse d
+from the due date t o the actual payment cannot be
+held to be taxable t o the assessee.
+This proposition
+has also been now well upheld by Hon'ble Suprem e
+Court in the case of
+Excel Industries Ltd.
+(supra) .
+Hence, no income can be said to accrue to th e
+assessee on account of delayed payments as neither
+there was any corresponding lia bility on any of the
+debtors nor a ssessee had claimed any entitlement on
+such an interest. Accordingly, this issue is also
+decided in favour of the assessee.
+62. The aforesaid findings and conclusions given in
+respect f or the A.Y . 1997-98, will apply mutatis
+mutandis in the appeal for the A.Y. 1998-99 year, as
+exactly similar facts and issues a re permeating in this
+year also.
+63. In the result, all the issues which have bee n
+remanded back by the Hon'ble High Court to this
+43                     ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                                     Nokia Corporation
+
+       Tribunal stands decided in favour of the assessee and
+       against the Revenue."
+11.    Si nce, the matter of PE stands adjudi cated i n favour of
+the assessee, i n the absence of a ny change i n the materi al
+facts, fol l owing the earl i er order of thi s Tri bunal , we hereby
+hol d that the assessee do not have a PE withi n the terms of
+Arti cl e 5 of Indi a-Finl and DTAA. Thus, thi s ground of appeal
+of the assessee i s all owed.
+12.    Ground Nos. 4 to 6 of assessee 's appeal i n ITA No.
+5819/Del /2010 and Ground No. 2 of de partmental appeal i n
+ITA    Nos.   1236   to   1238/Del /2010         deal s   wi th     supply         of
+equi pment as hardwa re and soft ware a rbi trari l y basi s and
+whether the consi derati on towards the softwa re porti on of
+the equi pment i s i n the nature of royal ti es under Arti cl e 13
+of Indi a-Fi nl and DTAA.
+13.    The orde r of the l d. CIT ( A) on the taxabili ty of the
+suppl y of hardwa re i n rel ati on to the PE has al ready been
+di scussed above.
+14.    Regardi ng the     taxabili ty    of    revenue    from         suppl y     of
+software, the l d. CIT (A) hel d that si nce software i s an
+i ntegral part of the tel ecom hardware and software suppl y
+has been made pursuant to the contract i n respect of whi ch
+a PE has been uphel d, software i s effectivel y connected to
+the PE and shoul d be deal t wi th as the "busi ness profi ts' i n
+accordance wi th provi si ons of Arti cl e 7. In vi ew thereof,
+there i s no need to segregate the payments for software
+from    other   busi ness    recei pts        from   suppl y      of     tel ecom
+44             ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                       Nokia Corporation
+
+hardwa re. The    same vi ew has al so been uphel d by the
+Honourabl e Speci al Bench of the Delhi ITAT for Assessment
+Years 1997-98 and 1998-99 wherei n at Para 281 of the
+orde r, i t has hel d as under:
+"The fourth question is regarding the treatment to be
+     accorded t o the payments made to the assessee for
+     supply of software. The AO has assessed the payment s
+     as royalties but the CIT(A) ha s assessed it as business
+     profits on the ground that the a ssessee has a PE in
+     India in the form of Both "LO" and NTPL. On this
+     point, the parties a re agreed that the nature of
+     payments made by the cellular operat ors for use of
+     software supplied by the asse see alongwith the
+     hardwa re is the same as in the cases of Ericsson and
+     Motorola . Only one aspe ct needs to be n oticed in thi s
+     case and that is that in para 8.1 of his order, the CIT
+     (Appeals) has decided that the amount paid for use of
+     the software i s to be t reated as the commercia l
+     income or business profits of the assessee since the
+     assessee had been held by him t o have PE in India .
+     However, the nature of the paym ent had been f ound
+     by us in the cases of Ericsson an d Motorol a to be not
+     royalty at all. We have found that the payment is for a
+     copyrighted a rticle and not the copyright right. Th e
+     same finding holds good in this case also. Therefore ,
+     even
+Article 13.6
+of the DTAA which provides that if
+     the foreign enterprise ha s a PE in India, the royalties
+     shall be taxed not unde r
+Article 13
+but as business
+     profits under
+Article 7
+of the DTAA will not be
+     attracted. In other w ords even though we have held
+     that the 100% Indian subsidiary of the assessee,
+     namely, NTPL, constitutes the assessee's PE in India ,
+     the payment for the software cannot be asse sse d
+     under
+Article 15
+for the reasons that it is not in the
+     nature of royalty. However, a question may arise as to
+     why the payment cannot be assessed as "business
+     profits under
+Article 7.
+The reason is that the software
+     has been held by us to be part of the GSM Cellular
+     Systems as a whole, the sale of which has taken place
+     outside India as held by us earlier."
+45                   ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                                Nokia Corporation
+
+      Accordingly, relying on the decisi on of the Honoura ble
+      Special Bench of the Delhi ITAT, I hold that there is
+      no need to bifurcate the payments from supply of
+      telecommunication system separately into hardwa re
+      and software . The entire receipt s in respect of the
+      contract for Supply of telecom equipment including
+      hardwa re and softwa re shall be treated as business
+      Income."
+15.   Thi s i ssue has been summari zed in the judgment of
+Hon'bl e Hi gh Court as under:
+"6.1 These questions have been decided by the Special Bench
+      vide judgment dated 22.06.2005; however, in so far as the
+      appeal relating to the assessee is considered, the following
+      findings have been given by the Special Bench which finding
+      too has been summarized in the judgment of the Hon'ble High
+      Court in the following manner:--
+(1)   Liaison Office neither constituted a business connection
+            under the Act nor a PE of the Nokia under
+Article 5
+of the
+            India-Finland DTAA, as it merely carried on advertising
+            activities in India.
+(2)   Sale of hardware took place outside India and no income
+            from sale of hardware accrued to Nokia in India.
+      (3)   Nokia was not responsible for installation of telecom
+            equipment and Nokia's arrangement with the Indian
+            Telecom Operators did not constitute a works contract.
+NIPL is a separate corporation entity and is also assessed
+            separately for its installation income.
+      (4)   However, Nokia was held to have a PE in India in the form
+            of NIPL, on the basis that Nokia virtually projected itself in
+            India through NIPL and Mr. Hannu Karavirta, acted for
+            both. Losses incurred by NIPL and guarantees given by
+            Nokia that it will not 'dilute its shareholding in NIPL below
+            51% without written permission of Indian Telecom
+            Operators was used as the main basis to hold that Nokia
+            was in a position to control and monitor NIPL's activities.
+      (5)   While upholding NIPL as a PE of Nokia, the Special Bench
+            observed that it did not matter that there was no direct
+            evidence for the control of NIPL by Nokia. For purposes of
+            PE, what is relevant is only the perception that NIPL was a
+            projection of Nokia, whether or not in fact and in truth its
+46                     ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                            Nokia Corporation
+
+      activities were being controlled/monitored            by     Nokia.
+      Following discussion ensued on this aspect:--
+'... We only meant to convey that because of the close
+      connection between the assessee and NIPL, it was possible
+      to look upon NIPL as a "virtual projection" of the assessee
+      in India. We have in fact clarified in the same paragraph
+      that what matters is that there was scope for previewing
+      the assessee's soul in the body of NIPL and that it did not
+      matter that there was no direct evidence for the control of
+      NIPL by the assessee. For purposes of PE, what is relevant
+      is only the perception that NIPL was a projection of the
+      assessee, whether or not in fact and truth its activities
+      were being controlled/monitored by the assessee. Our
+      observations are therefore confined to the question of PE.
+      Otherwise, both the assessee and NIPL remain separate
+      corporate entities and NIPL has also been assessed
+      separately for its installation income. Thus the
+      observations in para 274(b) have no relevant to what has
+      been discussed in this paragraph.'
+(6)   Payment for supply of software was not in the nature of
+      'royalty' because the same was for a copyrighted article
+      and 'not for a copyright. Further, software was held to be
+      integral part of GSM equipment. Payment for supply of
+      software was held not taxable both under the provisions of
+      the Act and under DTAA.
+(7)   Interest income from vendor financing was held to have
+      been correctly added.
+(8)   Following 3 activities were held to have been carried out
+      by NIPL, the PE of Nokia in India:
+(a)   Network Planning;
+(b)   Negotiations in connection with the sale of
+      equipment; &
+(c)   Signing of supply and installation contracts.
+(9)   20% of the net profit determined on the basis of the global
+      net profit of Nokia (10% towards signing of the contract
+      and 10% towards other two activities) was attributed to
+      the PE in India. This margin was directed to be applied on
+      the Indian sales of Nokia (clarified by the Special Bench of
+      the ITAT to mean revenues arising from supply of
+      hardware and software).
+47              ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                               Nokia Corporation
+7. The substantial question of law admitted by the
+Hon'ble High Court and the fin al conclusion/answer
+given by the Hon'ble C ourt can be tabulated in the
+following manner:--
+Revenue Appeals b efore H on'ble High Court
+(lead case ITA 512/2007)
+Substantial Question of Law
+                                   Conclusions
+admitted by Hon'ble High Court
+Q1. Whether on a true and
+correct interpretation of secti on
+9(1)(i) of the
+Income-tax Act
+,
+the Respondent can be said to
+have a 'business connection ' in
+India in the form of a Liaison
+                                   Decided in favour
+Office?
+of assessee (Para
+Q2. Without pre judice, whether
+                                   23 of HC Order)
+the      respon dent     has     a
+'permanent esta blishment' in
+India because of its Liaison
+Office within the meaning of the
+relevant    provisi on  of   DTAA
+between India and Finland?
+Q3. Whether any part of the
+consideration     for  supply   of
+software      stated    by     the
+                                   Decided in favour
+Respondent to be integral to
+                                   of assessee (Para
+the equipment is taxable as
+                                   30 of HC Order)
+'royalty' either under
+section
+9(l)(vi)
+or     the    relevant
+provisi on
+Q4. Whether on facts and in law
+without prejudice, the Tribunal
+is correct in law in att ributing Issue      remitted
+only 20% of the Global Net back to AO (Para
+Operating Profits t o the PE in 31 of HC Order)
+the form of NIPL (Noki a India
+Pvt. Ltd.) a subsidiary
+Q5. Whether on facts an d in law Decided in favour
+interest under
+section 234B
+is of assessee ( Para
+leviable?                          30 of HC Order)
+Assessee Appeals before Hon'ble High Court
+(ITA 1137 & 1138/2007
+48                ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                         Nokia Corporation
+
+      Q1. Whether on a true and
+      correct interpretation of the
+      relevant DTAAA the T ribunal's
+      reasoning is right in law in
+      holding     that     NIPL,     (the
+      subsidiary of the Appellant) is a
+      permanent establishment?
+Q2. Whether the T ribunal was
+      right in law in holding that a
+      perception of virtual projecti on
+      of the foreign enterprise in
+      India results in a pe rmanent
+      establishment?                        All these Issues
+      Q3. Whether prejudice , if the        have         been
+      answers to Q.1 &                      remitted back to
+      Q.2 a re in affirmative, is there     ITAT (P ara 38 of
+      any attribution of profits on         High Court order)
+      account of signing, network
+      planning and negotiation of
+      offshore supply contra cts in
+      India and if yes, the extent and
+      basis thereof?
+Q4. Whether in law the notional
+      interest        on         delayed
+      consideration    for    supply   of
+      equipment     and    licensing   of
+      software is taxable in the hands
+      of assessee as intere st from
+      vendor financing?
+16.   From the above, we fi nd that the i ssue of suppl y of
+hardwa re has been deal t i n poi nt no. 2 at pa ra 6 .1 and suppl y
+of software whi ch i s i ntegral to the suppl y of hardware an d
+taxing i t royal ty has been deci ded vi de Questi on No. 3 by the
+Hon'bl e Hi gh Court of Delhi vi de orde r dated 7 t h Septembe r
+2012. It stands adjudi cated that the sal e of hardware t ook
+pl ace outsi de Indi a and hence no income from sal e of hardware
+accrued to Noki a i n Indi a. The i ssue of royal ty on the software
+has been hel d i n favour of the assessee base d on the orde r i n
+49                ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                        Nokia Corporation
+
+the case of (343 ITR 470) DIT Vs Eri cssi on AB. It was hel d that
+these payments cannot be sai d t o be i n the nature of royal ty
+ei ther as per the Indi an
+Income Tax Act
+or DTAA and hence
+cannot be hel d to be taxabl e. It was hel d that what was sol d
+was a GSM whi ch consi sted bot h hardware as wel l as the
+software and hence they cannot be taxed under two di fferent
+arti cles. For rea dy reference the rel evant part of the judgment
+of the Hon'bl e Hi gh Court i s reproduced as under:
+"QUESTION OF LAW NOS. 3 & 5
+25. This aspect has already been discussed in detail
+     by us in DIT v. E ricsson A.B. [2 012] 343 ITR 470 /
+     204 Taxman 192 / [2011] 16 taxmann.com 371
+     (Delhi) which reasoning equally applies to these
+     cases. The relevant portion of th e said judgment is
+     reproduced bel ow:
+"55. Once we proceed on the basis of aforesai d
+     factual findings, it is difficult to hold that payment
+     made to the assessee was in the nature of royalty
+     either under the
+Income-Tax Act
+or under the DT AA.
+     We have to keep in mind what was sold by the
+     assessee t o the Indi an custome rs was a GSM which
+     consisted both of the ha rdwa re as well as the
+     software, therefore, the T ribunal is right in holding
+     that it was not permissible for the Revenue to assess
+     the same under two different art icles. The softwa re
+     that was loa ded on the hardware did not have any
+     independent existence. The software supply is an
+     integral pa rt of the GSM mobile te lephone system and
+     is used by the cellular operator for providing the
+     cellular services to its customers. There could not be
+     any independent use of such soft ware. The softwa re
+     is embodied in the system and t he revenue accepts
+     that it could not be used independently. This software
+     merely facilitates the functioning of the equipment
+     and is an integral pa rt there of. On these facts, it
+     would be useful to refer t o the judgment of the
+     Supreme Court in TATA C onsultancy Services v. State
+     of Andhra Pra desh, 271 ITR 401 , wherein the Apex
+50                ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                   Nokia Corporation
+
+Court held that software which is incorporated on a
+media would be goods an d, there fore, liable to sales
+tax. Following discussion in this behalf is requi red t o
+be noted:-
+"In our view, the term "goods" as used in
+Article
+366(12)
+of the Constitution of India and as defined
+under the said Act are ve ry wide a nd include all types
+of movable prope rties, whether those properties be
+tangible or intangible. We are in complete agreement
+with the observations made by this Court in
+Associ ated
+Cement Companies Ltd.
+(supra). A software
+programme may consist of various commands which
+enable the compute r to pe rform a de signated ta sk.
+The copyright in that programme may remain with the
+originator of the programme. But the moment copies
+are made and ma rketed, it be com es goods, which a re
+susceptible to sales tax. Even intellectual prope rty,
+once it is put on t o a media , whet her it be in the form
+of books or canvas (In case of pa inting) or compute r
+discs or cassettes, and marke ted would becom e
+"goods". We see no difference between a sale of a
+software programme on a CD/floppy disc from a sale
+of music on a cassette/CD or a sale of a film on a
+video cassette/CD. In all such ca ses, the intellectual
+property has been incorporated on a media for
+purposes of transfer. Sale is not just of the media
+which by itself has very little value. The software and
+the media cannot be split up. What the buyer
+purchases and pays for is not the disc or the CD. As
+in the case of paintings or books or music or films the
+buyer is purchasing the intellectual prope rty and not
+the media i.e. the pape r or cassette or disc or CD.
+Thus a transaction sale of computer software is
+clearly a sale of "goods" within the meaning of the
+term as defined in the said Act. The term "all
+materials, articles and commodi ties" includes both
+tangible and intangible/incorporea l prope rty which is
+capable of abstraction, consum ption and use and
+which can be t ransmitted, t ran sferred, delivered,
+stored, possesse d etc. The softwa re programmes have
+all these attributes.
+.....................
+51                ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                         Nokia Corporation
+
+      ...................
+29. Our re asoning given in Eri csson A.B. (supra)
+      therefore would apply to this case as well. Even
+      otherwise, we find, as a fact, the assessee had
+      entered into contract f or supply of GSM e quipment.
+      Responsibility for installation and commissi oning of
+      the equipment and provisioning of technical services
+      was untaken by NIPL underta ken its separate contract
+      with Indian customers. This insta llation contract ha s
+      not been entered into between the assessee and Tata .
+      We also find that Clause 19.1 of the supply contra ct
+      between the respondent and T ata has been examined
+      threadba re by the ITAT Special Bench in para 277 to
+      hold that title and risk in the equipment has passe d
+      to Tata outside India and thereaf ter, Tata continues
+      to hold the hardware at their own risk an d therefore ,
+      no part of the contract prior to the passing of the title
+      and risk could be lawfully terminated by it. Tata's
+      right to terminate the contract in case of breach of
+      any material condition relates to failure on the pa rt of
+      the respondent t o supply fully functional equipment.
+      Clause 19.1 of the supply contract with Tata does not
+      provide that non-perf ormance of "Acceptance Test" i s
+      a material conditi on for breach of the supply contract
+      and reference placed by the Revenue is factually
+      incorre ct. That contract further re veals that NIPL wa s
+      responsi ble for unde rtaking accept ance test under the
+      terms of its installation cont ra ct with the Indian
+      customers. The fact that Acce pta nce Test was to be
+      done by respon dent's subsidi ary, NIPL has been
+      specifically noted by the ITAT Special Bench in para
+279. We are therefore, of the opinion that this
+      submission of the Revenue is factually in correct.
+30. Question nos.3 and 5 are accordingly decided in
+      favour of the assessee and against the Revenue."
+Thus, thi s ground of appeal of the assessee i s all owed.
+17.   Ground No. 7 of assessee's appe al i n ITA Nos. 1006 to
+1008/Del /2010 and Ground No. 9 of assessee 's appe al i n ITA
+52                     ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                                 Nokia Corporation
+
+No. 5819/Del /2010 deal s with taxabili ty of the noti onal i nterest
+/vendor    fi nanci ng   on   del ayed   consi derati on     for     suppl y        of
+equi pment and li censi ng of software.
+18.   On thi s i ssue, the l d. CIT (A) has uphel d the addi ti on
+made on the noti onal i nterest @ 18% based on the judgment of
+Speci al Bench of ITAT Del hi dated 22 n d June 2005. The rel evant
+part of the l d. CIT (A) i s as under:
+"The appellant has submitted t hat the assessing
+      officer has arbitrarily imputed an income of Rs
+      5,00,00,000/- from vendor financing for each of the
+      Assessment Y ears 2003-04 to 2006-07, without
+      assigning any reasons in his assessment order,
+      Further, as per the appellant while imputing income
+      from vendor financing at Rs 5,00,00,000/- the
+      assessing officer has not provide d any basis for the
+      same. The said income has been considered as
+      "business income" and taxed a t the rate of 4 0
+      percent (plus surcharge and cess) on the basis that
+      such income is taxable in India a s per provisions of
+      the India-Finland tax treaty.
+In my view, this issue does not need any detailed
+      discussion. The mere fact that no credit was taken in
+      the account books for interest cannot stop the
+      accrual thereof as the appellant's income. The
+      Honourable Special Bench of the Delhi ITAT at Para
+      283 of the orde r has held that i ncome from vendor
+      financing has been rightly impute d since there i s no
+      evidence on record to subst antiate that such interest
+      was not charge d. Para 283 of t he orde r reads as
+      under:
+"We have considere d the facts and the rival
+          contentions but we find no Substance in the
+          assessed's case . The findings of the CIT (Appeals)
+          have not been refuted before u s on the ba sis of
+          any material or evidence. The existence of the
+          clause in the agreement for charging interest @
+          18% p.a. is not denied. All that is contended is
+53                  ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                            Nokia Corporation
+
+        that the clause was not activated but this
+        contention is without su bstance because if the
+        agreement is in force then it is in force with all its
+        clauses which includes the chargi ng of interest. It
+        was for the assessee to show on the basis of any
+        evidence    or    correspon dence     or   subsequent
+        agreement modifying the earlier agreement under
+        which interest was chargea ble. T his has not been
+        done. The mere fact that no cre dit was taken in
+        the account books for the interest cannot stop the
+        accrual there of as the assessee's income. Even
+        before us n o evidence was filed t o show that the
+        financial position of the cell operators w as bad an d
+        that there was an agreement between the parties
+        not to charge intere st or n ot to activate the clause
+        providing for interest. In these ci rcumstances, we
+        uphold the addition for both the years."
+Respectfully,  following   the   decision  of    the
+      Honourable Spe cial Bench of the Delhi TATAT, I hold
+      that income from vendor financing is taxable in the
+      hands of the appellant. In the absence of details
+      from the appellant, the AO wa s right in estimating
+      this  income.   Therefore,   the  addition  of   Rs.
+      5,00,00,000/- on this account is upheld for ea ch of
+      the AYs 2003-04 to 2006-07."
+19.   Much water has fl own subsequent to the order of the
+Speci al Bench of ITAT on whi ch the l d. CIT (A) reli ed upon.
+Subsequentl y,   post   Hi gh   Court   order   in   the   case       of    the
+assessee, a Spe ci al Bench of ITAT Del hi vi de order dated 5 t h
+June 2018 has deci ded thi s i ssue in favour of the assessee. For
+ready reference, the orde r of the Speci al Bench of ITAT Delhi
+dated 5 t h June 2018 i s reproduce d as under:
+"60. Now coming to the la st issue of taxability of
+      interest from Vendor Financing, we find that the
+      Assessing Office r in his orde r has made the addition
+      on the ground that asse ssee provi ded cre dit facilities
+      to its custome rs for which it shoul d have charge d the
+      interest on the same. For coming to this conclusion ,
+54                ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                   Nokia Corporation
+
+he has referred to one cl ause given in paragraph 6.9
+of the cont ract between the assessee an d Modi
+Telstra to conclude that pu rchase r were liable t o pay
+interest @18% for each day ela psed from the due
+date of actual payment. Thus, the only reason for
+making such an a ddition was existence of a pa rticula r
+clause in the agreement signed between the assessee
+and some of the Indian Cellular Ope rators. The ld.
+CIT (A) too has confirmed the said addition on the
+ground that, since the assessee is following a
+mercantile system of accounting and as per the
+contract assessee w as entitled to receive such
+interest, and the refore , same should have been
+accounted for and in support he has relied upon the
+judgment of H on'ble Supreme C ourt in the case of
+State Bank of Travancore (supra). Ld. counsel for the
+assessee had submitted that the said judgment has
+already   been    distinguished   in    the  subsequent
+judgment of H on'ble Supreme C ourt in the case of
+UCO Ban k (supra) and secondly, only the real income
+can be brought to tax and not something on
+hypothetical   basis,   because    t here   has  to   be
+corresponding liability to the other party to whom the
+income becomes due and he re such a clause wa s
+never enforced by the parties. Al ready the arguments
+of both the pa rties have been incorporated in ea rlie r
+part of the orde r; therefore , same is not being
+discussed again .
+61. After considering the releva nt finding and rival
+contentions, we find that, it has not been brought on
+record that in any of the contract the assessee ha d
+charged any interest on delayed payment or providing
+any credit facilities t o its custom ers or any custome r
+has paid any such amount for each day elapsed from
+the due date t o the actual payment. Once n one of the
+parties have either acknowle dge d the debt or any
+corresponding liability of the other party to pay, then
+it cannot be held that any income should be taxed on
+notional basis which has neither a ccrued nor received
+by the assessee . Whence the ben efit of credit peri od
+given to the customers has neither accrued t o the
+assessee nor acknowledged by the other person , then
+it cannot be said that interest on notional basi s
+55                ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                  Nokia Corporation
+
+should be calculated for the purpose of taxation.
+Otherwise, it is a well settled proposition that income
+cannot be generated, actual or a ccrued if no income
+has actually been accrued or received to the
+assessee. There has to be some income which has
+resulted to the assessee and even though in books,
+entries have been made about hypothetical income
+which does not mate rialized at all cannot be brough t
+to tax.
+The income tax is levy on real income , i.e.,
+the profits arrived on commercial principles. Assessee
+must have received or acqui red a right to receive the
+income before it can be taxed. In other words, there
+must be a debt owed t o it by somebody if it is to be
+taxed on accrual basis unless a debt has been created
+in favour of the asse ssee by som ebody it cannot be
+said that income has accrued to it or it has a right to
+receive the income. This proposi tion has been well
+settled by Hon'ble Supreme Court in the case of E.D.
+Sassoon C o.
+Ltd. v. CIT
+[1954] 26 ITR 27, C IT v.
+Ashokbhai Chaamanbhai [1965] 56
+ITR 42, CIT v.
+Shoorji Vallabhdas and C
+o. [196 2] 46
+ITR 144 and
+Godhara Electricity Co. Ltd. v. C IT
+, [1997] 225 ITR
+746/91 Taxman 351.
+Further, the judgment of Hon'ble
+Supreme Court in the case of State Bank of
+Travancore, (supra) which has been relied upon by
+the ld. CIT (A), has not been treated to be correct
+enunciation of law by the Hon'bl e Supreme Cou rt in
+the case of
+Godhara Electricity Co. Ltd.
+(supra) an d
+UCO Bank (supra). Here in the present ca se, the
+assessee itself has n ot treate d the amount of interest
+to be due from any of the telecomm operat ors eithe r
+recognise d as a debt or as a le gal claim. Even the
+conduct of the parties show that such a clause even
+though may have been agreed upon has never been
+enforced or acted upon. In such a situation, in our
+opinion, the am ount of interest cannot construe a
+debt due to the assessee . Furthe r, assessee has not
+debited the account of any customer with interest
+which can be treated as income of the assessee.
+Nowhere has it been held by the Assessing Officer/CIT
+(A) that such an interest is legally claimable right
+against the Indian customers in respect of interest on
+delayed credit pe riod on Vendor Financing. Thus, we
+hold that when assessee has neither treated the
+56                ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                                 Nokia Corporation
+
+      amount to be legally claimed nor has acknowledge d
+      any debt due too on its customer as delayed payment
+      then it cannot be held that any interest accrued t o
+      the assessee, and therefore , such a notional charging
+      of interest for each day elapsed from the due date t o
+      the actual payment cannot be held to be taxable t o
+      the assessee.
+This propositi on has also been now well
+      upheld by Hon'ble Supreme Court in the case of
+Excel
+      Industries Ltd.
+(supra) . Hence, no income can be said
+      to accrue to the assessee on account of delaye d
+      payments as neither there was any correspondin g
+      liability on any of the debtors nor assessee ha d
+      claimed any entitlement on such an interest.
+Accordingly, this issue is also deci ded in favour of the
+      assessee."
+As a resul t, appeal of the assessee on thi s ground i s all owed.
+20.   Ground No. 8 of assessee's appe al i n ITA Nos. 1006 to
+1008/Del /2010, Ground Nos. 7 & 8 of assessee's appeal i n ITA
+No. 5819/Del /2010 and Ground No. 3 of departmental appeal i n
+ITA   Nos.   1236     to   1238/Del /2010      deal s    with   taxabili ty         of
+revenue from R&D activi ti es undertaken i n Indi a.
+21.   The background of the i ssue i s that Noki a Indi a, the
+Indi an subsi di ary of the assessee has carri ed out R&D acti vi ties
+for the assessee duri ng the AYs 2004-05 to 2006-07 i n terms of
+the "Research and Devel opment Subcontracti ng Agreement".
+AO i n the assessment orders for these years has hel d that
+Noki a Indi a consti tutes 'fixed pl aces PE' and 'Dependent Agent
+PE' of the assessee i n respect of these R&D activi ti es.
+22.   The l d. CIT (A) hel d that si nce the assessee does not have
+separate a ccounts i n respect of such expenses and revenues
+rel atabl e to them and determi nati on of profi ts attri butabl e to
+the   PE   poses    di ffi cul ties.   Therefore   in   terms   of    Arti cl e      7
+57                         ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                                               Nokia Corporation
+
+(paragraphs 3 an d 4) of the DTAA, appli cati on of Rul e 10 of IT
+Rul es, 1962 by the AO i s uphel d. However, as far as the
+attri buti on rati o of 126% to 130% i s concerned, i t was hel d
+that the same i n i s excessi ve. From the cal cul ati ons of the AO
+menti oned above i t i s seen that he has attri buted 100% of the
+profi ts to R&D acti viti es. Profi t of an enterpri se i s the resul t of
+vari ous acti vi ti es li ke manufacturi ng, selling and di stri buti on,
+financing, brandi ng, goodwill , R&D and l ogi sti cs etc. R&D i s
+thus, one of the acti vi ties amongst several others whi ch resul ts
+i nto profi ts to the enterpri se. A rati onal basi s of all ocati on of
+profi ts to R&D w oul d be i n the proporti on R&D expenses to
+total expenses i .e. i n the year 2004 whi ch has been consi dered
+as an exampl e, R&D expenses of 3,733 milli on Euros i s about
+15.20%        of    the     total    expenses       of     24,558    milli on        Euros        of
+expenses. Therefore, i t woul d be fai r to all ocate 15.20% of the
+profi ts of the appel l ant (i .e. 716 milli on Euros of a t otal profi t
+of 4,709 milli on Euros) to the R&D acti viti es for the year 2004.
+The proporti on of such profi ts to the total R&D expenses woul d
+then be 1917 i .e. 19.17% (716 milli on Euros di vi ded by total
+R&D expenses of 3,733 milli on Euros). Thus for the year 2004
+the   fi gure       of    attri butabl e   profi ts      woul d    be     equal       to     total
+expenses i ncurred on R&D acti vi ti es i n Indi a duri ng the year
+mul ti pli ed wi th the proporti on/ attri buti on rati o of .1917 or
+19.17%. Hol di ng thi s, the l d. CIT (A) di rected that AO shoul d
+cal cul ate        wei ghted        average    of        attri buti on     rati o      by      the
+methodol ogy bel ow:
+i ) He shoul d fi rst work out the we i ghted average of attri buti on
+rati o in accordance wi th the method di scussed above and
+58                          ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                                                 Nokia Corporation
+
+ii ) He shoul d then mul ti ply the expenses i ncurred on R&D i n
+Indi a i n a parti cul ar AY with the wei ghted attri buti on rati on for
+that year.
+23.    Before us, du ri ng the heari ng, the l d. AR argue d that the
+si mil ar matter has been adjudi cated by the Hon'bl e Hi gh Court
+of    Del hi    in   the    case      of     Adobe        Systems         Incorporated             69
+taxmann.com 229 vi de order date d 16th May 2016. The l d. DR
+reli ed on the order of the revenue authori ti es.
+24.    The      bri ef facts of        that     case        are     the    assessee         was a
+company i ncorporated under the l aws of Del aware i n USA. It
+provi ded       software         sol uti ons    for       network         publi shing        whi ch
+i ncl uded       web,       pri nt,        vi deo,        wi rel ess      and        broadban d
+appl i cati ons. The assessee had a wholl y owned subsi di ary i n
+Indi a, namel y, Adobe Indi a. Adobe Indi a provi ded softwa re
+rel ated       Research     and       Devel opment            (R&D)        servi ces       to    the
+assessee        and     the       assessee         di d     not     have      any       busi ness
+operati ons i n Indi a. The R&D services rendere d by Adobe Indi a,
+were pai d for by the assessee on cost pl us basi s in terms of an
+agreement entered i nto between the assessee and Adobe Indi a.
+For rel event years, the Asse ssi ng Offi cer and the TPO acce pted
+the fees pai d by the assessee on cost pl us 15 per cent basi s as
+bei ng     on    ALP       and     Adobe       Indi a's       assessment           was        made
+accordi ngl y.       Subsequentl y,          the      Assessi ng        Offi cer     sought         to
+reopen the assessment. The reasons recorded for sai d purpose
+were that acti vi ties carri ed out by Adobe Indi a were a part of
+the    assessee's       core       busi ness         acti viti es      and,    consequentl y,
+Adobe Indi a consti tuted the assessee's PE under arti cl e 5(1) of
+DTAA. The Assessi ng Offi cer further reasoned that si nce the
+59                 ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                           Nokia Corporation
+
+assessee had a PE i n Indi a, a part of the profi t accrui ng to the
+assessee whi ch was attri butabl e to the activi ti es i n Indi a was
+chargeabl e to tax under the Act.
+25.   At thi s juncture, we fi nd that the facts of Adobe Systems
+Incorporated are si mil ar to the assessee and the i ssue i n
+questi on before us. The l d. C IT ( A) hel d that there i s fi xed PE
+i n terms of Arti cl e 5 of DTAA. The premi ses have been used for
+carryi ng R&D acti vi ti es of the assessee and the assessee ha s
+pai d for all the costs and facilities. The assessee had control
+and authori ty to deci de the R&D projects undertaken by Noki a
+Indi a. The premi ses have been i n control of the assessee.
+These i ssues have been cl early deal t by the Hon'bl e Hi gh Court
+i n thei r order. Furthe r, the H on'bl e Hi gh Court has al so taken
+queue from the order of E-Funds IT Sol uti ons regardi ng the
+fixed pl ace PE. The reasoni ng of the l d. Assessi ng Offi cer i n the
+case of Adobe Systems and the order of the Hon'bl e Hi gh Court
+deali ng wi th the fixed PE i s as under:
+"Reasons to     believe    that   income    had     escaped
+      assessment.
+12. In the rea sons recorde d by t he AO for issuance
+      of the impugned notices, the AO had recorded that:
+(a) Adobe India develops softwa re for the Assessee
+      for which Adobe India has been compensated on a
+      'cost plus profit basis'; (b) the ownership of the
+      software developed by Adobe India is the sole
+      property of the Assessee and Adobe India does not
+      retain any intellectual property rights in respect of
+      the software developed by it; (c) t he Assessee ma kes
+      substantial profits by selling the software develope d
+      in India abroa d for which no taxes have been paid by
+      the Assessee in India; (d) Adobe India has been
+      working wholly and exclusively for the Assessee an d
+60                ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                   Nokia Corporation
+
+does not develop softwa re for any other conce rn; and
+(e) the Assessee's transaction wi th Adobe India a re
+not isolated transactions "but a continuous business
+connection as Adobe India is connected to the
+Assessee th rough a network of lease lines and othe r
+technological means".
+13. On the basis of the a bove, the AO conclude d that
+activities carried out by Adobe In dia were a pa rt of
+the    Assessee's   core    business    activities   and,
+consequently, Adobe India constituted the Assessee's
+PE under
+Article 5(1)
+of the Indo-US Double Taxation
+Avoidance Agreement (DT AA). He also obse rved that
+in terms of the agreement between Adobe India an d
+the Assessee, the Assessee was obliged to provide
+assistance, specifications and supervision and wa s
+further entitled to audit the facilities of Adobe In dia
+for maintenance of the requisit e standards. This,
+according to the AO, indicated tha t the Assessee had
+a Service PE in In dia in terms of
+Article 5(2)(l)
+of the
+Indo-US DTAA. According t o the AO, Adobe India wa s
+also a dependent agent of the Assessee and thus,
+constituted its PE in terms of
+Article 5(5)
+of the
+Indo-US DTAA.
+14. The AO reasoned that since the Assessee had a
+PE in India, a part of the prof it accruing to the
+Assessee which is att ributable t o the activities in
+India was chargea ble to tax under the Act.
+15. The AO further observed th at the transaction
+between the Assessee and Adobe India involved
+transfer of intangibles and m ultiple interrelated
+transactions which could n ot be e valuated separately
+for the purposes of determining ALP by any one
+transaction. The AO also recorde d that development
+and customisation of softwa re wa s a highly technical
+job and the same could not be restricted to
+computation on cost plus basi s. In his view, cost plus
+basis was n ot a suitable method for intangibles like
+software se rvices and the Profit Split Method w as
+applicable in terms of Rule 10B of the Income Tax
+Rules. Finally, the AO took note of the global profits
+reported by the Asse ssee and h eld that the same
+61                   ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                            Nokia Corporation
+
+      should be apporti oned in the ratio        of      the     R&D
+      expenses incurred by the Assessed."
+26.   The order of the Hon'bl e Hi gh Court deali ng wi th the i ssue
+above as under:
+"32. Para (1) of
+Article 5
+defines a PE to mean a fixed
+      place of business through which the business of an
+      enterprise is wholly or partly ca rried on. The term
+      'fixed place of business' includes premises, facilities,
+      offices which are used by an enterprise for ca rrying on
+      its business. The fixed place must be at the disposal
+      of an enterpri se through which it carrie s on it s
+      business wholly or partly. Al though, the word
+      'through ' has been interpreted li berally but the very
+      least, it indicates that the particular locati on shoul d
+      be at the disposal of an Assessee for it to carry on its
+      business through it. These attributes of a PE under
+Article 5(1)
+of the Indo-US DTAA were elucidated by
+      the Supreme C ourt in Morgan Stanley & C o. Lt d.
+      (supra). In a re cent decision , a Division Bench of this
+      Court in DIT v. E-Funds IT Solut ion [2014] 364 ITR
+      256/226 Taxman 44/42 taxmann.com 50 (Delhi)
+      reiterated the a bove-stated attri butes; after qu oting
+      from various authors, this Court held that "The term
+      'through ' postulates that the taxpayer should have the
+      power or liberty to control the place and, hence, th e
+      right to dete rmine the conditions according t o it s
+      needs". In the present case, th ere is no allegati on
+      that the Assessee has any Branch Office or any other
+      office or establishment through which it is carrying on
+      any business other than simply stating that Adobe
+      India's constitutes the Assessee's PE. There is n o
+      evidence that the Assessee ha s a ny right to use th e
+      premises or any fixed place at its disposal. The AO ha s
+      simply proceede d on the basis that the R&D services
+      performed by Adobe India a re an integral pa rt of the
+      business of the Assessee and therefore, the offices of
+      Adobe India re present the Assessee's fixed place of
+      business. Thus, clearly the right to use test or the
+      disposal test is not satisfied f or h olding that the
+      Assessee has a PE in India in terms of
+Article 5(1)
+of
+      the Indo-US DTAA.
+62               ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                 Nokia Corporation
+33.
+In
+E-Funds IT Solution
+(supra), this Court had
+expressly negated that an a ssi gnment or a su b-
+contract of any work t o a subsidia ry in India could be
+a factor for dete rmining the applicability of
+Article
+5(1)
+of the Indo-US DTAA. The Court had furthe r
+expressly held that :
+"Even if the foreign entities have saved and reduce d
+  their expenditure by transferring business or bac k
+  office operations to the Indian subsidiary, it would
+  not by itself create a fixed place or location
+  permanent establishment. The ma nner and mode of
+  the payment of royalty or associ ated transactions i s
+  not a test which can be applied to determine ,
+  whether    fixed   place   permane nt  establishment
+  exists.
+Reference to core of auxiliary or preliminary activity
+  is relevant when we apply pa ragraph 3 of
+Article 5
+or when sub-clause (a) to paragraph 4 to
+Article 5
+is under conside ration. The fact t hat the subsidiary
+  company was ca rrying on core activities a s
+  performed by the foreign asse sse e does n ot create
+  a fixed place permanent establishment."
+34. Thus, the AO's view that Adobe India constituted
+the Assessee's PE in term s of paragraph 1 of
+Article 5
+of the Indo-US DTAA is palpa bly erroneous and not
+sustainable on the basis of the facts as recorded by
+him.
+35. We also find that there is no material to hold that
+the Assessee's employees constit ute a Service PE in
+terms of
+Article 5(2)(l)
+of the Indo-US DT AA. Th e
+Assessee has denied that any of its employees has
+rendered any service in India. T here is no materia l
+available with the AO that w ould contradict the same .
+The AO has concluded that the Assessee has a PE in
+India in terms of
+Article 5(2)(l)
+of the Indo-US DTAA,
+only on the basis that the Assessee has a right to
+audit Adobe India and that the agreement between the
+Assessee an d Adobe India entail s that the Assessee
+would     provide   specifications,    assistance   and
+supervision for the R&D service s procured by the
+63                  ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                             Nokia Corporation
+
+      Assessee. The said te rms of the agreement do not i n
+      any manner indicate that the Assessee has bee n
+      providing services in India. Clause 5.5 of the
+      agreement referred t o by the AO indicates that the
+      Assessee is authorized t o audit the Indian subsidiary
+      (Adobe In dia), so as to ensu re that Adobe Indi a
+      adheres to the standards requi re d by the Assessee.
+      The same cannot possibly lead to the inference tha t
+      the Assessee has been renderin g services t o Adobe
+      India. The stipulation as to provi de specification and
+      further assistance is only for the purpose of ensurin g
+      that the Assessee procures the service that it ha s
+      contracted f or f rom Adobe India. Such clauses in the
+      agreement cannot lead t o an inference that the
+      Assessee has a PE in India f or ren dering services, that
+      is, a Se rvice PE in terms of
+Article 5(2)(l)
+of the Indo-
+      US DTAA. This has also been aut horitatively held by
+      Supreme Court in Morgan Stanley & Co. Ltd. (supra)."
+27.   Si nce, the matter i s squarel y appli cabl e to the i nstance
+case, we hereby hol d that fi xed pl ace PE do not exi st as the
+ri ght to use test or the di sposal test i s not sati sfi ed. The appeal
+of the assessee on thi s ground i s all owed.
+28.   Ground No. 9 of assessee's appe al i n ITA Nos. 1006 to
+1008/Del /2010, Ground No. 12 of assessee 's a ppeal i n ITA No.
+5819/Del /2010 deal s wi th l evy of interest
+u/s 234B
+of the Act.
+29.   In vi ew of the deci si on on the grounds no. 1 to 8.3 i n
+favour of the assessee, the adjudi cati on on thi s i ssue becomes
+academi c i n nature and hence we refrai n to do so.
+30.   In the resul t, appeal s of the assessee on the grounds-
+a. Exi stence of PE - all owed
+b. Taxabi lity of the software - all owed
+c. Taxabili ty of the noti onal i nterest - all owed
+d. R&D acti vi ti es - all owed
+64               ITA Nos. 1006 to 1008, 1236
+to 1238 & 5819/Del/2010
+                                                       Nokia Corporation
+
+e. Interest
+u/s 234B
+- i nfructuous.
+The appeal s of the revenue are di smi ssed.
+(Order pronounce d i n the open Court on 02.09.2019)
+
+
+            Sd/-                                 Sd/-
+(Bhavnesh Saini)                       (Dr. B. R. R. Kumar)
+ Judicial Member                       Accountant Member
+Dated: 02/09/2019
+*Subodh*
+Copy forwarded to:
+1. Appellant
+2. Respondent
+3. CIT
+4. CIT(Appeals)
+5. DR: ITAT
+                                               ASSISTANT REGISTRAR

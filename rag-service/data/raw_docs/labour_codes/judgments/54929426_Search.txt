@@ -1,0 +1,1477 @@
+Title: Search
+Court: High Court
+Date: 24 OF 2017
+Citation: AIR 1934 Lahor 606.
+Source: https://indiankanoon.org/doc/54929426/
+
+[Cites
+28
+, Cited by
+12
+]
+Bombay High Court
+Coastal Marine Construction And ... vs Garware-Wall Ropes Limited on 9 March, 2018
+Author:
+B. P. Colabawalla
+Bench:
+B.P.Colabawalla
+arp.24.17.doc
+
+
+
+
+          IN THE HIGH COURT OF JUDICATURE AT BOMBAY
+                       CIVIL APPELLATE JURISDICTION
+                   ARBITRATION PETITION NO.24 OF 2017
+
+
+
+Coastal Marine Construction and
+Engineering Limited                                  ..Petitioner
+             Vs.
+Garware-Wall Ropes Limited                           ..Respondent
+
+
+
+Ms. Ridhi Nyati I/b Ashwin Shanker, for the Petitioner.
+Mr.Ashish Kamat a/w Mr. Kunal Mehta, Ms Yasmin Godrej and
+Ms. Priyanka Deshmukh I/b Crawford Bayley and Co, for the
+Respondent.
+
+
+                               CORAM :-   B.P.COLABAWALLA, J.
+
+                              RESERVED ON : FEBRUARY 5, 2018.
+                              PRONOUNCED ON : MARCH 9, 2018.
+
+
+
+JUDGMENT :
+- [ Per B. P. COLABAWALLA J ]
+1.                 This Arbitration Petition has been filed under
+Section
+
+11
+of the Arbitration and Conciliation Act, 1996 seeking the
+
+appointment of a sole Arbitrator to adjudicate upon the disputes
+
+which have been arisen between the Petitioner and the
+Aswale                                     1/31
+::: Uploaded on - 09/03/2018               ::: Downloaded on - 10/03/2018 01:54:07 :::
+arp.24.17.doc
+
+
+Respondent under the sub-contract dated 14th June, 2013. There
+
+is no dispute that this sub-contract contains an arbitration clause
+
+which inter alia states that any and all claims, disputes, questions
+
+or controversies involving the parties and arising in connection
+
+with this Agreement or execution, interpretation, validity,
+
+performance, termination and which cannot be finally resolved by
+
+such parties through negotiations, shall be resolved by a final and
+
+binding arbitration to be held in Pune. The Arbitration Clause
+
+further provides that the disputes shall be referred to a Sole
+
+Arbitrator to be appointed by the Petitioner and the Respondent
+
+jointly. This matter was argued before me on 5th February, 2018
+
+and the parties asked for time till 20th February, 2018 to file
+
+written submissions. Accordingly, both parties have also filed
+
+written submissions before me. Before I deal with the rival
+
+contentions it would be appropriate to refer to a few facts, which
+
+are really undisputed. They are as follows:-
+(a)      The Petitioner is a company registered under the
+
+                   provisions of the
+Companies Act, 1956
+and is inter alia
+
+                   engaged in the business of marine engineering,
+
+                   geophysical          and   geotechnical    survey         etc.       The
+Aswale                                          2/31
+::: Uploaded on - 09/03/2018                        ::: Downloaded on - 10/03/2018 01:54:07 :::
+arp.24.17.doc
+
+
+                   Respondent is also a company registered under the
+
+                   provisions of
+Companies Act, 1956
+.
+(b)      The Executive Engineer, Aul Embankment Division,
+
+                   Aul, District-Kendrapara floated a tender inviting bids
+
+                   inter alia for the "installation of geo-textile tubes
+
+                   embankment with toe mound' at village Pentha in
+
+                   Odisha for protection against coastal erosion. The said
+
+                   tender was awarded to the Respondent, who in turn,
+
+                   further sub-contracted the work to the Petitioner
+
+                   pursuant to an Agreement dated 14th June, 2013
+
+                   (Exhibit-A to the Application). As per the terms of the
+
+                   said sub-contract, the Petitioner procured two bank
+
+                   guarantees in favour of the Respondent, both in the
+
+                   sum of Rs.1,18,37,281/- each. The first guarantee was
+
+                   a performance bank guarantee and second one was an
+
+                   advance payment bank guarantee.
+(c)      It is the case of the Petitioner that vide their letter
+
+                   dated 2nd January, 2015, the Respondent wrongly
+
+                   terminated the sub-contract and proceeded to encash
+Aswale                                  3/31
+::: Uploaded on - 09/03/2018               ::: Downloaded on - 10/03/2018 01:54:07 :::
+arp.24.17.doc
+
+
+                   the aforementioned bank guarantees.                     In response
+
+                   thereto, the Petitioner by their letter dated 8th
+
+                   January, 2015 objected to the wrongful termination
+
+                   and encashment and instead considered the said act by
+
+                   the Respondent as a repudiatory breach. Thereafter,
+
+                   by their letter dated 7th October, 2015, the Petitioner
+
+                   called upon the Respondent to make good the losses
+
+                   suffered by the Petitioner on account of the wrongful
+
+                   termination of the sub-contract as well as the wrongful
+
+                   encashment of the bank guarantees.
+(d)      As mentioned earlier, Annexure-III of the sub-contract
+
+                   dated 14th June, 2013 ("Commercial Terms and
+
+                   Conditions") inter alia stipulated for all disputes would
+
+                   be settled by arbitration. The said clauses reads as
+
+                   under:-
+"Jurisdiction:-
+Each Party irrevocably submits to the non exclusive Jurisdiction
+                   of the Court at Pune, Maharashtra State, India.
+Arbitration
+                   Any and all claims, disputes, questions or controversies involving
+                   the parties and arising in connection with this Agreement or
+                   execution, interpretation, validity, performance, termination
+                   hereof which cannot be finally resolved by such parties
+                   negotiation shall be resolved by final and binding arbitration held
+Aswale                                       4/31
+::: Uploaded on - 09/03/2018                      ::: Downloaded on - 10/03/2018 01:54:07 :::
+arp.24.17.doc
+
+                   in Pune. The disputes shall be referred to a sole arbitrator to be
+                   appointed by GWRL and COMACOE Jointly in agreement".
+(e)      It is the case of the Petitioner that since negotiations
+
+                   failed the Petitioner addressed a letter dated 11th July,
+
+                   2016 to the Respondent and expressed their desire to
+
+                   proceed to commence arbitration. Thereafter, vide
+
+                   their letter dated 20th July, 2016, the Petitioner inter
+
+                   alia proposed the name of one Mr. Mihir Naniwadekar
+
+                   (Advocate) as the Sole Arbitrator.
+(f)      The Respondent vide its letter dated 17th August, 2016
+
+                   objected to the invocation of the arbitration and the
+
+                   appointment of said Mr. Naniwadekar as the Sole
+
+                   Arbitrator.          It is in these circumstances that the
+
+                   provisions of
+Section 11
+of the Arbitration and
+
+                   Conciliation         Act,    1996     have     been      invoked         for
+
+                   appointment of a Sole Arbitrator to decide the disputes
+
+                   and      differences        that     have   arisen      between          the
+
+                   Petitioner and the Respondent under the sub-contract
+
+                   dated 14th June, 2013 and which admittedly contains
+
+                   an arbitration clause. It is also not in dispute before
+Aswale                                           5/31
+::: Uploaded on - 09/03/2018                           ::: Downloaded on - 10/03/2018 01:54:07 :::
+arp.24.17.doc
+
+
+                   me that the arbitration clause has been invoked by the
+
+                   Petitioner. Since the Respondent has failed to agree to
+
+                   a Sole Arbitrator as suggested by the Petitioner, and
+
+                   neither has the Respondent proposed the name of any
+
+                   other arbitrator, the present Petition has been filed.
+2.                 In this factual backdrop, Ms. Nyati, the learned
+
+counsel appearing on behalf of the Petitioner, submitted that there
+
+was no reason why this Court ought not to appoint an arbitrator as
+
+contemplated under
+Section 11
+of the Arbitration and Conciliation
+
+Act, 1996. She submitted that in the facts of the present case,
+
+admittedly there was an arbitration clause that was contained in
+
+the sub-contract dated 14th June, 2013. Pursuant to this clause,
+
+the Petitioner had invoked arbitration and had called upon the
+
+Respondent to agree to the appointment of the Sole Arbitrator as
+
+suggested by the Petitioner. As the Respondent had failed to do so,
+
+the present application was filed. She therefore submitted that
+
+there was no impediment on this Court in invoking the provisions
+
+of
+Section 11
+and referring the disputes and differences arising
+
+out of the sub-contract dated 14th June, 2013 to a Sole Arbitrator
+
+as contemplated under the contract.
+Aswale                                   6/31
+::: Uploaded on - 09/03/2018                 ::: Downloaded on - 10/03/2018 01:54:07 :::
+arp.24.17.doc
+3.                 On the other hand, Mr. Kamat, the learned counsel
+
+appearing on behalf of the Respondent, submitted that in the facts
+
+of the present case, the relief of appointing the Arbitrator cannot
+
+be granted on two grounds. They are:-
+(i)      the contract is undisputedly unstamped and by
+                            appointing an Arbitrator, this Court would be
+                            acting upon an unstamped document which
+                            would be in violation of the provisions of
+Sections
+                            33
+and
+34
+of the Maharashtra Stamp Act, 1958.
+He submitted that it is common ground that the
+                            present contract is a 'works contract' as defined
+                            by Article 63 of the Maharashtra Stamp Act,
+                            1958 and as per Section 30 (f) (a) thereof, the
+                            obligation to pay stamp duty on works contract
+                            is on the person who has received the contract,
+                            namely the Petitioner in the present case; and
+(ii)     the invocation of arbitration in the present case
+                            is premature as the Petitioner has not followed
+                            the mandatory pre-arbitral agreed procedure
+                            prescribed by the arbitration agreement.
+4.                 On the first issue (of stamping), Mr. Kamat submitted
+
+that though an arbitration agreement, in law, is a separate
+
+contract and is independent from the underlying contract, the
+
+same required stamping before the parties could be referred to
+Aswale                                      7/31
+::: Uploaded on - 09/03/2018                   ::: Downloaded on - 10/03/2018 01:54:07 :::
+arp.24.17.doc
+
+
+arbitration. In support of this proposition, Mr. Kamat relied upon
+
+following decisions:-
+(
+i)      SMS Tea Estates Pvt Ltd v/s Chandmari Tea
+                            Company Pvt Ltd
+reported in (2011) 14 SCC.
+66.
+(ii) Chenbasapa and Another v/s Lakshman
+                        Ramchandra reported in 18 Bom LR 370.
+(
+iii) Yasodammal and Another v/s Janaki Ammal
+reported in 1967 (81) LW 2 (Madras High
+                         Court)
+(iv) Sohan Lal Nihal Chand v Raghu Nath Singh
+                        and Others reported in AIR 1934 Lahor 606.
+(v) Maung Po Chein v/s CRVVV Chettyar Firm
+                       reported in AIR 1935 Rangoon 282.
+(vi) Deepak Corporation, Bombay v/s Puspha
+                        Prahlad Nanderjog reported in (1995) 1
+                        Mh.L.J. 489.
+(vii) Lakdawala Developers Pvt Ltd v/s Badal
+                         Mittal and Others; Appeal (L) No.272 of 2013
+                         in Arbitration Petition No.221 of 2013
+                         decided on 25th June, 2013.
+5.                 As far as the second issue is concerned, namely that
+
+the arbitration was premature and therefore the pre-arbitral
+
+procedure of amicably settling the matter was not resorted to, Mr.
+
+Kamat relied upon the decision of the Supreme Court in the case of
+Iron and Steel Co Ltd v/s Tiwari Road Lines
+reported in
+
+(2007) 5 SCC 703.
+Aswale                                   8/31
+::: Uploaded on - 09/03/2018              ::: Downloaded on - 10/03/2018 01:54:07 :::
+arp.24.17.doc
+6.
+In rejoinder, Ms. Nyati, the learned counsel for the
+
+Petitioner, submitted that the reliance placed by the Respondent
+
+on the aforesaid decisions and more particularly in the case of
+SMS Tea Estates Pvt Ltd
+(supra), was wholly misplaced. Ms.
+
+Nyati was at pains to point that after all these decisions were
+
+passed, the
+Arbitration and Conciliation Act, 1996
+has been
+
+amended            and
+Section     11
+(6-A)     has   been    inserted        which
+
+categorically contemplates that this Court, whilst appointing an
+
+arbitrator, must confine itself to the examination of the existence
+
+of an arbitration agreement. In the facts of the present case, she
+
+submitted that the Respondent had not denied the existence of the
+
+arbitration agreement and even assuming for the sake of
+
+argument that the document required stamping, the same did not
+
+affect the existence of the arbitration agreement or even the
+
+agreement as a whole. She was at pains to point out that this
+
+Court must not go into the issue of enforceability or validity of the
+
+agreement after the amendment to
+Section 11
+in 2015.                                  She
+
+submitted that the Legislature has consciously restricted judicial
+
+intervention under
+Section 11
+in the clearest words possible to
+
+only the examination of the existence of the arbitration agreement
+Aswale                                       9/31
+::: Uploaded on - 09/03/2018                      ::: Downloaded on - 10/03/2018 01:54:07 :::
+arp.24.17.doc
+
+
+and nothing more. She submitted that no case was made out to
+
+expand the scope of judicial intervention under
+Section 11
+(6-A)
+
+to include the issue of validity, enforceability etc. According to
+
+Ms. Nyati, this was further emphasized by virtue of
+Section 11
+
+(13)
+which was inserted again by the 2015 amendment. In this
+
+regard, she also placed reliance on the report of the Law
+
+Commission of India (Report No. 246) which was for the
+
+amendment to the
+Arbitration and Conciliation Act, 1996
+. She
+
+laid great stress on paragraphs 28 to 33 of this report which deals
+
+with the Scope and Nature of Pre-Arbitral Judicial Intervention to
+
+point out all that the Court has to look at is whether there exists
+
+an arbitration agreement between the parties and nothing more or
+
+nothing less. All other issues are to be left to be decided by the
+
+arbitrator, once appointed under
+Section 11
+.
+She therefore
+
+submitted that the reliance placed by Mr. Kamat on the judgment
+
+of the Supreme Court in the case of
+SMS Tea Estates Pvt Ltd
+(supra), was wholly misplaced.
+7.                 Without prejudice to the aforesaid argument, Ms.
+
+Niyati submitted that in the facts of the present case the clause
+
+titled as " Royalties, Licenses, Mining Permits and other statutory
+Aswale                                  10/31
+::: Uploaded on - 09/03/2018           ::: Downloaded on - 10/03/2018 01:54:07 :::
+arp.24.17.doc
+
+
+requirements etc" clearly envisages that it was the Respondent
+
+who had to pay all the necessary levies / fees / taxes / duties /
+
+royalties and hence the Respondent could not defeat the
+
+arbitration agreement by taking a dishonest defence that the
+
+document was insufficiently stamped, when the liability to pay the
+
+stamp duty, if any, was clearly on the Respondent.
+8.                 As far as invocation of the arbitration being premature
+
+is concerned, Ms. Nyati submitted that the facts of the present
+
+case would clearly establish that there was no scope for any
+
+amicable settlement. According to her, both parties had taken a
+
+rigid stand by making allegations and counter allegations as well
+
+as raising counter claims against each other. This, according to
+
+Ms. Nyati, was clear from a bare perusal of the letters dated 7th
+
+October, 2015 (Exhibit-D) and 24th October, 2015 (Exhibit-E) to
+
+the application.                Over and above this, she submitted that
+
+notwithstanding the above, after the dispute had arisen and the
+
+contract was terminated, Mr. Vivek Bansal (the Petitioner's Group
+
+CEO) addressed numerous requests between 24th March, 2015 to
+
+11th May, 2015 to Mr. Tiru Kulkarni, (Respondent's Vice
+
+President) to schedule a meeting for negotiation. Despite this,
+
+there was no response forthcoming. In these circumstances, Ms.
+Aswale                                     11/31
+::: Uploaded on - 09/03/2018               ::: Downloaded on - 10/03/2018 01:54:07 :::
+arp.24.17.doc
+
+
+Nyati submitted that in any event the said requests are in
+
+sufficient compliance with the Arbitration Clause and therefore it
+
+was incorrect to contend that invocation of the arbitration was
+
+premature.
+In support of this submission, Ms. Nyati relied upon a
+
+decision of the Supreme Court in the case of
+Visa International
+
+Limited v/s Continental Resources (USA) Ltd.
+reported in AIR
+
+2009 SC 1366.
+9.                 I have heard the learned counsel for the parties at
+
+length and have perused the papers and proceedings in the
+
+present matter.                I shall first deal with the argument of the
+
+Respondent that the invocation of the arbitration was premature.
+
+In this regard, I find considerable force in the argument canvassed
+
+by Ms. Nyati. The Arbitration Clause which has been invoked in
+
+the facts of the present case (and which has been reproduced
+
+above) states that any and all claims, disputes etc which cannot be
+
+finally resolved by such parties through negotiation, shall be
+
+resolved by a final and binding arbitration to be held in Pune. In
+
+the affidavit in rejoinder filed on behalf of the Petitioner, in
+
+paragraph 4, it is categorically denied that the Petitioner never
+
+initiated any settlement, negotiation and/or resolution process. It
+
+has been further stated that the Petitioner acting through Mr.
+Aswale                                     12/31
+::: Uploaded on - 09/03/2018                 ::: Downloaded on - 10/03/2018 01:54:07 :::
+arp.24.17.doc
+
+
+Vivek Bansal, the Group-CEO, addressed numerous requests to Mr.
+
+Tiru Kulkarni, Vice President of the Respondent to schedule a
+
+meeting for negotiation. Despite these requests, the Respondent
+
+was not forthcoming. To substantiate this contention, the
+
+Petitioner has annexed at Exhibit A to the said affidavit, text
+
+messages exchanged between the Petitioner and the Respondent
+
+between 24th March, 2015 to 11th May, 2015.                      These messages
+
+were sent on Whatsapp.                  On going through Exhibit-A and which
+
+has not been denied by the Respondent, I find that the Petitioner
+
+had made several requests for a meeting to resolve the matter
+
+without any success.                    This being the case, I do not find any
+
+substance in the argument on behalf of the Respondent that since
+
+there was no negotiation between the parties before invoking the
+
+arbitration, the same was premature. From these text messages
+
+(sent on Whatsapp), it is quite clear that on several occasions, a
+
+request was made for a meeting to which there was no positive
+
+response.           This being the case, I find that the Petitioner was fully
+
+justified in invoking the arbitration clause as contained in
+
+Annexure-III to the sub-contract dated 14th June, 2013 (the
+
+commercial terms and conditions).
+10.                Having said this, I shall now turn my attention to the
+Aswale                                        13/31
+::: Uploaded on - 09/03/2018                    ::: Downloaded on - 10/03/2018 01:54:07 :::
+arp.24.17.doc
+
+
+main issue, namely whether I can refer the parties to arbitration
+
+on the basis of what the Respondent alleges is an unstamped
+
+document.
+Section 11
+of the Arbitration and Conciliation Act,
+
+1996 deals with appointment of arbitrators. The entire procedure
+
+has been laid down under the said section as to how the arbitrator
+
+/ arbitrators are to be appointed by the Court when the parties fail
+
+to agree on the appointment of the arbitrator / arbitrators. What
+
+is really relevant for my purpose are the amendments that are
+
+carried out to
+Section 11
+by Act 3 of 2016 w.r.e.f. 23rd October,
+
+2015 (amendment of 2015). By virtue of the amendment of 2015,
+
+sub-section 6-A was inserted in
+Section 11
+which reads thus:-
+"(6-A) The Supreme Court or, as the case may be, the High Court,
+                   while considering any application under sub-section (4) or sub-
+                   section (5) or sub-section (6), shall, notwithstanding any
+                   judgment, decree or order of any court, confine to the
+                   examination of the existence of an arbitration agreement."
+11.                What can be seen from a plain reading of this sub-
+
+section is that the Supreme Court or as the case may be the High
+
+Court, while considering any application under sub-section (4) or
+
+sub-section           (5)     or        sub-section   (6)   of
+Section        11
+shall,
+
+notwithstanding any judgment, decree or order of any Court,
+Aswale                                           14/31
+::: Uploaded on - 09/03/2018                            ::: Downloaded on - 10/03/2018 01:54:07 :::
+arp.24.17.doc
+
+
+confine itself to the examination of the existence of an arbitration
+
+agreement. The purpose for bringing this provision into force can
+
+be seen from the 246th Report of the Commission on '
+Amendment
+
+to the Arbitration and Conciliation Act, 1996
+'. Paragraphs 28
+
+to 33 deal with 'scope and nature of pre-arbitral judicial
+
+intervention.' After referring to certain decisions of the Supreme
+
+Court and more particularly under
+Section 11
+of the Act, the
+
+Commission in paragraph 33 has stated thus:-
+"33. It is in this context, the Commission has recommended
+              amendments to
+sections 8
+and
+11
+of the Arbitration and Conciliation
+              Act, 1996. The scope of the judicial intervention is only restricted to
+              situations where the Court/Judicial Authority finds that the
+              arbitration agreement does not exist or is null and void. In so far as
+              the nature of intervention is concerned, it is recommended that in the
+              event the Court / Judicial Authority is prima facie satisfied against
+              the argument challenging the arbitration agreement, it shall appoint
+              the arbitrator and/or refer the parties to arbitration, as the case may
+              be. The amendment envisages that the judicial authority shall not
+              refer the parties to arbitration only if it finds that there does not
+              exist an arbitration agreement or that it is null and void. If the
+              judicial authority is of the opinion that prima facie the arbitration
+              agreement exists, then it shall refer the dispute to arbitration, and
+              leave the existence of the arbitration agreement to be finally
+              determined by the arbitral tribunal. However, if the judicial authority
+              concludes that the agreement does not exist, then the conclusion will
+              be final and nor prima facie. The amendment also envisages that
+              there shall be a conclusive determination as to whether the
+              arbitration agreement is null and void. In the event that the judicial
+              authority refers the dispute to arbitration and/or appoints an
+              arbitrator, under
+sections 8
+and
+11
+respectively, such a decision will
+              be final and non-appealable. An appeal can be maintained under
+section 37
+only in the event of refusal to refer parties to arbitration,
+Aswale                                       15/31
+::: Uploaded on - 09/03/2018                      ::: Downloaded on - 10/03/2018 01:54:07 :::
+arp.24.17.doc
+
+              or refusal to appoint an arbitrator."
+(emphasis supplied)
+12.                What can be seen from this paragraph is that the scope
+
+of judicial intervention is only restricted to situations where the
+
+Court/Judicial Authority finds that the arbitration agreement
+
+does not exist or is null and void. The only reason why I refer to
+
+paragraph 33 is to ascertain the intention of the Legislature for
+
+the purposes of inserting sub-section 6-A to
+Section 11
+of the
+
+Arbitration and Conciliation Act, 1996. Another important and
+
+telling factor can also be found in the Statement of Objects and
+
+Reasons. This clearly states that India has been ranked at 178 out
+
+of 189 nations in the world in contract enforcement. It is therefore
+
+high time that urgent steps are taken to facilitate quick
+
+enforcement of contracts, easy recovery of monetary claims and
+
+award of just compensation for damages suffered, and reduce the
+
+pendency of cases in courts and hasten the process of dispute
+
+resolution through arbitration, so as to encourage investment and
+
+economic activity.               It is in these circumstances that clause 6 of
+
+the Amendment Bill states that sub-section 6-A is inserted to
+
+provide that the Supreme Court or the High Court, while
+
+considering the application under sub-
+sections 4
+to
+6
+, shall confine
+Aswale                                       16/31
+::: Uploaded on - 09/03/2018                     ::: Downloaded on - 10/03/2018 01:54:07 :::
+arp.24.17.doc
+
+
+itself to the examination of the existence of the arbitration
+
+agreement. When one looks at the intention of the Legislature for
+
+bringing about this amendment, I find considerable force in the
+
+argument of Ms Nyati that what has to be looked into is only about
+
+the existence of the arbitration agreement and nothing more or
+
+nothing less.
+13.                In the facts of the present case, and as rightly
+
+submitted by Ms. Nyati, the existence of the arbitration agreement
+
+is not disputed. Even assuming for the sake of argument that the
+
+document is insufficiently stamped, that would not by itself affect
+
+the existence of the arbitration agreement that was contained in
+
+the sub-contract awarded by the Respondent to the Petitioner
+
+dated 14th June, 2013. In fact, Mr. Kamat, the learned counsel
+
+appearing for the Respondent, fairly conceded before me that
+
+there was no dispute about the existence of the arbitration
+
+agreement. This being the case, I find that the reliance placed by
+
+Ms. Nyati on sub-section 6-A of
+Section 11
+is clearly well founded.
+In the view that I take, I am supported by a decision of the
+
+Supreme Court in the case of
+Duro Felguera, S. A. v/s
+
+Gangavaram Port Limited
+reported in (2017) 9 SCC 729. The
+Aswale                                  17/31
+::: Uploaded on - 09/03/2018           ::: Downloaded on - 10/03/2018 01:54:07 :::
+arp.24.17.doc
+
+
+Supreme Court after considering
+Section 11
+prior to its
+
+amendment and also after its amendment, at paragraph 19
+
+observed thus:-
+"19. The effect of the
+Arbitration and Conciliation
+                   (Amendment) Act, 2015
+in
+Section 11
+of the Act has been
+                   succinctly elucidated in the textbook "Law Relating to
+                   Arbitration and Conciliation" by Dr P.C. Markanda, which
+                   reads as under:
+"The changes made by the amending Act are as follows:
+1. The words 'Chief Justice or any person or institution
+                   designated by him' shall be substituted by the words 'the
+                   Supreme Court or, as the case may be, the High Court or any
+                   person or institution designated by such Court'. Thus, now it is
+                   not only the Chief Justice who can hear applications under
+Section 11
+, the power can be delegated to any Judge as well.
+2. As per sub-section (6-A), the power of the Court has now
+                   been restricted only to examination of the existence of an
+                   arbitration agreement. Earlier, the Chief Justice had been given
+                   the power to examine other aspects as well i.e. limitation,
+                   whether the claims were referable for arbitration, etc. in terms of
+                   the judgments of the Supreme Court in SBP and Co. v. Patel
+                   Engg. Ltd. [SBP and
+Co. v. Patel Engg. Ltd.
+, (2005) 8 SCC 618]
+                   and National Insurance Co. Ltd. v. Boghara Polyfab (P)
+                   Ltd. [National Insurance Co. Ltd. v. Boghara Polyfab (P) Ltd.,
+                   (2009) 1 SCC 267 : (2009) 1 SCC (Civ) 117] Now all preliminary
+                   issues have been left for the Arbitral Tribunal to decide in terms
+                   of
+Section 16
+of the Act.
+3. The amending Act has categorically provided in sub-
+section (6-B) that designation of any person or institution by the
+                   Supreme Court or High Court would not be construed as
+                   delegation of judicial power. The order passed by a designated
+                   person or institution would continue to be regarded as a judicial
+                   order.
+4. It has been provided in sub-section (7) that the order
+                   passed under this section shall not be appealable. This change
+                   means that finality is attached to the order passed under this
+                   section and it would not be subject to further examination by an
+                   appellate court.
+5. Sub-section (8) has been amended to bring it in conformity
+                   with amended
+Section 12
+with regard to ensuring independence
+                   and impartiality of the arbitrator. Before appointing any
+                   arbitrator, a disclosure in writing has to be obtained in terms of
+Section 12(1)
+of the Act. This is to ensure that the appointed
+Aswale                                       18/31
+::: Uploaded on - 09/03/2018                      ::: Downloaded on - 10/03/2018 01:54:07 :::
+arp.24.17.doc
+
+                   arbitrator shall be independent and impartial and also
+                   harmonizes the provisions of
+Sections 11
+and
+12
+of the Act.
+6. The amending Act has introduced sub-section (13) which
+                   provides that the disposal of the application under this section
+                   has to be expeditious and endeavour shall be made to dispose of
+                   the application within a period of 60 days from the date of service
+                   of notice on the opposite party. This sub-section would ensure
+                   speedy disposal of applications under this section and all
+                   contentious issues have been left to be decided by the Arbitral
+                   Tribunal.
+7. For determining the fee structure of the Arbitral Tribunal, it
+                   has been recommended that the High Courts may frame the
+                   necessary rules and for that purpose, a model fee structure has
+                   been provided in the Fourth Schedule of the amending Act.
+                   However, this sub-section would not be applicable for the fee
+                   structure in case of international commercial arbitrations and
+                   domestic arbitrations where the parties have agreed for
+                   determination of fee as per rules of an arbitral institution. This
+                   sub-section has been inserted to ensure a reasonable fee
+                   structure since the cost of arbitration has increased manifold due
+                   to high charges being levied on the parties by the Arbitral
+                   Tribunal and other incidental expenses."
+[Reference: Law Relating to Arbitration and Conciliation by
+                   Dr P.C. Markanda; Lexis Nexis, 9th Edn., p. 460]"
+14.                Thereafter in paragraph 47, the Supreme Court has
+
+discussed what is the effect of the change introduced by
+Arbitration and Conciliation (Amendment Act
+), 2015 and with
+
+particular reference to
+Section 11 (6)
+and the newly added
+Section
+
+11
+(6-A). In this regard at paragraphs 47 and 48 read as under:-
+"47. What is the effect of the change introduced by the
+Arbitration and Conciliation (Amendment) Act, 2015
+(hereinafter referred to as "the 2015 Amendment") with
+                   particular reference to
+Section 11(6)
+and the newly added
+Section 11
+(6-
+A) of the Arbitration and Conciliation Act, 1996
+(hereinafter referred to as "the 1996 Act") is the crucial
+                   question arising for consideration in this case.
+Aswale                                        19/31
+::: Uploaded on - 09/03/2018                       ::: Downloaded on - 10/03/2018 01:54:07 :::
+arp.24.17.doc
+48.
+Section 11
+(6-A) added by the 2015 Amendment, reads as
+                   follows:
+"11. (6-A) The Supreme Court or, as the case may be, the
+                       High Court, while considering any application under sub-
+                       section (4) or sub-section (5) or sub-section (6),
+                       shall, notwithstanding any judgment, decree or order of any
+                       court, confine to the examination of the existence of an
+                       arbitration agreement."
+(emphasis supplied)
+
+                   From a reading of
+Section 11
+(6-A), the intention of the
+                   legislature is crystal clear i.e. the court should and need only
+                   look into one aspect--the existence of an arbitration
+                   agreement. What are the factors for deciding as to whether
+                   there is an arbitration agreement is the next question. The
+                   resolution to that is simple--it needs to be seen if the
+                   agreement contains a clause which provides for arbitration
+                   pertaining to the disputes which have arisen between the
+                   parties to the agreement."
+(emphasis supplied)
+15.                On a plain reading of this decision, it is ex-facie clear
+
+that the Supreme Court has opined that the intention of the
+
+Legislature is crystal clear i.e. the court should and need only look
+
+into one aspect, namely the existence of an arbitration agreement.
+
+What are the factors for deciding as to whether there is an
+
+arbitration agreement, the Supreme Court has clearly stated that
+
+it needs to be seen if the agreement contains a clause which
+
+provides for arbitration pertaining to the disputes which have
+
+arisen between the parties to the agreement. That would suffice.
+Aswale                                      20/31
+::: Uploaded on - 09/03/2018                    ::: Downloaded on - 10/03/2018 01:54:07 :::
+arp.24.17.doc
+16.                In the facts of the present case, there is no dispute
+
+with reference to the existence of the arbitration agreement. This
+
+being the case, I find that Mr. Kamat is not correct in submitting
+
+that the dispute cannot be referred to arbitration merely because
+
+the sub-contract dated 14th June, 2013 (and in which the
+
+arbitration clause is contained), is an unstamped document.
+17.                There is yet another reason for taking this view. It is
+
+now well settled that the provisions of the
+Stamp Act
+are enacted
+
+for the purposes of securing the revenue for the Government and
+
+not to arm a dishonest litigant with a technical defence. If one
+
+needs to refer to any decision on this aspect, the observations of
+
+the Supreme Court in the case of
+Hindustan Steel Ltd v/s
+
+Messrs Dilip Construction Company
+reported in (1969) 1 SCC
+
+597 are apposite. The relevant paragraph reads thus:-
+"7.
+The Stamp Act
+is a fiscal measure enacted to secure
+                   revenue for the State on certain classes of instruments: It is
+                   not enacted to arm a litigant with a weapon of technicality to
+                   meet the case of his opponent. The stringent provisions of the
+                   Act are conceived in the interest of the revenue once that
+                   object is secured according to law, the party staking his claim
+                   on the instrument will not be defeated on the ground of the
+                   initial defect in the instrument. Viewed in that light the
+                   scheme is clear.
+Section 35
+of the Stamp Act operates as a bar
+                   to an unstamped instrument being admitted in evidence or
+                   being acted upon;
+Section 40
+provides the procedure for
+                   instruments being impounded, sub-section (1) of
+Section 42
+provides for certifying that an instrument is duly stamped,
+Aswale                                     21/31
+::: Uploaded on - 09/03/2018                    ::: Downloaded on - 10/03/2018 01:54:07 :::
+arp.24.17.doc
+
+
+                   and sub-section (2) of
+Section 42
+enacts the consequences
+                   resulting from such certification."
+(emphasis supplied)
+18.                In view of the foregoing discussion and with specific
+
+reference to
+section 11
+(6-
+A) of the Act
+, I am unable to agree with
+
+the submission of Mr. Kamat that this Court cannot refer the
+
+disputes to arbitration because the arbitration clause is contained
+
+in an unstamped document. It is not as if once the Arbitrator is
+
+appointed, the Respondent is precluded from raising the issue of
+
+stamping before the Arbitrator. The Arbitrator, if found that the
+
+document is insufficiently stamped, can always impound the same
+
+and send it to the necessary authorities under the
+Maharashtra
+
+Stamp Act, 1958
+for adjudication. This view of mine would also be
+
+in line with the decision of the Supreme Court in the case of
+Hindustan Steel Ltd
+(supra), which would ensure that the
+
+revenue is secured for the State and at the same time would not
+
+arm the litigant with the weapon of technicality to meet the case of
+
+the opponent.              I do not think that by accepting this technical
+
+defence, the Respondent can be allowed to frustrate and delay the
+
+arbitration proceedings.                This would clearly be contrary to the
+
+objects and reasons for which the amendments were brought
+
+about to
+Arbitration and Conciliation Act, 1996
+in 2015.
+Aswale                                        22/31
+::: Uploaded on - 09/03/2018                   ::: Downloaded on - 10/03/2018 01:54:07 :::
+arp.24.17.doc
+19.                Having said this, I shall now deal with the judgments
+
+relied upon by Mr. Kamat. The first decision relied upon by Mr.
+
+Kamat was in the case of
+SMS Tea Estates Private Limited
+(supra). In this case, the facts would reveal that the Appellant
+
+before the Supreme Court requested the Respondent therein to
+
+grant a long term lease in respect of two tea estates. Accordingly,
+
+a lease deed was executed under which the respondent granted a
+
+lease to the Appellant for a term of 30 years. Clause 35 of the said
+
+lease deed provided for settlement of disputes between the parties
+
+by arbitration. As the dispute arose between the parties, as per
+
+Clause 35 of the lease deed, the Appellant issued a notice calling
+
+upon the Respondent to refer the matter to arbitration.                      This
+
+application was opposed by the Respondent who contended that
+
+the unregistered lease deed was invalid, unenforceable and not
+
+binding upon the parties. The further contention was that the said
+
+lease deed was not duly stamped and therefore invalid,
+
+unenforceable and not binding, having regard to
+Section 35
+of the
+
+Stamp Act, 1899. In these facts, the matter went to the Supreme
+
+Court. Before the Supreme Court, three questions were raised,
+
+namely (i) Whether an arbitration agreement contained in an
+Aswale                                  23/31
+::: Uploaded on - 09/03/2018              ::: Downloaded on - 10/03/2018 01:54:07 :::
+arp.24.17.doc
+
+
+unregistered (but compulsorily registrable) instrument is valid
+
+and enforceable? (ii) Whether an arbitration agreement is an
+
+unregistered instrument which is not duly stamped, is valid and
+
+enforceable? (iii) Whether there is an arbitration agreement
+
+between the appellant and the respondent and whether an
+
+arbitrator should be appointed?
+20.                Whilst answering the first question, the Supreme Court
+
+inter alia held that when the contract contains an arbitration
+
+agreement, it is a collateral term relating to the resolution of
+
+disputes, unrelated to the performance of the contract. It is as if
+
+two contracts; one in regard to the substantive terms of the main
+
+contract and the other relating to resolution of disputes had been
+
+rolled into one, for the purposes of convenience. The Supreme
+
+Court held that therefore an arbitration clause is an agreement
+
+independent of the other terms of the contract or the instrument.
+
+Resultantly, even if the contract or its performance is terminated
+
+or comes to an end on account of repudiation, frustration or
+
+breach of contract, the arbitration agreement would survive for
+
+the purpose of resolution of disputes arising under or in
+
+connection with the contract. Similarly, when an instrument or
+
+deed of transfer or a document affecting immovable property
+Aswale                                  24/31
+::: Uploaded on - 09/03/2018              ::: Downloaded on - 10/03/2018 01:54:07 :::
+arp.24.17.doc
+
+
+contains an arbitration agreement, it is a collateral term relating
+
+to resolution of disputes, unrelated to the transfer or transaction
+
+affecting the immovable property. It is as if two documents, one
+
+affecting the immovable property requiring registration, and the
+
+other relating to resolution of disputes which is not compulsorily
+
+registrable, are rolled into a single instrument. Therefore, even if a
+
+deed of transfer of immovable property is challenged as not valid
+
+or unenforceable, the arbitration agreement would remain
+
+unaffected for the purpose of resolution of disputes arising with
+
+reference to the deed of transfer.
+The Supreme Court further went
+
+on to hold that having regard to
+Section 35
+of the Stamp Act,
+
+unless the stamp duty and penalty due in respect of the
+
+instrument is paid, the court cannot act upon the instrument,
+
+which means that it cannot act upon the arbitration agreement
+
+also which is part of the instrument. As far as the stamping issue
+
+is concerned, I find that this decision does support Mr. Kamat's
+
+contention. However, I find that this decision has lost its efficacy
+
+after the amendment to
+Section 11
+and more particularly
+Section
+
+11
+(6-A). What I must note is that
+SMS Tea Estates Private
+
+Limited
+(supra) was decided on 20th July, 2011 whereas the
+
+amendments to the
+Arbitration and Conciliation Act, 1996
+came
+Aswale                                  25/31
+::: Uploaded on - 09/03/2018           ::: Downloaded on - 10/03/2018 01:54:07 :::
+arp.24.17.doc
+
+
+into effect from 23rd October, 2015.
+Now, after the amendment
+
+and as held by the Supreme Court in the case of
+Duro Felguera, S.
+
+A.
+(supra), under sub-section 6-A of
+Section 11
+the power of the
+
+Court has now been restricted only to examination of the
+
+existence of the agreement and nothing more and nothing less.
+As
+
+stated earlier, the existence of the arbitration agreement has
+
+never been disputed, and in my view correctly so. This being the
+
+case, I find that the reliance placed by Mr. Kamat on the decision
+
+of the Supreme Court in the case of
+SMS Tea Estates Private
+
+Limited
+(supra), is wholly misconceived. Whether the document
+
+is properly stamped or not is an issue that can certainly be
+
+decided by the arbitrator once the matter is referred to
+
+arbitration. It is not as if the arbitrator is powerless to impound
+
+the document if found insufficiently stamped and thereafter
+
+forward to the appropriate authority for adjudication and
+
+recovery of stamp duty. Taking into consideration the purpose for
+
+which the amendments were brought about and especially the
+
+finding given in the 246th report of the Law Commission of India
+
+that India has been ranked at 178 out of 189 nations in the world
+
+for enforcement of contracts, I think this is exactly what the
+
+Legislature intended. In any event, the wording of
+Section 11
+(6-
+Aswale                                  26/31
+::: Uploaded on - 09/03/2018           ::: Downloaded on - 10/03/2018 01:54:07 :::
+arp.24.17.doc
+
+
+A) are clear and unambiguous and leave no real scope for judicial
+
+interpretation.
+21.                All the other decisions relied upon by Mr. Kamat with
+
+the exception of (Lakdawala Developers Pvt Ltd's case), were
+
+under the
+Stamp Act
+and were not with reference to any of the
+
+provisions of the
+Arbitration and Conciliation Act, 1996
+.                        I,
+
+therefore, find that the reliance placed on these decisions is wholly
+
+misconceived.
+22.                As far as the reliance placed by Mr. Kamat on a
+
+Division Bench Judgment in the case of Lakdawala Developers
+
+Pvt Ltd (supra) is concerned, I find that this judgment also was
+
+passed on 25th June, 2013 which was much prior to the
+
+amendment of the
+Arbitration and Conciliation Act, 1996
+in 2015.
+Furthermore, this judgment follows the decision of the Supreme
+
+Court in the case of
+SMS Tea Estates Private Limited
+(supra).
+
+What is also important to note is that this decision was not
+
+rendered with reference to
+Section 11
+of the Arbitration and
+
+Conciliation Act, 1996 but was rendered under
+Section 9
+of the
+
+said Act. The facts of this case would reveal that the Respondent
+
+before the Division Bench had filed an application under
+Section 9
+Aswale                                  27/31
+::: Uploaded on - 09/03/2018              ::: Downloaded on - 10/03/2018 01:54:07 :::
+arp.24.17.doc
+
+
+for certain interim reliefs. In that application, the appellant before
+
+the Division Bench took up the contention that the MOU was
+
+insufficiently stamped and that in consequence, the document
+
+could not be acted upon unless the stamp duty and penalty, if any,
+
+payable thereon was adjudicated upon. The learned Single Judge
+
+held that whether the MOU was insufficiently stamped or not,
+
+could be decided in the arbitral proceedings before the arbitrator
+
+and the arbitration agreement could be delinked from the other
+
+provisions of the MOU so as to enable the Court to grant interim
+
+measures.
+It is in these circumstances that the Division Bench
+
+held that the view taken by the learned Single Judge was prima
+
+facie contrary to the decision of the Supreme Court in the case of
+SMS Tea Estates Private Limited
+(supra).
+Apart from what I
+
+have stated with reference to the decision in the case of
+SMS Tea
+
+Estates Private Limited
+(supra), I find that this decision is
+
+wholly distinguishable on facts as different considerations would
+
+apply when a party applies for interim measures under
+section 9
+and when it applies for appointment of the arbitrator under
+Section 11
+of the Arbitration and Conciliation Act, 1996.                          I,
+
+therefore, find that the reliance placed on this decision also is
+
+wholly misplaced.
+Aswale                                  28/31
+::: Uploaded on - 09/03/2018               ::: Downloaded on - 10/03/2018 01:54:07 :::
+arp.24.17.doc
+23.                Before parting, I must also mention that prima facie I
+
+find the argument made by Ms. Nyati that the liability to pay
+
+stamp duty was on the Respondent herein, well founded. The
+
+clause which was relied upon by Ms. Nyati reads thus:-
+"ROYALTIES / LICENSES/ MINING PERMITS / OTHER STATUTORY
+               REQUIREMENTS ETC
+               It will be GWRL responsibility to obtain all requisite statutory
+               Licenses/Permits      from     various   Government        State/Local
+               Bodies/Authorities (apart from MoEF, CRZ and state pollution
+               control board permissions which are in scope of ICZMP, State
+               Project Management Unit-Odisha being owner), and to pay
+               necessary levies/fees/taxes/duties/royalties (if applicable to GWRL
+               scope of work), costs thereof at their own cost. COMACOE's
+               responsibility will be limited to labour license and maintenance of
+               proper record of such payments and submit the royalty receipts
+               along with each invoice to GWRL."
+24.                On going through this clause carefully, I am prima
+
+facie satisfied that the liability to pay stamp duty was that of the
+
+Respondent. If the stamp duty, if any, has not been paid by the
+
+Respondent, the Respondent cannot take advantage of its own
+
+wrong and frustrate the arbitration agreement between the
+
+parties. If I was to do that, it would be only adding premium to
+
+dishonesty.           Having said this, I must make it clear that these
+
+observations are only prima facie and if the arbitrator finds that
+
+the document is in fact insufficiently stamped, and directs further
+Aswale                                      29/31
+::: Uploaded on - 09/03/2018                     ::: Downloaded on - 10/03/2018 01:54:07 :::
+arp.24.17.doc
+
+
+action on the same, it will be for the appropriate authorities to
+
+adjudicate the stamp duty as well as who is liable to pay the same.
+
+For all the foregoing reasons, the following order is passed:-
+(a)      The Arbitration Petition is allowed.
+
+
+
+                   (b)      Mr. Mihir Naniwadekar (Advocate) is appointed
+
+                            as a Sole Arbitrator under Section 11 of the
+
+                            Arbitration    and    Conciliation       Act,     1996        to
+adjudicate upon the disputes which have been
+
+                            arisen      between      the   Petitioner        and        the
+
+                            Respondent herein under or in relation to and/or
+
+                            connected with the sub-contract dated 14th June,
+
+                            2013.
+(c)      The Petitioner herein shall file the disclosures of
+
+                            by the Sole Arbitrator in the Registry as
+
+                            contemplated under
+Section 11 (8)
+r/w
+Section
+
+                            12 (1)
+of the Arbitration and Conciliation Act,
+
+                            1996 within a period of two weeks from today.
+(d)      The Sole Arbitrator shall give all further
+Aswale                                       30/31
+::: Uploaded on - 09/03/2018                       ::: Downloaded on - 10/03/2018 01:54:07 :::
+arp.24.17.doc
+
+
+                            directions with reference to the fees of the
+
+                            arbitrator and how they are to be paid. All
+
+                            further directions regarding the filing of the
+
+                            Statement of Claim and Statement of Defence
+
+                            and /or counter claim shall be given by the
+
+                            arbitrator.
+The Arbitration Petition is disposed of in the aforesaid terms.
+
+However, there shall be no order as to costs.
+(B. P. COLABAWALLA, J.)
+Aswale                                     31/31
+::: Uploaded on - 09/03/2018                ::: Downloaded on - 10/03/2018 01:54:07 :::

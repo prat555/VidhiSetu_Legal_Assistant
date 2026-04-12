@@ -1,0 +1,1643 @@
+Title: Search
+Court: High Court
+Date: 41 to 1946
+Citation: citations: AIR1960ALL19, [1960]40ITR222(ALL), AIR 1960 ALLAHABAD 19, ILR (1959) 2 ALL 451 (1960) 40 ITR 222, (1960) 40 ITR 222
+Source: https://indiankanoon.org/doc/1345003/
+
+[Cites
+78
+, Cited by
+16
+]
+Allahabad High Court
+Jai Kishan Srivastava vs Income-Tax Officer, Kanpur And Anr. on 15 May, 1959
+Equivalent citations: AIR1960ALL19, [1960]40ITR222(ALL), AIR 1960 ALLAHABAD 19, ILR (1959) 2 ALL 451 (1960) 40 ITR 222, (1960) 40 ITR 222
+Author:
+V. Bhargava
+Bench:
+V. Bhargava
+JUDGMENT
+ 
+
+ Bhargava, J.
+1. These two connected writ petitions under
+Article 226
+of the Constitution have been referred for decision to the Full Bench as they raise important questions relating to the validity of certain provisions of the
+Income-tax Act
+, (hereinafter referred to as 'the Act.'). For convenience, I am giving the facts of one of these writ petitions which is numbered 397 of 1955 in which the petitioner is Jai Kishan Srivastava. The petitioner, on the basis of return submitted by him to the Income-tax Officer, Kanpur, was assessed to tax for the assessment years 1940-41 to 1946-47.
+Thereafter.   On   17-5-1948, he  received   notices from the   Secretary, Income-tax Investigation Commission by which he was informed that his case had been referred to the Commission under
+Section 5(1)
+of the Taxation on Income Investigation Act, 1947: By these notices, the petitioner was directed to furnish to the Income-lax Investigation Commission certain information and to comply with certain other requirements mentioned therein. The petitioner, under the impression that the Commission had authority and jurisdiction to proceed with the investigation of the petitioner's case, supplied most of the information sought and complied with the various requisitions.
+The Income-tax Investigation Commission did not, however, proceed to the stage of framing any charges against the petitioner or giving a hearing to him and was wound up before the proceedings could be competed. Thereafter, on 29-12-1954, the petitioner received seven notices purporting to be issued under
+Section 34(1A)
+of the Act from the Income-tax Officer, District 1 (ii), Kanpur, opposite party No. 1, calling upon him to submit returns of his total income assessable to tax for the seven assessment years mentioned above. The notices contained a mention that, in case the petitioner failed to file the returns as required, ho was liable to ex parts assessment under
+Section 23(4)
+of the Act and also to penalty and prosecution.
+Thereupon, the petitioner sent a letter dated 29-1-1955, asking for two months' time to obtain legal advice and to prepare returns. Time was allowed to him up to 28-2-1955. The petitioner asked for further time by his letter dated 26-2-1955, when he was informed by the Income-tax Officer, Central Circle 1, Kanpur, opposite party No. 2, that his case had been transferred to his file and that no further time could be allowed, so that the petitioner must file his returns within three days.
+The petitioner made further representations and then  he was allowed time up to 25-3-1955. The petitioner sent a letter dated 24-3-1955, requesting the opposite party No. 2 to supply him with the reasons for the issue of notices under
+Section 34(1A)
+of the Act, as recorded by him and forwarded to the Central Board of Revenue for their satisfaction and to grant further time to the petitioner; but, by his letter dated 31-3-1955, opposite party No. 2 refused these requests.
+Thereupon, the petitioner, under protest, filed his returns of income. The petitioner also pointed out to opposite party No. 2 that, according to him, the notices were bad in law and untenable and requested the opposite-parties viz., both the Income-tax Officers, to recall the notices and to abandon the proceedings being taken under them but the opposite-parties did not accept this request, Thereupon, the petitioner moved this petition on 25-4-1955, and this Court, when admitting the petition, passed an interim order restraining the opposite-parties from taking any steps in pursuance of the notices given to the petitioner under
+Section 34(1A)
+of the Act.
+2. The validity of the notices and the proceedings being taken under these notices were challenged by the petitioner on a number of grounds but only two grounds need detailed consideration in this case because, though the other grounds were not given up by Mr. Pathak who argued the case On behalf of the petitioner, he did not advance any arguments before us in respect of those grounds. The two grounds for challenging the notices and the proceedings which were urged before the Full Bench, were: (1) that
+Section 34
+(1
+A) of the Act
+was ultra vires
+Article 14
+of the Constitution as it denied equality before the law because persons, who could be dealt with under
+Section 34(1A)
+, could also be dealt with under
+Section 34(1)
+of the Act, and (2) that the proceedings, which were being taken by the Income-tax Officer, were of a judicial or quasi-judicial nature and the Income-tax Officer was a person who had a bias because he Or the Central Board of Revenue, under whom he was employed, was interested as a party in these proceedings. These are the two points that mainly need consideration by us.
+3. In considering the first point, which has been raised before us,
+Section 34
+, which has to be interpreted by us, must be read as it stood in the year 1954, when these seven impugned notices were issued to the petitioner. In
+Section 34(1)
+, the relevant provision is that which relates to Clause (a) and which, after omitting the parts relevant to Clause (b) reads as follows:
+"34. (1) If--
+(a) the Income-tax Officer has reason to believe that  by  reason   of  the omission or failure   on  the part of an assessee to make a return of his income under
+Section 22
+for any year or to disclose fully and truly   all  material facts     necessary   for  his   assessment for that year, income, profits or gain chargeable to income-tax have escaped assessment for that year,   or   have  been under-assessed,   or  assessed at too low a rate, or have been made the subject of excessive  loss   or  depreciation allowance  has  been computed   ....   .....   ....   ....
+he may in cases falling under cl.  (a) at any time within eight   years   ...... serve  on the  assessee, or, if the assesses is a company, on the principal officer thereof, a notice containing all or any of the requirements which may be included in a notice under Sub-section (2) of
+Section 22
+and may proceed to assess or re-assess such income, profits or gains or recompute the loss or depreciation allowance and the provisions of this Act shall, so far as may be, apply accordingly as if the notice were a notice issued under that sub-section :
+Provided that --
+(i) the Income-tax Officer shall not issue a notice under this sub-section, unless he has recorded his reasons for doing so and the Commissioner is satisfied on such reasons recorded that it is a fit case for the issue of such notice;
+(ii) the tax shall be chargeable at the rate at which it would have been charged had the income profits or gains not escaped assessment or full assessment, as the case may be; and
+(iii) where the assessment made or to be made is an assessment made or to be made on a person deemed to be the agent of a non-resident person under
+section 43
+, this sub-section shall have effect as if for the periods of eight years ..... a period of one year was substituted.
+Explanation: Production before the Income-tax Officer of account-books or other evidence from which material facts could with due diligence have been discovered by the Income-tax Officer will not necessarily amount to disclosure within the meaning of this section."
+4. This was the language of
+Section 34(1)(a)
+, as introduced by the Income-tax and Business Profits Tax (Amendment) Act, 1948. In the year 1954, the Income-tax (Amendment) Act, 1954 was passed and it came into force on 17-7-1954. By this Amendment Act, amongst other changes introduced in the Act, a new Sub-section (1A) was introduced in
+Section 34
+which reads as follows;
+"(1A) If, in the case of any assessee, the Income-tax Officer has reason to believe--
+(i) that income, profits or gains chargeable to income-tax have escaped assessment for any year in respect of which the relevant previous year falls wholly or partly within the period beginning on 1-9-1939, and ending on 31-3-1946; and
+(ii) that the income, profits or gains which have so escaped assessment for any such year or years amount, or are likely to amount, to one lakh of rupees or more;
+he may, notwithstanding that the period of eight years .... has expired in respect thereof, serve on the assessee, or, if the assessee is a company, on the principal officer thereof, a notice containing all or any of the requirements which may be included in a notice under Sub-section (2) of
+Section 22
+, and may proceed to assess or re-assess the income, profits or gains of the assessee for all or any of the years referred to in Clause (i), and thereupon the provisions of this Act (Excepting those contained in Clauses (i) and (iii) of the proviso to Sub-section (1) and in Sub-sections (2) and (3) of this section) shall, so far as may be, apply accordingly:
+Provided that the Income-tax Officer shall not issue a notice under this sub-section unless he has recorded his reasons for doing so, and the Central Board of Revenue is satisfied on such reasons recorded that it is a fit case for the issue of such notice:
+Provided further that no such notice shall be issued after 31-3-1956."
+On the language of these two provisions, Mr. R. S. Pathak, who very ably argued this case before us, urged that the Legislature had introduced two very important discriminations in the matter of procedure and limitation applicable to cases of person who may be dealt with under one provision or the other. In the case of a person dealt with under
+Section 34(1)(a)
+, a notice could be issued only within eight years of the end of the assessment year to which the notice related and, upon the issue of such a notice, the Income-tax Officer, in proceedings to assess or re-assess the income, profits or gains, was to be guided, in the matter of procedure, by the procedure laid down in
+Section 23
+and the following sections of the Act. On the other hand, in the case of a person on whom notice is issued under
+Section 34(1A)
+, there would be no period of limitation for issue of the notice and the procedure applicable to persons proceeded against under
+Section 34(1)(a)
+would not apply, so that such a person would not have the benefit of the procedure given in
+Section 23
+and the subsequent sections of the Act and would also not have a right of appeal to the Appellate Assistant Commissioner or the Income-tax Appellate Tribunal, nor a right to seek a reference to the High Court. It was further urged that persons, whose cases may be covered by
+section 34(1A)
+of the Act, would also be governed by the provisions of
+Section 34(1)(a)
+of the Act, so that two different procedures can be applied at the choice of the Income-tax authorities to two persons similarly situated.
+5. The interpretation by learned counsel for the petitioner that the procedure applicable to proceedings for assessment or re-assessment or re-computation under
+Section 34 (1)(a)
+of the Act would be that laid down in
+Section 23
+of the Act is undoubtedly correct. Under
+Section 34(1)(a)
+of the Act, the Income-tax Officer is firstly authorised to serve a notice, in the circumstances mentioned therein, on the assessee or the principal officer of the company, it the assessee is a company which notice may contain all or any of the requirements which may be included in a notice under Sub-section (2) of
+Section 22
+and, upon the service of such a notice, the Income-tax Officer is authorised to take proceedings for assessment, or re-assessment or recomputation.
+Then   comes the direction  that  the   provisions of the Act shall, so far as may be, apply accordingly as if the notice were a notice issued under Subsection (2) of
+section 22
+of the Act. This section thus contains a fiction of law which has been introduced for the purpose of making the procedure laid down in
+Section 23
+of the Act applicable to the proceedings for assessment, re-assessment or re-computation taken by the Income-tax Officer in pursuance of a notice issued under
+Section 34(1)(a)
+. The fiction of law is introduced by using the words "as if the notice were a notice issued under that sub- section." Clearly, the effect of this fiction of law is that, even though a notice under
+Section 34(1)(a)
+is different from a notice under Sub-section (2) of
+Section 22
+of the Act, the Income-tax Officer, in taking proceedings for assessment, re-assessment or recomputation, has to comply with the provisions of the Act which apply when he takes proceedings for assessment in pursuance of a notice under Sub-section (2) of
+Section 22
+of the Act. The further submission of learned counsel was that in
+Section 34(IA)
+no such fiction of law has been introduced by the Legislature. In this provision of law, the circumstances under which a notice can be issued, are slightly different and limited; but, when a notice has been served in accordance with that provision of law, the power granted to the Income-tax Officer is to proceed to assess or re-assess the income, profits or gains of the assessee for the years in question. Then it is laid down that,
+ "thereupon the provisions of the Act (excepting those contained in Clauses (i) and (iii) of the proviso to Sub-section (1) and in Sub-sections (2) and (3) of this section) shall, so far as may be, apply accordingly."
+In using this language, the Legislature made a departure inasmuch as it did not plainly lay down that a notice issued under
+Section 34(1A)
+is, by fiction of law, equated with a notice under Sub-section (2) of
+section 22
+of the Act and it was urged that an inference should be drawn from this omission that the provisions of
+Section 23
+of the Act would not apply to proceedings for assessment or re-assessment under
+Section 34(1A)
+of the Act. The further inference, which learned counsel drew, was that, since the procedure laid down in
+Section 23
+could not be applied, the Income-tax Officer, in proceeding to make the assessment or re-assessment, would have to discharge his functions as a quasi-judicial tribunal in accordance with the principles of natural justice.
+When called upon to explain what those principles of natural justice would be, learned counsel
+urged that the principles of natural justice would
+be the same as have been given statutory form in
+Section 23
+of the Act with regard to the making of inquiries and to giving a bearing to an assessee. It
+was, however, urged that, since the provisions or
+Section 23
+of the Act would not in terms apply, no right
+of appeal under
+Section 31
+would accrue to an assessee
+against whom proceedings for assessment or re
+assessment are taken under
+Section 34(1A)
+, so
+that, even though, at the initial stage, the In
+come-tax Officer would give a proper hearing to the assessee, the right to go up in appeal to the Appellate Assistant Commissioner, by
+a further appeal to the Income-tax Appellate Tribunal or by a reference to the High Court
+would be denied to him.
+A further result would be that the assessee would not have the same rights of inspection and discovery which would be available to an assessee against whom proceedings are taken under
+section 34(1A)
+of the Act. This interpretation of
+Section 34(1A)
+was sought to be supported by reference to the circumstances in which this provision was introduced by the Legislature in 1954. Just before this provision was introduced, the Supreme Court gave its decision in the case of
+Suraj Mall Mohta and Co. v. A. V. Viswaiiatha Sastri
+, 1954-26 ITR 1: (AIR 1954 SC 545). In that decision, the Supreme 
+Court declared the provisions of
+Section 54
+o the
+Taxation on Income (Investigation Commission) Act
+(30 of 1947) ultra vires
+Article 14
+of the Constitution.
+One of the main considerations for the Supreme Court in declaring that provision of law ultra vires was that the procedure applicable to a person proceeded against under that provision of law was materially and substantially different from the procedure applicable to a person similarly situated who could be proceeded against under
+Section 34
+of the Income-tax Act. It was urged that
+Section 34(1A)
+was introduced in the Act for the purpose of taking proceedings against those very persons who could be proceeded against under
+Section 5(1)
+or 5(4) of the
+Taxation on Income (Investigation Commission) Act, 1947
+, because
+Section 5(4)
+of that Act was declared ultra vires by the Supreme Court and it was apprehended that
+Section 5(1)
+of that Act would also be similarly declared ultra vires.
+In order to achieve that purpose, the Legislature, when introducing Section 34(1A) in the Act, did not desire that persons, against whom proceedings are taken under the Act, should be able to avail of all the ordinary remedies provided in the Act and wanted that the Income-tax Officer should be able to take proceedings for assessment or re-assessment of such persons with as much success as the Income-tax Investigation Commission could do under Act XXX of 1947. It was thus contended that the fiction of law, which had been introduced in Section 34(1)(a) was deliberately omitted by the Legislature with the aforesaid object and, consequently, the provisions of
+section 34(1A)
+of the Act should be interpreted as not including in it the applicability of the procedure for assessment
+laid down in
+Section 23
+of the Act and the consequent application of the provisions contained in
+Sections 31
+,
+33
+and
+66
+of the Act.
+6. It appears to me that there are several reasons why such an interpretation should not be accepted. The first and the most important reason is that, in my opinion, the language used in
+Sections 23
+,
+34(1)(a)
+and
+34(1A)
+of the Act by itself leads to the interpretation that, even in respect of proceedings for assessment or re-assessment under Section 34(1A) the procedure
+laid down in
+Section 23 has been made applicable and so also the provisions of
+Sections 31
+,
+33
+and
+66
+, of the Act have been made applicable to those proceedings.
+In
+Section 23
+of the Act, the Legislature has laid down the procedure which the Income-tax Officer has to follow in proceedings for assessment of the income, profits and gains of an assessee and for determination of the tax payable by him. Under Section 34(1)(a), the proceedings, which the Income-tax Officer is authorised to take after service of notice, are of three different kinds. Firstly, he can proceed to assess the income, profits and gains in case the income, profits or gains have escaped assessment. Secondly, he can re-assessee the income, profits or gains in case they have been under-assessed.
+Thirdly, he can re-compute the loss or depreciation allowance if excessive loss or depreciation allowance had been computed at the time of original assessment under
+Section 23
+of the Act. If, under this provision, the only power, which the Legislature granted to the Income-tax Officer, had been the power to assess the income, profits and gains of an assessee which had escaped assessment, it seems to me that there would have been no necessity for mentioning the fiction of law that the provisions of the Act would apply as if the notice issued under this provision of law were a notice issued under Sub-section (2) of
+Section 22
+of the Act.
+The Legislature having once laid down the procedure for assessment of income, profits or gains need only have
+laid down in
+Section 34(1)(a) that the provisions of the Act shall, so far as may be, apply accordingly. The mere use of this language would have been enough to attract the applicability of the provisions of Section 23 to the proceedings for assessment taken under
+Section 34(1)(a)
+of the Act. Section 34(1)(a), however, envisages proceedings of two other types, viz., proceedings for re-assessment of income, profits or gains, and proceedings for re-computation of loss or depreciation allowance.
+A proceeding for re-computation of loss or depreciation allowance could also be held to be governed by the provisions of
+Section 23
+of the Act because computation or re-computation would only be an intermediate step in making the assessment. Reassessment under Section 34(1)(a) is, however, different from a proceeding for assessment. No doubt in a number of sections of the Act, the words 'assess' or 'assessment' have been used so as to include in them 're-assess' or 're-assessment' but at least in
+Section 34(1) (a)
+of the Act, the word 'assess' cannot be held to include 're-assess' as both the words are used with a disjunctive 'or' between them.
+Consequently, so far as
+Section 34(1)(a)
+of the Act is concerned, it makes a distinction, between a proceeding for assessment and a proceeding for reassessment and, for the purpose of this section, 'therefore, it became necessary to lay down that the provisions of the Act, which apply to a proceeding for assessment, would also apply to a proceeding for reassessment. This purpose was achieved by the Legislature by introducing the fiction of law that, to a proceeding in pursuance of a notice served under
+Section 34(1)(a)
+of the Act, the provisions of the Act would apply as if the notice were a notice issued under Sub-section (2) of
+Section 22
+of the Act. The introduction of this fiction of law was, therefore, necessary in order that a proceeding or re-assessment under
+Section 34(1)(a)
+of the Act may be governed by the procedure
+laid down in
+Section 23
+of the Act with the further result that an assessee, whose case is being dealt with
+Section 34(1) (a)
+of the Act, should have the benefit of the rights granted under
+Sections 31
+,
+33
+,
+66
+and
+37
+of the Act.
+7. Coming now to
+Section 34(1A)
+of the Act, it has first to be kept in view that this section follows
+Sections 22
+,
+23
+and
+34(1)(a)
+of the Act. These three sections between them, on the interpretation placed by me above, lay down the procedure which an Income-tax Officer has to follow when he either assesses the income, profits or gains of an assessee or re-assesses them. The procedure for both assessment and re-assessment having been
+laid down in
+these sections which precede
+Section 34(1A)
+of the Act, it became unnecessary for the Legislature to introduce any further fiction of law, so that it was sufficient to apply the provisions of the Act. It was for this reason that, in
+Section 34(1A)
+of the Act, the Legislature merely laid down that the provisions of the Act, except certain provisions mentioned therein, shall apply accordingly.
+Then this Clause is preceded by the word 'thereupon'. The use of this word indicates that the provisions of the Act would become applicable when, after the issue of a notice under
+Section 34(1A)
+of the Act, the Income-tax Officer proceeds to assess or re-assess the income, profits or gains of the assessee. In
+Section 34(1)(a)
+of the Act, the Legislature had, after introducing the fiction of law, clearly indicated how the provisions of the Act were to apply even to a proceeding for re-assessment though in terms those provisions were applicable only to a proceeding for assessment and made no mention of a proceeding for re-assessment.
+In
+Section 34(1A)
+of the Act, the Income-tax Officer was again directed, after issue of a notice, to proceed 
+to 'assess or re-assess' the income, profits or gains of an assessee and, when it was laid down that to such a proceeding by the Income-tax Officer, the provisions of the Act shall apply accordingly it could only mean that the principles
+laid down in
+Section 34(1)
+of the Act would also apply and, as a result of the application of those provisions, the procedure
+laid down in
+Section 23
+of the Act would be applicable with the necessary consequence that the assesses would be entitled to the benefit of the provisions of
+Sections 31
+,
+33
+,
+66
+and
+37
+of the Act which right accrues as a result of the applicability of
+Section 23
+of the Act.
+No doubt, the omission to introduce the fiction of law in Section 34(1A) of the Act does not equate a notice issued under it with a notice issued under Section 34(V)(a) of the Act or with a notice issued under Section 22(2) of the Act, but there was no necessity of making a provision in this behalf, because what the Legislature was concerned with was only the procedure which was to be applied to a proceeding taken by an Income-tax Officer under Section 34(IA) of the Act and not with the nature of the notice issued under it.
+The   proceedings  being  proceedings for assessment or re-assessment, it was sufficient to say that thereupon the provisions of this Act ......... shall, so far as may be, apply accordingly', as this direction would attract the applicability of all the provisions of the Act which apply to a proceeding for assessment or re-assessment. Having laid down the procedure for assessment or re-assessment in
+Sections 23
+and
+34(1)
+of the Act, those provisions were made applicable to proceedings under
+Section 34(1A)
+of the Act by using this expression for which purpose the fiction of law of the type introduced in
+Section 34(1)
+of the Act was no longer required.
+This interpretation of the language of these relevant provisions of law thus leads to the conclusion that a proceeding for assessment or re-assessment of income, profits or gains by an Income-tax Officer even under
+Section 34(1A)
+of the Act is governed in the matter of procedure and in the matter of appeals and references to the High Court by the same provisions which govern a proceeding for assessment or re-assessment of income, profits or gains under
+Section 34(1)
+of the Act. There is thus no difference in the matter of procedure or the rights of an assessee who may be proceeded against either under Section 34(1)(a) or under Section 34(1
+A) of the Act
+.
+8. The interpretation sought to be put by learned counsel for the petitioner cannot further be accented for the reason that, on that interpretation,
+Section 34(1A)
+of the Act would leave the proceedings incomplete and would not achieve the purpose for which
+Section 34(1A)
+of the Act was introduced. If
+Section 23
+of the Act is held not to be applicable to a proceeding under
+Section 34(1A)
+of the Act, the provisions of the latter section will have to be read by themselves. They only empower the Income-tax Officer to proceed to assess or re-assess the income, profits or gains of an assessee but nowhere lay down that he has also to determine the sum payable as income-tax by the assessee on the basis of such assessment or re-assessment.
+Under Sub-section (3) and (4) of
+Section 23
+of the Act, the Income-tax Officer is not only empowered to assess the total income of an assessee but also the sum payable by him on the basis of such assessment. Sub-section (5) of
+Section 23
+of the Act empowers the Income-lax Officer to assess the to total income of a firm, and then lays down how the  tax on the basis of the income of the firm is to be determined and by whom it is to be paid. In the case of a registered firm, after the income, profits or gains of the firm have been assessed, the income-tax payable by the firm is not determined and, instead, the share in the income, profits or gains of the firm of each partner of the firm is included in his total income and, on the basis of the total income of each partner so assessed, the sum payable as income-tax by each partner in determined.
+In the case of an unregistered firm, the Income-tax Officer is given the option, instead of determining the sum payable by the firm itself, to proceed to assess the total income of each partner of the firm including his share of its income, profits or gains and to determine the tax payable by each partner on the basis of such assessment or, in the alternative, to determine the sum payable by the firm itself. The determination of the income-tax and the determination of the person by whom the tax is payable is thus
+laid down in
+Section 23
+of the Act and is a necessary provision for the purpose for which the
+Income-tax Act
+was enacted, viz., the charging of incomes to income-tax for raising revenues for the Government.
+In case
+Section 34(1A)
+of the Act had been intended by the Legislature to be quite independent of
+Section 23
+. of the Act, similar provisions for determining the sum payable as income-tax and the person who was liable to pay that tax would have been included in
+Section 34
+(1
+A) of the Act
+also. The omission to make provision for determination of the amount of tax and of the identity of the person who is liable to pay that amount can only be explained on the interpretation that the provisions of
+Section 23
+of the Act are applicable to a proceeding for assessment or re-assessment of income, profits or gains of an assesses under
+Section 34
+(1
+A) of the Act
+It is also to be noticed that, if the provisions of
+Section 23
+of the Act are not applied, an anomaly will arise in the case of registered firms. It is only under
+Section 23(5)
+of the Act that, after the income, profits or gains of a firm have been assessed, the Income-tax Officer is directed not to determine the tax payable by the firm itself but to give effect to the assessment of the income of the firm in the assessment of each partner and to determine the sum payable by each partner after including in his total income his share of the income, profits or gains of the firm which may have been assessed.
+A case may arise where the assessee may be a registered firm and initially its assessment may have been made under
+Section 23(5)
+of the Act. Subsequently, it may become necessary to take proceedings for re-assessment against the same registered firm under
+Section 34(1A)
+of the Act. If the provisions of
+Section 23(5)
+of the Act are not applied to the re-assessment under
+Section 34(1A)
+of the Act:, the Income-tax Officer would not in such re-assessment be entitled to include in the total income of each partner the share of that partner in the income of the firm so re-assessed.
+He would be compelled in such a ease either to stop at the stage of re-assessment of the income, profits or gains of the firm and not determine the sum payable at all or, in the  alternative, he would have to determine the sum payable on the basis of the income of the firm re-assessed by him and declare that that sum will be payable by the firm. In the former case, the provisions of
+Section 34(1A)
+of the Act would be totally nullified as re-assessment of the firm without determination of the tax payable would be infructuous.
+If the latter alternative has to be adopted, an anomalous position would arise because, at the time of the initial assessment of the income of the firm, there would be no determination of the tax payable by the firm and, on the  other hand, the effect of that assessment of the firm would have been given in the assessment of each partner by including his share of the firm's income in his total income and 
+by determining the sum payable by him on that basis, which at the time of re-assessment under
+Section 34(1A)
+of the Act, the registration of the firm would have to be ignored and the sum payable would be determined on the income of the firm itself and would be payable by the firm. Clearly, no such anomalous position could have been intended by the Legislature.
+If the assessee is a firm and its first assessment is made in one manner under
+Section 23(5)
+of the Act, then the re-assessment under
+Section 34(1A)
+of the Act should also be made in the same manner and the liability to pay the tax should also be determined on identical principles. It, therefore, appears to me that the omission of any provision in
+Section 34(1A)
+of the Act for determination of the sum payable and for deciding who is to pay the sum so determined can be explained only on the basis that the provisions of
+Section 23
+of the Act do apply to a proceeding under
+Section 340
+A) of the Act.
+9. The interpretation put by me above is further supported by the exceptions which have been made in
+Section 34(1A)
+of the Act when making the provisions of the Act applicable to a proceeding under it,
+Section 34(1A)
+of the Act lays down that
+  "the provisions of the Act, excepting those contained in Clauses (i) and (iii) of the proviso to Sub-section (1) and in Sub-sections (2) and (3) of Section 34, shall, so far as may be, apply accordingly."
+No question could have arisen for making an exception in respect of Clauses (i) and (iii) of the proviso to Sub-section (1) of
+Section 34
+of the Act or in respect of Sub-sections (2) and (3) of Section 34 unless the whole of Section 34 would otherwise have been applicable to a proceeding under
+Section 34(1A)
+of the Act. The incorporation of this exception thus lends to the inference that
+section 34(1)
+of the Act has also been made applicable to
+Section 34(1A)
+of the Act and it was for this reason that the Legislature had to make a specific provision barring the applicability of Clauses (i) and (in) of the proviso to Sub-section (1) and Sub-sections (2) and (3) of
+Section 34
+of the Act as it was desired that those provisions should not be applicable.
+If Section 34(1) applies, the necessary consequence of its applicability is that the proceedings for assessment or re-assessment under Section 34(1A) arc to be carried out in the same manner and are to be governed by the same provisions of the Act as proceedings under
+Section 34(1)
+of the Act, Proceedings under Section 34(1) of file Act are clearly governed by the provisions of
+Sections 23
+,
+31
+,
+33
+and
+66
+of the Act and, consequently, these provisions of the Act have also to be given effect to in proceedings under
+Section 34(1A)
+of the Act.
+10. It also appears to me that on the correct principles of interpretation of statutes, the interpretation, which I have indicated above, will be correct and justified rather than the interpretation sought to be put by learned counsel for the petitioner. One well-recognised principle is that, though a sense of the possible injustice of an interpretation ought not to induce Judges to do violence to well-settled rules of construction, whenever the language of the Legislature admits of two constructions, the courts act upon the view that the Legislature could not have intended to bring about obvious injustice, so that the courts should accept that possible interpretation which would lead to proper justice.
+In the present case, if I was to accept the interpretation sought to be put on
+Section 34(1A)
+of the Act on behalf of the petitioner, it would mean that the Legislature intended to do injustice to persons proceeded against under this provision of law, while it provided justice only in cases of those persons who are proceeded against under
+Section 34(1)
+of the Act. The interpretation put by me on the provisions of
+Section 34(1A)
+of the Act would result in equal justice being done between all persons affected by this law and, consequently, that is the interpretation which should be accepted. Further, a Court should also be chary of accepting an interpretation that leads to the invalidity of a law.
+In fact, there is a presumption in favour of the constitutionality of a legislative enactmen as remarked by the Supreme Court in Ram Prasad Narayan Sahi y. State of Bihar, AIR 1953 SC 215. The interpretation, that I have accepted above, leads to the constitutionality of
+Section 34(1A)
+of the Act without doing any violence to its language and, therefore, that interpretation, must be held to be the correct one.
+11. Learned counsel for the petitioner, in support of his contention that the provisions of
+Section 34(1A)
+of the Act were ultra vires
+Article 14
+of the Constitution as it brought about discrimination in the matter of procedure applicable to assessment proceedings and right of appeal and reference to the High Court, drew our attention to four cases decided by the Supreme Court. They are: 1954-26 ITR 1: (
+AIR 1954 SC 545), Since Meenakshi Mills Ltd., Madurai v. A. V. Visvanatha Sastri
+, 1954-26 ITR 713: ((S) AIR 1955 SC 13), A. Thungal Kunju Musaliar v. M. Venkatachalam Potli, 1956-29 ITR 349: ((
+S) AIR 1956 SC 246) and M. Ct. Muthiah v. Commissioner of Income-tax, Madras
+, 1956-29 ITR 390: ((S) AIR 1956 SC 269). It does not appear to me to be necessary to examine these decisions in detail because the view I have taken is that the procedure for assessment
+laid down in
+Section 23
+of the Act is applicable to assessment or re-assessment both under Section 34(1) and
+Section 34(1A)
+of the Act. Further, I have held that the benefit of the provisions contained in
+Sections 31
+,
+33
+,
+66
+and
+37
+of the Act are also equally available to persons proceeded against under cither Section 34(1) or Section 34(1
+A) of the Act
+. Reference may, however, be made to the decision in 1954-20 ITR 713: ((S) AIR 1955 SC 13), where their Lord-ships of the Supreme Court considered tho validity of Sub-section (I) nf
+Section 5
+of tho Taxation on Income (Investigation Cammission) Act. 1947, by comparing it with the provisions of
+Section 34(1A)
+of the Act.
+Supreme question, which was canvassed before the Supreme Court in
+Shree Mecnakshi Mills
+case 1954-26 ITR 713: f (S) AIR 1955 SC 13), was--
+"Whether, after the coming into force of the Indian Income-tax (Amendment) Act, 1954, which operates on the same field as
+Section 5(1)
+of Act XXX of 1947, the provisions of Section 50) of Act XXX of 1947, assuming they were based on a rational classification, have not become void and unenforceable, as being discriminatory in character?"
+The Supreme Court took notice of the fact that the Parliament had, by amending
+Section 34
+of the Indian Income-tax Act, provided that cases of these very persons who originally fell within the ambit of
+Section 5(1)
+of Act XXX of 1947 and who it was alleged formed a distinct class, can be dealt with under the amended Section 34 and under the procedure provided in the
+Income-tax Act
+. The amendment in Section 34, of which the Supreme Court took notice, was the introduction of
+Section 34(1A)
+of the Act. Referring to the persons who could, after the introduction of Section 34(1A), be dealt with cither under
+Section 34
+of the Act Or under
+Section 5(1)
+of Act XXX of 1947, their Lordships remarked:
+"All these persons can now well ask the question, why are We now being dealt with by the discriminatory and drastic procedure of Act XXX of 1947 when those similarly situated as ourselves can be dealt with by the Income-tax Officer under the amended provisions of
+Section 34
+of the Act? Even if we once bore a distinctive label that distinction no longer subsists and the label now borne by us is 
+the same as is borne by persons who can be dealt with under
+Section 34
+of the Act as amended; in other words, there is nothing uncommon either in properties or in characteristics between us and those evaders of income-tax who are to be discovered by the Income-tax Officer under the provisions of amended Section 34. In our judgment, no satisfactory answer can be returned to this query because the field on which amended Section 34 operates now includes the strip of territory which previously was occupied by
+Section 5(1)
+of Act XXX of 1947 and two substantially different laws of procedure, one being more prejudicial to the assessee than the other, cannot be allowed to operate on the same field in view of the guarantee of
+Article 14
+of the Constitution."
+In expressing this opinion, their Lordships of the Supreme Court had held that cases of persons proceeded against under
+Section 5(1)
+of the Taxation on Income (investigation Commission) Act, 1947, were not governed by the provisions of the
+Income-tax Act
+and had to be decided in accordance with the principles of natural justice. They had no right of appeals, nor could they claim the benefit of inspection and discovery provided by
+Section 37
+of the Act. Though their Lordships did not specifically go into the question of the applicability of
+Sections 31
+,
+33
+and
+37
+of the Act to cases' of persons proceeded against under the amended
+Section 34
+, the decision of their Lordships proceeded on the basis that persons proceeded against under this amended
+Section 34
+did acquire the right of obtaining appellate decisions under
+Sections 31
+and
+33
+of the Act and could also claim the benefit of the substantial and valuable privileges conferred by
+Section 37
+of the Act.
+Impliedly, therefore, though not expressly, their Lordships of the Supreme Court held that, if proceedings against an assessee are taken under
+Section 34(1A)
+of the Act, that assessee will have the right of going up in appeal to the Appellate Assistant Commissioner and the Income-tax Appellate Tribunal and will also have the privileges conferred by
+Section 37
+of the Act. It was only on the basis of the acceptance of this! position that their Lordships came to the view that persons proceeded against under
+Section 5(1)
+of the Taxation on Income (Investigation Commission) Act, 1947, were being dealt with by a discriminatory and drastic procedure as compared with persons who could be dealt with under
+Section 34
+of the Act, as amended. It would thus appear that, in this case, their Lordships of the Supreme Court proceeded on an interpretation of
+Section 34(1A)
+of the Act which is the same as the interpretation which I have arrived at earlier in this case, so that, to a certain extent, the interpretation put by me is supported by the views of the Supreme Court. The submission by learned counsel for the petitioner that
+Section 34(1A)
+of the Act is ultra vires
+Article 14
+of the Constitution on the ground that it was discriminatory in the matter of procedure, right of appeal and benefit of
+Section 37
+of the Act as compared with
+Section 34(1)
+of the Act, therefore, fails.
+12. The second aspect, on which
+Section 34(1A)
+of the Act was challenged as ultra vires
+Article 14
+of the Constitution by learned counsel for the petitioner, was that, in the ease of a person proceeded against under this provision of law, there was no period of limitation prescribed, whereas a period of limitation of eight years or four years was
+laid down in
+respect of persons against whom proceedings may be taken under
+Section 34(1)
+of the Act. It was urged that, since the two provisions of law could, cover cases of persons similarly situated, this discrimination in the matter of limitation rendered
+Section 34
+(1
+A) of the Act
+ultra vires
+Article 14
+of. the Constitution.
+It is to be noticed that, even though there is a eommnn class of asscssees who can be proceeded against under both Section 34(1) as well as Section 34(1
+A) of the Act
+, the latter provision is applicable to a limited class of persons. That class of persons are those whose income, profits or gains had escaped assessment for any year in respect of which the relevant previous year felt wholly Or partly within the period beginning on the 1st day of September, 1939, and ending on 31-3-1946. Then there was a second limitation that the income, profits or gains, which have so escaped assessment, must be believed by the Income-tax Officer to be likely to amount to one lakh of rupees or more.
+It seems to me that, having picked out such a narrow class, the Legislature made a special provision under
+Section 34(1A)
+of the Act for taking proceedings against that class of persons without being limited by any period of limitation and by this all that the Legislature did was to enlarge the period of limitation in their cases. Once it has been held that proceedings for assessment under Section 34(1) as well as under
+Section 34(1A)
+of the Act in the matter of procedure, right of appeal etc., are identical, Section 34(1A) has to be read as an exception to
+Section 34(1)
+of the Act whereby the limitation applicable to the larger class of persons who could be dealt with under
+Section 34(1)
+of the Act, has been done away with for a smaller class of persons.
+It is therefore, in the nature of an exception specifically for the purpose of enlarging the period of limitation or doing away with the limitation in case of a limited and narrower class. This narrower class, as indicated by the language of
+Section 34(1A)
+of the Act, consisted of assessees who had earned income during the war period and who had evaded payment of tax on incomes of one lakh of rupees or more, and the purpose of introducing this provision was to subject their escaped income to tax. It is not possible to accept the contention that even such assessees can legitimately claim that they should be allowed to escape payment of tax on ground of limitation like others, who had not made war profits and whose escaped incomes did not amount to one lakh of rupees or more and who may escape after the expiry of the period of limitation of four years or eight years as the case may be.
+Removal of restriction of limitation in the case of such special class of evaders clearly has a nexus with the purpose for which this provision of law was introduced, so that the discrimination brought about by
+Section 34(1A)
+of the Act is not such as to render it void on the ground of violating the provisions of
+Article 14
+of the Constitution. In this connection, learned counsel for the petitioner relied on the views expressed by their Lordships of the Supreme Court in the case of 1954-26 ITR 1: (AIR 1954 SC 545) where their Lordships pointed out that, under tho provisions of
+Section 34
+of the Income-tax Act, investigation into escaped income or evaded income is limited to a maximum period of eight years, while under the provisions of Sub-section (4) of
+Section 5
+of Act XXX of 1947, it is not limited to any period and this ceriainly operates to the detriment of those dealt with under Sub-section (4) of
+Section 5
+of the Act 30 of 1947 and those dealt with under
+Section 34
+of the Indian Income-tax Act."
+This view was expressed by the Supreme Court after giving a decision that the procedure applicable to persons proceeded against under Subsection (4) of
+Section 5
+of Act 30 of 1947 was more drastic and discriminatory than the procedure applicable to persons dealt with under
+Section 34
+of the Indian Income-tax Act. If the procedure was different, the difference in the period of limitation would also be clearly discriminatory but, if the procedure had been identical and the persons who could be dealt with under Sub-section (4) of
+Section 5
+of
+Act 30 of 1947 had been a narrower class comprised within a bigger class which could be dealt with under
+section 34
+of the Indian Income-tax Act, the position might have been different
+in that case
+and as, in the present case, it might have been possible for their Lordships to hold that the provisions of Sub-section (4) of
+Section 5
+of Act 30 of 1947 were in the nature of an exception for a smaller and limited class for which a larger period of limitation for taking proceedings had been provided.
+That not being the case, it must be held that their Lordships of the Supreme Court were dealing with discrimination in the matter of limitation, under entirely different circumstances, so that the decision of their Lordships
+in that case
+cannot be applied to the present case. The principle, on which limitation has been done away with in respect of the class of persons who can be proceeded against under
+Section 34(1A)
+of the Act, is very similar to the principle on which discrimination in the matter of limitation already exists in the
+Income-tax Act
+between the classes of persons proceeded against under
+Section 34(1)(a)
+and
+Section 34(1)(b)
+of the Act.
+Section 34(1)(b)
+of the Act deals with cases of persons whose incomes have escaped assessment for any reason whatsoever without any reference to any act committed by those persons.
+Section 34(1)(a)
+of the Act deals with the cases of persons whose incomes may have escaped assessment as a result of some act or omission on their part the nature of that act or omission being indicated in that provision of law. Thus the class of persons dealt with under
+Section 34(1)(a)
+of the Act is also comprised within the larger class dealt with under
+Section 34(1)(b)
+of the Act and, in respect of that class, the period of limitation for taking proceedings has been enlarged from four years to eight years. On the same principle, the Legislature considered it advisable that persons belonging to a still narrower class satisfying the requirements of
+Section 34(1A)
+of the Act may be dealt with without any restriction about limitation.
+Such enlargement of limitation for particular classes of persons, while keeping the procedure applicable to the proceedings and the rights of such persons the same, is a discrimination which is fully justified by the purpose for which such provisions of law are introduced. In these circumstances, the contention of learned counsel for the petitioner that
+Section 34(lXa)
+of the Act is ultra vires
+Article 14
+of the Constitution as being discriminatory in the matter of limitation for proceedings being taken against an assessee also fails and must be rejected.
+13. The second ground, on which proceedings for re-assessment under
+Section 34(1A)
+of the Act have been challenged, as mentioned earlier by me, is that proceedings taken by the Income-tax Officer were of a judicial Or quasi-judicial nature and the Income-tax Officer was a person who bad a bias because he or the Central Board of Revenue, under whom he was employed, was interested as a party in the proceedings. That proceedings before the Income-tax Officer for assessment or re-assessment of tax are proceedings of a judicial or quasi-judicial nature can now no longer be doubted after the decision of their Lordships of the Supreme Court in 1954-26 ITR 1: (AIR 1954 SC 545). Their Lordships held that--
+"When an assessment on escaped or evaded income is made under the provisions of
+Section 34
+of the Indian Income-tax Act, all the provisions for arriving at the assessment provided under
+Section 23(3)
+come into operation and the assessment has to be made on all relevant materials and on evidence and the assessee ordinarily has the fullest right to inspect the records and all documents and materials that are to be used against him. Under the provisions of
+Section 37
+o the
+Indian Income-tax Act
+, the proceedings before the Income-tax Officer are judicial proceedings and all the incidents of such judicial proceedings have to be observed before the result is arrived at."
+In the last sentence, quoted above, their Lordships held that proceedings before the Income-tax Officer are judicial proceedings. The reference was to proceedings for assessment on escaped or evaded income under the provisions of
+Section 34
+of the Indian Income-tax Act and not, as contended by learned counsel for the Department, to proceedings under
+Section 37
+of the Indian Income-tax Act. Reference to
+Section 37
+of the Indian Income-tax Act was made by their Lordships for the purpose of deciding what was the nature of the proceedings before the Income-tax Officer when making an assessment on escaped or evaded income under the provisions of
+Section 34
+of the Act.
+Relying on this decision of the Supreme Court, learned counsel for the petitioner urged that, in the present case, the Income-tax Officer, who was taking proceedings under
+Section 34(1A)
+of the Act, was dealing with judicial proceedings and, further, that he was a person with a bias inasmuch as he was an officer appointed by the Government to collect revenues and is, under the provisions of the Act, himself treated as a party when the order of assessment is taken up in appeal to the Appellate Assistant Commissioner or the Income-tax Appellate Tribunal. It was urged that, on the principle
+laid down by
+the Supreme Court in G. Nages-wara Rao v. Andnra Pradesh State Road Transport Corporation, AIR 1959 SC 308, it was against the principles of natural justice for the Income-tax Officer to be entrusted with decisions in judicial proceedings and his decisions are, therefore, invalid.
+In the case of AIR 1959 SC 308, their Lordships were dealing with decisions under Section 68D(2) given by the State Government on objections filed under
+Section 68D(1)
+of the Motor Vehicles Act, as amended by the Motor Vehicles (Hyderabad Amendment) Act, 1956 against a scheme published under Section 68C of that Act. In section 68D(2), it was laid down that the State Government may, after considering the objections and after giving an opportunity to the objector or his representative and the representatives of the State Transport Undertaking to be heard in the matter, if they so desire, approve or modify the scheme. Rules were framed by the State Government of Andhra Pradesh laying down the procedure for filing of objection and consideration of the scheme.
+There were also executive orders laying down the manner in which the hearing, required to be given under Section 68D(2) of that Act, was to be given on behalf of the Government. The Road Transport Department was in the charge of the Chief Minister and the Home Secretary worked under the Chief Minister and was in charge of the Road Transport Department. The Chief Minister ordered that the objections were to be put up before him after the objections had been heard by the Home Secretary and thereupon the Home Secretary heard the objectors and a note of hearing was placed before the Chief Minister For orders. The Chief Minister then passed an order approving the scheme.
+It wag held by the Supreme Court that hearing given by the Home Secretary was sufficient compliance with the requirements of the law and did amount to a hearing given by the State Government. It was, however, held by a majority of Judges constituting the Bench that the hearing given by the Secretary, Transport Department, who was 
+also the Head of that Department, certainly offended the principles of natural justice that, in the case of quasi-judicial proceedings, the authority empowered to decide the dispute between the opposing parties must be one without a bias towards one side or the other in the dispute and that it was a matter of fundamental importance that a person interested in one party or the other should not even formally take part in the proceedings though, in fact, he might not influence the mind of the person who may finally decide the case.
+On this ground, it was held that the proceedings and hearing given in violation of that principle were bad. The proceedings for hearing of the objections were held to be quasi-judicial proceedings. It was urged by learned counsel for the petitioner before us that, applying the same principle to the instant case, we should hold that the Income-tax Officer, who was a person with a bias, was not competent to pass orders of assessment or re-assessment under
+Section 34(1A)
+of the Act and the proceedings before him were bad as they violated the principles of natural justice, mentioned above. Learned counsel for the Department, in reply, contended that the Income-tax Officer could not be held to bo a person having a bias or an interest in the proceedings when he was only carrying out his statutory duties of making an assessment or re-assessment in accordance with the provisions of the Act.
+There is. however, the fact that, when an order is passed bv the Income-tax Officer and it is taken up in first appeal to the Appellate Assistant Commissioner or in second appeal to the Income-tax Appellate Tribunal, the Income-tax Officer, who passed the order for assessment or re-assessment, is treated as a party to the appeal. In these circumstances', the question that the Income-tax Officer is a person with a bias or not is not free from doubt but it appears to me that if is not necessary in this case to express any final opinion on this point because, even if it be held that the Income-tax Officer is a person with a bias, I am not prepared to accept the submission of learned counsel for the petitioner that orders of assessment or re-assessment passed by him would be invalid.
+The case of AIR 1959 SC 308, which came up before the Supreme Court, was one where there was only one right of hearing under the law and, under the rules and orders made by the Government of Andhra Pradesh, that hearing was afforded by the Secretary of the Transport Department who was held to be a person with a bias. There was no further appeal or any further hearing before any other independent authority Or tribunal.
+In the Income-tax Act
+, the position is different. Whenever an order of assessment or re-assessment is made by an Income-tax Officer, if is subject to an appeal before the Appellate Assistant Commissioner and to a further appeal before the Income-tax Appellate Tribunal.
+There can bo a valid scheme where the making of an initial order, because of the circumstances in which that order is to be made, may be entrusted to a person who has a bias but the right of hearing before an independent authority may be granted by making a provision for appeal to an independent authority. In such a case, the aggrieved person would get a hearing before an independent authority whose decision would be final and, it such a provision exists, it cannot be said that any principles of natural justice are violated. It appears to me that the essential feature of the principles of natural justice is that no person should be deprived o any right by a judicial or quasi-judicial order unless he has had a hearing before an independent authority who is not interested in the proceedings or in any party to the proceeding.
+Under the Income-tax Act
+, this principle is complied with by permitting appeals before the Appellate Assistant Commissioner and the Income-tax Appellate Tribunal.
+14. There is the further aspect that the principle of natural justice, which was applied by their Lordships of the Supreme Court in the case of AIR 1959 SC 308, was in that case applied to rules framed by the State Government or to the executive orders passed by the State Government. The Legislative enactment had only provided for hearing being given by the State Government without laying down that the hearing was to be by the Secretary, Incharge of the State Transport Department. The rules and orders, under which the Secretary of the State Transport Department was authorised to give a hearing, were declared void by the Supreme Court on the ground that the procedure violated the principle of natural justice mentioned above. The same consideration does not apply when the principle of natural justice is done away with by a specific provision having been made in a statute by the Legislature.
+This was held by their Lordships of the Supreme Court in
+A. K. Gopalan v. State of Madras
+, AIR 1950 SC 27, where their Lordships' decision was expressed in the following words:
+"There is considerable authority for the statement that the Courts are not at liberty to declare an Act void because in their opinion it is opposed to a spirit supposed to pervade the constitution but not expressed in words. Where the fundamental law has not limited, either in terms or by necessary implication, the general powers conferred upon the Legislature, we cannot declare a limitation under the notion of having discovered something in the spirit of the constitution which is not even mentioned in the instrument. It is difficult upon any general principles to limit the omnipotence of the sovereign legislative power by judicial interposition, except so far as the express words of a written constitution give that authority. It is also stated, if the words be positive and without ambiguity, there is no authority for a Court to vacate or repeal a statute on that ground alone. But it is only in express constitutional provisions limiting legislative power and controlling the temporary will of a majority by a permanent and paramount law settled by the deliberate wisdom of the nation that one can find a safe and solid ground for the authority of Courts of justice to declare void any legislative enactment. Any assumption of authority beyond this would be to place in the hands of the judiciary powers too great and too indefinite either for its own security or the protection of private right."
+The principle was even more clearly expressed by a Division Bench of this Court in
+Ch. Mukhtar Singh v. State of U. P.
+, 1956 All LJ 878: (AIR 1957 All 297). In that case, the principles of natural justice, which held to be welt-settled, were enumerated as being four in number, viz.,
+1. That every person whose civil rights are affected must have a reasonable notice of the case he has to meet.
+2. That he must have reasonable opportunity of being heard in his defence.
+3. That the hearing must be by an impartial tribunal, i. e. a person who is neither directly nor indirectly a party to the case, or who has an interest in the litigation or is already biased against the party concerned.
+4. That the authority must act in good faith, and not arbitrarily but reasonably.
+The learned Judges then proceeded to lay down in which cases these principles of natural justice can be invoked under the Indian law and held that they can be invoked in the following three classes of cases:
+"(a) When it is alleged that a certain person or class of persons have been unreasonably discriminated against, and that the law violates the provisions of
+Article 14;
+Or that the restrictions imposed upon the freedoms guaranteed under
+Article 19
+are unreasonable.
+(b) When a rule or regulation or order made jn the exercise of a statutory power is attacked on the ground that it is unreasonable, and
+(c) When the procedure adopted by a judicial or quasi-judicial authority not being one prescribed by law is challenged on the ground that it is unfair and unjust."
+Proceeding further, it was held that
+  "under the Indian Constitution, except as provided in
+Article 14
+of the Constitution, there is no general limitation on the power of the Legislature that it will not enact a law contrary to the principles of natural justice. If a certain procedure is prescribed by law, then, unless it contravenes the provisions of
+Article 14
+, it cannot be challenged as invalid upon any supposed principles of natural justice. In this respect, it departs from the American Constitution under which the Union and the State Legislatures are forbidden to enact laws affecting the life, liberty or property of individuals except in accordance with the due process of law. Due process of law includes principles of natural justice. The doctrine of due process has not been adopted by the Indian Constitution save in certain cases where its principles have been expressly enacted in the Constitution."
+In the instant case, the Income-tax Officer has been entrusted with the power of passing orders of assessment or re-assessment by the Act itself which was enacted by the Legislature and, consequently, principles of natural justice cannot be invoked for the purpose of holding that such a provision is void. It was not urged at any stage before us that, in entrusting this work to the Income-tax Officer, the Legislature had violated any . express provision of the Constitution. This is, in my opinion, the principal ground on which this submission made by learned counsel for the petitioner must be rejected.
+15. Out of the remaining points, which were raised in this petition, only one other point was mentioned by learned counsel for the petitioner before us. That point is raised in Ground No. (g) of the writ petition and is to the effect that proceedings for assessment or re-assessment under
+Section 34
+(1
+A) of the Act
+are taken on subjective satisfaction of the Central Board of Revenue or the Income-tax Officer without any requirement of disclosure of the grounds of such satisfaction and without any right of prior representation before the satisfaction is recorded. Reliance was placed on a  decision of the Supreme Court in Raghubir Singh v. Court of Wards, Ajmer, AIR 1953 SC 373 but I do not think that the decision
+in that case
+is applicable to the present case. In that case, certain provisions of the
+Court of Wards Act
+were challenged on the ground that there was deprivation of possession of certain property on the subjective satisfaction of the authority mentioned therein. That no doubt violated the principle
+laid down in
+Article 19
+of the Constitution. In the instant case, the subjective satisfaction is only for the purpose of initiating proceedings under S. S4(1
+A) of the Act
+and all that can be done as a result of that subjective satisfaction is to take proceedings for assessment or re-assessment when the assessee is given all the rights which he can claim as a party to a judicial or quasi-judicial proceeding. It is not possible to accept that the provisions of
+Article 14
+or 19 of the Constitution can apply at the initial stage when proceedings have to be started on the subjective satisfaction of the authority empowered to initiate the proceedings. Consequently, this ground has no force at all.
+16. The facts and figures in the connected Writ Petition No. 469 of 1955 are slightly different from the facts and figures in Writ Petition No. 397 of 1955 but it was conceded by learned counsel tor the petitioner that the question relating to the invalidity of
+Section 34
+(1
+A) of the Act
+and the proceedings taken thereunder which arise in Writ Petition No, 469 of 1955 are identical with those which arise in Writ Petition No. 397 of 1955. Consequently, it is not necessary for me to give the facts and figures relating to Writ Petition No. 469 of 1955 and my decision on the basis of facts and circumstances in Writ Petition No. 397 of 1955 will fully apply to Writ Petition No. 469 of 1955.
+17. As a result of my view on the various points that were canvassed before the Full Bench, I have come to the conclusion that there is no force in these two writ petitions and they are, therefore, dismissed with costs which will include Rs. 400/- in each writ petition as fee of Jearned counsel for the Department.
+Chaturvedi, J.
+18. The above petitions were heard by a Division Bench which referred them for disposal by a larger Bench of three Judges. I have had the benefit of reading the judgment of Mr. Justice V. Bhargava with whose conclusions I agree. The learned Judge has dealt in detail with all the points canvassed before the Full Bench. It consequently propose to deal with only the more important ones and to give my own. reasons for arriving at the conclusion.
+19. The petitioners in Writ Case No. 469 of 1955 are the son and widow of late Shri J. P. Srivastava, and in Writ Case No, 397 of 1955 only the son is the petitioner. In giving the facts of the case, which in all material particulars are the same, I shall refer to the facts of Writ Case No 397 of 1955.
+20. The petitioner had been duly assessed to income-tax for the assessment year 1940-41 to 1946-47. On or about the 17th May 1948 he received notices from the Secretary, Income-tax Investigation Commission informing the petitioner that his case had been referred to the Income-tax Investigation Commissioner under
+Section 5(1)
+of the Taxation on Income (Investigation Commission) Act, 1947, (hereinafter called the Investigation Commission Act). The petitioner was required to furnish to the Investigation Commission certain information and to comply with the requisitions contained in. the notice. The petitioner supplied some information and also carried out some of the directions as required by the notice.
+Before, however, the Investigation Commission could deal with the case of the petitioner, the Commission was wound up, as a result of certain decisions of the Supreme Court of India, reference to which will be presently made. On 29-12-1954 the petitioner received seven notices from the Income-tax Officer purporting to be under
+Section 34(1A)
+of Indian Income-tax Act. By these notices the petitioner was required to submit return of his total income assessable for each of the assessment years 
+1940-41 to L946-47. On 29-1-1955 the petitioner asked for two months' time, but the Income-tax Officer allowed him only one month.
+A request for one month was again made, but it was refused by means of a letter dated 1-3-1955 of the Income-tax Officer (respondent No. 2) to whom the case had been transferred in the meantime. The respondent No. 2 allowed time to the petitioner up to the 25th March 1955 for filing the returns. The petitioner then wanted the Income-tax Officer to supply him with the reasons for the issue of the notices, but the reasons were not supplied. The petitioner then filed his returns under protest on 31-3-1955. The present petition was then moved with the prayer that a writ of mandamus be issued to both the Income-tax Officers (respondents Nos. 1 and 2) directing them to recall the notices and to forbear from proceeding under or in pursuance of the notices.
+21. The main ground taken in the writ petition is that
+Section 34(1A)
+of the Indian Income-tax Act is a void piece of legislation inasmuch as it is inconsistent with
+Article 14
+of the Constitution. The inconsistency pointed out is that the same class of persons who can be proceeded against under
+Section 34(1)
+Can also be proceeded against under
+Section 34(1A)
+, but the persons proceeded against under
+Section 34(1A)
+are denied equality before the law, because they are deprived of the rights of filing appeals and revisions against the assessment order and also deprived of an opportunity of having tbeir cases referred to the High Court under
+Section 66
+of the Income-tax Act.
+22. If the above were the true position, it would be obvious ihat
+Section 34
+(1 A) would be inconsistent with
+Article 14
+of the Constitution, but I think that that is not really the case. In order to appreciate the contentions of Mr. R. S. Pathak, learned counsel for the petitioner, who has argued the case with ability and skill, it is necessary to make a reference to some provisions of the Investigation Commission Act and of the Indian Income-tax Act as also tbe reasons for the enactment of
+Section 34(1A)
+.
+23. The Investigation Commission Act, Act No. XXX of 1947, came into force on 18-4-1947.
+Section 3
+of the Act authorised the Central Government to constitute a Commission called Income-tax Investigation Commission, and
+Section 4
+provided for the composition of the Commission.
+Section 5
+of the Act, as subsequently amended, contained four subsections. The first sub-section authorised the Central Government to refer to the Commission any case or point in a case in which the Centra) Government had prima facie reasons for believing that a person had, to a substantial extent, evaded payment of taxes on income. This the Central Government could do at any time before 1-9-1948.
+Sub-section (2) is immaterial, and Sub-section (3) provided that no reference made by the Central Government under Sub-section (1) could be called in question or be investigated in any manner by any Court. Sub-section (4) authorised the Commission to make a report to the Central Government, if by going into a case referred to it under Sub-section (1) the Commission found reasons to believe that some person other than the person whose case was being investigated had evaded payment of taxes on income or that some additional points in a case referred by the Government required investigation. On receipt of such report the Government was to forthwith refer the matter for investigation by the Commission.
+Section 6
+contained the powers of the Commission and
+Section 7
+the procedure to be followed by it.
+Section 8
+authorised the Commission to direct re-opening of assessment proceedings and
+Section 9
+barred the jurisdiction of all courts to question any act or proceeding of the Commission.
+Section 10
+conferred powers on the Central Government to make rules for carrying out the purposes of the Act. The Investigation Commission Act was passed under powers possessed by the Indian Legislature at the time when it was passed, and it was then a valid piece of legislation.
+Article 14
+of the Constitution came into force with effect from 26-1-1950 and the validity of the Investigation Commission Act was challenged more than once after the above date.
+24. The first decision of the Supreme Court dealing with, the validity of Sub-section (4) of S, 5 is reported in the case of 1954-26 ITR 1: (AIR 1954 SC 545). Their Lordships held that Sub-section (4) of Section 5 of the Investigation Commission Act included within its scope persons who may have evaded payment of taxes on income irrespective of whether the evaded profits were substantial or unsubstantial. It thus included within its ambit all the persons whose cases fell within
+Section 34(1)
+of the Income-tax Act. The provisions of the Investigation Commission Act were much more onerous and the result of the discussion led to the conclusion that the same class, of persons similarly situate could be dealt with by the onerous provisions of the Investigation Commission Act or
+Section 34(1)
+of the Income-tax Act, at the will of the Investigation Commission and the Central Government Consequently Section 5(4) of the Investigation Commission Act was held to be inconsistent with
+Article 14
+of the Constitution. This decision was given on 28-5-1954, and the Central Legislature soon after introduced sub-ss. (IA), (IB). (IC) and (ID) in
+Section 34
+of the Income-tax Act. These sub-sections came into force with effect from 17-7-1954.
+25. In the meantime Sri Meenakshi Mills Ltd. had filed petitions in the Supreme Court under
+Article 32
+of the Constitution and on the above sub-sections having been introduced, the Mills prayed for and obtained permission to amend the petition by challenging the constitutionality of Sub-section (1) of Section 5 of the Investigation Commission Act on the additional ground that Sub-section (1) of
+Section 5
+and the added sub-sections in
+Section 34
+of the Income-tax Act dealt with the same class of persons, and consequently Section 5(1) of the Invastigation Commission Act had become inconsistent with
+Article 14
+of the Constitution. Their Lordships decided the writ petition on 21-10-1954 and that decision is reported in the case of 19,54-26 ITR 713: ((S) AIR 1955 SC 13). The learned Judges held that the procedure prescribed by the Investigation Commission Act was of a summary and drastic nature and constituted departure from the ordinary law of procedure and in important aspects it was detrimental 'vo the persons subjected to it.
+The main points of difference in the normal, procedure provided by the Income-tax Act and the Investigation Commission Act had been dealt with in
+Surai Mall Mohta
+'s case, 1954-26 ITR 1: (AIR 1954 SC 545) and, therefore, did not require further discussion. Tt was held that the persons dealt with under the Investigation Commission Act could complain that thev were being dealt with under a more drastic and discriminatory procedure, when others, similarly situate, could be dealt with by the Income-tax Officer under tbe amended provisions of
+Section 34
+; of the
+Income-tax Act
+. This complaint was held to be justified and
+Section 5
+(11 of the Investigation Commission Act was also held to be inconsistent with Art 14 of the Constitution.
+26. The result of these decisions was that the Central Government could not refer to the Investigation Commission any fresh cases even at the instance of the Investigation Commission. But still some cases were pending before the Investigation 
+Commission, and in the case of 1956-29 ITR 390: ((S) AIR 1956 SC 269), it was further laid down that the Investigation Commission had no jurisdiction to complete the investigation of pending cases, because the whole procedure adopted by the Commission was violative of the fundamental rights guaranteed to the citizens under
+Article 14
+of the Constitution. But the assessments which had become final before 17-7-1954 were held to be valid and binding. This decision led to the winding up of the Investigation Commission finally.
+27. A similar Investigation Commission had been set up in Travancore and similar questions of the validity of the Act constituting the Commission were raised and decided by the Supreme Court in the case of 1956-29 ITR 349: ((S) AIR 1956 SC 246). The only point to be noted in this decision is that the class of persons falling under Section 5(1) of the Travancore Act, which corresponded to Section 5(1) of the Investigation Commission Act, was not the same class of persons as fell within
+Section 47(1)
+of the other Travancore Act, which mainly corresponded to
+Section 34(1)
+of the Indian Income-tax Act.
+28. After narrating the above history of the legislation. I may now come to the relevant portion of the impugned, sub-section, namely,
+Section 34
+(1
+A) of the Indian Income-tax Act
+. This sub-section provides that if the Income-tax Officer has reasons to believe that income, profits or gains chargeable to income-tax have escaped assessment for any year in respect of which the relevant previous year falls within the period beginning on 1-9-1939 and ending on the 31st March 1946 and that such income, profits or gains are likely to amount to one lac of rupees or more, the Income-tax Officer may, notwithstanding that the period of limitation provided in Clauses (a) and (b) of Sub-section (1) of
+Section 34
+has expired, serve on the assessee
+  "a notice containing all or any of the requirements.........  which may be included in a notice under Sub-section (2) of
+Section 22
+, and may proceed to assess or re-assess the income, profits or gains of the assessee for all or any of the years referred to in. Clause (i), and thereupon the provisions of this Act, (excepting those contained in Clauses (i) and (iii) of the proviso to Sub-section (1) and in sub-ss. (2) and (3) of this section) shall, so far as may be, apply accordingly;"
+29. The contention of the learned counsel for the petitioner is that a reading of the portion of
+Section 34(1A)
+, quoted above, shows that the assessment or re-assessment for the years in question is to be made under the above sub-section and not under
+Section 23
+of the Income-tax Act. After such assessment has been made under the impugned sub-section, the provisions of itihe
+Income-tax Act
+are to applv so far as they are applicable. The word "thereupon'' is given the meaning of "thereafter" and after giving this meaning, it is argued that the assessment of income-tax is to be under this sub-section and not under
+Section 23
+, with the consequence that the order of assessment passed under Sub-section (IA) would not be appealable under
+Section 30
+and, not being appealable under
+Section 30
+, no second appeal would lie to the Appellate Income-tax Tribunal under
+Section 33
+. Further, no reference would be permissible to the High Court under
+Section 66
+of the Income-tax Act. The argument is that the class of persons covered by
+Section 34(1)
+and that covered by
+Section 34
+(1 A) is the same and a person, who is dealt with under the latter sub-section, has all future remedies of appeal, revision and reference barred to him, which are available to the person dealt with under
+Section 34(1)
+of the Income-tax Act. All these serious consequences are said to follow from the fact that the assessments which are made under Sub-section (IA) will not be assessments under
+Section 23
+.
+30. I do not find it possible to accept the contention of the learned counsel for the petitioner. I think the impugned sub-section does not provide for dctermination of income-tax at all. In express words it only provides for assessment or re-assessment of the income, profits or gains. Assessment of income is different from the determination or assessment of income-tax on the income, profits or gains. Under the impugned sub-section the Income-tax Officer is to assess or re-assess the income, profits or gains and there he has to stop. The subsection confers no power upon him to determine the amount of tax. For that determination the Income-tax Officer will have to go to
+Section 23
+of the Income-tax Act. Sub-section (1) of that section requires the Income-tax Officer to first assess the total income of the assessee and then to determine the sum payable by him. Determination of tax follows the assessment of income. The same is the position with respect to Sub-section (3). Sub-section (4), which provides for what is called best judgment assessment, again says that the Income-tax Officer
+  "shall make the assessment to   the best of his judgment  and   determine the   sum payable  by  the assessee on the basis of such assessment......"
+Under Sub-section (5) the total income of the firm is assessed and in the case of an un-registered firm the income-tax payable by the firm itself is to be determined. It will thus appear that
+Section 23
+makes a clear distinction between assessment of income and determination of tax. The impugned Sub-section (IA) authorises the Income-tax Officer only "to assesss or re-assess the income, profits or gains of the assessee" and confers no power on that Officer tot determine the tax. For determination of tax the Income-tax Officer will have to go to
+Section 23
+. It consequently follows that even where proceedings have been started by a notice under Sub-section (IA) of
+Section 34
+and an assessment of the income has been made thereunder, the determination of the tax will fall under the provisions of
+Section 23
+with the consequence that and appeal, a second appeal and a reference will all be possible.
+31. The learned counsel for the petitioner argued that the word "assess" as used in the
+Indian Income-tax Act
+sometimes refers to the assessment of income, sometimes to the assessment of income tax and at others to the process of assessment. This' certainly is correct, but in the impugned sub-section the word "assess" does not stand by itself and refers expressly to the assessment of income. The learned counsel referred to the dictionary meanings of the words "thereupon", "apply", "provisions" and "accordingly". The words have been assigned more than one meaning in the dictionaries, but none of the meanings assigned to the words exclude the interpretation of the impugned sub-section that the Income-tax Officer is to assess the income and then the other provisions of the
+Income-tax Act
+become immediately applicable, including the provisions of
+Section 23
+.
+32. In Ronald Burrows. Vol. V, at page 388 reference has been made to an old English case in which Coleridge J., said thas the word in the relevant provision meant "in consequence of the preceding thing being done." Shorter Oxford English dictionary mentions a number of meanings of this word at page 2169 of Vol. II and one of the meanings of the word "thereupon" is "on that subject or matter, with reference to that". In Stroud's Judicial dictionary the word "thereupon" has also been assigned the meaning as being equivalent to "immediately". I think the word "thereupon" as used in the impugned sub-section has the meaning of "on that 
+subject or matter". But assuming that the word means "thereafter", the consequence is the same because the impugned sub-section only provides for assessment of income, and on this assessment having been made what immediately has to be done is the determination of (ho income-tax and for that the Income-tax Officer will derive his authority from
+Section 23
+of the Act.
+33. Coming to the significance of the word "apply" one of the meanings given to it by the Shorter Oxford English Dictionary is "to put into practical operation". The other meaning on which Mr, Pathak relies is "to bring it into contact with facts". I think the first meaning is the more appropriate one, but even the second meaning relied upon by Mr. Pa'hak does not alter the position.
+34. The word "provisions" means "each of the classes or division of a legal or formal! statement or such statement itself; or a class of such statement which makes express stipulation or condition". Here again the first meaning has to be applied to the Word "provisions" and this meaning does not in any way help the petitioner.
+35. The word "accordingly" is said to mean "harmoniously, properly, suitably, correspondingly or in accordance with legal premises." In Stroud's Judicial Dictionary it is said to mean "agreeably" or "correspondingly". Mr. R. S. Pathak's argument is that the word 'accordingly" means "correspondingly" and that the impugned sub-section corresponds to
+Section 23
+in the matter of determination of tax. find myself unable to accept his argument. The word "accordingly" here means "suitably, properly or harmoniously."
+36. All the four words, concerning the meaning of which controversy was raised before us, are capable of bearing the meanings which are consistent with the intention of the Legislature. In holding that the impugned sub-section contains the power of determination of tax in itself and that determination of tax does not fall under
+Section 23
+. I think the Court will have to stretch the meaning of the words in favour of the petitioner in order to invalidate the legislation. The rule of construction, on the other hand, is that there is a strong presumption that a statute is in accordance with the Constitution and that in cases of ambiguity meaning should be attached to it which would make it constitutional.
+I think there is no real ambiguity in the wordings of the impugned sub-section and the wordings clearly point to the conclusion that the determination of tax is not to be done under that sub-section, and to this matter as well as other the provisions of tho
+Indian Income-tax Act
+are to apply in so far as they may suitably be applied. In order to determine the tax the Income-tax Officer will have to go to
+Section 23
+and the determination, of the tax, therefore, will be under that section. Orders determining taxes under
+Section 23
+are appealable under
+Section 30
+and a second appeal lies under
+Section 33
+.
+37. The circumstances, which led to the introduction of the impugned sub-section in
+Section 34
+of the Indian Income-tax Act necessarily point to the conclusion that the Legislature must have tried to remove the defects for which Section 5(1) of the Investigation Commission Act had been held to be inconsistent with
+Article 14
+of the Constitution, by tho highest Court in the country. The main reason for invalidating
+Section 5(1)
+was that the order determining tax in pursuance of
+Section 5(1)
+was final and not open to a first appeal, second appeal or a reference to the High Court.
+The impugned sub-section was enacted after
+the above decision
+and it is not possible to contemplate that the Legislature would, in spite of the previous decision of the Supreme Court, again incorporate the main objections in the subsequent legislation. The intention of the Legislature must necessarily be to remove the defects which had invalidated Section 5(1) of the Investigation Commission Act. This intention, I hink, can be clearly gathered from the language of the impugned sub-section.
+38. Mr. Pathak referred to the cases of
+Smt, Hira Devi v. District Board, Shahjahanpur
+,
+AIR 1952 SC 362, and Nalinakhya Bysack v. Shyam Sunder Haldar
+, AIR 1953 SC 148. In the first case it was laid down that it was the duty of the Court to try and harmonise the various provisions of an Act passed by the Legislature, but that it was certainly not its duty to stretch the words used by the Legislature to fill in gaps or omissions in the provisions of the Act. In the second case it was held that if there was some defect in the phraseology used by the Legislature, the Court could not avoid the Legislature's defective phrasing of an Act or add or amend or, by construction, make up deficiencies which were left in the Act. From what I have stated above I think I am not doing anything in interpreting the impugned sub-section, which has been prohibited in the cases cited above.
+39. On the other hand, the cases of
+Bengal Immunity Co. Ltd. v. State of Bihar
+, 1955-2 SCR 603: ((S) AIR 1955 SC 661), and Gobardhan Das Purshotarn Das v. Eastern Cotton Co., AIR 1958 SC 713, are authorities for the proposition that there is a presumption of the constitutionality of an enactment. In the book 'Interpretation of Statutes' by Maxwell there are passages at pages 236, 256, 326 and 352. of the 9th edition, conferring wide powers, on the Court in the matter of interpretation of statutes. But in interpreting the present statute it does not appear to be necessary to call in aid any of those powers.
+40. In conclusion it may he stated that
+Section 34(1)
+of the Income-tax Act is to be applied generally to persons whose income has escaped assessment, and Sub-section (1A) is to apply to the particular class of tax evaders who had made profits exceeding a lac of rupees during the war period. This is a definite class of persons against whom no proceedings could be taken under
+Section 34(1)
+on the date the impugned section came into force, namely, 17-7-1954. The period provided for cases falling under
+Section 34(1)(a)
+was 8 vears and 7 years had expired before the impugned sub-section came into operation. The profits of only one year could be assessed both under
+Section 34(1)
+and
+Section 34(IA)
+.
+But it is obvious that where escaped income of the whole or major portion of the war period was to be investigated, recourse would be had to the impugned section which on its history and wordings, was meant to cover cases of the evasion of taxes during the war period. Even for that one year, concerning which notices could have been issued under both the sub-sections, the Income-tax Officer could proceed only under Sub-section (1A), if he was proceeding to assess the income for any substantial portion or the war period. There is thus a classification which was a reasonable one and clearly related to the object of the legislation.
+41. Further, assuming that one business man was proceeded against under
+Section 34(IA)
+and another, similarly situate, was proceeded against under
+section 34(1)
+. it would really make no difference because all the material provisions of the
+Indian Income-tax Act
+would apply to both the persons. The previsions of the impugned sub-section arc in no way more stringent or harsh than the provisions of
+Section 34(1)
+. No question of discrimination thus arises at all.
+42. I may now briefly refer to the second point urged by the learned counsel for the petitioner, though he did so with some hesitation. The point is that the Income-tax Officers are persons with a bias against the assessees and they have thus no jurisdiction to assess income or to determine tax thereon. In support of the point the learned counsel deferred only to a recent decision of the Supreme Court reported in the case of AIR 1959 SC 308. The above case aro.se out of proceedings taken under the
+Indian Motor Vehicles Act
+. There was also a local Act known as
+Andhra Pradesh Road Transport Corporations Act
+.
+The Act
+provided for the procedure for approval of a scheme for running the State Transport service. The State Transport undertaking was authorised to prepare a scheme providing for Road Transport service to the exclusion, complete or partial, of other persons. Any persons affected by the scheme could file objections before the Secretary to Government in charge of Transport Department. The Government then fixed a date for hearing objections and then the objections were to be considered and the scheme modified or approved. The objections in this case were filed and they were considered bv the Secretary to Government in charge of the Transport Department. He submitted a report to the Minister-in-charge and the Minister then approved the scheme. The learned Judges held by a majority that the proceedings were of a quasi-judicial nature and the Secretary to Government had acted as a judge in his own cause.
+His decision was, therefore, void, I think that the facts of the Supreme Court case are clearly different from the facts of the case before us. There was a Road Transport Corporation in the State ot Andhra Pradesh and the Secretary of the Transport Department was in charge of it. It was open to him to decide objections of the persons who were affected by the scheme prepared by the Corporation. The objectors formed one party and the Road Transport Corporation the other. The Secretary in charge of the Department was also personally responsible for the working of the Road Transport Corporation. Under the circumstances, he was also an interested, person. The position in the cases before us is very different. It cannot be said that the Income-tax Officers are one party to the assessment and the assessee the other.
+On the other hand, the parties are the Central Government and the assessee. The Income-tax Officer is to perform quasi-judicial acts and make enquiries concerning the correct income that the assessee made during the year in question. He is expected to act impartially between the Central Government and the assessee and then arrive at a decision as regards the assessable income. It is not in his interest personally or in his official capacity to improperly assess people to tax, even though the tax is not due. He has neither to over-assess the people nor under-assess them. He is not expected to' make assessments not authorised by the statute.
+42a. The suggestion of the learned counsel for the petitioner is that every Income-tax Officer fikes to show large recoveries by way of income-tax in order to show efficiency in his work. He is thus personally interes'ed against the assessee. I do not think anv such presumption is permissible. The income-tax Officers are expected to perform their duties without fear or favour and to recover taxes only where they are legally due. The result of accepting the contention of the learned counsel would be that the work of the Income-tax Officers would have !o be done by Officers belonging to the otlier departments, and when those Officers have been deputed to this work, it might again  be argued that those Officers had acquired a similar interest. I do not think that the decision relied upon by the learned counsel has any application to the facts of these cases.
+43. For the reasons given above, I would dismiss the writ petitions with costs, which will include Rs. 400/- in each Writ Petition as fee of learned Counsel for the department.
+Upadhya, J.
+44. These two petitions under
+Article 226
+of the Constitution raise the question as to whether
+Section 34
+(1
+A) of the Indian Income-tax Act
+is void as offending against
+Article 14
+of the Constitution.
+45. The petitioners pray for the issue of appropriate writs to quash the notices issued under that section. Though several grounds were raised in the petition learned counsel for the petitioners, without giving up the other grounds, pressed in, main for our consideration two grounds for challenging the notices and proceedings under
+Section 34(1A)
+of the Income-tax Act -- (1) That
+Section 34
+(1
+A) of the Act
+offended
+Article 14
+of the Constitution as it denied equality before the law and provided a discriminatory procedure which could be followed by the Income-tax Officer in 'the case of persons selected by him for such treatment, and (2) that the proceedings being of a judicial or quasi-judicial nature the Income-tax Officer who was an interested party could not be validly empowered to take action and decide such cases.
+46. I have had the advantage of reading that opinions expressed by my learned brothers Bhargava and Chaturvedi, JJ. Though I agree with their decisions relating to the second ground mentioned above I regret I am unable to agree with their views On the first ground.
+47. The facts of the case have been set out by my brother Bhargava J. and I do not think it is necessary to repeat them. He has also set out in his judgment the development of the law relating to the provisions of
+Section 34
+of the Income-tax Act which again need not be reiterated.
+48.
+Section 34(1)
+provides for the assessment of income, profits and gains chargeable tot income-tax that have escaped assessment over any yeai or have been under-assessed or assessed at too low a rate or have been made the subject of excessive relief under the Act or excessive loss or depreciation Or allowance has been computed, and dividing such cases into two cksscs on certain grounds emunerated in that section prescribes certain periods of limitation during which notices may be issued by the Income-tax Officer to the person concerned and further lays down that a notice to be issued should be one containing all or any of the requirements which may be in a notice under Sub-section (2) of
+Section 22
+, and that the Income-tax Officer may proceed to assess or re-assess income, profits or gains or re-compute the loss or depreciation allowance and the provisions of the Act shall, so far as may be; apply accordingly as if the notice were a notice issued under that subsection' (viz.
+section 22 (2)
+of the Act).
+49.
+Section 34(1A)
+which was introduced by the Indian Income-tax (Amendment) Act 1954 with effect from 1 7-7-1954 provides as follows:
+"34(1A). If, in the case of any assessee, the Income-tax Officer has reason to believe--
+(i) that income, profits or gains chargeable to income-tax have escaped assessment for any year in respect of which the relevant previous year falls wholly or partly within the period beginning on 1-9-1939. and ending on 31-3-1946; and
+(ii) that the income profits or gains which have so escaped assessment for any such year or years amount, or are likely to amount to one lakh of rupees or more;
+he may, notwithstanding that the period of eight years or, as the case may be, four years specified in Sub-section. (1) has expired in respect thereof, servo on the assessee, or, if the assessee is a company, on the principal officer thereof, a notice containing all or any of the requirements which may he included in a notice under Sub-section (2) of
+Section 22
+, and may proceed to assess or re-assess the income, profits or gains of the assessee for all or any of the years referred to in Clause (i), and thereupon the provisions of this Act (excepting those contained in Clauses (i) and (iii) of the proviso to Sub-section (1) and in Sub-sections (2) and (3) of this section) shall, so far as may be. apply accordingly:
+Provided that the Income-tax Officer shall not issue a notice under this sub-section unless he has recorded his reasons for doing so, and the Central Board of Revenue is satisfied on such reasons recorded that it is a fit case for the issue of such notice:
+Provided  further  that no  such  notice shall   be issued after 31-3-1956."
+50. In order to proceed under this provision of the Statute the Income-tax Officer should have reason to believe (i) that income, profits or gains chargeable to income-tax that have escaped assessment were partly or wholly of the periods falling between 1-9-1939 and 31-3-1946 and (ii) that they amounted to one lakh of rupees or more. If the Officer has reason to believe these two things the period of 8 years and 4 years mentioned in
+Section 34(1)
+are not to be applicable and the Income-tax Officer mav issue a notice con'aining all or any of the requirements of a notice under
+Section 22(2)
+and the provisions of this Act, excepting those contained in Clauses 1 and 3 of the proviso to Sub-section (1) and in Sub-sections (2) and (3) of this section shall, so far as may be, apply accordingly.
+The words 'as if the notice were a notice issued under that sub-section' which occur in
+Section 34(1)
+do not find place in this new provision. Mr. Pathak learned counsel for the petitioner contended that this omission was significant, meaningful and of consequence. The procedure to be adopted in cases falling under Section 34-1A is not intended to be the same as the procedure which has to be followed in those cases falling under
+Section 34(1)
+. Learned counsel contended that inasmuch as both these sections related to the assessment of, income, profits and gains chargeable to income-tax that have escaped assessment for any year the legislature has gone contrary tn
+Article 14
+of the Constitution in providing a different procedure which according to him was more drastic in the cases found under
+Section 34(1A)
+. This contention has not found favour with my esteemed brothers.
+51.
+The Income-tax Act
+lays down the procedure to he followed for the levy and collection of tax. The provisions relating to this procedure begin with
+Section 21
+of the Act which lays down how the prescribed person in the Case of every government office and the principal officer or the prescribed officer in the case of every local authority, companv or other public body or association, and every private employer shall prepare within 30 days of the commencement of the financial year and deliver to the Income-tax Officer in the prescribed form a return in writing giving certain information prescribed in 'hat section.
+Sections 22
+and
+23
+are most important     sections in the Act which deal with procedure.
+Section 22(1)
+says how an Income-tax Officer is to publish a notice calling for returns of income and how all persons having taxable income are required to submit returns in the prescribed form of their total income etc.
+Section 22(2)
+says that if the Income-tax Officer is of opinion that any person has income of such an amount as renders Mm liable to Income-tax the Officer may serve a notice upon him requiring him to  furnish, within a certain period, a return in the prescribed form setting forth his total income during the previous year.
+Section 22(3)
+enables the assessee to file a return even after the period allowed to hum under
+Section 22(2)
+has expired at any time before the assessment.
+Section 22(4)
+empowers the Income-tax Officer to call for the production of certain accounts etc.
+Section 22(5)
+provides how certain information mentioned in that section has to be given in the returns to be filed under Sub-sections (1) and (2). After calling for the return the Income-tax Officer has to proceed to make the assessment, In case a return is filed it is open to him to accept, it as correct and complete and make an assessment under
+Section 23(1)
+. If the Income-tax Officer is not satisfied with the return he may give the assessee an opportunity to produce evidence in support of his return under
+Section 23(2)
+.
+The next sub-
+section 23 (3)
+lays down how the Income-tax Officer after receiving the evidence tendered under
+Section 23(2)
+and taking such evidence as he himself may find necessary to require on specified points, shall by an order in writing 'assess the total income of the assessee and determine the sum payable by him on the basis of such assessment. The next sub-section empowers the Income-tax Officer to make an assessment to the best of his judgment in certain cases and also to refuse to register firms or to cancel their registration in the event of defaults by the firms. Sub-section (5) deals with, the incidence of taxation in the case of firms.
+Section 23(3)
+enables the Income-tax Officer, as mentioned above, to make the assessment on the day specified in the notice issued under Sub-section (2) ot
+Section 23
+or as soon thereafter as may be. This section therefore requires that a notice under
+Section 23(2)
+must precede an assessment under this sub-section.
+Section 23(2)
+requires an assessment under this subsection.
+Section 23(2)
+requires an Income-tax Officer to issue a notice in case he is not satisfied with the return filed by an assessee under
+Section 22
+. The provisions of
+Section 23(2)
+are therefore applicable only to those cases where returns have been made either voluntarily under
+Section 22(1)
+or in response to a notice under
+Section 22(2)
+. The words used in this sub-section are material and may be quoted.
+"23(2)-- If the Income-tax Officer is not satisfied  without  requiring the presence of   the person who   made   the   return   or   the   production   of evidence  that  a  return made under
+Section  22
+is correct and   complete,   he      shall   serve   on   such   person a notice requiring him. on a date to be therein specified,   cither  to  attend   at  the  Income-tax   Officer's office or to produce, or to cause to be there produced    any   evidence   on   which   such   person   may rely in support of the return."
+The significance of the fiction introduced in
+section 34(1)
+that the notice issued under that provision should be deemed to be a notice issued under
+Section 22(2)
+is realised when we find occurring in Section 2fV2) and certain other provisions of the Act definite reference to the notice issued under
+section 22(2)
+. It may be noticed that
+Section 23(2)
+contains no reference, whatever, to any no-ice issued under
+Section 34(1)
+. In the absence of the above fiction introduced by the use of express words in
+Section 34
+(1} that the notice to be issued under that section was to be deemed to be a notice under
+Section 22(2)
+Section 23(2)
+would not be applicable at all.
+The Income-tax Officer is bound to give an opportunity to the assessee to produce evidence in support of his return only if the return is filed under
+Section 22
+. By reason of the fiction mentioned above, the notice issued under
+Section 34 (1)
+is to be deemed to be a notice under
+section 22(2)
+and therefore the Incone-tax Officer before making an assessment has to issue notice under
+Section 23(2)
+of the Act asking the assessee to prove his return. After this opportunity has been given and date fixed for the purpose the Income-tax Officer may proceed to make an assessment under
+Section 23(3)
+in the case of a notice issued under
+Section 34(1)
+as in the case of a notice issued under
+Section 22(2)
+itself.
+Section 34(1)
+lays down that
+  "the provisions of this Act shall, so far as may be, apply accordingly as if the notices were a notice issued under that sub-section."
+This makes
+Section 23
+applicable to cases under
+section 34(1)
+also for all the provisions of this Act are to apply as if the notice issued under
+Section 34(1)
+were a notice issued under
+Section 22(2)
+.
+Section 23
+of the Act therefore, which is a provision relating to assessment is to apply to a case under
+section 34(1)
+and it is only then that an appeal may be preferred against the assessment under
+Section 30
+to the Appellate Assistant Commissioner.
+Section 30
+, has no reference to an assessment under
+Section 34(1)
+and among the persons who may prefer an appeal under
+Section 30
+is an assessee objecting to the amount of income assessed under
+Section 23
+. This right has not been specifically conferred on any person assessed under any provision, other than
+section 23
+of the Act. The second appeal to the Appellate Tribunal can only be preferred by an assessee who has first preferred an appeal to the Appellate Assistant Commissioner so that a person, who has not been served with a notice under
+Section 22(2)
+or with a notice which may be treated as one under
+Section 23(2)
+by a fiction of the law cannot be assessed under
+Section 23
+and cannot prefer an appeal to the Appellate Assistant Commissioner and cannot go up in a second appeal to the Tribunal. The question of coming to the High Court or going up to the Supreme Court under the provisions of the Act does not arise. I am inclined to accept Mr. Pathak's argument that use of the words 'as it the notice were a notice issued under that sub-section' (under
+Section 34(1)
+) was intentional and calculated to introduce a fiction which was considered to be essential to make available a procedure prescribed in the Act for cases where a notice had been issued under
+Section 22(2)
+and make certain other provisions available for application which in the Act contain specific reference to
+Section 22
+. Some of such provisions may be mentioned. Section 22-A deals with cases where a partition has taken place in a joint Hindu family and provides how the tax may be apportioned between erstwhile members of the family.
+"Where at the time of making an assessment under
+Section 23
+, it is claimed by or on behalf of any member of a Hindu family hitherto assessed as undivided that a partition has taken place among the members of such family ........"
+The assessment has to be under
+Section 23
+beginning with a notice under
+section 22
+in order to enable an assessee to claim the advantage of this provision, of the statute. Similarly
+Section 26(1)
+which deals with what is to happen when a change takes place in the constitution of a firm says--
+"Where at the time of making an assessment under
+Section 23
+, it is found that a change has occurred in the constitution of a firm or that a firm has been newly constituted, the assessment shall be made on the firm as constituted at the time of making the assessment."
+There is no reference to a change that may be found at the time of making an assessment under
+Section 34
+. I do not think it can be urged that this omission to refer to
+Section 34
+is unintentional or without any significance. In Section 24-B Sub-section (2), which deals with the procedure in case a person thes before he is assessed there is specific reference both to
+Section 22
+as well as to
+Section 34
+. This provision is as follows;
+"24B(2). Where a,, person thes before the publication of the notice referred to in Sub-section (1) of
+Section 22
+or before he is served with a notice under Sub-section (2) of
+Section 22
+or
+Section 34
+as the case may be, his executor, administrator or other legal representative shall, on the serving of the notice under subsection (2) of the
+Section 22
+or under
+Section 34
+, as the case may be comply therewith, and the Income-tax Officer may proceed to assess the total income of the deceased person as if such executor, administrator or other legal representative were the assessee."
+Section 27
+has no reference to
+Section 34
+and deals with cases where defaults have been committed in respect of a notice under
+Section 22(1)
+or (2) or (4) or
+Section 23(2)
+of the Act. When we come to
+Section 28
+we again find a reference to
+Section 34
+. That section says:
+"28. (1) If the Income-tax Officer, the Appellate Assistant Commissioner or the Appellate Tribunal, in the course of any proceedings under this Act, is satisfied that any person--
+(a) has without reasonable cause failed to furnish the return of his total income which he was required   to   furnish   by   notice    given   under   Subsection (1)  or Sub-section  (2) of
+Section 22
+or
+Section 34
+or has   without   reasonable   cause   failed   to   furnish   it within  the   time     allowed   and  in   the manner required  by  such  notice.  ......
+Provided that--
+(a)  .......
+(b) Where a person has failed to comply with a notice under Sub-section (2) of
+Section 22
+or
+Section 34
+and proves that he has no income liable to tax the penalty imposable under this sub-section shall be a penalty not exceeding twentv five rupees."
+As mentioned above
+Section 30
+has no reference to
+section 34
+as such and it is only when a person has been assessed under
+Section 23
+that he can go up in appeal to an Appellate Assistant Commissioner. In the absence of the fiction requiring the notice under
+Section 34
+to be treated as one under
+Section 22(2)
+, the assessment cannot be treated as one having been made under
+Section 23
+and no appeal would therefore lie to the Appellate Assistant Commissioner.
+The powers of the Commissioner under
+section 33-A
+are however not restricted to proceedings under
+Section 23
+and he is competent to call for the record of any proceeding under this Act and make such enquiry or pass such orders thereon as he thinks fit. This is obviously comprehensive enough to empower a Commissioner to send for the record of proceedings under
+Section 34
+even if the fiction relating to the notice be not there and to pass such orders thereon as he considers proper. Under
+section 33B(2)(a)
+the Commissioner is not competent to pass an order under Sub-section (1) of
+Section 33B
+to revise an order of re-assessment made under the provisions of
+Section 34
+. This mention of
+Section 34
+indicates that assessments under
+Sections 23
+and
+34
+were 
+both distinctly in view when these provisions were enacted. It appears therefore from the above that it is not possible to treat a notice issued under
+Section 34
+(1 A) exactly at par with a notice issued under
+Section 34(1)
+o the Act. The expression 'as if the notice were a notice issued under that sub-section does not find place in the new
+Section 34(1A)
+. The question is whether the omission results in any difference between the two notices and the procedure to be followed on the issue of those two notices. It has been contended that the expression 'thereupon the provisions of this Act ..... shall, so far as may be, apply accordingly' js comprehensive enough to make all the other provisions of this Act applicable except Ihose mentioned in Clauses (i) and (iii) of proviso to Sub-section (1) of
+Section 34
+and in Sub-sections (2) and (3) of
+Section 34
+. In the first place it does not appear correct to take the view that in spite of a difference in language the meaning of the two provisions must be taken -o be the same. A fiction is intended to be introduced in
+section 34(1)
+so that a notice issued under
+Section 34(1)
+may be treated as if it was issued under
+Section 22(2)
+. Had it been intended that a similar fiction should attach to a notice issued under
+Section 34(1A)
+there appears to be nothing why the legislature should have dropped the relevant phrase when enacting
+Section 34
+(1 A). Those provisions of the Act whose application has been expressly excepted may be considered. Clause (iii) of the proviso to sub-section (1) of
+Section 34
+provides that the Income-tax Officel shall not issue a notice under Clause (a) of
+section 34(1)
+unlass he has recorded his reasons for doing so and the Commissioner is satisfied on such reasons recorded that it is a fit case for the issue of such a notice. The proviso to
+Section 34(1A)
+requires the Income-tax Officer not to issue a notice unless he has recorded his reasons for doing so and the Central Board of Revenue is satisfied on such reasons recorded that it is a fit case for the issue of such notices. When the new provision requires the Central Board of Revenue to be satisfied it was obviously necessary to make it clear that the satisfaction of the Commissioner was not relevant. Clause (ii) of the proviso to
+Section 34(1)
+relates to the periods of eight years and four years mentioned in
+Section 34(1)
+and as these periods are not mentioned in
+Section 34
+(1 A), this Clause was also evidently inapplicable.
+Section 34(2)
+relates expressly to_ assessments reopened in the circumstances falling under cl. 34(1)(b). This provision therefore could not apply to Section 34Q-A).
+Section 34(3)
+deals expressly with cases of assessment under
+section 23
+and says that no such assessment shall be made after the expiry of eight years or four years from the end of the relevant assessment year as provided in that section. This again is evidently inapplicable to
+Section 34(1A)
+which empowers an assessment to be made without any period of limitation being prescribed for such assessment. These exceptions furnish no clue as to have (sic) the other provisions of the Act would apply.
+Section 34(1A)
+says that the provisions of this Act shall 'so far as may be apply accordingly. If we examine
+Section 23
+and try to apply the provisions of that section fo proceedings started by a notice issued under
+section 34(lA)
+we find that unless the Various provisions of
+Section 23
+are modified they cannot be made applicable to
+Section 34(1A)
+.
+Section 23(1)
+says:
+"23 (1). If the Income-tax Officer is satisfied without requiring the presence of the assessee or the production by him of any evidence that a return made under
+Section 22
+is correct and complete, he shall assess the total income of the assessee, and shall determine the sum payable by him on the basis of such return."
+This evidently relates to a return made under
+Section 22
+. A return made in response to a notice under
+Section 34
+(1-A) is certainly not a return under
+Section 22
+and this provision of the statute, as it stands, is inapplicable. Similarly
+section 23(2)
+requires an Income-tax Officer who is not satisfied with the return made under
+Section 22
+to give an opportunity to an assessee to produce evidence in support of that return. Again if the return filed under
+Section 34
+(1 A) cannot be treated as a return under
+Section 22
+, tin's provision cannot be applied.
+Section 23 (3)
+refers to subsequent proceedings and
+section 23(4)
+again deals with persons in default ot notice issued under
+Sections 22
+and
+23
+. These provisions therefore do not, as such, apply to proceedings under
+Section 34(1A)
+. It is contended that the procedure prescribed under these provisions is based on principles of natural justice and should be followed in cases where the notice has been issued under
+Section 34(1A)
+. It may be that when making an assessment under
+Section 34(1A)
+the procedure consistent with the principles of natural justice may have to be followed, but this is not the same thing as applying the provisions of the Income- tax Act to such proceedings. The section says that the provisions of the
+Income-tax Act
+shale apply so far as may be. This, in my opinion, means so far as they may be applied. I am unable to read in this provision a direction that the provisions of the
+Income-tax Act
+should be applied mutatis mutandis with such changes as may be necessary to make them applicable to proceedings under
+Section 34
+(1-A). It appears to me that the provisions of the
+Income-tax Act
+should apply to proceedings under
+Section 34
+(1 A) only so far as they can be applied without any change in the language of those provisions, and when there is no conflict between those provisions and
+Section 34
+(1 A). If the language used in
+Section 23
+is such that it applies in terms only to cases where a return is filed in response to a notice under Section 22 I find myself unable to accept the contention that the section should also be made applicable to a return tiled in response to a notice issued under
+Section 34(1A)
+. I find that there is no warrant for reading
+Section 34(1A)
+for
+Section 22
+wherever the latter section is mentioned in
+Section 23
+. The whole of the section should be applied if possible and if we apply the entire
+Section 23
+reference to returns under
+Section 22
+will be there and the provisions of
+Section 23
+relating to assessments to be made after returns have been filed under
+section 22
+will also be there and it will not in any way improve the situation and I do not see how an assessment made under
+Section 34(lA)
+may be treated as an assessment made under
+Section 23
+. It is to remove this difficulty that the fiction was introduced in
+Section 34(1)
+.
+Section 34(1A)
+does not say that the other provisions of the Act will apply with such modification as may be necessary, In this connection it may be worth recalling Section 21 of the Excess Profits Act. That .section reads as follows:
+"The  provisions  of
+Sections  4A
+,
+4B
+,
+10
+,
+13
+24B
+,
+29
+,
+36
+, to
+44c (inclusive)
+,
+45
+to
+48 (inclusive)
+,
+49E
+,
+49F
+,
+50
+,
+54
+,
+61
+to
+63 (inclusive)
+,
+65
+to
+67A (inclusive)
+of the  Indian   Income-tax   Act,   1922   shall apply with such modifications,  if any, as  may   be prescribed, as if the said provisions were provisions  of this  Act and referred to excess profits   tax instead of to income-tax and every officer exercising powers under the said  provisions  in  regard to income-tax  may  exercise the like powers   under  this Act in regard  to excess   profits   tax  in   respect   of cases assigned to him under Sub-section   (3)  of
+Section 3
+as he   exercises   in   relation   to   income-tax under   the said  Act."
+52. The provisions of the
+Income-tax Act
+mentioned in Section 21 of the E. P. T. Act were made to 
+apply with such modification, if any, as may be prescribed. There is no such provision in
+section 34(1A)
+enabling one to apply the other provisions of the
+Income-tax Act
+with such modification as may be necessary. The law only says that the other provisions of the Act may be applied so tar as may be only and if they cannot bo applied as ' they stand they cannot be applied at all.
+53. It was argued that among the provisions
+of the Act made applicable to
+Section 34(1A)
+is
+Section 34(1)
+itself along with its fiction and the fiction
+would thus be available even if the notice be is
+sued under
+Section 34(1A)
+. The fiction is restricted to
+a notice issued under
+Section 34(1)
+and even if it be
+assumed that
+Section 34(1)
+would apply the fiction can
+not be torn away from its context and be made
+applicable to a notice issued under
+Section 34(1A)
+. Be
+sides
+Sections 34(1)
+and
+34
+(1 A) are parallel provisions
+and I am unable to see how the main part of sec
+tion 34(1) can be applied at all to
+Section 34(1A)
+. The
+three provisos and the explanation to
+Section 34
+(1} deal1
+with matters which may be said to be relevant to the main provision. Of these provisos (i) and (iii) were found to be obviously inapplicable and have been excepted.
+For the same reason the main provisions of
+Section 34(1)
+, which deal with cases where notices are to be issued under
+Sections 34
+(1 A) and 34(1B) would not apply to a notice issued under
+Section 34
+(1 A). It may be noticed however that the second proviso which says that the tax shall be chargeable at the rate at which it would have been charged had the income,' profit and gains not escaped assessment or full assessment, as the case may be is not excepted for the proviso can obviously be applied to a case of an assessment made under
+Section 34
+(1 A). Similarly the explanation also may be found to be applicable to
+section 34(1A)
+.
+54.   An argument  has   been  advanced  that  if the provisions of
+Sections 23
+,
+30
+,
+31
+,
+33
+and
+66
+are not made applicable the entire object of the legislature to assess income of the class mentioned in
+Section 34
+(1 A) would be frustrated and the legislature cannot be credited with having put on the statute book a piece of legislation which was abortive or ineffectual.
+Section 34(1A)
+empowers the Income-tax Officer no" only to issue a notice as mentioned in that section but goes on to say that he may proceed to assess or re-assess the income, profits or gains of the assessee for all or any of the years referred. ... . It is contended that this cm-powers an Income-tax Officer to assess the income but does not empower him (o levy the tax. Our attention was invited to
+Section 23(3)
+which says that the Income-tax Officer
+  "shall by an order in writing assess the total income of the assessee and determine the sum payable by him on the basis of such assessment."
+It is  contended that the determination of the sum payable by the assessee on the basis of an assessment is essential to impose a liability on the assessee.
+55.
+Section 3
+of the Income-tax Act is the charging section. It reads as follows:
+"3, Where any Central Act enacts that income-tax shall be charged for any year at any rate or rates, tax at that rate or those rates shall be charged for that year in accordance with, and subject to the provisions of this Act in respect of the total income of the previous year for every individual, Hindu undivided family, Company and local authority, and of every firm and other association oE persons or the partners of the firm or the members of the association individually."
+This section lays down that tax shall be charged in respect of the total income of the previous year of an assessee. The determination of the total income therefore is a very important thing to be done under the Act.
+Section 4
+which deals with the application of the Act to various kinds of income says how the 'total income' is to be ascertained and 'total income has been defined in
+Section 2(15)
+as meaning the total amount of income, profits and gains computed jn the manner laid down in the Act. The determination of the tax payable on the total income is in fact levying a charge of tax. Which
+Section 3
+requires to be done. The words 'assess' and 'assessment' have not been defined in the Act, but assessee was defined originally as a person by whom the tax was payable and the assessee now under
+Section 2(2)
+means 'a person by whom income-tax or any other sum of money is payable under this Act and includes every person in respect of whom any proceeding under this Act has been taken for the assessment of his income or of the loss sustained by him or of the amount of refund due to him. Lord Simon in his Book on Income-tax Volume 1 at page 160 (second Edition) says --
+"For income-tax purposes, 'assessing' means the process of making assessments and covers the process from the examination of the completed return forms if any to the issue of the notices of assessment showing the amounts of tax payable."
+In this country the word "assessment" as used in the
+Indian Income-tax Act
+has been held to have a very comprehensive meaning varying with the context. In Commissioner of Income-tax Bombay and Aden v. Khemchand Ramdas, 1938-6 ITR 414: (AIR 1938 PC 175), Lord Romer observed as follows:
+"One of the peculiarities of most Income-tax Acts is that the word 'assessment' is used as meaning sometimes the computation of income, sometimes the determination of the amount of tax payable find sometimes the whole procedure laid clown in this Act for imposing liability upon the taxpayer. The Indian Income-tax is no exception in this respect."
+In Badri Das Daga v. Commissioner of Income-tax Central and United Provinces, Lucknow, 1949-17. ITR 209: (AIR 1949 PC 159), Lord Reid said :
+"Some confusion arises from the fact that in the Act the words 'assessment' and 'assessee' are used in different places with different meanings."
+The same view was taken by a Bench of the Bombay High Court in
+Commissioner of Income-tax v. Jagdish Prasad Ramnath
+, 1955-27 ITR 192: (AIR) 1955 Bom 255). Chagla, C. J. observed :
+"Now, it is perfectly true that the expression 'assessment' has been very widely construed and it has been observed that it bears a different meaning according to the context in which it is used, and we accent Mr. Kolall's contention that that in
+Section 30
+We must construe the expression 'assessed' in its widest connotation. Therefore 'assessment' may not onlv be the computation of the income, it may not only be the determination of the amount of tax payable but it may refer to the whole procedure
+laid down in
+the Act for imposing liability upon the taxpayer."
+The learned Chief Justice followed the dictum of the Privy Council in Khem Chand Ranidas's case 1938-6 ITR 414: (AIR 1938 PC 175) mentioned above. The House of Lords had occasion to consider what 'assessment' means under the
+English Act
+. In Income-tax Commissioner v. Gibbs, 1942-10 ITR Sup, 121, the Lord Chancellor (Viscount Simon) observed at page 124 :
+"The word "assessment" is used in our income-tax Code in more than one sense. Sometimes, by 'assessment' is meant the fixing of the sum taken to
+represent   the actual profit for the purpose of charging tax upon it. But in another context the 'assessment' may mean the actual sum in tax which the taxpayer is liable to pay on his profits."
+56. The above observations by eminent Judges relating to the meaning of the word assessment do appear to support the view, that the words "May proceed to assess or re-assess the income" in
+Section 34(1A)
+means not only to 'compute Or recompute the income' but also to levy the tax chargeable on such income. Once this meaning is accepted, it cannot be said that
+Section 34(1A)
+would be infruetuous or abortive or that the Income-tax Officer would have to stay his hands after determining the total income of the person to be assessed, as
+Section 23
+being inapplicable he may not determine the tax payable. The whole object of assessing the total income is to levy the tax.
+Section 3
+says 'tax shall be charged on the total Income'.
+Section 29
+says that when any tax is due in consequence of any order passed under or in pursuance of the Act the Income-tax Officer shall serve upon the assessee Or other person liable to pay such tax a notice of demand in the prescribed form specifying the sum so payable. In fact the liability to tax is created by
+Section 3
+read with the
+Finance Act
+passed each year. The liability is on the 'total income' according to the rates mentioned as applicable to that total income, under the
+Finance Act
+and the persons whose total income is assessed becomes liable to that tax under the law.
+It is not of much significance that the mere work of calculating the amount payable by that person is not express'y mentioned as required to be done by an Income-tax Officer under
+Section 34(1A)
+. The Income-tax Officer is required under the law to assess the income and even if the words be taken to have a restricted meaning the Income-tax Officer after ascertaining the total income has to issue a potice of demand under
+Section 29
+because in consequence of the order nsissed by him determinnig the total income for the purposes of the
+Income-tax Act
+he has the implid duty to charge the income or determine the tax due to give effect to
+Section 3
+of the Act read with the
+Finance Act
+of that year. The second proviso to
+Section 34(1)
+which is applicable to
+Section 34
+(1 A) savs that the tax shall be chargeable at the rate at which it would have been charged had the income not escaped assessment etc.
+ 
+
+This clearly indicates the rate to be applied, and obviously no question of rate could arise if the tax bad not to be determined on the basis of the total income found liable to tax. After a notice of demand has been issued under
+Section 29
+there is no difficulty relating to recovery of the tax.
+Section 45
+apnlies to all cases where a notice under
+Section 29
+has been issued. Similarly if a person is in default and has rot paid the tax within the time allowed the procedure setting out the made and time of recovery in
+Section 46
+becomes available . But The person assessed under
+Section 34(1A)
+cannot questoin the assessment by an appeal because a right to appeal is not given to persons wri-i have been served wi!h a notice of demand under
+Section 29
+.
+This right is given to nersons assessed under Section 23 and to other persons affected by certain other orders mentioned in Section 30 I can see therefore no force in the argument that Section 341 A) will become completely inoperative and meaningless unless the fiction referred to above is adonted in construing it.
+57. What the law says is that the other provisions of the Act, 'so far as may be,' would apply. One if the provisions of
+Section 34(1)
+is that the notice Issued under that sub-section is to be treated as if it were a notice, issued under
+Section 22(2)
+. This provision as a whole is inapplicable to a notice issued under Section 341(A). In. my opinion it would not be correct to apply the provisions of
+Section 34(1)
+only to the extent of making a similar fiction available in respect of a notice issued under
+Section 34
+(1 A) and in holding that the rest of
+Section 34(1)
+was not applicable. 'So far as may be' used in
+Section 34(1A)
+means so far as the provisions as they stand can apply.
+The expression does not justify any amendment, adjustment or change in the provision sought to be applied so that it may suit the provisions of
+Section 34(1A)
+. In fact the same words "so far as may be" are used in
+Section 34(1)
+where the legislature found it necessary to expressly state that the notice issued is to be treated as a notice under
+Section 22(2)
+. The omission to expressly state this again in
+Section 34
+(1 A) has to be explained. The context shows that the omission was not merely to avoid repetition. Nor can it be said with any justification that express mention of the fiction was not made because the other provisions of the Act which were made applicable included
+Section 34(1)
+.
+Section 34(1)
+does not say that any notice issued calling for a return is to be treated as one under
+Section 22(2)
+. It only says that the notice issued under
+Section 34(1)
+is to be so treated. This fiction therefore is not available to a notice issued under
+Section 34
+(1 A).
+58. If the above construction be correct
+section 34
+(1 A) enables a person to be picked out from the general class of persons whose income has escaped assessment to be dealt with under that provision, and to be subjected to a discriminatory treatment for which there is no justification. The discrimination mentioned by the Supreme Court in 1954-26 ITR 1: (AIR 1954 SC 545), still persists. The discrimination according to learned counsel for the applicants is not restricted to procedure only. Besides the valuable rights of appeal and reference to higher authorities being denied a person chosen for treatment under
+Section 34
+(1 A) may be proceeded against without any limitation of time.
+The persons for whom eight years' period of limitation is prescribed under
+Section 34(1A)
+are persons who have omitted or failed to file a return or to disclose fully or truly all material facts necessary for their assessment. If a person avoids tiling a return or deliberately files a false return and gets himself assessed on that basis he is by no means a very desirable person. There is nothing in
+Section 34(2)
+to show that this provision will not apply to every case of concealment of income resulting in the income escaping assessment, All sorts of devices have been found to have been used by unscrupulous persons and under
+Section 34(1)
+persons who made heavy profits during the war or during other periods ot difficulty for the nation have not been except-ed. All such persons may be proceeded against under
+Section 34(1)
+.
+The introduction of
+Section 34(1A)
+empowers the Income-tax Officer to pick and choose some of such persons who have made profits during the war period and have escaped assessment or have been under-assessed on such prof is provided the profits' are substantial and the test for this is that such income should not have been less than Rs. 3,00,000. While the same cl'ass of persons may be proceeded against under
+Section 34(1)
+the power given to the Income-tax Officer to proceed against some of the persons of that class under
+Section 34
+(1 A), which does not provide for an appeal or reference as mentioned above is clearly discrimination, which offends
+Article 34
+of the Constitution.
+The validity of
+Section 34(1)
+was challenged on another ground before a Bench of the Madras High Court in
+Rajendra Mills Ltd. v. Income-tax Officer
+,
+1957-32 ITR 439: (AIR 1958 Mad 220).
+But the point now raised by Mr. Pathak in the present cases was not raised before that Court, A learned Judge of the Calcu'ta High Court also had an occasion to consider the validity of
+Section 34(1A)
+in Lakri Prasad Shah v. Income-tax Officer, Central Circle in matter No. 14 of 1955 which was decided by the learned Judge on 12-8-1955. A copy of the judgment was made available by learned counsel for the department. In that case also the validity of the section was not challenged on the ground on which it is assailed in the instant cases. These decisions therefore do not afford any guidance in the decision of the present applications.
+59. It has been argued that
+Section 34
+(1 A) was introduced in the
+Income-tax Act
+because the Supreme Court had in its decisions held certain provisions of the
+Taxation on Income Investigation Commission Act
+to be ultra vires and as offending
+Article 14
+of the Constitution and that therefore the object of the legislature was to do away with a different kind of procedure in the case of persons who had earned huge profits during the war and who were intended to be dealt with under the
+Taxation of Income Investigation Commission Act
+and to provide that the same procedure should be followed in their cases as in the case of other assessees under the
+Income-tax Act
+.
+It is difficult to be sure as to what the intention of the legislature was and the safest way to ascertain such intention is to look at the language used by the legislature. The Authorities concerned did want such persons as had not paid proper taxes on large profits earned during the war to be treated on a different footing from ordinary assessees under the
+Income-tax Act
+. It is clear from several legislative attempts made to give effect to such a A desire. The Excess Profits Tax Act which was passed soon after the war broke out and prices rose, provided for taking away a substantial part of such profits as could be attributed to the difficult and uncertain times.
+When the Excess Profits Tax Act had remained in force for several years and the War had ended and the authorities found that taxes had not been paid by all such persons who should have paid them on the large profits earned by them during the war and the authorities were of the opinion that the Ordinary procedure prescribed under the
+Income-tax Act
+was not adequate enough to rope in such persons and recover from them the taxes which they should have paid ihe work was entrusted to the Investigation Commission appointed under the
+Taxation of Income Investigation Commission Act, 1947
+.
+When it was found by the Supreme Court in several cases, mentioned by my learned brothers, that the procedure adopted under the Investigation Commission Act was discriminatory and the relevant provisions of the
+Taxation of Income Investigation Commission Act
+were void the authorities concerned again found it necessary to ask for some statutory provision under which their object could be achieved in a legal manner, and the Indian Income-tax Amendment Act 1954 was introduced, and
+Section 34
+(1 A) impugned in these applications was brought on the statute book by this
+Amending Act
+on the 17th July 1954. It was contended that to hold thai the procedure provided under this amending Act was still discriminatory is to attribute to the legislature an intention of persisting to prescribe a discriminatory procedure for such assessees notwithstanding the pronouncements of the Supreme Court.
+It is not necessary to say that the legislature deliberately flouted, as it were, the opinion expressed by the Supreme Court. It is possible that
+the attention of the legislature was confined to the discriminatory character of the provisions which were, declared invalid by the Supreme Court. In any case, it is not possible to attribute to the legislature the intention of providing the same procedure relating to assessment, appeals and references as has been prescribed for ordinary assessees under, the
+Indian Income-tax Act
+or for assessees under
+Section 34(1)
+of the Act, in view o the different language used in
+Section 34
+(1 A).
+One of the arguments addressed by learned counsel for the department was that the legislature should not be credi ed with an improper intention to do injustice to persons proceeded against under
+Section 34
+(1 A), while the law provided justice to those cases who are dealt under
+Section 34(1)
+of the Act. In my opinion no Question of any justice being done to any one or other class of persons arises. The procedure laid down under
+Section 23
+of the Act which is expressly the procedure prescribed to be followed in the case of persons served with a notice under
+Section 22
+has been made available to persons proceeded against under
+Section 34(1)
+by expressly saying that the notice issued under that provision should be treated as if it were a notice issued under
+Section 22(2)
+of the Act.
+The same was not done in the case of persons who are to be proceeded against under
+Section 34(1A)
+. The procedure to be followed in this case will be the ordinary procedure consistent with the principles of natural justice though such procedure is not prescribed under the Act. According to tha principles of natural justice tbe person who is called upon to file a return should have an opportunity of being heard in support of his return and that he should have an opportunity of explaining such facts or circumstances as might appear to be against him andl his case should be decided fairly and not in an arbitrary manner. The principles of natural justice do not require that any appeal should also he provided. Nor do they require that a reference on questions of law must be made.
+The legislature had thought it fit to prescribe a more summary procedure though before a highly qualified Tribunal when assigning such cases to the Income-tax Investigation Commission and it was evidence of the view that the procedure available in accordance with the principles of natural justice should be adequate to safeguard the interests of such persons when providing tha' they should be dealt with by the same officer who assessed other persons under the
+Indian Income-tax Act
+. But it is not necessary 'to indulge in surmises or to find reasons for what the legislature has done, when the language of the statute clearly expresses the intention of the legislature.
+60. Certain principles of interpretation were also discussed at the Bar. If was urged that a court should be reluctant to accept an interpretation that leads to the invalidity of a law. I nave no hesitation in accepting this principle. But the rule would apply only if there be any doubt relating to the interpretation of the statute. If the language does not admit of any ambiguity no question of applying any such principle of interpretation could arise. The Supreme Court as well as the High Courts in India have from time to time found various provisions of different statutes invalid and unconstitutional. They have always had in mind the principle enunciated above but were obliged to declare the statute concerned Or its provisions unconstitutional when the language used did not admit of any doubt as to the meaning of the statute. It is only when two or more interpretations are possible and that one leaning to invalidity is to be avoided.
+61.
+Section 34(1A)
+has also been assailed on the ground that it provides a different period of limitation for this class of persons. As observed by my brother Bhargava J., in respect of one year at least persons of the same class may be dealt with by the Income-tax Officer under
+Section 34(1)
+of the Act. It is to my mind discriminatory to allow a larger period of limitation for the assessment of some persons who may be chosen to be dealt with under
+Section 34(1A)
+even if it be in respect one year of assessment. On this ground too the provisions appear to offend
+Article 14
+of the Constitution.
+62. I must say that I have felt considerable hesitation in expressing my dissenting views because of certain observations made by the Supreme Court in 1954-26 ITR 713: ((S) AIR 1955 SC 13). In that case
+Section 5(1)
+of Act XXX of 1947 was impugned and in that connection
+Section 34
+(I.A) inserted by Act XXXIII of 1954 was considered as intending to deal with the class of persons who were said to have been classified for special treatment under the
+Taxation of Income Investigation Commission Act
+. In that case however no question was raised as to whether the procedure to be followed in the case of persons to be dealt with under
+Section 34(1A)
+was different from the procedure prescribed for the persons to be proceeded against under
+Section 34(1)
+of the Act.
+The Supreme Court, if I may say so with great respect proceeded to decide the case on the assumption that the procedure under
+Section 34
+(1 A) was the same as that under
+Section 34(1)
+of the Income-tax Act. I have tried anxiously to study the case and to see if the points now raised did come to the notice of the Supreme Court in that case, for even the assumption on which the Court proceeded, is entitled to respect and consideration. I could not find any light in that decision on the questions now raised by the present applicants. As I could find no justification for ignoring the patent difference in language used by the legislature in
+Section 34(1A)
+and in
+Section 34(1)
+I thought it proper to express my own views.
+63. On the other ground, which in fact was raised by the Advocate General, in a connected case that the provision in the law that an Income-tax Officer should decide what tax he would impose on an assessee offended against the principles of natural justice, I would agree with my esteemed brothers. The principles of natural justice could be called in aid only if the provisions of the statute were not available. It is for the Parliament to consider and recognise the principles of natural justice and to embody them, so far as it considers proper in the statutes enacted. If the Parliament considered it proper that the assessment of tax should be made not by a regular court but by an officer of the Income-tax Department, the legislature was fully competent to give effect to this view in the law it made.
+For several reasons administrative Tribunals are increasingly coming into vogue. The multifarious duties which a modern State is called upon to undertake make it impracticable that the normal procedure for adjudication of disputes by courts may be resorted to in every case. What tax a person should pay and who should be held liable to pay taxes on different kinds of income, are questions of considerable importance and certainly affect the persons  concerned much more than a small claim in a court of law. Similarly questions relating to labour and trade unions and constructions within Municipalities etc. give rise occasionally to very important questions involving considerable sums of money and yet an ordinary court has not been found to be a convenient forum for the settlement of such disputes and a large   number   of   authorities   and   Tribunals   have sprung up to deal with these matters.
+It was competent for the legislature to lay down that the imposition of the income-tax payable should be made by an Income-tax Officer who should decide all relevant matters relating to such assessment. It may be noticed thai provisions relating to appeals to the Appellate Assistant Commissioner and the Income-tax Appellate Tribunal enable an assessee to get his matter heard by persons other than those who are responsible for the levy and collection of the tax. This is calculated to ensure imparial decision of the questions raised at the assessment. The provisions relating to a reference to the High Court and then an appeal to the Supreme Court further ensure that the law will be correctly interpreted and applied. As observed by my brother Bhargava, J., the facts in AIR 1959 SC 308 were quite different and the rule laid down by the Supreme Court in that case does not apply to the present application.
+64. Before parting with this judgment I must, acknowledge the help received from the illuminating and learned arguments addressed by Mr. R. S. Pathak for the applicants and Mr. Gopal Behari for the department.
+65. For   the   reasons   given   above   I   am of
+opinion  that
+Section 34(1A)
+offends
+Article 14
+of the Constitution and is invalid.    I would, therefore, allow
+the applications with costs.

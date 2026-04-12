@@ -1,0 +1,2165 @@
+Title: Search
+Court: Supreme Court of India
+Date: 3 AIR 2017
+Citation: citations: AIRONLINE 2019 SC 1652, (2019) 17 SCALE 37, (2020) 1 BANKCAS 277, (2020) 1 MAD LJ 65
+Source: https://indiankanoon.org/doc/37755267/
+
+[Cites
+50
+, Cited by
+322
+]
+Supreme Court of India
+M/S Embassy Property Developments Pvt. ... vs The State Of Karnataka on 3 December, 2019
+Equivalent citations: AIRONLINE 2019 SC 1652, (2019) 17 SCALE 37, (2020) 1 BANKCAS 277, (2020) 1 MAD LJ 65
+Author:
+V. Ramasubramanian
+Bench:
+V. Ramasubramanian
+,
+Aniruddha Bose
+,
+Rohinton Fali Nariman
+REPORTABLE
+
+                                 IN THE SUPREME COURT OF INDIA
+                                  CIVIL APPELLATE JURISDICTION
+                                    Civil Appeal No. 9170 of 2019
+                            (@ Special Leave Petition (C) No. 22596 of 2019)
+
+
+
+M/s Embassy Property Developments Pvt. Ltd.                             ...Appellant(s)
+
+                                             Versus
+
+ State of Karnataka & Ors.                                              ...Respondent(s)
+                                                  WITH
+                                    Civil Appeal No. 9171 of 2019
+                             (@ Special Leave Petition (C) No. 22684 of 2019)
+
+                                                   and
+                                    Civil Appeal No. 9172 of 2019
+                             (@ Special Leave Petition (C) No. 22724 of 2019)
+
+                                           JUDGMENT
+V. Ramasubramanian, J.
+1.              Leave Granted.
+2.              Two seminal questions of importance namely:­
+Signature Not Verified
+Digitally signed by R
+NATARAJAN
+i) Whether the High Court ought to interfere, under
+Date: 2019.12.03
+17:00:14 IST
+Reason:
+Article 226/227 of the Constitution, with an Order
+1
+passed by the National Company Law Tribunal in a
+
+           proceeding under the Insolvency and Bankruptcy Code,
+
+           2016, ignoring the availability of a statutory remedy of
+
+           appeal to the National Company Law Appellate Tribunal
+
+           and if so, under what circumstances; and
+ii)     Whether questions of fraud can be inquired into by
+
+     the NCLT/NCLAT in the proceedings initiated under the
+
+     Insolvency and Bankruptcy Code, 2016,
+
+arise for our consideration in these appeals.
+
+Brief background facts
+3.   There are three appeals on hand, one filed by the
+
+Resolution Applicant, the second filed by the Corporate Debtor
+
+through the Resolution Professional and the third filed by the
+
+Committee of Creditors, all of which challenge an Interim
+
+Order passed by the Division Bench of High Court of
+
+Karnataka in a writ petition, staying the operation of a
+
+direction    contained   in   the   order   of   the   NCLT,   on   a
+
+Miscellaneous Application filed by the Resolution Professional.
+2
+4.     The background facts leading to the filing of the above
+
+appeals, in brief, are as follows:
+i)     A company by name M/s. Udhyaman Investments Pvt.
+Ltd. which is the twelfth Respondent in the first of these three
+appeals, claiming to be a Financial Creditor, moved an
+application before the NCLT Chennai, under Section 7 of the
+Insolvency and Bankruptcy Code, 2016 (hereinafter referred to
+as the IBC, 2016), against M/s. Tiffins Barytes Asbestos &
+Paints Ltd., the Corporate Debtor (which is the fourth
+Respondent in the first of these three appeals and which is
+also the appellant in the next appeal).
+ii)    By an Order dated 12.03.2018, NCLT Chennai admitted
+the application, ordered the commencement of the Corporate
+Insolvency Resolution Process and appointed an Interim
+Resolution Professional. Consequently, a Moratorium was also
+declared in terms of Section 14 of the IBC, 2016.
+iii)   At that time, the Corporate Debtor held a mining lease
+granted by the Government of Karnataka, which was to expire
+by 25.05.2018. Though a notice for premature termination of
+the lease had already been issued on 09.08.2017, on the
+allegation of violation of statutory rules and the terms and
+conditions of the lease deed, no order of termination had been
+passed till the date of initiation of the Corporate Insolvency
+Resolution Process (hereinafter referred to as CIRP).
+3
+iv)   Therefore, the Interim Resolution Professional appointed
+by NCLT addressed a letter dated 14.03.2018 to the Chairman
+of the Monitoring Committee as well as the Director of Mines &
+Geology informing them of the commencement of CIRP. He
+also wrote a letter dated 21.04.2018 to the Director of Mines &
+Geology, seeking the benefit of deemed extension of the lease
+beyond 25.05.2018 upto 31.3.2020 in terms of Section 8­A (6)
+of the
+Mines & Minerals (Development and Regulation) Act,
+1957
+(hereinafter referred to as
+MMDR Act, 1957
+).
+v)    Finding   that   there   was   no   response,   the   Interim
+Resolution Professional filed a writ petition in WP No. 23075 of
+2018 on the file of the High Court of Karnataka, seeking a
+declaration that the mining lease should be deemed to be valid
+upto 31.03.2020 in terms of
+Section 8A(6)
+of the MMDR Act,
+1957.
+vi)   During the pendency of the writ petition, the Government
+of Karnataka passed an Order dated 26.09.2018, rejecting the
+proposal for deemed extension, on the ground that the
+Corporate Debtor had contravened not only the terms and
+conditions of the Lease Deed but also the provisions of Rule 37
+of the Mineral Concession Rules, 1960 and Rule 24 of the
+Minerals (Other than Atomic and Hydro Carbons Energy
+Minerals) Rules, 2016.
+4
+vii)   In view of the Order of rejection passed by the
+Government of Karnataka, the Corporate Debtor, represented
+by the Interim Resolution Professional, withdrew the Writ
+Petition No.23075 of 2018, on 28.09.2018, with liberty to file a
+fresh writ petition.
+viii) However, instead of filing a fresh writ petition (in
+accordance     with     the       liberty       sought),    the   Resolution
+Professional moved a Miscellaneous Application No.632 of
+2018, before the NCLT, Chennai praying for setting aside the
+Order of the Government of Karnataka, and seeking a
+declaration that the lease should be deemed to be valid upto
+31.03.2020    and      also   a     consequential          direction   to   the
+Government of Karnataka to execute Supplement Lease Deeds
+for the period upto 31.03.2020.
+ix)    By an Order dated 11.12.2018, NCLT, Chennai allowed
+the Miscellaneous Application setting aside the Order of the
+Government of Karnataka on the ground that the same was in
+violation of the moratorium declared on 12.03.2018 in terms
+of
+Section 14(1)
+of IBC, 2016. Consequently the Tribunal
+directed the Government of Karnataka to execute Supplement
+Lease Deeds in favour of the Corporate Debtor for the period
+upto 31.03.2020.
+5
+x)   Aggrieved by the order of the NCLT, Chennai, the
+Government of Karnataka moved a writ petition in WP
+No.5002 of 2019, before the High Court of Karnataka. When
+the writ petition came up for hearing, it was conceded by the
+Resolution Professional before the High Court of Karnataka
+that the order of the NCLT could be set aside and the matter
+relegated to the Tribunal, for a decision on merits, after giving
+an opportunity to the State to respond to the reliefs sought in
+the Miscellaneous Application. It is relevant to note here that
+the Order of the NCLT dated 11.12.2018, was passed ex­parte,
+on the ground that the State did not choose to appear despite
+service of notice.
+xi) Therefore, by an Order dated 22.03.2019, the High Court
+of Karnataka set aside the Order of the NCLT and remanded
+the matter back to NCLT for a fresh consideration of the
+Miscellaneous Application No.632 of 2018.
+xii) Thereafter, the State of Karnataka filed a Statement of
+Objections before the NCLT, primarily raising two objections,
+one relating to the jurisdiction of the NCLT to adjudicate upon
+disputes arising out of the grant of mining leases under the
+MMDR Act, 1957
+, between the State­Lessor and the Lessee
+and another relating to the fraudulent and collusive manner in
+which the entire resolution process was initiated by the related
+parties of the Corporate Debtor themselves, solely with a view
+to corner the benefits of the mining lease.
+6
+xiii) Overruling the objections of the State, the NCLT Chennai
+passed an Order dated 03.05.2019 allowing the Miscellaneous
+Application, setting aside the order of rejection and directing
+the Government of Karnataka to execute Supplemental Lease
+Deeds.
+xiv) Challenging the Order of the NCLT, Chennai, the
+Government of Karnataka moved a writ petition in WP
+No.41029 of 2019 before the High Court of Karnataka. When
+the writ petition came up for orders as to admission, the
+Corporate Debtor represented by the Resolution Professional
+appeared through counsel and took notice and sought time to
+get instructions. Therefore, the High Court, by an Order dated
+12.09.2019 adjourned the matter to 23.09.2019 and granted a
+stay of operation of the direction contained in the impugned
+Order of the Tribunal. Interim Stay was necessitated in view of
+a Contempt Application moved by the Resolution Professional
+before the NCLT against the Government of Karnataka for
+their failure to execute Supplement Lease deeds.
+xv) It is against the said ad Interim Order granted by the High
+Court    that   the   Resolution   Applicant,   the   Resolution
+Professional and the Committee of Creditors have come up
+with the present appeals.
+7
+Rival Contentions
+5.   Sh. K. V. Viswanathan, learned Senior Counsel appearing
+
+on behalf of the Resolution Applicant assailed the impugned
+
+Order on the ground that when an efficacious alternative
+
+remedy is available under Section 61 of IBC, 2016, the High
+
+Court of Karnataka ought not to have entertained a writ
+
+petition and that too against an Order passed by the Chennai
+
+Bench of NCLT. He drew our attention to a series of
+
+judgments, wherein it was held that when a statutory forum is
+
+created for the redressal of grievances, a writ petition should
+
+not be entertained. Since the essence of IBC, 2016 is the
+
+revival of a Corporate Debtor and the resolution of its
+
+problems to enable it to survive as a going concern, through
+
+the maximization of the value of its assets, the learned Senior
+
+Counsel     contended     that    the    Interim    Resolution
+
+Professional/Resolution Professional had a right to move the
+
+NCLT for appropriate reliefs for the preservation of the
+
+properties of the Corporate Debtor and therefore the only way
+
+the steps taken by the Resolution Professional could be set at
+8
+naught, is to take recourse to the provisions of the IBC alone.
+
+Relying upon the observations made by this Court in a couple
+
+of decisions that IBC, 2016 is a unified umbrella of code, the
+
+learned Senior Counsel contended that the remedies provided
+
+thereunder are all pervasive and exclusive.
+6.    Sh. Mukul Rohatgi, learned Senior Counsel appearing for
+
+the   Resolution   Applicant   supplemented     the   aforesaid
+
+arguments and contended that though he would not go to the
+
+extent of saying that the jurisdiction of the High Court stood
+
+completely ousted, the High Court was obliged to switch over
+
+to the hands off mode, in matters of this nature. The learned
+
+Senior Counsel also contended that the NCLT has already
+
+approved the Resolution Plan, by an order dated 12.06.2019
+
+and that therefore the High Court cannot do anything that will
+
+tinker with or destroy the very Resolution Plan approved by
+
+the NCLT.
+7.    Sh. Kapil Sibal, the learned Senior Counsel appearing for
+
+the Resolution Professional contended that the whole object of
+
+IBC, 2016 will get defeated, if the Orders of NCLT are declared
+9
+amenable to review by the High Court under Article 226/227.
+
+He also contended that the provisions of IBC, 2016 are given
+
+overriding effect under Section 238, over all other statutes. It
+
+is his further contention that after taking a stand in their first
+
+writ petition in WP No.5002 of 2019 that the dispute relating
+
+to the refusal to grant deemed extension of the mining lease
+
+falls squarely within the jurisdiction of the Mining Tribunal
+
+and after raising a plea that the rejection of the benefit of
+
+deemed extension, ought to have been challenged by way of a
+
+revision before the Central Government under
+Section 30
+of
+
+the MMDR Act, 1957 the State of Karnataka agreed to go back
+
+to the NCLT for raising all contentions. Therefore, according to
+
+the learned counsel, it was not open to the Government to
+
+question the jurisdiction of the NCLT in the next round of
+
+litigation. Since the expression “Property” as defined in
+Section 3 (27)
+of IBC, 2016 includes every description of
+
+interest including present or future or vested or contingent
+
+interest arising out of or incidental to property, and also since
+
+the right to deemed extension of lease would come within the
+10
+purview of the expression “Property”, it was contended by the
+
+learned Senior Counsel that the Resolution Professional has a
+
+duty to preserve the property. The only ground on which the
+
+Government     of   Karnataka    opposed    the   Miscellaneous
+
+Application of the Resolution Professional, according to the
+
+learned Senior Counsel, was fraud and collusion on the part of
+
+the Corporate Debtor and the creditor who initiated the CIRP.
+
+Therefore, it is contended by him that in view of the sweep of
+
+the jurisdiction conferred upon NCLT under Section 60 (5) (c)
+
+of the IBC, 2016, the Tribunal was entitled to investigate even
+
+into allegations of fraud. Once it is conceded that NCLT will
+
+have jurisdiction even to enquire into allegations of fraud, then
+
+the question of invoking the jurisdiction of the High Court
+
+under
+Article 226
+as against an order passed by NCLT,
+
+according to the learned counsel, does not arise. Any
+
+recognition by this court, of the jurisdiction of the High Court
+
+under
+Article 226
+to interfere with the Orders of the NCLT
+
+under IBC, 2016, according to the learned Senior Counsel,
+
+would completely derail the resolution process which is bound
+11
+to happen within a time frame. Therefore, he appealed that the
+
+Order of the High Court should be set aside on the ground of
+
+lack of jurisdiction.
+8.   Sh. Arvind P. Datar and Sh. E. Om Prakash, learned
+
+Senior Counsel appearing for the Committee of Creditors
+
+submitted that IBC, 2016 being a complete code in itself does
+
+not provide any room for challenging the Orders of NCLT,
+
+otherwise than in a manner prescribed by the code itself. What
+
+was sought by the Resolution Professional, according to the
+
+learned Senior Counsel, was a mere recognition of the
+
+statutory right of deemed extension of lease conferred by
+Section 8A
+of the MMDR Act, 1957 and that therefore NCLT
+
+cannot be taken to have exercised a jurisdiction not vested in
+
+it in law, so as to enable the High Court to invoke the
+
+jurisdiction under
+Article 226.
+9.   In response, Sh. K.K. Venugopal, learned Attorney
+
+General submitted that if a case falls under the category of
+
+inherent lack of jurisdiction on the part of a Tribunal, the
+
+exercise of jurisdiction by the Tribunal would certainly be
+12
+amenable to the jurisdiction of the High Court under Article
+226. Since the contours of jurisdiction of NCLT are defined in
+
+Clauses (a), (b) and (c) of Sub­section (5) of Section 60 and
+
+also since the powers of the NCLT are defined in Sub­section
+
+(4) of Section 60, to be akin to those of the Debts Recovery
+
+Tribunal under the
+Recovery of Debts Due to Banks and
+
+Financial Institutions Act
+of 1993 (hereinafter referred to as
+DRT Act, 1993
+), it was contended by the learned Attorney
+
+General that the jurisdiction of the NCLT is confined only to
+
+contractual matters inter­parties. An order passed by a
+
+statutory/quasi­judicial   authority   under   certain   special
+
+enactments such as the
+MMDR Act, 1957
+falls in the realm of
+
+public law and hence it was contended by the learned Attorney
+
+General that the NCLT would have no power of judicial review
+
+of such orders. The learned Attorney General also drew our
+
+attention to the minutes of the 10 th meeting of the Committee
+
+of Creditors held on 27.02.2019, in which a Company other
+
+than the present Resolution Applicant was recorded to have
+
+made a better offer. But the present Resolution Applicant was
+13
+able to have his plan approved, despite the offer being lesser,
+
+only because they were willing to take the risk of the mining
+
+lease not being renewed. Therefore, it was his contention that
+
+a person who was willing to take a chance, cannot now take
+
+shelter under the approval of the Resolution Plan. On the
+
+contention that the Government of Karnataka had an
+
+efficacious alternative remedy before the NCLAT, the learned
+
+Attorney General submitted, on the basis of the decision in
+
+Barnard and Others vs. National Dock Labour Board and
+
+Others1 that when an inferior Tribunal passes an Order which
+
+is a nullity, the superior Court need not drive the party to the
+
+appellate forum stipulated by the Act.
+The learned Attorney
+
+General also relied upon the decision of this Court in
+The
+
+State of Uttar Pradesh vs. Mohammad Nooh.2
+Question No. 1
+10. In the backdrop of the facts narrated and in the light of
+
+the rival contentions extracted above, the first question that
+
+arises for consideration is as to whether the High Court ought
+
+1 (1953) 2 WLR 995
+2 (1958) SCR 595
+14
+to interfere, under Article 226/227 of the Constitution, with
+
+an order passed by NCLT in a proceeding under the IBC, 2016,
+
+despite the availability of a statutory alternative remedy of
+
+appeal to NCLAT.
+11. It is beyond any pale of doubt that IBC, 2016 is a
+
+complete Code in itself. As observed by this Court in M/s
+Innoventive Industries Limited vs. ICICI Bank,3
+it is an
+
+exhaustive code on the subject matter of insolvency in relation
+
+to corporate entities and others. It is also true that IBC, 2016
+
+is a single Unified Umbrella Code, covering the entire gamut of
+
+the law relating to insolvency resolution of corporate persons
+
+and others in a time bound manner. The code provides a
+
+three­tier mechanism namely (i) the NCLT, which is the
+
+Adjudicating Authority (ii) the NCLAT which is the appellate
+
+authority and (iii) this court as the final authority, for dealing
+
+with all issues that may arise in relation to the reorganisation
+
+and insolvency resolution of corporate persons. In so far as
+
+insolvency resolution of corporate debtors and personal
+
+
+3 AIR 2017 SC 4084
+15
+guarantors are concerned, any order passed by the NCLT is
+
+appealable to NCLAT under Section 61 of the IBC, 2016 and
+
+the orders of the NCLAT are amenable to the appellate
+
+jurisdiction of this court under Section 62. It is in this context
+
+that the action of the State of Karnataka in by­passing the
+
+remedy of appeal to NCLAT and the act of the High Court in
+
+entertaining the writ petition against the order of the NCLT are
+
+being questioned.
+12. For finding an answer to the question on hand, the scope
+
+of the jurisdiction and the nature of the powers exercised by –
+(i) the High Court under
+Article 226
+of the Constitution and (ii)
+
+the NCLT and NCLAT under the provisions of IBC, 2016 are to
+
+be seen.
+Jurisdiction and the powers of the High Court under
+Article 226
+13. What is recognized by
+Article 226 (1)
+is the power of every
+
+High Court to issue (i) directions, (ii) orders or (iii) writs. They
+
+can be issued to (i) any person or (ii) authority including the
+
+Government. They may be issued (i) for the enforcement of any
+16
+of the rights conferred by Part III and (ii) for any other
+
+purpose. But the exercise of the power recognized by Clause
+
+(1) of
+Article 226
+, is restricted by the territorial jurisdiction of
+
+the High Court, determined either by its geographical location
+
+or by the place where the cause of action, in whole or in part,
+
+arose. While the nature of the power exercised by the High
+
+Court is delineated in Clause (1) of
+Article 226
+, the jurisdiction
+
+of the High Court for the exercise of such power, is spelt out in
+
+both Clauses (1) and (2) of
+Article 226.
+14. Traditionally, the jurisdiction under
+Article 226
+was
+
+considered as limited to ensuring that the judicial or quasi­
+
+judicial tribunals or administrative bodies do not exercise their
+
+powers in excess of their statutory limits. But in view of the
+
+use of the expression “any person” in
+Article 226 (1)
+, courts
+
+recognized that the jurisdiction of the High Court extended
+
+even over private individuals, provided the nature of the duties
+
+performed by such private individuals, are public in nature.
+
+Therefore, the remedies provided under
+Article 226
+are public
+
+law remedies, which stand in contrast to the remedies
+17
+available in private law. As observed by this Court in
+Nilabati
+
+Behera @ Babita Behera vs. State of Orissa
+, 4 public law
+
+proceedings serve a different purpose than private law
+
+proceedings.
+15. One of the well recognized exceptions to the self­imposed
+
+restraint of the High Courts, in cases where a statutory
+
+alternative remedy of appeal is available, is the lack of
+
+jurisdiction         on   the   part   of   the   statutory/quasi­judicial
+
+authority, against whose order a judicial review is sought.
+
+Traditionally, English courts maintained a distinction between
+
+cases where a statutory/quasi­judicial authority exercised a
+
+jurisdiction not vested in it in law and cases where there was a
+
+wrongful exercise of the available jurisdiction. An “error of
+
+jurisdiction” was always distinguished from “in excess of
+
+jurisdiction”, until the advent of the decision rendered by the
+
+House of Lords, by a majority of 3:2 in
+Anisminic Ltd. vs.
+
+Foreign Compensation Commission.5 After
+acknowledging
+
+that a confusion had been created by the observations made in
+
+4 (1993) 2 SCC 746
+5 (1969) 2 WLR 163
+18
+Reg. vs. Governor of Brixton Prison, Ex parte Armah 6 to
+
+the effect that if a Tribunal has jurisdiction to go right, it
+
+has jurisdiction to go wrong, it was held in Anisminic that
+
+the real question was not whether an authority made a wrong
+
+decision but whether they enquired into and decided a matter
+
+which they had no right to consider.
+16. Anisminic, hailed as a break­through and a legal
+
+landmark (see In Re Racal Communications Ltd7) abolished
+
+the old distinction between errors of law that went to
+
+jurisdiction and errors of law that did not. Anisminic was
+
+hailed in O’Reilly vs. Mackman8        to have liberated English
+
+public law from the fetters that the courts had theretofore
+
+imposed upon themselves so far as determinations of inferior
+
+courts and statutory tribunals were concerned, by drawing
+
+esoteric distinctions between errors of law committed by such
+
+tribunals that went to their jurisdiction, and errors of law
+
+committed by them within their jurisdiction.
+
+
+6 (1968) AC 192
+7 (1981) AC 374
+8 (1983) 2 AC 237
+19
+17. But In Re Racal made a distinction between courts of
+
+law      on      the      one      hand        and        administrative            tribunal/
+
+administrative authority on the other and held that in so far
+
+as (inferior) courts of law are concerned, the subtle distinction
+
+between errors of law that went to jurisdiction and errors of
+
+law that did not, would still survive, if the decisions of such
+
+courts are declared by the Statute to be final and conclusive.
+
+Thus one distinction was gone with Anisminic, but another
+
+was born with Re Racal. This could be seen from the after
+
+effects of Anisminic.9
+18. Interestingly just four days before the House of Lords
+
+delivered the judgment in Anisminic (on 17.12.1968), an
+
+identical view was taken by a three member bench of this
+
+court (delivered on 13.12.1968) in Official Trustee, West
+
+9  Anisminic had its own quota of problems. Prof. Wade, as pointed out in
+R. v. Lord President
+of the Privy Council Ex
+p. Page, [1993] A.C. 682, seems to have opined that the true effect of
+Anisminic was still in doubt.
+People like Sir John Laws, quoted by Prof. Paul Craig, and which
+was extracted in the decision in Regina (Privacy International) v. Investigatory Powers Tribunal,
+[2019] UKSC 22, seems to have opined that once the distinction between jurisdictional and non-
+jurisdictional errors was discarded, there was no longer any need for the ultra vires principle
+and that ultra vires is, in truth, a fig-leaf which has enabled the courts to intervene in decisions
+without an assertion of judicial power which too nakedly confronts the established authority of
+the Executive or other public bodies. According to Sir John Laws, Anisminic has produced the
+historical irony that with all its emphasis on nullity, it nevertheless erected the legal milestone
+which pointed towards a public law jurisprudence in which the concept of voidness and the
+ultra vires doctrine have become redundant. In Regina (Privacy International) the U.K Supreme
+court also quoted the editors of De Smith’s Judicial Review to the effect: “The distinction
+between jurisdictional and non-jurisdictional error is ultimately based upon foundations of
+sand. Much of the superstructure has already crumbled.
+What remains is likely quickly to fall
+away as the courts rightly insist that all administrative action should be simply, lawful, whether
+or not jurisdictionally lawful.”
+20
+Bengal & Others vs. Sachindra Nath Chatterjee &
+
+Another,10
+approving the view taken by the Full bench of the
+
+Calcutta High Court in Hirday Nath Roy vs. Ramachandra
+
+Barna Sarma.11 It was held therein that “before a court can
+
+be held to have jurisdiction to decide a particular matter
+
+it must not only have jurisdiction to try the suit brought,
+
+but must also have the authority to pass the orders
+
+sought for.”                 This court also pointed out that it is not
+
+sufficient that it has some jurisdiction in relation to the
+
+subject matter of the suit, but its jurisdiction must include (1)
+
+the power to hear and decide the questions at issue and (2) the
+
+power to grant the relief asked for.
+This decision in Official
+
+Trustee was followed in a recent decision in Indian Farmers
+
+Fertiliser Co­operative
+Ltd. vs. Bhadra Products,12
+quite
+
+independent of Anisminic and its followers.
+19. Though the decision in Official Trustee preceded
+
+Anisminic and can proudly be claimed as the Indian
+
+10 (1969) 3 SCR 92
+11 ILR LXVIII Calcutta 138
+12 (2018) 2 SCC 534
+21
+precursor to an English legal landmark, several subsequent
+
+decisions of this court considered Anisminic alone to have
+
+provided the breakthrough. In Mafatlal Industries & Others
+
+vs. Union of India,13 Paripoornan, J. provided the list of
+
+Indian cases which cited Anisminic with approval. They are:
+(
+1) Union of India vs. Tarachand Gupta & Bros.
+, (
+1971) 1 SCC
+486
+(2) A. R. Antulay vs. R. S. Nayak & Another
+, (
+1988) 2 SCC 602
+       (3) R. B. Shreeram Durga Prasad & Fatehchand Nursing
+       Das vs. Settlement Commission (IT & WT) & Another
+,
+       (
+1989) 1 SCC 628
+       (4) Associated Engineering Co. vs. Govt. of Andhra
+       Pradesh & Another
+, (
+1991) 4 SCC 93 and
+       (5) Shiv Kumar Chadha vs. Municipal Corporation of
+       Delhi & Others
+, (1993) 3 SCC 161
+20. But in
+M.L. Sethi vs. R.P. Kapur,14 K. K. Mathew, J.
+,
+
+made certain interesting observations about Anisminic. The
+
+learned Judge observed that the effect of the dicta in
+
+Anisminic is to reduce the difference between jurisdictional
+
+error and error of law within jurisdiction almost to a vanishing
+13 (1997) 5 SCC 536
+14 (1972) 2 SCC 427
+22
+point and that it came perilously close to saying that there is
+
+jurisdiction if the decision is right in law, but none if it is
+
+wrong. Anisminic, according to him virtually left a court or
+
+tribunal with no margin of legal error.
+21. Again in Hari Prasad Mulshanker Trivedi vs. V.B
+
+Raju,15 K. K. Mathew, J., speaking for the Constitution Bench,
+
+pointed out that though the dividing line between lack of
+
+jurisdiction or power and the erroneous exercise of it has
+
+become thin with Anisminic, the distinction had not been
+
+wiped out completely.
+22. But           it   is        relevant   to   note   that   Official
+
+Trustee/Anisminic and what followed both, were mostly in
+
+the context of the power of the superior court to interfere with
+
+the      decisions          of     subordinate    courts/tribunals   or
+
+administrative authorities. Most of these decisions were not in
+
+the context of the exercise of jurisdiction despite the
+
+availability of alternative remedy. That there exists such a
+
+distinction between (i) cases where the jurisdiction of a
+
+
+15 (1974) 3 SCC 415
+23
+superior court is questioned on the basis of ouster clauses and
+(ii) cases where the exercise of jurisdiction by a superior court
+
+is questioned on the ground of availability of alternative
+
+remedy, was recognized even in Anisminic, when Lord Reid
+
+referred to the decision in Smith vs. East Elloe Rural
+
+District Council16 as posing some difficulty.
+As a result, the
+
+Court of Appeal held in
+R vs. Secretary of State
+for the
+
+Environment, Ex p. Ostler17               that the availability of a
+
+statutory right to challenge within a specified time limit,
+
+among        other   points,   provided    a   sufficient   basis   for
+
+distinguishing Anisminic. This was taken note of by the UK
+
+Supreme Court in Regina (Privacy International). Therefore
+
+the question whether the error committed by an administrative
+
+authority/tribunal or a court of law went to jurisdiction or
+
+whether it was within jurisdiction may still be relevant to test
+
+whether a statutory alternative remedy should be allowed to
+
+be bypassed or not.
+16 (1956) AC 736
+17 (1977) QB 122
+24
+23. In several cases, both in England and India, the ancient
+
+rule     stated           by   Willes,   J.,   in   Wolverhampton   New
+
+Waterworks Co. vs. Hawkesford18 to the effect that where a
+
+liability not existing at Common Law is created by a statute,
+
+which also gives a special and particular remedy for enforcing
+
+it, the remedy provided by the statute must be followed, has
+
+been quoted with approval.
+For instance,
+Union Bank of
+
+India vs. Satyawati Tandon19
+held that the availability of a
+
+remedy of appeal under the
+DRT Act, 1993
+and
+SARFAESI Act,
+
+2002
+should deter the High Courts from exercising the
+
+jurisdiction under
+Article 226.
+Similarly, the availability of
+
+remedy of appeal under
+Section 173
+of the Motor Vehicles Act,
+
+1988 as against an award of the Accidents Claims Tribunal
+
+was held in
+Sadhana Lodh vs. National Insurance Co.20
+as
+
+sufficient for the High Court to refuse to exercise its
+
+supervisory jurisdiction.
+The same principle was applied in (
+1)
+
+Nivedita Sharma vs. Cellular Operators Association
+of
+
+
+18 [1859] 6 CB (NS) 336
+19 (2010) 8 SCC 110
+20 (2003) 3 SCC 524
+25
+India21 and (2) Cicily Kallarackal vs. Vehicle Factory22 in
+
+relation to the awards passed by the special fora constituted
+
+under the
+Consumer Protection Act, 1986
+.
+24.      Therefore in so far as the question of exercise of the
+
+power conferred by
+Article 226
+, despite the availability of a
+
+statutory alternative remedy, is concerned, Anisminic cannot
+
+be relied upon. The distinction between the lack of jurisdiction
+
+and the wrongful exercise of the available jurisdiction, should
+
+certainly be taken into account by High Courts, when
+Article
+
+226
+is sought to be invoked bypassing a statutory alternative
+
+remedy provided by a special statute.
+25. On the basis of this principle, let us now see whether the
+
+case of the State of Karnataka fell under the category of (1)
+
+lack of jurisdiction on the part of the NCLT to issue a direction
+
+in relation to a matter covered by
+MMDR Act, 1957
+and the
+
+Statutory Rules issued thereunder or (2) mere wrongful
+
+exercise of a recognised jurisdiction, say for instance, asking
+
+
+
+
+21 (2011) 14 SCC 337
+22 (2012) 8 SCC 524
+26
+a wrong question or applying a wrong test or granting a
+
+wrong relief.
+26.
+The MMDR Act, 1957
+is a Parliamentary enactment
+
+traceable to Entry 54 of the Union List in Seventh Schedule of
+
+the Constitution. The object of the Act as it stood originally,
+
+was the regulation of mines and development of minerals.
+
+After the Amendment Act 38 of 1999, the object of the Act is to
+
+provide for the development and regulation of mines and
+
+minerals.
+Section 2
+of the Act declares that it is expedient in
+
+public interest that the Union should take under its control,
+
+the regulation of mines and the development of minerals.
+Section 4 (1)
+of the Act prohibits the undertaking of mining
+
+operations (and reconnaissance and prospecting operations),
+
+in any area, except under and in accordance with the terms
+
+and conditions of a mining lease granted under the Act and
+
+the Rules made thereunder. After the insertion of Sub­section
+
+(1A) in
+Section 4
+, by the Amendment Act 38 of 1999, even
+
+transportation or storage of any mineral otherwise than in
+
+accordance with the provisions of the Act and the Rules made
+27
+thereunder is prohibited.
+The Act
+also imposes restrictions on
+
+the grant of mining leases.
+Section 8A
+of the Act, inserted by
+
+the Amendment Act 10 of 2015 provides for deemed grant and
+
+deemed extension of different kinds. Primarily
+Section 8A
+applies only to minerals other than those specified in Parts A
+
+and B of the First Schedule. In so far as minor minerals are
+
+concerned, the State government is empowered to make rules
+
+for regulating the grant of mining leases. It is important to
+
+note that
+Section 19
+of the Act declares any mining lease
+
+granted,   renewed   or   acquired    in   contravention   of   the
+
+provisions of the Act or any rule or order made thereunder to
+
+be void and of no effect.
+The Act
+confers powers of search,
+
+entry and inspection upon officers authorised by the Central
+
+or State governments.
+Section 30
+of the Act empowers the
+
+Central government, either of its own motion or on an
+
+application made by the aggrieved party, to revise any order
+
+made by a State government in exercise of the powers
+
+conferred under the Act with respect to any mineral other than
+
+a minor mineral. The procedure for filing a revision is
+28
+prescribed in Rule 54 and the method of disposal of such
+
+revisions is prescribed in Rule 55 of the Mineral Concession
+
+Rules, 1960.
+27.     Though in Thressiamma Jacob vs. Deptt. of Mining &
+
+Geology,23 this court held that the mineral wealth in the sub­
+
+soil would go along with the ownership of the land, the
+
+question of entitlement of the government to charge royalty
+
+was left open, as it was pending reference to the constitution
+
+bench. But in the case on hand, the land which formed the
+
+subject matter of mining lease, belongs to the State of
+
+Karnataka.            The liberties    and   privileges granted to   the
+
+Corporate Debtor by the Government of Karnataka under the
+
+mining lease, are delineated in Part IV of the mining lease. The
+
+mining lease was issued in accordance with the statutory rules
+
+namely       Mineral Concession          Rules, 1960.    Therefore the
+
+relationship           between   the    Corporate    Debtor   and    the
+
+Government of Karnataka under the mining lease is not just
+
+contractual but also statutorily governed. As we have indicated
+
+elsewhere, the
+MMDR Act, 1957
+is a Parliamentary enactment
+23 (2013) 9 SCC 725
+29
+traceable to Entry 54 in List I of the Seventh Schedule. This
+
+Entry 54 speaks about regulation of mines and development of
+
+minerals to     the   extent    to   which    such     regulation      and
+
+development under the control of the Union, is declared by
+
+Parliament by law to be expedient in public interest. In fact
+
+the expression “public interest” is used only in 3 out of
+
+97 Entries in List I, one of which is Entry 54, the other
+
+two being Entries 52 and 56. Interestingly, Entry 23 in List
+
+II does not use the expression “public interest”, though it also
+
+deals with regulation of mines and mineral development,
+
+subject to the provisions of List I. It is this element of “public
+
+interest” that finds a place in
+Section 2
+of the MMDR Act,
+
+1957, in the form of a declaration.
+Section 2
+of MMDR Act,
+
+1957 reads as follows:
+“It is hereby declared that it is expedient in the public
+           interest that Union should take under its control the
+           regulation of mines and the development of minerals to
+           the extent hereinafter provided.”
+28.   Therefore as rightly contended by the learned Attorney
+
+General, the decision of the Government of Karnataka to
+30
+refuse the benefit of deemed extension of lease, is in the public
+
+law domain and hence the correctness of the said decision can
+
+be called into question only in a superior court which is vested
+
+with the power of judicial review over administrative action.
+The NCLT, being a creature of a special statute to discharge
+
+certain specific functions, cannot be elevated to the status of a
+
+superior court having the power of judicial review over
+
+administrative action. Judicial review, as observed by this
+
+court in Sub­Committee on
+Judicial Accountability vs.
+
+Union of India,24
+flows from the concept of a higher law,
+
+namely the Constitution. Paragraph 61 of
+the said decision
+captures this position as follows:
+“But  where, as in this country and unlike in England,
+               there is a written Constitution which constitutes the
+               fundamental and in that sense a “higher law” and acts
+               as a limitation upon the legislature and other organs of
+               the State as grantees under the Constitution, the usual
+               incidents of parliamentary sovereignty do not obtain
+               and the concept is one of ‘limited government’. Judicial
+               review is, indeed, an incident of and flows from this
+               concept of the fundamental and the higher law being
+               the touchstone of the limits of the powers of the various
+               organs of the State which derive power and authority
+               under the Constitution and that the judicial wing is the
+               interpreter of the Constitution and, therefore, of the
+               limits of authority of the different organs of the State. It
+
+24 (1991) 4 SCC 699
+31
+is to be noted that the British Parliament with the
+          Crown is supreme and its powers are unlimited and
+          courts have no power of judicial review of legislation.”
+29.    The NCLT is not even a Civil Court, which has
+
+jurisdiction by virtue of
+Section 9
+of the Code of Civil
+
+Procedure to try all suits of a civil nature excepting suits, of
+
+which their cognizance is either expressly or impliedly barred.
+Therefore NCLT can exercise only such powers within the
+
+contours of jurisdiction as prescribed by the statute, the law
+
+in respect of which, it is called upon to administer. Hence, let
+
+us now see the jurisdiction and powers conferred upon NCLT.
+
+Jurisdiction and powers of NCLT
+30.   NCLT and NCLAT are constituted, not under the IBC,
+
+2016 but under
+Sections 408
+and
+410
+of the Companies Act,
+
+2013. Without specifically defining the powers and functions
+
+of the NCLT,
+Section 408
+of the Companies Act, 2013 simply
+
+states that the Central Government shall constitute a National
+
+Company Law Tribunal, to exercise and discharge such
+
+powers and functions as are or may be, conferred on it by or
+
+under the
+Companies Act
+or any other law for the time being
+32
+in force. Insofar as NCLAT is concerned,
+Section 410
+of the
+
+Companies Act merely states that the Central Government
+
+shall constitute an Appellate Tribunal for hearing appeals
+
+against the Orders of the Tribunal. The matters that fall within
+
+the jurisdiction of the NCLT, under the
+Companies Act, 2013
+,
+
+lie scattered all over the
+Companies Act
+. Therefore,
+Sections
+
+420
+and
+424
+of the Companies Act, 2013 indicate in broad
+
+terms, merely the procedure to be followed by the NCLT and
+
+NCLAT before passing orders. However, there are no separate
+
+provisions in the
+Companies Act
+, exclusively dealing with the
+
+jurisdiction and powers of NCLT.
+31. In contrast, Sub­sections (4) and (5) of Section 60 of IBC,
+
+2016 give an indication respectively about the powers and
+
+jurisdiction of the NCLT. Section 60 in entirety reads as
+
+follows:­
+
+            “Adjudicating Authority for corporate persons.­(1)
+            The Adjudicating Authority, in relation to insolvency
+            resolution and liquidation for corporate persons
+            including corporate debtors and personal guarantors
+            thereof shall be the National Company Law Tribunal
+            having territorial jurisdiction over the place where the
+            registered office of the corporate person is located.
+            (2) Without prejudice to sub­section (1) and
+            notwithstanding anything to the contrary contained in
+33
+this Code, where a corporate insolvency resolution
+process or liquidation proceeding of a corporate debtor
+is pending before the National Company Law Tribunal,
+an application relating to the insolvency resolution or
+[liquidation or bankruptcy of a corporate guarantor or
+personal guarantor, as the case may be, of such
+corporate debtor] shall be filed before such National
+Company Law Tribunal.
+(3) An insolvency resolution process or [liquidation or
+bankruptcy of a corporate guarantor or personal
+guarantor, as the case may be, of the corporate debtor]
+pending in any court or tribunal shall stand transferred
+to the Adjudicating Authority dealing with insolvency
+resolution process or liquidation proceeding of such
+corporate debtor.
+(4)    The National Company Law Tribunal shall be
+vested with all the powers of the Debt Recovery
+Tribunal as contemplated under Part III in of this Code
+for the purpose of sub­section (2).
+(5) Notwithstanding anything to the contrary contained
+in any other law for the time being in force, the National
+Company Law Tribunal shall have jurisdiction to
+entertain or dispose of –
+(a)    any application or proceeding by or against
+       the corporate debtor or corporate person;
+(b)    any claim made by or against the corporate
+       debtor or corporate person, including
+       claims by or against any of its subsidiaries
+       situated in India; and
+(c)    any question of priorities or any question of
+       law or facts, arising out of or in relation to
+       the insolvency resolution or liquidation
+       proceedings of the corporate debtor or
+       corporate person under this Code.
+(6) Notwithstanding anything contained in the
+Limitation Act, 1963
+(36 of 1963) or in any other law for
+the time being in force, in computing the period of
+limitation specified for any suit or application by or
+against a corporate debtor for which an order of
+moratorium has been made under this Part, the period
+during which such moratorium is in place shall be
+excluded.”
+34
+32.   Sub­section (4) of Section 60 of IBC, 2016 states that the
+
+NCLT will have all the powers of the DRT as contemplated
+
+under Part III of the Code for the purposes of Sub­section (2).
+
+Sub­section (2) deals with a situation where the insolvency
+
+resolution or liquidation or bankruptcy of a corporate
+
+guarantor or personal guarantor of a corporate debtor is taken
+
+up, when CIRP or liquidation proceeding of such a corporate
+
+debtor is already pending before NCLT.      The object of Sub­
+
+section (2) is to group together (A) the CIRP or liquidation
+
+proceeding of a corporate debtor and (B) the insolvency
+
+resolution or liquidation or bankruptcy of a corporate
+
+guarantor or personal guarantor of the very same corporate
+
+debtor, so that a single Forum may deal with both. This is to
+
+ensure that the CIRP of a corporate debtor and the insolvency
+
+resolution of the individual guarantors of the very same
+
+corporate debtor do not proceed on different tracks, before
+
+different Fora, leading to conflict of interests, situations or
+
+decisions.
+35
+33. If the object of Sub­section (2) of Section 60 is to ensure
+
+that the insolvency resolutions of the corporate debtor and its
+
+guarantors are dealt with together, then the question that
+
+arises is as to why there should be a reference to the powers of
+
+the DRT in Sub­section (4). The answer to this question is to
+
+be found in Section 179 of IBC, 2016. Under Section 179 (1), it
+
+is the DRT which is the Adjudicating Authority in relation to
+
+insolvency matters of individuals and firms. This is in contrast
+
+to Section 60(1) which names the NCLT as the Adjudicating
+
+Authority in relation to insolvency resolution and liquidation of
+
+corporate persons including corporate debtors and personal
+
+guarantors. The expression “personal guarantor” is defined in
+Section 5(22)
+to mean an individual who is the surety in a
+
+contract of guarantee to a corporate debtor. Therefore the
+
+object of Sub­section (2) of Section 60 is to avoid any
+
+confusion that may arise on account of Section 179(1) and to
+
+ensure that whenever a CIRP is initiated against a corporate
+
+debtor, NCLT will be the Adjudicating Authority not only in
+
+respect of such corporate debtor but also in respect of the
+36
+individual who stood as surety to such corporate debtor,
+
+notwithstanding the naming of the DRT under Section 179(1)
+
+as the Adjudicating Authority for the insolvency resolution of
+
+individuals. This is also why Sub­section (2) of Section 60 uses
+
+the   phrase   “notwithstanding     anything   to   the   contrary
+
+contained in this Code”.
+34. Sub­section (2) of Section 179 confers jurisdiction upon
+
+DRT to entertain and dispose of (i) any suit or proceeding by or
+
+against the individual debtor (ii) any claim made by or against
+
+the individual debtor and (iii) any question of priorities or any
+
+other question whether of law or facts arising out of or in
+
+relation to insolvency and bankruptcy of the individual debtor.
+
+Clauses (a), (b) and (c) of Sub­section (2) of Section 179 are
+
+identical to Clauses (a), (b) and (c) of Sub­section (5) of Section
+60. Therefore the only reason why Sub­section (4) is
+
+incorporated in Section 60 is to ensure that NCLT will exercise
+
+jurisdiction – (1) not only to entertain and dispose of matters
+
+referred to in Clauses (a), (b) and (c) of Sub­section (5) of
+
+Section 60 in relation to the corporate debtor, (2) but also to
+37
+entertain and dispose of the matters specified in Clauses (a),
+(b) and (c) of Sub­section (2) of Section 179, whenever the
+
+contingency stated in Section 60(2) arises.
+35.     Interestingly there are separate provisions both in Part II
+
+and Part III of IBC, 2016 ousting the jurisdiction of civil
+
+courts. While Section 63 contained in Part II bars the
+
+jurisdiction of a civil court in respect of any matter on which
+
+NCLT or NCLAT will have jurisdiction, Section 180 contained
+
+in Part III bars the jurisdiction of civil courts in respect of any
+
+matter on which DRT or DRAT has jurisdiction. But curiously
+
+there is something more in Section 180 than what is found in
+
+Section 63, which can be appreciated if both are presented in
+
+a tabular column.
+Section 63                             Section 180
+      No civil court or authority shall       (1) No civil court or authority
+      have jurisdiction to entertain any     shall have jurisdiction to
+      suit or proceedings in respect of      entertain     any     suit    or
+      any matter on which National           proceedings in respect of any
+      Company Law Tribunal or the            matter on which the Debt
+      National Company Law Appellate         Recovery Tribunal or the Debt
+Tribunal has jurisdiction under this   Recovery Appellate Tribunal
+      Code. Civil court not to have          has jurisdiction under this
+      jurisdiction.                          Code.
+(2) No injunction shall be
+                                             granted by any court, tribunal
+                                             or authority in respect of any
+38
+action taken, or to be taken, in
+                                   pursuance of any power
+                                   conferred on the Debt Recovery
+                                   Tribunal or the Debt Recovery
+                                   Appellate Tribunal by or under
+                                   this Code.
+Though what is found in Sub­section (2) of Section 180 is not
+
+found in the corresponding provision in Part II namely, Section
+
+63, a similar provision is incorporated in an unrelated
+
+provision namely Section 64, which primarily deals with
+
+expeditious disposal of applications. Thus, there appears to
+
+be some mix­up.     However, we are not concerned about the
+
+same in this case and we have made a reference to the same
+
+only because of Sub­section (4) of Section 60, vesting upon the
+
+NCLT, all the powers of the DRT.
+36.   From a combined reading of Sub­section (4) and Sub­
+
+section (2) of Section 60 with Section 179, it is clear that none
+
+of them hold the key to the question as to whether NCLT
+
+would have jurisdiction over a decision taken by the
+39
+government under the provisions of
+MMDR Act, 1957
+and the
+
+Rules issued there­under. The only provision which can
+
+probably throw light on this question would be Sub­section (5)
+
+of Section 60, as it speaks about the jurisdiction of the NCLT.
+
+Clause (c) of Sub­section (5) of Section 60 is very broad in its
+
+sweep, in that it speaks about any question of law or fact,
+
+arising out of or in relation to insolvency resolution. But a
+
+decision taken by the government or a statutory authority in
+
+relation to a matter which is in the realm of public law,
+
+cannot, by any stretch of imagination, be brought within the
+
+fold of the phrase “arising out of or in relation to the
+
+insolvency resolution” appearing in Clause (c) of Sub­section
+
+(5). Let us take for instance a case where a corporate debtor
+
+had suffered an order at the hands of the Income Tax
+
+Appellate Tribunal, at the time of initiation of CIRP. If Section
+
+60(5)(c) of IBC is interpreted to include all questions of law or
+
+facts    under     the     sky,    an     Interim     Resolution
+
+Professional/Resolution Professional will then claim a right to
+
+challenge the order of the Income Tax Appellate Tribunal
+40
+before the NCLT, instead of moving a statutory appeal under
+Section 260A
+of the Income Tax Act, 1961. Therefore the
+
+jurisdiction of the NCLT delineated in Section 60(5) cannot be
+
+stretched so far as to bring absurd results. (It will be a
+
+different matter, if proceedings under statutes like
+Income Tax
+
+Act
+had attained finality, fastening a liability upon the
+
+corporate debtor, since, in such cases, the dues payable to the
+
+Government would come within the meaning of the expression
+
+“operational    debt”   under
+Section   5(21)
+,   making     the
+
+Government an “operational creditor” in terms of
+Section 5(20)
+.
+
+The moment the dues to the Government are crystalised and
+
+what remains is only payment, the claim of the Government
+
+will have to be adjudicated and paid only in a manner
+
+prescribed in the resolution plan as approved by the
+
+Adjudicating Authority, namely the NCLT. )
+37.   It was argued by all the learned Senior Counsel on the
+
+side of the appellants that an Interim Resolution Professional
+
+is duty bound under
+Section 20(1)
+to preserve the value of the
+
+property   of   the   Corporate   Debtor    and   that   the   word
+41
+“property” is interpreted in
+Section 3(27)
+to include even
+
+actionable claims as well as every description of interest,
+
+present or future or vested or contingent interest arising
+
+out of or incidental to property and that therefore the
+
+Interim Resolution Professional is entitled to move the NCLT
+
+for appropriate orders, on the basis that lease is a property
+
+right and NCLT has jurisdiction under Section 60(5) to
+
+entertain any claim by the Corporate Debtor.
+38.   But the said argument cannot be sustained for the
+
+simple reason that the duties of a resolution professional are
+
+entirely different from the jurisdiction and powers of NCLT. In
+
+fact
+Section 20(1)
+cannot be read in isolation, but has to be
+
+read in conjunction with
+Section 18(f)(vi)
+of the IBC, 2016
+
+together with the Explanation thereunder.
+Section 18 (f) (vi)
+reads as follows:­
+
+          “18. Duties of interim resolution professional. ­ The
+          interim resolution professional shall perform the
+          following duties, namely:­
+(a) …
+(b)…
+(c) …
+(d)…
+42
+(e)…
+(f) take control and custody of any asset over which the
+           corporate debtor has ownership rights as recorded in
+           the balance sheet of the corporate debtor, or with
+           information utility or the depository of securities or any
+           other registry that records the ownership of assets
+           including—
+(i)…
+(ii)…
+(iii)…
+(iv) …
+(v)…
+(vi) assets subject to the determination of ownership by
+           a court or authority;
+(g) …
+           Explanation. ­ For the purposes of this section, the term
+           ‘assets’ shall not include the following namely:­
+(a)      assets owned by a third party in possession of
+           the corporate debtor held under trust or under
+           contractual arrangements including bailment;
+(b) assets of any Indian or foreign subsidiary of the
+           corporate debtor; and
+(c) such other assets as may be notified by the Central
+           Government in consultation with any financial sector
+           regulator.”
+39.   If NCLT has been conferred with jurisdiction to decide all
+
+types of claims to property, of the corporate debtor,
+Section
+
+18(f)(vi)
+would not have made the task of the interim resolution
+
+professional in taking control and custody of an asset over
+
+which the corporate debtor has ownership rights, subject to
+
+the determination of ownership by a court or other
+43
+authority. In fact an asset owned by a third party, but which
+
+is in the possession of the corporate debtor under contractual
+
+arrangements, is specifically kept out of the definition of the
+
+term “assets” under the Explanation to
+Section 18
+. This
+
+assumes significance in view of the language used in
+Sections
+
+18
+and
+25
+in contrast to the language employed in
+Section 20
+.
+Section 18
+speaks about the duties of the interim resolution
+
+professional and
+Section 25
+speaks about the duties of
+
+resolution professional. These two provisions use the word
+
+“assets”, while
+Section 20(1)
+uses the word “property” together
+
+with the word “value”.
+Sections 18
+and
+25
+do not use the
+
+expression “property”. Another important aspect is that under
+Section 25 (2) (b)
+of IBC, 2016, the resolution professional is
+
+obliged to represent and act on behalf of the corporate debtor
+
+with third parties and exercise rights for the benefit of the
+
+corporate debtor in judicial, quasi­judicial and arbitration
+
+proceedings.
+Section 25(1)
+and
+25(2)(b)
+reads as follows:
+“25. Duties of resolution professional –
+          (1) It shall be the duty of the resolution professional to
+          preserve and protect the assets of the corporate
+44
+debtor, including the continued business operations of
+          the corporate debtor.
+(2) For the purposes of sub­section (1), the resolution
+          professional shall undertake the following actions:­
+(a)………….
+(b) represent and act on behalf of the corporate debtor
+          with third parties, exercise rights for the benefit of
+          the corporate debtor in judicial, quasi judicial
+          and arbitration proceedings.”
+
+
+This shows that wherever the corporate debtor has to exercise
+
+rights in judicial, quasi­judicial proceedings, the resolution
+
+professional cannot short­circuit the same and bring a claim
+
+before NCLT taking advantage of Section 60(5).
+40.   Therefore in the light of the statutory scheme as culled
+
+out from various provisions of the IBC, 2016 it is clear that
+
+wherever the corporate debtor has to exercise a right that falls
+
+outside the purview of the IBC, 2016 especially in the realm of
+
+the   public   law,   they   cannot,      through    the   resolution
+
+professional, take a bypass and go before NCLT for the
+
+enforcement of such a right.
+41.   In fact the Resolution Professional in this case appears
+
+to have understood this legal position correctly, in the initial
+
+stages. This is why when the Government of Karnataka did not
+45
+grant the benefit of deemed extension, even after the expiry of
+
+the lease on 25.05.2018, the Resolution Professional moved
+
+the High Court by way of a writ petition in WP No. 23075 of
+
+2018. The prayer made in WP No. 23075 of 2018 was for a
+
+declaration that the mining lease should be deemed to be valid
+
+upto 31.03.2020. If NCLT was omnipotent, the Resolution
+
+Professional would have moved the NCLT itself for such a
+
+declaration. But he did not, as he understood the legal
+
+position correctly.
+42. After the filing of the first writ petition (WP No. 23075 of
+
+2018), the Government of Karnataka passed an order dated
+
+26.09.2018 rejecting the claim. Therefore the Resolution
+
+Professional, representing the Corporate Debtor filed a memo
+
+before the High Court seeking withdrawal of the writ petition
+
+“with liberty to file a fresh writ petition”. However the
+
+High Court, while dismissing the writ petition by order dated
+
+28.09.2018 was little considerate and it disposed of the writ
+
+petition as withdrawn with liberty to take recourse to
+
+appropriate remedies in accordance with law. Perhaps taking
+46
+advantage of this liberty, the Resolution Applicant moved the
+
+NCLT against the order of rejection passed by the Government
+
+of Karnataka. If NCLT was not considered by the Resolution
+
+Professional, in the first instance, to be empowered to issue a
+
+declaration of deemed extension of lease, we fail to understand
+
+how NCLT could be considered to have the power of judicial
+
+review over the order of rejection.
+43.   The fact that the Government of Karnataka agreed in the
+
+second writ petition WP No. 5002 of 2019 to go back to the
+
+NCLT and contest the Miscellaneous Application filed by the
+
+Resolution Professional, would not tantamount to conceding
+
+the jurisdiction of NCLT. In any case a tribunal which is the
+
+creature of a statute cannot be clothed with a jurisdiction, by
+
+any concession made by a party.
+44. A lot of stress was made on the effect of
+Section 14
+of
+
+IBC, 2016 on the deemed extension of lease. But we do not
+
+think that the moratorium provided for in
+Section 14
+could
+
+have any impact upon the right of the Government to refuse
+
+the extension of lease. The purpose of moratorium is only to
+47
+preserve the status quo and not to create a new right.
+
+Therefore nothing turns on
+Section 14
+of IBC, 2016. Even
+Section 14 (1) (d)
+, of IBC, 2016, which prohibits, during the
+
+period of moratorium, the recovery of any property by an
+
+owner or lessor where such property is occupied by or in the
+
+possession of the corporate debtor, will not go to the rescue of
+
+the corporate debtor, since what is prohibited therein, is only
+
+the right not to be dispossessed, but not the right to have
+
+renewal of the lease of such property. In fact the right not to
+
+be dispossessed, found in
+Section 14 (1) (d)
+, will have nothing
+
+to do with the rights conferred by a mining lease especially on
+
+a government land. What is granted under the deed of mining
+
+lease in ML 2293 dated 04.01.2001, by the Government of
+
+Karnataka, to the Corporate Debtor, was the right to mine,
+
+excavate and recover iron ore and red oxide for a specified
+
+period of time. The Deed of Lease contains a Schedule divided
+
+into several parts. Part­I of the Schedule describes the location
+
+and area of the lease. Part­II indicates the liberties and
+
+privileges of the lessee. The restrictions and conditions subject
+48
+to which the grant can be enjoyed are found in Part­III of the
+
+Schedule. The liberties, powers and privileges reserved to the
+
+Government, despite the grant, are indicated in Part­IV. This
+
+Part­IV entitles the Government to work on other minerals
+
+(other than iron ore and red oxide) on the same land, even
+
+during the subsistence of the lease. Therefore, what was
+
+granted to the Corporate Debtor was not an exclusive
+
+possession of the area in question, so as to enable the
+
+Resolution Professional to invoke
+Section 14 (1) (d)
+.
+Section 14
+
+(1) (d)
+may have no application to situations of this nature.
+45. Therefore, in fine, our answer to the first question would
+
+be that NCLT did not have jurisdiction to entertain an
+
+application against the Government of Karnataka for a
+
+direction to execute Supplemental Lease Deeds for the
+
+extension of the mining lease. Since NCLT chose to exercise a
+
+jurisdiction not vested in it in law, the High Court of
+
+Karnataka was justified in entertaining the writ petition, on
+
+the basis that NCLT was coram non judice.
+49
+Question No. 2
+46.   The second question that arises for our consideration is
+
+as to whether NCLT is competent to enquire into allegations of
+
+fraud, especially in the matter of the very initiation of CIRP.
+47. This question has arisen, in view of the stand taken by
+
+the Government of Karnataka before the High Court that they
+
+chose to challenge the order of the NCLT before the High
+
+Court, instead of before NCLAT, due to the fraudulent and
+
+collusive manner in which the CIRP was initiated by one of the
+
+related parties of the Corporate Debtor themselves. In the writ
+
+petition filed by the Government of Karnataka before the High
+
+Court, it was specifically pleaded (i) that the Managing
+
+Director of the Corporate Debtor entered into an agreement on
+
+06.02.2011 with one M/s. D. P. Exports, for carrying out
+
+mining operations on behalf of the Corporate Debtor and also
+
+for managing its affairs and selling 100% of the extracted iron
+
+ore; (ii) that the said M/s. D. P. Exports was a partnership
+
+firm of which one Mr. M. Poobalan and his wife were partners;
+(iii) that another agreement dated 11.12.2012 was entered into
+50
+between the Corporate Debtor and a proprietary concern by
+
+name M/s. P. & D. Enterprises, of which the very same person
+
+namely, Mr. M. Poobalan was the sole proprietor; (iv) that the
+
+said agreement was for hiring of machinery and equipment; (v)
+
+that a finance agreement was also entered into on 12.12.2012
+
+between the Corporate Debtor and a company by name M/s.
+
+Udhyaman     Investments      Pvt.   Ltd.,   represented     by    its
+
+authorized signatory Mr. M. Poobalan; (vi) that there were a
+
+few communications sent by the said Mr. Poobalan to various
+
+authorities, claiming himself to be the authorized signatory of
+
+the Corporate Debtor; (vii) that an MOU was entered into on
+
+16.04.2016   between    the     Corporate     Debtor   and        M/s.
+
+Udhyaman Investments Pvt. Ltd., represented by the said Mr.
+
+Poobalan, whereby the Corporate Debtor agreed to pay Rs.
+
+11.5 crores; (viii) that the said agreement was purportedly
+
+executed at Florida, but witnessed at Chennai; (ix) that Mr.
+
+Poobalan even communicated to the Director, Department of
+
+Mines & Geology as well as the Monitoring Committee, taking
+
+up the cause of the Corporate Debtor as its authorized
+51
+signatory; (x) that the CIRP was initiated by M/s. Udhyaman
+
+Investments Pvt. Ltd. represented by its authorized signatory,
+
+Mr. Poobalan; (xi) that the Resolution Applicant namely, M/s.
+
+Embassy Property Development Pvt. Ltd. as well as the
+
+Financial Creditor who initiated CIRP namely, M/s. Udhyaman
+
+Investments Pvt. Ltd. are all related parties and (xii) that Mr.
+
+Poobalan had not only acted on behalf of the Corporate Debtor
+
+before the statutory authorities, but also happened to be the
+
+authorized signatory of the Financial Creditor who initiated
+
+the CIRP, eventually for the benefit of the Resolution Applicant
+
+which is a related party of the Financial Creditor.
+48. In the light of the above averments, the Government of
+
+Karnataka thought fit to invoke the jurisdiction of the High
+
+Court under
+Article 226
+without taking recourse to the
+
+statutory alternative remedy of appeal before the NCLAT. But
+
+the contention of the appellants herein is that allegations of
+
+fraud and collusion can also be inquired into by NCLT and
+
+NCLAT and that therefore the Government could not have
+
+bypassed the statutory remedy.
+52
+49. The objection of the appellants in this regard is well
+
+founded. Section 65 specifically deals with fraudulent or
+
+malicious initiation of proceedings. It reads as follows :
+“65.      Fraudulent or malicious initiation                of
+           proceedings. – (1) If, any person initiates the insolvency
+           resolution process or liquidation proceedings fraudulently or
+           with malicious intent for any purpose other than for the
+           resolution of insolvency or liquidation, as the case may be,
+           the adjudicating authority may impose upon such person a
+           penalty which shall not be less than one lakh rupees, but
+           may extend to one crore rupees.
+(2) If, any person initiates voluntary liquidation proceedings
+           with the intent to defraud any person the adjudicating
+           authority may impose upon such person a penalty which
+           shall not be less than one lakh rupees but may extend to one
+           crore rupees.”
+50.   Even fraudulent tradings carried on by the Corporate
+
+Debtor during the insolvency resolution, can be inquired into
+
+by the Adjudicating Authority under Section 66. Section 69
+
+makes an officer of the corporate debtor and the corporate
+
+debtor liable for punishment, for carrying on transactions with
+
+a view to defraud creditors. Therefore, NCLT is vested with the
+
+power to inquire into (i) fraudulent initiation of proceedings as
+
+well as (ii) fraudulent transactions.           It is significant to note
+
+that Section 65(1) deals with a situation where CIRP is
+53
+initiated fraudulently “for any purpose other than for the
+
+resolution of insolvency or liquidation”.
+51. Therefore, if, as contended by the Government of
+
+Karnataka, the CIRP had been initiated by one and the same
+
+person taking different avatars, not for the genuine purpose of
+
+resolution of insolvency or liquidation, but for the collateral
+
+purpose of cornering the mine and the mining lease, the same
+
+would fall squarely within the mischief addressed by Section
+
+65(1).   Therefore, it is clear that NCLT has jurisdiction to
+
+enquire into allegations of fraud. As a corollary, NCLAT will
+
+also have jurisdiction. Hence, fraudulent initiation of CIRP
+
+cannot be a ground to bypass the alternative remedy of appeal
+
+provided in Section 61.
+Conclusion
+52.       The upshot of the above discussion is that though
+
+NCLT and NCLAT would have jurisdiction to enquire into
+
+questions of fraud, they would not have jurisdiction to
+
+adjudicate upon disputes such as those arising under
+MMDR
+
+Act, 1957
+and the rules issued thereunder, especially when
+54
+the disputes revolve around decisions of statutory or quasi­
+
+judicial authorities, which can be corrected only by way of
+
+judicial review of administrative action. Hence, the High Court
+
+was justified in entertaining the writ petition and we see no
+
+reason to interfere with the decision of the High Court.
+
+Therefore, the appeals are dismissed. There will be no order as
+
+to costs.
+…..…………....................J
+                                        (Rohinton Fali Nariman)
+
+
+                                        …..…………....................J
+                                        (Aniruddha Bose)
+
+
+                                        .…..………......................J
+                                         (V. Ramasubramanian)
+New Delhi
+December 03, 2019.
+55

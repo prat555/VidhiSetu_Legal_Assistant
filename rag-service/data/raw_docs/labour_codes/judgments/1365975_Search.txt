@@ -1,0 +1,902 @@
+Title: Search
+Court: High Court
+Date: 45 of 1860
+Citation: citations: 2008(2)MHLJ856
+Source: https://indiankanoon.org/doc/1365975/
+
+[Cites
+126
+, Cited by
+72
+]
+Bombay High Court
+Abasaheb Yadav Honmane And Ashwini ... vs The State Of Maharashtra on 12 March, 2008
+Equivalent citations: 2008(2)MHLJ856
+Author:
+Swatanter Kumar
+Bench:
+Swatanter Kumar
+,
+D.Y. Chandrachud
+,
+J.P. Devadhar
+JUDGMENT
+ 
+
+Swatanter Kumar, C.J.
+1. Introduction and Legislative History 
+ 
+
+1.1 Legislative amendments and judicial pronouncements over a period of time have effectively expanded the scope of the canons of criminal jurisprudence in our criminal justice delivery system.
+Article 21
+of the Constitution has been interpreted to provide the right to every person including an under-trial to live with dignity. No person could be deprived of his life or personal liberty except according to the procedure established by law and also in consonance with
+Article 21
+of the Constitution of India. No person who is arrested shall be detained in custody without informing the person the grounds of his arrest or detention. Such person would be provided a due right to defend himself by a legal practitioner of his choice. In addition to this, various safeguards are provided for the exercise of power by prosecuting agencies and conduct of trials by Courts. The radical change in judicial approach relating to criminal trial, protection of witnesses and the obligation of the Presiding Judge to play an effective role in the evidence collecting process and to elicit all relevant material necessary for reaching the correct conclusion to find out the truth and do justice have given rise to various seminal principles which would flow from the judgment of the Supreme Court in
+Zahira Habibulla H.Shaikh and Anr. v. State of Gujarat
+2004 Cr.L.J. 2050 (SC). Essentially due process contemplated under
+Article 21
+must be a fair and acceptable procedure in accordance with the rule of law.
+Article 21
+which was given a strict textual meaning in A.K. Gopalan's case  received an enlarged interpretation in
+Maneka Gandhi v. Union of India
+in which it was held that procedure established by law in
+Article 21
+has to be reasonable and not violative of
+Article 14
+and that the concept of the right to life and personal liberty includes "right to live with dignity" being a basic human right.
+1.2 Public opinion is a valuable support for enactment of law and for its enforcement as well. Without institutionalised law, enforcement would be difficult and so also redressal of wrongs. The State should, therefore, ensure a clear system of administration of criminal justice so as to provide solution to all such problems that may arise in the way of enforcement of law. Every crime, if proved, needs to be punished and object of punishment should be to protect society against its reoccurrence and in that sense it should even be prevented. Where punishment is disabling or preventive, its aim is to prevent the repetition of the offence by rendering the offender incapable of its commission. Thus, different punishments relating to varied offences are looked upon differently resulting into varied approaches of crime prevention. Penal law in our country is codified in
+Indian Penal Code
+being the substantive law and
+Code of Criminal Procedure
+dealing with the procedure is the procedural law. In terms of
+Section 4
+of the Code, all offences under the
+Indian Penal Code
+shall be investigated, enquired into, tried and otherwise dealt with according to the provisions contained in the Code. In other words, the procedural scheme of the Code is to control the entire process beginning with the commission of offence till the conclusion of the judgment. Any ambiguity in the penal and procedural statute must be construed in a manner most favourable to liberty and the general rule is that penal enactments are to be construed strictly and not to extend beyond their clear meaning. Today the law is not a manifestation of the will of anyone but has to be the true and correct reflection of the codified laws in regard to the crime prevention and punishment. Law is recognised as an instrument of social engineering. A crime as defined by Halsbury's Law of England is an unlawful act or default which is an offence against the public and renders the person guilty of the act or default liable to legal punishment. Every offence committed particularly under the
+Indian Penal Code
+is an offence against the State while normally there would be an aggrieved party or a victim as well. It invades into the right of an individual on the one hand while on the other it is a public wrong.
+In the case of
+Sadhanantham v. Arunachalam
+1980 SC 856, the Supreme Court clearly stated the principle that a crime is an act deemed by law to be harmful to society in general even though its immediate victim is an individual. Interpretation of punitive provisions in conjunction with procedural law has attained a new dimension where keeping in view the interest of the society, the Courts have tilted the balance in favour of administration of justice and achieving greater harmony in society.
+1.3 In
+B.S. Joshi and Ors. v. State of Haryana and Anr.
+, the Supreme Court took the view that the provisions of
+Section 320
+of the Code do not limit or control exercise of powers vested in the Court under
+Section 482
+of the Code. Describing the scope of inherent powers it was held that they are very wide and the Court would have the power to quash criminal proceedings or an FIR or a complaint under
+Section 498A
+of the IPC even if the said offence presumably was not compoundable under
+Section 320
+of the Code.
+1.4 Compounding and quashing are not synonymous terms. In law they have a different meaning and consequences. They arise from different situations and operate in different fields and stages. There is no apparent legal interdependence or interlink to the extent that one could exist only if the conditions of the other were satisfied or vice-versa. Quashing is one of the facets of inherent powers while compounding of an offence being a statutory expression contained under
+Section 320
+of the Code is entirely a different concept.
+1.5 The
+Criminal Procedure Code
+does not specifically give any power to the Court to quash proceedings as strictly construed in legal parlance. This power is derived from the inherent powers contemplated under
+Section 482
+of the Code.
+1.6 A Division Bench of this Court in the case of
+Kiran Tulshiram Ingale v. Smt. Anupama P. Gaikwad and Ors.
+2006 Cri.
+L.J. 4591, relying upon the judgment of the Supreme Court in
+B.S. Joshi
+'s case (supra) and expanding the principles of socio-welfare interpretation to the provisions of the Code quashed an order of conviction. That was a case where a case against the husband had been registered under
+Section 498A
+of the Code wherein he was convicted by the trial Court. In appeal before the Appellate Court, the parties settled the matter. They obtained a decree by mutual consent and the wife agreed not to press for the husband's conviction. The Appellate Court maintained the conviction and gave benefit of probation under
+Section 4(1)
+of the Probation of Offenders' Act to the husband. The husband filed a criminal revision against the order of the Sessions Judge and thereafter apprehending some objection to the maintainability of the application, filed a petition under Section 482 of the Code praying for quashing and setting aside the judgment of conviction of the Appellate Court dated 3rd March, 2004.
+The Division Bench of this Court
+in that case
+did not agree with the view expressed by another single Judge of this Court in the case of
+State of Maharashtra v. Madhu Bhisham Bhatia and Ors.
+2004 Cri LJ 5072, wherein the single Judge referred the matter to the Division Bench and the Division Bench after noticing this fact framed the following two questions.
+1. The decision of the Apex Court in
+B.S. Joshi
+'s case is not an authority to hold that offence under
+Section 498A
+of the Indian Penal Code is a compoundable offence, which can be compounded with the permission of the Court.
+2. Whether it is open for the High Court to quash the criminal action in exercise of inherent powers even in a case which has ended with an order of conviction after trial.
+The Division Bench while quashing the criminal proceedings, answered the questions as follows at the end of the judgment.
+Ans. to Issue No. 1:-The decision of the Supreme Court gives powers to the High Court to permit compounding of matrimonial offences and the High Court has powers to quash the criminal proceedings or FIR or complaint.
+Ans. to Issue No. 2: Even in case of conviction, inherent powers can be exercised and criminal proceedings can be quashed.
+2. Facts in nutshell Criminal Appeal No. 576 of 2004, where the accused was convicted for an offence under
+Section 495
+of the IPC, came up for admission hearing when the Court while admitting the appeal, released the applicant on bail. Thereafter the applicant has preferred the present application praying for the leave of the Court to compound the offence under
+Section 495
+of the IPC and also for quashing and setting aside the judgment of conviction dated 20th April, 2004 passed by the Additional Sessions Judge, Greater Bombay in Sessions Case No. 108 of 2001 where the appellant was convicted and sentenced to suffer rigorous imprisonment for five years and to pay fine of Rs. 25,000/-, in default to suffer rigorous imprisonment for one year.
+2.2 The said application came up before the learned single Judge on 11th July, 2007. However, the learned single Judge did not accept the principles stated in the order of the Division Bench and vide his order dated 11th July, 2007 directed the Registry to place the application for reference to a larger Bench of two or three Judges. The order dated 11th July, 2007, expressing the disagreement of the learned single Judge reads as under.
+Whether, by following the law
+laid down in
+the case of B.S. Joshi and Anr. , the High Court under its inherent powers under
+Section 482
+of Cr.P.C. has the powers to allow compounding of offences other than the offence punishable under
+Section 498A
+of IPC, but initiated and/or originated on the basis of the complaint filed by one spouse against the other and more particularly the offences punishable under
+Sections 306
+,
+307
+,
+326
+,
+376
+,
+406
+and
+495
+of IPC, at the trial stage or at the appellate stage.
+2.3 No statute can provide for all situations when the legislature enacts a law. It may neither be feasible nor comprehensible to enact a law which could operate as a strait-jacket formula for all classes, situations and stage of proceedings. The residuary clauses or like provisions are normally introduced in an Act so as to ensure that whatever impediments are faced by the competent authorities, during the implementation of such an Act, can be dealt with by the aid of such enabling or residuary clauses. Vesting of inherent powers in the the courts is a known phenomena. In fact, one school of thought supports the view that creation of a code necessarily implies vesting of inherent powers to resolve the difficulties or such impediments in the conclusion of a trial for a given situation which particularly, is not specifically provided under the enactment itself. The other school of thought supports the view that the courts could have no inherent power in relation to codified law or special statutes unless it is so specifically spelt out in the enactment itself. It further elucidates the principle that inherent powers can be used only for bridging gaps and cannot be taken recourse to where they are in conflict with the provisions of the Code or any other law for the time being in force.
+2.4 The Legislature in its wisdom, while emphasising the need of providing inherent powers to the High Court, introduced
+Section 482
+of the Criminal Procedure Code which reads as under:
+482. Saving of inherent powers of High court. Nothing in this Code shall be deemed to limit or affect the inherent powers of the. High Court to make such orders as may be necessary to give effect to any order under this Code, or to prevent abuse of the process of any Court or otherwise to secure the ends of justice.
+2.5 A bare reading of the above provision indicates that the Legislature intentionally worded this provision widely and, thus, necessarily would have larger impact and ramifications on the procedural law governing enquiry, investigation and trial in criminal cases. It is a well-known concept that law is not static and it develops and varies according to the progress of time and the need of society. Similarly, the provision of Section 482 in regard to the inherent powers of the Court is not meant to be static and diverse views have been expressed by different High Courts as well as the Supreme Court.
+3. Inherent powers
+3.1 It will be useful to examine the development of law in regard to the inherent powers vested in the High Court under this provision. Though the judgments of the courts have been rendered in the facts of decided cases, nevertheless they are relevant in order to enunciate the principles of law. The views taken by different courts over a long period would be an appropriate guide for really determining the legislative intent and scope of this provision.
+3.2 As far back as in 1926, a Division Bench of this Court in re. Llewelyn Evans , took the view that the provisions of Section 561A (equivalent to present Section 482) extend to cases not only of a person accused of an offence in a criminal court, but to the case of any person against whom proceedings are instituted under the Code in any Court. Explaining the word "process", the Court said that it was a general word, meaning in effect anything done by the Court. Explaining the limitations and scope of Section 561A, the Court referred to "inherent jurisdiction", "to prevent abuse of process", "to secure the ends of justice" are terms incapable of precise definition or enumeration, and capable at the most of test, according to well- established principles of criminal jurisprudence. The ends of justice are to be understood by ascertainment of the truth as to the facts on balance of evidence on each side. With reference to the facts the Court held that in the absence of any other method, it has no choice left in the application of the Section except such tests subject to the caution to be exercised in the use of inherent jurisdiction and the avoidance of interference in details and directed providing of a legal practitioner.
+3.3 A Full Bench of the Allahabad High Court in the case of
+Manni Lal v. Emperor
+, stated that the Court cannot exercise its inherent powers in ordering a subordinate Court to do something which was impermissible to create new categories of inherent jurisdiction. The inherent jurisdiction is generally confined. to proceedings in consonance with the provisions of law otherwise the provisions of the Code would become quite unnecessary.
+3.4 A Division Bench of this Court in
+Madhukar Purshottam Mondkar and Anr. v. Talab Haji Hussain and Ors.
+, with reference to exercise of inherent powers stated the principle that when there is a specific provision in law enjoining upon the Court to do something or not to do something, then the Court cannot go contrary to the mandate of the Legislature by relying upon its inherent power and at the same time made a note of caution that no Legislature or no law can contemplate every situation and every eventuality and the best drafted laws might have some lacuna. It is to meet with those unforeseen cases and situations and to make good the lacuna, if it exists, that a Code of law reserves to a Court inherent powers.
+3.5 Citing an example of exercise of inherent powers, the Supreme Court in the case of
+The State of Uttar Pradesh v. Mohammad Naim
+, stated that an aggrieved party could apply for expunging of remarks and pray before the Court for exercise of inherent powers. The Court held as under:
+The first point which falls for consideration is whether the State of Uttar Pradesh had locus standi to make the application under Section 561A Cr. P.C. We may first read the Section:
+Nothing in this Code shall be deemed to limit or affect the inherent power of the High Court to make such orders as may be necessary to give effect to any order under this Code, or to prevent abuse of the process of any Court or otherwise to secure the ends of justice.
+It is now well settled that the Section confers no new powers on the High Court. It merely safeguards all existing inherent powers possessed by a High Court necessary (among other purposes) to secure the ends of justice. The Section provides that those powers which the court inherently possesses shall be preserved lest it be considered that the only powers possessed by the court are those expressly conferred by the Code and that no inherent powers had survived the passing of the Code (see
+Jairam Das v. Emperor
+and
+Emperor v. Nazir Ahmad
+.
+3.6A Full Bench of the Calcutta High Court held in
+The State v. Haridas Mundra and Anr.
+, that inherent powers contained in Section 561A cannot be utilised for providing jurisdiction to the Court which otherwise did not exist. Referring to the law that the High Court had no jurisdiction in revision to interfere with any judgment, order or sentence passed by a single Judge of the High Court in exercise of original criminal jurisdiction, the Court said that there was no inherent power in a Court to assume jurisdiction. Jurisdiction can be conferred only by a statute.
+3.7 In the case of
+L.V. Jadhav v. Shankarrao Abasaheb Pawar and Ors.
+, the Supreme while dealing with the inherent powers of the Court held as under:
+The learned Magistrate was, therefore, right in proceeding on the basis that the allegations in the complaint prima facie constitute an offence under
+Section 4
+of the Act and issuing processes to the respondents. The High Court, we cannot refrain from observing, might well have refused to invoke its inherent powers at the very threshold in order to quash the proceedings, for these powers are meant to be exercised sparingly and with circumspection when there is reason to believe that the process of law is being misused to harass a citizen. The present was not such a case. We find that the complaint had been filed after obtaining the previous sanction of the State Government or of such officer as the State Government may by general or special order specify in this behalf as required by the proviso to
+Section 4
+of the Act.
+3.8 We may also notice a Full Bench judgment of the Rajasthan High Court in the case of Noor Taki alias
+Mammu v. State of Rajasthan
+, where the Court explained the scope of power of the Court under Section 482 of the Code which reads as under:
+19. ...Reasonable expeditious trial is warranted by the provisions of the
+Criminal Procedure Code
+and in case this is not done and an approver is detained for a period which is longer than what can be considered to be reasonable in the circumstances of each case, this Court has always power to declare his detention either illegal or enlarge him to bail while exercising its inherent powers. Section 482 Cr. P.C. gives wide power to this Court in three circumstances. Firstly, where the jurisdiction is invoked to give effect to an order of the Court. Secondly if there is an abuse of the process of the Court and thirdly, in order to secure the ends of justice. There may be occasions where a case of approver may fall within latter two categories. For example in a case where there are large number of witnesses a long period is taken in trial where irregularities and illegalities have been committed by the Court and a retrial is ordered and while doing so, the accused persons are released on bail, the release of the approver will be occasioned for securing the ends of justice. Similarly, there may be cases that there may be an abuse of the process of the Court and the accused might be trying to delay the proceedings by absconding one after another, the approver may approach this Court for seeking indulgence. But this too will depend upon the facts and circumstances of each case. Broadly, the parameters may be given but no hard and fast rule can be laid down. For instance, an approver, who has already been examined and has supported the prosecution version, and has also not violated the terms of pardon coupled with the fact that no early end of the trial is visible, then he may be released by invoking the powers under Section 482, Cr. P.C. Section 482 Cr. P.C. gives only power to the High Court. Sessions Judge cannot invoke the provisions of the same. High Court therefore in suitable cases can examine the expediency of the release of an approver. We are not inclined to accept the contention of the learned Public Prosecutor that since there is a specific bar under Section 306(4)(b), Cr. P.C. ,
+Section 482
+Cr.P.C. should not be made applicable. Their Lordships of the Supreme Court have said in times without number, that there is nothing in the Code to fetter the powers of the High Court under Section 482,Cr. P.C. Even if there is a bar in different provisions for the three purposes mentioned in
+Section 482
+Cr.P.C. and one glaring example quoted is that though Section 397 gives a bar for interference with interlocutory orders yet Section 482 Cr. P.C. has been made applicable in exceptional cases. Second revision by the same petitioner is barred yet this Court in exceptional cases invokes the provisions of Section 482 Cr. P.C. Therefore, Section 482 Cr. P.C. gives ample power to this Court. However, in exceptional cases to enlarge the approver on bail, we answer the question that according to
+Section 306(4)(b)
+Cr.P.C. the approver should be detained in custody till the termination of trial, if he is not already on bail, at the same time, in exceptional and reasonable cases the High Court has power under Section 482 Cr. P.C., to enlarge him on bail or in case there are circumstances to suggest that his detention had been so much prolonged, which would otherwise outlive the period of sentence, if convicted, his detention can be declared to be illegal, as violative of
+Article 21
+of the Constitution.
+3.9 Following the above principles enunciated and further introducing a word of caution, the Supreme Court in the case of State of Bihar v. Muradali Khan and Ors.  held as under:
+6. The second ground takes into consideration the merits of the matter. It cannot be said that the complaint does not spell out the ingredients of the offence alleged. A complaint only means any allegation made orally or in writing to a Magistrate, with a view to his taking action, that some person whether known or unknown, has committed an offence.
+It is trite that jurisdiction under Section 482 Cr. P.C., which saves the inherent power of the High Court, to make such orders as may be necessary to prevent abuse of the process of any Court or otherwise to secure the ends of justice, has to be exercised sparingly and with circumspection. In exercising that jurisdiction the High Court would not embark upon an enquiry whether the allegations in the complaint are likely to be established by evidence or not. That is the function of the trial Magistrate when the evidence comes before him. Though it is neither possible nor advisable to lay down any inflexible rule to regulate that jurisdiction, one thing, however, appears clear and it is that when the High Court is called upon to exercise this jurisdiction to quash a proceeding at the stage of the Magistrate taking cognizance of an offence the High Court is guided by the allegations, whether those allegations, set out in the complaint or the charge-sheet, do not in law constitute or spell out any offence and that resort to criminal proceedings would, in the circumstances, amount to an abuse of the process of the Court or not.
+In
+Municipal Corporation of Delhi v. R.K. Rohtagi
+, it is reiterated:
+It is, therefore, manifestly clear that proceedings against an accused in the initial stages can be quashed only if on the face of the complaint or the papers accompanying the same, no offence is constituted. In other words, the test is that taking the allegations and the complaint as they are, without adding or substracting anything, if no offence is made out then the High Court will be justified in quashing the proceedings in exercise of its powers under Section 482 of the present Code.
+In
+Municipal Corporation of Delhi v. P.D. Jhunjhunwala
+, it was further made clear:
+...As to what would be the evidence against the respondents is not a matter to be considered at this stage and would have to be proved at the trial. We have already held that for purpose of quashing the proceedings only the allegations set forth in the complaint have to be seen and nothing further.
+3.10 Another Full Bench of Rajasthan High Court in the case of
+Mohan Singh and Ors. v. State
+1993 Cri.L.J. 3193 discussed the scope of Section 482 of the Code, particularly in relation to compounding of offences and discussing its scope and effect. The Court held as under.
+13. Now, we may also consider the various decisions relied upon by the learned Counsel for the petitioners.
+In
+Mahesh Chand v. State of Rajasthan
+, the Supreme Court had, no doubt, directed the trial court to accord permission to compound the offence under
+Section 307
+IPC even though this offence is not compoundable under the law. This was permitted as a special case in view of the peculiar circumstances of the case. But, in this case, the Supreme Court has nowhere held that the High Court has inherent power under Section 482 Cr. P.C. to permit composition of offence which is not otherwise compoundable under the law. Therefore, this judgment cannot be an authority to lay down a proposition of law, as argued by the learned Counsel for the petitioners. It may be stated here that in special cases, the Supreme Court may have power to direct compounding of noncompoundable offence, but High Court has no such power.
+The single Bench judgments of this Court in
+Hari Narain v. State of Rajasthan
+and
+Shiv Nath v. State
+are based on the judgment of the Supreme Court in
+Mahesh Chand v. State of Rajasthan
+.
+In Mahesh Chand's case, as we have already seen it was nowhere held by the Supreme Court that High Court could allow composition of a noncompoundable offence in exercise of its inherent power under Section 482 Cr.P.C.
+A Division Bench of this Court in Kailash Bahadur v. State of Rajasthan has, no doubt, held in the affirmative that in exercise of inherent power of the High Court a direction can be issued to lower court to give permission to compound a non-compoundable offence. With due respect this view of the Bench is not a correct proposition of law and runs counter to the proposition of law laid down by the apex court of the country. Accordingly, we overrule the Bench decision in Kailash Bahadur v. State of Rajasthan.
+The Full Bench decisions of this Court in Noor Taki alias
+Mammu v. State of Rajasthan
+and
+Habu v. State of Rajasthan
+relied upon by the learned Counsel for the petitioners, are quite distinguishable and provide no assistance to lay down the proposition that composition of offence which is not compoundable under Section 320 Cr. P.C. is permissible by the High Court in exercise of its power under Section 482 Cr. P.C. In Noor Taki alias Mammu it was held that if the detention of the approver had become so much prolonged which would otherwise outlive the period of sentence, if convicted, he can be enlarged on bail in exercise of power under Section 482 as his detention can be declared to be illegal and violative of
+Article 21
+of the Constitution. Whatever has been held in this decision is in the context of the facts and circumstances of that case.
+Similarly, in
+Habu v. State of Rajasthan
+, the question before the Full Bench was as to whether the judgment given in absence of appellant and or his counsel can be recalled by the High Court in exercise of powers under Section 482 and the Full Bench of this Court held that then power of recall is different from power of altering or reviewing judgment as provided under Section 362, Cr. P.C. as such, the bar contemplated under Section 362,. Cr. P.C. has no application in such matter. Hence, this decision is not an authority to lay down that inherent powers cannot be exercised by the High Court under Section 482 Cr. P.C. against the express bar of law engrafted in any other provision, of the Code.
+The Full Bench formulated the following principles to govern the exercise of powers under Section 482:
+(i) That the High Court possesses the inherent power to be exercised 'ex debito justiae'to do the real and substantial justice for the administration of which alone court exists. But, such powers do not confer any arbitrary jurisdiction on the High Court to act according to its whim or caprice.
+(ii) That it should be exercised very sparingly to. prevent abuse of process of any Court or otherwise to secure the ends of justice;
+(iii) That the power is not to be resorted to if there is a specific provision in the Code for the redress of the grievance of the aggrieved party; and
+(iv) That it should not be exercised as against the express bar of law engrafted in any other provision of the Code.
+3.11 The Court, of course, observed that in view of the express bar contained in Sub-Section (9) of
+Section 320
+of the Cr.P.C., the High Court would have no power to compound offences which are otherwise not compoundable.
+3.12 After considering the various judgments on the subject, the Supreme Court in
+State of Andhra Pradesh v. Golconda Linga Swamy and Anr.
+, discussed the scope of inherent powers of the High Court and indicated that they have to be exercised sparingly, carefully and with caution. The court held as under:
+5. Exercise of power under Section 482 of the Code in a case of this nature is the exception and not the rule.
+The Section does not confer any new powers on the High Court. It only saves the inherent power which the Court possessed before the enactment of the Code. It envisages three circumstances under which the inherent jurisdiction may be exercised, namely: (i) to give effect to an order under the Code, (ii) to prevent abuse of the process of court, and (iii) to otherwise secure the ends of justice. It is neither possible nor desirable to lay down any inflexible rule which would govern the exercise of inherent jurisdiction. No legislative enactment dealing with procedure can provide for all cases that may possibly arise. Courts, therefore, have inherent powers apart from express provisions of law which are necessary for proper discharge of functions and duties imposed upon them by law. That is the doctrine which finds expression in the Section which merely recognises and preserves inherent powers of the High Courts. All courts, whether civil or criminal, possess in the absence of any express provision, as inherent in their constitution, all such powers as are necessary to do the right and to undo a wrong in course of administration of justice on the principle quando lex aliquid alique concedit, conceditur et id sine quo res ipsa esse non potest (when the law gives a person anything, it gives him that without which it cannot exist). While exercising powers under the Section, the Court does not function as a court of appeal or revision.
+Inherent jurisdiction under the Section though wide has to be exercised sparingly, carefully and with caution and only when such exercise is justified by the tests specifically
+laid down in
+the Section itself. It is to be exercised ex debito justitiae to do real and substantial justice for the administration of which alone courts exist. Authority of the court exists for advancement of justice and if any attempt is made to abuse that authority so as to produce injustice, the court has power to prevent such abuse. It would be an abuse of the process of the court to allow any action which would result in injustice and prevent promotion of justice. In exercise of the powers court would be justified to quash any proceeding if it finds that initiation or continuance of it amounts to abuse of the process of court or quashing of these proceedings would otherwise serve the ends of justice. When no offence is disclosed by the complaint, the court may examine the question of fact. When a complaint is sought to be quashed, it is permissible to look into the materials to assess what the complainant has alleged and whether any offence is made out even if the allegations are accepted in toto.
+8. As noted above, the powers possessed by the High Court under Section 482 of the Code are very wide and the very plenitude of the power requires great caution in its exercise. Court must be careful to see that its decision in exercise of this power is based on sound principles. The inherent power should not be exercised to stifle a legitimate prosecution. High Court being the highest court of a State should normally refrain from giving a prima facie decision in a case where the entire facts are incomplete and hazy, more so when the evidence has not been collected and produced before the Court and the issues involved, whether factual or legal, are of magnitude and cannot be seen in their true perspective without sufficient material. Of course, no hard-and-fast rule can be
+laid down in
+regard to cases in which the High Court will exercise its extraordinary jurisdiction of quashing the proceeding at any stage.
+[See
+Janata Dal v. H.S. Chowdhary
+and
+Reghubir Saran (Dr.) v. State of Bihar
+.] It would not be proper for the High Court to analyse the case of the complainant in the light of all probabilities in order to determine whether a conviction would be sustainable and on such premises, arrive at a conclusion that the proceedings are to be quashed. It would be erroneous to assess the material before it and conclude that the complaint cannot be proceeded with. In a proceeding instituted on complaint, exercise of the inherent powers to quash the proceedings is called for only in a case where the complaint does not disclose any offence or is frivolous, vexatious or oppressive. If the allegations set out in the complaint do not constitute the offence of which cognisance has been taken by the Magistrate, it is open to the High Court to quash the same in exercise of the inherent powers under Section 482 of the Code. It is not, however, necessary that-there should be meticulous analysis of the case before the trial to-find out whether the case would end in conviction or acquittal. The complaint/FIR has to be read as a whole. If it appears that on consideration of the allegations in the light of the statement made on oath of the complainant , or disclosed in the FIR that the ingredients of the offence or offences are disclosed and there is no material to show that the complaint/FIR is mala fide, frivolous or vexatious, in that event there would be no justification for interference by the High Court. When an information is lodged at the police station and an offence is registered, then the mala fides of the informant would be of secondary importance. It is the material collected during the investigation and evidence led in court which decides the fate of the accused person. The allegations of mala fides against the informant are of no consequence and cannot by themselves be the basis for quashing the proceeding.
+[See
+Dhanalakshmi v. R. Prasanna Kumar
+,
+State of Bihar v. P.P. Sharma
+,
+Rupan Deol Bajaj v. Kanwar Pal Singh Gill
+,
+State of Kerala v. O.C. Kuttan
+,
+State of U.P. v. O.P. Sharma
+,
+Rashmi Kumar v. Mahesh Kumar Bhada
+,
+Satvinder Kaur v. State (Govt. of NCT of Delhi
+),
+Rajesh Bajaj v. State NCT of Delhi
+and
+State of Karnataka v. M. Devendrappa
+.]
+3.13 Still in another case of
+Minu Kumari v. State of Bihar
+, the Supreme Court reiterated the above position and discussed the limitation on inherent powers.
+3.14 Similar view was taken by the Supreme Court in the case of
+Central Bureau of Investigation v. Ravi Shankar Srivastava
+wherein the Supreme Court has reiterated the application of the principle of of ex debito justitiae to do real and substantial justice and to prevent abuse of the court process and the court observed that the High Court was not justified in quashing the FIR and even rejected the plea of jurisdiction of the CBI to register the case.
+3.15 The Supreme Court with some variation from the earlier view taken, in the case of
+Popular Muthiah v. State Represented by Inspector of Police
+held as under:
+30. In respect of the incidental or supplemental power, evidently, the High Court can exercise its inherent jurisdiction irrespective of the nature of the proceedings. It is not trammelled by procedural restrictions in that:
+(i) Power can be exercised suo motu in the interest of justice. If such a power is not conceded, it may even lead to injustice to an accused.
+(ii)Such a power can be exercised concurrently with the appellate or revisional jurisdiction and no formal application is required to be filed therefor.
+(iii)It is, however, beyond any doubt that the power under
+Section 482
+of the Code of Criminal Procedure is not unlimited. It can inter alia be exercised where the Code is silent, where the power of the court is not treated as exhaustive, or there is a specific provision in the Code; or the statute does not fall within the purview of the Code because it involves application of a special law. It acts ex debito justitiae. It can, thus, do real and substantial justice for which alone it exists.
+31. This Court in
+Dinesh Dutt Joshi v. State of Rajasthan
+while dealing with the inherent powers of the High Court held: (SCC p.573, para 6)
+   
+
+The principle embodied in the Section is based upon the maxim: quando lex aliquid qlicui concedit, concedere videtur et id sine quo res ipsae esse non potest i.e. when the law gives anything to anyone, it gives also all those things without which the thing itself would be unavailable. The Section does not confer any new power, but only declares that the High Court possesses inherent powers for the purposes specified in the Section. As lacunae are sometimes found in procedural law, the Section has been embodied to cover such lacunae wherever they are discovered. The use of extraordinary powers conferred upon the High Court under this Section are however required to be reserved, as far as possible, for extraordinary cases.
+32. The decisions of this Court emphasised the fact that there exists a distinction between two classes of cases viz. (i) where application of Section 482 is specifically excluded, and (ii) where there is no specific provision but limitation of the power which is sought to be exercised has specifically been stated.
+33.
+In
+R.P. Kapur v. State of Punjab
+this Court summarised some of the categories of cases where inherent power should be exercised to quash a criminal proceeding against the accused, stating: (SCR p. 393)
+(i) Where it manifestly appears that there is a legal bar against the institution or continuance e.g. Want of sanction;
+(ii) Where the allegations in the first information report or complaint taken at its face value and accepted in their entirety do not constitute the offence alleged;
+(iii) Where the allegations constitute an offence, but there is no legal evidence adduced or the evidence adduced clearly or manifestly fails to prove the charge. ~
+The said decision
+has been noticed subsequently by this Court in
+State of Karnataka v. M. Devendrappa
+.
+34. This Court furthermore laid down that the inherent power of the High Court can be invoked in respect of the matters covered by the provisions of the Code unless there is specific provision to redress the grievance of the aggrieved party. (See
+Madhu Limaye v. State of Maharashtra
+and
+Raj Kapoor v. State
+.)
+35. It is also not in dispute that the said power overrides other provisions of the Code but evidently cannot be exercised in violation/contravention of a statutory power created under any other enactment.
+36.
+In
+State v. Navjot Sandhu
+it was stated: (SCC p.657, page 29)
+29.
+Section 482
+of the Criminal Procedure Code starts with the words 'Nothing in this Code'. Thus the inherent jurisdiction of the High Court under
+Section 482
+of the Criminal Procedure Code can be exercised even when there is a bar under Section 397 or some other provisions of the
+Criminal Procedure Code
+. However as is set out in
+Satya Narayan Sharma
+case this power cannot be exercised if there is a statutory bar in some other enactment. If the order assailed is purely of an interlocutory character, which could be corrected in exercise of revisional powers or appellate powers the High Court must refuse to exercise its inherent power. The inherent power is to be used only in cases where there is an abuse of the process of the court or where interference is absolutely necessary for securing the ends of justice. The inherent power must be exercised very sparingly as cases which require interference would be few and far between. The most common case where inherent jurisdiction is generally exercised is where criminal proceedings are required to be quashed because they are initiated illegally, vexatiously or without jurisdiction. Most of the cases set out hereinabove fall in this category. It must be remembered that the inherent power is not to be resorted to if there is a specific provision in the Code or any other enactment for redress of the grievance of the aggrieved party. This power should not be exercised against an express bar of law engrafted in any other provision of the
+Criminal Procedure Code
+. This power cannot be exercised as against an express bar in some other enactment.
+3.16 In a very recent case titled as
+Hamida v. Rashid @ Rasheed
+(2008) 1 SCC 474, the Supreme Court took the view that a Procedural Code, however, exhaustive, cannot expressly provide for all time to come against all the cases or points that may possibly arise, and in order that justice may not suffer, it is necessary that every court must in proper cases exercise its inherent power for the ends of justice or for the purpose of carrying out the other provisions of the Code. It is a well established principle that every Court has inherent power to act ex debito justitiae to do that real and substantial justice for the administration of which alone it exists or to prevent abuse of the process of the Court.
+3.17 Still in one more recent judgment in Som Mittal v. Govt. of Karnataka Special Leave Petition (Cri.) No. 1719 of 2006 decided on 29.1.2008, the Supreme Court spelled out the caution in exercise of the inherent powers as was said in some of the earlier cases and observed as under:
+10. In a catena of decisions this Court has deprecated the interference by the High Court in exercise of its inherent powers under Section 482 of the Code in a routine manner. It has been consistently held that the power under Section 482 must be exercised sparingly, with circumspection and in rarest of rare cases. Exercise of inherent power under
+Section 482
+of the Code of Criminal Procedure is not the rule but it is an exception. The exception is applied only when it is brought to the notice of the Court that grave miscarriage of justice would be committed if the trial is allowed to proceed where the accused would be harassed unnecessarily if the trial is allowed to linger when prima facie it appears to Court that the trial would likely to be ended in acquittal. In other words, the inherent power of the Court under
+Section 482
+of the Code of Criminal Procedure can be invoked by the High Court either to prevent abuse of process of any Court or otherwise to secure the ends of justice.
+3.18 Hon'ble Katju, J. wrote a separate opinion as His Lordship was not in agreement with the view expressed by Hon'ble Sema, J. that power under
+Section 482
+of Cr.P.C. should be used only in the "rarest of rare cases". In view of the difference of opinion on legal issues, the appeal was directed to be placed before the Chief Justice of India. The matter was accordingly placed before a Bench of three Judges. Hon'ble Chief Justice of India while writing the judgment resolving the controversy [Appeal (Cri.) No. 206of 2008 (Som Mittal v. Govt. of Karnataka) dated 21st February, 2008] formulated one of the legal issues as:
+Whether the power under
+Section 482
+Cr.P.C. should be exercised 'sparingly'or 'sparingly with circumspection and in the rarest of rare cases'? While answering the issue, it was observed.
+7. When Sema, J. observed that the power under
+Section 482
+Cr.P.C. was to be used 'sparingly, with circumspection and in rarest of rare cases', he did not lay down any new proposition of law, but was merely reiterating what was stated by this Court in several cases, including
+Kurukshetra University v. State of Haryana
+and
+State of ' Haryana v. Bhajan Lal
+1992 Supp. (1) SCC 335.
+In
+Kurukshetra University
+(supra), this Court observed "that the statutory power under Section 482 has to be exercised sparingly with circumspection and "in rarest of rare cases". In Bhajan Lal, this Court reiterated the word of caution that the power of quashing a criminal proceeding should be exercised "very sparingly and with circumspection and that too in the rarest of rare cases".
+It may not therefore be correct to say that the words 'rarest of rare cases' are appropriate only when considering death sentence for an offence under Section 302 IPC or that those words are inappropriate when referring to the ambit of the power to be exercised under Section 482 Cr.P.C.
+8. Quashing of a complaint or criminal proceedings under
+Section 482
+Cr.P.C. depends on the facts and circumstances of each case. The scope and ambit of the power under Section 482 has been explained by this Court in a series of decisions --
+R.P. Kapur v. State of Punjab
+,
+State of Uttar Pradesh v. R.K. Srivastava
+;
+State of Haryana v. Bhajan Lal
+1992 Supp.
+(
+1) SCC 335, Mrs. Rupan Deol Bajaj v. Kanwar Pal Singh Gill
+;
+Pepsi Foods Ltd. v. Special Judicial Magistrate
+;
+Zandu Pharmaceutical Works v. Mohd. Sharaful Haque
+;
+Indian Oil Corporation v. NEPC India Ltd.
+, and
+Sonapareddy Maheedhar v. State of Andhra Pradesh
+.
+9. When the words 'rarest of rare cases' are used after the words 'sparingly and with circumspection' while describing the scope of Section 482, those words merely emphasize and reiterate what is intended to be conveyed by the words 'sparingly and with circumspection'. They mean that the power under Section 482 to quash proceedings should not be used mechanically or routinely, but with care and caution, only when a clear case for quashing is made out and failure to interfere would lead to a miscarriage of justice. The expression "rarest of rare cases" is not used in the sense in which it is used with reference to punishment for offences under
+Section 302
+IPC, but to emphasize that the power under
+Section 482
+Cr.P.C. to quash the FIR or criminal proceedings should be used sparingly and with circumspection. Judgments are not to be construed as statutes. Nor words or phrases in judgments to be interpreted like provisions of a statute. Some words used in a judgment should be read and understood contextually and are not intended to be taken literally. Many a time a Judge uses a phrase or expression with the intention of emphasizing a point or accentuating a principle or even by way of a flourish of writing style. Ratio decidendi of a judgment is not to be discerned from a stray word or phrase read in isolation....
+12. When this Court renders judgments, it does so with great care and responsibility. The law declared by this Court is binding on all courts. All authorities in the territory of India are required to act in aid of it. Any interpretation of a law or a judgment, by this Court, is a law declared by this Court. The wider the power, more onerous is the responsibility to ensure that nothing is stated or directed in excess of what is required or relevant for the case, and to ensure that the Court's orders and decisions do not create any doubt or confusion in regard to a legal position in the minds of any authority or citizen, and also to ensure that they do not conflict with any other decision or existing law. Be that as it may.
+3.19 The Supreme Court again reiterated the settled principles of exercise of power under
+Section 482
+of the Criminal Procedure Code in the case of Renu Kumari v. Sanjay Kumar and Ors. Appeal (Cri.) No. 426 of 2008 as late as on 3rd March, 2008 and held as under:
+9. As noted above, the powers possessed by the High Court under
+Section 482
+Cr.P.C. are very wide and the very plenitude of the power requires great caution in its exercise. The court must be careful to see that its decision, in exercise of this power, is based on sound principles. The inherent power should not be exercised to stiffle a legitimate prosecution. The High Court being the highest court of a State should normally refrain from giving a prima facie decision in a case where the entire facts are incomplete and hazy, more so when the evidence has not been collected and produced before the Court and the issues involved, whether factual or legal, are of magnitude and cannot be seen in their true perspective without sufficient material. Of course, no hard-and-fast rule can be laid down in regard to cases in which the High Court will exercise its extraordinary jurisdiction of quashing the proceeding at any stage. It would not be proper for the High Court to analyse the case of the complainant in the light of all probabilities in order to determine whether a conviction would be sustainable and on such premises arrive at a conclusion that the proceedings are to be quashed. It would be erroneous to assess the material before it and conclude that the complaint cannot be proceeded with. When an information is lodged at the police station and an offence is registered, then the mala fides of the informant would be of secondary importance.
+4. Law of other countries
+ 
+
+4.1 In the case of Bremer Vulkan Schiffbau Und Maschinenfabrik v. South India Shipping Corpn. [1981] All ER 289, while dealing with the concept of inherent powers of Courts, it was held as under:
+Every civilized system of government requires that the state should make available to all its citizens a means for the just and peaceful settlement of disputes between them as to their respective legal rights.... So, it would stultify the constitutional role of the High Court as a court of justice if it were not armed with power to prevent its process being misused in such a way as to diminish its capability of arriving at a just decision of the dispute.
+4.2 In the case of Regina v. Deborah Bothwell [2006] NICA 35, the Court of Appeal in Northern Ireland , referred the above decision in Bremer Vulkan. It also referred Connelly v. DPP [1964] SC 1254, where Lord Morris at page 1301 said:
+There can be no doubt that a court which is endowed with a particular jurisdiction has powers which are necessary to enable it to act effectively within such jurisdiction. I would regard them as powers which are inherent in its jurisdiction. A court must enjoy such powers in order to enforce its rules of practice and to suppress any abuses of its process and to defeat any attempted thwarting of its process.
+4.3 It also referred the below quoted concept of inherent jurisdiction described by Sir Jack Jacob (from Current Legal Problems 1970) which was quoted with approval by Justice Carswell in Braithwaite and sons
+Limited v. Aniey Maritime Agencies Limited
+[1990] J N1 63 Carswell.
+...the reserve of fund of powers, a residual source of powers, which the Court may draw upon as necessary whenever it is just or equitable to do so, and in particular to ensure the observance of the due process of law, to prevent improper vexation or oppression, to do justice between the parties and to secure a fair trial between them.
+Relying upon the above principles, the Court said that such exercise would normally depend upon the question whether it is necessary in the interest of justice that the act should be done.
+4.4 Reference can usefully be made to the decision of the Federal Court of Australia in Parsons v. Martin [1984] 58 ALR where the following was said.
+In our opinion a Court exercising jurisdiction conferred by statute has powers expressly or by implication conferred by the legislation which governs it. This is a matter of statutory construction. We are also of the opinion that it has in addition such powers as are incidental and necessary to the exercise of the jurisdiction or the power so conferred.
+4.5 Reference may also be made to the decision of the same Court in Jackson v.'Sterling Industries Limited [1987] 162 CLR 612 at page 623 where the High Court endorsed the following passage from Bowen CJ.
+In relation to a statutory court such as the Federal Court it is wise to avoid the use of the words 'inherent jurisdiction'. Nevertheless a statutory court which is expressly given certain jurisdiction and powers must exercise that jurisdiction and those powers. In doing so it must be taken to be given by implication whatever jurisdiction or powers may be necessary for the exercise of those expressly conferred. The implied power for example to prevent abuse of process is similar to, if not identical, with inherent power.
+4.6 While examining the law in New South Wales applicable to recording and reporting of the proceedings of court by representatives of news media, Law Reforms Commission referred to the concept of inherent jurisdiction of courts thus: "A court exercising judicial functions has an inherent power to regulate its own procedure, save insofar as its procedure has been laid down by the enacted law.
+4.7 While referring to Halsbury's Laws of England, the report also quoted K. Mason [The Inherent jurisdiction of the court (1983) 57 Australian Law Journal 449 at p. 449] who said:
+Its ubiquitous nature precludes any exhaustive enumeration of the powers which are thus exercised by the Courts.
+The report also referred to article of I.H, Jacob [ The inherent jurisdiction of the Court (1970) 23 Current Legal Problems 23 at p.24) in the following words:
+the source of the inherent jurisdiction of the court is derived from its nature as a court of law, so that the limits of such jurisdiction are not easy to define, and indeed appear to elude definition.
+Jacob states that the courts power to control its own practice and proceedings can be used "to prevent any obstruction or interference with the administration of justice. He does not make it clear whether this power can only be exercised to prevent any obstruction or interference with the administration of justice. If this was the case, then the Judge in the illustration would have no power to order the journalist to stop using sound recorder. In the United States, for example, the courts have limited the exercise of inherent powers by providing that:
+inherent powers may be used only when reasonably necessary for the court to be able to function.... Courts may not exercise inherent powers merely because their use would be convenient or desirable.;
+On this approach there would be no legitimate basis for a court disallowing the use of a sound recorder where that use does not interfere with the proceedings. On the other hand the Privy Council in O'Toole v. Scot has stated that the discretionary power of a magistrate to permit a person other than the informant or his counsel to conduct the case for the informant:
+is an element or consequence of the inherent right of a judge or magistrate to regulate the proceedings in his court.... Its exercise should not be confined to cases where there is a strict necessity, it should be regarded as proper for a magistrate to exercise the discretion in order to secure or promote convenience and expedition in the administration of justice.
+4.8 A court exercising judicial function has an inherent power to regulate its own procedure, save in so far as its procedure has been laid down by the enacted law, and it cannot adopt a practice or procedure contrary to or inconsistent with rules laid down by statute or adopted by ancient usage. This principle has been consistently followed in English Courts right from the cases of Ex pane Evans (1846) 9 QB 279 and O'Toole v. Scott [1965] AC 939 : [1965] 2 all ER 240. As is evident from the above narrated judgments of the Indian courts, it can safely be said that this principle has, may be with some modification, been applied to Indian law as well. In order to avoid injustice, it vested the courts with very wide powers. To limit or restrict these powers can hardly be justified on any accepted norms of statutory interpretation.
+4.9 Unlike English or Australian Courts, the
+Code of Criminal Procedure
+has codified the concept of inherent powers of the Indian Courts. Besides, the Section (Section 482) opens with the non-obstantive words by specific mandate of law that these powers are not to be limited even by the provisions of the code. The court can pass an order which in its opinion is necessary to give effect to any order to prevent abuse of process of court and/or otherwise to secure the ends of justice. One can hardly find any legislative intent from the language of the Section which suggests that the Legislature intended or has actually restricted the exercise of inherent powers of Courts. The exercise of inherent powers thus is required to be controlled only by and in accordance with the principles enunciated by the Courts in judgments. There is nothing in the Code or the judgments aforereferred by us to suggest that such power is to be exercised in rarest of rare cases in the same sense as the judicial opinion is expressed in relation to imposition of death penalty in criminal jurisprudence. The power under Section 482 may be used with caution and circumspection but the law does not permit providing of a strait jacket formula which would uniformly apply to all cases. Every case would have to be decided on its own merit and the Courts would have to decide whether or not to take recourse to the provisions of Section 482 of the Code and whether such a case falls in any of the three categories referred to in the language of Section 482 itself. Such power can be exercised even by the Appellate Courts once the Court is satisfied that the case squarely falls in the specified category.
+4.10 The category of cases which would fall within the ambit and scope of inherent powers having been statutorily spelled out, it may not be permissible to add further category of classification of cases which can be introduced by judicial pronouncements. The Section itself postulates and states beyond ambiguity the types of cases in which the Courts would invoke inherent powers. This, of course, depends on the facts and circumstances of a given case. Any interpretation which would amplify inherent powers beyond the limits of the language of the Section as well as restrict such powers to curtail the vested powers, in our opinion, would not be permissible. This principle has duly been accepted and clarified by the Supreme Court in the very recent judgment in the case of
+Som Mittal v. Government of Karnataka
+, decided on 21st February, 2008, which we have elaborately referred in paras 3.17 and 3.18 of this judgment.
+5. Quashing
+5.1 'Quashing' is an expression which does not find mention or definition in the
+Criminal Procedure Code
+. It is a term which has been coined as a result of judicial pronouncements. It is a branch which has been illustratively explained by Judge made law. Cannons of judicial precedent are only for understanding an application of the concept of criminal jurisprudence. Before we really proceed to discuss the legal aspects of this concept of law, we may refer to the meaning of this expression in common parlance. The Law Lexicon by P. Ramanatha Aiyer (General Editor Justice Y.V. Chandrachud), 2nd Edition 1997, explains this term as under:
+quash: To overthrow or annul, to make void, to abate (Tomlins Law Die. ) as Quashing a conviction.
+To annul: to make null and void; to throw out as invalid; to put an end to a legal proceeding.
+Mr. Abbott, in his Law Dictionary, defines 'quash' to mean to annul, overthrow, or vacate by judicial acts.
+Where proceedings are irregular, void, or defective, the courts, will quash them both in civil and criminal cases. An indictment which is so defective that no judgment can be given on it, or where there is no jurisdiction will be quashed. The remedy is applicable only to irregular, defective, or improper proceedings.
+Black's Law Dictionary, 6th Edition also explains the meaning of this expression as under:
+To overthrow; to vacate; to annul; to make void; e.g. To quash an indictment.
+The power of the court to annul or overthrow, which is an exception to let the normal procedure of law specified in the Code be followed, should be exercised sparingly and subject to the satisfaction of the condition precedents to exercise of such power. The doctrine of inherent power is the basic support for exercise of such power. The court inherently would be couched with such power to do justice and to ensure that basic rule of law is not frustrated. Wherever the court has to implement orders, to prevent the abuse of process of law and to meet the ends of justice, it is entitled to take recourse to its inherent powers including that of quashing. Power of the court to quash, thus, is an inbuilt power to do justice and in fact, is a power of great substance which categorically finds its place in the provisions of Section 482 of the Code. Power to quash is one of the powers where the court would be empowered to quash the FIR or even a criminal proceeding in furtherance thereto. The legal controversy which has persisted for quite some time is whether the court would in exercise of its inherent powers set aside or quash the judgment of a court within the scheme of the
+Criminal Procedure Code
+?
+5.3 In the case of
+Nityanand A. Shetty v. Vikram Jayantilal Bangdiwala and Anr.
+, a Bench of this Court while referring to the scope of
+Section 482
+of the Criminal Procedure Code in a case registered under
+Section 420
+of the IPC, came to the conclusion that where the complaint read as a whole made out a prima facie case against the accused wherein summons had been issued by the Magistrate, the accused could appear before the Magistrate and pray for discharge under Section 203 and this Court would not exercise its power under
+Section 482
+of Criminal Procedure Code. The court held as under:
+...it must be stated that it is now well settled that the powers under
+Section 482
+of the Criminal Procedure Code and/or under
+Article 227
+of the Constitution must be sparingly used and in the rarest of cases.
+5.4 In the case of
+Rakesh Saxena v. State
+through C.B.I. , the Supreme Court while taking a somewhat different view held that there is a serious doubt as to whether case against the accused could result into conviction and keeping in view the fact that the offences under the
+Foreign Exchange Act
+were alleged to have been committed six years ago, quashed the charges levelled, against the accused.
+5.5 A three Judge Bench of the Supreme Court in the case of
+State of Karnataka v. L. Muniswamy and Ors.
+clearly stated the principle that in exercise of its wholesome power, the High Court was entitled to quash a proceeding as this power is to ensure a salutary public purpose that Court proceedings ought not to be permitted to degenerate into a weapon of harasssment or persecution. In this case, a case under Sections 324, 326 and 307 read with
+Section 34
+of the Indian Penal Code was registered against the accused. The learned Magistrate directed the accused to face trial and committed the case to the Court of Sessions. An application for discharge was filed before the Additional Sessions Judge, who by his order rejected the same and directed framing of charges. In a revision filed before the High Court by some of the accused, the High Court took the view that no sufficient grounds were made out for proceeding against the accused. In appeal, the Supreme Court held as under:
+9. Learned Counsel for the State Government relies upon a decision of this Court in
+R.P. Kapur v. The State of Punjab
+in which it was held that in the exercise of its inherent jurisdiction under Section 561A of the Code of 1898, the High Court cannot embark upon an enquiry as to whether the evidence in the case is reliable or not. That may be so. But in the instant case the question is not whether any reliance can be placed on the veracity of this or that particular witness. The fact of the matter is that there is no material on the record on the basis of which any tribunal could reasonably come to the conclusion that the respondents are in any manner connected with the incident leading to the prosecution.
+Gajendragadkar, J. who spoke for the Court in
+Kapur
+'s case observes in his judgment that it was not possible, desirable or expedient to lay down any inflexible rule which would govern the exercise of the High Court's inherent jurisdiction. The three instances cited in the judgment as to when the High Court would be justified in exercising its inherent jurisdiction are only illustrative and can in the very nature of things not be regarded as exhaustive. Considerations justifying the exercise of inherent powers for securing the ends of justice naturally vary from case to case and a jurisdiction as wholesome as the one conferred by Section 482 ought not to be encased within the strait-jacket of a rigid formula.
+10. On the other hand, the decisions cited by learned Counsel for the respondents in Vadilal Panchal v. D.D. Ghadigaonkar and
+Century Spinning and Manufacturing ' Co. v. State of Maharashtra
+show that it is wrong to say that at the stage of framing charges the court cannot apply its judicial mind to the consideration whether or not there is any ground for presuming the commission of the offence by the accused. As observed in the latter case, the order framing a charge affects a person's liberty substantially and therefore it is the duty of the court to consider judicially whether the material warrants the framing of the charge. It cannot blindly accept the decision of the prosecution that the accused be asked to face a trial.
+In Vadilal Panchals case, Section 203 of the old Code was under consideration, which provided that the Magistrate could dismiss a complaint if after considering certain matters mentioned in the Section there was in his judgment no sufficient ground for proceeding with the case. To an extent Section 327 of the new Code contains an analogous power which is conferred on the Sessions Court. It was held by this Court, while considering the true scope of Section 203 of the old Code that the Magistrate was not bound to accept the result of an enquiry or investigation and that he must apply his judicial mind to the material on which he had to form his judgment. These decisions show that for the purpose of determining whether there is sufficient ground for proceeding against an accused the court possesses a comparatively wider discretion in the exercise of which it can determine the question whether the material on the record, if unrebutted, is such on the basis of which a conviction can be said reasonably to be possible.
+5.6 Catena of judgments of the Supreme Court can be referred to where the Supreme Court upheld and/or permitted exercise of inherent powers for quashing proceedings. The scope of power under Section 482 was held to be vast to prevent abuse of process of law by inferior Courts and to see that the stream of administration of justice remains clean and pure. The Courts have also taken the view that mere nomenclature of a petition would not matter and even in a petition under
+Article 226
+, the Court could take recourse to the provisions of Section 482 of the Code. The legal position was stated to be well settled that when prosecution is sought to be quashed at the earliest stage, the test would have to be applied by the Court as to whether the uncontroverted allegations, as made prima facie, establish the offence. It is for the Courts to take into consideration any special features which appear in a particular case and would justify quashing of the proceedings may be at the preliminary stage.
+5.7 Another limitation which is accepted universally in application of criminal law is that in exercise of the powers conferred upon the High Court under Section 482 of the Code, it should not embark upon an enquiry as to whether the allegations in the complaint are likely to be established by evidence or not and the Court should not impinge upon the jurisdiction of the trial Court while entertaining the quashing proceedings.
+5.8 The main purpose of exercising power to quash proceedings covered under Section 482 of the Code is that it will prevent abuse of process of Court or secure ends of justice. Wherever the complaint or the first information report prima facie reflects commission of an offence, quashing of proceedings at the initial stage would not be justified unless and until the case falls in one of the exceptions stated in this provision.
+5.9 The inherent powers with which the criminal courts are clothed are to make such orders as may be necessary for the ends of justice. Though the power is unrestricted and undefined, it should not be used capriciously or arbitrarily but should be exercised in appropriate cases to do real and substantial justice for which alone the Courts exist.
+5.10 When ex facie cognizance of an offence is barred under the law of limitation or any other law and prolongation of proceedings before the Court would tantamount to undue harassment to the accused, quashing of proceedings would be necessary to prevent the abuse of the process of law.
+In regard to the above settled principles of law, reference can be made to the judgments of the Supreme Court in the cases of (
+i) Madhavrao Jiwaji Rao Scindia and Anr. v. Sambhajirao Chandrojirao Angre and Ors.
+, (ii) State of Bihar v. Murad AH Khan and Ors. , (
+iii) Chand Dhawan v. Jawahar Lal and Ors.
+, and (
+iv) Pepsi Foods Ltd. and Anr. v. Special Judicial Magistrate and Ors.
+.
+5.11 Before, we proceed any further to discuss the exposition of legal principles in relation to exercise of inherent powers and quashing of proceedings, it will be useful to refer to the detailed principles spelled out by the Supreme Court in the case of
+State of Haryana and Ors. v. Ch. Bhajan Lal and Ors.
+, which has been, with approval, followed by the Supreme Court and various High Courts. Thus reference to this fundamental judgment of the Supreme Court is essential. The Supreme Court categorised the following cases by way of illustration in which the Courts can exercise power for quashing.
+108. ...(1) Where the allegations made in the First Information Report or the complaint, even if they are taken at their face value and accepted in their entirety do not prima facie constitute any offence or make out a case against the accused.
+2. Where the allegations in the First Information Report and other materials, if any, accompanying the F.I.R. do not disclose a cognizable offence, justifying an investigation by police officers under Section 156(1) of the Code except under an order of a Magistrate within the purview of Section 155(2) of the Code.
+3. Where the uncontroverted allegations made in the FIR or complaint and the evidence collected in support of the same do not. disclose the commission of any offence and make out a case against the accused.
+4. Where, the allegations in the F.I.R. do not constitute a cognizable offence but constitute only a non-cognizable offence, no investigation is permitted by a police officer without an order of a Magistrate as contemplated under Section 155(2) of the Code.
+5. Where the allegations made in the FIR or complaint are so absurd and inherently improbable on the basis of which no prudent person can ever reach a just conclusion that there is sufficient ground for proceeding against the accused.
+6. Where there is an express legal bar engrafted in any of the provisions of the Code or the concerned Act (under which a criminal proceeding is instituted) to the institution and continuance of the proceedings and/or where there is a specific provision in the Code or the concerned Act, providing efficacious redress for the grievance of the aggrieved party.
+7. Where a criminal proceeding is manifestly attended with mala fide and/or where the proceeding is maliciously instituted with an ulterior motive for wreaking vengeance on the accused and with a view to spite him due to private and personal grudge." 5.12 In the case of
+Inspector of Police, CBI v. B. Raja Gopal and Ors.
+, the Supreme Court while setting aside the High Court order of quashing the criminal proceedings held that merely because the parties had compromised the case and the payment was made in proceedings charged under
+Sections 420
+,
+468
+and
+471
+of the IPC, the premature quashing made by the High Court was not in accordance with law.
+5.13 In the case of
+Union of India v. Prakash P. Hinduja and Anr.
+, the Supreme Court while setting aside the order of the High Court clarified the directions issued by the Supreme Court in the case of
+Vineet Narain v. Union of India
+.
+Discussing the scope of inherent powers for quashing of proceedings, the Supreme Court held as follows:
+Section 482 Cr PC gives inherent powers of the High Court and such a power can be exercised to prevent abuse of the process of any court or otherwise to secure the ends of justice. The power can therefore be exercised to quash the criminal proceedings. The grounds on which the prosecution initiated proceedings against an accused can be quashed by the High Court in exercise of power conferred by
+Section 482
+CrPC has been settled by a catena of decisions of this Court rendered in
+R.P. Kapur v. State of Punjab
+,
+Madhu Limaye v. State of Maharashtra
+,
+Municipal Corporation of Delhi v. Ram Kishan Rohtagi
+and
+Raj Kapoor v. State
+.
+The matter was examined in considerable detail in
+State of Haryana v. Bhajan Lal
+and after review of practically all the earlier decisions, the Court in para 108 of the report laid down the grounds on which power under Section 482 Cr PC can be exercised to quash the criminal proceedings and basically they are: (1) where the allegations made in the FIR or complaint, even if they are taken at their face value and accepted in their entirety do not prima facie constitute any offence or make out a case against the accused, (2) where the uncontroverted allegations made in the FIR or complaint and the evidence collected in support of the same do not disclose the commission of any offence and make out a case against the accused, (3) where there is an express legal bar engrafted in any of the provisions of the
+Code of Criminal Procedure
+or the Act concerned to the institution and continuance of the proceedings. But this power has to be exercised in a rare case and with great circumspection.
+15. The question whether the High Court can exercise its inherent powers under
+Section 561-A
+of the Code of Criminal Procedure, 1898, which was similar to Section 482 of the 1973 Code, was considered by the Privy Council in
+Emperor v. Khwaja Nazir Ahmad
+. It will be useful to reproduce the relevant part of the observations made by their Lordships as this decision has been approved and has been referred to in several decisions of this Court (AIR p.22):
+In India as has been shown there is a statutory right on the part of the police to investigate the circumstances of an alleged cognizable crime without requiring any authority from the judicial authorities, and it would, as their Lordships think, be an unfortunate result if it should be held possible to interfere with those statutory rights by an exercise of the inherent jurisdiction of the Court. The functions of the judiciary and the police are complementary not overlapping and the combination of individual liberty with a due observance of law and order is only to be obtained by leaving each to exercise its own function, always, of course, subject to the right of the court to intervene in an appropriate case when moved under
+Section 491
+of the Criminal Procedure Code, to give directions in the nature of habeas corpus. In such a case as the present, however, the court's functions begin when a charge is preferred before it and not until then.
+5.14 When the Court has to consider whether the criminal proceedings should be allowed to continue or the same should be quashed, two aspects are to be satisfied, (i) whether the uncontroverted allegations, as made in the complaint, prima facie establish the offence, and (ii) whether it is expedient and in the interest of justice to permit a prosecution to continue. Applying these two tests, the Supreme Court in the case of
+M.N. Damani v. S.K. Sinha and Ors.
+, where the accused was charged with offences punishable under
+Sections 499
+and
+500
+of the IPC, held that the order of the High Court quashing the proceedings was not sustainable.
+The Supreme Court also relied upon its earlier judgment in the case of
+Shatrughna Prasad Sinha v. Rajbhau Surajmal Rathi
+and held that on cumulative reading of the complaint, offence was prima facie established and it was not expedient and in the interest of justice to quash the proceedings. The Court also indicated that no special circumstances existed so as to justify the quashing of the proceedings.
+5.15 In the case of
+Indian Oil Corporation v. NEPC India Limited and Ors.
+, the Supreme Court, while referring to all its earlier judgments, restated the principles relating to exercise of jurisdiction under
+Section 482
+of the Criminal Procedure Code to quash complaints and criminal proceedings and reiterated the principles as follows:
+(i) A complaint can be quashed where the allegations made in the complaint, even if they are taken at their face value and accepted in their entirety, do not prima facie constitute any offence or make out the case alleged against the accused.
+For this purpose, the complaint has to be examined as a whole, but without examining the merits of the allegations. Neither a detailed inquiry nor a meticulous analysis of the material nor an assessment of the reliability or genuineness of the allegations in the complaint, is warranted while examining prayer for quashing of a complaint.
+(ii) A complaint may also be quashed where it is a clear abuse of the process of the court, as when the criminal proceeding is found to have been initiated with mala fides/malice for wreaking vengeance or to cause harm, or where the allegations are absurd and inherently improbable. (iii) The power to quash shall not, however, be used to stifle or scuttle a legitimate prosecution. The power should be used sparingly and with abundant caution. (iv) The complaint is not required to verbatim reproduce the legal ingredients of the offence alleged. If the necessary factual foundation is laid in the complaint, merely on the ground that a few ingredients have not been stated in detail, the proceedings should not be quashed. Quashing of the complaint is warranted only where the complaint is so bereft of even the basic facts which are absolutely necessary for making out the offence. (v) A given set of facts may make out: (a) purely a civil wrong; or (b) purely a criminal offence; or (c ) a civil wrong as also a criminal offence. A commercial transaction or a contractual dispute, apart from furnishing a cause of action for seeking remedy in civil law, may also involve a criminal offence. As the nature and scope of a civil proceeding are different from a criminal proceeding, the mere fact that the complaint relates to a commercial transaction or breach of contract, for which a civil remedy is available or has been availed, is not by itself a ground to quash the criminal proceedings. The test is whether the allegations in the complaint disclose a criminal offence or not.
+5.16 Exercise of inherent powers for quashing the proceedings has always been sustained by the Courts. However, under what circumstances the power is to be exercised would depend on the facts of each case. Quashing could be only when the Court comes to the conclusion that a triable case was not made out and merely because the State was proposing to withdraw the prosecution being taken the sole ground for quashing the proceedings would not be an order sustainable in law.
+In
+Balkar Singh v. Jagdish Kumar and Ors.
+AIR 2005 SC 1567, the Supreme Court held as under:
+9. ...The decision of the Government to withdraw the prosecution is an irrelevant ground so far as High Court is concerned to allow a petition for quashing. It is rather surprising why further directions were issued by the High Court to the police and the Magistrate not to prosecute the petitioners once it quashed the complaint. The direction issued in the impugned order by the High Court in our opinion is wholly without jurisdiction even under Section 482 of the Code. The High Court ought to have noticed the fact that but for the grant of stay order, there was a possibility of the trial Court even framing charge against the respondents accused as far back as on 25th October, 2000 when the case was listed for the said purpose in which event there could have been room for argument that even a Section 321 petition would not be maintainable.
+5.17 A recent judgment of the Supreme Court in
+Didigam Bikshapathi and Anr. v. State of AP.
+2007 AIR SCW 7411, reiterates the principle that inherent powers of the Court under Section 482 were very vast and such powers should be exercised where it is necessary to do right and to undo wrong in course of administration of justice. The principle is that when the law gives a person anything it gives him that without which it cannot exist. Endorsing the view of the High Court, the Supreme Court held as under.
+10. As noted above, the powers possessed by the High Court under Section 482 of the Code are very wide and the very plenitude of the power requires great caution in its exercise. Court must be careful to see that its decision in exercise of this power is based on sound principles. The inherent power should not be exercised to stifle a legitimate prosecution. The High Court being the highest court of a State should normally refrain from giving a prima facie decision in a case where the entire facts are incomplete and hazy, more so when the evidence has not been collected and produced before the Court and the issues involved, whether factual or legal, are of magnitude and cannot be seen in their true perspective without sufficient material. Of course, no hard and fast rule can be
+laid down in
+regard to cases in which the High Court will exercise its extraordinary jurisdiction of quashing the proceeding at any stage.
+(See
+State of Orissa v. Saroj Kumar Sahoo
+and
+Minu Kumari v. State of Bihar
+).
+12. In the instant case the suicide note clearly refers to the acts of the accused-appellants and the roles played by' them. Therefore, the High Court rightly rejected the prayer of exercise of power under Section 482 of the Code. We make it clear that any observation made by the High Court and by us while dismissing the present appeal shall be construed to be determinative factor in the trial." 5.18 Still in a more recent judgment of the Supreme Court in the case of
+Sanapareddy Mahedhar Seshagiri and Anr. v. State of Andhra Pradesh and Anr.
+2008 AIR SCW 11, the Supreme Court again permitted quashing of proceedings taken out against the husband under Sections 498A of the Code, 106
+I.P.C
+. read with
+Sections 4
+and
+6
+of the Dowry Prohibition Act, 1961, on the ground that the continuation of the proceedings amounted to harassment to the husband and also abuse of the process of the Court. The Court while referring to different judgments of the Supreme Court concluded as under:
+A careful reading of the above noted judgments makes it clear that the High Court should be extremely cautious and slow to interfere with the investigation and/or trial of criminal cases and should not stall the investigation and/or prosecution except when it is convinced beyond any manner of doubt that the FIR does not disclose commission of any offence or that the allegations contained in the FIR do not constitute any cognizable offence or that the prosecution is barred by law or the High Court is convinced that it is necessary to interfere to prevent abuse of the process of the Court. In dealing with such cases, the High Court has to bear in mind that judicial intervention at the threshold of the legal process initiated against a person accused of committing offence is highly detrimental to the larger public and societal interest. The people and the society have a legitimate expectation that those committing offences either against an individual or the society are expeditiously brought to trial and, if found guilty, adequately punished. Therefore, while deciding a petition filed for quashing the FIR or complaint or restraining the competent authority from investigating the allegations contained in the FIR or complaint or for stalling the trial of the case, the High Court should be extremely careful and circumspect. If the allegations contained in the FIR or complaint discloses commission of some crime, then the High Court must keep its hand off and allow the investigating agency to complete the investigation without any fetter and also refrain from passing order which may impede the trial. The High Court should not go into the merits and demerits of the allegations simply because the petitioner alleges malus animus against the author of the FIR or the complainant. The High Court must also refrain from making imaginary journey in the realm of possible harassment which may be caused to the petitioner on account of investigation of the FIR or complaint. Such a course will result in miscarriage of justice and would encourage those accused of committing crimes to repeat the same. However, if the High Court is satisfied that the complaint does not disclose commission of any offence or prosecution is barred by limitation or that the proceedings of criminal case would result in failure of justice, then it may exercise inherent power under Section 482 Cr.P.C.
+5.19 Upon plain analysis of the principles of law, stated supra, it can safely be concluded that the court can exercise its inherent power vested in it for quashing the FIR or criminal proceedings free of limitations but with caution, circumspection and sparingly, with reference to the facts and circumstances and the special features of a given case. The language of this provision invites liberal construction keeping in view the objects sought to be achieved that no person should be permitted to abuse the process of court or process of law. The penal code is intended to protect society against crime but it certainly, should not be permitted to be used as an instrument to frustrate the very purpose by incorrectly or illegally implicating other persons and thus, abusing the process of court and law both. Power to quash is the discretion of the court and may be exercised sparingly but there will be no occasion for the court to impose on itself unspecified restrictions or limitations in exercise of such powers. Power to quash is an ancillary or essential aspect of inherent powers of the court. The definition of the 'court' under
+Section 20
+of the Indian Penal Code is not restricted and it includes, obviously, the appellate and revisional court. When a court is exercising its appellate or revisional jurisdiction, it is not divested of its inherent powers. In a given case, the revision petition or even a petition under
+Article 226
+of the Constitution of India would be treated as a petition under Section 482 in the discretion of the court and upon satisfaction of the prescribed tests. As already stated above, nomenclature of the petition is not a determinative factor. Essentially, all the courts exercising jurisdiction under the
+Code of Criminal Procedure
+could always have the inherent power and could pass such order which may be necessary to achieve the ends of any of the three objects stated in Section 482.
+5.20 In the case of
+Inder Mohan Goswami and Anr. v. State of Uttaranchal and Ors.
+while referring to the law, both on scope and ambit of court's power under Section 482 and the principles governing for quashing of the criminal proceedings, the court said that every High Court has inherent power to act 'ex debito justitiae' to do real and substantial justice for the administration of which alone it exists, or to prevent abuse of the process of the court. Authority of the court exists for the advancement of justice and if any abuse of the process leading to injustice is brought to the notice of the court, then the court would be justified in preventing injustice by invoking inherent powers in absence of specific provisions in the Statute. In that case, the Supreme Court had quashed the proceedings taken out under
+Sections 420
+,
+120B
+and
+467
+of the Indian Penal Code against the accused.
+5.21 The fundamental rudiments of the criminal jurisprudence requires that rule of strict construction has to be applied to the provisions of the Code as far as they are not prejudicial to the accused but the provisions which are procedural and are intended to be beneficial provisions to protect and ensure pure and fair administration of criminal justice need to be constructed liberally. Quashing is one of the forms of exercise of power to prevent an abuse of process of law to pass orders to give effect to any order under the Code or otherwise to secure the ends of justice. Being an expression of wide magnitude, it cannot be unnecessarily restricted. In the wisdom of the Legislature, powers under Section 482 of the Code were not to be limited by any other provisions of the Code. The expression ' nothing in this code shall be deemed to limit the inherent powers of the High Court' is a legislative legal command which cannot, by judicial process, be interpreted so as to obstruct or frustrate the very object sought to be achieved by the legislature by enacting Section 482 of the Code. It would not be even proper to argue that in face of the non-obstante language of the provision, the requirements of
+Section 320
+of the Criminal Procedure Code have a direct or indirect impact on the inherent powers. Compounding is a different concept of criminal jurisprudence in comparison with the inherent power of the court to quash proceedings. On the aspect of compounding of offences, we will discuss in some elaboration shortly hereinafter but we must notice that FIR or criminal proceedings which are compoundable in terms of Section 320 are not the only offences in which the court can exercise its power of quashing such proceedings. If the interpretation that Section 320 controls or has an inbuilt check upon exercise of powers contemplated under Section 482 of the Code is adopted, then it will ex facie be an interpretation contrary to the legislative intent. The use of the word ' 'shall be deemed to limit' has sufficiently indicated the mind of the framers of the statutory provision that though they were aware of the provisions of Section 320, revisional and appellate jurisdiction of the court as contemplated in Sections 401, 377 and 378, they introduced Section 482 in such wide language. On a plain reading of the provisions of this Section, we have no hesitation in coming to the conclusion that the provisions of Section 320 would in no way control or limit the powers of the court under Section 482 of the Code, to quash a prosecution.
+5.22 Different provisions of the
+Criminal Procedure Code
+operate in their own fields without in any way being influenced by other provisions of the Code. A Public Prosecutor has been vested with the power to withdraw from prosecution of all or any of the accused involved in any crime including serious crimes. The scheme of the Code, therefore, accepts withdrawal from prosecution and consequential acquittal of the accused without following the prescribed procedure of enquiry, investigation and trial, culminating into a judgment on merits by a Court of competent jurisdiction. Exercise of such statutory power by the Public Prosecutor can usefully be referred to buttress the approach we have taken in the present case. Section 321 empowers the public prosecutor to withdraw from the prosecution. This provision does not admit to any limitation relatable to the nature of offence. There also the court has to give its consent for withdrawal of the prosecution.
+This power again is a wide power but has to be exercised by the court only when the settled principles governing withdrawal from prosecution are satisfied. Withdrawal from prosecution vested in the public prosecutor is discretionary where he chooses to apply to the court for grant of its consent and grant of such consent would result in an order of discharge or acquittal as the case may be. It is a well settled principle of law that in cases of withdrawal, the public prosecutor should inform the court and it shall be the duty of the court to appraise itself of the reasons which prompt the public prosecutor to withdraw from the prosecution. The court has a responsibility in the administration of criminal justice and so has the public prosecutor, as officer of the court. Both have a duty to protect administration of criminal justice against the possible abuse or misuse by the executive by resort to the provisions of Section 321 (
+Rajender Kumar Jain v. State
+through Spl. Police Establishment and Ors. ). It is also stated that the initiative for withdrawal is that of the Public Prosecutor and the Court does not determine any matter judicially on merits of the case but grants its consent judiciously and in accordance with law. The judicial function implicit in the exercise of the judicial discretion for granting the consent would normally mean that the Court has to satisfy itself that the executive function of the Public Prosecutor has not been improperly exercised, or that it is not an attempt to interfere with the normal course of justice for illegitimate reasons or purposes.
+(
+Sheo Nandan Paswan v. State of Bihar and Ors.
+). The court has to ensure that the grounds of withdrawal are valid and the application for withdrawal is bonafide and not in colourable exercise of powers vested in the Public Prosecutor.
+5.23 The power for withdrawal is a power vested in the discretion of the public prosecutor which can only be exercised in consonance with settled law and subject to the satisfaction of the reasons stated above and that too with the consent of the court. The power to quash in exercise of its inherent powers is vested in the court alone and it needs to be exercised by the court sparingly with caution and subject to the satisfaction of the objects stated in the language of the Section. Result of exercising of any of these powers is discharge or acquittal of the accused. It needs to be appreciated by the court that both the provisions under Sections 482 and 321 have not been subjected to any limitation as regards nature of the offence. This principle, obviously, is subject to the proviso that the power is being exercised in accordance with settled principles and upon due satisfaction of the condition precedent for exercise of such power. Judicial discretion is not a discretion to be exercised arbitrarily but judiciously. Thus, the power of quashing in exercise of inherent jurisdiction can be exercised by the court. The principle was senunciated by the Supreme Court in B.S. Joshi'case supra, where the court affirmed this principle and held that the FIR registered under
+Section 498A
+,
+323
+and
+406
+IPC could be quashed in the facts and circumstances of the case. The court also stated that the penal provisions of Section 498A which are intended to protect women should not be used to harass relatives. The court also answered in the negative the argument that it would be proper to decline to exercise power of quashing on the ground that it would be permitting the parties to compound non-compoundable offences. It clarified the principle that Section 320 does not limit or affect the powers under Section 482 of the the Code.
+6. Compounding The expression "compounding" has been explained in Law Lexicon by P. Ramanatha Aiyer (General Editor Justice Y.V. Chandrachud), 1997 Edition, as under:
+Compounding: Arranging, coming to terms; condone for money; arranging with the creditor to his satisfaction.
+The Black's Law Dictionary, Sixth Edition, defines "compound" as under:
+"Compound" : To compromise, to effect a composition with a creditor, to obtain discharge from a debt by the payment of a smaller sum. To put together as elements, ingredients, or parts, to form a whole, to combine, to unite. To form or make up as a composite product by combining different elements, ingredients, or parts, as to combine a medicine.
+Compounding crime: Compounding crime consists of the receipt of some property or other consideration in return for an agreement not to prosecute or inform on one who has committed a crime. There are three elements to this offence at common law, and under the typical compounding statute:
+(1) the agreement not to prosecute;
+(2) knowledge of the actual commission of a crime; and
+ 
+
+(3) the receipt of some consideration.
+As is apparent from the above language, compounding is primarily an agreement between the parties, which in accordance with the language of Section 320 of the Code, would have the effect of settling a dispute wherever necessary with the leave of the Court. Quashing is a power which is exclusively vested in the Court where, when exercising its inherent powers, the Court could quash the FIR or the criminal proceedings initiated in furtherance thereto, of course, within the specified limitation of judicial pronouncements.
+6.1 The concept of compounding is primarily based upon mutuality between the parties. Mutual desire to put an end to prosecution in certain offences may be settled by action of the parties while in certain other offences it has to be compounded only with the permission of the Court. The table annexed to the provisions of Section 320 of the Code states the offences, the person by whom the offence may be compounded and the offences which are compoundable but only with the permission of the Court. No other offence will be compoundable by the consent of parties or even with the leave of the Court which is beyond the purview of Section 320 of the Code. Once the legislature has expressly mentioned the offences which are compoundable simpliciter or with the leave of the Court, it leads to an obvious result that other offences are excluded by necessary implication from the ambit of the Section. This, in any case, is put beyond doubt by the provisions of Sub-section (9) of Section 320 which reads as under:
+9. No offence shall be compounded except as provided by this Section.
+6.2 In addition to the above provision, even the High Court while exercising its powers of revision under Section 401, could allow any person who is competent to compound any offence within the provisions of this Section. The scheme of Section 320 and its language clearly suggests that compounding of any offences not specified in Section 320 is not permissible in law. Once the law prohibits such compounding, then the inherent powers of the Court cannot be exercised to frustrate the bar contained under Section 320(9) of the Code. It is a settled rule of interpretation that a statutory provision cannot be rendered redundant or repugnant by interpretative process in judicial dicta. Any approach to the contrary would also be contrary to public policy.
+6.3 We have already discussed that the provisions of Section 320 of the Code do not control or restrict exercise of inherent powers under Section 482 of the Code. In other words, in a given case where the offence is one which is not stated as compoundable under Section 320 of the Code, the Court may, still in exercise of its inherent powers, quash an FIR or criminal proceedings subject to satisfaction of the principles enumerated for exercise of such powers. But the Court would not be in a position to permit the parties to compound such an offence. To illustratively examine, one may consider
+Section 326
+of the Indian Penal Code and for that matter even
+Section 498A
+of the Indian Penal Code which are neither compoundable by the parties nor with the leave of the Court. Thus, the Court may not be in a position to grant its permission and pass an order permitting the parties to compound the offence because of the bar contained in Section 320(9) of the Code as well as on accepted principles of interpretation. However, the Court does not lose its inherent powers under Section 482 of the Code for quashing such a complaint or FIR or criminal proceedings on the ground that it would be necessary to meet the ends of justice or that further prosecution of the accused would amount to permitting the complainant to abuse the process of the Court or law.
+6.4 As early as in the year 1970, a Division Bench of this Court in the case of
+Sholapur Municipal Corporation and Anr. v. Ramkrishna V. Relekar and Anr.
+took the following view.
+The real question, therefore, is not whether the Commissioner has got the power to compound the particular offence under Clause (b) but whether as contemplated by that clause there is any law for the time being in force under which the offence may be legally compounded. The only other law which in this behalf would be relevant is the
+Code of Criminal Procedure
+. Now, in order to determine whether an offence of the present nature, viz. Importation of the goods without the payment of octroi duty, can be legally compounded under the
+Code of Criminal Procedure
+, it is necessary to bear in mind the scheme of Section 345 of the Code. The scheme is that offences specified in Sub-sections (1) and (2) can alone be compounded and that too by the persons who are specified in the sub-sections as being entitled to compound the offences. The additional limitation on the power of composition is that the offences specified in Sub-section (2) of Section 345 can be compounded with the permission of the Court only. Under Sub section (7) of Section 345, no offence can be compounded except as provided by the Section and, therefore, it is clear that the scheme of Section 345 is that offences which are not specified in any of the sub sections of Section 345 cannot be compounded. The scheme of Section 345 is not that all offences can be compounded except those which are specified. This aspect is important for the reason that in view of the provisions contained in Section 345 an offence can be legally compounded under the Code only if the Code specifically provides that the offence can be compounded.
+6.5 The Full Bench of Rajasthan High Court in the case of
+Mohan Singh
+(supra) clearly enunciated the principle in relation to compounding of offences under Section 320 of the Code and the Court held as under:
+In
+Madhu Limaye v. State of Maharashtra
+the Supreme Court expressed that the High Court possessed and possesses the inherent powers to be exercised 'ex-debito justitiae' to do real and substantial justice for the administration of which alone court exists. However, in relation to the exercise of such inherent powers, the following principles were laid down:( i) That the power is not to be resorted to if there is a specific provision in the Code for the redress of the grievance of the aggrieved party. (ii) That it should be exercised very sparingly to prevent abuse of process of any court or otherwise to secure the ends of justice. (iii) That it should not be exercised as against the express bar of law engrafted in any other provision of the Code.
+In Sooraj Devi v. Pyarelal  it has been reiterated that inherent power could not be exercised for doing that which is specifically prohibited by the Code.
+In Mst.
+Simrikhia v. Smt. Dolley Mukherjee
+, the apex Court of the country has again held:
+The inherent powers, however, as such are controlled by principle and precedent as are its express powers by statute. If a matter is covered by an express letter of law, the Court cannot give a go-by to the statutory provisions and instead evolve a new provision in the garb of inherent jurisdiction.
+It was then observed:
+inherent power under Section 482 Cr. P.C. is intended to prevent the abuse of the process of the court and to secure ends of justice. Such power cannot be exercised to do something which is expressly barred under the Code
+15. Applying the above principles, question No. 1 is answered in negative, and it is held that in view of express bar contained in Sub-section (9) of
+Section 320
+Cr.P.C. the High Court cannot, in exercise of its inherent power under Section 482, permit composition of an offence which is not compoundable under Sub-section (1) or Sub-section (2) of Section 320 of the Code.
+6.6 Construing the provisions of Section 320 of the Code strictly, a Bench of the Kerala High Court in the case of
+P. Damodaran and Ors v. State
+represented by S.I. of Police 1993 Cri.
+LJ 404 held that where an order of conviction and sentence had been passed and which had attained finality, the High Court under Section 482 of the Code could not exercise its inherent powers and permit compounding of offence, while a Division Bench of the Andhra Pradesh High Court in the case of
+Smt. Daggupati Jayalakshmi v. The State
+1993 Cri LJ 3162 held that a complaint under Section 498A of the Code being a matrimonial offence could be permitted to be compounded in exceptional circumstances.
+6.7 In the case of Central Bureau of Investigation, Spe.
+SIU (X) New Delhi v. Duncans Agro Industries Ltd. , Calcutta
+, at the very initial stage of the criminal proceedings where the parties had compromised civil suits for recovery as well as agreed to compound the offences under Sections 405, 420, 468 and 471 of the Code, such compromise having been already entered into in civil proceedings, particularly keeping in mind the delay in completion of investigation, the Supreme Court upheld the order of the High Court quashing the complaint where it had in fact recorded a finding that basically the disputes were of civil nature.
+6.8 The Supreme Court in the case of
+Ram Lal and Anr. v. State of Jammu and Kashmir
+, while not accepting the earlier view of the Court in
+Mahesh Chand and Anr. v. State of Rajasthan
+(1990) SCC (Suppl.)
+681 stating that the decision in the case of
+Y. Suresh Babu v. State of A.P. and Anr.
+(1987) 2 JT 361 was not to be treated as precedent, held as under:
+We are unable to follow
+the said decision
+as a binding precedent Section 320 which deals with "compounding of offences" provides two tables therein, one containing descriptions of offences which can be compounded by the person mentioned in it and the other containing description of offences which can be compounded with the permission of the Court by the persons indicated therein. Only such offences as are included in the said two tables can be compounded and none else. Sub section (9) of
+Section 320
+of the Code of Criminal Procedure, 1973 imposes a legislative ban in the following terms.
+(9) No offence shall be compounded except as provided by this Section.
+It is apparent that when the decision in
+Mahesh Chand
+(supra) was rendered attention of the learned Judges was not drawn to the aforesaid legal prohibition.
+Nor was attention of the learned Judges who rendered the decision in
+Y. Suresh Babu
+(supra) drawn. Hence, those were decisions rendered per incuriam. We hold that an offence which law declares to be non-compoundable even with the permission of the Court cannot be compounded at all. The offence under
+Section 326
+IPC is, admittedly, non- compoundable and hence we cannot accede to the request of the learned Counsel to permit the same to be compounded.
+6.9 The above view was followed by the three Judge Bench of the Supreme Court in the case of
+Surendra Nath Mohanty and Anr. v. State of Orissa
+. While reiterating the principles 
+with approval, the Supreme Court held as under:
+In our view, the submission of the learned Counsel for the respondent requires to be accepted. For compounding of the offences punishable under the
+Indian Penal Code
+, a complete scheme is provided under
+Section 320
+of the Code of Criminal Procedure, 1973. Sub-Section (1) of Section 320 provides that the offences mentioned in the table provided thereunder can be compounded by the persons mentioned in the table provided thereunder can be compounded by the persons mentioned in column 3 of the said table. Further, Sub-section (2) provides that the offences mentioned in the table could be compounded by the victim with the permission of the Court. As against this, Sub section (9) specifically provides that " no offence shall be compounded except as provided by this Section". In view of the aforesaid legislative mandate, only the offences which are covered by Table 1 or Table 2 as stated above can be compounded and the rest of the offences punishable under the
+Indian Penal Code
+could not be compounded.
+6.10 In some of the cases, different Benches of this Court have also taken the view by relying upon the judgment of the Supreme Court in B.S. Joshi'scase (supra) that offences under Section 498A of the Code could be quashed and conviction and sentence against the applicant were set aside. (
+Gambhir Rajaram Chaudhari v. Nirmala  & Anant
+v. State of Maharashtra ).
+In relation to compounding of offences, the Supreme Court again reiterated the principle with approval in
+Bankat and Anr. v. State of Maharashtra
+, that the rest of the offences punishable under the
+Indian Penal Code
+which are not specified in Section 320 of the Code cannot be compounded primarily due to the bar contained in Sub-section (9) of Section 320 of the Code.
+6.11 A Bench of the Orissa High Court in the case of
+Sisupala Duria and Anr. v. State of Orissa
+2004 Cri.L.J. 1007, not only declined to grant permission to compound an offence under Section 307 being not compoundable but even declined to quash the proceedings as it was not considered by the Court to be in the interest of justice.
+6.12 In the case of
+Hasi Mohan Barman and Anr. v. State of Assam and Anr.
+, the Supreme Court cautioned the Courts not to enlarge the scope of Section 320 of the Code and stated that complainant's consent to withdraw could not be utilised to acquit an accused who was convicted. While reducing the sentence, the Court held as under:
+8.
+Section 320
+of the Code of Criminal Procedure says that the offences punishable under the Sections of the
+Indian Penal Code
+(45 of 1860) specified in the first two columns of the table next following may be compounded by the persons mentioned in the third column of that table. A perusal of Section 320 will show that the offence under
+Section 313
+IPC is not compoundable. Therefore, the consent given by the wife PW-1 or the affidavit filed by her cannot be utilised for the purpose of recording a finding of acquittal in favour of the accused appellants.
+9. There are some decisions of this Court wherein the factor of compromise between the accused and the complainant (or injured or person aggrieved) has been taken into consideration for reducing the sentence. ]
+10. The first decision on this point was rendered by this Court in
+Ram Pujan and Ors. v. State of Uttar Pradesh
+, wherein the trial Court had convicted the accused under
+Section 326
+IPC which is a on-compoundable offence and had sentenced the accused to four years R.I. The High Court took into consideration the compromise between the accused appellant and the injured and reduced the sentence to two years R.I. This Court, after observing that the fact of compromise can be taken into account in determining the quantum of sentence, reduced the sentence to the period already undergone which was little more than four months and further imposed a fine of Rs. 1500/-on each of the appellants.
+Surendra Nath Mohanty and Anr. v. State of Orissa
+is a decision of a Bench of three learned Judges. It was observed that in view of the legislative mandate contained in
+Section 320
+Cr.P.C., an offence can be compounded only in accordance with the provisions of the said Section.
+The Court followed the view taken in the case of
+Ram Pujan
+(supra) and having regard to the fact that the parties had compromised and a period of ten years had elapsed from the date of the incident reduced the sentence of five years R.I. Imposed under
+Sections 307
+and
+326
+IPC to the period of sentence already undergone which was three months and also imposed fine of Rs. 5,000/-.
+6.13 The power of compounding is strictly regulated by statutory powers while the inherent powers of the Court are guided by judicial pronouncements within the scope of Section 482 of the Code. Another very important facet of criminal jurisprudence which has developed in the present time is with regard to the impact of compounding and/or quashing criminal proceedings in relation to an offence, its impact on the victim, witnesses and the society at large. This must be treated as a relevant consideration. The
+Indian Penal Code
+has been subjected to various amendments in order to ensure that society becomes a much safer place for human existence and various offences which affect large Sections of society have been incorporated as penal offences. For example, the object of Section 498A was to strike at the root of menace of dowry and to prevent crimes against women. There are various examples of a similar kind where penal provisions have been introduced to sub-serve the purpose of proper administration of justice and protection to individuals. Every crime committed has dual consequences. Firstly it affects the victim adversely. Secondly it disturbs the fabric of the society. It may even introduce an element of fear psychosis in human relationships and thus prejudice harmony in humanity.
+In the case of
+Vinay Devanna Nayak v. Ryot Seva Sahakari Bank Ltd.
+, the Supreme Court while dealing with an offence under
+Section 138
+of the Negotiable Instruments Act observed as under:
+11. It is no doubt true that every crime is considered to be an offence against the society as a whole and not only against an individual even though an individual might have suffered thereby. It is, therefore, the duty of the State to take appropriate action against the offender. It is equally the duty of a Court of law administering criminal justice to punish a criminal. But there are offences and offences. Certain offences are very serious in which compromise or settlement is not permissible. Some other offences, on the other hand, are not to serious and the law may allow the parties to settle them by entering into a compromise. The compounding of an offence signifies that the person against whom an offence has been committed has received some gratification to an act as an inducement for his abstaining from proceeding further with the case.
+Earlier, an offence punishable under
+Section 138
+of the Negotiable Instruments Act was not compoundable and it was so held by the courts. Parliament felt the necessity to make the offence compoundable and thus inserted Section 147 by the
+Negotiable Instruments (Amendment and Miscellaneous Provisions) Act, 2002
+(Act 55 of 2002). This clearly indicates that the power of compounding has to be exercised within its restricted scope. A crime being a public wrong in breach and violation of public rights and duties, it affects the whole community and is harmful to society in general. Courts have always been considered to have an overriding duty to maintain public confidence in the administration of justice, often referred to as the duty to vindicate and uphold the 'majesty of the law'. Due administration of justice has always been viewed as a continuous process, not confined to the determination of the particular case, protecting its ability to function as a court of law in the future.
+7. Summing up and conclusions
+ 
+
+7.1 Over a span of time the judgments of the Courts, particularly the Supreme Court, innovatively and clearly have stated the principles, giving new dimensions to criminal law, having a direct impact on administration of criminal justice and upon Society. The obligation of the Court to exercise its inherent powers to do justice carry in itself a rider that such powers are to be exercised cautiously and only to achieve the ends of justice. The judicial discretion vested in the Court while exercising powers to grant permission as required under Section 320 of the Code is very limited, while the scope of inherent powers emerging from Section 482 of the Code is very wide. The Court may consider effect of its order on administration of criminal justice as a relevant factor, while using its discretion. These two concepts are homogenous but their distinction is founded on intelligible differentia. Therefore, they must be applied in their own field without intermingling the respective principles applicable to each one of them.
+7.2 We are not required to deal with the facts in detail of each case separately. Suffice it to note the collective factual matrix of the cases so as to deal with the principal and/or ancillary questions arising in those cases with the object of effectively answering the questions of law referred to the larger Bench. In all these cases, complaints were filed or FIRs were registered in relation to the offences punishable under
+Sections 498A
+,
+304B
+,
+306
+,
+313
+,
+326
+,
+363
+,
+392
+, and
+495
+of the IPC. In criminal application No. 3567 of 2007, the applicant has prayed for quashing of the FIR registered under
+Sections 498A
+,
+304B
+,
+306
+,
+323
+,
+504
+of the IPC on the ground that the complainant has agreed in such prayer and all cases between the parties are proposed to be settled. In most of the other cases, the court of competent jurisdiction has framed the charge and cases are pending for further proceedings or recording of the evidence. The cases in hand are primarily relating to the disputes arising from the matrimonial relationships. Thus, in all these cases, the appellants-applicants had prayed for quashing of the FIR and/or criminal proceedings pending before the court of competent jurisdiction, while in Criminal Application No. 766 of 2007, the parties have prayed for grant of leave of the Court for compounding of the offence punishable under Section 495 of the Penal Code.
+7.3 The Court has to keep in mind the principle that penal provisions are to be construed strictly. The mandatory provisions of the Code would also have to be interpreted strictly unless the provisions have been worded with liberal language having wide ramifications by the Legislature itself. Rule of liberal construction can safely be applied to these provisions with an intent to achieve public interest and larger interest of justice. When the Legislature introduced Section 498A in the
+Indian Penal Code
+, it intentionally did not incorporate that Section in any of the tables appended to
+Section 320
+of the Criminal Procedure Code. Realising the impact of such non-inclusion on the matrimonial relationship, increasing inconveniences to the parties and the resultant effects on criminal justice system and the society as a whole, the Legislature provided an alternative statute.
+The Protection of Women from Domestic Violence Act, 2005
+, thus was introduced to provide greater safeguard and protection to the women, by providing a chance for resettlement of matrimonial home and relationship prior to actual registration of the crime under Section 498A of the Code. The Legislature still chose not to bring the offence under Section 498A within the cover of Section 320 of the Code. It can very well be presumed that the Legislature, when it enacts a provision, is aware of the existing laws and the difficulties faced in implementation of such law. While interpreting and implementing the law, the legislative wisdom is given preference.
+7.4 In the case of
+B.S. Joshi
+(supra), the Supreme Court, while stating that the object of introducing Chapter XX-A in
+IPC
+is to prevent torture to a woman by her husband or by relatives of her husband, also spelled out the need for caution by adding that a hyper-technical view would be counterproductive and would act against the interests of the women and against the object for which this provision was added. There is every likelihood that non-exercise of inherent power to quash proceedings to meet the ends of justice may amount to preventing women from settling earlier. This would not be the object of Chapter XXA of the
+IPC
+. Thus, the Supreme Court had exercised its power for quashing criminal proceedings under Section 482 of the Code and has not granted consent for compounding the offence under Section 320 of the Code.
+7.5 The courts have to apply the principle of 'plain interpretation' of statutory provisions to such Sections. Lex nil frustra jubet - means that the law commands nothing vainly, so also orders of the court are not passed in vacuum or contrary to statute. Unless the provision is held to be ultra vires of any other law or the Constitution, normally the courts would ensure the orders of the court, while determining the rights and obligations of the parties and/or holding them guilty of a particular offence, are passed in consonance with the legislative scheme and in conformity with the statutory provisions. The power of compounding being a restricted power limited to offences stated in the tables of Section 320, its expansion by interpretative process would not be permissible particularly in face of the provision enacted by the Legislature in
+Section 320(9)
+of the Criminal Procedure Code.
+7.6 The exercise of inherent powers under Section 482 of the Code cannot be circumvented or effaced either by judicial dictum or with reference to other provisions of the Code. These powers vested in a court by law are of a great magnitude and moment and their wide scope justifiably cannot be curtailed. Of course, these powers are to be exercised sparingly with caution and to ensure that either of the principal objects stated in the Section are satisfied as a condition precedent to the exercise of such powers. Criminal proceedings are initiated by reporting to the concerned Police Station the commission of a criminal act, by registration of an FIR and/or by institution of a complaint before the court of competent jurisdiction. Enquiry, investigation and judicial proceedings including trial and judgment are different stages in relation to criminal investigation and administration of criminal justice system.
+7.7 The powers vested in the court under Section 482 of the Code could be exercised at any stage but preferably at the initial stage of the proceedings. The Section does not contemplate or specify any particular stage when powers under Section 482 could be invoked. Vesting of these powers in the High Court itself is indicative of the fact that these powers could be invoked by the High Court at any stage of the proceedings pending before itself or any Court subordinate to it. Similarly, Section 320 also does not contemplate any stage or specific mode by which Court can permit compounding of the offences. These powers could be exercised at any stage by any court of competent jurisdiction, but subject to the satisfaction of the conditions stated in the Section itself.
+7.8 Sanctity of criminal justice is not alien to
+Section 482
+of the Criminal Procedure Code. Fair and proper administration of criminal justice is the whole object of the constitutional mandate and the provisions of the
+Criminal Procedure Code
+. Thus, it would be difficult for the courts not to take into consideration the impact of its decision on administration of criminal justice system. The inherent powers of the court can be utilised both for supplying lacunae in the scheme of the Code or to regulate proceedings during the enquiry, investigation and trial, so as to further the object of the Code and to ensure that process of law is not defeated and ends of justice are achieved. The Court, while exercising such power, essentially has to calibrate that such exercise does not offend the basic canons stated under the Code that investigation and enquiry primarily fall in the domain of the investigating agency. The rule of law contemplates that every provision of law should be given its normal meaning and should be interpreted with objectivity. The law is not static and is mutable. Tenets of criminal jurisprudence have been evaluated by judicial pronouncements to achieve the object of ascertaining legislative intent for a fair criminal investigation and trial. It is a settled principle that even the legal conscience is founded upon the law and nothing should be done or ought to be done which is contrary to statute. Where the offences, for which an FIR has been instituted, are not compoundable, there, the court will not be in a position to permit compounding of those offences. As already noticed, compounding is possible by mutual agreement between the parties and in certain limited cases, it could be allowed only with the permission of the court. Even when the first ingredient of mutuality of parties is satisfied, it would not be permissible for the trial Court or even the Appellate Court to compound non-compoundable offences. Invoking of the inherent powers for compounding of offences which are not compoundable under Section 320 in the Code would tantamount to exercising the powers contrary to the specific provisions of the Code. A verbis legis non est recedendumfrom the words of the law, there must be no departure. Despite being prefaced by the non-obstante clause and liberal language of Section 482, the statutory command contained in Section 320 particularly the absolute bar contained in Section 320(9), the inherent powers cannot be invoked to compound cases which are not compoundable.
+7.9 Recourse to inherent powers under Section 482 would be permissible even in non-compoundable offences for quashing an FIR and/or criminal proceedings and this power of the court is not controlled and/or moderated by any of the provisions of the Code including Section 320 of the Code.
+7.10 We have held that the inherent powers should be used in cases falling in either of the three categories stated in Section 482 itself. This wide power must be exercised with caution and circumspection. The inherent powers of the Court of competent jurisdiction can be invoked for quashing the FIR or criminal proceedings but the Court would pass such orders only if the principles
+laid down in
+judicial dicta are satisfied and either of the three objects stated in Section 482 of the Code are achieved by exercise of such power. It is neither permissible nor proper for the court to provide a strait-jacket formula regulating exercise of inherent powers under Section 482 of the Code, particularly in relation to quashing, as it would depend upon the facts and circumstances of a given case. No precise and inflexible guidelines or strait-jacket formula or catalogue of the circumstances in which power should or should not be exercised, may be laid down.
+Still, while recapitulating the enunciated principles in the judgments of the Courts, particularly the Supreme Court in the cases of (i) State of Haryana v. BhajanLal , (
+ii) Indian Oil Corporation v. NEPC India Ltd.
+, (
+iii) Central Bureau of Investigation v. Ravi Shankar
+, (
+iv) Popular Muthiah v. State
+represented by
+Inspector of Police , (v) Sanapareddy Maheedhar v. State of A.P.
+2008 AIR SCW 11, and (vi) Som Mittal v. Government of Karnataka (Criminal Appeal No. 206 of 2008 decided on 21st February, 2008) , and other well accepted canons of criminal jurisprudence, we state the principles as under:
+1. The High Court, in exercise of its inherent powers under Section 482 of the Code, may interfere in proceedings relating to cognizable offences to prevent abuse of the process of any court or otherwise to secure the ends of justice very sparingly and with circumspection;
+2. Inherent power under
+Section 482
+of the Criminal Procedure Code should not be exercised to stifle a legitimate prosecution.
+3. Power under
+Section 482
+of the Criminal Procedure Code is not unlimited. It can inter alia be exercised where the Code is silent, where the power of the court is not treated as exhaustive, or there is a specific provision in the Code; or the statute does not fall within the purview of the Code because it involves application of a special law;
+4. The inherent power of the High Court can be invoked in respect of matters covered by the provisions of the Code unless there is specific provision to redress the grievance of the aggrieved party;
+5. Inherent power under Section 482 of the Code overrides provisions of the Code but evidently cannot be exercised in violation/contravention of a statutory provision or power created under any other enactment;
+6. Power under Section 482 to quash proceeding should not be used mechanically or routinely, but with care and caution;
+7. Such power should be used only when a clear case for quashing is made out and failure to interfere would lead to a miscarriage of justice;
+8. Inherent jurisdiction under
+Section 482
+Cr.P.C. may be exercised in following three circumstances.
+(i)to give effect to an order under the Cr. P.C.
+(ii)to prevent abuse of the process of court; and
+(iii)to otherwise secure the ends of justice.
+9. Inherent power should be exercised to do the right and undo a wrong;
+10. In exercise of inherent power under Section 482 of the Code, Court would be justified to quash any proceeding if the initiation/continuation of such proceeding amounts to 'abuse of the process' of court or quashing of the proceeding would otherwise serve the ends of justice';
+11. While exercising inherent power under Section 482 of the Code, High Court must refrain from making imaginary journey in the realm of possible harassment which may be caused to concerned petitioner on account of investigation of FIR or complaint;
+12. While exercising inherent power under Section 482 of the Code, the High Court must all the while be conscious of the fact that its exercise of such power will not result in miscarriage of justice and will not encourage those accused to repeat the crimes;
+13. The inherent powers of High Court under Section 482 of the Code, cannot be exercised in regard to matters specifically covered by the other provisions of the
+Criminal Procedure Code
+;
+14. For the purpose of quashing, the complaint has to be examined as a whole, but without examining the merits of the allegations. Neither a detailed inquiry nor a meticulous analysis of the material nor an assessment of the reliability or genuineness of the allegations in the complaint, is warranted while examining prayer for quashing of a complaint;
+15. The exercise of inherent jurisdiction under Section 482 of the Code should not be such as to harm legitimate expectation of the people and the society, that the persons committing offence are expeditiously brought to trial and if found guilty are adequately punished;
+16. Inherent powers may be used only when reasonably necessary for the court to be able to function and courts may not exercise inherent powers merely because their use would be convenient or desirable;
+17. The exercise of inherent power would be necessary whenever it is just or equitable and it should be to ensure observance of the due process of law, to prevent improper vexation or oppression and to do justice between the parties and to secure a fair trial; and
+18. While passing an order quashing FIR or criminal proceedings, as the case may be, it may be appropriate for the Court to examine the impact of such an order upon the system of administration of criminal justice and the social fabric. This, of course, is not a determinative factor but only a relevant consideration.
+8. With great respect, we may notice that the facts of
+B.S. Joshi
+'s case (supra) as well as the law laid down therein have not been correctly appreciated in the order of reference. As noticed in paragraph 3 of that judgment, the aggrieved parties, after filing a petition for mutual divorce, had filed a petition for quashing the FIR in appeal which was declined by the High Court on the ground that as the offences were non- compoundable, powers under Section 482 could not be exercised. This finding of law was disturbed by the Supreme Court clearly noticing in its judgment the position of law that non-compoundable offences under Section 320 cannot be compounded and also that Section 320 of the Code does not limit or affect the powers under Section 482 of the Code. The order of reference in the present case proceeds on the basis that in B.S. Joshi'scase (supra) the Supreme Court had permitted compounding of the offence under
+Section 498A
+of the IPC and raises further questions as to whether such principle of permissive compounding, on this analogy, could be applied to serious offences under
+Sections 306
+,
+307
+,
+326
+,
+376
+,
+406
+and
+495
+of the IPC. This does not appear to us to be correct appreciation of legal and factual matrix of that case. The other question which is not dependent on the earlier part of the reference order relates to, as to whether the Courts could exercise power of compounding at the trial or at the appellate stage also.
+9. We have already held that power of the Court to compound offences and power to quash the FIR or criminal proceedings are distinct and different. They operate in different spheres and are different concepts of criminal jurisprudence. Power to quash an FIR or criminal proceedings under Section 482 of the Code finds its source from judge made law, while power to compound is a statutory power granted by the language of Section 320 of the Code. Both these powers have nothing in common except the ultimate result, that is, acquittal. They have to be exercised upon satisfaction of different criteria, fulfilment of relevant ingredients and satisfaction of the object of legislative intent behind these provisions. Power to quash the criminal proceedings is a power which springs from the generality of the provisions of Section 482 of the Code and to be exercised in consonance with the judicial pronouncements.
+10. For the purpose of answering the referred questions, it was necessary for the Bench to examine the ancillary questions which arise from the facts of the referred cases and which alone could help to determine the principal question posed in the order of reference. The ancillary questions thus squarely fall within the purview of the principal question. Therefore, we have dealt with and answered the principal as well as the ancillary questions which are, in fact, interdependent and interlinked. Even otherwise, these are the questions of public importance and arise very often in the administration of criminal justice.
+11. We have attempted to synthesize the enunciated principles by providing it an unambiguous terminology for better reference and application of such principles. Right from
+Ram Pujan
+'s case,(supra), the power of the court to grant its permission for compounding an offence under Section 320 of the Code is considered to be a restricted power and cannot be exercised for such offences under the
+IPC
+which are non- compoundable. Legislative mandate contained in Section 320 has to be respected and offences can be compounded strictly in accordance with the provisions of the Section. Recourse to inherent powers under Section 482, thus, would not be permissible for defeating the statutory character of Section 320. This view has been reiterated with approval and emphasised by the Supreme Court right from the case of Ram Pujan (1973) , Surendranath Mohanty (1999), B.S. Joshi (2004) , Bankat (2005) to Hasi Mohan Barman (2008). This enunciated cannon of law is binding on all courts and is required to be followed without exception.
+12. We have already noticed that the prayer in B.S. Joshi'scase by the parties was for quashing of the proceedings and not for grant of consent for compounding of the offences under Section 498A, etc. The Supreme Court, while following the principles stated in its earlier judgment, stated thus:
+9. The High Court has also relied upon the decision in case of
+Surendra Nath Mohanty
+case for the proposition that offence declared to be non-compoundable cannot be compounded at all even with the permission of the court.
+That is of course so.
+It also clearly reiterated the principle that provisions of Section 320 do not limit or affect the inherent powers of the High Court under Section 482 and the High Court in exercise of its inherent powers can quash the proceedings (paras 9, 10, 14 and 15 of the judgment).
+13. The view expressed by a Division Bench of this Court in the case of
+Madhu Bhisham Bhatia
+(supra) thus cannot be stated to be an entirely correct exposition of law.
+The judgment of the Supreme Court in
+Joshi
+'s case does not give any power to the High Courts to compound non-compoundable offences, even if they relate to matrimonial offences. To that extent, that judgment has to be necessarily followed. Of course, quashing is the facet emerging from inherent powers under Section 482 of the Code, which is not controlled by Section 320 and could be invoked at any stage.
+14. The power of compounding on one hand and quashing of criminal proceedings in exercise of inherent powers on the other, are incapable of being treated as synonymous or even inter-changeable in law. The conditions precedent and satisfaction of criteria in each of these cases are distinct and different. May be, the only aspect where they have any commonality is the result of exercise of such power in favour of the accused, as acquittal is the end result in both these cases. Both these powers are to be exercised for valid grounds and with some element of objectivity. Particularly, the power of quashing the FIR or criminal proceedings by the court by taking recourse to inherent powers is expected to be used sparingly and that too without losing sight of impact of such order on the criminal justice delivery system. It may be obligatory upon the Court to strike a balance between the nature of the offence and the need to pass an order in exercise of inherent powers, as the object of criminal law is protection of public by maintenance of law and order. Edmund Davies, J. (Smith & Hogan Criminal Law, 5th Edition) has said:
+It seems to me that accordingly every court sentence should primarily be surveyed in the light of one test: is that the best thing to do in the interest of the community?-always remembering, of course, that the convicted person, despite his wrongdoing remains a member of the community.
+15. Punishment for an offence is the essence of any Penal Code. Every offender upon being proved guilty, may have to be punished. In order to ensure that process of law is not abused or to achieve ends of justice, the court may exercise its inherent powers. Simply put, the principle of criminal jurisprudence can be stated that courts in exercise of their inherent powers under Section 482, are not controlled or checked by the provisions of Section 320 or any other provisions of the
+Code of Criminal Procedure
+. These powers are to be exercised particularly, with reference to power of quashing of proceedings in consonance with the principles aforestated in paragraph 7.10. Normally, there may be no occasion to truncate the normal course of judicial process in criminal law but once the case falls in any of the three categories stated in
+Section 482
+of the Criminal Procedure Code and in the opinion of the court, the conditions for exercise of such powers are satisfied then the powers vested by the legislature in the courts cannot be curtailed by implying the restrictions which do not exist either in the Code or even in the judicial pronouncements.
+16. In the light of the above detailed analysis of the principles of law involved in the case, now, we would revert back to the order of reference and the questions referred therein. The order can discernly be dissected into three different portions:
+(a) what were the facts and law
+laid down by
+the Supreme Court in the case of
+B.S. Joshi
+(supra);
+(b) does the High Court under its inherent powers under
+Section 482
+of the Criminal Procedure Code have the power to allow compounding of offences other than offences punishable under
+Section 498A
+of the IPC, particularly, for the offences punishable under
+Sections 306
+,
+307
+,
+326
+,
+376
+,
+406
+,
+495
+IPC, and (c) whether such a power can be exercised at the trial stage or at the appellate stage.
+17. We record our answer to the above three portions of the reference order as follows: Answer to (a) : As already noticed, the facts of B.S. Joshi'scase have been recorded in paragraphs 3 and 4 of that judgment.
+The parties had not prayed for compounding of an offence in terms of Section 320 of the Code but had prayed for quashing of the FIR in view of the terms and conditions recorded in the petition for mutual divorce in furtherance to which statements of the parties on first and second motion were recorded by the Additional District Judge, Delhi. The High Court had dismissed the petition for quashing of the FIR on the ground that the offence was not one compoundable under Section 320 and, therefore, it could not be quashed in exercise of powers under Section 482. The Supreme Court, in fact, at the outset of the judgment in paragraph two formulated the question that it was examining the ambit of the inherent powers of the High Court under
+Section 482
+of the Criminal Procedure Code and whether Section 320 could restrict such powers of the court. The Supreme Court concluded and, with approval, stated the view which had consistently been taken since
+Ram Pujan
+'s case (1973) that only those offences could be compounded which are mentioned in Section 320 and, those which are not mentioned therein cannot be permitted to be compounded. Consistent with its earlier view the Supreme Court also held that powers under Section 482 of the Code are not limited or affected by the provisions of Section 320 of the Code. Answer to (b): It is thus answered in the negative. Neither an offence under Section 498A nor any other offence under the
+IPC
+which is not specifically enumerated in Section 320 of the Code can be compounded by the court in exercise of its powers under Section 320 and for that matter by High Court in exercise of its inherent powers under Section 482 of the Code.
+However, we hasten to add here that the inherent powers under Section 482 of the Code include powers to quash FIR, investigation or any criminal proceedings pending before the High Court or any Courts subordinate to it and are of wide magnitude and ramification. Such powers can be exercised to secure ends of justice, prevent abuse of the process of any court and to make such orders as may be necessary to give effect to any order under this Code, depending upon the facts of a given case. These powers are neither limited nor curtailed by any other provisions of the Code including Section 320 of the Code. The Court could exercise this power in offences of any kind, whether compoundable or non-compoundable. However, such inherent powers are to be exercised sparingly and with caution and in conformity with the precepts indicated in paragraph 7.10 of this judgment. Further, the Court should ensure that object and purpose of passing any order in exercise of its inherent powers should be confined to one of the three categories stated in Section 482 of the Code. Answer to (c ):The power to compound can be exercised at the trial stage or even at the appellate stage subject to satisfaction of the conditions postulated by the legislature under Section 320 of the Code.
+18. Having answered the above-referred questions as aforestated, we now direct that all the criminal appeals, writ petitions and applications be placed before the appropriate Bench for their disposal in accordance with law.

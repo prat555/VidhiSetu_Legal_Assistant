@@ -1,0 +1,1386 @@
+Title: Search
+Court: High Court
+Date: Unknown Date
+Citation: SCC OnLine Del
+Source: https://indiankanoon.org/doc/56582441/
+
+[Cites
+20
+, Cited by
+0
+]
+Delhi High Court
+Larsen And Toubro Limited vs Iic Limited & Anr. on 2 February, 2024
+Author:
+Prathiba M. Singh
+Bench:
+Prathiba M. Singh
+$~1 TO 3 & 42
+                          *      IN THE HIGH COURT OF DELHI AT NEW DELHI
+                                                           Date of decision: 2nd February, 2024
+                          +                O.M.P.(MISC.)(COMM.) 426/2023
+                                 LARSEN AND TOUBRO LIMITED                   ..... Petitioner
+                                                Through: Mr. J. P. Singh (Sr Adv), Mr.
+                                                          Subhash Gulati, Mr. Shashank
+                                                          Sharma, Advs. (M. 9811077674)
+                                                versus
+                                 IIC LIMITED & ANR.                          ..... Respondents
+                                                Through:
+                                                          Mr. Rajat Navet, Mr. Shashi Kant,
+                                                          Mr. Kushagra Pandit, Mr. Harshpal
+                                                          Singh Negi, Advs. for R-2 (M.
+                                                          9650881816)
+                          2                     WITH
+                          +                O.M.P.(MISC.)(COMM.) 427/2023
+                                 LARSEN AND TOUBRO LIMITED                   ..... Petitioner
+                                                Through: Mr. J. P. Singh (Sr Adv), Mr.
+                                                          Subhash Gulati, Mr. Shashank
+                                                          Sharma, Advs. (M. 9811077674)
+                                                versus
+                                 IIC LIMITED & ANR.                          ..... Respondents
+                                                Through: Mr. Rajat Navet, Mr. Shashi Kant,
+                                                          Mr. Kushagra Pandit, Mr. Harshpal
+                                                          Singh Negi, Advs. for R-2 (M.
+                                                          9650881816)
+                          3                     AND
+                          +                O.M.P.(MISC.)(COMM.) 20/2024
+                                 LARSEN AND TOUBRO LIMITED                   ..... Petitioner
+                                                Through: Mr. J. P. Singh (Sr Adv), Mr.
+                                                          Subhash Gulati, Mr. Shashank
+                                                          Sharma, Advs. (M. 9811077674)
+                                                versus
+                                 SINNAR THERMAL POWER
+                                 LIMITED & ANR.                              ..... Respondents
+                                                Through: Mr. Utkarsh Singh, Adv. for R-1 (M.
+
+
+Signature Not Verified
+Digitally Signed          O.M.P.(MISC.)(COMM.) 426/2023 & connected matters               Page 1 of 31
+By:RAHUL
+Signing Date:08.02.2024
+17:41:04
+                                                                         9872464483)
+                                                                        Mr. Rajat Navet, Mr. Shashi Kant,
+                                                                        Mr. Kushagra Pandit, Mr. Harshpal
+                                                                        Singh Negi, Advs. for R-2 (M.
+                                                                        9650881816)
+                          42                   AND
+                          +               O.M.P.(MISC.)(COMM.) 637/2023
+                                 LARSEN AND TOUBRO LIMITED                ..... Petitioner
+                                               Through: Mr. J. P. Singh (Sr Adv), Mr.
+                                                         Subhash Gulati, Mr. Shashank
+                                                         Sharma, Advs.
+                                               versus
+                                 ELENA POWER AND INFRASTRUCTURE
+                                 LIMITED & ANR.                           ..... Respondents
+                                               Through: Mr. Abhishek Anand, Mr. Sikhar
+                                                         Tiwari, Advs. for R-1 (M.
+                                                         9198040001)
+                                                         Mr. Rajat Navet, Mr. Shashi Kant,
+                                                         Mr. Kushagra Pandit, Mr. Harshpal
+                                                         Singh Negi, Advs. for R-2 (M.
+                                                         9650881816)
+
+                                 CORAM:
+                                 JUSTICE PRATHIBA M. SINGH
+
+                                                         JUDGMENT
+Prathiba M. Singh, J.
+1.     This hearing has been done through hybrid mode.
+2.     These four petitions raise an important issue concerning the
+                          interpretation of
+Section 29A
+of the Arbitration and Conciliation Act, 1996
+                          (hereinafter, '1996 Act'). The parties in all the four petitions are set out in
+                          the following table:
+Signature Not Verified
+Digitally Signed          O.M.P.(MISC.)(COMM.) 426/2023 & connected matters                         Page 2 of 31
+By:RAHUL
+Signing Date:08.02.2024
+17:41:04
+Case Number                 Petitioner              Respondents      Project
+                          O.M.P.(MISC.)               Larsen and              IIC Ltd. & RPL   EBOP Nashik
+                          (COMM.) 426/2023            Toubro Limited
+                          O.M.P.(MISC.)               Larsen and              IIC Ltd. & RPL   EBOP Amravati
+                          (COMM.) 427/2023            Toubro Limited
+                          O.M.P.(MISC.)               Larsen and              Sinnar Thermal CHP Nashik
+                          (COMM.) 20/2024             Toubro Limited          Power Limited
+                                                                              & RPL.
+                          O.M.P.(MISC.)               Larsen and              Elena Power and CHP Amravati
+                          (COMM.) 637/2023            Toubro Limited          Infrastructure
+                                                                              Limited & RPL.
+The facts in each of the four petitions are as under:
+O.M.P.(MISC.) (COMM.) 426/2023
+3.     The Petitioner- Larsen & Toubro Ltd. (hereinafter, L&T) was
+                          awarded a Letter of Intent (hereinafter, 'LoI') dated 5th October, 2010 in
+                          respect of the Thermal Power Plant located at Sinnar, Nasik, Maharashtra,
+                          India (hereinafter, 'Nashik Project'). The Letter of Award (hereinafter,
+                          'LoA') is dated 19th October, 2010 with respect to the said Nashik Project.
+                          Further, in pursuance of LoI and LoA, two contracts were entered into
+                          between parties, i.e. a Supply Contract dated 18th February, 2011 and a
+                          Service Contract dated 18th February, 2011.
+4.     In the present petition, the Respondent No. 1 is M/s. IIC Limited
+                          (hereinafter, 'IICL'), and Respondent No. 2 is M/s. Rattan India Power
+                          Limited (hereinafter, 'RPL'). As per the petition, in 2010, RPL initiated the
+                          Nashik Project for which the IICL invited bids.
+5.     According to L&T, the Nashik Project was concluded and the plant
+                          was commissioned on 30th May, 2017. Thereafter, in terms of the LoI and
+                          the LoA, payments were due to L&T, which were allegedly not paid by the
+                          Respondents- IICL and RPL, due to which L&T invoked the arbitration
+Signature Not Verified
+Digitally Signed          O.M.P.(MISC.)(COMM.) 426/2023 & connected matters                            Page 3 of 31
+By:RAHUL
+Signing Date:08.02.2024
+17:41:04
+clause on 26th February, 2020 in terms of Clause 11.0 of the General
+                          Conditions of Contact (hereinafter, 'GCC').
+6.     The Arbitral Tribunal was constituted on 19th May, 2020, headed by
+                          a retired Supreme Court Judge and two retired Delhi High Court Judges.
+                          Proceedings commenced on 8th June, 2020. During the arbitral proceedings,
+                          RPL filed an application under
+Section 16
+of the 1996 Act on 27th October,
+                          2020, seeking dismissal of the claims. The said application was dismissed by
+                          the Arbitral Tribunal vide order dated 1st March, 2021.
+7.     In the arbitral proceedings, issues were framed on 17th June, 2021.
+                          Shortly thereafter, on 20th September, 2021, IICL entered into insolvency,
+                          and a moratorium was imposed under
+Section 14
+of the Insolvency and
+                          Bankruptcy Code, 2016, in the case titled 'Fidus Finance Pvt. Ltd. v. IIC
+                          Ltd.' [(IB) 112(ND)/2021]. Consequently, the Arbitral Tribunal adjourned
+                          the proceedings sine die on 16th October, 2021, granting the parties the
+                          liberty to seek revival.
+8.     Vide email dated 10th January, 2022, the L&T coordinated with the
+                          Resolution Professional (hereinafter, 'RP'), and requested the RP to
+                          participate in the arbitration proceeding relating to the Nashik project and
+                          pursue its counterclaim. As per L&T, no response was received from the RP,
+                          who chose not to participate in the arbitral proceedings. On 15th February,
+                          2022, the RP sent a communication requesting that the bank guarantees
+                          issued by L&T in favour of IICL, be maintained. Thus, according to L&T,
+                          though the RP was consistently communicating with the L&T in respect
+                          extension of the bank guarantees, there was no participation.
+9.     Following this, on 13th April 2022, L&T filed an application under
+Section 19
+of the 1996 Act seeking revival of the arbitral proceedings. In the
+Signature Not Verified
+Digitally Signed          O.M.P.(MISC.)(COMM.) 426/2023 & connected matters                       Page 4 of 31
+By:RAHUL
+Signing Date:08.02.2024
+17:41:04
+said application, a detailed order was passed by the Arbitral Tribunal on
+                          13th July, 2022 which revived the arbitral proceedings qua RPL. The
+                          observations in the said order are set out below:
+"16. It was also argued by the Ld. Counsel for
+                                      Respondent No. 2 that the issues falling for
+                                      determination in these proceedings are premised upon
+                                      the alleged breach of commitments under the Contract
+                                      primarily between the Claimant and Respondent No. 1,
+                                      which issues cannot be adjudicated in the absence of
+                                      Respondent No. 1, who would be in a better position to
+                                      lead evidence in rebuttal, as the project was to be
+                                      executed only by Respondent No. 1. It was argued that
+                                      any kind of trial in the absence of a necessary Party
+                                      i.e. Respondent No. 1, would, amount to an ex-parte
+                                      trial, on material facts and issues, causing grave
+                                      prejudice to Respondent No. 2, besides practical
+                                      difficulties in the segregation of the oral evidence,
+                                      which the Parties propose to adduce in support of
+                                      their respective stands.
+17. The Tribunal has bestowed its anxious
+                                      consideration to a rather piquant situation. There is
+                                      little scope for debate that the mandate of
+Section 14
+of
+                                      the IBC is confined to the Corporate Debtor during the
+                                      CIRP proceedings and does not provide any protection
+                                      to any party other than the Corporate Debtor. It is now
+                                      well settled that the IBC carves out a clear
+                                      demarcation between the interests of the Corporate
+                                      Debtor from those who are its directors or even in
+                                      management.
+18. Thus, having regard to the scheme of the IBC, the
+                                      Tribunal is unable to hold that the protection as
+                                      provided in
+Section 14
+of the IBC, to Respondent
+                                      No.1, needs to be extended to Respondent No.2 as
+                                      well, merely because the averments in the Statement
+                                      of Claim may be, to a large extent, overlapping qua
+                                      both the Respondents. The Tribunal holds
+                                      accordingly.
+Signature Not Verified
+Digitally Signed          O.M.P.(MISC.)(COMM.) 426/2023 & connected matters                       Page 5 of 31
+By:RAHUL
+Signing Date:08.02.2024
+17:41:04
+19. In so far as the plea of Respondent No. 2 that
+                                      bifurcation of these proceedings between the Claimant
+                                      and Respondent No. 2 wil1 cause severe prejudice to
+                                      the said Respondent, as it ,wil1 not be able to meet the
+                                      Claimant's evidence, which, going by the pleadings
+                                      and the documents on record, would primarily be
+                                      directed against Respondent No. 1, is concerned, it
+                                      would suffice to observe that at this stage the Tribunal
+                                      cannot possibly assess or evaluate what would be the
+                                      nature of oral evidence which the Claimant may
+                                      adduce in the changed scenario, particularly, when in
+                                      the Statement of admission/denial of the Claimant's
+                                      documents, the majority of documents have neither
+                                      been admitted nor denied by Respondent No. 2 on the
+                                      ground of being third party documents. In the
+                                      circumstances, therefore, at this stage, it may not be
+                                      proper for the Tribunal to comment on the impact of
+                                      restricting the present proceedings only between the
+                                      Claimant and Respondent No. 2.
+20. In view of the above, the Tribunal does not find any
+                                      impediment on facts or in law in not reviving the
+                                      proceedings qua Respondent No. 2 only because
+                                      moratorium under
+Section 14
+of the IBC has come into
+                                      operation only qua Respondent No. 1."
+10.    The above order is stated to have not been challenged by any party
+                          and has attained finality.
+11.    After the petition's revival was permitted on 13th July, 2022 qua RPL,
+                          evidence was led by the parties. L&T's evidence was concluded on 6th
+                          January, 2023, and RPL is in the process of leading evidence. At this point,
+                          RPL submitted an application to the Arbitral Tribunal on 17th July, 2023,
+                          notifying that the Tribunal's mandate had expired on 1st March 2023. Since
+                          consent for extension had not been obtained from IICL, the Arbitral
+                          Tribunal's mandate had effectively ended. The application emphasized that
+Signature Not Verified
+Digitally Signed          O.M.P.(MISC.)(COMM.) 426/2023 & connected matters                      Page 6 of 31
+By:RAHUL
+Signing Date:08.02.2024
+17:41:04
+unless the Court extended the mandate, the Arbitral Tribunal cannot
+                          continue. In response, the Arbitral Tribunal made the following observation
+                          in its order dated 1st August, 2023:
+"5. Having heard the Ld. Counsel for the Parties at
+                                      considerable length, the Tribunal is of the view that the
+                                      mandate of the Tribunal under
+Section 29A (1)
+of the
+                                      Act having expired on 28.02.2023, in the light of the
+                                      decision of the Hon'ble High Court of Delhi in
+                                      Shapoorji Pallonji (supra), the present proceedings
+                                      cannot continue till Respondent No.1 gives its
+                                      consent in terms of
+Section 29A(3)
+of the Act,
+                                      notwithstanding the joint consent by the Claimant
+                                      and Respondent No.2 as recorded in the proceedings
+                                      of the Tribunal held on 24.05.2023, to extend the
+                                      period specified in Sub-Section (1) of 29A for a
+                                      further period of six months. Pertinently, it is the
+                                      Claimant's own stand that Respondent No.1 presently
+                                      being in liquidation, can participate and pursue the
+                                      proceedings albeit through the Liquidator.
+6. In that view of the matter, the Tribunal refrains
+                                      from passing any further orders in the matter, till
+                                      such time the proceedings get revived in accordance
+                                      with law."
+12.    Following the above order, vide letter dated 9th August, 2023, L&T
+                          sought the consent of IICL's Liquidator for a six-month extension of the
+                          Arbitral Tribunal's mandate under
+Section 29A(3)
+of the 1996 Act.
+                          However, as per the petition, the IICL did not reply to their request. Hence
+                          the present petition, seeking extension of the mandate of the Tribunal in
+                          terms of
+Section 29A(4)
+of the 1996 Act.
+Signature Not Verified
+Digitally Signed          O.M.P.(MISC.)(COMM.) 426/2023 & connected matters                       Page 7 of 31
+By:RAHUL
+Signing Date:08.02.2024
+17:41:04
+O.M.P.(MISC.)(COMM.) 427/2023
+13.    The background of this petition is that the L&T was awarded the LoI
+                          dated 5th October, 2010 in respect of the Thermal Power Plant located at
+                          Nandgaon Peth, MIDC Area, District Amravati, Maharashtra, India
+                          (hereinafter, 'Amravati Project'). The LoA is dated 19th October, 2010 with
+                          respect to the said Amravati Project. Further, in pursuance of LoI and LoA,
+                          two contracts were entered into between the parties, i.e., a Supply Contract
+                          dated and a Service Contract both dated 18th February, 2011. Respondent
+                          No. 1 is IICL, and Respondent No. 2 is RPL. As per the petition, in 2010,
+                          RPL initiated the said Amravati Project, for which IICL invited bids.
+14.    According to the L&T, the Amravati Project was concluded and the
+                          plant was commissioned on 30th March, 2015. Thereafter, in terms of the
+                          LoI and the LoA, payments were due to L&T, which were allegedly not paid
+                          by the Respondents- IICL and RPL, due to which L&T invoked the
+                          arbitration proceedings on 26th February, 2020 in terms of Clause 11.0 of
+                          the General Conditions of Contact (hereinafter, 'GCC').
+15.    The Arbitral Tribunal was constituted on 19th May, 2020, headed by
+                          a retired Supreme Court Judge and two retired Delhi High Court Judges.
+                          Proceedings commenced on 8th June, 2020. During the arbitral proceedings,
+                          RPL filed an application under
+Section 16
+of the 1996 Act on 21st October,
+                          2020, seeking the dismissal of the claims. The said application was
+                          dismissed by the Arbitral Tribunal vide order dated 1st March, 2021.
+16.    In the arbitral proceedings, issues were framed on 15th June, 2021. On
+                          20th September, 2021, IICL, went into insolvency, and a moratorium was
+                          imposed under
+Section 14
+of the Insolvency and Bankruptcy Code, 2016 in
+Signature Not Verified
+Digitally Signed          O.M.P.(MISC.)(COMM.) 426/2023 & connected matters                       Page 8 of 31
+By:RAHUL
+Signing Date:08.02.2024
+17:41:04
+the matter titled 'Fidus Finance Pvt. Ltd. v. IIC Ltd.' [(IB) 112(ND)/2021].
+                          Consequently, the Arbitral Tribunal adjourned the proceedings sine die on
+                          12th November, 2021, while granting parties the liberty to seek revival.
+17.    Vide email dated 10th January, 2022, the L&T coordinated with the
+                          RP, and requested the RP to participate in the arbitration proceeding relating
+                          to the Amravati project and pursue its counterclaim. As per the L&T, no
+                          response was received from the RP, who chose not to participate in the
+                          arbitral proceedings. On 15th February, 2022, the RP sent a communication
+                          to the L&T requesting that the bank guarantees issued by L&T in favour of
+                          IICL, be maintained. Thus, according to L&T, though the RP was
+                          consistently communicating with the L&T in respect extension of the bank
+                          guarantees, there was no participation.
+18.    Following this request, on 13th April 2022, the Petitioner filed an
+                          application under
+Section 19
+of the 1996 Act seeking revival of the arbitral
+                          proceedings. In the said application, a detailed order was passed by the
+                          Arbitral Tribunal on 13th July, 2022 which revived the proceedings qua
+                          RPL. The observations in the said order are set out below:
+"16. It was also argued by the Ld. Counsel for
+                                      Respondent No. 2 that the issues falling for
+                                      determination in these proceedings are premised upon
+                                      the alleged breach of commitments under the Contract
+                                      primarily between the Claimant and Respondent No. 1,
+                                      which issues cannot be adjudicated in the absence of
+                                      Respondent No. 1, who would be in a better position to
+                                      lead evidence in rebuttal, as the project was to be
+                                      executed only by Respondent No. 1. It was argued that
+                                      any kind of trial in the absence of a necessary Party
+                                      i.e. Respondent No. 1, would, amount to an ex-parte
+                                      trial, on material facts and issues, causing grave
+                                      prejudice to Respondent No. 2, besides practical
+Signature Not Verified
+Digitally Signed          O.M.P.(MISC.)(COMM.) 426/2023 & connected matters                          Page 9 of 31
+By:RAHUL
+Signing Date:08.02.2024
+17:41:04
+difficulties in the segregation of the oral evidence,
+                                      which the Parties propose to adduce in support of
+                                      their respective stands.
+17. The Tribunal has bestowed. its anxious
+                                      consideration to a rather piquant situation. There is
+                                      little scope for debate that the mandate of
+Section 14
+of
+                                      the IBC is confined to the Corporate Debtor during the
+                                      CIRP proceedings and does not provide any protection
+                                      to any party other than the Corporate Debtor. It is now
+                                      well settled that the IBC carves out a clear
+                                      demarcation between the interests of the Corporate
+                                      Debtor from those who are its directors or even in
+                                      management.
+18. Thus, having regard to the scheme of the IBC, the
+                                      Tribunal is unable to hold that the protection as
+                                      provided in
+Section 14
+of the IBC, to Respondent
+                                      No.1, needs to be extended to Respondent No.2 as
+                                      well, merely because the averments in the Statement
+                                      of Claim may be, to a large extent, overlapping qua
+                                      both the Respondents. The Tribunal holds
+                                      accordingly.
+19. In so far as the plea of Respondent No. 2 that
+                                      bifurcation of these proceedings between the
+                                      Claimant and Respondent No. 2 wil1 cause severe
+                                      prejudice to the said Respondent, as it ,wil1 not be
+                                      able to meet the Claimant's evidence, which, going by
+                                      the pleadings and the documents on record, would
+                                      primarily be directed against Respondent No. 1, is
+                                      concerned, it would suffice to observe that at this
+                                      stage the Tribunal cannot possibly assess or evaluate
+                                      what would be the nature of oral evidence which the
+                                      Claimant may adduce in the changed scenario,
+                                      particularly,     when      in    the   Statement      of
+                                      admission/denial of the Claimant's documents, the
+                                      majority of documents have neither been admitted
+                                      nor denied by Respondent No. 2 on the ground of
+                                      being third party documents. In the circumstances,
+                                      therefore, at this stage, it may not be proper for the
+Signature Not Verified
+Digitally Signed          O.M.P.(MISC.)(COMM.) 426/2023 & connected matters                       Page 10 of 31
+By:RAHUL
+Signing Date:08.02.2024
+17:41:04
+Tribunal to comment on the impact of restricting the
+                                      present proceedings only between the Claimant and
+                                      Respondent No. 2.
+20. In view of the above, the Tribunal does not find any
+                                      impediment on facts or in law in not reviving the
+                                      proceedings qua Respondent No. 2 only because
+                                      moratorium under
+Section 14
+of the IBC has come into
+                                      operation only qua Respondent No. 1."
+19.    The above order is stated to have not been challenged by any party
+                          and has attained finality.
+20.    After the petition's revival was permitted on 13th July, 2022 qua RPL,
+                          evidence from the parties was presented. L&T's evidence concluded on 11th
+                          January, 2023, and the RPL did not lead any evidence. According to L&T,
+                          the original 12-month deadline for issuing an arbitration award, as mandated
+                          by
+Section 29A(1)
+of the 1996 Act, was extended due to the order of the
+                          Supreme Court dated 10th January, 2022 in Suo Moto Writ Petition (C) No.
+                          3/2020, which excluded the period from 15th March, 2020, to 28th February,
+                          2022 from limitation. The said extension resulted in the new deadline
+                          expiring on 28th February, 2023. Thereafter, in terms of order dated 24th
+                          May, 2023, the L&T and RPL mutually agreed to further extend this
+                          deadline by six months until 31st August, 2023.
+21.
+In the meantime, vide judgment dated 30th May, 2023, in
+Shapoorji
+                          Pallonji Company Pvt. Ltd. v. Elena Power and Infrastructure Limited
+                          [O.M.P.(MISC.)(COMM
+.) 95/2023, decision dated 30th May, 2023], this
+                          Court held that extending the Tribunal's mandate requires the consent of all
+                          parties involved, as per
+Section 29A (3)
+of the 1996 Act. As per the L&T,
+                          RPL highlighted
+the said decision
+before the Arbitral Tribunal and filed an
+                          application on 17th July, 2023 arguing that the Tribunal's mandate had
+Signature Not Verified
+Digitally Signed          O.M.P.(MISC.)(COMM.) 426/2023 & connected matters                      Page 11 of 31
+By:RAHUL
+Signing Date:08.02.2024
+17:41:04
+expired on 1st March, 2023, due to lack of consent from Respondent No.
+                          1/IICL. The L&T responded to the said application, and the Tribunal
+                          concluded vide order dated 1st August, 2023 that its mandate expired on 28th
+                          February, 2023. Subsequently, L& T sought consent from IICL's liquidator
+                          for an extension to make an award, from 1st March, 2023, to 31st August,
+                          2023, but received no response, prompting the filing of this petition.
+22.    The Arbitral Tribunal made the following observations in its order
+                          dated 1st August 2023:
+"5. Having heard the Ld. Counsel for the Parties at
+                                      considerable length, the Tribunal is of the view that the
+                                      mandate of the Tribunal under
+Section 29A (1)
+of the
+                                      Act having expired on 28.02.2023, in the light of the
+                                      decision of the Hon'ble High Court of Delhi in
+Shapoorji Pallonji
+(supra), the present proceedings
+                                      cannot continue till Respondent No.1 gives its consent
+                                      in terms of
+Section 29A(3)
+of the Act, notwithstanding
+                                      the joint consent by the Claimant and Respondent No.2
+                                      as recorded in the proceedings of the Tribunal held on
+                                      24.05.2023, to extend the period specified in Sub-
+                                      Section (1) of 29A for a further period of six months.
+                                      Pertinently, it is the Claimant's own stand that
+                                      Respondent No.1 presently being in liquidation, can
+                                      participate and pursue the proceedings albeit through
+                                      the Liquidator.
+6. In that view of the matter, the Tribunal refrains
+                                      from passing any further orders in the matter, till
+                                      such time the proceedings get revived in accordance
+                                      with law."
+Hence the present petition seeking extension of the mandate of the Arbitral
+                          Tribunal.
+O.M.P.(MISC.)(COMM.) 20/2024
+23.    In this petition, the L&T was awarded the LoI dated 30th April, 2010
+Signature Not Verified
+Digitally Signed          O.M.P.(MISC.)(COMM.) 426/2023 & connected matters                        Page 12 of 31
+By:RAHUL
+Signing Date:08.02.2024
+17:41:04
+in respect of the Thermal Power Plant located at Sinnar, Nashik,
+                          Maharashtra, India (hereinafter, 'CHP Nashik Project'). The LoA is dated
+                          11th June, 2010 with respect to the said CHP Nashik Project. Further, in
+                          pursuance of LoI and LoA, two contracts were entered into between parties,
+                          i.e. a Supply Contract and a Service Contract dated 1st October, 2010.
+24.    Respondent No. 1 is Sinnar Thermal Power Limited (hereinafter,
+                          'STPL') (previously known as Rattan India Nasik Power Limited/RNPL and
+                          Indiabulls Realtech Limited/IRL), a company incorporated under the
+Indian
+                          Companies Act, 1956
+, with its registered office in New Delhi. Respondent
+                          No. 2 is RPL. L&T was contracted to supply, store, and commission the
+                          Coal Handling Plant, including all related accessories and equipment
+                          necessary for the operation of the Thermal Power Plant. This involved the
+                          design, engineering, procurement, construction, and commissioning
+                          activities to bring the plant to operational status.
+25.    According to L&T, in due course of the project, the STPL and RPL
+                          are stated to have failed to comply with the terms of the contracts. It is stated
+                          that only 2 out 5 units of the Thermal Power Plant have been completed yet.
+                          The petition also states that due to operational issues, which the STPL has
+                          acknowledged and for which extensions of time were granted, the L&T
+                          managed to complete and hand over two out of five units of the Thermal
+                          Power Plant by 2015. However, the work fronts for the remaining units 3, 4,
+                          and 5 were not made available to L&T by January 2016. Thereafter, STPL is
+                          stated to have unilaterally revised the commissioning dates for these units to
+                          later dates in 2016 and 2017. Thereafter, in terms of the LoI and the LoA,
+                          payments were due to L&T, which were allegedly not paid by the
+                          Respondents-STPL and RPL, due to which L&T invoked the arbitration
+Signature Not Verified
+Digitally Signed          O.M.P.(MISC.)(COMM.) 426/2023 & connected matters                         Page 13 of 31
+By:RAHUL
+Signing Date:08.02.2024
+17:41:04
+clause on 12th March, 2020 in terms of Clause 11.0 of the General
+                          Conditions of Contact (hereinafter, 'GCC').
+26.    The Arbitral Tribunal was constituted on 22nd May, 2020, headed by a
+                          retired Supreme Court Judge and two retired Delhi High Court Judges.
+                          Arbitral proceedings commenced on 17th June, 2020. Respondent No. 2/RPL
+                          filed two applications, the first, dated 27th January, 2021, requesting deletion
+                          from the memo of parties, and the second, dated 19th June, 2021, under
+Section 16
+of the 1996 Act, seeking dismissal of the L&T's Statement of
+                          Claim against them. However, both applications were dismissed by the
+                          Arbitral Tribunal vide order dated 11th November, 2021.
+27.    In the arbitral proceedings, issues were framed on 19th June, 2021. On
+                          19th September, 2022, STPL, went into insolvency, and a moratorium was
+                          imposed under
+Section 14
+of the Insolvency and Bankruptcy Code, 2016 in
+                          the matter titled 'M/s. Shapoorji Pallonji & Co. Pvt. Ltd. v. M/s. Sinnar
+                          Thermal Power Limited, (IB)-2561/ND/2019. Vide e-mail dated 21st
+                          January, 2023 STPL, and RPL vide e-mail dated 28th January, 2023
+                          requested for sine die adjournment of proceedings. However, in response to
+                          STPL's e-mail, the Arbitral Tribunal vide order dated 24th January, 2023
+                          stated that arbitration would continue as scheduled with regards to RPL. In
+                          response to the RPL's e-mail, the Arbitral Tribunal vide order dated 31st
+                          January, 2023 stated that arbitration would continue as far RPL as is
+                          concerned.      As per L&T, no communication by L&T to the RP was
+                          warranted in view of email dated 21st January, 2023 filed by STPL. Further,
+                          due to the above two orders, no request was also made for revival of the
+                          arbitral proceedings.
+28.    According to the L&T, the original 12-month deadline for issuing an
+Signature Not Verified
+Digitally Signed          O.M.P.(MISC.)(COMM.) 426/2023 & connected matters                        Page 14 of 31
+By:RAHUL
+Signing Date:08.02.2024
+17:41:04
+arbitration award, as mandated by
+Section 29A(1)
+of the 1996 Act, was
+                          extended due to the order of the Supreme Court in Suo Moto Writ Petition
+                          (C) No. 3/2020, which excluded the period from 15th March, 2020, to 28th
+                          February, 2022. The said extension resulted in the new deadline expiring on
+                          28th February, 2023. L&T and RPL mutually agreed to further extend this
+                          deadline by six months until 31st August, 2023, as per the order of the
+                          Tribunal dated 21st February, 2023.
+29.    However, in the meantime, vide judgment dated 30th May, 2023, in
+Shapoorji Pallonji Company Pvt. Ltd. v. Elena Power and Infrastructure
+                          Limited [O.M.P.(MISC.)(COMM
+.) 95/2023, decision dated 30th May,
+                          2023], this Court held that extending the Tribunal's mandate requires the
+                          consent of all parties involved, as per
+Section 29A (3)
+of the 1996 Act. In
+                          terms of
+the said decision
+, L&T wrote a communication to the RP for the
+                          STPL on 25th September, 2023, requesting their consent for a six-month
+                          extension of the Arbitral Tribunal's mandate, from 1st March, 2023, to 31st
+                          August, 2023, as per
+Section 29A(3)
+of the 1996 Act. However, there has
+                          been no response from the RP of STPL to this request. Hence, L&T was
+                          constrained to file the present petition.
+O.M.P.(MISC.)(COMM.) 637/2023
+30.    In this petition, L&T was awarded the LoI dated 30th April, 2010 in
+                          respect of the Thermal Power Plant located at Nandgaon Peth, Amravati,
+                          Maharashtra, India (hereinafter, 'CHP Amravati Project'). The LoA is dated
+                          5th May, 2010 with respect to the said CHP Amravati Project. Further, in
+                          pursuance of LoI and LoA, two contracts were entered into between parties,
+                          i.e. a Supply Contract and a Service Contract dated 10th August, 2010.
+31.    Respondent No. 1 is Elena Power and Infrastructure Limited
+Signature Not Verified
+Digitally Signed          O.M.P.(MISC.)(COMM.) 426/2023 & connected matters                        Page 15 of 31
+By:RAHUL
+Signing Date:08.02.2024
+17:41:04
+(hereinafter, 'EPIL') and Respondent No. 2 is RPL.
+32.    According to the L&T, the CHP Amravati Project was concluded and
+                          the plant was commissioned on 28th December, 2015. Thereafter, in terms of
+                          the LoI and the LoA, payments were due to the Petitioner, which were
+                          allegedly not paid by the Respondents, due to which L&T invoked the
+                          arbitration proceedings on 19th March, 2020 in terms of Clause 11.0 of the
+                          General Conditions of Contact (hereinafter, 'GCC').
+33.    The Arbitral Tribunal was constituted on 22nd May, 2020, headed by a
+                          retired Supreme Court Judge and two retired Delhi High Court Judges. The
+                          arbitral proceedings commenced on 17th June, 2020. During the arbitral
+                          proceedings, RPL filed an application under
+Section 16
+of the 1996 Act on
+                          16th October, 2020, seeking the dismissal of the claims, which the Arbitral
+                          Tribunal deferred vide order dated 4th February, 2022.
+34.    In the arbitral proceedings, issues were framed on 4th February, 2022.
+                          On 6th May, 2022, EPIL, went into insolvency, and a moratorium was
+                          imposed under
+Section 14
+of the Insolvency and Bankruptcy Code, 2016 in
+                          the matter titled 'M/s. Fidus Finance Pvt. Ltd. v. EPIL, (IB)-356/ND/2021.
+                          EPIL, vide application dated 20th September, 2022, requested for sine die
+                          adjournment of proceedings. However, in response to the EPIL's
+                          application, the Arbitral Tribunal vide order dated 17th October, 2022
+                          dismissed the said application and stated that arbitration will continue as
+                          scheduled with regards to RPL.
+35.    As per the L&T, the Arbitral Tribunal vide order dated 25th May,
+                          2022 duly intimated the RP about the arbitration proceedings. The RP
+                          appeared and informed its decision to not continue with arbitration
+                          proceedings on 1st September, 2022, although the RP was consistently
+Signature Not Verified
+Digitally Signed          O.M.P.(MISC.)(COMM.) 426/2023 & connected matters                     Page 16 of 31
+By:RAHUL
+Signing Date:08.02.2024
+17:41:04
+communicating with the Petitioner seeking extension of the bank guarantees.
+36.    In view of the above, no such application was required by the L&T as
+                          the proceedings continued qua RPL in terms of order of Arbitral Tribunal
+                          dated 17th October, 2022.
+37.    According to the L&T, the original 12-month deadline for issuing an
+                          arbitration award, as mandated by
+Section 29A(1)
+of the 1996 Act, was
+                          extended due to the order of the Supreme Court in Suo Moto Writ Petition
+                          (C) No. 3/2020, which excluded the period from 15th March, 2020, to 28th
+                          February, 2022. The said extension resulted in the new deadline expiring on
+                          28th February, 2023. L&T and RPL mutually agreed to further extend this
+                          deadline by six months until 31st August, 2023, as per the order of the
+                          Tribunal dated 20th February, 2023.
+38.    However, vide judgment dated 30th May, 2023, in
+Shapoorji Pallonji
+                          Company Pvt. Ltd. v. Elena Power and Infrastructure Limited
+                          [O.M.P.(MISC.)(COMM
+.) 95/2023, decision dated 30th May, 2023], this
+                          Court held that extending the Tribunal's mandate requires the consent of all
+                          parties involved, as per
+Section 29A (3)
+of the 1996 Act.
+39.    As per the L&T, RPL highlighted said decision before the Arbitral
+                          Tribunal and filed an application dated 20th July, 2023 arguing that the
+                          Tribunal's mandate had expired on 1st March, 2023, due to the lack of
+                          consent from Respondent No. 1/EPIL. Thus, L&T sent a letter on 19th
+                          August, 2023, to the Liquidator of EPIL, requesting their participation in the
+                          arbitration proceedings and seeking their consent to extend the mandate of
+                          the Arbitral Tribunal for an additional six months, from 1st March, 2023, to
+                          31st August, 2023, in accordance with
+Section 29A(3)
+of the 1996 Act.
+                          EPIL, through its Liquidator, responded on 28th August, 2023, indicating
+Signature Not Verified
+Digitally Signed          O.M.P.(MISC.)(COMM.) 426/2023 & connected matters                      Page 17 of 31
+By:RAHUL
+Signing Date:08.02.2024
+17:41:04
+that the request to extend the arbitration award period was under
+consideration. Additionally, on the same date, EPIL mentioned that they
+                          were awaiting further instructions, thus, leading the Arbitral Tribunal to
+                          adjourn the case sine die until the Court could decide on the mandate
+                          extension.
+40.    As per the petition, the Liquidator for EPIL has not provided consent
+                          for an additional extension of the Arbitral Tribunal's mandate as required by
+Section 29A(3)
+of the 1996 Act. With the extended mandate having expired
+                          on 31st August, 2023, the Petitioner has now filed the present petition under
+Section 29A(4)
+of the 1996 Act, is now seeking extension of the mandate.
+                          Submissions:
+41.    Mr. J. P. Singh, ld. Senior Counsel appearing for L&T submits that
+                          the scheme of
+Section 29A (4)
+of the 1996 Act does not require the consent
+                          of all parties for the Court to extend the mandate of the Arbitral Tribunal. In
+                          O.M.P.(MISC.) (COMM.) 637/2023, since L&T has sent a communication,
+                          the Liquidator is well aware of the proceedings before the Arbitral Tribunal
+                          and has sought extension of the bank guarantees. However, the Liquidator
+                          has chosen not to appear or pursue EPIL's counterclaim.
+42.    In O.M.P.(MISC.)(COMM.) 20/2024, insofar as the Respondent
+                          No.2/RPL is concerned, RPL is a group company of STPL, and the said
+                          projects belong fully to its owned subsidiary, namely, STPL.
+43.
+In all the four petitions, ld. Senior Counsel submits that the decision
+                          followed by the Arbitral Tribunal i.e. in
+Shapoorji Pallonji
+(supra), the ld.
+                          Single Judge has taken a view that unless consent is given by all parties to
+                          the arbitration, under
+Section 29A (3)
+of the 1996 Act, resort to
+Section 29A
+                          (4)
+of the 1996 Act cannot be taken by the parties.
+Signature Not Verified
+Digitally Signed          O.M.P.(MISC.)(COMM.) 426/2023 & connected matters                       Page 18 of 31
+By:RAHUL
+Signing Date:08.02.2024
+17:41:04
+44.    For this submission, he highlights an earlier decision of another ld.
+                          Single Judge in
+Wadia Techno-Engineering Services Limited v. Director
+                          General of Married Accommodation Project
+(2023 SCC OnLine Del
+                          2990), where a contrary view was taken. In terms of
+the said decision
+,
+Section 29A (4)
+of the 1996 Act does not require the consent of parties for
+                          extension of the mandate of the Arbitrator. Both the decisions are placed
+                          before the Court.
+45.    On behalf of the Respondents, Mr. Rajat Navet, ld. Counsel submits
+                          that the Respondent No.1 in all the four petitions, ought to give consent
+                          their. In O.M.P.(MISC.)(COMM.) 20/2024 and O.M.P.(MISC.)(COMM.)
+                          426/2023, currently, the Nashik power plant itself is not functional. He
+                          further submits that Respondent No.1 having not given consent, the Arbitral
+                          Tribunal's mandate ought not to be extended.
+46.    Mr. Utkarsh Singh, ld. Counsel appearing in O.M.P.(MISC.)
+                          (COMM.)20/2024 submits that insofar as STPL is concerned, he is
+                          appearing for the IRP. The IRP was appointed vide the NCLT's order dated
+                          19th September, 2022. The same was stayed by the NCLAT on 26th
+                          September, 2022, but the appeal was dismissed on 19th January, 2024.
+                          Accordingly, the insolvency proceedings would now recommence.
+                          Appearing on behalf of Mr. Ashok Kumar, the Liquidator in O.M.P.(MISC.)
+                          (COMM.) 637/2023, the ld. Counsel submits that the Liquidator has no
+                          objection for extension of the mandate of the Arbitral Tribunal.
+                          Analysis and Conclusions
+47.    These petitions seek extension of the mandate of the Arbitral
+                          Tribunal, under
+Section 29A
+of the 1996 Act. The said provision is set out
+                          below for ready reference:
+Signature Not Verified
+Digitally Signed          O.M.P.(MISC.)(COMM.) 426/2023 & connected matters                    Page 19 of 31
+By:RAHUL
+Signing Date:08.02.2024
+17:41:04
+"29A. Time limit for arbitral award.--
+(1) The award in matters other than international
+                                          commercial arbitration shall be made by the
+                                          arbitral tribunal within a period of twelve months
+                                          from the date of completion of pleadings under sub-
+section (4) of
+section 23
+:
+Provided that the award in the matter of
+                                         international commercial arbitration may be made
+                                         as expeditiously as possible and endeavor may be
+                                         made to dispose of the matter within a period of
+                                         twelve months from the date of completion of
+                                         pleadings under sub-section (4) of
+section 23
+.
+                                         (2) If the award is made within a period of six
+                                         months from the date the arbitral tribunal enters
+                                         upon the reference, the arbitral tribunal shall be
+                                         entitled to receive such amount of additional fees as
+                                         the parties may agree.
+(3) The parties may, by consent, extend the
+                                         period specified in sub-section (1) for making award
+                                         for a further period not exceeding six months.
+                                         (4) If the award is not made within the period
+                                         specified in sub-section (1) or the extended period
+                                         specified under sub-section (3), the mandate of the
+                                         arbitrator(s) shall terminate unless the Court has,
+                                         either prior to or after the expiry of the period so
+                                         specified, extended the period:
+Provided that while extending the period under this
+                                         sub-section, if the Court finds that the proceedings
+                                         have been delayed for the reasons attributable to the
+                                         arbitral tribunal, then, it may order reduction of fees
+                                         of arbitrator(s) by not exceeding five per cent. for
+                                         each month of such delay.
+Provided further that where an application under
+                                         sub-section (5) is pending, the mandate of the
+                                         arbitrator shall continue till the disposal of the said
+                                         application:
+Provided also that the arbitrator shall be given an
+                                         opportunity of being heard before the fees is
+Signature Not Verified
+Digitally Signed          O.M.P.(MISC.)(COMM.) 426/2023 & connected matters                        Page 20 of 31
+By:RAHUL
+Signing Date:08.02.2024
+17:41:04
+reduced.
+(5) The extension of period referred to in sub-
+section (4) may be on the application of any of the
+                                         parties and may be granted only for sufficient cause
+                                         and on such terms and conditions as may be
+                                         imposed by the Court.
+(6) While extending the period referred to in sub-
+                                      section (4), it shall be open to the Court to substitute
+                                      one or all of the arbitrators and if one or all of the
+                                      arbitrators are substituted, the arbitral proceedings
+                                      shall continue from the stage already reached and on
+                                      the basis of the evidence and material already on
+                                      record, and the arbitrator(s) appointed under this
+                                      section shall be deemed to have received the said
+                                      evidence and material.
+(7)      In the event of arbitrator(s) being appointed
+                                      under this section, the arbitral tribunal thus
+                                      reconstituted shall be deemed to be in continuation of
+                                      the previously appointed arbitral tribunal.
+(8)      It shall be open to the Court to impose actual
+                                      or exemplary costs upon any of the parties under this
+                                      section.
+(9)      An application filed under sub-section (5)
+                                      shall be disposed of by the Court as expeditiously as
+                                      possible and endeavour shall be made to dispose of the
+                                      matter within a period of sixty days from the date of
+                                      service of notice on the opposite party."
+48.    The Court has perused the two decisions placed by the Petitioner-
+                          L&T. In
+Wadia Techno-Engineering Services Limited
+(supra) the ld.
+                          Single Judge has held as under:
+"2.1     On the interpretation of the aforesaid
+                                      provision, Mr. Mishra submitted that the requirement
+                                      of consent of the parties, as expressed in
+Section 29A
+                                      (3)
+of the Act, is also implicit in
+Section 29A (4)
+and
+                                      (5) of the Act. He submitted that the present petitions
+                                      are not maintainable on the ground that the
+Signature Not Verified
+Digitally Signed          O.M.P.(MISC.)(COMM.) 426/2023 & connected matters                      Page 21 of 31
+By:RAHUL
+Signing Date:08.02.2024
+17:41:04
+respondents have not consented to the extension, which
+                                      must be treated as a pre-condition for extension of
+                                      mandate even under
+Section 29A (4)
+of the Act. Mr.
+                                      Mishra argued that
+Section 29A (4)
+and
+29A (5)
+the
+                                      Act do not expressly exclude the requirement of
+                                      consent of the parties.
+22.       I find the aforesaid argument to be wholly
+                                      untenable.
+Section 29A (3)
+of the Act empowers the
+                                      parties to extend the mandate of the tribunal by
+                                      consent for a maximum period of six months without
+                                      recourse to the Court.
+Section 29A (4)
+and
+29A (5)
+of
+                                      the Act, read together, empower the Court to do so for
+                                      sufficient cause, on an application of any of the
+                                      parties, when the period specified in sub-section (1)
+                                      or the extended period specified in sub-section (3)
+                                      lapses. The plain words of the provision are clear-the
+                                      power is available in both situations i.e. when the
+                                      consensual extension under
+Section 29A (3)
+of the
+                                      Act is granted, and when it is not. To read the
+                                      requirement of consent in
+Section 29A (4)
+and
+29A
+                                      (5)
+of the Act, as suggested by Mr. Mishra, would
+                                      make the requirement of sufficient cause irrelevant,
+                                      and adjudication by the Court unnecessary. Such a
+                                      construction does violence to the statutory provision,
+                                      and permits a recalcitrant litigant to bring
+                                      proceedings to an end, simply by withholding
+                                      consent."
+49.    The said decision was also followed by another ld. Single Judge of
+                          this Court in
+ATC Telecom Infrastructure Pvt. Ltd. v. Bharat Sanchar
+                          Nigam Ltd.
+[2023:DHC:8078].
+The Court, followed the decision in
+Wadia
+                          Techno-Engineering Services Limited
+(supra), and underscored that
+Section 29A
+of the 1996 Act aims to prescribe and regulate arbitral
+                          proceedings' timelines, offering flexibility for time extensions in appropriate
+Signature Not Verified
+Digitally Signed          O.M.P.(MISC.)(COMM.) 426/2023 & connected matters                       Page 22 of 31
+By:RAHUL
+Signing Date:08.02.2024
+17:41:04
+cases by either the parties or the Court, especially under
+Section 29A (4)
+of
+                          the 1996 Act. Consequently, the Court clarified that under
+Section 29A(4)
+of
+                          the 1996 Act, the Court has the authority to decide on the termination or
+                          continuation of the Arbitrator(s)' mandate "either prior or after the expiry"
+of the specified period. This means that a petition for an extension under
+Section 29A (4)
+of the 1996 Act may be filed after the period specified
+                          under
+Sections 29A(1)
+or 29A(3) of the 1996 Act has expired, as the
+                          provision specifically empowers the Court to grant such an extension,
+                          contradicting any interpretation that a petition must be filed only before the
+                          expiry of the specified period. The relevant observations of the ld. Single
+                          Judge are as follows:
+"9. The issue as to whether this Court has jurisdiction to
+                                      entertain a petition under
+Section 29A(4)
+after expiration
+                                      of the period under
+Section 29A(1)
+and/or 29A(3) of the
+                                      A&C Act has been the subject matter of prior
+                                      consideration by this Court.
+In the regard, reference is
+                                      apposite to the judgement of this court in
+Wadia Techno-
+                                      Engineering Services Ltd. v. Director General of
+                                      Married Accommodation Project
+, 2023 SCC OnLine Del
+                                      2990, wherein it has been specifically held as under:-
+                                      ....
+14. The judgment of this Court in
+Wadia Techno-
+                                      Engineering Services
+(supra) was sought to be
+                                      distinguished in Rohan Builders (supra) by observing
+                                      that
+Wadia Techno-Engineering Services
+(supra) "did
+                                      not involve any issue on the significance of the word
+                                      extend/extension/extending as used in
+section 29-A
+."
+15. Having carefully considered the judgment of the
+                                      Calcutta High Court in Rohan Builders (supra), I am
+                                      unable to concur with the reasoning contained therein
+                                      and the conclusion drawn in the said judgment. The
+                                      reasons are enumerated hereunder.
+16. No doubt, the purpose of
+Section 29A
+of the A&C
+                                      Act is to prescribe and regulate the timelines for
+Signature Not Verified
+Digitally Signed          O.M.P.(MISC.)(COMM.) 426/2023 & connected matters                        Page 23 of 31
+By:RAHUL
+Signing Date:08.02.2024
+17:41:04
+completion of the arbitral proceedings; however, a
+                                      perusal of
+Section 29A
+of the A&C Act itself makes it
+                                      clear that it does not contemplate any inflexible outer
+                                      deadline for completion of arbitral proceedings, and
+                                      affords flexibility to the contracting parties, and also to
+                                      the Court for extension of the time period in
+                                      appropriate cases. The purport of
+Section 29A
+of the
+                                      A&C Act was clearly not to tie the hands of the parties
+                                      or the court, and prevent extension of time even where
+                                      warranted, simply because the petition under
+Section
+                                      29A(4)
+of the A&C Act came to be filed a few days after
+                                      expiration of the deadline contemplated under
+Section
+                                      29A(1)
+or
+Section 29A(3)
+of the A&C Act. Had it been
+                                      intended by the legislature to provide for a blanket
+                                      prohibition on extension of time after the expiration of
+                                      the period contemplated under
+Section 29A(1)
+or
+Section 29A(3)
+of the A&C Act (unless a petition under
+Section 29A(4)
+of the A&C Act was filed prior to expiry
+                                      of the said period), nothing would have been easier
+                                      than to say so.
+18. In the opinion of this Court, it would not be apposite
+                                      to selectively focus on one aspect of the report of the Law
+                                      Commission [viz. suspension of arbitral proceedings]
+                                      and to draw a conclusion that since
+Section 29A(4)
+of the
+                                      A&C Act, as actually engrafted does not contemplate any
+                                      „suspension‟ but rather „termination‟ of mandate upon
+                                      expiry of the prescribed timeline, it would, therefore, no
+                                      longer be possible for any extension to be granted after
+                                      expiry of the prescribed period, even with the consent of
+                                      the parties. To so conclude would tantamount to
+                                      overlooking/nullifying the conscious departure in the
+                                      statutory provisions as actually framed, vis-à-vis the
+                                      recommendation/s of the Law Commission.
+...
+23. Thus, under
+Section 29A(4)
+of the A&C Act, the
+                                      termination of the mandate of the arbitrator(s) is
+                                      subject to the decision of the Court which may be
+                                      "either prior or after the expiry" of the specified period.
+                                      The Court would take a suitable decision upon a
+                                      petition under
+Section 29A(4)
+of the A&C Act being
+Signature Not Verified
+Digitally Signed          O.M.P.(MISC.)(COMM.) 426/2023 & connected matters                         Page 24 of 31
+By:RAHUL
+Signing Date:08.02.2024
+17:41:04
+filed. Such a petition can be filed either before expiry of
+                                      the period referred to under
+Section 29A(1)
+or
+Section
+                                      29A(3)
+of the A&C Act or even thereafter. When the
+                                      Court has been specifically empowered to grant the
+                                      requisite extension even after expiry of the specified
+                                      period, it would not be apposite to read a proscription in
+                                      the statutory provision to the effect that a petition under
+Section 29A(4)
+of the A&C Act [seeking extension of
+                                      time] must be filed before expiry of the specified period
+                                      and not thereafter. Such a proscription simply does not
+                                      exist in the statute. On the contrary, as already noticed,
+                                      the court has been empowered to grant an extension
+                                      even after expiry of the specified period."
+50.
+In
+H. P Singh v. G. M. Northern Railways
+(2023 SCC OnLine J&K
+                          1255), a petition for extension of the period for delivering an arbitration
+                          award under
+Section 29A(4)
+of the 1996 Act was filed, following the expiry
+                          of the initial deadline. Vide order dated 4th March 4, 2021, the Court
+                          appointed an Arbitrator to resolve disputes between the involved parties.
+                          The arbitration was expected to conclude within twelve months from the
+                          completion of pleadings, with a possible six-month extension by mutual
+                          consent, which did indeed occur, but expired in July 2023 without an award
+                          being made. The Respondents opposed the application, arguing that the
+                          same was not maintainable, since it was filed after the award period expired.
+                          The High Court of Jammu and Kashmir and Ladakh observed that
+Section
+                          29A(4)
+of the 1996 Act provides the Court with the authority to extend the
+                          mandate, regardless of whether the parties have already consented to an
+                          extension of up to six months. This judicial power to extend the arbitration
+                          period beyond the initial or consensually extended period is exclusive to the
+                          Court and cannot be exercised by the parties themselves. The relevant
+                          observations are as under:
+Signature Not Verified
+Digitally Signed          O.M.P.(MISC.)(COMM.) 426/2023 & connected matters                         Page 25 of 31
+By:RAHUL
+Signing Date:08.02.2024
+17:41:04
+"29.      The other method of extension of time is by an
+                                      order passed by the Court as contemplated under Sub-
+                                      section (4), of which we are directly concerned with.
+                                      The intervention of Court for extension of time as
+                                      mentioned under Sub-section (4) can be done whether
+                                      the time had been already extended by the parties by
+                                      consent or not. Even if, the time limit had been already
+                                      extended by the consent of parties for further six months,
+                                      the Court can still extend the period on an application
+                                      filed by either of the parties. This power to extend the
+                                      time limit after the original time limit has been extended
+                                      by consent of parties, however, is not available to the
+                                      parties. It is available only to the Court. The Legislature
+                                      though conferred the power to extend the time period for
+                                      six months under Sub-section (3) of
+Section 29A
+of the
+                                      Act to the parties by consent, did not deem it fit to confer
+                                      the power to extend, thereafter, to the parties. The power
+                                      has been conferred only to the Court. Once the power is
+                                      conferred to the Court for extension of time, obviously, it
+                                      would require application of judicial mind which an
+                                      attribute of a Court and not required nor contemplated
+                                      when the extension of time is made by the parties by
+                                      consent.
+30. The inference, therefore, is clear that extension of
+                                      time by the Court, as contemplated under Sub-Section
+                                      (4) of
+Section 29A
+of the Act, can be done by
+                                      application of judicial mind, which invariably would
+                                      require that the Court has to be satisfied with the
+                                      sufficiency of cause for extension, as also clearly
+                                      mentioned in Sub-
+Section 5
+of
+Section 29A
+of the Act,
+                                      for which purpose the Court can impose such terms and
+                                      conditions, as it may deem fit, and, also impose costs, if
+                                      necessary. The Court can also impose certain
+                                      conditions even on the arbitrator, if the delay is
+                                      attributable to him."
+51.    On the above aspect, the Kerala High Court in
+Hiran Valiiyakkil Lal
+                          v. Vineeth M.V.
+, (2023 SCC Online Ker 5151) observed as under:
+Signature Not Verified
+Digitally Signed          O.M.P.(MISC.)(COMM.) 426/2023 & connected matters                          Page 26 of 31
+By:RAHUL
+Signing Date:08.02.2024
+17:41:04
+"12. According to Sri. Shaji, the mandate of the
+                                      Arbitrator can be extended by Court under sub-section
+                                      (4) only in cases where the period for passing the award
+                                      by the arbitral tribunal is extended for a period not
+                                      exceeding six months by the parties, by consent, as
+                                      provided under subsection (3). I cannot agree to this
+                                      argument. Sub-section (4) of
+Section 29A
+deals with
+                                      cases where the award is not made within a period of
+                                      twelve months from the date of the completion of the
+                                      pleadings and it provides that, if the award is not made
+                                      within the period specified in subsection (1), the
+                                      mandate of the Arbitrator shall terminate unless the
+                                      Court has, either prior to or after the expiry of the
+                                      period so specified, extended the period. The said sub-
+section with the use of the conjunction "or" also applies
+                                      in cases where the award is not made within the
+                                      extended period not exceeding six months specified in
+                                      sub-section (3). It is not as if it applies only to cases
+                                      where the period is extended under sub-section (3). In
+                                      the case at hand, the period of twelve months from the
+                                      date of the completion of the pleadings within which time
+                                      the Arbitrator has to make an award is not extended by
+                                      the parties, by consent. Therefore, the mandate of the
+                                      Arbitrator stands terminated on expiry of the period of
+                                      twelve months from the date of completion of pleadings.
+                                      However, the sub-section (4) provides that the Court is
+                                      empowered to extend the period for making the award
+                                      either prior to or after the expiry of the said period.
+                                      Sub-section (5) provides that such extension of period
+                                      may be on the application of any of the parties and may
+                                      be granted only for sufficient cause and on such terms
+                                      and conditions as may be imposed by the Court. Subject
+                                      to the above, the time limit specified for arbitral award
+                                      can be extended by Court."
+52.
+In
+Suryadev Alloys and Power Pvt. Ltd. v. Shri Govindaraja Textiles
+                          Pvt. Ltd.
+(2020 SCC OnLine Mad 7858), the Madras High Court discussed
+                          the entire law on
+Section 29A(4)
+of the 1996 Act, and observed as under:
+Signature Not Verified
+Digitally Signed          O.M.P.(MISC.)(COMM.) 426/2023 & connected matters                       Page 27 of 31
+By:RAHUL
+Signing Date:08.02.2024
+17:41:04
+"15. Let us now juxtapose this position with the
+                                      provisions contained in
+Section 29A
+which deals with the
+                                      time limit for making an award. For the above purpose,
+                                      the provisions of
+Section 29A(1)
+, (3), (4) and (5) may be
+                                      analysed and the following propositions arise :
+(a) That mandatorily an award has to be made within a
+                                      period of 12 months from the date on which the Arbitral
+                                      Tribunal enters upon the reference.
+(b) If the Arbitral Tribunal does not make the award
+                                      within the above stated period of One year, there are
+                                      two remedies available to the parties: -
+(i) The parties to the proceedings can by consent
+                                          extend the period by a furmer Six months and such
+                                          discretion should be exercised before the period of
+                                          One year specified in
+Section 29A(1)
+comes to an end.
+The fact that the consent has to be given by the parties
+                                          before the period specified in
+Section 29A(1)
+comes to
+                                          an end is evident from a reading of
+Section 29A(4)
+which lays down that at the end of the period of One
+                                          year, the mandate of the Arbitrator comes to an end.
+(ii) If the parties are unable to reach a
+                                          consensus/agreement on the extension, then before
+                                          or after the expiry of the period of One year, any one
+                                          of the party can move the Court for extension of the
+                                          period and in such circumstances, the Court can
+                                          extend the period even beyond the Six months as the
+                                          cap on extension for a period of Six months is
+                                          prescribed only when the parties by consent extend
+                                          the period for making the award as specified in
+Section 29A(3)
+.
+(c) If the Arbitral Tribunal is unable to make the award
+                                      after the period of One year specified in
+Section 29A(1)
+and the parties have not arrived at any agreement for
+                                      extending the period or where the parties have entered
+                                      into an agreement as provided in
+Section 29A(3)
+and
+                                      still the Arbitral Tribunal is unable to make an award,
+                                      the parties may either before or after the period
+                                      specified in
+Section 29A (1)
+or the extended period
+                                      specified in
+Section 29A(3)
+move the Court for an
+                                      extension.
+Signature Not Verified
+Digitally Signed          O.M.P.(MISC.)(COMM.) 426/2023 & connected matters                          Page 28 of 31
+By:RAHUL
+Signing Date:08.02.2024
+17:41:04
+(d) The above extension would be granted by the Court:
+(i) On an application by any of the parties,
+(ii) On sufficient cause being shown; and
+(iii) On such terms and conditions as the Court may
+                                         impose.
+16. It is therefore, clear that unlike the provision of
+Section 28(1)
+of the 1940, Act which gave wide powers to
+                                      the Court to enlarge the time for making an award even
+                                      after the expiry of the time for making the award or even
+                                      after the award has been made, the 1996 Act has
+                                      curtailed these powers and restricted the extension only
+                                      within the provisions of
+Section 29A(3)
+and
+29A(4)
+which has been elaborated in para 12 supra. A reading
+                                      of which clearly implies that it is only the Court that
+                                      can extend the period for making of the award after the
+                                      expiry of the One year period under
+Section 29A(1)
+or
+                                      the extended period under
+Section 29A(3)
+. However,
+                                      even the Court cannot ratify an award ex post facto by
+                                      extending the period in a petition filed under
+Section 34
+by an aggrieved party."
+53.      Unfortunately, the above decisions do not appear to have been cited
+                          before the Co-ordinate Bench dealing with
+Shapoorji Pallonji & Co. Pvt.
+                          Ltd.
+(supra) and the Court therein has taken a view that only after
+Section
+                          29A(3)
+of the 1996 Act is exhausted, the parties can resort to
+Section 29A(4)
+of the 1996 Act.
+54.      A perusal of
+Section 29A(4)
+of the 1996 Act would show that it
+                          contemplates various situations as set out below:
+• Under
+Section 29A(1)
+of the 1996 Act, the award in all arbitration
+                                   matters except international commercial arbitration matters is to be
+                                   made within 12 months from the date of completion of pleadings
+                                   under sub-
+Section 23(4)
+.
+• Under
+Section 29A(2)
+of the 1996 Act, if the award is made within six
+Signature Not Verified
+Digitally Signed          O.M.P.(MISC.)(COMM.) 426/2023 & connected matters                       Page 29 of 31
+By:RAHUL
+Signing Date:08.02.2024
+17:41:04
+months, the Arbitral Tribunal is given an incentive of payment of
+                                   additional fee.
+Section 29A(2)
+of the 1996 Act would have no
+                                   application in the present case.
+• Under
+Section 29A(3)
+of the 1996 Act, the parties, by consent can
+                                   extend the period of 12 months by another six months i.e. the mandate
+                                   would be valid for a period of 18 months.
+•
+Section 29A(4)
+of the 1996 Act, however, contemplates two situations
+                                   i.e.,
+                                       ▪ where the mandate is not extended and the time of 12 months
+                                           has expired as per sub-section (1) or
+                                       ▪ where the mandate has been extended for a further six months
+                                           by consent of parties under sub-section (3).
+                          In either situation, the Court has the power to extend the mandate of the
+                          Arbitral Tribunal. The consent of parties is only contemplated under
+Section
+                          29A (3)
+of the 1996 Act and not under
+Section 29A(4)
+of the 1996 Act.
+55.      There are multitudinal situations where parties may be unable to give
+                          consent for extension of the mandate as is evident even in the present case
+                          for example, wherein one of the parties is under liquidation or in insolvency
+                          proceedings. The Arbitral Tribunal has already taken a view that the
+                          proceedings can continue against Respondent No.2/RPL and as observed
+                          earlier, the said order has not been challenged. Under such circumstances,
+                          the Court is not powerless to extend the mandate of the Arbitral Tribunal.
+                          Since the proceedings were ongoing against Respondent No.2/RPL at the
+                          time when the mandate expired, mere non-giving of the consent by the
+                          Liquidator or the IRP/RP cannot render the entire proceedings before the
+                          Tribunal as null and void or cannot be rendered infructuous.
+Signature Not Verified
+Digitally Signed          O.M.P.(MISC.)(COMM.) 426/2023 & connected matters                      Page 30 of 31
+By:RAHUL
+Signing Date:08.02.2024
+17:41:04
+56.    Further, as submitted by the Liquidator in O.M.P.(MISC.) (COMM.)
+                          637/2023, the consent has already been given to the extension of the
+                          mandate of the Arbitral Tribunal. Thus, in O.M.P.(MISC.) (COMM.)
+                          637/2023, there is no impediment in extending the mandate of the Arbitral
+                          Tribunal.
+57.    Arbitral proceedings in the present case involve enormous
+                          commercial stakes for parties and for whatever reasons, the IRP, or RP may
+                          not be giving consent. The power of the Court under
+Section 29A(4)
+of the
+                          1996 Act under these circumstances cannot be questioned or doubted as the
+                          Court has the power to extend the mandate of the Arbitral Tribunal for
+                          sufficient cause, if the facts require such a decision to be taken.
+58.    In the facts and circumstances of these cases, this Court has no doubt
+                          that the Arbitral Tribunal's mandate in all the four petitions deserves to be
+                          extended as the proceedings are at an advanced stage, either at the stage of
+                          evidence or final arguments. In the facts and circumstances of these cases,
+                          the Arbitral Tribunal's mandate is extended from the date when the mandate
+                          had expired till 31st December, 2024.
+59.    All petitions are disposed of. All pending applications are also
+                          disposed of.
+PRATHIBA M. SINGH
+                                                                                     JUDGE
+                          FEBRUARY 02, 2024
+                          Rahul/dn
+                          (corrected & released on 8th February, 2024)
+Signature Not Verified
+Digitally Signed          O.M.P.(MISC.)(COMM.) 426/2023 & connected matters                     Page 31 of 31
+By:RAHUL
+Signing Date:08.02.2024
+17:41:04

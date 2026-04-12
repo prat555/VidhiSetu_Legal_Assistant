@@ -1,0 +1,1058 @@
+Title: Search
+Court: High Court in the case of
+Date: 20 of 1967
+Citation: citations: [1988]25ITD1(MAD)
+Source: https://indiankanoon.org/doc/1532521/
+
+[Cites
+75
+, Cited by
+5
+]
+Income Tax Appellate Tribunal - Madras
+H.F. Craig Harvey vs Third Income-Tax Officer on 22 December, 1987
+Equivalent citations: [1988]25ITD1(MAD)
+ORDER
+D.S. Meenakshisundaram, Judicial Member
+1. These two appeals, one filed by the assessee and the other by the department, arise out of the income-tax assessment of Mr. H.P. Craig Harvey, the assessee herein, who is a non-resident individual. The assessment year is 1978-79, for which the previous year ended on 5-4-1978. For this year, the assessee declared a dividend income of Rs. 1,93,654, interest income of Rs. 2,187 and long-term capital gains on sale of shares amounting to Rs. 54.599.
+2. In the final assessment order passed under Section 143(3) read with
+Section 144B
+of the Income-tax Act, 1961 on 20-7-1981, the Income-tax Officer accepted the dividend income of Rs. 1,93,654 and computed the interest income of the assessee at Rs. 2,238. However, in regard to the long-term capital gains on sale of shares, the Income-tax Officer determined such long-term capital gains as Rs. 4,67,441, as against the assessee's figure of Rs. 54,599.
+3. The Income-tax Officer found that during the previous year the assessee sold 1,83,154 shares in Madura Coats Ltd. for Rs. 12,82,078 at Rs. 7 per share, as fixed by the Controller of Capital Issues and that after deducting the expenses the net sale consideration amounted to Rs. 12,63,763. He further found that the shares sold by the assessee were originally part of the following shares :
+Old Madura Mills Co. Ltd. shares     Old A & F Harvey Ltd.
+3,000 shares held prior to 1-1-1964. shares 22,700 shares
+                                     held prior to 1-1-1964.
+638 bonus shares issued in 1966      11,350 shares (bonus
+(out of 3,000 bonus shares received  shares) issued in 1966.
+in 1966).
+6,000 shares (bonus shares) issued   7,883 shares purchased
+in 1969.                             in March, 1972.
+Total shares : 9,638. Total shares : 41,933.
+He further found that when these two companies, Madura Mills Co. Ltd. and A&F Harvey Ltd., were amalgamated to form a new company, Madura Coats Ltd., on 1-7-1974, the assessee got the following shares in Madura Coats Ltd. :
+"For 9,638 shares (for 5 shares 8 Madura
+Coats Ltd. shares)                    = 15,422
+For 41,933 shares (for every share 4
+Madura Coats Ltd. shares)             = 1,67,732
+                                      = 1,83,154 Madura Coats
+                                               Ltd. shares.
+The Income-tax Officer further found that it is these 1,83,154 shares in Madura Coats Ltd., which were sold by the assessee in their entirety during the year of account and that there was no dispute regarding the net sale consideration after expenses, namely, Rs. 12,63,763.
+4. After setting out the assessee's working for computation of longterm capital gains of Rs. 54,599 and after adverting to the decisions of the Supreme Court in
+CIT v. Dalmia Investment Co. Ltd.
+[1964] 52
+ITR 567, Shekhawati General Traders Ltd. v. ITO
+[1971] 82
+ITR 788, CIT v. Gold Mohore Investment Co. Ltd.
+[1969] 74
+ITR 62, CIT v. Gold Co. Ltd.
+[1970] 78 ITR 16 and of the Madras High Court in the case of
+Madura Mills Co. Ltd. v. CIT
+[1972] 86 ITR 467, the Income-tax Officer held that if capital gains were worked out as claimed by the assessee, namely taking for original holdings prior to 1-1-1964 the market value as on 1-1-1964 and bonus shares separately at average value, treating it as a separate new item of asset, there would be double counting of the value of the bonus shares already included in the cost of the original shares as on 1-1-1964. Hence he held that no value was to be taken as the cost of bonus shares, as the assessee had sold his entire holdings. He therefore proceeded to arrive at the cost of acquisition of the original shares held by the assessee in Madura Mills Co. Ltd. and in A & F Harvey Ltd. as on 1-1-1964 and recomputed the cost of acquisition of the assessee's holdings at Rs. 7,96,322. He did not take any separate cost for the bonus shares in the two companies, but held that the cost of these bonus shares was deemed to be included in the fair market value as on 1-1-1964, i.e., the average value for both the original shares and the bonus shares. On this basis, he arrived at the long-term capital gains at Rs. 4,67,441 by deducting a sum of Rs. 7,96,322 as the cost of acquisition from the net sale consideration of Rs. 12,63,763.
+5. The assessee preferred an appeal Objecting to this determination of long-term capital gains by the Income-tax Officer at Rs. 4,67,441 and contended that it should be determined at Rs. 54,599 only. The Commissioner of Income-tax (Appeals) set out in detail the assessee's working" as well as the Income-tax Officer's working of the cost of acquisition of the shares in question, as well as the computation of long-term capital gains by them and the assessee's contentions in extenso in paragraphs 4 to 9 of his order.
+6. The Commissioner (Appeals) held that he agreed with the computation of the cost of acquisition of the shares as worked out by the assessee as fa,r as the shares of old Madura Mills Co. Ltd. were concerned. He was of the opinion that the method adopted by the assessee was the correct method, that the assessee's method of valuation of the original shares and the bonus shares subsequently issued was supported by the decisions of the Supreme Court in
+Dalmia Investment Co. Ltd.
+'s case (
+supra), Shekhawati General Traders Ltd.
+'s case (
+supra), Gold Mohore Investment Co. Ltd.
+'s case '(
+supra) and Gold Co. Ltd.
+'s case (supra).
+He further held that the assessee's method of arriving at the cost of the original shares and the bonus shares was also supported by the decision of the Madras High Court in the case of
+Madura Mills Co. Ltd.
+(supra,) and the decision of the Gujarat High Court in the case of
+CIT v. Arvind Narottam Lalbhai Dalpatbhai Vada
+[1976] 105 ITR 378.
+He also relied on the decision of the Appellate Tribunal, Madras Bench-B in the case of ITO v, Papanasam Mills (Jo. Ltd. [IT Appeal No. 1652 (Mad.) of 1976-77, dated 31-8-1977] which approved the assessee's method of computation of cost. The Commissioner, therefore, held that the Income-tax Officer was not justified in taking the cost of bonus shares as "nil".
+7. Regarding the valuation of the 22,700 original shares held by the assessee in A & F Harvey Ltd. as on 1-1-1964, the Commissioner was of the opinion that the Income-tax Officer was justified in taking the average of break up value and yield value. He, however, held that the Income-tax Officer was not justified in capitalising the average profit of the company at a discount of 9 per cent by following the instructions issued by the Central Board of Direct Taxes in connection with wealth-tax assessments in Board's Instruction No. 2 (WT) dated 31-10-1967.
+The Commissioner agreed with the assessee that the Income-tax Officer should have followed the earlier circular of the Board in Circular No. 6D/WT/60 dated 8-8-1960 issued by the Board for wealth-tax purposes. He pointed out that this circular dated 8-8-1960 was in force as on 1-1-1964 and that according to this circular, the discount rate to be adopted by the officers was 6 per cent and not 9 per cent. On this basis, the Commissioner held that the average between the break up value and the yield value, according to his computation, amounted to Rs. 30.66 per share, as against the Income-tax Officer's computation of Rs. 24.48 per share. Thus, the Commissioner arrived at the fair market value of the 22,700 equity shares of A & F Harvey Ltd. as on 1-1-1964 at Rs. 6,95,982 and directed that this figure should be substituted for the assessee's figure of Rs. 8,15,384 and for the Income-tax Officer's figure of Rs. 5,55,696.
+8. In paragraph 14 of his order, the Commissioner agreed with the computation of the cost of acquisition of the bonus shares in A & F Harvey Ltd. Thus, the Commissioner held that the total cost of acquisition worked out by the assessee at Rs. 12,09,164 should be reduced by a sum of Rs. 1,19,402 and that this was the only change to be made in the assessee's computation.
+9. In paragraph 15 the Commissioner held that the long-term capital gains should be taken at Rs. 1,74,001 in the place of the assessee's figure of Rs. 54,599 and directed the Income-tax Officer to substitute the capital gain of Rs. 4,67,441 adopted by him in his assessment order with the figure of Rs. 1,74,001. He further refer-2 red to the observation of the Income-tax Officer that none of the decisions of the Supreme Court and the High Courts relied on by the assessee was on all fours with the facts of the instant case and held that he did not agree with this statement of the Income-tax Officer. He further held that the ratio of the decisions stated by the assesses squarely applied to the facts of the present case.
+10. The Commissioner further held that the statute itself recognises a "double benefit", if there is any, since the statute authorises an assessee to substitute the fair market value of an asset as on 1-1-1964 in the place of the actual cost of the assets acquired before 1-1-1964 and that whatever benefit is conferred by the statute to a citizen must be granted by the departmental officers. The Commissioner therefore held that the long-term capital gains should be taken at Rs. 1,74,001 and partly allowed the assessee's appeal.
+11. Both the assessee and the department feel aggrieved by this order of the Commissioner and. hence the present appeals by them to the Tribunal.
+12. In the departmental appeal, the revenue has raised the following additional ground of appeal on 16th December, 1986 
+ The learned Commissioner of Income-tax (Appeals) should have issued enhancement notice and enhanced the total amount of capital gains chargeable to tax holding that assessee is not entitled to substitute 1-1-1964 valuation as cost of acquisition in respect of sha,res held by the assessee in the amalgamating company.
+13. When the matter came up for hearing before the Division Bench, our learned brothers found that there was a direct conflict of decisions of two Benches of the Tribunal on the main issue raised in the present case. The assessee relied on the decision of the Appellate Tribunal, Madras Bench-C in the case of T.S. Srinivasan (HUF) v. ITO [IT Appeal Nos. 658, 739 and 740 (Mad.) of 1979, dated 29-2-1980] to contend that he is entitled to the option under
+Section 55(2)
+of the Income-tax Act to adopt the fair market value of the shares of the amalgamating company as on 1-1-1964 as the cost of acquisition of the shares for computing the capital gains.
+As against this, the revenue relied on the decision in the case of
+ITO v. Madura Coats Ltd.
+[1986] 19 ITD 384 decided by the Appellate Tribunal, Bombay Bench-A on 31st July, 1986, to contend that since the shares of the amalgamated company did not exist on 1-1-1964, the assessee could not have the option of valuing the shares as on that date.
+14. Apart from the aforesaid conflict of the two decisions of the Tribunal, our learned brothers found that there was another issue raised in these appeals with reference to the valuation of bonus shares. The contention of the assessee is that the cost of bonus shares having been arrived at by distributing the original cost of acquisition of the primary shares, the option to value the primary shares as on 1-1-1964 cannot affect the value of the bonus shares. On the other hand, the case of the revenue is that once the primary shares are valued as on 1-1-1964 at the option of the assessee, the bonus shares also should be valued on the same basis by distributing that value. The learned Members felt that since this issue is a substantial one which recurs often, they considered that this matter should also be decided by a Special Bench of the Tribunal. It is in these circumstances that they have formulated the following two questions for reference to the Special Bench :
+1. Whether, on the facts and in the circumstances of the case, the assessee is entitled to the option Under
+Section 55(2)
+to substitute the market value as on 1-1-1964 for the cost of acquisition in respect of shares held in an amalgamated company in pursuance of the amalgamation made after 1-1-1964 ?
+2. Whether, on the facts and in the circumstances of the case, the value of the bonus shares must be taken as the average of the value taken by substituting the market value as on 1-1-1964 Under
+Section 55(2)
+in respect of the primary shares ?
+15. We have heard Shri B.C. Mohanty. the learned departmental representative and Shri K.R. Ramamani, the learned counsel for the assessee. We have also heard Shri S. Swaminathan and Shri S. Padma,nabhan, the learned counsels for the interveners on the question of the valuation of bonus shares referred to in the second question formulated and referred to the Special Bench, set out above. We have carefully considered the rival submissions urged on both sides in the light of the authorities placed before us.
+16. In our view, the following are the issues which arise for our consideration in these two appeals :
+(i) Admission of the additional grounds of appeal raised by the revenue in the departmental appeal.
+(ii) Whether the option of substituting the fair market value of a capital asset as on 1-1-1964 under
+Section 55(2)(i)
+of the Income-tax Act is available to the present assessee in respect of the shares of the amalgamating companies, i.e., Madura Mills Ltd.. and A & F Harvey Ltd., which were in existence, as such on 1-1-1964. but in respect of which, subsequent to that date, the assessee received in exchange shares of the amalgamated company, i.e., Madura Coats Ltd. ?
+(iii) What is the cost of acquisition of the bonus shares in Madura Mills Co. Ltd. and A & F Harvey Ltd. to the assessee for the purpose of computing the long-term capital gains arising to the assessee ?
+(iv) What is the rate of capitalisation to be adopted, i.e., 6% or 9%, in valuing the original 22,700 shares held by the assessee in A & F Harvey Ltd. as on 1-1-1964 in the even of the option for adopting the fair market value as on 1-1-1964 being available ?
+(v) Whether it is permissible to take the average of the values arrived at on yield method and break up value method of shares, in respect of the valuation of the shares in A & F Harvey Ltd., referred to in item (iv) ?
+(vi) What is the relief, if any," to be allowed in the appeals and the extent of such relief ?
+17. First we shall consider the admissibility of the additional grounds of appeal raised by the revenue in its appeal. Shri B.C. Mohanty, the learned departmental representative, submitted that the objection raised in the additional grounds of appeal raised a pure question of law which arose on the facts already on record and that the department should be allowed to raise this ground, particularly in view of the decision of the Appellate Tribunal, Bombay Bench-A in
+Madura Coats Ltd.
+'s case (supra) which was, in favour of the revenue. He pointed out that this decision of the Tribunal involved the identical question relating to long-term capital gains arising on the sale of the shares of Madura Coats Ltd. held by another shareholder, namely J.P. Coats Ltd., which is an English company. He further submitted that the decision on the additional ground did not require any further investigation into fresh facts or additional evidence, but could be disposed of on the materials already on the record of the case. He also submitted that it is because of this additional ground only, the Division Bench felt that the matter has to be decided by a Special Bench. He therefore argued that the additional ground has already been admitted by the Division Bench when it referred this case to the Special Bench.
+18. Shri K.P. Ramamani, the learned counsel for the assessee, opposed these contentions and argued that the additional grounds sought to reopen settled position on facts on the basis of which the assessment has so far proceeded up to the second appellate stage. He pointed out that the departmental authorities, namely, the Income-tax Officer, the Inspecting Asstt. Commissioner and the Commissioner (Appeals) have all proceeded on the basis that the assessee was entitled to the statutory right of substituting the fair market value of the shares as on 1-1-1964 under
+Section 55(2) (i)
+of the Act and the entire dispute was confined only to the method of computing the cost of acquisition of the original shares and bonus shares in the amalgamating companies. He, therefore, argued that the revenue should not be allowed to raise an entirely new plea, which was never raised by the departmental authorities and which the assessee had no occasion to meet earlier. He further argued that the CIT (Appeals) had only followed the orders of the Appellate Tribunal, Madras Benches in similar cases, such as the case of T.S. Srinivasan (HUF) (supra) and other cases in T.V.S. group and hence there was no question of any controversy on this issue being raised by the CIT (Appeals) to justify the department's present additional ground of appeal, that he should have issued a notice of enhancement to the assessee. The learned counsel contended that the admission of the additional ground was not examined by the Division Bench, which felt that as there was a conflict of opinion on account of the two decisions referred to above, the matter should go before a Special Bench. He submitted that the Division Bench did not address itself to the question of admission of the additional ground, which raised an entirely new controversy for the first time before the Tribunal at the instance of the department.
+19. Shri Ramamani further argued that the attempt of the department in the present case would be setting up a bad precedent, as the revenue seeks to enhance the assessment by filing this additional ground of appeal. The learned counsel contended that what the Appellate Tribunal cannot do directly, namely enhancing the assessment, the department cannot seek to achieve it indirectly by filing an additional ground of appeal. He therefore submitted that the additional ground of appeal should not be admitted and that the revenue should be confined to the controversies raised by them in the original grounds of appeal filed by them in their appeal.
+20. The learned departmental representative in his reply submitted that the controversy in the present case related to the determination of the long-term capital gains derived by the assessee on the sale of shares in Madura Coats Ltd., as could be seen from para 4 of the appellate order of the Commissioner (Appeals) and that in determining this question the department and the assessee are entitled to raise all points bearing on this main issue, as both of them have come up on appeal to the Tribunal objecting to the decision of the CIT (Appeals). He argued that the department's objection in the additional ground of appeal could not be thrown out for the simple reason that it was not raised by them earlier either in the course of the assessment proceedings or before the CIT (Appeals). However, Shri Mohanty fairly stated that the additional ground was not happily worded, but that should not stand in the way of the department being allowed to raise this objection when all the facts and evidence relating to the question were already on record.
+21. We have already set out the additional ground filed by the department in paragraph 12 supra. As rightly stated by the learned departmental representative, the said additional ground is not happily worded. At the same time, it raises an important question of law as to the right of the assessee to substitute the fair market value of the shares as on. 1-1-1964 as his cost of acquisition in computing the long-term capital gains derived by him from the sale of the shares during the year under appeal. Apparently, this additional ground has been prompted by the decision of the Appellate Tribunal in the case of
+Madura Coats Ltd.
+(supra). That was a case of another shareholder by name J.P. Coats Ltd., an English company, who also received shares in Madura Coats Ltd., which was formed by the amalgamation of three companies, namely (1) A & P Harvey Ltd., (2) J.P. Coats (India) Ltd. and (3) Madura Mills Co. Ltd., on 1-7-1974. It cannot be disputed that all the facts for deciding the additional grounds of appeal are already on record and that it does not call for any further investigation into fresh facts and additional evidence.
+22. We are fully aware of the force of the objection of the learned counsel for the assessee that the Appellate Tribunal cannot do indirectly, what it cannot do directly. In effect the submission is that the Appellate Tribunal has no power of enhancement in income-tax cases and admission of the ground would be tantamount to exercising such powers of enhancement.
+In the additional ground as worded, the department has stated "the Commissioner of Income-tax should have issued enhancement notice and enhanced the capital gains chargeable to tax..." As far back as 1932 in
+CIT v. T. Namberumal Chetty & Sons
+[1933] 1 ITR 32 the Full Bench of the Madras High Court had occasion to consider the scope of what would constitute enhancement of an assessment and eventually it was observed by their Lordships :
+The Income-tax Commissioner in his Order of Reference is of the opinion that the enhancement referred to in
+Sections 31(3)
+and
+32(1)
+is an enhancement of the assessment and that it means an enhancement of the assessment as a whole and not an enhancement of a particular item of income in the assessment which does not result in the enhancement of the assessment as a whole. Income-tax, in his view, is one tax and not a collection of taxes on different items of income-that is obviously correct--and assessment to income-tax is one whole and not a group of assessments of different items of income. With that view I entirely agree. It cannot be correct that the computation of an income under each head set out in the
+Income-tax Act
+is itself an assessment. It is merely a computation of an item of an income or class or classes of income which go to make the whole and, when the whole has been arrived at, there is an assessment. In my opinion the view taken by the Income-tax Commissioner upon this point is the correct one.
+It is trite law an inter se adjustment of incomes computed under the different heads without an upward revision of total income or total tax does not amount to an enhancement of assessment.
+In this regard, the following extract from the judgment of the Madras High Court in
+Gowri Tile Works v. CIT
+[1957] 31 ITR 250 at 255 is illuminating :
+The assessee preferred an appeal to the Appellate Asstt. Commissioner before whom he contended that the sum. of Rs. 20,723 could not be included in the firm's income under
+Section 10(2)(vii)
+because admittedly the sale took place after the cessation of the business and there was no business carried on by the assessee during the year in which the assets were sold. On the terms of
+Section 10(2)(vii)
+this contention had to be upheld and it was so done. The Assistant Appellate Commissioner however rejected the claim of the assessee that the sale effected by the Commissioner came within the third proviso to Section 12B(1) and on this ground he computed the capital gains on the entire sum of Rs. 81,863 representing the entire difference between the written down value and the sale price. On further appeal to the Tribunal, this order of the Appellate Asstt. Commissioner was upheld. One of the points raised on behalf of the assessee before the Tribunal related to the power of the Appellate Assistant Commissioner to enhance the assessment under the head "Capital gains". This contention was rejected by the Tribunal and the first question referred to us seeks to raise this point. Learned counsel for the assessee however found that what the Appellate Asstt. Commissioner did was merely a re-adjustment and that therefore there could be no objection to his order on the ground of want of jurisdiction.
+Adverting to the powers of the Tribunal under the
+Income-tax Act
+, the Supreme Court in
+Hukumchand Mills Ltd. v. CIT
+[1967] 63 ITR 232 at 237 has observed :
+The word 'thereon' of course, restricts the jurisdiction of the Tribunal to the subject-matter of the appeal. The words 'pass such orders as the Tribunal thinks fit' include all the powers (except possibly the power of enhancement) which are conferred upon the Appellate Assistant Commissioner by
+Section 31
+of the Act. Consequently, the Tribunal has authority under this section to direct the Appellate Assistant Commissioner or the Income-tax Officer to hold a further enquiry and dispose of the case on the basis of such enquiry.
+(Emphasis supplied)
+ 
+
+If therefore the present case was one where the department was in substance contending for an enhancement of the assessment, we would not have brooked admission of the additional grounds,
+23.
+In the aforesaid background we proceed to examine what the ground in substance is. In
+N.P. Saraswathi Ammal v. CIT
+[1982] 138 ITR 19, their Lordships of the Madras High Court upheld the jurisdiction and the discretion of the Appellate Tribunal to entertain a new plea raised on behalf of the department, who was the respondent before the Appellate Tribunal in an appeal filed by the assessee.
+Their Lordships followed the decision of the Supreme Court in the case of
+Hukumchand Mills Ltd.
+(supra).
+Adverting to the decision of the Supreme Court in
+Hukumchand Mills Ltd.
+'s case (supra), their Lordships of the Madras High Court have held as follows at page 22 of the reports :
+We regard this decision of the Supreme Court as an authoritative ruling on the scope of the Tribunal's appellate jurisdiction generally and more particularly, as an enunciation of the power of the Tribunal to entertain a new plea put forward by the respondent to an appeal. The Supreme Court happened to render their decision while construing
+Sections 83(4)
+of the Indian IT Act, 1922. But the principle of the decision, in our opinion, governs the ambit of the Tribunal's jurisdiction even under the corresponding provisions of
+Sections 251(1)
+of the present
+IT Act, 1961
+. Both provisions, in terms, enjoin that the Tribunal, after hearing the parties to the appeal, "shall pass such orders thereon as it thinks fit". It was while construing these words and particularly the expression 'thereon', that the Supreme Court rendered their opinion that the Tribunal was not powerless to dispose of an appeal on the basis of a new point raised by the respondent to the appeal.
+Again, at page 23, after quoting from the earlier decision of the Madras High Court in
+CIT v. Madras Industrial Investment Corporation Ltd.
+[1980] 124 ITR 454, their Lordships further held as follows :
+We do not regard the last observation as a fetter on the Tribunal's jurisdiction to admit a new plea. For, the power to listen to a new contention and decide the appeal on that basis has been spelled out by the Supreme Court from the terms of the statute. The exercise of that power does not depend on the presence of any other factor, excepting that the new plea comes from a party to the appeal. Even in a case where fresh facts are called for to decide the new plea, the Tribunal would have jurisdiction to entertain that plea. How the Tribunal wishes to get at the relevant facts in order to decide the new point may be quite a different thing. The Tribunal may either remand the matter for the purpose, or proceed to investigate the facts themselves. In this part of the decision-making alone, there is scope for the play of the Tribunal's discretion. As to the very power to entertain a new plea, that is not to be ruled out, merely because a consideration thereof would call for further facts to be gone into. In Hukumchand Mills Ltd. decision [1967] 63 ITR 232, the Supreme Court laid down no fetter on the Tribunal's powers. That case, indeed, was a case where the new plea raised by the department before the Tribunal could not be considered without a further investigation into facts. Nevertheless, the Tribunal entertained the plea and remitted the case to the ITO for the ascertainment of the relevant facts. The Supreme Court, in their decision, upheld not only the Department's new plea, but also the Tribunal's order of remand based on the new plea.
+Their Lordships also referred to two decisions of the Bombay High Court in
+CIT v. Gilbert & Barker Mffg
+.
+Co. [1978] 111 ITR 529 an
+DM. Neterwalla v. CIT
+[1980] 122 ITR 880 and of the Delhi High Court in
+CIT v. Edward Keventer (Successors) (P
+.)
+Ltd. [1980] 123 ITR 200 and pointed out that though these decisions did not refer to the decision of the Supreme Court in
+Hukumchand Mills Ltd.
+'s case (supra), nevertheless they disclosed a consensus of judicial opinion on the amplitude of the Tribunal's appellate jurisdiction as including the power to entertain a new plea even if it is raised by a respondent to an appeal.
+In
+N.P. Saraswathi Animal
+'s case (supra), the department as a respondent raised a new plea before the Tribunal that the assessees were liable to be assessed in the status of a body of individuals even though they could not be treated as an association of persons. Their Lordships of the High Court pointed out that the Tribunal did not have to go in for fresh facts while entertaining the department's new plea in the said case and deciding it and that the Appellate Tribunal did so by applying the relevant statutory provisions to the facts already on record.
+24. Their Lordships of the Madras High Court again reiterated this legal position in
+CIT v. Indian Express (Madurai) (P
+.) Ltd. [1983] 140 ITR 705, wherein their Lordships held that the assessee was not precluded from raising a new contention and that the Tribunal was not precluded in examining and determining that contention merely on the score that it had not been put forward at the earliest stages of the proceedings in assessment and in the first appeal. The facts of this case discussed at page 710 would show that when the appeal was taken up for hearing by the Tribunal, the assessee filed an application to raise an additional ground of appeal, where it raised a plea that the sums of Rs. 4,56,810.14 and Rs. 55,657.69 which were provisions made in the relevant year towards gratuity liability should be deducted in the computation of its assessable business profits of the year. On behalf of the department, a preliminary objection was raised at the hearing to the effect that the Tribunal should not entertain this new plea by the assessee, since it has not been raised at any time earlier at any stage of the proceedings, either before the ITO or before the AAC. The Tribunal, however, overruled this preliminary objection to its jurisdiction and regarded the matter as one entirely within its discretion either to entertain or not to entertain. The Tribunal proceeded to observe that in the exercise of its discretion it was a fit case to allow the assessee to raise a new point in the appeal, but directed the case to be sent back to the Income-tax Officer for going into the factual and other considerations bearing on this new point. This decison of the Tribunal was challenged by the revenue before the High Court in the reference.
+While upholding the action of the Tribunal, their Lordships of the Madras High Court followed the three decisions of the Supreme Court in
+Hukumchand Mills Ltd.
+'s case (
+supra), CIT v. Mahalakshmi Textile Mills Ltd.
+[1967] 66
+ITR 710 and CIT v. S. Nelliappan
+[1967] 66 ITR 722. Their Lordships held that under Section 33(4) of the Indian Income-tax Act, 1.922, which corresponds to
+Section 254(1)
+of the Income-tax Act, 1961, the Appellate Tribunal is competent to pass such orders on the appeal as it thinks fit, that there is nothing in the
+Income-tax Act
+which restricts the Tribunal to a determination of the questions raised before the departmental authorities and that all questions, whether of law or of fact which relate to the assessment of the assessee may be raised before the Tribunal.
+25. While discussing the scope and ambit of a question of law arising out of the order of the Appellate Tribunal under
+Section 66(1)
+of the old
+Indian Income-tax Act
+of 1922, their Lordships of the Supreme Court have held as follows in
+CIT v. Scindia Steam Navigation Co. Ltd.
+[1961] 42 ITR 589 at 612 :
+Now a question of law might be a simple one, having its impact at one point, or it may be a complex one, trenching over an area with approaches leading to different points therein. Such a question might involve more than one aspect, requiring to be tackled from different standpoints. All that
+Section 66(1)
+requires is that the question of law which is referred to the court for decision and which the court is to decide must be the question which was in issue before the Tribunal. Where the question itself was under issue, there is no further limitation imposed by the section that the reference should be limited to those aspects of the question which had been argued before the Tribunal. It will be an over-refinement of the position to hold that each aspect of a question is itself a distinct question for the purpose of
+Section 66(1)
+of the Act. That was the view taken by this court in CIT v. Ogale Glass Works Ltd. and in Zorasier & Co. v. CIT,  and we agree with it. As the question on which the parties were at issue, which was referred to the court under Section 66(1) and decided by it under Section 66(5) is whether the sum of Rs. 9,26,532 is liable to be included in the taxable income of the respondents, the ground on which the respondents contested their liability before the High Court was one which was within the scope of the question and the High Court rightly entertained it.
+[Emphasis supplied]
+26. In the light of the aforesaid decisions of the Supreme Court and Madras High Court, we are of the view that the issue raised by the revenue by way of the additional grounds of appeal on the facts of the present case is only one aspect or facet of the question raised in the appeals, namely what is the true amount of capital gains to be taxed in the hands of the assessee having regard to all relevant statutory provisions on the sale of the shares held by him in Madura Coats Ltd. during the previous year. The issue raised by the revenue in the additional gounds of appeal is directly based on an order of the Appellate Tribunal in the case of
+Madura Coats Ltd.
+(supra) which was a case decided in favour of the revenue, on facts and circumstances similar to the facts and circumstances in the present appeals. They do not require any further investigation or enquiry into fresh facts and additional evidence, but can be disposed of on the materials already on record in the light of the relevant provisions of the Act and the case law bearing on the subject. We therefore consider that it would be perfectly in conformity with law and just and proper to consider the issue raised by the revenue in the additional grounds of appeal as one aspect of the case by way of an argument raised by the revenue in its appeal. We are, therefore, unable to agree with the objections raised by the assessee to the additional grounds filed by the revenue. We therefore entertain the plea raised by the revenue in its additional ground of appeal as touching upon one aspect of the question involved in the present appeals and proceed to dispose of the same on merits.
+27. This takes us to the second issue in the departmental appeal, which is as follows :
+Whether the option of substituting the fair maket value of a capital asset as on 1-1-1964 under
+Section 55(2)(i)
+of the Income-tax Act is available to the present assessee in respect of the shares of the amalgamating companies, i.e. Madura Mills Ltd. and A & F Harvey Ltd., which were in existence as such on 1-1-1964, but in respect of which, subsequent to that date, the assessee received in exchange shares of the amalgamated company, i.e., Madura Coats Ltd ?
+28. Shri B.C. Mohanty, the learned departmental representative, argued that the subject matter of transfer by the assessee in the present case was 1,83,154 Madura Coats shares, which he had acquired on 1-7-1974, that to arrive at the capital gains derived by the assessee on the transfer of these shares, the cost of acquisition of these shares would have to be deducted as required by
+Section 48(ii)
+of the Act and that the expression "the cost of acquisition of the capital asset" in
+Section 48(ii)
+should be given its ordinary and natural meaning only. He submitted that
+Section 55(2)
+of the Act defined cost of acquisition in relation to a capital asset with reference to certain specific modes of acquisition by an assessee and therefore the said provision of law would not be applicable to the facts of the present case, as the assessee became the owner of the shares sold by him., only on 1-7-1974. He contended that the decision of the Bombay Bench of the Appellate Tribunal in the case of
+Madura Coats Ltd.
+(supra) would directly apply to the facts of the present case, that in
+the said decision
+at page 388 the Appellate Tribunal had. considered the effect of
+Section 55(2)
+and held that the said provision would not apply to cases as the present one, as it was a special provision applicable to special circumstances specified therein. Shri Mohanty argued that if at all
+Section 55(2)
+could apply, only
+Section 55(2)(i)
+would be applicable, but this clause could not apply to the assessee's case as he became the owner of these shares in the amalgamated company on 1-7-1974 only. He therefore submitted that the option of substituting the fair market value of the shares as on 1-1-1964 as its cost of acquisition for the purposes of secs. 48 and 49 of the Act was not available to the assessee in the present case. Shri Mohanty submitted that this aspect of the matter was overlooked by the departmental authorities while making the assessment in. the present case and that the Commissioner (Appeals) ought to have taken note of this legal position which emerged on the facts of the present case and issued a notice of enhancement to determine the correct amount of capital gains derived by the assessee.
+29. Adverting to Clause (c) of Explanation (i) to
+Section 2(42A)
+of the Act the learned departmental representative submitted that it was a special provision defining a short-term capital asset and that this provision would not make the shares sold by the assessee as acquired by him prior to 1-7-1974. He further submitted that
+Section 49(2)
+was a deeming provision, that it created a legal fiction for the limited purpose of determining the cost of acquisition of the shares in the amalgamated company with reference to the cost of acquisition to him of the shares in the amalgamating companies. The learned departmental representative laid emphasis on the words "became the property" and "deemed to be the cost" in
+Section 49(2)
+and pointed out that the shares in the amalgamated company, namely Madura Coats Ltd., became the property of the assessee on 1-7-1974 only and the cost of acquisition of these shares should be determined with reference to the cost of acquisition of the shares in the two amalgamating companies, namely the cost of acquisition of the shares in Madura Mills Ltd. and A & F Harvey Ltd. According to Shri Mohanty, the fiction created by
+Section 49(2)
+stopped here and we should not carry it further to allow the option available under
+Section 55(2)(i)
+of the Act, as the said option is available only in respect of an asset which became the property of the assessee before 1st January 1964. Since the shares sold by the assessee became his property long after 1-1-1964, i.e., on 1-7-1974, he is not entitled to the benefit of the provisions contained in
+Section 55(2) (i)
+of the Act. Shri Mohanty submitted that the scope of the fiction created in
+Section 49(2)
+of the Act was limited and confined to taking the original cost of acquisition of shares of the amalgamating companies and did not extend it to conferring a statutory right of substituting the fair market value of the shares contained in
+Section 55(2) (i)
+of the Act to the assessee. He therefore submitted that the decision of the Commissioner (Appeals) allowing further relief to the assessee, instead of enhancing the assessment, was clearly erroneous, both in law and on facts and therefore the same should be set aside.
+30. Shri K.R. Ramamani, the learned counsel for the assessee, took us through the provisions contained in
+Section 2(42A)
+,
+Section 45
+,
+Section 47
+,
+Section 48
+,
+Section 49(2)
+and
+Section 55(2)
+of the Income-tax Act, to explain the scheme of taxation of capital gains arising on the sale of shares of amalgamated companies and submitted that the said scheme provides for the determination of the cost of acquisition of a capital asset with reference to change of ownership of the asset and also with reference to change of assets of the same owner. He pointed out that where there was a change of ownership of assets,
+Section 49(1)
+provided that the cost of acquisition of the assets in the hands of the assessee shall be with reference to the cost of acquisition to the previous owner. Shri Ramamani submitted that
+Section 49(2)
+provided for the change in the form of the assets of the same owner as in the case of shares of an amalgamated company. It further provided that in the case of amalgamation, the cost of acquisition of shares in the amalgamated company should be the cost of acquisition in the amalgamating company, by which provision, the emphasis was on the cost of acquisition of shares in the amalgamating company and the time at which it was acquired, is rendered inconsequential. Thus, once there is amalgamation, the cost of acquisition of shares in the amalgamated company should be equated to the cost of acquisition in the amalgamating company, the point as to when the shares became the property or the time of acquisition having been made irrelevant for that purpose.
+In this connection he referred us to
+Section 55(2)(v)
+of the Act and submitted that guidance may be had from this provision of law which deals with a new asset emerging from an old asset by way of sub-division or conversion etc., where the statutory right of substitution of the fair market value under
+Section 55(2)(i)
+was allowed by the Bombay High Court in the case of
+Harish Mahindra v. CIT
+[1982] 135 ITR 191. The learned counsel submitted that
+Section 49(2)
+,
+Section 55(2)(i)
+and
+Section 55(2)
+.(v) used the same expression "cost of acquisition of the asset" and that the fiction created by
+Section 49(2)
+of the Act is available to all the assets and need not be and should not be, unduly restricted or confined, only to the cost of acquisition of new assets. The learned counsel argued that the right of substitution of the fair market value of an asset as on 1-1-1964, which is conferred by the statute in
+Section 55(2)(i)
+of the Act is part and parcel of the general concept of cost of acquisition and is not something distinct and separate from it. He further submitted that the words "became the property" in
+Section 49(2)
+and in
+Section 55(2)
+0) of the Act, relied on by the learned departmental representative, thus, was only a descretion of the shares which was the subject-matter of the transfer giving rise to capital gains and was not intended to be a condition as contended for by Shri Mohanty.
+31. Shri Ramamani next submitted that the intention of the Parliament was to remove certain tax liabilities (which included levy of capital gains tax) which are attracted in the case of an amalgamating company as well as its shareholders who receive shares in the amalgamated company as these tax liabilities discouraged amalgamations of uneconomic units. This would be evident from the definition of 'amalgamation' inserted in
+Section 2(1A)
+of the Income-tax Act, by the Finance (No. 2) Act of 1967 (20 of 1967) with effect from 1st April, 1967, i.e. for and from the assessment year 1967-68. The learned counsel then drew our attention to the following passage at page 179 of Vol. I of Law of Income-tax by A.C. Sampath lyengar, 7th Edition :
+The above
+Section 9
+was inserted for the purpose of facilitating the merger of uneconomic company units with other financially sound Indian companies in the interests of increased efficiency and productivity, as the law as it existed prior to the introduction of this sub-section 'discouraged amalgamation.
+He next referred us to the memorandum explaining the provisions of the Finance (No. 2) Bill of 1967 published in 64 ITR Statutes 188 at pages 200 and 201. He particularly relied on para 36, the relevant portion of which is quoted below :
+36. Under the present law, certain tax liabilities are attracted in the case of a company merging with another company under a scheme of amalgamation and, also, in the case of the shareholders of the 'amalgamating company' (i.e. the company which merges into another company), who receive shares in the 'amalgamated company' (i.e. the company in which the enterprise of the other company is merged), in lieu of their shareholdings in the amalgamating company. Some of these tax liabilities discourage amalgamations. For the purpose of facilitating the merger of uneconomic company units with other financially sound Indian companies in the interests of increased efficiency and productivity, it is proposed to make the following provisions in the law :
+**                **                **
+(iv) No capital gains or loss will be computed in the case of the amalgamating company in respect of any capital assets transferred by it to the amalgamated company.
+**                **                **
+(vi) The shareholders in the amalgamating company receiving' shares in the amalgamated company in lieu of their original shareholdings will be liable to tax on capital gains only at the stage when they sell or otherwise transfer the shares in the amalgamated company and realise any capital gains thereon. Such capital gains will be computed by taking the 'cost of acquisition' thereof to be the cost of acquisition of the shares in the amalgamating company."
+[Emphasis supplied]
+ 
+
+In fact, at page 182 of Vol. I of Sampath lyengar's Income-tax Law
+referred to above
+, the learned author has given the relevance of the term "amalgamation" as defined in
+Section 2
+(1
+A) of the Act
+in the context of various provisions contained in the Income-tax" Act. There we find a specific reference to
+Section 2(42A)
+, Explanation (i)(c),
+Section 47(vii)
+and
+Section 49(2)
+which were all inserted in the
+Income-tax Act
+by the same Finance (No. 2) Act of 1967 with effect from. 1-4-1967.
+32. Shri Ramamani submitted that the intention of the Parliament was to avoid, reduce or remove tax liability on the date of amalgamation on the part of the amalgamating companies and its shareholders and to postpone the taxable event to the sale of the shares in the amalgamated company by permitting the substitution of the cost of acquisition of shares as in the amalgamating company. This scheme, he pointed out, is a well-recognised principle in the fiscal policy relating to taxation, as could be seen from the following passage at page 458 of Law of Federal Income Taxation by Jacob Mertens, Jr. (1942 Edn.), Vol. 3 :
+The general theory of this section of the statute is that where no gain or loss is recognised as resulting from the exchanges therein referred to since the exchange is treated by statute as merely a change of form, the new property received shall for the purpose of determining gain or loss from a subsequent sale, be considered as taking the place of the old property given up in connection with the exchange.
+This passage was quoted with approval by the Madras High Court in their judgment in the case of
+Madurai Mills Co. Ltd v. CIT
+[1969] 74 ITR 623, wherein the provisions of Section 12B(3) of the Old Indian Income-tax Act, 1922, which corresponds to
+Section 49
+,
+Section 55(2)(ii)
+and (3) of the present
+Income-tax Act
+of 1961, were considered by the Madras High Court. While accepting the assessee's contention that the distribution of assets in liquidation by a voluntary liquidator cannot be brought to tax as capital gains, their Lordships pointed out that Section 12B(3) postulated a special method of reckoning, notwithstanding the statutory formula of the computation generally prescribed in Sub-section (2) of Section 12B. After referring to the arguments of the revenue, their Lordships held as follows at page 637 of the reports :
+In order to avoid such an anomaly and to effect a plausible reconciliation of the position and particularly to harmonise the intention of the Legislature, after reading Section 12B as a whole, it is but necessary that in order to secure synchrony, symmetry and harmony, it is hut essential that the first transaction between the voluntary liquidator and the contributory should be excluded from, the sphere of taxation, so that Sub-section (3) of Section 12B can work itself out without prejudicing and without affecting the fundamental canons of taxation. While considering a similar provision in the United States, Mr. Mertens in his book on Law of Federal Income Taxation, Vol. 3, at page 458, states that the general theory is that where no gain on loss is recognised as resulting from the exchanges therein referred to since the exchange is treated by statute as merely a change of form, the new property received shall, for the purpose of determining gain or loss from a subsequent sale, be considered as taking the place of the old property given up in connection with the exchange. Such an aid to interpretation of the letter and spirit of
+Section 12B
+of the Act has to be brought to light in the instant case and if the principle is so understood and applied, it follows that the first transaction, which only reflected a distribution and refund of assets on liquidation to a contributory, cannot and would not be characterised as a transfer or sale.
+[Emphasis supplied]
+ 
+
+The learned counsel for the assessee relied on this passage to emphasise that the exchange of the shares of the amalgamating companies for the shares of the amalgamated company by the assessee on. 1-7-1974 in the present case was only a change of form of the shares held by the assessee and not acquisition of "new assets" although they are freshly allotted. The learned counsel submitted that when the first transaction brought about on the occasion of the amalgamation, is exempted from tax by
+Section 47(ii)
+of the Act, full effect should be given to the legal fiction created by
+Section 49(2)
+of the Act by taking the fiction to its logical conclusion and there is no justification for whittling down its consequences by restricting or confining the effect of such legal fiction in
+Section 49(2)
+of the Act, treating the shares in the amalgamated company as if they are new assets and not substitu ted assets. The effect of the legal fiction created in
+Section 49(2)
+of the Act, as applied to the facts of the present case was, notwithstanding the change of assets on the amalgamation which had taken place on 1-7-1974, the cost of acquisition of the old Madura Mills shares and of A & F Harvey Ltd. shares should continue to be taken as the cost of acquisition to the assessee. Shri Ramamani then submitted that the statutory right of substitution of the fair market value of the shares held by the assessee as on 1-1-1964 provided by
+Section 55(2)(i)
+of the Act could not be denied to the assessee by limiting the scope and ambit of
+Section 49(2)
+of the Act.
+33. The learned counsel argued that the expression "cost of acquisition" is a compendious expression used in the context of taxation of capital gains which includes the concept of valuation, as could be seen in its definition in
+Section 55(2)
+of the Act. He, therefore, argued that this general expression is used not in any restricted sense of the cost of an asset with reference to the actual outgoing out of the pocket of the shareholder. In this connection, the learned counsel submitted that the interpretation sought to be placed by the revenue would be contrary to law and unjust, as could be seen by comparing two shareholders, one who sells his shares one day before the date of amalgamation and another who sells his shares one day after the date of amalgamation. The learned counsel submitted that the revenue's interpretation would put the second shareholder into a hardship, for which there is no clear expression used by the Legislature in
+Section 55(2)(i)
+of the Act.
+34. Shri Ramamani next submitted with reference to the facts of the present case that the mandate of
+Section 49(2)
+of the Act was to equate the cost of acquisition of Madura Coats' share to the cost of acquisition of the shares of Madura Mills Ltd. and A & F Harvey Ltd. The learned counsel submitted that
+Section 49(2)
+did not say in what particular manner or way, the cost of acquisition of the shares of Madura Mills and A & F Harvey Ltd. should be computed so as to put a restraint on it, as contended by the learned departmental representative. The learned counsel argued that if we are to determine the cost of acquisition of a capital asset as specified in
+Section 49(2)
+, namely, the shares of Madura Mills Co. Ltd. and A & F Harvey Ltd., they are the capital assets specified in
+Section 55(2)(i)
+of the Act. The learned counsel contended that we cannot read
+Section 49(2)
+without reading
+Section 55(2)(i)
+of the Act into the same, as the definition of "cost of acquisition" in
+Section 55(2)
+is for the purpose of
+Sections 48
+and
+49
+of the Act, as has been held by the Bombay High Court in
+Harish Mahindra
+'s case (supra).
+Shri Ramamani pointed out that the decision of the Bombay High Court in
+Harish Mahindra
+'s case (supra) should not be viewed as one dealing with and confined to a case which arose under
+Section 55(2)(v)
+of the Act only, as their Lordships have considered the provisions of
+Section 55(2)(i)
+of the Act also and dealt with the same at pages 197 and 198 in
+Harish Mahindra
+'s case (supra).
+Shri Ramamani submitted that this point has been overlooked by the Bombay Bench of the Tribunal when they considered this decision, in
+Madura Coats Ltd.
+'s case (supra), which is relied on by the learned departmental representative.
+35. Shri Ramamani finally submitted that the decision of the departmental authorities allowing the benefit of substitution of the fair market value of the shares as on 1-1-1964 was right, that this was in conformity with the decisions of the Appellate Tribunal of the Madras Benches, such as in the cases of T.S. Srinivasan, Venu Srinivasan and G.N. Venkatapathy, copies of which have been filed by him at pages 7 to 17, 15 to 20 and 25 to 33 of his paper book and that the CIT (Appeals) had not committed any error when he allowed further relief to the assessee on this basis. Shri Ramamani further submitted that there was no case for any enhancement as the assessee was entitled to a further reduction if he succeeds in his appeal and that therefore there was no merit in the revenue's additional grounds of appeal. He also argued that the department cannot seek a direction from the Tribunal for setting aside the order of the CIT (Appeals) as there was nothing erroneous in his order on this aspect of the case and that the Tribunal could not do indirectly what it cannot do directly, namely enhancing the assessment, as contended by the revenue in the additional grounds. He therefore submitted that the additional grounds filed by the revenue deserved to be rejected.
+36. Shri Mohanty, the learned departmental representative, in his reply submitted that the option given in
+Section 55(2)(i)
+was a concession and that therefore the said provision of law should be construed strictly. He argued that there was nothing unreasonable in the denial of the option to the present assessee, as persons holding the original shares and persons holding shares in an amalgamated company fall in two different well-defined classifications and therefore the denial of option to the persons holding shares in the amalgamated company after 1-1-1964 was quite reasonable. Shri Mohanty contended that the intention of the Parliament to deny this concession is quite evident and eloquent by its absence in
+Section 55(2)
+, as cases falling under
+Section 49(2)
+of the Act are not provided for in
+Section 55(2)
+, which has specifically provided for cases falling under
+Section 49(1)
+and
+Section 55(2)(ii)
+of the Act. The learned departmental representative reiterated his submission about the operation of the fiction in
+Section 49(2)
+by relying on the decision of the Bombay High Court in
+CIT v. Trikamlal Maneklal
+. He, therefore, submitted that the department was entitled to succeed on the contentions raised by it in the additional grounds of appeal.
+37. Before we examine the contentions urged on both sides as set out above, we consider that it is necessary to refer to the specific provisions of the
+Income-tax Act, 1961
+that are relevant for the purpose of resolving the controversy raised in these appeals. The first provision of law is
+Section 2
+(1 A) defining amalgamation, which reads as follows :
+(1A) "amalgamation", in relation to companies, means the merger of one or more companies with another company or the merger of two or more companies to form one company (the company or companies which so merge being referred to as the amalgamating company or companies and the company with which they merge or which is formed as a result of the merger, as the amalgamated company) in such a manner that-
+(i) all the property of the amalgamating company or companies immediately before the amalgamation becomes the property of the amalgamated company by virtue of the amalgamation:
+(ii) all the liabilities of the amalgamating company or companies immediately before the amalgamation become the liabilities of the amalgamated company by virtue of the amalgamation ;
+(iii) shareholders holding not less than nine-tenths in value of the shares in the amalgamating company or companies (other than shares already held therein immediately before the amalgamation by, or by a nominee for, the amalgamated company or its subsidiary) become shareholders of the amalgamated company by virtue of the amalgamation,
+ 
+
+otherwise than as a result of the acquisition of the property of one company by another company pursuant to the purchase of such property by the other company or as a result of the distribution of such property to the other company after the winding up of the first-mentioned company;
+Next we would like to refer to
+Section 2(42A)
+with its Explanation (i)(c) :
+(42A) "short-term capital asset" means a capital asset held by an assessee for not more shan thirty-six months immediately preceding the date of its transfer.
+Explanation : (i) In determining the period for which any capital asset is held by the assessee-
+**                **                **
+(c) in the case of a capital asset being a share or shares in an Indian company, which becomes the property of the assessee in consideration of a transfer referred to in Clause (vii) of
+Section 47
+, there shall be included the period for which the share or shares in the amalgamating company were held by the assessee.
+Section 45(1)
+of the Act reads as follows :
+45. (1) Any profits or gains arising from the transfer of a capital asset effected in the previous year shall, save as otherwise provided in
+Sections 53
+,
+54
+,
+54B
+,
+54D
+,
+54E
+and
+54F
+, be chargeable to income-tax under the head "Capital gains" and shall be deemed to be the income of the previous year in which the transfer took place.
+Section 47(vii)
+in so far as it is relevant for our purpose is set out below :
+Transactions not regarded as transfer.
+47. Nothing contained in
+Section 45
+shall apply to the following transfers :
+**                **                **
+(vii) any transfer by a shareholder, in a scheme of amalgamation, of a capital asset being a share or shares held by him in the amalgamating company if-
+(a) the transfer is made in consideration of the allotment to him of any share or shares in the amalgamated company, and
+(b) the amalgamated company is an Indian company ;
+The mode of computation and deductions is provided for in
+Section 48
+of the Act, which is quoted below :
+Mode of computation and deductions.
+48. The income chargeable under the head "Capital gains" shall be computed by deducting from the full value of the consideration received or accruing as a, result of the transfer of the capital asset the following amounts, namely :-
+(i) expenditure incurred wholly a,nd exclusively in connection with such transfer ;
+(ii) the cost of acquisition of the capital asset and the cost of any improvement thereto.
+38.
+Section 49
+of the Act deals with cost with reference to certain modes of acquisition.
+Section 49(2)
+on which" both sides have relied and which is relevant for our purpose is quoted below :
+(2) Where the capital asset being a share or shares in an amalgamated company which is an Indian company became the property of the assessee in consideration of a transfer referred to in Clause (vii) of
+Section 47
+, the cost of acquisition of the asset shall be deemed to be the cost of acquisition to him of the share or shares in the amalgamating company.
+Finally, we would refer to
+Section 55(2)(i)
+of the Act, which defines 'cost of acquisition', in relation to a capital asset for the purposes of
+Sections 48
+and
+49
+of the Act:
+(2) For the purposes of
+Sections 48
+and
+49
+, 'cost of acquisition in relation to a capital asset,-
+(i) where the capital asset became the property of the assessee before the 1st day of January 1964, means the cost of acquisition of the asset to the assessee or the fair market value of the asset as on the 1st day of January, 1964, at the option of the assessee ;
+We may mention here that the provisions contained in
+Section 2(1A)
+, Explanation (i)(c) to
+Section 2(42A)
+,
+Section 47(vii)
+and
+Section 49(2)
+, were all inserted by the Finance (No. 2) Act of 1967 with effect from 1-4-1967.
+39. A perusal of the aforesaid provisions of the Act in the light of the memorandum explaining these amendments brought about by the Parliament from. 1-4-1967, shows that the intention of the Parliament is to postpone the taxable event in respect of the shareholdings of a shareholder in an amalgamating company, as could be seen from
+Section 47(vii)
+of the Act. There is no dispute that the transfer of the Madura Mills Ltd.'s shares and the shares in A & F Harvey Ltd. by the assessee in exchange for the shares in the amalgamated company, namely Madura Coats Ltd. on 1-7-1974 was exempted under the provisions of
+Section 47(vii)
+of the Act. Thus, the taxable event now is the sale of the shares of the amalgamated company by the assessee during the previous year, which is sought to be taxed as long-term capital gains under
+Section 45(1)
+of the Act.
+40. We have already extracted
+Section 2(424)
+, Explanation (i)(c), which defines a short-term capital asset. According to Clause (c) of this Explanation, in order to determine the nature of the shares held by an assessee in an amalgamated company as to whether they are short-term capital asset or not, it is necessary to take into account and include the period for which the assessee held the shares in the amalgamating company also. In other words, the mandate of this Explanation is that the period for which an assessee holds shares in an amalgamated company as well as the period for which he held the original shares in the amalgamating company, should be taken together to determine the period of his holding of the shares to decide the issue whether the said shares represented short-term capital assets or long-term capital assets. According to
+Section 2(42A)
+, a capital asset is regarded as a shortterm capital asset if it is held by an assessee for not more than 36 months immediately preceding the date of its transfer. The period of holding the capital asset, which was originally 60 months, was reduced to 36 months with effect from 1-4-1978 by the Finance (No. 2) Act of 1977. When we examine the period of holding of the shares transferred by the assessee in the present case during the previous year in the light of the aforesaid provisions contained in
+Section 2(42A)
+together with its Explanation (i)(c) of the Act, it would be clear that the assessee's holdings are all long-term capital assets, as could be seen from the particulars of the shareholdings of the assessee with their dates of acquisition as set out in paragraph 3 supra. It would be noticed therefrom that the assessee held 3,000 shares in Madura Mills Co. Ltd. even prior to 1-1-1964. Similarly, he held 22,700 shares in A & F Harvey Ltd. prior to 1-1-1964. Subsequently he had received bonus shares in 1966 in both the companies and again in 1969 in Madura Mills Co. Ltd. and acquired right shares in 1972 in A & F Harvey Ltd. Thus, when we consider the period of holding of these shares along with the period of holding of the shares in the amalgamated company, Madura Coats Ltd., the total period of shareholding would be more than 36 months prescribed for the assessment year 1978-79 and onwards. In fact, the departmental authorities have proceeded only on this basis when they have assessed the capital gains derived by the assessee on the sale of these shares as long-term capital gains and there can hardly be any dispute about the same now before us.
+41. As stated already, there is no dispute about the net sale consideration of Rs. 12,63,763 received by the assessee on the transfer of the shares by him. The dispute is only in regard to the cost of acquisition of these shares to be deducted in computing the capital gains, as required by
+Sections 48
+and
+49
+of the Act. Normally the cost of acquisition of a capital asset would be the amount for which an assessee acquires or purchases a capital asset, but in the present ca,se the assessee had acquired the shares in the amalgamated company in exchange for the shares in the two amalgamating companies on 1-7-1974. In such cases we have to necessarily go to
+Section 49(2)
+of the Act, which specifically provides for the determination of the cost of acquisition of shares in an amalgamated company. The argument on behalf of the revenue is that according to the fiction created by
+Section 49(2)
+, the cost of acquisition of the shares of Madura. Coats Ltd. would be the cost of acquisition of the shares of the two amalgamating companies. In other words, the cost of the amalgamated company shares would be the actual cost of the original 3,000 shares in Madura Mills Co. Ltd. and 22,700 shares in A & F Harvey Ltd. which the assessee held even prior to 1-1-1964 and nothing more. The revenue further elucidates their point by pointing out that for receiving the bonus shares in the two amalgamating companies subsequent to 1-1-1964 the assessee had to pay nothing and therefore only the cost of the original shares in the two amalgamating companies would represent the true cost of acquisition of the shares in the amalgamated company, as deemed by
+Section 49(2)
+of the Act. The revenue therefore contends that the long-term capital gains computed by the Income-tax Officer and the CIT (Appeals) are erroneous and wrong, as it should be much more than the figure of Rs. 4,67,441 computed by the Income-tax Officer in the assessment order.
+42. The contention of the revenue can be understood properly if we set out the figures of cost of acquisition of the original shares as given in the particulars furnished by the assessee at pages 1 and 2 of the paper book :
+Rs.
+(i) Cost of acquisition of 3,000 original shares in
+Madura Mills Co. Ltd. held prior to 1-1-1964         1,27,740
+(ii) Cost of 22,700 shares in A & F Harvey Ltd.
+held prior to 1-1-1964                               2,27,000
+(iii) Cost of acquisition of 7,883 shares in A & F
+Harvey Ltd. issued in 1972                           1,39,792
+                                            Total    4,94,532
+According to the revenue, it is only this amount of Rs. 4,94,532 which represented the cost of acquisition of the shares of the amalgamated company according to the fiction created in
+Section 49(2)
+of the Act and that the assessee would not be entitled to any further amount as the cost of acquisition of the shares by exercising his option under
+Section 55(2)(i)
+of the Act. The contention of the revenue is that the fiction in
+Section 49(2)
+is limited in its scope and ambit and it cannot extend so far as to confer the benefit of the substitution of the fair market value of the shares held by the assessee as on 1-1-1964 in the amalgamating companies under
+Section 55(2)(i)
+of the Act. The assessee's contention is to the contrary, which we have already set out above in great detail.
+43. We are unable to accept these contentions of the revenue as they are contrary to accepted principles of interpretation of statutes.
+In the case of
+M.K. Venkatachalam, ITO v. Bombay Dyeing & Mfg. Co. Ltd.
+[1958] 34 ITR 143, their Lordships of the Supreme Court quoted with approval the following observations of Lord Asquith of Bishopstone in East End Dwellings Co. Ltd. v. Finsbury Borough Council [1952] AC 109 which is quoted below from pages 146 and 147 of the reports :
+As observed by Lord Asquith of Bishopstone in East End Dwellings Co. Ltd. v. Finsbury Borough Council, 'if you are bidden to treat an imaginary state of affairs as real, you must surely, unless prohibited from doing so, also imagine as real the consequences and incidents which, if the putative state of affairs had in fact existed, must inevitably have flowed from or accompanied it. One of those in this case is emancipation from the 1939 level of rents. The statute says that you must imagine a certain state of affairs ; it does not say that having done so, you must cause or permit your imagination to boggle when it comes to the inevitable corollaries of that state of affairs'. Thus, there can be no doubt that the effect of the retrospective operation of the Amendment Act is that the proviso inserted by the said section in
+Section 18A(5)
+of the Act would, for all legal purposes, have to be deemed to have been included in the Act as from April 1, 1952.
+[Emphasis supplied]
+ 
+
+In our view, the fiction created by Section 49C2) of the Act should be carried to its logical conclusion and there is nothing either in
+Section 49(2)
+or in
+Section 55(2)(i)
+of the Act or any other provision of the Act, which prohibits such a conclusion. We had already referred to the provisions contained in Clause (c) of Explanation (i) to
+Section 2(42A)
+of the Act, which defines a short-term capital asset, to show how the assets held by the assessee in the present case are long-term capital assets and not short-term capital assets. There is no fiction involved in the said Explanation to
+Section 2(42A)
+of the Act.
+When the Act
+requires that the period of holding of a capital asset in the amalgamating company should also be included along with the period for which a shareholder holds shares in the amalgamated company to determine the total period of its holding by the assessee, we do not find any justification for limiting or confining the operation of the fiction created in
+Section 49(2)
+of the Act ignoring the other facts which have to be taken into account in the light of the said Clause (c) of Explanation (0 to
+Section 2(42A)
+of the Act. The department does not dispute the factual position that the original shares in the two amalgamating companies, namely Madura Mills Ltd. and A & F Harvey Ltd., were held by the assessee prior to 1-1-1964 having been acquired by him prior to that date. The definition of 'cost of acquisition' in
+Section 55(2) (i)
+of the Act is for the purposes of
+Sections 48
+and
+49
+of the Act, as the opening words of the said provision of law disclose. There is nothing in
+Section 55(2)
+which states that the said definition of 'cost of acquisition' would not be available to a. case falling within the scope of
+Section 49(2)
+of the Act. In our view the provisions of
+Sections 48
+,
+49(2)
+and
+Section 55(2)(i)
+should be read together, in order to determine the cost of acquisition of the shares held by the assessee in the amalgamated company. In other words,
+Section 55(2)(i)
+should be read into
+Section 49(2)
+of the Act. If so read, we are unable to see any impediment in the way of the assessee, which would deny him the right of substitution of the fair market value of the shares as on 1-1-1964 at his option. This option is given to the assessee by the statute in order to neutralise the effect of inflation so as to arrive at the real capital gain derived by an assessee on the transfer of a capital asset which he might have acquired years ago at a nominal price and the value of which would have increased over the years. This would be clear when we take into account the amendments brought about in
+Section 55(2)(i)
+of the Act with reference to the date of substitution which was originally 1-1-1954, which was later on amended as 1-1-1964 by the Finance (No. 2) Act of 1977 with effect from 1-4-1978 and subsequently as 1-4-1974 by the
+Finance Act
+of 1986 with effect from 1-4-1987.
+We derive support for this view of ours from the
+Twelfth Schedule of the Income-tax Act, 1961
+, which was introduced with effect from 1-4-1983, by the
+Finance Act, 1982
+. Under this Schedule, a percentage deduction is given under
+Section 80T(b)
+of the Act, from the capital gain computed in accordance with
+Section 48
+and
+Section 49
+. This percentage deduction hitherto, i.e., from assessment years 1983-84 to 1986-87, varied with the length of period for which the asset from which capital gain arose, was held with reference to the periods of holding :
+Period of holding                         Percentage as applicable :
+                                          to assessments other
+                                          than lands & buildings
+More than 3 years but not more
+than 5 years                              40%
+More than 5 years, but not more than
+10 years                                  45%
+More than 10 years, but not more than
+15 years                                  50%
+More than 15 years but not more than
+20 years                                  55%
+Over 20 years                             60%
+If the stand of the department is accepted, then it would mean that the period of holding would be only the dates from which the shares of the amalgamated company came into the possession of the assessee to the date of sale. The cost to be taken will be that of the original share. The difference between this and the sale price will be the capital gain. The percentage deduction, however, will not be allowed for the period, from the date of acquisition of the original share to the date of sale of the share of the amalgamated company, but only to that percentage admissible from the date of acquisition of the amalgamated share to the date of sale. This would be definitely inequitous. To obviate this anomaly, one can only take recourse to the provisions contained in Clause (c) of Explanation (i) to
+Section 2(42A)
+and state that since for determining whether an asset is a short-term capital asset or not, the statute enjoins that the period from the date of acquisition to date of amalgamation should also be taken into consideration, it implies by fiction that the period of holding of share of the original company right up to the date of amalgamation and thereafter till the date of sale or transfer is to be treated as a continuous holding of a capital asset which earlier was the share of the amalgamating company and which later became transformed into the share of the amalgamated company. When such period exceeds the stipulated time, to take it outside the purview of the short-term capital asset, the transformed share becomes a long-term capital asset. paving acquired the classification of a longterm capital asset because of the definition of
+Section 2(42A)
+, Explanation (i)(c), it would be incongruous to hold that the length of the period of holding determined by a statutory fiction which traverses the year 1964 also for such long-term capital asset, should be truncated and it should be, held that the capital asset for the purposes of
+Section 55
+has to be considered as not having been acquired prior to 1961.
+Such a construction would not only be discordant, but also go against the scheme as obtaining for taxation of capital gains. This is because the provisions of the Twelfth Schedule were also introduced to provide relief against inflation (as in the case of vesting of option for substituted values as on 1-1-1954, 1-1-1964, 1-4-1974, etc., being taken) for bringing to tax, as real an accretion to capital as possible and not to tax a notional benefit divorced of realities.
+44.
+In
+Harish Mahindra
+'s case (supra) at page 197 their Lordships of the Bombay High Court considered the first question referred to them as to whether, even on the assumption that the subdivided shares were not the same capital asset as the original shares from which the sub-divided shares were derived, the assessee was precluded from exercising the option given under Clause (i) of Sub-section (2) of
+Section 55
+of the Act. After examining the relevant provisions of the Act, their Lordships held as follows at page 197 of the reports :
+In this regard, it must be noticed that a perusal of the opening part of Sub-section (2) shows that it deals with the cost of acquisition in relation to 'a capital asset'. Clause (i) provides that where 'the capital asset' which, in our view, must mean the capital asset referred to in the opening portion of Sub-section (2), namely, any capital asset whose cost of acquisition has to be determined for the purposes of
+Sections 48
+and
+49
+, became the property of the assessee before 1st January, 1954, 'the cost of acquisition' thereof means the cost of acquisition of the asset to the assessee or the fair market value of the said asset as on 1st January, 1954, at the option of the assessee.
+the capital asset" [Emphasis supplied], whereas the opening portion of Sub-section (2) of
+Section 55
+refers to a capital asset' [Emphasis supplied]. This in our view, would clearly show that the option given by Clause (i) of Sub-ection (2) of
+Section 55
+was not intended to be restricted only to the capital asset transferred by the assessee but was available, in a case where the said capital asset had become the property of the assessee in any of the manners set out in Clause (v) of the said sub-section, with respect to the determination of the cost of acquisition of the capital asset from which the capital asset transferred had been derived. In view of this, in our view, even if the sub-divided shares transferred by the assessee, as set out earlier, were not the same capital asset as constituted by the original shares from which the sub-divided shares were derived, the assessee was still entitled to exercise the option contained in Clause (i) of Sub-section (2) of
+Section 55
+as the position taken as undisputed in this case is that the said original shares were acquired by the assessee prior to 1st January, 1954.
+[Emphasis supplied].
+After having arrived at the above conclusion, their Lordships also examined the nature of the sub-divided shares transferred by the assessee with reference to the definition of the term "share" contained in the
+Indian Companies Act
+and finally held as follows at page 199 of the reports :
+In view of this, if we had been called upon to decide the aforesaid question, we would have been inclined to take the view that the sub-divided shares transferred by the assessee constituted the same capital asset as was constituted by the original shares held by the assessee, from which the sub-divided shares were derived. We are, however, not required to decide this question as we have already set out.
+[Emphasis supplied]
+ 
+
+We may mention here that in this decision their Lordships have also followed the decision of the Supreme Court in
+Shekhawati General Traders Ltd.
+'s case (supra) while answering the third question. We agree with the learned counsel for the assessee, Shri K.R. Ramamani, that this decision of the Bombay High Court fully supports the contention of the assessee in the present case, as it was a decision rendered on an interpretation of the provisions contained in
+Sections 48
+and
+55(2)(i)
+of the Act and not merely on
+Section 55(2)(v)
+of the Act as contended by the Revenue to distinguish
+the said decision
+before the Bombay Bench of the Appellate Tribunal in the case of Madura Coats Lid. (supra).
+We also agree with the learned counsel that this decision of the Bombay Bench of the Tribunal in
+Madura Coats Ltd.
+'s case (supra) would not stand in the way of our accepting the assessee's case in the present appeals.
+45. We would like to refer to the decision of the Bombay High Court in the case of
+Trikamlal Maneklal
+(supra), which was relied on by the learned departmental representative to contend that the fiction in
+Section 49(2)
+is confined to the cost of acquisition only and nothing more. We have perused this decision and we are unable to appreciate how this decision supports the contention of the revenue. On the other hand, the following observations in paragraph 17 at page 254 of the reports support the contention of the assessee :
+17. As we have stated, we find it difficult, with respect, to take the view that
+Section 48
+provides for the taking into account of anything other than the actual cost of acquisition of the asset by the assessee, though the cost may in a given case be nil. The only legal fiction in this behalf is created by
+Section 49
+and the fiction operates only in the circumstances set out therein. There is no warrant, we think, with respect, for a deemed cost of acquisition in circumstances not comprehended in
+Section 49
+or
+Section 55
+.
+[Emphasis supplied]
+ 
+
+We may mention here that the case before the Bombay High Court was regarding the market value of the shares which were thrown into the common hotchpot of the assessee-HUF by its karta T. Maneklal during the previous year relevant to assessment year 1962-63 and it was not a case which was comprehended by
+Section 49(1)
+of the Act. It was in those circumstances, their Lordships of the Bombay High Court came to the conclusion that the fiction created in
+Section 49
+, as it stood at the material time, was limited to the cases specified therein. But, in the present case we are concerned with a case which actually falls within the circumstances specified in
+Section 49(2)
+of the Act and about which there is no dispute before us. Therefore, the legal fiction created by
+Section 49(2)
+has to be taken to its logical conclusion as held by the Supreme Court in
+Bombay Dyeing & Mfg. Co. Ltd.
+'s case (supra).
+46, We agree with the learned counsel for the assessee that the expression "cost of acquisition" as defined by
+Section 55(2)
+of the Act in relation to a capital asset is a compendious expression for the purpose of computation of capital gains under
+Sections 48
+and
+49
+of the Act and that it includes the concept of substitution of the fair market value of the asset as on 1-1-1964 at the option of the assessee. This option is conferred by the statute on the assessee and is therefore a statutory right or statutory option given to the assessee, if it is advantageous to him to exercise such option. As explained by us earlier, the object and purpose of giving this option is to neutralist the effect of inflation over the years, as a result of which the value of the capital asset would have appreciated. over a long period of years from its original cost so that only the real capital gain to an assessee on its transfer, is brought to charge in his hands.
+47. We are unable to agree with the learned departmental representative in his submission that, whereas the benefit of option is given to cases covered by
+Section 49(1)
+of the Act, as expressly provided for in
+Section 55(2)(ii)
+of the Act, there is no such express provision conferring such right of option to cases covered by
+Section 49(2)
+of the Act and therefore, the assessee is not entitled to this right of option. This argument of the revenue overlooks that the cases falling under the provisions of Section 49(2) would be comprehended by Section 55(2)(z) of the Act itself and that both these provisions would have to be read together, as held by us.
+48. Hence, on a reading of the provisions of
+Section 2(42A)
+, Explanation (i)(c),
+Section 49(2)
+and
+Section 55(2)(i)
+of the Act together and applying the said provisions to the facts of the present case, we hold that the assessee is entitled to the statutory right of exercising his option to substitute the fair market value of the shares in Madura Mills Ltd. and A & F Harvey Ltd., as on 1-1-1964 and that the departmental authorities, including the Commissioner of Income-tax (Appeals), rightly took the fair market value of these shares as on 1-1-1964 for the purpose of computing the long term capital gains chargeable to tax in the hands of the assessee. Accordingly, the second issue in the departmental appeal is decided in favour of the assessee and against the revenue.
+49. This takes us to the third issue as to the cost of acquisition of the bonus shares in the two amalgamating companies, Madura Mills Co. Ltd. and A & F Harvey Ltd., to the assessee for the purpose of computing the long term capital gains.
+50. On this aspect of the case, Shri Mohanty, the learned departmental representative submitted that since the assessee had disposed of his entire shareholdings in the amalgamated company, the decision of the Madras High Court in the case of
+CIT v. T.V.S. & Sons Ltd.
+[1983] 143 ITR 644 would be applicable to the facts of the present case. According to him, if the assessee is not entitled to the benefit of substitution of the fair market value of the shares over the original shares of the amalgamating companies as on 1-1-1964, then there would be no difficulty in applying the ratio of this decision to the facts of the present case. The learned departmental representative further argued that even if the fair market value as on 1-1-1964 is to be substituted, even then the position in law would continue to remain the same and the decision of the Madras High Court would be, applicable, as it is directly in favour of the revenue. Elaborating his argument, Shri Mohanty submitted that the assesses had disposed of the entire lot, of shares, including both the original and the bonus shares. According to him, the cost of acquisition of the bonus shares was embedded in the cost of acquisition of the original shares and that the fair market value of the original shares as on 1-1-1964 would include the cost of acquisition of the bonus shares also and therefore there was no need for making a separate calculation for arriving at the cost of acquisition of the bonus shares for the purpose of computing the capital gains in the present case. The learned departmental representative submitted that the following three decisions, which may be relied on by the learned counsel for the assessee in support of their arguments, would not apply to the facts of the present case :
+(
+1) Shekhawati General Traders Ltd.
+'s case (supra).
+(
+2) W.H. Brady & Co. Ltd. v. CIT
+[1979] 119 ITR 359 (Bom.).
+(
+3) Escorts Farms (Ramgarh) Ltd. v. CIT
+[1983] 143 ITR 749 (Delhi).
+The learned departmental representative submitted that the first case was a case essentially on the applicability of
+Section 147(a)
+of the Act for the purpose of reopening the assessment to bring to charge the income that had escaped assessment by way of capital gains and therefore would not apply to the present case.
+In the other two decisions, though the principle of averaging by spreading out the cost of the original shares over the original shares and the bonus shares was upheld, the said decisions would be of no avail to the assessee in the present case, as held by the Madras High Court in the case of
+T.V.S. & Sons Ltd.
+(supra) where the assessee transfers all his shareholdings en bloc, as such an exercise would be purely an academic one.
+He therefore submitted that the department was entitled to succeed on this point in view of the decision of the Madras High Court in the case of
+T.V.S. & Sons Ltd.
+(supra).
+51. Shri S. Swaminathan, the learned counsel appearing for one group of Interveners, submitted that on the facts of the present case the decision of the Madras High Court in
+T.V.S. & Sons Ltd.
+'s case (supra) would not apply and that the decision that was directly applicable was the decision of the Supreme Court in
+Shekhawati General Traders Ltd.
+'s case (supra), as the original shares of the two amalgamating companies, namely, Madura Mills Co. Ltd. and A & F Harvey Ltd., were acquired by the assessee prior to 1-1-1964. The learned counsel submitted that he was interested in determining the cost of acquisition of the bonus shares in the present case, as it would affect the cases of similar assessees, on whose behalf he was intervening in this case.
+52. Shri Swaminathan relied on
+Section 82
+of the Companies Act, 1956 which deals with the nature of shares and pointed out that the shares or other interest of any member in a company shall be movable property, transferable in the manner provided by the articles of the company. He next relied on the following passage at page 400 of Gower's Principles of Modern Company Law, Fourth Edition :
+While it may be doubtful whether the rights which a share confers on its holder can be classified as 'property' in the usual sense, one thing at least is clear : the share itself is an object of dominion, i.e., of rights in ran and not so to regard it would be barren and academic in extreme.
+Basing himself on the aforesaid principles, the learned counsel submitted that shares in a company are movable properties which are marketable and therefore the date of acquisition of each share or block of shares should always be kept in mind and should not be ignored. He pointed out that in the present case where there are original shares which can be termed as "Mother shares", which had been acquired by the assessee long before 1-1-1964 and in respect of which the assessee would be entitled to the right of substitution by exercising his option under
+Section 55(2)(i)
+of the Act and that there were also bonus shares, which the assessee had acquired in respect of the original shares, after 1-1-1964.
+53. The learned counsel next relied on the decision of the Supreme Court in the case of
+Shelchawati General Traders Ltd.
+(supra) and submitted that in view of this decision of the Supreme Court, the cost of acquisition of the original shares or mother shares before 1-1-1964 under
+Section 55(2)(i)
+of the Act was unalterable or immutable and therefore the assessee was entitled to have the actual cost of acquisition of the original shares or their fairmarket value as on 1-1-1964, whichever advantageous to him at his option, as provided in
+Section 55(2)(i)
+of the Act.
+54. Regarding bonus shares, the learned counsel submitted that they had a cost of acquisition of their own, as has been
+laid down by
+the Supreme Court in
+Dalmia Investment Co. Ltd.
+'s case (supra).
+He submitted that it is too late in the day for any one to contend that the cost of acquisition of the bonus shares is nil, as such a contention put forward by the parties has been unanimously rejected by the Supreme Court not only in
+Dalmia Investment Co. Ltd.
+'s case (supra) but in later decisions also, including the decision in
+Shekhawali General Traders Ltd.
+'s case (supra). The learned counsel submitted that the answer to the question as to what is the cost of acquisition of the bonus shares is directly provided in a number of decisions of the Calcutta High Court based on the decisions of the Supreme Court.
+The first decision relied on by him was in
+Sutlej Cotton Mills Ltd. v. CIT
+[1979] 119 ITR 666 (Cal.). In this case it was decided that in determining the cost of acquisition of the original shares, on which bonus shares have been issued, it can either be the actual cost of acquisition or at the choice of the assessee, the market value thereof on the 1st January, 1954, that when an assessee elects to adopt the market value as on 1-1-1954, for the purpose of computation of capital gain or loss in the transfer of its originally acquired shares, he is in effect substituting the original cost of acquisition of such shares by another amount as allowed by the statute and the capital gains on the transfer has to be calculated on such cost and that subsequent issue of the bonus shares does not affect, alter or dilute the cost of acquisition of the original shares.
+The learned counsel pointed out that in this decision the Calcutta High Court had applied the decision of the Supreme Court in
+Shekhaviati General Traders Ltd.
+'s case (supra).
+55. The next decision relied on by the learned counsel for the assessee was the one in
+CIT v. Steel Group Ltd.
+[1981] 131 ITR 234 (Cal.), where it was held that while computing the capital gains the assessee is concerned with the cost of acquisition, i.e., the price which was paid by the assessee for acquiring the capital asset on the date it was acquired, subject to the adjustment laid down under
+Section 55
+and that the assessee has no concern with what would be the value of that asset on some subsequent occasion. In other words, subsequent event affecting its value need not be taken into consideration.
+This decision also followed the decision of the Supreme Court in
+Shekhawati General 'Traders Ltd.
+'s case (supra) and the Calcutta High Court decision in
+Sutlej Cotton Mills Ltd.
+'s case (supra).
+56. The learned counsel next relied on the decision in
+CIT v. Kishore Trading Co. Ltd.
+[1982] 138 ITR 527 (Cal.), wherein it has been held that where bonus shares are issued in respect of ordinary shares held by an assessee, the real cost to the assessee cannot be taken to be nil, that the bonus shares must be deemed to have been obtained at some cost, since as a consequence of the issue of bonus shares the original shares suffered detriment in the sense of depreciation of their value in the market and that the cost of bonus shares had to be determined at the average price arrived at by spreading the cost of the original shares over the original shares and bonus shares if the bonus shares ranked pari passu with the original shares. Their Lordships also held that in this connection the method normally followed by the assessee in valuing the bonus shares is not relevant and that it was not also relevant that some of the original shares have been sold. The learned counsel relied on the following passage at page 534 of the reports in his favour :
+Now we are here concerned with, firstly, the bonus shares which ranked pari passu, secondly, we are not concerned with the value of the old shares. Some of the original shares were sold before the year in question. We are also concerned with the profit resulting from the sale of bonus shares. This is important because it is not a question of considering what is the profit embedded in the unsold stock either of shares or of stock-in-trade. It is a case of sale of an asset of a particular year. Therefore, it is not, in our opinion, very relevant to consider in what manner these stocks had been valued year by year, but, as the Supreme Court noted, what is the cost of acquisition of the particular asset which is sold and whose profit is due to be considered. Now, the cost of acquisition of the bonus shares, in our opinion, is clearly
+laid down by
+the Supreme Court in the principle enunciated, as we have mentioned before.
+The learned counsel submitted that there was a useful discussion elucidating the nature of bonus shares in
+CIT v. Chunilal Khushaldas
+[1974] 93 ITR 369 (Guj.).
+57. Referring to the decision of the Supreme Court in
+Shekhawati General Traders Ltd.
+'s case (supra), the learned counsel referred us to the facts of the case set out at pages 789 and 790 of the reports and finally relied on the following passage appearing at page 793 of the reports wherein their Lordships have explained their earlier decision in
+Dalmia Investment Co. Ltd.
+'s case (supra) and also considered expressly the provisions contained in
+Section 55(2)(i)
+of the Act :
+We have set out the facts of this case in detail in order to demonstrate that that decision was not at all apposite for the purpose of deciding the point which has arisen in the present case. No question arose there of the calculation of the capital gain or loss in accordance with the statutory provisions in pari materia with
+Sections 48
+and
+55(2)
+of the Act. In the present case we are confined to the express provisions of
+Section 55(2)
+relating to the manner in which the cost of acquisition of a capital asset has to be determined for the purpose of
+Section 48
+. Where the capital asset became the property of the assessee before the first day of January, 1954, the assessee has two options. It can decide whether it wishes to take the cost of the acquisition of the asset to it as the cost of acquisition for the purpose of
+Section 48
+or the fair market value of the asset on the first day of January, 1954. The word 'fair' appears to have been used to indicate that any artificially inflated value is not to be taken into account. In the present case it is common ground that when the original assessment order was made the fair market value of the shares in question had been duly determined and accepted as correct by the Income-tax Officer. Under no principle or authority can anything more be read into the provisions of
+Section 55(2)(i)
+in the manner suggested by the revenue based on the, view expressed in the
+Dalmia Investment Co.
+'s case. The High Court completely overlooked the fact that for the ascertainment of the fair market value of the shares in question on January 1, 1954, any event prior or subsequent to the said date was wholly extraneous and irrelevant and could not be taken into consideration.
+If the contention of the revenue were to be accepted the acquisition of the bonus shares subsequent to January 1, 1954, will have to be taken into account which on the language of the statute it is not possible to do.
+58. Basing himself on the aforesaid decision of the Supreme Court in
+Shekhawati General Traders Ltd.
+'s case (supra) and the decisions of the Calcutta High Court
+referred to above
+, Shri Swaminathan contended that the case of
+T.V.S. & Sons Ltd.
+(supra) has not been correctly decided by the Madras High Court, as it is contrary to the ratio of the decision of the Supreme Court in
+Shekhawati General Traders Ltd.
+'s case (supra). The learned counsel submitted that their Lordships of the Madras High Court have not even adverted to this decision of the Supreme Court in their judgment, even though it has been cited before their Lordships and also referred to and relied on by the Appellate Tribunal in their appellate order in the said case.
+The learned counsel submitted that as the decision of the Madras High Court in
+T.V.S. & Sons Ltd.
+'s case (supra) turned on entirely different facts, it was distinguishable on facts from the present case, wherein we are concerned with the valuation of original shares held before 1-1-1964 and of bonus shares issued subsequent to 1-1-1964. The learned counsel, therefore, submitted that the CIT (Appeals) was right in accepting the assessee's contentions in the present case and in allowing separately the cost of acquisition of the bonus shares of the two amalgamating companies separately as a deduction, apart from the fair market value of the shares as on 1-1-1964 in the two amalgamating companies and that
+the said decision
+of the CIT (Appeals) should be upheld.
+59. Shri S. Padmanabhan, the learned counsel for another group of Interveners, submitted that the decision of the Supreme Court in
+Shekhawati General Traders Ltd.
+'s case (supra) fixes the original cost of acquisition of the shares as fixed under
+Section 48
+of the Act. Accordingly, in regard to the original shares it is the cost actually incurred by an assessee which cannot be diluted by subsequent issue of bonus shares. He argued that in regard to bonus shares their cost of acquisition would be nil. The learned counsel next submitted that in economic theory and on principles of accountancy there would be some cost incurred for acquiring bonus shares. However,
+Section 48
+does not define the expression 'cost of acquisition', while
+Section 55(2)
+defines it only in particular cases.
+He relied on the decision of the Calcutta High Court in
+Smt. Protima Roy v. CIT
+[1982] 138 ITR 536 at 546, 547 and 548, wherein the Court considered the question as to how the cost of original shares is to be computed in a case where bonus shares are issued. He next referred to 51-ITR, Statutes 61, where the notes on Clause No. 12 of the Finance Bill, 1964 is explained. Thereafter, the learned counsel relied on the following passages appearing at page 62 of Indian Tax Laws, 1966 by A.N. Aiyer explaining the changes in the law relating to capital gains in
+Section 45
+of the Income-tax Act brought about by the
+Finance Act
+of 1964 :
+(i) bonus shares - an assessee who holds any equity shares and receives any bonus shares will be liable to be charged to income-tax under the head 'Capital gains' in respect of such bonus shares, as if he had transferred the said shares at their fair market value after the expiry of 30 days from the date of issue of the said shares :
+**                **                **
+(iii) cost of acquisition of bonus shares - the cost of acquisition' of bonus shares in the case of an equity shareholder who transfers such shares after the expiry of 30 days from the date of their issue will (for the purpose of computing any capital gains arising on such transfer) be taken to be their fair market value as on the 31st day from the date on which the said shares were issued to him ;
+The learned counsel submitted that the above passages indicated that the statute itself considered the cost of acquisition of bonus shares as nil.
+60. Shri Padmanabhan next relied on the decision of the Madras High Court in
+CIT v. Athi V. Ramachandra Chettiar
+[1964] 52 ITR 96.
+We do not consider it necessary to refer to this decision in detail, as it was rendered before the decision of the Supreme Court in
+Dalmia Investment Co. Ltd.
+'s case (supra).
+61. Shri K.R. Ramamani, the learned counsel for the assessee in these two appeals, submitted that the decision of the Supreme Court in
+Shekhawati General Traders Ltd.
+'s case (supra) recognises the following three principles :
+(i) The issuance of bonus or right shares after 1-1-1954 has to be ignored while determining the fair market value of the original shares as on 1-1-1954.
+(ii) The principle of determining the cosst of acquisition of block shares has been recognised.
+(iii) The decision of the Supreme Court in
+Dalmia Investment Company
+'s case would be inapplicable to a case where statutory cost of acquisition has to be considered.
+The learned counsel submitted that on the authority of this decision of the Supreme Court in
+Shekhawati General Traders Ltd.
+'s case (supra), there are two blocks of sha,res involved in the present case, namely the original shares that were held by the assessee in the two amalgamating companies prior to 1-1-1964 and the other block consisting of bonus shares or right shares issued or acquired subsequent to 1-1-1964. In respect of the block of shares held prior to 1-1-1964 the assessee is entitled as of right to have the fair market value of the original shares as on 1-1-1964 taken as the cost of acquisition by exercising his option conferred on him by the statute under
+Section 55(2)(i)
+of the Act. Shri Ramamani submitted that the order of the CIT (Appeals) has recognised this principle, which is also supported by the various decisions of the Calcutta High Court, Delhi High Court and Bombay High Court referred to earlier while setting out the arguments of Shri Swaminathan, on behalf of the intervener and Shri Mohanty, on behalf of the revenue. He, therefore, submitted that the CIT (Appeals) had rightly accepted the. assessee's contention for deduction of the cost of acquisition of the bonus shares by spreading out the cost of acquisition of the original shares, as worked out by the assessee and in directing the Income-tax Officer to allow the same as a deduction in computing the capital gains, in addition to the fair market value of the original shares as on 1-1-1964, as required by
+Section 55(2)(i)
+of the Act.
+62. The learned counsel argued that the decision of the Madras High Court in the case of
+T.V.S. & Sons Ltd.
+(supra), heavily relied on by the learned departmental representative, would be a correct decision with reference to the general principles based on the original cost of acquisition if that is the only element involved in a particular case, but
+the said decision
+would not apply to a case of the present type where there are two blocks of shares, which require to be considered separately for the purpose of determining their cost of acquisition with reference to the statutory provisions contained in
+Section 55(2)(i)
+of the Act, which introduces a statutory cost to be taken at the option of the aasessee as on 1-1-1964 in respect of one block of shares.
+The learned counsel contended that the case of
+T.V.S. & Sons Ltd.
+(supra) has overlooked these principles
+laid down by
+the Supreme Court in
+Shekhawati General Traders Ltd.
+'s case (supra) and therefore
+the said decision
+of the Madras High Court would not apply to the case of the present assessee.
+The learned counsel argued that even in the case of
+T.V.S. & Sons Ltd.
+(supra) there was a block of 1447 shares, which had to-be valued as on 1-1-1954 as they were held prior to that date.
+Apparently, this fact had slipped the attention of all parties a,nd the Court, as the said case would also be governed by the decision of the Supreme Court in
+Shekhaioati General Traders Ltd.
+'s case (supra).
+Shri Ramamani submitted that the decision of the Madras High Court in
+T.V.S. & Sons Ltd.
+'s case (supra,) was in consistent with the provisions of the statute contained in
+Section 55(2)(i)
+of the Income-tax Act and was further opposed to the decision of the Supreme Court in
+Shekhawati General Traders Ltd.
+'s case (supra). Therefore, this decision should be confined to its facts and it should not be extended to cases of assessees like the present one.
+The learned counsel also argued that on the authority of this decision of the Madras High Court in
+T.V.S. & Sons Ltd.
+'s case (supra) alone the revenue was not entitled to succeed in the present appeals, if all the other decisions cited at the Bar on behalf of the assessees are to be ignored. He submitted that this decision of the Madras High Court would apply only to a case of actual cost of acquisition and where there is no substitution of statutory cost of acquisition as envisaged in
+Section 55(2)(i)
+of the Act since the judgment of the High Court has proceeded on that basis only.
+63. Shri Ramamani next relied on Salmond on Jurisprudence, (Twelfth Edition) page 153, para 6, under the heading 'Precedents sub silentio or not fully argued'. The learned counsel cited the following passage :
+A decision passes sub silentio, in the technical sense that has come to be attached to that phrase, when the particular point of law involved in the decision is not perceived by the court or present to its mind. The court may consciously decide in favour of one party because of point A, which it considers and pronounces upon. It may be shown, however, that logically the court should not have decided in favour of the particular party unless it also decided point B in his favour ; but point B was not argued or considered by the court. In such circumstances, although point B was logically involved in the fact and although the case had a specific outcome, the decision is not an authority on point B. Point B is said to pass sub silentio.
+Relying on this passage, Shri Ramamani submitted that the three principles of
+Shekhawati General Traders Ltd.
+'s case (supra) were not perceived by the Court, nor brought to its notice nor where they present in their mind, when they decided the case of
+T.V.S. & Sons Ltd.
+(supra), to which case also
+the said decision
+of the Supreme Court was found to be applicable and was actually applied by the Appellate Tribunal in their appellate order dated 9th February, 1979, from which the department had filed the reference to the High Court. He therefore submitted that this decision of the Madras High Court which was decided only on its own peculiar facts and general principles, would not apply to the facts of the present case and that therefore the decision of the CIT (Appeals) should be upheld.
+64. Shri. Mohanty, the learned departmental representative in his reply submitted that it was not the case of the revenue that bonus shares have no value but that it was raising a dispute only about the method of computing such value of bonus shares. He pointed out that in
+CIT v. General Investment Co. Ltd.
+[1981] 131 ITR 366 (Gal.), it has been held that there was no distinction between the case of a dealer in shares and the case of an invester and that the cost would be the same. He pointed out that, that was also a case of determining the cost of acquisition of bonus shares and the Calcutta High Court held that the correct method of valuing bonus shares was to take the cost of the original shares, spread it over the original shares and bonus shares collectively and find out the average price of the shares.
+The learned departmental representative submitted that the Delhi High Court has also taken a similar view in
+Escorts Farms (Ramgarh) Ltd.
+'s case (supra).
+He also pointed out that the same view has been taken by the Special Bench of the Tribunal in
+Rohiniben Trust v. ITO
+[1985] 13 ITD 830 (Bom.). He argued that the cost of acquisition of the bonus shares was embedded in the cost of acquisition of the original shares and therefore the assessee would not be entitled to any separate deduction on account of the cost of acquisition of the bonus shares, in addition to the cost of acquisition of the original shares as claimed by him.
+Shri Mohanty next submitted that the decision of the Madras High Court in the case of
+T.V.S. & Sons Ltd.
+(supra) relied on by him was rightly decided and there was no mistake in it. Finally, he submitted that even if the department's additional ground of appeal is rejected, the department was entitled to succeed, as the assessee would not be entitled to any further deduction on account of the cost of acquisition of the bonus shares, as the fair market value of the original shares as on 1-1-1964 would cover the cost of acquisition of the bonus shares also.
+He finally submitted that the facts of the present case were similar to the facts in the case of
+T.V.S. & Sons Ltd.
+(supra), as the present assessee has transferred his entire shareholdings in Madura Coats Ltd., en bloc.
+65. The dispute raised in this third issue relates to the following amounts which have been directed to he allowed as the cost of acquisition of the bonus shares in addition to the fair market value of the original shares in the two amalgamating companies :
+(i) Madura Mills Co. Ltd.
+(a) 638 bonus shares issued,
+        in 1966                    Rs. 13,583
+(b) 6000 bonus shares issued
+    in 1967                        Rs. 63,840     Rs. 77,423
+(ii)A & F Harvey Ltd.
+    11,350 bonus shares issued
+    in 1964                        Rs. 75,705
+                                   Total          Rs. 1,53,128
+There is no dispute about the figures set out above. The dispute is only about the principle for allowing this amount of Us. 1,53,128 as a separate deduction in addition to the cost of acquisition or the fair market value of the original shares in these two companies.
+66.
+In
+T.V.S. & Sons Ltd.
+'s case (supra), their Lordships of the Madras High Court have held that the question of determining the cost of acquisition of bonus shares would arise only in a case where the bonus shares are sold and capital gains have to be determined in respect of sale of the bonus shares alone and that, however, when the entire shareholding, including the original shares and bonus shares are compulsorily acquired, the question of determining the cost of acquisition of the bonus shares separately would not arise. Their Lordships also held that the valuation of bonus shares on the averaging method is not intended to distort the total outlay on the shares in the purchase account, that the theory of averaging is a principle of costing resorted to, to determine the cost of the bonus shares alone, with a view to reckoning the result of any transaction in respect of bonus shares alone. Their Lordships further held that when the entire block of shares held by a shareholder is sold and in that sale all the bonus shares held by the shareholder also figure, there can be no occasion or necessity for determining the cost of bonus shares separately, that the whole cost of the shares including the bonus shares is already a known figure and that it would be an unnecessary refinement to ascertain the individual cost of each share because by getting at the average cost of bonus shares, the average cost of the original shares must inevitably get reduced pro tanto. In our view, this decision of the Madras High Court is directly applicable to the facts of the present case, as the assessee has transferred Ms entire shareholdings in Madura Coats Ltd.
+67. Though we find considerable force in the arguments advanced by the learned counsel on behalf of the assessees with reference to the decision of the Supreme Court in
+Shekhawati General Traders Ltd.
+'s case (supra), which has been followed by Bombay, Calcutta and Delhi High Courts, in the decisions cited by them, we find ourselves unable to accept the same in view of the direct decision of the Madras High Court in the case of
+T.V.S. & Sons Ltd.
+(supra), which is in favour of the revenue and against the assessee. We are unable to agree with the learned counsel that this decision of the Madras High Court would not apply to the facts of the present case and that
+the said decision
+should be confined as given on its own facts and on general principles, as contended by the learned counsel for the assessee. We a,re also unable to accept the plea of the learned counsel based on the rule of sub silentio quoted from Salmond on Jurisprudence. In Indian Express (Madurai) (P.)
+Ltd.
+'s case (supra), at p. 715, their Lordships of the Madras High Court have held, dealing with the revenue's contention about the ratio decidendi of the Supreme Court in
+Mahalakshmi Textile Mills Ltd.
+'s case (supra,) as follows :
+We are prepared to agree with Mr. Rangaswami in thinking that the passage relied on by him constitutes the decision of the Supreme Court
+in that case
+. If it were the decision of any other court, we might even be inclined to regard this passage alone as the binding part of the decision. However, we cannot make any distinction between a ratio, on the one hand and the dicta, on the other, in the Supreme Court decision. Where the particular determination by the Supreme Court not only disposes of the case, but also decides a principle of law, the actual ratio in the case is a precedent which is binding on all the courts in the land, including the High Courts. But equally binding are the dicta of the Supreme Court, even though such dicta cannot be strictly regarded as forming the ratio of the court's decision in a given case. While, therefore, we regard the passage relied on by Mr. Rangaswami as a ratio of the case, we cannot afford to disregard the passage which we have earlier quoted from the same Supreme Court judgment on the score that the observations therein contained are merely dicta and not the real ratio in the case.
+We regard the decision in the
+Mahalakshmi Textile Mills
+' case [1967] 66 ITR 710 (SC) as made up of two parts. In one part, the Supreme Court held : 'The claim put forward by the assessee before the Tribunal for the first time nevertheless formed part of the subject-matter of the appeal.' This observation, however, is matched by another observation made by the Supreme Court on the ambit of the Tribunal's jurisdiction. That enunciation, as we read the judgment, has to be found in the earlier passage which we have quoted.' It is in that passage that the Supreme Court have clearly laid down that even though a plea is put forward for the first time before the Tribunal and is inconsistent with the pleas earlier made, the Tribunal has jurisdiction to try and determine important questions, whether on fact or on law, which relates to the assessment of the assessee and there was nothing in the Act which restricts the Tribunal to determining those questions which have been raised before the departmental authorities. It is in this particular passage that the Supreme Court have rendered a comprehensive idea of the scope of the Tribunal's jurisdiction. It may be that the observations of the court were not strictly called for, but they must nevertheless be regarded as binding.
+The learned counsel agreed that while deciding the appeal of
+T.V.S. & Sons Ltd.
+'s case (supra) the Appellate Tribunal had followed the principles
+laid down in
+the decision of
+Shekhawati General Traders Ltd.
+'s case (supra) by the Supreme Court and it has also referred to the same in the body of their order at several places.
+We are therefore unable to accept their contention that their Lordships of the Madras High Court were not aware of the decision of the Supreme Court in
+Shekhaxvati General Traders Ltd.
+'s case (supra) or the principles
+laid down in
+the said case and that those principles were applied by the Tribunal in the said case, merely because there is no specific reference to the decision of the Supreme Court in
+Shekhawati General Traders Ltd.
+'s case (supra) in the body of the judgment in
+T.V.S. & Sons Ltd.
+'s case (supra). It is not for us to speculate as to why there is no reference to
+the said decision
+of the Supreme Court, or whether it was considered by their Lord- ships or not. We would, as a quasi-judicial Tribunal functioning within the territorial jurisdiction of the Madras High Court, respectfully follow
+the said decision
+of the Madras High Court which is binding on us and hold that
+the said decision
+is applicable to the facts of the present case. In view of this, we do not consider it necessary to examine in detail the other decisions of Bombay, Calcutta and Delhi High Courts, which were relied on by the learned counsel as in favour of the assessee's case. We would, therefore, decide this issue in favour of the revenue and against the assessee and hold that the assessee is not entitled to deduct the sum of Rs. 1,53,128 as the cost of bonus shares, in addition to the cost of acquisition of the original shares in the two amalgamating companies.
+68. The next issue in the departmental appeal relates to the rate of capitalisation to be adopted in valuing the original 22,700 shares held by the assessee in A & F Harvey Ltd. as on 1-1-1964 in the event of the option for adopting the fair market value as on 1-1-1964 being available. Shri Mohanty, the learned departmental representative, submitted that the cost of acquisition that is to be determined under the
+Income-tax Act
+, would be beneficial to the assessee, but the same would be adverse to the assessee under the
+Wealth-tax Act
+. He submitted that the rate of 9 per cent which was adopted by the Income-tax Officer for capitalisation, was based on the circular of the Central Board of Direct Taxes in Circular No. 2-WT dated 31st October, 1967 published at page 2 of 92 ITR (St.). The learned departmental representative pointed out that this circular was issued in supersession of all the earlier instructions for the guidance of the Wealth-tax Officers and therefore the Income-tax Officer had rightly followed these instructions by adopting 9 per cent rate for capitalisation while determining the fair market value of the shares as on 1-1-1964. He argued that the CIT (Appeals) erred in relying on the earlier circular in Circular No. 6-D/WT-60 dated 8-8-1960 from C.B.R. which was superseded by the later circular of 1967. Shri Mohanty submitted that according to the decision of the Gujarat High Court in Rajan Ramkrishna v. CWT [1981] 127 ITR 1 all benevolent circulars issued by the C.B.D.T. are binding on all Income-tax Officers and Wealth-tax Officers and all the persons employed in the execution of the
+Wealth-tax Act, 1957
+even if the circulars deviate from the legal position. He therefore submitted that the Commissioner (Appeals) erred in accepting the assessee's contention and in directing the Income-tax Officer to adopt 6 per cent as the rate of capitalisation in the present case.
+69. Shri Ramamani, the learned counsel for the assessee submitted that while he did not dispute the proposition laid down by the Gujarat High. Court that all the circulars issued by the Board are binding on the officers of the department, he pointed out that the 1967 circular relied on by the learned departmental representative was actually adverse to the assessee and was therefore not a benevolent one so far as the present assessee was concerned. It is for this reason he relied on the earlier circular which was really beneficial to the assessee's case and which has been followed by the CIT (Appeals). In this connection, the learned counsel relied on para 5 at page 24 of the assessee's paper book of the order of the Appellate Tribunal, Madras Bench-B in the case of Textile Paper Tube Co. Ltd. [IT Appeal Nos. 129 and 379 (Mad.) of 1985, dated 14-8-1987] wherein the Appellate Tribunal had upheld the decision of the CIT (Appeals) in the following words :
+The next question to be decided is as to the percentage rate at which the capitalisation should be made. While the Revenue claims that the capitalisation should be at 9 per cent, the assessee claims that it should be at 6 per cent. The Commissioner of Income-tax (A) had given valid reasons as to why 6 per cent is appropriate in this case. He has stated that the rates of interest prevailing in the Indian money market during 1960's were very low. The 'bank rate' was only 4.5 per cent on 3-1-1963 and only 5 per cent on 26-9-1964. He also relied on the Circular issued by the Central Board of Direct Taxes No. 6(WT)/60 in connection with the valuation of the shares of investment companies wherein Board have considered that the capitalisation of the yield @ 6 per cent for the purpose of the valuation of shares to be correct. We find the reasons given by the Commissioner of Income-tax for coming to the conclusion that the proper rate of capitalisation for purpose of value will be 6 per cent and not 9 per cent are adequate and. reasonable. We, accordingly direct the Income-tax Officer to recompute value of the shares as on 1-1-1964 on yield basis by capitalising the yield at 6 per cent.
+He therefore submitted that the order of the CIT (Appeals) on this point should be upheld.
+70. We are now concerned in the present case with the question of determining the fair market value as on 1-1-1964. At that time the circular that was in force was the one issued by the Central Board of Direct Taxes in No. 6(WT)/60 dated 8-8-1960, which is published in C.B.R. Bulletin, Part IV, a copy of which has also been furnished to us by the learned departmental representative. In the said Circular the Board has directed the rate of capitalisation being taken at 6 per cent only and not at 9 per cent.
+In the order of the Appellate Tribunal in the case of
+Textile Paper Tube Co. Ltd.
+(supra) relied on by the assessee's learned counsel, from which we have quoted above, it has been pointed out that the bank rate was only 4.5 per cent on 3-1-1963 and only 5 per cent on 26-9-1964. Having regard to these facts, we are unable to accept the contentions of the revenue that they were right in adopting the rate of 9 per cent for capitalisation by relying on the later circular issued by the Central Board of Direct Taxes on 31st October, 1967, which is more than three years after the relevant date of valuation, namely 1-1-1964. Accordingly, we confirm the order of the CIT (Appeals) on this issue and decide the same against the revenue;and in favour of the assessee.
+71. The fifth issue arises out of the assessee's appeal and it relates to the question of taking the average of the values arrived at on yield method and break up value method of shares in respect of the valuation of the 22,700 shares in A & F Harvey Ltd. as on 1-1-1964, referred to in issue No. (iv). The learned counsel for the assessee, Shri Ramamani, relied on the decision of the Supreme Court in CGT v. Smt. Kusumben D. Mahadevia [1980] 122 ITR 38 and contended that in view of this decision of the Supreme Court, the assessee is entitled to succeed on this point in this appeal. Shri Mohanty, the learned departmental representative relied on the orders of the authorities below in support of this method of valuation adopted by the Revenue.
+72. In our view, this issue has to be decided in favour of the assessee and against the revenue, in view of the following decision of the Supreme Court in Smt. Kusumben D. Mahadevia's case (supra) at 46 and 47, wherein their Lordships of the Supreme Court have held as follows :
+The revenue, of course, did not plead for exclusive adoption of the break-up method and wanted the mean of the values arrived at by applying the break-up method and the profit-earning method to be taken as representing the valuation of the shares, but we do not see on what principle can a combination of the two methods be justified. There is no authority either in any judicial decision or in any standard text book on valuation of shares which recognises the validity of a combination of the two methods, though it may sound acceptable as a compromise formula. In fact, Adamson has criticised this combination of the two methods as unscientific in his book on 'The valuation of company shares and business' (fourth edition), at page 55, where he has said :
+The mere averaging of two results obtained by quite different bases of approach can hardly toe said to represent any logical approach, whatever its merit as a compromise. Despite its evident popularity in any quarters, it has not been given judicial recognition in decisions involving the fixation of a value by the court.
+The combination of the two methods advocated on behalf of the revenue has, thus, no sanction of any judicial or other authority and cannot be accepted as a valid principle of valuation of shares."
+We therefore accept the contentions of the learned counsel for the assessee and decide this issue in his favour and against the revenue in the assessee's appeal.
+73. We come to the last issue which relates to the relief, if any, to be allowed in the appeals and the extent of such relief.
+74. In view of our decision in favour of the assessee on issue No. (v), the assessee's appeal in ITA No. 2352/Mds/84 is allowed.
+75. In the department's appeal in ITA No. 2584/Mds/84, the department has succeeded only in respect of issue No. (iii) relating to the cost of acquisition of the bonus shares in Madura Mills Co. Ltd. and A & F Harvey Ltd. The other two issues raised by them in issue Nos. (ii) and (iv) have been decided against them and in favour of the assessee. Consequently, the long-term capital gains that would be chargeable to tax in the hands of the assessee would amount to Rs. 2,07,727 as worked out below :
+Rs.
+(i) Fair market value of the original 3000 shares
+    in Madura Mills Co, Ltd. as on 1-1-1964           1,00,000
+(ii)Fair market value of the original 22,700
+    shares in A & F Harvey Ltd. as on 1-1-1964
+    as worked out by the assessee on yield basis
+    at the rate of 6 per cent capitalisation          8,15,384
+(iii)Actual cost of acquisition of 7883 shares
+     issued, to the assessee in 1972 in A & P
+     Harvey Ltd., about which there is no dispute     1,39,792
+     Total cost of acquisition of the shares
+     transferred.                                     10.56.036
+     Net sale consideration received by the
+     assessee                                         12,63,763
+     Less : Total cost of acquisition of shares
+     worked out above                                 10,56,036
+     Long term capital gains                          2,07,727
+ 
+
+The Income-tax Officer is directed to take the figure of long term capital gains at Rs. 2,07,727 in the place of Rs. 1,74,001 as determined by the CIT (Appeals). To this extent, the department's appeal is allowed in part.
+76. Before we take leave of this case, we consider it our pleasant duty to place on record our deep sense of appreciation for the able assistance we have received from the learned counsel Shri K.R. Ramamani appearing for the assessee and Shri B.C. Mohanty, the learned departmental representative, representing the Revenue. They dwelt in the course of their persuasive arguments in depth, on all facets of the laws which had a bearing on elucidating the provisions. We are also grateful to Shri S. Swaminathan and Shri S. Padmanabhan, the learned counsels who intervened, who by putting forth their different view points gave a completeness to the arguments for resolving the issues before us.
+G. Krishnamurthy, President
+1. I have gone through the order prepared by my learned brother so painstakingly marshalling the facts as well as the arguments addressed to us during the course of hearing by the eminent counsel for the assessee and the departmental representative. As a layman, I thought there should be no difficulty in accepting the assessee's contention in this case to permit him to substitute for the cost of the shares of Madura Mills and A & F Harvey Ltd., the fair market value thereof as on 1-1-1964, whichever is beneficial to him. What has weighed with me in saying so is the clear and explicit language of
+Section 49
+and the mandate contained in that section.
+Section 49
+is enacted with a view to determining the cost of acquisition of certain capital assets acquired in certain modes. It speaks of assets which have become the property of the assessee on distribution of assets on the total or the partial partition of a Hindu undivided family, or assets received under a gift or a Will or by succession, inheritance or devolution or distribution of assets on the dissolution of a firm, body of individuals or other association of persons, distribution of assets on the liquidation of a company as also transfers to a revocable or irrevocable trust. In all these cases and in other cases, which I have left here from mention, the cost of acquisition of the assets to the assessee shall be deemed to be the cost at which the previous owner of the property acquired it, as increased by the cost of any improvement of the asset incurred or borne by the previous owner or the assessee, as the case may be. The Explanation added to this section explains the expression 'previous owner of the property' as the 'last previous owner of the capital asset'. It is to be remembered that the acquisition of the assets under those modes of acquisition, had not cost the assessee anything in terms of money, although those assets have got value in. money's worth.
+2. The levy of capital gains is an anti-inflationary measure. It is intended to secure to the State a portion of appreciation, without effort on the part of assessees in the value of the capital assets that has come about as a result of several welfare measures taken by the State, each of which involved large capital outlay which resulted in an increase in all round prosperity. The hope is that this levy would act as a deterrent on increase of prices.
+3. The capital gain is to be computed by deducting from the full value of the consideration to be received on the transfer of the capital asset, the cost of the acquisition of the asset and of any improvement made thereto. This is the mandate of
+Section 48
+of the Income-tax Act. It is, therefore, imperative to ascertain the cost of acquisition of an asset to compute the capital gain. If there is no cost of acquisition, then there is no capital gain. This is the settled law now as well as before too. But yet there may be situations where an assessee may acquire property in such a way as not to cost him. anything like the ones stipulated in
+Section 49(1)
+to which I have adverted to, such as distribution of assets on partial partition of Hindu undivided family or receipt of assets under a gift or Will or by succession, inheritance or devolution, etc. In all these cases the assessee, who acquires the property, had not incurred any expenditure, but yet the assets, he acquired, have got value. A levy of capital gains tax on the full value of the sale consideration would be unjust and expropriatory in nature, if the cost of acquisition of those assets was not allowed as a deduction, which is a mandate under
+Section 48
+of the Income-tax Act. Since these assets had cost something to the previous owner, before they became the property of the assessee, the Legislature thought that since the holding of these assets either by one assessee or the other in the circumstances mentioned in
+Section 49
+was continuous, the cost of acquisition to the previous owner should be taken as the cost of acquisition by the assessee also. For example, a property taken under a gift while it cost nothing to the donee, it did cost something to the donor. It was because of the gift made by the donor to the donee, that the donee became the owner of the property. Though there is a change of ownership, as a consequence of a gift, the law presumes that the donor and the donee in so far as determining the cost of acquisition is concerned, should be regarded as one and the same. Therefore, the cost of acquisition to the donor is directed to be adopted as the cost of acquisition to the donee. That was why a provision was made in
+Section 49
+, for adopting of cost of acquisition of the previous owner including the cost of improvement as the cost of acquisition to the assessee in cases, where the assessee acquired the assets by the modes specified therein.
+4. My learned brother has already and conspicuously referred to the object with which Sub-section (2) of
+Section 49
+was enacted and the kinds of disabilities that the insertion of the section has sought to alleviate. It is to promote the amalgamations of uneconomic units with economically sound units without having to pay any capital gains tax as a consequence of amalgamation. Although amalgamation of two companies does amount to a transfer, that transfer was sought to be excluded from the purview of capital gains tax only to encourage amalgamation of companies as mentioned above, but the shares allotted in the amalgamated company, as a consequence of amalgamation continue to be the assets of the assessee, except that there was an exchange of shares held by him in the amalgamating company, with the shares held in the amalgamated company. The latter shares may be sold and it is possible to realise a gain out of it. That gain is a capital gain taxable under
+Section 45
+of the Income-tax Act. Again the question arises as to how the cost of acquisition of the shares in the amalgamated company should be determined in order to compute the capital gains as provided for in
+Section 49
+of the Income-tax Act. The Legislature thought that the cost of acquisition of the shares in an amalgamated company shall be the cost of acquisition to him of the shares in the amalgamating company. In other words, the idea built into  Sub-section (1) of
+Section 49
+of deeming the cost of acquisition to the previous owner, is also woven into the amalgamation of companies. It cannot now be said that the assessee acquired the shares in the amalgamated company without incurring any cost. The cost to him actually is the cost, he incurred in acquiring the shares in the amalgamating company and he by reason of agreeing to the amalgamation by surrendering his shares in the amalgamating company acquired the shares in the amalgamated company. Therefore, the cost of acquisition of the shares in the amalgamated company has to be none other than the cost of acquisition to him of those shares in the amalgamating company. This appears to be the reason behind enacting  Sub-section (2) of
+Section 49
+w.e.f. 1-4-1987. Now an assessee, who acquires shares in an amalgamated company has the right to adopt the cost of acquisition of those shares, while they were shares of the amalgamating company. Thus, the right to adopt the "cost of acquisition to the previous owner" of the assets as the predecessor-in-title as the cost of acquisition to "new., owners" was statutorily recognised and, therefore, whatever facilities and concessions that are given to the previous owners should as of right, if only to avoid discrimination, be made available to an assessee referred to both in
+Sections 49(1)
+and
+49(2)
+alike. Once the occasion to exercise this right arises, namely, the sale of the shares of the amalgamated company, the provisions of
+Section 55
+will come into play. It is this section that provides as to what is the meaning of the expression 'cost of acquisition' for the purposes of levy of capital gains tax. It specifically provides that the meaning of 'cost of acquisition' is for the purposes of
+Sections 48
+,
+49
+and
+50
+of the Income-tax Act. Sub-section (2) of
+Section 55
+again specifically provides that, "for the purposes of
+Sections 48
+and. 49, Cost of acquisition in relation to a capital asset shall be determined in the manner provided thereafter". Clause (i) of the section provides that "where the capital asset became the property of the assessee before 1st day of January, 1964, means the cost of acquisition of the asset to the assessee or the fair market value of the asset on the 1st day of January, 1964, at the option of the assessee". That means, if the capital asset became the property of the assessee before 1-1-1964, the cost of acquisition has to be taken at the option of the assessee, either as the cost of acquisition of the asset to the assessee, or the fair market value as on 1-1-1964. In this case, by reason of
+Section 49(2)
+of the Income-tax Act, the cost of acquisition of the shares in the amalgamated company is to be deemed to be the cost of acquisition of the shares in the amalgamating company. These shares in the amalgamating company were available even prior to 1-1-1964. Therefore, it becomes abundantly clear that the cost of acquisition of these shares must, at the option of the assessee, be taken either at the actual cost of the assets or their fair market value as on 1-1-1964. Thus the controversy, whether the option provided for in
+Section 55(2)
+is available to the assessee, nor the question that the shares in the amalgamating company having come into existence only after 1-1-1964, were not available before 1-1-1964 and, therefore, the option provided for in
+Section 55(2)
+of the Income-tax Act was not available, does not simply arise. This, I thought, is the layman's approach without getting embroiled into the semantics. It cannot be the case of the Revenue that the provisions of
+Section 49(2)
+would have no application to the amalgamated shares. If
+Section 49(2)
+applied, there is no option other than to apply
+Section 55(2)(i)
+. On the basis of this logic, I consider, the assessee is entitled to succeed in so far as valuing the shares sold, which were existing prior to 1-1-1964 by substituting the fair market value of those shares as on 1-1-1964. There may be some difficulty in arriving at the fair market value as on 1-1-1964,, but that has been dealt with separately, which I think is quite proper on the facts in this case to adopt. I entirely endorse all the other reasons and conclusions.

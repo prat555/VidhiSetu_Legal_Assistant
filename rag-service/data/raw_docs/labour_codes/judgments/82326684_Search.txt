@@ -1,0 +1,2230 @@
+Title: Search
+Court: High Court of Delhi, it has been reiterated that a Tribunal appointed by one
+Date: 5 of 1908
+Citation: SCC India Limited
+Source: https://indiankanoon.org/doc/82326684/
+
+[Cites
+49
+, Cited by
+0
+]
+Delhi District Court
+Hdfc Bank Limited ........Decree ... vs . on 22 November, 2022
+BEFORE THE COURT OF SH. SURINDER S. RATHI, DISTRICT JUDGE
+            (COMM.)-03 SHAHDARA, KKD, DELHI
+
+Ex. No.121/2022
+
+HDFC Bank Limited                                                                    ........Decree Holder
+
+                                                                          Vs.
+
+Azad Kalam                                                                           ........Judgment Debtor
+
+                                                              'INDEX'
+
+ Sr. No.                                                          Description                                                      Page
+    1.         Order on Maintainability of Execution Petition                                                                       2
+    2.         Submissions made on behalf of Decree Holder                                                                          3
+    3.         Assessment of Executability of Ex-Parte Award Passed by Unilaterally Appointed Sole Arbitrator                       4
+         3.1 Scope of Judicial Intervention by Execution Court under
+Section 47
+CPC                                                 5
+         3.2 Objective behind inclusion of
+Section 12 (5)
+and Schedule 7 in the
+Arbitration and Conciliation Act,                   10
+1996 by way of
+Arbitration and Conciliation (Amendment) Act, 2015
+w.e.f. 23.10.2015
+         3.3 Law Commission of India's 176th and 246th Report on Arbitration and Conciliation Amended Bill                          12
+             and "Neutrality of Arbitrators"
+         3.4 Law laid by Hon'ble Supreme Court in Authoritative Judgments:                                                          18
+                    •     TRF Limited Vs. Energo Engineering Projects Limited
+                    •     Perkins Eastman Architects DPC Vs. HSCC India Limited
+                    •     Voestalpine Schienen GMVH Vs. DMRC Ltd.
+                    •     Bharat Broadband Network Vs. United Telecoms Limited
+                    •     HARSAC and Anr. Vs. Pan India Consultants
+                    •     Jaipur JDUSS Ltd. Vs. Ajay Sales and Suppliers
+                    •     Ellora Papermills Vs. State of M.P. Dharma Prasthanam Vs. Madhok Construction Pvt. Ltd.
+
+         3.5 UNCITRAL Model Law on Commercial Arbitration 1985 and UNCITRAL Arbitration Rules, 2021                                 29
+             proscribe and forbid Unilateral appointment of Sole Arbitrator by a disputing party
+         3.6   Legal position on unilateral appointment of Sole Arbitrator in other countries                                       31
+         3.7 Why NBFCs wish to impose their chosen Sole Arbitrator on the borrower and why there is                                 32
+             resistance abiding Hon'ble Supreme Court ruled on TRF Limited, Perkins Eastman Judgments?
+         3.8 Adverse effect of one sided arbitrators on "Enforcement of Contract" component of "Ease of Doing                       33
+             Business" Ranking of India in World Bank's Doing Business Reports of Invesment Friendly Nations
+         3.9 Ad-hoc Arbitrations by Unilaterally Appointed Sole Arbitrators weakening people's faith in Arbitration as an           34
+             ADR
+     3.10 Justice B. N. Srikrishna Report on Arbitration stressed on strengthening 'Institutional Arbitration                       35
+          Centres' in India
+     3.11 Unilateral appointment of Arbitrator is Anti-thesis to "Nemo Judex in causa cua"- No one can be a                         37
+          Judge in his own case
+     3.12 Whether CORE Judgment has over-ruled TRF Limited Judgment of Hon'ble Supreme Court?                                       37
+     3.13 Conclusion                                                                                                                41
+     3.14 Petition seeking execution of Ex-Parte Award passed by a Unilaterally Appointed Arbitrator is like                        42
+          reaping benefits of one's own wrong-doing and is abuse of Court process
+
+
+
+
+HDFC Bank Limited Vs. Azad Kalam, Ex. No.121/2022                                                                   page 1 of 46
+ Ex. No.121/2022
+
+HDFC Bank Limited                                                       ........Decree Holder
+
+                                                               Vs.
+
+Azad Kalam                                                              ........Judgment Debtor
+
+
+22.11.2022
+
+
+                   Order on Maintainability of Execution Petition
+
+                   This petition seeks execution of an Ex-parte Arbitral Award
+dated 27.10.2021 passed by Sh. Rajesh Rai, Ld. Sole Arbitrator at New
+Delhi in favour of DH Finance Company and against the JD for a sum of
+Rs.3,87,164/- along with interest at contractual rate @ 8% per annum.
+                   In so far as the arbitral award sought to be executed through
+this Court was an ex-parte award passed by Ld. Sole Arbitrator who was
+unilaterally appointed by the DH Finance Company, following order was
+passed by this Court qua maintainability of this execution petition on
+20.10.2022.
+         Present: None
+
+                    This petition seeks execution of ex-parte arbitral award dated 27.10.2021. Perusal of copy
+         of the arbitral award shows that the arbitrator was unilaterally appointed by the plaintiff and there was
+         no agreement before the accrual of cause of action or thereafter between the parties for appointment
+         of Mr. Rajesh Rai. Per se this unilateral appointment appears to be in direct violation of Three-Judge
+         judgment of Hon'ble Supreme Court titled TRF Limited Vs. Energo Engineering Projects Limited
+         2017 Latest Caselaw 918 SC 2017(8) SCC 377 and case title Perkins Eastman Architects DPC Vs.
+         HSCC India Limited 2019 Latest Caselaw 1154 SC, 2019 SCC Online SC 1517.
+
+                     This was reiterated by Hon'ble Supreme Court in Central Organisation of Railway
+         Electrification Vs. ECI-SPIC-SMO-FCML(JV) 2019 Latest Caselaw 1281 SC. In several
+         judgments of the Hon'ble High Court of Delhi, it has been reiterated that a Tribunal appointed by one
+         party is hit by
+Section 12
+and Schedule 5 & 7 of
+Arbitration & Conciliation Act, 1996
+and that Awards
+         passed by such unilaterally appointed Arbitrators are not tenable in law. Relevant caselaws from Delhi
+         are:-
+
+         1.        Delhi Integrated Multi Model Transit Systems vs. Delhi Jal Board, 2021 Latest Caselaw 3048 Delhi;
+         2.        Proddatur Cable TV Digi Services vs. SITI Cable Network Ltd., 2020 Latest Caselaw 328 Delhi;
+         3.        M/s. Omcon Infra Pvt. Ltd. v. Indiabull Investment Advisors Ltd.,2020 Latest Caselaw 2545 Delhi;
+         4.        VSK Technologies Pvt. Ltd. v. Delhi Jal Board, 2021 Latest Caselaw 274 Delhi;
+         5.        Chhaya Rai vs. KLJ Developers Pvt. Ltd., 2021 Latest Caselaw 1440 Delhi.............
+
+
+
+
+HDFC Bank Limited Vs. Azad Kalam, Ex. No.121/2022                                                        page 2 of 46
+                    Arguments have been heard at length on behalf of Ld.
+Counsel for Execution Petitioner, the Execution File is perused and the
+judgments cited on behalf of DH company are also perused.
+Submissions made on behalf of Decree Holder:
+
+
+                   While opening his submissions Ld. Counsel for Execution
+Petitioner has primarily addressed the Court that there is legal no flaw in
+the appointment of Sole Arbitrator, Arbitration Proceedings carved out and
+passing of Ex-Parte Award under Execution.
+                   The points highlighted for DH during the submissions made
+on behalf of DH are discussed as under:
+
+
+    (1) That the Execution Court cannot go behind the Decree/Award as per
+Section 47
+CPC.
+
+    (2) That
+Section 11(2)
+of the Arbitration and Conciliation Act, 1996 gives
+        autonomy to the parties to agree to the procedure for appointment of Arbitrators.
+
+    (3) That the Arbitration Clause agreed between the parties permit the Finance
+        Company to unilaterally appoint the Sole Arbitrator.
+
+    (4) That notice of unilateral appointment of arbitrator was sent to the JD but no
+        objection/challenge was filed qua the same.
+
+    (5) That no petition under
+Section 12
+as
+Section 16
+was filed during the pendency
+        of the arbitral proceedings.
+
+    (6) That no objection qua unilateral appointment of Arbitrator was raised under
+Section 34
+of Arbitration and Conciliation Act, 1996 by the DH.
+
+    (7) That the judgments of TRF Limited, Perkins Eastman and Voestalpine stands
+        over-ruled/diluted by judgments of CORE Judgment of Supreme Court.
+
+    (8) That Konodia Infratech Judgment of Delhi High Court ruled that once the
+        Award is passed the aspect of unilateral appointment of Arbitrator cannot be
+        raised.
+
+
+
+HDFC Bank Limited Vs. Azad Kalam, Ex. No.121/2022                          page 3 of 46
+ Assessment of Executability of the Ex-Parte Award passed by
+Unilaterally Appointed Sole Arbitrator
+
+The aspect of maintainability and executabiliy of this Petition seeking
+Execution of Ex-Parte Award passed by a unilaterally appointed Arbitrator
+as raised can be discussed and decided under following heads:
+              I. Scope of Judicial Intervention by Execution Court under
+Section 47
+CPC.
+
+              II. Objective behind inclusion of
+Section 12 (5)
+and Schedule 7in
+                  the
+Arbitration and Conciliation Act, 1996
+by way of
+Arbitration and Conciliation (Amendment) Act, 2015
+w.e.f.
+                  23.10.2015.
+
+              III.Law Commission of India's 176th and 246th Report on
+                  Arbitration and Conciliation Amended Bill and "Neutrality of
+                  Arbitrators".
+
+              IV. Law laid by Hon'ble Supreme Court in authoritative
+                  Judgments
+                   debarring "Unilateral Appointment of Sole Arbitrators".
+                   (i) TRF Limited Vs. Energo Engineering Projects Ltd.1
+                  (ii) Voestalpine Schienen GMVH Vs. DMRC Ltd. 2
+                  (iii)Perkins Eastman Architects DPC Vs. HSCC IndiaLtd.3
+                  (iv) Bharat Broadband Network Vs. United Telecoms Ltd.4
+                  (v) HARSAC and Anr. Vs. Pan India Consultants5
+                  (vi) Jaipur JDUSS Ltd. Vs. Ajay Sales and Suppliers6,
+                  (vii) Ellora Papermills Vs. State of M.P.7
+                                                                                        8
+                  (viii)Dharma Prasthanam Vs. M/s Madhok Construction Pvt. Ltd.
+
+              V. UNCITRAL Model Law on Commercial Arbitration 1985 and
+                 UNCITRAL Arbitration Rules, 2021 proscribe and forbid
+                 Unilateral appointment of Sole Arbitrator by a disputing
+                 party.
+
+             VI. Legal position on unilateral appointment of Sole Arbitrator in
+                 other countries.
+
+             VII. Why NBFCs wish to impose their chosen Sole Arbitrator on
+
+              1    2017(8) SCC 377, 2017 Latest Caselaw 918 SC
+              2    (2017) 4 SCC 665, 2017 Latest Caselaw 919 SC
+              3    (2020) 20 SCC 760, 2019 Latest Caselaw 1154 SC
+              4    (2019) 5 SCC 755, 2019 Latest Caselaw 395 SC
+              5    (2021) 3 SCC 103, 2021 Latest Caselaw 33 SC
+              6    2021 SCC Online SC 730, 2021 Latest Caselaw 710 SC
+              7    (2022) 3 SCC 1 , 2022 Latest Caselaw 8SC
+8                  (2005) 9 SCC 686
+
+
+HDFC Bank Limited Vs. Azad Kalam, Ex. No.121/2022                        page 4 of 46
+                  the borrower and why there is resistance abiding Hon'ble
+                 Supreme Court ruled on TRF Limited, Perkins Eastman
+                 Judgments?
+
+           VIII. Adverse effect of one sided arbitrators on "Enforcement of
+                 Contract" component of "Ease of Doing Business" Ranking of
+                 India in World Bank's Doing Business Reports of Invesment
+                 Friendly Nations.
+
+           IX.     Ad-hoc Arbitrations by Unilaterally Appointed Sole
+                   Arbitrators weakening people's faith in Arbitration as an
+                   ADR.
+
+           X.      Justice B. N. Srikrishna Report on Arbitration stressed on
+                   strengthening 'Institutional Arbitration Centres' in India.
+
+           XI.     Unilateral appointment of Arbitrator is Anti-thesis to "Nemo
+                   Judex in causa cua"- No one can be a Judge in his own case.
+
+           XII. Whether CORE Judgment has over-ruled TRF Limited
+                Judgment of Hon'ble Supreme Court?
+
+           XIII. Conclusion
+
+           XIV. Petition seeking execution of Ex-Parte Award passed by a
+                Unilaterally Appointed Arbitrator is like reaping benefits of
+                one's own wrong-doing and is abuse of Court process.
+
+    Now I will endeavour to discuss these aspects and submissions
+    made on behalf of DH at length.
+
+
+    (I) Scope of Judicial Intervention by Execution Court under
+Section 47
+CPC.
+    1. This Execution Petition has been filed under
+Section 36
+of
+         Arbitration and Conciliation Act, 1996 (hereinafter referred to as
+         "
+The Act
+" read with
+Order 21 CPC
+(hereinafter referred to as 'The
+         Code'). In the succeeding paras this Court with endeavour to
+         ascertain if an "Execution Court" can refuse to execute an Arbitral
+         Award if it is found that the same is passed by an Arbitration
+         Tribunal which lacked inherent Jurisdiction to adjudicate the dispute
+         and whether its appointment was non est and void ab initio.
+
+HDFC Bank Limited Vs. Azad Kalam, Ex. No.121/2022                        page 5 of 46
+     2. It would be handy to have a glance of
+Section 36
+of '
+The Act
+'.
+Section 36
+: Enforcement
+                     (1)    When the time for making an application to set aside the arbitral
+                             award under
+Section 34
+has expired, then, subject to the provisions of
+                             sub-section (2) such award shall be enforced in accordance with the
+                             provisions
+of the Code of Civil Procedure
+, 1908 (5 of 1908), in the
+                             same manner as if it were a decree of the court.
+                     (2)     Where an application to set aside the arbitral award has been filed in
+                             the Court under
+Section 34
+, the filing of such an application shall not
+                             by itself render that award unforceable, unless the Court grants an
+                             order of stay of the operation of the said arbitral award in accordance
+                             with the provisions of sub-section (3), on a separate application made
+                             for that purpose.
+                     (3)     Upon filing of an application under sub-section (2) for stay of the
+                             operation of the arbitral award, the Court may, subject to such
+                             conditions as it may deem fit, grant stay of the operation of such
+                             award for reasons to be recorded in writing:
+                             Provided that the Court shall, while considering the application for
+                             grant of stay in the case of an arbitral award for payment of money,
+                             have due regard to the provisions for grant of stay of a money decree
+                             under the provisions
+of the Code of Civil Procedure
+, 190.
+                             Provided further that where the Court is satisfied that a prima fcie
+                             case is made out that-
+                                  (a) the arbitration agreement or contract which is the basis of the
+                                      award; or
+                                  (b) the making of the award was induced or effected by fraud or
+                                      corruption, it shall stay the award unconditionally pending
+                                      disposal of the challenge under
+Section 34
+to the award.
+                            Explanation-For the removal of doubts, it is hereby clarified that the
+                            above proviso shall apply to all court cases arising out of or in relation
+                            to arbitral proceedings, irrespective of whether the arbitral or court
+                            proceedings were commenced prior to or after the commencement of
+                            the
+Arbitration and Conciliation (Amendment) Act, 2015
+(3 of 2016)
+                                                                                  (Emphasis Supplied)
+
+    3. A plain reading of the Statutory Provision makes it amply clear that
+         the right of Award Holder to seek Enforcement of Award is subject
+         to provisions of 'The Code'.
+    4. This brings us to
+Section 47
+of the Code which governs the scope
+         of judicial intervention by an Execution Court. For ready reference
+         same is reproduced hereunder:
+Section 47
+CPC: Questions to be determined by the Court
+         executing decree
+                   (1)     "All questions arising between the parties to the suit in which the decree
+
+
+HDFC Bank Limited Vs. Azad Kalam, Ex. No.121/2022                                      page 6 of 46
+                               was passed, or their representatives, and relating to the execution,
+                              discharge or satisfaction of the decree shall be determined by the
+                              Court executing the decree and not by a separate suit.
+                   (2)        ........
+
+                   (3)        Where a question arises as to whether any person is or is not the
+                              representative of a party, such question shall, for the purposes of this
+                              Section be determined by the Court.
+                              Explanation I.-For the purposes of this Section, a plaintiff whose suit
+                              has been dismissed and a defendant against whom a suit has been
+                              dismissed are parties to the suit.
+                              Explanation II.-(a) For the purposes of this Section, a purchaser of
+                              property at a sale in execution of a decree shall be deemed to be a
+                              party to the suit in which the decree is passed; and
+                              (b) All questions relating to the delivery of possession of such property
+                              to such purchaser or his representative shall be deemed to be
+                              questions relating to the execution, discharge or satisfaction of the
+                              decree within the meaning of this Section."
+
+    5. Plain reading of the above Statute makes it evident that once a
+         decree is passed by a Court or an Award is passed by an Arbitral
+         Tribunal all             the questions related to Execution of such
+         Decree/Award must be taken up and determined by the Executing
+         Court itself and that there shall be no separate suit for this purpose.
+         In case title Harmand Rai Badridas Vs. Devidutt Bhagwati
+         Prasad and Ors.9 Hon'ble Supreme Court ruled that,
+                  "In order to empower the Executing Court to consider and determine
+                  all questions relating to the execution of a decree, unless it falls beyond
+                  its ambit, the provision of
+Section 47
+of the Code must be interpreted
+                  liberally."
+
+    6. One of the most important duty casted by
+Section 47
+of the Code on
+         Executing Court is to ascertain:
+                   •       Whether the Decree/Arbitral Award passed is executable?
+                   •       Did the Court/Arbitral Tribunal which passed the Decree/Award
+                           lacked inherent jurisdiction rendering such Decree/Award to be a
+                           nullity?
+           Thus the duty of the Executing Court include:-
+                       ➢      To not to go beyond decree.
+                       ➢      To not to question the correctness of the Decree unless there is
+                              some ambiguity.
+                       ➢      To ascertain if the Court/Arbitral Tribunal which passed the
+                              Decree/Award had the inherent jurisdiction.
+
+9 AIR (1973) SC 2423
+
+
+HDFC Bank Limited Vs. Azad Kalam, Ex. No.121/2022                                       page 7 of 46
+      7. Thus the question to be dealt by the Executing Court necessarily
+          restricts itself to the execution part of the decree as long as the same
+          is lawful, executable and is a not non est or nullity. The Law in this
+          regard is no longer res integra. There are several authoritative
+          pronouncements in this regard. In case title Sunder Dass Vs. Ram
+          Prakash10 of Hon'ble Mr. Justice P. N. Bhagwati while speaking
+          in for the Bench ruled,
+                 "The validity of a decree can be challenged in execution proceedings only
+                 on the ground that the court which passed the decree lacked inherent
+                 jurisdiction. A court is said to be lacking in jurisdiction when it could not
+                 have seisin of the case because the subject matter was wholly foreign to its
+                 jurisdiction or that the defendant was dead at the time of institution of the
+                 suit or when the suit was decreed. Inherent lack of jurisdiction means a
+                 power or jurisdiction which does not at all exist or vest in a court. A court
+                 lacks inherent jurisdiction when the subject matter is wholly foreign to its
+                 ambit and is totally unconnected with its recognized jurisdiction."
+                                                                           (Emphasis Supplied)
+
+     8. In case title Kiran Singh Vs. Chaman Paswan11 Full Bench of
+          Hon'ble Supreme Court ruled,
+                 "It is a fundamental principle that a decree passed by a court without
+                 jurisdictiion is a nullity and that its invalidity could be set up whenever
+                 and wherever it is sought to be enforced or relied upon, even at the stage
+                 of execution and even in collateral proceedings. A defect of jurisdiction
+                 whether it is pecuniary or territorial, or whether it is in respect of the
+                 subject matter of the action, strikes at the very authority of the Court to
+                 pass any decree and such defect cannot be cured even by consent of
+                 parties."
+                                                                          (Emphasis Supplied)
+
+     9. In Case title Urban Improvement Trust, Jodhpur Vs. Gokul
+          Narain12, Hon'ble Supreme Court held that,
+               15. A decree passed by a Court without jurisdiction over the subject- matter
+               or on any other ground which goes to the root of its exercise of jurisdiction
+               or inherent jurisdiction, is a nullity. A decree passed by such a court is a
+               nullity and is non est. Its invalidity can be set up whenever it is sought to be
+               enforced or is acted upon as a foundation for a right even at the stage of
+               execution or in collateral proceedings. The defect of jurisdiction strikes at
+
+10 AIR 1977 SC 1201
+11 1954 Latest Caselaw 43 SC
+12 AIR 1996 SC 1819 , 1996 Latest Caselaw 332 SC
+
+
+HDFC Bank Limited Vs. Azad Kalam, Ex. No.121/2022                                     page 8 of 46
+                the authority of the Court to pass a decree which cannot be cured by
+               consent or waiver of the party."
+                                                                  (Emphasis Supplied)
+
+     10.In case title Saraswat Trading Agency Vs. Union of India13, it is
+          held by High Court that,
+                  "If Court finds that decree is a nullity, Court cannot proceed to
+                  execute it. A decree which is a nullity in the eye of law is no decree and,
+                  hence, even by consent of the parties such a decree cannot be executed by
+                  the Court. But for this reason it cannot be denied the remedy available to
+                  it under
+Section 47
+. If the Court finds that the decree is a nullity, the
+                  Court cannot proceed to execute it, and it is the duty of the Court to hold
+                  that the decree is not executable."
+                                                                               (Emphasis Supplied)
+
+     11. In Daland Uchha Bidyapith Vs. State of Orissa14, it is held that,
+                  "Execution cannot be refused except in case of nullity Execution of the
+                  decree ought not to be refused, unless the decree itself is a nullity."
+
+     12.In case title Brakewel Automative Components (India Private)
+          Ltd. Vs. P.R. Selvam Alagppan15, Hon'ble Supreme Court ruled at
+          para 23 that,
+                   "Through this view has echoed time out of number in similar
+                   pronouncements of this Court in Dhurandhar Prasad Singh Vs. Jain
+                   Prakash University and Others, AIR 2001 SC 2552, while dwelling on
+                   the scope of
+Section 47
+of the Code, it was ruled that the powers of the
+                   court thereunder are quite different and much narrower than those in
+                   appeal/revision or review. The exercise of power under
+Section 47
+of
+                   the Code is microscopic and lied in a very narrow inspection hole and
+                   an executing court can allow objection to the executability of the decree
+                   if it is found that the same is void ab initio and is a nullity, apart from
+                   the ground that it is not capable of execution under the law, either
+                   because the same was passed in ignorance of such provision of law or
+                   the law was promulgated making a decree unexecutable after its passing.
+                   None of the above eventualities as recognised in law for rendering a
+                   decree unexecutable, exists in the case in hand. For obvious reasons, we
+                   do not wish to burden this adjudication by multiplying the decisions
+                   favouring the same view."
+                                                                                (Emphasis Supplied)
+
+     13.In Bijendra Kumar Vs. Pradeep Kumar and Ors. 16 Hon'ble Delhi
+          High Court while discussing another plea between
+Section 47
+CPC
+
+13 AIR 2004 Cal 267 (270)
+14AIR 1993 Ori 257:1993 (1) Ori LR 77
+15 (2017) 5 SCC 371, 2017 Latest Caselaw 235 SC
+16Ex.FA no. 38 of 2012 dated 15.10.2014
+
+
+HDFC Bank Limited Vs. Azad Kalam, Ex. No.121/2022                                    page 9 of 46
+          and
+Section 36
+of Arbitration and Conciliation Act, 1996
+         observed,
+                   "An Award which is a nullity being against public policy can always be
+                   challenged even at the stage of execution in as much as, if we take a
+                   most extreme example that an Award is passed that 'A' will steal money
+                   for 'B' then surely 'B' cannot enforce the Award/decree stating that 'A'
+                   should give him particular amount of money which was to be stolen by
+                   'B' for being given to 'A'."
+                                                                            (Emphasis Supplied)
+
+    14.Thus, on the strength of the above judgments and the discussion it
+         can be fairly concluded that generally speaking the Execution Court
+         cannot go behind the Decree but as far as the Executability of a
+         Decree/Award is concerned, if the Executing Court finds that the
+         judgment is non est or that the Decree/Award is a nullity on account
+         of lack of inherent jurisdiction with the Arbitral Tribunal,
+Section 47
+of the Code fully empowers the Execution Court to declare the
+         Decree/Award as "Not Executable" but shall stop short of declaring
+         it a "Nullity".
+
+         (II) Objective behind inclusion of
+Section 12 (5)
+and Schedule 7
+         of
+Arbitration and Conciliation Act, 1996
+by way of
+Arbitration
+         and Conciliation (Amendment) Act, 2015
+w.e.f. 23.10.2015.
+
+    15.
+Section 12(5)
+was introduced in this 1996 Act by way of
+Arbitration
+         and Conciliation (Amendment) Act, 2015
+notified with effect from
+         23.10.2015 whereby additional ground for challenging the
+         appointment of Arbitrator was introduced with simultaneous
+         inclusion of Schedule 7. For ready reference
+Section 12(5)
+of the
+         Act and the 7th Schedule are reproduced hereunder:
+Arbitration and Conciliation Act, 1996
+Sections 12(5)
+: Grounds of Challenge
+                Notwithstanding any prior agreements to the contrary, any person whose
+                relationship with the parties or counsel or the subject matter of the dispute,
+                falls under any of the categories specified in Schedule 7 shall be ineligible to
+                be appointed as an arbitrator.
+
+
+HDFC Bank Limited Vs. Azad Kalam, Ex. No.121/2022                                    page 10 of 46
+                 "Provided that parties may, subsequent to disputes having arisen between
+                them waive the applicability of this suit by an expressed agreement in
+                writing."
+
+
+                                               "The Seventh Schedule"
+                i. The arbitrator is an employee, consultant, advisor or has any other past
+                     or present business relationship with a party.
+                ii. The arbitrator currently represents or advises one of the parties or an
+                     affiliate of one of the parties.
+                iii. The arbitrator currently represents the lawyer or law firm acting as
+                     counsel for one of the parties.
+                iv. The arbitrator is a lawyer in the same law firm which is representing one
+                     of the parties.
+                v. The arbitrator is a manager, director or part of the management, or has a
+                     similar controlling influence, in an affiliate of one of the parties if the
+                     affiliate is directly involved in the matters in dispute in the arbitration.
+                vi. The arbitrator's law firm had a previous but terminated involvement in
+                     the case without the arbitrator being invoked himself or herself.
+                vii. The arbitrator's law firm currently has a significant commercial
+                     relationship with one of the parties or an affiliate of one of the parties.
+              viii. The arbitrator regularly advises the appointing party or an affiliate of the
+                     appointing party even though neither the arbitrator nor his or her firm
+                     derives a significant financial income therefrom.
+               ix. The arbitrator has a close family relationship with one of the parties and
+                     in the case of companies with the persons in the management and
+                     controlling the company.
+               x. A close family member of the arbitrator has a significant financial
+                     interest in one of the parties or an affiliate in one of the parties.
+               xi. The arbitrator is a legal representative of an entity that is a party in the
+                     arbitration.
+               xii. The arbitrator is a manager, director or part of the management, or has a
+                     similar controlling influence in one of the parties.
+               xiii. The arbitrator has a significant financial interest in one of the parties or
+                     the outcome of the case.
+               xiv. The arbitrator regularly advises the appointing party or an affiliate of the
+                     appointing party, and the arbitrator or his or her firm derives a
+                     significant financial income therefrom.
+               Relationship of the Arbitrator to the dispute
+               xv. The arbitrator has given legal advice or provided an expert opinion on
+                     the dispute to a party or an affiliate of one of the parties.
+               xvi. The arbitrator has previous involvement in the case.
+               Arbitrator's direct or indirect interest in the dispute
+             xvii. The arbitrator holds shares, either directly or indirectly, in one of
+                     the parties or an affiliate of one of the parties that is privately held.
+             xviii. A close family member of the arbitrator has a significant financial
+                     interest in the outcome of the dispute.
+             xix. The arbitrator or a close family member of the arbitrator has a close
+                     relationship with a third party who may be liable to recourse on the part
+                     of the unsuccessful party in the dispute.
+                      Explanation 1-The term "close family member" refers to a spouse, sibling,
+                      child, parent or life partner.
+                      Explanation 2- The term "affiliate" encompasses all companies in one group
+                      of companies including the parent company.
+                      Explanation 3- For the removal of doubts, it is clarified that it may be the
+
+HDFC Bank Limited Vs. Azad Kalam, Ex. No.121/2022                                   page 11 of 46
+                    practice in certain specific kinds of arbitration, such as maritime or
+                   commodities arbitration, to draw arbitrators from a small, specialized pool. If
+                   in such fields it is the custom and practice for parties frequently to appoint the
+                   same arbitrator in different cases, this is a relevant fact to be taken into
+                   account while applying the rules set out above.
+
+
+
+         (III) Law Commission of India's 176th and 246th Report on
+         Arbitration and Conciliation Amended Bill and "Neutrality of
+         Arbitrators".
+    16.Ministry of Law and Justice, Government of India had constituted
+         Law Commission of India which paved the way for bringing up the
+         aforesaid amendments in order to preserve the sanctity of arbitral
+         proceedings by making them 'Neutral', 'Impartial' and 'Unbiased'.
+         The Law Commission recommended maintaining of a healthy
+         balance between the critical component of 'Neutrality and
+         Imparitality' on the one hand and simultaneously balancing the
+         'Party Autonomy' in arbitrations. The Law Commission Reports
+         recommended--
+         -         Incorporating guidelines of International Bar Assocation
+         to establish the standards of independence and imparitality in
+         the form of Schedule 5 and Schedule 7 of the Act.
+         -         Introducing
+Section 12(5)
+of the Act which would
+         disqualify any person whose relationship with the parties,
+         counsel or the subject matter of the dispute falls under the
+         categories set out in the Schedules.
+         The Law Commission of India emphasised on the neutrality in
+         arbitration in following words in paras number 53 to 60 of its 246 th
+         Report:-
+          "NEUTRALITY OF ARBITRATORS"
+                53. It is universally accepted that any quasi-judicial process including
+                Arbitration process must be in accordance with Principles of Natural
+                Justice. In this context of Arbitration Neutrality of Arbitrators viz. their
+
+
+HDFC Bank Limited Vs. Azad Kalam, Ex. No.121/2022                                     page 12 of 46
+                 independence and impartiality is critical to the entire process.
+
+                54.
+In the Act
+, the test for neutrality is set out in
+section 12(3)
+which
+                provides "An arbitrator may be challenged only if (a) circumstances exist
+                that give rise to justifiable doubts as to his independence or
+                impartiality..."
+
+                55.
+The Act
+does not lay down any other conditions to identify the
+                "circumstances" which give rise to "justifiable doubts", and it is clear
+                that there can be many such circumstances and situations. The test is not
+                whether, given the circumstances, there is any actual bias for that is
+                setting the bar too high; but, whether the circumstances in question give
+                rise to any justifiable apprehensions of bias.
+
+                56.The limits of this provision has been tested in the Indian Supreme
+                Court in the context of contracts with State entities naming particular
+                persons/designations (associated with that entity) as a potential
+                arbitrator. It appears to be settled by a series of decisions of the Supreme
+                Court (See Executive Engineer, Irrigation Division, Puri v. Gangaram
+                Chhapolia, 1984 (3) SCC 627; Secretary to Government Transport
+                Department, Madras v. Munusamy Mudaliar, 1988 (Supp) SCC 651;
+                International Authority of India v. K.D. Bali and Anr, 1988 (2) SCC
+                360; S. Rajan v. State of Kerala, 1992 (3) SCC 608; M/s. Indian Drugs &
+                Pharmaceuticals v. M/s. Indo-Swiss Synthetics Germ Manufacturing
+                Co.Ltd., 1996 (1) SCC 54; Union of India v. M.P. Gupta, (2004) 10 SCC
+                504; Ace Pipeline Contract Pvt. Ltd. v. Bharat Petroleum Corporation
+                Ltd., 2007 (5) SCC 304) that arbitration agreements in government
+                contracts which provide for arbitration by a serving employee of the
+                department, are valid and enforceable. While the Supreme Court, in
+                Indian Oil Corp. Ltd. v. Raja Transport (P) Ltd., 2009 8 SCC 520 carved
+                out a minor exception in situations when the arbitrator "was the
+                controlling or dealing authority in regard to the subject contract or if he
+                is a direct subordinate (as contrasted from an officer of an inferior rank
+                in some other department) to the officer whose decision is the subject
+                matter of the dispute", and this exception was used by the Supreme Court
+                in Denel Propreitory Ltd. v. Govt. of India, Ministry of Defence, AIR
+                2012 SC 817 and Bipromasz Bipron Trading SA v. Bharat Electronics
+                Ltd., (2012) 6 SCC 384, to appoint an independent arbitrator under
+section 11
+, this is not enough.
+
+                57.The balance between procedural fairness and binding nature of these
+                contracts, appears to have been tilted in favour of the latter by the
+                Supreme Court, and the Commission believes the present position of law
+                is far from satisfactory. Since the principles of impartiality and
+                independence cannot be discarded at any stage of the proceedings,
+                specifically at the stage of constitution of the arbitral tribunal, it would
+                be incongruous to say that party autonomy can be exercised in
+                complete disregard of these principles - even if the same has been
+                agreed prior to the disputes having arisen between the parties. There are
+                certain minimum levels of independence and impartiality that should
+                be required of the arbitral process regardless of the parties' apparent
+                agreement. A sensible law cannot, for instance, permit appointment of
+                an arbitrator who is himself a party to the dispute, or who is employed
+                by (or similarly dependent on) one party, even if this is what the parties
+                agreed. The Commission hastens to add that Mr. PK Malhotra, the ex
+
+HDFC Bank Limited Vs. Azad Kalam, Ex. No.121/2022                                    page 13 of 46
+                 officio member of the Law Commission suggested having an exception
+                for the State, and allow State parties to appoint employee arbitrators.
+                The Commission is of the opinion that, on this issue, there cannot be any
+                distinction between State and non-State parties. The concept of party
+                autonomy cannot be stretched to a point where it negates the very basis
+                of having impartial and independent adjudicators for resolution of
+                disputes. In fact, when the party appointing an adjudicator is the State,
+                the duty to appoint an impartial and independent adjudicator is that
+                much more onerous - and the right to natural justice cannot be said to
+                have been waived only on the basis of a "prior" agreement between the
+                parties at the time of the contract and before arising of the disputes.
+
+                58.Large scale amendments have been suggested to address this
+                fundamental issue of neutrality of arbitrators, which the Commission
+                believes is critical to the functioning of the arbitration process in India.
+                In particular, amendments have been proposed to
+sections 11
+,
+12
+and
+14
+of the Act.
+
+                59.The Commission has proposed the requirement of having specific
+                disclosures by the arbitrator, at the stage of his possible appointment,
+                regarding existence of any relationship or interest of any kind which is
+                likely to give rise to justifiable doubts. The Commission has proposed
+                the incorporation of the Fourth Schedule, which has drawn from the
+                Red and Orange lists of the IBA Guidelines on Conflicts of Interest in
+                International Arbitration, and which would be treated as a "guide"
+                to determine whether circumstances exist which give rise to such
+                justifiable doubts. On the other hand, in terms of the proposed
+section 12
+                (5)
+of the Act and the Fifth Schedule which incorporates the categories
+                from the Red list of the IBA Guidelines (as above), the person proposed
+                to be appointed as an arbitrator shall be ineligible to be so appointed,
+                notwithstanding any prior agreement to the contrary. In the event such
+                an ineligible person is purported to be appointed as an arbitrator, he
+                shall be de jure deemed to be unable to perform his functions, in terms of
+                the proposed explanation to
+section 14
+. Therefore, while the disclosure is
+                required with respect to a broader list of categories (as set out in the
+                Fourth Schedule, and as based on the Red and Orange lists of the IBA
+                Guidelines), the ineligibility to be appointed as an arbitrator (and the
+                consequent de jure inability to so act) follows from a smaller and more
+                serious sub-set of situations (as set out in the Fifth Schedule, and as
+                based on the Red list of the IBA Guidelines).
+
+                60.The Commission, however, feels that real and genuine party autonomy
+                must be respected, and, in certain situations, parties should be allowed to
+                waive even the categories of ineligibility as set in the proposed Fifth
+                Schedule. This could be in situations of family arbitrations or other
+                arbitrations where a person commands the blind faith and trust of the
+                parties to the dispute, despite the existence of objective "justifiable
+                doubts" regarding his independence and impartiality. To deal with such
+                situations, the Commission has proposed the proviso to
+section 12 (5)
+,
+                where parties may, subsequent to disputes having arisen between them,
+                waive the applicability of the proposed
+section 12 (5)
+by an express
+                agreement in writing. In all other cases, the general rule in the proposed
+section 12 (5)
+must be followed. In the event the High Court is
+                approached in connection with appointment of an arbitrator, the
+                Commission has proposed seeking the disclosure in terms of
+section 12
+HDFC Bank Limited Vs. Azad Kalam, Ex. No.121/2022                                    page 14 of 46
+                 (1) and in which context the High Court or the designate is to have "due
+                regard" to the contents of such disclosure in appointing the arbitrator. "
+                                                                     (Emphasis Supplied)
+    17.While welcoming the above Satutory development in the sphere of
+         Arbitration in India, Hon'ble Supreme Court, in Voestalpine
+         Schienen GMVH Vs. Delhi Metro Rail Corporation Ltd., 17 , a
+         case between an Austrian company and Delhi Metro Rail
+         Corporation highlighed and emphasised the salutory need of
+         "Neutrality of Arbitrators while the DMRC insisted that the
+         Contractor shall choose the Arbitral Tribunal from 5 names sent by
+         DMRC to them from an inhouse panel maintained by the DMRC. It
+         was pleaded by the Austrian company that this is in direct violation
+         of
+Section 12(5)
+of the Act. Hon'ble Supreme Court discussed the
+         objective of
+Arbitration and Conciliation Act, 1996
+and the various
+         amendments brought in it by way of Amendment Act no. 3 of 2016
+         w.e.f. 23.10.2015. The Apex Court stressed that these amendments
+         were brought in consonance with Law Commission of India's
+         176th and 246th Report. Hon'ble Supreme Court observed,
+
+
+               15. Apart from other amendments,
+Section 12
+was also amended and the
+                  amended provision has already been reproduced above. This
+                  amendment is also based on the recommendation of the Law
+                  Commission which specifically dealt with the issue of 'neutrality of
+                  arbitrators' and a discussion in this behalf is contained in paras 53 to
+                  60 and we would like to reproduce the entire discussion hereinbelow:
+
+              17.We may put a note of clarification here. Though, the Law Commission
+                  discussed the aforesaid aspect under the heading "Neutrality of
+                  Arbitrators", the focus of discussion was on impartiality and
+                  independence of the arbitrators which has relation to or bias towards
+                  one of the parties. In the field of international arbitration, neutrality is
+                  generally related to the nationality of the arbitrator. In international
+                  sphere, the 'appearance of neutrality' is considered equally important,
+                  which means that an arbitrator is neutral if his nationality is different
+                  from that of the parties. However, that is not the aspect which is being
+                  considered and the term 'neutrality' used is relatable to impartiality and
+                  independence of the arbitrators, without any bias towards any of the
+                  parties. In fact, the term 'neutrality of arbitrators' is commonly used in
+                  this context as well.
+17(2017) 4 SCC 665
+
+
+HDFC Bank Limited Vs. Azad Kalam, Ex. No.121/2022                                    page 15 of 46
+               18.Keeping in mind the afore-quoted recommendation of the Law
+                  Commission, with which spirit,
+Section 12
+has been amended by the
+                  Amendment Act, 2015, it is manifest that the main purpose for amending
+                  the provision was to provide for neutrality of arbitrators. In order to
+                  achieve this, sub-section (5) of
+Section 12
+lays down that
+                  notwithstanding any prior agreement to the contrary, any person whose
+                  relationship with the parties or counsel or the subject matter of the
+                  dispute falls under any of the categories specified in the Seventh
+                  Schedule, he shall be ineligible to be appointed as an arbitrator. In such
+                  an eventuality, i.e., when the arbitration clause finds foul with the
+                  amended provisions extracted above, the appointment of an arbitrator
+                  would be beyond pale of the arbitration agreement, empowering
+                  the court to appoint such arbitrator(s) as may be permissible. That would
+                  be the effect of non-obstante clause contained in sub-section (5) of
+Section 12
+and the other party cannot insist on appointment of the
+                  arbitrator in terms of arbitration agreement.
+
+    18.While highlighting the importance of Neutrality of Arbitrators and
+         the need that the Tribunal should work in an independent and
+         impartial manner, Hon'ble Supreme Court thus ruled that even if an
+         Arbitration Clause allowing unilateral appointments pre-existed
+         before 2015 Amendment, it is rendered a cipher and a naught with
+         promulgation
+Section 12(5)
+read with
+Seventh Schedule of the Act
+specifically when there is a non-obstante clause. Hon'ble Supreme
+         Court stated that even prior to inclusion of
+Section 12(5)
+read with
+         Schedule 7 of the Act several judgments were passed in context of
+Section 11(8)
+of the Act which recommended that the choice of
+         Arbitrator made by the parties can be given a go-bye in order to
+         maintain the neutrality, independence and impartiality. The Apex
+         Court further observed in Voestalpine Judgment:-
+
+
+            19. "We may mention here that there are number of judgments of this Court even
+                 prior to the amendment of
+Section 12
+where courts have appointed the
+                 arbitrators, giving a go-by to the agreed arbitration clause in certain
+                 contingencies and situations, having regards to the provisions of unamended
+Section 11(8)
+of the Act which, inter alia, provided that while appointing the
+                 arbitrator, Chief Justice, or the person or the institution designated by him,
+                 shall have regard to the other conditions as are likely to secure the
+                 appointment of an independent and impartial arbitrator."
+                 Taking note of the below mentioned judgments, Hon'ble Apex Court in
+                 summed up the position. i.e.
+
+HDFC Bank Limited Vs. Azad Kalam, Ex. No.121/2022                                  page 16 of 46
+                    Datar Switchgears Ltd. v. Tata Finance Ltd. & Anr.(2000) 8 SCC 151
+                   Punj Lloyd Ltd. v. Petronet MHB Ltd,(2006) 2 SCC 638
+                   Union of India v. Bharat Battery Manufacturing Co. (P) Ltd.,(2007) 7 SCC
+                   684
+                   Deep Trading Co. v. Indian Oil Corporation (2013) 4 SCC 35.
+                   Union of India v. Singh Builders Syndicate (2009) 4 SCC 523
+                   Northern Eastern Railway v. Tripple Engineering Works (2014) 9 SCC 288
+                   Union of India and others v. Uttar Pradesh State Bridge
+                   Corporation(2015) 2 SCC 52
+
+
+               20. "Independence and impartiality of the arbitrator are the hallmarks of any
+                   arbitration proceedings. Rule against bias is one of the fundamental
+                   principles of natural justice which applied to all judicial and quasi
+                   judicial proceedings. It is for this reason that notwithstanding the fact that
+                   relationship between the parties to the arbitration and the arbitrators
+                   themselves are contractual in nature and the source of an arbitrator's
+                   appointment is deduced from the agreement entered into between the parties,
+                   notwithstanding the same non-independence and non-impartiality of such
+                   arbitrator (though contractually agreed upon) would render him ineligible to
+                   conduct the arbitration. The genesis behind this rational is that even when
+                   an arbitrator is appointed in terms of contract and by the parties to the
+                   contract, he is independent of the parties. Functions and duties require him
+                   to rise above the partisan interest of the parties and not to act in, or so as to
+                   further, the particular interest of either parties. After all, the arbitrator has
+                   adjudicatory role to perform and, therefore, he must be independent of
+                   parties as well as impartial.
+
+
+
+             30.Time has come to send positive signals to the international business
+                 community, in order to create healthy arbitration environment and
+                 conducive arbitration culture in this country. Further, as highlighted
+                 by the Law Commission also in its report, duty becomes more onerous in
+                 Government contracts, where one of the parties to dispute is the
+                 Government or public sector undertaking itself and the authority to appoint
+                 the arbitrator rests with it."
+                                                                        (Emphasis Supplied)
+
+
+    19.As stressed and highlighted by Hon'ble Supreme Court, 'Neutrality
+         of the Arbitral Tribunal' is the soul of adjudication of a dispute and
+         the same cannot be compromised. By quoting Law Commission of
+         India and other judgments of Apex Court of period even prior to
+         inclusion of
+Section 12(5)
+read with Schedule 7 of the Act, it is
+         authoritatively ruled that "Neutrality of the Arbitrators is not
+         compromisable."
+
+
+
+HDFC Bank Limited Vs. Azad Kalam, Ex. No.121/2022                                      page 17 of 46
+          (IV) Law laid by Hon'ble Supreme Court in several
+         authoritative Judgments debarring "Unilateral Appointment of
+         Sole Arbitrators" :
+              ● TRF Limited Vs. Energo Engineering Projects Limited (supra)
+              ● Perkins Eastman Architects DPC Vs. HSCC India Limited (supra)
+              ● Voestalpine Schienen GMVH Vs. DMRC Ltd. (supra)
+              ● Bharat Broadband Network Vs. United Telecoms Limited (supra)
+              ● HARSAC and Anr. Vs. Pan India Consultants (supra)
+              ● Jaipur JDUSS Ltd. Vs. Ajay Sales and Suppliers (supra)
+              ● Ellora Papermills Vs. State of M.P. (supra)
+              ● Dharma Prasthanam Vs. Madhok Construction Pvt. Ltd. (supra)
+
+
+
+    20.In case titled TRF Limited Vs. Energo Engineering Projects Ltd.
+         (2017) 8 SCC 377 Full Bench of Hon'ble Supreme Court led by
+         Justice Deepak Mishra had the opportunity to reprise and articulate
+         the course corrective effect introduction of
+Section 12(5)
+read with
+         Schedule 7 of the Act. The issue before Hon'ble Full Bench of the
+         Supreme Court was, "Whether a person who is ineligible to
+         preside an Arbitral Tribunal on account of operation of law i.e.
+Section 12(5)
+read with Schedule 7 of the Act would be eligible to
+         nominate another person as Arbitrator." While comparing the
+         unamended
+Section 12
+of the Act with the amended
+Section 12
+of
+         the Act, post 2015 Amendment, Hon'ble Supreme Court ruled:
+
+
+              "12.Sub-Section (5) of
+Section 12
+, on which immense stress has been laid by
+                  the learned counsel for the appellant, as has been reproduced above,
+                  commences with a non-obstante clause. It categorically lays down that if
+                  a person whose relationship with the parties or the counsel for the
+                  subject matter of the dispute falls under any of the categories specified
+                  in the Seventh Schedule shall be ineligible to be appointed as an
+                  arbitrator. There is a qualifier which indicates that parties may
+                  subsequent to the disputes arisen between them, waive the
+                  applicability by express agreement in writing. The qualifier finds place in
+
+
+HDFC Bank Limited Vs. Azad Kalam, Ex. No.121/2022                                  page 18 of 46
+                    the proviso appended to sub-
+section 5
+of
+Section 12
+. On a careful
+                   scrutiny of the proviso,it is discernible that there are fundamentally
+                   three components, namely the parties can waive the applicability of the
+                   sub-section; the said waiver can only take place subsequent to dispute
+                   having arisen between the parties; and such waiver must be by an express
+                   agreement in writing."
+                                                                        (Emphasis Supplied)
+
+    21.Hon'ble Full Bench distinguished that the Arbitral Agreements
+         where both sides are required to appoint one Arbitrator each who, in
+         turn, appoint a Third Neutral Arbitrator with cases where the
+         Arbitrator Clause gives full power to only one party to appoint a
+         Sole Arbitrator in this matter. While appreciating the concern of the
+         appellant that by virtue of
+Section 12(5)
+read with Schedule 7 of
+         the Act an employee/official of a disputing party cannot act as an
+         Arbitrator, such an employee/official cannot also appoint another
+         Arbitrator unilaterally Hon'ble Apex Court observed:-
+                53.The aforesaid authorities have been commended to us to establish the
+                   proposition that if the nomination of an arbitrator by an ineligible arbitrator is
+                   allowed, it would tantamount to carrying on the proceeding of arbitration by
+                   himself. According to learned counsel for the appellant, ineligibility strikes at
+                   the root of his power to arbitrate or get it arbitrated upon by a nominee.
+                54.In such a context, the fulcrum of the controversy would be, can an ineligible
+                   arbitrator, like the Managing Director, nominate an arbitrator, who may be
+                   otherwise eligible and a respectable person. As stated earlier, we are neither
+                   concerned with the objectivity nor the individual respectablity. We are only
+                   concerned with the authority or the power of the Managing Director. By our
+                   analysis, we are obligated to arrive at the conclusion that once the arbitrator
+                   has become ineligible by operation of law, he cannot nominate another as an
+                   arbitrator. The arbitrator becomes ineligible as per prescription contained in
+Section 12(5)
+of the Act. It is inconceivable in law that person who is
+                   statutorily ineligible can nominate a person. Needless to say, once the
+                   infrastructure collapses, the superstructure is bound to collapse. One cannot
+                   have a building without the plinth. Or to put it differently, once the identity of
+                   the Managing Director as the sole arbitrator is lost, the power to nominate
+                   someone else as an arbitrator is obliterated. Therefore, the view expressed by
+                   the High Court is not sustainable and we say so.
+                                                                                (Emphasis Supplied)
+
+    22.The aspect of Unilateral Appointment of Arbitrator and its
+         derelictious effect on neutrality, independence and impartiality of
+         Arbitral proceedings Hon'ble Supreme Court discussed the issue
+         threadbare in case title Perkins Eastman Architects DPC Vs.
+
+HDFC Bank Limited Vs. Azad Kalam, Ex. No.121/2022                                    page 19 of 46
+          HSCC India Limited, (2020) 20 SCC 760. Taking cue from 'TRF
+         Judgment' the aspect which was taken up for consideration by the
+         Apex Court in Perkins Eastman Judgment is where a Managing
+         Director or any official or authority who is a disputing party may not
+         be acting as an Arbitrator but empowered under the Arbitration
+         Clause to appoint another person of choice or discretion as an
+         Arbitrator. The Bench Observed:
+                "We thus have two categories of cases. The first, similar to the one dealt
+                with in TRF Limited4 where the Managing Director himself is named as an
+                arbitrator with an additional power to appoint any other person as an
+                arbitrator. In the second category, the Managing Director is not to act as
+                an arbitrator himself but is empowered or authorised to appoint any other
+                person of his choice or discretion as an arbitrator. If, in the first category
+                of cases, the Managing Director was found incompetent, it was because of
+                the interest that he would be said to be having in the outcome or result of
+                the dispute. The element of invalidity would thus be directly relatable to
+                and arise from the interest that he would be having in such outcome or
+                decision. If that be the test, similar invalidity would always arise and
+                spring even in the second category of cases. If the interest that he has in
+                the outcome of the dispute, is taken to be the basis for the possibility of bias,
+                it will always be present irrespective of whether the matter stands under the
+                first or second category of cases. We are conscious that if such deduction is
+                drawn from the decision of this Court in TRF Limited4, all cases having
+                clauses similar to that with which we are presently concerned, a party to the
+                agreement would be disentitled to make any appointment of an Arbitrator
+                on its own and it would always be available to argue that a party or an
+                official or an authority having interest in the dispute would be disentitled to
+                make appointment of an Arbitrator.
+
+    23. While discussing the above referred Voestalpine Judgment and
+         Law Commission of India, 176th and 246th Report the Apex Court
+         highlighted that the principles of procedural fairness, impartiality
+         and independence cannot be discarded at any stage of the
+         proceedings. The Supreme Court Bench quoted in Perkins
+         Judgment, "
+                "Since the principles of impartiality and independence cannot be
+                discarded at any stage of the proceedings, specifically at the stage of
+                consideration of the Arbitral Tribunal, it would be incongruous to say that
+                "Parties Autonomy" can be exercised in complete disregard of these
+                principles and even if the same has been agreed prior to the disputes having
+                risen between the parties. There are certain minimum levels of
+                independence and impartiality that should be required of the arbitral
+                process regardless of parties apparent agreement. A sensible law cannot,
+
+HDFC Bank Limited Vs. Azad Kalam, Ex. No.121/2022                                       page 20 of 46
+                 for instance, permit appointment of an Arbitrator who is himself a party to
+                the dispute, or who is employed by (or similarly dependent on) one party,
+                even if this is what the parties agree.......
+                In fact, when the party appointing an adjudicator in the suit, the duty to
+                appoint an impartial and independent adjudicator is that much more
+                onerous and the right to natural justice cannot be said to have been
+                waived only on the basis of a "Prior:- Agreement between the parties at
+                the time of Contract or before arising out of the disputes".
+                                                                        (Emphasis Supplied)
+
+    24.In case title Bharat Broadband Network Vs. United Telecoms
+         Limited, (2019) 5 SCC 755 while dealing with an issue of
+Section
+         12(5)
+read with Schedule 7 qua unilateral appointment of arbitrator
+         by official of the disputing company, the Bench led by Justice R. F.
+         Nariman dealt with an issue wherein during the pendency of arbitral
+         proceedings before a Sole Arbitrator who was unilaterally appointed
+         by CMD of Bharat Broadband Network, an application was moved
+         before the Arbitrator by the Bharat Broadband Network company
+         that in the light of TRF Limited the Tribunal would be de jure
+         unable to perform the function as Arbitrator and that he should
+         withdraw from the arbitration so that an application under
+Section
+         11
+of the Act can be filed before the High Court. The plea was
+         rejected by the Arbitrator. When                   Bharat Broadband Network
+         approached Delhi High Court, the High Court rejected the plea of
+         the Bharat Broadband Network on the ground that since the Sole
+         Arbitrator was appointed by Bharat Broadband Network itself, it is
+         estopped from making a plea for removal of the arbitrator. While
+         discussing Voestalpine Schienen Hon'ble Supreme Court ruled that,
+
+
+             "
+Section 12(5)
+, on the other hand, is a new provision which relates to the de
+             jure inability of an arbitrator to act as such. Under this provision, any prior
+             agreement to the contrary is wiped out by the non-obstante clause in
+Section
+             12(5)
+the moment any person whose relationship with the parties or the counsel
+             or the subject matter of the dispute falls under the 7 th Schedule. The sub-Section
+             then declares that such person shall be "ineligible" to be appointed as
+             arbitrator. The only way in which this ineligibility can be removed is by the
+             proviso, which again is a special provision which states that parties may,
+
+
+HDFC Bank Limited Vs. Azad Kalam, Ex. No.121/2022                                    page 21 of 46
+              subsequent to disputes having arisen between them, waive the applicability of
+Section 12(5)
+by an express agreement in writing. What is clear, therefore, is
+             that where, under any agreement between the parties, a person falls within any
+             of the categories set out in the 7th Schedule, he is, as a matter of law, ineligible
+             to be appointed as an arbitrator. The only way in which this ineligibility can be
+             removed, again, in law, is that parties may after disputes having arisen between
+             them, waive the applicability of this sub-section by an "express agreement in
+             writing". The express agreement in writing" has reference to a person who is
+             interdicted by the 7th Schedule, but who is stated by parties (after the disputes
+             have arisen between them) to be a person in whom they have faith
+             notwithstanding the fact that such person is interdicted by the 7th Schedule.
+
+    25.In case title Dharma Prasthanam Vs. M/s Madhok Construction
+         Pvt. Ltd. (2005) 9 SCC 686 Hon'ble Supreme Court while dealing
+         with the aspect of 'Unilateral Appointment of Arbitrator' even in the
+         pre-2015 Amendment period ruled,
+             "A unilateral appointment as well as a unilateral reference, both will be
+             illegal. It would make a difference if in respect of a unilateral appointment and
+             reference if the other party had submitted to the jurisdiction of an arbitrator so
+             appointed and if the rights which it has under such an agreement has been
+             waived, then an arbitrator so appointed may proceed with the reference and the
+             party submitting to his jurisdiction and participating in the proceedings before
+             him may later on not be allowed to raise any objection in with regard to such
+             appointment of arbitrator."
+
+    26.In case title Haryana Space Application Centre (HARSAC) and
+         Anr. Vs. Pan India Consultants, (2021) 3 SCC 103 the Full Bench
+         of Hon'ble Supreme Court dealt with a case where the petitioner
+         appointed the Principal Secretary of the State as Nominee Arbitrator
+         and arbitral proceedings were going on in for more than 4 years, Full
+         Bench of Hon'ble Supreme Court ruled that the application of
+Section 12(5)
+read with Schedule 7 of the Act is mandatory and not
+         derogable. The Apex Court ruled,
+               "We are of the view that the appointment of the Principal Secretary,
+               Government of Haryana as the nominee arbitrator of HARSAC which is a
+               Nodal Agency of the Government of Haryana, would be invalid under
+Section 12(5)
+of the Arbitration and Conciliation Act, 1996 (as amended
+               by the 2015 Amendment Act) provides that notwithstanding any prior
+               agreement to the contrary, any person whose relationship with the parties,
+               or cousel falls within any of the categories specified in the 7 th Schedule,
+               shall be ineligible to be appointed as an arbitrator.........
+
+               The arbitrator is a manager, director or part of the management of has a
+
+
+HDFC Bank Limited Vs. Azad Kalam, Ex. No.121/2022                                     page 22 of 46
+                similar controlling influence, in an affiliate of one of the parties if the
+               affiliate is directly involved in the matters in dispute in the
+               arbitration.........
+Section 12(5)
+read with the 7th Schedule is a mandatory and non-
+               derogable provision of the Act. In the facts of the present case, the
+               Principal Secretary to the Government of Haryana would be ineligible to
+               be appointed as an arbitrator, since he would have a controlling influence
+               on the Appellant Company being a nodal agency of the State.
+
+               The Counsel for both parties during the course of hearing have consented
+               to the substitution of the existing tribunal, by the appointment of a Sole
+               Arbitrator to complete the arbitral proceedings."
+                                                                            (Emphasis Supplied)
+
+    27.Lately, in case title Jaipur Jila Dugdh Utpadak Sehkari Sangh
+         Ltd. Vs. Ajay Sales and Suppliers, 2021 SCC Online SC 730, the
+         Supreme Court Bench headed by HMJ M R Shah dealt with a case
+         where the Arbitration Clause dated 31.03.2015 provided for
+         appointment of Sangh's Chairman as Sole Arbitrator. When the
+         dispute arose and Arbitration was invoked on 19.10.2019, the
+         respondent approached High Court of Rajasthan which under
+Section 11
+of The Act where a fresh Arbitrator was appointed. When
+         the High Court's order was challenged before the Supreme Court
+         with a plea that the Arbitration Clause pre-existed the 2015
+         Amendment of The Act and inclusion of
+Section 12(5)
+and
+         Schedule 7 Hon'ble Supreme Court while dismissing the petition
+         challenging the High Court order ruled that,
+               "So far as the submission on behalf of the petitioners that the agreement was
+               prior to the insertion of Sub-
+Section 5
+of
+Section 12
+read with 7th
+Schedule
+               to the Act
+and therefore the disqualification under Sub-
+Section 5
+of
+Section
+               12
+read with 7th
+Schedule to the Act
+shall not be applicable and that once
+               an arbitrator-Chairman started the arbitration proceedings thereafter the
+               High Court is not justified in appointing an Arbitrator are concerned the
+               aforesaid has no substance and can to be accepted in view of the decision of
+               this Court in TRF Limited Judgment(supra), Bharat Broadband Network
+               Judgment(supra), Voestalpine Schienen Judgment (supra). In the aforesaid
+               decisions this Court had an occasion to consider in detail the object and
+               purpose of insertion of Sub-
+Section 5
+of
+Section 12
+read with 7th
+Schedule
+               to the Act
+. In the case of Voestalpine Schienen Judgment(supra) it is
+               observed and held by this Court that the main purpose for amending the
+               provision was to provide for 'Neutrality of Arbitrators'. It is further
+               observed that in order to achieve this, Sub-
+section 5
+of
+Section 12
+lays
+
+HDFC Bank Limited Vs. Azad Kalam, Ex. No.121/2022                                  page 23 of 46
+                down that notwithstanding any prior agreement to the contrary, any person
+               whose relationship with the parties or counsel or the subject-matter of the
+               dispute falls under any of the categories specified in the 7 th Schedule, he
+               shall be ineligible to be appointed as an arbitrator. It is further observed
+               that in such an eventuality i.e. when the arbitration clause finds foul with the
+               amended provisions (Sub-
+Section 5
+) of
+Section 12
+read with 7 th Schedule
+               the appointment of an Arbitrator would be beyond pale of the arbitration
+               agreement, empowering the Court to appoint such arbitrator as may be
+               permissible. It is further observed that , that would be the effect of non-
+               obstante clause contained in Sub-
+Section5
+of
+Section 12
+and the other party
+               cannot insist on appointment of the arbitrator in terms of the arbitration
+               agreement..........
+It is further observed and held by this Court in the aforeasaid decision that
+               independence and imparitality of the arbitrator are the hallmarks of any
+               arbitration proceedings. Rule against bias is one of the fundamental
+               principles of natural justice which shall apply to all judicial and quasi-
+               judicial proceedings. It is further observed that it is for this reason that
+               notwithstanding the fact that relationship between the parties, to the
+               arbitration and the arbitrators themselves are contractual in nature and the
+               source of an arbitrator's appointment is deduced from the agreement entered
+               into between the parties, notwithstanding the same non-independence and
+               non-impartiality of such arbitrator would render him ineligible to conduct
+               the arbitration.
+(Emphasis Supplied)
+28.In another case title Ellora Papermills Vs. State of M.P., (2022) 3
+         SCC 1 Hon'ble Supreme Court on 04.01.2022 dealt with a matter
+         wherein the dispute pertained to year 1993-94 and the Arbitral
+         Tribunal consisting of officers of State of MP was constituted much
+         prior to promulgation of 2015 Amendment and inclusion of
+Section
+         12(5)
+and 7th Schedule w.e.f. 23.10.2015. High Court did not
+         interfere with the Tribunal citing the reason that the Tribunal started
+         functioning prior to 23.10.2015 and that the appellant had already
+         participated in the proceedings. Hon'ble Supreme Court while
+         relying on TRF Limited, Bharat Broadband, Voestalpine and
+         Ajay Sales Judgments stressed that 'Neutrality of Arbitrators',
+         their independence and imparitality is critical for the entire
+         process. The Bench reiterated,
+                   "Though, the Law Commission discussed the aforesaid aspect under
+                   the heading "Neutrality of Arbirators", the focus of discussion was on
+                   imparitality and independenceof the arbitrators which has relation to
+                   or bias towards one of the parties. In the field of international
+
+HDFC Bank Limited Vs. Azad Kalam, Ex. No.121/2022                                     page 24 of 46
+                      arbitration, neutrality is generally related to the nationality of the
+                     arbitrator. In international sphere, the "appearnace of neutrality" is
+                     considered equally important, which means that an arbitrator is
+                     neutral if his nationality is different from that of the parties. However,
+                     that is not the aspect which is being considered and the term
+                     "neutrality" used is relatable to imparitality and independence of the
+                     arbitrators, without any bias towards any of the parties. In fact, the
+                     term "Neutrality of Arbitrators" is commonly used in this context as
+                     well........
+Keeping in mind the aforequoted recommendation of the Law
+                     Commission, with which spirit,
+Section 12
+has been amended by the
+                     Amendment Act, 2015, it is manifest that the main purpose for
+                     amending the provision was to provide for neutrality of arbitrators. In
+                     order to achieve this, sub-
+Section 5
+of
+Section 12
+lays down that
+                     notwithstanding any prior agreement to the contrary, any person
+                     whose relationship with the parties or counsel or the subject matter of
+                     the dispute falls under any of the categories specified in the 7 th
+                     Schedule, he shall be ineligible to be appointed as an arbitrator. In
+                     such an eventuality i.e. when the arbitration clause finds foul with the
+                     amended provisions extracted above, the appointment of an arbitrator
+                     would be beyond pale of the arbitration agreement, empowering the
+                     Court to appoint such arbitrator(s) as may be permissible. That would
+                     be the effect of non obstante clause contained in sub-
+Section 5
+of
+Section 12
+and the other party cannot insist on appointment of the
+                     arbitrator in terms of arbitration agreement.
+29.In case title
+SMS Limited Vs. Rail Vikas Nigam Limited
+18,
+          wherein Hon'ble Delhi High Court dealt with an aspect where
+          Railways claimed that it is offering a panel of 37 names for selection
+          of the Arbitrator but the same was opposed by the plaintiff company
+          as the proposed Arbitrators were primarily retired Railway Officers
+          and few of them were from other PSUs. While referring to
+          Voestalpine Judgment and Perkins Eastman Judgment of
+          Hon'ble Supreme Court it was ruled by Hon'ble Delhi High Court
+          that,
+                    " It is pertinent to note that in case of Perkins Eastmen the Supreme
+                    Court while dealing with the application under Order 7 Rule 6 read
+                    with
+Section 11(12)(a)
+of the Act held that as per scheme of
+Section 11
+of the Act if there are justifiable doubts as to the independence and
+                    impartiality of the person nominated and if other circumstances warrant
+                    appointment of an independent arbitrator by ignoring the procedure
+                    prescribed, an appointment can be made by the Court,"
+18 2020 Latest Caselaw 190 Delhi
+
+
+HDFC Bank Limited Vs. Azad Kalam, Ex. No.121/2022                                       page 25 of 46
+30.In case title
+Proddatur Cable TV Digi Services Vs. Siti Cable
+          Network Ltd.19
+, Hon'ble High Court of Delhi dealt with a case
+          where appointment of the Arbitrator was challenged on the ground
+          that the Arbitrator was 'Unilaterally Appointed' in violations of TRF
+          Judgment and Perkins Eastman Judgment of Hon'ble Supreme
+          Court. The relevant para of the judgment of Hon'ble High Court is
+          reproduced as under:
+"Lastly the reliance of the respondent on the judgment of the Supreme Court
+              in the case of Central Organisation is also of no avail to the respondent. In
+              the said case, the Supreme Court was dealing with an arbitration clause
+              which required a panel of arbitrators to be provided by the Railways to the
+              other party to the contract, in terms of clause 64.3(a)(ii) of the GCC. The
+              Court held that since one party was to provide a panel and the other party
+              had the choice to short list the Arbitrator of its choice from the panel and
+              only from the shortlisted names, Railways was bound to appoint at least one
+              Arbitrator to constitute the Arbitral Tribunal, the parties had a level playing
+              filed. The Arbitrator appointed by the Railways of its choice was balanced by
+              the second Arbitrator being of the choice of the other party. Thus, the
+              elements of fairness, transparency and impartiality were taken care of."
+31.In case title
+City Lifeline Travels Pvt. Ltd. Vs. Delhi Jal Board
+20,
+          Hon'ble High Court of Delhi ruled that,
+             "The contention that the decision in the case of Perkins Eastman ought to be
+             read in a restrictive manner is not persuasive. On the contrary
+,
+the said
+             decision
+must be read in expansive manner. The efficacy of arbitration as an
+             alternate dispute resolution mechanism rests on the foundation that the
+             disputes would be adjudicated by independent and impartial arbitrators. The
+             decision in Perkins Eastman recognizes the importance of ensuring that
+             Arbitrators not be appointed by persons who are otherwise interested in the
+             matter so as to obviate any doubt as to the impartiality and independence of
+             the Arbitral Tribunal. The necessity for instituting necessary safeguards for
+             the same cannot be understated."
+(Emphasis Supplied)
+32.In case title
+Abraham Memorial Education Trust Vs. Prodigy
+          Development Institution21 Delhi
+, dated 03.03.2021 Hon'ble High
+          Court dealt with the award which was passed Ex-Parte by
+          'Unilaterally Appointed Arbitrator' and held,
+19 2020 Latest Caselaw 328 Delhi
+20 2021 Latest Caselaw 276 Delhi
+21 OMP (Comm.)
+391 of 2020
+
+
+HDFC Bank Limited Vs. Azad Kalam, Ex. No.121/2022                                    page 26 of 46
+             "Since the Arbitrator's appointment was contrary to the provisions of
+            Arbitration Agreement and Act, the unilateral reference of disputes and the
+            proceedings before the Sole Arbitrator are void ab initio and the award so
+            rendered is a nullity in law. Hence, the impugned award cannot be
+            sustained and the Court has no hesitation in setting aside the award and it
+            is ordered accordingly."
+(Emphasis Supplied)
+33.In case title M/s
+Fam Bhagat Infratech Private Limited Vs. Alok
+         Kumar Agarwal22
+, Hon'ble High Court while dealing with the
+         challenge to Arbitral Clause which provided that 'Unilateral
+         Appointment of Arbitrator' ruled,
+            "Clearly, in view of the law
+laid down by
+the Supreme Court in Perkins
+            Eastman and Bharat Broadband as well as
+Section 12(5)
+of the Arbitration
+            and Conciliation Act, 1996, read with the 7 th Schedule thereto, Clause 9.1 is
+            rendered unsustainable in law, as it confers exclusive jurisdiction to one of the
+            parties to the arbitration agreement to appoint the arbitrator.
+(Emphasis Supplied)
+34.In case title M/s
+India Cements Capital Limited Vs. William
+23,
+         Hon'ble Kerala High Court at para no. 20 observed that,
+20."Petitioner's contention that if an award is declared to be a nullity in
+                    execution proceedings, it will amount to adding one more ground to
+Section 34
+of the Act is totally unacceptable. As mentioned earlier,
+Section 34
+of the Act provides seven grounds to set aside an award. If the
+                    expression "set aside" is understood correctly, there will not be any lack
+                    of clarity or obfuscation. Ordinarily, the expression "set aside" is
+                    understood as meaning abandon, abjure, abrogate, discard, dispense
+                    with, to omit, reject, repudiate, etc. The term "set aside" is defined in
+                    Black's Law Dictionary (8th Edition) as vb.(of a court) to annul or vacate
+                    ( a judgment, order, etc.). The term "set aside" in the legal parlance
+                    means, to cancel, annul or revoke a judgment or order. It is an
+                    indisputable proposition that in order to set aside a decree or order or
+                    award, there must be one in existence. In other words, a decree or award
+                    not in existence cannot be set aside. No one can seek to set aside a
+                    decree or award which is not in existence. That exercised will be as futile,
+                    rather as impossible, as one attempting to commit feticide of an unborn
+                    foetus. Therefore, what is provided in
+Section 34
+of the Act is only ways
+                    and means to set aside an award made in an arbitral proceedings. As
+                    succintly stated by the Hon'ble Supreme Court, what is sought to be
+                    achieved by taking recourse to
+Section 47
+of the Code is to make a
+                    declaration that the decree(here, an award) sought to be executed is a
+                    nullity. In other words, seeking a pronouncement that there is no
+                    executable decree of award at all. If the end result of an adjudication
+                    under
+Section 47
+of the Code is entering a finding that there is no decree
+                    or award at all, there cannot be a question of setting aside such a decree
+                    of award in that proceedings. Therefore, the contention of the revision
+22 2021 SCC Online Delhi 2486
+23 2015 SCC OnLine Ker 24805
+
+
+HDFC Bank Limited Vs. Azad Kalam, Ex. No.121/2022                                     page 27 of 46
+                     petitioner that the declaration of nullity of an award in a proceeding
+                    under
+Section 47
+of the Code will tantamount to adding one more ground
+                    to
+Section 34
+of the Act is legally incorrect and therefore, not
+                    acceptable."
+35.The celebrated judgments of TRF Limited, Perkins Eastman
+         Hon'ble Supreme Court have been relied by other High Courts as
+         well.
+36.In case title Ravi Realcons Pvt. Ltd. Vs. Chief Engineer and
+         Anr.24 Hon'ble High Court of Calcutta observed,
+                " In the light of judgments in TRF Limited and Perkins Eastman in
+Section
+                12(5)
+of the Arbitration and Conciliation Act, it is clear that a person who
+                may have an interest in the outcome of the dispute should not be made an
+                Arbitrator."
+37.While distinguishing the judgment of CORE judgments of
+         Hon'ble Supreme Court on facts this Bench went on to rule that,
+                "The judgments in CORE judgment are justiciable on facts as the same
+                relate to appointment of arbitrator as per Arbitration Clause has not
+                dehorsed the ratio of Perkins Eastman.
+38.In case title
+Priya Mallaiseth Vs. VLCC Healthcare Limited25
+,
+         Hon'ble Delhi High Court ruled,
+                    "The arbitration agreement between the parties as noted above is not in
+                    dispute. Firstly considering Mr. Sethna's second contention that Clause
+                    13.1 when it confers an authority on the respondent to appoint an
+                    arbitrator, it would be rendered bad in law in view of the principles of law
+                    as
+laid down by
+the Supreme Court in Perkins Eastman needs acceptance
+                    adverting to the principles of law as
+laid down in
+these decisions.
+                    Applying these principles the respondent cannot have a unilateral
+                    authority to appoint an arbitral tribunal."
+39. Owing to inherent illegality in 'Unilateral Appointment of Sole
+         Arbitrators' by one of the disputing parties is now so well
+         established by Parliament and the Hon'ble Supreme Court that in
+         several cases the parties themselves concede to this Legal Position
+         and accept that unilateral appointment made by them may be set
+         aside. In case titled Ekta Medical Systems Private Limited Vs.
+24 2022 SCC Online CAL 751
+25 2022 SCC Online Del 1137
+
+
+HDFC Bank Limited Vs. Azad Kalam, Ex. No.121/2022                                     page 28 of 46
+          Institute of Liver and Biliary Sciences26, when the petitioner raised
+         the issue of unilateral appointment and carrying on of arbitral
+         proceedings in violation of
+Section 12(5)
+read with Schedule 7 of
+         the Act while citing Perkins Eastman. Ld. Counsel for respondent,
+         simply conceded to the legal position and paved the way for
+         appointment of a neutral arbitrator by the High Court.
+Hon'ble
+         Delhi High Court ruled that,
+                   "The petitioners, by this petition, seek termination of the mandate of the
+                   arbitrator, presently in seisin of the disputes between the parties in view
+                   of
+Section 12(5)
+of the Arbitration and Conciliation Act, 1996 ("the
+                   1996 Act") read with judgments of the Supreme Court in
+Bharat
+                   Broadband Network Ltd. Vs. United Telecoms Ltd.
+, Perkins Eastman
+                   Architects DPC vs. HSCC(India) Ltd. And Haryana Space Application
+                   Centre Vs. Pan India Consultants Pvt. Ltd........
+                   Mr. Sanjay Poddar, learned Senior Counsel for the respondent, fairly
+                   concedes to the applicability of
+Section 12(5)
+of the 1996 Act as well as
+                   the aforesaid decisions and, therefore submits that this Court may
+                   appoint an arbitrator in place of the arbitrator presently in seisin of the
+                   disputes."
+(V) UNCITRAL Model Law on Commercial Arbitration 1985
+         and UNCITRAL Arbitration Rules, 2021 proscribe and forbid
+         Unilateral appointent of Sole Arbitrator by a disputing party.
+40.The first statutory enactment on arbitrations in India was in the 19 th
+         Century i.e. Indian Arbitration Act, 1899. It was replaced by
+Arbitration Act, 1940
+. However, in so far as the 1940 Act was found
+         to be largely dependent on Judicial interventions and the Awards
+         passed had no finality till such time they were made a 'Rule of Court
+         by a Civil Court, Parliament of India decided to re-enact the Law of
+         Arbitration in India on the lines of United Nations Commission on
+         International Law (UNCITRAL) Model Law on Commercial
+         Arbitration 1985. While adopting the same the current
+Arbitration
+         and Conciliation Act, 1996
+was promulgated and notified on
+         22.08.1996.
+26 2021 SCC Online DEL 3979
+
+
+HDFC Bank Limited Vs. Azad Kalam, Ex. No.121/2022                                    page 29 of 46
+41.In the latest UNCITRAL Arbitration Rules adopted in 2021
+         under Section II "Composition of Arbitral Tribunal".
+Articles 8
+,
+         9
+and
+10
+pertain to appointment of arbitrators, it is specifically
+         provided that in case it is agreed that the dispute shall be resolved
+         through 'Sole Arbitrator', the parties have only 2 options.
+         First: They can mutually agree on the name of a Sole Arbitrator
+         within 30 days of invocation of arbitration. OR
+         Second: In case no agreement is reached on the mutually
+         acceptable name, party can make a request to the "Appointing
+         Authority" who in turn will appoint a neutral and impartial Sole
+         Arbitrator.
+42.Article 6 of the UNCITRAL Arbitration Rules 2021 governs
+         designation of "Appointing Authority" it provides that if the parties
+         do not reach an agreement on designation of Appointing Authority, a
+         party can propose the name of one or more institutions or persons
+         including Secretary General of Permanent Court of Arbitration
+         (PCA) at The Hague. Once the name is proposed and no consensus
+         is reached between the disputing parties out of the institutions and
+         names proposed within 30 days, by default Secretary General of
+         PCA would become Appointing Authority in the matter.
+43.The sum and substances that at no point of time either of the
+         disputing party can be allowed to unilaterally appoint a Sole
+         Arbitrator in its own dispute. The insistence on the part of NBFCs
+         and PSUs to continue to unilaterally appoint Sole Arbitrators of their
+         choice is in clear violation of UNCITRAL Model Arbitration Rules
+         and is blatant violation of Full Bench decision of Hon'ble Supreme
+         Court in TRF Limited.
+HDFC Bank Limited Vs. Azad Kalam, Ex. No.121/2022                  page 30 of 46
+          (VI) Legal position on unilateral appointment of Sole Arbitrator
+         in other countries
+44.Neutrality in arbitration has been adopted as a touchstone for fair
+         and impartial arbitration and 'Equality of the Parties' World over.
+45.United Kingdom: As per
+Section 16-18
+of Arbitration Act the
+         default mechanism for appointment of arbitrators when the Tribunal
+         consists of a Sole Arbitrator provides that such an Arbitrator shall be
+         jointly appointed by the parties within 28 days upon invocation of
+         Arbitration Clause.
+46.France: In a very famous French Judgment of Siemens AG &
+         BKMI           Industrienlagen             GMBH   Vs.   Ducto   Consortium
+         Construction Co., also famously known as the "Ducto Case", the
+         issue of equality as a matter of public policy in appointing an
+         Arbitrator was discussed, way back in 1992. The agreement entered
+         into between the parties had a multi-party arbitration agreement
+         wherein, BKMI and Dutco the two defendants were requested to
+         agree on a joint arbitrator, which was done under protest. This was
+         subsequently challenged. ICC and Paris Court of Appeal did not see
+         any problem with the appointment. However, the Cour de Cassation
+         (French Supreme Court) set aside the order passed by the Paris
+         Court of Appeal and considered the appointment process to be
+         contrary to the public policy stating that the "equality of the parties
+         in the appointment of arbitrators is a matter of public policy which
+         can be waived only after the disputes has arisen."
+47.As a result of this judgment, various arbitration institutions such as
+         ICC, the German Institutions of Arbitration etc. provided for
+         appointment of arbitrators by the institution wherein the parties are
+         unable to agree on a joint arbitrator. Thus, party equality has been
+         well-recognised internationally since decades.
+HDFC Bank Limited Vs. Azad Kalam, Ex. No.121/2022                         page 31 of 46
+          The landmark Ducto Case has been followed by Hon'ble Supreme
+         Court in Perkins Eastman, "An independent mind is indispensable
+         in the exercise of judicial powers, whatever the source of that power
+         may be and it is one of the essential quality of an Arbitrator."
+48. Russia: The rule of equlity of parties is strictly followed in arbitral
+         proceedings in Russia. In case titled "Russia Telephone Company
+         Vs. Sony Ericsson Communication Rus, Space no.1831/12,
+         Presidum of the Supreme Commercial Court of Russia ruled
+         that,"an arbitration clause that gave one of the parties the
+         additional, unilateral option of referring arbitration disputes is
+         invalid.
+(VII) Why NBFCs continue to impose their chosen Sole
+         Arbitrator on the borrower and why there is resistance abiding
+         Hon'ble Supreme Court ruled on TRF Limited, Perkins
+         Eastman Judgments?
+49.As detailed supra, the purpose and purport of
+Section 12(5)
+read
+         with Schedule 7 is to instill neutrality, imparitality and fairness in
+         Arbitrations in India. It has been ruled to be mandatory and binding
+         on all concerned not only by Full Bench of the Hon'ble Supreme
+         Court but also by Division Benches of Hon'ble Supreme Court as
+         also followed by numerous judgments of Hon'ble High Court in
+         Delhi and other High Courts of India. It is strange that the NBFCs
+         like the award holder in the case in hand continue to do a shut-eye to
+         the above legal provision and the binding dicta of the Supreme
+         Court which as per
+Article 141
+of the Constitution of India is Law
+         of the Land and continue to appoint Sole Arbitrators unilaterally.
+         The reluctance in having a neutral arbitrator for the purpose of
+         adjudication of disputes is either rooted in lack of confidence on the
+
+HDFC Bank Limited Vs. Azad Kalam, Ex. No.121/2022                    page 32 of 46
+          merits of the dispute or just an act of sheer arrogance, indifference
+         and non-abidance of the law. They seem to be toeing the same old
+         line of taking a chance, with a mind that they would fall in line only
+         when some objection is taken by the respondent at any point of time
+         or some Court in some Order objects to the same. This conscious
+         illegality which is continuing unabatedly in blatant violation of
+         Statutory Laws and Law laid by Hon'ble Supreme Court needs to be
+         stopped and curbed effectively.
+(VIII) Adverse effect of one sided arbitrators on "Enforcement
+         of Contract component of "Ease of Doing Business" Ranking of
+         India in World Bank's Doing Business Reports of Investment
+         Friendly Nations.
+50.Every Nation in the World today strives for improving Social and
+         Economic well-being of its citizens. One of the sure way for any
+         Economy to thrive is by attracting Foreign Direct Investment(FDI).
+         World Bank has been preparing an 'Ease of Doing Business
+         Report' of all countries of the World based on how investment-
+         friendly the countries, its polices and infrastructure are for Foreign
+         investors. The Annual Report consists of 10 components/parameters
+         which included 'Enforcement of Contract' as well.
+51.In the last around one decade as compared the Rank 142 in 2014,
+         India's Rank in 'Ease of Doing Business' climbed to Rank 61 out of
+         191 odd countries. But still when we compare our ranking on the
+         indicator "Enforcement of Contracts" it shows that we are still at the
+         Rank 163. While Prime Minster of India has made a call to make
+         India a 5 Trillion US Dollar Economy, the same can be achieved
+         not only by strengthening our dispute resolution infrastructure and
+         also by ensuring fair, neutral, time-bound adjudication of disputes
+
+HDFC Bank Limited Vs. Azad Kalam, Ex. No.121/2022                  page 33 of 46
+          not only before Commercial Courts in India but also before
+         Arbitration Tribunal under
+Arbitration and Conciliation Act, 1996
+.
+         One of the reason of inclusion of
+Section 12(5)
+read with Schedule 7
+         in the Act was to instill transparency and fairness in appointment of
+         Arbitrators and bringing an end to the era of unilateral appointment
+         of chosen Sole Arbitrators. In today's digitally connected World,
+         unethical Arbitral Proceedings can't hidden on remain localised. If
+         we wish to make Government of India's call for 'Resolve in
+         India', a reality we have to work on Ethics, Neutrality and
+         Efficiency of our Arbitration Infra. We will never be able to create
+         Indian version of ICA (Paris), LCIA (London) and SIAC
+         (Singapore) if we do not respect judgments of Hon'ble Supreme
+         Court and UNCITRAL Model Laws on Arbitration on Ethical
+         Arbitrations.
+(IX) Ad-hoc Arbitrations by Unilaterally Appointed Sole
+         Arbitrators weakening people's faith in Arbitration as an ADR.
+52.While Ad-hoc Arbitrations by Tribunals appointed with concurrence
+         of the parties or those appointed by Hon'ble High Courts under
+Section 11
+of the Act are working in a neutral and impartial manner
+         but Arbitration proceedings carrying out by unilaterally appointed
+         Ad-hoc Arbitrators are totally working in a one side manner without
+         adhering to either the celebrated Principles of Natural Justice of
+         being neutral and unbiased or sticking to Judicial Ethics as
+         applicable to them in so far as they are performing adjudicatory
+         function under Law promulgated by Parliament of India. More so
+         when Awards passed by them have the strength of a decree of a Civil
+         Court.
+HDFC Bank Limited Vs. Azad Kalam, Ex. No.121/2022                 page 34 of 46
+          (X) Justice B. N. Srikrishna Report on Arbitration stressed on
+         strengthening 'Institutional Arbitration Centres' in India
+53.A Committee was constituted by Govt. of India led by HMJ B. N.
+         Srikrishna. It also included HMJ Indu Malhotra and HMJ P.S.
+         Narsimhan (before they joined the Bench) as also other legal
+         stalwarts namely Justice R.V. Ravindran Retired Judge, Hon'ble
+         Supreme Court and Sh. K. K Venugopal, Attorney General of India,
+         to analyze what is ailing Arbitration in India. One of the major
+         suggestions made by Justice B. N. Srikrishna Report on
+         Arbitration was to give impetus to Institutional Arbitration
+         Centers which are incorporated under
+Section 8
+of the
+         Companies Act, 2013 or registered under
+Societies Act, 1860
+. One
+         of the reasons cited by the Report as to why for parties are not
+         availing the services of Institutional Arbitration and prefer Adhoc
+         Arbitration was that Adhoc Arbitration allows them to choose the
+         Sole Arbitrator of their choice. It is this menace which is supposed
+         to be corrected by
+Section 12(5)
+read with Schedule 7.
+54.On account of non-abidance to these statutory binding provisions
+         and adherance to the binding judgments of the Apex Court, quality
+         of the ex-parte awards being doled by in-house Sole Arbitrators who
+         are appointed unilaterally, the arbitration environment in the country
+         is getting vitiated. It is being used by the NBFCs for extracting
+         money with exorbitant interest from the borrowers. This is eroding
+         society's faith in Arbitration as a mode of ADR as provided under
+Section 89
+CPC. Arbitration in India is more than 120 years vintage
+         but still the failure to maintain the neutrality and fairness in the
+         entire process, including appointment of arbitrator, is doing a lot of
+
+HDFC Bank Limited Vs. Azad Kalam, Ex. No.121/2022                  page 35 of 46
+          disservice to the concept as a whole and is leading to financial
+         anarchy in the Country.
+55.During the course of arguments it is submitted on behalf of the
+         execution petitioner that in India the term "Institutional
+         Arbitration" stands defined in
+Section 2(ca)
+of The Act which
+         reads as under:
+"Arbitration Institution means an arbitral institution designated by the
+                Supreme Court or a High Court under this Act."
+56.The correct legal position on the above definition is that although
+         the above definition was proposed by
+Arbitration and Conciliation
+         (Amendment) Act, 2019
+i.e. Act no. 33 of 2019 but the same is yet
+         to be notified and is as such not binding law in Arbitral arena.
+         Moreover, the proposed amendment of the Act talks of constituted
+         an 'Arbitration Council of India' which, in turn, will prepare a
+         list of Arbitration Institutions on the basis of infrastructure, calibre
+         of arbitrators, performance, compliance of time limits etc. As per
+         proposed amendment, under
+Section 11(3A)
+of the Act, the
+         designation of institutions by the Hon'ble Supreme Court and the
+         High Courts is to be carried out only as per the proposal made by the
+         'Arbitration Council of India'. This Court is apprised by Ld.
+         Counsel for the plaintiff that the controlling
+Ministry of Arbitration
+         and Conciliation Act, 1996
+under Allocation of Business Rules,
+         1961 is Ministry of Law and Justice, Govt. of India. It is submitted
+         that the Law Ministry, Govt. of India has already prepared and
+         notified a Pan India "List of Arbitral Institutions" offering
+         quality Arbitration and Mediation services and the same is
+         available in public domain.
+HDFC Bank Limited Vs. Azad Kalam, Ex. No.121/2022                              page 36 of 46
+          (XI) Unilateral appointment of Arbitrator is Anti-thesis to
+         "Nemo Judex in causa cua"- "No one can be a Judge in his own
+         case".
+57."Nemo Judex in causa cua"- "No one can be a Judge in his own
+         case" is one of the most fundamental Principles of Natural Justice
+         which is soul and fulcrum of any judicial or quasi-judicial process.
+         As opined by Law Commission of India in its Reports, Parliament
+         of India in the 2015
+Amendment of Arbitration and Conciliation Act,
+         1996
+and repeatedly ruled by authoritatively judgments of Hon'ble
+         Supreme Court, 'Neutrality of Arbitration Proceedings' cannot be
+         allowed to be succumb or got highjacked by insistence of a large
+         section of NBFCs and other Corporations to continue to violate the
+         impartiality, probity and unbiasedness of arbitration proceedings in
+         the country.
+58.The unilateral appointment of arbitrators is germane to this vice and
+         when the first step is taken in a wrong direction and is rendered non
+         est, every next step and the culmination of the arbitral journey into
+         an award is nothing but a zilch or nullity.
+(XII) Whether CORE Judgment has over-ruled TRF Limited
+         Judgment of Hon'ble Supreme Court?
+59.It is submitted by Ld. Counsel for the Execution Petitioner that the
+         mandate of TRF Limited (Full Bench) and Perkins Eastman are
+         over-ruled by Central Organisation for
+Railway Electrification
+         Vs. ECI-SPIC-SMO-MCML(JV
+)27, a Three-Judge Bench of the
+         Supreme Court. In CORE Judgment the Apex Court allowed the
+         appointment of Arbitral Tribunal from a panel maintained by
+         Railways.
+The Bench was of the view that since Contractor/opposite
+
+27(2020) 14 SCC 712
+
+
+HDFC Bank Limited Vs. Azad Kalam, Ex. No.121/2022                  page 37 of 46
+          party was allowed to choose two names out of a panel of 4 retired
+         railway officers, Arbitral Tribunal,
+Section 12(5)
+of the Act is not
+         violated and concerns of TRF Limited stands addressed.
+60.This CORE Judgment came for scrutiny before Hon'ble Supreme
+         Court in
+Union of India Vs. Tantia Construction Limited SLP
+(c)
+         12670/2020 decided on 11.01.2021 by another Three-Judge Bench
+         of the Apex Court led by HMJ R. F Nariman. It was found that
+         CORE Judgment is in contradiction of TRF Limited and an order
+         was passed requesting the Hon'ble Chief Justice of India to
+         constitute a 'Larger Bench' for adjudicating on the correctness
+         of the CORE judgment. The relevant para of abovementioned
+         judgment is reproduced as under:
+"Having heard Mr. K. M. Nataraj, learned ASG for some time, it is clear that
+              on the facts of the case, the judgment of the High Court cannot be faulted with.
+              Accordingly, the Special Leave Petition is dismissed. However, reliance has
+              been placed upon a recent 3-Judge Bench decision of this court delivered on
+              17.12.2019 in Central Organisation for
+Railway Electrification Vs. ECI-
+              SPIC-SMO-MCML(JV
+) (2020) 14 SCC 712. We have perused the aforesaid
+              judgment and prima facie disagree with it for the basic reason that once the
+              appointing authority itself is incapacitated from referring the matter to
+              arbitration, it does not then follow that notwithstanding this yet appointments
+              may be valid depending on the facts of the case. We therefore request the
+              Hon'ble Chief Justice to constitute a larger Bench to look into the
+              correctness of this judgment. Pending application stands disposed of."
+(Emphasis Supplied)
+61.Even otherwise once a Three-Judge Full Bench of Hon'ble Supreme
+         Court has already laid the law in TRF Limited as per well-
+         established judicial norms, a co-equal Bench of 3-Judge of Hon'ble
+         Supreme Court in CORE Judgment cannot set aside, dilute or vary
+         the earlier laid law on the subject.
+62.While discussing this aspect in a recent case of Hon'ble Delhi High
+         Court titled as
+Overnite Express Limited Vs. Delhi Metro Rail
+         Corporation28
+, pronounced on 02.08.2022, trashed the plea of
+         DMRC that it had offered a panel of 5 retired judicial officers when
+28 2022 SCC Online Del 2488
+
+
+HDFC Bank Limited Vs. Azad Kalam, Ex. No.121/2022                                  page 38 of 46
+           the plaintiff proposed a name of a retired High Court Judge as its
+          nominee. A plea was raised by DMRC before the Hon'ble High
+          Court that since neutrality and impartiality of retired Judicial
+          officers cannot be questioned and reliance was placed on the CORE
+          judgment, Hon'ble High Court while relying Voestalpine Judgment
+          concluded that offering a panel of 5 names by one party to the
+          opposite party is no longer a valid procedure. It was ruled:
+"The procedure of forwarding a panel of five names to the other contracting
+                party to choose its nominee Arbitrator is now held to be no longer a valid
+                procedure.........
+The respondent has no doubt given a panel of five retired District Judges, but
+                it cannot be overlooked that it is a restrictive panel restricting the choice of
+                the petitioner to pick up any one of those five which tantamounts to unilateral
+                appointment of an Arbitrator by the Respondent, which may create a doubt
+                about the Arbitrator being partial or biased. Though one may hasten to State
+                and emphasise that the retired District Judges may be person of impeccable
+                integrity, but the issue here is of a perceived bias which cannot be permitted.
+                Hence, it is held that the procedure adopted by the respondent for appointment
+                of Arbitrator from the panel cannot be sustained in the light of the
+                observations of the Apex Court in
+Voestalpine Schienen GMVH Vs. Delhi
+                Metro Rail Corporation Ltd.
+(2017) 4 SCC 665.
+(Emphasis Supplied)
+63.
+In case title
+Konodia Infratech Limited Vs. Dalmia Cement
+          (Bharat) Limited29
+, Hon'ble Delhi High Court dealt with the
+          objection petition under
+Section 34
+of the Act wherein issue of
+          "Unilateral Appointment of Sole Arbitrator" was raised for the first
+          time. While upholding the arbitral award Hon'ble High Court cited
+          following reasonings:
+(a) That objector withdrew
+Section 9
+application from the High Court with
+                   liberty to approach Sole Arbitrator under
+Section 17
+of the Act.
+(b) That Objector filed a
+Section 16
+application challenging the composite
+                   reference of dispute but not raising the unilateral appointment of Sole
+                   Arbitrator.
+(c) That the Objector himself filed counter-claim before the unilaterally
+                   appointed Sole Arbitrator without protest.
+(d) That the Objector give consent for explanation of time under Section
+29 2021 Latest Caselaw 2975 Del
+
+
+HDFC Bank Limited Vs. Azad Kalam, Ex. No.121/2022                                    page 39 of 46
+                    29
+A of the Act
+during the proceedings.
+64.It was ruled by the Hon'ble High court that despite being aware of
+         authoritative judgments of TRF Limited and Perkins Eastman the
+         Objector did not raise any objection qua the unilateral appointment
+         of the Arbitrator and constituted to participate in the proceedings.
+65.The circumstances and unique facts in the cited case do not relate
+         with the facts of the case in hand even remotely in so far as there
+         was no participation on the part of Judgment Debtor unlike the cited
+         case. As such this judgment is of no avail to the execution petitioner
+         in this matter.
+66.Post the passing of CORE Judgment, a section of arbitration
+         litigants, specially Central/State Governments, Ministries and Public
+         Sector Undertakings started projecting that they are no longer
+         governed or covered by Three-Judge TRF Judgment Perkins
+         Eastman Judgment and Voestalpine Judgment of Hon'ble
+         Supreme Court and that now they are all free to appoint their
+         arbitrators out of a panel which they maintain by picking and
+         choosing names continued to them.
+67.As mentioned supra, another Three-Judge Bench led by HMJ R.F.
+         Nariman in Tantia Construction took cognizance of this situation
+         and on 11.01.2021 i.e. within less than one month of passing of
+         CORE Judgment expressed its disagreement over the reasoning and
+         conclusions arrived at in CORE Judgment. The Bench expressly said
+         that once the Appointing Authority itself is incapacitated how can
+         such an Authority be permitted to appoint arbitrators in its own
+         dispute. And the matter was referred to the Chief Justice of India for
+         constituting a larger Bench to decide on the correctness of the
+         CORE Judgment.
+HDFC Bank Limited Vs. Azad Kalam, Ex. No.121/2022                    page 40 of 46
+68.Evidently, constitution of a Five-Judge Bench to look into the
+         correctness of Three-Judge CORE Judgment may take some time
+         but in the interregnum the Law already laid by Three-Judge TRF
+         Judgment in 2017 shall continue to be the binding law totally
+         unaffected and unchanged by the observations made by co-equal
+         Bench in Three-Judge CORE Judgment.
+(XIII) Conclusion
+
+
+         Conclusion A: Execution Court duly empowered under
+Section 47
+CPC to refuse Execution of Ex-Parte Awards passed by Unilaterally
+         Appointed Arbitrators.
+69.In the light of above discussion and appraisal of the facts of the case
+         in the light of taking note of consistent judgments of Hon'ble
+         Supreme Court, Delhi High Court and other High Courts covering
+         aspect of powers of Execution Court under
+Section 47
+CPC it is
+         found that the arbitral award in question is prima facie suffering
+         from a substantive error which cause to the root of the matter in so
+         far as it was passed ex-parte by a 'Unilaterally Appointed
+         Arbitrator.'
+         Conclusion B: Awards passed by Unilaterally Appointed Sole
+         Arbitrators are nullity and Non-Executable.
+70.Unilateral Appointment of Sole Arbitrator is non est and void ab
+         initio. Awards passed by such a Tribunal is 'Non-Executable". The
+         statutory provision of
+Section 12(5)
+read with Schedule 7 of the Act
+         duly explained by full Bench of Hon'ble Supreme Court in TRF
+         Judgment and other Supreme Court judgments namely Perkins
+         Eastman, Bharat Broadband and several judgments of the
+         Hon'ble High Court of Delhi it is found that as per legal position as
+
+HDFC Bank Limited Vs. Azad Kalam, Ex. No.121/2022                 page 41 of 46
+          it exists as on date, the unilateral appointment of Sh. Bikash
+         Vishwakarma as Sole Arbitrator was void ab initio, non-est and a
+         nullity. The proceedings carried out by such unilaterally appointed
+         arbitrator Ex-Parte and the awards sought to be executed is found to
+         have been passed with inherent lack of jurisdiction. As such, this
+         Court is of the firm view that the Award under Execution is
+         rendered 'Non-Executable'.
+(XIV) Petition seeking execution of Ex-Parte Award passed by a
+         Unilaterally Appointed Arbitrator is like reaping benefits of
+         one's own wrong-doing and is abuse of Court process.
+         The above detailed discussion fairly brings to the fore one fact that
+         'Unilateral Appointment of Arbitrators' by the NBFCs is nothing but
+         a blatant violation and disregard of Law laid by Full Bench of
+         Hon'ble Supreme Court and is akin to Contempt of Court. Filing a
+         petition seeking execution of such Ex-Parte Awards obtained
+         through such Unilateral Appointments is nothing but a classic
+         example of abuse the process of Courts by Award Holders to extract
+         money out of the hapless respondents who more often than do not
+         have any clue about the very initiation, holding of proceeding and
+         passing of such like Ex-Parte Arbitral Awards before the chosen Sole
+         Arbitrators in an assembly line like fashion. Neither the letter of
+         assignment of dispute to the arbitrator nor the declaration furnished
+         by the Arbitrator or the Award sought to be executed through the
+         petition in hand have reference to any of the above catena of
+         landmark authoritative judgments of Hon'ble Supreme Court and
+         Hon'ble High Courts.
+71.It is appalling to observe that the Execution Petitioners are
+         determined to scorn and ignore with impunity the binding Law of
+
+HDFC Bank Limited Vs. Azad Kalam, Ex. No.121/2022                 page 42 of 46
+          the Land and still gather courage to approach the Courts of Law
+         with their unclean hands to seek and abuse the due process of law in
+         reaping benefits of such ill-gotten Arbitral Awards.
+72.In Halsbury's Laws of England, (4th Edn.,Vol. 9, Paragraph 38) ,
+         there is a brief discussion of when "Abuse of the Process of the
+         Court" may be a punishable contempt. It is said :
+" Abuse of process in general. The Court has power to punish as
+                  contempt any misuse of the court's process. Thus the forging or altering
+                  of court documents and other deceits of like kind are punishable as
+                  serious contempts. Similarly, deceiving the court or the court's officers
+                  by deliberately suppressing a fact, or giving false facts, may be a
+                  punishable contempt."
+73.In case titled
+S.P. Chengalvaraya Naidu (Dead) by LRs Vs.
+         Jaganath (Dead) LRs
+and ors. AIR 1984 SC 853, Hon'ble
+         Supreme Court observed :
+"The Courts of Law are meant for imparting justice between the parties.
+                 One who comes to the court , must come with clean hands. We are
+                 constrained to say that more often then not, process of the court is being
+                 abused . Property - grabbers tax-evaders, bank-loan-dodgers and other
+                 unscrupulous persons from all walks of life find the court process a
+                 convenient level to retain the illegal gains indefinitely. We have no
+                 hesitation that a person whose case is based on falsehood has no right
+                 to approach the court. He can be summarily thrown out at any stage of
+                 litigation."
+74.In case titled "
+C.B. Aggarwal Vs. P. Krishna Kapoor
+" AIR 1995
+         Delhi 154 Hon'ble Delhi High Court observed:
+"It is true that in a civilised society, legal process is the machinery for
+                keeping order and doing justice. It can be used properly or it can be
+                abused. It is used properly when it is invoked for vindication for men's
+                right and enforcement of just claims. It is abused when it is diverted from
+                its true course so as to serve extortion or oppression; or to exert
+                pressure so as to achieve an improper end."
+In case titled Curtis-Raleighquoted in Jennison v. Baker (1972) 1 All ER
+                997 at p. 1006. it is said "The law should not be seen to sit by limply,
+                while those who defy it go free, and those who seek its protection lose
+                hope"
+75.The Division Bench of Delhi High Court in case titled
+Indian Steel
+         & Wire Products Vs. B.I.F.R. (DB
+), 2004 (110) DLT 186 held that
+                "The sole purpose of filing the petition was to sabotage the
+                proposal/scheme of TISCO which was accepted by the BIFR.
+The court
+
+HDFC Bank Limited Vs. Azad Kalam, Ex. No.121/2022                                   page 43 of 46
+                 held that the petitioner-company's false offer and undertaking has
+                delayed the implementation of the scheme and the interest of workers and
+                other creditors have suffered. The court held that the petitioner had not
+                approached the court with clean hands and that such practice and
+                tendency needed to be strongly discouraged and effectively curbed so
+                that "in future, the petitioner and such like litigants should not gather
+                the courage of abusing the process of law for ulterior motives and
+                extraneous considerations. Such motivated petitions pollute the entire
+                legal and judicial process which seriously affects the credibility of this
+                system".
+76.Plain reading of the above salutory judgments shows that such
+         actions of the Execution Petitioner deserves to be resisted and
+         treated as gross abuse of legal process. Such litigants deserves to be
+         imposed exemplary costs as ruled in-
+77.In Morgan Stanley Mutual Fund Vs. Kartick Das, (1994) 4 SCC,
+         225 Hon'ble SC dealt with the issue and with intention to:
+"Discourage speculative and vexatious litigation and judicial
+                adventurism. "There is an increasing tendency on the part of the litigants
+                to indulge in speculative and vexatious litigation and adventurism which
+                the fora seem readily to oblige. We think such a tendency should be
+                curbed. Having regard to the frivolous nature of the complaint, we think it
+                is a fit case for award of costs, more so, when the appellant has suffered
+                heavily. Therefore, we award costs of Rs.25,000/- in favour of the
+                appellant."
+78.In Chandra Shashi v. Anil Kumar Verma
+, (1995) 1 SCC
+         421,Hon'ble Supreme Court observed :
+"The stream of administration of justice has to remain unpolluted so that
+                purity of court's atmosphere may give vitality to all the organs of the
+                State. Polluters of judicial firmament are, therefore, required to be well
+                taken care of to maintain the sublimity of court's environment; so also to
+                enable it to administer justice fairly and to the satisfaction of all
+                concerned....
+Anyone who takes recourse to fraud, deflects the course of judicial
+                proceedings, or if anything is done with oblique motive, the same
+                interferes with the administration of justice. Such persons are required
+                to be properly dealt with, not only to punish them for the wrong done,
+                but also to deter others from indulging in similar acts which shake the
+                faith of people in the system of administration of justice..... To enable the
+                courts to ward off unjustified interference in their working, those who
+                indulge in immoral acts like perjury, prevarication and motivated
+                falsehoods have to be appropriately dealt with, without which it would not
+
+
+HDFC Bank Limited Vs. Azad Kalam, Ex. No.121/2022                                     page 44 of 46
+                 be possible for any court to administer justice in the true sense and to the
+                satisfaction of those who approach it in the hope that truth would
+                ultimately prevail. People would have faith in courts when they would find
+                that 'Satyameva jayate' (truth alone triumphs) is an achievable aim there;
+                or 'Yato Dharmstato Jaya' (it is virtue which ends in victory) is not only
+                inscribed in emblem but really happens in the portals of courts.
+                The legal position thus is that if the publication be with intent to deceive
+                the court or one made with an intention to defraud, the same would be
+                contempt, as it would interfere with administration of justice. It would, in
+                any case, tend to interfere with the same. This would definitely be so if a
+                fabricated document is filed with aforesaid mens rea.
+79.In Kishore Samrite Vs. The State of UP
+, (2013) 2 SCC 398
+         Hon'ble Supreme Court expounded that:
+"As and when the Courts found that a litigating party is abusing the Court
+                process and had approached the Court with unclean hands without
+                disclosing complete facts, they shall be burdened with exemplary and
+                deterrent cost. In the cited case while observing that the petitioner have
+                misused the judicial process, a cost of Rs.5 lacs was imposed."
+80.It is pertinent to mention here that all the NBFCs are functioning in
+         India under business licence from Ministry of Finance, Govt. of
+         India or a dual licence from MoF as also RBI. It is expected of such
+         NBFCs which has Pan India presence and are important player in
+         financial infrastructure of developing Nation that they shall function
+         within the sphere of procedure duly established by Law and shall
+         never cross the Lakshman Rekha set by governing statutes, bye-laws
+         and binding authoritative Judgments of Hon'ble Supreme Court.
+         Instead of aligning their Arbitration Agreements/Clauses and
+         Arbitral Practices in consonance with
+Section 12(5)
+read with
+         Schedule 7 of
+Arbitration and Conciliation Act, 1996
+post its
+         amendment in 2015, they continued to harp over their age-old law
+         practices of having in-house Unilaterally Appointed Arbitrators. The
+         NBFCs ought to have aligned their arbitral practices with the
+         changing times as suggested by Justice B. N. Srikrishna Report on
+         Arbitration dated 30.07.2017 and the 2015 and 2019 Amendments
+         carried out in the
+Arbitration and Conciliation Act, 1996
+.
+HDFC Bank Limited Vs. Azad Kalam, Ex. No.121/2022                                    page 45 of 46
+81.As guided by the afore-discussed binding judgments of Hon'ble
+         Supreme Court and Hon'ble Delhi High Court, the Ex-Parte Arbitral
+         Award dated 27.10.2021, passed by Unilaterally Appointed Sole
+         Arbitrator namely Sh. Rajesh Rai is declared 'Non-Executable'.
+         Considering this petition seeking execution of a clandestinely
+         obtained Ex-Parte Arbitral Award as an 'Abuse of Court Process',
+         the Execution Petitioner is burdened with cost of Rs.25,000/- to be
+         deposited with Shahdara Bar Association (SBA) within 4 weeks.
+         SBA shall use such funds for organizing Orientation Courses for
+         young Members of the Bar for making them efficient Commercial
+         Court practitioners and for honing their Advocacy Skills as
+         Litigation Lawyers so that Justice Dispensation System is
+         strengthened and Citizens get access to quality and timely Justice.
+82.The Execution Petition is accordingly dismissed.
+83.Before parting with the Order, I would like to commend the able
+         assistance provided by Ld. Counsel for DH Bank Sh. Sanjeev
+         Pathak who not only submitted compilation of relevant judgments
+         but also assisted the Court during appreciation on the legal position
+         on the above issue.
+84.Copy of the order be sent to the address of the JD and Shahdara Bar
+         Association by the Court staff for information.
+85.File be consigned to Record Room after due compliance.
+(SURINDER S. RATHI)
+                                                               District Judge
+                                                        Commercial Court-03
+                                                      Shahdara District, KKD
+                                                         Delhi/22.11.2022.
+HDFC Bank Limited Vs. Azad Kalam, Ex. No.121/2022                  page 46 of 46

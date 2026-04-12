@@ -1,0 +1,557 @@
+Title: Search
+Court: High Court (Appellete Side)
+Date: Unknown Date
+Citation: SCC 603 [Commissioner of Income Tax and others vs.
+Source: https://indiankanoon.org/doc/28515556/
+
+[Cites
+10
+, Cited by
+0
+]
+Calcutta High Court (Appellete Side)
+Mackeil Ispat And Forging Limited vs State Bank Of India on 20 November, 2019
+Author:
+Sabyasachi Bhattacharyya
+Bench:
+Sabyasachi Bhattacharyya
+In the High Court at Calcutta
+
+                             Civil Revisional Jurisdiction
+
+                                    Appellate Side
+
+
+
+
+The Hon'ble Justice Sabyasachi Bhattacharyya
+
+
+
+                                 C.O. No.3224 of 2019
+
+                         Mackeil Ispat and Forging Limited
+                                        Vs.
+                               State Bank of India
+
+
+
+
+For the petitioner       :       Mr. S.N. Mookherjee,
+
+                                 Mr. Pradip Kr. Tarafder,
+
+                                 Mr. Sambuddha Dutta
+
+
+
+For the respondent/SBI   :       Mr. S.K. Kapur,
+Ms. Suhani Dwivedi,
+
+                                 Mr. Dipan Sarkar,
+
+                                 Mr. Deepanjan Dutta
+
+
+
+Hearing concluded on     :       15.11.2019
+
+
+
+Judgment on              :       20.11.2019
+2
+Sabyasachi Bhattacharyya, J.:‐
+1. The present application under
+Article 227
+of the Constitution of India has been
+
+      preferred against an order passed by the National Company Law Tribunal,
+
+      Kolkata Bench, refusing leave to the corporate debtor/petitioner the leave to file a
+
+      supplementary affidavit.
+2. Learned senior counsel appearing for the petitioner argues that although, by the
+
+      same order, the financial creditor was permitted to file a rejoinder much beyond
+
+      the time which was stipulated by the tribunal itself for filing of the same, bias
+
+      was exhibited in the impugned order by refusing the petitioner to file its
+
+      supplementary affidavit in the same breath.
+3. Learned senior counsel for the petitioner argues that, by an order dated June 19,
+
+      2019, a photocopy of which has been handed over on behalf of the opposite party
+
+      itself, the matter was fixed for further consideration on August 14, 2019 but only
+
+      seven days was granted to the financial creditor to file rejoinder. However, the
+
+      rejoinder was filed much thereafter. The corporate debtor, by the same order
+
+      dated June 19, 2019, was granted time to file a reply within seven days as well.
+4. In the impugned order, no reason was assigned as to why the belated rejoinder
+
+      of the financial creditor was allowed to be filed as late as on August 14, 2019 but,
+3
+in the same breath, the leave sought by the corporate debtor to file its
+
+   supplementary affidavit was refused on the ground that no valid reasons were
+
+   submitted.
+5. This, according to the petitioner, exhibited a lack of impartial attitude on the part
+
+   of the tribunal. It is argued that the cardinal rule of fair play was absent in such
+
+   refusal on the part of the tribunal.
+6. Learned senior counsel for the opposite party/financial creditor argues at the
+
+   outset that an appeal lay under Section 61(1) of the Insolvency and Bankruptcy
+
+   Code, 2016 (hereafter referred to as "the IBC"). As such, as settled by various
+
+   High Courts and the Supreme Court, this court ought not to have entertained or
+
+   to dispose of the present application under
+Article 227
+, since an equally
+
+   efficacious alternative remedy is available under the IBC. By placing reliance on
+
+   the preamble of the IBC, learned senior counsel for the opposite party argues that
+
+   primacy was given to insolvency resolution in a time‐bound manner for
+
+   maximization of value of assets, to promote entrepreneurship, availability of
+
+   credit and balance the interests of all the stakeholders. As such, it is argued, in
+
+   the event this court entertains the present application under
+Article 227
+of the
+
+   Constitution of India despite the availability of an appeal, the entire scheme of
+
+   the IBC and allied Acts would be frustrated, thereby thwarting the legislative
+4
+scheme of early resolution of such matters and opening up a flood‐gate of similar
+
+   matters, which would overburden this court despite the availability of an
+
+   appellate tribunal.
+7.
+In this context, learned senior counsel for the opposite party places reliance on a
+
+   judgment reported at (
+2014) 1 SCC 603 [Commissioner of Income Tax and others vs.
+
+   Chhabil Dass Agarwal
+], for the proposition that the High Courts would not readily
+
+   interfere in such matters under
+Article 226
+or
+Article 227
+of the Constitution of
+
+   India in view of availability of an alternative remedy.
+8. Learned senior counsel next argues that the filing of a further supplementary
+
+   affidavit by the petitioner was, in any event, barred by Rule 55 of the National
+
+   Company Law Tribunal Rules, 2016 (hereinafter referred to as "the NCLT
+
+   Rules").
+9. Rule 55 provides that no pleadings, subsequent to the reply, shall be presented
+
+   except by the leave of the tribunal upon such terms as a tribunal may think fit.
+10. It is next argued that the delay in filing the reply by the opposite party remained
+
+   unchallenged and cannot be a justification for the delay in filing the
+
+   supplementary affidavit.
+5
+11. It is next submitted on behalf of the opposite party, on the question of
+
+   maintainability of the present revisional application, that the expression "the
+
+   order" in Section 61(1) of the IBC refers to any order passed under Part II of the
+
+   IBC and includes the impugned order. It is submitted that a perusal of Section
+
+   60(5) shows that the National Company Law Tribunal (NCLT) shall have
+
+   jurisdiction to entertain or dispose of, inter alia, any question of priorities or any
+
+   question of law or facts, arising out of or in relation to the insolvency resolution
+
+   or liquidation proceedings of the corporate debtor or corporate person under this
+
+   court. The present impugned order, it is argued, is a question of fact arising out
+
+   of and in relation to an insolvency resolution and, as such, is covered by Section
+
+   60(5)(c) of the IBC, thus, bringing the said order within the fold of the appellable
+
+   orders contemplated in Section 61(1) of the IBC.
+12. In reply, learned senior counsel for the petitioner argues that Rule 55 of the
+
+   NCLT Rules are not applicable to insolvency resolution proceedings under the
+
+   IBC. By placing reliance on Rule 10 of the Insolvency and Bankruptcy
+
+   (Application to Adjudicating Authority) Rules, 2016 (hereinafter referred to as
+
+   "the IBC Rules"), learned senior counsel argues that the specific rules of the
+
+   NCLT Rules, 2016, which are applicable to IBC Proceedings, have been referred
+
+   to there. Neither in Rule 10 nor in any other Rule of the IBC Rules, does Rule 55
+
+   of the NCLT Rules find mention. As such, Rule 55 is not applicable at all to the
+6
+present IBC proceeding, merely because the NCLT was designated as the
+
+   Adjudicating Authority under the IBC.
+13. Learned senior counsel for the petitioner, in answer to the issue of
+
+   maintainability raised by the opposite party, argues that Section 61(1) specifically
+
+   refers to "the order of the Adjudicating Authority" under Part II of the IBC as
+
+   being appellable. It is argued that the definite article "the" refers to orders which
+
+   can be passed by the Adjudicating Authority under Part II of the IBC itself. By
+
+   way of examples, learned senior counsel refers to Sections 7(5), 9(5), 10(4), 12A,
+
+   13, 14, 16, 31, 33, 34, 42, 44 ‐ 49, 51 and 54 of the IBC. All such provisions
+
+   contemplate the orders which the Adjudicating Authority can pass under Part II
+
+   of the IBC, which have been referred to as "the order" which can be passed
+
+   under Part II. The refusal to grant leave for filing a supplementary affidavit not
+
+   being any of such orders, it would be treated to be a mere interlocutory order
+
+   which is not appellable at all under Section 61(1) of the IBC. As such, there would
+
+   be no remedy other than
+Article 227
+of the Constitution of India for the petitioner
+
+   to avail against such an order.
+14. Learned senior counsel for the petitioner cites a judgment reported at 2019
+SCC
+
+   Online SC 1292 [Virudhunagar Hindu Nadargal Dharma Paribalana Sabai and others
+
+   vs. Tuticorin Educational Society and others
+], wherein it was discussed as to there
+7
+being a distinction between cases where the alternative remedy is available
+
+   before civil courts in terms of the provisions
+of the Code of Civil Procedure
+and
+
+   in cases where such alternative remedy is available under special enactments
+
+   and/or statutory rules and the fora provided therein, which happened to be
+
+   quasi‐judicial authorities and tribunals. It was held that in cases falling under the
+
+   first category, which may involve suits and other proceedings before the civil
+
+   court, the availability of an appellate remedy in terms of the provisions
+of the
+
+   Code of Civil Procedure
+may have to be construed as a near total bar. However,
+
+   the second category of cases of alternative remedy was treated to be on a lighter
+
+   footing. Learned senior counsel for the petitioner argues on the basis of such
+
+   proposition that, in any event, there would not be any absolute bar for this court
+
+   to proceed under
+Article 227
+of the Constitution of India in considering the
+
+   legality and jurisdictional error of the impugned order even if there was a bar in
+
+   the IBC, which does not provide an alternative remedy available before civil
+
+   courts in terms of the provisions
+of the Code of Civil Procedure
+.
+15. Upon hearing both sides, an examination of the scope of
+Section 61(1)
+of the IBC,
+
+   as regards appellability of orders passed by the Adjudicating Authority, is to be
+
+   undertaken first.
+8
+16. It is seen from
+Section 61(1)
+that the language used is, notwithstanding anything
+
+   to the contrary contained under the
+Companies Act, 2013
+, any person aggrieved
+
+   by the order of the Adjudicating Authority under that Part (Part II) may prefer
+
+   an appeal to the National Company Law Appellate Tribunal.
+17. However, in contrast, the very next Section, that is,
+Section 62
+of the IBC
+
+   provides for an appeal to the Supreme Court against "an order" of the NCLT to
+
+   the Supreme Court, thereby creating an explicit distinction between the language
+
+   of the two successive sections between the appeal preferable against the order of
+
+   an Adjudicating Authority and that of the NCLT.
+18. Seen in such context, it cannot be presumed that the legislature carved out such a
+
+   distinction without any meaning or reason. Going through the provisions of Part
+
+   II of the IBC, as rightly argued on behalf of the petitioner, specific provisions
+
+   have been
+laid down in
+the said Part, which confer power on the Adjudicating
+
+   Authority (the NCLT) to pass an order. There are no other provisions than those
+
+   referred to by the petitioner for passing any order by the Adjudicating Authority
+
+   under Part II.
+19. The submission of learned senior counsel for the opposite party as regards the
+
+   applicability of
+Section 60(5)(c)
+of the IBC to the present case is unacceptable,
+
+   since the said clause merely provides for the jurisdiction and power of the NCLT.
+9
+Sub‐section (5) of
+Section 60
+lays down that notwithstanding anything to the
+
+   contrary contained in any other law for the time being in force, the NCLT shall
+
+   have jurisdiction to entertain or dispose of the matters provided therein,
+
+   including those mentioned in clause (c), that is, any question of priorities or any
+
+   question of law or facts, arising out of or in relation to the insolvency resolution
+
+   or liquidation proceedings of the corporate debtor or corporate person under the
+
+   IBC.
+20. The said provision does not empower the Adjudicating Authority to pass any
+
+   order, as contemplated in
+Section 61(1)
+of the IBC, but merely confer jurisdiction
+
+   on the NCLT (the Adjudicating Authority) to incidentally decide questions of
+
+   facts as well, arising out of or in relation to the insolvency resolution. The said
+
+   provision confers power and jurisdiction on the Adjudicating Authority to deal
+
+   with such questions while deciding matters under the IBC, which would
+
+   culminate in orders under Part II, but do not provide for any occasion for the
+
+   Adjudicating Authority to pass an order.
+Section 60(5)
+of the IBC is merely
+
+   enabling, charting out the territory of the powers of the Adjudicating Authority,
+
+   and does not contemplate any order being passed by the said authority.
+21. Moreover, the language of
+Section 62
+of the IBC, which ex facie shows that "an
+
+   order" that is, any order of the NCLT is appellable whereas, by explicit contrast,
+10
+Section 61(1)
+provides for an appeal only against "the order of the Adjudicating
+
+   Authority" under Part II. Since
+Section 61(1)
+cannot be read in isolation of the
+
+   other provisions of Part II, the expression "the" has to be relatable to the
+
+   previous provisions conferring authority on the Adjudicating Authority to pass
+
+   orders.
+22. The present impugned order not being such an order, no appeal lies under
+Section 61(1)
+of the IBC.
+23. The use of the indefinite article "an" to qualify appellable orders in
+Section 62
+and the definite article "the" in
+Section 61 (1)
+of the IBC reflects the intention of
+
+   the Legislature and cannot be construed to be redundant. Such intention of the
+
+   Legislature has to be attributed a meaning and cannot be ignored while
+
+   construing the statute.
+24. The judgment cited on behalf of the petitioner is besides the point, inasmuch as
+the said judgment
+lays down a distinction between alternative remedies of civil
+
+   nature and other alternative remedies, which does not take away from the
+
+   sanctity of the alternative remedy in any manner.
+25. Even the judgment cited on behalf of the opposite party does not lay down the
+
+   proposition that an alternative remedy is an absolute bar for a High Court to
+
+   exercise its jurisdiction under
+Article 226
+or
+Article 227
+of the Constitution of
+11
+India. It is well‐settled since long that, although there is no absolute bar if
+
+   alternative remedies are available, if such remedies are equally efficacious, the
+
+   High Court exercises a self‐imposed restriction in not frustrating the scheme of
+
+   the concerned statute by interfering, but generally chooses to leave the matter for
+
+   being challenged before the appropriate forum, of course, unless there is any
+
+   inherent jurisdictional error hitting the root of the authority passing the order.
+26. Be that as it may, the aforesaid propositions are entirely irrelevant for the present
+
+   purpose, since the present application under
+Article 227
+of the Constitution of
+
+   India was entertained and is being disposed of not despite the availability of an
+
+   alternative remedy but on the ground that there is no alternative remedy at all
+
+   for challenging the impugned order. Since
+Section 61(1)
+, providing for an appeal
+
+   against "the order" of the Adjudicating Authority is the only provision for
+
+   challenge in Part II of the IBC, and the present impugned order is not covered by
+
+   the said provision, there would be no other remedy before the petitioner against
+
+   the impugned order but to approach this court, either under
+Article 226
+or under
+Article 227
+of the Constitution of India.
+27. Hence, the issue of maintainability raised by the opposite party is turned down
+
+   and it is hereby held that the present application under
+Article 227
+of the
+
+   Constitution is very much maintainable.
+12
+28. As regards the applicability of Rule 55 of the NCLT Rules, the contention of the
+
+   petitioner is more acceptable, in so far as the said Rules govern the functioning of
+
+   the NCLT, that is, the National Company Law Tribunal and does not
+
+   automatically apply to the IBC, unless specifically provided for. Since the IBC
+
+   has its own Rules, being the IBC Rules, 2016, and such Rules, despite specifying
+
+   certain rules of the NCLT Rules to be applicable to IBC matters, does not mention
+
+   Rule 55 of the same, it is evident that Rule 55 of the NCLT Rules cannot be
+
+   automatically invoked in IBC matters.
+29. Even if it was taken for the sake of argument that Rule 55 was applicable to the
+
+   present case, the said Rule specifically provides for leave being given by the
+
+   tribunal to present pleadings subsequent to the reply. It is conspicuous that no
+
+   written application for leave is contemplated in the said section.
+30. The tribunal, in the present case, merely attributed a single sentence in holding
+
+   that no valid reasons were submitted by the corporate debtor/petitioner to file
+
+   the supplementary affidavit, in spite of having accepted the rejoinder filed by the
+
+   financial creditor in specific violation of the time‐frame stipulated earlier, about
+
+   one‐and‐a‐half months after such time expired, without even assigning any
+
+   reason. The said modus operandi reeks of bias and a partisan approach and ought
+
+   to be deprecated.
+13
+31. It may be mentioned here that the argument advanced by the opposite party as
+
+   to the entertainment of the present application under
+Article 227
+of the
+
+   Constitution opening a flood gate for the litigants to come up against every order
+
+   passed by the Adjudicating Authority under the IBC, is misplaced in view of the
+
+   discussions made above. There are several orders which can be passed by the
+
+   Adjudicating Authority under Part II of the IBC, which are appellable under
+Section 61(1)
+, as referred to in the present judgment. However, in the event the
+
+   order impugned does not fall within the category of such appellable orders, the
+
+   principle of ubi jus ibi remedium would be squarely hit, if this court shuts its eyes
+
+   to a patent perversity or jurisdictional error committed by the tribunal.
+32. In the present case, the perversity occasioned by meting out a step‐motherly
+
+   treatment to the parties respectively is, by itself, a sufficient ground to interfere
+
+   with the impugned order. Moreover, the supplementary affidavit sought to be
+
+   filed being apparently relevant for a proper and complete adjudication of the
+
+   proceeding, ought to have been permitted to be filed by the petitioner.
+33. Accordingly, C.O. No. 3224 of 2019 is allowed on contest, thereby setting aside
+
+   the impugned order in so far as the refusal to grant the petitioner leave to file its
+
+   supplementary affidavit is concerned. The corporate debtor/petitioner is hereby
+
+   granted leave to file such supplementary affidavit before the NCLT on the next
+14
+available date, if not already filed. The NCLT shall thereafter proceed with the
+
+   hearing of the main matter, upon considering all the pleadings and other
+
+   materials, including the supplementary affidavit so filed by the corporate debtor.
+34. There will be no order as to costs.
+35. Urgent certified website copies of this order, if applied for, be made available to
+
+   the parties upon compliance with the requisite formalities.
+( Sabyasachi Bhattacharyya, J. )

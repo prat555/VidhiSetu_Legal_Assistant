@@ -1,0 +1,631 @@
+Title: Search
+Court: Supreme Court of India
+Date: 45 of 1860
+Citation: SCC    598    and    Kalyan   Chandra   Sarkar    v    Rajesh
+Source: https://indiankanoon.org/doc/135048839/
+
+[Cites
+57
+, Cited by
+23
+]
+Supreme Court of India
+The State Of Haryana vs Dharamraj on 29 August, 2023
+1
+
+
+2023INSC784
+
+
+                                                                                      REPORTABLE
+
+                                        IN THE SUPREME COURT OF INDIA
+                                       CRIMINAL APPELLATE JURISDICTION
+
+                                        CRIMINAL APPEAL NO.     OF 2023
+                                      (@ OUT OF SLP (Crl.) No.2256/2022)
+
+
+       STATE OF HARYANA                                                         Appellant(s)
+
+                                                      VERSUS
+
+       DHARAMRAJ                                                               Respondent(s)
+
+                                                  J U D G M E N T
+AHSANUDDIN AMANULLAH, J.
+Heard learned counsel appearing for the parties.
+2.                  Leave granted.
+3.                  The   present    appeal   filed     by   the   State   of     Haryana
+
+       seeks cancellation of anticipatory bail granted to the
+
+       sole respondent vide Order dated 03.12.2021 (hereinafter
+
+       referred                  to    as   the   “Impugned     Order”)      passed    in   CRM-M
+
+       No.49115/2021 by a learned Single Judge of the High Court
+
+       of Punjab and Haryana at Chandigarh. The respondent is
+
+       accused                   in     First     Information       Report     No.0239      dated
+Signature Not Verified
+Digitally signed by
+31.07.2020 at Police Station Badshahpur, Gurugram lodged
+  Indu Marwah
+  Date: 2023.09.01
+  17:01:27 IST
+  Reason:
+under
+Sections 147
+,
+148
+,
+149
+,
+323
+,
+325
+,
+341
+,
+342
+and
+427
+2
+of the Indian Penal Code, 1860 (hereinafter referred to
+
+as the “
+IPC
+”). Later,
+Sections 186
+,
+353
+and
+364
+of the
+
+IPC were also included.
+4.       Learned counsel appearing for the appellant submits
+
+that in the background of the nature of the allegations
+
+and the materials collected as well as the respondent
+
+having          been         declared             a     proclaimed               offender1,               grant         of
+
+indulgence under Section 4382 of the Code of                                                             Criminal
+1
+82. Proclamation for person absconding.—(1) If any Court has reason to believe (whether after taking evidence or
+not) that any person against whom a warrant has been issued by it has absconded or is concealing himself so that such
+warrant cannot be executed, such Court may publish a written proclamation requiring him to appear at a specified place
+and at a specified time not less than thirty days from the date of publishing such proclamation.
+(2) The proclamation shall be published as follows:—
+(i) (a) it shall be publicly read in some conspicuous place of the town or village in which such person ordinarily resides;
+(b) it shall be affixed to some conspicuous part of the house or homestead in which such person ordinarily resides or to
+some conspicuous place of such town or village;
+(c) a copy thereof shall be affixed to some conspicuous part of the Court House;
+(ii) the Court may also, if it thinks fit, direct a copy of the proclamation to be published in a daily newspaper circulating
+in the place in which such person ordinarily resides.
+(3) A statement in writing by the Court issuing the proclamation to the effect that the proclamation was duly published
+on a specified day, in the manner specified in clause (i) of sub-section (2), shall be conclusive evidence that the
+requirements of this section have been complied with, and that the proclamation was published on such day.
+ (4) Where a proclamation published under sub-section (1) is in respect of a person accused of an offence punishable
+under
+Sections 302
+,
+304
+,
+364
+,
+367
+,
+382
+,
+392
+,
+393
+,
+394
+,
+395
+,
+396
+,
+397
+,
+398
+,
+399
+,
+400
+,
+402
+,
+436
+,
+449
+,
+459
+or 460 of the
+Indian Penal Code
+(45 of 1860), and such person fails to appear at the specified place and time required by the
+proclamation, the Court may, after making such inquiry as it thinks fit, pronounce him a proclaimed offender and make a
+declaration to that effect.
+(5) The provisions of sub-sections (2) and (3) shall apply to a declaration made by the Court under sub-section (4) as
+they apply to the proclamation published under sub-section (1).
+2
+438. Direction for grant of bail to person apprehending arrest.— (1) Where any person has reason to believe that he
+may be arrested on accusation of having committed a non-bailable offence, he may apply to the High Court or the Court
+of Session for a direction under this section that in the event of such arrest he shall be released on bail; and that Court
+may, after taking into consideration, inter alia, the following factors, namely:—
+(i) the nature and gravity of the accusation;
+3
+Procedure, 1973 (hereinafter referred to as the “
+CrPC
+”)
+
+was erroneous and misplaced. It was submitted that there
+
+is       enough            evidence               to        show       the        complicity               of       the
+
+appellant and further, based on this very order, other
+
+co-accused                 persons             have          been      granted             the          benefit       of
+(ii) the antecedents of the applicant including the fact as to whether he has previously undergone imprisonment on
+conviction by a Court in respect of any cognizable offence;
+(iii) the possibility of the applicant to flee from justice; and
+(iv) where the accusation has been made with the object of injuring or humiliating the applicant by having him so
+arrested,
+either reject the application forthwith or issue an interim order for the grant of anticipatory bail:
+Provided that, where the High Court or, as the case may be, the Court of Session, has not passed any interim order
+under this sub-section or has rejected the application for grant of anticipatory bail, it shall be open to an officer in-
+charge of a police station to arrest, without warrant the applicant on the basis of the accusation apprehended in such
+application.
+(1-A) Where the Court grants an interim order under sub-section (1), it shall forthwith cause a notice being not less than
+seven days notice, together with a copy of such order to be served on the Public Prosecutor and the Superintendent of
+Police, with a view to give the Public Prosecutor a reasonable opportunity of being heard when the application shall be
+finally heard by the Court.
+(1-B) The presence of the applicant seeking anticipatory bail shall be obligatory at the time of final hearing of the
+application and passing of final order by the Court, if on an application made to it by the Public Prosecutor, the Court
+considers such presence necessary in the interest of justice.
+(2) When the High Court or the Court of Session makes a direction under sub-section (1), it may include such conditions
+in such directions in the light of the facts of the particular case, as it may think fit, including—
+(i) a condition that the person shall make himself available for interrogation by a police officer as and when required;
+(ii) a condition that the person shall not, directly or indirectly, make any inducement, threat or promise to any person
+acquainted with the facts of the case so as to dissuade him from disclosing such facts to the Court or to any police
+officer;
+(iii) a condition that the person shall not leave India without the previous permission of the court;
+(iv) such other condition as may be imposed under sub-section (3) of
+Section 437
+, as if the bail were granted under that
+section.
+(3) If such person is thereafter arrested without warrant by an officer in charge of a police station on such accusation,
+and is prepared either at the time of arrest or at any time while in the custody of such officer to give bail, he shall be
+released on bail; and if a Magistrate taking cognizance of such offence decides that a warrant should issue in the first
+instance against that person, he shall issue a bailable warrant in conformity with the direction of the Court under sub-
+section (1).
+(4) Nothing in this section shall apply to any case involving the arrest of any person on accusation of having committed
+an offence under sub-section (3) of
+Section 376
+or
+Section 376-AB
+or
+Section 376-DA
+or
+Section 376-DB
+of the Indian
+Penal Code (45 of 1860).
+4
+anticipatory       bail,   which    does   not   serve   larger     public
+
+interest.
+5.   Per contra, the learned counsel for the respondent,
+
+supporting     the     Impugned      Order,      submitted     that     the
+
+Investigating Agency has tried to unnecessarily harass
+
+and implicate the respondent which would be clear from
+
+various manipulations done in the record in the course of
+
+investigation. Further, it is submitted that the State is
+
+trying to show the respondent as the culprit only on the
+
+ground that he shares common name with one accused.
+6.   Learned counsel for the State disputes that fact and
+
+submits that the respondent is the person who has been
+
+duly identified and against him the allegations levelled
+
+are found true, per the Investigation Agency.
+7.   A foray, albeit brief, into relevant precedents is
+
+warranted.    This    Court      considered   the    factors   to     guide
+
+grant of bail in
+Ram Govind Upadhyay v Sudarshan Singh
+,
+
+(
+2002)   3   SCC    598    and    Kalyan   Chandra   Sarkar    v    Rajesh
+
+Ranjan
+, (2004) 7 SCC             528.
+In
+Prasanta Kumar        Sarkar v
+
+Ashis    Chatterjee
+,       (2010)    14    SCC    496,   the    relevant
+
+principles were restated thus:
+5
+‘9. ... It is trite that this Court does not,
+        normally, interfere with an order passed by the
+        High Court granting or rejecting bail to the
+        accused. However, it is equally incumbent upon
+        the High Court to exercise its discretion
+        judiciously,   cautiously    and   strictly    in
+        compliance with the basic principles
+laid down in
+a plethora of decisions of this Court on the
+        point. It is well settled that, among other
+        circumstances, the factors to be borne in mind
+        while considering an application for bail are:
+(i) whether there is any prima facie or
+        reasonable ground to believe that the accused had
+        committed the offence;
+(ii) nature and gravity of the accusation;
+(iii) severity of the punishment in the event of
+        conviction;
+(iv) danger of the accused absconding or fleeing,
+        if released on bail;
+(v) character, behaviour, means, position and
+        standing of the accused;
+(vi) likelihood of the offence being repeated;
+(vii) reasonable apprehension of the witnesses
+        being influenced; and
+(viii) danger, of course, of justice being
+        thwarted by grant of bail.’
+8.
+In
+Mahipal v Rajesh Kumar
+alias Polia, (2020) 2 SCC
+
+118, this Court opined as under:
+‘16. The considerations that guide the power of
+        an appellate court in assessing the correctness
+        of an order granting bail stand on a different
+        footing from an assessment of an application for
+        the cancellation of bail. The correctness of an
+        order granting bail is tested on the anvil of
+        whether there was an improper or arbitrary
+        exercise of the discretion in the grant of bail.
+The test is whether the order granting bail is
+        perverse, illegal or unjustified. On the other
+        hand, an application for cancellation of bail is
+6
+generally examined on the anvil of the existence
+                 of supervening circumstances or violations of the
+                 conditions of bail by a person to whom bail has
+                 been granted. …’
+9.
+In
+Bhagwan Singh v Dilip Kumar @ Deepu @ Depak
+, 2023
+
+INSC 7613, this Court, in view of
+Dolat Ram v State of
+
+Haryana
+, (1995) 1 SCC 349;
+Kashmira Singh v Duman Singh
+,
+
+(1996) 4 SCC 693 and X v State of Telangana, (2018) 16
+
+SCC 511, held as follows:
+‘13. It is also required to be borne in mind that
+                 when a prayer is made for the cancellation of
+                 grant   of    bail   cogent    and    overwhelming
+                 circumstances must be present and bail once
+                 granted cannot be cancelled in a        mechanical
+                 manner    without   considering    whether     any
+                 supervening circumstances have rendered it in
+                 conducing to allow fair trial. This proposition
+                 draws support from the Judgment of this Court in
+                 Daulat Ram and others v. State of          Haryana
+                 reported in (1995) 1 SCC 349, Kashmira Singh v.
+Duman Singh (1996) 4 SCC 693 and xxx v. State of
+                 Telangana (2018) 16 SCC 511.’
+10.        In     XXX     v    Union    Territory      of   Andaman     &   Nicobar
+
+Islands,            2023       INSC    7674,    this   Court    noted   that     the
+
+principles              in     Prasanta        Kumar   Sarkar    (supra)       stood
+
+reiterated in Jagjeet Singh v Ashish Mishra, (2022) 9 SCC
+321.
+3
+2023 SCC OnLine SC 1059.
+4
+2023 SCC OnLine SC 1062.
+7
+11.       The     contours    of        anticipatory         bail      have    been
+
+elaborately       dealt    with    by    5-Judge          Benches    in
+Gurbaksh
+
+Singh Sibbia v State of Punjab
+, (
+1980) 2 SCC 565 and
+
+Sushila Aggarwal v State (NCT of Delhi
+), (2020) 5 SCC 1.
+Siddharam       Satlingappa       Mhetre       v     State     of    Maharashtra
+,
+
+(2011) 1 SCC 694 is worthy of mention in this context,
+
+despite     its    partial        overruling          in
+Sushila      Aggarwal
+(supra).    We    are     cognizant          that    liberty    is    not     to   be
+
+interfered with easily. More so, when an order of pre-
+
+arrest bail already stands granted by the High Court.
+12.   Yet, much like bail, the grant of anticipatory bail
+
+is to be exercised with judicial discretion. The factors
+
+illustrated by this Court through its pronouncements are
+
+illustrative, and not exhaustive. Undoubtedly, the fate
+
+of each case turns on its own facts and merits.
+In
+Vipan
+
+Kumar Dhir v State of Punjab
+, (2021) 15 SCC 518, taking
+
+note of
+Dolat Ram
+(supra) and
+X v State of Telangana
+(supra),    the     Court     cancelled             the    anticipatory        bail
+
+granted to the accused therein. Keeping all the aforesaid
+
+in mind, we turn our attention to the facts in praesenti.
+13. Having considered the matter, this Court finds that,
+8
+in the facts and circumstances of the present case, it
+
+was   not   proper       for    the   High   Court   to    have   granted
+
+anticipatory bail to the respondent.
+14.    As would be manifest from the Impugned Order, the
+
+reasoning thereof is contained in Paragraphs 7-12. Closer
+
+perusal reveals what weighed with the High Court:
+(a) That the maximum sentence for the offences in the
+
+      First Information Report did not exceed 7 years.
+(b)   That     the        possibility     of    the    respondent
+
+      influencing        the     investigation,      tampering       with
+evidence et al, could be taken care of by imposing
+
+      stringent conditions.
+(c) That the respondent’s declaration as a proclaimed
+
+      offender     was    not    on   account   of   him    deliberately
+
+      avoiding court.
+(d) That the respondent was a first-time offender and
+
+      deserved a chance to ‘reform and course correct’.
+15.    The logic of the High Court does not commend itself
+
+to us. The High Court placed reliance on
+Arnesh Kumar v
+
+State of Bihar
+, (2014) 8 SCC 273 to the effect that where
+
+the offence is punishable with imprisonment for a term
+9
+which may be less than seven years or which may extend to
+
+seven years, whether with or without fine, there is to be
+
+no        automatic           arrest.
+Having       gone      through
+the        said
+
+judgment
+as also its most recent reiteration in
+Md. Asfak
+
+Alam v State of Jharkhand
+, 2023 INSC 6605, we are in full
+
+agreement             with         the       propositions          enunciated       therein.
+
+However,
+Section 364
+, IPC carries a term of imprisonment
+
+for life or rigorous imprisonment of ten years and fine.
+We are a bit perplexed as to how, despite addition of
+Section           364
+,        IPC,      the   High       Court     took    the   view       that
+Arnesh          Kumar
+(supra)        would       aid   the   respondent        in   his
+
+quest for pre-arrest bail.
+16.         What the High Court (also) lost sight of was that
+
+the respondent was a declared proclaimed offender. The
+
+High         Court       notes,         at    Paragraph        28,    that     it   was      not
+
+dealing            with           the    prayer          seeking      quashing      of       the
+
+proclamation proceedings as the same were not made part
+
+of the petition before it. As things were, the respondent
+
+was        declared           a   proclaimed         offender        on   05.02.2021,       and
+
+sought          anticipatory             bail    from      the     High    Court    only     in
+5
+2023 SCC OnLine SC 892.
+10
+October, 2021. As such, it was not correct for the High
+
+Court    to   brush       aside     such       factum,     on    the    basis    of
+
+averments alone, purporting to explain the backdrop of
+
+such declaration by mere advertence to a similar-sounding
+
+name,    in       the   petition      before         it,   as    recorded        at
+
+Paragraphs        9     and   10    of        the    Impugned     Order.        The
+
+declaration of the respondent as a proclaimed offender,
+
+and    such   declaration          subsisting        on    the   date    of     the
+
+Impugned Order, we are              unable to agree with                the High
+
+Court that the respondent was entitled to ‘reform and
+
+course correct’.
+16. The respondent, without first successfully assailing
+
+the order declaring him as a proclaimed offender, could
+
+not have proceeded to seek anticipatory bail. Looking to
+
+the factual prism, we are clear that the respondent’s
+
+application under
+Section 438
+, CrPC should not have been
+
+entertained, as he was a proclaimed offender. We may note
+
+that in
+Lavesh v State (NCT of Delhi
+), (2012) 8 SCC 730,
+
+this Court was categoric against grant of anticipatory
+
+bail    to    a    proclaimed       offender.
+In   the    same      vein,
+
+following
+Lavesh
+(supra)     is       the   decision     in
+State   of
+11
+Madhya Pradesh v Pradeep Sharma
+, (2014) 2 SCC 171, where
+
+this Court emphasised that a proclaimed offender would
+
+not be entitled to anticipatory bail. Of course, in an
+
+exceptional and rare case, this Court or the High Courts
+
+can consider a plea seeking anticipatory bail, despite
+
+the applicant being a proclaimed offender, given that the
+
+Supreme Court and High Courts are Constitutional Courts.
+
+However, no exceptional situation arises in the case at
+
+hand.
+Following Pradeep Sharma
+(supra), in
+Prem Shankar
+
+Prasad v State of Bihar
+, 2021 SCC OnLine SC 955, this
+
+Court was unequivocal that the High Court therein erred
+
+in granting anticipatory bail ignoring proceedings under
+Sections    82
+and
+83
+,   CrPC.
+In
+Abhishek   v   State   of
+
+Maharashtra
+, (2022) 8 SCC 282, this Court concluded:
+’68. As regards the implication of proclamation
+           having been issued against the appellant, we have
+           no hesitation in making it clear that any person,
+           who is declared as an “absconder” and remains out
+           of reach of the investigating agency and thereby
+           stands directly at conflict with law, ordinarily,
+           deserves no concession or indulgence. By way of
+           reference, we may observe that in relation to the
+           indulgence of pre-arrest bail in terms of
+Section
+           438
+CrPC, this Court has repeatedly said that
+           when an accused is absconding and is declared as
+           proclaimed offender, there is no question of
+           giving him the benefit of
+Section 438
+CrPC. [For
+           example,
+Prem Shankar Prasad v. State of Bihar
+,
+12
+(2022) 14 SCC 529: 2021 SCC OnLine SC 955] …’
+17.    Accordingly,     in    view       of    the     discussions   made
+
+hereinabove,    the    Impugned      Order      granting    anticipatory
+
+bail to the respondent is set aside. The respondent shall
+
+surrender before the Court concerned within four weeks
+
+from   today   and    may    seek    regular     bail    which   will   be
+
+considered on its own merits without being prejudiced by
+
+the present judgment.
+18. The appeal stands allowed                 in the   aforesaid terms.
+
+Pending applications stand consigned to records. As far
+
+as the submission of the State is that the Impugned Order
+
+is the basis for co-accused to obtain anticipatory bail,
+
+it is for the State to take steps, if so advised, in
+
+accordance with law, in that behalf.
+…………………………………………………J.
+                                                [AHSANUDDIN AMANULLAH]
+
+
+
+                                                  …………………………………………………J.
+                                                 [S.V.N. BHATTI]
+
+NEW DELHI
+AUGUST 29, 2023

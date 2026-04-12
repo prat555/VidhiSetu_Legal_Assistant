@@ -1,0 +1,325 @@
+Title: Search
+Court: High Court
+Date: 98 ER 1344
+Citation: citations: AIR1960ALL672, AIR 1960 ALLAHABAD 672
+Source: https://indiankanoon.org/doc/1709074/
+
+[Cites
+23
+, Cited by
+21
+]
+Allahabad High Court
+Union Of India (Uoi) vs Firm Ram Gopal Hukum Chand And Ors. on 1 January, 1960
+Equivalent citations: AIR1960ALL672, AIR 1960 ALLAHABAD 672
+ORDER
+ 
+
+  S.S. Dhavan, J.
+1.  These are two connected applications under Section 25 of the Small Causes Court Act which raise an important question of law relating, to the scope and extent of the liability of the Post Office for articles delivered to it for transmission by Value Payable Post (hereinafter called the V. P. P.). Both these revisions have been filed by the Union of India as the Government in charge of the Post Office concerned and it shall be referred to in this judgment as the Post Office.
+2. In revision No. 774 of 1952, a Firm Rant Gopal Hukum Chand filed a suit against the Post Office with following allegations: On 11-5-48 the firm delivered four parcels to the Post Office at Mau Nath Bhanjan in the District of Azamgarh for transmission. Three of them were sent by registered post and were delivered to the addressees, in due course, and there is no dispute concerning; them.
+The fourth was sent by V. P. P. for a sum of Rs. 313/3/-. The plaintiff alleged that he never received the amount due on this parcel and began to make enquiries. He wrote to the addressee who informed him that they had received the parcel and had paid the amount to the Post Office. He made a complaint to the Post Office and was assured that the matter was under consideration.
+Ultimately, on 12-11-1950 he was informed by the Superintendent of Post Offices, Varanasi Division, that any claim by him in respect of the parcel was time-barred. The plaintiff thereupon filed a suit for the recovery of Rs. 370/- being the amount of the value of the article (Rs. 313/3/-), interest (Rs. 46/13/-) and costs of notice and correspondence (Rs. 10/-).
+3. The Post Office contested the suit and denied all liability. It admitted the delivery of the parcel to it and its transmission for purposes of delivery. The written statement of the Post Office-is not a satisfactory defence. It does not disclose what happened to the parcel after it was entrusted to its custody, but paragraph 16 contains the noncommittal statement that "it appears from the plaint that the parcel in question was lost in transit and was not delivered to the actual addressee".
+Further, in reply to the plaintiff's allegations that the addressee had written that they had received the articles and paid the specified sum to the Post Office, paragraph 8 of the written statement contained the vague denial that this allegation "does not concern the defendant and is, therefore, not admitted". The statement does not disclose whether the parcel was delivered or not, or whether the amount specified by the sender was recovered by the Post Office on delivery or not. The Government also pleaded that the plaintiff's claim "is clearly time-barred under Section 116 item (B) of the Post and Telegraph Guide and was accordingly rejected by the postal authorities". I shall have to comment on this kind of defence presently.
+4. The learned Judge held that the Post Office had not proved the loss of the article. He decreed the suit on the ground that the Post Office "cannot be absolved from its general liability under the
+Contract Act
+to pay the price or damages of the value payable article in question, if it neglected to return it to the plaintiff as undelivered or to collect its price on its delivery to the defendant No. 2 and to remit the price to the plaintiff". The suit was thus decreed on the basis of a contractual liability.
+5. In the other revision, No. 777 of 1952, the facts are different in one important respect. In this case the plaintiff (the name is immaterial) alleged that the Post Office had neither delivered the V. P. Parcel to the addressee nor returned it to the sender, and further that the failure to deliver the parcel was "due to wilful neglect and gross misconduct of the officers of the Post Office Department''. He sued for the recovery of Rs. 144/- as the price of the article, Rs. 17/6/- as interest, Rs. 5/- as notice charges and Rs. 3-10-0 as refund of postal charges, making a total of Rs. 170.
+The Post Office contested this suit and denied all liability. In para 8 of its written statement it explained the non-delivery of the V. P. Parcel and its subsequent disappearance in these words: "The V. P. Parcel reached Mandvi Post Office Bombay and the intimation of its arrival was delivered to the addressee on the 17-6-1949, who, in spite of the intimation, did not take delivery of the V.P.P. although the parcel remained at the said Post Office till 30-7-1949. The number slip paper which was pasted on the parcel got loose and fell down. Hence the Mandvi Post Office, while returning the parcel to the sender, marked it as ''X X Karwi" and sent it to Bombay Presidency Post Office, whence it appears from the record that it was delivered from transmission to the G6 out-section, but in face another V. P. Parcel was sent in its place. The parcel, in spite of vigorous search, is still untraced and appears to have been lost".
+The statement is unintelligible in parts, but counsel for the Post Office explained that the addressee refused to accept the V. P. P. which was returned to the Central Post Office at Bombay for return to the addressee but, as the result of the disappearance of the label, a wrong parcel was sent, and the original parcel was untraceable.
+6. The learned Judge held that the Post Office had not proved the loss of the article and, therefore, the protection of
+Section 6
+of the Post Office Act was not available to the defendants. He held that "it is a clear case of non-delivery of the goods bailed out to the defendant by the plaintiff. As the defendant has failed to deliver the goods to the plaintiff after it wag not taken by the addressee, the defendant is certainly liable to make payment; to the plaintiff for the same". He decreed the suit but rejected the claim for interest.
+7. Aggrieved by this decision the Post Office has come to this Court in revision. The two cases were connected and heard together as some points or law involved are common to both.
+8. The case for the Post Office was argued with great ability by Mr. Tej Narain Sapru. Learned counsel contended that in both the suits the Judge concerned had decreed the suit on the erroneous assumption that there was a contract between, the sender of the parcel and the Post Office. Learned counsel argued that in running a postal service, the Post Office performs a Governmental and not a commercial function. It does not run a commercial service and enters into no contract with the sender of the article.
+There being no contract, no question of contractual liability arises under any circumstance whatsoever, and the trial court in each case had erred in holding that the Post Office was liable under a contract. Mr. Sapru made it clear that he had been instructed to obtain a decision from the Court regarding the nature of the liability of the Post Office under the V. P. system. He further contended that the previous decisions of this Court and of the Madras High Court require re-consideration as in all of them it was assumed, without discussion, that there was a contract between the Post Office and the sender.
+9. It is, therefore, necessary to examine the nature of the relationship between the sender of a V. P. Parcel and the Post Office.
+10. In establishing the Post Office and running the postal service, the State performs a Governmental function. The Government does not engage in any commercial transaction nor does it enter into any contract with the sender. The charge on articles transmitted by post is in the nature of duty imposed by the State for enjoyment of the facilities provided by this department and not a consideration for any contract. The Post Office is not a common carrier.
+It is a branch of the two departments of Government -- Revenue and Police -- created by Statute. As a branch of "Revenue its receipts form a part of the general revenues of the Government aS a branch of Police, it places under its supervision and control the system of communication between citizens including their correspondence. Government has reserved to itself extensive powers of inspection, control, and disposal of postal articles entrusted to its care to be transmitted by post -- powers which negative any suggestion that its status is that of a carrier under contract.
+It has the power to regulate the nature of articles transmitted by post and to open, detain, and, under certain circumstances, even to destroy postal articles. For example, it has framed a rule that no article shall be transmitted by post which contains ''any matter which is prejudicial to the maintenance of law and order or which is in furtherance of the aims of the political party or organization, or which tends directly to cause loss or injury, to any community or class of persons whatsoever". (Rule 46 of the Indian Post Offices Rules).
+It has the power not only not to deliver any article which contravenes this rule but, in some cases, even to destroy it instead of returning it to the sender. All these powers are the attributes of the police powers of the State. They are exercised not by the police but by the Post Office itself and negative the contention that the status of the Post Office is that of a carrier under a contract.
+11. Mr. Baleshwari Prasad, contended that the registration fee and postal charges paid by the sender is the consideration for the contract under which the Post Office undertakes to carry fee postal article. I am afraid I cannot agree. The postage and the registration charges are not the consideration for any contract, but the duty or tax levied by the State for the enjoyment of a facility provided by Government. The State has the right to impose, within the limits of the Constitution, any tax or duty on any privilege enjoyed by citizens and to exempt certain classes of citizens from this imposition. In the exercise of its taxing power, it has imposed a tax on incomes, inheritance, expenditure, and even on litigation. Similarly, it has imposed a duty--called postage--on letters and articles transmitted by post. It can increase or decrease the incidence of this duty.
+It can remit it altogether and provide a free postal service for certain classes of persons or in certain areas. But payment of postage does not create a contract between a sender and the Post Office any more than the payment of court fee in a civil suit does between the litigant and the court or places the court under a contractual liability to decide the suit. It is significant that the statute has described postage as a duty.
+The Post Office Act
+of 1854 was entitled, "
+An Act
+for the management of the Post Office for the regulation of the duties of postage, and for arrangements of offences against the Post Office". This was followed by the Act of 1866, the preamble of which stated that it was expedient "to amend the law for the management of the Post Office, for the regulation of the duties of postage, and for arrangements of offences against the Post Office."
+The present
+Post Office Act
+, passed in 1898, bears the title "
+An Act
+to consoh'date the law and amend the law relating to the Post Office in India." Thus it is an Act, inter alia, for the consolidation and amendment of the existing law regulating the duty of postage. It is, therefore, clear that postage is a duty levied by Government on carriage of postal articles and not a consideration for any contract. That being so, there is no question of any contract between the Post Office and the sender, for there can he no enforceable contract without consideration.
+12. The status and the functions of the Post Office and its relations with the citizens who availed of its services, were explained by Lord Mansfield in his classic judgment in Whitfield v. Lord Le Despencer, (1778) 98 ER 1344, in following words :
+"The post-master does not hire, enters into no contract, carries on no merchandize or commerce. But the post-office is a branch of revenue, and a branch of police, created by an Act of Parliament. As a branch of revenue, there are great receipts; but there is likewise a great surplus of benefit and advantage to the public, arising from the fund. --As a branch of police, it puts the whole correspondent of the kingdom (for the exceptions are very trifling) under Government, and entrusts the management and direction of it to the Crown and officers appointed by the Crown.
+There is no analogy therefore between the case of the post-master and a common carrier. -- The branch of revenue and the branch of police are to be governed by different officers. The superior has the appointment of the inferior officers; but they give security to the Crown. One requisite is, that they shall take the oaths taken by all public officers: another strong guard is, that they are made subject to heavy penalties; and this "is carried so far, that, what in the case of a common Carrier, or any other persons, would be only a breach of trust, is in them declared to be a capital felony, All these advantages the law provides for the security of the subject, in consideration of their being obliged to send their letters by this mode of conveyance."
+13. The statement of law was recently approved and confirmed by the Court of Appeal in Triefus and Co. Ltd. v. Post Office, (1957) 2 All ER 387. In that case the plaintiffs posted and the Post Office accepted two registered postal packets, containing diamonds of considerable value for conveyance to New Zealand. The packets having been lost while in transmit in the custody of the Post Office, he claimed damages for breach of contract to use care and diligence in the carriage and transmission of the packets.
+The Court held that the acceptance of the packets for transmission through the post did not give rise to any contractual relationship between the plaintiff and the Post-master-General. The contention that the registration of a packet rendered the Post Office liable for any loss was negatived.
+14. The law in England relating to the Post Office is summed up in Halsbury's Laws of England. 2nd Edition, Volume 25, as follows :
+"The Post Office is a branch of the public Service; accordingly, the Postmaster-General is not a common carrier, nor is carrying on a Post Office a trading.... (452)."
+"The Postmaster-General is not liable for the loss of a postal packet, or for any injury to the packet in the course of its transmission by post, but subordinates of the Postmaster-General may be personally liable." (470)  
+ 
+
+ The registration of, or giving a receipt for, a postal packet, or the giving or obtaining of a certificate of posting or delivery of a postal packet, does not, however, make the Postmaster-General or the Post Office revenue in any manner liable for the loss of the packet or its contents. Nevertheless, subject to certain rules, and within certain limits, the Postmaster-General voluntarily and as an act of grace pays compensation, according to a published scale, for loss of, or damage to, registered packets, parcels, and express packets, and certain insured imperial and foreign packets. On the same footing he pays compensation in certain cases for the loss of or damage to, unregistered inland parcels and express packets. Payment is not made in respect of packets which are subject to compulsory registration. (471)
+15. The American Law relating to the status of the Post Office in the United States is the same. In Corpus Juris Secundum, Volume 72, it is stated:
+"In conducting the post office department, the United States is engaged in discharging a governmental function. However, the power of Congress over the mails is not absolute. It must be considered in the light of definite prohibitions in the federal Constitution and is subject to the limitations imposed by the Bill of rights." (252) 
+ 
+
+ "Postage is the fee charged by law for carrying letters,  packets  and documents by the public mails, and, except in certain cases specially provided for by law, postage on all matter is required to be pre-paid by stamps at the time of mailing." (295) 
+ 
+
+ "The establishment of the postal money order system was a voluntary act of the government for the   convenience  of  the  public,   and   is merely   an incident of the postal system and was inaugurated to enable the citizens to transmit small sums safely through  the mails......   The government exercises a governmental power for the public benefit in the establishment and operation of the postal money order system, and is not engaging in commercial transaction, notwithstanding it may have some aspects of commercial banking. Thus the issuance of postal money orders is a governmental function rather than a commercial function.'' (298) 
+ 
+
+ "Under postal regulations the post office department disclaims any responsibility after a money order has once been paid, but in case of wrong payment it will endeavour to recover the amount for the owner, provided such wrong payment was not brought about through the fault of the remitter, payee, or indorsee." (299) 
+ 
+
+ "The government may make such regulations as it deems fit with respect to the payment of lost money orders, and under the statutes the issuance and payment of warrants for lost money orders are placed within the judgment of the postmaster-general or under rules and regulations issued by him, and payment for a lost money order can only be secured by proof satisfactory to him." (299) 
+ 
+
+ "Congress has full constitutional powers to reserve to the postal department a monopoly of the business of receiving, transmitting, and delivering mails, and by statutes the monopoly of carrying the mails is secured to the Post Office department. In so doing the government is engaged in the discharge of a governmental function, and it has assumed exclusive charge and carriage of the mails, prohibiting anyone other than the government from engaging therein." (320).
+It appears therefore that the Post Office performs a governmental function in carrying letters, packets, and articles for. transmission and does not enter into any commercial transaction with any sender. It is noteworthy that the United States is a Republic and the immunity of its Post Office from contractual liability is not based on the constitutional immunity of the British Crown but on the essential nature of its functions which are governmental and not commercial.
+In India, too, the Post Office was established by statute in which the postage was described as a "duty" on the privilege of using the postal services. Now, there can be no liability under contract without consideration, and if the postage is a tax and not consideration, one of the essential elements of an enforceable agreement would be lacking in a suit against the Post Office for breach of contract.
+16. It is true that the
+Post Office Act
+provides for insurance of postal article, but the same section imposes a liability on the Post Office to pay the value of the article in case of loss. This is significant. If the statute had recognised the transaction as a contract, the provision for liability in case of loss was redundant for the Post Office would be liable under the contract of insurance in any case. .
+But the legislature was aware of the constitutional difficulty in making the Post Office liable under any contract and included a special provision in the
+Post Office Act
+imposing a liability for loss of insured articles. For all these reasons, if I were free to form my own opinion, I would be inclined to the view that under the existing law there cannot be any contract between the sender of a postal article and the Post Office but this does not exclude other lands of liability, statutory or otherwise, in case of loss of an article.
+17. Mr. Baleshwari Prasad relied on a number of judicial decisions in India in support of his argument that the relationship between the Post Office and the sender of a postal article is governed by contract. At the head of these is a decision of the Supreme Court in
+Commr. of Income-tax, Delhi v. P. M. Rathod and Co.
+, AIR 1959 SC 1394. I shall postpone the consideration of this case until all the others have been discussed, for it raises a difficult question whether it contains a declaration of law by the Supreme Court regarding the relationship between the sender and the Post Office.
+I shall commence with a decision of the Madras High Court in Mothi Rungaya Chetty v. Secy, of State, ILR 28 Mad 213. In that case, a person delivered a parcel containing jewellery to the post office for transmission to Colombo for delivery as a value payable article. The parcel was registered and insured. By mistake, it was delivered without collecting the specified amount from the addressee.
+Afterwards, the Post Office would neither pay the money nor return the article to the sender. He brought a suit to recover the value of the parcel. It was pleaded in defence that
+Section 34
+of the Indian Post Office Act gave immunity from all liability, for it provided that (neither the Central Government nor) (Sic) "the Secretary of State for India in Council shall incur any liability in respect of the sum specified for recovery unless and until that sum has been received from the addressee."
+This plea was rejected on the ground that
+Section 34
+did not affect "the common law liability of the post office to pay damages for delivering the parcel without collecting the money". In the next three sentences the court enunciated the principle of the contractual liability of the Post Office : "The Post Office, in order to meet the requirements of traders and others who wish to recover the value of articles supplied by them, undertakes, on payment of certain fees, to act as their agents for the collection of the money (See Rule 130, Indian Postal Guide). So that the post office is bound by contract to collect the money when it delivers the article.
+If the post office for any reason neglects to collect the money as agreed to by it for consideration it has committed a breach of contract for which it is liable to pay damages." The plea that the Secretary of State was not liable for the negligence of his servants was rejected with the observation that the case was "one of contract and not of tort". The entire reasoning of the learned judges is contained in ten lines and there is no discussion of the question whether the Post Office performs a governmental function or runs a service based on contract.
+It appears to have been assumed that the postage fee paid on a V.P. article is consideration for the promise of the post office. It was not considered whether postage constitutes consideration in the case of every postal article, insured or uninsured, registered or unregistered. With deep respect, this judgment is based on assumptions which were not disputed and throws no light on the essential nature of the service run by the Post Office.
+18. Next is a decision of Mootham, J. (now C.J.), in
+Dominion of India v. Nihal Chand
+, AIR 1951 All 617 in which he held that when the post office accepts a value payable postal article it enters into a contract with the sender to deliver that article only against payment by the addressee of the sura specified by the sender and the proviso to
+Section 34
+of the Post Office Act does not absolve the post office from liability to pay damages if in contravention of its contract, it neglects to collect the specified sum on delivery.
+His Lordship expressly stated that he agreed with the view taken by the Madras High Court in ILR 28 Mad 213. This decision naturally caused me some anxiety and I have had the privilege of a discussion with the Chief Justice. He has informed me, that as far as he recollects, the question which has been raised in its present form, was not agitated before him and that he simply followed the Madras judgment. It is, therefore, clear that the question whether the post office renders a commercial service based on contract or performs governmental functions was not considered by his Lordship and is open for decision in the present case.
+Learned counsel also relied upon a decision of Lindsay, J. in the Secy. of State v. Radheylal, AIR 1924 All 692 (1), in which the post office was held liable for the value of an article sold by it after it had reached the Dead Letter Office. But the learned Judge did not hold that the liability arose under a contract. In fact, he did not consider this aspect of the matter at all and observed that the "suit was brought to recover the value of the property which was sent by post."
+19. I shall now consider the observations of the Supreme Court regarding the liability of the post office which were made in AIR 1959 SC 1394. This case arose under the
+Income-tax Act
+in the following circumstances. The assessee was a manufacturer of perfumery and hair oils at Ratlam in the State of Madhya Bharat which was a Part B State. He sent out goods by V.P.P. to various customers in Part A and C states who paid the price on delivery.
+The question in issue was whether the assessee's income from these sales accrued in Part A and C states where the payments were made, or in Rat-lam where the profits were handed over by the Post Office to the assessee. This in turn depended upon whether the Post Officer received payment under the Value Payable Post as tile agent of the seller or of the buyer. If as the agent of the former, it followed that payment was made to the seller at the time and place of delivery, and consequently, the income from the sales accrued in Part A or Part C State, as the case might be, and the assessee was not entitled to the benefit of the reduced rates of income-tax applicable to Part B States.
+The Supreme Court held that payment to the Post Office was a payment to the seller and that under the V.P.P. system the Post Office becomes an agent of the seller for the recovery of the price. The judgment of the Court was delivered by Mr. Justice J. L. Kapur and it is necessary to quote the entire paragraph containing his Lordship's reasons for this conclusion :
+"In the case of delivery of goods by V.P.P. it is immaterial whether the buyer directs the goods to be sent by V.P.P, or the seller does so on his own accord because the goods handed over to the Post Office by the seller can only be delivered to the buyer against payment and this payment is received for and on behalf of the seller. The buyer does not pay till the goods are received by him and once he has paid the price it is the Post Office that is responsible for payment of the money received by it to the seller.
+The buyer has no longer any responsibility in regard to it. Therefore a payment to the Post Office is payment to the seller and at the place where the goods are delivered and payment is made. Further before the goods are delivered to the buyer the seller has under the V.P.P. Rules the power to direct the Post Office to make the delivery to the addressee free or to deliver against a sum different from that originally specified.
+This would negative the Post Office being aa agent of the buyer. This shows that whatever be the jural relationship between the seller and the post office in respect of carriage of goods sent by the seller under the V.P.P. system it becomes an agent of the seller for the recovery of the price and if it fails to recover the price and delivers the goods it is liable in damages to the seller : ILR 28 Mad 213."
+20. Relying on this paragraph, Mr. Baleshwari Prasad contended that the Supreme Court has declared the law governing the relationship between the sender and the Post Office. He pointed out that the Supreme Court had referred, presumably with approval, to the decision of the Madras High Court in which it had been held that the post office enters into a contract to collect the money when it delivers a V.P. article and, if for any reason it neglects to do so its failure constitutes a breach of contract for which it is liable is damages.
+He also relied on the observation that the Post Office under the V.P.P. system "becomes an agent of the seller for the recovery of the price and if it fails to recover the price and delivers the goods it is liable in damages to the seller." Relying very strongly on this paragraph, Mr. Baleshwari Prasad insisted that, whatever be the law governing the status and functions of the Post Office in England and the United States, the law governing the Indian Post Office as declared by the Supreme Court is that its relationship with the sender of article is based on contract, and this declaration of law is binding on this Court under
+Article 141
+of the Constitution.
+21. On the other hand, it is contended by Mr. T. N. Sapru that the Supreme Court has not declared that the Post Office enters into any contract with the sender of the article nor defined the exact relationship between the two. On the contrary, it left this question undecided.
+The vital phrase in this para, according to Mr. Sapru, is "whatever be the jural relationship between the seller and the post office in respect of carriage of goods sent by the seller under the V.P.P. system". Relying on it, Mr. Sapru suggests ed that the Court consciously left undecided the question whether the Post Office enters into any contract with the sender or incurs any contractual liability when it accepts an article for transmission by value payable post.
+22. The observation, "it becomes an agent of the seller for the recovery of the price" requires respectful consideration. According to Mr. Baleshwari Prasad the word "agent" suggests that the Court had in mind a contract of agency. On the other hand, there is no clear indication that the Supreme Court used the word "agent" as under
+Section 182
+of the Contract Act. Explaining the phrase, "it becomes an agent of the seller for the recovery of the price", Mr. Sapru argued that, as the jural relationship had been left open, the Supreme Court did not use the word "agent" as in
+Section 182
+of the Contract Act nor had a contract of agency in mind, but were describing a factual relationship which is admitted by the Post Office itself in paragraph 133 of the Post Office Guide which runs thus :
+"Value Payable Post.--The value-payable system is designed to meet the requirements of persons who wish to pay for articles sent to them at the time of receipt of the articles or of the bills or railway receipts relating to them, and also to meet the requirements of traders and others who wish to recover, through agency of the post office, the value of article supplied by them."
+Now, a person may act as an agent of another or do errands for him without any contractual relationship. A minor, for examp]e, may do things for another without incurring any contractual obligation. The word "agency'' in the dictionary has a wider import than under the
+Contract Act
+. The question is whether the Supreme Court used the word "agent"' in the sense of any contractual relationship or only to indicate that the money is collected through the agency of the post office.
+23. The position is complicated by the juxtaposition in this para of two observations one of which is relied upon by the sender and the other by the Post Office. The first is the phrase, "what-ever be the jural relationship between the seller and the post office in respect of carriage of goods sent by the seller under the V.P.P. system". Mr. Sapru contended that this phrase is an express disclaimer of any intention to declare the law governing the nature of the legal relationship between the sender and the Post Office or the nature of the liability of the latter. Mr. Baleshwari Prasad on the other hand relied on the phrase which immediately follows :
+"It (the Post Office) becomes an agent of the seller for the recovery of the price and if it fails to recover the price and delivers the goods it is liable in damages to the seller: ILR 28 Mad 213."
+Mr. Baleshwari Prasad contended that the reference to the Madras case indicates approval of the principle enunciated in it and, as it was held by the Madras High Court that "the post office is bound by contract to collect the money when it delivers the article", the Supreme Court must be presumed to have, held that there is a contract between the sender and the post office. Mr. Sapru on the other hand pointed out that the Post Office was not a party in that case.
+He argued that a declaration of law is made by the Supreme Court under
+Article 141
+whenever a dispute between the parties is raised before it, and it was difficult to believe that the Supreme Court would, in the absence of the Post Office, make a declaration under
+Article 141
+imposing on it a contractual liability in general. This would lead to the strange result that the declaration of law in that case would be binding on all courts in India but not the party affected--the Post Office. Secondly, he argued that the ratio decidendi of the Supreme Court's decision is the finding that the post office collects the money for a value payable article on behalf of the seller and, therefore, payment received by the post office in a Fart B State must be deemed to be a payment made to the sender himself.
+The question whether, the post office is liable if it delivers the article without recovering the amount specified by the sender was neither in dispute nor necessary for the decision in the income-tax case. Mr. Sapru contended that an 'obiter dictum' of the Supreme Court is binding on all courts in India only if it is on a point raised and argued before it. He relied on two decisions of this Court in support of his argument.
+In
+Bimla Devi v. Chaturvedi
+, AIR 1953 All 613 (615), it was observed :
+"Where the Supreme Court, deliberately with the intention of settling the law pronounces upon a question, the pronouncement is the law declared by the Supreme Court within the meaning of
+Article 141
+and is binding on all courts in India". In Ram Swamp v. State, AIR 1958 All 119, Rule Dayal, J. observed, "I venture to think that such observations in the process of reasoning do not amount to declaration of law as contemplated by
+Article 141
+of the Constitution. It is well known that a case is an authority for the proposition decided."
+24. I have to consider whether the Supreme Court had the power, in the absence of the Post Office, to declare, the law governing the constitutional position of the post office, the nature of the postal service, and the nature and extent of its legal liability in running this service.
+25. Two questions arise in this connection. First, under what circumstances will a legal principle enunciated by the Supreme Court amount to a declaration of law under
+Article 141
+, and secondly, does this Article apply only to express declaration of law or also to those which are clearly implied? It is necessary to examine the scope and purpose of Act. 141.
+26. In the various authorities cited before me, it has been overlooked--if  may say so with deep respect--that the doctrine of the supremacy of any declaration of law by the Supreme Court has been made a part of the constitutional law of the republic. It therefore rests on a much loftier pedestal than judicial conventions under which every inferior court is bound to follow the previous decisions of a Superior Court.
+If the object had been merely to guarantee the binding force of the decisions of the Supreme Court as the highest court of the republic, no special provisions in the Constitution was required. The founders were not inserting a superfluous or redundant article in the Constitution. Many of them were eminent lawyers and jurists, and well acquainted with judicial practice and principles according to which the decisions of the Supreme Court have the same binding force as those of the House of Lords in England even without
+Article 141.
+27. But they were not content with the mere binding force of the decisions of the Supreme Court.    The language  of
+Article   141
+shows  that the Founders intended to extend its scope beyond the actual decisions of the Supreme Court to every declaration  of law made by it. This is clear from a comparison of the language of the Article with that of
+Section 212
+of the Government of India Act, 1935, which gave a binding force to the decisions of the old Federal Court.
+That Section provided that "the law declared by the Federal Court and by any judgment of the Privy Council shall, so far as applicable, be binding on and shall be followed by all Courts in British India". But
+Article 141
+of our Constitution provides that "the law declared by the Supreme Court shall be binding on all courts within the territory of India". The word "judgment" is not used, and the qualifying words "as far as applicable" have been deleted.
+The omission is  significant  and negatives   any suggestion that the Founders had in mind the principle of ratio decidendi or the binding effect of decisions, but nothing more. I am inclined to the view that
+Article 141
+has the effect, in addition to investing the decisions of the Supreme Court with a binding force, of creating a constitutional organ whose declaration of law pronounced ex cathedra shall be binding on all courts in the republic.
+Under this article it is not necessary that a pronouncement of the Supreme Court should be part of the ratio decidendi of any judgment. An obiter dictum or a mere enunciation of a principle of law would amount to a declaration of law under
+Article 141
+, and the manner and circumstances of its pronouncement are immaterial, provided it is made by the Supreme Court ex cathedra.
+28. It was argued by Mr. Sapru that the ex-tension of
+Article 141
+to obiter dicta or observations which do not form part of the ratio decidendi of at judicial decision would tie up the discretion of the High Courts even in matters not decided by the Supreme Court, and it could not have been the intention of the Founding fathers to fetter the powers of the High Court to this extent. There is a short answer to this argument.
+There is not the slightest ground for fearing if I may venture to say with profound respect --that the highest court of the Republic is likely to make an unrestricted use of its powers under
+Article 141
+and flood the realm with unnecessary declarations of law. On the contrary, the Supreme Court have already taken the strict view that no principle of law should be proclaimed by it unless required for the decision of a matter in dispute before the Court   
+ 
+
+ In
+Central Bank of India v. Their Workmen
+, AIR 1960 SC 12, a Bench of five judges of the Supreme Court observed that it was not necessary for the Court to decide hypothetical questions which may arise in any future reference and that the Court does not give speculative opinions in the exercise of its appellate powers.
+Again, in Basheshar Nath v. Commr. of Income-tax, AIR 1959 SC 149, Das, C. J. and Kapur, J. took the view that the Supreme Court should not make any pronouncement on any question which is not strictly necessary for the disposal of the particular case before it.
+Thus the judges of the Supreme Court arc, if I may say so again with profound respect, conscious that any pronouncement of law by the Court acquires "potency" under
+Article 141
+and that therefore such declarations should be made only when necessary. But this is a matter concerning the self-discipline of the Supreme Court which does not affect the Constitutional doctrine that any declaration of law, howsoever made, by the Supreme Court, is binding on all courts in India.
+29. Mr. T. N. Sapru then argued that the Founding Fathers could not have intended to confer on the Supreme Court an unlimited power to bind all courts by its declarations, far in excess of accepted judicial conventions. He contended that such an interpretation of
+Article 141
+would tend to depress the powers and status of the High Court and should be rejected by the Court as prejudicial to the public interest. I do not agree for two reasons.
+First, the language of the Article itself places no limits on the powers of the Supreme Court to make declarations of law. Secondly, in my opinion, the interests of the infant republic required that the Supreme Court should have this extraordinary power. To appreciate the purpose behind
+Article 141
+, we must bear in mind the historical background of the Indian Constitution and consider all its parts together.
+30. In 1950 the Constitution created, for the first time after several centuries, a strong State whose authority extended to every nook and corner of the sub-continent (except of course the parts which, were partitioned). But the Republic included many units which became integral parts of India for the first time and which were previously ruled by princes claiming to be sovereign and which had developed their own traditions, customs, and laws.
+The Founders were fully conscious of the opposing forces of unity and disruption which have battled for mastery in the endless corridors of the history of India, The disruptive forces were local traditions, regional loyalties, and a jungle of customs and laws which produced "nations" within a nation.
+31. The Constitution of India excludes in almost every part an anxiety for maintaining and strengthening the unity of India. The Founders designed a Constitution under which the forces of unity will take root and those of disruption wither away. Though India was established as a union of States, every precaution was taken that the 'states' can never assume the semi-independent attitudes and airs of the former rulers.
+Article 3
+virtually gives authority to Parliament to treat the 'states' merely as administrative units and to alter their boundaries, change their nasties and create new units.
+Article 5
+enjoins, in effect, that there shall be only one citizenship and every citizen shall be a citizen of India owing allegiance to the Republic and not to any local unit.
+In the legislative sphere,
+Article 249
+authorises Parliament in the national interest to make laws even in matters reserved for the States in the Seventh Schedule and, in an emergency, to make laws in disregard of the State List. In the administrative sphere,
+Article 256
+is an insurance against any temptation among the States to defy the authority of Parliament, for it empowers the Union Government to issue any, directions to ensure compliance with laws made by Parliament. ,
+Article 257
+provides a similar safeguard against frustration of the executive power of the Union by the contumacy of any local Government,
+32. Precisely the same anxiety to forge the bonds of unity is reflected in the provisions relating to the judiciary. The judicial and administrative independence of the High Courts have been guaranteed. But the Supreme Court has been given wide appellate powers over the judgments of the High Court not only in constitutional but also civil and criminal matters -- powers much wider than those of any Supreme Court in any federal constitution in the world. The long arm of the Supreme Court can overtake, under
+Article 136
+, any judicial or quasi judicial decision or verdict pronounced anywhere in India except those of the courts martial, and there are no limits to its powers of interference under that Article.
+33. Into this constitutional pattern of unity woven by the Founding Fathers was fitted
+Article 141
+which gave to every declaration of law by the Supreme Court a binding supremacy throughout the territory of India. The purpose and spirit behind this Article must be appreciated in the light of
+Article 44
+in the Directive Principles which enjoins that the "State shall endeavour to secure for the citizens a uniform civil code throughout the territory of India."
+Thus the ultimate aim of both Articles is to weed out the various jungles of local laws and to plant a uniform system of laws which will create a national outlook as did the common law among the people of England. But the process of achieving unity through law in England was legislative as well as judicial and its instruments were Parliament and the Court of King's Bench.
+Articles 44
+and
+141
+to our Constitution have the same ultimate purpose; the first aims at achieving a common code of laws by legislation through Parliament and the other by judicial declarations of law through the Supreme Court. But it took the Court of Kings Bench several centuries to create the Common Law of England. Our Founding Fathers realised that India in 1950, could not afford to be so leisurely. They imposed no limitations on the power of the Supreme Court to declare the law and framed
+Article 141
+in the widest possible terms.
+34. For these! reasons I am of the opinion that
+Article 141
+extends to every declaration of law made by the Supreme Court even if it is obiter or not the foundation of its decision in a dispute before it. I am fortified in this view by several opinions of various High Courts, though my reasons are different.
+K. P. Doctor v. State of Bombay
+, (S) AIR 1955 Bom 220 (FB), Surajmal v. State of M. P., AIR 1958 Madh Pra 103 (FB), Sharda Prasad v. Accountant General, (S) AIR 1955 All 496. I am further of the opinion that a declaration of law may be expressed or may be indicated by clear implication, 
+ 
+
+ I am also of the opinion that a High Court
+cannot circumvent a declaration of law made by
+the Supreme Court on the ground that it amounts 
+to a casual observation or that a particular point
+was not considered or raised before that Court,
+and re-consider the principle of law. Any re-consideration can only be done by the Supreme Court
+itself. Meanwhile the High Court must follow it,
+though it may respectfully draw the attention of
+the Supreme Court for consideration on a future,
+occasion.
+In fact, it may be not only the: privilege but the duty of the High Court to assist the Supreme Court in its task of clearing up the litter of conflicting decisions and introducing tidiness and uniformity of legal principles over as large a field as possible by bringing it to its notice any matter requiring re-consideration -- I say 'duty' because the number of cases agitated before the High Courts all over India is much larger than those which eventually reach the Supreme Court.
+35. I shall now consider whether the Supreme Court in
+P. M. Rathod
+'s case, AIR 1959 SC 1394, declared the law as regards the liability of the post office when accepting articles for transmission by V.P.P. It is true that the Supreme Court did not consider the general question whether the Post Office performs a governmental function nor even the particular question whether the postage on any article for transmission is consideration for any con-tract or duty paid by the sender.
+But their Lordships had to decide whether the money received from the addressee of a value payable article is deemed tb be paid to the seller at the place where the buyer pays it or where the seller receives it, and for this purpose they had to determine the capacity in which the Post Office
+r
+eceives the price on his behalf. In giving their opinion, the Court referred to the decision of the Madras High Court in ILR 28 Mad 213.
+By clear implication the principle of law enunciated in the Madras judgment received the stamp of the Supreme Court's approval and became a declaration of law under
+Article 141
+of the Constitution; for, instead of repeating the observations of the Madras High Court their Lordships referred to them. They must, therefore, be deemed to have used the word 'agent' in the sense of a contractual relationship. I must, therefore, hold that paragraph 6 of the judgment in AIR 1959 SC 1394, contains a declaration of law by the Supreme Court that in respect of carriage of goods sent by the sender of an article under the V.P.P. system the Post Office becomes an agent of the seller for the recovery of the price and if it fails to recover it and delivers the goods, it is liable in damages to the seller.
+This enunciation of law is binding on this Court under
+Article 141.
+Further, the Supreme Court must be deemed to have approved of the principle
+laid down by
+the Madras High Court that the Post Office is bound by contract to collect the money when it delivers the article, and if it neglects to do so it commits a breach of contract for which it is liable to pay damages.
+36. Mr. Sapru argued vehemently that the view taken by this Court will result in injustice to the Post Office which will be saddled with a general liability as the result of observations made by the Supreme Court in a case in which the Post Office was not even a party. Learned counsel pressed the Court to hold that the observations of the Supreme Court are not declarations of law under
+Article 141
+and decide the case in accordance with its own view of the functions of the Post Office. I am afraid I cannot agree, for Mr. Sapru's appeal is simply this that this Court should dilute a great
+constitutional principle to accommodate the interests of a party.
+37. I shall now consider each case on merits. In Revision No. 777 of 1952 the Post Office admitted that it had received the parcel for transmission, which had been refused by the addressee, and "it was untraceafale". The trial court held that the Post Office had not proved that the article had been lost and it could not claim the protection of
+Section 6
+of the Post Office, Act.
+Mr. Sapru argued that the Post Office may be liable only if the price is actually recovered from the addressee or the article is delivered without payment, but in the present case, the article was refused by the addressee and was now untraceable. It was for the sender to prove negligence, or misconduct on the part of the postal authorities and as he had failed to do so, the Post Office is not liable, being entitled to the protection of
+Section 6
+and the proviso to
+Section 34
+of the Post Office Act.
+38. I do not agree.
+Section 6
+of the Post Office
+A
+ct providing that Government shall not be liable for loss, damage, non-delivery or misdelivery of
+
+postal articles entrusted to its charge was intended by the legislature to serve as shield for the protection of the Post Office and its officials in the legiti-mate discharge of their functions, but the shield cannot be converted into a weapon of inequity in the hands of a Government Department enjoying a monopoly of an essential service.
+Section 6
+does not empower the Post Office or its officials to do what they like with the articles entrusted to their care or commit wrongful acts against the owners of these articles.
+39. The argument of "no liability" is negatived by the very statement of objects and reasons of the
+Post Office Act
+of 1898 which runs thus :
+"It (the Bill) includes within its scope postal insurance, the value payable post, and the post office money order system and declares and limits the liability of the Government in respect of these matters."
+Thus the Act itself was intended by the legislature to declare the liability of the Post Office while limiting its scope. This is confirmed by the language of its various sections.
+Section 6
+exempts the Government from liability for loss, misdelivery, delay or damage and provides that Government shall not incur any liability in certain circumstances except in so far as such liability may in express terms be undertaken by it as provided in the Act.
+This seems to suggest that, apart from the circumstances specified in the Section, Government may be liable. Again, under
+Section 33
+Government has been made liable to pay compensation for the loss of or the damage to a postal article which has been insured. The proviso to
+Section 34
+states that the Central Government shall not incur any liability in respect of the sums specified for recovery (in case of a V.P. article) "unless and until that sum has been received from the addressee." The word "unless" means 'if not' or "except that" and the word "until" means "before the time."
+Converting the double negative into positive the provision means that the Govt. shall incur liability in respect of the sum specified for recovery only if and after it has recovered it. Thus, the Post Office Act itself imposes an express liability in specified cases and exempts the Government from liability in specified circumstances.
+40. Apart from its liability under 'the
+Post Office Act
+, Government cannot repudiate its responsibility for the property of any person under its custody and control, except to the extent that it has been exempted under the Act. But the exemptions do not give it the right to do what it likes with the articles entrusted to its care. To take an extreme example, if the post office arbitrarily refuses to deliver an article or to return it to the sender, its position would be that of a Government department which has misappropriated property belonging to a person, and unless it is authorised by statute to confiscate or destroy or keep the article, it is liable under
+Article 31
+of the Constitution for having deprived a person of his property without the authority of the law.
+41. In Revision No. 777/1952, the V. P. Parcel in this case was admittedly not delivered to the addressee and there is no question of his being entitled to a decree for money had and received on his behalf. The question is whether he is entitled to damages for the loss of the article sustained by him. Mr. T. N. Sapru, on behalf of the Post Office, claimed exemption under
+Section 6
+of the Post Office Act which provides that the post office shall not be liable by reason of the loss, misdelivery or delay of, or damage to, any postal article in course of transmission by post. Learned counsel submitted that the case of the post office is that the article was lost in course of transmission. I have to consider whether this defence should prevail,
+42. Mr. T. N. Sapru argued that the plaintiff had failed to prove any negligence or misconduct on the part of the department. According to learned counsel the onus was on the plaintiff to prove negligence or misconduct which, even according to the view taken by this Court, would deprive the post office of the protection of
+Section 6
+. Mr. Sapru contended that the non-delivery of the article is in itself proof of the loss of article within the meaning of
+Section 6
+.
+According to him, the allegation of loss by the Post office should be accepted as proof of loss, or at any rate, it raises a presumption of loss which, unless rebutted by the plaintiff, brings the case within the protection of
+Section 6
+. The post office is entitled to the benefit of the general presumption that every department of Government functions in a proper manner and the onus of proving any irregularity or misconduct is on him who alleges it. I do not agree.
+In my opinion the disappearance of a postal article raises no presumption that it has been "lost" within the meaning of
+Section 6
+. The Court ' shall not presume, in defiance of grim reality, that the conditions in the post office and the standard of integrity of its officials is so perfect, that the disappearance of an article can only mean that it must have been lost by accident. In the absence of further evidence, the Court will hold that it is just as likely as not that the missing article has been misappropriated by some one within the department.
+43. The plaintiff has proved is this case that he delivered the parcel to the post office and that it was transmitted by post. He has also proved that the parcel was never delivered. In fact, these allegations are admitted by the post office. Obviously, therefore, something has gone wrong and the Government department cannot claim that it functioned in a normal manner -- res ipsa loquitur, or to use its Sanskrit equivalent, pratyaksham kim pramanam. The failure to return the article to the sender speaks for itself and displaces the presumption that the post office functioned in a normal manner.
+Moreover, a postal article is under the control of the Post Office which has exclusive knowledge of what happened to it, and the onus is on it to disclose all the facts which entitle it to the protection of
+Section 6
+. The post office must give a detailed account of what happened to the article from the date when it was entrusted to its custody to the date when it claims to have lost possession of it. For example, if the post office alleges that the article was stolen from its custody it must prove the theft and the loss of the article as a result of it.
+The officials who had custody of the article should depose that a theft had occurred and that the article was found missing immediately after its discovery; or give some other cogent evidence of loss by theft. But it is not enough for the post office to make vague statements such as "the article appears to have been lost" or "the article in spite of vigorous search is untraceable" and so on. If the post office does not disclose facts which are within its exclusive knowledge, the court will presume that there was no loss, damage, misdelivery or delay in delivery, and the post office would not be entitled to the protection of
+Section 6
+. The Court will make the maximum presumption against it for its failure to disclose facts. Armory v. Delamiri, (1722) 1 Str. 505, reported in Cockle and Hibbert's Cases On Common Law.
+44. In the present case, the post office tendered the evidence of a postal Inspector who deposed that "the parcel appears to have been lost". But he admitted in cross examination that he had no personal knowledge of anything and was repeating what he had heard from others. As the case of the post office is that the article was lost some where in Bombay, the evidence of an Inspector of the Varanasi Sub-Division was worthless and rightly rejected by the learned Judge.
+The result therefore, is that the post office is liable to the plaintiff for the value of the article which was entrusted to its care and in respect of which it cannot claim exemption under
+Section 6
+. The plaintiff deposed that the price of the article was Rs. 144/- and he was not cross examined on this point. He is, therefore, entitled to this amount. The plaintiff's claim for interest was rejected by the trial court and I see no reason to interfere with its discretion.
+45. In Civil Revision No, 774/1952 arising out of suit No. 256 of 1950 the plaintiff proved that he had delivered the article to the post office for transmission to the addressee. In fact, the post office admitted having received this article and having transmitted it for purpose of delivery to the addressee. The plaintiff also proved that on the same day he delivered four parcels to the post office of which three were delivered in due course to the respective addressees.
+As regards the fourth, he alleged in his plaint that the addressee had informed him that he, had received the article and made payment to the post office. In reply to this allegation, the post office stated in its written statement that the allegation did not concern it and was "therefore not admitted". In these circumstances, the plaintiff, is entitled to rely on the presumption raised under
+Section 114
+of the Indian Evidence Act that the common course of business has been followed in this case and that the parcel was duly delivered and payment received by the post office. The law governing such a situation was enunciated by 3 Privy Council in Harihar Banerji v. Ram Shashi Roy, AIR 1918 P. C. 102 (112) in these words :
+"If a letter properly directed containing a notice to quit, is proved to have been put into the post office, it is presumed that the letter reached its destination at the proper time according to the regular course of business of the post office, and received by the person to whom it was addressed. That presumption would appear to their Lordships to apply with still greater force to letters which the sender has taken the precaution to register''.
+46. This principle will apply with full force to a case like the present where the sender proves that he sent several articles by Value Payable registered post and that all the other articles sent by him from the same post office on the same date had been duly delivered. The onus will then shift to the Post Office to prove by cogent evidence that the normal course of business went wrong and that it did not in fact deliver the article or receive the price; and in the absence of proof the Court will presume that the article was delivered and the price received by the Post Office. The sender proved that the parcel was, as indeed every V. P. P. parcel must be, sent by registered post along with three others all of which reached destination in due course.
+47. It was for the Post Office to prove that the normal course of business went wrong in the case of the fourth article and that it was not delivered to the addressee. But it has not produced a particle of evidence to prove why and how the ordinary course of business was not followed. In these circumstances the court must hold that the parcel was duly delivered and payment received by the post office. That being so, it is liable, under the proviso to
+Section 34
+of the Post Office Act, to hand over the amount which it received on behalf of the plaintiff. The plaintiff is also entitled to recover the amount as money had been paid and received.
+If, on the other hand, it delivered the parcel without demanding payment from the addressee, It is liable for breach of contract as laid down by the Supreme Court. The decree includes a sum of Rs. 10/- which the plaintiff alleged he had to spend on correspondence and in sending notices to the defendant. His statement in the witness box that he incurred these expenses was not challenged in cross examination. It was, therefore, within the discretion of the trial court to allow this item. The decree passed by it shall stand.
+48. Both revisions are dismissed with costs.

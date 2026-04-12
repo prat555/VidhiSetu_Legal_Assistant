@@ -1,0 +1,942 @@
+Title: Search
+Court: Supreme Court of India
+Date: Unknown Date
+Citation: citations: AIRONLINE 2018 SC 139, AIRONLINE 2018 SC 1241
+Source: https://indiankanoon.org/doc/73508068/
+
+[Cites
+13
+, Cited by
+33
+]
+Supreme Court of India
+K.Kishan vs M/S Vijay Nirman Company Pvt. Ltd. Rep. ... on 14 August, 2018
+Equivalent citations: AIRONLINE 2018 SC 139, AIRONLINE 2018 SC 1241
+Author:
+R.F. Nariman
+Bench:
+Indu Malhotra
+,
+R.F. Nariman
+REPORTABLE
+
+
+                                          IN THE SUPREME COURT OF INDIA
+                                            CIVIL APPELLATE JURISDICTION
+
+                                           CIVIL APPEAL NO. 21824 OF 2017
+
+
+                         K. KISHAN                                      …APPELLANT
+                                                        VERSUS
+
+                         M/S VIJAY NIRMAN COMPANY PVT. LTD.             ...RESPONDENT
+
+                                                         WITH
+
+                                          CIVIL APPEAL NO. 21825 OF 2017
+
+
+                                                 JUDGMENT
+R.F. Nariman, J.
+1.    The present appeals raise an important question as to
+
+                         whether    the    Insolvency    and   Bankruptcy    Code,   2016
+
+                         (hereinafter referred to as “the Code”) can be invoked in respect
+
+                         of an operational debt where an Arbitral Award has been
+Signature Not Verified
+passed against the operational debtor, which has not yet been
+Digitally signed by R
+NATARAJAN
+Date: 2018.08.20
+17:11:07 IST
+Reason:
+finally adjudicated upon.
+1
+2.     The brief facts necessary to appreciate the controversy at
+
+hand are as follows:-
+i)     In the present case, M/s Vijay Nirman Company Pvt. Ltd.
+(the Respondent) entered into a sub-Contract Agreement with
+
+one M/s Ksheerabad Constructions Pvt. Ltd. (for short ‘KCPL’)
+
+on 01.02.2008, to undertake 50% of Section 2 work of
+
+‘Construction and widening of the existing two lane highway to
+
+four lanes on NH 67 at KM 190000 to KM 218215 admeasuring
+
+a total of 28.215 KM for and on behalf of KCPL.’
+ii)    Apart from this Agreement, a separate agreement of the
+
+same date was entered into between the said KPCL and one
+
+M/s SDM Projects Private Limited, Bangalore, as a result of
+
+which, a tripartite Memorandum of Understanding was entered
+
+into on 09.05.2008 between KCPL, M/s SDM Projects Pvt. Ltd.
+
+and the Respondent.
+iii)   During the course of the project, disputes and differences
+
+arose between the parties and the same were referred to an
+
+Arbitral Tribunal, which delivered its Award on 21.01.2017. One
+
+of the claims that was allowed by the said Award was in favour
+2
+of the respondent for a sum of Rs.1,71,98,302/- which arises
+
+out of certain interim payment certificates. Another claim that
+
+was allowed related to higher rates of payment in which a sum
+
+of Rs.13,56,98,624/- was awarded.       Three cross claims that
+
+were made by the Respondent were rejected.
+iv)   It is pertinent to note that, at this stage, a notice dated
+
+06.02.2017 was sent by the Respondent to KCPL to pay an
+
+amount of Rs. 1,79,00,166/-. This notice was stated to be a
+
+notice under Section 8 of the Code. Within 10 days, by a letter
+
+dated 16.02.2017, KCPL disputed the invoice that was referred
+
+to in the said notice, stating that the said amount was, in fact,
+
+the subject-matter of an arbitration proceeding, and as per
+
+KCPL’s accounts, the Respondent was liable to pay larger
+
+amounts to them.
+v)    It may be noted that after the notice and reply, on
+
+20.04.2017, a Section 34 petition was filed by KCPL under the
+Arbitration and Conciliation Act, 1996
+(hereinafter referred to as
+
+“the Act”) challenging the aforesaid Award. Needless to add,
+3
+this petition was filed within the period of limitation set down in
+Section 34(3)
+of the Act.
+vi)   It is only thereafter that a petition was filed under
+Section
+
+9
+of the Code, on 14.07.2017. In the gist of the case presented
+
+to the National Company Law Tribunal (‘NCLT’), it was clearly
+
+stated as follows:-
+“The above amount was included in the Statement of
+      Claims filed before the Arbitral Tribunal duly constituted
+      on 17.8.2014 along with other claims. The Tribunal
+      gave its award on 21.1.2017 and upheld the above
+      claim of VNCPL and awarded the above amount in
+      favour of VNCPL and against KCPL. (Award copy
+      enclosed)
+      Thus, the above amount has become an 'Operational
+      Debt' to be paid by the corporate debtor M/s KCPL as
+      defined u/Sec. 3(11) of the I&B Code 2016.
+      A notice in Form-3 U/Sec. 8(1) of the I&B Code 2016
+      has already been served on the Corporate Debtor, M/s
+      KCPL and a reply received from KCPL is also enclosed
+      herewith for ready reference.”
+
+
+
+In the Counter Affidavit before the NCLT, it was stated:
+“10. I respectfully submit that the case of the petitioner
+      in short is that since an award has been passed against
+      the respondent here in an arbitration proceeding,
+      though a petition U/Sec 34 of the
+Arbitration and
+      Conciliation Act
+, has been filed by the respondent
+4
+before the competent court challenging the award the
+       present application is maintainable U/Sec. 9 of the code
+       though the respondent had raised a dispute in its
+       replies dated 06-02-2017 & 05-06-2017 to the notice
+       issued U/
+Sec.8(2)
+of the code by the applicant.
+11. I respectfully submit that a dispute had been
+       raised by the respondent company even before the
+       present application has been filed, in the arbitration
+       proceedings by way of a counter claim and presently the
+       same is sub judice before the Hon'ble Commercial Court
+       cum XXIV Additional Chief Judge, City Civil Court at
+       Hyderabad in petition filed U/Sec. 34 of the Act. Copy of
+       the
+section 34
+application filed and pending before the
+       Hon'ble Court is enclosed herewith as Annexure R-6.”
+vii)   The NCLT, by its order dated 29.08.2017, referred to the
+
+aforestated facts, and also referred to the fact that the Award
+
+which was challenged under
+Section 34
+specifically stated that
+
+learned counsel for the first Respondent (i.e. the corporate
+
+debtor) was fair enough to admit that the claimant is entitled to
+
+the said sum of Rs.1,71,98,302/-. According to the NCLT, the
+
+fact that a
+Section 34
+petition was pending was irrelevant for
+
+the reason that the claim stood admitted, and there was no stay
+
+of the Award.     For these reasons, therefore, the
+Section 9
+petition was admitted.
+5
+viii)   An appeal filed to the Appellate Tribunal met with the
+
+same fate, as according to the Appellate Tribunal, the non-
+
+obstante clause contained in Section 238 of the Code would
+
+override the
+Arbitration Act
+. Also, according to the Appellate
+
+Tribunal, since Form V of Part 5 of the Insolvency & Bankruptcy
+
+(Application to Adjudicating Authority) Rules, 2016 requires
+
+particulars of an order of an arbitral panel adjudicating on the
+
+default, this would have to be treated as “a record of an
+
+operational debt”, as a result of which the petition would have to
+
+be admitted, as was correctly done by the NCLT. The appeal
+
+was, accordingly, dismissed.
+3)      Mr. Gourab Banerji, learned Senior Advocate, appearing
+
+on behalf of the appellant has relied upon certain observations
+
+made in our judgment in
+Mobilox Innovations Private Limited
+
+vs. Kirusa Software Private Limited
+, (2018) 1 SCC 353 and
+
+argued that the object of the Code is not to replace debt
+
+adjudication and enforcement under other Acts including the
+Arbitration Act, 1996
+. He has relied, in particular, on para 51
+
+under which, according to him, the moment there is a real
+6
+dispute between the parties, which need not be a “bona fide
+
+dispute” which is likely to succeed in point of law, the
+
+Insolvency Code cannot be applied.        In the present case,
+
+according to him, the very fact that a
+Section 34
+petition is
+
+pending is reflective of a real dispute between the parties,
+
+which was pre-existing, and which culminated in an Arbitral
+
+Award which has yet to attain finality. Also, according to the
+
+learned Senior Advocate, the cross-claims that were rejected by
+
+the learned Arbitral Tribunal far exceeded the amounts awarded
+
+against his client, and if any one of them were to be held to be
+
+wrongly dismissed, in particular, counter claim No.3 of Rs.
+
+19,88,20,475/-, it is obvious that his client would not owe any
+
+sum of money to the operational creditor. He also relied upon
+
+certain judgments, which we will discuss later.    To     further
+
+buttress his submissions, he argued that all that is necessary is
+
+that there be a dispute in some form which would include cross
+
+claims made by the corporate debtor against the operational
+
+creditor. According to him, the Appellate Tribunal was wholly in
+
+error in applying Section 238 of the Code as, according to Mr.
+
+Banerji, there is nothing inconsistent between the adjudication
+7
+and enforcement process under the
+Arbitration Act
+and the
+
+application of
+Sections 8
+&
+9
+of the Code. In fact, according to
+
+the learned Senior Advocate, the fact of pending proceedings,
+
+whether they be proceedings culminating in an Award, or
+
+challenge proceedings thereafter, would, in fact, show that
+
+there is a dispute insofar as an operational debt that is stated to
+
+be owed, and that therefore, the
+Arbitration Act
+can be relied
+
+upon for this purpose, there being nothing inconsistent between
+
+it and the Code.
+4)    Dr. P.V. Amarnadha Prasad, learned Advocate, appearing
+
+on behalf of the respondent has argued in reply that according
+
+to the law in the United Kingdom, and Practice Directions
+
+thereunder, an insolvency process does not get stultified
+
+because an application to set aside the judgment, order or
+
+decision is pending in an appeal or otherwise. He also referred
+
+to the law in Singapore, and relied upon a judgment of the
+
+Singapore High Court to the effect that once it is found that
+
+there is a primary adjudication between the parties which
+
+indicates the existence of a debt, any further dispute which may
+8
+be pending in appeal or otherwise over the debt could not be
+
+said to be bona fide disputed by the debtor. According to him,
+
+the Appellate Tribunal was absolutely correct in applying
+
+Section 238 of the Code, as there would be a direct
+
+inconsistency between the application of the Code and a
+Section 34
+proceeding which was said to be pending, and
+
+which, according to him, was not relevant in view of the law that
+
+he has cited.
+5)    Having heard learned counsel for both parties, it is
+
+important to first advert to
+Section 9(5)
+of the Code which states
+
+as follows:-
+“9(5) The Adjudicating Authority shall, within
+      fourteen days of the receipt of the application under
+      sub-section (2), by an order-
+(i) admit the application and communicate such
+      decision to the operational creditor and the
+      corporate debtor if,-
+(a)the application made under sub-section (2)
+               is complete;
+(b) there is no repayment of the unpaid
+               operational debt;
+(c) the invoice or notice for payment to the
+               corporate debtor has been delivered by the
+               operational creditor;
+9
+(d) no notice of dispute has been received by
+           the operational creditor or there is no record of
+           dispute in the information utility; and
+(e) there is no disciplinary proceeding pending
+           against any resolution professional proposed
+           under sub-section (4), if any.
+(ii) reject the application and communicate such
+     decision to the operational creditor and the
+     corporate debtor, if-
+(a) the application made under sub-section (2)
+           is incomplete;
+(b) there has been repayment of the unpaid
+           operational debt;
+(c) the creditor has not delivered the invoice or
+           notice for payment to the corporate debtor;
+(d) notice of dispute has been received by the
+           operational creditor or there is a record of
+           dispute in the information utility; or
+(e) any disciplinary proceeding is pending
+           against any proposed resolution professional:
+Provided that Adjudicating Authority, shall before
+     rejecting an application under sub-clause (a) of
+     clause (ii) give a notice to the applicant to rectify the
+     defect in his application within seven days of the
+     date of receipt of such notice from the adjudicating
+     Authority.”
+A reading of
+Section 9(5)(ii)(d)
+would show that an application
+
+under
+Section 8
+must be rejected if notice of a dispute has been
+
+received by the operational creditor. In the present case, it is
+
+clear on facts that the entire basis for the notice under
+Section
+10
+8
+of the Code is the fact that an Arbitral Award was passed on
+
+21.07.2017 against the Appellant. As has been pointed out by
+
+us, this clearly appears from the gist of the case that was filed
+
+along with the insolvency petition. The fact that the reply of
+
+16.02.2017 to the notice given under
+Section 8
+was within 10
+
+days, and raised the existence of a dispute, also cannot be
+
+doubted.
+6)    However, learned counsel appearing on behalf of the
+
+Respondent strongly relied on the fact that this is not an
+
+ordinary case inasmuch as the amount of Rs.1.71 Crores which
+
+was awarded was admitted by Mr. Banerji’s client in the arbitral
+
+proceedings to be a debt due, and that this being so, there can
+
+be no dispute regarding the same. We are afraid that we are
+
+unable to agree. As was correctly pointed out by Mr. Banerji,
+
+counter claims for amounts far exceeding this were rejected by
+
+the learned Arbitral Tribunal, which rejection is also the subject-
+
+matter of challenge in a petition under
+Section 34
+of the Act. It
+
+is important to note that unlike counter claim Nos. 1 and 2,
+
+which were rejected by the Arbitral Tribunal for lack of evidence,
+11
+counter claim No.3 which amounts to            Rs.19,88,20,475/-
+
+was rejected on the basis of a price adjustment clause on
+
+merits.   Therefore, it is difficult to say at this stage of the
+
+proceedings, that no dispute would exist between the parties.
+7)    Our recent judgment in
+Mobilox Innovations
+(supra)
+
+throws considerable light on the issue at hand. While referring
+
+to the legislative history of the Code, this Court referred to the
+
+Legislative Guide on Insolvency Law of the United Nations
+
+Commission on International Trade Law. One of the things the
+
+Legislative Guide spoke about was whether the debt is subject
+
+to a legitimate dispute or set-off, in an amount equal to or
+
+greater than the amount of the debt. Another thing spoken of
+
+was that improper use of the insolvency process would occur in
+
+cases where a creditor uses insolvency as an inappropriate
+
+substitute for debt enforcement procedures, even though they
+
+may not be well developed. (see para 13 of the judgment)
+8)    The Notes on Clauses annexed to the Bill of the
+
+Insolvency Code were also referred to by this Court in para 27
+12
+of the judgment. The important sentence in these Notes on
+
+Clauses needs to be reproduced, which is done herein below:-
+“This ensures that operational creditors, whose debt
+      claims are usually smaller, are not able to put the
+      corporate debtor into the insolvency resolution
+      process prematurely or initiate the process for
+      extraneous considerations.”
+9)    This Court also noticed that the original Bill which
+
+ultimately became the Code had the expression “bona fide
+
+dispute” contained in an inclusive definition. It is significant to
+
+note that by the time the Code was enacted the expression
+
+“bona fide” was dropped. (See para 32 of the judgment)
+10)   After referring to Section 8, the judgment went on to hold
+
+that what is important is that the existence of the dispute and/or
+
+a suit or arbitration proceeding must be pre-existing i.e. it must
+
+exist before the receipt of the demand notice or invoice, as the
+
+case may be.
+11)   The Adjudicating Authority, therefore, when examining an
+
+application under
+Section 9
+of the Act, will have to determine
+
+the following:-
+13
+(i)   Whether there is an “operational debt” as
+      defined exceeding Rs 1 lakh? (See
+Section 4
+of the
+      Act)
+(ii) Whether the documentary evidence furnished
+      with the application shows that the aforesaid debt is
+      due and payable and has not yet been paid?
+      and
+(iii) Whether there is existence of a dispute
+      between the parties or the record of the pendency
+      of a suit or arbitration proceeding filed before the
+      receipt of the demand notice of the unpaid
+      operational debt in relation to such dispute?
+If any one of the aforesaid conditions is lacking, the application
+
+would have to be rejected.         Apart from the above, the
+
+adjudicating authority must follow the mandate of
+Section 9
+, as
+
+outlined above, and in particular the mandate of
+Section 9(5)
+of the Act, and admit or reject the application, as the case may
+
+be, depending upon the factors mentioned in
+Section 9(5)
+of
+
+the Act. (Para 34).
+12)   In para 38, this Court cautioned:
+“We have also seen that one of the objects of the
+      Code qua operational debts is to ensure that the
+      amount of such debts, which is usually smaller than
+      that of financial debts, does not enable operational
+      creditors to put the corporate debtor into the
+14
+insolvency resolution process prematurely or initiate
+      the process for extraneous considerations. It is for
+      this reason that it is enough that a dispute exists
+      between the parties.
+Finally, the law was summed up as follows:-
+“51. It is clear, therefore, that once the operational
+      creditor has filed an application, which is otherwise
+      complete, the adjudicating authority must reject the
+      application under
+Section 9 (5)(2)(d)
+if notice of
+      dispute has been received by the operational
+      creditor or there is a record of dispute in the
+      information utility. It is clear that such notice must
+      bring to the notice of the operational creditor the
+      “existence” of a dispute or the fact that a suit or
+      arbitration proceeding relating to a dispute is
+      pending between the parties. Therefore, all that the
+      adjudicating authority is to see at this stage is
+      whether there is a plausible contention which
+      requires further investigation and that the “dispute” is
+      not a patently feeble legal argument or an assertion
+      of fact unsupported by evidence. It is important to
+      separate the grain from the chaff and to reject a
+      spurious defence which is mere bluster. However, in
+      doing so, the Court does not need to be satisfied that
+      the defence is likely to succeed. The Court does not
+      at this stage examine the merits of the dispute
+      except to the extent indicated above. So long as a
+      dispute truly exists in fact and is not spurious,
+      hypothetical or illusory, the adjudicating authority has
+      to reject the application.”
+13)   Following this judgment, it becomes clear that operational
+
+creditors cannot use the Insolvency Code either prematurely or
+15
+for extraneous considerations or as a substitute for debt
+
+enforcement procedures. The alarming result of an operational
+
+debt contained in an arbitral award for a small amount of say,
+
+two lakhs of rupees, cannot possibly jeopardize an otherwise
+
+solvent company worth several crores of rupees.           Such a
+
+company would be well within its rights to state that it is
+
+challenging the Arbitral Award passed against it, and the mere
+
+factum of challenge would be sufficient to state that it disputes
+
+the Award. Such a case would clearly come within para 38 of
+Mobilox Innovations
+(supra), being a case of a pre-existing
+
+ongoing dispute between the parties.      The Code cannot be
+
+used in terrorem to extract this sum of money of Rs. two lakhs
+
+even though it may not be finally payable as adjudication
+
+proceedings in respect thereto are still pending. We repeat that
+
+the object of the Code, at least insofar as operational creditors
+
+are concerned, is to put the insolvency process against a
+
+corporate debtor only in clear cases where a real dispute
+
+between the parties as to the debt owed does not exist.
+16
+14)   Mr. Banerji referred us to certain judgments of the English
+
+and Singapore Courts. In Re A Company - Victory House
+
+General Partner Ltd. vs. RGB P & C Ltd. [2018] EWHC 1143
+
+(Ch), the Chancery Division of the High Court, in a situation
+
+where a debt has to be “bona fide” disputed in order to attract
+
+the winding up jurisdiction of the Courts in the UK, made it clear
+
+that even in a case where a judgment debt is no longer a
+
+disputed debt, as it has been finally adjudicated upon, yet if
+
+there be a cross-claim which is being adjudicated upon, or
+
+which may not even have reached the adjudicatory process at
+
+all, would be sufficient to stave off a winding up order. The
+
+learned Judge referred to the judgment in Re Bayoil SA [1999]
+
+1 WLR 147 as follows, and concluded:-
+“27. This, of course, is not a case of a disputed
+      debt. There is a judgment debt and it can be
+      enforced immediately. However, Mr. Chivers draws
+      attention to Re Bayoil SA [1999] 1 WLR 147, which
+      deals with a case not involving a disputed debt but
+      involving a cross-claim by the company, the subject
+      of the petition or the intended petition, where the
+      amount of the cross-claim exceeds the petition
+      debt. The headnote to Re Bayoil recites the
+      essential facts. The petitioner claimed for freight.
+      The established law is there is no defence of set-off
+      available in relation to a claim to freight. The claim
+17
+went to arbitration and the arbitrators made an
+      award in favour of the petitioner. The petitioner
+      then presented a petition on the basis of the sum
+      determined by the arbitration award. The company
+      applied for the petition to be dismissed or stayed
+      on the ground that it had a genuine and serious
+      counterclaim in an amount which exceeded the
+      petition debt. It was a matter of detail in that case,
+      which the company put forward to advance its
+      case, that it had not been able to litigate that
+      counterclaim. Later cases discussing Re Bayoil
+      make it clear that the ability, or inability, to litigate
+      the counterclaim is not of the essence of the
+      principle in this case. So I put that on one side……”
+      “32. I therefore have to ask whether the nascent
+      cross-claim, the claim in restitution which
+      MrChivers has explained to me, is a bona fide
+      cross-claim on substantial grounds. I have no
+      doubt it is a bona fide claim. I have also no doubt it
+      is on substantial grounds. At the moment it seems
+      to me that it is a claim that would succeed but I
+      need not go that far……”
+      “34. Nothing which I have said detracts in any way
+      from the binding character of the judgment which
+      has been made. It may appear to be a strong thing
+      to say that the employer, having failed to comply
+      with a judgment against it, should nonetheless
+      escape the consequences involved in a winding up,
+      but it seems to me that that is the very thing which
+      was considered to be appropriate in the Bayoil
+      case and, on the facts of this case, I also consider
+      it is a more just result that the alternative
+      contended for by the petitioner.”
+15)   A recent judgment of the Singapore High Court, contained
+
+in Lim PohYeoh (alias Lim Aster) and TS Ong Construction
+18
+Pte Ltd. [2016] SGHC 179, was also referred to by Mr. Banerji.
+Again, in a situation which demands a far higher threshold that
+
+has to be crossed before the Insolvency Law can be said not to
+
+apply, the Singapore High Court referred to Rule 98(2)(a) of the
+
+Rules made under the Bankruptcy Act. The said Rule states
+
+that where a debtor appears to have a valid counter claim or
+
+cross-demand which is equivalent to or exceeds the amount of
+
+debt, the insolvency process will not be put against such debtor.
+
+It also referred to the Supreme Court Practice Directions to the
+
+same effect. (see paras 43 & 45 of the said judgment)
+16)   We now come to some of the judgments referred to by
+
+learned counsel for the respondent. It is important to note that
+
+both the Practice Directions referred to in the U.K. judgment
+
+and the Singapore High Court judgment, referred to in LKM
+
+Investment Holdings Pte Ltd. vs. Cathay Theatres Pte Ltd.
+
+[2000] SGHC 13, are in situations where the debt needs to be
+
+bona fide disputed, which is not the situation under our Code.
+
+For this reason, it is not possible to agree with learned counsel
+
+for the Respondent that a pending proceeding challenging an
+19
+award or decree of a tribunal or Court would not make the debt
+
+contained therein a debt that is disputed.
+17)   The Australian High Court judgment also relied upon by
+
+the respondent in Ramsay Health Care Australia Pty Ltd vs.
+
+Adrian John Compton [2017] HCA 28 was relied upon to
+
+show, in para 111 thereof, that where a judgment debt has
+
+been obtained after testing of the merits in adversarial litigation,
+
+then in the absence of some evidence of fraud, collusion, or
+
+miscarriage of justice, a court exercising bankruptcy jurisdiction
+
+will rarely have substantial reasons to investigate whether the
+
+debt which emerged in the judgment was truly owed.
+With
+
+respect to the High Court of Australia, we may only state that
+
+following
+Mobilox Innovations
+(supra), it would be very
+
+difficult to incorporate the Australian law into our law.
+This is for
+
+the reason that our judgment in
+Mobilox Innovations
+(supra)
+
+has made it clear that the insolvency process, particularly in
+
+relation to operational creditors, cannot be used to bypass the
+
+adjudicatory and enforcement process of a debt contained in
+
+other statutes. We are, therefore, of the view that the higher
+20
+threshold of fraud, collusion, or miscarriage of justice
+laid down
+
+by
+the Australian High Court will have no application to the
+
+situation under our Code.
+18)   We repeat with emphasis that under our Code, insofar as
+
+an operational debt is concerned, all that has to be seen is
+
+whether the said debt can be said to be disputed, and we have
+
+no doubt in stating that the filing of a
+Section 34
+petition against
+
+an Arbitral Award shows that a pre-existing dispute which
+
+culminates at the first stage of the proceedings in an Award,
+
+continues even after the Award, at least till the final adjudicatory
+
+process under
+Sections 34
+&
+37
+has taken place.
+19)   We may hasten to add that there may be cases where a
+Section 34
+petition challenging an Arbitral Award may clearly
+
+and unequivocally be barred by limitation, in that it can be
+
+demonstrated to the Court that the period of 90 days plus the
+
+discretionary period of 30 days has clearly expired, after which
+
+either no petition under
+Section 34
+has been filed or a belated
+
+petition under
+Section 34
+has been filed. It is only in such clear
+21
+cases that the insolvency process may then be put into
+
+operation.
+20)   We may hasten to add that there may also be other cases
+
+where a
+Section 34
+petition may have been instituted in the
+
+wrong court, as a result of which the petitioner may claim the
+
+application of
+Section 14
+of the Limitation Act to get over the
+
+bar of limitation
+laid down in
+Section 34(3)
+of the Arbitration Act.
+
+In such cases also, it is obvious that the insolvency process
+
+cannot be put into operation without an adjudication on the
+
+applicability of
+Section 14
+of the Limitation Act.
+21)   With regard to the submission of learned counsel for the
+
+respondent, that the amount of Rs.1.71 Crores stood admitted
+
+by Mr. Banerji’s client, as was recorded in the Arbitral Award,
+
+suffice it to say that cross-claims of sums much above this
+
+amount has been turned down by the Arbitral Tribunal, which
+
+are pending in a
+Section 34
+petition challenging the said Award.
+
+The very fact that there is a possibility that Mr. Banerji’s client
+
+may succeed on these cross-claims is sufficient to state that the
+22
+operational debt, in the present case, cannot be said to be an
+
+undisputed debt.
+22)    We also accept Mr. Banerji’s submission that the
+
+Appellate Tribunal was in error in referring to Section 238 of the
+
+Code. Section 238 of the Code would apply in case there is an
+
+inconsistency between the Code and the Arbitration Act in the
+
+present case. We see no such inconsistency. On the contrary,
+
+the Award passed under the
+Arbitration Act
+together with the
+
+steps taken for its challenge would only make it clear that the
+
+operational debt, in the present case, happens to be a disputed
+
+one.
+23)    We are also of the view that the Appellate Tribunal, when
+
+it relied upon Form V Part 5 of the 2016 Rules to state that the
+
+operational debt would, therefore, be said to have been proved,
+
+missed the vital sub-clause (iii) in para 34 of
+Mobilox
+
+Innovations
+(supra). Even if it be clear that there be a record
+
+of an operational debt, it is important that the said debt be not
+
+disputed.
+If disputed within the parameters
+laid down in
+23
+Mobilox Innovations
+(supra), an insolvency petition cannot be
+
+proceeded with further.
+24)   For all these reasons, we are of the view that the
+
+judgment of the Appellate Tribunal needs to be set aside and is
+
+therefore reversed.
+25)   The appeals are, accordingly, allowed in the aforesaid
+
+terms.
+26)   Consequently, the bank guarantees that have been
+
+furnished, pursuant to our order dated 15.12.2017, stand
+
+discharged.
+…………………………......J.
+                                  (R.F. Nariman)
+
+
+
+                                  …………………………......J.
+                                  (Indu Malhotra)
+New Delhi;
+August 14, 2018.
+24

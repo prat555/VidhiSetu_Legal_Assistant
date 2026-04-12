@@ -1,0 +1,703 @@
+Title: Search
+Court: High Court
+Date: 70 to 1971
+Citation: AIR 1954 SC; and at page 373 of AIR 1988 SC):
+Source: https://indiankanoon.org/doc/1195709/
+
+[Cites
+74
+, Cited by
+0
+]
+Madras High Court
+Commissioner Of Income-Tax vs Amalgamations Ltd. on 8 November, 1994
+JUDGMENT
+Mishra J.
+1. Tax Case No. 1012 of 1981 :
+1 At the instance of the Revenue, the following questions of law have bene referred to this court under
+section 256(1)
+of the Income-tax Act, 1961, by the Income-tax Appellate Tribunal, Madras, for its opinion :
+"1. Whether, on the facts and in the circumstances of the case, the Appellate Tribunal was right in holding that the assessee was carrying on business and that the income of the assessee should be computed under the head 'Business' ?
+2. Whether the Appellant Tribunal was right in holds that no income from property No. 24, Edward Elliots Road, Madras, should be computed for inclusion in the assessee's total income ?
+3. Whether the Appellate Tribunal was right in holding that the assessee was entitled to have set off of carry forward losses of the earlier years against the income of the assessment year 1975-76 ?
+4. Whether on the facts and in the circumstances of the case, the Appellate Tribunal was right in holding that interest of Rs. 4,35,710 being the interest on money taken on fixed deposits of paying the estate duty on the estate of late Sri Anatharamakrishnan should be allowed as a deduction ?
+5. Whether the Appellate Tribunal was right in holding that deduction under
+section 80M
+should be allowed on the gross dividend income and not on the net dividend income having regard to the provisions of
+section 80AA
+of the Income-tax Act, 1961 ?"
+2. The first three questions are covered by the judgment of this court in
+CIT v. Amalgamations (P
+.) Ltd. [1977] 108 ITR 895. The fourth question is answered against the Department in our judgment delivered today, in Tax Cases Nos. 1109 to 1113 and 1180 of 1979 (Amalgamations (P.)
+Ltd. v. CIT
+).
+The fifth question is covered by the judgment of the Supreme Court in
+Distributors (Baroda) P. Ltd. v. Union of India
+[1985] 155 ITR 120. The questions are answered accordingly. No costs.
+3. Tax Cases Nos. 561, 569 and 570 of 1981 :
+Vide our judgment in Tax Cases Nos. 1109 to 1113 and 1180 of 1979 (Amalgamations (P.)
+Ltd. v. CIT
+) delivered today, the questions are answered accordingly. No costs.
+4. Tax Cases Nos. 1109 to 1113 and 1180 of 1979 :
+Four questions two for the assessment years 1969-70 to 1971-72 and two for 1971-72, have been referred to this court at the instance of the Revenue by the Income-tax Appellate Tribunal, Madras Bench of which two, i.e., on for the assessment years 1969-70 to 1971-72, "whether, on the facts and in the circumstances of the case, the deduction under
+section 80M
+of the Income-tax Act, 1961, is liable to be allowed on the gross dividend income or on the net dividend income ?" and the other for the year 1971-72, "whether, on the facts and in the circumstances of the case, the Appellate Tribunal was right in holding that the entire urban land tax paid during the previous year was liable to be allowed as a deduction in computing the income from property ?" have already been answered and it is stated at the Bar, are fully covered by the judgments in the cases of
+CIT v. M. Ct. Muthiah
+[1979] 118 ITR 104 (Mad);
+CIT v. Woodlands Hotel
+[1981] 128 ITR 603 (Mad) and Distributors (Baroda) P. Ltd. v. Union of India .
+5. One independent question, "whether, on the facts and in the circumstances of the case, the Tribunal was right in disallowing a sum of Rs. 60,000 representing pension paid to the widow of late Sri Anantharamakrishnan ?" the deceased, whose assets have fallen for assessment and in respect of whose assets, deductions are claimed by the assessee-company, is common to Tax Cases Nos. 1109, 1110 and 1180 of 1979 and the same has been answered by the other Bench by a judgment orally delivered on August 30, 1994 (vide judgment of Gulab C. Gupta J., and Thanikkachalam J., in , but before the same was transcribed and signed by the learned judges, one of them got transferred and appointed as the Chief Justice of another court. We have reason to hold that the oral judgment delivered in the open court is the judgment of the court and the same, although not signed by the judges, is final and conclusive.
+Of the two questions, however, which need answer for the assessment years 1969-70, 1970-71 and 1971-72, the main is, "Whether, on the facts and in the circumstances of the case, the Appellate Tribunal was right in holding that the estate duty paid by the assessee-company in respect of the properties which passed on the death of Sri Anantharamakrishnan was an admissible deduction under
+section 37
+of the Income-tax Act, 1961 ?"
+6. Was the alleged borrowing by the assessee-company for the purpose of paying the duty and is the deduction of the interest amount paid on the sums of the said borrowing permissible ?" is the other question.
+7. The Tribunal has made the statement of the case as agreed to between the parties in some detail but for the purpose of the present references, we are required to cull out only such facts that we think are essential and relevant.
+8. The assessee is a holding company holding shares in various subsidiary companies. Anantharamakrishnan, who had shares in some companies and other assets, was holding so much of shares in the assessee-company that the Income-tax Officer in his order has claimed him one, who held all the shares of the assessee-company. (However fractional or marginal the shares may be, but there should at least be one more person having shares in a company and no one (person) alone can hold all the shares of a company). It is thus not disputed that the assessee-company in so far as Anantharamakrishnan was concerned was a controlled company as defined in
+section 17(4)(i)
+of the Estate Duty Act, 1953 (Act XXXIV of 1953) (hereinafter referred to as "the Act"), since at the relevant time, it was under the control of not more than five persons and was not a subsidiary company or a company in which the public were/are substantially interested. It is conceded and it will be more appropriate to say, there is nothing brought on the record to take any other view that Anantharamakrishnan had transferred substantial property to the assessee-company and was deriving benefits from the company in the company in the three years ending with his death, i.e., on April 18, 1964.
+9. According to the Revenue, since Anantharamakrishnan had shares in the assessee-company, which passed on his death to his heirs and legal representatives, the Income-tax Officer had recourse to rule 15 of the Estate Duty (Controlled Companies) Rules, 1953, for the purpose of valuation of the assets and determination of the duty accordingly, but found no reason to accept that the conditions as envisaged under
+section 17
+of the Act were satisfied and thus held that the liability to pay the estate duty was on the legal representatives of Anantharamakrishnan and the assessee-company was only accountable for the duty payable on the death of Anantharamakrishnan. It is, for the said reason, not entitled to claim deduction under
+section 37
+of the Income-tax Act, 1961, of the amount of duty paid by it on the assets of the deceased Anantharamakrishnan, as it was not expended wholly and exclusively for the purpose of the business of the company.
+10. The Appellate Assistant Commissioner concurred with the view of the Income-tax Officer. Both the Income-tax Officer and the Appellate Assistant Commissioner found against the assessee that interest allegedly paid on the money borrowed for the payment of the estate duty was not an expenditure wholly and exclusively for the purpose of the assets of the company. The Tribunal, however, has held that the estate duty paid by the assessee is an admissible deduction and the interest payment on the sums borrowed for the purpose of paying the estate duty is also allowable as a deduction under
+section 37
+on the
+Income-tax Act, 1961
+.
+11. This case has a chequered history of its own in the sense that the claims of deduction as expenditure wholly and exclusively for the purposes of the business of the assessee-company have fallen for consideration in the instant proceeding only, but the estate duty proceedings had taken the shape of a case of a contest by one of the legal representatives of the deceased Anantharamakrishnan after payment of duty by the assessee-company and the matter at the stage was considered by a Division Bench of this court which found no merit in her case for a review of the order of assessment and the Supreme Court confirmed the said order of this court.
+12. The facts stated in the judgment of this court in Kalyani Sundaram v. Asst. CED [1980] 126 ITR 615 disclose that Anantharamakrishnan died intestate in Madras on April 18, 1964, leaving behind him his widow by name, Valli, his two sons by name, Sivasailam and Krishnamoorthy, and two daughters, Kalyani and Seetha. Kalyani, who became entitled on the death of Anantharamakrishnan to a one-fifth share in his estate under the provisions of the
+Hindu Succession Act
+, gave power of attorney to her husband, who filed the writ petition questioning the order of the Assistant Controller, the first respondent therein, who refused to revise his order under which he had affirmed the wealth-tax assessments in hire case including the shares in the estate of Anantharamakrishnan. The court, however, noticed that soon after the death of Anantharamakrishnan, when the question of liability to estate duty arose the heirs other than Sri Sivasailam, who were all accountable persons, wrote to the Assistant Controller on December 15, 1964, as follows :
+"We are the other accountable persons to the estate of late Sri S. Anantharamakrishnan. Sri A. Sivasailam has rendered the estate duty account. We agree to abide by the accounts rendered by him and any explanation furnished by him with regard to estate duty matters will be binding on us."
+13. Returns, however, had been field by the assessee-company in response to a notice by the assessing authority, in which it was stated, inter alia :
+"It is seen that late S. Anantharamakrishnan had transferred 80,377 shares of Simpson and Co., held by him to Messrs. Amalgamations Private Ltd., and as such the Amalgamations Private Ltd. becomes the controlled company within the meaning of
+section 17
+of the Estate Duty Act, and again by virtue of
+section 19(1)
+of the Estate Duty Act as the controlled company has to be treated as one of the accountable persons for the estate of the above deceased. I am enclosing herewith a notice under
+section 55
+for the account being submitted after duly filled in."
+14. During the course of the proceedings, no objections were raised either by the heirs of Anantharamakrishnan or by the assessee-company on the latter also being treated as the accountable person. The estate duty assessment was made after due enquiry on January 27, 1970, and the duty payable by the estate was determined to be Rs. 1,67,74,697.58. The assessment order was addressed to bath Amalgamations Private Ltd. and Sri Sivasailam, both of them being referred to as the accountable persons in the order. The Assistant Controller, however referred to
+sections 17
+and
+20
+of the Act and observed :
+"As pointed out earlier, Messrs. Amalgamations Private Ltd. is a controlled company and the deceased had control over its affairs till his death and as such valuation of the shares held by the deceased in such company has to be made in the manner laid down in rule 15 which has been framed by the Board under the power given to it by
+section 20(1)(e)
+. Since rule 15 of the Controlled Companies Rules is part of the scheme of
+section 17
+, the controlled company, viz., Messrs. Amalgamations Private Ltd., has to be treated as an accountable person. Hence the controlled company was required to furnish an account in its capacity as an accountable person under
+section 19(1)
+."
+"In response to the notice issued, the company rendered an account on October 8, 1965, admitting therein the shares held by the deceased in Messrs. Amalgamations Private Ltd. and other allied concerns as also the amount due to the estate by Messrs. Amalgamations Private Ltd. and other allied concerns as also the amount due to the estate by Messrs. Amalgamations Private Ltd. The account rendered by the company was incomplete."
+15. After referring to certain assets and liabilities, which were shown in the account, and after observing that the principal value of the assets were not given in the account, it was added :
+"In the covering letter, however, the company pointed out, 'we have long back intimated about the company being a controlled company, vide our letter dated April 27, 1965. As desired by you now, we are formally filing a return. So far as valuation and other assets are concerned, were have to refer you to the estate duty returns and other data already furnished to you by the legal heirs."
+16. In paragraph 3 of the assessment order, the Assistant Controller further observed as follows :
+"Since Messrs. Amalgamations Private Ltd. is a controlled company and since the deceased had control over the company, it was proposed to value the shares held by the deceased in this company by applying rule 15 of the Controlled Companies Rules."
+17. The accountable persons, however, raised the following objections :
+"1. Rule 15 of the Controlled Companies Rules has been enacted for determining the value of the shares for the purpose of rule 11 of the said rules and inasmuch as
+section 17
+is not applied in this case, the question of recourse to rule 15 cannot arise.
+2. In any event, rule 15 is void and ultra vires the powers of the Board under
+section 20
+of the Act.
+3. If rule 15 is applied in a manner resulting in a valuation which is different from the fair market value, then the rule would be void as contrary to the provisions of
+section 36
+of the Act.
+4. Computation under rule 15 is not mandatory but is only one of the methods suggested with a view to arriving at a fair market value."
+18. Even on the basis that rule 15 was valid further submissions were made. The Assistant Controller pointed out in dealing with these objection in his order as follows :
+"The total number of shares in Messrs. Amalgamations Private Ltd., is 39,000 and the deceased owned the entire shares. The fact that Amalgamations Private Ltd. was a controlled company and that all.... its shares were held by the deceased and as such he had the control of its affairs till his death cannot be denied by the accountable person. Since he continued to exercise control over the affairs of the company till his death, the condition prescribed in rule 15(1)(a) is fully satisfied. Since Messrs. Amalgamations Private Ltd. is a controlled company and inasmuch as the deceased had control over its affairs till his death, the valuation has to be done only under rule 15 of the Controlled Companies Rules and not under any other section. To this extent, rule 15 is mandatory. Thus the accountable person's contention that rule 15 is not mandatory and is only one of the methods suggest with a view to arriving at the fair market value cannot be accepted."
+19. The Assistant Controller, however, rejected the plea that rule 15 aforementioned could be applied only to a case where
+section 17(1)
+was applied, and held that if the conditions prescribed in rule 15 were satisfied, it could be applied even independently of
+section 17(1)
+. Kalyani Sundaram's husband, as her agent, wrote to the Assistant Controller seeking certain clarifications regarding the assessment. On June 25, 1974, the Assistant Controller in his reply referred to the authority given by Kalyani Sundaram to Shri Sivasailam and also the specific agreement to abide by the accounts rendered by him and to be bound by the explanations given by him and regretted his inability to furnish the particulars called for by Kalyani Sundaram's husband and referred him, for any particulars, to Sri Sivasailam, who was the person authorised by him. On January 2, 1975, Kalyani Sundaram's husband, as her agent, filed an application purporting to be under
+section 61
+of the Act. He stated that a scrutiny of the assessment order showed that Messrs. Amalgamations Private Ltd. had been held to be an accountable person beside Sri Sivasailam, and unless there was a transfer of property presumably without consideration by the deceased to the assessee-company and any benefit accused to him from the company,
+section 17
+was not attracted and thus the assessee-company could not be treated as an accountable since, according to him, relevant details were not stated in the assessment order. He asked for a rectification as to what was the exact amount included under
+section 17(1)
+as the property passing on the death of the deceased. The Assistant Controller, however, rejected the said petition stating :
+"I find that there are no mistakes to be rectified in the assessment order passed earlier."
+20. Several contentions were raised in the writ petition.
+21. The two learned judge constituting the Bench, however, delivered separate judgments. Sethuraman J., in his judgment, observed as follows (at page 628 of 126 ITR) :
+"
+Section 17
+is one of the provisions intended to counteract avoidance of estate duty in cases where properties are transferred to a company of which the deceased had control. There is a definition of 'controlled company' in
+section 17(4)
+providing that any company would be a controlled company, if it is controlled by less than five persons. That the deceased virtually was the beneficial owner of all the shares in his company does not appear to have been disputed. In the case of such companies, special rules have been framed so as to enable valuation of the property deemed to pass. Rules 5 to 10 of the Controlled Companies Rules deal with the method of valuation based on benefits. There are other rules like rule 15 which provide for the valuation of the shares in or debentures of a controlled company. Prima facie there appears to be nothing wrong in rule 15 being applied, where there is no benefit derived by the person who transferred the share to the company. Whether the other rules suggested by the petitioner as applicable to the present case apply or not, is not one which can be said to be free from doubt, especially when there is no benefit accruing to or derived by the deceased.
+In the submission of the petitioner,
+section 19
+would apply to make the company an accountable person only if
+section 17
+was actually applied. We have already extracted
+section 17
+. There are two stages in applying that provision. The Assistant Controller has to find out who the accountable person is, so that he could proceed against him. At that stage, he could only look into the question whether there was any transfer of property to a controlled company by the deceased. Whether there was a benefit to the deceased is not a matter which will always be apparent or lie on the surface. The type of persons against whom this provision is designed do not always act in the open. To require the Assistant Controller to invoke the provisions only after he finds : (1) transfer of property; and (2) enjoyment of benefit, would practically render the provisions useless. Such a view would also open up vistas of tax evasion as a person would then have only to transfers properties to, and exercise control over, the company without disclosing any tangible benefits to him to avoid its application. These aspects cannot be lost sight of in construing
+section 17
+and the rules.
+When once there is a finding or information on the question of transfer of property by the deceased, then the Assistant Controller can treat the company as an accountable person. He would have to go into the question of benefits accruing to the deceased from the company in the course of further investigation of the facts. At any rate, it cannot be postulated as a clear proposition of law that the two conditions have to be satisfied even when notice to file a return is issued. If at the stage of issue of notice, there was any dispute as to the liability of the company to be taken as an accountable person, then the Assistant Controller would have to determine the dispute. In the present case, there was no such disputed raised by the controller company and, therefore, it was open to the Assistant Controller to proceed on the basis that the provisions of
+section 17(1)
+were attracted. There cannot be said to be any apparent error when the Assistant Controller treated Messrs. Amalgamations Pvt. Ltd. as an accountable person, especially when it submitted to his jurisdiction without any protest.
+There was also a submission that the tax liability should be apportioned among the accountable persons and that this is a patent error in the assessment order. There is no provision brought to our notice which requires this being done by the Assistant Controller. This submission goes also against the grain of
+section 53(5)
+which provides that the liability is joint and several.
+Section 76
+confers a right of reimbursement on a person who pays any duty in respect of any property not passing to him. It enables the person paying the tax getting reimbursed.
+Section 76
+does not require anything being done by the Assistant Controller so as confer this right of reimbursement. Whoever wants reimbursement would have to work out his rights elsewhere. We are not concerned with any question of reimbursement sought by Amalgamations in respect of the tax admittedly paid by it. Thus, there is no error, much less a patent error, on this aspect either."
+22. Balasubrahmanyan J., in his separate judgment, however, answered the question that the assessment to estate duty manifested a mistake by taking notice of the contention that the Assistant Controller under the Act was wrong in treating the assessee-company as an accountable person when the assessment itself had not been framed by virtue of
+section 17(1)
+of the Act and stated as follows (at page 630 of 126 ITR) :
+"In seeking to answer this question, I think it is important to keep three things clear in our minds. There is first the question whether Amalgamations is a controller company for purposes of the
+Estate Duty Act
+. Then there is the question whether the assessment in this case is one made under
+section 17(1)
+of the Act. Lastly, there is the question whether Amalgamations can be rendered liable under the assessment as an accountable person.
+On the first question there never was any doubt in the mind of any one concerned with this assessment that Amalgamations was a controlled company. It is a private company, and not a company in which the public are substantially interested. It is a holding company, and not a subsidiary of another. And it has always been under the control of not more than five persons at a time. The statutory definition, therefore, fits it to perfection.
+A controlled company under the
+Estate Duty Act
+may come in for discussion in estate duty proceedings in one of two ways. An individual might die possessed of shares in a controller company, and in the context of an assessment to estate duty of the properties passing on his death, which would include those shares as well, a question might arise touching the valuation of such shares.
+The Act
+and some of the Rules made thereunder have provided for a special formula for valuation of controlled company shares, familiarly known as the 'break-up value' method. This method involves the valued having first to go into a valuation of the net assets of the controller company itself, and then proceed to arrive at the value of the deceased's shareholdings, as a proportionate slice of the controllers company's assets. In this special procedure for share valuation, the controlled company has necessarily to participate in the assessment proceedings and dance attendance on the assessing authority. It is, however, important to notice that while this procedure for break-up value of shares very much involves the participation of the controlled company in the assessment of its deceased shareholder, no liability whatever to estate duty thereby attaches either to the company or to its assets. The duty, on the contrary, only attaches to the shares in the hands of the deceased's legal personal representatives such as heirs, actuators or administrators.
+But there is yet another, and more important, although somewhat less frequent, context of estate duty assessment in which a controlled company may be called upon to face the music before the taking authorities. That is provided by
+section 17
+of the Act, and by a set of special rules framed under the Act going by the name of Controlled Companies Rules. The section and the Rules together form a formidable complex of estate duty assessment. The sum and substance of these provisions is that the yoke of estate duty directly descends on the veritable assets of the company itself. No doubt, even for this extraordinary statutory measure to be invoked against a controlled company, a mortal must first breathe his (or her) last. For, nothing stirs in estate duty without a dead body, and
+section 17
+is no exception. The only difference is that under this section the basis of charge is not the deceased's shareholdings in the controlled company. The basis, rather, is the deceased having transferred some property of his at some time to the company. Once this is found, the section begins to operate; and rest of the proceeding is merely occupied with the determination of the precise quantum of liability which the company has to pay. The quantification part of the assessment consists in comparing the benefits which the deceased had been deriving from the company, on the one hand, with the annual income of the company, on the other, both calculated over a three year period immediately before the deceased's death. The ratio between the two, namely, the deceased's benefit and the company's income, is then applied to the value of the net assets of the company. If, for instance, the value of the benefits amounts to half the net income of the company, then one-half of the company's assets is regarded as the measure of the property liable to estate duty. Further, the duty so determined is declared under the statute to be a first charge on the company's own assets.
+The Act
+accordingly makes provision for treating the company itself as an accountable person to the extent that liability is fixed on the company by an application of the special provision of
+section 17
+."
+23. One interesting aspect of the argument before the Bench, however, is stated in the judgment of Balasubramanyan J., in these words (at page 631 of 126 ITR) :
+"This brief discussion of the nature and pattern of assessments under
+section 17
+leads to the next aspect of the inquiry in this case, namely, whether the assessment in question was one made under that section. This was the point which the learned Advocate-General argued for the petitioner. But the point was robbed of much of its controversy when the assessment order, on the very face of it, showed that the Assistant Controller had not proceeded to levy assessment in this case under
+section 17(1)
+on the basis of any transfer of property by the deceased to the company or on the basis of a comparison between the company's income and the value of the benefits derived by the deceased. The Assistant Controller, no doubt, took note of the company being a controlled company, but that was only for the limited purpose of determining the valuation of the deceased's shares in the company, which is quite different from making an assessment under
+section 17(1)
+.
+The point which remains to be considered is : When the assessment was not one made under
+section 17(1)
+, can Amalgamations be treated as an accountable person, even on the footing that it was a controlled company ? The learned Advocate-General referred to
+section 19
+, and said that even a controlled company can be held liable, as such, as an accountable person only where the duty is payable 'by virtue of
+section 17
+'. He quoted these words from
+section 19(1)(a)
+with emphasis, and urged that two things flow from this provision : (i) that the accountability of a controlled company arises only where duty becomes payable by virtue of
+section 17
+; and (ii) the accountability, even in such a case, is limited only to the quantum of duty determined as payable under that provision. He urged that since the assessment in this case was not made under
+section 17
+, Amalgamations cannot be held liable for the duty levied under that assessment, to any extent whatever, as an accountable person.
+I accept the argument of the learned Advocate-General in so far as it bears on the construction of
+section 17
+and
+section 19(1)
+and the interconnection between the two. I agree that a controlled company against whom an assessment is made under
+section 17
+would be liable as a person accountable to the duty levied under that assessment. But I do not accept the further contention that since the assessment in this case was not one under
+section 17(1)
+, Amalgamations cannot be treated as an accountable person at all. On the contrary, I think the company can be properly so treated, having regard to the whole course of the assessment proceedings in this case, and having regard to the other provisions in the Act.
+Under the scheme of the
+Estate Duty Act
+, all property passing or deemed to pass on the death of a deceased person are chargeable to estate duty on their principal value (see
+section 5
+read with
+section 3(3)
+). All properties so passing or deemed to pass shall be aggregated so as to form one estate, and duty is leviable on a graduated scale on the principal value of the estate (
+Section 34(1)
+). The principal value of any dutiable property shall ordinarily be its market value (see
+section 36
+). As for shares held by a deceased shareholder in a controlled company, their valuation is to be governed by prescribed rules (see
+section 20(e)
+). The Rules prescribe the break-up value method for valuation of shares in controlled companies (see rule 15 of the controlled Companies Rules). Every incorporated company is under a duty to furnish particulars of the interest held by a deceased person in its share capital or debentures (see
+section 84
+). Besides, every company to which a deceased had made a transfer of property within the meaning of
+section 17
+was to furnish statements of such particulars as the Controller requires by notice (see
+section 55
+). For the purposes of all these provisions,
+section 2(12A)
+defines an accountable person, or its variant 'person accountable', as including every person in respect of whom any proceeding under this Act has been taken for the assessment of the principal value of the estate.
+The record of the assessment proceedings in this case shows some distinguishing features. In the first place, while an estate duty account was filed by Sivasailam, the which all the other heirs, of the deceased, including the petitioner, subscribed their acceptance, the Assistant Controller himself took the initiative and issued a notice to Amalgamations under
+section 55
+of the Act proposing to invoke against the company
+section 17(1)
+in view of the fact that the deceased had transferred property to the company. The company protested, but filed an estate duty account, nevertheless. Subsequently, while the assessment proceedings were still under way, the company appears to have applied to the Central Board of Direct Taxes, apparently under
+section 69
+of the Act, seeking the Board's intervention in the assessment. It is quite possible that the Board intervened and directed the further course of the assessment. It may even be that the Assistant Controller himself had considered one of two alternative modes of assessment which, perhaps, was open to him under rule 11 of the Controlled Companies Rules. However it be, when the assessment finally emerged, it came to pass that the company was not directly charged with duty on its assets, as it was once proposed under
+section 17
+, but the charge was laid on the deceased's shares, and the assets of the company figured only incidentally and for the limited purpose of evaluation of the shares. It seems to me that, in the events that happened, Amalgamations was correctly treated as an accountable person, and, none the less so, for the fact that the final assessment was not a charge on its assets under
+section 17
+. It is enough for purposes of the definition of
+section 2(12A)
+that the company was a person against whom the Assistant Controller had taken some proceedings for assessment. It matters little that the final assessment did not turn out to be the one which had been mooted earlier in the course of assessment proceedings. The learned Advocate-General urged two points against this position. He said that the definition of accountable person in
+section 2(12A)
+is a general provision, whereas
+section 19(1)(a)
+is a special provision and he invoked the familiar rule of construction that the special excludes the general. I do not see how this rule of the special overriding the general can at all be applied in a case such as the present where
+section 19(1)(a)
+cannot apply at all. If we once rule out
+section 19(1)(a)
+altogether as inapplicable, what remains for application is only one provision, namely,
+section 2(12A)
+. It is only in a competition between two provisions, one general and one special, that we are obliged to choose the latter and under that well-known rule of construction. But where we have on hand only one provision, we have to see whether it applied or not.
+Section 19(1)(a)
+may be a special provision, where both that provision and
+section 2(21A)
+might come in for application. But, on the facts of this case, when
+section 19(1)(a)
+does not enter into the reckoning at all, there is no question of reading
+section 2(12A)
+as a general provision.
+The next point urged by the learned Advocate-General was that the Assistant Controller, for his part, however, had not relied on
+section 2(12A)
+. He cited the following passage from the assessment order to show that the Assistant Controller was under the mistaken impression that the company could be rendered accountable under
+section 19(1)
+even on the basis of the present assessment which was not one made under
+section 17(1)
+.
+'Since rule 15 of the Controlled Companies Rules is part of the scheme of
+section 17
+, the controlled company, viz., Amalgamations Pvt. Ltd., has to be treated as an accountable person.'  
+ 
+
+ The learned Advocate-General said that this passage discloses a palpable error. I accept that the Assistant Controller is wrong when he held that since rule 15 is a part of the scheme of
+section 17
+,
+section 19(1)(a)
+would render the controlled company concerned an accountable person. In the first place, rule 15 is not within the framework or scheme of
+section 17
+. The two provisions deal with quite different things altogether.
+Section 17
+is concerned with a direct assessment on the controlled company's assets. The company is liable and its assets are a first charge in such an assessment. Rule 15, on the other hand, is concerned with an incidental aspect of valuation, In the context of the valuation question, the controlled company's assets come in as a standard of reference. But the assessment itself in such a case is not on the company or on its assets. The subject-matter of the assessment is the shares which a shareholder of the controlled companies dies possessed of the Company is not liable for the duty based on the share valuation. The company's assets are by no means charged for the payment of that duty."
+24. In appeal by Kalyani Sundaram, the Supreme Court has, however, stated (in Smt. Kalyani Sundaram v. Asst. CED [1989] 179 ITR 75) as follows (at page 79) :
+"The fundamental question in these appeals is whether the appellate is right in invoking
+section 61
+of the Act.
+Learned counsel for the appellant contends that the heirs of the deceased on whom the estate devolves are liable to pay estate duty attributable to the property which falls to their respective shares and that if an accountable person pays any part of the estate duty in respect of any property not passing to him, he is entitled to reimbursement by the person entitled to such property. This, says learned counsel, has no application in respect of the duty payable by virtue of
+section 17
+of the Act, which provides that the slice of the assets of a controlled company shall be deemed to pass on the death of the deceased for the purposes of estate duty and the slice will be included in the property passing on his death if the deceased made a transfer of that property to the controlled company and benefit accrued to the deceased in the three years ending on his death. The slice of the assets of the controlled company does not come to any heir, therefore, no heir is called upon to pay the amount of estate duty attributable to the inclusion of that slice in the chargeable estate. By
+section 19
+, the controlled company itself is liable to pay the corresponding amount of estate duty. In the present case, however, learned counsel urges, no slice of the assets of Amalgamations has been included in the estate of the deceased by the assessing authority as property deemed to pass on the death of the deceased and, therefore, the demand issued to the controlled company constitutes a mistake apparent from the record. The application of rule 15 is also contested and this, according to learned counsel, is a clear mistake committed by the Controller. It is urged that there is a mistake apparent from the record in the directions requiring Amalgamations to pay the entire amount of estate duty.
+It seems to us that all the heirs other than Sivasailam had agreed that, as accountable persons, they would abide by the accounts rendered by Sivasailam, and any information furnished by him with regard to the estate duty matter would be binding on them. The appellant cannot be heard now to dispute the quantum of liability and the basis on which the liability was computed. Nor is it open to her to contend that it is not Amalgamations which is liable to pay the duty, but that the duty is payable by the heirs of the deceased. The assessment has become final and no appeal against it has been attempted. It was for the benefit of the heirs that there was general to have the assessment made on Amalgamations and indeed when the assessment was completed and finalised, no objection was taken. The appellant acquiesced wholly and completely in the assessment to estate duty being made on Amalgamations. No separate assessment was made on the appellant nor on the other heirs. The assessment was completed in 1970 and the entire estate duty has now been paid. It was only after the entire estate duty was paid that the appellant filed the application for rectification on January 2, 1975.
+It was contended by learned counsel for the private respondents that the appellant enjoyed no locus standi in order to maintain the application under
+section 61
+and these appeals thereafter, but we do not propose to enter into this question.
+Further, it appears that this litigation is woven around a private dispute among the family members. That is hardly any justification for invoking
+section 61
+of the Act.
+We have carefully perused the reasons given individually by the two learned judges of the High Court and we are in complete agreement with them that there is no mistake apparent on the record."
+25. Learned counsel for the Revenue has sought to derive strength to his arguments by the observations in the judgment of this court that payment of the estate duty by the assessee-company was not as any liability of its own and there was no dispute before the Assistant Controller under the Act in this behalf or any enquiry into this question by him, in the judgment of Sethuraman J., and the observations in the judgment of Balasubrahmanyan J., that a controlled company against whom an assessment is made under
+section 17
+would be liable as a person accountable for the duty levied under that assessment but even not being liable to pay the duty under
+section 17
+of the Act a company can be accountable if it has the assets of the deceased under its control any dutiable property. He has emphasised that if the assessment has created a charge upon the assets of the company as a whole, the assessment whole be under
+section 17
+of the Act. The company in such a situation would be liable and the assessment would be a charge upon its assets. Rule 15 of the Controlled Companies Rules, on the other hand, is concerned with an incidental aspect of valuation and the assets of the controlled company come in as a standard of reference. The assessment itself in such a case is not on the company or on its assets. The subject-matter of the assessment is the share which a shareholder of the controlled companies dies possessed of. The company is not liable for the duty based on the share valuation. The company's assets are by no means charged for the payment of that duty.
+26. In this context, thus, according to learned counsel for the Revenue, the estate duty paid by the assessee-company on the assets of the deceased, Anantharamakrishnan, being not a charge upon the assets of the company, it was not an essential expenditure for its business and, in any case, it can recover the duty paid by it from the heirs and legal representatives of the deceased, Anantharamakrishnan.
+27. Learned counsel for the assessee-company, however, has raised a substantial submission based solely on the scheme of the
+Estate Duty Act
+and has submitted that it would be erroneous if any attempt is made to given to rule 15 an independent status and to treat a controlled company as an accountable person but not as a person liable to pay the duty, which liability is created first on account of compulsion of business which is entirely on the strength of the assets of the deceased and the peculiar status which a controlled company is assigned under the Act.
+28.
+Section 2(4)
+of the Act has defined a "controlled company" to mean a company as defined in
+section 17
+of the Act.
+Section 2(12A)
+has defined a "person accountable" or "accountable person" to mean the person accountable for estate duty within the meaning of the Act, and to include every person in respect of whom any proceedings under the Act has been taken for the assessment of the principal value of the estate of the deceased. A controlled company we have already noticed is defined in
+section 17(4)(i)
+of the Act and it is made accountable by dint of a specific provision in this behalf in
+section 19
+of the Act which says :
+"19. Collection and incidence of duty under
+section 17
+. - (1) The following persons shall be accountable for the duty payable on the death of the deceased by virtue of
+section 17
+, namely :-
+(a) the company;
+(b) any person (other than a bona fide purchaser for full consideration in money or money's worth received by the company for its own use and benefit) who receives, whether directly from the company or otherwise, or disposes of, any assets which the company had, whether as capital or as income, at the death or at any time thereafter;
+(c) any person who receives any distributed assets of the company on their distribution   
+ 
+
+ Provided that a person shall not, -
+(i) by virtue of clause (b), be accountable in respect of any assets for any duty in excess of the value of those assets, or
+(ii) by virtue of clause (c), be accountable in respect of any assets for more than a part of the duty bearing to the whole thereof the same proportion as the value of the distribution of those assets bears to the principal value of the assets of the company passing on the death by virtue of
+section 17
+.
+Explanation. - For the purposes of this sub-section the expressions 'distributed assets' and 'assets of the company passing on the death' do not include any disturbed assets of the company which the deceased received on their distribution; and a person who, having received any distributed assets of the company, has died before the deceased shall be deemed to have been a person accountable by virtue of clause (c).
+(2) Where a company incorporated outside India is accountable for any duty by virtue of the preceding sub-section or of this sub-section, every person who is a member of that company at the death shall also be accountable for a rateable part of that duty in proportion to the value of his interest in that company.
+(3) A person accountable for any duty by virtue of this section shall, for the purpose of raising and paying the duty, have all the powers conferred on accountable parties.
+(4) On a winding up of the company, sub-section (1) of
+section 530
+of the Companies Act, 1956 (1 of 1956), shall have effect as if there were included in clause (a) of that sub-section a reference to any duty payable in respect of assets of the company passing on a death by virtue of
+section 17
+of this Act, and
+section 123
+of the Companies Act, 1956 (1 of 1956), shall have effect accordingly.
+(5) The duty payable on the death of the deceased by virtue of
+section 17
+shall be a first charge by way of floating security on the assets which the company had at the death or has any time thereafter, and any part of the duty for which by virtue of clause (c) of sub-section (1) any person is accountable in respect of any distributed assets shall be a first charge also on those assets :
+Provided that nothing in this sub-section shall operate to make any property chargeable as against a bona fide purchaser thereof for valuable consideration without notice.
+(6) Where any duty has been -
+(a) paid by a person accountable therefore by virtue only of clause (c) of sub-section (1); or
+(b) raised by virtue of sub-section (5) out of any distributed assets charged therewith;
+that person or, as the case may be, the person who was entitled to those assets subject to the charge, may (without prejudice to any right of contribution or indemnity which he may have apart from this sub-section) recover the amount of the duty so paid or raised as aforesaid from any person who is accountable therefore otherwise than by virtue of the said clause (c).
+(7) No part of the duty paid by the company shall be recoverable by it from any person on the ground only that he is entitled to any interest in, or to any sum charged on, the assets which the company had at the death of the deceased.
+(8) The provisions of sub-sections (1) and (3) of
+section 53
+shall not have effect in relation to the duty payable by virtue of
+section 17
+."
+29.
+Section 5
+of the Act is the prescription for the imposition of the estate duty in the case of every person dying after the commencement of the Act and states that the duty be levied and paid upon the principal value ascertained as provided under the Act of all property, settled or not settled, including agricultural land which passes on the death of such person at the rate fixed in accordance with
+section 35
+of the Act. "Property" which is deemed to pass for the purpose of levy of estate duty is specified under
+section 6
+of the Act as the property which the deceased was at the time of his death competent to dispose of and a special mention is made of gifts mortis causa in
+section 8
+of the Act in these words :
+"Property taken as a gift made in contemplation of death shall be deemed to pass on the donor's death."
+30. That is, the same as in
+section 191
+of the India Succession Act.
+31. There are specific provisions under the Act as respects such properties in which the deceased or any other person had an interest only as holder of an office or representative of the benefits of the charge or as respects gifts within a certain period or as respects properties in which the deceased had unlimited interests and in respect of such situations where the donor remained in possession and possession did not immediately pass to the done after the gifts, etc. But, as respects property transferred to a controlled company, the only reference is under
+section 17(1)
+of the Act in these words :
+"17. Property transferred to a controlled company. - (1) Where the deceased has made to a controlled company a transfer of any property (other than an interest limited to cease on his death or property which he transferred in a fiduciary capacity), and any benefits accruing to the deceased from the company accrued to hi in the three years ending with his death, the assets of the company shall be deemed for the purposes of estate duty to be included in the property passing on his death to an extent determined in accordance with sub-section (2)."
+32. Sub-section (2) of
+section 17
+has limited the extent of the assets of the company in the proportion ascertained by comparing the aggregate amount of the benefits accruing to the deceased from the company in the last three accounting years with the aggregate amount of the net income of the company for the said years, provided that where, in any of the said accounting years, the company sustained a loss, the amount of that loss shall be deducted in ascertaining the said aggregate net income of the company and where the company came into existence in the last year but one or in the last, of the said accounting years, the references in this sub-section to the said accounting years shall be construed as references to the last two, or, as the case may be, the last, of those years. Sub-section (3) of this section has brought by a fiction within the assets of the company such property passing on the death of the deceased by virtue of sub-section (1) of
+section 17
+, which are disposed of or distributed by he company at any time between the beginning of the first of the accounting years and the death of the deceased either in or towards satisfaction of rights attaching to shares in or debentures of the company; or otherwise howsoever except as follows, that is to say, by way of sale for full consideration in money or money's worth received by the company for its own use and benefit, or in or towards discharge of taxes or rates or other liability imposed by or under an enactment, or in or towards discharge of a fine or penalty or a liability for tort incurred without collusion with the injured party, including assets which have been so disposed of or distributed in a winding up, whether continuing at or completed before death; provided that this sub-section shall not apply to assets disposed of or distributed by way of payments from which income-tax was deductible, or which were assessable to income-tax, of amounts not exceeding in the aggregate, as respects payments made in any accounting year or in the period between the end of the last accounting year and the death of the deceased, the amount of the income of the company for that year or period.
+33. We do not feel any necessity in this case to deal with that part of
+section 17
+which indicated that a company shall be deemed to be a subsidiary company or a company in which public are substantially interested or when a company shall be deemed to be under the control of not more than five persons as before us there is no dispute in this behalf and it is the acknowledged case of all parties that the assessee-company is a controlled company. It is necessary, however, to take notice of sub-section (5) of
+section 17
+which states, "for the purposes of
+section 34
+, the deceased shall be deemed to have had an interest in the property deemed by virtue of this section to be included in the property passing on his death".
+Section 34
+speaks of the aggregation of property and rates of duty. By virtue of sub-section (5) of
+section 17
+, any property transferred by the deceased to a controlled company is included in the group of such properties which are aggregated under
+section 34
+for determining the rate of estate duty.
+Section 19
+of the Act, which has already been quoted by us in full, and which section brings in the group of the accountable person, a controlled company, makes a specific reference to
+section 53
+of the Act, under sub-section (8) thereof and excludes the application of sub-sections (1) and (3) thereof in their application to the properties transferred by the deceased to a controlled company.
+Section 53
+speaks of the persons accountable and their duties and liabilities and says in sub-section (1) thereof :
+"(1) Where any property passes on the death of the deceased, -
+(a) every legal representative to whom such property so passes for any beneficial interest in possession or in whom any interest in the property so passing is at any time vested;
+(b) every trustee, guardian, committee or other person in whom any interest in the property so passing or the management thereof is at any time vested; and
+(c) every person in whom any interest in the property so passing is vested in possession by alienation or other derivative title,   
+ 
+
+ shall be accountable for the whole of the estate duty on the property passing on the death, but shall not be liable for any duty in excess of the assets of the deceased which he actually received or which, but for his own neglect or default, he might have received :
+Provided that nothing in this section shall render a person accountable for duty who acts merely as agent or bailiff for another person in the management of property."
+and sub-section (2) of this section provides, notwithstanding anything contained in sub-section (1), where an heir-at-law proves to the satisfaction of the Controller that some other person is in adverse possession of any assets of the deceased, the heir-at-law shall not be accountable for the portion of the estate duty payable in respect of such assets :
+Provided that he shall become so accountable if, and to the extent that, he subsequently recovers possession of such assets."
+34. It is thus obvious that a controlled company is not falling in the category of persons accountable under sub-section (1) of
+section 53
+of the Act and, thus, any liability or duty of a person accountable as envisaged under sub-section (1) of
+section 53
+cannot be attached to a controlled company. Sub-section (3), (4) and (5) of
+section 53
+, however, are not excluded and they may operate in the case of a controlled company as well. Sub-section (3), however, is confined to a person accountable for estate duty under sub-section (1) of
+section 53
+, which a controlled company is not and that may exclude its application in the case of a controlled company as defined under
+section 17
+of the Act. Sub-section (5) prescribes as follows :
+"Where two or more persons are accountable, whether in the same capacity or in different capacities, for estate duty in respect of any property passing on the death of the deceased, they shall be liable jointly and severally for the whole of the estate duty on the property so passing."
+35. There is nothing to read in sub-section (5) of
+section 53
+to confine it to the person accountable under sub-section (1) of
+section 53
+only. It has the effect of acknowledging the liability of a controlled company also as a person accountable.
+36. The scheme of the Act under Part VII, which deals with such provisions as to collection of duty and includes
+section 53
+aforementioned, contains some specific provisions which show that in certain cases, trustees may be included in the category of persons accountable and
+section 55
+speaks specifically about every company, to which a transfer of property has been made by the deceased as mentioned in
+section 17
+in these words :
+"55. Every person believed to be in possession to deliver statement of particulars of property as required by the Controller. - Every person accountable for estate duty, every company to which, in the opinion of the Controller, a transfer of property has been made by the deceased as mentioned in
+section 17
+, every person who is or was at any time an officer or auditor of such a company, and every person whom the Controller believes to have taken possession of or administered any part of the estate in respect of which duty is leviable on the death of the deceased, or of the income of any part of such estate shall, if required by the Controller, deliver to him and verify, to the best of his knowledge and belief, a statement of such particulars together with such accounts, documents, evidence or information as the Controller may require relating to any property which he has reason to believe to form part of an estate in respect of which estate duty is leviable on the death of the deceased."
+37.
+Section 56
+provides for grant of representation, etc., and provisions as to provisional assessment, assessment without requiring the presence of the person accountable and if not satisfied, to serve a notice on the person accountable, for property escaping assessment and penalty for default or concealment in
+sections 57
+,
+58
+and
+60
+of the Act, talk of the account delivered under
+section 53
+or
+section 56
+only and not under
+section 17
+of the Act. Mention in
+section 60
+of the Act of any requisition by the Controller under
+section 55
+or
+section 59
+of the Act is only when action is contemplated for imposition of penalty for default or concealment. In other words, there is no compulsion created by
+section 53
+,
+54
+,
+56
+,
+57
+,
+58
+or 59 of the Act upon a controlled company as a person accountable to submit to the assessment by the Controller except to submit a statement as to the assets of the deceased as contemplated under
+section 55
+of the Act and in the event of any concealment or default and order of the Controller imposing penalty, to appeal as contemplated under
+section 60
+of the Act.
+38.
+Section 20
+of the Act thus assumes importance as it speaks of the rules respecting controlled companies generally and the Estate Duty Rules have been framed accordingly known as the Estate Duty (Controlled Companies) Rules, 1953. Rule 4 says, "a person shall be deemed for the purposes of
+section 17
+of the Act, to have made a transfer of property to a company if the property came to be included in the resources of the company by the effect of a disposition made by him or with his consent or of any associated operations of which such a disposition formed one." Rule 5 speaks of benefits accruing to the deceased from company in these terms :
+"5. Benefits accruing to deceased from company. - (1) The following shall be treated as benefits accruing to the deceased from the company, that is to say :
+(a) any income of the company, and any periodical payment out of the resources or at the expense of the company, which the deceased received for his own benefit whether directly or indirectly, and any enjoyment in specie of land or other property of the company or of a right thereover which the deceased had for his own benefit whether directly or indirectly;
+(b) any such income or payment or enjoyment which the deceased was entitled to receive or have as aforesaid; and
+(c) any such income or payment or enjoyment which the deceased could have become entitled to receive or have as aforesaid by an exercise in the three years ending with his death of any power exercisable by him or with his consent;
+and where the deceased could, by an exercise in the said three years of any such power as aforesaid, have become entitled to receive as aforesaid any payment out of the resources or at the expense of the company not being a periodical payment, by did not in fact receive or become entitled to receive that payment, there shall be treated as a benefit accruing to the deceased from the company interest on that payment at the average rate from the earliest date on which he could have become entitled to receive it.
+(2) For the purposes of these rules, the expression 'periodical payment' means a payment by way of dividend or interest, a payment by way of remuneration not being a single lump sum payment, and any other payment being one of a series of payments, whether interconnected or not, whether of the same or of varying amounts, and whether payable at regular intervals or otherwise."
+39. Rule which speak of determination of the amount of benefits, the time of accrual of benefits and determination of net income or loss of the company may not be relevant for us. Rule 10, however, gives the procedure for determination of the value of the assets of the company and states as follows :
+10. Determination of value of assets of company. - (1) In determining the value of the estate for the purposes of estate duty the provisions of
+section 44
+of the Act as to making allowance for debts and incumbrances shall not have effect as respects any debt or incumbrance to which assets of the company passing on the death by virtue of
+section 17
+of the Act were liable, but the Controller shall make an allowance from the principal value of those assets for all liabilities of the company (computed, as regards liabilities which have not matured at the date of the death, by reference to the value thereof at that date, and, as regards contingent liabilities by reference to such estimation as appears to the Controller to be reasonable) other than -
+(a) liabilities in respect of shares in or debentures of the company; and
+(b) liabilities incurred otherwise than for the purposes of the business of the company wholly and exclusively.
+(2) In estimating the principal value of the said assets the Controller shall fix the price thereof on the basis of a sale of the business of the company as a going concern.
+(3) Where the said assets include any distributed assets, if partial consideration (other than the extinguishment, or an alteration, of rights attaching to shares in or debentures of a company to which
+section 17
+of the Act applies) was given for the distribution in money or money's worth received by the company for its own use and benefit, a further allowance shall be made, in addition to the allowances specified in sub-rule (1), of an amount equal to the value of the consideration given.
+(4) For the purpose of the estimation of the principal value of any distributed assets,
+section 36
+of the Act shall have effect with the substitution for the reference therein to the time of the death of the deceased of a reference to the time of the distribution, and effect shall be given to the proviso to the said
+section 36
+(which relates to depreciation by reason of the death of the deceased) as at the time of the distribution only, due regard being had to the expectation of life of the deceased at that time."
+40. Rule 11 speaks of limitation on, and prevention of duplication of, charge, rule 12 adjustments as to distributed assets, rule 13 adjustments as to additions to assets and rule 14 about accounting year. Rule 15 says about valuation for estate duty of shares and debentures of certain companies. It is this rule which has fallen for consideration in Kalyani Sundaram's case [1980] 126 ITR 615 (Mad) and which has given rise to the present proceedings. A mere glance at the scheme of the rules will show that valuation for estate duty of shares and debentures of a person having shares or having a claim to debentures of a controlled company cannot be independently worked out under rule 15 without there being a determination of the value of the assets of the company under rule 10 aforementioned. They are so integrated that without recourse to rule 10, rule 15 cannot independently work. Any such attempt shall exclude the controlled company altogether from accountability for the assets of the deceased transferred to it and under its control.
+41. Before, however, we proceed further and dilate into the facts of the case, we may refer to the provisions of the Act which speak of the charge on the property. Part VIII of this Act contains four provisions divided in four sections and the very first section,
+section 74
+, says :
+"74. (1) Subject to the provisions of
+section 19
+, the estate duty payable in respect of property, movable or immovable, passing on the death of the deceased, shall be a first charge on the immovable property so passing (including agricultural land) in whomsoever it may vest on his death after the debts and encumbrances allowable under Part VI of this Act; and private transfer or delivery of such property shall be void against any claim in respect of such estate duty."
+42. It is
+section 19
+alone which makes a controlled company under
+section 17
+of the Act a person accountable and but for
+section 19
+, the assessee-company was not answerable for the assets of the deceased that he had transferred to it. In the event of payment of duty by a person, who is not subjected to the provisions of
+section 19
+of the Act and a certificate of payment is thus issued to him under
+section 67
+to the Act, he, as a person accountable under
+section 53
+of the Act, is entitled to recover such duty paid to him from the owners of the property (see
+section 76
+of the Act). We have made a cursory examination of some relevant provisions of the Act and the Rules for controlled companies. We have taken notice of
+sections 17
+and
+19
+of the Act, in particular, and applied them to the facts of the case. The assessee-company is accountable for the assets of the deceased under
+section 17
+of the Act and, thus, has been subject to the tax as assessed under the rules and in no other way. We have seen that no part of the duty paid by it can be recovered from any person on the ground only that he is entitled to any interest in or to any sum charged on the assets which the company had at the death of the deceased. A controlled company's position as a person accountable is realised only under
+section 17(4)(i)
+read with
+section 19(1)
+of the Act and in a situation where the deceased had made to it a transfer of any property other than an interest limited to three years on his death or property which he transferred in a fiduciary capacity. It is not disputed before us that (1) the deceased, viz., Anantharamakrishnan, had transferred his shares in some other companies as well as some there properties to the assessee-company, (ii) the assessee-company is a controlled company as defined under
+section 17(4)(i)
+of the Act, and (iii) it is a person accountable. We have difficulty in accepting the contention of the Revenue that a controlled company can be a person accountable otherwise than under
+section 19(1)
+of the Act. We have taken notice of the definition of "person accountable" under
+section 2(12A)
+of the Act which says, "person accountable" or "accountable person" means the person accountable for estate duty within the meaning of the Act, and includes every person in respect of whom any proceeding under the Act has been taken for the assessment of the principal value of the estate of the deceased. Thus, since a controlled company is a person accountable under
+section 19(1)
+it satisfies the definition otherwise not.
+43. It is not difficult from what we have found above to perceive that as a controlled company, the assess-company's accountability was not confined only to disclose the assets of the deceased shareholder; it was also not a representative or agent of the deceased. Its character as envisaged under
+section 17
+of the Act read with
+section 19
+therefore was that of an accountable person, who as envisaged under
+section 55
+of the Act, if required by the Controller, was required to deliver to him and verify, to the best of his knowledge and belief, a statement of such particulars together with such accounts, documents, evidence or information as the Controller required relating to any property which he had reason to believe to form part of an estate in respect of which estate duty was leviable on the death of the deceased. Since its accountability had arisen on account of its being a controlled company as envisaged under
+section 17
+of the Act, the procedure for assessment as prescribed under the Estate Duty (Controlled Companies) Rules, 1953, was alone required to be adopted. If the assessee-company was not a controlled company, rule 15 was not attracted at all as it opens with the words, "where for the purposes of estate duty there pass, on the death of a person, shares in or debentures of a controlled company" and "for the purpose of ascertainment of the valuation for estate duty of shares and debentures" which passed on the death of Anantharamakrishnan (in this case) the value of its assets was required to be determined as contemplated under rule 10 only because the net value of the assets of the company was required to be estimated in accordance with sub-section (1) of
+section 36
+of the Act less like allowances in the liability of the company as provided by sub-rule (1) of rule 10.
+44. It is not possible thus, in our view, to accept the Revenue's contention that the assessee-company was a controlled company for the only purpose of determining the valuation of the shares of the deceased Anantharamakrishnan in the company and not for the purposes of assessment and levy of tax. The view that we have taken is supported by the observations in a judgment of the Gujarat High Court in the case of
+CIT v. Mrs. Indumati Ratanlal
+[1968] 70 ITR 353, to which we shall refer later in some detail. The Revenue's argument in the said case was that the liability for payment of estate duty was a personal liability of the assessee. The Gujarat High Court has observed on this as follows (at page 356) :
+"The argument of the Revenue was that the liability for payment of estate duty was a personal liability of the assessee and the moneys were borrowed by her to discharge such personal liability and there was accordingly no connection, direct or indirect, between the borrowing of the moneys and the earning of income from shares receive by her under the will of her husband. The purpose of borrowing moneys and payment of interest thereon was, it was contended on behalf of the Revenue, to discharge the personal liability of the assessee for payment of estate duty and this purpose had no connection whatever with the income earned by the assessee on the shares. The analogy of moneys borrowed for payment of income-tax was invoked on behalf of the Revenue and it was urged, relying on two decisions, one a decision of the Bombay High Court in
+Bai Bhuriben Lallubhai v. CIT
+[1956] 29 ITR 543 and the other a decision of the Calcutta High Court in
+Mannalal Ratanlal v. CIT
+[1956] 58 ITR 84 that, just as payment of interest on moneys borrowed for payment of income-tax is not regarded as expenditure incurred for the purpose of earning income from income producing assets belonging to the assessee, equally, on a parity of reasoning, payment of interest on moneys borrowed for payment of estate duty cannot be regarded as expenditure of like nature and in this connection strong reliance was also placed on certain observations of the Supreme Court in
+CIT v. Malayalam Plantations Ltd.
+[1964] 53 ITR 140. We shall presently refer to these decisions but before we do so, let us first examine the argument on principle.
+The argument of the Revenue was founded on the premise that the liability for payment of estate duty was a personal liability of the assessee of the same nature as the liability for income-tax, but the validity of this premise was disputed on behalf of the assessee and it was contended that the liability for payment of estate duty was not a personal liability of the assessee, but was a liability of the estate received by the assessee. The first question which, therefore, arise for consideration on the argument of the Revenue is as to the nature of the liability of the assessee for payment of estate duty and that calls for a consideration of the relevant provisions of the
+Estate Duty Act, 1953
+.
+Section 2(12)
+of the Act defines 'legal representative' to mean a person who in law represents the estate of a deceased person and includes, (i) an executor, (ii) as regards any obligation under the Act, any person who takes possession of, or intermeddles with the estate of a deceased person or any part thereof, and (iii) where the deceased was a coparcener of a Hindu family, the manager for the time being of the family.
+Section 5
+, which is the charging section, provides that in the case of every person dying after the commencement of the Act, there shall, subject to certain exceptions which are immaterial, be levied and paid upon the principal value of all property, settled or not settled, which passes on the death of such person, a duty called 'estate duty' at the rats fixed in accordance with
+section 35
+. Now, though the estate duty is levied upon the principal value of the property passing on the death of the deceased, it has to be paid by somebody : some person has to be made liable for payment of it and that it done by
+section 53
+, sub-section (1).
+Section 53
+, sub-section (1), lays down who shall be liable for payment of estate duty to the State and according to that sub-section, where any property passes on the death of the deceased, (a) every legal representative to whom such property so passes for any beneficial interest in possession or in whom any interest in the property so passing is at any time vested, (b) every trustee, guardian, committee or other person in whom any interest in the property so passing or the management thereof is at any time vested, and (c) every person in whom any interest in the property so passing is vested in possession by alienation or other derivative title, shall be accountable of the whole of the estate duty on the property passing on the death.
+Section 53
+, sub-section (5), provides that where two or more persons are accountable for estate duty in respects of any property passing on the death of the deceased, their liability shall be joint and several. But there is a limitation on the liability of every person accountable for estate duty and that limitation is that such person shall not be liable for any duty in excess of the assets of the deceased which are actually received by him or which, but for his own neglect or default, he might have received. The liability of every accountable accountable person is thus a personal liability, though it is limited in extent to the assets of the deceased actually or constructively received by him; qualitatively it is a personal liability and not a liability payable only out of the assets of the deceased; the assets of the deceased actually or constructively received merely constitute the limit of the liability."
+45. The court has also held that apart from the personal liability of every accountable person, a charge is also created on the movable and immovable property passing on the death of the deceased to the extent set out in
+section 74
+.
+Section 74(1)
+provides that subject to the provisions of
+section 17
+in respect of controlled companies) the estate duty payable in respect of property, movable or immovable, passing on the death of the deceased, shall be a first charge on the immovable property so passing, in whomsoever it may vest on his death after the debts and encumbrances allowable under Part VI. So far as movable property passing on the death is concerned,
+section 74
+, sub-section (2), says that a rateable part of the estate duty on an estate, in proportion to the value of any beneficial interest in possession in movable property which passes to any person (other than the legal representative of the deceased) on the death of the deceased shall be a first charge on such interest. There is thus a charge on movable property also as in the case of immovable property, but the charge extends ratable in proportion to the value of the beneficial interest in possession passing to the person against whom the charge is claimed, provided of course, he is not a legal representative of the deceased. If the person to whom the movable property passes for a beneficial interest in possession is a legal representative of the deceased, there is no charge and the liability of the legal representative as an accountable person remains a personal liability.
+46. In the Gujarat case, the assessee was a legal representative of her deceased husband on the date when she paid the estate duty on behalf of herself and her minor sons with moneys already borrowed form the bank. The Gujarat High Court held that the liability of an accountable person for payment of estate duty is, as pointed out above, a personal liability and is not different in quality or character from that on an assessee liable to pay income-tax.
+47. Learned counsel for the Revenue has drawn our attention to a judgment of the Supreme Court in
+CIT v. Malyalam Plantations Ltd.
+[1964] 53 ITR 140. The material facts, in the said case, were as follows :
+"The assessee was a resident-company incorporated outside India. Most of its shareholders were in the United Kingdom. During the accounting period the company paid estate duty which was payable on the death of certain shareholders who were not domiciled in India. The assessee debited the said amounts to revenue in its accounts in ascertaining the profits and gains for the said year. In another year also, on the death of certain shareholders it paid estate duty and debited the same to revenue. The Income-tax Officer included the said amounts so paid towards estate duty in the profits and gains of the company for the two accounting periods and assessed the company to income-tax on that basis. The appeals preferred by the assessee to the appellate Assistant Commissioner were dismissed. On further appeal to the Tribunal, it held that the assessee was entitled to debit the said amounts in computing its profits and on that finding it set aside the orders of the Appellate Assistant Commissioner. On a reference of the question of law : "Whether, on the facts and in the circumstances of the case, the estate duty paid by the company under
+section 84
+of the Estate Duty Act, 1953, is a revenue expenditure deductible in computing the assessee's business income for the assessment year in question ?", the High Court agreed with the view expressed by the Tribunal and answered the question referred to it in the affirmative. The Supreme Court held on the said facts that the payments of estate duty by the company had nothing to do with the conduct of its business and, (at page 151) :
+"The fact that on his default, if any, in the payment of the dues, the Revenue may realise the amounts from the business assets is a consequence of the default of the assessee in not discharging his statutory obligation, but it does not make the expenditure any the more expenditure incurred in the conduct of the business. It is manifest that the amounts in question were paid by the assessee as a statutory agent to discharge a statutory duty unconnected with the business, though the occasion for the imposition arose because of the territorial nexus afforded by the accident of its doing business in India."
+48. At a first glance, the judgment appears to support the Revenue. But on a closer examination, it is seen that the Supreme Court found
+in that case
+that
+section 77
+of the Act which enables a person authorised or required to pay estate duty in respect of any property to transfer the said property for the purpose of paying the duty, cannot have extra-territorial operation and, in the said case, 'prima facie, the company cannot transfer the shares or the property of a person domiciled in a country outside India. The Supreme Court observed, on the said basis. (at page 144) :
+"Nor sub-section (2) of
+section 77
+, which says that a person having an interest in any property, who pays the estate duty in respect of that property, shall be entitled to the like charge, as the estate duty in respect of that property had been raised by means of a mortgage to him, has any application, for it cannot be said that the company has any legal interest in the shares owned by the third party. That apart, the said sub-section also cannot have extra-territorial operation."
+49. The Supreme Court noted that nothing had been placed before it to enable it to come to the conclusion whether in England, where the concerned shareholders dies, the resident company could recover the amount representing the estate duty paid by it in India form the legal representatives of the deceased shareholders. The Supreme Court in the said case thus proceeded on the assumption that the assessee who, as a statutory agent, paid to the State the estate duty could not recover the same from the legal representatives of the deceased non-resident shareholders and in that situation the company would be out of pocket to the extent it paid the estate duty of the said persons.
+50. The court held on that basis that the assessee-company's paying the duty was expenditure incurred by it. The Supreme Court posed then whether the crucial words of
+section 10(2)(xv)
+of the 1922
+Income-tax Act
+, "for the purpose of such business" after the 1939 amendment were attracted and held against the assessee on the ground that expenditure incurred for the purpose of the business cannot include sums spent by the assessee as agent of a third party whether the origin of the agency is voluntary or statutory. In that event, he pays the amount on behalf of another and for the purpose connected with the business.
+51. The case in
+Indian Aluminium Co. Ltd. v. CIT
+is the case, however, which gives a clear insight into the principles that the court should apply in such a situation. The Supreme Court has, in this judgment observed, on language similar to the language with which we are concerned, "expended wholly and exclusively for the purpose of such business, profession of vocation" as follows (at page 739):
+"The language seems to be simple enough but it has engendered judicial conflict not only in India but also in England. Eminent judges have striven to formulate correct tests to determine whether an expenditure has been laid out or expended wholly and exclusively for the purposes of business or not, but no one has been able to find a test in the application of which differences of opinion do not arise. It seems to us, therefore, essential that, in each case, the courts must always keep in mind the language of the section."
+52.
+In this case, the Supreme Court, in fact, reviewed and modified the law
+laid down by
+it in an earlier judgment in the case of
+Travancore Titanium Products Ltd. v. CIT
+, in which the court had held that wealth-tax paid by the assessee remains a tax charged upon the net wealth and, therefore, not tax relatable to or incidental to the carrying on of a business.
+53. The court finally said (at page 747):
+"In our view, the test adopted by this court in
+Travancore Titanium
+'s case [1966] 60 ITR 277 that 'to be a permissible deduction, there must be a direct and intimate connection between the expenditure and the business, i.e., between the expenditure and the character of the assessee as a trader, and not as owner of assets, even if they are assets of the business, needs to be qualified by stating that if the expenditure is laid out by the assessee as owner-cum-trader, and the expenditure is really incidental to the carrying on of his business, it must be treated to have been laid out by him as a trader and as incidental to his business."
+54. The court also rejected the Revenue's contention that it would be difficult to allow deduction of wealth-tax in respect of individuals who have both business assets and debts and non-business assets and debts and observed (at page 747):
+".... the wealth-tax return form itself requires the assessee to show what are the business assets and liabilities and what are non-business assets and liabilities."
+and added (at page 747):
+"At any rate, it should not be difficult to evolve a principle or frame statutory rules to find out the proportion of the tax which is really incidental to the carrying on of the trade. On the facts of this case it is clear that payment of wealth-tax was really incidental to the carrying on of the assessee-company's trade."
+55. The observation in the separate judgment of Beg J., in this case is quite instructive. It is as follows (at page 754):
+"To lay down, as we are doing in this case, that it is the causal connection between payment of tax and that part of net wealth which is used wholly and exclusively for trade and not the mere character or capacity for the possession of which the tax is demanded, which determines whether it is an allowable deduction or not, under
+section 10(2)(xv)
+of the Act, seems to me to amount to nothing more than to give effect to the pain and literal meaning of a provision of a taxing statute. There seems no need, in such a clear case, to invoke the aid of the well-established canon of construction that, where a taxing provision is reasonably capable of two equally possible constructions, the one which favours the assessee must be preferred. Of course, the burden of proving whether the whole or a part of the wealth-tax paid by an assessee is attributable wholly and exclusively to the carrying on of a trade, and, therefore, is an allowable deduction, must rest upon the assessee in each case. The argument on behalf of the assessee, as I understand it, goes not further."
+56. We have chosen in this case, thus to take notice of the presence of the assets of the deceased in the hands of the assessee-company, the character of the assessee-company as a controlled company, its being accountable to the estate duty for the assets passing on the death of Anantharamakrishnan, and as a fact that its business depended mainly on the assets of the deceased which were transferred to it by him before his death and on that account, it was duty-bound to account for the assets and as a person accountable, pay the duty. It is difficult in such a situation to treat the assessee-company as agent of the legal representatives of the deceased. The assessee-company only discharged a liability of its own by paying the estate duty. Merely because some other persons had interest in the estate of the deceased or the assets were transferred to the assessee-company, it cannot recover the duty paid by it from others. We prefer in the instant case the rule indicated by the Supreme Court in its judgment in the case of Indian Aluminium Co. Ltd. [1972] 84 ITR 735 and hold in favour of the assessee that the duty paid by it was in the course of its business and expended wholly and exclusively for the purpose of business.
+57. Going by the conservative view also, it is difficult to accept the Revenue's view that payment of duty on the assets of the deceased which were transferred to the assessee-company by him has no nexus with the business of the assessee-company, since a charge was created upon the assets of the deceased in the hands of the assessee-company, it amounted to a debt which the assessee-company was liable to discharge and without discharging the debt, the assessee-company was not in a position to utilise the whole assets.
+58. On the question, however, of the amount borrowed by the assessee-company to pay the estate duty, we have good reasons to accept the case of the assessee-company, although it may also be said that the Revenue authorities have not made any serious enquiry whether in fact such a borrowing existed in the sense that it was a genuine borrowing, or not a genuine operation, but only a book transaction of a sort to show that for the payment of estate duty certain loan was incurred by the assessee-company.
+In
+Mrs. Indumati Ratanlal
+'s case [1968] 70 ITR 353, the Gujarat High Court considered whether money borrowed for payment of estate duty was deductible under
+section 57(iii)
+of the Income-tax Act, 1961, and held as follows (at page 363):
+"We must, therefore, reach the conclusion that if moneys were borrowed by the assessee for the purpose of discharging what was purely a personal liability as an accountable person to pay estate duty, interest paid on the borrowed moneys would not be an allowable expenditure under
+section 57(iii)
+. The question then arises: Does it make any difference if there was a charge on the shares for payment of estate duty and moneys were borrowed by the assessee for the purpose of clearing the charge? We cannot assent to the broad proposition canvassed on behalf of the assessee that whenever liability is charged on a property, and moneys are borrowed for clearing the charge, interest paid on the borrowed moneys would necessarily be an allowable expenditure in computing the assessable income from the property. Whether it constitutes as allowable expenditure or not would depend on the facts of each case. But one thing is clear that if property is received by an assessee subject to a charge for payment of a liability and moneys are borrowed for clearing the charge by discharging the liability, interest paid on the borrowed moneys would be an allowable expenditure. The purpose of the borrowing would be to save the property by freeing it from the encumbrance and thus to facilitate the earning of the income and there would accordingly be the requisite connection or nexus between the borrowing of the moneys and the earning of the income. To illustrate the point, take a case where property is received by an assessee subject to a charge for payment of money with growing interest. Would the interest paid by the assessee to the chargeholders not be an allowable expenditure in computing the assessable income from the property? It would be an outgoing in respect of the property just like a municipal tax or cess and would be expenditure incurred for the purpose of making or earning the income from the property within the meaning of
+section 57(iii)
+. But, if this be so, what difference should it make on principle if, instead, moneys are borrowed by the assessee for discharging the liability to the chargeholder and clearing the charge on the property and interest is paid on the borrowed moneys? If, therefore, at the date when the estate duty was paid by the assessee, the shares were charged with payment of liability for estate duty, we must hold that interest paid on the borrowed moneys would be an admissible expenditure under
+section 57(iii)
+."
+59. We are not persuaded to cite judgments of several courts as well as this court because we have found sufficient authority to hold as found in the judgment of the Supreme Court in the case of
+CIT v. Rajendra Prasad Moody
+[1978] 115 ITR 519. The case before the Supreme Court dealt with the question whether interest on moneys borrowed for investment in shares was allowable expenditure under
+section 57(iii)
+of the Income-tax Act when the shares had not yielded any dividend in the shape of return during the relevant assessment year. The Revenue argued before the Supreme Court that the language of
+section 37(1)
+when contrasted with the phraseology employed in
+section 57(iii)
+of the Income-tax Act pointed out that the Legislature had deliberately used words of narrower import in granting the deduction under
+section 57(iii)
+.
+Section 37(1)
+provided for deduction of expenditure laid out or expended wholly and exclusively for the purpose of the business or profession in computing the income chargeable under the head "Profits or gains of business or profession". The language used in
+section 37(1)
+was "laid out or expended for the purpose of the business or profession" and not "laid out or expended for the purpose of making or earning such income" as set out in
+section 57(iii)
+. The words in
+section 57(iii)
+being narrower, contended the Revenue, they cannot be given the same wide meaning as the words in
+section 37(1)
+and, hence, no deduction of expenditure could be claimed under
+section 57(iii)
+unless it was productive of income in the assessment year in question. The Supreme Court observed (at page 523):
+"It is true that the language of
+section 37(1)
+is a little wider than that of
+section 57(iii)
+, but we do not see how that can make any difference in the true interpretation of
+section 57(iii)
+. The language of
+section 57(iii)
+is clear and unambiguous and it has to be construed according to its plain natural meaning and merely because a slightly wider phraseology is employed in another section which may take in something more, it does not mean that
+section 57(iii)
+should be given a narrow and constricted meaning not warranted by the language of the section and, in fact, contrary to such language."
+60. The Supreme Court in the said case observed (at page 522):
+"There is in fact nothing in the language of
+section 57(iii)
+to suggest that the purpose for which the expenditure is mode should fructify into any benefit by way of return in the shape of income. The plain natural construction of the language of
+section 57(iii)
+irresistibly leads to the conclusion that to bring a case within the section, it is not necessary that any income should in fact have been earned as a result of the expenditure."
+61. Since we have noticed that the language of
+section 37(1)
+is wider than that of
+section 57(iii)
+of the Income-tax Act, it is apt in such a situation to hold that interest paid on any borrowing for the purpose of discharging the estate duty liability will be expenditure laid out or expended for the purpose of the business of the assessee-company.
+62. We have already stated that the question whether, on the facts and in the circumstances of the case, the Tribunal was right in disallowing a sum of Rs. 60,000 representing pension paid to the widow of the late Sri Anantharamakrishnan has already been answered by the other Bench. The judgment delivered orally in court has not been signed. Govindasamy J., delivered a judgment in open court but before the judgment could be transcribed and signed by him, he fell seriously ill and later died. When the question arose how to treat such a judgment in Writ Petition No. 15224 of 1991 (dated January 12, 1993), in his order dated February 23, 1994, Janarthanam J., observed as follows:
+"Once an order is dictated in open court, it goes without saying that the order dictated and so pronounced would be the order, for all practical purposes and such an order cannot at all be changed or altered, even at the time of subscribing signature thereto, except making corrections of apparent mistakes of clerical nature.
+It is not as if instances are not wanting in a situation like the present one on hand. In similar situations, on earlier occasions, the order like the present one hand been appended with certificate by the personal assistant to the judges and the court officer concerned and such certificates had been duly countersigned by the Registrar of this court."
+63. The said view is supported by the judgment of the Supreme Court in the case of
+Vinod Kumar Singh v. Banaras Hindu University
+, , in which it is observed that in the absence of exceptional circumstances, a judgment delivered orally in open court must be taken to be final.
+The Supreme Court quoted an earlier judgment in the case of
+Surendra Singh v. State of Uttar Pradesh
+, , in which case a Division Bench of the Allahabad High Court sitting at Lucknow consisting of Kidwai and Bhargava JJ., heard a criminal appeal and on December 11, 1952, reserved judgment. Before it could be delivered Bhargava J., was shifted to Allahabad. While there, he dictated a judgment treating it to be a judgment of both. He signed every page of the judgment as well as at the end but did not put the date. He sent it to Kidwai J., at Lucknow. On December 24, 1962, before the judgment was delivered Bhargava J. passed away. On January 5, 1963, Kidwai J., delivered the judgment of the court. He signed it and dated it. The question as to whether the judgment was a valid one came up for consideration. While dealing with such a question. Bose J., spoke for the court, thus (at page 196 of AIR 1954 SC; and at page 373 of AIR 1988 SC):
+"In our opinion, a judgment within the meaning of these sections is the final decision of the court initiated to the parties and to the world at large by formal 'pronouncement' or 'delivery' in the open court. It is a judicial act which must be performed in a judicial way. Small irregularities in the manner of pronouncement or the mode of delivery do not matter but the substance of the thing must be there; that can neither be blurred nor left to inference and conjecture nor can it be vague. All the rest the manner in which it is to be recorded, the way in which it is to be authenticated, the signing and the sealing, all the rules designed to secure certainty about its content and matter can be cured ; but not the hard core, namely, the formal intimation of the decision and its contents formally declared in a judicial way in open court. The exact way in which this is done does not matter. In some courts, the judgment is delivered orally or read out, in some only the operative portion is pronounced, in some the judgment is merely signed after giving notice to the parties and laying the draft on the table for a given number of days for inspection.
+An important point, therefore, arises. It is evident that the decision which is so pronounced or intimated must be a declaration of the mind of the court as it is at the time of pronouncement. We lay no stress on the mode or manner of delivery, as that is not of the essence, except to say that it must be done in a judicial way in open court. But, however it is done, it must be an expression of the mind of the court at the time of delivery. We say this because that is the first judicial act touching the judgment which the court performs after the hearing. Everything else up till then is done out of court and is not intended to be the operative act which sets all the consequences which follows on the judgment in motion. Judges may, and often do, discuss the matter among themselves and reach a tentative conclusion. That is not their judgment. They may write and exchange drafts. Those are not the judgments either, however heavily and often they may have been signed. The final operative act is that which is formally declared in open court with the intention of making it the operative decision of the court. That is what constitutes the 'judgment'.........
+As soon as the judgment is delivered, that becomes the operative pronouncement of the court. The law then provides for the manner in which it is to be authenticated and made certain. The rules regarding this differ but they do not form the essence of the matter and if there is irregularity in carrying them out it is curable. Thus, if a judgment happens not to be singed and is inadvertently acted on and executed, the proceedings consequent on it would be valid because the judgment, if it can be shown to have been validly delivered, would stand good despite defects in the mode of its subsequent authentication.
+After the judgment has been delivered, provision is made for review. One provision is that it can be freely altered or amended or even changed completely without further formality, except notice to the parties and a rehearing on the point of change should that be necessary, provided it has not been signed. Another is that after signature a review properly so-called would lie in civil cases but none in criminal ; but the review, when it lies, is only permitted on very narrow grounds. . . . . ."
+64. Referring to the above, the Supreme Court pointed out that the above observations were made in a case where the judgment had been signed but not pronounced in the open court. In the case before the Supreme Court, the judgment had been pronounced but not signed. The Supreme Court upon this observed as follows (at page 374 of AIR 1988 SC):
+"But, while the court has undoubted power to alter or modify a judgment, delivered but not signed, such power should be exercised judicially, sparingly and for adequate reasons. When a judgment is pronounced in open court, parties act on the basis that it is the judgment of the court and that the signing is a formality to follow.
+Ordinarily, judgment is not delivered till the hearing is complete by listening to submissions of counsel and perusal of records and a definite view is reached by the court in regard to the conclusion. Once that stage is reached and the court pronounces the judgment, the same should not be reopened unless there be some exceptional circumstance or a review is asked for and is granted. When the judgment is pronounced, parties present in the court know the conclusion in the matter and often on the basis of such pronouncement, they proceed to conduct their affairs. If what is pronounced in court is not acted upon, certainly litigants would be prejudiced. Confidence of the litigants in the judicial process would be shaken. A judgment pronounced in open court shall be acted upon unless there be some exceptional feature and if there be any such, the same should appear from the record of the case. In the instant matter, we find that there is no material at all to show as to what led the Division Bench which had pronounced the judgment in open court not to authenticate the same by signing it. In such a situation, the judgment delivered has to be taken as final and the writ petition should not have been placed for fresh hearing. The subsequent order dismissing the writ petition was not available to be made once it is held that the writ petition stood disposed of by the judgment of the Division Bench on July 28, 1986."
+65. Learned counsel appearing for both parties have accepted that the judgment was pronounced in the open court by Gulab C. Gupta J. The transcription of
+the said judgment
+is on the record. We have no hesitation in ordering for the reasons of the principles aforementioned, that the same be authenticated by the Registrar of the court and delivered to the parties accordingly, if they apply for a copy thereof, in accordance with law.
+66. The questions aforementioned are answered as above. No costs.
+67. In the instant case, learned counsel for the Revenue as well as learned counsel for the assessee have given creditable assistance to the court. The records of the case reveal that it was the third exercise of the parties, that is, the Revenue and the assessee, in the hearing of the case, in the sense that we are the third Bench hearing the case. For a full and satisfactory understanding of the questions involved in the case, a long, lingering and detailed hearing was necessary and in that, learned counsel appearing for the parties have fully co-operated with the court. It will be unfair if we do not record and stated that the Revenue should acknowledge the fact that its learned standing counsel has worked in the instant case for a much more longer period, than required for normal hearing of reference cases. We direct accordingly the Revenue to pay the learned standing counsel a fee equivalent to hearing of five reference cases.

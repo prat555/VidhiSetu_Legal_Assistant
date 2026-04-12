@@ -1,0 +1,211 @@
+Title: Search
+Court: High Court
+Date: 82 of 2000
+Citation: citations: 2003(2)ARBLR315(DELHI), 104(2003)DLT957, 2003(69)DRJ490, [2003]46SCL1(DELHI)
+Source: https://indiankanoon.org/doc/1465429/
+
+[Cites
+18
+, Cited by
+2
+]
+Delhi High Court
+Jagson Airlines Ltd. And Anr. vs Bannari Amman Exports (P) Ltd. And Anr. on 28 April, 2003
+Equivalent citations: 2003(2)ARBLR315(DELHI), 104(2003)DLT957, 2003(69)DRJ490, [2003]46SCL1(DELHI)
+Author:
+J.D. Kapoor
+Bench:
+J.D. Kapoor
+JUDGMENT
+ 
+
+  J.D. Kapoor,  J.
+1. A very interesting question of law has cropped up in this petition.  The question is whether the order passed by the Arbitrator as to the place of arbitration is challengeable by way of a petition under
+Section 20
+of the Arbitration and Conciliation Act, 1996.  The nature of question is such that decision will vary from the facts of each case.
+2.  At the outset, Ms. Indu Malhotra learned counsel  for  respondent  No. 1 has contended that the order of the arbitrator deciding the application of the petitioner as to the place of arbitration does not come within the ambit of an interim award and is therefore, not challengeable and the remedy available to the aggrieved party is by way of challenging the final  award under
+Section 34
+of the Arbitration & Conciliation Act, 1996 which includes the challenge as to the place/ venue of arbitration.
+In support of this contention, Ms. Malhotra  has relied upon
+Sanshin Chemicals Industry vs. Oriental Carbons & Chemicals Ltd.
+(2001) 3 SCC 341 wherein the Supreme Court observed that though the decision on the question of venue is of utmost importance yet the contention that an aggrieved party has no right to assail the decision once
+the said decision
+has not been assailed at the stage when the decision was taken, does not appear to be correct.  It was further observed that the aforesaid contention is not correct because the ultimate arbitral award could be assailed on the  ground indicated in sub- section (2) of
+Section 34
+and an erroneous decision on the question of venue  which ultimately affected the procedure that has been followed in the arbitral proceedings could come within the sweep of
+Section 34(2)
+of the Act and as such it can not be said that an aggrieved party has no remedy at all.
+3.             As is apparent, the ratio of this decision is that the aggrieved party has a right to assail the decision of the arbitrator as to the place of arbitration at the stage when the decision is taken and cannot be forced to wait for the arbitral award and then challenge the decision of the arbitrator as to the place of arbitration.  What was held by the Supreme Court is that if an aggrieved party does not challenge the decision of the arbitrator as to the place of arbitration at the stage when the decision is taken by the arbitrator it  does not mean that the said party has no remedy left.  The aggrieved party has still the remedy of challenging the correctness of the decision of the arbitrator on the question of venue when it assails or challenges the award under the provisions of
+Section 34
+of the Act as   such a decision of the arbitrator also comes within the sweep of
+Section 34(2)
+.
+4.          In the instant case, the aggrieved party has rushed to this Court the moment the arbitrator has returned the decision on the place of arbitration and to tell the petitioner that he should wait for the arbitral award and then come before this Court by way of provisions of
+Section 34
+of the Act would be not only counter productive but highly preposterous and far- fetched proposition as in case the decision of the arbitrator as to the place of arbitration is set aside in the petition under
+Section 34
+of the Act, the whole proceedings get vitiated and the time wasted by the arbitrator, the money spent by the parties and the tortuous exercise in certain cases undergone by the parties and the arbitrator would be rendered nugatory, tautologous and futile.  This is neither the object of the adjudication of disputes by way of mechanism of alternative disputes resolution through arbitration nor the intention.  The object is to decide the disputes expeditiously without involving enormous expenses and without subjecting the arbitration proceedings or the award to the mill of bringing parties and the proceedings to a grinding halt.  If the decision on the question like place of arbitration emanating from the arbitration clause by virtue of which the parties have chosen some different place other than one determined and decided by the arbitrator is not allowed to be challenged at the initial stage, it would be unfair to the aggrieved party as the venue is a very significant issue involving the issue and it becomes more significant if it is international arbitration  or when the venue is in different country as this decision hits at the very fount of the arbitral proceedings.
+5.           Having come to this conclusion, now I advert to the facts which according to learned counsel for the respondent  No. 1 speaks for themselves as to the place of arbitration.  The arbitration clause which is clause 43 of the agreement reads as under:-
+"ARBITRATION.
+All disputes or difference whatsoever arising between the parties out of, or relating to construction, meaning, operation or effect of this contract or the breach thereof shall be settled by arbitration at New Delhi in accordance with the rules of Arbitration of Indian Council of Arbitration and the award made in pursuance thereof shall be binding on both the parties."
+6. In spite of the above quoted arbitration clause, the respondent  No. 1 filed a suit for recovery before the Chennai High Court. The suit was  resisted by the petitioner by invoking the provisions of
+section 8
+of the Arbitration and Conciliation Act, 1996 seeking the dismissal of the suit in view of the arbitration clause.  The application under
+Section 8
+of the act was allowed by the learned Single Judge.  Feeling aggrieved, the respondent  No. 1 approached Division Bench.  Before the Division Bench, the parties arrived at an agreement in respect of the name of the arbitrator.  The order dated 21.3.2001 passed by the Division Bench is short and reads like this:-
+"1. The parties have arrived at an agreement, which has been conveyed to us by their respective counsel.  Parties have agreed that in the light of the fact that both the agreements provide for arbitration, and the presence of all the parties to the two agreements before the Arbitrator is necessary, the parties are agreeable to have the disputes under both the agreements resolved by a common Arbitrator.
+2. Parties also report in their agreement that Mr. Justice S. Natarajan, learned former Judge of the Supreme Court, who resides at Madras, shall be the common Arbitrator.
+3. We record these submissions, and in the light of their submissions dispose of the appeals by directing the parties to submit their disputes to the Arbitrator chosen by them.  The appeals are disposed of accordingly.  Consequently, CMP  No.  5546/2000 is dismissed."
+7. Pursuant to this order of the Division Bench, the Arbitrator entered into reference on 12.7.2001 at Chennai and issued notices for preliminary hearing.    The claimant-respondent filed its statement of claims before the learned Arbitrator.     However, the respondent sent a memo of preliminary objection regarding arbitration meeting by taking the position that as per the agreement between the parties the predetermined venue for Arbitration Proceedings if resorted to is New Delhi and as such there can be no arbitration meeting at Chennai.    It was further stated that in giving their consent before the Division Bench of Madras High Court for the appointment of common Arbitrator, the respondents had never waived the clause on venue and as such they have objection to any arbitration proceedings being conducted in Chennai and hence would not participate in the meeting held in Chennai.
+8. On the contrary respondent-petitioner raised the plea that the they are not present before the arbitration proceedings in pursuance of the agreement entered into between the parties but are in pursuance of the agreement reached between the parties in the appeals before the Division Bench of Madras High Court and the judgment passed on 21.3.2001.    Though the arbitration clause provided that arbitration should be by the Indian Council of Arbitration, the respondent had chosen to give a go by to those  clauses and their conduct amounted to waiver to stipulations contained in the agreements between the parties including the clause relating to the venue of arbitration.
+9.     After giving due consideration to the aforesaid statement of the parties, the learned Arbitrator observed that ""This  is a matter on which a finding has to be given by the Hon'ble High Court which rendered judgment in OSA  Nos. 81 and 82 of 2000 and CMP  No. 5546 of 2000.   Unless all the parties agree to have Chennai as the venue for arbitration proceedings or unless the High Court of Madras renders a finding to that effect, it will not be possible for me to declare that Chennai will be the venue for the arbitration proceedings and as such the Respondents should participate in the Proceedings.  In the light what has been stated above it is for the Claimants and Respondents to seek further directions from the High Court as to the venue for the Arbitration Proceedings."
+10.  Pursuant to this, the respondent moved application before the Division Bench seeking clarification of the order regarding place of arbitration.  The Division Bench left it to the Arbitrator to decide the place with the following observations vide order dated 26.4.2002:-
+"Having regard to the fact that the arbitrator chosen by the parties is a former Judge of the Supreme Court of India residing at Madras and he is close to 80 years of age, it is appropriate that we leave it to him to choose the venue of arbitration.  The transactions which, gave rise to the disputes took place at New Mangalore, while the agreement was signed at Madras.  These factors will no doubt be among the factors that will be taken note of by the arbitrator while deciding the venue."
+11.  Equipped with this order of the Division Bench, the Hon'ble Arbitrator decided the application of the petitioner under
+Section 16
+by the impugned order dated 3.2.2003 discussing therein various decisions of the Supreme Court on the point raised by the respondent that once the parties agree to a particular place of arbitration, they can only change the venue with mutual agreement and not unilaterally and also the plea raised by the petitioner that the petitioner  had only consented to the name of the arbitrator and had not given consent with regard to the place of arbitration being Chennai instead of Delhi.  The learned arbitrator dismissed the objections of the petitioner by holding that these were devoid of merit and  substance and that the Respondents are bound to participate in the common Arbitration Enquiry at Chennai as the petitioner not only consented but also had waived their right as to the place of arbitration.
+12.  It is further contended that this order attains finality as the petitioner did not file any appeal and therefore the decision of the Arbitrator in deciding the venue was not challengeable under
+section 20(2)
+of the Act.
+Section 20
+provides as under:-
+20. "Place of arbitration-(1) The parties are free to agree on the place of arbitration.
+(2) Failing any agreement referred to in sub-section (1), the place of arbitration shall be determined by the arbitral tribunal having regard to the circumstances of the case, including the convenience of the parties.
+(3) Notwithstanding sub-section(1) or sub-section(2), the arbitral tribunal may, unless otherwise agreed by the parties, meet at any place it considers appropriate for consultation among its members, for hearing witnesses, experts or the parties, or for inspection of documents, goods or other property."
+13.  The gravamen of the contention of the counsel for the respondent is that
+section 42
+oust the jurisdiction of this court mainly on the premise  that not only the least agreements between the parties were executed at Madras on 10.4.1996  and 12.19.1996 but  some of the transactions were to be carried out at New Mangalore and therefore as defined in
+section 2(e)
+of the Act  the court at Madras has the jurisdiction to decide any dispute between the parties.
+14.
+Section 42
+of the Act relates to jurisdiction of arbitration proceedings.  It provides as under:-
+"42.  Jurisdiction:-   Notwithstanding anything contained elsewhere in this Part or in any other law for the time being in force, where with respect of an arbitration agreement any application under this Part has been made in a court, that court alone shall have jurisdiction over the arbitral proceedings and all subsequent applications arising out of that agreement and the arbitrator proceedings shall be made in that court and in no other court.
+15.  It is further contended by learned counsel for the respondent that by its conduct  the petitioner not only submitted before the Arbitrator but also filed counter-claim and this shows that they had not only agreed to the name of common Arbitrator before the Division Bench of the Madras High Court but also agreed to the venue of proceedings by waiving the arbitration clause providing the venue at New Delhi and also by giving go bye to the Indian Council of Arbitration.
+16.  Last but not the least, learned counsel has contended that clause (2) of
+section 20
+is a non-obstinate clause  and therefore oust the jurisdiction of every other court once the application is made before a particular court irrespective of the fact whether such an application is under
+Section 8
+of the Act as such an application includes the agreement of the parties as to the venue of arbitration.   According to the learned counsel
+section 2(e)
+of the Act defines the court of competent jurisdiction and as per the definition the court of Madras is the competent court where not only the agreements were executed between the parties but transactions were also carried at New Mangalore and  there any dispute between the parties is liable to be instituted at Madras.
+17.
+Section 2(e)
+of the Act defines the court where parties to arbitration agreement or any action against the award  can initiate their remedy.   It reads like this:-
+(e)  "Court" means the principal Civil Court of original jurisdiction in a district and includes the High Court in exercise of its ordinary original civil jurisdiction having jurisdiction to decide the questions forming the subject-matter of the arbitration if the same had been the subject matter of a suit, but does not include any civil of a grade inferior to such principal Civil Court, or any Court of Small Causes."
+18.  I am  afraid none of the contentions of respondent holds water.   The determining criteria to decide the jurisdiction of a court as envisaged in
+section 2(1)(e)
+of the Act is the court where the claims of a party to be preferred before the Arbitrator if converted into a suit are maintainable.    In the instant case both the parties against whom the respondent has filed statement of claims before the learned Arbitrator have  their registered office at New Delhi and
+section 20
+of CPC  provides jurisdiction to the court where any of the parties  resides or has registered office or principal office or subordinate office.         Thus on the premise of
+section 2(1)(e)
+of the Act which is on the parameter of
+Section 20
+of CPC  the Delhi Court has jurisdiction to try the suit and as such has the jurisdiction to entertain any action envisaged under the
+Arbitration Act
+.
+19.  It is pertinent to mention here that the respondent approached the Supreme Court for getting the instant petition transferred to Chennai High Court where some proceedings in respect of arbitration matters were initiated earlier and disposed of.  The main objection raised by the respondent related to the jurisdiction  of the Delhi  High Court in view of
+section 42
+of the Arbitration and Conciliation Act, 1996. However, the said petition was dismissed as withdrawn with the observations by the Supreme Court that the objection being canvassed by the respondent before the Supreme Court as to the jurisdiction of the Delhi High Court in view of
+section 42
+of the Act should be raised before the Delhi High Court itself.  It was further observed  that if such an objection relating to
+section 42
+has been taken,  the Delhi High Court will do well in considering the same and decide it first expeditiously.
+20.  Admittedly it was an application under
+Section 8
+of the Act which was moved by the petitioners before the Chennai High Court where plea was taken that the suit filed by the respondent was barred by arbitration clause.    Now the question arises whether an application under
+Section 8
+of the Act is an application as contemplated by
+Section 42
+or not.   In other words whether `application' referred in
+section 42
+encompasses an application under
+Section 8
+of the Act or not.
+21.  I have taken a view in
+HMP Engineers Ltd. & Ors. Vs. Rallis India Ltd & Anr
+in OMP 23/2002 decided on 18.4.2002 that application under
+Section 8
+is merely an application seeking stay of civil suit where parties had agreed for deciding their disputes by way of arbitration and since reference of "application"  under
+Section 42
+of the Act is with regard to the arbitration agreement and arbitral proceedings, application under
+section 8
+does not come within the ambit of "application" referred in
+Section 42
+.   For instance, application under
+Section 9
+of the Act can be termed as an "application" under
+Section 42
+of the Act.    Application under
+Section 8
+is not a substantive application whereby a party can claim any relief either in terms of arbitration agreement or seek remedy against the arbitral proceedings or the award whereas application under
+Section 9
+or for that purpose,
+Section 34
+or any other provision where parties seek some remedy either against the terms of arbitration agreement or arbitral proceedings or the award.
+22.
+In
+P. Anand Gajapathi Raju and Others Vs. P.V.G. Raju(Dead_ and others
+, the Supreme Court took the view that mere filing of application under
+Section 8
+of the Act would not provide jurisdiction  to the court.
+23.  It is thus beyond the pale of controversy that the application under
+Section 8
+is not an application providing jurisdiction to the court as contemplated by
+Section 42
+of the Act.
+24.  Having determined the aforesaid two questions of law, now I refer to the factual position which would go a long way to decide the controversy that has emerged in these proceedings.    The question is whether the petitioner had agreed before the Division Bench to the venue of arbitration proceedings or to the name of common Arbitrator.     Both at the initial stage when the application under
+Section 8
+of the Act was decided and again at the subsequent stage when Arbitrator sought clarification from the Division Bench as to the objection raised by the petitioner it is clear that the petitioner had only agreed to the name of common Arbitratror and not the venue of the arbitration proceedings at Madras.    Had it been so, there was no question of raising the objection at the very outset when the Arbitrator initiated the proceedings at Madras that the petitioner had only agreed to name of Common Arbitrator and not to the change of venue which as per the agreement between the parties was New Delhi.   Mere consent of the petitioner to the common Arbitrator does not mean that he agreed to the change of venue as well as other conditions of arbitration clause.
+Section 20
+of the Act provides place of arbitration subject to limitations.      It is only in case of failure of any such   agreement that place of arbitration will be determined by  the Arbitral Tribunal having regard to all the facts and circumstances including the convenience of the parties     Wherever  there is a written  agreement on the place of arbitration, sub-section (2) of
+Section 20
+becomes non-applicable.
+25.  To get teeth more deeply into the reality and the area of agreement between the parties before the Madras High Court order dated 21.3.2001 needs to be reproduced and repeated for ready reference.    Same reads as under:-
+"The  parties have arrived at an agreement which has been conveyed to us by their respective counsel.   Parties have agreed that in the light of the fact that both the agreements provide for arbitration, and the presence of all the parties to the two agreements before the Arbitrator is necessary, the parties are agreeable to have the disputes under both the agreements resolved by a common Arbitrator.
+Parties also report their agreement that Mr. Justice S. Natarajan, learned former Judge of the Supreme Court, who resides at Madras, shall be the common Arbitrator.
+We record these submissions and in the light of these submissions dispose of the appeals by directing the parties to submit their disputes to the Arbitrator chosen by them.    The appeals are disposed of accordingly.    Consequently, C.M.P. 5546 of 2000  is dismissed."
+26.  The tenor of the order shows that in respect of two different agreements between the parties, the parties agreed for a common Arbitrator to have the disputes in both the agreements resolved by a common Arbitrator and were directed to submit their disputes to the Arbitrator.     It no where provides that parties also agreed that venue of arbitration proceedings would be at Madras.    There is also a reference in the said order that in the light of the fact that both the agreements provide for arbitration, the presence of all the parties to the two agreements before the Arbitrator is necessary.   It obviously means that parties agreed to the name of the common Arbitrator by virtue of two different arbitration agreements between them.   There was no intention at all on the part of parties to depart from the terms of the agreement and since both were before the Arbitrator, they were required to be governed by the terms of the agreement.
+27.  When the parties appeared before the learned Arbitrator, the petitioner raised objection as to the venue at the first available opportunity.   Instead of deciding the objection raised by the petitioner as to the venue of arbitration proceedings, the learned Arbitrator vide order dated 23.8.2001 directed the parties to seek further directions from the High Court as to the venue of arbitration proceedings which means that the learned Arbitrator himself was not sure whether parties had agreed to the name of common Arbitrator and did not agree to the change of venue from New Delhi to Madras.     So much so the learned Arbitrator also made the observation that in the event of the High Court rendering a finding that the venue for the Arbitration Proceedings would be only New Delhi then it would be of advantage to the Parties to have an Arbitrator residing  in New Delhi itself to conduct the Arbitration Proceedings since the expenditure on air travel, hotel accommodation etc could be avoided and there will also be saving of time.     These observations were apt in view of the plea set up by the petitioner as to the venue and the order of the High Court appointing the common named Arbitrator.     The High Court did not decide the issue referred by the Arbitrator whether the parties had agreed to change of venue also apart from having agreed to the name of the common Arbitrator and left the matter to the Arbitrator to decide it.   With great respect, the High Court  abdicted its further function and passed it to the learned Arbitrator.    Unfortunately the Arbitrator had no jurisdiction to decide the contentious question.      The order passed by the High Court is self axiomatic.    It reads as under:-
+"We, by our order dated 21.3.2001 have recorded the fact that the parties have agreed to have the dispute arbitrated by a single arbitrator.    We also recorded that Mr. Justice S. Natarajan will be the common arbitrator.
+In the proceedings made by Justice S. Natarajan placed before us by counsel for the parties, it is stated that the parties should seek directions regarding venue of arbitration proceedings.
+Having regard to the fact that the arbitrator chosen by the parties is a former Judge of the Supreme Court of India residing at Madras and he is close to 80 years of age, it is appropriate that we leave it to him to choose the venue of arbitration.   The transactions which gave rise to the disputes took place at New Mangalore, while the agreement was signed at Madras.    These factors will no doubt be among the factors that will be taken note of by the arbitrator while deciding the venue."
+28.  The findings of the learned Arbitrator in this regard are like this:-
+"Having regard to all these factors the only conclusion that can be drawn is that the Respondents had agreed to ignore the provisions in the Agreements in toto including the place of Arbitration being New Delhi.
+Even otherwise this will amount to a case where there is no agreement between the parties regarding the place of Arbitration.    Such a case will be governed squarely by sub section (2) of
+section 20
+of the Arbitration and Conciliation Act, 1996.    While sub section (1) of
+section 20
+provides that the parties are free to agree on the place of Arbitration, sub section (2) provides that if there is no agreement between the parties the place of arbitration shall be determined by the Arbitral Tribunal having regard to the circumstances of the case including the convenience of the Parties.     The High Court itself has pointed out that the Arbitrator, while fixing the place of arbitration shall take into consideration relevant factors viz., the transaction having taken place in New Mangalore and the Agreements having been executed in Chennai.    The Claimant has its office in Chennai and the Counsel for both the Parties as well as the Arbitrator are all stationed in Chennai.   Therefore, in the light of these relevant factors the Arbitrator has the right
+u/s 20(2)
+to determine the place of Arbitration.
+The Claimant's Counsel cited a judgment of the Supreme Court  in "
+WALLACE  FLOUR MILLS CO.LTD v MONTBLANC INVESTMENT PVT.LTD
+.
+&
+ANR
+(Supra) that the common Arbitrator chosen by the parties being stationed in Mumbai, the Arbitrator was at liberty to lay down the procedure for Arbitration including the Time and the Place thereof.   The decision of the Supreme Court lends strength to the contentions of the Claimant's Counsel"
+29.  The reference of the question of venue by the High Court to the Arbitrator itself shows that the High Court was not sure whether the parties had also agreed to change of venue along with the common named Arbitrator for deciding the disputes arising from both the agreement.    It is also conspicuous from the order of the High Court whereby the matter was sent to the Arbitrator for deciding the question of venue that the parties had given complete go bye  to  the earlier agreements including the arbitration clause.   Had it been so, there was no occasion for the High Court to refer in both the orders that the disputes shall be resolved in terms of the agreement between the parties.
+30.   With highest regards,   the learned Arbitrator was also not competent to decide this issue once it had become contentious issue which was for the High Court to render decision.   This is obvious and self-explanatory from the earlier order passed by the learned Arbitrator that it is for the High Court to decide the controversy whether parties had agreed to the change of venue of the Arbitration proceedings.   The function of the court cannot be exercised by the Arbitrator.
+31.  The Arbitrator is a creature of the agreement or contract and is not over and above it.    He has to remain within the precincts of the agreement.     Once parties agree in writing as to the venue of arbitration, the same cannot be changed by the Arbitrator until and unless the parties subsequently change the venue.
+In
+Associated Engineering Co Vs. Government of A.P.
+, the Supreme Court commented upon the functions of the Arbitrator like this:-
+"The  arbitrator cannot act arbitrarily, irrationally, capriciously or independently of the contract.   His sole function is to arbitrate in terms of the contract.   He has no power apart from what the parties have given him under the contract.   If he has travelled outside the bounds of the contract, he has acted without jurisdiction.   But if he has remained inside the parameters of the contract and has construed the provisions of the contract, his award cannot be interfered with unless he has given reasons for the award disclosing an error apparent on the face of it."
+32.  Since the contention that the instant order of the learned Arbitrator does not come within the ambit of interim award and therefore is not challengable is without any substance and since it is an order passed not only without jurisdiction  but also against the terms of the agreement coupled with the fact that petitioner raised the objection as to the venue at initial given opportunity as this question never cropped up before the Chennai High Court  either at the time of initial order whereby the common named Arbitrator was appointed or at the subsequent stage when the High Court did not decide this issue,    such orders are rendered inappealable as subsequent proceedings would tantamount to an exercise in futility involving unnecessary expenditure by the parties as well as inconvenience.      Such orders become appealable only in those eventualities where dispute emerges from the agreement between the parties as to the venue or subsequent agreement superseding the earlier agreement as to the venue and further where there is no agreement between the parties as to the venue and the Arbitrator is  called upon to decide the question.
+33.  There was no specific observation or order of the High Court that the parties have also agreed to change of venue and have given a  go bye to the Indian Council of Arbitration.    The entire tenor of both the orders when seen in the light of observations made by the Arbitrator that it is for the High Court to decide whether the parties agreed before the High court to the change of venue of arbitration or not shows beyond any doubt that the parties had only agreed to the name of common Arbitrator for deciding their disputes arising out of two different agreements and not the change of venue.    Surprise sprung up for the petitioner when the proceedings commenced at Madras immediately at the first opportunity preliminary objection was raised that it had never agreed for the change of place of arbitration and had only agreed to common Arbitrator for two agreements.    There is also not an iota of whisper in the two orders of the High Court that the parties had given complete go by to their earlier agreements.  Rather the observations were made that the disputes will be resolved in terms of the agreements between the parties.
+34.  Upshot of the discussion leads to the following conclusions:-
+(1) That the parties had agreed by way of arbitration agreement as to the place of arbitration being New Delhi.
+(2) The Division Bench vide order dated 1.3.2001 only recorded the agreement between the parties as to the common named Arbitrator.  Hon'ble Mr. Justice S. Natarajan, former Judge of the Supreme Court was appointed as a common arbitrator for deciding disputes arising from two different agreements.
+(3) That even the Arbitrator was conscious of the fact that parties had neither agreed to the change of venue nor had given go by to the earlier agreements   and therefore the Arbitrator rightly referred the matter for the decision of the High Court.
+(4) That the   Division Bench of the Madras High Court in the subsequent order dated 26.4.2002 did not decide the question  whether the parties had agreed to the change of place of arbitration and had given go by to the earlier agreements executed between them  and left it to the Hon'ble Arbitrator to decide the place of arbitration against the decision of the Arbitrator that it was for the High Court to decide the question as to the venue.
+(5) That the learned Arbitrator decide the application as to whether the parties had agreed as to the change of venue of arbitration proceedings  or not  without any jurisdiction.
+(6) That the competent court in terms of
+section 2(1)(e)
+of the Act is the court at New Delhi because of the petitioner not only having regd. Office at New Delhi but also that if the claims of the respondent are converted into civil suit, the civil suit will lie at New Delhi.
+(7) That the application under
+section 8
+moved by the petitioner before the Chennai High Court was not an application contemplated under
+section 42
+of the Arbitration Act as this application emerged from the arbitration clause and was not an application seeking substantive relief under the Agreements.
+35.  In view of the foregoing reasons, the petition is allowed.   The order passed by the learned Arbitrator is set aside.    The arbitration proceedings shall now be conducted in terms of clauses 43 and 44 of the agreements dated 10.4.1996 and 12.9.1996 at New Delhi by Justice S. Natarajan appointed by the Chennai High Court and if it is not possible for the learned Arbitrator to conduct the proceedings at New Delhi, the parties may choose another common Arbitrator within one month failing which they will have the liberty to approach this court for appointment of   a new Arbitrator.

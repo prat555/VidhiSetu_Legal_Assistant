@@ -139,7 +139,9 @@ def _resolve_ollama_model(base_url: str, requested_model: str) -> str:
 
 PROMPT_TEMPLATE = """You are an expert in Indian law. Use ONLY the legal context provided below to answer the question.
 If the answer is not in the context, say \"I could not find this in my legal database.\"
+Do not use external or general knowledge. If context is insufficient, return only: "I could not find this in my legal database."
 Always cite the relevant Act name and Section number if available.
+Never invent an Act, section, article, case name, or court.
 If a judgment is referenced, mention the case name and court.
 Give answers in simple, clear language that a common person can understand.
 Structure your answer with: 1) Direct answer 2) Relevant law/section 3) Practical advice if applicable.
@@ -151,6 +153,8 @@ Legal Context:
 Question: {question}
 
 Answer:"""
+
+NO_CONTEXT_ANSWER = "I could not find this in my legal database."
 
 
 class LegalRAGChain:
@@ -404,6 +408,34 @@ class LegalRAGChain:
 
         return score
 
+    def _has_sufficient_context(self, question: str, docs: list[Document]) -> bool:
+        """Return True only when retrieved docs have enough lexical overlap with the query."""
+        if not docs:
+            return False
+
+        normalized = question.lower().translate(str.maketrans("", "", string.punctuation))
+        query_terms = [term for term in normalized.split() if len(term) > 2 and term not in _STOPWORDS]
+        if not query_terms:
+            return True
+
+        required_hits = 1 if len(query_terms) <= 2 else 2
+        max_hits = 0
+
+        for doc in docs:
+            haystack = " ".join([
+                str(doc.metadata.get("source", "")).lower(),
+                str(doc.metadata.get("act", "")).lower(),
+                doc.page_content.lower(),
+            ])
+            hits = sum(1 for term in set(query_terms) if term in haystack)
+            if hits > max_hits:
+                max_hits = hits
+            if hits >= 1:  # Reduced required_hits in practice: accept any keyword match
+                return True
+
+        # If we have ANY keyword match in at least one document, trust the retrieval
+        return max_hits >= 1
+
     async def _search_by_vector(
         self,
         query_vector: list[float],
@@ -412,13 +444,18 @@ class LegalRAGChain:
         metadata_filter: dict[str, str] | None = None,
     ) -> list[Document]:
         """Run one MMR vector search with an optional metadata filter."""
+        kwargs: dict[str, Any] = {
+            "k": k,
+            "fetch_k": fetch_k,
+            "filter": metadata_filter,
+        }
+        if self.backend == "qdrant" and self.qdrant_search_params is not None:
+            kwargs["search_params"] = self.qdrant_search_params
+
         search = partial(
             self.vectorstore.max_marginal_relevance_search_by_vector,
             query_vector,
-            k=k,
-            fetch_k=fetch_k,
-            filter=metadata_filter,
-            search_params=self.qdrant_search_params if self.backend == "qdrant" else None,
+            **kwargs,
         )
         return await asyncio.to_thread(search)
 
@@ -480,6 +517,12 @@ class LegalRAGChain:
     async def ask(self, question: str) -> dict[str, Any]:
         """Run retrieval + grounded generation and return answer with sources."""
         docs = await self.retrieve(question, k=self.default_k)
+        if not self._has_sufficient_context(question, docs):
+            return {
+                "answer": NO_CONTEXT_ANSWER,
+                "source_documents": [],
+            }
+
         context = self._build_context(docs)
 
         answer = await self.answer_chain.ainvoke({
@@ -496,6 +539,12 @@ class LegalRAGChain:
     async def ask_stream(self, question: str) -> tuple[AsyncIterator[str], list[str]]:
         """Return a token stream and source list for low-latency UI rendering."""
         docs = await self.retrieve(question, k=self.default_k)
+        if not self._has_sufficient_context(question, docs):
+            async def _fallback_stream() -> AsyncIterator[str]:
+                yield NO_CONTEXT_ANSWER
+
+            return _fallback_stream(), []
+
         context = self._build_context(docs)
         source_documents = self._collect_sources(docs)
         rendered_prompt = self.prompt.format(context=context, question=question)
@@ -536,6 +585,7 @@ async def _build_chain() -> LegalRAGChain:
     ollama_base_url = os.getenv("OLLAMA_BASE_URL", "http://localhost:11434")
     ollama_max_tokens = int(os.getenv("OLLAMA_MAX_TOKENS", "160"))
     ollama_num_ctx = int(os.getenv("OLLAMA_NUM_CTX", "2048"))
+    ollama_timeout_seconds = float(os.getenv("OLLAMA_TIMEOUT_SECONDS", "45"))
     rag_top_k = int(os.getenv("RAG_TOP_K", "4"))
 
     if _EMBEDDINGS is None:
@@ -595,6 +645,7 @@ async def _build_chain() -> LegalRAGChain:
         temperature=0.1,
         num_predict=ollama_max_tokens,
         num_ctx=ollama_num_ctx,
+        timeout=ollama_timeout_seconds,
     )
 
     return LegalRAGChain(

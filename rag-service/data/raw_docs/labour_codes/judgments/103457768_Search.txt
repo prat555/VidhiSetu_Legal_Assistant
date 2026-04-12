@@ -1,0 +1,2877 @@
+Title: Search
+Court: High Court
+Date: 2 of 2017
+Citation: SCC 729.
+Source: https://indiankanoon.org/doc/103457768/
+
+[Cites
+67
+, Cited by
+1
+]
+Calcutta High Court
+Ifgl Refractories Ltd vs Lindsay International Pvt. Ltd on 22 January, 2019
+Author:
+Soumen Sen
+Bench:
+Soumen Sen
+IN THE HIGH COURT AT CALCUTTA
+                       Original Civil Jurisdiction
+                            ORIGINAL SIDE
+
+BEFORE:
+The Hon'ble JUSTICE SOUMEN SEN
+
+                          AP No.413 of 2017
+
+                     IFGL REFRACTORIES LTD.
+                              Versus
+                 LINDSAY INTERNATIONAL PVT. LTD.
+
+
+For the Petitioner            : Mr. Anindya Kr. Mitra, Sr. Adv.,
+                                Mr. Soumabho Ghose, Adv.,
+                                Ms. Anshumala Bansal, Adv.,
+                                Mr. Tanmoy Chakravarty, Adv.,
+                                Ms. Arti Bhattacharyya, Adv.
+
+For the Respondents           : Mr. S.K. Kapoor, Sr. Adv.,
+Mr. Rudraman Bhattacharya, Adv.,
+                                Ms. Priyanka Prasad, Adv.,
+                                Mr. Ayan Roy, Adv.,
+                                Mr. S.R. Kakrania, Adv.
+Hearing concluded on          : 11.01.2019
+
+Judgment on                   : 22.01.2019
+Soumen Sen, J.:- This is an application under
+Section 11
+of the
+
+Arbitration and Conciliation Act, 1996 (hereinafter "the 1996 Act") for
+
+appointment of an Arbitrator in terms of an agreement dated 1st
+
+September, 2010.
+The petitioner claims to be an unpaid vendor. The petitioner
+
+contends that the respondent placed twelve purchase orders on the
+
+petitioner for supply of refractory products along with general terms and
+2
+conditions governing the same. The consignee to whom such products
+
+were to be delivered would be specified in such purchase orders. The
+
+petitioner has disclosed copies of such purchase orders and the general
+
+terms and conditions of the respondent which were accepted by the
+
+petitioner. It is stated that each and all of the purchase orders disclosed
+
+in the petition expressly refer to the general terms and conditions of
+
+supply of the respondent bearing no. LIPL/IFGL/GCTS/10-01 dated 1st
+
+September, 2010 and amendment no.1 thereto made by the respondent.
+
+The general terms and conditions for supply prepared by the respondent
+
+and which formed part of the contract between the parties, inter alia,
+
+contain an arbitration clause in Clause 19, which reads:
+"19.1       In case BUYER and SELLER fails to reach an agreement on
+
+            any dispute, controversy, interpretation of any terms, claim
+
+            arising out of or in connection with General Terms &
+
+            Conditions of Supply and Purchase Order or the breach,
+
+            termination shall be settled by arbitration in accordance
+
+            with the
+Rules of Arbitration of the Indian Arbitration &
+
+            Conciliation Act, 1996
+.
+19.2        Both BUYER and SELLER shall each select an arbitrator and
+
+            the two (2) arbitrators thus chosen shall select an Umpire.
+19.3        The award of the arbitrator(s) or Umpire, as the case may be,
+
+            shall be final and binding upon the parties.
+3
+19.4        The venue of arbitration shall at Kolkata, India and the
+
+            Courts in Kolkata shall have the exclusive jurisdiction.
+19.5        Except for the matter which is specifically under arbitration
+
+            the parties shall continue to perform their respective other
+
+            obligations under any and all Purchase Orders."
+A certified copy of the agreement dated 1st September, 2010 is
+
+annexed to the petition.
+The petitioner contends that it had supplied materials in terms of
+
+the purchase orders supported by bills of lading obtained by the
+
+petitioner from the shipping companies in the name of the respondent as
+
+shipper/consignor and in the name of the party nominated by the
+
+respondent as consignee and other documents, namely, Customs
+
+endorsed invoices-cum-packing list of the respondent, shipping bills,
+
+invoices raised by the petitioner upon the respondent and bill of export
+
+duly endorsed by the Customs Authorities. The petitioner states that the
+
+respondent has accepted each and all of the invoices of the petitioner in
+
+respect of the aforesaid purchase orders without any demur. The prices
+
+mentioned in the purchase orders were mentioned in foreign currency,
+
+mostly Euro and/or Dollars and also other currencies depending on the
+
+country where the goods were supplied. It is stated in the petition that on
+
+comparison between the price at which the respondent received the
+
+export orders from the overseas buyers and the price as quoted in the
+
+purchase orders issued by the respondent on the petitioner, it would
+4
+appear that the respondent has kept a margin of 4.50% as their profit
+
+and placed purchase orders on the petitioner @ 95.50% of the price at
+
+which the respondent received the export orders from their overseas
+
+buyers.
+The petitioner contends that in terms of the purchase orders,
+
+within three working days of receipt of payment by the respondent from
+
+the foreign buyers, the respondent was to effect payment to the petitioner
+
+in Indian rupees equivalent to the amount of foreign currency mentioned
+
+in the purchase orders. The respondent by email sent on 28th October,
+
+2016 has admitted that Rs. 4.21 crore has been received from the
+
+overseas buyers to the account of IFGL Group. Out of the admitted
+
+amount of Rs. 4,21,70,432.21 shown under the heading 'IFGL Account',
+
+a sum of Rs. 207.88 lakh relate to the purchase orders forming the
+
+subject matter of this petition and the balance relate to the supplies
+
+made by IFGL Refractories Ltd. The respondent has received the
+
+aforesaid sum of Rs. 207.88 lakhs out of Rs.4,21,70,432.21 on trust for
+
+the benefit of and for being released to the petitioner company towards
+
+the price of goods supplied by the petitioner against the purchase orders
+
+mentioned in paragraph 3 of the petition. The petitioner contends that
+
+although the respondent had admitted receipt of Rs. 4.21 crore along
+
+with duty draw back amounting to Rs. 42 lakh on account of IFGL
+
+Group, they raised a wrongful plea that the matter should be mutually
+
+settled in terms of the letter dated 25th October, 2016. By the said letter,
+5
+a case of mutual understanding or implied contract was sought to be
+
+made up wrongfully and falsely.
+On 1st August, 2016 the respondent purportedly introduced a new
+
+clause in their purchase orders issued thereafter stating that the seller
+
+would not have direct contract with any Arcelor Mittal plants or Arcelor
+
+Mittal    companies    and   forward   enquiries   received   to   the   buyer
+
+immediately.
+The aforesaid purported addition of a new condition in the
+
+purchase orders on and from 1st August, 2016 is not relevant for this
+
+petition inasmuch as all the purchase orders in respect of which a claim
+
+has been made in the petition were issued prior to 1st August, 2016.
+
+None of the purchase orders mentioned in paragraph 3 of the petition
+
+contain the purported new condition.
+The petitioner alleged that incorporation of the said new condition
+
+was not immediately brought to the notice of the management of the
+
+petitioner by the ministerial staff who dealt with purchase orders and
+
+shipment as they did not realise the significance thereof. When the said
+
+new condition was brought to the notice of the management of the
+
+petitioner, the petitioner immediately by a letter dated 5th October, 2016
+
+objected to incorporation of such new conditions as the petitioner had
+
+never agreed to them.
+After 5th October, 2016, the petitioner did not receive any purchase
+
+order from the respondent.
+6
+Mr. Anindya Kumar Mitra, the learned Senior Counsel appearing
+
+on behalf of the petitioner, submits that in the present application, the
+
+petitioner has prayed for reference to arbitration of disputes arising out
+
+of 12 purchase orders. The said purchase orders were issued prior to the
+
+filing of the suit and have remained unpaid. The respondent has never
+
+disputed the existence of such purchase orders. In fact, each of the
+
+purchase orders incorporate the general terms and conditions as
+
+suggested by the respondent/buyer. Each of the said purchase orders
+
+contain an arbitration clause. The said 12 purchase orders are all
+
+subject to general terms and conditions containing the arbitration clause
+
+in Clause 19. They were issued by the respondent upon the petitioner
+
+for supply of refractory materials between September, 2015 and June,
+
+2016. Supplies were made under the purchase orders by IFGL. In
+
+October, 2016, payments against the supplies made against the said 12
+
+purchase orders were received by the respondent from the Arcelor Mittal
+
+Companies but in spite thereof price was not paid. In view thereof, on 9th
+
+December, 2016, the petitioner issued a letter referring the disputes to
+
+arbitration under those 12 purchase orders and notice under
+Section 21
+of the 1996 Act was duly received by the respondent but the respondent
+
+did not respond to the said notice.     Since the amount had remained
+
+outstanding on 12th December, 2016, an application under
+Section 9
+of
+
+the 1996 Act was filed and in that proceeding, an interim order was
+
+passed on 14th December, 2016. On 9th January, 2017, the respondent
+7
+along with two others filed a suit being C.S. No.2 of 2017 against 42
+
+parties in which IFGL Exports is arrayed as defendant No.42. Since the
+
+applicant is of the view that the suit cannot proceed in view of the
+
+existence of the arbitration clause, an application under
+Section 8
+of the
+
+1996 Act was filed on 19th January, 2017. The petitioner on 14th March,
+
+2017 has nominated its arbitrator and communicated the same to the
+
+respondent. The said respondent received the said letter on 16th March,
+
+2017. The time to nominate arbitrator by the respondent expired on 15th
+
+April, 2017 in view thereof on 12th May, 2017, an application has been
+
+filed for appointment of an arbitrator under
+Section 11
+of the 1996 Act.
+Mr. Mitra submits that under the amended provision of
+Section 11
+of the 1996 Act, the examination of the Court is confined to the existence
+
+of the arbitration agreement and no other matter is relevant.         The
+
+present amendment has been noticed and discussed at length in a fairly
+
+recent decision   in
+Duro Felguera, S.A. Vs. Gangavaram Port Ltd.
+reported in (2017) 9 SCC 729.
+Mr. Mitra submits that in two separate concurring judgments, the
+
+two Hon'ble Judges of the Supreme Court have dealt with the scope,
+
+width and ambit of the amended provision, namely,
+Section 11(6A)
+of the
+
+1996 Act and after noticing the amendment which has brought about a
+
+change of law has in no uncertain terms stated that the "intention of the
+
+legislature is crystal clear that the Court should and need only look into
+
+one aspect - the existence of an arbitration agreement".
+8
+Since all the purchase orders contained an arbitration clause
+
+either in itself or by reference to the general terms and conditions, the
+
+disputes are required to be referred to a panel of three arbitrators. In all
+
+the purchase orders disputes to be determined by the arbitral tribunal
+
+are very similar involving common questions of facts and law. The central
+
+question in all those 12 purchase orders is whether even after receipt of
+
+the full price from the ultimate buyer, the respondent can withhold
+
+release of amounts to the petitioner (supplier) in view of the specific
+
+condition that within three days of receipt of payment form the ultimate
+
+buyer, payment will be made to the supplier of the same goods. The other
+
+11 purchase orders also contain similar condition. Mr. Mitra, however,
+
+submits that the petitioner has no objection in the event a single
+
+arbitrator is appointed in respect of the twelve purchase orders and a
+
+consolidated reference is made to a single arbitrator as it would minimise
+
+time and save expenses.
+The respondent has opposed the application.
+Mr. S.K. Kapoor, the learned Senior Counsel appearing on behalf of
+
+the respondent, has submitted that in deciding the present application,
+
+the frame of the suit filed by this respondent against 42 defendants,
+
+which include the present petitioner, is required to be taken into
+
+consideration.
+Lindsay and two of its shareholders/directors have filed this suit
+
+against 42 defendants, including 37 companies of the Arcelor Mittal
+9
+Group and its promoter, Lakshmi Niwas Mittal (LNM). The principal case
+
+in the suit is that Lindsay and the Arcelor Mittal Group were parties to a
+
+binding arrangement under which the Arcelor Mittal Group would act
+
+through Lindsay to source any goods or services which they would
+
+require from India.
+The remaining four defendants are Indian companies, viz, Vesuvius
+
+India Limited, TRL Krosaki Refractories Limited, IFGL Refractories
+
+Limited and IFGL Exports Limited (collectively, "the vendors"). The
+
+vendors were parties with whom Lindsay had entered into agreements for
+
+supply of raw material pursuant to its arrangement with the Arcelor
+
+Mittal Group.
+LNM filed an application under
+Order VII, Rule 11 of the CPC
+for
+
+rejection of the plaint, as against himself. This application was dismissed
+
+by the Single Judge and the said order was affirmed by the Hon'ble
+
+Division Bench on 16.01.2018 and Special Leave Petition against the
+
+same was dismissed by the Hon'ble Supreme Court vide order dated
+
+27.04.2018. The Hon'ble Supreme Court however, has observed that the
+
+order of dismissal would not come in the way of LNM making an
+
+application under
+Order 1, Rule 10 of the CPC
+, which he has
+
+subsequently made and is pending.
+The   vendors   have   invoked     arbitration   for   the   purpose   of
+
+adjudicating their alleged claims against Lindsay on account of payment
+
+for goods sold and delivered. They have instituted applications under
+10
+Section 11(6)
+of the 1996 Act before the Calcutta High Court for
+
+appointment of an Arbitrator in view of Lindsay's failure to appoint an
+
+Arbitrator. They also made applications for interim measures under
+Section 9
+of the 1996 Act in which certain interim arrangements have
+
+been ordered by the High Court.
+Mr. Kapoor submits that the disputes concern 45 parties in total
+
+and there is no arbitration agreement covering all the parties. The
+
+disputes raised in the suit are independent and separate disputes which
+
+are not referable to arbitration. It is further submitted that the disputes
+
+between Lindsay and IFGL Exports Ltd. were settled by way of a
+
+Memorandum of Understanding ("MoU") dated 28.10.2016, which does
+
+not have an arbitration clause. Consequently, there is no live dispute in
+
+view of the MoU.
+It is submitted that the objections concern the very existence of the
+
+arbitration agreement (for example, regarding the survival of the
+
+arbitration clause by virtue of the MoU dated 28.10.2016). This objection
+
+is still available with the respondent even after the amendment of the
+
+1996 Act.
+Moreover, in the present case, Lindsay has filed the suit against 42
+
+defendants, of whom only four have made applications under
+Section 8
+and there is no allegation that there are arbitration agreements between
+
+Lindsay and the other 38 defendants. The maintainability of such a
+
+multi-party context has been considered by the Supreme Court in
+11
+Sukanya Holdings (P) Ltd. v. Jayesh H. Pandya and Anr.
+reported in
+
+2003 (5) SCC 531. The court held as follows:
+"15.The relevant language used in
+Section 8
+is "in a matter
+     which is the subject matter of an arbitration agreement", Court is
+     required to refer the parties to arbitration. Therefore, the suit should
+     be in respect of 'a matter' which the parties have agreed to refer and
+     which comes within the ambit of arbitration agreement. Where,
+     however, a suit is commenced - "as to a matter" which lies outside
+     the arbitration agreement and is also between some of the parties
+     who are not parties to the arbitration agreement, there is no question
+     of application of
+Section 8
+. The words 'a matter' indicates entire
+     subject matter of the suit should be subject to arbitration agreement.
+16. The next question which requires consideration is even if
+     there is no provision for partly referring the dispute to arbitration,
+     whether such a course is possible under
+Section 8
+of the Act? In our
+     view, it would be difficult to give an interpretation to
+Section 8
+under
+     which bifurcation of the cause of action that is to say the subject
+     matter of the suit or in some cases bifurcation of the suit between
+     parties who are parties to the arbitration agreement and others is
+     possible. This would be laying down a totally new procedure not
+     contemplated under the Act. If bifurcation of the subject matter of a
+     suit was contemplated, the legislature would have used appropriate
+     language to permit such a course. Since there is no such indication
+     in the language, it follows that bifurcation of the subject matter of an
+     action brought before a judicial authority is not allowed.
+17. Secondly, such bifurcation of suit in two parts, one to be
+     decided by the arbitral tribunal and other to be decided by the civil
+     court would inevitably delay the proceedings. The whole purpose of
+     speedy disposal of dispute and decreasing the cost of litigation
+12
+would be frustrated by such procedure. It would also increase the
+      cost of litigation and harassment to the parties and on occasions
+      there is possibility of conflicting judgments and orders by two
+      different forums."
+The amendment does not appear to alter the existing provision in
+
+this regard, as it continues to apply only in a situation where "an action
+
+is brought in a matter which is the subject of an arbitration agreement".
+
+It is this very phrase that was considered in
+Sukanya Holdings
+(supra)
+
+and led to the above result.
+The 246th Report of the Law Commission
+
+(upon which the 2015 Amendment was based) also referred to
+Sukanya
+
+Holdings
+(supra) and did not contain any indication that the
+
+Amendment sought to alter the legal position laid down therein.
+It may be noted in passing that the amended
+Section 8
+has also
+
+been considered by the Supreme Court in
+Ameet Lalchand Shah &
+
+Ors. v. Rishabh Enterprises & Ors.
+reported in 2018 SCC OnLine SC
+
+487 wherein the Court observed as follows:-
+"
+Arbitration and Conciliation (Amendment) Act, 2015
+has
+      brought in amendment to
+Section 8
+to make it in line with
+Section
+      45
+of the Act. In view of the observation made in Sukanya Holdings,
+      Law Commission has made recommendation for amendment
+      to
+Section 8
+of the Act. Consequent to 2015 Amendment Act,
+Section
+      8
+is amended as under:-
+29. "Principally four amendments to
+Section 8(1)
+have been
+      introduced by the 2015 Amendments - (i) the relevant "party" that is
+      entitled to apply seeking reference to arbitration has been
+      clarified/amplified to include persons claiming "through or under"
+13
+such a party to the arbitration agreement; (ii) scope of examination
+by the judicial authority is restricted to a finding whether "no valid
+arbitration agreement exists" and the nature of examination by the
+judicial authority is clarified to be on a "prima facie" basis; (iii) the
+cut-off date by which an application under
+Section 8
+is to be
+presented has been defined to mean "the date of" submitting the first
+statement on the substance of the dispute; and (iv) the amendments
+are expressed to apply notwithstanding any prior judicial precedent.
+The proviso to
+Section 8(2)
+has been added to allow a party that
+does not possess the original or certified copy of the arbitration
+agreement on account of it being retained by the other party, to
+nevertheless apply under
+Section 8
+seeking reference, and call upon
+the other party to produce the same." (Ref: Justice R.S. Bachawat's
+Law of Arbitration and Conciliation, Sixth Edition, Vol. I (
+Sections
+1
+to
+34
+) at page 695 published by LexisNexis)."
+30. Amendment to
+Section 8
+by the Act, 2015 are to be seen
+in the background of the recommendations set out in the 246 th Law
+Commission Report. In its 246th Report, Law Commission, while
+recommending the amendment to
+Section 8
+, made the following
+observation/comment:-
+"LC Comment: The words "such of the parties.... to the
+arbitration agreement" and proviso (i) of the amendment have been
+proposed in the context of the decision of the Supreme Court
+in
+Sukanya Holdings Pvt. Ltd. v. Jayesh H. Pandya and Anr.
+(2003)
+5 SCC 531,- in cases where all the parties to the dispute are not
+parties to the arbitration agreement, the reference is to be rejected
+only where such parties are necessary parties to the action - and
+not if they are only proper parties, or are otherwise legal strangers
+to the action and have been added only to circumvent the arbitration
+agreement. Proviso (ii) of the amendment contemplates a two-step
+14
+process to be adopted by a judicial authority when considering an
+application    seeking   the   reference     of   a   pending   action   to
+arbitration.The amendment envisages that the judicial authority
+shall not refer the parties to arbitration only if it finds that there
+does not exist an arbitration agreement or that it is null and void. If
+the judicial authority is of the opinion that prima facie the arbitration
+agreement exists, then it shall refer the dispute to arbitration, and
+leave the existence of the arbitration agreement to be finally
+determined by the arbitral tribunal. However, if the judicial authority
+concludes that the agreement does not exist, then the conclusion will
+be final and not prima facie. The amendment also envisages that
+there shall be a conclusive determination as to whether the
+arbitration agreement is null and void.
+31. From the language of amendment to
+Section 8
+of the Act it
+is also clear that the amendment to
+Section 8(1)
+of the Act would
+apply notwithstanding any, judgment, decree or order of the
+Supreme Court or any other Court.          The High Court laid emphasis
+upon the word ".....unless it finds that prima facie no valid
+agreement exists".       The High Court observed that there is no
+arbitration agreement between Astonfield and Rishabh.                After
+referring to Sukanya Holdings and the amended
+Section 8
+and
+Section 45
+of the Act, the High Court pointed out the difference in
+language of
+Section 8
+and
+Section 45
+of the Act. The High Court
+distinguished between Sukanya Holdings and Chloro Controls, and
+observed that Sukanya Holdings was not overruled by Chloro
+Controls.     In para 23 of the impugned judgment it was held as
+under:
+"23. ......The change in
+Section 8
+is that the Court is to - in
+cases where arbitration agreements are relied on- to refer the
+disputes in the suit, to arbitration, "notwithstanding any judgment,
+decree or order of the Supreme Court or any Court, refer the parties
+15
+to arbitration unless it finds that prima facie no valid arbitration
+      agreement exists". The Court is of opinion that Sukanya is not per se
+      overruled, because the exercise of whether an arbitration agreement
+      exists between the parties, in relation to the disputes that are the
+      subject matter of the suit, has to be carried out. If there are causes
+      of action that cannot be subjected to arbitration, or the suit involves
+      adjudication of the role played by parties who are not signatories to
+      the arbitration agreement, it has to continue because "prima facie no
+      valid arbitration agreement exists" between such non parties and
+      others, who are parties."
+Thus as far as Lindsay's suit is concerned, it is also still open to
+
+Lindsay to resist reference to arbitration on the basis of the reasoning in
+Sukanya Holdings
+(supra).
+Mr. Kapoor submits that
+Section 11
+of the 1996 Act deals with
+
+appointment of arbitrators. Under
+Section 11(6)
+, prior to the 2015
+
+amendment, a party was entitled to approach the Chief Justice of the
+
+High Court (or, in the case of an international commercial arbitration,
+
+the Supreme Court) for appointment of an Arbitrator in the event the
+
+other party fails to act as required under the arbitration clause.
+The scope of adjudication in an application under
+Section 11(6)
+was
+laid down in
+several pre-amendment judgments of the Supreme
+
+Court.   Mr. Kapoor has referred to SBP and Co. v. Patel Engg. Ltd.
+
+reported at (2005) 8 SCC 678 and submits that in paragraphs 37, 39
+
+and 47 of the report, the Hon'ble Supreme Court has indicated the
+
+questions to be determined before appointing an arbitrator. It is
+16
+submitted that paragraphs 39 and 47 of the report would show that it is
+
+the duty of the court to find out where reference has been sought for
+
+after the parties have agreed to a settlement as a corollary to the
+
+questions addressed in these paragraphs. Mr. Kapoor has argued that
+
+since now Memorandum of Settlement has been arrived at between the
+
+parties on 28th October, 2016 with regard to the supplies made by IFGL
+
+pursuant to purchase orders placed by IFGL on the respondent and the
+
+said Memorandum was partly acted upon, the petitioner has given a go-
+
+bye to the arbitration clause in the several purchase orders. The dispute
+
+has arisen subsequent to the MoU and in relation to the said
+
+memorandum of understanding which does not contain any arbitration
+
+clause. In such circumstances, it is the duty of the court to ascertain if
+
+there is a valid and subsisting arbitration agreement between the parties.
+Mr. Kapoor has also referred to decision is
+National Insurance
+
+Company Limited vs. Boghara Polyfab (P) Ltd.
+reported at (2009) 1
+
+SCC 267 to demonstrate that SBP and Co. (supra) was followed and in
+
+fact it was reiterated that the court has to arrive at a finding that there is
+
+an arbitration agreement.
+Mr. Kapoor submits that the 2015 amendment has not caused any
+
+substantive change to the provisions of
+Section 11(6)
+itself, except that
+
+the reference to "the Chief Justice" have been replaced by reference to
+
+"the Supreme Court or, as the case may be, the High Court". However, a
+17
+new sub-section has been inserted immediately after
+Section 11(6)
+which
+
+provides as follows:-
+"(6A) The Supreme Court or, as the case may be, the High Court,
+      while considering any application under sub-section (4) or sub-
+section (5) or sub-section (6), shall, notwithstanding any judgment,
+      decree or order of any Court, confine to the examination of the
+      existence of an arbitration agreement." (Emphasis supplied).
+
+      Mr. Kapoor has challenged the vires of
+Section 11(6A)
+of the 1996
+
+Act by filing a supplementary affidavit. According to the learned Senior
+
+Counsel, the newly inserted
+Section 11(6A)
+is not sustainable as it is
+
+opposed to the doctrine of separation of power and curtained the role of
+
+judiciary.
+The words "notwithstanding any judgment, decree or order of any
+
+court" contained in
+Section 11(6A)
+indicates that the intention of the
+
+provision was to alter the prevailing judicial interpretation of
+Section
+
+11(6)
+. It is settled law that such an exercise of legislative power can be
+
+justified only if it amended the substantive statutory provisions upon
+
+which the judicial construction has been premised.        Conversely, any
+
+purported legislative overruling of judicial decision by mere declaration
+
+(without changing the underlying statutory provision) would be ultra
+
+vires the constitutionally accepted doctrine of separation of powers.
+It is submitted that although the provisions of
+Section 11(6)
+had
+
+never been held to be ultra vires and therefore the Amendment Act is
+18
+not, strictly speaking a validating legislation, Supreme Court judgment
+
+on the constitutionality of validating Acts provide an analogous
+
+conceptual framework.
+Mr. Kapoor has referred
+S.S. Bola v. B.D. Sardana
+reported in
+
+(1997) 8 SCC 522 and submits that in a similar situation, the Hon'ble
+
+Supreme Court has made the following observations:-
+"174. At the outset it must be borne in mind that in the case of
+     Sehgal [1992 Supp (1) SCC 304 : 1993 SCC (L&S) 675 : (1993) 24
+     ATC 559] as well as Chopra [1992 Supp (1) SCC 391 : 1992 SCC
+     (L&S) 975 : (1992) 19 ATC 493 this Court had not invalidated any
+     provisions of the recruitment rules but merely interpreted some
+     provisions of the Rules for determining the inter se seniority between
+     the direct recruits and the promotees.
+The Act
+passed by the
+     legislature, therefore, is not a validation Act but merely an Act
+     passed by the State Legislature giving it retrospective effect from the
+     date the State of Haryana came into existence and consequently
+     from the date the service in question came into existence. The power
+     of the legislature under
+Article 246(3)
+of the Constitution to make
+     law for the State with respect to the matters enumerated in List II of
+     the VIIth Schedule to the Constitution is wide enough to make law
+     determining the service conditions of the employees of the State. In
+     the case in hand there has been no challenge to the legislative
+     competence of the State legislature to enact the legislation in
+     question and in our view rightly, nor there has been any challenge
+     on the ground of contravention of Part III of the Constitution. Under
+     the constitutional scheme the power of the legislature to make law is
+     paramount subject to the field of legislation as enumerated in the
+     Entries in different Lists.
+The function of the judiciary is to interpret
+19
+the law and to adjudicate the rights of the parties in accordance
+     with law made by the legislature. When a particular Rule or the Act
+     is interpreted by a Court of law in a specified manner and the law
+     making authority forms the opinion that such an interpretation
+     would adversely effect the rights of the parties and would be grossly
+     inequitious and accordingly a new set of Rule or Law is enacted, it is
+     very often challenged as in the present case on the ground that the
+     legislatures have usurped the judicial power. In such a case the
+     Court has a dedicated function to examine the new set of laws
+     enacted by the legislatures and to find out whether in fact the
+     legislatures have exercised the legislative power by merely declaring
+     an earlier judicial decision to be invalid and ineffective or the
+     legislatures have altered and changed the character of the
+     legislation which ultimately may render the judicial decision
+     ineffective. It cannot be disputed that the legislatures can always
+     render a judicial decision ineffective by enacting valid law on the
+     topic within its legislative field fundamentally altering or changing
+     its character retrospectively as was held by this Court in the case of
+Indian Aluminum Company vs. The State of Kerala
+(1996) 7
+     Supreme Court Cases 637. What is really prohibited is that
+     legislature cannot in exercise of its plenary power under
+Article 245
+and
+246
+of the Constitution merely declare a decision of a Court of
+     Law to be invalid or to be inoperative in which case it would be held
+     to be an exercise of judicial power........" (Emphasis supplied).
+Similarly, in Indian Aluminium Co. v. State of Kerela reported
+
+in (1996) 7 SCC 637, the Supreme Court stated as follows:
+"36. The validity of the validating Act is to be judged by the
+     following tests: [i] whether the legislation enacting the validating Act
+     has competence over the subject matter; [ii] whether by validation,
+20
+the legislature has removed the-defect which the court had found in
+the previous law [iii] whether the validating law is inconsistent with
+the provisions of Chapter III of the Constitution. If tests are satisfied,
+the Act can confer jurisdiction upon the Court with retrospective
+effect and validate the past transactions which were declared to be
+unconstitutional.     The   legislature     cannot    assume       power   of
+adjudicating a case by virtue of its enactment of the law without
+leaving it to the judiciary to decide it with reference to the law in
+force. The legislature also is incompetent to overrule the decision of a
+Court without properly removing the base on which the judgment is
+founded.
+56. From a resume of the above decisions the following
+principles would emerge:
+[1] The adjudication of the rights of the parties is the essential
+judicial function. Legislature has to lay down the norms of conduct
+or rules which will govern the parties and the transaction and
+require the court to give effect to them;
+[2] The Constitution delineated delicate balance in the exercise
+of the sovereign power by the Legislature, Executive and Judiciary;
+[3] In a democracy governed by rule of law, the Legislature
+exercises the power under
+Articles 245
+and
+246
+and other
+companion Articles read with the entries in the respective Lists in the
+Seventh Schedule to make the law which includes power to amend
+the law.
+[4] Courts in their concern and endeavour to preserve judicial
+power equally must be guarded to maintain the delicate balance
+devised    by   the    Constitution   between        the   three   sovereign
+functionaries. In order that rule of law permeates to fulfil
+constitutional objectives of establishing an egalitarian social order,
+the respective sovereign functionaries need free-play in their joints
+21
+so that the march of social progress and order remain unimpeded.
+The smooth balance built with delicacy must always be maintained;
+[5] In its anxiety to safeguard judicial power, it is unnecessary
+to be overjealous and conjure up incursion into the judicial preserve
+invalidating the valid law competently made;
+[6] The Court, therefore, need to carefully scan the law to find
+out: (a) whether the vice pointed out by the Court and invalidity
+suffered by previous law is cured complying with the legal and
+constitutional    requirements;    (b)   whether   the   Legislature   has
+competence to validate the law; (c) whether such validation is
+consistent with the rights guaranteed in Part III of the Constitution.
+[7] The Court does not have the power to validate an invalid
+law or to legalise impost of tax illegally made and collected or to
+remove the norm of invalidation or provide a remedy. These are not
+judicial functions but the exclusive province of the legislature.
+Therefore they are not encroachment on judicial power.
+[8] In exercising legislative power, the legislature by mere
+declaration, without anything more, cannot directly overrule revise
+or override a judicial decision.         It can render judicial decision
+ineffective by enacting valid law on the topic within its legislative
+field      fundamentally   altering      or   changing    its   character
+retrospectively. The changed or altered conditions are such that the
+previous decision would not have been rendered by the Court, if
+those conditions had existed at the time of declaring the law as
+invalid.     It is also empowered to give effect to retrospective
+legislation with a deeming date or with effect from a particular date.
+The legislature can change the character of the tax or duty from
+impermissible to permissible tax but the tax or levy should answer
+such character and the legislature is competent to recover the invalid
+tax validating such a tax on removing the invalid base for recovery
+from the subject or render the recovery from the State ineffectual. It
+22
+is competent for the legislature to enact the law with retrospective
+      effect and authorise its agencies to levy and collect the tax on that
+      basis, make the imposition of levy collected and recovery of the tax
+      made valid, notwithstanding the declaration by the court or the
+      direction given for recovery thereof.
+[9] The consistent thread that runs through all the decisions of
+      this Court is that the legislature cannot directly overrule the decision
+      or make a direction as not binding on it but has power to make the
+      decision ineffective by removing the base on which the decision was
+      rendered, consistent with the law of the Constitution and the
+      legislature must have competence to do the same." (Emphasis
+      supplied).
+In
+Jaora Sugar Mills (P) Ltd. v. State of M.P.
+reported in AIR
+
+1966 SC 416, the Hon'ble Supreme Court held that a parliamentary
+
+legislation which sought to validate a state statute (which had been held
+
+to be ultra vires the legislative competence of the State) would itself be
+
+ultra vires. However, if the parliamentary legislation made substantive
+
+provisions, that were within legislative competence of parliament, and
+
+gave the same retrospective effect, such an act would be valid even if it
+
+had the effect of validating action taken under the invalid state
+
+legislation.
+In
+State of T. N. v. State of Kerala
+reported in (2014) 12 SCC
+
+696, a Constitution Bench of the Supreme Court has held as follows:
+"126. On deep reflection of the above discussion, in our
+      opinion, the constitutional principles in the context of Indian
+23
+Constitution relating to separation of powers between legislature,
+executive and judiciary may, in brief, be summarized thus :
+126.5 The doctrine of separation of powers applies to the final
+judgments of the courts. Legislature cannot declare any decision of a
+court of law to be void or of no effect. It can, however, pass an
+amending Act to remedy the defects pointed out by a court of law or
+on coming to know of it aliunde. In other words, a court's decision
+must always bind unless the conditions on which it is based are so
+fundamentally altered that the decision could not have been given in
+the altered circumstances.
+126.6 If the legislature has the power over the subject-matter
+and competence to make a validating law, it can at any time make
+such a validating law and make it retrospective. The validity of a
+validating law, therefore, depends upon whether the legislature
+possesses the competence which it claims over the subject-matter
+and whether in making the validation law it removes the defect
+which the courts had found in the existing law.
+126.7 The law enacted by the legislature may apparently
+seem to be within its competence but yet in substance if it is shown
+as an attempt to interfere with the judicial process, such law may be
+invalidated being in breach of doctrine of separation of powers. In
+such situation, the legal effect of the law on a judgment or a judicial
+proceeding must be examined closely, having regard to legislative
+prescription or direction. The questions to be asked are, (i) Does the
+legislative prescription or legislative direction interfere with the
+judicial functions? (ii) Is the legislation targeted at the decided case
+or whether impugned law requires its application to a case already
+finally decided? (iii) What are the terms of law; the issues with
+which it deals and the nature of the judgment that has attained
+finality? If the answer to (i) to (ii) is in the affirmative and the
+consideration   of   aspects   noted   in   question   (iii)   sufficiently
+24
+establishes that the impugned law interferes with the judicial
+      functions, the Court may declare the law unconstitutional.
+157.The question whether or not the legislature has usurped
+      the judicial power or enacted a law in breach of separation of
+      powers principle would depend on facts of each case after
+      considering the real effect of law on a judgment or a judicial
+      proceeding. One of the tests for determining whether a judgment is
+      nullified is to see whether the law and the judgment are inconsistent
+      and irreconcilable so that both cannot stand together. ... When the
+      impugned law is not a validation law, there is no question of the
+      legislature removing the defect, as the Court has not found any vice
+      in the existing law and declared such law to be bad." (emphasis
+      supplied)
+
+
+      Applying these principles to the present case, it is submitted that
+Section 11(6A)
+should be regarded as ultra-vires since it is clearly
+
+overruling judicial pronouncements without making any substantive
+
+alternation to the law.
+It is submitted that
+Section 11(6A)
+has been considered by the
+
+Supreme Court in
+Duro Felguera
+(supra). Paragraph 20 is referred to in
+
+which Justice Banumathi held -
+"..........as per [
+Section 11(6A)
+] which the power of the court is
+      confined only to examine the existence of the arbitration agreement"
+(emphasis supplied).
+Mr. Kapoor has referred to Paragraphs 48 and 59 in the concurring
+
+opinion by Justice Kurian Joseph, which reads:-
+"48.
+Section 11
+(6-A) added by the 2015 Amendment, reads
+      as follows:
+25
+....... From a reading of
+Section 11(6A)
+, the intention of the
+     legislature is crystal clear i.e. the Court should and need only look
+     into one aspect- the existence of an arbitration agreement. What are
+     the factors for deciding as to whether there is an arbitration
+     agreement is the next question. The resolution to that is simple - it
+     needs to be seen if the agreement contains a clause which provides
+     for arbitration pertaining to the disputes which have arisen between
+     the parties to the agreement.
+59. The scope of the power under Section 11 (6) of the 1996
+     Act was considerably wide in view of the decisions in SBP and Co.
+(SBP and Co. v. Patel Engg. Ltd. (2005) 8 SCC 618) and Boghara
+     Polyfab [National Insurance Co. Ltd. v. Boghara Polyfab (P) Ltd.
+     (2009) 1 SCC 267: (2009) 1 SCC (Civ) 117]. This position continued
+     till the amendment brought about in 2015. After the amendment, all
+     that the Courts need to see is whether an arbitration agreement
+     exists - nothing more, nothing less. The legislative policy and
+     purpose is essentially to minimize the Court's intervention at the
+     stage of appointing the arbitrator and this intention as incorporated
+     in
+Section 11 (6A)
+ought to be respected." (Emphasis supplied).
+It is submitted that in
+Duro Felguera
+(supra), neither side offered
+
+any argument at all about the vires of the section or the other
+
+constitutional aspects and due to absence of argument both the learned
+
+Judges only examined the issue as to whether or not there was novation
+
+in the facts and circumstances of that case. In other words both judges
+
+looked beyond the question of existence of an arbitration agreement,
+
+which inference is elsewhere discussed in the judgment. The reference to
+
+text books made by the learned Judge was not cited by counsel.
+26
+Mr. Kapoor makes a valiant attempt to persuade this court to hold
+
+that such stray sentences like, "the court should look at the existence of
+
+an arbitration agreement" is an obiter dicta and not binding upon this
+
+court. It is submitted that in
+Duro Felguera
+(supra), the observations
+
+on the scope and ambit of the new provision were not called for and no
+
+adjudication about the same was in issue or sought by either side. In
+
+this regard Mr. Kapoor has placed reliance on the following decisions:-
+i.
+Janapada Sabha Chhindwara v. Central Provinces
+             Syndicate Ltd. and Anr.
+reported in 1970 (1) SCC 509
+             para 10 [5 Judges]
+       ii.   Kunjukutty Sahib v. State of Kerela and Anr. reported in
+             1972 (2) SCC 364 para 27 [5 Judges]
+      iii.
+Raval and Co. v. K.G. Ramachandran and Ors.
+reported
+             in 1974 (1) SCC 424 para 25 [5 Judges]
+      iv.    ADM, Jabalpur v. Shivkant Shukla reported in 1976 (2)
+             SCC 521 [5 Judges]
+       v.    Vijay Kumar Sharma and Ors. v. State of Karnataka
+             and Ors. reported in 1990 (2) SCC 562 para 38 [3 Judges]
+      vi.
+Shin-Etsu Chemical Co. Ltd. v. Aksh Optifibre Ltd. and
+             Anr.
+reported in 2005 (7) SCC 234 para 69
+     vii.
+Girnar Traders v. State of Maharashtra and Ors
+.
+reported in 2007 (7) SCC 555 para 53
+     viii.
+Official Liquidator v. Dayanand and Ors.
+reported in
+             2008 (10) SCC 1 para 77
+      ix.
+Subhash    Chandra    and    Anr.   v.   Delhi   Subordinate
+             Services Selection Board and Ors.
+reported in 2009 (15)
+             SCC 458 para 110
+27
+x.
+K.P.   Manu    v.   Chairman,    Scrutiny    Committee
+for
+            Verification of Community Certificate reported in 2015
+            (4) SCC 1 para 19, 21, 37
+      xi.
+Fibre Boards Pvt. Ltd. v. CIT Bangalore
+reported in 2015
+            (10) SCC 333 para 31
+     xii.
+Supreme Court
+Advocates-on-Record Association and
+            Anr. v. Union of India
+reported in 2016 (5) SCC 1 para
+            817, 882
+
+
+      It is submitted that where words in a statute have received an
+
+authoritative exposition by the superior court use of the same words in a
+
+similar context in a later statute gives rise to a strong presumption that
+
+Parliament intended that the same interpretation should be followed for
+
+construction of those words in a later statute. In the instant case, the
+
+words in sub-
+sections 4
+,
+5
+,
+6
+and
+7
+have not been changed. They must
+
+therefore receive the same interpretation as before. Moreover, the same
+
+earlier decisions still continue to be followed in cases decided after the
+
+amendment.
+SBP and Co. (supra),
+Boghara Polyfab
+(supra),
+Sukanya
+
+Holdings
+(supra) and other cases are all still good law and applied and
+
+followed by the Supreme Court itself. Therefore, the law stated in these
+
+decisions must be regarded as good law and binding precedents for the
+
+purpose of any ongoing litigation.
+The ratio in
+Sukanya Holdings
+(supra) still holds the field and no attempt has been made to take away
+
+the substratum of
+the said decision
+. Therefore at any rate the same cases
+
+should be applied in deciding the present case also.
+28
+Mr. Kapoor has relied upon a Supreme Court decision in
+Ameet
+
+Lalchand
+(supra) and submits that the decision of
+Sukanya Holdings
+(supra) was noticed, considered and approved.
+Mr. Kapoor has argued that the reliefs against IFGL in the suit,
+
+namely, prayer (B), (E), (H), (O), (R), (T) and (V) cannot be the subject of
+
+arbitration. Moreover, the Courts have consistently held that bifurcation
+
+and splitting of causes of action is not permissible. In this case, each
+
+purchase order contains a very restricted arbitration clause that can be
+
+related only to the particular order in question and nothing more than
+
+that. In other words, the arbitration clause has a limited ambit and
+
+scope. In this case only a minuscule part, if at all, is referable under the
+
+limited arbitration agreement. The Courts have recognized that there is
+
+no scope to bifurcate the suit into two parts, i.e. to refer a part of the
+
+disputes to be decided by the arbitrator leaving the bulk of disputes to be
+
+decided by the Hon'ble Court. The majority of claims against IFGL per
+
+se, and ignoring the tortious claims involving several third parties, are
+
+not referable to arbitration at all. In this regard, Mr. Kapoor has relied
+
+upon the following decisions:-
+i)     Sukanya Holdings (P) Ltd. v. Jayesh H.           Pandya and
+             Anr.
+reported in 2003 (5) SCC 531
+ii)    Rashtriya Ispat Nigam Ltd. and Anr. v. Verma Transport
+             Co.
+reported in 2006(7) SCC 275
+iii)   India Household and Healthcare Ltd. v. LG Household
+             and Healthcare Ltd.
+reported in 2007 (5) SCC 510
+29
+iv)      Tulip Hotels Pvt. Ltd. and Anr. v. Trade Wings Ltd. and
+               Ors.
+reported in (2010) 2 Arb LR 286 (Bom)
+v)       Booz Allen Hamilton Inc. v. SBI Home Finance Ltd. and
+               Ors.
+reported in 2011 (5) SCC 532.
+Mr. Kapoor has argued that the MoU already fully covers all
+
+disputes about the amounts receivable under the purchase orders.
+
+Therefore, the arbitration agreement in this case stands extinguished.
+
+There was compete novation; followed by a fresh accord and there was
+
+also satisfaction in part. The MoU resolved all issues and it contained no
+
+arbitration clause.    Therefore, the right to arbitration was abandoned
+
+and is gone.
+Moreover, of critical importance is the fact that taking advantage of
+
+the four orders of Court, the claims were substantially recovered. The
+
+MoU supersedes the Purchase orders and there is not even a whisper as
+
+to incorporating the arbitration clause by reference.
+Mr. Kapoor has argued that the petitioner has obtained huge
+
+benefits under the interlocutory orders and, therefore, elected to go by
+
+way of suit and abjured arbitration. In this connection, Mr. Kapoor has
+
+relied upon the following decisions:-
+i)       Mussammat Gulab Koer v. Badshah Bahadur
+reported in
+               10 CLJ 420: 13 CWN 1197
+ii)      Mani Lal Guzrati v. Harendra Lal Roy reported in (1910)
+               12 CLJ 556
+iii)     Scarf v. Jardine reported in 1882 (7) AC 345
+30
+iv)    Jai Singh v. Union of India and Ors.
+reported in 1977 (1)
+             SCC 1
+v)     Delhi Gate Auto Service Station and Anr. v. Bharat
+             Petroleum Corportation Ltd., Agra and Ors.
+reported in
+             2009(16) SCC 766
+vi)    Mumbai International Airport vs M/S Golden Chariot
+             Airport & Anr
+reported in 2010 (10) SCC 422
+vii)   Booz Allen Hamilton Inc. v. SBI Home Finance Ltd. and
+             Ors.
+reported in 2011 (5) SCC 532
+
+
+
+      It is submitted that if both the arbitration as well as the suit are
+
+allowed to proceed, there is every likelihood of a conflict of decisions.
+Moreover, in view of the allegations or fraud in the plaint the disputes are
+
+not referable to arbitration. On such considerations, Mr. Kapoor has
+
+prayed for dismissal of the petition.
+In reply, Mr. Mitra has submitted that although it is argued that
+
+there has been novation of arbitration agreement by the MoU dated
+
+28.10.2016, this case has not been made out in and is really contrary to
+
+the   affidavit-in-opposition   of   the     respondent.   In   the   affidavit-in-
+
+opposition, specific case has been made out that the said MoU is an
+
+independent agreement. Therefore, no case of arbitration agreement
+
+being novated by the independent MOU can be considered.
+After amendment of the
+Arbitration and Conciliation Act, 1996
+made with effect from 24th October, 2015, sub-
+section 6(A)
+has been
+
+incorporated into
+Section 11
+. Under this sub-
+section 6(A)
+, the court is to
+31
+confine its consideration only to existence of the arbitration agreement as
+laid down by
+the Hon'ble Supreme Court in the case reported in
+Duro
+
+Felguera
+(supra). The existence of the arbitration agreement is not
+
+disputed in this case. Therefore, reference should be made without
+
+further consideration.
+Mr. Mitra strenuously argued that question of
+
+ultra vires in this case should not be allowed to be raised in view of clear
+
+judgment of Hon'ble Supreme Court on sub-
+section 6(A)
+in
+Duro
+
+Felguera
+(supra).     There are two separate judgments by two learned
+
+Judges but both the learned Judges have concurred and have clearly laid
+
+down the law after introduction of sub-
+section 6(A)
+.      Both the learned
+
+Judges have held that after
+Section 11 (6A)
+being introduced, the court is
+
+only to see the existence of the arbitration agreement and if the
+
+arbitration agreement exists, matter is to be referred to arbitration. Thus
+
+it is implicit in the judgment of the Hon'ble Supreme Court that sub-
+
+section (6A) is valid and intra vires. Therefore, the question of validity of
+
+sub-section (6A) cannot be raised before High Court.
+In this context,
+
+reliance is placed upon
+Ballabhadas Mathurdas Lakhani and Ors. v.
+
+Municipal Committee, MalKapoor
+reported in (1970) 2 SCC 267: AIR
+
+1970 SC 1002.
+The argument that the law as
+laid down by
+the Hon'ble Supreme
+
+Court in judgment reported in
+Duro Felguera
+(supra) regarding sub-
+
+section (6A) is merely obiter dicta, is without any merit and should not be
+
+entertained at all.
+32
+Firstly, it is not obiter. The Supreme Court very clearly considered
+
+sub-section (6A) and gave its interpretation of this sub-section and then
+
+both the learned Judges have laid down the law that in considering an
+
+application under
+Section 11
+- only existence of arbitration agreement is
+
+to be seen. It is the ratio decidendi. Mr. Mitra has referred to paragraphs
+
+18, 48 and 56 of the report in support of his submission. Secondly, in
+
+any event, obiter dicta of Supreme Court judgment is binding on High
+
+Courts. The learned Senior Counsel in this regard has relied upon
+Palitana Sugar Mills (P) Ltd. and Anr. v. State of Gujarat and Ors.
+reported in (2004) 12 SCC 645 (paragraph 62) and submits that in
+the
+
+said decision
+the Supreme Court has laid down that if High Court
+
+ignores an observation of Supreme Court on the ground that it is obiter,
+
+that will amount to contempt of Supreme Court. Thirdly, it is not obiter
+
+because   interpretation   of   sub-section   (6A)   was   necessary    for
+
+determination of scope and ambit of the application under
+Section 11
+of
+
+the Arbitration and Conciliation Act which was being considered by the
+
+Hon'ble Supreme Court.      It was necessary for the Supreme Court to
+
+consider the effect of this sub-section (6A) which Supreme Court has
+
+done after considering and referring to two previous judgments on
+Section 11
+of the Arbitration and Conciliation Act delivered prior to the
+
+amendment of 2015.
+After considering the decisions in
+S.B.P. & Co vs
+
+Patel Engineering Ltd. & Anr.
+reported in (
+2005) 8 SCC 618 and
+
+National Insurance Co. Ltd. v. Boghara Polyfab (P) Ltd.
+reported in
+33
+(2009) 1 SCC 267      the Supreme Court
+laid down in
+Duro Felguera
+(supra) that the position of law as
+laid down in
+SBP and Co. (supra) and
+Boghara Polyfab
+(supra) continued till the amendment was brought
+
+about in 2015 and "after amendment the court needs to see whether an
+
+arbitration agreement exists - nothing more, nothing less. The legislative
+
+policy and purpose is essentially to limit the court's intervention at the
+
+stage of appointment of arbitrator and this intention is incorporated in
+
+sub-section (6A) ought to be respected".
+The Supreme Court has explained that the legislative
+
+amendment of the 1996 Act by the Act of 2015 is essentially to minimize
+
+court's intervention at the stage of appointing arbitrator, and this
+
+intention ought to be respected. The decision in SBP and Co. (supra)
+
+and
+Boghara Polyfab
+(supra) case have not at all been overruled. The
+
+ratio of those two judgments will continue to govern the applications
+
+made under
+Section 11
+of the Arbitration and Conciliation Act until 24th
+
+October, 2015 when the Amendment Act came into effect.                The
+
+Amendment Act of 2015 has changed the basis of law and has laid down
+
+that consideration of applications under
+Section 11
+of the Arbitration
+
+and Conciliation Act should be made only by considering the question of
+
+existence of the arbitration agreement. This is to minimize the court's
+
+interference at the stage of initiation of arbitration proceedings under
+Section 11
+of the Arbitration and Conciliation Act.
+34
+The judgments referred to by the respondent all lay down the
+
+proposition that it is settled law that "legislature is incompetent to
+
+overrule a decision of a court without properly removing the base on
+
+which the judgment is founded." But in this case, the basis of law has
+
+been changed not retrospectively but prospectively with effect from the
+
+date of commencement of the Amendment Act namely 24th October,
+
+2015. The Supreme Court has explained in
+Duro Felguera
+(supra) that
+
+the view of the decisions in SBP and Co. (supra) and
+Boghara Polyfab
+(supra) is continued till the amendment brought about in 2015 and after
+
+the amendment, all that the court needs to see is whether an arbitration
+
+agreement exists, nothing more nothing less. The legislature has not at
+
+all overruled any of the said earlier judgments but only amended the
+
+basis of law for consideration of applications under
+Section 11
+of the
+
+Arbitration and Conciliation Act.
+It is to be borne in mind that this Amendment Act 3 of 2016 which
+
+replaced the ordinance is an amendment of a piece of legislation. It is
+
+not a validating Act. This Amendment Act does not seek to validate any
+
+act or decision enacted or delivered prior to 24th October, 2015 in a
+
+manner inconsistent with the earlier judgments reported in SBP and Co.
+
+(supra) and
+Boghara Polyfab
+(supra). A number of judgments referred
+
+to by the respondent referring to Validating Acts have no relevance. In
+
+fact, the judgments cited by the respondent will support the proposition
+
+that the legislature by way of amendment has taken away the base of law
+35
+as
+laid down by
+the previous judgments. It is most important to note that
+
+this Amendment Act is prospective i.e. effective from the date of the
+
+ordinance and not retrospective at all.
+The judgments on the proposition that obiter dicta are not binding
+
+does not deal with the question as to whether obiter of Supreme Court is
+
+binding on High Courts. All these judgments merely deal with a situation
+
+when the Supreme Court was considering the previous judgments of the
+
+Supreme Court and whether those observations are obiter or not. In the
+
+instant case, that question does not arise.      It is submitted that in
+
+paragraph 62 of
+Palitana Sugar Mills
+(supra), the Supreme Court has
+
+clearly held that a High Court cannot ignore even an obiter dicta of the
+
+Supreme Court. If law is
+laid down by
+Supreme Court by way of obiter
+
+dicta, it will be binding on the High Court.
+The decision of the Supreme
+
+Court in
+Duro Felguera
+(supra) is cannot be said to be an obiter. It is
+
+ratio decidendi.
+It is further submitted by the petitioner that the reference made to
+
+the judgment in
+Sukanya Holdings
+(supra) is unnecessary as it is a
+
+case under
+Section 8
+of the Arbitration and Conciliation Act. Arguments
+
+made by the respondent regarding
+Section 8
+of the Arbitration and
+
+Conciliation Act, which is wholly unnecessary and it is contended that
+
+this will only confuse the issue. A separate application under
+Section 8
+of
+
+the Arbitration and Conciliation Act is pending for hearing. In the instant
+
+application under
+Section 11
+of the Arbitration and Conciliation Act, no
+36
+prayer has at all been made for reference of CS No. 2 of 2017 or any suit
+
+to arbitration. It is submitted that there is a clear distinction between
+Section 8
+and
+11
+of the Arbitration and Conciliation Act and any attempt
+
+to confuse the issue should be avoided.
+The question of an appointment of an arbitrator under sub-section
+
+6A of
+Section 11
+of the Act needs to be considered on the basis of the
+
+objections raised by Mr. Kapoor. The said Section is a departure from the
+
+earlier Section relating to appointment of arbitrators. In fact, a
+
+substantial part of
+Section 11
+was amended by insertion of various sub-
+
+sections including sub-section (6A) by the
+Arbitration and Conciliation
+
+Amendment Act, 2015
+with effect from 23rd October, 2015. The amended
+
+Section reads:-
+"
+S.11(6A)
+- The Supreme Court or, as the case may be, the High
+
+      Court, while considering any application under sub-section (4) or
+
+      sub-section (5) or sub-section (6), shall, notwithstanding any
+
+      judgment, decree or order of any Court, confine to the examination of
+
+      the existence of an arbitration agreement."
+There have been significant changes brought about to the Act by
+
+the
+Arbitration and Conciliation (Amendment) Act, 2015
+with effect from
+
+23rd October, 2015. The object of the amendment is to ensure minimum
+
+intervention of the court in arbitration proceedings. The experience in the
+
+past showed that considerable time was consumed in court before
+
+commencement of arbitration proceedings under the unamended Act,
+37
+although the said Act was enacted for speedy disposal of arbitration
+
+matters with least intervention of the court. In order to reassure and
+
+reaffirm that the party must respect, be bound by and adhere to the
+
+agreement by which they have agreed to resolve their dispute by
+
+arbitration with least intervention by court, significant changes have
+
+been introduced in the Act.
+The Statement of Objects and Reasons enumerated under the
+
+Arbitration and Conciliation (Amendment) Bill, 2015 is reproduced
+
+herein below:-
+"STATEMENT OF OBJECTS AND REASONS
+      The general law relating to arbitration is contained in the
+Arbitration
+      and Conciliation Act, 1996
+(hereinafter referred to as the Act).
+The
+      Act
+, which is based on the UNCITRAL Model Law on International
+      Commercial Arbitration, as adopted in 1985 by the United Nations
+      Commission on International Trade Law (UNCITRAL), applies to both
+      international as well to domestic arbitration.
+2.
+The Act
+was enacted to provide for speedy disposal of cases
+      relating to arbitration with least court intervention. With the passage
+      of time, some difficulties in the applicability of the Act have been
+      noticed. Interpretation of the provisions of the Act by courts in some
+      cases have resulted in delay of disposal of arbitration proceedings
+      and increase in interference of courts in arbitration matters, which
+      tend to defeat the object of the Act. With a view to overcome the
+      difficulties, the matter was referred to the Law Commission of India,
+      which examined the issue in detail and submitted its 176th Report.
+      On the basis of the said report, the Arbitration and Conciliation
+      (Amendment) Bill, 2003 was introduced in the Rajya Sabha on 22nd
+      December, 2003. The said Bill was referred to the Department-
+38
+related Parliamentary Standing Committee on Personnel, Public
+Grievances, Law and Justice for examination and Report. The said
+Committee, submitted its Report to the Parliament on 4th August,
+2005, wherein the Committee recommended that since many
+provisions of the said Bill were contentious, the Bill may be
+withdrawn and a fresh legislation may be brought after considering
+its recommendations. Accordingly, the said Bill was withdrawn from
+the Rajya Sabha.
+3. On a reference made again in pursuance of the above, the Law
+Commission    examined     and        submitted   its   246th   Report   on
+"
+Amendments to the Arbitration and Conciliation Act, 1996
+" in
+August, 2014 and recommended various amendments in the Act.
+The proposed amendments to the Act would facilitate and encourage
+Alternative Dispute Mechanism, especially arbitration, for settlement
+of disputes in a more user-friendly, cost effective and expeditious
+disposal of cases since India is committed to improve its legal
+framework to obviate in disposal of cases.
+4. As India has been ranked at 178 out of 189 nations in the world
+in contract enforcement, it is high time that urgent steps are taken to
+facilitate quick enforcement of contracts, easy recovery of monetary
+claims and award of just compensation for damages suffered and
+reduce the pendency of cases in courts and hasten the process of
+dispute resolution through arbitration, so as to encourage investment
+and economic activity.
+5. As Parliament was not in session and immediate steps were
+required to be taken to make necessary amendments to the
+Arbitration and Conciliation Act, 1996
+to attract foreign investment
+by projecting India as an investor friendly country having a sound
+legal framework, the President was pleased to promulgate the
+Arbitration and Conciliation (Amendment) Ordinance, 2015.
+39
+6. It is proposed to introduce the Arbitration and Conciliation
+      (Amendment) Bill, 2015, to replace the Arbitration and Conciliation
+      (Amendment) Ordinance, 2015, which inter alia, provides for the
+      following, namely:--
+xxx xxx xxx
+(iv) to provide that while considering any application for appointment
+      of arbitrator, the High Court or the Supreme Court shall examine the
+      existence of a prima facie arbitration agreement and not other
+      issues;
+xxx xxx xxx
+7. The amendments proposed in the Bill will ensure that arbitration
+      process becomes more user-friendly, cost effective and lead to
+      expeditious disposal of cases.......
+8. The Bill seeks to replace the aforesaid Ordinance."
+      NOTES ON CLAUSES
+      xxx xxx xxx
+      Clause 4 of the Bill seeks to amend
+section 8
+of the principal Act to
+
+specify that the judicial authority shall refer the parties to arbitration
+
+unless it finds that prima facie no valid arbitration agreement exits. A
+
+proviso below sub-section (2) is inserted to provide that where the original
+
+arbitration agreement or certified copy thereof is not available with the
+
+party who apply under sub-section (1), and is retained by the other party,
+
+such party shall file a copy of the arbitration agreement along with
+
+application under sub-section (1) praying the Court to call upon the other
+
+party to produce the original arbitration agreement or its duly certified
+
+copy before the Court." (emphasis supplied)
+40
+Prior to the amendment of
+Section 11
+of the Act by which
+Section
+
+11(6A)
+was inserted, two decisions of the Hon'ble Supreme Court were
+
+ruling the field. The first decision is SBP and Co. (supra) and the second
+
+decision in
+Boghara Polyfab
+(supra).
+In SBP & Co. (supra) under the unamended provision, a seven-
+
+Judge Constitution Bench has laid down the considerations for
+
+appointment of an arbitrator      by the Chief Justice or designate in
+
+paragraphs 37, 39 and 47 which state:-
+"37.   .......    There   have   been   cases   where   claims   for
+      appointment of an arbitrator based on an arbitration agreement are
+      made ten or twenty years after the period of the contract has come
+      to an end. There have been cases where the appointment of an
+      arbitrator has been sought, after the parties had settled the
+      accounts and the concerned party had certified that he had no
+      further claims against the other contracting party. In other words,
+      there have been occasions when dead claims are sought to be
+      resurrected. There have been cases where assertions are made of
+      the existence of arbitration agreements when, in fact, such existence
+      is strongly disputed by the other side who appears on issuance of
+      notice. Controversies are also raised as to whether the claim that is
+      sought to be put forward comes within the purview of the concerned
+      arbitration clause at all. The Chief Justice has necessarily to apply
+      his mind to these aspects before coming to a conclusion one way or
+      the other and before proceeding to appoint an arbitrator or declining
+      to appoint an arbitrator.
+39. It is necessary to define what exactly the Chief Justice,
+      approached with an application under
+Section 11
+of the Act, is to
+      decide at that stage. Obviously, he has to decide his own jurisdiction
+41
+in the sense, whether the party making the motion has approached
+      the right High Court. He has to decide whether there is an
+      arbitration agreement, as defined in the Act and whether the person
+      who has made the request before him, is a party to such an
+      agreement. It is necessary to indicate that he can also decide the
+      question whether the claim was a dead one; or a long barred claim
+      that was sought to be resurrected and whether the parties have
+      concluded the transaction by recording satisfaction of their mutual
+      rights and obligations or by receiving the final payment without
+      objection. It may not be possible at that stage, to decide whether a
+      live claim made, is one which comes within the purview of the
+      arbitration clause. It will be appropriate to leave that question to be
+      decided by the arbitral tribunal on taking evidence, along with the
+      merits of the claims involved in the arbitration.
+47. (iv) The Chief Justice or the designated judge will have the
+      right to decide the preliminary aspects as indicated in the earlier
+      part of this judgment. These will be, his own jurisdiction, to entertain
+      the request, the existence of a valid arbitration agreement, the
+      existence or otherwise of a live claim, the existence of the condition
+      for the exercise of his power and on the qualifications of the
+      arbitrator or arbitrators."
+The judgment in SBP & Co. (supra) was later on considered in
+Boghara Polyfab
+(supra) where the Supreme Court formulated the
+
+following three categories of adjudication:-
+"The issues (first category) which Chief Justice/his designate
+            will have to decide are:
+(a) Whether the party making the application has
+                   approached the appropriate High Court.
+42
+(b) Whether there is an arbitration agreement and
+                    whether the party who has applied under
+Section 11
+of
+                    the Act, is a party to such an agreement.
+The issues (second category) which the Chief Justice/his
+            designate may choose to decide (or leave them to the decision
+            of the arbitral tribunal) are:
+(a) Whether the claim is a dead (long barred) claim or a
+                    live claim.
+(b) Whether the parties have concluded the contract/
+                    transaction by recording satisfaction of their mutual
+                    rights and obligation or by receiving the final payment
+                    without objection.
+The issues (third category) which the Chief Justice/his
+            designate should leave exclusively to the arbitral tribunal are:
+(i) Whether a claim made falls within the arbitration
+                    clause (as for example, a matter which is reserved for
+                    final decision of a departmental authority and excepted
+                    or excluded from arbitration).
+(ii) Merits or any claim involved in the arbitration."
+In a fairly recent decision of the Hon'ble Supreme Court in
+Duro
+
+Felguera
+(supra), it was observed that the position of law as
+laid down in
+SBP & Co. (supra) and
+Boghara Polyfab
+(supra) shall continue till the
+
+amendment was brought about in 2015 and "after the amendment, all
+
+that the courts need to see is whether an arbitration agreement exists -
+
+nothing more, nothing less. The legislative policy and purpose is
+
+essentially to minimize the Court's intervention at the stage of appointing
+
+the arbitrator and this intention as incorporated in
+Section 11
+(6-A) ought
+
+to be respected".
+43
+The scope and extent of the power of the High Court and the
+
+Supreme Court under
+section 11(6)
+and
+11
+(6-
+A) of the Act
+has been
+
+discussed in
+Duro Felgura
+(supra) upon taking into consideration the
+
+Statement of Objects and Reasons of the Amendment Bill of 2015.
+On a plain reading of the said Section it appears that in
+
+considering any application for appointment of an arbitrator under sub-
+section 4
+or 5 or sub-
+section 6
+of
+Section 11
+, the High Court shall
+
+notwithstanding any judgment, decree or order of any Court confine its
+
+examination to the existence of an arbitration agreement.      The said
+
+Section completely excludes the examination by a Court of any judgment,
+
+decree or order of any Court between the parties and the only scope of
+
+enquiry is to find out if there is existence of an arbitration agreement.
+
+Mr. Kapoor during his argument has relied upon a three-Bench
+
+judgment of the Hon'ble Supreme Court in
+United India Insurance Co.
+
+Ltd. Vs. Hyundai Engineering and Construction Co. Ltd.
+reported in
+
+2018 SCC Online SC 1045 where in Paragraph 12 of
+the said decision
+while making a reference to
+Duro Felguera
+(supra), the Hon'ble Supreme
+
+Court has stated that the exposition of
+the said decision
+is a general
+
+observation about the effect of the amended provision and not specific to
+
+the issue under consideration.
+The said decision, in my view, does not in
+
+any manner assist the respondent as it was noticed that a similar clause
+
+in the insurance policy came up for consideration before a three-Judge
+
+Bench of the Supreme Court in
+Oriented Insurance Co. Ltd. v.
+44
+Narbheram Power and Steel Private Ltd.
+reported in (2018) 6 SCC
+
+943 following the exposition in Vulcan Insurance Co. Ltd. v. Maharaja
+
+Singh reported in (1976) 1 SCC 943 which again is a three-Judge
+
+Bench decision, having construed clause similar to the said clause of the
+
+insurance policy held that there can be no arbitration in cases where the
+
+insurance company disputes or does not accept liability under or in
+
+respect of the policy which, however, is not the case here. In the said
+
+decision, the arbitration clause which is Clause 7, inter alia, clearly
+
+stipulated that no difference or dispute shall be referable to the
+
+arbitration if the company has disputed or not accepted liability under or
+
+in respect of the policy. On the face of it, there is a clear bar to refer any
+
+dispute if the insurance company has disputed or not accepted the
+
+liability.
+The decision in
+United India Insurance Co.
+(supra) does not
+
+apply in the present scenario since the arbitration clause in the said case
+
+was a conditional clause, which would not apply if the insurance
+
+company disputed or did not accept the liability, whereas in the present
+
+scenario, the arbitration clause is absolute and all disputes under it is
+
+required to be referred to arbitration.
+Seen in this light, the arbitration
+
+clause in the present case is similar to the clause in
+Duro Felguera
+(supra) which also contained a clause that was absolute, and therefore
+
+this Court ought to follow the guideline
+laid down in
+the concurring
+
+opinions in
+Duro Felguera
+(supra) that the Court ought to limit its
+
+examination to the existence of an arbitration agreement.
+45
+In the instant case, the defence that by reason of MoU dated 28th
+
+October, 2016, the disputes between Lindsay and IFGL was settled and
+
+any dispute arising out of the MoU needs to be decided in the suit and
+
+not by arbitration as the MoU does not contain any arbitration clause is
+
+not a matter to be gone into or required to be decided at this stage having
+
+regard to a clear and specific direction in the Section itself that the Court
+
+shall confine its examination as to the existence of an arbitration
+
+agreement. It cannot be said that the dispute is ex facie not referable to
+
+arbitration as there is no such clause similar to
+United Insurance
+
+Company Ltd.
+(supra).
+In
+Duro Felguera
+(supra), in two concurring
+
+judgments, the Hon'ble Judges have discussed the scope, ambit and
+
+width of
+Section 11(6A)
+. Justice Banumathi has noticed the changes
+
+brought about by the
+Arbitration and Conciliation Amendment Act, 2015
+in Paragraphs 18 to 20. In paragraph 18 of the report, it is inter alia
+
+stated - "Now as far as sub-section (6-A) of
+section 11
+, the power of the
+
+court has now been restricted only to see whether there exists an
+
+arbitration agreement". In paragraph 19 of the report, the Hon'ble
+
+Supreme Court has agreed with the view of as expressed the textbook
+
+"Law Relating to Arbitration and Conciliation" by Dr. P.C. Markanda,
+
+which inter alia reads:
+"The changes made by the
+Amending Act
+are as follows:
+1. The words 'Chief Justice or any person or institution designated
+      by him' shall be substituted by the words 'the Supreme Court or, as
+      the case may be, the High Court or any person or institution
+46
+designated by such Court'. Thus, now it is not only the Chief Justice
+      who can hear applications under
+Section 11
+, the power can be
+      delegated to any judge as well.
+2. As per sub-section (6-A), the power of the Court has now been
+      restricted only to examination of the existence of an arbitration
+      agreement. Earlier, the Chief Justice had been given the power to
+      examine other aspects as well, i.e. limitation, whether the claims
+      were referable for arbitration etc. in terms of the judgments of the
+      Supreme Court in SBP and Co. v. Patel Engineering Ltd., (2005) 8
+      SCC 618; and
+National Insurance Co. Ltd. V. Boghara Polyfab Pvt
+.
+Ltd., (2009) 1 SCC 267. Now all preliminary issues have been left for
+      the arbitral tribunal to decide in terms of
+Section 16
+of the Act."
+      (emphasis supplied)
+
+
+      In paragraph 20 of the report, it is reiterated that "since the dispute
+
+between the parties arose in 2016, the amended provision of sub-section
+
+(6-A) of
+Section 11
+shall govern the issue, as per which the power of the
+
+Court is confined only to examine the existence of the arbitration
+
+agreement". (emphasis supplied)
+
+      In
+the said judgment
+, it is stated that all preliminary issues
+
+including the plea of limitation have been left for the arbitral tribunal to
+
+decide in terms of
+Section 16
+of the Act has been approved.             In a
+
+concurring judgment, Justice Kurian Joseph has clearly stated that from
+
+a reading of
+Section 11
+(6-A), the intention of the legislature is crystal
+
+clear i.e. the court should and need only look into one aspect - the
+
+existence of an arbitration agreement. What are the factors for deciding
+
+as to whether there is an arbitration agreement is the next question. The
+47
+resolution to that is simple - it needs to be seen if the agreement
+
+contains a clause which provides for arbitration pertaining to the
+
+disputes which have arisen between the parties to the agreement.
+In Paragraph 56 onwards, the cases of
+Section 11
+(6-A) of the 1996
+
+Act was discussed in which it is stated:-
+"56.   Having said that, this being one of the first cases on
+Section
+      11(6A)
+of the 1996 Act before this Court, I feel it appropriate to
+      briefly outline the scope and extent of the power of the High Court
+      and the Supreme Court under
+Sections 11(6)
+and
+11(6A)
+.
+57.    This Court in
+S.B.P & Co v. Patel Engineering Ltd and Another
+reported in (2005) 8 SCC 618 overruled
+Konkan Railway Corpn. Ltd.
+      and others v. Mehul Construction Co.
+; (2000) 7 SCC 201 and
+      Konkan Railway Corpn. Ltd. & another. v. Rani Construction Pvt.
+      Ltd.; (2002) 2 SCC 388 to hold that the power to appoint an
+      arbitrator under
+Section 11
+is a judicial power and not a mere
+      administrative   function.   The    conclusion   in   the   decision   as
+      summarized by Balasubramanyan, J. speaking for the majority
+      reads as follows:
+"47. We, therefore, sum up our conclusions as follows:
+(i) The power exercised by the Chief Justice of the High
+                   Court or the Chief Justice of India under
+Section 11(6)
+of
+                   the Act is not an administrative power. It is a judicial
+                   power.
+(ii) The power under
+Section 11(6)
+of the Act, in its
+                   entirety, could be delegated, by the Chief Justice of the
+                   High Court only to another Judge of that Court and by
+                   the Chief Justice of India to another Judge of the
+                   Supreme Court.
+48
+(iii) In case of designation of a Judge of the High Court
+or of the Supreme Court, the power that is exercised by
+the designated Judge would be that of the Chief Justice
+as conferred by the statute.
+(iv) The Chief Justice or the designated Judge will have
+the right to decide the preliminary aspects as indicated
+in the earlier part of this judgment. These will be his
+own jurisdiction to entertain the request, the existence
+of a valid arbitration agreement, the existence or
+otherwise of a live claim, the existence of the condition
+for the exercise of his power and on the qualifications of
+the arbitrator or arbitrators. The Chief Justice or the
+designated Judge would be entitled to seek the opinion
+of an institution in the matter of nominating an
+arbitrator qualified in terms of
+Section 11(8)
+of the Act if
+the need arises but the order appointing the arbitrator
+could only be that of the Chief Justice or the designated
+Judge.
+(v) Designation of a District Judge as the authority
+under
+Section 11(6)
+of the Act by the Chief Justice of the
+High Court is not warranted on the scheme of the Act.
+(vi) Once the matter reaches the Arbitral Tribunal or the
+sole arbitrator, the High Court would not interfere with
+the orders passed by the arbitrator or the Arbitral
+Tribunal   during        the   course   of   the   arbitration
+proceedings and the parties could approach the Court
+only in terms of
+Section 37
+of the Act or in terms
+of
+Section 34
+of the Act.
+(vii) Since an order passed by the Chief Justice of the
+High Court or by the designated Judge of that Court is a
+judicial order, an appeal will lie against that order only
+49
+under
+Article 136
+of the Constitution to the Supreme
+Court.
+(viii) There can be no appeal against an order of the
+Chief Justice of India or a Judge of the Supreme Court
+designated by him while entertaining an application
+under
+Section 11(6)
+of the Act.
+(ix) In a case where an Arbitral Tribunal has been
+constituted by the parties without having recourse
+to
+Section 11(6)
+of the Act, the Arbitral Tribunal will
+have     the   jurisdiction   to   decide   all   matters   as
+contemplated by
+Section 16
+of the Act.
+(x) Since all were guided by the decision of this Court in
+Konkan Rly.
+Corpn. Ltd. v. Rani Construction (P) Ltd
+.
+and orders under
+Section 11(6)
+of the Act have been
+made based on the position adopted in that decision,
+we clarify that appointments of arbitrators or Arbitral
+Tribunals thus far made, are to be treated as valid, all
+objections being left to be decided under
+Section 16
+of
+the Act. As and from this date, the position as adopted
+in this judgment will govern even pending applications
+under
+Section 11(6)
+of the Act.
+(xi) Where District Judges had been designated by the
+Chief Justice of the High Court under
+Section 11(6)
+of
+the Act, the appointment orders thus far made by them
+will be treated as valid; but applications if any pending
+before them as on this date will stand transferred, to be
+dealt with by the Chief Justice of the High Court
+concerned or a Judge of that Court designated by the
+Chief Justice.
+(xii) The decision in Konkan Rly.
+Corpn. Ltd. v. Rani
+Construction (P) Ltd
+is overruled." (Emphasis Supplied)
+50
+58. This position was further clarified in
+National Insurance
+Company Limited v. Boghara Polyfab Private Limited
+; (2009) 1
+SCC 267. To quote:
+"22. Where the intervention of the court is sought
+      for appointment of an Arbitral Tribunal under
+Section
+      11
+, the duty of the Chief Justice or his designate is
+      defined in SBP & Co. This Court identified and
+      segregated the preliminary issues that may arise for
+      consideration in an application under
+Section 11
+of the
+      Act into three categories, that is, (i) issues which the
+      Chief Justice or his designate is bound to decide; (ii)
+      issues which he can also decide, that is, issues which
+      he may choose to decide; and (iii) issues which should
+      be left to the Arbitral Tribunal to decide.
+22.1. The issues (first category) which the Chief
+      Justice/his designate will have to decide are:
+(a) Whether the party making the application has
+      approached the appropriate High Court.
+(b) Whether there is an arbitration agreement and
+      whether the party who has applied under
+Section 11of
+the Act, is a party to such an agreement.
+22.2. The issues (second category) which the Chief
+Justice/his designate may choose to decide (or leave them to
+the decision of the Arbitral Tribunal) are:
+(a) Whether the claim is a dead (long-barred)
+      claim or a live claim.
+(b) Whether the parties have concluded the
+      contract/transaction by recording satisfaction of their
+      mutual rights and obligation or by receiving the final
+      payment without objection.
+51
+22.3. The issues (third category) which the Chief
+            Justice/his designate should leave exclusively to the Arbitral
+            Tribunal are:
+(i) Whether a claim made falls within the
+                   arbitration clause (as for example, a matter which is
+                   reserved for final decision of a departmental authority
+                   and excepted or excluded from arbitration).
+(ii) Merits or any claim involved in the arbitration."
+59.The scope of the power under
+Section 11 (6)
+of the 1996 Act
+      was considerably wide in view of the decisions in SBP and Co.
+      (supra) and
+Boghara Polyfab
+(supra). This position continued till the
+      amendment brought about in 2015. After the amendment, all that
+      the Courts need to see is whether an arbitration agreement exists -
+      nothing more, nothing less. The legislative policy and purpose is
+      essentially to minimize the Court's intervention at the stage of
+      appointing   the   arbitrator   and   this intention   as incorporated
+      in
+Section 11 (6A)
+ought to be respected."
+The views of the Judges are quite clear that the Court needs to see
+
+whether an arbitration agreement exists. Whether there has been any
+
+novation to the original contract, it is a matter for the arbitrator to decide
+
+in the said proceeding.
+In this context, it is apposite to refer to the
+
+decision of the Hon'ble Supreme Court in
+Chloro Controls India (P) Ltd.
+
+v. Severn Trent Water Purification Inc.
+reported in (2013) 1 SCC 641,
+
+which although was rendered in relation with
+section 45
+of the
+
+unamended Act, considered the jurisdiction of the Court in relation to a
+
+dispute in paragraphs 83-85, which read:-
+52
+"83. Where the Court which, on its judicial side, is seized of an
+action in a matter in respect of which the parties have made an
+arbitration agreement, once the required ingredients are satisfied, it
+would refer the parties to arbitration but for the situation where it
+comes to the conclusion that the agreement is null and void,
+inoperative or incapable of being performed. These expressions have
+to be construed somewhat strictly so as to ensure that the Court
+returns a finding with certainty and on the correct premise of law
+and fact as it has the effect of depriving the party of its right of
+reference to arbitration. But once the Court finds that the agreement
+is valid then it must make the reference, without any further
+exercise of discretion {refer
+General Electric Co. v. Renusagar Power
+Co.
+[(1987) 4 SCC 137]}. These are the issues which go to the root of
+the matter and their determination at the threshold would prevent
+multiplicity of litigation and would even prevent futile exercise of
+proceedings before the arbitral tribunal.
+84. The issue of whether the courts are empowered to review the
+existence and validity of the arbitration agreement prior to reference
+is more controversial. A majority of the countries admit to the
+positive effect of kompetenz kompetenz principle, which requires that
+the arbitral tribunal must exercise jurisdiction over the dispute under
+the arbitration agreement. Thus, challenge to the existence or
+validity of the arbitration agreement will not prevent the arbitral
+tribunal from proceeding      with   hearing   and ruling upon its
+jurisdiction. If it retains jurisdiction, making of an award on the
+substance of the dispute would be permissible without waiting for
+the outcome of any court action aimed at deciding the issue of the
+jurisdiction. The negative effect of the kompetenz kompetenz
+principle is that arbitrators are entitled to be the first to determine
+their jurisdiction which is later reviewable by the court, when there
+is action to enforce or set aside the arbitral award. Where the
+53
+dispute is not before an arbitral tribunal, the Court must also decline
+     jurisdiction unless the arbitration agreement is patently void,
+     inoperative or incapable of being performed.
+85. This is the position of law in France and in some other countries,
+     but as far as the Indian Law is concerned,
+Section 45
+is a legislative
+     mandate and does not admit of any ambiguity. We must take note of
+     the aspect of Indian law that Chapter I of Part II of the 1996 Act
+     does not contain any provision analogous to
+Section 8(3)
+under
+Part I
+     of the Act
+. In other words, under the Indian Law, greater obligation
+     is cast upon the Courts to determine whether the agreement is valid,
+     operative and capable of being performed at the threshold itself.
+     Such challenge has to be a serious challenge to the substantive
+     contract or to the agreement, as in the absence of such challenge, it
+     has to be found that the agreement was valid, operative and
+     capable of being performed; the dispute would be referred to
+     arbitration. [
+State of Orissa v. Klockner and Company & Ors.
+(AIR
+     1996 SC 2140)]."
+The scheme of the
+Arbitration Act, 1940
+and the 1996 Act before
+
+the recent amendment has been considered in
+Kalpana Kothary v.
+
+Sudha Yadav
+reported at (2002) 1 SCC 203, where it is observed -
+" 8........ In striking contrast to the said scheme underlying the
+     provisions of the 1940 Act, in the new 1996 Act, there is no provision
+     corresponding to
+Section 34
+of the old Act and
+Section 8
+of the Act
+     mandates that the Judicial Authority before which an action has
+     been brought in respect of a matter, which is the subject-matter of an
+     arbitration agreement, shall refer the parties to arbitration if a party
+     to such an agreement applies not later than when submitting his
+     first statement. The provisions of the Act do not envisage the specific
+54
+obtaining of any stay as under the 1940 Act, for the reason that not
+      only the direction to make reference is mandatory but not
+      withstanding the pendency of the proceedings before the Judicial
+      Authority or the making of an application under
+Section 8 (1)
+of the
+      Act, the arbitration proceedings are enabled, under
+Section 8 (3)
+of
+      the Act to be commenced or continued and an arbitral award also
+      made unhampered by such pendency. We have to test the order
+      under appeal on this basis." (emphasis supplied)
+
+
+
+      The unamended
+sections 8
+and
+11
+of the Act came up for
+
+consideration in
+Praveen Enterprises
+(supra). In paragraphs 13 and 39
+
+of the report, the distinction has been explained in the following words:
+"13. `Reference to arbitration' can be in respect of reference of
+      disputes between the parties to arbitration, or may simply mean
+      referring the parties to arbitration.
+Section 8
+of the Act is an example
+      of referring the parties to arbitration. While
+section 11
+contemplates
+      appointment of arbitrator [vide sub-sections (4), (5) and (9)] or taking
+      necessary measure as per the appointment procedure under the
+      arbitration agreement [vide sub-section (6)],
+section 8
+of the Act does
+      not provide for appointment of an arbitrator, nor referring of any
+      disputes to arbitration, but merely requires the judicial authority
+      before whom an action is brought in a matter in regard to which
+      there is an arbitration agreement, to refer the parties to arbitration.
+      When the judicial authority finds that the subject matter of the suit
+      is covered by a valid arbitration agreement between the parties to
+      the suit, it will refer the parties to arbitration, by refusing to decide
+      the action brought before it and leaving it to the parties to have
+      recourse to their remedies by arbitration. When such an order is
+      made, parties may either agree upon an arbitrator and refer their
+55
+disputes to him, or failing agreement, file an application under
+section 11
+of the Act for appointment of an arbitrator. The judicial
+authority `referring the parties to arbitration' under
+section 8
+of the
+Act, has no power to appoint an arbitrator. It may however record
+the consent of parties to appoint an agreed arbitrator.
+39. Reliance was placed upon certain observations in the decision of
+the House of Lords in Heyman v. Darwins Ltd.-- 1942 AC 356. We
+extract below the paragraph containing the relied upon observations:
+"The law permits the parties to a contract to include in it as
+      one of its terms an agreement to refer to arbitration disputes
+      which may arise in connection with it, and the court of
+      England enforce such a reference by staying legal proceedings
+      in respect of any matter agreed to be referred "if satisfied that
+      there is no sufficient reason why the matter should not be
+      referred in accordance with the submission." Arbitration Act,
+      1889,
+sec. 4
+. Where proceedings at law are instituted by one
+      of the parties to a contract containing an arbitration clause
+      and the other party, founding on the clause, applies for a stay,
+      the first thing to be ascertained is the precise nature of the
+      dispute which has arisen The next question is whether the
+      dispute is one which falls within the terms of the arbitration
+      clause. Then sometimes the question is raised whether the
+      arbitration clause is still effective or whether something has
+      happened to render it no longer operative. Finally, the nature
+      of the dispute being ascertained, it having been held to fall
+      within the terms of the arbitration clause, and the clause
+      having been found to be still effective, there remains for the
+      court the question whether there is any sufficient reason why
+      the   matter   in   dispute    should   not   be    referred   to
+      arbitration."(emphasis supplied)
+56
+40. The said observations were made while examining whether a
+      suit should be stayed at the instance of the defendant on the ground
+      that there was an arbitration agreement between the parties. If a
+      party to an arbitration agreement files a civil suit and the defendant
+      contends that the suit should be stayed and the parties should be
+      referred to arbitration, necessarily, the court will have to find out
+      what exactly is the subject matter of the suit, whether it would fall
+      within the scope of the arbitration clause, whether the arbitration
+      clause was valid and effective and lastly whether there was
+      sufficient reason as to why the subject matter of the suit should not
+      be referred to arbitration. The observations made in Heymen, in the
+      context of an application seeking stay of further proceedings in a
+      suit, are not relevant in respect of an application under
+section 11
+of
+      the Act. This Court has repeatedly held that the questions for
+      consideration in an application under
+section 8
+by a civil court in a
+      suit are different from the questions for consideration under
+section
+      11
+of the Act. The said decision is therefore of no assistance."
+Section 8(3)
+of the Act permits commencement or continuation of
+
+an arbitral proceeding notwithstanding pendency of any application
+
+under
+Section 8
+of the Act.
+Section 8(3)
+of the Act came up for
+
+consideration in
+Vijay Kumar Sharma vs. Raghunandan Sharma
+reported at (2010) 2 SCC 486, where it is observed -
+"It is evident from sub-section (3) of
+section 8
+that the pendency of
+
+      an application under
+section 8
+before any court will not come in the
+
+      way of an arbitration being commenced or continued and an arbitral
+
+      award being made. The obvious intention of this provision is that
+57
+neither the filing of any suit by any party to the arbitration
+
+      agreement nor any application being made by the other party
+
+      under
+section 8
+to the court, should obstruct or preclude a party from
+
+      initiating any proceedings for appointment of an arbitrator or
+
+      proceeding with the arbitration before the Arbitral Tribunal. Having
+
+      regard to the specific provision in
+section 8(3)
+providing that the
+
+      pendency of an application under
+section 8(1)
+will not come in the
+
+      way of an arbitration being commenced or continued, we are of the
+
+      view that an application under
+section 11
+or
+section 15(2)
+of the Act,
+
+      for appointment of an arbitrator, will not be barred by pendency of
+
+      an application under
+Section 8
+of the Act in any suit, nor will the
+
+      Designate of the Chief Justice be precluded from considering and
+
+      disposing of an application under
+Section 11
+or 15(2) of the
+
+      Act." (emphasis supplied)
+
+      Recently
+Section 8
+of the Act has undergone an amendment.
+Section 8(1)
+of the Act, after amendment reads:-
+"A judicial authority, before which an action is brought in a matter
+      which is the subject of an arbitration agreement shall, if a party to
+      the arbitration agreement or any person claiming through or under
+      him, so applies not later than the date of submitting his first
+      statement on the substance of the dispute, then, notwithstanding
+      any judgment, decree or order of the Supreme Court or any Court,
+      refer the parties to arbitration unless it finds that prima facie no
+      valid arbitration agreement exists."
+58
+The earlier
+Section 8(1)
+of the Act read:-
+"A judicial authority before which an action is brought in a matter
+      which is the subject of an arbitration agreement shall, if a party so
+      applies not later than when submitting his first statement on the
+      substance of the dispute, refer the parties to arbitration."
+The amended provision came up for consideration in
+Ameet
+
+Lalchand Shah and others vs. Rishabh Enterpirses and another
+reported in 2018 SCC Online SC 487.
+The decision in
+Sukanya
+
+Holding
+(supra) was considered in the light of the aforesaid amendment.
+
+On consideration of the amended
+Section 8
+of the Act, it was held:
+"29.   Principally   four   amendments       to
+Section   8(1)
+have   been
+      introduced by the 2015 Amendments - (i) the relevant "party" that is
+      entitled to apply seeking reference to arbitration has been
+      clarified/amplified to include persons claiming "through or under"
+such a party to the arbitration agreement; (ii) scope of examination
+      by the judicial authority is restricted to a finding whether "no valid
+      arbitration agreement exists" and the nature of examination by the
+      judicial authority is clarified to be on a "prima facie" basis; (iii) the
+      cut-off date by which an application under
+Section 8
+is to be
+      presented has been defined to mean "the date of" submitting the first
+      statement on the substance of the dispute; and (iv) the amendments
+      are expressed to apply notwithstanding any prior judicial precedent.
+      The proviso to
+Section 8(2)
+has been added to allow a party that
+      does not possess the original or certified copy of the arbitration
+      agreement on account of it being retained by the other party, to
+      nevertheless apply under
+Section 8
+seeking reference, and call upon
+59
+the other party to produce the same." (Ref: Justice R.S. Bachawat's
+Law of Arbitration and Conciliation, Sixth Edition, Vol. I (
+Sections
+1
+to
+34
+) at page 695 published by LexisNexis).
+30. Amendment to
+Section 8
+by the Act, 2015 are to be seen in the
+background of the recommendations set out in the 246 th Law
+Commission Report. In its 246th Report, Law Commission, while
+recommending the amendment to
+Section 8
+, made the following
+observation/comment:-
+"LC Comment: The words "such of the parties.... to the
+      arbitration agreement" and proviso (i) of the amendment have
+      been proposed in the context of the decision of the Supreme
+      Court in
+Sukanya Holdings Pvt. Ltd. v. Jayesh H. Pandya and
+      Anr.
+(2003) 5 SCC 531,- in cases where all the parties to the
+      dispute are not parties to the arbitration agreement, the
+      reference is to be rejected only where such parties are
+      necessary parties to the action - and not if they are only
+      proper parties, or are otherwise legal strangers to the action
+      and have been added only to circumvent the arbitration
+      agreement. Proviso (ii) of the amendment contemplates a two-
+      step process to be adopted by a judicial authority when
+      considering an application seeking the reference of a pending
+      action to arbitration. The amendment envisages that the
+      judicial authority shall not refer the parties to arbitration only
+      if it finds that there does not exist an arbitration agreement or
+      that it is null and void. If the judicial authority is of the opinion
+      that prima facie the arbitration agreement exists, then it shall
+      refer the dispute to arbitration, and leave the existence of the
+      arbitration agreement to be finally determined by the arbitral
+      tribunal. However, if the judicial authority concludes that the
+      agreement does not exist, then the conclusion will be final and
+60
+not prima facie. The amendment also envisages that there
+            shall be a conclusive determination as to whether the
+            arbitration agreement is null and void.
+xxx
+31. The language of amendment to
+Section 8
+of the Act is clear that
+      the   amendment     to
+Section        8(1)
+of   the   Act   would   apply
+      notwithstanding any prayer, judgment, decree or order of the
+      Supreme Court or any other Court." (emphasis supplied)
+
+            The reference to
+Section 8
+of the Act and the decisions on the
+
+      said Section have been referred to only for the limited purpose of
+
+      understanding whether the considerations for referring the dispute
+
+      of the parties to arbitration is the same as that of a proceeding
+
+      under
+section 11
+of the Act. The considerations are completely
+
+      different.
+At this stage, it is not necessary to consider whether there has
+
+been a novation of contract or the entire disputes between the parties
+
+have been settled by way of a MoU.            The bifurcation of the disputes
+
+between the parties is also not a matter to be considered in an
+
+application under
+Section 11
+of the Arbitration and Conciliation Act,
+
+1996. There is no dispute between the parties that a valid arbitration
+
+agreement exists between the parties. The existence of the arbitration
+
+agreements is admitted. The respondent is resisting the reference on
+
+other grounds, namely, that the majority of claims against IFGL per se,
+
+ignoring the tortious claims involving several parties are not referable to
+61
+arbitration. The principal claim against IFGL is that IFGL has acted
+
+contrary to the understanding between the parties and on and from
+
+September, 2016 has illegally sought to enter into a contract with Arcelor
+
+Mittal Companies in breach of obligations. This is, in my view, not a
+
+factor to be considered at this stage.
+The argument of Mr. Kapoor that sub-section 6A of
+section 11
+of
+
+the Act is ultra vires as as it is opposed to the doctrine of separation of
+
+power and curtailed the role of the judiciary cannot be gone into at this
+
+stage in view of the fact that in
+Duro Felguero
+(supra), in paragraphs 18,
+
+19, 20, 47, 48, 56, 57 and 59, the Hon'ble Supreme Court considered the
+
+changes brought about by the
+Arbitration and Conciliation (Amendment)
+
+Act, 2015
+, amongst others, in relation to appointment of an arbitrator
+
+under
+section 11
+of the 1996 Act; and
+the said judgment
+is binding on
+
+this Court.
+Although Mr. Kapoor has contended that the pronouncement
+
+in
+Duro Felguero
+(supra) - that the Court ought to confine its
+
+examination to the existence of an arbitration agreement - is obiter and
+
+not binding on this Court, the said argument cannot be accepted in view
+
+of the discussion made above inasmuch as even an obiter of a Supreme
+
+Court is binding on the High Court, as held in
+Palitana Sugar Mills
+(supra), where it is stated -
+"62. It is well settled that the judgments of this Court are binding on
+      all the authorities under
+Article 142
+of the Constitution of India and
+      it is not open to any authority to ignore a binding judgment of this
+      Court on the ground that the full facts had not been placed before
+62
+this court and/or the judgment of this Court in the earlier
+      proceedings had only collaterally or incidentally decided the issues
+      raised in the show cause notices. Such an attempt to belittle the
+      judgments and the orders of this Court, to say the least, is plainly
+      perverse and amounts to gross contempt of this Court. We are
+      pained to say that the then Deputy Collector has scant respect for
+      the orders passed by the Apex Court."
+Under such circumstances, the application is allowed.
+
+      Hon'ble Justice Jyotirmay Bhattacharya, former Chief Justice,
+
+High Court, Calcutta is appointed as the sole arbitrator. The Hon'ble
+
+Justice Bhattacharya is requested to fix commensurate remuneration, at
+
+the fist sitting of the parties, to be shared by the parties in equal
+
+measure at the first instance, subject to the directions as to the costs as
+
+may be contained in the final Award. The learned arbitrator is requested
+
+to conclude the reference within a period of twelve months of the
+
+statement of claim being lodged before him.
+Urgent Photostat certified copy of this judgment, if applied for, be
+
+given to the parties on an usual undertaking.
+(Soumen Sen, J.)
+
+
+
+
+      Later:
+Mr. Rudraman Bhattacharya, learned Counsel for the
+
+respondent has prayed for stay of operation of the order.
+63
+The order shall remain stayed for a period of two weeks from
+
+date.
+(Soumen Sen, J.)

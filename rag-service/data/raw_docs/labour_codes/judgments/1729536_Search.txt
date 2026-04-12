@@ -1,0 +1,495 @@
+Title: Search
+Court: High Court
+Date: Unknown Date
+Citation: citations: AIR2000KER250, AIR 2000 KERALA 250, ILR(KER) 2000 (2) KER 822, (2000) 2 KER LT 195, (2000) 3 RECCIVR 449
+Source: https://indiankanoon.org/doc/1729536/
+
+[Cites
+49
+, Cited by
+8
+]
+Kerala High Court
+General Manager, Telecom District, ... vs Consumer Disputes Redressal Forum, ... on 3 April, 2000
+Equivalent citations: AIR2000KER250, AIR 2000 KERALA 250, ILR(KER) 2000 (2) KER 822, (2000) 2 KER LT 195, (2000) 3 RECCIVR 449
+Author:
+Ar. Lakshmanan
+Bench:
+Ar. Lakshmanan
+,
+D. Sreedevi
+JUDGMENT
+
+
+
+
+ 
+
+  Ar. Lakshmanan, J.
+1. Heard Mr. C. N. Radhakrlshnan for the appellants and Mr. S. James Vincent for second respondent.
+2. The petitioners 2 to 3 in the Original Petition are the appellants in this appeal. The second respondent is a subscriber of a telephone. Consequent to the introduction of Electronic Exchange, the outstanding dues in respect of telephones were finalised and it was found that two telephone bills dated 11 -2-1992 for Rs. 350/- and bill dated 11-4-1992 for Rs. 454/- were found to be outstanding against the second respondent's telephone. The second respondent, like other subscribers, was also issued notice under Exhibit P3 dated 30-11-1995 requesting for payment of outstanding dues by 11-12-1995 so as to avoid disconnection of the telephone. Since the second respondent did not clear the arrears, the second appellant issued instruction under Exhibit P4 to make verification of payment and disconnect the telephone. The telephone was disconnected on 15-12-1995 as provided under Rule 443 of the Indian Telegraph Rules, hereinafter referred to as "the Telegraph Rules". According to the second respondent, he had not received the bills mentioned in Exhibit P3 disconnection notice. On 26-12-1995, the second respondent, who is stated to be an Advocate, trespassed into the Telephone Exchange Office and manhandled the staff and in order to avoid legal consequences, got Crime No. 247/1995 registered at Police Station, Vizhinjam, The staff of the Telephone Exchange have also made a com-
+plaint to the Vizhinjam Police and Crime No. 248/1995 was registered.
+3. The second respondent filed O. P. 399/ 1996 under Exhibit P5 before the Consumer Disputes Redressal Forum, Thiruvananthapuram, hereinafter referred to as "the Forum", alleging inter alia that he had been getting excess telephone bills and there was no replies received from the Department to his complaints and legal notices; his telephone was disconnected on 15-12-1995 without notice; and disconnection of telephone amounted to deficiency of service on the part of the Telecom Department. He prayed for orders to restore the telephone connection without payment of any reconnection fee, penalty, additional deposit and monthly rent due from the date of disconnection. He also claimed compensation to the tune of Rs. 10,000/- for the inconvenience and other hardships alleged to have been faced by him.
+4. The first respondent -- the Forum --issued a notice to the appellants, who filed objections under Exhibit P6 on 2-9-1996, raising various questions of law regarding the maintainability of the complaint and requested the Forum to decline jurisdiction as per law and on the basis of various rulings of the Supreme Court. The Forum by its order dated 4-12-1997 held that the complaint cannot be said to be not maintainable as alleged by the Department. The appellants thereupon filed the Original Petition in this Court to quash Exhibit P7 order and to prohibit the Forum from continuing with further proceedings in O. P. 399/1996 on the basis of Exhibit P5 complaint and for other consequential reliefs.
+5. The Original Petition was admitted on 11-7-1997. It is also alleged that a plain reading of Exhibit P5 complaint would indicate that the complaint was frivolous and not maintainable and hence the Forum should have dismissed the same as provided under
+Section 26
+of the Consumer Protection Act, 1986, hereinafter referred to as "the
+Consumer Protection Act
+". In the writ petition filed before this Court several contentions were raised by the Department and several decisions of the Supreme Court were also relied on to show that such proceedings have been entertained by the Forum contrary to
+Section 7-B
+of the Indian Telegraph Act, 1885, hereinafter referred to as "the
+Telegraph Act
+" and various rulings of the
+
+Supreme Court of India. It is also alleged that the findings contained in Exhibit P7 order of the Forum are contrary to facts and laws and vitiated by improper application of mind. It is also submitted that no claim for compensation of Rs. 10,000/- as contained in Exhibit P5 has been raised by the second respondent at any time earlier and such claim has to be disallowed since it runs contrary to statutory provisions under
+Section 80
+, C.P.C. and the first respondent-Forum is not justified in entertaining any plea for compensation from public officers who enjoy immunity under
+Section 9
+of the Telegraph Act.
+6, A learned single Judge of this Court by judgment dated 5-9-1997 after adverting to the decisions cited by the parties, held in paragraphs 11 and 12 as follows :--
+"11. Exhibit P7 is the order passed by the 1st respondent with regard to the maintainability of the dispute. If the petitioners are aggrieved, necessarily, they can take up the matter before the State Commission in Appeal under
+Section 15
+of the Consumer Protection Act. Any person aggrieved by an order made by the District Forum is enabled to file an appeal against such an order to the State Commission. Before the State Commission certainly the petitioners can take up the contention with regard to the Jurisdiction as well.
+12. Above all, the
+Consumer Protection Act, 1986
+is a Special Law. Of course,
+Indian Telegraph Act
+also is a Special Law. But, between the said two Special Laws, the Consumer Protection Act is more Special so far as the disputed question is concerned, because the
+Indian Telegraph Act
+deals with all aspects of telephone system and apparatus, whereas the
+Consumer Protection Act
+deals only the dispute raised by the consumer as to the services rendered to them. Therefore, Consumer Protection Act is more Special between the two. Applying the settled principle that Special Law will prevail over the 'general', the machinery set up under the
+Consumer Protection Act, 1986
+to resolve the consumer disputes will prevail over
+Section 7-B
+of the Indian Telegraph Act. As per
+Section 7-B
+of the Indian Telegraph Act any dispute concerning any telegraph line, appliances or apparatus between the telegraph authority and a particular individual for whose benefit line or apparatus has been provided, shall be determined in
+
+the arbitration. All such disputes are not amenable for adjudication by the machinery set up under the Act. Only the service rendered to the consumer is provided for adjudication under the Act. Therefore, the Consumer Protection Act is Special Law. Therefore, the remedy provided under that Act will prevail over
+Section 7-B
+of the Indian Telegraph Act".
+7. Being aggrieved, the Telecom Department filed the above Writ Appeal, which was admitted by a Division Bench on 22-1-1998. The Bench has also passed an order that until further order, proceedings taken up before the Consumer Disputes Redressal Forum pursuant to the impugned judgment will not be pursued by the respondents.
+8. Mr. C. N. Radhakrishnan has raised the following contentions :--
+(a) The learned single Judge has erred in interpreting
+Section 3
+of the Consumer Protection Act without considering
+Section 9
+of the Code of Civil Procedure and
+Section 7-B
+of the Telegraph Act. According to the learned counsel, the legal position has been settled by the Supreme Court in the decision reported in
+Chairman, Thiruvalluvar Transport Corporation v. Consumer Protection Council
+, AIR 1995 SC 1384.
+(b) The learned single Judge has gone wrong in holding that the remedy under the
+Consumer Protection Act
+is more effective and speedy than under
+Section 7-B
+of the Telegraph Act by giving undue credence of the year of enactment.
+(c) The learned single Judge has wrongly interpreted the provisions of
+Section 7-B
+of the Telegraph Act while holding that
+Section 7-B
+shall not be available in respect of every dispute and that the learned single Judge has failed to notice the wider scope of the said provision.
+(d) The learned single Judge has failed to appreciate the spirit of the judgment of the Supreme Court in
+Telecom District Manager, Goa v. V.S. Dempo and Co.
+, AIR 1996 SC 1545.
+(e) The learned single Judge has failed to appreciate the fact that the Forum has no Jurisdiction to entertain the disputes over telephone bills and the statutory remedy available to a subscriber under Section 7-B of the Telegraph Act by way of Arbitration has been upheld by the Supreme Court in the decision reported in Shri M.L. Jaggi v.
+Mahanagar Telephones Nigam Ltd., (1996) 1 JT (SC) 215 : (AIR 1996 SC 2476).
+(f) The learned single Judge has also failed to appreciate the fact that the deficiency clause under
+Section 2(1)(g)
+of the Consumer Protection Act cannot be attracted on account of disconnection of telephone hired by the second respondent for nonpayment of dues under Rule 443 of the Telephone Rules and that the Telegraph Authority has the right for disconnection of a telephone for non-payment of bills and the same has been upheld by this Court in the decision reported in
+Union of India v. S. J. Pandit
+, AIR 1997 Kerala 153.
+9. Mr. Radhakrishnan in support of his above contentions has cited the following decisions :
+Munshi Ram v. Chheharta Municipality
+, AIR 1979 SC 1250;
+Srikant K. Jituri v. Corporation of the City of Belgaum
+,
+(1994) 6 SCC 572 : (1994 AIR SCW 4453):
+A. V. Georgekutty v. State
+.
+AIR 1994 Kerala 19;
+Chairman, Thiruvalluvar Transport Corporation v. Consumer Protection Council
+, AIR 1995 SC 1384;
+State of Mizoram v. Biakchhawna
+,
+(1995) 1 SCC 156 : (1995 AIR SCW 1497);
+Telecom District Manager, Goa v. V. S. Dempo and Co.
+, AIR 1996 SC 1545;
+Shri M. L. Jaggi v. Mahanagar Telephones Nigam Ltd.
+,(1996) 1 JT (SC) 215: (AIR 1996 SC 2476);
+Union of India v. S. J. Pandit
+, AIR 1997 Kerala 153;
+C. N. Rudramurthy v. BarkathullaKhan
+.
+(1998) 8 SCC 275 and Malappuram Dt. P.B.O. Association v. Mohan, (1999) 2 Ker LT 898 : (AIR 2000 Kerala 192).
+10. Per Contra, Mr. S. James Vincent submitted the following submissions :--
+(i) The Forum has the jurisdiction to entertain the application and this Court shall not interfere with the proceedings under
+Article 226
+of the Constitution, as statutory remedies of appeals and revision are available. He cited the following decisions :
+Padmanabhan v. Consumer D. R. Forum
+, (1991) 2 Ker LT 367 : (AIR 1992 Kerala 179):
+Ansal Properties and Industries (P) Ltd. v. Chander Bhan Kohll
+, (1991) 1 CPJ 679;
+Sudarshan Chits (India) Ltd. v. Official Liquidator
+, (1992) 1 Comp LJ 34; Gerogekutty v. State, (1993) 2 Ker LT 755 : (AIR 1994 Kerala 19); Kerala Public Service Commission v. Consumer Disputes Redressal Forum, (1993) 2 Ker LT 892;
+Central Board of Education v. Consumer Disputes Redressal Forum
+, (1993) 2 Ker LT 917 : (AIR 1994 Kerala 153):
+ANZ Grindlays Bank v. President, DCDR Forum
+, AIR 1995 Cal 104; Babu Joseph v. Consumer Disputes Redressal Forum, (1997) 1 Ker LT 679 : (1997 AIHC 2086);
+Swetambar Sthanakwasi Jain Samiti v. Alleged Committee of Management
+.
+(1996) 3 SCC 11: (
+AIR 1996 SC 1209) and Regional Provident Fund Commissioner v. Shiv Kumar Joshi
+. (2000) 1 SCC 98 : (AIR 2000 SC 331).
+(ii) Mr. James Vincent submitted that the decision of the Supreme Court in (1995) 2 SCC 479 : (AIR 1995 SC 1384) that remedy under
+Section 7-B
+of the Telegraph Act being a Special Law should prevail was not rendered in connection with the
+Consumer Protection Act
+, but the
+Motor Vehicles Act
+. The alternative Forum under the
+Motor Vehicles Act
+is a Judicial Tribunal (M.A.C.T.) unlike under the
+Telegraph Act
+, wherein only a departmental official acts as the Arbitrator and it is not judicial. In fact, the Supreme Court has accepted the Jurisdiction of the Forum and remedy granted in (1999) 6 SCC 361: (AIR 1999 SC 3119) and (1999) 6 SCC 620: (AIR 1999 SC 3181).
+(iii) The third submission of Mr. James Vincent is that the jurisdiction of the Forum to grant appropriate reliefs is not denuded and the Forum, on the doctrine of public accountability, compel, when a public servant or body by mala fide, oppressive and capricious acts in performance of official duties causes injustice, harassment and agony to common man and renders the State or its instrumentality, liable to pay damages to the person aggrieved from public fund, and the State or its instrumentality would be duty-bound to recover the amount of compensation so paid from the public servant concerned. The decision reported in
+Lucknow Development Authority v. M.K. Gupta
+, (1994) 1 SCC 243: (AIR 1994 SC 787), was relied on for this proposition.
+(iv) Alternatively, it is submitted that even if it is held that
+Section 7-B
+is the appropriate remedy, telephone reconnection should be ordered as a condition precedent, on payment of the disputed bill subject to arbitration, but without payment of reconnection charges. The judgment relied on for this proposition is
+B. Ramachandra Reddy v. Union of India
+, AIR 1993 Andh Pra 19.
+(v) The last submission is that the disconnection was effected without notice and offending the principles of natural justice and, therefore, immediate reconnection should be ordered. The decisions reported in
+Hukum
+
+Chand v. Union of India
+, AIR 1976 SC 789 and Anthappan v. Dist. Manager, Telephones, 1980 Ker LT 417 : [AIR 1980 Kerala 201) were relied on for this proposition.
+11. The following two questions that arise for consideration in this Writ Appeal :
+(1) Whether the Forum lacks Jurisdiction to adjudicate the matter;
+(2) Whether the disconnection of telephone for non-payment of dues amount to deficiency in service as provided in
+Section 2(1)(g)
+of the Consumer Protection Act and hence the complaint was not maintainable as alleged by the appellants.
+12. Before dealing with the questions raised and the judgments cited, it is beneficial to refer to the provisions of law under the Telegraph Act and the Consumer Protection Act. They are, Rules 413 and 443 of the Telegraph Rules;
+Section 7-B
+of the Telegraph Act; and
+Sections 2(1)(g)
+,
+3
+and
+26
+of the Consumer Protection Act.
+13.
+Section 2(1)(g)
+.
+Section 3
+and
+Section 26
+of the Consumer Protection Act are reproduced hereunder :--
+"
+Section 2(1)(g)
+-- "deficiency" means any fault, imperfection, shortcoming or inadequacy in the quality, nature and manner or performance which is required to be maintained by or under any law for the time being in force or has been undertaken to be performed by a person in pursuance of a contract or otherwise in relation to any service;"
+"
+Section 3
+. Act not in derogation of any other law.-- The provisions of this Act shall be in addition to and not in derogation of provisions of any other law for the time being in force."
+"
+Section 26
+. Dismissal of frivolous or vexatious complaints.-- Where a complaint instituted before the District Forum, the State Commission or, as the case may be, the National Commission, is found to be frivolous or vexatious, it shall, for reasons to be recorded in writing, dismiss the complaint and make an order that the complainant shall pay to the opposite party such cost, nor exceeding ten thousand rupees, as may be specified in the order."
+14.
+Section 7-B
+of the Telegraph Act is reproduced hereunder :--
+"
+Section 7-B
+. Arbitration of disputes.-- (1) Except as otherwise expressly provided in this Act, if any dispute concerning any telegraph line, appliance or apparatus arises
+
+between the telegraph authority and the person for whose benefit the line, appliance or apparatus is, or has been, provided, the dispute shall be determined by arbitration and shall, for the purpose of such determination, be referred to an arbitrator appointed by the Central Government either specially for the determination of that dispute or generally for the determination of disputes under this section.
+(2) The award of the arbitrator appointed under Sub-section (1) shall be conclusive between the parties to the dispute and shall not be questioned in any Court."
+Rule 413 of the Telegraph Rules provides that all services relating to telephone are subject to Telegraph Rules. A telephone connection can be disconnected by the Telegraph Authority for default of payment under Rule 443 of the Rules.
+15. It is submitted by Mr. Radhakrishnan that disconnection of telephone for nonpayment of dues does not amount to deficiency in service as defined in
+Section 2(1)(g)
+of the Consumer Protection Act and hence the complaint was not maintainable. According to him,
+Section 7-B
+of the Telegraph Act provides for Arbitration if any dispute concerning any telegraph line, appliance or apparatus arises between the Telegraph Authority and the subscriber and the award of the Arbitrator, appointed by the Central Government, shall be conclusive between the parties. The only remedy available to the aggrieved person against the award is judicial review under
+Article 226
+of the Constitution of India. By virtue of this provision, Mr. Radhakrishnan submitted that the Forum has no authority to adjudicate the complaint which is nothing other than a claim for compensation of Rs. 10,000/- for disconnection and a suit for declaration that the second respondent is entitled for telephone reconnection without payment of arrears, reconnection fee, rental charges etc. Such dispute, if at all there is any, is within the purview of
+Section 7-B
+of the Indian Telegraph Act. This provision ousts the jurisdiction of Civil Courts and the Forum and the Commissions under the
+Consumer Protection Act
+in matters relating to dispute between the subscribers arid the Telegraph Authority.
+Section 3
+of the Consumer Protection Act and
+Section 9
+of the Code of Civil Procedure also oust the jurisdiction of the Forum from entertaining such complaints. As pointed out by Mr. Radhakrishnan, the
+
+claim made by the subscriber is nothing other than a money suit and that the Forum without appreciating these vital issues, proceeded with the complaint and passed Exhibit P7 order dated 4-2-1997 on the preliminary objection raised by the appellants.
+16. In our opinion, the learned single Judge has erred in interpreting
+Section 3
+of the Consumer Protection Act without considering
+Section 9
+of C. P. C. and
+Section 7-B
+of the Telegraph Act. The provision under
+Section 3
+, in our view, is quite specific that the remedy under the
+Consumer Protection Act
+is not in derogation of any other law for the time being in force. The legal position has been settled by the Supreme Court in AIR 1995 SC 1384. The Supreme Court held that claim for compensation arising out of use of motor vehicle cannot be adjudicated by the National Commission and that the complaint in the case of motor accident cannot be said to be in relation to any service hired or availed of by the consumer because the injury sustained by the consumer had nothing to do with the service provided or availed of by him but the injury is the direct result of the accident and the accident had nothing to do with services provided to the deceased passenger. It is also held that the
+Motor Vehicles Act, 1988
+and in particular, the provisions in Chapter XII thereof, create a Forum before which the claim can be laid if it arises out of an accident caused by the use of a motor vehicle. That being a Special Law would prevail over the relevant general law such as the
+Consumer Protection Act
+. The observation made by the learned single Judge that the dictum laid down by the Supreme Court is not applicable in the present case is not correct and due to misinterpretation of the relevant legal provision,
+17. The learned single Judge gone wrong in holding that the remedy under the
+Consumer Protection Act
+is more effective and speedy than under
+Section 7-B
+of the Telegraph Act by giving undue credence of the year of enactment.
+In this context it is useful to refer to the decision reported in
+Raag Rang v. General Manager, Delhi Telephones
+, (1997) 5 SCC 345 : (AIR 1997 SC 2653), wherein the Supreme Court held that the dispute regarding payment of telephone bill is to be dealt with under the provisions of Arbitration clause contained in the
+Telegraph Act
+.
+18. The learned single Judge has held that the Forum has Jurisdiction to entertain
+
+the dispute over telephone bills. We are of the view that the statutory remedy available to a subscriber under
+Section 7-B
+of the Telegraph Act by way of Arbitration has been upheld by the Supreme Court in the decision reported in (1996) 1 JT (SC) 215 : (AIR 1996 SC 2476). In paragraphs 4 and 8, the Court held as follows :--
+"4. It is a statutory remedy provided under the Act and, therefore, in a dispute as regards the amount claimed in the demand raised, the only remedy provided is by way of arbitration under
+Section 7-B
+of the Act. By operation of Sub-section (2) thereof, the award of the arbitrator made under Sub-section (1) shall be conclusive between the parties to the dispute and shall not be questioned in any Court. The statutory remedy under the
+Arbitration Act, 1940
+, thus, has been taken away."
+"8. It is, thus, settled law that reasons are required to be recorded when it affects the public interest. It is seen that under
+Section 7-B
+, the award is conclusive when the citizen complains that he was not correctly put to bill of the calls he had made and disputed the demand for payment. The statutory remedy opened to him is one provided under
+Section 7-B
+of the Act. By necessary implication, when the arbitrator decides the dispute under
+Section 7-B
+, he is enjoined to give reasons in support of his decision since it is final and cannot be questioned in a Court of law. The only obvious remedy available to the aggrieved person against the award is judicial review under
+Article 226
+of the Constitution. If the reasons are not given, it would be difficult for the High Court to adjudge as to underwhat circumstances the arbitrator came to his conclusion that the amount demanded by the Department is correct or the amount disputed by the citizen is unjustified. The reasons would indicate as to how the mind of the arbitrator was applied to the dispute and how he arrived at the decision. The High Court, though does not act in exercising judicial review as a Court of appeal but within narrow limits of judicial review it would consider the correctness and legality of the award."
+19. In the concluding portion of his judgment, the learned single Judge has observed that the
+Consumer Protection Act
+is a Special Law in disputes relating to telephone bills and
+Consumer Protection Act
+will prevail over
+Section 7-B
+of the Telegraph Act merely on the basis of years of enactment. In this context, we have to appreciate the correct legal position and the spirit of the
+
+provisions contained in
+Section 7-B
+of the Telegraph Act. The Consumer Proteclion Act is a general law for all consumers in general and the
+Telegraph Act
+is a special law confined to the telephone consumers only. In our view, the principles
+laid down by
+the Supreme Court that general law must yield to the special law is applicable in the instant case. The special statute --
+Telegraph Act
+--meant for telephone consumers will prevail over the general statute, viz., the
+Consumer Protection Act
+, which is available for all who are consumers of various products and services in one way or the other. The stipulation contained under
+Section 3
+of the Consumer Protection Act is not in derogation of any other law for the time being in force has been omitted while interpreting the said provision. The principles
+laid down by
+the Supreme Court with regard to this important question of law has to be borne in mind while considering the issue and hence the finding of the learned single Judge is not correct.
+20. The learned single Judge has also not noticed the fact that the deficiency clause under
+Section 2(1)(g)
+of the Consumer Protection Act cannot be attracted on account of disconnection of telephone hired by the second respondent for non-payment of dues under Rule 443 of the Telephone Rules. The Telegraph Authority has the right for disconnection of a telephone for non-payment of bills and the same has been upheld by this Court in the decision reported in AIR 1997 Kerala 153. The Bench, in para 6 held as follows :
+"The intention of the rule-making authority under Rule 443 is specific and clear that the Telephone Authorities can disconnect other telephones and telex services rented to the subscriber, if the rental and call charges of any of his telephone is in arrears."
+21. We shall now refer to the rulings cited by the Additional Central Government Standing Counsel in respect of his contention that the Consumer Court has no jurisdiction to adjudicate the complaint. In (1995) 1 SCC 156 : (1995 AIR SCW 1497) the Supreme Court held that when a statute require an action to be taken in a particular manner, the same has to be taken in the same manner and not otherwise.
+22.
+In the decision reported in
+Munshi Ram v. Chheharta Municipality
+, AIR 1979 SC 1250, the Supreme Court held in paragraph 24 thus :--
+"It is well-recognised that where a Revenue Statute provides for a person aggrieved by an assessment thereunder, a particular remedy to be sought in a particular forum, in a particular way, it must be sought in that forum and in that manner, and all other forums and modes of seeking it are excluded. Construed in the light of this principle, it is clear that
+Sections 84
+and
+86
+of the Municipal Act bar, by inevitable implication, the jurisdiction of the Civil Court where the grievance of the party relates to an assessment or the principle of assessment under this Act."
+23.
+In
+Srikant K. Jituri v. Corporation of the City of Belgaum
+, (1994) 6 SCC 572 : (1994 AIR SCW 4453) the jurisdiction of the Civil Court was excluded by a Special statute, viz.. Rule 25 of the Rules under Schedule III to Karnataka Municipal Corporation Act. A representative suit was filed in the Civil Court by house owners for a declaration that enhancement in rate of property tax was excessive, arbitrary, unreasonable and illegal. No reason was given for not filing appeals before the Taxation Appeals Committee under Rule 18. The Court held that the suit was not maintainable in view of bar of Civil Court's jurisdiction, which cannot be invoked merely on the ground that right of second appeal to District Court under Rule 20 being coupled with the onerous condition, viz., deposit of the entire properly tax, was not an adequate or efficacious remedy. The Supreme Court has also held that where jurisdiction is barred by special statute, it cannot be invoked merely on ground of non-availability of adequate or efficacious remedy under the special statute, though such ground may be acceptable for maintaining writ petition under
+Article 226
+of the Constitution and that the difference lies in nature and jurisdiction, one conferred by Statute, i.e.
+Section 9
+of the Code of Civil Procedure and the other by Constitution, i.e. Article 226of the Constitution of India.
+24.
+In
+Telecom District Manager, Goa v. V. S. Dempo and Co.
+, AIR 1996 SC 1545, the Supreme Court while considering the administrative instructions issued by Union of India that dispute shall be referred only when there is a reference by Court, held that the administrative instructions issued by the Union of India are in defiance of the language used in
+Section 7-B
+. The Court held :--
+"The Administrative Instructions issued by the Union of India that the dispute shall be referred only when there is a reference by the Court are obviously in defiance of the language used in
+Section 7-B
+. The power to refer the dispute has been given by the Parliament only with a view to see that the authority acts within reasonable limits and that when subscriber disputes the correctness of the meter reading or operation of the apparatus etc. instead of litigating the dispute in a Civil Court, it should be denied by arbitrator under
+Section 7-B
+. Obviously, the Act intends to limit operation expeditiously without any undue delay so that the electrical operation, envisaged under the Act, recorded to be one of the public revenue, should not be postponed due to pendency of the proceedings. Under those circumstances, directions given by the High Court directing that the authority under the Act is enjoined to make reference under
+Section 7-B
+without any direction by the Court and if need be it is for the subscriber to approach the Court, would be proper."
+25.
+In
+Raag Rang v. General Manager, Delhi Telephones
+, AIR 1997 SC 2653, the Supreme Court while considering the question whether or not payment of telephone dues is made, the Court held that such a disputed question of fact cannot be decided by the Court when the parties have alternate remedy under the
+Telegraphs Act
+for adjudication of the dispute.
+26.
+In the decision reported in
+C. N. Rudramurthy v. K. Barkathulla Khan
+, (1998) 8 SCC 275, the Supreme Court held that the law declared by the Supreme Court is binding on all and that the judicial discipline requires that the clear pronouncements by the Supreme Court, about what the law on a matter is, must be treated as binding by all Courts in India and where the Supreme Court has stated that the law
+laid down in
+a particular case is the applicable law, it was not open to the High Court to consider or rely on any supposedly conflicting decision.
+27.
+In
+A. V. Georgekutty v. State
+, AIR 1994 Kerala 19, the Division Bench, comprising of M. Jagannadha Rao, C. J. and K. Sreedharan, J., while considering the question whether the complainant is a 'consumer' and District Forum has jurisdiction to entertain complaint, has opined in para 10 as follows :--
+"At the same time we wish to add that the
+
+District Forum and the State Commission must be careful in entertaining complaints. They must see that their jurisdiction is not abused. They must not give scope for complaints harassing persons who do not come within the scope of the Act. When the High Court is acting with restraint in entertaining writ petitions as stated above, there is a greater responsibility of the District Forum and the State Commission to see that their jurisdiction is not invoked without sufficient Justification."
+28.
+In
+Malappuram District P. B. O. Association v. Mohan
+, (1999) 2 Ker LT 898 : (AIR 2000 Kerala 192) a Division Bench, comprising of AR. Lakshmanan, Ag. C. J, and S. Sankarasubban, J., while considering the question as to whether the Consumer Disputes Redressal Forum has any jurisdiction to deal with the fare stages or fares of a stage carriage, has observed :--
+Section 94
+of the Act bars jurisdiction of Civil Courts to entertain any question relating to the grant of permit and fare stages like timings and grant of permit.
+Section 3
+of the Consumer Protection Act, 1986 provides that the provisions of that Act shall not be in derogation of the provisions of any other law in force. These two sections, read together, make it crystal clear that the Consumer Disputes Redressal Forum has no jurisdiction to deal with the fare stages or fares of a stage carriage. The provisions of the
+Motor Vehicles Act
+and the Rules framed thereunder in in-built the provisions exist for the redressal of grievance arising out of giving effect to the provisions of the Act. As already noticed, the
+Motor Vehicles Act
+is a self contained Code and disputes touching matters related to the various provisions of the statute are to be resolved in the various Fora provided by the Act itself. Therefore, we are of the opinion that any grievance regarding anomalies in the fixation of fare stages have to be first raised before the RTA and then by way of revision before the
+S.T.A.T. 
+ 
+
+ The Consumer Protection Act, 1986
+which clothes the Consumer Disputes Redressal Forum with powers to adjudicate upon certain types of disputes relating to consumption of goods and services lays down clear parameters for the Forum to exercise its jurisdiction. The petitioner before the Consumer Disputes Redressal Forum is a bus passenger, who will not answer the definition of a consumer and the R.T.A. will not
+
+answer the definition of manufacturer under this Act, inasmuch as the R.T.A. does not render any service to the bus passenger, consumer, the inadequacy of which can be complained against the Consumer Disputes Redressal Forum. In our opinion there is a total ouster of powers of the Consumer Disputes Redressal Forum or any act of any Civil Court in deciding questions involving the provisions of the
+Motor Vehicles Act
+a clear prohibitory provision of the
+Motor Vehicles Act
+notwithstanding the Consumer Disputes Redressal Forum had rendered an order directing the R.T.A. to rectify the, alleged anomaly in fare stages with permission of the Government, if necessary. This decision, if permitted to stand, would have affected large number of stage carriage operators and would have upset the fare stages arrived at by the R.T.A. 
+ 
+
+ Matters which are expressly kept out of its jurisdiction are now sought to be brought with in its purview which is legally unjustifiable. The fixation of fares under the
+Motor Vehicles Act
+is a legislative function, fixation of fare stages is purely administrative and either way Judicial scrutiny into such acts, as repeatedly held by this Court, is extremely limited in scope. The passenger in a bus is not a consumer for the purpose of
+Consumer Protection Act
+: nor is the Regional Transport Authority, a statutory functionary under the
+Motor Vehicles Act
+, a provider of any service, the quality of which can be complained of by the bus passenger.
+29. We shall now consider the decisions cited by Mr. James Vincent in support of his contention No. 1. According to him, the Forum has the jurisdiction to entertain the application and the High Court shall not interfere with the proceedings under
+Article 226
+of the Constitution as statutory remedies of appeals and revision are available.
+30.
+In
+Padmanabhan v. Consumer D. R. Forum
+, (1991) 2 Ker LT 367 : (AIR 1992 Kerala 179), Padmanabhan, J. held that the High Court is not a statutory appellate or revisional authority under the provisions of the Act and an order made by the District Forum is appealable under
+Section 15
+only before the State Commission and an order passed by the State Commission is appealable only before the National Commission under
+Section 19
+and thereafter before the Supreme Court under
+Section 23
+. In view of these statutory remedies, the learned Judge
+
+held that an Original Petition under
+Article 226
+of the Constitution will not lie and the jurisdiction under
+Article 226
+could be resorted to only in the absence of alternate efficacious remedies.
+31.
+Ansal Properties and Industries (P) Ltd. v. Chander Bhan Kohli
+, (1991) 1 CPJ 679, was a case of complaint regarding defects in immovable property. The Delhi High Court held that when the law provides complete machinery, including an appeal to the Supreme Court, it would not be proper for the High Court to entertain a writ petition.
+32.
+In
+Sudarshan Chits (India) Ltd. v. Official Liquidator
+, (1992) 1 Comp LJ 34, this Court held that the provisions of the
+Companies Act
+relating to winding up are intended to give relief to the Company which is insolvent from the harassment of its creditors on the one hand and to provide a machinery by which all creditors are equally satisfied, on the other. If some of the creditors move the authorities constituted under the
+Consumer Protection Act, 1986
+, and receive their dues, the other creditors who do not move that authority may not get any amount due to them. The Court held that it cannot be taken that the legislature intended that such a result should happen by Implementing the Consumer Protection Act intended to benefit the consumers in general and not to benefit one or a small group of consumers against the interests of the larger sections of the consumers. Therefore, the authorities constituted under the
+Consumer Protection Act
+have no jurisdiction to consider the claims of the creditors of companies which are being wound up under the provisions of the
+Companies Act
+,
+33.
+In
+C.B.S.E. v. C.D. Redressal Forum
+, (1993) 2 Ker LT 917 : (AIR 1994 Kerala 153), Division Bench held that the High Court will not entertain ordinarily writ petition even if it relates to jurisdiction of bodies, viz., the District Forum and State Commission, under the
+Consumer Protection Act
+.
+34.
+K.P.S.C. v. C.D. Redressal Forum
+, (1993) 2 Ker LT 892, is a case of recruitment to posts coming within the purview of Public Service Commission. The Court held that no other body or authority can recruit any person and it is the exclusive prerogative of the P.S.C. to deal with such recruitment.
+In this case, the Bench held that this is an exceptional case in which the High Court
+
+should interfere, in exercise of its discretion, under Article 226 of the Constitution and quashed the notice issued by the Consumer Court and directed the said Court to drop all proceedings pursuant to the complaint filed by the petitioner before it.
+35.
+In
+ANZ Grindlay Bank v. President, D.C.D.R. Forum
+. AIR 1995 Cal 104, a learned single Judge of the Calcutta High Court held that the deficiency in service rendered by Bank may come within the purview of
+Consumer Protection Act
+and when the petitioners having efficacious remedy under the Act, the writ petition in that regard is not maintainable.
+36. In Babu Joseph v. C.D.R. Forum, (1997) 1 Ker LT 679 : (1997 AIHC 2086), Koshy, J. held that this Court can interfere with orders of the Forums constituted under the
+Consumers Protection Act
+, if they act totally without Jurisdiction.
+37.
+In
+Swetambar Sthanakwasi Jain Samiti v. Alleged Committee of Management
+, (1996) 3 SCC 11 : (AIR 1996 SC 1209), the Supreme Court was considering the maintainability of a writ petition when an alternative remedy was available. In that case, a suit was pending in a Civil Court. The Court held that exercise of extraordinary jurisdiction under
+Article 226
+was not called for. A suit was filed by the appellants challenging the orders of the Deputy Director of Education. The Civil Court granted interim injunction. Writ petition was filed by the respondents challenging the grant of interim injunction and rejection of the prayer for impleadment by the Civil court and for dismissing the plaint. The writ petition was partly allowed by the High Court rejecting the prayer for quashing the plaint but allowing the prayer for quashing the interim injunction and for impleadment and also directing that the application for interim relief shall be considered afresh. The Supreme Court held that the High Court has exceeded its jurisdiction under
+Article 226
+of the Constitution since remedy by way of appeal and revision were available.
+38. The Supreme Court in the decision reported in Regional Provident fund
+Commissioner v. Shiv Kumar Joshi
+, (2000) 1 SCC 98 : (AIR 2000 SC 331), while considering the scope of
+Section 2(1)(o)
+of the Consumer Protection Act, held that the statutory authority not invested with sovereign function while discharging its statutory func-
+tion provides service and would be liable under the Act in case of any deficiency.
+39. The second contention of Mr. James Vincent has already been answered in paragraph 19 supra and the reasoning given thereunder is more than sufficient to reject the argument of the learned counsel for the contesting respondent.
+40. The third contention raised by Mr. James Vincent has no force. The decision reported in
+Lucknow Development Authority v. M.K. Gupta
+. (1994) 1 SCC 243 : (AIR 1994 SC 787), was relied on for this proposition. The Supreme Court held that any defect or deficiency in service would be unfair trade practice and would amount to denial of service and, therefore, a complaint regarding defect or deficiency in the service performed by the government/semi government/local body would be entertainable. In this case, the Supreme Court was considering the jurisdiction of the Consumer Court to entertain complaints in regard to a defect or deficiency in construction and delivery of houses by Development Authority. The complaint was regarding the use of substandard materials or delay in delivery of houses. The Court held that the complaint cannot be rejected as being not maintainable on the ground that the goods under the Act meant only moveable goods as defined under the
+Sale of Goods Act
+and not immovable property.
+41. Mr. James Vincent submitted that even if it is held that
+Section 7-B
+of the Telegraph Act is the appropriate remedy, the telephone reconnection should be ordered as a condition precedent on payment of the disputed bill subject to arbitration, but without payment or reconnection charges. We are of the opinion that the parties are bound by the contract. Rule 413 of the Telegraph Rules provides that all services relating to telephone are subject to Indian Telegraph Rules and that a telephone connection can be disconnected by the Telegraph Authority for default of payment under Rule 443 of the Indian Telegraph Rules. If the telephone is disconnected for non-payment of dues, a subscriber cannot come to Court and contend that re-connection should be ordered as a condition precedent on payment of disputed bill subject to arbitration and without payment of reconnection charges. It is not in dispute that the telephone was disconnected for non-payment of telephone
+
+bills. Therefore, the subscriber is in default. When the subscriber is in default, the subscriber cannot contend that reconnection should be ordered as a condition precedent on payment of the disputed bill alone without payment of reconnection charges. This contention is rejected.
+42.
+In
+Achuthan Pillai v. Union of India
+. (1988) 1 Ker LT 41 : (AIR 1988 Kerala 140). K. T. Thomas, J. (as he then was) held that a dispute regarding unauthorised external extension of telephone comes under the purview of
+Section 7-B
+of the Telegraph Act.
+42A.
+B. Ramachandra Reddy v. Union of India
+, AIR 1993 Andh Pra 19, is a case
+relating to misuse of telephone. An allegation was made against the subscriber of making free calls in collusion with the Department Officials. The telephone was disconnected without giving opportunity of hearing. The High Court held that the procedure followed by the authorities is not proper and directed the authorities to initiate arbitration proceedings under Section 7-B for determining the questions of fact in the case and to reconnect the telephone thereafter.
+43. The fifth proposition put forward by Mr. James Vincent has no merit. As already noticed, the authorities are entitled to disconnect a telephone for default of payment under Rule 443 of the Telegraph Rules and, therefore, such a disconnection of telephone for non-payment of dues does not amount to deficiency in service as defined in
+Section 2(1)(g)
+of the Consumer Protection Act.
+44. The judgment cited by Mr. James Vincent have no direct bearing or application to the question at issue in this case. They are distinguishable on facts and on law. The question for consideration in this case is whether the Forum has jurisdiction to entertain a dispute presented by the second respondent herein for disconnection of his telephone for non-payment of bills. We have already referred to the several decisions of the Supreme Court cited by the learned counsel for the Department and in particular AIR 1995 SC 1384, (1995) 1 SCC 156 ; (1995 AIR SOW 1497). AIR 1979 SC 1250. (1994) 6 SCC 572 : (1994 AIR SCW 4453), AIR 1996 SC 1545 and (1996) 1 JT (SC) 215 : (AIR 1996 SC 2476). Section 7-B, In our opinion, is a widely worded provision, which takes in a variety of disputes as
+
+between the subscriber and the Department. The words "if any dispute concerning any telegraph line, appliance or apparatus, cable chamber, tower appliance or apparatus" do indicate that the legislature wanted to provide a machinery for resolution of most types of disputes which usually arises in respect of use of the telegraphic facilities. This is further clear from the latter portion of the sub-section which qualifies the word dispute "arises between the telegraph authorities and the person for whose benefit the line, appliance or apparatus is provided". Hence, if the dispute is one concerning the line, appliance or apparatus, such dispute falls within the scope of the subsection. "Telegraph line" is defined in
+Section 3(4)
+of the Act. The words such as "appliance" or "apparatus" for telegraphic communication would show that the disputes can pertain to them also. "Telegraph" as defined in
+Section 3
+( 1) includes any appliance, instrument, material or apparatus used or capable of use for transmission or reception of sounds, etc. The word "apparatus" would include a telephone receiver and if any extension is taken from such a receiver, it becomes an appliance or part of the apparatus. Hence, when a dispute arises regarding the same, it is difficult to push such a dispute outside the purview of
+Section 7-B
+of the Telegraph Act.
+45. In the instant case, the Department has alleged that the Forum has no jurisdiction to try the complaint since the dispute raised by the subscriber relates to an instrument installed at his request by the Telephone Department and that the dispute raised by the complainant relates to the quantum of the bill and, therefore, such disputes come within the purview of
+Section 7-B
+of the Telegraph Act. Consequently, it is submitted that the parties are amenable only to the Arbitration by the authority under
+Section 7-B
+of the Telegraph Act and the jurisdiction of the Forum to entertain a complaint to matters coming within the purview of that section is barred. We have, in the paragraphs above, interpreted the words in Section 7-B, viz., "any dispute concerning any telegraph line, appliance or apparatus, cable chamber tower appliance or apparatus", as found in the said section. In our opinion, the dispute as regards the bill relat-
+ing to an instrument would come within the purview of
+Section 7-B
+of the Telegraph Act and. consequently, the complaint given to the Forum would be barred. On reading of
+Section 7-B
+of the Telegraph Act, it is clear that the said section has provided a machinery by way of arbitration into claims regarding the instruments and billing. It is argued by Mr. James Vincent that exclusion of jurisdiction of an authority/court must be either express or arise from a clear implication. But, when the statute has provided for an effective machinery for investigation of complaints regarding non supply of bills and excessive billing in respect of a telephone, prima facie it has to be taken that the statute has intended to bar the jurisdiction of a Civil Court. We are, therefore, inclined to follow the ratio of the decision cited by the Central Government Standing Counsel and accept his contention that the Forum has no jurisdiction to entertain the complaint. The same view was expressed by P. K. Balasubramanyan, J. in C.R.P. 1125/95.
+We, therefore, quash Exhibit P7 order and prohibit the Forum from continuing with further proceedings in O.P. No. 399 of 1996 on the basis of Exhibit P5 complaint, in view of the dismissal of the complaint made by the second respondent under Exhibit P5, we now reserve liberty to the second respondent herein to invoke
+Section 7-B
+of the Indian Telegraph 'Act for redressal of his grievance and on receipt of the complaint/ representation, the Department shall refer the matter for Arbitration under
+Section 7-B
+of the Act. The Arbitrator shall, after giving opportunity to the second respondent or his counsel, dispose of the complaint/representation for arbitration in accordance with law. The second respondent is also directed to deposit the arrears and the reconnection charges to the Department immediately and on receipt of the same, the Department shall restore telephone connection immediately. The matter shall be referred to Arbitration-within one month from the date of receipt of the complaint/representation and the Arbitrator shall dispose of the same within two months thereafter.

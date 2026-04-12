@@ -1,0 +1,4337 @@
+Title: Search
+Court: Supreme Court of India
+Date: 15
+
+July 2020
+Citation: citations: AIR 2021 SUPREME COURT 1441, AIRONLINE 2021 SC 143
+Source: https://indiankanoon.org/doc/173843611/
+
+[Cites
+108
+, Cited by
+22
+]
+Supreme Court of India
+Neena Aneja vs Jai Prakash Associates Ltd. on 16 March, 2021
+Equivalent citations: AIR 2021 SUPREME COURT 1441, AIRONLINE 2021 SC 143
+Author:
+D.Y. Chandrachud
+Bench:
+D.Y. Chandrachud
+,
+M.R. Shah
+,
+Sanjiv Khanna
+Reportable
+
+
+                            IN THE SUPREME COURT OF INDIA
+                             CIVIL APPELLATE JURISDICTION
+
+
+                            Civil Appeal Nos. 3766-3767 of 2020
+
+
+
+          Neena Aneja & Anr.                                       .... Appellants
+
+
+                                          Versus
+
+
+
+          Jai Prakash Associates Ltd.                             .... Respondent
+Signature Not Verified
+Digitally signed by
+Chetan Kumar
+Date: 2021.03.17
+09:32:29 IST
+Reason:
+1
+JUDGMENT
+
+
+
+
+Dr Dhananjaya Y Chandrachud, J
+
+
+Index
+
+A.   Background
+
+B.   Submissions
+
+     B.1. Submissions of the appellants
+
+     B.2. Submissions of the respondent
+
+C.   Position of law on change of forum: An analysis of precedent
+
+     C.1. Venugopala Reddiar (1943- Federal Court 3 judges)
+     C.2.
+Kiran Singh v. Chaman Paswan
+(1954- Supreme Court 4 judges)
+     C.3. Garikapati (1957- Supreme Court Constitution Bench)
+     C.4. Mohd. Idris (1965- Supreme Court Constitution Bench)
+     C.5. Manujendra Dutt (1966- Supreme Court 2 judges)
+     C.6. New India Assurance (1975- Supreme Court 3 judges)
+     C.7. Maria Cristina (1978- Supreme Court 2 judges)
+     C.8. Hitendra Vishnu Thakur (1994- Supreme Court 2 judges)
+     C.9. Sudhir G Angur (2005- Supreme Court 3 judges)
+     C.10. Ramesh Kumar Soni (2013- Supreme Court 2 judges)
+     C.11. Dhadi Sahu (1992- Supreme Court 2 judges)
+     C.12. Ambalal Sarabhai (2001- Supreme Court 2 judges)
+     C.13. HP State Electricity (2013- Supreme Court 2 judges)
+     C.14. Videocon International (2015- Supreme Court 2 judges)
+     C.15.
+SEBI v. Classic Credit
+(2018- Supreme Court 2 judges)
+     C.16. Swapna Mohanty (2018- Supreme Court 2 judges)
+     C.17. Om Prakash Agarwal (2018- Supreme Court 2 judges)
+     C.18. Delhi High Court Bar Association (1993- Delhi HC-DB)
+2
+C.19. Mahendra Jain (2008- Bombay HC-DB)
+     C.20. Vallabhaneni (2004- Andhra Pradesh HC- 5 judges)
+     C.21. Gobardhan Lal Soneja (1991-Patna HC-FB)
+     C.22. Y.B. Ramesh (2010-Karnataka HC-SJ)
+     C.23. Conclusion on the position of law
+
+D.   Legislative Scheme of the jurisdictional provisions
+
+E.   Legislative intendment underlying Section 107 of the Act of 2019
+
+F.   Summation
+3
+PART A
+
+A      Background
+1.     On being enacted by Parliament, the Consumer Protection Act 20191 was
+
+published in the Gazette of India on 9 August 20192. By S.O. 2351(E) dated 15
+
+July 2020, the material provisions of the Act of 2019 were notified to come into
+
+force on 20 July 2020. By S.O. 2421(E) dated 23 July 2020 several other
+
+provisions were brought into force, with effect from 24 July 2020. The appellants
+
+instituted a consumer case3 before the National Consumer Disputes Redressal
+
+Commission4 on 18 June 2020. The consumer case was instituted under the
+
+provisions of the erstwhile legislation, the
+Consumer Protection Act
+19865. The
+
+NCDRC by its order dated 30 July 2020 dismissed the consumer case on the
+
+ground that after the enforcement of the Act of 2019, its pecuniary jurisdiction has
+
+been enhanced from rupees one crore to rupees ten crores. The appellants’
+
+review petition was also dismissed by the NCDRC on 5 October 2020. In the
+
+present case, the claim of Rs. 2.19 crores is below the enhanced pecuniary
+
+jurisdiction of the NCDRC.
+2.     The complainants in the consumer case are in appeal.
+3.     The issue which arises in the appeals is whether a complaint which was
+
+filed and registered under the Act of 1986, before the new Act of 2019 came into
+
+force, has to be entertained under the provisions of the erstwhile legislation. In
+
+anticipation of the enforcement of the Act of 2019, an administrative notice was
+1
+“Act of 2019”
+2
+The Act
+was published in the Gazette of India Extraordinary, Part II,
+Section 1
+, No. 54 dated 9
+August 2019
+3
+Consumer Case no.566 of 2020 (NCDRC)
+4
+“NCDRC”
+5
+“Act of 1986”
+4
+PART A
+
+issued by the NCDRC on 17 July 2020 to allow the functioning of its registry for
+
+fresh filings on 18 July 2020, since the new law was to come into force on 20 July
+
+2020. The appellants are also aggrieved by the fact that contrary to the position
+
+taken in its case, other Benches of the NCDRC have admitted complaints
+
+instituted before 20 July 2020. This grievance apart, the issue which arises in the
+
+appeals would turn upon a construction of
+Section 107
+of the Act of 2019, among
+
+other provisions of the new legislation, and its interplay with
+Section 6
+of the
+
+General Clauses Act 18976. The analysis of the Court, despite the new
+
+legislation, will not proceed on a clean slate for there is precedent which holds
+
+the field. That both sides rely upon the line of precedent in the unfolding of their
+
+cases makes the interpretational task intricate. Our task will be to bring a solution
+
+that has a sense of cohesion, while harmonizing precedential learning with
+
+justice.
+4.       A brief narration of the facts would assist with context. Upon the payment
+
+of an advance of Rs.3.50 lacs on 25 November 2011 by the appellants, the
+
+respondent provisionally allotted a residential unit in a real-estate project
+
+described as KRESCENT Homes admeasuring a super built area of 114.27
+
+square metres which was being developed by the respondent at Jaypee Greens,
+
+Noida. The total consideration was fixed at Rs.56.45 lacs and possession was
+
+intended to be conveyed within a period of 42 months from the execution of the
+
+agreement of the provisional allotment letter. The appellants have stated that
+
+between December 2011 till date, they have paid an amount of Rs. 53.84 lacs out
+
+of the total consideration of Rs.56.45 lacs.
+6
+“
+General Clauses Act
+”
+5
+PART A
+5.    On 13 June 2017 and 27 April 2020, the appellant sought a refund of the
+
+consideration together with interest at 18 per cent. On 18 June 2020, the
+
+appellants instituted a consumer complaint before the NCDRC for refund with
+
+interest. The consumer complaint has been dismissed by an order dated 30 July
+
+2020 for want of pecuniary jurisdiction. A single member Bench of the NCDRC
+
+held that following the enforcement of the Act of 2019 on 20 July 2020, the limits
+
+of its pecuniary jurisdiction stands enhanced from rupees one crore to rupees ten
+
+crores and the complaint instituted by the appellants is consequently not
+
+maintainable. The appellants instituted a petition seeking a review of the order.
+
+The review petition was dismissed on 5 October 2020 leading to the institution of
+
+the appeal before this Court.
+6.
+Section 21
+of the Act of 1986 provided for the jurisdiction of the NCDRC:
+“Jurisdiction of the National Commission. — Subject to
+             the other provisions of this Act, the National Commission shall
+             have jurisdiction—
+(a) to entertain—
+(i) complaints where the value of the goods or services
+              and compensation, if any, claimed exceeds
+              rupees one crore; and
+(ii) appeals against the orders of any State Commission;
+and
+(b) to call for the records and pass appropriate orders in any
+             consumer dispute which is pending before or has been
+             decided by any State Commission where it appears to the
+             National Commission that such State Commission has
+             exercised a jurisdiction not vested in it by law, or has failed to
+             exercise a jurisdiction so vested, or has acted in the exercise
+             of     its     jurisdiction  illegally    or    with     material
+             irregularity.” (emphasis supplied)
+6
+PART A
+7.
+Under the Act
+of 1986, the enhancement of the pecuniary limits of the
+
+jurisdiction of the NCDRC to rupees one crore came in substitution of rupees
+
+twenty lacs with effect from 15 March 2003 as a result of Act 62 of 2002. Earlier
+
+the limit of rupees twenty lacs was substituted by Act 50 of 1993 for rupees ten
+
+lacs with effect from 18 June 1993.
+8.     Under
+Section 11
+, the jurisdiction of the District Commission to entertain
+
+original complaints was rupees twenty lacs7. Under
+Section 17
+, the State
+
+Consumer Disputes Redressal Commission8 had jurisdiction to entertain
+
+complaints where the value of the goods and services or compensation if any
+
+claimed exceeds rupees twenty lacs but does not exceed rupees one crore9.
+9.
+The Act
+of 2019 was enacted by Parliament taking into account the
+
+experience which was gained in the administration of the earlier legislation and to
+
+meet new developments in the market place for products and services. The
+
+Statement of Objects and Reasons accompanying the introduction of the Bill in
+
+Parliament elucidates the rationale for the new law:
+“Statement of Objects and Reasons
+
+               The Consumer Protection Act, 1986 (68 of 1986) was
+               enacted to provide for better protection of the interests of
+               consumers and for the purpose of making provision for
+               establishment of consumer protection councils and other
+               authorities for the settlement of consumer disputes, etc.
+               Although, the working of the consumer dispute redressal
+               agencies has served the purpose to a considerable extent
+               under the said Act, the disposal of cases has been fast due to
+7
+The pecuniary limits were enhanced from rupees one lac to rupees five lacs by Act 50 of 1983 with
+effect from 18 June 1993. The limits were enhanced from rupees five lacs to rupees twenty lacs by
+Act 62 of 2002 with effect from 15 March 2003.
+8
+“SCDRC”
+9
+By Act
+62 of 2002, these limits had been enhanced from the previous limits of rupees five lacs –
+rupees 20 lacs
+7
+PART A
+
+various constraints. Several shortcomings have been noticed
+while administering the various provisions of the said Act.
+2.      Consumer markets for goods and services have
+undergone drastic transformation since the enactment of the
+Consumer Protection Act
+in 1986. The modern market place
+contains a plethora of products and services. The emergence
+of global supply chains, rise in international trade and the
+rapid development of e-commerce have led to new delivery
+systems for goods and services and have provided new
+options and opportunities for consumers. Equally, this has
+rendered the consumer vulnerable to new forms of unfair
+trade and unethical business practices. Misleading
+advertisements, tele-marketing, multi-level marketing, direct
+selling and e-commerce pose new challenges to consumer
+protection and will require appropriate and swift executive
+interventions to prevent consumer detriment. Therefore, it has
+become inevitable to amend the Act to address the myriad
+and constantly emerging vulnerabilities of the consumers. In
+view of this, it is proposed to repeal and reenact the Act.
+3.       Accordingly, a Bill, namely, the Consumer Protection
+Bill, 2018, was introduced in Lok Sabha on the 5th January,
+2018 and was passed by that House on the 20th December,
+2018. While the Bill was pending consideration in Rajya
+Sabha, the Sixteenth Lok Sabha was dissolved and the Bill
+got lapsed. Hence, the present Bill, namely, the Consumer
+Protection Bill, 2019.
+4.      The proposed Bill provides for the establishment of an
+executive agency to be known as the Central Consumer
+Protection Authority (CCPA) to promote, protect and enforce
+the rights of consumers; make interventions when necessary
+to prevent consumer detriment arising from unfair trade
+practices and to initiate class action including enforcing recall,
+refund and return of products, etc. This fills an institutional
+void in the regulatory regime extant. Currently, the task of
+prevention of or acting against unfair trade practices is not
+vested in any authority. This has been provided in a manner
+that the role envisaged for the CCPA complements that of the
+sector regulators and duplication, overlap or potential conflict
+is avoided.
+5.      The Bill envisages provisions for product liability
+action on account of harm caused to consumers due to a
+defective product or by deficiency in services. Further,
+provision of “Mediation” as an Alternate Dispute Resolution
+Mechanism has also been provided.
+6.      The Bill provides for several provision aimed at
+simplifying the consumer dispute adjudication process of the
+8
+PART A
+
+                Consumer Disputes Redressal Agencies, inter alia relating to
+                enhancing the pecuniary jurisdiction of the Consumer
+                Disputes Redressal Agencies; increasing minimum number of
+                Members in the State Consumer Disputes Redressal
+                Commissions and provisions for consumers to file complaints
+                electronically, etc.
+7.      The Bill seeks to achieve the above objectives.”
+10.
+Section 28(1)
+provides for the establishment of a District Consumer
+
+Disputes Redressal Commission10 in every district, subject to its establishment by
+
+a notification of the State Government11. The jurisdiction of the District
+
+Commission in terms of
+Section 34
+is to entertain complaints where the value of
+
+goods and services paid as consideration does not exceed one crore rupees.
+Section 42
+provides for the establishment of a SCDRC in each State. The
+
+pecuniary limits of the original jurisdiction of the SCDRC under
+Section 47(1)(a)
+is
+
+to entertain original complaints where the value of goods and services paid as
+
+consideration exceeds rupees one crore but does not exceed rupees ten crores.
+Section 53
+provides for the establishment of the NCDRC.
+Section 58(1)(a)
+contains the pecuniary limits of the jurisdiction of the NCDRC, which in the case
+
+of original complaints is where the value of goods and services paid as
+
+consideration exceeds rupees ten crores.
+10
+“District Commission”
+11
+28. (1) The State Government shall, by notification, establish a District Consumer Disputes
+Redressal Commission, to be known as the District Commission, in each district of the State:
+Provided that the State Government may, if it deems fit, establish more than one District Commission
+in a district.
+(2) Each District Commission shall consist of—
+(a) a President; and
+(b) not less than two and not more than such number of members as may be prescribed, in
+consultation with the Central Government.
+9
+PART A
+11.
+Section 107
+contains the repeal and savings provision, which is in the
+
+following terms:
+“107. Repeal and savings-
+(1)
+The Consumer Protection Act, 1986
+is hereby repealed.
+(2) Notwithstanding such repeal, anything done or any action
+               taken or purported to have been done or taken under the Act
+               hereby repealed shall, in so far as it is not inconsistent with the
+               provisions of this Act, be deemed to have been done or taken
+               under the corresponding provisions of this Act.
+(3) The mention of particular matters in sub-section (2) shall
+               not be held to prejudice or affect the general application of
+section 6
+of the General Clauses Act, 1897 with regard to the
+               effect of repeal.”
+
+
+
+In terms of sub-section (1) of
+Section 107
+, the Act of 1986 stands repealed. Sub-
+section (2) is prefaced with a non obstante provision. Under sub-section (2)
+
+anything done or any action taken or purported to have been done or taken under
+
+the repealed legislation is deemed to have been done or taken under the
+
+corresponding provision of the new legislation, insofar as it is not inconsistent
+
+with the latter provisions. Sub-section (3) of Section 107 stipulates that the
+
+specification of the matters contained in sub-section (2) does not prejudice or
+
+affect the general application of
+Section 6
+of the General Clauses Act (with
+
+regard to the effect of repeal). Having repealed, the Act of 1986, the new
+
+legislation has also made transitional provisions in Section 3112, Section 4513 and
+12
+31. Transitional provision: Any person appointed as President or, as the case may be, a member of
+the District Commission immediately before the commencement of this Act shall hold office as such
+as President or, as the case may be, as member till the completion of his term for which he has been
+appointed.
+13
+45. Transitional provision: Any person appointed as President or, as the case may be, a member of
+the State Commission immediately before the commencement of this Act shall hold office as such, as
+President or member, as the case may be, till the completion of his term.
+10
+PART A
+
+Section 5614 for the continuance of persons appointed as members of the District
+
+Commission, the SCDRC and the NCDRC under the erstwhile legislation.
+14
+56. Transitional provision: The President and every other member appointed immediately before
+the commencement of
+section 177
+of the Finance Act, 2017 shall continue to be governed by the
+provisions of the
+Consumer Protection Act, 1986
+and the rules made thereunder as if this Act had not
+come into force.
+11
+PART B
+
+B       Submissions
+
+
+B.1     Submissions of the appellants
+12.     Mr P Vinay Kumar, learned Counsel appearing on behalf of the appellants
+
+urged the following submissions in support of the appeal:
+(i)
+Section 107(3)
+of the Act of 2019 gives full effect to the provisions of
+Section 6
+of the General Clauses Act, which means that nothing in the
+
+        repeal of the earlier legislation will affect pending proceedings which may
+
+        continue as if the new legislation has not been enacted.
+Under the Act
+of
+
+        2019, the jurisdiction has been conferred on the SCDRC to hear
+
+        complaints under the new Act. In order to vest the SCDRC with jurisdiction
+
+        to hear complaints which were instituted before the NCDRC under the old
+
+        Act, a specific provision for transferring the proceedings was required-
+which has not been provided. This is not the case where a statute has
+
+        been amended by enhancement of pecuniary jurisdiction but involves the
+
+        repeal of an old statute in which event a provision for transferring the
+
+        cases to the new forum is essential;
+(ii)    The new Act of 2019 affects substantive and vested rights and must
+
+        necessarily be prospective; and
+(iii)   The new legislation does not contain any provision for its retrospective
+
+        operation.
+A.      Elaborating on the first limb of submissions, learned counsel urged that in
+
+        several decisions of this Court,
+Section 6
+of the General Clauses Act was
+12
+PART B
+
+          applied by the Court in order to save existing proceedings. In the present
+
+          case, the law makers have specifically incorporated the applicability of
+Section 6
+of the General Clauses Act, by making a provision in
+Section
+
+          107(3)
+of the Act of 2019. The question of examining the existence of
+
+          vested rights arises only where there is a doubt over a savings provision or
+
+          when
+Section 6
+has not been made specifically applicable. In such cases,
+
+          the Court has to scrutinize whether a vested right had arisen under the
+
+          repealed statute, in which event the pending proceedings would be saved.
+
+          However, where
+Section 6
+is applicable, it covers a wider field so as to
+
+          save not only vested rights but all rights covered by clauses (a) to (e) of
+Section 6
+.
+B.        The next limb of the submissions is that substantial changes have been
+
+          made in the provisions for appeal contained in the Act of 2019. For
+
+          instance, the second proviso to
+Section 19
+of the Act of 1986 required an
+
+          aggrieved person to either deposit 50 per cent of the amount awarded by
+
+          the SCDRC or Rs 25,000, whichever is less. However, in the Act of 2019,
+
+          the second proviso to Section 51(1) stipulates that an appeal shall not be
+
+          entertained by the NCDRC unless the appellant has deposited 50 per cent
+
+          of the amount required under the order of the SCDRC. This provision
+
+          substantially affects the vested right of a litigant and is not merely
+
+          procedural in nature.
+In
+Garikapati Veeraya v. N Subbiah Choudhry15
+,
+
+          the Constitution Bench of this Court has held that a right of appeal is not a
+
+          mere matter of procedure but is a substantive right and that the institution
+15
+“Garikapati”; 1957 SCR 488
+13
+PART B
+
+     of a suit carries with it the implication that all rights of appeal then in force
+
+     are preserved. Such a vested right can only be taken away either
+
+     expressly or by necessary implication. Hence, the relevant date is the date
+
+     of the institution of the suit and not when the case comes for hearing or for
+
+     decision. In the present case, the earlier legislation was in force when the
+
+     complaint was filed and hence the rights and obligations which accrued on
+
+     that date would stand saved. As a result of the Act of 2019, a statutory
+
+     appeal which was provided to the complainant to the Supreme Court
+
+     against an order of the NCDRC has been taken away by stipulating that
+
+     matters which will lie before the SCDRC will only be amenable to appeal
+
+     before the NCDRC. From the thirty one Sections in the Act of 1986, the Act
+
+     of 2019 has legislated for one hundred and seven Sections which in itself
+
+     indicates that the change is not merely procedural, but substantial.
+
+
+C.   The third limb of submissions is that there is no provision for transfer of
+
+     pending cases in the new Act of 2019. Under
+Section 47
+of the Act of
+
+     2019 of the new legislation, the jurisdiction of the SCDRC is to entertain
+
+     complaints under the Act of 2019 above a certain value. The jurisdiction to
+
+     entertain complaints under the erstwhile legislation could only have been
+
+     conferred by an express statutory provision that transferred complaints
+
+     filed under the old Act from the NCDRC to the SCDRC. Any direction for
+
+     the transfer of existing cases would entail disturbing thousands of cases
+
+     pending before the NCDRC and SCDRCs across the country. This would
+
+     cause serious hardship and prejudice to consumers and a waste of judicial
+
+     time invested till date.
+A similar question was dealt with by the NCDRC in
+14
+PART B
+
+          its Judgment 8 April 2011 in
+Southfield Paints and Chemicals Pvt. Ltd.
+
+          v. New India Assurance Co. Ltd.16
+which construed
+Amending Act
+62 of
+
+          2002 by which the pecuniary limits of jurisdiction were enhanced with
+
+          effect from 15 March 2003.
+Relying on the earlier decision in Premier
+
+          Automobiles Ltd. v. Dr Manoj Ramachandran17, the NCDRC held that
+
+          the amendments enhancing the pecuniary jurisdiction were prospective in
+
+          nature. The legislature must be considered to be aware of this precedent.
+
+
+D.        Finally, it was urged that the Act of 2019 came into force on July 2020
+
+          while the complaint in the present case was instituted before the NCDRC
+
+          on 18 June 2020. The dismissal of the complaint for want of pecuniary
+
+          jurisdiction is in contravention of the administrative notice dated 17 July
+
+          2020 of the NCDRC. The administrative directions were complied with by
+
+          other Benches of the NCDRC which have admitted a number of complaints
+
+          instituted under the
+Consumer Protection Act
+1986.
+E.        In sum and substance, therefore, it has been urged that:
+(i)
+Section 107
+of the Act of 2019 read with
+Section 6
+of the General
+
+                  Clauses Act saves pending legal proceedings; hence the complaint
+
+                  which was filed before the enforcement of the new legislation should
+
+                  be allowed to proceed before the NCDRC under the Act of 1986;
+(ii)    The relevant date is the date of the institution of the complaint and
+
+                  not the date when the matter is heard or decided;
+16
+Consumer Case No. 286 of 2000 (NCDRC)
+17
+Revision Petitions Nos 400 to 402 of 1993 (NCDRC)
+15
+PART B
+(iii)   The new legislation affects substantive rights of appeal to the
+
+               NCDRC by making a deposit of 50 per cent of the decretal amount
+
+               mandatory;
+(iv)    In the absence of an express provision, the new legislation must
+
+               operate prospectively; and
+(v)     In the absence of a provision for transfer of pending cases,
+
+               complaints which were instituted prior to the enforcement of the Act
+
+               of 2019 should not be disturbed.
+B.2    Submissions of the respondent
+
+13.
+
+A.     Mr Krishnan Venugopal, learned Senior Counsel appearing on behalf of
+the respondent, supported the reasoning of the NCDRC and urged the following
+
+submissions:
+(i)      The Statement of Objects and Reasons underlying the enactment of
+
+               the Act of 2019 indicates that:
+(a)    The new legislation has been enacted to strengthen the
+
+                      remedies available to consumers;
+(b)    The legislature was conscious of the delays in the disposal of
+
+                      cases under the erstwhile legislation; and
+(c)    While enacting the new law, a conscious decision was taken
+
+                      to enhance the pecuniary limits of the jurisdiction of the
+
+                      District Commission, SCDRC and NCDRC to ensure that the
+16
+PART B
+
+                      large proportion of cases can be resolved in the fora situated
+
+                      close to the complainants;
+(ii)    The purpose of the Act of 2019, as envisaged in the Statement of
+
+              Objects and Reasons, is further emphasized under
+Section 2(9)(iv)
+of
+
+              the Act of 2019 under which consumer rights have been defined to
+
+              include "the right to be heard and be assured that consumer interests
+
+              will receive due consideration at appropriate fora”;
+(iii)
+Sections 28
+, 42 and 53 provide for the establishment of the District
+
+              Commission, SCDRC and NCDRC. Under Section 58(1)(a), the
+
+              NCDRC is empowered to entertain complaints where the value of
+
+              goods or services paid as consideration exceeds rupees ten crores.
+The expression ‘entertain’ has been construed in a broad and
+
+              comprehensive sense to mean ‘to adjudicate upon’ in the decision of
+
+              this Court in
+Nusli Neville Wadia v. Ivory Properties18
+;
+(iv)    The basic principle of law is that when a statute is repealed,
+
+              everything stands obliterated.
+Section 107(2)
+of the Act of 2019
+
+              covers concluded transactions while Section 107(3) preserves the
+
+              application of
+Section 6
+of the General Clauses Act.
+Section 6
+is
+
+              prefaced with the words "unless a different intention appears".
+
+              Clause (c) of
+Section 6
+is substantive in nature while clause (e)
+
+              applies to pending proceedings. The precedents of this Court would
+
+              indicate that
+Section 6(e)
+has been interpreted as extending to
+
+              substantive proceedings, but a pure matter of procedure is excluded.
+18
+“Nusli Neville”; (2020) 6 SCC 557: at paras 35 and 36
+17
+PART B
+
+         A change of forum, like matters of evidence and civil procedure is a
+
+         pure matter of procedure.
+Section 6(e)
+would hence not be applicable
+
+         where a new legislation results in a change of forum;
+(v)      Where a law takes away a right of action or appeal, it is treated as a
+
+         substantive alteration and does not apply to pending actions. A mere
+
+         change in forum is to be distinguished from a substantive alteration.
+The Act
+of 2019 is a law which repeals the earlier legislation and
+
+         created a new hierarchy of courts and it must, consequentially, be
+
+         treated as retroactive;
+(vi)     The right of appeal is a substantive right which accrues at the date of
+
+         the institution of a proceeding. An amendment taking away this right
+
+         imposes a substantive alteration and is therefore construed to be
+
+         prospective. This principle does not apply where there is only a
+
+         change of forum;
+(vii)
+The Act
+of 2019 does not abrogate existing rights. On the contrary, it
+
+         preserves and provides for an additional right of appeal where, as a
+
+         result of the legislation, a complaint which could earlier be filed
+
+         before the NCDRC has to be filed before the SCDRC. A complaint
+
+         before the SCDRC would have to be instituted before the District
+
+         Commission. The right to appeal is therefore strengthened and not
+
+         truncated;
+(viii)   Section 34 empowers the District Commission with jurisdiction "to
+
+         entertain complaints" and a similar provision has been made in
+
+         Section 47(1)(a) pertaining to the SCDRC and Section 58(1)(a)
+18
+PART B
+
+       pertaining to the NCDRC. This expression emphasizes that it applies
+
+       at every point of time when a matter is entertained for adjudication or
+
+       for consideration on merits;
+(ix)
+The Act
+of 2019 abolished the old hierarchy of fora under the Act of
+
+       1986 and established adjudicatory fora afresh. The case pending
+
+       before one of the fora governed by the Act of 1986 ceases to be
+
+       pending because the Act of 2019 has, by its repeal, abolished the
+
+       existing adjudicatory bodies.
+Sections 28
+, 42 and 53 established new
+
+       adjudicatory bodies afresh under the Act of 2019. This is evident
+
+       from the provisions of
+Section 31
+, 45 and 56 under which judicial
+
+       personnel of the erstwhile fora were permitted to continue under the
+
+       Act of 2019;
+(x)    The Act of 2019 indicates a contrary intent within the meaning of
+
+       Section 6 of the General Clauses Act; and
+(xi)   The principle that a repeal of a statute obliterates the effects and
+
+       consequence of the earlier legislation, is subject to three exceptions:
+(a)    Concluded transactions continue to be governed by the old
+
+              law;
+(b)    Where a right of appeal or of action is abrogated or in a
+
+              situation where clogs are imposed on the right, such rights
+
+              continue to be preserved notwithstanding the repeal; and
+(c)    Where a substantive liability or a right is imposed or
+
+              conferred, this would be treated as prospective. On the other
+19
+PART B
+
+                    hand, the consistent view under
+Section 6 (e)
+is that it does
+
+                    not apply to a mere change of forum.
+B.    The sum and substance of the submissions which were urged by Mr
+
+Krishnan Venugopal, learned Senior Counsel is that where a law provides for a
+
+change in forum, this is treated as a matter of procedure and not of substance.
+The Act
+of 2019 is not a legislation merely enhancing the limits of the pecuniary
+
+jurisdiction by an amendment to the Act of 1986. On the contrary, the Act of 2019
+
+is a completely new law, which abolished the hierarchy of tribunals under the
+
+erstwhile Act of 1986 and created a new adjudicatory hierarchy. As a matter of
+
+interpretation, the Act of 2019 clearly indicates an intention to the contrary as a
+
+result of which pending proceedings will not continue before the forums which
+
+existed under the Act of 1986. In other words, the limits of pecuniary jurisdiction
+
+which have been defined under the Act of 2019 will apply to all pending actions
+
+and a transfer of existing cases would be required in those cases where the
+
+jurisdiction to entertain the complaint lies within the pecuniary limits of the newly
+
+established forum. In support of his submissions, Mr Venugopal relied on a line of
+
+precedent which would be discussed while analyzing the rival contentions.
+14.   The rival submissions are now considered.
+20
+PART C
+
+C         Position of law on change of forum: An analysis of precedent
+
+
+C.1       Venugopala Reddiar (1943- Federal Court 3 judges)
+15.       The discussion on the law begins with the decision of the Federal Court in
+Venugopala Reddiar v. Krishnaswami Reddiar
+, alias Raja Chidambara
+
+Reddiar19 which considered the validity of a pending proceeding when the court
+
+had lost territorial jurisdiction. Before 1937, when Burma was a part of British
+
+India, it was permissible under
+Section 17
+of the Civil Procedure Code to include
+
+immovable property situated in Burma as a part of the subject matter of a suit.
+
+The principal respondent instituted a suit for the recovery of certain properties. A
+
+large portion of these properties was situated in Rangoon, Burma. The suit had
+
+been instituted before the Trichinopoly Court. After Burma ceased to be a part of
+
+India on 1 April 1937, the contesting defendants objected to the jurisdiction of the
+
+Court to deal with the Burma property. The Trial Judge upheld the objection that it
+
+no longer had jurisdiction over property situated in Burma. This was reversed by
+
+a Division Bench of the Madras High Court. The Division Bench held that
+Article
+
+10
+of the Government of India (Adaptation of Indian Laws) Order 1937 provided
+
+that the powers exercisable by any authority, which in the view of the High Court
+
+would include a Court, before the separation came into force should continue to
+
+be exercised until a contrary provision was passed by the legislature. The High
+
+Court also held that a right to continue a duly instituted suit was in the nature of a
+
+vested right which cannot be taken away except by a clear legislative intent.
+19
+AIR 1943 FC 24
+21
+PART C
+
+Justice Srinivasa Varadachariar summed up the legal principle at page 48 by
+
+observing:
+“..The true position, as we have already stated, is not whether
+                 there is an express provision permitting the continuance of
+                 pending proceedings, but whether there is any clear
+                 indication against the continuance of pending proceedings to
+                 their normal termination.”
+
+
+
+In an earlier part of the judgment, the Court noted that paragraph (e) of sub-
+Section (2) of Section 38 of the Interpretation Act, 1889 provides that any legal
+
+proceedings in respect of any right acquired or accrued under the repealed
+
+enactment may “continue as if the repealing Act had not been passed”. Noting
+
+that the interpretation of this paragraph is not free from difficulty, Justice
+
+Varadachariar observed that the view has sometimes been taken that what is
+
+saved is a substantive right acquired under the repealed enactment and that the
+
+paragraph cannot be invoked in cases where the substantive right is not taken
+
+away by the repealing Act but the mere forum for, or the method of enforcing it is
+
+changed. On the other hand, the Court noted, it has been maintained that a right
+
+to obtain a relief in a suit pending at the time when the repealing enactment
+
+comes into operation is itself in the nature of a substantive right. Of the three
+
+grounds which had weighed with the High Court in affirming the jurisdiction of the
+
+Trial Court, the Federal Court rested its decision on the principle contained in the
+
+ruling of the Privy Council in Colonial Sugar Refining Company Ltd. v. Irving20
+
+which held that a right to appeal is a substantive right whose amendment would
+
+generally be prospective:
+“As regards the general principles applicable to the case
+                 there was no controversy. On the one hand, it was not
+20
+(1905) AC 369
+22
+PART C
+
+                disputed that if the matter in question be a matter of
+                procedure only, the petition is well founded. On the other
+                hand, if it be more than a matter of procedure, if it touches a
+                right in existence at the passing of the Act, it was conceded
+                that, in accordance with a long line of authorities extending
+                from the time of Lord Coke to the present day, the appellants
+                would be entitled to succeed. The Judiciary Act is not
+                retrospective by express enactment or by necessary
+                intendment. And therefore the only question is: was the
+                appeal to His Majesty in Council a right vested in the
+                appellants at the date of the passing of the Act, or was it a
+                mere matter of procedure? It seems to Their Lordships that
+                the question does not admit of doubt. To deprive a suitor in
+                a pending action of an appeal to a superior tribunal
+                which belonged to him as of right is a very different thing
+                from regulating procedure. In principle, Their Lordships
+                see no difference between abolishing an appeal
+                altogether and transferring the appeal to a new tribunal.
+In either case there is an interference with existing rights
+                contrary to the well-known general principle that statutes
+                are not to be held to act retrospectively unless a clear
+                intention to that effect is manifested.” (emphasis
+                supplied)
+
+
+
+The principle enunciated by the Privy Council in Colonial Sugar Refining was
+
+reiterated.
+C.2       Kiran Singh v. Chaman Paswan
+(1954- Supreme Court 4 judges)
+16.
+In
+Kiran Singh v. Chaman Paswan21
+, the appellant’s suit for recovery of
+
+land on the basis of the eviction of the defendants was dismissed by the
+
+Subordinate Judge which was affirmed in appeal. When the matter was taken up
+
+in second appeal to the Punjab High Court, an objection to the valuation of the
+
+plaint was raised by the stamp reporter and the correct valuation was determined
+
+on which the plaintiffs paid additional court fees. On the revised valuation, the
+
+plaintiffs raised the plea that the appeal from the decree of the Subordinate
+21
+AIR 1954 SC 340
+23
+PART C
+
+Judge would not lie to the District Court but to the High Court and that
+
+accordingly the second appeal should be heard as a first appeal against the
+
+judgment of the District Court. Following the Full Bench decision, the High Court
+
+held that the appeal to the District Court was competent and its decision should
+
+be reversed only if prejudice were shown on merits. In appeal, this Court noted
+
+that on a plaint valuation, the appeal would lie to the District Court whereas on
+
+the valuation as determined by the High Court, it was held that it was competent
+
+to entertain the appeal. On this basis, it was argued the decision of the District
+
+Court was a nullity. This Court rejected the contention that the decree was a
+
+nullity, holding that an objection to the pecuniary jurisdiction shall not be
+
+entertained by an Appellate Court unless there has been a consequent failure of
+
+justice. Dealing with the argument that a prejudice had been caused to the
+
+appellants in that by reason of the undervaluation, their appeal was heard by a
+
+Court of inferior jurisdiction while they were entitled to a first appeal before the
+
+High Court, this Court held:
+“11. It is next contended that even treating the matter as
+             governed by
+Section 11
+of the Suits Valuation Act, there was
+             prejudice to the appellants, in that by reason of the
+             undervaluation, their appeal was heard by a court of inferior
+             jurisdiction, while they were entitled to a hearing by the High
+             Court on the facts. It was argued that the right of appeal was
+             a valuable one, and that deprivation of the right of the
+             appellants to appeal to the High Court on facts must therefore
+             be held, without more, to constitute prejudice. This argument
+             proceeds on a misconception. The right of appeal is no
+             doubt a substantive right, and its deprivation is a serious
+             prejudice; but the appellants have not been deprived of
+             the right of appeal against the judgment of the
+             Subordinate Court. The law does provide an appeal
+             against that judgment to the District Court, and the
+             plaintiffs have exercised that right. Indeed, the
+             undervaluation has enlarged the appellants' right of
+             appeal, because while they would have had only a right
+             of one appeal and that to the High Court if the suit had
+24
+PART C
+
+been correctly valued, by reason of the undervaluation
+they obtained right to two appeals, one to the District
+Court and another to the High Court. The complaint of
+the appellants really is not that they had been deprived of
+a right of appeal against the judgment of the Subordinate
+Court, which they have not been, but that an appeal on
+the facts against that judgment was heard by the District
+Court and not by the High Court. This objection therefore
+amounts to this that a change in the forum of appeal is
+by itself a matter of prejudice for the purpose of
+Section
+11
+of the Suits Valuation Act.
+……….
+15. So far, the definition of “prejudice” has been negative
+in terms — that it cannot be mere change of forum or
+mere error in the decision on the merits. What then is
+positively prejudice for the purpose of
+Section 11
+? That is a
+question which has agitated courts in India ever since the
+enactment of the section. It has been suggested that if there
+was no proper hearing of the suit or appeal and that had
+resulted in injustice, that would be prejudice within
+Section 11
+of the Suits Valuation Act. Another instance of prejudice is
+when a suit which ought to have been filed as an original suit
+is filed as a result of undervaluation on the small cause side.
+The procedure for trial of suits in the Small Cause Court is
+summary; there are no provisions for discovery or inspection;
+evidence is not recorded in extenso, and there is no right of
+appeal against its decision. The defendant thus loses the
+benefit of an elaborate procedure and a right of appeal which
+he would have had if the suit had been filed on the original
+side. It can be said in such a case that the disposal of the suit
+by the Court of Small Causes has prejudicially affected the
+merits of the case. No purpose, however, is served by
+attempting to enumerate exhaustively all possible cases of
+prejudice which might come under
+Section 11
+of the Suits
+Valuation Act. The jurisdiction that is conferred on appellate
+courts under that section is an equitable one, to be exercised
+when there has been an erroneous assumption of jurisdiction
+by a subordinate court as a result of overvaluation or under
+valuation and a consequential failure of justice. It is neither
+possible nor even desirable to define such a jurisdiction
+closely, or confine it within stated bounds. It can only be
+predicated of it that it is in the nature of a revisional
+jurisdiction to be exercised with caution and for the ends of
+justice, whenever the facts and situations call for it. Whether
+there has been prejudice or not is, accordingly, a matter to be
+determined on the facts of each case.” (emphasis supplied)
+25
+PART C
+17. Therefore, this court made a clear distinction between amendments
+
+      impacting a substantive right of appeal and amendments which merely alter
+
+      the forum where such an appeal could be urged. The latter could not be
+
+      construed as having caused a prejudice as it was not substantive in nature.
+
+
+
+C.3    Garikapati (1957- Supreme Court Constitution Bench)
+18.
+In
+Garikapati
+(supra), Chief Justice S R Das speaking for the Constitution
+
+Bench, formulated the legal principles which govern this area of interpretative
+
+jurisprudence.
+The decision in
+Garikapati
+(supra) is the locus classicus on
+
+subject of the substantive right of appeal vis-à-vis pending proceedings. The five
+
+principles which were enunciated in paragraph 23 of the decision are extracted
+
+below:
+“23….:
+(i) That the legal pursuit of a remedy, suit, appeal and
+             second appeal are really but steps in a series of
+             proceedings all connected by an intrinsic unity and are to
+             be regarded as one legal proceeding.
+(ii) The right of appeal is not a mere matter of procedure but
+             is a substantive right.
+(iii) The institution of the suit carries with it the implication that
+             all rights of appeal then in force are preserved to the parties
+             thereto till the rest of the career of the suit.
+(iv) The right of appeal is a vested right and such a right to
+             enter the superior court accrues to the litigant and exists as
+             on and from the date the lis commences and although it may
+             be actually exercised when the adverse judgment is
+             pronounced such right is to be governed by the law prevailing
+             at the date of the institution of the suit or proceeding and not
+             by the law that prevails at the date of its decision or
+             at the date of the filing of the appeal.
+(v) This vested right of appeal can be taken away only by a
+             subsequent enactment, if it so provides expressly or by
+             necessary intendment and not otherwise.” (emphasis
+             supplied)
+26
+PART C
+
+The Constitution Bench clarified that the right of appeal is a vested right which
+
+cannot be taken away, absent a statutory enactment to the effect. It was also
+
+clarified that the right to appeal would vest, once the suit is instituted.
+C.4       Mohd. Idris (1965- Supreme Court Constitution Bench)
+19.
+In
+Mohd. Idris v. Sat Narain22
+, a Constitution Bench of this Court
+
+considered whether a pending application filed on 27 May 1952 under the UP
+
+Agriculturist Relief Act for redemption of a mortgage was rendered incompetent
+
+upon the passing of the UP Zamindari Abolition and Land Reforms (Amendment)
+
+Act 1953 which was brought into force with retrospective effect on 1 July 1952.
+
+The question, as Justice M Hidayatullah (as the learned Chief Justice then was)
+
+formulated was, “whether the right of the plaintiff to continue the suit under the
+
+old law was in any way impaired”. Dealing with the provisions of
+Section 6
+of the
+
+UP General Clauses Act 1897 (which is pari materia to the corresponding
+
+provisions of the
+General Clauses Act
+), the Court held:
+“7…The question is whether a different intention appears in
+                 either the Abolition Act or the
+Amending Act
+16 of 1953, for
+                 otherwise the old proceeding could continue before the
+                 Munsif. There is nothing in the Abolition Act which takes away
+                 the right of suit in respect of a pending action. If there be any
+                 doubt, it is removed when we consider that the U.P.
+                 Agriculturist Relief Act was repealed retrospectively from July
+                 1, 1952 only and it is not, therefore, possible to give the
+                 repeal further retrospectivity so as to affect a suit pending
+                 from before that date. The jurisdiction of the Assistant
+                 Collector was itself created from July 1, 1952 and there is
+                 no provision in the Abolition Act that pending cases were
+                 to stand transferred to the Assistant Collector for
+                 disposal. Such provisions are commonly found in a
+                 statute which takes away the jurisdiction of one court
+                 and confers it on another. From these two circumstances
+                 it is to be inferred that if there is at all any expression of
+22
+“Mohd. Idris”; AIR 1966 SC 1499
+27
+PART C
+
+intention, it is to keep
+Section 6
+of the General Clauses
+Act applicable to pending litigation. The doubt, if any be
+left, is further removed if we consider a later amending Act,
+namely, amending Act 18 of 1956. By that Act Schedule II,
+which created the jurisdiction of the Assistant Collector in
+suits for ejectment of asamis was replaced by another
+Schedule. The entry relating to suits for ejectment of asamis,
+however, remained the same. But
+Section 23
+of the amending
+Act of 1956 created a special saving which reads as follows:
+“23. Saving.—(i) Any amendment made by this Act
+       shall not effect the validity, invalidity, effect or
+       consequence of anything already done or suffered, or
+       any right, title obligation or liability already acquired,
+       accrued or incurred or any jurisdiction already
+       exercised, and any proceeding instituted or
+       commenced before any court or authority prior to the
+       commencement of this Act shall, notwithstanding any
+       amendment herein made, continue to be heard and
+       decided by such court or authority.
+(ii) An appeal, review or revision from any suit or
+       proceeding instituted or commenced before any court
+       or authority prior to the commencement of this Act
+       shall, notwithstanding any amendment herein made,
+       lie to the Court or authority to which it would have laid
+       if instituted or commenced before the said
+       commencement.”
+The addition of this section clearly shows that by the
+conferral of the jurisdiction upon the Assistant Collector
+it was not intended to upset litigation pending before
+appropriate authorities when the Abolition Act came into
+force.
+Section 23
+in terms must apply to the present case,
+because if it had remained pending before the Munsif, till
+1956, it is clear, the jurisdiction of the Munsif would not have
+been ousted. Although it was not pending before the Munsif it
+was pending before the appellate court when the 1956
+Amendment Act was passed. It follows, therefore, that to such
+a suit the provisions of Schedule II read with Section 200 of
+the Abolition Act cannot be applied because the legislature
+has in 1956 said expressly what was implicit before, namely,
+that pending actions would be governed by the old law as if
+the new law had not been passed. In our judgment, therefore,
+the proceedings before the Munsif were with jurisdiction
+because they were not affected by the passing of the
+Abolition Act or the amending Act, 1953, regard being had to
+the provisions of
+Section 6
+of the U.P. General Clauses Act in
+the first instance and more so in view of the provisions of
+Section 23
+of the amending Act, 1956 which came before the
+proceedings between the parties had finally terminated. The
+28
+PART C
+
+                 appeal must, therefore, fail. It will be dismissed with costs.”
+                 (emphasis supplied)
+20.       The Constitution Bench relied on the absence of a provision for transfer of
+
+pending actions under the repealing legislation to save the proceedings at the old
+
+forum. The Constitution Bench observed that provisions of transfer of pending
+
+cases are commonly found in such legislations. It is pertinent to mention that the
+
+subsequent repealing legislation materially altered the position of the parties. The
+
+mortgagee appellants were resisting their ejectment from the suit land by the
+
+respondent mortgagor in a suit for redemption of mortgage on the ground that
+
+they have become asamis or sirdars under the repealing legislation and their
+
+ejectment can only take place in accordance with the provisions of the new Act.
+
+Hence, the effect of the repeal was not a mere change in forum. Further, a
+
+subsequent amendment to the repealing legislation made it clear that the pending
+
+proceedings would be concluded at the earlier forum where they had been
+
+instituted and under the repealed legislation.
+C.5       Manujendra Dutt (1966 Supreme Court- 2 judges)
+21.
+In
+Manujendra Dutt v. Purnedu Prosad Roy Chowdhury23
+, a two judge
+
+Bench of this Court consisting of Chief Justice K Subba Rao and Justice J M
+
+Shelat dealt inter alia with the jurisdiction of the Controller under the
+Calcutta
+
+Thika Tenancy Act
+1949, after the deletion of
+Section 29
+by
+Amending Act
+6 of
+
+1953, in respect of proceedings pending before him on that date. The High Court
+
+had taken the view that in spite of the deletion of
+Section 29
+, the jurisdiction of
+23
+“Manujendra Dutt” ; (1967) 1 SCR 475
+29
+PART C
+
+the Controller in respect of matters pending before him on the date of the coming
+
+into force of the
+Amending Act
+was saved. The submission which was urged
+
+before this Court was that since it was only by reason of
+Section 29
+that the suit
+
+had been transferred to the Controller, the deletion of that Section from the
+
+legislation had the effect of depriving the Controller of its jurisdiction and hence
+
+the judgment and order, though confirmed by the Subordinate Judge and by the
+
+High Court, was without jurisdiction. Repealing this contention, Justice J M Shelat
+
+held:
+“4…Though
+Section 29
+was deleted by the amendment
+             Act of 1953 the deletion would not affect pending
+             proceedings and would not deprive the Controller of his
+             jurisdiction to try such proceedings pending before him
+             at the date when the amendment Act came into force.
+             Though the amendment Act did not contain any saving
+             clause, under
+Section 8
+of the Bengal General Clauses
+             Act, 1899, the transfer of the suit having been lawfully
+             made under
+Section 29
+of the Act its deletion would not
+             have the effect of altering the law applicable to the claim
+             in the litigation. There is nothing in
+Section 8
+of the
+             amending Act of 1953 suggesting a different intention
+             and therefore the deletion would not affect the previous
+             operation of
+Section 5
+of the Calcutta Thika Tenancy Act or
+             the transfer of the suit to the Controller or anything duly done
+             under
+Section 29
+. That being the correct position in law the
+             High Court was right in holding that in spite of the deletion of
+Section 29
+the Controller still had the jurisdiction to proceed
+             with the said suit transferred to him.” (emphasis supplied)
+22.     The above extract indicates that the
+Amending Act
+did not contain a
+
+savings clause under
+Section 8
+of the Bengal General Clauses Act 1899. Despite
+
+the absence of a savings clause, the Court held that the deletion of
+Section 29
+did not have the effect of altering the law applicable to the claim in the litigation
+
+and there was nothing in the amending Act to indicate a contrary intention. At this
+
+stage, it may be necessary to note that the second issue involved was the right of
+30
+PART C
+
+the thika tenant as defined by the Act to the notice provided under the deed of
+
+lease. On this aspect, the decision in
+Manujendra Dutt
+(supra
+)
+has been
+
+overruled
+in the seven judge Bench decision in
+V Dhanapal Chettiar v. Yesodai
+
+Ammal24
+.
+It is pertinent to mention that the decision in
+Manujendra Dutt
+(supra),
+
+was concerned with the provisions of the repealing Act that impacted a
+
+substantive right of litigants which was affected by virtue of the repeal and a
+
+resulting change in forum. This Court’s position, in interpreting
+Section 6
+of the
+
+General Clauses Act, 1897 was clearly in favour of saving all substantive rights,
+
+including vested rights, that were acquired or accrued prior to the repeal. Under
+
+the unamended Act, the suit was transferred to the Controller under
+Section 29
+,
+
+which was deleted by the
+Amending Act
+. In this context the Court held that on
+
+account of
+Section 8
+of the Bengal General Clauses Act, the deletion would not
+
+affect the transfer of the suit or anything duly done under
+Section 29
+(paragraph
+5). This Court’s decision hence may not be relevant in interpreting
+Section 6(e)
+of
+
+the General Clauses Act, rather it is useful for interpretating
+Section 6(b)
+of the
+
+General Clauses Act which protects “anything duly done or suffered” under the
+
+repealed enactment.
+C.6       New India Assurance (1975- Supreme Court 3 judges)
+23.       The first decision of this Court that interpreted a mere change in forum,
+
+that did not impact any other substantive or vested right of the litigant, was a
+
+three judge bench decision of this Court in
+New India Assurance Company
+24
+(1979) 4 SCC 214
+31
+PART C
+
+ Limited v. Smt Shanti Mishra25
+. This case involved the jurisdiction of the Motor
+
+ Vehicles Tribunal vis-à-vis the City Civil Court, in the case of a fatal accident. The
+
+ accident had occurred on 11 September 1966 which gave rise to a cause of
+
+ action for the legal heirs to claim compensation under the
+Fatal Accidents Act
+1855. Under
+Article 82
+of the
+Limitation Act
+1963, a limitation of two years from
+
+ the occurrence of the accident was stipulated. But in the meantime, a claims
+
+ tribunal under
+Section 110
+of the Motor Vehicles Act 1939 was constituted by the
+
+ State government on 18 March 1967 following which an application was filed by
+
+ the claimant under Section 110A on 8 July 1967. Both the tribunal and the High
+
+ Court overruled the objection of the insurer to jurisdiction. In appeal, Justice NL
+
+ Untwalia speaking for the three judge Bench held:
+“5…..It is a well-established proposition that such a
+                change of law operates retrospectively and the person
+                has to go to the new forum even if his cause of action or
+                right of action accrued prior to the change of forum. He
+                will have a vested right of action but not a vested right of
+                forum. If by express words the new forum is made
+                available only to causes of action arising after the
+                creation of the forum, then the retrospective operation of
+                the law is taken away. Otherwise the general rule is to
+                make it retrospective. The expressions “arising out of an
+                accident” occurring in sub-section (1) and “over the area in
+                which the accident occurred”, mentioned in sub-section (2)
+                clearly show that the change of forum was meant to be
+                operative retrospectively irrespective of the fact as to when
+                the accident occurred. To that extent there was no difficulty in
+                giving the answer in a simple way…” (emphasis supplied)
+
+
+
+Dealing with the bar of limitation under Section 110A(3), this Court held that it could
+
+be said that strictly speaking the bar would not operate in relation to an application
+
+for compensation arising out of an accident which had occurred prior to the
+25
+“New India Assurance”; (1975) 2 SCC 840
+32
+PART C
+
+constitution of the Tribunal. However, in directing the institution of claims before the
+
+Tribunal, this Court held:
+“10. Apropos the bar of limitation provided in Section 110-
+               A(3), one can say, on the basis of the authorities aforesaid
+               that strictly speaking, the bar does not operate in relation to
+               an application for compensation arising out of an accident
+               which occurred prior to the constitution of the claims tribunal.
+               But since in such a case there is a change of forum,
+               unlike the fact of the said cases, the reasonable view to
+               take would be that such an application can be filed within
+               a reasonable time of the constitution of the tribunal,
+               which ordinarily and generally, would be the time of
+               limitation mentioned in sub-section (3). If the application
+               could not be made within that time from the date of the
+               constitution of the tribunal, in a given case, the further
+               time taken in the making of the application may be held
+               to be the reasonable time on the facts of that case for the
+               making of the application or the delay made after the
+               expiry of the period of limitation provided in sub-section
+               (3) from the date of the constitution of the tribunal can be
+               condoned under the proviso to that sub-section. In any
+               view of the matter, in our opinion, the jurisdiction of the
+               civil court is ousted as soon as the claims tribunal is
+               constituted and the filing of the application before the
+               tribunal is the only remedy available to the claimant. On
+               the facts of this case, we hold that the remedy available to the
+               respondents was to go before the claims tribunal and since
+               the law was not very clear on the point, the time of about four
+               months taken in approaching the tribunal after its constitution
+               can be held to be either a reasonable time or the delay of less
+               than 2 months could well be condoned under the proviso to
+               sub-section (3) of Section 110-A.”
+                                                        (emphasis supplied)
+
+
+
+  The above decision conclusively held that a change of forum generally operates
+
+  retrospectively, irrespective of whether the cause or right of action had accrued
+
+  earlier. It directed that once the change in forum had been effected, the litigant
+
+  would have to be directed to the new forum.
+33
+PART C
+
+C.7    Maria Cristina (1978- Supreme Court- 2 judges)
+24.    A subsequent decision of a two judge Bench of this Court in
+Maria
+
+Cristina De Souza v. Amria Zurana Pereira Pinto26
+, enunciated the law relating
+
+to change of forum vis-à-vis the right of appeal. In that case, a suit was instituted
+
+in 1960 under the Portuguese Civil Procedure Code and decreed against the
+
+appellants in 1968. The appellants lodged an appeal before the Court of the
+
+Judicial Commissioner. Following the liberation of Goa in 1961,
+the Code of Civil
+
+Procedure
+1908 was extended to the territories of Goa, Daman and Diu with
+
+effect from 15 June 1966 by Act 30 of 1965 and the corresponding provision and
+
+the corresponding Portuguese Code were repealed. The legislative assembly of
+
+Goa enacted the Goa, Daman and Diu Civil Courts Act 1965 under which the suit
+
+which was pending before the Court at Margao was transferred to and decreed
+
+by the Senior Civil Judge. Since the suit was of a value exceeding Rs 10 lacs an
+
+appeal lay directly to the High Court which under
+Section 2(f)
+meant the Judicial
+
+Commissioner’s Court. Justice V D Tulzapurkar, speaking for the two judge
+
+Bench held:
+“5. On the question as to where the appeal could be lodged
+              we are clearly of the view that the forum was governed by the
+              provisions of the Goa, Daman and Diu (Extension
+of Code of
+              Civil Procedure
+, 1908 and
+Arbitration Act, 1940
+) Act, 1965
+              (Central Act 30 of 1965) read with the provisions of the Goa,
+              Daman and Diu civil court Act, 1965
+(Goa Act
+16 of 1965)
+              both of which came into force simultaneously on June 15,
+              1966 and the appeal was required to be filed in the Judicial
+              Commissioner's Court. Under the Central Act 30 of 1965 with
+              effect from June 15, 1966 the provisions of the Indian Civil
+              Procedure Code were extended to the Union Territories of
+              Goa, Daman and Diu and the corresponding provisions of the
+              Portuguese Code were repealed while under the
+Goa Act
+16
+              of 1965 the instant suit which was pending before the
+26
+“Maria Cristina”; (1979) 1 SCC 92
+34
+PART C
+
+Comarca Court at Margao was continued and decreed by
+corresponding Court of the Senior Civil Judge, who ultimately
+decreed it on March 8, 1968. Under the Indian Civil
+Procedure Code read with
+Section 22
+of the Goa Act since
+the property involved in the suit was of the value exceeding
+Rs 10,000 the appeal clearly lay to the Judicial
+Commissioner's Court. The contention that since the right
+of appeal had been conferred by Portuguese Code, the
+forum where it could be lodged was also governed by the
+Portuguese Code cannot be accepted. It is no doubt well-
+settled that the right of appeal is a substantive right and
+it gets vested in a litigant no sooner the lis is
+commenced in the Court of the first instance, and such
+right or any remedy in respect thereof will not be affected
+by any repeal of the enactment conferring such right
+unless the repealing enactment either expressly or by
+necessary implication takes away such right or remedy in
+respect thereof. This position has been made clear by
+clauses (b) and (c) of the proviso to Section 4 of the Central
+Act 30 of 1965 which substantially correspond to clauses (c)
+and (e) of
+Section 6
+of the General Clauses Act, 1897. This
+position, has also been settled by the decisions of the Privy
+Council and this Court (vide Colonial Sugar Refining
+Company Ltd. v. Irving [1905
+AC 369] and Garikapatti
+Veeraya v. N. Subbiah Choudhury
+[1957 SCR 488] but the
+forum where such appeal can be lodged is indubitably a
+procedural matter and, therefore, the appeal, the right to
+which has arisen under a repealed Act, will have to be
+lodged in a forum provided for by the repealing Act. That
+the forum of appeal, and also the limitation for it, are
+matters pertaining to procedural law will be clear from the
+following passage appearing at p. 462 of Salmond's
+Jurisprudence (12th Edn.):
+“Whether I have a right to recover certain property is a
+question of substantive law, for the determination and the
+protection of such rights are among the ends of the
+administration of justice; but in what courts and within what
+time I must institute proceedings are questions of procedural
+law, for they relate merely to the modes in which the courts
+fulfil their functions.”
+It is true that under clause (c) of the proviso to Section 4 of
+Central Act 30 of 1965 (which corresponds to
+Section 6(e)
+of
+the General Clauses Act, 1897) it is provided that a remedy or
+legal proceeding in respect of a vested right like a right to an
+appeal may be instituted, continued or enforced as if this Act
+(meaning the repealing Act) had not been passed. But this
+provision merely saves the remedy or legal proceeding in
+respect of such vested right which it is open to the
+litigant to adopt notwithstanding the repeal but this
+provision has nothing to do with the forum where the
+35
+PART C
+
+             remedy or legal proceeding has to be pursued. If the
+             repealing Act provides new forum where the remedy or
+             the legal proceeding in respect of such vested right can
+             be pursued after the repeal, the forum must be as
+             provided in the repealing Act. We may point out that such a
+             view of
+Section 6 (e)
+of the General Clauses Act, 1897 has
+             been taken by the Rajasthan High Court in the case
+             of Purshotam Singh v. Narain Singh and State of
+             Rajasthan [AIR 1955 Raj 203] . It is thus clear that under the
+             repealing enactment (Act 30 of 1965) read with Goa
+             Enactment (Act 16 of 1965) the appeal lay to the Judicial
+             Commissioner's Court and the same was accordingly filed in
+             the proper Court.” (emphasis supplied)
+25.   The decision in
+Maria Cristina
+(supra) makes a distinction between a right
+
+of appeal, which is a substantive right that is vested in a litigant on the
+
+commencement of the lis in the court of first instance and the forum where an
+
+appeal can be lodged which “is indubitably a procedural matter”. Hence, in the
+
+view of the Court, the appeal would have to be lodged in a forum provided by the
+
+repealing Act though the right had arisen under the repealed Act. These
+
+observations of the Court must be read together with the subsequent observation
+
+that if the repealing act provides a new forum where the remedy or the legal
+
+proceeding in respect of such vested right can be pursued after the repeal, the
+
+forum must be as provided in the repealing Act.
+The decisions in
+New India
+
+Assurance
+(supra) and
+Maria Cristina
+(supra) further the interpretation that a
+
+change in forum is indubitably in the realm of procedural law that applies
+
+retrospectively, unless the statute provides otherwise.
+The necessary corollary of
+
+these decisions, is that the forum for determination of a lis, whether in the case of
+
+an appeal [
+Maria Cristina
+(supra)] or in situations where the right of action had
+
+accrued [
+New India Assurance
+(supra)] is in the realm of procedural law.
+36
+PART C
+
+C.8      Hitendra Vishnu Thakur (1994- Supreme Court 2 judges)
+26.
+In
+Hitendra Vishnu Thakur v. State of Maharashtra27
+, one among the
+
+questions analyzed in a two judge Bench decision of this Court was whether
+
+clause (bb) of
+Section 20(4)
+of the Terrorist and Disruptive Activities (Prevention)
+
+Act 198728 introduced by an amending legislation governing
+Section 167(2)
+of
+
+the Code of Criminal Procedure29 was in the realm of procedural law and if so,
+
+whether it would apply to pending cases. Dr Justice AS Anand (as he then was)
+
+held that amending Act 43 of 1993 was procedural and retrospective; and that
+
+clauses (b) and (bb) of
+Section 20(4)
+of the TADA would apply to cases which
+
+were pending investigation on the date when it came into force.
+In that context,
+
+the   principles   of   law,   that   aligned       with   the   position   in
+New   India
+
+Assurance
+(supra) and
+Maria Cristina
+(supra), were formulated in the following
+
+terms:
+“26. The Designated Court has held that the amendment would
+              operate retrospectively and would apply to the pending cases in
+              which investigation was not complete on the date on which the
+              Amendment Act came into force and the challan had not till then
+              been filed in the court. From the law settled by this Court in
+              various cases the illustrative though not exhaustive principles
+              which emerge with regard to the ambit and scope of an
+Amending
+              Act
+and its retrospective operation may be culled out as follows:
+(i) A statute which affects substantive rights is presumed to be
+              prospective in operation unless made retrospective, either
+              expressly or by necessary intendment, whereas a statute which
+              merely affects procedure, unless such a construction is textually
+              impossible, is presumed to be retrospective in its application,
+              should not be given an extended meaning and should be strictly
+              confined to its clearly defined limits.
+(ii) Law relating to forum and limitation is procedural in
+              nature, whereas law relating to right of action and right of
+              appeal even though remedial is substantive in nature.
+27
+“Hitendra Vishnu Thakur”; (1994) 4 SCC 602
+28
+“TADA”
+29
+“
+CrPC
+”
+37
+PART C
+(iii) Every litigant has a vested right in substantive law but no
+                 such right exists in procedural law.
+(iv) A procedural statute should not generally speaking be applied
+                 retrospectively where the result would be to create new
+                 disabilities or obligations or to impose new duties in respect of
+                 transactions already accomplished.
+(v) A statute which not only changes the procedure but also
+                 creates new rights and liabilities shall be construed to be
+                 prospective in operation, unless otherwise provided, either
+                 expressly or by necessary implication.” (emphasis supplied)
+
+
+
+C.9       Sudhir G Angur (2005- Supreme Court 3 judges)
+27.
+In
+Sudhir G Angur v. M Sanjeev30
+, a three judge Bench of this Court
+
+considered the impact of a change in procedural law to pending proceedings
+
+before a particular forum. In this case, the Mysore Code was repealed in 2003
+
+and
+the Code of Civil Procedure
+, 1908 was to apply. This Court held that the
+
+relevant court was under a duty to take notice of the change in law relating to
+
+forum and apply it to a pending proceeding.
+In doing so, Justice SN Variava
+
+approved the following exposition of law of the Bombay High Court in
+Shiv
+
+Bhagwan Moti Ram Saroji v. Onkarmal Ishar Das31
+:
+“11. In our view, Mr G.L. Sanghi is also right in submitting that
+                 it is the law on the date of trial of the suit which is to be
+                 applied.
+In support of this submission, Mr Sanghi relied upon
+                 the judgment in
+Shiv Bhagwan Moti Ram Saraoji v. Onkarmal
+                 Ishar Dass
+[AIR 1952 Bom 365 : 54 Bom LR 330] wherein it
+                 has been held that no party has a vested right to a
+                 particular proceeding or to a particular forum. It has
+                 been held that it is well settled that all procedural laws
+                 are retrospective unless the legislature expressly states
+                 to the contrary. It has been held that the procedural laws
+                 in force must be applied at the date when the suit or
+                 proceeding comes on for trial or disposal. It has been
+                 held that a court is bound to take notice of the change in
+                 the law and is bound to administer the law as it was when
+30
+“Sudhir G Angur”; (2006) 1 SCC 141
+31
+(1952) 54 Bom LR 330
+38
+PART C
+
+             the suit came up for hearing. It has been held that if a court
+             has jurisdiction to try the suit, when it comes on for disposal, it
+             then cannot refuse to assume jurisdiction by reason of the
+             fact that it had no jurisdiction to entertain it at the date when it
+             was instituted. We are in complete agreement with these
+             observations. As stated above, the Mysore Act now stands
+             repealed. It could not be denied that now the Court has
+             jurisdiction to entertain this suit.” (emphasis supplied)
+
+
+
+
+C.10 Ramesh Kumar Soni (2013- Supreme Court 2 judges)
+28.   It is trite law to state that all procedural law is retrospective, unless a
+
+contrary legislative intention can be observed. A two judge Bench in
+Ramesh
+
+Kumar Soni v. State of Maharashtra32
+considered a case where an FIR was
+
+registered under the provisions of
+Sections 408
+,
+420
+,
+467
+,
+468
+and
+471
+of the
+
+Indian Penal Code. On the date of the registration of the case, the offences were
+
+triable by the Magistrate of the First Class in terms of the First Schedule of the
+CrPC
+. As a result of Madhya Pradesh Act 2 of 2008, the First Schedule to the
+CrPC
+was amended. As a consequence, offences under Sections 467, 468 and
+
+471 were triable by a Court of Sessions instead of a JMFC. Consequent to the
+
+amendment, the JMFC committed the case to the Sessions Court. A reference
+
+was made to the High Court on whether the amendment would apply
+
+retrospectively and whether cases pending before the JMFC and committed to
+
+the Sessions Court should be tried de novo by the Sessions Judge or should be
+
+remanded back to the Magistrate for further trial. A Full Bench of the Madhya
+
+Pradesh High Court held that cases pending before the JMFC on 22 February
+
+2008 were unaffected by the amendment and were triable by the JMFC since the
+32
+“Ramesh Kumar Soni”; (2013) 14 SCC 696
+39
+PART C
+
+ amending Act did not contain a clear indication that such cases would be made
+
+ over to the Court of Sessions. Justice TS Thakur (as the learned Chief Justice
+
+ then was) speaking for the two judge Bench observed that the Madhya Pradesh
+
+ Amendment had shifted the forum of trial from the Court of the Magistrate of the
+
+ First Class to the Court of Sessions. The issue was whether the amendment to
+
+ the forum was prospective or would govern cases that were pending on the date
+
+ of the amendment. This Court noted that:
+“9. Having said so, we may now examine the issue from a
+              slightly different angle. The question whether any law relating
+              to forum of trial is procedural or substantive in nature has
+              been the subject-matter of several pronouncements of this
+              Court in the past. We may refer to some of these decisions,
+              no matter briefly.”
+
+After adverting to the decisions in
+New India Assurance
+(supra),
+Hitendra Vishnu
+
+Thakur
+(supra) and
+Sudhir G Angur
+(supra), the Court observed:
+“14. The amendment to the
+Criminal Procedure Code
+in the
+              instant case has the effect of shifting the forum of trial of the
+              accused from the Court of the Magistrate, First Class to the
+              Court of Session. Apart from the fact that as on the date the
+              amendment came into force no case had been instituted
+              against the appellant nor had the Magistrate taken
+              cognizance against the appellant, any amendment shifting the
+              forum of the trial had to be on principle retrospective in nature
+              in the absence of any indication in the Amendment Act to the
+              contrary. The appellant could not claim a vested right of forum
+              for his trial for no such right is recognized. The High Court
+              was, in that view of the matter, justified in (sic not) interfering
+              with the order passed by the trial court.”
+
+
+
+
+This Court noted that the Full Bench of the High Court had however relied
+
+upon inter alia the decision in
+Manujendra Dutt
+(supra). This decision was
+
+distinguished on the ground that the suit had been instituted and concluded and no
+40
+PART C
+
+vested right could be claimed for a particular forum for litigation. This Court
+
+consequently overruled the judgment of the Full Bench of the High Court, though
+
+prospectively, since many cases which had sent back from the Sessions Court to
+
+the JMFC may have in the meantime been concluded or would have reached an
+
+advanced stage. An exception to those cases was made as a change of forum at
+
+that stage would cause unnecessary and avoidable hardship to the accused, if
+
+they were committed to the Sessions Court for trial after the amendment and the
+
+view of this Court. However, the principle of change of forum being procedural,
+
+generally retrospective and applicable to pending proceedings was upheld.
+C.11 Dhadi Sahu (1992 Supreme Court 2 judges)
+29.       Now, in this backdrop, it becomes necessary to consider the 1992 decision
+
+ of a two judge Bench of this Court in Commissioner of Income Tax, Orissa v.
+Dhadi Sahu33 and several decisions which adverted to it. This was a case where
+
+ the assessee had preferred appeals to the Income Tax Appellate Tribunal. The
+
+ Tribunal allowed the appeals and set aside the penalties holding that in view of
+
+ the amendment made to
+Section 274(2)
+of the Income Tax Act 1961 with effect
+
+ from 1 April 1971, the Inspecting Assistant Commissioner34 lost his jurisdiction.
+
+ The power of the Income Tax Officer to impose a penalty under Section 271 was
+
+ subject to Section 274. As a result of the amending Act which came into force on
+
+ 1 April 1971, the amount of income allegedly concealed had to exceed twenty-
+
+ five thousand rupees. The effect of this amendment was that the Assistant
+
+ Commissioner did not have jurisdiction over the assessee as the concealed
+33
+“Dhadi Sahu”;1994 Suppl. (1) SCC 257
+34
+“IAC”
+41
+PART C
+
+amount was lesser than the minimum amount prescribed by the subsequent
+
+amendment. Justice Yogeshwar Dayal speaking for the two judge Bench
+
+premised the judgment on "the general principle of law" that a change of forum
+
+does not affect pending actions unless a contrary intent is shown:
+“18. It may be stated at the outset that the general principle is
+             that a law which brings about a change in the forum does not
+             affect pending actions unless intention to the contrary is
+             clearly shown. One of the modes by which such an intention
+             is shown is by making a provision for change-over of
+             proceedings, from the court or the tribunal where they are
+             pending to the court or the tribunal which under the new law
+             gets jurisdiction to try them.”
+
+This Court held that the amending Act did not make any provision that references
+
+validly pending before IAC shall be returned without passing any final order if the
+
+amount of income in respect of which particulars have been concealed did not
+
+exceed rupees twenty five thousand. This, in the view of the Court, supported the
+
+inference that the IAC continued to have jurisdiction to impose a penalty on
+
+pending references. The previous operation of Section 274(2) as it stood before 1
+
+April 1971 and anything done under it, continued to have effect under
+Section
+
+6(b)
+for the
+General Clauses Act
+enabling the IAC to pass orders imposing a
+
+penalty in a pending reference. If the reference was made before 1 April 1971, it
+
+would be governed by Section 274(2) as it stood before that date and the IAC
+
+would continue to have jurisdiction. However, in paragraph 21 of the decision,
+
+this Court observed:
+“21. It is also true that no litigant has any vested right in the
+             matter of procedural law but where the question is of change
+             of forum it ceases to be a question of procedure only. The
+             forum of appeal or proceedings is a vested right as opposed
+             to pure procedure to be followed before a particular forum.
+             The right becomes vested when the proceedings are initiated
+42
+PART C
+
+                 in the tribunal or the court of first instance and unless the
+                 legislature has by express words or by necessary implication
+                 clearly so indicated, that vested right will continue in spite of
+                 the change of jurisdiction of the different tribunals or forums.”
+30.       This Court then adverted to the decision in
+Manujendra Dutt
+(supra) and
+Mohd. Idris
+(supra) and observed that "amending an Act does not show that the
+
+pending proceedings before the court on reference abate".
+Therefore, the
+
+decision of the two judge Bench in Dhadi Sahu(supra) held that a litigant had a
+
+crystallized right to a forum when proceedings have been initiated and are
+
+pending. Such a right vested, in the view of the Court, is distinct from a pure
+
+procedure to be followed before the forum concerned.
+In taking this view, the two
+
+judge Bench in Dhadi Sahu(supra)                   did not consider a three judge bench
+
+decision in
+New India Assurance
+(supra)                   as well as a previous co-ordinate
+
+Bench decision in
+Maria Cristina
+(supra), which relied on common law
+
+jurisprudence and
+Section 6
+of the General Clauses Act to hold that a change in
+
+forum is purely a procedural matter which operates retrospectively in the absence
+
+of a contrary legislative mandate.
+The latter principle has since been followed in
+
+the decisions in
+Hitendra Vishnu Thakur
+(supra);
+Sudhir G Angur
+(supra);
+Ranbir Yadav v. State of Bihar35
+;
+Kamlesh Kumar v. State of Jharkhand36 and
+
+Ramesh Kumar Soni
+(supra).
+35
+(1995) 4 SCC 392
+36
+(2013) 15 SCC 460
+43
+PART C
+
+C.12 Ambalal Sarabhai (2001- Supreme Court 2 judges)
+31.
+Ambalal Sarabhai Enterprises Ltd. v. Amrit Lal & Co.37
+is a two judge
+
+Bench decision which considered the impact of an amendment to the
+Delhi Rent
+
+Control Act
+made with effect from 1 December 1988 which excluded the
+
+jurisdiction of the Rent Controller with respect to tenancies fetching a monthly
+
+rent exceeding 3500 rupees. The Rent Controller had been moved by the
+
+landlord who sought a decree of eviction on the ground of subletting, but prior to
+
+the amendment. The tenant contended that the Civil Court alone had jurisdiction
+
+after the amendment. In this backdrop, Justice AP Misra speaking for the two
+
+judge Bench adverted to the provisions of
+Section 6
+of the General Clauses Act
+
+and observed:
+“26. As a general rule, in view of
+Section 6
+, the repeal of a
+                 statute, which is not retrospective in operation, does not
+                 prima facie affect the pending proceedings which may be
+                 continued as if the repealed enactment were still in force. In
+                 other words, such repeal does not affect the pending cases
+                 which would continue to be concluded as if the enactment
+                 has not been repealed. In fact when a lis commences, all
+                 rights and obligations of the parties get crystallized on that
+                 date. The mandate of
+Section 6
+of the General Clauses Act is
+                 simply to leave the pending proceedings unaffected which
+                 commenced under the unrepealed provisions unless contrary
+                 intention is expressed. We find clause (c) of
+Section 6
+, refers
+                 the      words      “any     right,   privilege,     obligation
+                 … acquired or accrued” under the repealed statute would not
+                 be affected by the repealing statute. We may hasten to
+                 clarify here, mere existence of a right not being
+                 “acquired” or “accrued” on the date of the repeal would
+                 not get protection of
+Section 6
+of the General Clauses
+                 Act.
+27. At the most such a provision can be said to be granting a
+                 privilege to the landlord to seek intervention of the Controller
+                 for eviction of the tenant under the Statute. Such a privilege is
+                 not a benefit vested in general but is a benefit granted and
+                 may be enforced by approaching the Controller in the manner
+37
+“Ambalal Sarabhai”; (2001) 8 SCC 397
+44
+PART C
+
+             prescribed under the statute. On filing the petition of eviction
+             of the tenant the privilege accrued with the landlord is not
+             effected by repeal of the Act in view of
+section 6(c)
+and the
+             pending proceeding is saved under
+Section 6(e)
+of the Act.”
+             (emphasis supplied)
+32.   This Court noted that a pending proceeding would be saved under
+Section
+
+6(e)
+of the General Clauses Act only if it is in relation to a right, privilege or
+
+obligation that has been acquired or accrued under
+Section 6(c)
+of the Act. It is
+
+pertinent to mention that the landlord under the amended act would have lost his
+
+right to evict the tenant on the ground of sub-letting since the
+Rent Control Act
+ceased to be applicable to premises where the monthly rent exceeded Rs. 3500.
+
+Further, pursuant to the amendment, not only was his right of action before the
+
+Rent Controller terminated but also the landlord was relegated to common law
+
+remedies. The amendment substantially affected the right of action of the
+
+landlord and did not merely change the forum. It was in this context, that this
+
+Court held that a right had accrued to the landlord to continue the eviction
+
+proceeding under the unamended
+Rent Control Act
+.
+33.   The Court observed that there are two sets of cases, one where
+Section 6
+of the General Clauses Act is applicable and the other where it is not applicable.
+
+In cases where
+Section 6
+is not applicable, the Court would have to scrutinize
+
+and determine whether a vested right had accrued to a person under a repealed
+
+statute in which event pending proceedings would have to be saved. However,
+
+where
+Section 6
+is applicable, it is not merely a vested right but all those covered
+
+by clauses (a) to (e) of
+Section 6
+which are saved and, in such cases, the
+45
+PART C
+
+pending proceedings would be continued as if the statute had not been repealed.
+
+In the context of
+Section 6(c)
+of the General Clauses Act, the Court observed that
+
+the expression "any right accrued" is wide enough to include the landlord's rights
+
+to evict a tenant in a proceeding was pending when the repealing legislation
+
+came into force. Pending proceedings before the Rent Controller would,
+
+therefore, continue to be proceeded with as if the repealed act was still in force. It
+
+is pertinent to mention that the decision in
+Ambalal Sarabhai
+(supra) only saved
+
+pending proceedings that were coupled with a vested right (in the event of non-
+
+applicability of
+Section 6
+of the General Clauses Act) or with any rights that had
+
+accrued under
+Section 6(c)
+-(e) of
+General Clauses Act
+.
+
+C.13 HP State Electricity (2013- Supreme Court 2 judges)
+34.       The principle of a crystallized right to a forum when proceedings are
+
+pending, as propounded in Dhadi Sahu(supra), was subsequently referred to in
+
+several decisions of this Court, including a two judge bench decision in
+Himachal
+
+Pradesh State Electricity Regulatory Commission v Himachal Pradesh State
+
+Electricity Board38
+. The Commission which was constituted under an Act of
+
+1998 determined the tariff applicable for electricity in the State. Subsequently,
+
+while discharging its regulatory functions, the Commission opined that a part of
+
+the tariff had not been complied with. In pursuance of its notice, the Board was
+
+subjected to a penalty upon which an appeal was filed under
+Section 27
+of the
+
+Act of 1998. During the pendency of the appeal the earlier Act was repealed and
+
+the
+Electricity Act
+2003 came into force. When the appeals were taken up by the
+
+Single Judge, the Commission raised preliminary objection on maintainability on
+38
+“HP State Electricity”; (2014) 5 SCC 219
+46
+PART C
+
+the ground that after the constitution of an Appellate Tribunal under the 2003
+
+legislation, it would be the Appellate Tribunal which would have jurisdiction and
+
+the High Court had no jurisdiction to hear the appeal. The High Court held that
+
+even after the enforcement of the new legislation in 2003, it continued to have
+
+jurisdiction. The judgment of the High Court was assailed on the ground that the
+
+appeal was not maintainable before it, upon a separate forum being constituted.
+
+Section 185 contained a repeal and savings provision. Justice Dipak Misra (as
+
+the learned chief Justice then was) speaking for a two judge Bench held that "a
+
+right of appeal as well as forum is a vested right" unless it is taken away by the
+
+legislature either by express provision or by necessary intention. The Court held:
+“25. At this stage, we may state with profit that it is a well-
+             settled proposition of law that enactments dealing with
+             substantive rights are primarily prospective unless they are
+             expressly or by necessary intention or implication given
+             retrospectivity. The aforesaid principle has full play when
+             vested rights are affected. In the absence of any unequivocal
+             expose, the piece of legislation must exposit adequate
+             intendment of legislature to make the provision retrospective.
+             As has been stated in various authorities referred to
+             hereinabove, a right of appeal as well as forum is a
+             vested right unless the said right is taken away by the
+             legislature by an express provision in the statute by
+             necessary intention.
+26…No doubt right to appeal can be divested but this
+             requires either a direct legislative mandate or sufficient proof
+             or reason to show and hold that the said right to appeal
+             stands withdrawn and the pending proceedings stand
+             transferred to different or new appellate forum. Creation of a
+             different or a new appellate forum by itself is not sufficient to
+             accept the argument/contention of an implied transfer.
+             Something more substantial or affirmative is required which is
+             not perceptible from the scheme of the 2003 Act.” (emphasis
+             supplied)
+35.   Hence, the conclusion of the High Court that it had jurisdiction to hear the
+
+appeal was held to be “absolutely flawless” by observing that “a right of appeal as
+47
+PART C
+
+well as forum is a vested right unless the said right is taken away by the
+
+legislature by an express provision in the statute by necessary intention”.
+
+
+
+C.14 Videocon International (2015- Supreme Court 2 judges)
+36.       A two judge Bench of this Court in
+Videocon International Limited v.
+
+Securities and Exchange Board of India39
+dealt with the Appellate provisions
+
+contained in the Security and Exchange Board of India Act 1992. Following the
+
+insertion of Chapter 6B with effect from 25 January 1995, the remedy of an
+
+appeal was provided to the Securities Appellate Tribunal under Section 15 T to a
+
+person aggrieved by an order of the Board or by an Adjudicating Officer. Section
+
+15 Z provided an appeal to the High Court against an order of the SAT on any
+
+question of fact or law. Section 15 Z was amended with retrospective effect from
+
+29 October 2002 to provide an appeal against the orders of the SAT to the
+
+Supreme Court on any question of law. The forum of the second appellate
+
+remedy was changed from the High Court to the Supreme Court. Appeals against
+
+the order of the SAT which had been passed before 29 October 2002 (the date of
+
+amendment) were filed before the High Court which held that such appeals which
+
+have been instituted before the enforcement of amended Section 15 Z would not
+
+be affected by the amendment and that it would continue to have jurisdiction to
+
+hear and dispose of the appeals.
+The Amending Act
+had a repeal and savings
+
+provision in Section 32 which was in the following terms:
+“32. Repeal and saving.—(1) The Securities and Exchange
+                  Board of India (Amendment) Ordinance, 2002 (Ord. 6 of
+                  2002), is hereby repealed.
+39
+“Videocon International”; (2015) 4 SCC 33
+48
+PART C
+
+                (2) Notwithstanding the repeal of the Securities and
+                Exchange Board of India (Amendment) Ordinance, 2002
+                (Ord. 6 of 2002), anything done or any action taken under the
+                principal Act as amended by the said Ordinance, shall be
+                deemed to have been done or taken under the principal Act,
+                as amended by this Act.”
+37.     The judgment of the High Court was assailed, citing the decisions in
+Hitendra Vishnu Thakur
+(supra) and
+Maria Cristina
+(supra) amongst others, and
+
+it was urged that the amendment by which the appellate forum was changed from
+
+the High Court to the Supreme Court must be treated as merely procedural.
+On
+
+the other hand, the Respondent relied on the decision in Dhadi Sahu(supra) and
+Ambalal Sarabhai
+(supra). Justice JS Khehar (as the learned Chief Justice then
+
+was) examined whether the amendment "envisaged a mere change of forum"40.
+38.     In this context, this Court noted that while under the un-amended
+Section
+
+15
+Z, an appeal lay before the High Court "on any question of fact or law arising
+
+out of such order" the amendment had curtailed and restricted the right of appeal
+
+since the appeal to this Court would now lie "on any question of law arising out of
+
+such order". Consequently, this Court noted:
+40
+“38. First and foremost, we shall determine the veracity of the contention advanced at the hands of
+the learned counsel for the appellant, that the remedy of second appeal provided for in the
+unamended
+Section 15-Z
+of the SEBI Act remained unaffected by the amendment of the said
+provision; and on the basis of the above assumption, the learned counsel's submission, that the
+present controversy relates to an amendment which envisaged a mere change of forum. Insofar as
+the instant aspect of the matter is concerned, it would be pertinent to mention, that a right of appeal
+can be availed of only when it is expressly conferred. When such a right is conferred, its parameters
+are also laid down. A right of appeal may be absolute i.e. without any limitations. Or, it may be a
+limited right. The above position is understandable, from a perusal of the unamended and amended
+Section 15-Z
+of the SEBI Act. Under the unamended Section 15-Z, the appellate remedy to the High
+Court, against an order passed by the Securities Appellate Tribunal, was circumscribed by the words
+“… on any question of fact or law arising out of such order”. The amended Section 15-Z, while altering
+the appellate forum from the High Court to the Supreme Court, curtailed and restricted the scope of
+the appeal, against an order passed by the Securities Appellate Tribunal, by expressing that the
+remedy could be availed of “… on any question of law arising out of such order”. It is, therefore
+apparent, that the right to appeal, is available in different packages, and that, the amendment to
+Section 15-Z, varied the scope of the second appeal provided under the
+SEBI Act
+.”
+49
+PART C
+
+             “41…. Accordingly, by the amendment, the earlier appellate
+             package stands reduced, because under the amended
+             Section 15-Z, it is not open to an appellant, to agitate an
+             appeal on facts. That being the position, it is not possible for
+             us to accept the contention advanced at the hands of the
+             learned counsel for the appellant, that the amendment to
+Section 15-Z
+of the SEBI Act, envisages only an amendment
+             of the forum, where the second appeal would lie.
+In our
+             considered view, the amendment to
+Section 15-Z
+of the SEBI
+             Act, having reduced the appellate package, adversely
+             affected the vested appellate right of the litigant
+             concerned….”
+
+
+
+While noting that this position would be subject to an amendment providing to the
+
+contrary, this Court held that Section 32 which provided the repeal and savings
+
+clause did not indicate a contrary intent. Hence, the appellate remedy which was
+
+available prior to the amendment of Section 15 Z would, in the view of this Court
+
+continue to be available despite the amendment. Moreover, this Court held that
+
+neither the date of filing the appeal nor its hearing was of any relevance since the
+
+right to an appellate remedy becomes vested when the lis is initiated. The
+
+contention of the appellant that in the absence of a savings clause the pending
+
+proceedings could not be deemed to have been saved was rejected by placing
+
+reliance on the decision in
+Ambalal Sarabhai
+(supra):
+“44….
+In the judgment rendered by this Court in
+Ambalal
+             Sarabhai     Enterprises     Ltd.
+case [
+Ambalal     Sarabhai
+             Enterprises Ltd. v. Amrit Lal and Co.
+, (2001) 8 SCC 397] , it
+             was held, that the general principle was, that a law which
+             brought about a change in the forum, would not affect
+             pending actions, unless the intention to the contrary was
+             clearly shown. Since the amending provision herein does not
+             so envisage, it has to be concluded, that the pending appeals
+             (before the amendment of Section 15-Z) would not be
+             affected in any manner…
+             Furthermore, the instant contention is wholly unacceptable in
+             view of the mandate contained in
+Sections 6(c)
+and (e) of the
+General Clauses Act, 1897
+. While interpreting the aforesaid
+             provisions this Court has held, that the amendment of a
+             statute, which is not retrospective in operation, does not affect
+50
+PART C
+
+             pending proceedings, except where the amending provision
+             expressly or by necessary intendment provides otherwise.
+             Pending proceedings are to continue as if the unamended
+             provision is still in force.
+This Court has clearly concluded,
+             that when a lis commences, all rights and obligations of the
+             parties get crystallised on that date, and the mandate of
+Section 6
+of the General Clauses Act, simply ensures, that
+             pending proceedings under the unamended provision remain
+             unaffected….”
+
+
+
+As regards the decisions inter alia in
+Hitendra Vishnu Thakur
+(supra) and
+Maria
+
+Cristina
+(supra), this Court held that the principle that the forum is a procedural
+
+matter and that an amendment which alters the forum would apply retrospectively
+
+cannot be doubted but "the same is not an absolute rule".
+On this aspect, the
+
+Bench relied upon the decision in Dhadi Sahu(supra) in support of the principle
+
+that an amendment of a forum would not necessarily be an issue of procedure.
+“45. Having concluded in the manner expressed in the
+             foregoing paragraphs, it is not necessary for us to examine
+             the main contention, advanced at the hands of the learned
+             counsel for the appellant, namely, that the amendment to
+Section 15-Z
+of the SEBI Act, contemplates a mere change of
+             forum of the second appellate remedy. Despite the aforesaid,
+             we consider it just and appropriate, in the facts and
+             circumstances of the present case, to delve on the above
+             subject as well. In dealing with the submission advanced at
+             the hands of the learned counsel for the appellant, on the
+             subject of forum, we will fictionally presume, that the
+             amendment to Section 15-Z by the
+Securities and Exchange
+             Board of India (Amendment) Act, 2002
+had no effect on the
+             second appellate remedy made available to the parties, and
+             further that, the above amendment merely alters the forum of
+             the second appeal, from the High Court (under the
+             unamended provision), to the Supreme Court (consequent
+             upon the amendment). On the above assumption, the
+             learned counsel for the appellant had placed reliance on
+             the decisions rendered by this Court in
+Maria Cristina De
+             Souza Sodder [Maria Cristina De Souza Sodder v. Amria
+             Zurana Pereira Pinto
+, (
+1979) 1 SCC 92] , Hitendra Vishnu
+             Thakur [Hitendra Vishnu Thakur v. State of Maharashtra
+,
+             (1994) 4 SCC 602 : 1994
+SCC (Cri) 1087] and Thirumalai
+             Chemicals Ltd. [Thirumalai Chemicals Ltd. v. Union of
+             India
+, (2011) 6 SCC 739 : (2011) 3 SCC (Civ) 458] cases to
+51
+PART C
+
+                 contend, that the law relating to forum being procedural
+                 in nature, an amendment which altered the forum, would
+                 apply retrospectively. Whilst the correctness of the
+                 aforesaid contention cannot be doubted, it is essential to
+                 clarify, that the same is not an absolute rule.
+In this
+                 behalf, reference may be made to the judgments relied
+                 upon by the learned counsel for the respondent, and
+                 more importantly to the judgment rendered in Dhadi
+                 Sahu case [
+CIT v. Dhadi Sahu
+, 1994 Supp (1) SCC 257] ,
+                 wherein it has been explained, that an amendment of
+                 forum would not necessarily be an issue of procedure. It
+                 was concluded in the above judgment, that where the
+                 question is of change of forum, it ceased to be a question
+                 of procedure, and becomes substantive and vested, if
+                 proceedings stand initiated before the earlier prescribed
+                 forum (prior to the amendment having taken effect). This
+                 Court clearly declared in the above judgment, that if the
+                 appellate remedy had been availed of (before the forum
+                 expressed in the unamended provision) before the
+                 amendment, the same would constitute a vested right.
+However, if the same has not been availed of, and the
+                 forum of the appellate remedy is altered by an
+                 amendment, the change in the forum, would constitute a
+                 procedural amendment, as contended by the learned
+                 counsel for the appellant. Consequently even in the facts
+                 and circumstances of the present case, all such appeals as
+                 had been filed by the Board, prior to 29-10-2002, would have
+                 to be accepted as vested, and must be adjudicated
+                 accordingly.” (emphasis supplied)
+
+
+
+ The conclusion of this Court was held to be in accordance with the mandate of
+Section 6
+of the General Clauses Act. The appeals which had been filed by SEBI
+
+ before the High Court were therefore held to be maintainable.
+C.15 SEBI v. Classic Credit
+(2018- Supreme Court 2 judges)
+39.       We have already noticed the earlier decision of Justice J S Khehar in
+Videocon International
+(supra).
+Subsequent to the aforesaid decision, in
+Securities and Exchange of Board of India v. Classic Credit Limited41
+, a two
+41
+(2018) 13 SCC 1
+52
+PART C
+
+judge bench of this Court, speaking through Justice Khehar, considered a claim
+
+for transfer of pending proceedings under the
+SEBI Act
+1992. At the time when
+
+the complaints were filed under
+Section 26(2)
+, the accused was required to be
+
+tried by a Metropolitan Magistrate (or a JMFC).
+Section 24(1)
+as it existed prior to
+
+the amendment read as follows:
+“24. Offences.—(1) Without prejudice to any award of penalty
+             by the adjudicating officer under this Act, if any person
+             contravenes or attempts to contravene or abets the
+             contravention of the provisions of this Act or of any rules or
+             regulations made thereunder, he shall be punishable with
+             imprisonment for a term which may extend to one year, or
+             with fine, or with both.
+(2) If any person fails to pay the penalty imposed by the
+             adjudicating officer or fails to comply with any of his directions
+             or orders, he shall be punishable with imprisonment for a term
+             which shall not be less than one month but which may extend
+             to three years or with fine which shall not be less than two
+             thousand rupees but which may extend to ten thousand
+             rupees or with both.”
+40.   After the amendment
+Section 24(1)
+envisaged a punishment for a term of
+
+imprisonment which may extend to ten years or with fine which may extend to
+
+rupees 25 crores. As a result of the amendment of
+Section 26(2)
+it came to be
+
+stipulated that no court inferior to that of a Court of Sessions shall try any offence
+
+punishable under the Act. After the 2002 amendment all pending cases before
+
+the Metropolitan Magistrate or JMFC were committed to the Court of Sessions on
+
+the assumption that the amending Act retrospectively altered the forum for trial.
+
+When the issue of jurisdiction was being considered by the Bombay High Court,
+
+SEBI sought to rely upon a judgment of the Delhi High Court which had
+
+concluded that the amendment to
+Section 26
+brought about only a change in
+
+forum and was only procedural. The Bombay High Court took a view contrary to
+53
+PART C
+
+the judgment of the Delhi High Court. During the pendency of the appeals before
+
+this
+Court, the SEBI Act
+was amended again by the omission of 26(2) and the
+
+insertion of Section 26 A to E from 18 July 2013. SEBI argued that since the
+
+impact of 2002 amendment had again been altered, all the pending cases would
+
+be required to be tried by a Special Court in terms of the 2014 Amendment.
+
+Section 26-B provided as follows:
+“26-B. Offences triable by Special Courts.—Notwithstanding
+             anything contained in the
+Code of Criminal Procedure
+, 1973
+             (2 of 1974), all offences under this Act committed prior to the
+             date of commencement of the Securities Laws (Amendment)
+             Act, 2014 or on or after the date of such commencement,
+             shall be taken cognizance of and tried by the Special Court
+             established for the area in which the offence is committed or
+             where there are more Special Courts than one for such area,
+             by such one of them as may be specified in this behalf by the
+             High Court concerned.”
+41.   SEBI argued before this Court that a change of the forum for trial was a
+
+matter of mere procedure and would therefore be retrospective, there being no
+
+express or implied intent either in the 2002 and 2014 Amendments that the
+
+amendments were intended to be of prospective effect. Justice JS Khehar
+
+speaking for the two judge Bench of this Court adverted to the decisions inter alia
+
+in
+New India Assurance
+(supra),
+Ramesh Kumar Soni
+(supra) and
+Hitendra
+
+Vishnu Thakur
+(supra), and observed in that context:
+“49…In our considered view, the legal position expounded by
+             this Court in a large number of judgments including
+New India
+             Insurance Co. Ltd. v. Shanti Misra [New India Insurance Co.
+             Ltd.
+v. Shanti Misra, (1975) 2 SCC 840] ;
+SEBI v. Ajay
+             Agarwal [SEBI
+v. Ajay Agarwal, (2010) 3 SCC 765 : (2010) 2
+             SCC (Cri) 491] and Ramesh Kumar Soni v. State of
+             M.P. [Ramesh Kumar Soni v. State of M.P., (2013) 14 SCC
+             696 : (2014) 4 SCC (Cri) 340] , is clear and unambiguous,
+             namely, that procedural amendments are presumed to be
+             retrospective in nature, unless the amending statute
+             expressly or impliedly provides otherwise. And also, that
+54
+PART C
+
+                  generally change of “forum” of trial is procedural, and
+                  normally following the above proposition, it is presumed to be
+                  retrospective in nature unless the amending statute provides
+                  otherwise.
+This determination emerges from the decision of
+                  this    Court    in Hitendra    Vishnu   Thakur v. State     of
+                  Maharashtra [Hitendra        Vishnu    Thakur v. State       of
+                  Maharashtra, (1994) 4 SCC 602 : 1994 SCC (Cri) 1087]
+                  ; Ranbir Yadav v. State of Bihar [Ranbir Yadav v. State of
+                  Bihar, (1995) 4 SCC 392 : 1995 SCC (Cri) 728] and Kamlesh
+                  Kumar v. State of Jharkhand [Kamlesh Kumar v. State of
+                  Jharkhand, (2013) 15 SCC 460 : (2014) 6 SCC (Cri) 489] , as
+                  well as, a number of further judgments noted above.”
+42.       The above observations indicate the clear view of this Court that:
+(i)       In the absence of a contrary intent express or implied, procedural
+
+          amendments are presumed to be retrospective;
+(ii)      A change in the forum of a trial is a procedural matter; and
+(iii)     Since a change of forum is procedural, a statute which brings about the
+
+          change is presumed to be retrospective in the absence of a contrary intent.
+43.       Hence, the Court went on to observe that it had "also no doubt ...that
+
+change of "forum" being procedural the amendment of the “forum” would operate
+
+retrospectively, irrespective of whether the offence allegedly committed by the
+
+accused was committed prior to the amendment"42.
+44.       However, the Bench was conscious of the contrary view in
+Dhadi
+
+Sahu
+(supra) and the conflicting interpretations in the decisions in
+Manujendra
+
+Dutt
+(supra),
+Mohd. Idris
+(supra),
+Ambalal Sarabhai
+(supra),
+Ramesh Kumar
+
+Soni
+(supra) and
+Videocon International
+(supra) (which the Bench adverted to in
+42
+At para 50, page 68
+55
+PART C
+
+paragraphs 51 to 53 of its decision). Dealing with this line of authority, Chief
+
+Justice J S Khehar observed:
+“54. From a perusal of the conclusions drawn in the above
+             judgments, we are inclined to accept the contention that
+             change of “forum” could be substantive or procedural. It may
+             well be procedural when the remedy was yet to be availed of
+             but where the remedy had already been availed of (under an
+             existing statutory provision), the right may be treated as
+             having crystallized into a vested substantive right.”
+
+
+
+The view which was formulated by the Court was that where a remedy has been
+
+availed of prior to the amendment then unless the amending provision mandates
+
+either expressly or by necessary implication, the transfer of proceedings to the
+
+forum introduced by the amendment, the forum as it exceeded prior to the
+
+amendment would continue to have jurisdiction:
+“55. In the latter situation referred to (and debated) in the
+             preceding paragraph, where the remedy had been availed of
+             prior to the amendment, even according to the learned
+             counsel for the private parties, unless the amending provision
+             by express words, or by necessary implication, mandates the
+             transfer of proceedings to the “forum” introduced by the
+             amendment the “forum” postulated by the unamended
+             provision, would continue to have the jurisdiction to adjudicate
+             upon pending matters (matters filed before amendment). In
+             view of the above, we are of the considered view, that no
+             vested right can be claimed with reference to “forum”, where
+             the court concerned, had not taken cognizance and
+             commenced trial proceedings, in consonance with the
+             unamended provision.”
+
+
+
+Where, however, proceedings had already commenced before the amendment, a
+
+change in the forum of the trial would not affect pending actions unless a contrary
+
+intent is shown. This Court then scrutinized whether the amendments which were
+
+made in 2002 and 2014 expressed a contrary intent. The Court held that
+Section
+
+26
+, as amended in 2002, left no room for doubt that the erstwhile forum ceases to
+56
+PART C
+
+have adjudicating authority and the newly created forum - the Court of Sessions
+
+would deal with all pending matters as well. As a result, the 2002 Amendment
+
+"diverted jurisdiction" from the Metropolitan Magistrates and JMFCs to try
+
+offences under the
+SEBI Act
+after the amendment became operational. Similarly,
+
+the 2014 Amendment grouped all offences together by providing that they would
+
+be tried by a Special Court whether committed prior to or after the amendment;
+no segregation being permissible. By the 2014 amendment, the function of taking
+
+cognizance had been vested with the Special Courts. This Court held that all
+
+pending matters where cognizance had been taken and proceedings had
+
+commenced before the Court of Sessions would not be affected. In conclusion,
+
+this Court observed:
+“79. In view of the consideration recorded hereinabove, we are
+            of the view, that the “forum” for trial earlier vested in the Court
+            of Metropolitan Magistrate (or Judicial Magistrate of the First
+            Class) was retrospectively amended, inasmuch as, the “forum”
+            of trial after the 2002 Amendment Act was retrospectively
+            changed to the Court of Session. In this view of the matter, the
+            trials even in respect of offences allegedly committed before
+            29-10-2002 (the date with effect from which the 2002
+            Amendment Act became operational), whether in respect
+            whereof trial had or had not been initiated, would stand
+            jurisdictionally vested in a Court of Session. And likewise, trials
+            of offences under the
+SEBI Act
+, consequent upon the 2014
+            Amendment Act (which became operational, with effect from
+            18-7-2013) would stand jurisdictionally transferred for trial to a
+            Special Court, irrespective of whether the offence under the
+SEBI Act
+was committed before 29-10-2002 and/or before 18-
+7-2013 (the date with effect from which the 2014 Amendment
+            Act became operational), and irrespective of the fact whether
+            trial had or had not been initiated.”
+
+
+
+Accordingly, the view of the Delhi High Court in transferring pending proceedings
+
+was affirmed while that taken by the Bombay High Court was set aside.
+57
+PART C
+
+
+C.16 Swapna Mohanty (2018- Supreme Court 2 judges)
+45.    A two judge Bench of this Court in
+Swapna Mohanty v. State of Odisha43
+dealt with the provisions of
+Section 24 B
+of the Orissa Education Act 1969. The
+
+State Education Tribunal obtained jurisdiction to decide appeals in respect of
+
+colleges only from the date on which they were admitted to grant-in-aid. The
+
+appeal was filed in August 2002 before the College was admitted to grant-in-aid
+
+in February 2004 and the issue examined was whether the Director of Higher
+
+Education had competence to hear the appeal after the college was admitted to
+
+grant-in-aid.
+Justice L Nageswara Rao speaking for the two judge Bench held
+
+that the Director continued to have jurisdiction to decide the appeal which was
+
+filed before him prior to the admission of the college to grant-in-aid “as there is no
+
+provision in the
+Orissa Education Act
+providing for a change-over of all
+
+proceedings to the Tribunal”.44 In arriving at this conclusion, the two judge Bench
+
+relied on the judgment in
+Dhadi Sahu
+(supra).
+C.17 Om Prakash Agarwal (2018- Supreme Court 2 judges)
+46.
+In
+Om Prakash Agarwal v. Vishan Dayal Rajpoot45
+, a two judge Bench
+
+of this Court considered the provisions of the UP Civil Laws (Amendment) Act
+
+2015 under which, with effect from 7 December 2015,
+Sections 9
+and
+21
+of the
+
+Bengal, Agra and Assam Civil Courts Act 1887 and
+Section 15
+of the Provincial
+
+Small Cause Courts Act 1887 were amended. By the amendment, the limit of the
+43
+(2018) 17 SCC 621
+44
+Para 9
+45
+(2019) 14 SCC 526
+58
+PART C
+
+pecuniary jurisdiction of the Small Cause Courts was increased from rupees
+
+twenty-five thousand to rupees one lakh. Although, the pecuniary jurisdiction was
+
+enhanced to rupees one lakh, the suit which was pending before the Additional
+
+District Judge continued to proceed without objection by the parties. A decree for
+
+eviction and for arrears of rent was passed. In the revision before the High Court,
+
+one of the grounds raised was that in view of the UP Civil Laws (Amendment) Act
+
+2015, the Court of the Additional District Judge ceased to have jurisdiction to try a
+
+suit between a lessor and lessee of a value of upto one lakh from 1 December
+
+2015 and the assumption of jurisdiction was invalid. Accepting the submission,
+
+the High Court allowed the revision and remanded the suit for a fresh decision
+
+before the Small Cause Courts. The suit which was instituted under
+Section 15(2)
+by the lessor for eviction of the lessee was filed initially before the Small Cause
+
+Court, Firozabad since the valuation was Rs. 21,175. Subsequently, following the
+
+amendment, the valuation was enhanced to Rs 27,775 and the suit was
+
+transferred to the Court of the District Judge. On these facts, the main issue was
+
+whether after 7 December 2015, the Court of the Additional District Judge where
+
+the suit was pending could still have pecuniary jurisdiction to decide the suit or
+
+whether it should be transferred back to the Small Causes Court.
+By UP Act
+37 of
+
+1972, an amendment had been made in
+Section 25
+of the Bengal, Agra and
+
+Assam Civil Courts Act 1887 so as to empower the State government to confer
+
+upon any District Judge or Additional District Judge the power of a Judge of the
+
+Small Causes Court for the trial of suits irrespective of value by a lessor for the
+
+eviction of a lessee.
+59
+PART C
+47.       Justice Ashok Bhushan speaking for the two judge Bench observed that
+
+the expression “irrespective of their value” used in
+Section 25
+as amended was
+
+with the clear intent that irrespective of value, cases filed by the lessee for the
+
+eviction of the lessee should be treated as small causes cases. By a subsequent
+
+amendment, the Small Causes Court presided over by the Civil Judge, became
+
+empowered to decide cases up to a value of twenty-five thousand rupees while
+
+those above would be taken cognizance of by the Additional District Judge. The
+
+Court held:
+“54…When a small cause suit not exceeding value of Rs 1
+                  lakh is cognizable by the Court of Small Causes, obviously,
+                  no other court can take cognizance. The Additional District
+                  Judge to whom small causes suit in question was transferred
+                  since its valuation was more than of Rs 25,000 was not
+                  competent to take cognizance of the suit after the U.P. Civil
+                  Laws (Amendment) Act, 2015 w.e.f. 7-12-2015, when the suit
+                  in question became cognizable by the Small Cause Court i.e.
+                  the Court of Civil Judge, Senior Division.”
+
+C.18 Delhi High Court Bar Association (1993- Delhi HC- DB)
+48.       We will now advert to a few High Court decisions which have come to
+
+varying conclusions due to the ambiguity introduced in the position of law by
+Dhadi        Sahu
+(supra)       vis-à-vis
+Maria     Cristina
+(supra)      and
+New   India
+
+Assurance
+(supra) by creating an exception to the rule that a change of forum is
+
+purely a procedural matter. In Delhi High Court Bar Association v. Court of
+
+Delhi46, the original jurisdiction of the High Court was increased from Rs. 1 lakh
+
+to Rs. 5 lakhs. The appellants
+in that case
+sought to question the transfer of
+
+proceedings from the High Court to the lower court. The High Court noted that
+
+the
+Amending Act
+’s object was to reduce the burden on the High Court and
+46
+ILR (1994) 1 Del 271
+60
+PART C
+
+speedy disposal of cases. The High Court held that change of forum is a
+
+procedural matter and not a vested right.
+A Division Bench of the High Court
+
+speaking through Justice DP Wadhwa noted the ambiguity created by
+Dhadi
+
+Sahu
+(supra) and applied the principle in
+New India Assurance
+(supra) and
+Maria Cristina
+(supra) to direct transfer of pending proceedings as a change of
+
+forum owing to amendments to the pecuniary jurisdiction is a change in
+
+procedural law that is usually retrospective:
+“29.
+In
+New India Insurance Co. Ltd. v. Smt. Shanti Misra
+((1975) 2 SCC 840 : AIR 1976 S.C. 237)(9) the Supreme
+             Court did express the opinion that change of forum is a
+             change of procedural law and not a substantive law.
+In
+Maria
+             Cristina De Souza Sodder v. Amria Zurana Percira Pinto
+,
+             (1979) 1 SCC 92 (10), the court held that right of appeal
+             though was a substantive right and got vested in the litigant
+             no sooner the lis was commenced in the court of the first
+             instance and such right would not be affected by any repeal
+             of an enactment conferring such right unless the repealing
+             Act either expressly or by necessary implication took away
+             such right. The court also said that the forum where such
+             appeal could be lodged was a procedural matter and
+             therefore the appeal the right to which had arisen under
+             the repealing Act would have to be lodged in a forum
+             provided for by the repealing Act.
+In
+Mithilesh Kumari v.
+             Prem Behari Khare
+, (1989) 2 SCC 95 : AIR 1989 S.C. 1247
+             (11), the Supreme Court said that even vested right could be
+             taken away and said that where remedy is barred the right
+             became unenforceable.
+The decision of the Supreme Court
+             in
+Commissioner of Income Tax, Orissa v. Shri Dhadi
+             Sahu, JT
+1992 (6) S.C. 714, would appear to be somewhat
+             in conflict with its earlier decision but this judgment
+             though holds that forum of appeal is a vested right to be
+             followed before a particular forum and that right
+             becomes vested when the proceedings are initiated but
+             that vested right would not continue if the legislature by
+             express words or by necessary implications so indicates.
+The Full Bench of the Punjab High Court in Gordhan Das
+             Baldev Das v. The Governor General in Council, AIR 1952
+             Punjab 103 (FB) (12), had also said that such a vested right
+             of appeal to a particular forum could be taken away by a later
+             statute if the intention of the legislature was clearly
+             manifested in the later Act.” (emphasis supplied)
+61
+PART C
+
+
+
+C.19 Mahendra Jain (2008- Bombay HC-DB)
+49.       In Mahendra Panmal Duggad Jain v. Bhararilal Panmal Duggad Jain47,
+
+a controversy arose before the Bombay High Court where an amendment was
+
+made to
+Section 26
+of the Bombay Civil Court Act, 1869, which increased the
+
+pecuniary jurisdiction of the District Court from Rs. 50,000 to Rs. 2 lakhs.
+
+Consequently, the Registrar of the Bombay High Court transferred an appeal
+
+which was pending when the amendment came into force to the District Court.
+
+The applicants applied to the District Court for re-transferring the appeal to the
+
+High Court contending that the appeals filed and entertained by the High Court
+
+prior to the amendment coming into force on 13 January 1999 were not liable to
+
+be transferred to the District Court. Their application was rejected and the
+
+applicants filed an application of re-transfer of the appeal before the High Court.
+
+The High Court placed reliance on
+Section 7(b)
+of the Bombay General Clauses
+
+Act to hold that the amendment would not affect the proceedings initiated before
+
+the High Court. The High Court held that unless a clear legislative intent can be
+
+discerned, the absence of a savings clause would not warrant transfer of cases to
+
+a new forum. Although, the High Court noted that the right to forum is in the realm
+
+of procedural law and would not entitle a litigant who has instituted suit in a trial
+
+court before the amending act came into force to insist that their appeal may also
+
+be heard and decided by the forum prescribed under the unamended provisions.
+
+Justice R.C. Chavan observed:
+“19…In view of the provisions of
+section 7(b)
+of the Bombay
+                 General Clauses Act the repeal of part of
+section 26
+of
+                 Bombay Civil Courts Act, relating to the reference to the sum
+47
+(2008) 4 Mah LJ 803
+62
+PART C
+
+                 of Rs. Fifty Thousand, would not affect the proceedings which
+                 had already commenced or had been initiated in the High
+                 Court. We may, however, add that right to forum being in the
+                 realm of adjectives or procedural law would not entitle the
+                 suitor who had filed suit in the trial Court before
+Amending Act
+came into force to insist that even his appeal may be heard
+                 and decided by the forum prescribed under the unamended
+                 provisions. This question has already been concluded by the
+                 Full Bench in
+Vilas Vasant Mahajan v. Central Bank of India
+.
+However, unless clear legislature intent can be discerned to
+                 indicate that even pending matters were required to be
+                 transferred to the new forum, mere absence of a saving
+                 clause like one in the form of
+section 19
+of the Amending Act
+                 of 1977, would not warrant transfer of cases to the new
+                 forum.”
+
+
+
+C.20 Vallabhaneni (2004- Andhra Pradesh HC- 5 judges)
+50.
+In
+Vallabhaneni Lakshmana Swamy v. Valluru Basavaiah48
+was a case
+
+where the A.P. Civil Court (Amendment) Act 1989 raised the pecuniary
+
+jurisdiction to entertain the appeal at the District Court from Rs. 30,000 to Rs. 1
+
+lakh. By a further amendment the pecuniary jurisdiction was raised to Rs. 3 lakhs.
+
+The High Court held that the amendment would be applicable prospectively. The
+
+High
+Court further held
+that in case of suits which were filed earlier to the
+
+amendment and were pending as on the date the amendment came in force, the
+
+appeal in relation to those suits would be filed before a forum created under the
+
+amended Act depending on the pecuniary limits. If the appeal has been
+
+presented before the date of the amended Act coming into force and the appeals
+
+were pending as on the said date, the amendment would not have any effect on
+
+such pending appeals. The judgement of the High Court was premised on the
+
+principle that when the right to appeal and forum are inextricable, they both
+48
+(2004) 5 ALD 807
+63
+PART C
+
+become substantive rights and travel together. The Special Bench of the High
+
+Court observed:
+“96. …. if the forum is changed and the right of the appeal in
+                 the forum are so inextricable that they cannot be separated
+                 by clear cut measure. It has to be that the right of appeal as
+                 well as the forum are both substantive rights and therefore,
+                 they only apply to the cases in future and not applied to the
+                 pending cases.”
+
+
+
+
+C.21 Gobardhan Lal Soneja (1991- Patna HC- FB)
+51.
+In
+Gobardhan Lal Soneja v. Binod Kumar Sinha49
+, the Patna High Court
+
+relied on the decision in New India Assurance to hold that the transfer of pending
+
+proceedings from the Sub-Judge to the Munsif after pecuniary jurisdiction is
+
+altered by an amendment, is a valid exercise of power and there is no vested
+
+right to a forum. The Full Bench of the High Court observed:
+“11…The Supreme Court in the
+New India Assurance Co.
+                 Ltd.
+(supra) considered the effect of
+section 110A
+of the
+                 Motor Vehicles Act, 1939 by which Claims Tribunals were
+                 constituted for filing claims arising out of motor vehicle
+                 accidents: The question was whether with regard to the
+                 claims for compensation arising out of an accident which took
+                 place after introduction of section 110A, a suit will lie or a
+                 claim therefor shall have to be filed before the Claims
+                 Tribunal. It was held by the Supreme Court that by section
+                 110A there was no change in law, but merely change of
+                 forum i.e. the change of adjectival or procedural law and not
+                 substantive law. It was observed. “It is well established
+                 proposition that such change of law operates retrospectively
+                 and the person has to go to new forum even if his cause of
+                 action or right of action accrued prior to the change of forum.
+                 He will have a vested right of action, but not a vested right of
+                 forum”. It may be noticed that the language of
+section 19
+is
+                 not such as to interpret it that the Munsif and Additional
+                 Munsif were given jurisdiction to hear suits of higher value
+                 which were filed after the amendment of that section. For this
+                 reason also, it must be held that the application of
+section 19
+will be retrospective in the sense that it will apply to the
+49
+(1991) 2 PLJR 783
+64
+PART C
+
+                  pending suits.
+This proposition of law has been laid down in
+                  the New India Assurance Co. Ltd., (supra).”
+
+
+
+C.22 Y.B. Ramesh (2010- Karnataka HC- SJ)
+52.       The Karnataka High Court in
+Y.B. Ramesh v. Varalakshmi50
+, held that a
+
+subsequent amendment to pecuniary jurisdiction is said to have divested the
+
+concerned forum of its authority to hear the matter.
+The Single Judge of the High
+
+Court relied on the decision in
+Sudhir G Angur
+(supra) and observed:
+“9. The main argument addressed by the learned Counsel for
+                  the petitioner is that as on the date of filing of the suit, the
+                  Court has no jurisdiction and hence, the plaint has to be
+                  rejected under Order 7, Rule 11(d)
+of CPC
+. The issue
+                  regarding law to be applied in determining the jurisdiction of
+                  the Court, i.e., the law as existing on the date of institution of
+                  the suit or on the date on which, the suit came up for hearing
+                  has to be applied. The Hon'ble Supreme Court in a judgment
+                  cited supra (Sudhir G Angur), held as under:
+“In our view Mr. G.L. Sanghi is also right in submitting that it is
+                  the law on the date of trial of the suit which is to be applied.
+In
+                  support of this submission, Mr. Sanghi relied upon the
+                  judgment in
+Shiv Bhagwan Mod Ram Saraoji v. Onkarmal
+                  Ishar Dass
+, AIR 1952 Bom. 365, wherein it has been held that
+                  no party has a vested right to a particular proceeding or to a
+                  particular forum. It has been held that it is well-settled that all
+                  procedural laws are retrospective unless the Legislature
+                  expressly states to the contrary. It has been held that the
+                  procedural laws in force must be applied at the date when the
+                  suit or proceeding comes on for trial or disposal. It has been
+                  held that a Court is bound to take notice of the change in the
+                  law and is bound to administer the law as it was when the suit
+                  came up for hearing. It has been held that if a Court has
+                  jurisdiction to try the suit, when it comes on for disposal, it
+                  then cannot refuse to assume jurisdiction by reason of the
+                  fact that it had no jurisdiction to entertain it at the date when it
+                  was instituted. We are in complete agreement with these
+                  observations. As stated above, the Mysore Act now stands
+                  repelled. It could not be denied that now the Court has
+                  jurisdiction to entertain this suit”.
+10. In view of the pronouncement of law by the Hon'ble
+                  Supreme Court, the petitioner is not entitled for any relief.
+50
+(2010) 6 Kant LJ 43
+65
+PART C
+
+                   Further, even if it is held that the Civil Judge (Junior Division)
+                   has no pecuniary jurisdiction to entertain the suit, at the most,
+                   the Court can return the plaint to the plaintiff to present before
+                   the appropriate Court. In view of the amendment to the Civil
+                   Courts Act, the Civil Judge (Junior Division), Magadi is the
+                   Competent Court to try the suit and hence, I.A. No. 1 filed by
+                   the petitioner cannot be entertained.”
+
+
+
+C.23 Conclusion on the position of law
+53.       In considering the myriad precedents that have interpreted the impact of a
+
+change in forum on pending proceedings and retrospectivity- a clear position of
+
+law has emerged: a change in forum lies in the realm of procedure. Accordingly,
+
+in compliance with the tenets of statutory interpretation applicable to procedural
+
+law, amendments on matters of procedure are retrospective, unless a contrary
+
+intention emerges from the statute. This position emerges from the decisions in
+New        India     Assurance
+(supra),
+Maria     Cristina
+(supra),
+Hitendra    Kumar
+
+Thakur
+(supra),
+Ramesh Kumar Soni
+(supra) and
+Sudhir G Angur
+(supra).
+More
+
+recently, this position has been noted in a three judge Bench decision of this
+
+Court in
+Manish Kumar v. Union of India51
+.
+However, there was a deviation by
+
+a two judge bench decision of this Court in
+Dhadi Sahu
+(supra), which overlooked
+
+the decision of a larger three judge bench in
+New India Assurance
+(supra) and of
+
+a co-ordinate two judge bench in
+Maria Cristina
+(supra).
+The decision in
+Dhadi
+
+Sahu
+(supra) propounded a position that “no litigant has any vested right in the
+
+matter of procedural law but where the question is of change of forum it ceases to
+
+be a question of procedure only. The forum of appeal or proceedings is a vested
+
+right as opposed to pure procedure to be followed before a particular forum. The
+51
+Writ Petition (C) No. 26 of 2020, decided on 19 January 2021 (Supreme Court of India)
+66
+PART C
+
+right becomes vested when the proceedings are initiated in the tribunal.”        In
+
+taking this view, the two judge bench did not consider binding decisions.
+Dhadi
+
+Sahu
+(supra) failed to consider that the saving of pending proceedings in
+Mohd.
+
+Idris
+(supra) and
+Manujendra Dutt
+(supra) was a saving of vested rights of the
+
+litigants that were being impacted by the repealing acts therein, and not because
+
+a right to forum is accrued once proceedings have been initiated.
+Thereafter, a
+
+line of decisions followed
+Dhadi Sahu
+(supra), to hold that a litigant has a
+
+crystallized right to a forum once proceedings have been initiated. A litigant’s
+
+vested right (including the right to an appeal) prior to the amendment or repeal
+
+are undoubtedly saved, in addition to substantive rights envisaged under
+Section
+
+6
+of the General Clauses Act. This protection does not extend to pure matters of
+
+procedure. Repeals or amendments that effect changes in forum would ordinarily
+
+affect pending proceedings, unless a contrary intention appears from the
+
+repealing or amending statute.
+54.   It is relevant to note in this context that the decision in
+Ambalal
+
+Sarabhai
+(supra) saved proceedings in relation to a benefit which although not
+
+vested, accrued to the landlord to evict the tenant by virtue of a proviso to a
+
+Section which accorded protection to the tenant from ejectment. This Court
+
+reasoned that since the right of the landlord flows from a Section which protects
+
+the tenant, it cannot be enlarged into a vested right.
+However, Ambalal
+
+Sarabhai
+(supra) did not enunciate an absolute proposition that the right to
+
+institute proceedings at a particular forum is an accrued right, let alone a vested
+
+right.
+The dictum that a change of forum is a procedural matter is not altered by
+
+the decision of this Court in
+Ambalal Sarabhai
+(supra) which sought to
+67
+PART C
+
+differentiate between vested rights and accrued rights, the latter being protected
+
+under
+Section 6(c)
+of the General Clauses Act, the proceedings in relation to
+
+which are protected under
+Section 6(e)
+.
+55.   Now, it is in this backdrop, that we have to analyze the impact of the Act of
+
+2019 upon pending cases which were filed before the fora constituted under the
+
+Act of 1986.
+68
+PART D
+
+D     Legislative Scheme of the jurisdictional provisions
+56.   Some of the salient aspects of the Act of 2019 insofar as they pertain to
+
+the jurisdictional provisions need to be visited. The pecuniary limits of the original
+
+jurisdiction of the District Commission under Section 34(1) is to entertain
+
+complaints where the value of the goods or services paid as consideration does
+
+not exceed a crore of rupees.
+57.   An appeal lies to the SCDRC from an order of the District Commission
+
+under Section 41. The second proviso to Section 41 stipulates that an appeal
+
+shall not be entertained of a person who is required to pay any amount under the
+
+order of the District Commission, unless the appellant has deposited 50 per cent
+
+of the decretal amount.
+58.   The SCDRC has, under Section 47(1)(a)(i), original jurisdiction to entertain
+
+complaints subject to a pecuniary limit of not less than one crore rupees and not
+
+exceeding rupees ten crores. The SCDRC has an appellate jurisdiction under
+
+Section 47(1)(a)(iii), revisional jurisdiction under Section 47(1)(b) and review
+
+jurisdiction under Section 50.
+59.   Section 51 provides an appeal to the NCDRC from an order passed by the
+
+SCDRC in the exercise of its original jurisdiction to hear a complaint [referable to
+
+sub-clauses (i) and (ii) of clause (a) of Section 47 (1)]. As in the manner of an
+
+appeal before the SCDRC against an order of the District Commission, the
+
+second proviso to Section 51 provides that an appeal shall not be entertained at
+
+the behest of a person who is required to pay any amount unless 50 per cent of
+69
+PART D
+
+the amount has been deposited. Under sub-Section (2) of Section 51, an appeal
+
+before the NCDRC against an order of the SCDRC lies on a substantial question
+
+of law.
+60.   The original jurisdiction of the NCDRC under Section 58(a)(1) is to
+
+entertain complaints where the value of the goods or services paid as
+
+consideration exceeds rupees ten crores and complaints against unfair contracts
+
+of a similar value. The NCDRC is vested with an appellate jurisdiction under
+
+Section 51, a revisional jurisdiction under Section 58(1)(b) and a review
+
+jurisdiction under Section 60. An appeal against an order of the NCDRC passed
+
+in the exercise of its original jurisdiction lies to this Court under Section 67. The
+
+second proviso of Section 67 requires a pre-deposit of 50 per cent of the amount
+
+ordered by the NCDRC.
+61.   Under the earlier Act of 1986, the pecuniary limit of the jurisdiction of (i) the
+
+District Commission was up to rupees 20 lacs under
+Section 11(1)
+; (ii) the
+
+SCDRC between rupees twenty lacs and rupees one crores under
+Section 17(1)
+;
+
+and (iii) the NCDRC above rupees one crore under
+Section 21
+. The requirement
+
+of pre-deposit for filing an appeal before the SCDRC against an order of the
+
+District Commission was 50 per cent of the amount or twenty-five thousand
+
+rupees, whichever is less (
+Section 15
+). A similar pre deposit was required for
+
+appeals to the NCDRC against orders of the SCDRC (second proviso to Section
+19). An appeal before the NCDRC against an order of the SCDRC (
+Section 19
+)
+
+was not circumscribed by the requirement that it must raise a substantial question
+70
+PART E
+
+of law. In
+Section 51(2)
+of the Act of 2019, an appeal to the NCDRC lies on a
+
+substantial question of law.
+E         Legislative intendment underlying
+Section 107
+of the Act of 2019
+62.
+Section 107(1)
+of the Act of 2019 repeals the Act of 1986.
+In
+State of
+
+Rajasthan v. Mangilal Pindwal52
+, this Court accepted the principle that the effect
+
+of a repeal, in the absence of a savings clause or a general savings statute, is
+
+that "a statute is obliterated" subject to the exception that it exists in respect of
+
+transactions past and closed. Section 107 (2) has saved "the previous operation"
+of any repealed enactment or "anything duly done or suffered thereunder to the
+
+extent that it is not inconsistent with the provisions of the new legislation". Finally,
+
+Section 107(3) indicates that the mention of particular matters in sub-Section (2)
+
+will not prejudice or affect the general application of
+Section 6
+of the General
+
+Clauses Act.
+63.
+Section 6
+of the General Clauses Act provides governing principles with
+
+regard to the impact of the repeal of a central statute or regulation. These
+
+governing principles are to apply, "unless a different intention appears". Clause
+(c) of
+Section 6
+inter alia stipulates that a repeal would not affect “any right,
+
+privilege, obligation or liability acquired, accrued or incurred under any enactment
+
+so repealed". The right to pursue a validly instituted consumer complaint under
+
+the Act of 1986 is a right which has accrued under the law which was repealed.
+
+Clause (e) of
+Section 6
+stipulates that the repeal will not affect, inter alia, any
+52
+(1996) 5 SCC 60
+71
+PART E
+
+"legal proceeding or remedy" in respect of any such right…as aforesaid". Any
+
+such legal proceedings may be continued as if the repealing legislation had not
+
+been passed. Clause (c) of
+Section 6
+has the effect of preserving the right which
+
+has accrued. Clause (e) ensures that a legal proceeding which has been initiated
+
+to protect or enforce "such right" will not be affected and that it can be continued
+
+as if the repealing legislation has not been enacted. The expression such a right
+
+in clause (e) evidently means the right which has been adverted to in clause (c).
+
+The plain consequence of clause (c) and clause (e), when read together is two-
+
+fold: first, the right which has accrued on the date of the institution of the
+
+consumer complaint under the Act of 1986 (the repealing law) is preserved; and
+
+second, the enforcement of the right through the instrument of a legal proceeding
+
+or remedy will not be affected by the repeal.
+64.   Having stated the above position, we need to harmonize it with the
+
+principle that the right to a forum is not an accrued right, as discussed in Part C
+
+of this judgement. Simply put, while
+Section 6(e)
+of the General Clauses Act
+
+protects the pending legal proceedings for the enforcement of an accrued right
+
+from the effect of a repeal, this does not mean that the legal proceedings at a
+
+particular forum are saved from the effects from the repeal. The question whether
+
+the pending legal proceedings are required to be transferred to the newly created
+
+forum by virtue of the repeal would still persist. As discussed, this Court in
+New
+
+India Assurance
+(supra) and
+Maria Christina
+(supra) has held that forum is a
+
+matter pertaining to procedural law and therefore the litigant has to pursue the
+
+legal proceedings at the forum created by the repealing act, unless a contrary
+
+intention appears.
+This principle would also apply to pending proceedings, as
+72
+PART E
+
+observed in
+Ramesh Kumar Soni
+(supra),
+Hitendra Kumar Thakur
+(supra) and
+Sudhir G Angur
+(supra). In this backdrop, what is relevant to ascertain is whether
+
+a contrary intent to the general rule of retrospectivity has been expressed under
+
+the Act of 2019 to continue the proceedings at the older forum.
+65.    Now, in considering the expression of intent in the repealing enactment in
+
+the present case, it is apparent that there is no express language indicating that
+
+all pending cases would stand transferred to the fora created by the Act of 2019
+
+by applying its newly prescribed pecuniary limits. In deducing whether there is a
+
+contrary intent, the legislative scheme and procedural history may provide a
+
+relevant insight into the intention of the legislature.
+66.
+The Act
+of 2019, as indicated by its long title, is enacted to provide "for
+
+protection of the interests of consumers". The Statement of Objects and Reasons
+
+took note of the tardy disposal of cases under the erstwhile legislation. Thus, the
+
+necessity of inducing speed in disposal was to protect the rights and interests of
+
+consumers.
+The Act
+of 2019 has taken note of the evolution of consumer markets
+
+by the proliferation of products and services in light of global supply chains, e-
+
+commerce and international trade. New markets have provided a wider range of
+
+access to consumers. But at the same time, consumers are vulnerable to
+
+exploitation through unfair and unethical business practices.
+The Act
+has sought
+
+to address "the myriad and constantly emerging vulnerabilities of the consumers".
+
+The recurring theme in the new legislation is the protection of consumers which is
+
+sought to be strengthened by procedural interventions such as strengthening
+73
+PART E
+
+class actions and introducing mediation as an alternate forum of dispute
+
+resolution.
+67.   In this backdrop, something specific in terms of statutory language - either
+
+express words or words indicative of a necessary intendment would have been
+
+required for mandating the transfer of pending cases. One can imagine the
+
+serious hardship that would be caused to the consumers, if cases which have
+
+been already instituted before the NCDRC were required to be transferred to the
+
+SCDRCs as a result of the alteration of pecuniary limits by the Act of 2019. A
+
+consumer who has engaged legal counsel at the headquarters of the NCDRC
+
+would have to undertake a fresh round of legal representation before the SCDRC
+
+incurring expense and engendering uncertainty in obtaining access to justice.
+
+Likewise, where complaints have been instituted before the SCDRC, a transfer of
+
+proceedings would require consumers to obtain legal representation before the
+
+District Commission if cases were to be transferred. Such a course of action
+
+would have a detrimental impact on the rights of consumers. Many consumers
+
+may not have the wherewithal or the resources to undertake a fresh burden of
+
+finding legal counsel to represent them in the new forum to which their cases
+
+would stand transferred.
+68.   It would be difficult to attribute to Parliament, whose purpose in enacting
+
+the Act of 2019 was to protect and support consumers with an intent that would
+
+lead to financial hardship, uncertainty and expense in the conduct of consumer
+
+litigation. Ironically, the objection which has been raised in the present case to
+
+the continued exercise of jurisdiction by the NCDRC in regard to the consumer
+74
+PART E
+
+complaint filed by the appellant is by the developer who is the respondent herein.
+
+It is a developer who opposed the continuation of the proceedings before the
+
+NCDRC on the ground that under the new consumer legislation the pecuniary
+
+limits of the jurisdiction exercisable by the NCDRC have been enhanced and the
+
+complaint filed by the appellant which was validly instituted under the erstwhile
+
+law should be transferred to the SCDRC. Such a course of action will result in
+
+thousands of cases being transferred across the country, from the NCDRC to the
+
+SCDRCs and from the SCDRCs to the District Commission.
+69.     Data drawn from annual reports of the Union Ministry of Consumer Affairs
+
+indicates pendency from financial year 2015-16 to financial year 2019-20:
+Report for FY 2015-16 (figures as on 31.12.2015)53
+
+Commissions/Forums Cases filed Cases                                Cases            %            of
+
+                               since             disposed of Pending                 Disposal
+
+                               inception         since
+
+                                                 inception
+
+NCDRC                          98,952            88,893             10,059           89.83
+
+SCDRC                          6,97,964          6,01,216           96,748           86.14
+
+District Forums                36,59,486         33,73,529          2,85,957         92.19
+
+Total                          44,56,402         40,63,638          3,92,764         91.19
+
+
+
+                 Report for FY 2016-17 (figures as on 31.12.2016)54
+53
+https://consumeraffairs.nic.in/sites/default/files/file-uploads/annualreports/1535004604_AR_2015-
+16.pdf , page 34
+54
+https://consumeraffairs.nic.in/sites/default/files/file-uploads/annualreports/1535004643_AR_2016-
+17.pdf , page 47
+75
+PART E
+
+Commissions/Forums Cases filed Cases                                 Cases             %            of
+
+                                since             disposed of Pending                  Disposal
+
+                                inception         since
+
+                                                  inception
+
+NCRC                            1,06,711          94,581             12,130            88.63
+
+SCDRC                           7,28,526          6,27,289           1,01,237          86.10
+
+District Forums                 38,53,422         35,51,649          3,01,773          92.17
+
+Total                           46,89,280         42,74,136          4,15,144          91.15
+Report for FY 2017-18 (figures as on 29.01.2018)55
+
+Commissions/Forums Cases filed Cases                                 Cases             %            of
+
+                                since             disposed of Pending                  Disposal
+
+                                inception         since
+
+                                                  inception
+
+NCRC                            1,17,430          1,00,419           17,011            85.51
+
+SCDRC                           7,57,887          6,49,606           1,08,281          85.71
+
+District Forums                 40,62,476         37,59,249          3,03,227          92.54
+
+Total                           49,37,793         45,09,274          4,28,519          91.32
+
+
+
+                 Report for FY 2018-19 (figures as on 31.03.2019)56
+
+Commissions/Forums Cases filed Cases                                 Cases             %            of
+
+                                since             disposed of Pending                  Disposal
+55
+https://consumeraffairs.nic.in/sites/default/files/file-uploads/annualreports/1535004742_AR_2017-
+18.pdf , page 49
+56
+https://consumeraffairs.nic.in/sites/default/files/file-uploads/annualreports/_. , page 41
+76
+PART E
+
+                               inception         since
+
+                                                 inception
+
+NCDRC                          1,28,152          1,08,112          20,040           84.36
+
+SCDRC                          8,29,477          7,11,507          1,17,970         85.78
+
+District Forums                41,59,692         38,38,473         3,21,219         92.28
+
+Total                          51,17,321         46,58,092         4,59,229         91.03
+
+
+
+                 Report for FY 2019-20 (figures as on 31.10.2019)57
+
+Commissions/Forums Cases filed Cases                               Cases            %            of
+
+                               since             disposed of Pending                Disposal
+
+                               inception         since
+
+                                                 inception
+
+NCDRC                          1,33,148          1,11,932          21,216           84.07
+
+SCDRC                          9,44,841          8,19,685          1,25,156         86.75
+
+District Forums                43,05,234         39,62,438         3,42,796         92.04
+
+Total                          53,83,223         48,94,055         4,89,168         90.91
+
+
+
+The above data indicates that as on 31 October 2019, 21,216 cases were
+
+pending before the NCDRC and 1,25,156 cases were pending before the
+
+SCDRC. Many of these cases would have to be transferred if the view which the
+
+developer propounds is upheld. This will seriously dislocate the interests of
+
+consumers in a manner which defeats the object of the legislation, which is to
+
+protect and promote their welfare. Clear words indicative of either an express
+57
+https://consumeraffairs.nic.in/sites/default/files/file-
+uploads/annualreports/1596167686_Annual%20Report%202019-20.pdf page 45
+77
+PART E
+
+intent or an intent by necessary implication would be necessary to achieve this
+
+result.
+The Act
+of 2019 contains no such indication. The transitional provisions
+
+contained in
+Sections 31
+, 45 and 56 expressly indicate that the adjudicatory
+
+personnel who were functioning as Members of the District Commission, SCDRC
+
+and NCDRC under the erstwhile legislation shall continue to hold office under the
+
+new legislation. Such provisions are necessary because persons appointed to the
+
+consumer fora under the Act of 1986 would have otherwise demitted office on the
+
+repeal of the legislation. The legislature cannot be attributed to be remiss in not
+
+explicitly providing for transfer of pending cases according to the new pecuniary
+
+limits set up for the fora established by the new law, were that to be its intention.
+
+The omission, when contextualized against the statutory scheme, portends a
+
+contrary intention to protect pending proceedings through
+Section 107(2)
+of the
+
+Act of 2019. This intention appears likely, particularly in light of previous
+
+decisions of the NCDRC which had interpreted amendments that enhanced
+
+pecuniary jurisdiction, with prospective effect. The NCDRC, in
+Southfield Paints
+
+and Chemicals Pvt. Ltd. v. New India Assurance Co. Ltd.58
+construed
+
+amending Act 62 of 2002 by which the pecuniary limits of jurisdiction were
+
+enhanced with effect from 15 March 2003 as prospective by relying on its earlier
+
+decision in Premier Automobiles Ltd. v. Dr Manoj Ramachandran59, where the
+
+NCDRC held that the amendments enhancing the pecuniary jurisdiction
+
+are prospective in nature [albeit on a reliance of the principle in
+Dhadi
+
+Sahu
+(supra)]. Parliament would be conscious of this governing principle and yet
+
+chose not to alter it in its application to the consumer fora.
+58
+Consumer Case No. 286 of 2000 (NCDRC)
+59
+Revision Petitions Nos 400 to 402 of 1993 (NCDRC)
+78
+PART E
+70.       It is accepted, that in defining the jurisdiction of the District Commission,
+Section 34
+of the Act of 2019 entrusts the jurisdiction to “entertain” complaints. A
+
+similar provision is contained in Section 47 and Section 58 in regard to the
+
+SCDRC and NCDRC. The expression “entertain” has been considered in a two
+
+judge Bench decision of this Court in
+Hindusthan Commercial Bank Ltd. v.
+
+Punnu Sahu (Dead) Through Legal Representatives60
+, in the context of the
+
+provisions of
+Order XXI Rule 90 of the CPC
+. The Court has accepted that the
+
+expression “entertain” means to adjudicate upon or proceed to consider on
+
+merits.
+In
+Nusli Neville
+(supra), while considering the provisions of
+Section 9A
+of
+
+the CPC as inserted by a Maharashtra Amendment, a two judge Bench followed
+
+the exposition in
+Hindusthan Commercial Bank
+(supra).
+Undoubtedly, the
+
+expression “entertain” has been construed in the context of
+Section 9A
+of the
+
+Code of Civil Procedure, as amended in Maharashtra, by a three judge Bench of
+
+this Court in
+Nusli Wadia
+(supra) to mean “to adjudicate upon or to proceed to
+
+consider on merits”. Sections 34, 47 and 58 similarly indicate that the respective
+
+consumer fora can entertain complaints within the pecuniary limits of their
+
+jurisdiction. These provisions will undoubtedly apply to complaints which were
+
+instituted after the Act of 2019 came into force. However, the mere use of the
+
+word “entertain” in defining jurisdiction is not sufficient to counteract the
+
+overwhelming legislative intention to ensure consumer welfare and deliberately
+
+not provide for a provision for transfer of pending proceedings in the Act of 2019
+
+or under
+Section 106
+of the Act of 2019 which is a power to remove difficulties for
+
+a period of two years after the commencement of the Act of 2019.
+60
+“Hindusthan Commercial Bank”; (1971) 3 SCC 124
+79
+PART F
+
+F       Summation
+71.     For the above reasons, we have come to the conclusion that proceedings
+
+instituted before the commencement of the Act of 2019 on 20 July 2020 would
+
+continue before the fora corresponding to those under the Act of 1986 (the
+
+National Commission, State Commissions and District Commissions) and not be
+
+transferred in terms of the pecuniary jurisdiction set for the fora established under
+
+the Act of 2019. While allowing the appeals, we issue the following directions:
+(i)     The impugned judgment and order of the NCDRC dated 30 July 2020 and
+
+        the review order dated 5 October 2020, directing a previously instituted
+
+        consumer case under the Act of 1986 to be filed before the appropriate
+
+        forum in terms of the pecuniary limits set under the Act of 2019, shall stand
+
+        set aside;
+(ii)    As a consequence of (i) above, the National Commission shall continue
+
+        hearing the consumer case instituted by the appellants;
+(iii)   All proceedings instituted before 20 July 2020 under the Act of 1986 shall
+
+        continue to be heard by the fora corresponding to those designated under
+
+        the Act of 1986 as explained above and not be transferred in terms of the
+
+        new pecuniary limits established under the Act of 2019; and
+(iv)    The respondent shall bear the costs of the appellant quantified at Rupees
+
+        Two lakhs which shall be payable within four weeks.
+80
+PART F
+72.   The appeals are allowed in the above terms.
+73.   Pending application(s), if any, stand disposed of.
+…..…….….....................................................J.
+                                   [Dr Dhananjaya Y Chandrachud]
+
+
+
+                                  ………….….....................................................J.
+                                   [M R Shah]
+New Delhi;
+March 16, 2021.
+81

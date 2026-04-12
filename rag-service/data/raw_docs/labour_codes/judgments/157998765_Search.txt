@@ -1,0 +1,1915 @@
+Title: Search
+Court: High Court
+Date: Unknown Date
+Citation: citations: AIRONLINE 2020 DEL 1541
+Source: https://indiankanoon.org/doc/157998765/
+
+[Cites
+60
+, Cited by
+8
+]
+Delhi High Court
+Mohd. Arbaz vs State Of Nct Of Delhi on 3 November, 2020
+Equivalent citations: AIRONLINE 2020 DEL 1541
+Author:
+Vibhu Bakhru
+Bench:
+Vibhu Bakhru
+IN THE HIGH COURT OF DELHI AT NEW DELHI
+
+%                                         Judgment delivered on: 03.11.2020
+
++       CRL.REV.P. 1219/2019 and CRL.M.A. 10252/2020
+
+MOHD. ARBAZ                                                 .....Petitioner
+
+                                 Versus
+
+STATE OF NCT OF DELHI                                       ..... Respondent
+
+                                           AND
+
++       CRL. REV.P. 1220/2019
+
+ABDUL RASHID                                                .....Petitioner
+
+                                 Versus
+
+STATE OF NCT OF DELHI                                       ..... Respondent
+
+                                           AND
+
++       CRL. REV.P. 1222/2019
+
+MOHD. NAZIM                                                 .....Petitioner
+
+                                 Versus
+
+STATE OF NCT OF DELHI                                       ..... Respondent
+
+Advocates who appeared in this case:
+For the Petitioners  : Mr Rudro Chatterjee, Mr Shariq Nisar and
+                       Mr Faisal Mohammed, Advocates.
+For the Respondent   : Mr Ravi Nayak, APP for State.
+
+
+
+CRL.REV.P.1219/2019 & Other Connected Matters                    Page 1 of 47
+ CORAM
+HON'BLE MR JUSTICE VIBHU BAKHRU
+
+                                     JUDGMENT
+VIBHU BAKHRU, J
+1.      The petitioners impugn a common order dated 20.08.2019,
+whereby their respective applications for grant of bail in default under
+Section 167(2)
+of Code of Criminal Procedure (hereafter the '
+Cr.PC
+')
+were rejected.
+2.      The petitioners' claim that they are entitled to bail in default is
+premised on the assertion that the investigating agency has failed to
+file a police report under
+Section 173(2)
+of the Cr.PC within the
+stipulated period of one-hundred and eighty days. Although, it is not
+disputed that a report was filed within the stipulated period, the
+petitioners contend that the said report was incomplete as it was not
+accompanied by the report of the Chemical Examiner.
+3.      The petitioners are being prosecuted for committing an offence
+under
+Sections 21
+and
+29
+of the Narcotic Drugs and Psychotropic
+Substances Act, 2012 (hereafter the '
+NDPS Act
+'). They claim it
+cannot be asserted that the substance allegedly recovered from them
+was a narcotic drug or psychotropic substance without a Chemical
+Examiner's report indicating the same. This being the foundation of
+the allegation against the petitioners, a police report not accompanied
+by a Chemical Examiner's report cannot be considered as a report
+under
+Section 173(2)
+of the Cr.PC. The Chemical Examiner's report
+CRL.REV.P.1219/2019 & Other Connected Matters              Page 2 of 47
+was furnished before the learned Special Court on the same date when
+the applications filed by the petitioners were taken up for
+consideration. Nonetheless, the petitioners claim that they are entitled
+to bail in default under
+Section 167(2)
+of the Cr.PC as their respective
+applications seeking the same were filed prior to the Public Prosecutor
+placing the FSL Report before the Special Court.
+4.      In view of the above, the following questions fall for
+consideration of this Court:
+(i)     Whether in a case of commission of an offence
+                punishable under the provisions of the
+NDPS Act
+, which
+                is founded on recovery of narcotic drugs and/or
+                psychotropic substance, a police report under
+Section
+                173(2)
+of the Cr.PC can be considered as such if it is not
+                accompanied by a Chemical Examiner's Report with
+                regard to the substance recovered, and;
+(ii)    Whether an accused would be entitled to bail in default
+                under
+Section 167(2)
+of the Cr.PC where his application
+                for such bail has been filed prior to the submission of the
+                report under
+Section 173(2)
+of the Cr.PC but is taken up
+                for consideration simultaneously with the said report
+                being filed.
+CRL.REV.P.1219/2019 & Other Connected Matters              Page 3 of 47
+5.      The relevant facts necessary to address the aforesaid
+controversy are set out below:
+5.1     It is alleged that on 16.12.2018 at about 09:00 pm, information
+was received through a special messenger at the office of Special Cell,
+Sector- 7, Pushp Vihar, New Delhi - that one Abdul Rashid (petitioner
+in Crl. Rev. P. 1220/2019), who is a resident of Bhilwara, Rajasthan
+and deals in the business of narcotic drugs (Heroin) would arrive near
+Ambedkar Park, Sector 12, R.K. Puram, Ring Road on that date in a
+vehicle bearing Registration No. RJ 06 UA9729 between 09:00 pm
+and 12:00 pm. It was informed that he would be carrying heroin for
+its distribution in Delhi. After obtaining the necessary authorization, a
+raiding team was constituted. The raiding team so constituted
+positioned themselves near the spot (Ambedkar Park, Sector 12, R.K.
+Puram, New Delhi) at about 10:15 pm. It is alleged that at about 11:40
+pm, a white coloured Ertiga car was seen approaching the spot. The
+driver of the said vehicle parked the same approximately ten meters
+from the spot. It was observed that the registration number plate of the
+said vehicle bore the same registration number as informed by the
+messenger. It was observed that there were three persons in the said
+vehicle including Abdul Rashid, who was driving the car. All the three
+persons came out of the car and stood outside. At that stage, Abdul
+Rashid handed over one bag each to two other persons who slung it on
+their back. At that stage, they were surrounded by the raiding team.
+The driver of the vehicle (Abdul Rashid) took out one bag from the
+said vehicle and attempted to flee in the direction of Hyatt Hotel. He
+CRL.REV.P.1219/2019 & Other Connected Matters            Page 4 of 47
+was apprehended by one of the members of the raiding team. The
+bags carried by the said three persons were searched and were found
+to contain five kgs of light coloured brown powder each. In addition,
+15 kgs of the said similar looking substance was also recovered from
+the vehicle. It was tested on a field-testing kit and the same yielded a
+positive result for heroin.
+5.2     The petitioners were arrested. Thereafter, on 17.12.2018, the
+FIR in question (FIR No. 150/2018), under
+Sections 21
+and
+29
+of the
+NDPS Act was registered with PS Special Cell.
+5.3     On 27.05.2019, a police report under
+Section 173(2)
+of the
+Cr.PC was filed with the Special Court. The said report was not
+accompanied by the Chemical Examiner's report confirming that the
+substance recovered from the petitioners and their vehicle was heroin.
+5.4     The statutory period of one hundred and eighty days for
+completion of the investigation under
+Section 36A(4)
+of NDPS Act
+read with
+Section 167
+of the Cr.PC expired on 15.06.2019.
+5.5     On 29.07.2019, the petitioners filed an application seeking bail
+in default under the provisions of
+Section 167(2)
+of the Cr.PC. This
+was premised on the basis that the investigating agency had failed to
+file the complete police report under
+Section 173(2)
+of the Cr.PC
+within the stipulated period of one hundred and eighty days as the
+report filed 27.05.2019 was not accompanied with the Chemical
+Examiner's report and therefore, was incomplete and could not be
+considered as a report under
+Section 173(2)
+of the Cr.PC. Further, it
+CRL.REV.P.1219/2019 & Other Connected Matters            Page 5 of 47
+had neither sought extension of the said period in terms of
+Section
+36A(4)
+of the NDPS Act nor any such permission was granted. It is
+stated that the said application was filed in the Registry at about 10:00
+am.
+5.6     On the same day, the petitioners were produced before the
+Special Court. And, the learned Additional Public Prosecutor filed the
+Chemical Examiner's Report and supplied a copy of the same. At that
+time, the applications were filed by the petitioners at 10:00 am on the
+same date were not before the Court and therefore, the hearing of the
+matter was deferred till 02:00 pm on that date. The applications were
+heard and orders were reserved.
+5.7     The applications filed by the petitioners were dismissed by the
+Special Court by a common order dated 20.08.2019, which is
+impugned in the present petition.
+6.      The learned Special Court held that the proceedings on that day
+(that is, 29.07.2019) for purposes of the case could take place only
+when the accused were placed before the Court. Thus, even if the
+applications for seeking bail in default were filed on that date, prior to
+the accused being produced, it would deem to coincide with the
+appearance of the accused before the Court and since the IO had filed
+the FSL Report at the same time, it could not be stated that the
+applications filed by the accused (petitioners) seeking bail in default,
+were filed prior to the filing of the FSL Report. The learned Court held
+that since the right to statutory bail under
+Section 167(2)
+of the Cr.PC
+CRL.REV.P.1219/2019 & Other Connected Matters             Page 6 of 47
+cease as soon as the FSL Report is filed and the said report had been
+filed simultaneously to the petitioners being produced in Court, their
+applications were liable to be dismissed.
+Whether a report under
+Section 173(2)
+of the Cr.PC is incomplete if
+not accompanied with the Chemical Examiner's Report
+7.      Mr. Chatterjee, learned counsel appearing for the petitioners
+contended that the entire purpose of submitting a report under
+Section
+173(2)
+of the Cr.PC is to enable the Magistrate/Court to take
+cognizance of the said offence. And, a Magistrate cannot take
+cognizance of an offence, which is founded on the basis of recovery of
+narcotic drug or psychotropic substance, if the Chemical Examiner's
+report indicating the nature of substance recovered is not placed before
+the Court. He submitted that there may be other offences where the
+Chemical Examiner's report or an expert examiner's report may not be
+of a pivotal importance and the cognizance of the offence can be taken
+without reference to the said report. However, in a case relating to an
+offence punishable under the
+NDPS Act
+, which is founded on the
+basis of recovery of contraband, a Chemical Examiner's report would
+be necessary as the Court would not be in a position to take
+cognizance of the said offence without the same. He referred to a
+decision of the Division Bench of the Punjab and Haryana High Court
+in
+Ajit Singh @ Jeeta and Anr. v. State of Punjab
+: Crl.
+Rev. No.
+4659/2015, decided on 30.11.2018; a decision of the Division Bench
+of the Bombay High Court in
+Sunil Vasantrao Phulbande and Anr. v.
+State of Maharashtra
+: (2002) 3 MahLJ 689 and a decision of this
+CRL.REV.P.1219/2019 & Other Connected Matters           Page 7 of 47
+Court in
+Nitin Nagpal v. State
+: 2006 (90) DRJ 745, in support of his
+contention.
+8.      Mr. Nayak, learned APP for the State countered the aforesaid
+submissions. He submitted that the decision in the case of
+Ajit Singh
+@ Jeeta
+(supra) cannot be considered good law as
+the said decision
+is
+contrary to the decision of the Full Bench of the Punjab and Haryana
+High Court in
+State of Haryana v. Mehal Singh and Ors.
+: AIR 1978
+P&H 341.
+He further referred to the decision in
+Himmat Singh v.
+State of Rajasthan
+: (1995) Crl.
+LJ 2967, whereby the Rajasthan High
+Court had not accepted the reasoning of the Division Bench of the
+Punjab and Haryana High Court in
+Ajit Singh
+'s (supra) case.
+He also
+referred to the decision of the Division Bench of this Court in
+Taj
+Singh v. The State (Delhi Admn
+.): (1988) Crl.
+LJ 1634 and the
+decision of the Supreme Court in
+Tara Singh v. State
+: (1951) AIR SC
+441 in support of his contention.
+9.      It is apparent from above that there are divergent opinions
+whether a report under
+Section 173(2)
+of the Cr.PC could be
+considered as a complete report in absence of the Chemical
+Examiner's Report/FSL Report. There appears to be no dispute that
+absence of the Chemical Examiner's Report/FSL Report or an
+Expert's report does not render the report under
+Section 173(2)
+of the
+Cr.PC an inchoate report, incapable of being considered as such, in
+cases where the prosecution's case is not founded on recovery of
+contraband. In such cases, such expert report may not be central to the
+prosecution's case. However, in cases of offences under the NDPS
+CRL.REV.P.1219/2019 & Other Connected Matters          Page 8 of 47
+Act, where the prosecution's case rests on recovery of an illicit
+substance, the Chemical Examiner's Report evidencing the nature of
+the substance allegedly recovered would undoubtedly be at the core of
+the prosecution's case. It is in this context that certain courts have held
+that a report under
+Section 173(2)
+of the Cr.PC would be incomplete if
+it is not accompanied by a Chemical Examiner's Report identifying
+the substance recovered.
+10.
+In
+Mehal Singh
+(supra), the full Bench of the Punjab and
+Haryana High Court examined the question whether the investigation
+of an offence could be considered complete in terms of
+Section 173(2)
+of the Cr.PC, even though the police officer investigating the case had
+not received the reports of experts such as the chemical examiner, the
+serologist, the ballistic expert or the finger print expert, which are
+admissible in law under
+Section 293
+of the Cr.PC. And, whether such
+a chargesheet would qualify to be termed as a police report in terms of
+Section 190(1)(b)
+of the Cr.PC to enable a Magistrate to take
+cognizance of the offence disclosed therein.
+The Court referred to the
+decision of the Supreme Court in
+Noor Khan v. State of Rajasthan
+:
+AIR 1964 SC 286 and observed that it was deducible from
+the said
+decision
+that it is not incumbent upon the investigating officer to
+reduce in writing the statements of witnesses. The Court held that he
+may merely include their names in the list of witnesses in support of
+the prosecution's case when submitting the chargesheet. The Court
+reasoned that surely if the chargesheet thus submitted would be
+complete as enabling the Magistrate to take cognizance of the offence,
+CRL.REV.P.1219/2019 & Other Connected Matters              Page 9 of 47
+there is no rational basis for holding that a similar chargesheet would
+not be a police report of the requisite kind if the statement of
+witnesses, which although recorded under
+Section 161(3)
+of the Cr.PC
+are not appended to the report, either by design or by inadvertence.
+11.     The Court further reasoned that the contention that a
+chargesheet would be incomplete if not accompanied by the report of
+experts such as chemical analyst, serologist, ballistic expert,
+fingerprint expert etc. stands on a weaker ground.
+12.
+In
+Mehal Singh
+(supra), the Court also referred to the decision
+of the Supreme Court in
+Tara Singh v. The State
+: (1951) SCR 729.
+However, in
+Ajit Singh @ Jeeta
+(supra), the Division Bench of the
+Punjab and Haryana High Court distinguished the aforesaid decisions.
+It observed that the courts in those decisions had interpreted the scope
+of the
+Cr.PC
+in the backdrop of general offences confined to the
+Indian Penal Code
+, 1860 (hereafter the '
+IPC
+') and some other statutes;
+but the Courts were not ceased of a matter relating to a special act
+such as the
+NDPS Act
+, which although raises a similar question but
+requires to be addressed keeping in view the specific provisions of
+aspecial act. The Division Bench, thereafter, referred to various
+provisions of the
+NDPS Act
+and observed as under:
+"What would also necessary flow from this, would be a
+          prima facie opinion by the Court of the commission of
+          an offence which under the
+N.D.P.S. Act
+would revolve
+          around establishing the possession of contraband, its
+          nature, content and extent.
+CRL.REV.P.1219/2019 & Other Connected Matters           Page 10 of 47
+With respect to the question posed by the learned Single
+          Judge regarding some of the contraband being
+          identifiable through naked eye, inspection based on
+          experience and knowledge, would be a great fallacy and
+          we would respectfully state that it would be grossly
+          unsafe to rely upon such an opinion based on naked eye
+          inspection backed by experience or knowledge to arrive
+          at a prima facie opinion of the commission of an
+          offence to submit an accused to the rigors of trial by the
+          Magistrate in the exercise of its powers under Section
+          190 Cr.P.C.
+The only way that it can be done is to establish the
+          nature of contraband on the basis of the Chemical
+          Examiner's report and for this reason, the Chemical
+          Examiner's report assumes an immense significance for
+          the trial Court, to formulate an opinion as the very
+          cognizance of an offence would depend on it. Non-
+          inclusion of the Chemical Examiner's opinion in the
+          report under
+Section 173
+Cr.P.C. would expose the
+          accused to unfounded dangers imperiling and
+          endangering his liberty since the provisions of the
+N.D.P.S. Act
+in its applicability to a trial and conclusion
+          are stringent in consequence.
+For this reason as well, it is essential that the report of
+          the Chemical Examiner be included in the report under
+Section 173
+Cr.P.C. and without which it can at best be
+          termed to be an incomplete challan depriving the
+          Magistrate of relevant material take cognizance and if it
+          is not submitted within the requisite period of 180 days,
+          it would essentially result in a default benefit to the
+          accused unless an application is moved by the
+          Investigating Agency apprising the Court of status of
+          investigation with a prayer for extension of time to the
+          satisfaction of the Court.
+We emphasize on the stringent aspect of the
+N.D.P.S.
+          Act
+which would compellingly persuade us to take the
+          aforesaid view. Without determining the nature and
+CRL.REV.P.1219/2019 & Other Connected Matters              Page 11 of 47
+content of the contraband, it would be draconian to
+          propel an accused into the throes of a trial. The liberty
+          of an individual would constantly be imperiled at the
+          hands of dubious officials of the police who may
+          venture to falsely implicate a person.
+It is for this reason that we would unhesitatingly
+          conclude that the Chemical Examiner's report is an
+          essential; integral and inherent part of the investigation
+          under the
+N.D.P.S. Act
+as it would lay the foundation of
+          an accused's culpability without which a Magistrate
+          would not be enabled to form an opinion and take
+          cognizance of the accused's involvement in the
+          commission of offence under the Act."
+13.     The Division Bench of the Bombay High Court took a similar
+view in
+Sunil Vasantrao Phulbande
+(supra). The Court reasoned that
+in a case involving seizure of contraband, the prosecution's case
+would rest on the substance seized being either a narcotic drug or a
+psychotropic substance. And, a police report under
+Section 173
+of the
+Cr.PC which is not accompanied by a Chemical Examiner's report
+could not be contemplated as a chargesheet/report under
+Section
+173(2)
+of the Cr.PC, as the Magistrate would not be in a position to
+take cognizance of the offence. The relevant extract of
+the said
+decision
+embodying the reasoning of the Court is set out below: -
+"15. In the instant case, it is not in dispute that report of
+          Chemical Analyser is the foundation on the basis of
+          which Magistrate can proceed to take cognizance of the
+          offences. The contraband, which is seized in the present
+          case, is Ganja and unless and until sample, which was
+          drawn by the prosecution, conforms with the article,
+          which is seized during investigation, i.e. Ganja, the
+          Magistrate is not in a position to proceed to take
+CRL.REV.P.1219/2019 & Other Connected Matters                Page 12 of 47
+cognizance of the offence. The charge-sheet/report as
+          contemplated under section 173(5) of the Code,
+          forwarded to the Magistrate should be such that on the
+          basis of which Magistrate should be able to proceed
+          further and take cognizance. The documents, which are
+          required to be accompanied with the charge-sheet/report
+          as contemplated under sub-section (5) of section 173 of
+          the Code, therefore, assume importance, without which
+          charge-sheet/report submitted by the Police under
+          section 173 of the Code would be incomplete and
+          Magistrate also may not be in a position to proceed to
+          take cognizance on the basis of the said report. The
+          concept of filing of charge-sheet by the Police in the
+          Court must fulfil requirement of section 173(2) and (5)
+          of the Code and it is only after such compliance, report
+          which is filed by the Police in the Court can be
+          construed as complete report under section 173(2) and
+          (5) of the Code.
+16. It is true that in the given case, certain documents
+          which are formal in nature, if not accompanied with the
+          report/charge-sheet may not change the nature of
+          report/charge-sheet contemplated under section 173(2)
+          and (5) of the Code particularly when material is
+          sufficient for the Magistrate to take cognizance of the
+          offence as per provisions of the Code. However, in the
+          instant case, the Chemical Analyser's report is the basis
+          for deciding whether substance which is seized during
+          raid is Ganja or not, which would determine whether
+          provisions of the
+Narcotic Drugs and Psychotropic
+          Substances Act
+are attracted or not. The Magistrate in
+          such situation undoubtedly cannot proceed to take
+          cognizance of the offence for want of complete charge-
+sheet/report and, therefore, in the present case, the
+          charge-sheet/report which is submitted by the Police in
+          the Court on 4-8-2001 cannot be said to be a charge-
+          sheet/report as contemplated under section 173(5) of the
+          Code."
+CRL.REV.P.1219/2019 & Other Connected Matters             Page 13 of 47
+14.     A similar view was expressed by the Single Judge of the
+Bombay High Court in Ranjeet Manohar Machrekar v. State of
+Maharashtra, Crl. Bail Appln. No. 509/2014.
+In
+Manik Sahebrao
+Chougule v. State of Maharashtra
+: Crl. Bail Appln. No. 241 of 2017,
+decided on 23.03.2017, another bench of the Bombay High Court
+followed the aforesaid decision and held as under:
+"6. In     a   similar    case,     Ranjeet    Manohar
+          Machrekar (supra) was prosecuted under
+section 20(b)
+of N.D.P.S Act. When the chargesheet was filed, it was
+          without report of the Chemical Analyzer. The learned
+          Single Judge of this Court has considered that
+section
+          167(2)
+of Cr.P.C. does not speak about the filing of the
+          chargesheet, but refers to the completion of
+          investigation. It is further explained that without
+          collection of any evidence i.e. report of Chemical
+          Analyzer, how the investigation in respect of
+          psychotropic substances could be said to be completed
+          in the absence of such Chemical Analyzer's report,
+          where the material is seized and then the chargesheet is
+          filed in the Court. The investigation was not completed
+          for want of evidence on most vital aspect of the
+          prosecution case and then the bail was allowed to the
+          accused under
+section 167(2)
+of Cr.PC, as modified by
+          sub-section (4) of
+Section 36A
+of the N.D.RS. The
+          present case is identical and therefore the ratio laid
+          down in the Ranjeet Machrekar (supra) is squarely
+          applicable to the present case. In the present case also
+          the chargesheet is filed without report of Chemical
+          Analyzer."
+15.
+In
+Ravinder v. State of Haryana
+: 2015 (4) RCR (Cri) 441, the
+Punjab and Haryana High Court set aside an order where charges were
+framed by the Trial Court without obtaining a Chemical Examiner's
+report. In the aforesaid context, the Court held as under:
+CRL.REV.P.1219/2019 & Other Connected Matters            Page 14 of 47
+"11. ..... Thus, it is clear that the trial Court is to accept
+          the challan only on completion of investigation and by
+          considering that all allegations levelled in the FIR have
+          been investigated completely and charge can be framed
+          only after considering the complete investigation report.
+          Meaning thereby, that in case, any report of Forensic
+          Science Laboratory or Narco Analysis or any other
+          document, which is necessary for adjudication and the
+          same has not been received so far, then the Court is to
+          proceed further after receiving said report. One thing is
+          clear that the question of framing charge comes only
+          when the complete investigation report is with the trial
+          Court.
+12. In the present case, the charge has been framed
+          against the petitioner without obtaining Chemical
+          Examiner's Report and in the absence of Chemical
+          Examiner's Report in case of
+NDPS Act
+, it cannot be
+          said as to whether the substance found in the bags
+          recovered from the petitioner was a narcotic substance
+          or not. In the absence of CFSL report, the trial Court
+          cannot take cognizance of the offence and in the
+          absence of Chemical Analysis Report, the charge
+          sheet/challan cannot be said to be completed. Failure to
+          file complete charge-sheet within a prescribed period
+          confers on the accused right to be released on bail and
+          the court is not competent to take cognizance of the
+          offence on incomplete charge-sheet. Charge sheet is hot
+          complete unless it is accompanied by requisites
+          contemplated under Section 173(5) of the Code.
+13. In view of the above facts, it is clear that the charge
+          cannot be framed on the basis of incomplete report and
+          the final report, without having any FSL, narco-analysis
+          and Chemical Examiners' Report is incomplete. The
+          Court is to proceed for framing of charge only after
+          receiving the same."
+CRL.REV.P.1219/2019 & Other Connected Matters               Page 15 of 47
+16.
+In
+Rafael Palafox Garcia v. Union of India and Anr.
+: 2008
+Vol. 110 (9) Bom. L.R. 3392, a Single Judge of the Hon'ble Bombay
+High Court did not accept the view that a final report would be
+incomplete if not accompanied by a Chemical Examiner's report in a
+case relating to offences under the
+NDPS Act
+.
+The Court distinguished
+the decision of the Division Bench of the Bombay High Court in
+Sunil
+Vasantrao Phulbande
+'s case (supra) on the ground that
+in that case
+there was no mention of the samples of the seized material being
+tested at the spot by using a Field Testing Kit.
+The Court also referred
+to the decision of the Supreme Court in
+Jagdish Budhroji Purohit v.
+State of Maharashtra
+: (1998) 7 SCC 270, wherein the Court had
+upheld the conviction on the reasoning that the evidence on record
+was sufficient to convict the appellants even if the Chemical
+Examiner's reports were ignored.
+17.     This Court is unable to respectfully concur with the view that
+statements made to the effect that the seized substance tested on a
+Field Testing Kit had yielded positive results indicating the substance
+to be a narcotic drug or psychotropic substance, are sufficient to take
+cognizance of an offence which is premised on recovery of a narcotic
+drug or a psychotropic substance. First of all, the results from a Field
+Testing Kit are not conclusive and there is considerable scope of error.
+Clearly, in such circumstances the oral statements/testimony of
+witnesses that the substance had yielded a positive result for a narcotic
+drug or a psychotropic substance would not be sufficient to raise a
+strong suspicion of commission of an offence under the
+NDPS Act
+,
+CRL.REV.P.1219/2019 & Other Connected Matters            Page 16 of 47
+which is premised on recovery of contraband. Even in the handbook
+issued by NCB, the results of the Field Testing Kit are not accepted as
+conclusive and the said results are only meant as a guide for the
+prosecution agency to proceed further.
+18.     The decision of the Supreme Court in
+Jagdish Budhroji
+Purohit v. State of Maharashtra
+(supra) was also rendered in context
+of the facts
+in that case
+. In that case, the Chemical Examiner's reports
+were on record and it was the appellant's contention that the same
+ought to be ignored since they were not accompanied by any data
+regarding the analysis. The Supreme Court did not accept the
+aforesaid contention. However, the Court also observed that there was
+sufficient evidence on record to convict the appellants even if the
+Chemical Examiner's reports were ignored. The observations were
+made in the context where two of the witnesses had testified that they
+had sufficient training and knowledge and methods of testing them.
+The said case is not an authority for the proposition that oral testimony
+of witnesses as to the nature and identity of the recovered substance,
+without any report as to the chemical analysis of the said substance, is
+sufficient to establish the nature and composition of the substance
+recovered.
+19.
+In
+Taj Singh
+(supra), the Division Bench of this Court held that
+even if an investigating officer had not received the report of the
+CFSL, so far as his job of collecting the evidence is concerned, the
+same was over the moment he had collected the exhibits and
+dispatched the same for the opinion of the CFSL. The Court reasoned
+CRL.REV.P.1219/2019 & Other Connected Matters            Page 17 of 47
+that in this view, it would not be correct to state that a police report
+which did not include the CFSL Report would be an incomplete one.
+The Court found support in this view from the decision of the Full
+Bench of Punjab and Haryana High Court in
+Mehal Singh
+(supra).
+Mr. Nayak had also stressed on this decision and contended that this
+view was binding on this Court.
+However, it is seen that the decision
+in
+Taj Singh
+'s (supra) case was not rendered in the context of the
+NDPS Act
+.
+20.     There is a material difference in other cases relating to offences
+under the
+IPC
+or other statutes and certain cases relating to the
+NDPS
+Act
+, where the allegation of commission of an offence is founded
+predominantly on the recovery of an illicit substance. Unless, there is
+evidence to establish the identity and nature of the said substance, it
+would not be feasible for any court to take cognizance of an offence.
+Till recently, it was also necessary to ascertain the purity of the illicit
+substance for the purposes of determining the punishment imposable
+for the same, that is, whether it was a commercial quantity or a small
+quantity. Although, the said view is no longer good law in view of the
+decision of the Supreme Court in
+Hira Singh v. Union of India
+: CRL.
+A. 722 of 2017, decided on 22.04.2020, it cannot be disputed that the
+very nature and identity of an alleged illicit substance recovered forms
+the foundation of certain cases relating to offences under the
+NDPS
+Act
+. In such cases, the Chemical Examiner's report is of primary
+importance. In such cases the police report would be insufficient to
+take cognizance of the offence if the same is not accompanied with
+CRL.REV.P.1219/2019 & Other Connected Matters              Page 18 of 47
+material (an expert's report on the analysis of the substance) to
+establish the substance recovered. And, therefore could not be
+considered as a complete report.
+In
+Nitin Nagpal
+(supra), a
+Coordinate Bench of this Court had pointed out the said distinction in
+the following words:
+"17. Keeping in mind the provisions of law as well as
+          the decisions of the Courts
+referred to above
+, let me,
+          now examine the facts of the present case in the light
+          of the above discussions. The first question that is
+          emerges is whether the challan filed on 20.9.2005 was
+          incomplete. As noted above, the first point taken by
+          Mr Andley was that the CFSL report had not been
+          obtained and, therefore, investigation had not been
+          completed.
+There is no doubt that some of the
+          decisions referred to by him and particularly that of
+          the Bombay High Court in the case of
+Sunil Vasantrao
+          Phulbande
+(supra) seem to be in line with his
+          submissions. In the latter case, the Bombay High
+          Court observed that the Chemical Analyser's report
+          not having been filed, the charge-sheet was
+          incomplete. However, if one were to examine that
+          decision, it would be apparent that the Chemical
+          Analyser's Report
+in that case
+was crucial to the
+          foundation of the case itself and in the absence of such
+          a report the Magistrate could not have taken
+          cognizance of the offence. The question there was
+          whether the substance recovered was Ganja or not. If
+          it was Ganja then the provisions of the
+NDPS Act
+would apply and if it was not a Narcotic Drugs or a
+          Psychotropic Substance then the provisions of the
+NDPS Act
+would not apply. Therefore, the result of
+          the Chemical Analysis was crucial to the very
+          foundation of the case for the prosecution. Without
+          such a report it could not be ascertained whether an
+          offence had been committed at all and, therefore, the
+CRL.REV.P.1219/2019 & Other Connected Matters             Page 19 of 47
+Magistrate was hindered in taking cognizance of such
+          an offence under the
+NDPS Act
+. It is also material to
+          note that
+in that case
+the Court observed that there
+          may be situations where documents of a formal nature
+          which did not come in the way of the Magistrate
+          taking cognizance are not filed along with the charge-
+          sheet yet the charge-sheet would not be construed as
+          being incomplete.
+In any event, no further debate is
+          necessary on this aspect of the matter insofar as this
+          Court is concerned inasmuch as the issue stands
+          settled by the Division Bench decision in the case
+          of
+Taj Singh
+(supra) wherein the Division Bench
+          concluded that a police report which did not include
+          the CFSL report would still be a complete report as
+          envisaged in Section 173(2) of the Code. The case
+          before the Division Bench was also one under
+Sections 307
+/
+302
+/
+34
+IPC and
+Section 25
+of the Arms
+          Act, 1959. Distinct from the case before the Bombay
+          High Court, the case before the Division Bench in Taj
+          Singh as well as the present case is not one under the
+NDPS Act
+wherein the CFSL Report would be of vital
+          importance for the purposes of the Magistrate taking
+          cognizance. Therefore, the absence of the CFSL report
+          in the facts of the present case would not mean that
+          the challan filed on 20.9.2005 was incomplete."
+21.     The reasoning in the case of
+Ajit Singh @ Jeeta
+(supra);
+Sunil
+Vasantrao Phulbande
+(supra); and
+Nitin Nagpal
+(supra) are
+undoubtedly compelling. It does stand to reason that a report on the
+basis of which a Magistrate cannot take cognizance of the offence
+under the
+NDPS Act
+, which is founded on recovery of an illicit
+substance, would be an incomplete report and cannot be considered as
+a report under
+Section 173(2)
+of the Cr.PC. This is particularly so,
+because the Chemical Examiner's report in such circumstances would
+CRL.REV.P.1219/2019 & Other Connected Matters            Page 20 of 47
+be a vital piece of evidence. An investigation is completed only when
+evidence is collected.
+22.     However, in
+Kishan Lal v State
+: 1989 (39) DLT 392, the
+Division Bench of this Court took a somewhat different view. The
+Division Bench held that the provisions of
+Section 173
+of the CrPC
+must be considered as separate and distinct from
+Section 190(1)(b)
+of
+the Cr.PC. The Court held that the report under
+Section 173(2)
+of the
+Cr.PC would not be incomplete if it is not accompanied by a Chemical
+Examiner's report as it would be open for the Magistrate not to take
+cognizance on the offence if the same could not be taken on the basis
+of the said report. It is relevant to note that
+the said decision
+was
+rendered in the context of the
+NDPS Act
+. The relevant extract of
+the
+said decision
+is as under:
+"15. We respectfully agree with the earlier decision of
+          this Court in
+Tej Singh
+'s case (supra).
+The decision in
+Hari Chand and Raj Pal v. State
+(supra) by a Single
+          Judge of this Court wherein it has been held that an
+          "incomplete challan" is not a police report within the
+          ambit of Section 173(2) of the Code does not support
+          the case of the petitioners. From the reported
+          judgment it is not clear where all the witnesses or
+          some of them "acquainted with the circumstances of
+          the case" were yet to be examined when the report
+          was filed. The reason for calling it incomplete is not
+          discernible. But it is safer to assume from the reading
+          of the judgment that the investigation was not
+          complete. Thus the report as envisaged under Section
+          173(2) of the Code could not have been filed.
+16. It is unnecessary for us to notice other judgments
+          cited by the learned Counsels in support of their plea
+CRL.REV.P.1219/2019 & Other Connected Matters            Page 21 of 47
+that the investigation in a case like the present is to be
+          held to be incomplete.
+In our view the Supreme Court
+          decision in
+Tara Singh
+'s case (supra) holding, inter
+          alia, that a police report which is not accompanied by
+          the expert's opinion, is to be held to be complete
+          report as long as the witnesses who are acquainted
+          with the circumstances of the case have been
+          examined, continues to be law in spite of amendments
+          in Section 173 of the Code.
+17. Now to advert to the main plea. It is contended
+          that for offences under the
+NDPS Act
+, the report under
+          Section 173(2) of the Code, which in law is complete
+          (the Investigating Officer having carried out all his
+          mandatory duties), is to be considered "incomplete" in
+          the absence of the opinion of the expert. In our view
+          the submission is entirely misconceived. Apparently
+          the power of the Magistrate to take cognizance of
+          offences upon police report is being related to the duty
+          of the S.H.O. to forward a report on completion of
+          investigation. The duty of the Investigating Officer
+          under the Code is to complete the investigation
+          without unnecessary delay. On its completion which
+          necessarily means that the witnesses acquainted with
+          the circumstances of the case have been examined, the
+          officer incharge of the police station has to forward a
+          police report in a prescribed form to a Magistrate
+          empowered to take cognizance of the offence.
+          However, no duty is cast on the Magistrate to take
+          cognizance of the offence on a report which although
+          complete except for the expert's opinion, does not
+          make out an offence. While exercising his judicial
+          discretion it is open to the Magistrate to seek a copy of
+          the expert's opinion. There may even be cases under
+          the
+NDPS Act
+where no public witnesses have been
+          cited but that fact by itself would not show that till
+          such time the Government expert's opinion is
+          received, the investigation is incomplete. The police
+          report if filed in accordance with the provisions of
+CRL.REV.P.1219/2019 & Other Connected Matters               Page 22 of 47
+Section 173(2) of the Code would be complete report
+          but the Magistrate in his judicial discretion may not
+          take cognizance of the offence. Thus the provisions of
+          Section 173(2) of the Code have to be considered
+          separate and distinct from Section 190(l)(b) of the
+          Code.
+18. As far as the expert's report is concerned, we may
+          note that by virtue of Sub-section (4) of Section 293 of
+          the Code, any document purporting to be report under
+          the hand of the Director or a Deputy Director or
+          Assistant Director of a Central Forensic Science
+          Laboratory or State Forensic Science Laboratory can
+          be used as evidence in any inquiry, trial or other
+          proceedings under the Code. It is true that it is open to
+          the Court where it thinks fit to summon and examine
+          the Government scientific expert. But he is not a
+          formal witness and, therefore, no duty is cast upon the
+          Investigating Officer to cite him as a witness.
+19.We 'thus' hold that under Section 173(2) of the
+          Code there is no mandate that a police report must
+          enclose the document purporting to be a report under
+          the hand of a Government Scientific Expert. In the
+          present cases, as cognizance of the offences taken by
+          the Magistrate was proper and valid, no order
+          releasing the petitioners on bail under Section 167(2)
+          of the Code was required to be passed.
+23.
+In
+Babu v. State
+: Bail Appln. No. 2075 of 2020, decided on
+25.09.2020, a Coordinate Bench of this Court had referred to the
+aforesaid decision and observed as under:
+"18. Though this Court is of the view that the decision
+         of the Division Bench of the Punjab and Haryana High
+         Court is an appropriate opinion in relation to cognizance
+         of an offence under
+NDPS Act
+without the FSL report
+         being an illegality, however, bound by the Division
+CRL.REV.P.1219/2019 & Other Connected Matters              Page 23 of 47
+Bench decision of this Court, judicial discipline
+         mandates this Court to follow the same. Consequently,
+         in view of the decision of the Division Bench of this
+         Court in
+Kishan Lal v. State
+(supra), it is held that the
+         petitioner is not entitled to grant of bail under
+Section
+         167(2)
+CrPC for non-filing of the FSL report along with
+         the charge sheet."
+24.     This Court concurs with the view expressed by the Coordinate
+Bench of this Court in
+Babu
+(supra).
+Thus, the view expressed by the
+Division Bench of Punjab and Haryana High Court in
+Ajit Singh
+@Jeeta
+(supra) and the view expressed by the Bombay High Court in
+Sunil Vasantrao Phulbande
+(supra),convinced this Court that the
+view of the Division Bench in
+Kishan Lal
+(supra) is binding.
+25.     In view of the above, the petitioners' contention that the report
+submitted on 27.05.2019 could not be construed as a report under
+Section 173(2)
+of the Cr.PC must be rejected. The first question is,
+thus, answered in the negative.
+Whether the right to avail bail in default is availed of at the time
+when the application is filed or when it is considered
+26.     In view of the above, the question whether the petitioners were
+entitled to bail in default does not arise. However, for the sake of
+completeness, this Court considers it apposite to also decide the
+question whether the applications filed by the petitioners amounted to
+them availing their right to bail prior to the FSL Report being filed.
+27.     The Special Court had proceeded on that basis that even though
+the petitioners may have filed that application at an earlier point of
+CRL.REV.P.1219/2019 & Other Connected Matters             Page 24 of 47
+time than the learned Public Prosecutor placing the Chemical
+Examiner's report on record, the same could only be considered as
+having been filed when the accused were produced in Court. And, this
+according to the Special Court was simultaneous with the Public
+Prosecutor filing the Chemical Examiner's report, which terminated
+their right to seek a bail in default, if any. At the outset, it is necessary
+to bear in mind that there is no inherent power with the Court to
+remand an accused to custody. Such power can be exercised only in
+terms of the statue expressly conferring such power. (See:
+Union of
+India v. Thamisharasi And Ors.
+: (
+1995) 4 SCC 190 and Natabar
+Parida and Ors. v. State of Orissa
+: (1975) 2 SCC 220).
+The power of
+the Magistrate to remand a suspect to custody pending investigation
+can be traced to Section 167(2) of the Cr.PC.
+28.     In terms of sub-section (1) of
+Section 167
+of the Cr.PC,
+whenever a person is arrested and detained in custody and it appears
+that the investigation cannot be completed within a period of twenty
+four hours as fixed under
+Section 57
+of the Cr.PC and there are
+grounds for believing that the accusation or information is well
+founded, the officer in charge of the police station or the police officer
+making the investigation is required to forward a report to the nearest
+Judicial Magistrate a copy of the entries made in his diary and also
+produced the accused before such Magistrate. The Magistrate before
+whom the accused is produced has the power to remand the accused to
+custody in terms of
+Section 167(2)
+of the Cr.PC. The said sub-section
+is set out below:
+CRL.REV.P.1219/2019 & Other Connected Matters               Page 25 of 47
+"167(2) The Magistrate to whom an accused
+                person is forwarded under this section may,
+                whether he has or has not jurisdiction to try the
+                case, from time to time, authorise the detention of
+                the accused in such custody as such Magistrate
+                thinks fit, for a term not exceeding fifteen days in
+                the whole; and if he has no jurisdiction to try the
+                case or commit it for trial, and considers further
+                detention unnecessary, he may order the accused
+                to be forwarded to a Magistrate having such
+                jurisdiction: Provided that--
+(a) the Magistrate may authorise the detention of
+                the accused person, otherwise than in custody of
+                the police, beyond the period of fifteen days, if he
+                is satisfied that adequate grounds exist for doing
+                so, but no Magistrate shall authorise the detention
+                of the accused person in custody under this
+                paragraph for a total period exceeding
+(i) ninety days, where the investigation relates to
+                an offence punishable with death, imprisonment
+                for life or imprisonment for a term of not less than
+                ten years; (ii) sixty days, where the investigation
+                relates to any other offence, and, on the expiry of
+                the said period of ninety days, or sixty days, as
+                the case may be, the accused person shall be
+                released on bail if he is prepared to and does
+                furnish bail, and every person released on bail
+                under this sub-section shall be deemed to be so
+                released under the provisions of Chapter XXXIII
+                for the purposes of that Chapter;
+(b) no Magistrate shall authorise detention of the
+                accused in custody of the police under this section
+                unless the accused is produced before him in
+                person for the first time and subsequently every
+                time till the accused remains in the custody of the
+                police, but the Magistrate may extend further
+                detention in judicial custody on production of the
+CRL.REV.P.1219/2019 & Other Connected Matters               Page 26 of 47
+accused either in person or through the medium of
+                electronic video linkage;
+(c) no Magistrate of the second class, not
+                specially empowered in this behalf by the High
+                Court, shall authorise detention in the custody of
+                the police."
+29.     It is clear from the plain language of the aforesaid provision that
+after the period of sixty days or ninety days as the case may be
+expires, the Magistrate would have no power to remand him to
+custody and he is required to be released on bail, if he is prepared to
+and furnishes the bail. It is also expressly provided that every person
+released on bail under the said sub-section would be deemed to be
+released under the provisions of Chapter XXXIII of the
+Cr.PC
+for the
+purposes of that Chapter. Once the maximum period for completing
+the investigation as specified under
+Section 167(2)
+of the Cr.PC is
+expired and once the accused indicates that he is prepared to furnish
+bail and does so, he is bound to be released.
+30.
+In
+Hitendra Vishnu Thakur and Ors. v. State of Maharashtra
+and Ors.
+: (1994) 4 SCC 602, the Supreme Court held that although
+the accused would be entitled to bail in default, in case the
+investigation is not complete in terms of
+Section 167(2)
+of the Cr.PC
+read with
+Section 20(4)
+of the Terrorist and Disruptive Activities
+(Prevention) Act, 1987 (hereafter 'TADA') provided such bail cannot
+be granted by the court on its own motion without any application
+being made by the accused person of his offering to furnish bail. The
+Court also clarified that at that stage, that it would only consider
+CRL.REV.P.1219/2019 & Other Connected Matters              Page 27 of 47
+whether the challan has been filed within the maximum period as
+prescribed or whether the said period has been extended under Clause
+(bb) of Sub-section (4) of
+Section 20
+of the TADA. The court would
+not be concerned with any other consideration such as the gravity of
+the case, seriousness of the offence or character of the offender.
+31.
+In a subsequent decision rendered in the case of
+Sanjay Dutt v.
+State
+: (1994) 5 SCC 410, the Constitution Bench of the Supreme
+Court further clarified that the right accruing to the accused for
+seeking bail in default under
+Section 167(2)
+of the Cr.PC would only
+be enforceable prior to filing of the chargesheet. The same would not
+survive or remained enforceable once the chargesheet is filed. The
+relevant extract of
+the said decision
+is set out below:
+"48. We have no doubt that the common stance
+                before us of the nature of indefeasible right of the
+                accused to be released on bail by virtue of
+Section
+                20(4)(bb)
+is based on a correct reading of the
+                principle indicated in that decision. The
+                indefeasible right accruing to the accused in such a
+                situation is enforceable only prior to the filing of
+                the challan and it does not survive or remain
+                enforceable on the challan being filed, if already
+                not availed of. Once the challan has been filed, the
+                question of grant of bail has to be considered and
+                decided only with reference to the merits of the
+                case under the provisions relating to grant of bail to
+                an accused after the filing of the challan. The
+                custody of the accused after the challan has been
+                filed is not governed by Section 167 but different
+                provisions of the
+Code of Criminal Procedure
+. If
+                that right had accrued to the accused but it
+                remained unenforced till the filing of the challan,
+CRL.REV.P.1219/2019 & Other Connected Matters               Page 28 of 47
+then there is no question of its enforcement
+                thereafter since it is extinguished the moment
+                challan is filed because
+Section 167
+CrPC ceases to
+                apply. The Division Bench also indicated that if
+                there be such an application of the accused for
+                release on bail and also a prayer for extension of
+                time to complete the investigation according to the
+                proviso in
+Section 20(4)(bb)
+, both of them should
+                be considered together. It is obvious that no bail
+                can be given even in such a case unless the prayer
+                for extension of the period is rejected. In short, the
+                grant of bail in such a situation is also subject to
+                refusal of the prayer for extension of time, if such a
+                prayer is made.
+If the accused applies for bail
+                under this provision on expiry of the period of 180
+                days or the extended period, as the case may be,
+                then he has to be released on bail forthwith. The
+                accused, so released on bail may be arrested and
+                committed to custody according to the provisions
+                of the
+Code of Criminal Procedure
+. It is settled by
+                Constitution Bench decisions that a petition
+                seeking the writ of habeas corpus on the ground of
+                absence of a valid order of remand or detention of
+                the accused, has to be dismissed, if on the date of
+                return of the rule, the custody or detention is on the
+                basis of a valid order. (See
+Naranjan Singh
+                Nathawan v. State of Punjab
+[1952 SCR 395 : AIR
+                1952 SC 106 : 1952 Cri LJ 656] ;
+Ram Narayan
+                Singh v. State of Delhi
+[1953 SCR 652 : AIR 1953
+                SC 277 : 1953 Cri LJ 1113] and A.K. Gopalan v.
+                Government of India [(1966) 2 SCR 427 : AIR
+                1966 SC 816 : 1966 Cri LJ 602] .)
+49. This is the nature and extent of the right of the
+                accused to be released on bail under
+Section
+                20(4)(bb)
+of the TADA Act read with
+Section 167
+CrPC in such a situation. We clarify the decision of
+                the Division Bench in Hitendra Vishnu Thakur
+                [(1994) 4 SCC 602: 1994 SCC (Cri) 1087: JT
+CRL.REV.P.1219/2019 & Other Connected Matters               Page 29 of 47
+(1994) 4 SC 255], accordingly, and if it gives a
+                different indication because of the final order made
+                therein, we regret our inability to subscribe to that
+                view.
+****               ****             ****
+53. As a result of the above discussion, our
+                answers to the three questions of law referred for
+                our decision are as under:
+(1) In the prosecution for an offence punishable
+                under
+Section 5
+of the TADA Act, the prosecution
+                is required to prove that the accused was in
+                conscious 'possession', 'unauthorisedly', in 'a
+                notified area' of any arms and ammunition
+                specified in columns 2 and 3 of Category I or
+                Category III(a) of Schedule I to the Arms Rules,
+                1962 or bombs, dynamite or other explosive
+                substances. No further nexus with any terrorist or
+                disruptive activity is required to be proved by the
+                prosecution in view of the statutory presumption
+                indicated earlier. The accused in his defence is
+                entitled to prove the non-existence of a fact
+                constituting any of these ingredients. As a part of
+                his defence, he can prove by adducing evidence,
+                the non-existence of facts constituting the third
+                ingredient as indicated earlier to rebut the statutory
+                presumption. The accused is entitled to prove by
+                adducing evidence, that the purpose of his
+                unauthorised possession of any such arms and
+                ammunition etc. was wholly unrelated to any
+                terrorist or disruptive activity. If the accused
+                succeeds in proving the absence of the said third
+                ingredient, then his mere unauthorised possession
+                of any such arms and ammunition etc. is
+                punishable only under the general law. by virtue of
+Section 12
+of the TADA Act and not under
+Section
+                5
+of the TADA Act.
+CRL.REV.P.1219/2019 & Other Connected Matters               Page 30 of 47
+(2)(a)
+Section 20(4)(bb)
+of the TADA Act only
+                requires production of the accused before the court
+                in accordance with
+Section 167(1)
+of the CrPC and
+                this is how the requirement of notice to the accused
+                before granting extension beyond the prescribed
+                period of 180 days in accordance with the further
+                proviso to Clause (bb) of Sub-section (4) of
+Section 20
+of the TADA Act has to be understood
+                in the judgment of the Division Bench of this Court
+                in Hitendra Vishnu Thakur. The requirement of
+                such notice to the accused before granting the
+                extension for completing the investigation is not a
+                written notice to the accused giving reasons
+                therein. Production of the accused at that time in
+                the court informing him that the question of
+                extension of the period for completing the
+                investigation is being considered, is alone
+                sufficient for the purpose.
+(2)(b) The 'indefeasible right' of the accused to be
+                released on bail in accordance with
+Section
+                20(4)(bb)
+of the TADA Act read with
+Section
+                167(2)
+of the CrPC in default of completion of the
+                investigation and filing of the challan within the
+                time allowed, as held in Hitendra Vishnu Thakur is
+                a right which enures to, and is enforceable by the
+                accused only from the time of default till the filing
+                of the challan and it does not survive or remain
+                enforceable on the challan being filed. If the
+                accused applies for bail under this provision on
+                expiry of the period of 180 days or the extended
+                period, as the case may be, then he has to be
+                released on bail forthwith. The accused, so released
+                on bail may be arrested and committed to custody
+                according to the provisions of the
+CrPC
+. The right
+                of the accused to be released on bail after filing of
+                the challan, notwithstanding the default in filing it
+                within the time allowed, is governed from the time
+                of filing of the challan only by the provisions
+CRL.REV.P.1219/2019 & Other Connected Matters               Page 31 of 47
+relating to the grant of bail applicable at that
+                stage."
+32.
+In
+State of M.P. v. Rustam And Ors.
+: (1995) Supp.
+3 SCC
+221the Court referred to the decision of the Constitution Bench in
+Sanjay Dutt
+'s(supra) case and held that "the court is required to
+examine the availability of the right of compulsive bail on the date it is
+considering the question of bail and not barely on the date of the
+presentation of the petition for bail".
+33.      As noted above, the Supreme Court in
+Sanjay Dutt
+'s (supra)
+case had held that indefeasible right accruing to the accused would be
+only enforceable prior to filing of the chargesheet and would not
+survive on the chargesheet being filed "if already not availed of".
+34.      Apparently, this was construed by the Supreme Court in
+Rustam
+'s (supra) case to mean that the right of bail should survive on
+the date when that question is considered by the Court and not on the
+date on which the petition for bail in default is presented. Thus,
+according to this decision, the question whether the right to default in
+bail would survive would have to be tested on that point of time when
+that application was considered by the Court and not when it was
+filed.
+35.
+In
+Mohamed Iqbal Madar Sheikh v. State of Maharashtra
+:
+(1996) 1 SCC 722, the Supreme Court observed as under:
+"12. .... If an accused charged with any kind of
+                offence, becomes entitled to be released on bail
+CRL.REV.P.1219/2019 & Other Connected Matters             Page 32 of 47
+under proviso (a) to Section 167(2), that statutory
+                right should not be defeated by keeping the
+                applications pending till the chargesheets are
+                submitted, so that the right which had accrued is
+                extinguished and defeated".
+36.     The above observation was made by the Court in the context
+that in certain cases, courts had been deferring the consideration of
+applications of bail in default till the investigation is completed and
+chargesheet are filed. Thus, even though the accused had filed an
+application for exercising indefeasible right, the delay in considering
+the same was effectively defeating their rights.
+In a subsequent case,
+in
+Uday Mohanlal Acharya v. State of Maharashtra
+: (2001) 5 SCC
+453, a Bench of three Judges of the Supreme Court, inter alia,
+considered the question as to the import of the expression "if not
+already availed of" as used by the Constitution Bench of the Supreme
+Court in paragraph 48 of the decision in
+Sanjay Dutt
+'s case.
+Paragraph
+13 of
+the said judgment
+(
+Uday Mohanlal Achaya
+[supra]) is relevant
+and is set out below:
+"13. ...A conspectus of the aforesaid decisions of
+                this Court unequivocally indicates that an
+                indefeasible right accrues to the accused on the
+                failure of the prosecution to file the challan within
+                the period specified under sub-section (2) of
+                Section 167 and right can be availed of by the
+                accused if he is prepared to offer the bail and abide
+                by the terms and conditions of the bail, necessarily,
+                therefore, an order of the court has to be passed. It
+                is also further clear that that indefeasible right does
+                not survive or remain enforceable on the challan
+                being filed, if already not availed of, as has been
+CRL.REV.P.1219/2019 & Other Connected Matters                Page 33 of 47
+held by the Constitution Bench in
+Sanjay Dutt
+case [(1994) 5 SCC 410 : 1994 SCC (Cri) 1433] .
+                The crucial question that arises for consideration,
+                therefore, is what is the true meaning of the
+                expression "if already not availed of"? Does it
+                mean that an accused files an application for bail
+                and offers his willingness for being released on bail
+                or does it mean that a bail order must be passed,
+                the accused must furnish the bail and get him
+                released on bail? In our considered opinion it
+                would be more in consonance with the legislative
+                mandate to hold that an accused must be held to
+                have availed of his indefeasible right, the moment
+                he files an application for being released on bail
+                and offers to abide by the terms and conditions of
+                bail. To interpret the expression "availed of" to
+                mean actually being released on bail after
+                furnishing the necessary bail required would cause
+                great injustice to the accused and would defeat the
+                very purpose of the proviso to
+Section 167(2)
+of
+                the Criminal Procedure Code and further would
+                make an illegal custody to be legal, inasmuch as
+                after the expiry of the stipulated period the
+                Magistrate had no further jurisdiction to remand
+                and such custody of the accused is without any
+                valid order of remand. That apart, when an accused
+                files an application for bail indicating his right to
+                be released as no challan had been filed within the
+                specified period, there is no discretion left in the
+                Magistrate and the only thing he is required to find
+                out is whether the specified period under the statute
+                has elapsed or not, and whether a challan has been
+                filed or not. If the expression "availed of" is
+                interpreted to mean that the accused must factually
+                be released on bail, then in a given case where the
+                Magistrate illegally refuses to pass an order
+                notwithstanding the maximum period stipulated in
+                Section 167 had expired, and yet no challan had
+CRL.REV.P.1219/2019 & Other Connected Matters               Page 34 of 47
+been filed then the accused could only move to the
+                higher forum and while the matter remains pending
+                in the higher forum for consideration, if the
+                prosecution files a charge-sheet then also the so-
+                called right accruing to the accused because of
+                inaction on the part of the investigating agency
+                would get frustrated. Since the legislature has
+                given its mandate it would be the bounden duty of
+                the court to enforce the same and it would not be in
+                the interest of justice to negate the same by
+                interpreting the expression "if not availed of" in a
+                manner which is capable of being abused by the
+                prosecution.
+A two-Judge Bench decision of this
+                Court in State of M.P. v. Rustam [1995 Supp (3)
+                SCC 221 : 1995 SCC (Cri) 830] setting aside the
+                order of grant of bail by the High Court on a
+                conclusion that on the date of the order the
+                prosecution had already submitted a police report
+                and, therefore, the right stood extinguished, in our
+                considered opinion, does not express the correct
+                position in law of the expression "if already not
+                availed of", used by the Constitution Bench
+                in Sanjay Dutt [(1994) 5 SCC 410 : 1994 SCC
+                (Cri) 1433]...... In interpreting the expression "if
+                not availed of" in the manner in which we have just
+                interpreted we are conscious of the fact that
+                accused persons in several serious cases would get
+                themselves released on bail, but that is what the
+                law permits, and that is what the legislature wanted
+                and an indefeasible right to an accused flowing
+                from any legislative provision ought not to be
+                defeated by a court by giving a strained
+                interpretation of the provisions of the Act. In the
+                aforesaid premises, we are of the considered
+                opinion that an accused must be held to have
+                availed of his right flowing from the legislative
+                mandate engrafted in the proviso to sub-section (2)
+                of Section 167 of the Code if he has filed an
+CRL.REV.P.1219/2019 & Other Connected Matters              Page 35 of 47
+application after the expiry of the stipulated period
+                alleging that no challan has been filed and he is
+                prepared to offer the bail that is ordered, and it is
+                found as a fact that no challan has been filed within
+                the period prescribed from the date of the arrest of
+                the accused. In our view, such interpretation would
+                subserve the purpose and the object for which the
+                provision in question was brought on to the statute-
+book. In such a case, therefore, even if the
+                application for consideration of an order of being
+                released on bail is posted before the court after
+                some length of time, or even if the Magistrate
+                refuses the application erroneously and the accused
+                moves the higher forum for getting a formal order
+                of being released on bail in enforcement of his
+                indefeasible right, then filing of challan at that
+                stage will not take away the right of the accused.
+                Personal liberty is one of the cherished objects of
+                the Indian Constitution and deprivation of the same
+                can only be in accordance with law and in
+                conformity with the provisions thereof, as
+                stipulated under
+Article 21
+of the Constitution.
+                When the law provides that the Magistrate could
+                authorise the detention of the accused in custody
+                up to a maximum period as indicated in the proviso
+                to sub-section (2) of Section 167, any further
+                detention beyond the period without filing of a
+                challan by the investigating agency would be a
+                subterfuge and would not be in accordance with
+                law and in conformity with the provisions of the
+Criminal Procedure Code
+, and as such, could be
+                violative of
+Article 21
+of the Constitution. There is
+                no provision in the
+Criminal Procedure Code
+authorising detention of an accused in custody after
+                the expiry of the period indicated in proviso to sub-
+                section (2) of Section 167 excepting the
+                contingency indicated in Explanation I, namely, if
+                the accused does not furnish the bail. It is in this
+CRL.REV.P.1219/2019 & Other Connected Matters               Page 36 of 47
+sense it can be stated that if after expiry of the
+                period, an application for being released on bail is
+                filed, and the accused offers to furnish the bail and
+                thereby avail of his indefeasible right and then an
+                order of bail is passed on certain terms and
+                conditions but the accused fails to furnish the bail,
+                and at that point of time a challan is filed, then
+                possibly it can be said that the right of the accused
+                stood extinguished. But so long as the accused files
+                an application and indicates in the application to
+                offer bail on being released by appropriate orders
+                of the court then the right of the accused on being
+                released on bail cannot be frustrated on the off
+                chance of the Magistrate not being available and
+                the matter not being moved, or that the Magistrate
+                erroneously refuses to pass an order and the matter
+                is moved to the higher forum and a challan is filed
+                in interregnum. This is the only way how a balance
+                can be struck between the so-called indefeasible
+                right of the accused on failure on the part of the
+                prosecution to file a challan within the specified
+                period and the interest of the society, at large, in
+                lawfully preventing an accused from being released
+                on bail on account of inaction on the part of the
+                prosecuting agency. On the aforesaid premises, we
+                would record our conclusions as follows:
+1. Under sub-section (2) of Section 167, a
+                Magistrate before whom an accused is produced
+                while the police is investigating into the offence
+                can authorise detention of the accused in such
+                custody as the Magistrate thinks fit for a term not
+                exceeding 15 days on the whole.
+2. Under the proviso to the aforesaid sub-section
+                (2) of Section 167, the Magistrate may authorise
+                detention of the accused otherwise than in the
+                custody of police for a total period not exceeding
+                90 days where the investigation relates to offence
+CRL.REV.P.1219/2019 & Other Connected Matters               Page 37 of 47
+punishable with death, imprisonment for life or
+                imprisonment for a term of not less than 10 years,
+                and 60 days where the investigation relates to any
+                other offence.
+3. On the expiry of the said period of 90 days or
+                60 days, as the case may be, an indefeasible right
+                accrues in favour of the accused for being
+                released on bail on account of default by the
+                investigating agency in the completion of the
+                investigation within the period prescribed and the
+                accused is entitled to be released on bail, if he is
+                prepared to and furnishes the bail as directed by
+                the Magistrate.
+4. When an application for bail is filed by an
+                accused for enforcement of his indefeasible right
+                alleged to have been accrued in his favour on
+                account of default on the part of the investigating
+                agency in completion of the investigation within
+                the specified period, the Magistrate/court must
+                dispose of it forthwith, on being satisfied that in
+                fact the accused has been in custody for the
+                period of 90 days or 60 days, as specified and no
+                charge-sheet has been filed by the investigating
+                agency. Such prompt action on the part of the
+                Magistrate/court will not enable the prosecution
+                to frustrate the object of the Act and the
+                legislative mandate of an accused being released
+                on bail on account of the default on the part of the
+                investigating agency in completing the
+                investigation within the period stipulated.
+5. If the accused is unable to furnish the bail as
+                directed by the Magistrate, then on a conjoint
+                reading of Explanation I and the proviso to sub-
+                section (2) of Section 167, the continued custody
+                of the accused even beyond the specified period
+                in para (a) will not be unauthorised, and therefore,
+CRL.REV.P.1219/2019 & Other Connected Matters               Page 38 of 47
+if during that period the investigation is complete
+                and the charge-sheet is filed then the so-called
+                indefeasible right of the accused would stand
+                extinguished.
+6. The expression "if not already availed of" used
+                by this Court in
+Sanjay Dutt
+case [(1994) 5 SCC
+                410 : 1994 SCC (Cri) 1433] must be understood
+                to mean when the accused files an application and
+                is prepared to offer bail on being directed. In
+                other words, on expiry of the period specified in
+                para (a) of the proviso to sub-section (2) of
+                Section 167 if the accused files an application for
+                bail and offers also to furnish the bail on being
+                directed, then it has to be held that the accused
+                has availed of his indefeasible right even though
+                the court has not considered the said application
+                and has not indicated the terms and conditions of
+                bail, and the accused has not furnished the same.
+With the aforesaid interpretation of the expression
+                "availed of" if the charge-sheet is filed
+                subsequent to the availing of the indefeasible
+                right by the accused then that right would not
+                stand frustrated or extinguished, necessarily
+                therefore, if an accused entitled to be released on
+                bail by application of the proviso to sub-section
+                (2) of Section 167, makes the application before
+                the Magistrate, but the Magistrate erroneously
+                refuses the same and rejects the application and
+                then the accused moves the higher forum and
+                while the matter remains pending before the
+                higher forum for consideration a charge-sheet is
+                filed, the so-called indefeasible right of the
+                accused would not stand extinguished thereby,
+                and on the other hand, the accused has to be
+                released on bail. Such an accused, who thus is
+                entitled to be released on bail in enforcement of
+                his indefeasible right will, however, have to be
+CRL.REV.P.1219/2019 & Other Connected Matters              Page 39 of 47
+produced before the Magistrate on a charge-sheet
+                being filed in accordance with Section 209 and
+                the Magistrate must deal with him in the matter of
+                remand to custody subject to the provisions of the
+                Code relating to bail and subject to the provisions
+                of cancellation of bail, already granted in
+                accordance with the law
+laid down by
+this Court
+                in the case of
+Mohd. Iqbal v. State of
+                Maharashtra
+[(1996) 1 SCC 722 : 1996 SCC
+                (Cri) 202] ."
+[emphasis supplied]
+37.
+In
+Union of India v. Nirala Yadav
+: (2014) 9 SCC 457, the
+Supreme Court analysed various earlier decisions rendered by it and
+after referring to the decision of
+Mohanlal Acharya
+(supra), held as
+under:
+"28. ....When the charge-sheet is not filed and the
+                right has ripened earning the status of
+                indefeasibility, it cannot be frustrated by the
+                prosecution on some pretext or the other. The
+                accused can avail his liberty only by filing
+                application stating that the statutory period for
+                filing of the challan has expired, the same has not
+                yet been filed and an indefeasible right has
+                accrued in his favour and further he is prepared to
+                furnish the bail bond. Once such an application is
+                filed, it is obligatory on the part of the court to
+                verify from the records as well as from the Public
+                Prosecutor whether the time has expired and the
+                charge-sheet has been filed or not or whether an
+                application for extension which is statutorily
+                permissible, has been filed. If an application for
+                extension is filed, it is to be dealt with as has
+                been stated in Sanjay Dutt [(1994) 5 SCC 410 :
+1994 SCC (Cri) 1433] . That is the duty of the
+CRL.REV.P.1219/2019 & Other Connected Matters              Page 40 of 47
+Court. This is the position of law as has been
+                stated in Uday Mohanlal Acharya [(2001) 5 SCC
+                453 : 2001 SCC (Cri) 760] ."
+38.     The Court also referred to its earlier decision in
+Pragyna Singh
+Thakur v. State of Maharashtra
+: (2011) 10 SCC 445 and, inter alia,
+reproduced paragraph nos. 54 and 58 of
+the said decision
+, which are
+set out below:
+"54.There is yet another aspect of the matter. The
+                right under
+Section 167(2)
+CrPC to be released
+                on bail on default if charge-sheet is not filed
+                within 90 days from the date of first remand is
+                not an absolute or indefeasible right. The said
+                right would be lost if charge-sheet is filed and
+                would not survive after the filing of the charge-
+                sheet. In other words, even if an application for
+                bail is filed on the ground that charge-sheet was
+                not filed within 90 days, but before the
+                consideration of the same and before being
+                released on bail, if charge-sheet is filed, the said
+                right to be released on bail would be lost. After
+                the filing of the charge-sheet, if the accused is to
+                be released on bail, it can be only on merits. This
+                is quite evident from the Constitution Bench
+                decision of this Court in
+Sanjay Dutt
+                (2) v. State
+[(1994) 5 SCC 410 : 1994 SCC (Cri)
+                1433] [paras 48 and 53(2)(b)]. The reasoning is to
+                be found in paras 33 to 49.
+****                           ****            ****
+58. From the discussion made above, it is quite
+                clear that even if an application for bail is filed on
+                the ground that charge-sheet was not filed within
+                90 days, before the consideration of the same and
+                before being released on bail if charge-sheet is
+                filed, the said right to be released on bail, can be
+CRL.REV.P.1219/2019 & Other Connected Matters                 Page 41 of 47
+only on merits. So far as merits are concerned the
+                learned counsel for the appellant has not
+                addressed this Court at all and in fact bail is not
+                claimed on merits in the present appeal at all."
+39.     After referring to the aforesaid paragraphs from the decision in
+the case of
+Pragyna Singh Thakur
+(supra), the Supreme Court held as
+under: -
+"45. After recording the above conclusions, the High
+           Court has ultimately observed that assuming that the
+           appellant was not told by an order in writing to attend
+           the office of ATS at Kala Chowki, Mumbai, yet it is
+           clear that she accompanied the officer of ATS from
+           Surat to Mumbai on her own volition. Every single
+           act and movement is of her own volition and no force
+           was used. The High Court, therefore, did not go into
+           the wider question as to whether the non-compliance
+           with Section 160(1) including its proviso would
+           enable the appellant to apply for release on bail. It
+           may be stated that the prosecution has produced and
+           relied upon written intimation dated 10-10-2008 and
+           entries from the station diary to show that
+Section
+           160
+CrPC was substantially complied with but it is
+           not necessary to refer to the same in detail as this
+           Court broadly agrees with the view taken by the High
+           Court mentioned above."
+40.     The Supreme Court further noted that the view expressed by the
+Court in
+Pragyna Singh Thakur
+(supra) was somewhat similar to the
+view expressed by B.N. Agrawal J. in his dissenting opinion in
+Uday
+Mohanlal Acharya
+(supra).
+After observing the same, the Court, in
+Nirala Yadav
+(supra) concluded as under:
+"46. .... As long as the majority view occupies the
+           filed it is a binding precedent. That apart, it has been
+CRL.REV.P.1219/2019 & Other Connected Matters              Page 42 of 47
+followed by a three-Judge Bench in
+Sayed Mohd.
+           Ahmad Kazmi
+'s case.
+Keeping in view the principle
+           stated in
+Sayed Mohd. Ahmad Kazmi
+'s case which
+           has based on three-Judge Bench decision in
+Uday
+           Mohanlal Acharys
+'s case, we are obliged to conclude
+           and hold the principle
+laid down in
+Paragraph 54 and
+           58 of Pragyna Singh Thakur
+'s case (which have been
+           underlined by us) do not state the correct principle of
+           law. It can clearly be stated that in view of the
+           subsequent decision of a larger Bench that cannot be
+           treated to be a good law.
+Our view finds support from
+           the decision in Union of India and others v. Arviva
+           Industries India Limited and Others."
+41.
+In
+Alamkhan Umarkhan Jatmalek Jenjari Tal, Dashada Dist.,
+Surendranagar and Anr. v. State of Gujarat
+: (2015) 3 GLH 737, a
+Single Bench of the Gujarat High Court considered a case where the
+application for default bail under
+Section 167(2)
+of Cr.PC was filed at
+10:35 on 10.11.2014. The chargesheet was filed on the same date in
+the evening and the matter was placed for consideration before the
+Court on the next day, that is, on 11.11.2014. The application for bail
+in default was rejected by the concerned Judicial Magistrate on
+14.11.2014. The Court held that the applicants were entitled to default
+bail and the subsequent filing of the chargesheet at 04:00 o'clock in
+the evening would not defeat the indefeasible right of the appellants to
+be released on bail.
+42.     A similar view has also been expressed by the Jharkhand High
+Court in
+Deepak Mandal @ Deepu Mandal @ Chhootu v. The State
+of Jharkhand
+: Crl. Rev. No. 1184 of 2014, decided on 05.01.2015. In
+that case also, the chargesheet was filed on the same date, albeit, at a
+CRL.REV.P.1219/2019 & Other Connected Matters             Page 43 of 47
+later point of time. The Court held that the accused had filed a bail
+application and was ready to furnish the bail bonds. In the
+circumstances, an indefeasible right for being released on bail had
+accrued because till filing of the application, the chargesheet had not
+been filed.
+It was filed subsequently at 01:00 pm but that could not
+defeat the right of the accused under Section 167(2) of Cr.PC.
+43.
+In a recent decision rendered by the Supreme Court in the case
+of
+Bikramjit Singh v. State of Punjab
+: Crl. A. No. 667 of 2020
+decided on 12.10.2020, the Court observed as under:
+"A conspectus of the aforesaid decisions would show
+            that so long as an application for grant of default bail
+            is made on expiry of the period of 90 days (which
+            application need not even be in writing) before a
+            charge sheet is filed, the right to default bail becomes
+            complete. It is of no moment that the Criminal Court
+            in question either does not dispose of such application
+            before the chargesheet is filed or disposes of such
+            application wrongly before such charge sheet is filed.
+            So long as an application has been made for default
+            bail on expiry of the stated period before time is
+            further extended to the maximum period of 180days,
+            default bail, being an indefeasible right of the accused
+            under the first proviso to Section 167(2), kicks in and
+            must be granted."
+44.
+In
+M. Ravindran v. Intelligence Officer
+: Criminal Appeal No.
+699 of 2020, decided on 26.10.2020, the accused filed an application
+for seeking default bail at 10:30 am of the 181st day of his arrest (that
+is immediately after the court opened). The Public Prosecutor filed an
+additional complaint on the same date at 4:25 pm. The Supreme Court
+CRL.REV.P.1219/2019 & Other Connected Matters              Page 44 of 47
+held that the accused had availed of his indefeasible right to a default
+bail before the charge sheet was filed and therefore was entitled to the
+same.
+45.       In view of the above, the impugned order, which is premised on
+the basis that the court would have to consider the question of default
+bail at the point when the application is taken up for consideration is
+unsustainable. As explained by the Supreme Court in
+Nirala Yadav
+(supra), "the accused can avail his liberty only by filing an application
+stating that the statutory period for filing of the challan has expired,
+the same has not yet been filed, and an indefeasible right has accrued
+in his favour and further he is prepared to furnish the bail bond. Once
+such an application is filed, it is obligatory on the part of the court to
+verify from the records as well as the public prosecutor whether the
+time has expired and the charge-sheet is filed or not". The question
+whether an accused has exercised his indefeasible right for seeking
+bail in default is not contingent upon the time when the said
+application is heard and decided. So long as the said application has
+been preferred in the manner as is required - that is, by filing it in the
+prescribed manner with the court - the accused has done whatever is
+expected of him for indicating that he is exercising his right. Once
+having done so, the court is only required to examine whether at that
+point the petitioner is entitled to bail in default. Any subsequent acts
+done on behalf of the prosecution would not be relevant for the
+purposes of determining whether the accused had validly exercised his
+rights.
+CRL.REV.P.1219/2019 & Other Connected Matters             Page 45 of 47
+46.     As noted above, this is also clearly discernable from the plain
+language of
+Section 167(2)
+of the Cr.PC. It is relevant to note that the
+said provision circumscribes the power of the court to remand an
+accused to custody if a chargesheet has not been filed within the
+prescribed time and the accused indicates that he is prepared to furnish
+bail. The accused indicates so only by making an application. The said
+application can be made in writing and filing it in the manner as
+prescribed or even orally before Court. (See:
+Rakesh Kumar Paul v.
+State of Assam
+: (2017) 15 SCC 67).
+47.     The moment the accused makes such an application, the court is
+required to only examine whether the conditions as prescribed under
+Section 167(2)
+of the Cr.PC have been met when the application is
+made. If they are, then the power of the court to remand is lost and the
+accused has to be granted bail. In this view, this Court is unable to
+concur with the reasoning of the Special Court in the impugned order.
+The Special Court has proceeded on an erroneous premise that the
+applications filed by the accused could be considered as having been
+moved only at the time when they were produced before the court and
+not before. The implicit assumption that the relevant point of time for
+considering whether the accused have availed of their indefeasible
+right would be the point at which the applications are considered and
+not when it is filed, as stated earlier, not sustainable.
+48.     Although, the decision of the Special Court is found to be
+erroneous, no relief can be granted to the petitioners. This is because
+the contention that an indefeasible right for a default bail had accrued
+CRL.REV.P.1219/2019 & Other Connected Matters               Page 46 of 47
+to the petitioners is based on an erroneous assumption that a final
+report under
+Section 173(2)
+of the Cr.PC had not been filed within the
+stipulated period.
+49.     In view of the above, the impugned order is set aside. However,
+the applications moved by the petitioners before the said court seeking
+bail in default under the provisions of
+Section 167(2)
+of the Cr.PC are
+dismissed.
+50.     All pending applications are also disposed of.
+VIBHU BAKHRU, J
+NOVEMBER 03, 2020
+RK
+CRL.REV.P.1219/2019 & Other Connected Matters            Page 47 of 47

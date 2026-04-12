@@ -1,0 +1,148 @@
+Title: Search
+Court: High Court
+Date: 30 PAT 1274
+Citation: citations: AIR1952PAT450, AIR 1952 PATNA 450, ILR 30 PAT 1274
+Source: https://indiankanoon.org/doc/595358/
+
+[Cites
+15
+, Cited by
+3
+]
+Patna High Court
+Lalmina Singh vs Kumar Kamal Singh on 29 November, 1951
+Equivalent citations: AIR1952PAT450, AIR 1952 PATNA 450, ILR 30 PAT 1274
+ORDER
+1. These two applications arc directed, against a judgment of a Division Bench of this Court dated the 16th May 1951, passed in First Appeal No. 202 of 1946 and in Civil Revision, No. 610 of 1946, by which the first appeal was dismissed and the civil revision was allowed, the two cases being heard together.
+2.  The petitioner in these two applications is the same; the opposite party is also the same. The facts giving rise to the dispute may shortly be stated as follows: The petitioner had an occupancy holding measuring 99.46 acres, being 'khata' No. 13 of village Jahua, under the opposite party. There was default in the payment of rent and the opposite party instituted a suit against the petitioner for recovery of arrears of rent in respect of the holding and a decree was obtained. The decree was executed in execution case No. 883 of 1936 in the court of the Second Munsif of Buxar. The petitioner filed an objection under
+Section 47
+of the Code of Civil Procedure on the ground, 'inter alia', that the execution was time-barred. The objection was dismissed by the Munsif and thereupon an appeal was preferred by him to the District Judge. During the pendency of the appeal the holding was put up to sale and auction-purchased by the decree-holder on the 17th May 1937. On the 16th June 193T, the petitioner deposited the amount under Order 21, Rule 89,
+Code of Civil Procedure
+, and prayed that the amount deposited by him be not allowed to be withdrawn by the decree-holder, and although the prayer was rejected, the money was not withdrawn by the decree-holder.
+The appeal filed by the petitioner against the order dismissing his application under
+Section 47
+of the Code of Civil Procedure was, however, allowed and the application for execution was held to be time-barred. Thereupon the decree-holder preferred a second appeal to this Court, and before the appeal was finally decided the Munsif set aside the sale and held that the judgment-debtor "will get back the money deposited," and on the 22nd April 1938, a payment order for the sum deposited was is-
+sued to the judgment-debtor and he withdrew the money. The decree-holder's appeal was, however, allowed by this Court and the case was remanded to the District Court. The District Court, after remand, held that the execution petition was not barred. Thereafter, on the 16th March 1939, the decree-holder applied for re-deposit of the amount withdrawn by the petitioner, but he did not deposit the money. On the 22nd August 1949, the decree-holder auction-purchaser applied to the Munsif to confirm the execution sale and it was duly confirmed. Thereafter the auction purchaser applied for delivery of possession and after several unsuccessful attempts he got delivery of possession in October, 1942, and the execution case was finally disposed of.
+3.  After the delivery of possession was obtained, the opposite party, auction-purchaser, instituted a suit on the 19th April 1943, against the petitioner in the court of the Subordinate Judge at Arrah, claiming Rs. 7698/- by way of mesne profits for the period between the confirmation of the sale and the delivery of possession that is, for the years 1347 to 1349 'Fasli'. The petitioner resisted the claim on various grounds. This suit was decreed on the 24th January 1946. An appeal was preferred to this Court against the decree, being First Appeal No. 202 of 1946, and this Court by its judgment dated the 16th May 1951, affirmed the decision of the trial court and dismissed the appeal. Supreme Court Appeal No. 116 of 1951 is directed against the decree in this appeal.
+4.  After the suit for mesne profits was decreed by the trial court the petitioner filed a petition on the 8th February 1946, under
+Section 151
+of the Code of Civil Procedure before the Second Munsif of Buxar for vacating the Order in Execution case No. 883 of 1936, confirming the sale of the 17th May 1937. The learned Munsif held that there was no subsisting sale to be confirmed and in that view of the matter allowed the petition and set aside the sale. Against this order the opposite party filed a Civil Revision to this Court, being Civil Revision No. 610 of 1946, which was heard along with the appeal, and this Court reversed the order of the Munsif setting aside the sale. Supreme Court Appeal No. 117 of 1946 is directed against this order.
+5.  If leave to appeal from the order passed by this Court in Civil Revision No. 610 of 1946 be given, we must also grant leave to appeal from the judgment of this Court passed in First Appeal No. 202 of 1946. The point for consideration at the outset is whether an application for leave to appeal from an order passed by a High Court in the exercise of its revisional jurisdiction is maintainable. It is conceded by Mr. De, appearing on behalf of the proposed respondent, that the order is final and the value of the subject-matter of the dispute in the court of first instance and still in dispute on appeal to the Supreme Court was and is not less than Rs. 20,000/-. But his contention is that, having regard to the language of
+Section 109 (a)
+of the Code of Civil Procedure, the application for leave to appeal from an order passed by this Court in the exercise of its revisional jurisdiction is not maintainable under
+Section 109 (a)
+of the Code of Civil Procedure, as it stood before the Constitution of India came into force; leave to appeal "from a final order could be granted only if the final order was passed by 
+
+the High Court "on appeal". There are some authorities in support of the view that an order passed by a High Court in the exercise of its revisional jurisdiction is an order passed on appeal within the meaning of Clause (a) of
+Section 109
+of the Code of Civil Procedure, Vide 'HARISH CHANDRA v. NAWAB BAHADUR OF MOORSHIDABAD', 13 Cal L J 688 and the cases referred to therein.
+But a contrary view was taken by the Allahabad High Court in
+'SURAJ SINGH v. PHUL KUMARI
+', 48 All 226. It was held
+in that case
+that an order passed by a High Court in the exercise of its revisional jurisdiction was not an order passed on appeal, and, therefore, an application for leave to appeal to His Majesty in Council did not lie.
+A similar view was taken by this Court in
+'KRISHNA CHANDRA v. RAJENDRA NARAYAN
+', 15 Pat 659 and it was held that an order passed by a High Court in the exercise of its revisional jurisdiction under
+Section 115
+of the Code of Civil Procedure is by no means an order passed "on appeal" within the meaning of
+Section 109(a)
+of the Code.
+The point came up for consideration before the Judicial Committee in 'JOY CHAND LAL v. KAMALAKSHA CHAUDHURY', 76 Ind App 131 (PC) and their Lordships, on an examination of the view points taken by different High Courts in India, approved of the view taken by this Court and observed :
+"The view that orders passed in revision do not fall within
+Section 109 (a)
+has been accepted by High Courts in India other than the High Court at Calcutta, and their Lordships think it is correct."
+Therefore, leave to appeal cannot be granted if the law after the Constitution came into force be the same as it was before. But after the Constitution of India came into force the law has been changed. Now certificate for leave to appeal has to be granted under the provisions of
+Article 133 (1)
+of the Constitution which runs as follows :
+"
+Section 133 (1)
+An appeal shall lie to the Supreme Court from any judgment, decree or final order in a civil proceeding of a High Court in the territory of India if the High Court certifies--(a) that the amount or value of the subject-matter of the dispute in the court of first instance and still in dispute on appeal was and is not less than twenty thousand rupees or such other sum as may be specified in that behalf by Parliament by law;
+or
+(b) that the judgment, decree or final order involves directly or indirectly some claim or question respecting property of the like amount or value; or
+(c) that the case is a fit one for appeal to the Supreme Court; and, where the judgment, decree or final order appealed from affirms the decision of the court immediately below in any case other than a case referred to in Sub-clause (c), if the High Court further certifies that the appeal involves some substantial question of law."
+In view of the provisions of
+Article 133 (1)
+of the Constitution,
+Section 109
+of the Code of Civil Procedure has been modified by the Adaptation of Laws Order, 1950, and now it reads thus :
+"
+Section 109
+. Subject to the provisions in Chapter IV of Part V of the Constitution and such rules as may, from time to time, be made by
+
+the Supreme Court regarding appeals from the courts of the States, and to the provisions hereinafter contained, an appeal shall lie to the Supreme Court
+(a) from any judgment, decree or final order passed on appeal by a High Court or any other court of final appellate jurisdiction;
+(b) from any judgment, decree or final order passed by a High Court in the exercise of original civil jurisdiction; and
+(c) from any decree or order, when the case, as hereinafter provided is certified to be a fit one for appeal to the Supreme Court."
+For a certificate under
+Article 133 (1)
+two conditions have got to be fulfilled: (1) the final order from which leave to appeal is sought must be of a High Court in a civil proceeding and (2) the value of the subject-matter of the dispute in the court of first instance and still in dispute on appeal to the Supreme Court must not be less than Rs. 20,000/-. There is nothing in this Article to indicate that the final order must be passed by the High Court on appeal, whereas under
+Section 109 (a)
+, read with
+Section 110
+, Code of Civil Procedure, not only the value of the subject-matter of "the suit" in the court of first instance and of the subject-matter of dispute in the Supreme Court must be not less than Rs. 20,000/- but also the final order of the High Court must be one passed on appeal. Thus, a comparison of the provisions of
+Article 133 (1) (a)
+of the Constitution with the provisions of
+Section 109 (a)
+of the Code of Civil Procedure shows that the provisions of the Constitution are wider than the provisions of
+Section 109(a)
+of the Code.
+Section 109
+, as it now stands, itself shows that it must be read subject to the provisions of
+Article 133
+of the Constitution, this Article being in Chapter IV of Part V of the Constitution. Leave in the present case can be granted under
+Article 133 (1) (a)
+to appeal from the final order of this Court passed in the exercise of its revisional jurisdiction because the order was passed by this Court in a Civil proceeding and the value of the subject-matter of the dispute in the court of first instance was not less than Rs. 20,000/- and the value of the subject matter still in dispute on appeal to the Supreme Court is also the same sum.
+6.  But even if it be assumed that the case does not fall within the purview of
+Article 133 (1) (a)
+of the Constitution, it is clearly covered by the provisions of
+Article 133 (1) (b)
+of the Constitution, because the final order of this Court under
+Section 115
+of the Code of Civil Procedure was passed in a civil proceeding and it involves, directly or indirectly, question respecting property of the value of Rs. 20,000/- or upwards. It may be observed that the provisions of Clause (b) of
+Article 133 (1)
+of the Constitution are substantially the same as those of the second paragraph of
+Section 110
+of the Code of Civil Procedure. It was held by us in
+'CHAMPAMANI BIBI v. MOHAMMAD YUNUS
+', AIR 1951 Pat 177 that the second paragraph of
+Section 110
+of the Code is only an alternative to the second part of the first paragraph. But such construction is not permissible on the language of
+Article 133
+, Clause (1), as it stands. The separate numbering of two Clauses (a) and (b), coupled with the use of "that" before each clause, makes it quite clear that Clause (b) must be read independently of Clause (a). Clause (b) is wide enough to cover a case where the judgment, decree or final order is passed by a High Court in 
+
+a civil proceeding in the exercise  of its  revisional jurisdiction.
+It seems that the Constitution has widened the scope and provided for appeal to the Supreme Court even in a case where the final order is passed by a High Court in the exercise of its revisional jurisdiction. In our opinion, therefore there is no force in the contention of Mr. De. As the dispute is with respect to property of the value of not less than Rs. 20,000/- and the order is one of reversal, leave must be granted. We accordingly grant leave to appeal to the Supreme Court and certify that as regards the amount or value or nature the case fulfils the requirements of Clause (a) as well as Clause (b) of
+Article 131 (1)
+of the Constitution.
+7.  The  next   question   for   consideration   is whether leave to appeal to the Supreme Court can    be     granted   from    the     judgment   and decree    of    this    Court    in    the   first    appeal. The amount of the subject matter  of the dispute in the court of first instance was less than Rs.  20,000/- and,  therefore,  it is   contended  by Mr. B, C. De, on the authority of the above cited decision of this
+Bench 'CHAMPAMANI BIBI v. MOHAMMAD YUNUS
+', AIR 1951 Pat 177, that the requirements, as to valuation of
+Section 110
+of the Code of Civil Procedure, which along with the connected provision of
+Order 45, Rule 3 of the Code of Civil Procedure
+is still in the force by virtue of the Adaptation of Laws Order 1950 are not fulfilled.    Order 45, Rule 3 (1) provides :
+"Every petition shall state the grounds of appeal and pray for a certificate either that, as regards amount or value and nature, the case fulfils   the  requirements   of
+Section   110
+,   or that  it  is  otherwise  a  fit one for  appeal to the Supreme Court."
+According to this rule, it is argued, the certificate is to be granted with reference to the provisions of
+Section 110
+. And it has been held by this Court in the aforesaid case 'AIR 1951 Pat 177', that the requirements of
+Section 110
+as to valuation are not fulfilled if the value of the subject-matter of the dispute in the court of first instance is less than Rs. 10,000/-, now Rs. 20,000/-. Consequently, it is said, the present case does not satisfy the requirements of
+Section 110
+. But, as already pointed out, the certificate, since the Constitution came into force, is to be granted under
+Article 133 (1)
+of the Constitution. If there is any conflict between the provisions of this Article with those of Order 45, Rule 3 and
+Section 110
+, Code of Civil Procedure the Constitution will prevail. The present case is fully covered by
+Article 133 (1) (b)
+of the Constitution as the judgment indirectly involves questions respecting property of the value of not Less than Rs. 20,000/-. Therefore, as the judgment is one of affirmance, leave can be granted under Clause (b) if we are satisfied that the appeal involves a substantial question of law.
+There would have been difficulty in granting a certificate if leave to appeal had been refused from the order in the civil revision; but leave having been granted in that matter, it ought not to be refused in this case. If the judgment of this Court in the civil revision be reversed by the Supreme Court, the very foundation of the claim for mesne profits in the appeal will disappear; the plaintiff would not be entitled to mesne profits if he has no title to the property. Therefore, if leave is refused in this matter, he will get a decree without having title in respect
+
+of the property for which mesne profits have been claimed. The question of title is a substantial question of law as between the parties. In such circumstances, we think leave must be granted in this case also.
+8.  We accordingly certify that a substantial question of law is involved in Supreme Court Appeal No. 116 of 1951, which arises out of First Appeal No. 202 of 1946, and it fulfils the requirement of Clause (b) of
+Article 133 (1)
+of the Constitution, and Supreme Court Appeal No. 117 of 1951, which arises out of Civil Revision No. 610 of 1946, fulfils the requirements of Clauses (a) and (b) of
+Article 133 (1)
+of the Constitution, and grant leave to appeal to the Supreme Court in both these cases. The petitioner, is entitled to costs: hearing fee five gold mohurs.

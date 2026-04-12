@@ -1,0 +1,155 @@
+Title: Search
+Court: High Court
+Date: 55 of 2002
+Citation: citations: 2006(1)ALD(CRI)55, (2006)143PLR7
+Source: https://indiankanoon.org/doc/860473/
+
+[Cites
+26
+, Cited by
+1
+]
+Delhi High Court
+Madan Aggarwal vs State And Anr. on 24 January, 2006
+Equivalent citations: 2006(1)ALD(CRI)55, (2006)143PLR7
+Author:
+J.P. Singh
+Bench:
+J.P. Singh
+JUDGMENT
+ 
+
+J.P. Singh, J.
+1. This petition has been filed under
+Section 482
+of the Code of Criminal Procedure for quashing the summoning order dated 27.7.1999 under
+Section 138
+of the Negotiable Instruments Act passed by Metropolitan Magistrate Delhi, and order dated 10.2.2005 also passed by Metropolitan Magistrate, Delhi, declining to recall the summoning order.
+2. I have heard Ms. CM. Chopra, learned Counsel for the petitioner, Ms. Shobha, learned Counsel for the respondent No. 2 and Ms. Santosh Kohli, learned Additional Public Prosecutor, on the point of admission, and have gone through the copies of the documents placed on the file.
+3. As per complaint under
+Section 138
+read with
+Sections 141
+and
+142
+of the Negotiable Instruments Act, read with
+Sections 420
+and
+406
+of the Indian Penal Code, the case of the complainant is that it is a Government company. Its object is to promote small scale industrial units in the country. In para 3 it is alleged that accused No. 1 is a company having its registered office at New Delhi. Accused Nos. 2 to 9 are persons who are controlling the business affairs of the accused No. 1 and are in-charge of and responsible to the accused No. 1 company for the conduct of the business thereof. They are playing active role in the management and in the day-to-day affairs of the accused No. 1.
+4. The accused No. 1 was granted financial assistance for procuring raw material. The accused No. 1 issued a cheque dated 10.1.1999 in the sum of Rs. 24,99,450/- as part payment of its pecuniary liability in favor of the complainant, the cheque was signed by accused Nos. 2 and 3 for and on behalf of accused No. 1. The said cheque was dishonoured because the accused had closed the account meaning thereby that the accused knew that the cheque would be dishonoured. It is alleged in para 8 that the offence has been committed by accused No. 1 company through and with the consent and connivance of all the accused Nos. 2 to 9. Notice was sent but in vain.
+5. I have also gone through the summoning order dated 27.7.1999 wherein the learned Metropolitan Magistrate, after hearing and perusing the record, was of the opinion that prima facie case was made out and accordingly summoned the accused persons. Accused No. 7, who is the petitioner before this Court, for the first time moved an application dated 5.3.2004, i.e. after more than four years, for recall of the summoning order. The application was dismissed by the learned Metropolitan Magistrate vide order dated 10.2.2005.
+6. The prayer for recall of order was declined in view of the Supreme Court Ruling in the matter titled
+Adalat Prasad v. Roop Lal Jindal and Ors.
+113 (2004) DLT 356 (SC) : III (2004) CCR 176 (SC) : 2004 VIII AD (SC) 533 : 2004 (7) SCALE 137, where it has been opined that the Magistrate cannot recall his own order and the only remedy available is to approach the High Court under
+Section 482
+of the Cr.P.C. There is no quarrel about the legal position that a petition under
+Section 482
+, Cr.P.C. can be filed in the High Court but whether that petition can be allowed depends upon the facts and circumstances of the given case and the established law that the inherent jurisdiction is to be exercised sparingly and in extraordinary situations. While dealing with the other limbs of the arguments, the question whether this petition can be allowed within the four corners of
+Section 482
+, Cr.P.C. will be also dealt with.
+7. Next the learned Counsel for the petitioner has mainly contended that no particular role has been attributed to the petitioner in the complaint and no individual notice was sent to the petitioner by the complainant. There is no dispute that the petitioner was Director at the time when the financial assistance was taken from the complainant and the cheque in question was issued. This prima facie means that the petitioner must be attending the company meetings because the attendance in the meetings is compulsory under the company law and no loan can be raised or financial assistance taken or cheques issued unless there is a resolution of the company for the said purpose. A complainant may not even be knowing as to whether a particular Director was present or absent or what role he played at the time when the company resolved to approach the complainant for financial assistance because all these acts and facts are within the special knowledge of the Directors and the company. Therefore, if in the averments in the complaint, there is mention that the accused persons were in charge and responsible for conduct of the business thereof and were playing active role in the management and the day-to-day affairs of the accused company and that the company acted with consent or connivance of all the accused persons, the requirement of making the averments as per
+Sections 141(1)
+and
+141(2)
+of Negotiable Instruments Act and as per the latest legal position SMS Pharmaceuticals v. Neetu Bhalla and Anr. ;
+Rachna Kapoor v. State and Ors.
+;
+Monaben Ketanbhai Shah and Anr. v. State of Gujarat and Ors.
+and;
+Saraswathy Amma and Anr. v. Swil Ltd. and Anr.
+, cited by learned Counsel for the petitioner, in my view, are completely met and the petitioner accused cannot be heard to say that his role has not been specifically explained in the complaint.
+8. As regards the second point of non-service of individual notice to the Directors, the learned Counsel for the respondent has cited the judgment titled
+Jain Associates and Ors. v. Dipak Chaudhary and Co.
+, where the question raised was whether the notice was to be sent to the partnership firm as well as to the partners under
+Section 138
+, Negotiable Instruments Act in case a cheque issued on behalf of the partnership firm was dishonoured. The Court discussed several judgments of the Supreme Court and the High Courts and opined that
+Section 141
+of the Negotiable Instruments Act does not require that each and every partner of the firm is required to be issued notice rather a notice sent even to one partner operates as notice to the firm and the other partners and the firm cannot set up ignorance of notice as a defense. This view has been held in several judgments referred to in this judgment.
+9. Learned Counsel for the petitioner has submitted that in this very matter, the proceedings against Mr. V.P. Gupta, Company Secretary were dropped. The learned Counsel for the respondent has submitted that there is no dispute about it. In my view, the role of the Company Secretary is distinguishable and he is a mere employee of the company. He was neither a Director nor signatory to the cheque. The duties of the Company Secretary are well defined. The Court in that matter opined that since employing Company Secretary is compulsory and he has mainly to act upon the policy and resolutions of the company he, therefore, has no active role regarding the demand of financial assistance and issue of cheque. I am also of the view that the Company Secretary has no active role in the passing of resolutions and the policy decisions of the company for seeking financial assistance or issuing cheques and he is rather an outsider and mere employee of the company. In this case he is not a signatory to the cheque, therefore, he is rightly dropped from the proceedings. But the said criterion, facts and circumstances are not attracted in the case of present petitioner.
+10. I may mention here that the
+Negotiable Instruments Act
+has been repeatedly amended to curb the delays in disposal of the cases under the
+Negotiable Instruments Act
+. I may reproduce hereunder some portions of the preamble:
+Amendment Act 55 of 2002. Statement of Objects and Reasons-The Negotiable Instruments Act, 1881 was amended by the Banking, Public Financial Institutions and Negotiable Instruments Laws (Amendment) Act, 1988 wherein a new Chapter XVII was incorporated for penalties in case of dishonour of cheques due to insufficiency of funds in the account of the drawer of the cheque. These provisions were incorporated with a view to encourage the culture of use of cheques and enhancing the credibility of the instrument. The existing provisions in the
+Negotiable Instruments Act, 1881
+, namely
+Sections 138
+to
+142
+in Chapter XVII have been found deficient in dealing with dishonour of cheques. Not only the punishment provided in the Act has proved to be inadequate, the procedure prescribed for the Courts to deal with such matters has been found to be cumbersome. The Courts are unable to dispose of such cases expeditiously in a time-bound manner in view of the procedure contained in the Act.
+2....
+3....
+4....
+5. The proposed amendments in the Act are aimed at early disposal of cases relating to dishonour of cheques, enhancing punishment for offenders, introducing electronic image of a truncated cheque and a cheque in the electronic form as well as exempting an official nominee director from prosecution under the
+Negotiable Instruments Act, 1881
+.
+Under
+Section 138
+of the Negotiable Instruments Act, the period of imprisonment has been enhanced from 1 year to 2 years. Already there is provision for fine which may extend to twice the amount of the cheque as additional punishment for the offence. Under
+Section 143(3)
+of the Act, the Trial Court has to make efforts to conclude the trial within 6 months. These amendments have been incorporated to curb the delays and to highlight the gravity of the offences in which cheques are being readily given seemingly to discharge a liability or to enter into a contract, but the real intention of the drawer is either not to pay or to delay the payment or to cheat the other party.
+11.
+In one such matter decided by me titled
+Daljeet Singh Chandhok v. State and Anr.
+128 (2006) DLT 516 : 2006 I AD (Delhi) 457, I have referred to the following judgments which lay emphasis on early disposal of the cases under the
+Negotiable Instruments Act
+:
+(i) Judgment titled
+B. Mohan Krishana v. Union of India
+1996 Cr.L.J. 638 (Andh. Pra.)(DB), para-29.
+(ii) Judgment titled Joseph Jose v. J. Baby Puthuval Puravidom Poothappu I (2003) BC 180 : 2002 Cr.L.J. 4392 (Ker.), para-8.
+(iii) Judgment titled
+Kusum Ingots & Alloy Ltd. v. Pennar Peterson Securities Ltd.
+.
+(iv) Judgment titled
+Shri Ishar Alloy Steels Ltd. v. Jayaswals Neco Ltd., II
+(2001) BC 108 (SC) : I (2001) CCR 287 (SC) : AIR 2001 SC 1161, para-5.
+12. The reasoning given by me in
+Daljeet Singh Chandhok v. State and Anr.
+(supra) is applicable to the present case also. There are now 8 accused persons in this matter. Accused No. 1 is the company. If every accused turn by turn files such petitions despite there being averments against him and every time the proceedings or the final judgment in the Trial Court is stayed, this case will take decades for reaching the conclusion.
+13. Once the guidelines have been laid by the Supreme Court of India and the High Courts, the Trial Courts are bound to follow those guidelines and in the facts and circumstances of a given case, the complainant on its own or even the Trial Court can give opportunity to the complainant to voluntarily drop any or all of the accused persons. In my view, there is no legal bar in allowing any such prayer of the complainant. But if the complainant insists to continue with the proceedings against all or any of the accused persons then while finally deciding the matter the Magistrate may pass observations or strictures for wrong implication of all the accused persons or a particular accused and may also initiate proceedings under
+Section 211
+, Indian Penal Code or
+Section 340
+, Code of Criminal Procedure as deemed fit by the Trial Court.
+14. As regards the exercise of powers under
+Section 482
+, Code of Criminal Procedure I am reproducing the said section hereunder:
+482. Saving of inherent power of High Court-Nothing in this Code shall be deemed to limit or affect the inherent powers of the High Court to make such orders as may be necessary to give effect to any order under this Code, or to prevent abuse of the process of any Court or otherwise to secure the ends of justice.
+Recently, the Supreme Court of India after examining the entire case law under
+Section 482
+, Code of Criminal Procedure in the judgment titled
+Zandu Pharmaceutical Works Ltd. v. Mohd. Sharaful Haque
+, has inter alia opined as under-
+...The inherent power should not be exercised to stifle a legitimate prosecution.
+The High Court being the highest Court of a State should normally refrain from giving a prima facie decision in a case where the entire facts are incomplete and hazy, more so when the evidence has not been collected and produced before the Court and the issues involved, whether factual or legal, are of magnitude and cannot be seen in their true perspective without sufficient material....
+15. Learned Counsel for the respondent has cited the judgment titled Raj Lakshmi Mills v. Shakti Bhakoo  (3 Judges Bench). This was a case under
+Sections 138
+and
+141
+of the Negotiable Instruments Act (and the summoning order was challenged) under
+Section 482
+of the Code of Criminal Procedure. In that case also the contention about the petitioner accused now being in charge or responsible for the conduct of the business was raised. The Supreme Court of India held as under:
+4. We are of the opinion that at the stage of summoning when evidence was yet to be led by the parties, the High Court could not on an assumption of facts come to a finding of fact that the respondent was not responsible for the conduct of the business. On this ground alone, these appeals are allowed and the impugned decision of the High Court is set aside.
+16. After examining the amendments in the
+Negotiable Instruments Act
+, according to which summary trial procedure is to be followed (
+Sections 138
+and
+143
+, Negotiable Instruments Act and
+Sections 254
+,
+260
+to
+264
+, Code of Criminal Procedure); relying upon the established law regarding the dishonour of cheques (supra) and powers of the High Court under
+Section 482
+, Code of Criminal Procedure (supra), I am of the view that it will be better for the petitioners to defend themselves in the Trial Court and if they are so sure of their defense, then they should get themselves acquitted at the earliest, rather than rushing to the High Court against every order and praying for examining the entire evidence without it being on record of the Trial Court, without it having been tested by cross-examination.
+17. Any such attempts will be a negation of the amendments and will defeat the very purpose of the repeated amendments. Considering all the facts and circumstances, I do not find any justification for interference under
+Section 482
+of the Code of Criminal Procedure. The petition, in my view, is vexatious and mala fide. Lacs of public money has been squandered. The petition is, therefore, dismissed with Rs. 10,000/- (Rupees ten thousand) as costs, in favor of the respondent No. 2 and against the petitioner.
+18. The Trial Court is directed to dispose of the matter preferably within 4 months.
+19. Nothing said herein will tantamount to expression of opinion on the merits of the case.

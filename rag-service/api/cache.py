@@ -21,10 +21,17 @@ CACHE_TTL_SECONDS = 60 * 60 * 24
 SEMANTIC_CACHE_MAX_ITEMS = int(os.getenv("SEMANTIC_CACHE_MAX_ITEMS", "300"))
 SEMANTIC_CACHE_THRESHOLD = float(os.getenv("SEMANTIC_CACHE_THRESHOLD", "0.93"))
 SEMANTIC_CACHE_INDEX_KEY = "legal-rag:semantic:index"
+NO_CONTEXT_ANSWER = "i could not find this in my legal database"
 
 # Module-level client is reused across requests.
 _redis_client: Redis | None = None
 _redis_available = False
+
+
+def _is_fallback_answer(answer: str) -> bool:
+    """Detect standardized no-context responses so they are not cached/reused."""
+    normalized = answer.strip().lower().rstrip(".")
+    return normalized == NO_CONTEXT_ANSWER
 
 
 def _cache_key(query: str) -> str:
@@ -82,8 +89,12 @@ async def get_cached(query: str) -> dict[str, Any] | None:
         if not cached:
             logger.info("Cache miss")
             return None
+        payload = json.loads(cached)
+        if _is_fallback_answer(str(payload.get("answer", ""))):
+            logger.info("Cache bypassed (fallback answer)")
+            return None
         logger.info("Cache hit")
-        return json.loads(cached)
+        return payload
     except (RedisError, json.JSONDecodeError) as exc:
         logger.warning("Cache read failed, skipping cache: %s", exc)
         return None
@@ -113,6 +124,9 @@ async def get_semantic_cached(query_embedding: list[float]) -> dict[str, Any] | 
         try:
             payload = json.loads(raw)
         except json.JSONDecodeError:
+            continue
+
+        if _is_fallback_answer(str(payload.get("answer", ""))):
             continue
 
         cached_vector = payload.get("query_embedding")
@@ -148,6 +162,10 @@ async def set_cache(
 ) -> None:
     """Store exact and semantic cache entries while tolerating Redis failures."""
     if not _redis_client or not _redis_available:
+        return
+
+    if _is_fallback_answer(answer):
+        logger.info("Skipping cache write for fallback answer")
         return
 
     key = _cache_key(query)

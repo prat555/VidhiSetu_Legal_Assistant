@@ -1,0 +1,230 @@
+Title: Search
+Court: High Court of Bombay at Nagpur, seeking direction against the Bank to complete the sale of the mortgaged property in favour of the respondent No. 1.
+Date: Unknown Date
+Citation: citations: I(2007)BC224
+Source: https://indiankanoon.org/doc/1718148/
+
+[Cites
+31
+, Cited by
+1
+]
+Debt Recovery Appellate Tribunal - Mumbai
+State Bank Of India vs Heera Laxmi Contractor Pvt. Ltd. And ... on 17 April, 2006
+Equivalent citations: I(2007)BC224
+JUDGMENT
+S.S. Parkar, J. (Chairperson)
+1. The main legal question that arises for consideration in this appeal is whether mandatory provisions of the
+Arbitration Act
+would be applicable in a proceeding initiated under the provisions of the
+Securitization and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002
+(hereinafter referred to as "The SRFAESI Act").
+2. This appeal has been filed against the order dated 2nd February, 2006 passed by the In-charge Presiding Officer of D.R.T., Nagpur rejecting the application made on behalf of the appellant Bank to refer the dispute between the parties for arbitration by virtue of
+Section 8
+of the Arbitration and Conciliation Act, 1996 in the following circumstances.
+3. The appellant Bank had put property mortgaged to it by one of its borrowers for auction. The respondent No. 1 was a successful bidder, who had offered to buy the said property for Rs. 10.40 crores. As the respondent No. 1 failed to pay the balance amount within stipulated period, the deposit paid by him was forfeited and the Bank sold the property for a sum of Rs. 12 crores to the respondent No. 2 privately. The respondent No. 1 challenged the action of the appellant Bank by filing writ petition being Writ Petition No. 40/2006 in the High Court of Bombay at Nagpur, seeking direction against the Bank to complete the sale of the mortgaged property in favour of the respondent No. 1.
+4. In the said writ petition, written submissions were filed on behalf of the appellant Bank and preliminary objection was raised about maintainability of the petition submitting that since the appeal has been provided under the SRFAESI Act against the action of the authorised officer, an appeal would lie to the D.R.T., Reliance was placed on the judgment of the Supreme Court in the case of Mardia Chemicals Ltd. v. Union of India II . Upholding the objection the High Court by its order dated 12th January, 2006, allowed the respondent No, 1. to withdraw the petition und prefer tin appeal before the D.R.T. under the provisions of the SRFAESI Act. Accordingly, the respondent No. 1 filed appeal before the D.R.T., Nagpur. In the said appeal, in view of the arbitration clause, the appellant Bank filed an application for referring the mailer to arbitration by virtue of
+Section 8
+of the Arbitration Act. That application was resisted on behalf of the respondent No. 1. The D.R.T. by the impugned order took a view that there was no clear, unequivocal and written agreement for arbitration between the parties and, therefore, the application made on behalf of the appellant Bank under
+Section 8
+of the Arbitration Act was rejected. Hence, the present appeal is filed by the Bank.
+5. The learned Advocate appearing for the appellant Bank took me through the relevant correspondence between the parties. To begin with, the reliance was placed, at the first instance, on the letter dated 11th November, 2005 addressed to the respondent No. 1 by the appellant Bank communicating Bank's acceptance of the offer made by the respondent No. 1 by their letter dated 10th September. 2005 to purchase the mortgaged property for a sum of Rs. 10.40 crores which was put for auction by the Bank under the provisions of the SRFAESI Act. The said letter states that conditions of auction dated 29th November, 2004 and 12lh February, 2005 shall be binding on the respondent No. 1. It seems that conditions of the auction were spelt out on behalf of the appellant Bank in the announcements made by the Bank at its zonal office at Nagpur on 29th November, 2004 and 12th February, 2005. Clause 19 of the announcement made on 29th November, 2004, in writing, states that at the relevant date if any dispute is raised by either of the bidders for any reason whatsoever, the same shall be referred to Arbitrator. Identical provision was made in the announcement dated 12th February, 2005 in Clause 14 thereof.
+6. It is argued on behalf of the appellant Bank, that, from the letter of acceptance dated 11th November, 2005 referred to above, it is clear that the offer to purchase property by the respondent No. 1 was accepted subject to the conditions of the auction as per announcements dated 29th November, 2004 and 12th February, 2005 and, therefore, the respondent No. 1 did not raise any objection thereto. The offer was accepted by the Bank subject to the conditions, which provided for referring the dispute between the parties to the arbitration. In this connection, a copy of the letter dated 8th December, 2005 addressed to the appellant Bank by and on behalf of the respondent No. 1 is brought to my notice referring to the terms and conditions of the auction embodied in the announcements dated 29th November, 2004 and 12th February, 2005 though in different connection or context. It is, therefore, rightly argued that the respondent No. 1 was aware of the conditions and they, having no objection to any of the conditions, they had entered into the transaction in question subject to those conditions, which included condition of referring the dispute between the parties to arbitration.
+7. However, on behalf of the respondents, it is argued that in order to make condition of arbitration binding on the parties, the said condition must be expressly agreed to and signed by and between the parties.
+In this respect, reliance is placed on some decisions of the High Courts, firstly on the judgment of the Bombay High Court in the case of
+Pramod Chimanbai Patel v. Lalit Constructions
+2003 (4) R.A.J. 171 (Bom.). That was a case where arbitration clause was introduced between the parties after a period of about two years of coming into existence of the contract. The High Court doubted the authenticity of the document containing arbitration clause. The respondent had also filed several affidavits of several persons in support of the case that the respondent had handed over blank signed letterheads lo the petitioner. In that context, the Court held, referring to Clause (b) of Sub-
+section 4
+of
+Section 7
+of the Arbitration Act, which states that an exchange of letters, telex, telegrams or other means of telecommunication which provide a record of the agreement or a statement of claim and defence clearly contemplate that such a document would be an arbitration agreement, in writing only when it is exchanged between the parties and, therefore, petition seeking direction for reference to arbitration was dismissed.
+8. Then reliance was placed on the judgment of the Delhi High Court in the case of
+C.H. Nivedita Reddy v. Escort Finance Limited II
+. In that case, view taken by the Delhi High Court is that unless and until the parties to the contract are signatories to the arbitration agreement or exchange of letters, telex, telegrams or other means of telecommunication providing a record of the agreement, or one party alleges agreement and other party docs not deny the same, no dispute can be arbitrated upon. Relying on the aforesaid view taken as regards
+Section 7
+of the Arbitration and Conciliation Act, the D.R.T. was of the opinion that in the absence of any evidence to conclude that the parties were ad adem on the point, the proceedings could not be referred to arbitration. As regards letter dated 8th December, 2005, the D.R.T. has observed that the reference is made only to the date and not to the condition of arbitration mentioned therein and. therefore, there was nothing on record to show that the appellants subscribed to the term of arbitration in those announcements.
+9. However, it is well settled principle of Law of Contract that if acceptance is made subject to a condition and the offer has accepted the acceptance and acted upon it the agreement is subject to such condition put by the acceptor. Letter of the Bank dated 11th November, 2005 accepting the offer has expressly stated that all the terms and conditions of the auction dated 29th November, 2004 and 12th February, 2005 (both of which expressly contained clauses about arbitration) shall be binding on the respondent No. 1 and therefore, the offer cannot be said to have been accepted without those conditions, especially when respondent No. 1 had not raised any objection. Clause (b) of Sub-section (4) of
+Section 7
+of the Arbitration and Conciliation Act makes it clear that the arbitration agreement need not be in writing but can be spelt out from the exchange of letters and other communications between the parties. It is important to refer to Sub-section (5) of
+Section 7
+of the said Act which, states that the reference in a contract to a document containing an arbitration clause constitutes an arbitration agreement if the contract is in writing and the reference is such as to make that arbitration clause part of the contract.
+10. In my view, by virtue of
+Section 7(4)(b)
+and
+Section 7(5)
+, the letter of acceptance dated 11th November, 2005, addressed to respondent No. 1 by the appellant Bank, which expressly refers to terms and conditions of the auction announcements dated 29th November, 2004 and 12th February, 2005 creates binding agreement between the parties, which provides for arbitration. In my opinion, it is difficult for the respondent No. 1 to escape from the said arbitration clauses in the teeth of their letter dated 8th December, 2005, addressed to the appellant Bank, which expressly refers to the terms and conditions of auction dated 29th November, 2004 and 12th February, 2005 and demonstrates that the respondents were aware of and had accepted all the conditions contained in those announcements including clauses regarding arbitration. The respondent No. 1 do not have to refer in the letter of 8th December, 2005 to the condition of the arbitration mentioned in the announcements of 29th November, 2004 and 12th February, 2005 to make arbitration clause binding on them as opined by the D.R.T. in the impugned order. The D.R.T. is clearly wrong in observing that the reference is made only to the date of the announcements and, therefore, arbitration clauses were not binding on the respondent No. 1. The reference is in fact made to the terms and conditions of the auction.
+11. View of the Bombay High Court in the case of
+Pramod Chimanbai Patel
+(supra), on which reliance has been heavily placed by the D.R.T., was taken in the context of the peculiar facts and circumstances of the case to which I have made reference earlier. The High Court had in para 2 of
+the said judgment
+doubted authenticity of the document containing arbitration clause which was introduced after a period of about two years after coming into existence of the contract.
+Similarly, the view taken by Delhi High Court in the case of
+Nivedita Reddy
+(supra) was in the context of the facts of that case, where there was an unilateral agreement which was held to be impermissible between the parties and I am, therefore, of opinion that the D.R.T. had erred in holding that there was no agreement providing arbitration clause between the parties.
+12. On behalf of the respondents, however, it is argued firstly that even if it is held that there is an agreement between the parties, the application to refer the matter for arbitration ought to have been made at the earliest opportunity. Secondly, it is argued that the provisions of the
+Arbitration and Conciliation Act
+would not be applicable to the proceedings initiated under the provisions of the SRFAESI Act.
+13. As regards the first point, it is submitted on behalf of the respondents that when the respondents filed writ petition in the High Court the appellants did not raise the question about the arbitration agreement between the parties and did not seek direction to refer the dispute to the Arbitrator but, raised a preliminary objection as to the maintainability of the petition in the High Court on the ground of availability of alternate remedy under the provisions of SRFAESI Act, which according to the appellant Bank, is a complete code in itself wherein an authorised officer of the Bank acts as quasi judicial authority as held by the Apex Court in the Mardia Chemicals' case. It is further submitted that if any person is aggrieved by any act or acts of the authorized officer under the SRFAESI Act his remedy is to approach the D.R.T. under Section 17 of the SRFAESI Act which provides for right to appeal.
+14. In the preliminary objections raised as to the maintainability of the petition and other elaborate submissions dated 12th January, 2006 filed on behalf of the appellant Bank, I find no whisper about the arbitration agreement between the parties nor request to refer the matter for arbitration. However, on behalf of the appellant Bank, it is argued that in the writ petition generally constitutional validity is challenged and, therefore, that cannot be said to be the earliest, opportunity available to the appellant Bank to raise the question of referring the matter for arbitration. According to the learned Counsel, the party must get an opportunity to submit his first statement on the substance of the dispute when the matter is filed before a proper Forum like Civil Court.
+15. The writ petition was filed as it appears from the order of the High Court dated 12th January, 2006, seeking cancellation of the sale dated 6th January, 2006 in respect of the mortgaged property to respondent No. 2 on the ground that there had already been a concluded contract between the Bank and respondent No. 1. It is common knowledge that a writ petition is filed to challenge constitutional validity of an Act as being ultra vires and/or to strike down an Act which is either discriminatory or arbitrary in nature. The dispute was definitely with regard to the question whether there was a concluded contract between the appellant Bank and the respondents regarding sale of the property. In my view, the appellant Bank should not have waited till the appeal was filed before the D.R.T. under the provisions of the SRFAESI Act to raise the question of reference to arbitration. The appellant Bank could have raised the point of referring (he dispute to the arbitration under the provisions of the
+Arbitration Act
+in the writ petition itself, as required under
+Section 8(1)
+of the Arbitration and Conciliation Act, 1996.
+16. The other submission made on behalf of the respondents, is that even assuming that there was an arbitration agreement between the parties, the provisions of
+Arbitration and Conciliation Act, 1996
+would not be applicable to a matter arising under the SRFAESI Act. In this connection, the appellants' Advocate has brought to my notice observations of the D.R.T. taking the view that if there is an arbitration agreement between the parties, in view of
+Section 16
+of the Arbitration and Conciliation Act, 1996 there is an Arbitral Tribunal which only can rule on its own jurisdiction. In other words, according to the D.R.T., if there is existence of an arbitration agreement between the parties, the dispute will be decided by the arbitrator only. Before I discuss the said point another submission made on behalf of the appellants will have to be considered. It is argued that the above question having been decided by the D.R.T. the respondents have no locus to raise the said point in the absence of cither any cross-appeal or cross-objections filed by the respondents before this Tribunal.
+17. As regards the question whether it would be open for the respondents to argue the point which was held against them without filing appeal or cross objections, reference may be made to the provisions of Order41
+Rule 22 of the Code of Civil Procedure
+which expressly permit the respondent though he may not have filed any appeal from any part of the decree, or cross-objections, not only to support the decree but also to state that the finding given against him in the Court below in respect of any issue ought to have been in his favour. The said provision has been interpreted by the Supreme Court in the case of
+Ravinder Kumar Sharma v. State of Assam
+. That was a case where the plaintiff had filed appeal against partial decree granted to him and it was held that in such a case even without filing any appeal or cross-objections the defendants/respondents can for purpose of sustaining the impugned part of the decree, attack the findings on which the part of decree passed against him was based.
+The said provision
+of CPC
+, before and after the amendment, has been lucidly interpreted in the later decision of the Supreme Court in the case of Banarasi v. Ram Phal 2003 (1) UJ. 615 (SC). The present case falls under Clauses 2 and 3 mentioned in para 9 of the said judgment and, therefore, the respondent is entitled to assail the finding on the issue which has been decided against him as also the finding in the judgment which goes against the respondent, without filing cross-objections. In view of the aforesaid position in law, I see no reason to disallow the respondents from assailing the view taken by the D.R.T. against the respondent No. 1.
+18. On behalf of the respondents, it is contended that the SRFAESI Act is a special enactment, which has got overriding effect and, therefore, mandatory provisions of
+Section 8
+of the Arbitration and Conciliation Act would not be applicable. Reliance is placed on the provisions of Sections 34, 35 and 37 of the SRFAESI Act.
+Section 34
+of the Act bars jurisdiction of the Civil Court to entertain any suit or proceeding in respect of any matter which the D.R.T. or the D.R. A.T. is empowered under the provisions of the SRFAESI Act to determine.
+Section 35
+of the Act is most relevant in this connection, which states as follows:
+35. The provisions of this Act to override other laws. - The provisions of this Act shall have effect, notwithstanding anything inconsistent therewith contained in any other law for the time being in force or any instrument having effect by virtue of any such law.
+Section 37 of the SRFAESI Act states that the provisions of the said Act and Rules made thereunder shall be in addition to and not in derogation of the certain Acts named therein or any other law for the time being in force.
+19. Provisions of
+Section 35
+provide for overriding effect of the SRFAESI Act over other laws. It is well settled that when two statutes contain non-obstante clauses the later statute would prevail. The rationale behind this is that the Legislature at the time of enactment of the later statute, is aware of the earlier legislation containing a non-obstante clause. Secondly, if there is a special statute though enacted earlier in point of time with a non-obstante clause, prevails over the later enactment, if the latter is a general statute as held by the Supreme Court in the case of
+Maharashtra Tubes Ltd. v. State Industrial and Investment Corporation of Maharashtra
+.
+In this connection, the Advocate for the respondents placed heavy reliance on the judgment of the Supreme Court in the case of
+Fair Air Engineers Pvt. Ltd. v. N.K. Modi III
+. That was a case where the Supreme Court was concerned with regard to the applicability of provisions of the
+Arbitration and Conciliation Act
+to a matter which was covered by the
+Consumer Protection Act, 1986
+. No doubt
+,
+in that case
+the Supreme Court was concerned with the provisions of the
+Arbitration Act, 1940
+and not mandatory provisions of
+Section 8
+of the Arbitration and Conciliation Act, 1996. The provisions of
+Arbitration Act, 1940
+gave option to go for arbitration under
+Section 34
+of the Arbitration Act of 1940. Considering the provisions of
+Section 3
+of the Consumer Protection Act, which lay down that the provisions of that Act are in addition to and not in derogation of the provisions of any other law for the time being in force, the Supreme Court held that it was not necessary to refer the dispute to arbitration and the matter could be decided on merits under the provisions of
+Consumer Protections Act
+. The Advocate for the respondents, therefore, relying on the provisions of Section 37 of the SRFAESI Act, which provide that the provisions of the said Act are in addition to and not in derogation of the Acts named therein or any other law for the time being in force, rightly argued that the D.R.T. has power to adjudicate upon the dispute which was raised before it under Section 17 of the SRFAESI Act without referring the matter for arbitration.
+20. Reliance was also placed on behalf of the respondents on the judgment of the Supreme Court in the case of
+Secretary, Thirumurugan Co-operative Agricultural Credit Society v. M. Lalitha
+(dead) through LRs. I , where the question was whether the dispute should have been decided under the
+Consumer Protection Act
+or it should have been referred to the arbitrator under Section 90 or 156 of T.N. Cooperative Societies Act, 1983, which provide for reference to the Arbitrator. It was held
+in that case
+that the jurisdiction of the Consumer Forum to decide the dispute was not ousted in view of the remedy of arbitration provided under Section 90 of the T.N. Co-operative Societies Act, which had exclusive jurisdiction to decide dispute between member and co-operative Society. It was observed in para No. 11 of the judgment that:
+From the statement of objects and reasons and the scheme of 1986
+Act, (Consumer Protection Act
+) it is apparent that the main objective of the Act is to provide for better protection of the interest of the consumer and for that purpose to provide for better redressal mechanism to which cheaper, easier, expeditious and effective redressal is made available to the consumers.
+Reference was also made
+in that case
+to the judgment of the Supreme Court in the case of
+Fair Air Engineers
+(supra) and other judgments of the Apex Court on the point.
+21. Next, reliance was placed heavily on the judgment of the Delhi High Court in the case of
+Kohinoor Creations v. Syndicate Bank
+, which had considered mandatory provisions of the
+Arbitration and Conciliation Act, 1996
+vis-a-vis RDDBFI Act, 1993. After considering the various judgments of the Supreme Court and the provisions of the RDDBFI Act, 1993, which was earlier in point of time than the present
+Arbitration and Conciliation Act
+. 1996 and non-obstante clause in Section 34 of the RDDBFI Act, 1993, which is on the lines of Section 35 of the SRFAESI Act, it was held that Section 34 of the RDDBFI Act had overriding effect and the provisions of the
+Arbitration and Conciliation Act, 1996
+would cease to have any application to the proceedings before the D.R.T. In my opinion, as per the said ratio, by virtue of the provisions of Section 35 of the SRFAESI Act, the latter Act will have overriding effect over
+Section 8
+of the Arbitration and Conciliation Act, 1996. which was enacted earlier in point of time. The provisions of SRFAESI Act having been enacted later in point of time, surely the Legislature can be deemed to have been aware of the earlier enactment of
+Arbitration and Conciliation Act, 1996
+and if the Legislature had intended that mandatory provisions of
+Section 8
+of the Arbitration and Conciliation Act, 1996 were to prevail over the provisions of the SRFAESI Act, it would have been so provided in the SRFAESI Act.
+22. Slight distinction is sought to be carved out between the provisions of SRFAESI Act, 2002 and the provisions of RDDBFI Act, 1993, with which the Delhi High Court in the case of
+Kohinoor Creations
+(supra), was concerned, by pointing out that while Sub-section (2) of Section 34 of RDDBFI Act, 1993 states that provisions of RDDBFI Act shall be in addition to and not in derogation of the certain Acts named therein, which does not refer to the
+Arbitration and Conciliation Act, 1996
+, Section 37 of the SRFAESI Act may be construed to include even the
+Arbitration and Conciliation Act
+. 1996, whose application was not barred because of the last portion of the section viz. or any other law for the time being in force.
+In my opinion, that would not make any difference in view of the ratio of the Supreme Court decisions in the case of
+Fair Air Engineers
+(supra) and in the case, of
+Secretary, Thirunuirugan Cooperative Agricultural Credit Society
+(supra).
+Secondly, if we consider that the SRFAESI Act is a special enactment, enacted for the purpose of speedy disposal of the cases for the recovery of debts due to the Banks and the fact that the proceedings before the Arbitrator are considered to be cumbersome by the Apex Court in the case of
+Fair Air Engineers Pvt. Ltd.
+(supra) the provisions of the
+Arbitration and Conciliation Act
+cannot be said to be applicable to the matters covered by the SRFAESI Act, It cannot be forgotten that the provisions of the SRFAESI Act are a step ahead of the provisions of the
+Arbitration and Conciliation Act
+. 1996 and the RDDBFI Act, 1993 inasmuch as the Banks have been empowered to act or proceed even faster and more speedily than under the provisions of RDDBFI Act, 1993 in respect of recovery of their dues by enforcement of the security.
+The Arbitration and Conciliation Act, 1996
+is mainly intended to apply to the civil cases filed in the Civil Courts, where it takes years for the recovery of the claims of the private parties. One is at a loss to know why the appellant Bank, instead of opting for speedier remedy available under the SRFAESI Act, has chosen to go for arbitration in this case.
+23. On behalf of the respondent No. 1, it is also argued that the remedy under Section 17 of the SRFAESI Act is that of an appeal against the action taken under Section 13 of the SRFAESI Act by the authorised officer of the Bank, who, according to the appellant Bank, as per the submission made before the High Court in the writ petition, has been stated to be a quasi judicial authority. The question is, therefore, whether Arbitrator can be said to have power and jurisdiction to hear appeal against the order or action taken under Section 13 of the SRFAESI Act.
+In this respect, reliance is placed on the judgment of the Supreme Court in the case of
+Haryana Telecom Ltd. v. Sterlite Industries (India) Ltd. III
+, wherein it was held that the petition, filed for winding-up of the company on the ground that company had become insolvent and therefore, should be wound up, cannot be referred to the arbitration under
+Section 8(1)
+of the Arbitration and Conciliation Act, 1996. Because in a petition for winding-up the claim is not for money and the power to order winding-up is conferred by the
+Companies Act
+on the Court and therefore, the Arbitrator had no jurisdiction to order winding-up of the company. Similarly in the present case, the dispute is not about money claim but whether the Bank could have rescinded the agreement to sell the property to the respondent No. 1 and entered into a fresh contract with the respondent No. 2, which question can be a subject matter of appeal under Section 17 of the SRFAESI Act. Therefore, in my view, the said question could have been decided by the D.R.T. only, which is empowered and entitled to decide the appeal under Section 17 of the SRFAESI Act against the order of authorised officer passed under Section 13 of the SRFAESI Act.
+24. On behalf of the appellant Bank, it is also argued strenuously that once it is held that there was an arbitration agreement between the parties, there is no option for any Forum than to refer the matter to the arbitration under the mandatory provision of
+Section 8
+of the Arbitration and Conciliation Act, 1996. According to the Counsel, by virtue of
+Section 16(1)
+of the Arbitration and Conciliation Act, the Arbitrator only can rule on his own jurisdiction.
+In this connection, he placed reliance on the judgment of the Supreme Court in the case of
+Hindustan Petroleum Corporation Ltd. v. Pinkcity Midway Petroleums
+, and also on the decision of the Supreme Court in the case of
+Kalpana Kothari v. Sudha Yaduv IV
+. Those cases were filed in the Civil Court and since there was clause, for arbitration in the agreement between the parties, there was no alternative but to refer the dispute to arbitration by virtue of mandatory provisions of
+Section 8
+of the Arbitration and Conciliation Act, 1996. It was therefore, held that if there was any objection as to the applicability of the arbitration clause to the facts of the case, the same would have to be raised before the concerned Arbitral Tribunal. Emphasis was laid by the Counsel for the appellants on the view taken by the Supreme Court in the first case, that by virtue of
+Section 16(1)
+of the Arbitration and Conciliation Act, 1996, if there was any objection to the applicability of the arbitration clause, the same would be raised before the Arbitral Tribunal only who would decide the same. This argument proceeds on two assumptions, firstly that mandatory provisions of the
+Arbitration and Conciliation Act
+had overriding effect over the SRFAESI Act. However, as I have held that the provisions of the SRFAESI Act have overriding effect and the provisions of the
+Arbitration and Conciliation Act, 1996
+are not applicable to the SRFAESI Act, question of referring dispute to the Arbitrator and his decision on the jurisdiction of the Arbitral Tribunal under
+Section 16(1)
+of the Arbitration and Conciliation Act docs not arise.
+Second assumption, on which Advocate's argument proceeded is on the basis of earlier view taken by the Suprcme Court in the
+Konkan Railway Corporation
+case , that once there is an agreement for arbitration between the potties, the Civil Court, Chief Justice of the High Court or of the Supreme Court has to perform only administrative function by referring the matter to the Arbitral Tribunal without considering whether arbitration clause is applicable lo the facts of the case or not.
+25. However, that view having been overruled by the recent majority decision of the Bench of Seven Judges of the Supreme Court in the case of
+S.B.P. and Co. v. Patel Engineering Ltd.  IV
+(2005) CLT 236 (SC) : (2005) 8 SCC 618, holding that power conferred under
+Section 11(6)
+and exercised by the Chief Justice of a High Court and the Chief Justice of the Supreme Court is a judicial power and not an administrative power, the argument cannot hold water. Thus, by virtue of this latest judgment of the Supreme Court by Larger Bench of Seven Judges, the question whether the matter needs to be referred to arbitration has to be decided by the Forum before whom the question has been raised and the Supreme Court has held that
+Section 16
+cannot be held to empower the Arbitral Tribunal to ignore the decision given by the Judicial Authority or the Chief Justice before the reference to it was made (see para 20 of the judgment).
+26. Thus, view taken by the Supreme Court in the
+Hindustan Petroleum
+'s case (supra), that if there is any objection as to the applicability of the arbitration clause to the facts of the case, the same will have to be raised before the Arbitral Forum and the Civil Courts are not empowered to enquire about applicability of the arbitration clause to the facts of the case, cannot be said to be a good law in view of the latest majority decision of the Seven Judges' Bench of the Supreme Court in the case of
+S.B.P. and Co.
+(supra).
+27.
+In the case of
+Kalpana Kothari v. Sudha Yadav
+(supra), the Supreme Court was trying to distinguish between provisions of
+Section 34
+of the Arbitration Act, 1940 and provisions of
+Section 8
+of Arbitration and Conciliation Act, 1996. That
+case has no application
+to the point raised in the present appeal, which is about the overriding effect of SRFAESI Act in the light of various judgments of the Supreme Court and the interpretation and the applicability of the provisions of
+Arbitration and Conciliation Act, 1996
+.
+28. For the view taken by me on the law points raised in this matter, the appeal is dismissed. The order of status quo with regard to the property passed earlier, shall continue till next date before the D.R.T., Nagpur.
+Before parting with this appeal, I must record my appreciation of the able assistance rendered by the learned Counsel of both sides.

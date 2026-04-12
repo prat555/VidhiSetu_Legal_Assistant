@@ -1,0 +1,1583 @@
+Title: Search
+Court: High Court
+Date: Unknown Date
+Citation: citations: AIR 2020 (NOC) 512 (DEL.), AIRONLINE 2019 DEL 1878, 2020 (1) ADR 707, (2019) 265 DLT 211, (2020) 1 DMC 180, (2020) 1 HINDULR 234
+Source: https://indiankanoon.org/doc/118150305/
+
+[Cites
+43
+, Cited by
+39
+]
+Delhi High Court
+Vinay Varma vs Kanika Pasricha & Anr. on 29 November, 2019
+Equivalent citations: AIR 2020 (NOC) 512 (DEL.), AIRONLINE 2019 DEL 1878, 2020 (1) ADR 707, (2019) 265 DLT 211, (2020) 1 DMC 180, (2020) 1 HINDULR 234
+Author:
+Prathiba M. Singh
+Bench:
+Prathiba M. Singh
+$~
+*      IN THE HIGH COURT OF DELHI AT NEW DELHI
+                                      Reserved on: 29th August, 2019
+                              Date of decision: 29th November, 2019
++               CM (M) 1582/2018 & CM APPL. 53645/2018
+       VINAY VARMA                                    ..... Petitioner
+                         Through:     Mr. Arun Kumar Varma, Sr.
+                                      Advocate with Mr. Deepak Bashta &
+                                      Ms.   Vandini,    Advocates   (M-
+                                      9999149022)
+                         versus
+       KANIKA PASRICHA & ANR.                   ..... Respondents
+                    Through: Mr. Harsh Jaidka, Advocate for R-1
+                              (M-9811145052)
+       CORAM:
+       JUSTICE PRATHIBA M. SINGH
+                    JUDGMENT
+Prathiba M. Singh, J.
+1.     The classic Saas-Bahu imbroglio, has now transformed into disputes
+between parents/in-laws and their children. These disputes have raised
+complex legal issues as to the interpretation of and balance between two
+legislations i.e.
+The Protection of Women from Domestic Violence Act,
+2005
+(hereinafter „
+DV Act
+‟) and
+The Maintenance and Welfare of Parents
+and Senior Citizens Act, 2007
+(hereinafter „PSC Act‟).
+2.     Since the time that the
+DV Act
+has been enacted, the concepts of
+`shared household‟ and `matrimonial home‟ have been considered in a large
+number of judgments. The judgment of the Supreme Court in
+S. R. Batra
+and Anr. v. Taruna Batra
+, (2007) 3 SCC 169 had considered the issue of
+„shared household‟ and laid down various principles to determine whether
+there was a „shared household‟ and what the rights of the daughter-in-law
+CM (M) 1582/2018                                                Page 1 of 40
+were. The question as to whether the daughter-in-law would be entitled as a
+matter of right to live in the home of her in-laws has, thereafter, been dealt
+in several judgments of this Court.
+Subsequent to Taruna Batra
+(supra),
+there have been decisions where some Courts have held that irrespective of
+whether the property belongs to the in-laws or not, so long as the daughter-
+in-law was living in the said home and no alternate accommodation had
+been made available to her by her husband, she could continue to live and
+any attempt to evict her would constitute domestic violence. On the other
+hand, there have been decisions where it has been held that if the house of
+the in-laws belongs exclusively to them, the same would not constitute a
+`shared household‟ under
+Section 2(s)
+of the DV Act. The only right of the
+woman in such cases would be to seek maintenance from the husband or
+children.
+3.     The conundrum gets more complex with the enactment of the PSC
+Act which permits senior citizens and parents to take proceedings for
+removal of their children from the house which exclusively belongs to them
+under the definition of `maintenance‟.
+4.     There are several categories of disputes which have arisen between
+parents/in-laws/children. The first category of cases are ones in which the
+parents/in-laws have developed acrimony either with the son and daughter-
+in-law jointly and/or individually resulting in the parents/in-laws seeking the
+right of exclusive residence either in the form of possession and injunction
+or seeking eviction of the son/ daughter-in-law. The second category of
+cases are also those where there is a rift between the son and the daughter-
+in-law and either in collusion with the son or otherwise, an attempt is made
+to evict the daughter-in-law. In most cases, the son i.e. the husband either
+CM (M) 1582/2018                                                     Page 2 of 40
+simply does not appear in the proceedings or refuses/fails to provide
+maintenance to the wife. Further, in some cases it is noticed that the son is in
+collusion with the parents and leaves the residence of the parents only in
+order to enable his parents to evict the daughter-in-law. In the third category
+of cases, the son has actually moved out of the residence and lives in a
+different residence. However, the daughter-in-law refuses to move from the
+residence of the in-laws due to a lack of alternate accommodation or
+otherwise.
+5.     Disputes are pending either in the criminal courts, under the
+DV Act
+,
+in the Family Courts, before the Special Tribunal constituted under the PSC
+Act, Civil Courts and Writ Courts where possession and eviction is sought.
+Though, there is no doubt that the decision in each case depends upon the
+facts and circumstances, the overarching pattern is very clear that the
+parents/in-laws rely on their rights under the PSC Act and the daughter-in-
+law relies on the
+DV Act
+. Even in proceedings which are not filed under the
+PSC Act, the same is cited to seek protection and enforcement of rights
+recognised therein, in civil and criminal proceedings.
+Facts of the present case
+6.     In the present case, the Plaintiff is the father in law and the Defendant
+no.1 is the daughter in law and the Defendant No.2 - Sh. U.K. Verma is the
+son. The suit property is A-1/156, Safdarjung Enclave, New Delhi,
+purportedly belongs to one Shri K. A. Sethi. He is the father-in-law of the
+Plaintiff i.e. Shri Vinay Verma. As per the plaint, Shri Vinay Verma and his
+family including his wife, Ritu Verma, their son Shri U.K. Verma and
+daughter Prea Vani Verma all resided in the suit property.           However,
+CM (M) 1582/2018                                                      Page 3 of 40
+acrimony occurred between the son and daughter-in-law resulting in the son
+leaving the house and allegedly staying with his grand-parents at E-1, Saket,
+New Delhi. This fact is disputed by the daughter-in-law, who states that the
+son is colluding with his parents and, in fact, lives in the same house i.e. the
+suit property.
+7.     The suit for mandatory injunction was filed by Sh. Vinay Varma,
+before the Senior Civil Judge with the following relief:
+"It is, therefore, respectfully prayed that this Hon‟ble
+           Court may be pleased to pass a decree of Mandatory
+           Perpetual Injunction, directing the first defendant to
+           vacate the home and household of the plaintiff, at A-
+           1/156, Safdarjung Enclave, New Delhi, and to restrain
+           the first defendant from entering the home or personal
+           space of the plaintiff."
+8.     In her written statement, the daughter-in-law avers that after her
+marriage on 30th January, 2015 which was solemnized in Delhi she had
+moved into the suit property. In the written statement, she does not dispute
+the contents of paragraph 12 of the Plaint that the property is owned by the
+father-in-law of the Plaintiff. She merely states in paragraph 12 that the
+Plaintiff has not placed any documents to show the ownership or the
+arrangement with the father-in-law.
+9.     According to the Plaintiff, the Defendant, therefore, admits that the
+property does not belong to her or to her father-in-law. Thus, under Order
+XII Rule 6 Civil Procedure Code ("
+CPC
+") since the ownership by Shri K. A.
+Sethi is admitted and the suit property cannot be treated as `shared
+household‟ as per the judgment in
+Taruna Batra
+(supra) under the
+DV Act
+,
+a decree on admission is prayed.
+CM (M) 1582/2018                                                      Page 4 of 40
+10.    In reply to the application under
+Order XII Rule 6 CPC
+, the daughter-
+in-law denies that she had ever admitted ownership of Shri K. A. Sethi. In
+reply to paragraphs 4 and 5 where it is specifically contended that Shri K. A.
+Sethi is the owner that she has admitted this fact in DV proceedings, she
+pleads that since the admitted case of the Plaintiff itself is that he is not the
+owner, there is no admission by her.
+11.    Under these circumstances, the application was heard by the ld. Trial
+Court and was dismissed vide order dated 20th August, 2018. The trial judge
+observed in the impugned order as under:
+"7. It is pertinent to mention herein that vide order
+           dated 18.07.2016, Ld. Predecessor had dismissed the
+           application of plaintiff U/o XXXIX Rule 1 and 2
+CPC
+after giving detailed reasoning. Thereafter, plaintiff
+           filed application u/o XII
+Rule 6 CPC
+. It seems that
+           plaintiff is trying to seek the same relief vide this
+           application U/o XII
+Rule 6 CPC
+which was denied to
+           him at the time of dismissal of his application U/o
+           XXXIX Rule 1 and 2
+CPC
+. Moreover, perusal of
+           written statement and its comparison with plaint
+           reveals that there are no clear admissions on behalf of
+           defendant no.1 to enable the plaintiff to get the suit
+           decreed U/o XII
+Rule 6 CPC
+.
+8. Defendant no.1 has merely admitted the factum of
+           her marriage with defendant no.2 and the fact that she
+           is residing in the suit premises. However, she has
+           clearly stated that she is residing in the suit premises
+           in her legal right as it is a matrimonial home of
+           defendant no.1. Moreover, plaintiff had himself
+           admitted that he is not the absolute owner of the suit
+           property, therefore, it cannot be said that defendant
+           no.1 has no right to reside in the suit property. The suit
+           property is the matrimonial house of defendant no.1
+           and she has right to reside in the matrimonial home till
+CM (M) 1582/2018                                                        Page 5 of 40
+the subsistence of marriage with defendant no.2.
+           Defendant no.2 has not appeared in Court and not put
+           forth his stand. Therefore, in this case, he cannot be
+           compelled to provide any alternate accommodation to
+           defendant no.1 to reside in it, in lieu of the matrimonial
+           home. Matrimonial home is the only place where
+           defendant no.1 can reside till the subsistence of her
+           marriage with defendant no.2. Therefore, no ground
+           for allowing application U/o XII
+Rule 6 CPC
+is made
+           out. Application of plaintiff U/o XII
+Rule 6 CPC
+stands
+           dismissed.
+9. Application of plaintiff U/o XII
+Rule 6 CPC
+r/w
+Section 151
+CPC stands disposed off accordingly."
+12.    The Trial Court came to the conclusion that similar orders were
+prayed for in the application under Order XXXIX Rules 1 and 2
+CPC
+which
+was rejected. The Trial Court held that since the suit property is the
+matrimonial house, the Defendant No.1/ Respondent No.1(daughter-in-law)
+has a right to reside in the same till the subsistence of the marriage.
+13.    The present petition has been filed challenging the impugned order
+dismissing the application under Order XII Rule 6. The submission of Mr.
+Arun Verma, ld. Senior Counsel for the Petitioner is that the application has
+been wrongly rejected as the daughter-in-law does not dispute the fact that
+the property does not belong to her husband and in fact also does not belong
+to her in-laws. Since the husband of the Defendant No.1 does not have any
+rights in the property, the application ought to have been allowed.
+According to ld. Senior Counsel, there is no triable issue in the present case.
+He relies upon the judgment of the Supreme Court in
+Taruna Batra
+(supra).
+14.    On the other hand, ld. Counsel for the Respondent Mr. Harsh Jaidka,
+submits that the son is in collusion with the parents. It has been wrongly
+CM (M) 1582/2018                                                          Page 6 of 40
+projected in the plaint that he does not live in the suit property. However, in
+reality he continues to live with the parents and, thus, the suit property
+continues to be her matrimonial home. He relies upon the judgment of the
+Supreme Court in
+Hiral P. Harsora & Ors.               v. Kusum Narottamdas
+Harsora & Ors.
+, (2017) CRI.L.J. 509 which has interpreted the
+DV Act
+.
+He further submits that similar reliefs sought in the injunction application
+have also been rejected. He relies upon the order passed in the injunction
+application wherein the Trial Court has observed as under:
+"10. In the present case,, it is undisputed that the
+           defendant no.1 after her marriage to the defendant
+           no.2 resided at the suit property along with her
+           husband and his parents and it is her matrimonial
+           home, where she is still residing, though her husband
+           has temporarily shifted with his grandparents,
+           admittedly to avoid her company. It is also undisputed
+           that in view of "
+S.R. Batra Vs. Taruna Batra and
+           Neetu Mittal
+, 136 (2007) DLT 1 (SC) =I (2007) SLT
+           1=1(2007) DMC 1(SC)=2007(3) SCC 169, the suit
+           property is not the shared household of the defendant
+           no.1 as her husband has no right, title or interest in the
+           same.
+11. Having, said so, it is noteworthy that even the
+           plaintiff has no right, title or share in the suit property
+           which is owned by father-in-law of the plaintiff and the
+           latter is residing therein gratuitiously along with his
+           family members, merely as permissive user thereof.
+           Further, it is not the case of the plaintiff that he has
+           been asked to vacate the suit property by his father-in-
+           law for any reason. Moreover, the husband of the
+           defendant no.1 is stated to have temporarily shifted to
+           his grandparents' house. In such circumstances, the
+           defendant no. 1, his wife has no place to go and her
+           matrimonial home, where she was residing with her
+           husband after her marriage appears to be the most
+CM (M) 1582/2018                                                         Page 7 of 40
+suitable residence for her till the time her husband
+           provides her with an alternative accommodation or
+           allowance for the same. As such, plaintiff has failed to
+           establish any prima facie legal case in his favour to
+           remove his daughter-in-law from the suit premises.
+12. As regards the ingredient of irreparable loss, the
+           plaintiff has alleged that due to erratic timings of
+           defendant no.1 as well as persistent threats by her, the
+           plaintiff feels harassed and also feels that her safety
+           and security may be at risk, for which he may be held
+           responsible. In my considered opinion, defendant no.1
+           being a lady cannot be rendered roofless at the
+           instance of her father-in-law who apprehends false
+           complaints at her behest or feels indirectly responsible
+           for the safety and security of his daughter-in-law if she
+           is residing at her matrimonial house. On the contrary,
+           in the given facts and circumstances, when the
+           defendant no.1's husband has shifted out, and she has
+           not     been     provided     with    any     alternative
+           accommodation, irreparable loss in terms of safety and
+           security, which cannot be compensated in terms of
+           money shall be caused to her in case she is removed
+           therefrom. Similarly, balance of convenience also tilts
+           in favour of the plaintiff who requires the safety and
+           security of her matrimonial home till the final disposal
+           of the case on merits.
+13. In view of the aforesaid discussion, I conclude that
+           the plaintiff has failed to establish any of the three
+           ingredients required for granting relief of interim
+           mandatory injunction as expected in Dorab Cawasji
+           Warden's case (supra).
+Accordingly, application U/o XXXIX Rule 1 and 2
+CPC
+stands dismissed."
+15.    Mr. Jaidka, ld. counsel also submits that in the suit, issues have been
+framed and evidence by way of affidavit has also been filed. The case is at
+CM (M) 1582/2018                                                       Page 8 of 40
+the stage of cross-examination of the Plaintiff. Thus, he submits that this is
+not a fit case for passing of decree under
+Order XII Rule 6 CPC
+.
+Analysis and Findings
+16.    The Court has considered the rival submissions of the parties. Before
+coming to the merits of the dispute, it is necessary to review the various
+decisions dealing with the two statutes at hand.
+Supreme Court judgments
+17.    The lead decision which is also relied upon by the Petitioner is
+Taruna Batra
+(supra), wherein the Supreme Court observed as under:
+"24. Learned counsel for the respondent Smt. Taruna
+           Batra stated that the definition of shared household
+           includes a household where the person aggrieved lives
+           or at any stage had lived in a domestic relationship. He
+           contended that since admittedly the respondent had
+           lived in the property in question in the past, hence the
+           said property is her shared household.
+25. We cannot agree with this submission.
+26.     If the aforesaid submission is accepted, then it
+           will mean that wherever the husband and wife lived
+           together in the past that property becomes a shared
+           household. It is quite possible that the husband and
+           wife may have lived together in dozens of places e.g.
+           with the husband's father, husband's paternal grand
+           parents, his maternal parents, uncles, aunts, brothers,
+           sisters, nephews, nieces, etc. If the interpretation
+           canvassed by the learned counsel for the respondent is
+           accepted, all these houses of the husband's relatives
+           will be shared households and the wife can well insist
+           in living in the all these houses of her husband's
+           relatives merely because she had stayed with her
+           husband for some time in those houses in the past.
+           Such a view would lead to chaos and would be absurd.
+CM (M) 1582/2018                                                      Page 9 of 40
+27.     It is well settled that any interpretation which
+           leads to absurdity should not be accepted.
+28. Learned counsel for the respondent Smt Taruna
+           Batra has relied upon
+Section 19(1)(f)
+of the Act and
+           claimed that she should be given an alternative
+           accommodation. In our opinion, the claim for
+           alternative accommodation can only be made against
+           the husband and not against the husband's (sic) in-laws
+           or other relatives.
+29.    As regards
+Section 17(1)
+of the Act, in our
+           opinion the wife is only entitled to claim a right to
+           residence in a shared household, and a shared
+           household would only mean the house belonging to or
+           taken on rent by the husband, or the house which
+           belongs to the joint family of which the husband is a
+           member. The property in question in the present case
+           neither belongs to Amit Batra nor was it taken on rent
+           by him nor is it a joint family property of which the
+           husband Amit Batra is a member. It is the exclusive
+           property of appellant No.2, mother of Amit Batra.
+           Hence it cannot be called a "shared household".
+30. No doubt, the definition of "shared household" in
+Section 2(s)
+of the Act is not very happily worded, and
+           appears to be the result of clumsy drafting, but we have
+           to give it an interpretation which is sensible and which
+           does not lead to chaos in society."
+The above judgment was rendered by the Supreme Court in 2007.
+18.
+In
+Vimalben Ajitbhai Patel and Ors. vs Vatslabeen             Ashokbhai
+Patel and Ors.
+(decided on 14th March, 2008) AIR 2008 SC 2675, the
+Supreme Court considered a petition filed by the in-laws where it noticed
+that both the in-laws were very old and the daughter in law was permitted to
+pursue her remedies against her husband. The Court held as under:
+CM (M) 1582/2018                                                       Page 10 of 40
+"24.
+The Domestic Violence Act
+provides for a higher
+           right in favour of a wife. She not only acquires a right
+           to be maintained but also there under acquires a right
+           of residence. The right of residence is a higher right.
+           The said right as per the legislation extends to joint
+           properties in which the husband has a share.
+25.
+Interpreting the provisions of the Domestic
+           Violence Act this Court in
+S.R. Batra v. Taruna Batra
+(2007)3SCC169 held that even a wife could not claim a
+           right of residence in the property belonging to her
+           mother-in-law, stating:
+17. There is no such law in India like the British
+                   Matrimonial Homes Act, 1967, and in any case,
+                   the rights which may be available under any law
+                   can only be as against the husband and not
+                   against the father-in- law or motherin-law.
+18. Here, the house in question belongs to the
+                   mother- in-law of Smt Taruna Batra and it does
+                   not belong to her husband Amit Batra. Hence,
+                   Smt Taruna Batra cannot claim any right to live
+                   in the said house.
+19. Appellant 2, the mother-in-law of Smt
+                   Taruna Batra has stated that she had taken a
+                   loan for acquiring the house and it is not a joint
+                   family property. We see no reason to disbelieve
+                   this statement.
+....
+28. The said orders might have been passed only on
+           consideration that Sonalben is a harassed lady, but the
+           fact that the appellant is also a much harassed lady
+           was lost sight of. She has more sinned than sinning.
+Appellant and her husband are old. They suffer from
+           various diseases. They have been able to show before
+           the Court that they had to go to the United States of
+           America for obtaining medical treatment. They, we
+CM (M) 1582/2018                                                        Page 11 of 40
+would assume, have violated the conditions of grant of
+           bail but the consequence therefore must be kept
+           confined to the four corners of the statutes.
+....
+43. Having regard to the facts and circumstances of
+           this Court we are of the opinion that the interest of
+           justice shall be subserved if the impugned judgments
+           are set aside with the following directions:
+i) The property in question shall be released from
+           attachment.
+ii) The 3 rd respondent shall refund the sum of Rs. 1
+           lakhs to the respondent with interest @ 6% per annum.
+iii) The amount of Rs. 4 lakhs deposited by the 1st
+           respondent shall be refunded to him immediately with
+           interest accrued thereon.
+iv) The 3 rd respondent should be entitled to pursue
+           her remedies against her husband in accordance with
+           law.
+v) The Learned Magistrate before whom the cases filed
+           by the 3d respondent are pending should bestow
+           serious consideration of disposing of the same, as
+           expeditiously as possible.
+vi) The 3 rd respondent shall bear the costs of the
+           appellant which is quantified at Rs. 50,000/- (Rupees
+           fifty thousand) consolidated.
+44. The appeals are allowed with the aforesaid
+           directions."
+19.    Recently, In
+Hiral P. Harsora & Ors.        v. Kusum Narottamdas
+Harsora & Ors.
+, (supra), the Supreme Court analyzed the purpose of the
+DV Act
+including the Statement of Objects and Reasons. The Supreme
+Court struck down
+Section 2 (q)
+of the DV Act in view of the definition of
+„shared household‟ in
+Section 2 (s)
+and held that
+Section 2 (q)
+was
+restrictive in nature. The Supreme Court considered the scheme of the DV
+CM (M) 1582/2018                                                    Page 12 of 40
+Act and in respect of `shared household‟ observed as under:
+"18. It will be noticed that the definition of "domestic
+           relationship" contained in
+Section 2(f)
+is a very wide
+           one. It is a relationship between persons who live or
+           have lived together in a shared household and are
+           related in any one of four ways - blood, marriage or a
+           relationship in the nature of marriage, adoption, or
+           family members of a joint family. A reading of these
+           definitions makes it clear that domestic relationships
+           involve persons belonging to both sexes and includes
+           persons related by blood or marriage. This necessarily
+           brings within such domestic relationships male as well
+           as female in-laws, quite apart from male and female
+           members of a family related by blood. Equally, a
+           shared household includes a household which belongs
+           to a joint family of which the respondent is a member.
+           As has been rightly pointed out by Ms. Arora, even
+           before the 2005 Act was brought into force on
+           26.10.2006, the
+Hindu Succession Act, 1956
+was
+           amended, by which
+Section 6
+was amended, with effect
+           from 9.9.2005, to make females coparceners of a joint
+           Hindu family and so have a right by birth in the
+           property of such joint family. This being the case, when
+           a member of a joint Hindu family will now include a
+           female coparcener as well, the restricted definition
+           contained in
+Section 2(q)
+has necessarily to be given a
+           relook, given that the definition of „shared household‟
+           in
+Section 2(s)
+of the Act would include a household
+           which may belong to a joint family of which the
+           respondent is a member. The aggrieved person can
+           therefore make, after 2006, her sister, for example, a
+           respondent, if the
+Hindu Succession Act
+amendment is
+           to be looked at. But such is not the case under
+Section
+           2(q)
+of the 2005 Act, as the main part of
+Section 2(q)
+continues to read "adult male person", while
+Section
+           2(s)
+would include such female coparcener as a
+           respondent, being a member of a joint family. This is
+           one glaring anomaly which we have to address in the
+CM (M) 1582/2018                                                      Page 13 of 40
+course of our judgment."
+Thus, the Supreme Court held that a household of a joint family would be a
+„shared household‟. But, the question as to the title of the in-laws to the suit
+property did not arise.
+Delhi High Court judgments
+20.    Post the judgment in
+Taruna Batra
+(supra) and Vimal Ben (supra)
+rendered by the Supreme Court there have been various decisions rendered
+by the Delhi High Court.
+21.
+In
+Neetu Mittal v. Kanta Mittal & Ors.
+, 2008 (106) DRJ 623, a Ld.
+Single Judge held that the parents/ in-laws have a right to turn the son and
+daughter-in-law out of the house if the property belongs to them. Only if it
+is an ancestral house, the son can enforce partition. The right of the woman
+to seek maintenance is only against the husband or her children but she
+cannot thrust herself against the parents of the husband. The Court observed
+as under:-
+"8. As observed by the Supreme Court, 'Matrimonial
+             home' is not defined in any of the statutory provisions.
+             However, phrase "Matrimonial home" refers to the
+             place which is dwelling house used by the parties, i.e.,
+             husband and wife or a place which was being used by
+             husband and wife as the family residence. Matrimonial
+             home is not necessarily the house of the parents of the
+             husband. In fact the parents of the husband may allow
+             him to live with them so long as their relations with the
+             son (husband) are cordial and full of love and
+             affection. But if the relations of the son or daughter-in-
+             law with the parents of husband turn sour and are not
+             cordial, the parents can turn them out of their house.
+             The son can live in the house of parents as a matter of
+             right only if the house is an ancestral house in which
+             the son has a share and he can enforce the partition.
+CM (M) 1582/2018                                                          Page 14 of 40
+Where the house is self-acquired house of the parents,
+           son, whether married or unmarried, has no legal right
+           to live in that house and he can live in that house only
+           at the mercy of his parents upto the time the parents
+           allow. Merely because the parents have allowed him to
+           live in the house so long as his relations with the
+           parents were cordial, does not mean that the parents
+           have to bear his burden throughout the life.
+9. Once a person gains majority, he becomes
+           independent and parents have no liability to maintain
+           him. It is different thing that out of love and affection,
+           the parents may continue to support him even when he
+           becomes financially independent or continue to help
+           him even after his marriage. This help and support of
+           parents to the son is available only out of their love
+           and affection and out of mutual trust and
+           understanding. There is no legal liability on the
+           parents to continue to support a dis-obedient son or a
+           son which becomes liability on them or a son who dis-
+           respects or dis-regards them or becomes a source of
+           nuisance for them or trouble for them. The parents can
+           always forsake such a son and daughter-in-law and tell
+           them to leave their house and lead their own life and
+           let them live in peace. It is because of love, affection,
+           mutual trust, respect and support that members of a
+           joint family gain from each other that the parents keep
+           supporting their sons and families of sons. In turn, the
+           parents get equal support, love, affection and care.
+           Where this mutual relationship of love, care, trust and
+           support goes, the parents cannot be forced to keep a
+           son or daughter in law with them nor there is any
+           statutory provision which compels parents to suffer
+           because of the acts of residence and his son or
+           daughter in law. A woman has her rights of
+           maintenance against her husband or sons/daughters.
+           She can assert her rights, if any, against the property
+           of her husband, but she cannot thrust herself against
+           the parents of her husband, nor can claim a right to
+CM (M) 1582/2018                                                        Page 15 of 40
+live in the house of parents of her husband, against
+           their consult and wishes."
+22.
+In
+Sardar Malkiat Singh v. Kanwaljit Kaur & Ors.
+, 2010 (116) DRJ
+295, the Ld. Single Judge held that the father-in-law has no obligation to
+maintain his daughter-in-law.
+In this judgment, the ld. Single Judge,
+following
+Taruna Batra
+(supra), observed in paragraph 17 as under:
+"...... The appellant is the sole and absolute owner of
+           the suit property and at best the possession of the
+           respondent No.1 during the subsistence of her
+           marriage with the appellant's son could be said to be
+           permissive in nature. This by itself cannot entitle the
+           respondent No.1 to claim a right of residence against
+           her father-in-law, who has no legal obligation to
+           maintain his daughter-in-law during the lifetime of her
+           husband, more so when the respondent No.1 has
+           parted the company with her husband and is
+           admittedly residing in Chandigarh since the year
+           1992."
+23.
+In
+Shumita Didi Sandhu v. Sanjay Singh Sandhu & Ors.
+(2010) 174
+DLT 79(DB), the ld. Division Bench was considering a judgment of the
+Single Judge which had followed
+Taruna Batra
+(supra) and held that the in-
+laws home cannot be a „shared household‟ or the „matrimonial home‟ and
+hence the daughter in law has no legal right to stay in the house belonging to
+her parents in law.
+The ld. Division then approved the view of the Single
+Judge and followed
+Taruna Batra
+(supra). It concluded that the right of
+residence of the wife does not mean the right to reside in a particular
+property but would mean the right to reside in a commensurate property.
+The right of residence is not the same thing as a right to reside in a particular
+property which the appellant refers to as her 'matrimonial home'. The Single
+CM (M) 1582/2018                                                      Page 16 of 40
+Judge‟s judgment was upheld and it was observed that the learned single
+Judge had amply protected the plaintiff by directing that she would not be
+evicted from the premises in question without following the due process of
+law.
+24. In Smt Preeti Satija v.Smt. Raj Kumari & Anr., 2014 SCC Online Del
+188, however, another ld. Division Bench of the Delhi High Court held that
+even a tenanted property of the in-laws where the husband has no share,
+right, interest or title would constitute „shared household‟. The ld. Division
+Bench held that the right of residence would exist irrespective of whether
+the house is owned by the in-laws or is merely tenanted. Even if they are
+tenants, the Court observed that the
+DV Act
+is a secular legislation. The
+Court also considered the judgment in
+Taruna Batra
+(supra) and finally
+concluded as under:
+"20. Crucially, Parliament's intention by the 2005 Act
+           was to secure the rights of aggrieved persons in the
+           shared household, which could be tenanted by the
+           Respondent (including relative of the husband) or in
+           respect of which the Respondent had jointly or singly
+           any right, title, interest, or "equity". For instance, a
+           widow (or as in this case, a daughter in law, estranged
+           from her husband) living with a mother-in- law, in
+           premises owned by the latter, falls within a "domestic
+           relationship". The obligation not to disturb the right to
+           residence in the shared household would continue even
+           if the mother- in-law does not have any right, title or
+           interest, but is a tenant, or entitled to "equity" (such as
+           an equitable right to possession) in those premises.
+           This is because the premises would be a "shared
+           household".       The     daughter-in-law,      in    these
+           circumstances is entitled to protection from
+           dispossession, though her husband never had any
+           ownership rights in the premises. The right is not
+CM (M) 1582/2018                                                         Page 17 of 40
+dependent on title, but the mere factum of residence.
+           Thus, even if the mother-in-law is a tenant, then, on
+           that ground, or someone having equity, she can be
+           injuncted from dispossessing the daughter in law. In
+           case the mother in law is the owner, the obligation to
+           allow the daughter in law to live in the shared
+           household, as long as the matrimonial relationship
+           between her and the husband subsists, continues. The
+           only exception is the proviso to 19(1)(b), which
+           exempts women from being directed to remove
+           themselves from the shared household. No such
+           exception has been carved out for the other reliefs
+           under
+Section 19
+, especially in respect of protection
+           orders. Had the Parliament intended to create another
+           exception in favor of women, it would have done so.
+           This omission was deliberate and in consonance with
+           the rest of the scheme of the Act. There can be other
+           cases of domestic relationships such as an orphaned
+           sister, or widowed mother, living in her brother's or
+           son's house. Both are covered by the definition of
+           domestic relationship, as the brother is clearly a
+           Respondent. In such a case too, if the widowed mother
+           or sister is threatened with dispossession, they can
+           secure reliefs under the Act, notwithstanding exclusive
+           ownership of the property by the son or brother. Thus,
+           excluding the right of residence against properties
+           where the husband has no right, share, interest or title,
+           would severely curtail the extent of the usefulness of
+           the right to residence.
+21. The other aspect, which this Court wishes to
+           highlight, is that the 2005 Act applies to all
+           communities, and was enacted "to provide more
+           effective protection of the rights of women guaranteed
+           under the Constitution who are victims of violence of
+           any kind occurring within the family". The right to
+           residence and creation of mechanism to enforce is a
+           ground breaking measure, which Courts should be
+           alive to. Restricting the scope of the remedies,
+CM (M) 1582/2018                                                       Page 18 of 40
+including in respect of the right to reside in shared
+           household, would undermine the purpose of this
+           enactment. It is, therefore, contrary to the scheme and
+           the objects of the Act, as also the unambiguous text of
+Section 2(s)
+, to restrict the application of the 2005 Act
+           to only such cases where the husband alone owns some
+           property or has a share in it. Crucially, the mother-in-
+           law (or a father-in-law, or for that matter, "a relative
+           of the husband") can also be a Respondent in the
+           proceedings under the 2005 Act and remedies
+           available under the same Act would necessarily need to
+           be enforced against them."
+The Court thus held that under circumstances such as these, the decree under
+Order XII Rule 6 CPC
+would not be liable to be passed and that irrespective
+of status of the in-laws qua the house i.e. whether they are owners, tenants,
+the right of residence for the daughter-in-law would still continue.
+25.    Thereafter, in
+Navneet Arora v. Surender Kaur and Ors
+, 2014 SCC
+Online Del 7617, the ld. Division Bench considered
+Taruna Batra
+(supra)
+and Preeti Satija (supra) and recognized the daughter-in-law‟s right to
+residence.
+This judgment distinguished
+Taruna Batra
+(supra) by holding
+that Taruna Batra would be applicable only in a fact situation where she has
+lived with the husband separately but not as a member of the joint family. It
+was held that the
+DV Act
+gives statutory protection to the right of the wife
+for a roof. Since the parties were living together with their parents and were
+conducting joint business, the property would be „shared household‟. The
+observations of the Division Bench are as under:
+"106.
+The Protection of Women from Domestic
+           Violence Act, 2005
+gives statutory recognition to the
+           salutary principle that was sought to be advanced
+           through judge made laws in the vacuum of legislative
+CM (M) 1582/2018                                                       Page 19 of 40
+prescription. The ideological framework which
+           underscores the enactment is that a husband is bound
+           to provide his wife a roof over her head and that she
+           has a right to live in that house without the fear of
+           violence.
+...........................
+118. Reverting back to the facts of the instant case,
+           before Navneet Arora married Gurpreet Singh, he was
+           living as one family with his parents Harpal Singh and
+           Surinder Kaur. His brother Raman Pal Singh and his
+           sister Sherry were also residing in the same house. The
+           kitchen was one. The two sons and their father were
+           joint in business and the kitchen used to be run from
+           the income of the joint business. They were all living
+           on the ground floor. Sherry got married and left the
+           house. Navneet married Gurpreet. Raman Pal married
+           Neetu. The two daughter-in-laws joined the company
+           not only of their husbands but even of their in-laws in
+           the same joint family house i.e. the ground floor of B-
+           44, Vishal Enclave, Rajouri Garden, New Delhi. All
+           lived in commensality. Navneet never left the joint
+           family house. She was residing in the house when her
+           husband died. She continued to reside there even till
+           today. Under the circumstances her right to residence
+           in the suit property cannot be denied, and as regards
+           issues of title, we have already observed that the right
+           of residence under the
+Protection of Women from
+           Domestic Violence Act, 2005
+, the same would have no
+           bearing. She may enforce it in civil proceedings. But
+           her right of residence in the shared household cannot
+           be negated."
+The ld. Division Bench in Navneet Arora distinguishes the judgment of the
+Supreme Court in
+Taruna Batra
+(supra) in the following manner.
+"40. The submission of the learned Senior Counsel
+           appearing on behalf of the Ms. Taruna Batra, as noted
+           in paragraph 24 of the judgment, that merely because
+CM (M) 1582/2018                                                      Page 20 of 40
+Ms. Taruna Batra had lived in the property in question
+           in the past, it fell within the ambit of „shared
+           household' was rejected by the Supreme Court, which
+           was of the considered opinion that such a view would
+           lead to chaos in the society since the wife may insist on
+           claiming „right of residence' in virtually any property
+           in which she may have resided together with her
+           husband in the past.
+41. Furthermore, the Supreme Court also observed
+           that in view of the admitted fact that Ms. Taruna Batra
+           had shifted to the residence of her parents owing to
+           matrimonial disputes with her husband and was thus
+           no longer in possession of the said portion of suit
+           property, the question of protecting her possession
+           could not arise. The very foundation of her claim for
+           injunction restraining the in-laws from dispossessing
+           her was thus wholly misconceived.
+42.
+In light of the foregoing discussion, we are of the
+           view that
+Taruna Batra
+'s case (Supra) is only an
+           authority for the proposition that a wife is precluded
+           under the law from claiming „right of residence' in a
+           premises, owned by the relatives of the husband,
+           wherein she has lived with her husband separately, but
+           not as a member of the „joint family' along with the
+           relatives of the husband who own the premises.
+43. However, in the later eventuality, if a couple live as
+           members of „joint family' in a domestic relationship
+           with the relatives of the husband in a premises owned
+           by such relatives of the husband, statutory prescription
+           would indeed enable the wife to claim „right of
+           residence' since it would fall within the realm of
+           „shared household' as contemplated under
+Section 2(s)
+of the Act irrespective of whether she or her husband
+           has any right, title or interest in the "shared
+           household‟.
+CM (M) 1582/2018                                                        Page 21 of 40
+..............................
+48. We are of the view that the plain language of the
+           Act viz.
+Section 2(s)
+read in conjunction with
+Section
+           19 (1)(a)
+is unambiguous and enables an aggrieved
+           person to claim „right of residence' in a household
+           even though the aggrieved person or the respondent
+           may have no right, title or interest in the said
+           household, if the aggrieved person and the respondent
+           have lived therein by establishing a domestic
+           relationship with the joint family of which the
+           respondent is a member and to which such household
+           belongs."
+Thus, the Court recognized the daughter-in-law‟s rights to residence.
+In an
+SLP against the above judgement titled
+Surender Kaur v. Navneet Arora
+(SLP
+no. 14416/2015 decided on 4th July, 2016), it was recorded that the
+matter has been settled between the parties and the SLP was dismissed as
+withdrawn.
+26.
+In
+Ekta Arora v. Ajay Arora & Anr.
+, AIR 2015 Del 180, the mother-
+in-law was held to be the absolute owner of the property and hence the
+property could not be a „shared household‟. The Court held that the property
+belongs to the mother-in-law and accordingly, observed as under:
+"21. Considering the facts noted above, it is clear that
+           during the lifetime of respondent No.2, she is the
+           absolute owner of the property in question and till
+           then, said property cannot be held as a „shared
+           household‟.
+22. In view of the above discussion and on the basis of
+           the „Will‟, the petitioner has no right in the property
+           during the lifetime of her mother- in-law, i.e.,
+           respondent No.2 herein. The property will devolve
+           upon respondent No.1 only after her death. Before that,
+           the petitioner cannot claim any right or title in the
+CM (M) 1582/2018                                                      Page 22 of 40
+property. Therefore, I am of the considered opinion
+           that the order dated 25.08.2008 passed by the learned
+           ASJ, whereby the order on residence dated 29.09.2007
+           passed by the learned Trial Court was set aside, does
+           not suffer from any illegality or perversity."
+27.
+In
+Shilpa Tandon v. Harish Chand Tandon & Anr.
+, [in RFA (OS)
+113/2015 decided on 15th November, 2016]            - the Court followed the
+judgment in
+Navneet Arora
+(supra) and held that the daughter in law had a
+right of residence in the „shared household‟, though the property belonged to
+the father-in-law.    However, the Court also observed that a workable
+solution needs to be found in order to ensure that everyday acrimony
+between the in-laws and the daughter-in-law does not continue. Thus, the
+Court modified the impugned decree and order and directed as under:
+"12. In light of its findings, the Division Bench held
+           that since Navneet Kaur stayed with her husband and
+           his parents in commensality sharing a common kitchen,
+           that is, as a joint family, in the ground floor of B-44,
+           Vishal Enclave, Rajouri Garden, New Delhi, she had a
+           right to reside in such „shared household‟ under the
+Protection of Women from Domestic Violence Act,
+           2005
+.
+13. In the instant case the pleading by the first
+           respondent in the plaint, in paragraph 3, is an
+           admission that after the appellant and respondent No.2
+           were married they shared a common kitchen with him
+           on the ground floor; though they slept on the
+           barsati/first floor. That is to say, the shared residence
+           would be the barsati/first floor of his property. As per
+           his pleadings they shifted their kitchen on the
+           barsati/first floor. Therefore, the barsati/first floor of
+           the property owned by the first respondent would be
+           the shared residence and the appellant would have a
+           right of residence therein notwithstanding said fact.
+CM (M) 1582/2018                                                        Page 23 of 40
+14. The impugned judgment is overruled.
+15. But that is not the end of the matter.
+16. Workable solutions have been found out by Courts
+           where the estranged daughter-in-law and her in-laws
+           are under threat of violence from each other.
+           ............................
+27. We dispose of the appeal modifying the impugned
+           decree and dispose of the suit filed by the first
+           respondent; decreeing that the appellant would vacate
+           the barsati/first floor of property bearing Municipal
+           No.D-3, Green Park Extension, New Delhi on or
+           before the midnight of December 31, 2016, provided
+           the first respondent deposits in this Court, under
+           intimation to appellant‟s counsel ₹1,20,000/- being
+           advance payment for four months commencing from
+           the month of January, 2017. Thereafter, advance
+           payment for the month of May, 2017 and ensuing
+           months would be deposited in this Court on or before
+           the 20th day of each preceding month with intimation to
+           the appellant‟s counsel - with direction to the Registry
+           that within two days of the deposit the deposited money
+           would be paid over to the appellant by means of a
+           cheque without any application filed by her. Learned
+           counsel for the appellant would identify the appellant
+           before the concerned officer of the Registry when the
+           cheque would be handed over to her. We are
+           constrained to make the payment a little onerous and
+           cumbersome because there is complete lack of
+           communication between the appellant and the
+           respondent No.1. If however, the appellant were to
+           provide her bank account to learned counsel for
+           respondent No.1 within a period of four weeks from
+           today, the respondent No.1 would transfer the money
+           by RTGS i.e. instructing his banker to transmit the
+           money to the account of the appellant. The first
+           respondent would be bound by the statement made by
+CM (M) 1582/2018                                                      Page 24 of 40
+his counsel regarding sale of his house and the said
+           statement would form part of the decree including the
+           undertaking as per para 25 above."
+The ld. Division Bench of the Delhi High Court followed
+Navneet Arora
+(supra) and held that since the daughter-in-law had a shared kitchen she
+would have a right of residence as a „shared household‟.
+28.
+In
+Anita Barreja v. Jagdish Lal Barreja [CM(M) No.
+1043/2016
+decided on 26.09.2017], a Ld. Single Judge of the Delhi High Court was
+concerned with the PSC Act and an order passed by the maintenance
+tribunal under the said Act and upheld the order by which the tribunal had
+directed the daughter-in-law to vacate the property.
+29.     In Darshna v.Govt. of NCT of Delhi & Ors.,[ LPA 537/2018 decided
+on 03rd
+October, 2018] and Sunny Paul v. State of NCT of Delhi and
+Ors.253
+(2018) DLT 410, the ld. Division Benches of this Court again
+considered the provisions of the PSC Act. In both these cases, the rights of
+the in-laws to seek eviction of the son or daughter-in-law from their own
+property was upheld on an interpretation of the PSC Act and the Rules of
+2017 enacted in Delhi under the said Act. The ld. Division Bench of this
+Court considered a case arising under the PSC Act wherein the District
+Magistrate, in proceedings arising under the said Act, had directed the
+eviction of the daughter-in-law. The writ petition was dismissed and the ld.
+Division Bench was considering the LPA. In
+the said judgment
+, the ld.
+Division Bench held that in view of the Rule 22(3)(1)(i) of Delhi
+Maintenance and Welfare of Parents and Senior Citizens (Amendment)
+Rules, 2017, the son and the daughter-in-law could not claim any right in
+CM (M) 1582/2018                                                   Page 25 of 40
+the property. The ld. Division Bench observed as under:
+"8. On perusal of Rule 22(3)(1)(i) as incorporated in
+           the Delhi Maintenance and Welfare of Parents and
+           Senior Citizens Rules 2017 and noting the fact that the
+           property in question had devolved on him by way of a
+           registered Will executed by his mother, surely it
+           follows that Dhani Ram‟s son or for that matter his
+           daughter-in-law can claim no right in the same. In any
+           case, under the Rules, a senior citizen / parent can seek
+           eviction of son, daughter or legal heir from an
+           ancestral or self-acquired property, the vires of which
+           Rule has not been challenged by the appellant in these
+           proceedings nor before the learned Single Judge. As
+           long as the said Rules exist, the order of the Tribunal
+           giving impugned directions cannot be faulted.
+9.
+In so far as the plea of the appellant before the
+           learned Single Judge that Rule 22(3)(1)(i) applies to
+           son, daughter and legal heir and not to the daughter-
+           in-law is concerned, the same was also rejected by the
+           learned Single Judge by holding that the said Rule
+           cannot be interpreted in a restrictive manner; he relied
+           upon the Judgment of the Division Bench in the case of
+           the
+Shadab Khairi and Anr. V. The State and Ors
+,
+           LPA 783/2017 decided on 22nd February, 2018
+           wherein it was held that the Act, being a welfare
+           legislation was required to be interpreted liberally. We
+           concur with the said conclusion....."
+Finally, the ld. Division Bench observed as under:
+"13. Keeping in view the objective of the Act and it is
+           high-time that senior citizens / parents are allowed to
+           live in peace and tranquility, the orders passed by the
+           Maintenance Tribunal and the learned Single Judge
+           cannot be faulted. The Appeal is dismissed."
+Thus, the ld. Division Bench upheld the rights of the parents/in-laws to evict
+CM (M) 1582/2018                                                       Page 26 of 40
+the children under Rule 22(3)(1)(i).
+30.    Recently, two ld. Single Judges in
+Dr. Rachna Khanna Singh v.
+Santosh S. P. Singh & Ors.
+(2019) SCC OnLine Del 8696 and Shachi
+Mahajan      v.    Santosh Mahajan, 257 (2019) DLT 152 considered the
+provisions of the
+DV Act
+.
+In
+Dr. Rachna Khana Singh
+(supra) the facts
+involved the grandson and grand daughter-in-law through the daughter of
+Ms. Santosh S. P. Singh. The question was whether the grand daughter-in-
+law could claim the right of residence.
+Following Taruna Batra
+(supra) it
+was held that the property is not a „shared household‟. However, the Court
+permitted the daughter-in-law to avail of her remedies under the
+DV Act
+.
+The observations of the Ld. Single Judge are as under:
+"19. A catena of verdicts has been relied upon on
+           behalf of the appellant in support of the contentions
+           that there being collusion between her spouse and the
+           plaintiff/ respondent no.1, she cannot be deprived of
+           her rights to reside in the premises in suit which form
+           her matrimonial home and fall within the category of
+           "shared household" in terms of
+Section 2 (s)
+of the
+           Protection of Women from Domestic Violence Act,
+           2005.
+20. Reliance has been placed on behalf of the appellant
+           on the verdict of this Court in
+Kavita Gambhir vs. Hari
+           Chand Gambhir
+162 (2009) DLT 459, on the verdict of
+           the Hon'ble High Court of Bombay in Sarika
+           Mahendra Sureka vs. Mahendra 2016 (
+6) ABR 161,
+           Eveneet Singh vs. Prashant Chaudhri
+177 (2011) DLT
+           124, on the verdict of the Hon'ble Supreme Court in
+B.P. Achala Anand vs. S. Appi Reddy
+(2005) 3SCC 313
+           : AIR 2005 SC 986 and on the verdict of the Hon'ble
+           High Court of Allahabad in
+Neetu Rana vs. State of
+           U.P.
+2016 (2) Appellate Court Record 1797.
+CM (M) 1582/2018                                                     Page 27 of 40
+21. Reliance was also placed on behalf of the appellant
+           on the verdict of this Court in
+Shilpa Tandon vs.
+           Harish Chand Tandon
+in RFA (OS) 113/2015,
+Navneet
+           Arora vs. Surender Kaur
+in FAO (OS) 196/2014.
+22. Reliance was also placed on behalf of the appellant
+           on the verdict of this Court in
+Smt. Preeti Satija vs.
+           Smt. Raj Kumari
+in CM APP.4236/2012, 4237/2012,
+           5451/2013 decided on 15.01.2014, on the verdict of the
+           Hon'ble High Court of Bombay in
+Beryl Murzello vs.
+           Ramchandra Bhairo Mane
+2007 (4) Bom CR 397, on
+           the verdict of the Hon'ble Supreme Court in
+S.M. Asif
+           vs. Virender Kumar Bajaj
+in Civil Appeal No.6106-
+           6108/2015 to contend that the decree under
+Order 12
+           Rule 6 of the CPC
+which is a discretionary relief ought
+           not to have been granted by the learned trial Court in
+           favour of the respondent no.1 and the same ought not
+           to have been upheld by the First Appellate Court in as
+           much as all the issues which have been raised were
+           required to be gone into at the time of trial and
+           adjudication in relation thereto was essential.
+ANALYSIS
+23. On a consideration of the observations of the
+           Hon'ble Supreme Court in
+S.R. Batra vs. Taruna Batra
+(2007) 3 SCC 169, on the verdict of this Court in
+Eveneet Singh vs. Prashant Chaudhri
+177 (2011) DLT
+           124, on the verdict of the Hon'ble High Court of
+           Bombay in
+Rama Rajesh Tiwari vs. Rajesh Dinanath
+           Tiwari
+in Writ Petition No.10696/2017, it being
+           apparent through the pleadings on the record that the
+           premises in suit do not fall within the category of a
+           shared household in terms of
+Section 2 (s)
+of the
+           Protection of Women from Domestic Violence Act,
+           2005, the substantial questions of law sought to be
+           urged by the appellant as referred to in para 18
+           hereinabove do not arise for consideration in the
+           instant case in as much as the rights of the appellant
+CM (M) 1582/2018                                                     Page 28 of 40
+and her daughter to live in the premises belonging to
+           the respondent no.1 i.e. the plaintiff did not exist
+           beyond the mere licence given to the parents of Aveka
+           to live in the same, which has already been terminated.
+24. However, as rightly observed by the First Appellate
+           Court, the appellant being the wife of the defendant
+           no.2/respondent no.2 herein is entitled to live in
+           accommodation commensurate to that in which she
+           lives presently with her child for which she may avail
+           of appropriate civil legal remedy in relation thereto or
+           under the
+Protection of Women from Domestic
+           Violence Act, 2005
+for which there is no embargo."
+Thus, the ld. Single Judge was of the opinion that the premises in the case
+would not constitute a „shared household‟ but the Court gave her permission
+to avail of proceedings for alternate accommodation.
+Dr. Rachna Khanna
+Singh
+'s(supra) case arose out of a civil suit for possession.
+31. In Shachi Mahajan (supra) the ld. Single Judge of this Court held that
+documents on record showed that the daughter-in-law was sharing the
+kitchen and common areas. However, since the suit property has been sold
+during the pendency of the proceedings, various directions including the
+directions for procuring an alternate residence for the daughter-in-law along
+with some amount to be deposited was passed by the Court.
+Bombay High Court judgments
+32.    In Mrs. Sarika Mahendra Sureka v. Mr. Mahendra & Anr. [Appeal
+from order No.910 of 2014 decided on 19th September 2016], the divorce
+proceedings between the son and daughter-in-law were pending. The Family
+Court had granted interim protection to the daughter-in-law, thus, at the
+interim stage the Bombay High Court had thought it appropriate not to
+CM (M) 1582/2018                                                      Page 29 of 40
+protect her possession.
+The Bombay High Court distinguished
+Taruna
+Batra
+(supra) in this case and followed
+Preeti Satija
+(supra) of the Delhi
+High Court.
+33.
+In
+Roma Rajesh Tiwari v. Rajesh Dinanath Tiwari, [Writ Pet
+.
+No.10696 of 2017 decided on 12th October, 2017], again the Bombay High
+Court held that the title or right in property is not of relevance in the
+DV Act
+as the wife‟s right to reside in the matrimonial home cannot be defeated if
+the same does not belong to the husband. It further held once it is a „shared
+household‟ and they were in a matrimonial relationship, the wife gets a right
+to reside. The Bombay High Court held that the shifting of the son from the
+residence was a ploy. The house where the daughter-in-law resides would
+have to be considered as matrimonial home or „shared household‟ under
+Section 2(s)
+of the DV Act. The Court observed as under:
+"18...
+The question of title or proprietary right in the
+           property is not at all of relevance, when the provisions
+           of the
+DV Act
+; especially
+Section 19
+thereof, are to be
+           considered. As a matter of fact, it needs to be
+           emphasized that, as the wife‟s right to reside in the
+           matrimonial home was being defeated on this very
+           ground that the house does not belong to the husband
+           or does not stand in his name, this
+DV Act
+was brought
+           in the Statute Book with the specific and clear
+           language and the unequivocal Clause that the „title of
+           the husband or that of the family members to the said
+           flat‟, is totally irrelevant. It is also irrelevant whether
+           the Respondent has a legal or equitable interest in the
+           shared household. The moment it is proved that it was
+           a shared household, as both of them had, in their
+           matrimonial relationship, i.e. domestic relationship,
+           resided together there and in this case, upto the
+           disputes arose, it follows that the Petitioner-wife gets
+CM (M) 1582/2018                                                         Page 30 of 40
+right to reside therein and, therefore, to get the order
+           of interim injunction, restraining Respondent-husband
+           from dispossessing her, or, in any other manner,
+           disturbing her possession from the said flat."
+These two cases arose out of a civil suit and notice of motion seeking
+injunction and a petition for divorce, respectively.
+34.
+In
+Dattatrey Shivaji Mane v. Lilabai Shivaji Mane and Ors.
+AIR
+2018 Bom 229, the Bombay High Court was considering an order passed by
+the maintenance tribunal under the PSC Act, in a writ petition. The Court
+observed therein that the petition of the daughter-in-law under the
+DV Act
+was dismissed for default.
+The Court then considered the decision of the
+Delhi High Court in
+Sunny Paul
+(Supra) and held that once the senior
+citizen is the owner of the property, the possession of the senior citizen
+cannot be interfered with. Thus, the tribunal‟s order directing the son and
+his family to vacate the property was upheld. In this judgment the objects
+and reasons of the PSC Act were considered in detail by the Court. Thus, the
+view of the Bombay High Court is that the question of title or proprietary
+right is of no relevance.
+Kerala High Court
+35.
+In
+Hashir v. Shima ILR
+2015 (2) Kerala 855, the Kerala High Court
+was considering the provisions of the
+DV Act
+and the definition of „shared
+household‟ and followed the judgment of the Supreme Court in
+Taruna
+Batra
+(supra) to hold that a residence belonging to the in-laws would not be
+a „shared household‟.
+Punjab and Haryana High Court
+36.
+In two judgments, i.e., Major Harmohinder Singh v. State of Punjab
+CM (M) 1582/2018                                                      Page 31 of 40
+& Ors. (LPA No.
+1588 of 2014 decided on 14.10.2014) and Hamina Kang
+v. District Magistrate (U.T
+.) and Ors 2016(2) Crimes 517 (P&H), the
+Punjab and Haryana High Court considered the DV Act and the PSC Act.
+In
+Harmohinder Singh (supra), the Court observed as under:
+"The provisions of the Act of 2007 and the Act of 2005,
+           referred to above, cannot be used for cross purposes,
+           one annihilating the other. A parent who invokes the
+           provisions of the Act of 2007 cannot create a situation
+           that makes irrelevant the right of a female for securing
+           a protection which is guaranteed under the Act of
+           2005. The provisons of the protection which is
+           contemplated under Chapter V is an empowering
+           provision for the welfare of a senior citizen that must
+           be read cohesively that the right of a woman to be
+           protected which is guaranteed under the Act of 2005."
+The Court upheld the right of the divorced wife who was given protection
+under the DV act. Thus, the rights of the in-laws to invoke the PSC Act was
+recognised.
+37.     However, subsequently, in
+Hamina Kang
+(supra) an order of the
+tribunal under the PSC Act was considered in the context of the daughter-in-
+law who had filed a petition under the
+DV Act
+. The Court considered the
+objects and purposes of the 2007 Act.
+The Single Judge of the Punjab and
+Haryana High Court reviewed various judgments including
+Taruna Batra
+(supra), Vimal Ben(supra),
+Navneet Arora
+(supra),
+Preeti Satija
+(supra)
+and
+Hashir
+(supra) of the Kerala High Court. The provisions of the PSC
+and the DV Act were considered. The Court finally agreed with the view of
+the Kerala High Court and differed from the view of the Delhi High Court.
+It concluded that a house owned by a father-in-law is not a „shared
+household‟ in which the daughter-in-law has a right of residence. The Court
+CM (M) 1582/2018                                                      Page 32 of 40
+observed that no right of the 2005
+DV Act
+is sought to be nullified by the
+PSC Act. A status quo order had been passed in the
+DV Act
+. However,
+finally, the Court directed the in-laws to pay a sum of Rs. 25,000 /- per
+month to their daughter-in-law for a period of one year and permitted her to
+seek remedies against her husband.
+Gujarat High Court
+38.    In Jayantram Vallabhdas Meswania v. Vallabhdas Govindram
+Meswania AIR 2013 Guj 160, the tribunal under the PSC Act had directed
+the son to hand over possession to his father. The Court again considered
+the provisions of the PSC Act and held that a father who is not earning and
+has no money to sustain can make an application under
+Section 5
+of the Act
+to claim maintenance since the son is in possession of the property of the
+father and is not taking sufficient care and not providing sufficient
+maintenance. Thus, the father is entitled to have his own income from the
+property and the order of eviction from the son was upheld.
+Analysis of case law
+39.    The analysis of the decisions by various High Courts shows that after the
+judgment of
+Taruna Batra
+(supra) by the Supreme Court which dealt with the
+DV Act
+, there have been divergent views taken in the manner in which Taruna
+Batra is to be applied.
+The Delhi High Court in
+Navneet Arora
+(supra)
+distinguished Taruna Batra and held that Taruna Batra would be applicable
+only in the facts where the son and daughter in law were not residing as
+members of the `shared household‟ since the residence and kitchen were
+separated.
+Similar view is taken in
+Preeti Satija
+(supra) by the Division Bench
+of Delhi High Court.
+However, in
+Shumita Didi Sandhu
+(supra) it was held
+that in-laws home would not be a „shared household.
+CM (M) 1582/2018                                                     Page 33 of 40
+40.    The Kerala High Court in
+Hashir
+(supra) held that the manner in
+which the Delhi High Court distinguishes
+Taruna Batra
+(supra) would not
+be correct inasmuch as the Supreme Court has clearly laid down the
+principles of defining `shared household‟ in
+Taruna Batra
+(supra).
+The
+Punjab and Haryana High Court in
+Hamina Kang v. District Magistrate
+(U.T
+.)
+and
+Ors
+(supra) agreed with the view of the Kerala High Court in
+Hashir
+(supra) and followed the view of the Supreme Court in
+Taruna
+Batra
+(supra).
+The Provisions of the two Acts
+41.    The judgments and decisions of various Courts discussed above are
+not exhaustive in nature.
+42.
+The DV Act
+was enacted in 2005 and has been the subject matter of
+innumerable decisions. One of the objects of the
+DV Act
+is to provide for
+the rights of women to reside in their „matrimonial home‟ or „shared
+household‟ irrespective of whether their husband or the in-laws have a title
+to the property.
+The DV Act
+, thus, protects one of the three basic necessities
+of human life - viz. shelter, for the woman. Thus, in several proceedings,
+the right of the daughter-in-law to reside in her „matrimonial home‟ or
+„shared household‟ has been recognised.
+43.    The PSC Act of 2007 was not the subject matter of the Supreme Court
+decisions either in
+Taruna Batra
+(supra) or in Vimal Ben (supra). The said
+Act has been enacted to provide maintenance to parents and senior citizens.
+The purpose of this Act is to ensure that parents and senior citizens are not
+subjected to harassment by their children in any manner. An obligation has
+been cast on the children to maintain senior citizens if the said children are
+CM (M) 1582/2018                                                    Page 34 of 40
+in possession of the property of the parent or lay claims to inherit the
+property of the parents. This is clear from a reading of Section 4(4) of the
+PSC Act which reads as under:
+"(4) Any person being a relative of a senior citizen and
+           having sufficient means shall maintain such senior
+           citizen provided he is in possession of the property of
+           such senior citizen or he would inherit the property of
+           such senior citizen:
+Provided that where more than one relatives are
+           entitled to inherit the property of a senior citizen, the
+           maintenance shall be payable by such relative in the
+           proportion in which they would inherit his property."
+A specific maintenance tribunal has also been constituted under
+Section 7
+for senior citizens to make applications for maintenance.          The whole
+purpose of this Act is to ensure that children do not simply take control of
+the assets of their parents while ignoring their well-being. In Delhi, the
+Delhi Maintenance and Welfare of Parents and Senior Citizens Rules, 2009
+has also been enacted which permits impleadment of children and relatives.
+Standards have been set out in the rules for payment of maintenance. These
+Rules have been amended from time to time.
+44.    The question, however, is as to how the objectives and provisions of
+these two Acts are to operate, considering the overlapping nature of the
+relationships which they seek to govern. Both are special statutes. While,
+the daughter-in-law‟s right to residence and a roof over her head is
+extremely important, the parent‟s right to enjoy their own property and earn
+income from the same is also equally important. There can be multitudinal
+situations which may arise before Courts wherein a view would have to be
+taken as to which rights are to be preferred over the other. This is so
+CM (M) 1582/2018                                                       Page 35 of 40
+because as captured in paragraph 4 above there are various categories of
+cases and various fact situations wherein these disputes would arise.
+45.    Though, in
+Taruna Batra
+(supra) the Supreme Court did not have the
+occasion to consider the later enacted PSC Act, 2007, the Court struck a
+balance between the rights of the parents/ in-laws and the rights of the
+daughter-in-law by holding that the „shared household‟ would not include
+property belonging to the relatives of the husband namely, the in-laws.
+46.    However, later decisions of various High Courts have, while giving
+divergent opinions on the concept of `shared household‟, followed one
+uniform pattern in order to protect the daughter-in-law and to provide for a
+dignified roof/ shelter for her. The question then arises as to whether the
+obligation of providing the shelter or roof is upon the in-laws or upon the
+husband of the daughter-in-law i.e., the son. Some broad guidelines as set
+out below, can be followed by Courts in order to strike a balance between
+the PSC Act and the DV Act:
+1. The court/tribunal has to first ascertain the nature of the relationship
+      between the parties and the son‟s/ daughter‟s family.
+2. If the case involves eviction of a daughter in law, the court has to
+      also ascertain whether the daughter-in-law was living as part of a joint
+      family.
+3. If the relationship is acrimonious, then the parents ought to be
+      permitted to seek eviction of the son/daughter-in-law or daughter/son-
+in-law from their premises. In such circumstances, the obligation of
+      the husband to maintain the wife would continue in terms of the
+      principles under the
+DV Act
+.
+4. If the relationship between the parents and the son are peaceful or if
+CM (M) 1582/2018                                                      Page 36 of 40
+the parents are seen colluding with their son, then, an obligation to
+      maintain and to provide for the shelter for the daughter-in-law would
+      remain both upon the in-laws and the husband especially if they were
+      living as part of a joint family. In such a situation, while parents would
+      be entitled to seek eviction of the daughter-in-law from their property,
+      an alternative reasonable accommodation would have to be provided to
+      her.
+5. In case the son or his family is ill-treating the parents then the
+      parents would be entitled to seek unconditional eviction from their
+      property so that they can live a peaceful life and also put the property to
+      use for their generating income and for their own expenses for daily
+      living.
+6.        If the son has abandoned both the parents and his own
+      wife/children, then if the son‟s family was living as part of a joint
+      family prior to the breakdown of relationships, the parents would be
+      entitled to seek possession from their daughter-in-law, however, for a
+      reasonable period they would have to provide some shelter to the
+      daughter-in-law during which time she is able to seek her remedies
+      against her husband.
+On facts of the present case
+47.    The present suit does not specifically arise out of any proceedings
+under the
+DV Act
+nor under the PSC. Act. It is a civil suit for mandatory
+injunction, wherein, the relief being sought is in effect for eviction of the
+daughter-in-law. There is a dispute as to whether the son is actually living
+with the parents or not. The property does not even belong to the parents/
+in-laws and in fact belongs to the maternal grand parent (Nana) of the
+CM (M) 1582/2018                                                      Page 37 of 40
+husband of the Defendant i.e., the father-in-law of the Plaintiff Shri Vinay
+Varma.     By any stretch of imagination, this property cannot constitute
+`shared household‟ under
+Section 2 (s)
+of the DV Act. Insofar as the
+question of admission under
+Order XII Rule 6 CPC
+is concerned, this Court
+holds that there has been no admission by the daughter-in-law who has
+clearly challenged the rights of the father-in-law to maintain the suit.
+48. Keeping in mind the provisions of the PSC Act as well, the Plaintiff
+does have a right to secure a peaceful life for himself and his wife.
+However, there is no doubt that the son is now living with his grandparents
+which is the best case of the Plaintiff. Thus, the relationship between the in-
+laws and the parents and the son does not seem to be acrimonious. The
+daughter-in-law was clearly living with her in-laws and her husband till
+disputes arose between her and her husband.
+49.    Under these circumstances, I am of the opinion that a mechanism would
+have to be devised to ensure that both the in-laws and the daughter-in-law live
+peacefully while the matrimonial disputes are resolved. The property in which
+the daughter-in-law has been residing is located in a posh South Delhi Colony
+of Safdarjung Enclave. She is occupying the property and she has no children.
+The relationship between the parties is not congenial. Considering this factual
+background, the following directions are issued;
+1. The Plaintiff - Mr. Vinay Varma/ his son Mr. U.K. Varma shall jointly
+      or severally pay a total sum of Rs.50,000/- per month to the daughter-in-
+      law in order to enable her to identify a commensurate residence for
+      herself.
+2. The said sum shall be paid to the daughter-in-law on a monthly basis
+      on or before the tenth of every month directly into her bank
+CM (M) 1582/2018                                                      Page 38 of 40
+account.
+3. Upon the said payment being commenced, the daughter-in-law -
+      Defendant would vacate the suit property within a period of three
+      months.
+50.    Though the present is a civil suit, this Court observes that the said two
+statutes i.e., the DV Act and the PSC Act, would have to be borne in mind
+while passing orders, maintaining the balance between two warring parties,
+namely the parents/in-laws and children/their families. The conflict between
+the rights of the parents and the rights of the daughter-in-law which have
+arisen out of the DV Act and the PSC Act requires to be resolved. The facts
+of each case are different as there could be cases where the parents or senior
+citizens do not wish to permit their son and daughter-in-law to continue in
+their property due to issues of acrimony and misunderstanding. In such
+cases also, the provisions of the
+DV Act
+may be invoked by the
+son/daughter-in-law subjecting the parents to enormous suffering and
+frustration. While the right of residence of the daughter-in-law is to be
+recognized, the same also needs to be balanced depending upon the facts of
+each case with the right of the peaceful living of the parents as well.       In
+several cases, these rights have conflicted with each other and they have
+flooded the Criminal and Civil Courts in abundance.
+51.    The judgment of the Division Bench of this Court in
+Preeti Satija
+(supra) has been challenged before the Supreme Court in Civil Appeal
+No.9723/2014.
+Thereafter, in
+Shabnam Ahmed v. Union of India & Ors.
+in Writ Petition (Crl.) No.228/2019, the Supreme Court is also considering
+the same issue. Considering that the issues are now pending adjudication
+before the Supreme Court, in the present case, certificate of fitness to appeal
+CM (M) 1582/2018                                                     Page 39 of 40
+under
+Articles 133(1)(a)
+and
+134A
+of the Constitution of India, is granted.
+52.    The petition is allowed in the above terms and all pending
+applications are also disposed of. No order as to costs.
+PRATHIBA M. SINGH
+                                                         JUDGE
+NOVEMBER, 29/ 2019/dk/dj
+CM (M) 1582/2018                                                   Page 40 of 40

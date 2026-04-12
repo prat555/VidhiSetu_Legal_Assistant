@@ -1,0 +1,1422 @@
+Title: Search
+Court: Supreme Court of India
+Date: Unknown Date
+Citation: citations: AIR 2021 SUPREME COURT 1180, AIRONLINE 2021 SC 92
+Source: https://indiankanoon.org/doc/10385552/
+
+[Cites
+71
+, Cited by
+23
+]
+Supreme Court of India
+A. Navinchandra Steels Pvt. Ltd. vs Srei Equipment Finance Limited on 1 March, 2021
+Equivalent citations: AIR 2021 SUPREME COURT 1180, AIRONLINE 2021 SC 92
+Author:
+R.F. Nariman
+Bench:
+B.R. Gavai
+,
+Rohinton Fali Nariman
+REPORTABLE
+
+                                            IN THE SUPREME COURT OF INDIA
+
+                                            CIVIL APPELLATE JURISDICTION
+
+                                        CIVIL APPEAL NOs.4230-4234 OF 2020
+
+
+                         A. Navinchandra Steels Private Limited              …Appellant
+
+
+                                    VERSUS
+
+
+                         SREI Equipment Finance Limited & Ors.              …Respondents
+
+
+                                                     JUDGMENT
+R.F. Nariman, J.
+1.   This appeal arises out of the judgment dated 07.02.2020, as
+
+                         corrected by order dated 21.09.2020, by the National Company Law
+
+                         Appellate Tribunal [“NCLAT”]. The Appellant is an operational creditor of
+
+                         Respondent No.2 herein – M/s. Shree Ram Urban Infrastructure Limited
+
+                         [“SRUIL”], the company under winding up – and has a decree dated
+
+                         07.10.2015 in its favour passed by the Bombay High Court in Summary
+Signature Not Verified
+Digitally signed by R
+Suit No.626 of 2014. Vide order dated 06.10.2016, the Division Bench
+Natarajan
+Date: 2021.03.01
+16:52:04 IST
+Reason:
+stayed the order dated 07.10.2015 and directed SRUIL to deposit INR14
+1
+crore with the Prothonotary and Senior Master of the High Court or furnish
+
+a bank guarantee for the same, failing which the stay order would get
+
+vacated. The said appeal is pending as on date. We are also informed that
+
+an execution application, being Execution Application (L) No.934 of 2016
+
+was filed by the Appellant before the Bombay High Court and the same is
+
+also pending as on date.
+2.   Sometime in 2015, the Appellant had filed a winding up petition, being
+
+Company Petition No.1039 of 2015 against SRUIL before the Bombay High
+
+Court, the same being pending as on date.
+3.   A winding up petition, being Company Petition No.1066/2015 filed by
+
+Respondent No.3 herein, M/s Action Barter Pvt. Ltd. [“Action Barter”]
+
+against SRUIL, by a conditional order dated 05.10.2016, stood admitted on
+
+the failure of SRUIL to deposit INR 5.90 crore. The appeal instituted by
+
+SRUIL against this order was dismissed by the Division Bench of the High
+
+Court on 17.01.2017, whereas the appeal instituted by Action Barter was
+
+allowed vide the same order and the amount to be deposited by SRUIL was
+
+enhanced from INR 5.90 crore to INR 18 crore. Vide order dated
+
+27.02.2017, this Court disposed of SLP(C) No.5849/2017 filed by SRUIL,
+
+after recording a statement by the counsel for SRUIL that SRUIL would
+2
+deposit INR three crore the same day, and the balance of INR 15 crore
+
+within six months from the date of the order. The parties then filed consent
+
+terms before the Single Judge of the Bombay High Court on 22.03.2017,
+
+wherein Action Barter agreed to accept a sum of INR 15 crore, payable in
+
+instalments. Apart from the payment of the first instalment of INR 25 lakh,
+
+no further instalment was paid, as a result of which the winding up petition
+
+stood revived on 24.08.2017. On 17.04.2018, the provisional liquidator took
+
+over the physical possession of the assets of SRUIL.
+4.   While this winding up petition was pending, Indiabulls Housing
+
+Finance Ltd. [“Indiabulls”], a secured creditor of SRUIL, filed a petition
+
+under Section 7 of the Insolvency and Bankruptcy Code, 2016 [“IBC”]
+
+before the National Company Law Tribunal [“NCLT”], which was dismissed
+
+by the NCLT vide order dated 18.05.2018 as being not maintainable as a
+
+winding up petition had already been admitted by the Bombay High Court.
+
+An appeal to the NCLAT suffered a similar fate as the appeal was
+
+dismissed on 30.05.2018. However, on 06.08.2018, the Supreme Court
+
+admitted a Civil Appeal from the NCLAT order, which is pending as on date.
+5.   An application filed by Indiabulls for the following relief:
+“The Hon’ble Court be pleased to direct the Provisional
+     Liquidator to handover physical possession of the said
+     Mortgaged Property i.e. all the pieces and parcels of land
+3
+bearing C.S. Nos. 288, 289 (part), 1/1540 (part), 2/1540 (part)
+      and 3/1540 (part), collectively forming Plot Nos.5B and 6
+      admeasuring approximately 28,409.57 square meters situated
+      at Worli Estate, Lower Parel Division, Mumbai to the Secured
+      Creditor herein, in accordance with and pursuant to the
+      provisions of the
+Companies Act, 1956
+and the
+Securitisation
+      and Reconstruction of Financial Assets and Enforcement of
+      Security Interest Act, 2002
+…”
+
+resulted in an order dated 07.02.2019 by which the learned Company
+
+Judge allowed the aforesaid application in favour of Indiabulls. Indiabulls is
+
+a secured creditor who stood outside the winding up, and who sought to
+
+realise its security outside such winding up proceeding, notices having
+
+already been issued under
+Sections 13(2)
+and
+13(4)
+of the Securitisation
+
+and Reconstruction of Financial Assets and Enforcement of Security
+
+Interest Act, 2002 [“
+SARFAESI Act
+”]. The Court referred to an order of
+
+12.04.2018, by which the provisional liquidator was to take physical
+
+possession of the assets of SRUIL within one week of the date of that order.
+Importantly, paragraph 2 of the said order stated:
+“2. Ms. Maitra states that the secured creditors have already
+      commenced proceedings under SARFAESI against the
+      company. As and when the banks may take out an application
+      for banks submissions to hand over that part of the assets
+      secured to the bank, appropriate orders will be passed.”
+6.    This being the case, the learned Company Judge allowed the
+
+application in the following terms:
+4
+“13. For the reasons aforesaid, the present Application is
+     allowed. The Provisional Liquidator is directed to forthwith
+     handover possession of the Mortgaged Property to the
+     Applicant. However, the Applicant shall conduct the sale of the
+     property in consultation with the Official Liquidator. The
+     Applicant shall also deposit the sale proceeds or part thereof
+     with this Court as and when the Court directs the Applicant to
+     do so, for the purpose of making payments to workers as
+     prescribed in
+section 529A
+of the Companies Act, 1956.”
+7.   As per the aforesaid order dated 07.02.2019, the provisional
+
+liquidator handed over possession of the property mortgaged with
+
+Indiabulls to Indiabulls, who then conducted a sale of the said property to
+
+M/s. Honest Shelters Pvt. Ltd. [“Honest Shelters”], Respondent No.4
+
+herein, for a sum of INR 705 crore, in which not only was the mortgaged
+
+property sold, but also the superstructure standing thereon, together with
+
+two other flats. We have since been informed that three sale certificates
+
+were issued to Honest Shelters on 26.06.2019 by Indiabulls on receiving
+
+the said payment of INR 705 crore. We have also been informed that the
+
+ex-Directors of SRUIL had challenged the aforesaid sale in the Debt
+
+Recovery    Tribunal   and   the   Debt    Recovery    Appellate   Tribunal
+
+unsuccessfully. The provisional liquidator has also challenged the said sale
+
+in the Bombay High Court, alleging that the conditions of the order dated
+
+07.02.2019 were flouted, and that what was sold was much more than what
+
+was mortgaged to the secured creditor, and that too at a gross undervalue.
+5
+We are informed that the next date in these pending proceedings is
+
+23.03.2021.
+8.   Meanwhile, Respondent No.1 before us, i.e., SREI Equipment
+
+Finance Limited [“SREI”] filed a petition under
+Section 7
+of the IBC before
+
+the NCLT, which petition was admitted by the NCLT on 06.11.2019. An
+
+appeal was then filed by Action Barter against the aforesaid NCLT order in
+
+which, after setting out this Court’s judgment in
+Forech (India) Ltd. v.
+
+Edelweiss Assets Reconstruction Co. Ltd.
+, (2019) 18 SCC 549
+
+[“Forech”], the NCLAT dismissed the appeal with the following
+
+observations:
+“5. The case of the Appellant is covered by the decision of the
+     Hon’ble Supreme Court in
+Forech India Ltd
+(supra), therefore,
+     we hold that the Application under
+Section 7
+of the I&B Code
+     filed by the Respondent – SREI Equipment Finance Limited is
+     not maintainable.
+In so far as pending winding up petition
+     before the Hon’ble Bombay High Court is concerned, the
+     Appellant in terms of the decision of the Hon’ble Supreme Court
+     in
+Forech India Ltd
+(supra) may move before the Hon’ble High
+     Court of Bombay.
+The Appeal is dismissed with the aforesaid observations. No
+     costs.”
+9.   By an order dated 21.09.2020, the NCLAT corrected the order by
+
+deleting the word “not” that occurred in paragraph 5 of the order dated
+
+07.02.2020.
+6
+10.   An appeal was then filed to this Court by Action Barter on 08.10.2020,
+
+in which this Court, by order dated 27.10.2020, issued notice and directed
+
+the parties to maintain status quo qua the mortgaged property and also
+
+stayed further proceedings before the NCLAT. An appeal was also filed by
+
+the Appellant on 09.12.2020, in which this Court, by order dated
+
+18.12.2020, issued notice and stayed further proceedings before the NCLT
+
+and tagged the appeal with the appeal filed by Action Barter.
+11.   We have been informed that pursuant to a settlement between Action
+
+Barter and the purchaser of the mortgaged property, i.e., Honest Shelters,
+
+Action Barter has now withdrawn its appeal that was filed before this Court.
+
+Thus, the only surviving appeal before us is Civil Appeal Nos.4230-4234 of
+
+2020, filed by A. Navinchandra Steels Pvt. Ltd.
+12.   Dr. Abhishek Manu Singhvi and Shri Ranjit Kumar, learned Senior
+
+Advocates appearing on behalf of the Appellant, argued that in view of the
+
+judgment in
+Action Ispat and Power Pvt. Ltd. v. Shyam Metalics and
+
+Energy Ltd.
+, 2020 SCC OnLine SC 1025 [“Action Ispat”], this matter is
+
+concluded in their favour inasmuch as irreversible steps have been taken
+
+in a winding up petition that has already been admitted by the Bombay High
+
+Court in that the plot on which a 72-storey building stands, has now been
+7
+sold, as a result of which it is now clear that the
+Section 7
+petition that was
+
+filed by SREI on 30.05.2019 under the IBC, would have to be held to be
+
+non-maintainable. They also argued that the effect of
+Section 446
+of the
+
+Companies Act, 1956 (which is equivalent to
+Section 279
+of the Companies
+
+Act, 2013) is that no suit or other legal proceeding can be initiated once
+
+there is admission of a winding up petition. This being the case, post
+
+admission of a winding up petition, no petition under
+Section 7
+of the IBC
+
+can be filed. They also argued that it is a misnomer to think that winding up
+
+proceedings must result in corporate death. On the contrary, according to
+
+them,
+Sections 391
+to
+393
+of the Companies Act, 1956 would apply if the
+
+company were to be restructured, as a result of which the winding up court
+
+could then stay the winding up and order restructuring. The learned counsel
+
+have also argued that there are gross malafides in the present case as
+
+SREI was not only aware of the winding up petition before the Bombay High
+
+Court, but has also participated in the winding up proceeding and filed its
+
+claim before the provisional liquidator. All this has been suppressed in the
+
+petition filed under
+Section 7
+of the IBC. Further, the only route available to
+
+SREI was really to ask for transfer of the company petition in winding up
+
+from the Bombay High Court to the NCLT, which route has been
+8
+circumvented by filing a
+Section 7
+petition and suppressing the winding up
+
+proceeding.
+13.   Shri Abhijeet Sinha, learned counsel appearing on behalf of SREI,
+
+took us through various judgments of this Court, including the latest
+
+judgment in
+Action Ispat
+(supra). According to him, a
+Section 7
+proceeding
+
+under the IBC is an independent proceeding, which can be initiated at any
+
+time, even after a winding up order is made. He argued that this was a
+
+result of our decisions and that
+Section 238
+of the IBC, which contains a
+
+non-obstante clause, clearly comes to his rescue as, if there is any conflict
+
+between
+Section 446
+of the Companies Act, 1956 /
+Section 279
+of the
+
+Companies Act, 2013 and the IBC, the IBC will prevail. According to him,
+
+this point is no longer res integra. He also argued, in the alternative, that
+
+there are no irretrievable steps that have been taken in the winding up
+
+proceeding in the present case, as the provisional liquidator continues to
+
+be seized of other assets of SRUIL.
+He further argued that a private sale
+
+by a secured creditor outside the winding up is not the irretrievable step
+
+that is spoken of in
+Action Ispat
+(supra), such step having to be taken by
+
+the provisional liquidator himself in selling the assets of the company in the
+
+process of winding up the company. He also added that, on facts, two
+
+orders dated 28.11.2019 and 20.01.2020 of the Bombay High Court would
+9
+indicate that the Company Court itself had directed the provisional
+
+liquidator to hand over the records and assets of SRUIL to the interim
+
+resolution professional [“IRP”] that had been appointed in the
+Section 7
+proceeding. Doubtless, such assets had not been handed over because
+
+they were only to the handed over two weeks after certain payments had
+
+been made by the IRP to the provisional liquidator, which payments have
+
+not yet been made.
+14.   Having heard learned counsel for all the parties, it is important to
+
+restate a few fundamentals. Given the object of the IBC as delineated in
+
+paragraphs 25 to 28 of
+Swiss Ribbons (P) Ltd. v. Union of India
+, (2019)
+
+4 SCC 17 [“Swiss Ribbons”], it is clear that the IBC is a special statute
+
+dealing with revival of companies that are in the red, winding up only being
+
+resorted to in case all attempts of revival fail. Vis-à-vis the Companies Act,
+
+which is a general statute dealing with companies, including companies
+
+that are in the red, the IBC is not only a special statute which must prevail
+
+in the event of conflict, but has a non-obstante clause contained in
+Section
+
+238
+, which makes it even clearer that in case of conflict, the provisions of
+
+the IBC will prevail.
+10
+15.
+In
+Allahabad Bank v. Canara Bank
+, (2000) 4 SCC 406, this Court
+
+had to deal with whether the
+Recovery of Debts Due to Banks and Financial
+
+Institutions Act, 1993
+[“RDB Act”] was a special statute qua the
+Companies
+
+Act, 1956
+. This Court held that the
+Companies Act
+is a general Act and
+
+does not prevail against the RDB Act, which was a later Act and which has
+
+a non-obstante clause that clearly excludes the provisions of the
+Companies Act
+in case of conflict. This was stated by the Court as follows:
+“Special law v. general law
+38. At the same time, some High Courts have rightly held that
+      the
+Companies Act
+is a general Act and does not prevail under
+      the RDB Act. They have relied upon
+Union of India v. India
+      Fisheries (P) Ltd.
+[AIR 1966 SC 35 : (1965) 3 SCR 679 : (1965)
+      57 ITR 331].
+39. There can be a situation in law where the same statute is
+      treated as a special statute vis-à-vis one legislation and again
+      as a general statute vis-à-vis yet another legislation. Such
+      situations do arise as held in
+LIC of India v. D.J. Bahadur
+[(1981) 1 SCC 315 : 1981 SCC (L&S) 111 : AIR 1980 SC 2181].
+It was there observed:
+“… for certain cases, an Act may be general and for
+             certain other purposes, it may be special and the
+             court cannot blur a distinction when dealing with the
+             finer points of law”.
+For example, a
+Rent Control Act
+may be a special statute as
+      compared to
+the Code of Civil Procedure
+. But vis-à-vis an Act
+      permitting eviction from public premises or some special class
+      of buildings, the
+Rent Control Act
+may be a general statute.
+In
+      fact in
+Damji Valji Shah v. LIC of India
+[AIR 1966 SC 135 :
+(1965) 3 SCR 665] (already referred to), this Court has
+      observed that vis-à-vis the
+LIC Act, 1956
+, the
+Companies Act,
+11
+1956 can be treated as a general statute. This is clear from
+para 19 of that judgment. It was observed:
+“Further, the provisions of the special Act, i.e., the
+LIC Act
+, will override the provisions of the general
+      Act, viz., the
+Companies Act
+which is an Act
+      relating to companies in general.”
+                                            (emphasis in original)
+Thus, some High Courts rightly treated the
+Companies Act
+as
+a general statute, and the RDB Act as a special statute
+overriding the general statute.
+Special law v. special law
+40.
+Alternatively, the Companies Act, 1956
+and the RDB Act
+can both be treated as special laws, and the principle that when
+there are two special laws, the latter will normally prevail over
+the former if there is a provision in the latter special Act giving
+it overriding effect, can also be applied. Such a provision is
+there in the RDB Act, namely,
+Section 34
+. A similar situation
+arose in
+Maharashtra Tubes Ltd. v. State Industrial and
+Investment Corpn. of Maharashtra Ltd.
+[(1993) 2 SCC 144]
+where there was inconsistency between two special laws, the
+Finance Corporation Act, 1951 and the
+Sick Industries
+Companies (Special Provisions) Act, 1985
+. The latter contained
+Section 32
+which gave overriding effect to its provisions and
+was held to prevail over the former. It was pointed out by
+Ahmadi, J. that both special statutes contained non obstante
+clauses but that the
+      “1985 Act being a subsequent enactment, the non
+      obstante clause therein would ordinarily prevail
+      over the non obstante clause in Section 46-B of the
+      1951 Act unless it is found that the 1985 Act is a
+      general statute and the 1951 Act is a special one”.
+(SCC p. 157, para 9)
+Therefore, in view of Section 34 of the RDB Act, the said Act
+overrides the
+Companies Act
+, to the extent there is anything
+inconsistent between the Acts.”
+12
+16.   Likewise, in
+Bakemans Industries (P) Ltd. v. New Cawnpore Flour
+
+Mills
+, (2008) 15 SCC 1, this Court, in the context of the
+State Financial
+
+Corporations Act, 1951
+[“SFC Act”] and the
+Companies Act, 1956
+, held that
+
+though the SFC Act was an earlier Act of 1951, yet, it would prevail over
+
+the winding up proceedings before a Company Judge, given that the SFC
+
+Act is a special statute qua the general powers of the Company Judge
+
+under the
+Companies Act
+. This was stated as follows:
+“37. The 1951 Act indisputably is a special statute. If a financial
+      corporation intends to exercise a statutory power under
+Section
+      29
+of the 1951 Act, the same will prevail over the general
+      powers of the Company Judge under the
+Companies Act
+.
+38. There cannot be any doubt whatsoever that the
+      proceedings under
+Section 29
+of the 1951 Act would prevail
+      over a winding-up proceeding before a Company Judge in view
+      of the decision of this Court in
+International Coach Builders
+      Ltd. v. Karnataka State Financial Corpn.
+[(2003) 10 SCC 482]
+      wherein it has been held: (SCC p. 496, para 26)
+            “26. We do not really see a conflict between Section
+            29 of the SFC Act and the Companies Act at all,
+            since the rights under
+Section 29
+were not intended
+            to operate in the situation of winding up of a
+            company.
+Even assuming to the contrary, if a
+            conflict arises, then we respectfully reiterate the
+            view taken by the Division Bench of this Court in
+A.P. State Financial Corpn.
+Case [
+A.P. State
+            Financial Corpn. v. Official Liquidator
+, (2000) 7
+            SCC 291].
+This Court pointed out therein that
+            Section 29 of the SFC Act cannot override the
+            provisions of Sections 529(1) and 529-A of the
+            Companies Act, 1956, inasmuch as SFCs cannot
+            exercise the right under Section 29 ignoring a pari
+            passu charge of the workmen.”
+13
+The view taken therein was reiterated by a three-Judge Bench
+of this Court in Rajasthan State Financial Corpn. v. Official
+Liquidator [(2005) 8 SCC 190] wherein it was stated: (SCC pp.
+201-02, para 18)
+      “18. In the light of the discussion as above, we think
+      it proper to sum up the legal position thus:
+(i)    A Debts Recovery Tribunal acting under the
+Recovery of Debts Due to Banks and Financial
+      Institutions Act, 1993
+would be entitled to order the
+      sale and to sell the properties of the debtor, even if
+      a company-in-liquidation, through its Recovery
+      Officer but only after notice to the Official Liquidator
+      or the Liquidator appointed by the Company Court
+      and after hearing him.
+(ii) A District Court entertaining an application
+      under Section 31 of the SFC Act will have the power
+      to order sale of the assets of a borrower company-
+in-liquidation, but only after notice to the Official
+      Liquidator or the Liquidator appointed by the
+      Company Court and after hearing him.
+(iii) If a financial corporation acting under Section
+      29 of the SFC Act seeks to sell or otherwise transfer
+      the assets of a debtor company-in-liquidation, the
+      said power could be exercised by it only after
+      obtaining the appropriate permission from the
+      Company Court and acting in terms of the
+      directions issued by that court as regards
+      associating the Official Liquidator with the sale, the
+      fixing of the upset price or the reserve price,
+      confirmation of the sale, holding of the sale
+      proceeds and the distribution thereof among the
+      creditors in terms of
+Section 529-A
+and
+Section 529
+of the Companies Act.
+(iv) In a case where proceedings under the
+Recovery of Debts Due to Banks and Financial
+      Institutions Act, 1993
+or the SFC Act are not set in
+      motion, the creditor concerned is to approach the
+      Company Court for appropriate directions
+      regarding the realisation of its securities consistent
+14
+with the relevant provisions of the
+Companies Act
+regarding distribution of the assets of the company-
+           in-liquidation.”
+      (See also
+ICICI Bank Ltd. v. SIDCO Leathers Ltd.
+[(2006) 10
+      SCC 452 : (2006) 5 Scale 27])”
+17.
+In
+Madras Petrochem Ltd. v. BIFR
+, (2016) 4 SCC 1, this Court had
+
+to deal with whether a predecessor statute to the IBC, which has been
+
+repealed by the IBC, namely, the
+Sick Industrial Companies (Special
+
+Provisions) Act, 1985
+, prevails over the
+SARFAESI Act
+to the extent of
+
+inconsistency therewith. This Court noted that in the case of two statutes
+
+which contain non-obstante clauses, the later Act will normally prevail,
+
+holding:
+“36. A conspectus of the aforesaid decisions shows that the
+Sick Industrial Companies (Special Provisions) Act, 1985
+prevails in all situations where there are earlier enactments with
+      non obstante clauses similar to the
+Sick Industrial Companies
+      (Special Provisions) Act, 1985
+. Where there are later
+      enactments with similar non obstante clauses, the
+Sick
+      Industrial Companies (Special Provisions) Act, 1985
+has been
+      held to prevail only in a situation where the reach of the non
+      obstante clause in the later Act is limited—such as in the case
+      of the
+Arbitration and Conciliation Act, 1996
+—or in the case of
+      the later Act expressly yielding to the
+Sick Industrial Companies
+      (Special Provisions) Act, 1985
+, as in the case of the
+Recovery
+      of Debts Due to Banks and Financial Institutions Act, 1993
+.
+      Where such is not the case, as in the case of
+Special Courts
+      Act, 1992
+, it is the
+Special Courts Act, 1992
+which was held to
+      prevail over the
+Sick Industrial Companies (Special Provisions)
+      Act, 1985
+.
+15
+37. We have now to undertake an analysis of the Acts in
+question. The first thing to be noticed is the difference between
+Section 37
+of the Securitisation and Reconstruction of Financial
+Assets and Enforcement of Security Interest Act, 2002 and
+Section 34
+of the Recovery of Debts Due to Banks and
+Financial Institutions Act, 1993.
+Section 37
+of the Securitisation
+and Reconstruction of Financial Assets and Enforcement of
+Security Interest Act, 2002 does not include the
+Sick Industrial
+Companies (Special Provisions) Act, 1985
+unlike
+Section 34(2)
+of the Recovery of Debts Due to Banks and Financial
+Institutions Act, 1993. Section 37 of the Securities and
+Reconstruction of Financial Assets and Enforcement of
+Security Interest Act, 2002 states that the said Act shall be in
+addition to and not in derogation of four Acts, namely, the
+Companies Act, the Securities Contracts (Regulation) Act,
+1956
+, the
+Securities and Exchange Board of India Act, 1992
+and the
+Recovery of Debts Due to Banks and Financial
+Institutions Act, 1993
+. It is clear that the first three Acts deal with
+securities generally and the
+Recovery of Debts Due to Banks
+and Financial Institutions Act, 1993
+deals with recovery of debts
+due to banks and financial institutions. Interestingly,
+Section 41
+of the Securitisation and Reconstruction of Financial Assets
+and Enforcement of Security Interest Act, 2002 makes
+amendments in three Acts—the
+Companies Act, the Securities
+Contracts (Regulation) Act, 1956
+, and the
+Sick Industrial
+Companies (Special Provisions) Act, 1985
+. It is of great
+significance that only the first two Acts are included in
+Section
+37
+and not the third i.e. the
+Sick Industrial Companies (Special
+Provisions) Act, 1985
+. This is for the obvious reason that the
+framers of the
+Securitisation and Reconstruction of Financial
+Assets and Enforcement of Security Interest Act, 2002
+intended
+that the
+Sick Industrial Companies (Special Provisions) Act,
+1985
+be covered by the non obstante clause contained in
+Section 35
+, and not by the exception thereto carved out by
+Section 37
+. Further, whereas the
+Recovery of Debts Due to
+Banks and Financial Institutions Act, 1993
+is expressly
+mentioned in
+Section 37
+, the Sick Industrial Companies
+(Special Provisions) Act, 1985 is not, making the above position
+further clear. And this is in stark contrast, as has been stated
+above, to
+Section 34(2)
+of the Recovery of Debts Due to Banks
+16
+and Financial Institutions Act, 1993, which expressly included
+      the
+Sick Industrial Companies (Special Provisions) Act, 1985
+.
+The new legislative scheme qua recovery of debts contained in
+      the
+Securitisation and Reconstruction of Financial Assets and
+      Enforcement of Security Interest Act, 2002
+has, therefore, to be
+      given precedence over the
+Sick Industrial Companies (Special
+      Provisions) Act, 1985
+, unlike the old scheme for recovery of
+      debts contained in the
+Recovery of Debts Due to Banks and
+      Financial Institutions Act, 1993
+.”
+18.   Indeed, this position has been echoed in several judgments of this
+
+Court.
+In
+Jaipur Metals & Electricals Employees Organization v. Jaipur
+
+Metals & Electricals Ltd.
+, (2019) 4 SCC 227 [“Jaipur Metals”], this Court,
+
+in dealing with whether proceedings under the
+Sick Industrial Companies
+
+(Special Provisions) Act, 1985
+were to be transferred to the NCLT under
+
+the IBC, held:
+“19. However, this does not end the matter. It is clear that
+      Respondent 3 has filed a
+Section 7
+application under the Code
+      on 11-1-2018, on which an order has been passed admitting
+      such application by NCLT on 13-4-2018. This proceeding is an
+      independent proceeding which has nothing to do with the
+      transfer of pending winding-up proceedings before the High
+      Court. It was open for Respondent 3 at any time before a
+      winding-up order is passed to apply under
+Section 7
+of the
+      Code. This is clear from a reading of
+Section 7
+together with
+Section 238
+of the Code which reads as follows:
+“238. Provisions of this Code to override other
+            laws.—The provisions of this Code shall have
+            effect, notwithstanding anything inconsistent
+            therewith contained in any other law for the time
+            being in force or any instrument having effect by
+            virtue of any such law.”
+17
+20. Shri Dave’s ingenious argument that since
+Section 434
+of
+      the Companies Act, 2013 is amended by the Eleventh
+      Schedule to the Code, the amended
+Section 434
+must be read
+      as being part of the Code and not the
+Companies Act, 2013
+,
+      must be rejected for the reason that though
+Section 434
+of the
+      Companies Act, 2013 is substituted by the Eleventh Schedule
+      to the Code, yet
+Section 434
+, as substituted, appears only in
+      the
+Companies Act, 2013
+and is part and parcel of that Act. This
+      being so, if there is any inconsistency between
+Section 434
+as
+      substituted and the provisions of the Code, the latter must
+      prevail. We are of the view that NCLT was absolutely correct in
+      applying
+Section 238
+of the Code to an independent proceeding
+      instituted by a secured financial creditor, namely, the Alchemist
+      Asset Reconstruction Company Ltd. This being the case, it is
+      difficult to comprehend how the High Court could have held that
+      the proceedings before NCLT were without jurisdiction. On this
+      score, therefore, the High Court judgment has to be set aside.
+NCLT proceedings will now continue from the stage at which
+      they have been left off. Obviously, the company petition
+      pending before the High Court cannot be proceeded with
+      further in view of
+Section 238
+of the Code. The writ petitions
+      that are pending before the High Court have also to be
+      disposed of in light of the fact that proceedings under the Code
+      must run their entire course. We, therefore, allow the appeal
+      and set aside the High Court's judgment [Jaipur Metals and
+      Electricals Ltd., In re, 2018 SCC OnLine Raj 1472].”
+19.   Likewise, in
+Forech
+(supra), in a situation in which notice had been
+
+issued in a winding up petition and the said petition was ordered to be
+
+transferred to the NCLT, to be treated as a proceeding under the IBC, this
+
+Court clearly held:
+“22. This section is of limited application and only bars a
+      corporate debtor from initiating a petition under
+Section 10
+of
+      the Code in respect of whom a liquidation order has been
+      made. From a reading of this section, it does not follow that until
+18
+a liquidation order has been made against the corporate debtor,
+      an insolvency petition may be filed under
+Section 7
+or
+Section
+      9
+as the case may be, as has been held by the Appellate
+      Tribunal. Hence, any reference to
+Section 11
+in the context of
+      the problem before us is wholly irrelevant. However, we decline
+      to interfere with the ultimate order passed by the Appellate
+      Tribunal because it is clear that the financial creditor's
+      application which has been admitted by the Tribunal is clearly
+      an independent proceeding which must be decided in
+      accordance with the provisions of the Code.”
+20.
+In
+Duncans Industries Ltd. v. AJ Agrochem
+, (2019) 9 SCC 725,
+
+this Court was faced with a situation of conflict between
+Section 16-G(1)(c)
+of the Tea Act, 1953, under which winding up/liquidation proceedings were
+
+to take place (and which could not take place without prior consent of the
+
+Central Government), and a proceeding initiated under
+Section 9
+of the
+
+IBC.
+After relying upon the judgment of this Court in
+Innoventive
+
+Industries Ltd. v. ICICI Bank
+, (2018) 1
+SCC 407 and Swiss Ribbons
+(supra), this Court held:
+“7.4. Section 16-G(1)(c) refers to the proceeding for winding up
+      of such company or for the appointment of receiver in respect
+      thereof. Therefore, as such, the proceedings under
+Section 9
+IBC shall not be limited and/or restricted to winding up and/or
+      appointment of receiver only. The winding up/liquidation of the
+      company shall be the last resort and only on an eventuality
+      when the corporate insolvency resolution process fails. As
+      observed by this Court in
+Swiss Ribbons (P) Ltd. [Swiss
+      Ribbons (P) Ltd. v. Union of India
+, (2019) 4 SCC 17 : AIR 2019
+      SC 739], referred to hereinabove, the primary focus of the
+      legislation while enacting IBC is to ensure revival and
+      continuation of the corporate debtor by protecting the corporate
+19
+debtor from its own management and from a corporate debt by
+      liquidation and such corporate insolvency resolution process is
+      to be completed in a time-bound manner. Therefore, the entire
+      “corporate insolvency resolution process” as such cannot be
+      equated with “winding up proceedings”. Therefore, considering
+Section 238
+IBC, which is a subsequent
+Act to the Tea Act,
+      1953
+, shall be applicable and the provisions of IBC shall have
+      an overriding effect over the
+Tea Act, 1953
+. Any other view
+      would frustrate the object and purpose of IBC. If the submission
+      on behalf of the appellant that before initiation of proceedings
+      under
+Section 9
+IBC, the consent of the Central Government as
+      provided under
+Section 16-G(1)(c)
+of the Tea Act is to be
+      obtained
+,
+in that case
+, the main object and purpose of IBC,
+      namely, to complete the “corporate insolvency resolution
+      process” in a time-bound manner, shall be frustrated. The sum
+      and substance of the above discussion would be that the
+      provisions of IBC would have an overriding effect over the
+Tea
+      Act, 1953
+and that no prior consent of the Central Government
+      before initiation of the proceedings under
+Section 7
+or
+Section
+      9
+IBC would be required and even without such consent of the
+      Central Government, the insolvency proceedings under
+Section 7
+or
+Section 9
+IBC initiated by the operational creditor
+      shall be maintainable.”
+21.
+In
+Kaledonia Jute and Fibres Pvt. Ltd. v. Axis Nirman and
+
+Industries Ltd.
+, 2020 SCC OnLine SC 943 [“Kaledonia”], this Court
+
+decided as to whether a winding up proceeding in the Company Court could
+
+be transferred despite the fact that the winding up order had been passed
+
+and then been kept in abeyance. This Court, in paragraph 27, held:
+“27. Apart from providing for the transfer of certain types of
+      winding up proceedings by operation of law,
+Section 434(1)(c)
+also gives a choice to the parties to those proceedings to seek
+      a transfer of such proceedings to the NCLT. This is under the
+      fifth proviso to Clause (c).”
+20
+The Court then went on to hold that in a winding up proceeding that has
+
+been admitted, since all creditors would be parties to such proceeding in
+
+rem, a secured creditor being such a party could, therefore, move the
+
+Company Court under the fifth proviso to Section 434(1)(c) of the
+
+Companies Act, 2013 to transfer the aforesaid proceeding to the NCLT to
+
+be tried as a proceeding under Section 7 or Section 9, as the case may be.
+22.
+In
+Action Ispat
+(supra), this Court was faced with a proceeding in
+
+which a winding up petition had been admitted by the High Court and then
+
+transferred to the NCLT to be tried as a proceeding under the IBC.
+After
+
+referring to the judgments in
+Jaipur Metals
+(supra),
+Forech
+(supra), and
+Kaledonia
+(supra), and after setting out various Sections dealing with
+
+winding up of companies under the
+Companies Act, 2013
+, this Court then
+
+held:
+“20. What becomes clear upon a reading of the three
+        judgments of this Court is the following:
+(i)    So far as transfer of winding up proceedings is
+        concerned, the Code began tentatively by leaving proceedings
+        relating to winding up of companies to be transferred to NCLT
+        at a stage as may be prescribed by the Central Government.
+(ii) This was done by the Transfer Rules, 2016 [Companies
+        (Transfer of Pending Proceedings) Rules, 2016] which came
+        into force with effect from 15.12.2016. Rules 5 and 6 referred
+        to three types of proceedings. Only those proceedings which
+21
+are at the stage of pre-service of notice of the winding up
+petition stand compulsorily transferred to the NCLT.
+(iii) The result therefore was that post notice and pre
+admission of winding up petitions, parallel proceedings would
+continue under both statutes, leading to a most unsatisfactory
+state of affairs. This led to the introduction of the 5th proviso to
+section 434(1)(c)
+which, as has been correctly pointed out
+in
+Kaledonia [Kaledonia Jute & Fibres Pvt. Ltd. v. Axis Nirman
+& Industries Ltd.
+, 2020 SCC OnLine SC 943], is not restricted
+to any particular stage of a winding up proceeding.
+(iv) Therefore, what follows as a matter of law is that even
+post admission of a winding up petition, and after the
+appointment of a Company Liquidator to take over the assets
+of a company sought to be wound up, discretion is vested in the
+Company Court to transfer such petition to the NCLT. The
+question that arises before us in this case is how is such
+discretion to be exercised?”
+xxx xxx xxx
+“31. Given the aforesaid scheme of winding up under
+Chapter
+XX of the Companies Act, 2013
+, it is clear that several stages
+are contemplated, with the Tribunal retaining the power to
+control the proceedings in a winding up petition even after it is
+admitted. Thus, in a winding up proceeding where the petition
+has not been served in terms of Rule 26 of the Companies
+(Court) Rules, 1959 at a pre-admission stage, given the
+beneficial result of the application of the Code, such winding up
+proceeding is compulsorily transferable to the NCLT to be
+resolved under the Code. Even post issue of notice and pre
+admission, the same result would ensue. However, post
+admission of a winding up petition and after the assets of the
+company sought to be wound up become in custodia legis and
+are taken over by the Company Liquidator,
+section 290
+of the
+Companies Act, 2013 would indicate that the Company
+Liquidator may carry on the business of the company, so far as
+may be necessary, for the beneficial winding up of the
+company, and may even sell the company as a going concern.
+So long as no actual sales of the immovable or movable
+properties have taken place, nothing irreversible is done which
+would warrant a Company Court staying its hands on a transfer
+22
+application made to it by a creditor or any party to the
+      proceedings. It is only where the winding up proceedings have
+      reached a stage where it would be irreversible, making it
+      impossible to set the clock back that the Company Court must
+      proceed with the winding up, instead of transferring the
+      proceedings to the NCLT to now be decided in accordance with
+      the provisions of the Code. Whether this stage is reached would
+      depend upon the facts and circumstances of each case.”
+23.   A conspectus of the aforesaid authorities would show that a petition
+
+either under
+Section 7
+or
+Section 9
+of the IBC is an independent proceeding
+
+which is unaffected by winding up proceedings that may be filed qua the
+
+same company. Given the object sought to be achieved by the IBC, it is
+
+clear that only where a company in winding up is near corporate death that
+
+no transfer of the winding up proceeding would then take place to the NCLT
+
+to be tried as a proceeding under the IBC. Short of an irresistible conclusion
+
+that corporate death is inevitable, every effort should be made to
+
+resuscitate the corporate debtor in the larger public interest, which includes
+
+not only the workmen of the corporate debtor, but also its creditors and the
+
+goods it produces in the larger interest of the economy of the country. It is,
+
+thus, not possible to accede to the argument on behalf of the Appellant that
+
+given
+Section 446
+of the Companies Act, 1956 /
+Section 279
+of the
+
+Companies Act, 2013, once a winding up petition is admitted, the winding
+
+up petition should trump any subsequent attempt at revival of the company
+
+through a
+Section 7
+or
+Section 9
+petition filed under the IBC. While it is true
+23
+that
+Sections 391
+to
+393
+of the Companies Act, 1956 may, in a given factual
+
+circumstance, be availed of to pull the company out of the red,
+Section
+
+230(1)
+of the Companies Act, 2013 is instructive and provides as follows:
+“230. Power to compromise or make arrangements with
+     creditors and members.—(1) Where a compromise or
+     arrangement is proposed—
+(a) between a company and its creditors or any
+           class of them; or
+(b) between a company and its members or any
+           class of them,
+     the Tribunal may, on the application of the company or of any
+     creditor or member of the company, or in the case of a company
+     which is being wound up, of the liquidator, appointed under this
+     Act or under the Insolvency and Bankruptcy Code, 2016, as the
+     case may be, order a meeting of the creditors or class of
+     creditors, or of the members or class of members, as the case
+     may be, to be called, held and conducted in such manner as
+     the Tribunal directs.
+Explanation.—For the purposes of this sub-section,
+     arrangement includes a reorganisation of the company’s share
+     capital by the consolidation of shares of different classes or by
+     the division of shares into shares of different classes, or by both
+     of those methods.
+xxx xxx xxx”
+
+What is clear by this Section is that a compromise or arrangement can also
+
+be entered into in an IBC proceeding if liquidation is ordered. However,
+
+what is of importance is that under the
+Companies Act
+, it is only winding up
+
+that can be ordered, whereas under the IBC, the primary emphasis is on
+
+revival of the corporate debtor through infusion of a new management.
+24
+24.   On facts also, in the present case, nothing can be said to have
+
+become irretrievable in the sense mentioned in paragraph 31 of
+Action
+
+Ispat
+(supra).
+25.   It is settled law that a secured creditor stands outside the winding up
+
+and can realise its security dehors winding up proceedings.
+In
+M.K.
+
+Ranganathan v. Govt. of Madras
+, (1955) 2 SCR 374, this Court held:
+“The position of a secured creditor in the winding up of a
+      company has been thus stated by Lord Wrenbury in Food
+      Controller v. Cork [1923 Appeal Cases 647]:
+“The phrase ‘outside the winding up’ is an
+              intelligible phrase if used, as it often is, with
+              reference to a secured creditor, say a mortgagee.
+              The mortgagee of a company in liquidation is in a
+              position to say “the mortgaged property is to the
+              extent of the mortgage my property. It is immaterial
+              to me whether my mortgage is in winding up or not.
+              I remain outside the winding up” and shall enforce
+              my rights as mortgagee. This is to be contrasted
+              with the case in which such a creditor prefers to
+              assert his right, not as a mortgagee, but as a
+              creditor. He may say ‘I will prove in respect of my
+              debt’. If so, he comes into the winding up”.
+It is also summarised in Palmer’s Company Precedents Vol. II,
+      page 415:
+“Sometimes the mortgagee sells, with or without the
+              concurrence of the liquidator, in exercise of a power
+              of sale vested in him by the mortgage. It is not
+              necessary to obtain liberty to exercise the power of
+              sale, although orders giving such liberty have
+              sometimes been made”.
+The secured creditor is thus outside the winding up and can
+      realise his security without the leave of the winding up Court,
+25
+though if he files a suit or takes other legal proceedings for the
+     realisation of his security he is bound under
+Section 231
+(corresponding with
+Section 171
+of the Indian Companies Act)
+     to obtain the leave of, the winding up Court before he can do
+     so although such leave would almost automatically be granted.
+Section 231
+has been read together with
+Section 228(1)
+and
+     the attachment, sequestration, distress or execution referred to
+     in the latter have reference to proceedings taken through the
+     Court and if the creditor has resort to those proceedings he
+     cannot put them in force against the estate or effects of the
+     Company after the commencement of the winding up without
+     the leave of the winding up Court. The provisions in
+Section 317
+are also supplementary to the provisions of
+Section 231
+and
+     emphasise the position of the secured creditor as one outside
+     the winding up, the secured creditor being, in regard to the
+     exercise of those rights and privileges, in the same position as
+     he would be under the Bankruptcy Act.
+The corresponding provisions of the
+Indian Companies Act
+have been almost bodily incorporated from those of the
+English
+     Companies Act
+and if there was nothing more, the position of
+     the secured creditor here also would be the same as that
+     obtaining in England and he would also be outside the winding
+     up and a sale by him without the intervention of the Court would
+     be valid and could not be challenged as void under
+Section
+     232(1)
+, Indian Companies Act.”
+                                                    (at pages 383, 384)
+
+This principle has been followed in
+Central Bank of India v. Elmot
+
+Engineering Co.
+, (
+1994) 4 SCC 159 (at paragraph 14), Industrial Credit
+
+and Investment Corpn. of India Ltd. v. Srinivas Agencies
+, (
+1996) 4 SCC
+
+165 (at paragraph 2), and Board of Trustees, Port of Mumbai v. Indian
+
+Oil Corpn.
+, (1998) 4 SCC 302 (at paragraph 12).
+26
+26.   Indiabulls, a secured creditor of the corporate debtor, viz. SRUIL,
+
+has, in enforcement of its debt by a mortgage, sold the mortgaged property
+
+outside the winding up. The aforesaid sale is the subject matter of
+
+proceedings in the Bombay High Court filed by the provisional liquidator. If
+
+the aforesaid sale is set aside, the asset of SRUIL that has been sold will
+
+come back to the provisional liquidator for the purposes of winding up. If
+
+the sale is upheld, equally, there are other assets of SRUIL which continue
+
+to be in the hands of the provisional liquidator for the purposes of winding
+
+up. We may also add that on the facts of this case, though no application
+
+for transfer of the winding up proceeding pending in the Bombay High Court
+
+has been filed, the Bombay High Court has itself, by the orders dated
+
+28.11.2019 and 23.01.2020, directed the provisional liquidator to hand over
+
+the records and assets of SRUIL to the IRP in the
+Section 7
+proceeding
+
+that is pending before the NCLT. No doubt, this has not yet been done as
+
+the IRP has not yet been able to pay the requisite amount to the provisional
+
+liquidator for his expenses.
+27.   Dr. Singhvi and Shri Ranjit Kumar have vehemently argued that SREI
+
+has suppressed the winding up proceeding in its application under
+Section
+
+7
+of the IBC before the NCLT and has resorted to
+Section 7
+only as a
+
+subterfuge to avoid moving a transfer application before the High Court in
+27
+the pending winding up proceeding. These arguments do not avail the
+
+Appellant for the simple reason that
+Section 7
+is an independent
+
+proceeding, as has been held in catena of judgments of this Court, which
+
+has to be tried on its own merits. Any “suppression” of the winding up
+
+proceeding would, therefore, not be of any effect in deciding a
+Section 7
+petition on the basis of the provisions contained in the IBC. Equally, it
+
+cannot be said that any subterfuge has been availed of for the same reason
+
+that
+Section 7
+is an independent proceeding that stands by itself. As has
+
+been correctly pointed out by Shri Sinha, a discretionary jurisdiction under
+
+the fifth proviso to
+Section 434(1)(c)
+of the Companies Act, 2013 cannot
+
+prevail over the undoubted jurisdiction of the NCLT under the IBC once the
+
+parameters of
+Section 7
+and other provisions of the IBC have been met.
+
+For all these reasons, therefore, the appeal is dismissed and the interim
+
+order that has been passed by this Court on 18.12.2020 shall stand
+
+immediately vacated.
+………………….......................J.
+                                           [ ROHINTON FALI NARIMAN ]
+
+
+                                           ………………….......................J.
+                                                    [ B.R. GAVAI ]
+New Delhi;
+March 01, 2021.
+28

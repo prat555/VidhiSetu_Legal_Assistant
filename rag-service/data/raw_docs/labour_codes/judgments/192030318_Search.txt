@@ -1,0 +1,2093 @@
+Title: Search
+Court: High Court
+Date: 90 OF 2012
+Citation: SCC 125.
+Source: https://indiankanoon.org/doc/192030318/
+
+[Cites
+12
+, Cited by
+16
+]
+Bombay High Court
+Nimbus Communications Limited vs Board Of Control For Cricket In India on 27 February, 2012
+Author:
+D.Y.Chandrachud
+Bench:
+D.Y.Chandrachud
+,
+M.S. Sanklecha
+PNP                                   1/29                               APPL90-27.2.sxw
+
+
+          IN THE HIGH COURT OF JUDICATURE AT BOMBAY
+              ORDINARY ORIGINAL CIVIL JURISDICTION
+
+
+
+
+                                                                                 
+                   APPEAL (LODG.) NO.90 OF 2012
+                               IN
+
+
+
+
+                                                         
+            ARBITRATION PETITION (LODG.) NO.43 OF 2012
+    Nimbus Communications Limited                                 ..Appellant.
+
+
+
+
+                                                        
+         versus
+    Board of Control for Cricket in India 
+    and another                                                   ..Respondents.
+                                WITH
+
+
+
+                                            
+                     APPEAL (LODG.) NO.91 OF 2012
+                              igWITH
+                  CHAMBER SUMMONS NO.249 OF 2012
+                                 IN
+                 ARBITRATION PETITION NO.167 OF 2012
+                            
+    NEO Sports Broadcast Pvt. Limited                             ..Appellant.
+         versus
+    Board of Control for Cricket in India 
+        
+
+
+    and another                                                   ..Respondents.
+     
+
+
+
+                                WITH
+                     APPEAL (LODG.) NO.92 OF 2012
+                                 IN
+                 ARBITRATION PETITION NO.167 OF 2012
+
+
+
+
+
+    NEO Sports Broadcast Pvt. Limited                            ..Appellant.
+          versus
+    Board of Control for Cricket in India 
+
+
+
+
+
+    and another                                                  ..Respondents.
+                                           .....
+    Mr. Virag Tulzapurkar, Senior Advocate with Mr. Anil Menon i/b Anil 
+    Menon   &   Associates   for   the   Appellant   in   APP(L)   90/2012   and   for 
+    Respondent No.2 in APP(L) 91/2012 and 92/2012.
+
+    Dr. Virendra Tulzapurkar, Senior Advocate with Mr. H.N. Thakore, Mr. 
+    Pranav Sampat, Mr. Rizvi Nasir i/b Thakore Jariwala & Associates for 
+    the Appellant in APP(L) 91/0212 and 92/2012.
+
+
+
+                                                         ::: Downloaded on - 09/06/2013 18:13:34 :::
+     PNP                                   2/29                                APPL90-27.2.sxw
+
+
+    Mr. Rafique Dada, Senior Advocate with Mr. T.N.Subramanian, Senior 
+    Advocate, Mr. P.R. Raman, Ms. Akhila Kaushik, Mr. Nikhil Sakhardande, 
+    Mr.   Indranil   Deshmukh,   Mr.   Rahul   Mascarenhas   and   Mr.   Adarsh 
+
+
+
+
+                                                                                  
+    Saxena i/b Amarchand Mangaldas & S.A. Shroff & Co. for Respondent 
+    No.1 in all the appeals.
+
+
+
+
+                                                         
+                                         ......
+                               CORAM :  DR.D.Y.CHANDRACHUD &
+                                         M.S. SANKLECHA, JJ.
+
+
+
+
+                                                        
+                                              27 February 2012.
+
+    ORAL JUDGMENT (Per DR.D.Y.CHANDRACHUD, J.)  :
+Admit.  With the consent of Counsel and at their request the
+1.
+                             
+    Appeals are taken up for hearing and final disposal.
+These three appeals arise out of an order passed by a learned 
+                            
+    Single Judge on 19 January 2012 on an application for ad interim 
+    relief in a petition under
+Section 9
+of the Arbitration and Conciliation 
+    Act 1996 and from an ad interim order dated 27 January 2012 on a 
+           
+
+
+    Chamber Summons for amendment of the petition under
+Section 9
+.
+Two appeals against the order dated 19 January 2012 and against the 
+    order   dated   27   January   2012   have   been   filed   by   the   Second 
+    Respondent   to   the   arbitration   petition.     One   appeal   by   the   First 
+
+
+
+
+
+    Respondent is against the order dated 19 January 2012.
+2.    All   the   appeals   have   been   placed   together   by   consent   for 
+
+
+
+
+
+    hearing  and final  disposal   and since  the issues  are common,  they 
+    have   been   disposed   of   by   this   judgment.     For   convenience   of 
+    reference it would be appropriate to   refer to the parties as they 
+    appear in the arbitration petition under
+Section 9
+.
+3.    On 15 October 2009 a Media Rights Licensing Agreement was
+::: Downloaded on - 09/06/2013 18:13:34 :::
+PNP                                    3/29                                APPL90-27.2.sxw
+
+
+    entered into between the Board of Control for Cricket in India (the 
+    Petitioner)   and     Nimbus   Communications   Limited   (the   First 
+
+
+
+
+                                                                                   
+    Respondent).  Under the agreement, the Petitioner granted to the First 
+    Respondent during the period commencing from 1 April 2010 until 31 
+
+
+
+
+                                                           
+    March   2014   inter   alia   television   rights,   radio   rights,   and   licensee 
+    mobile rights on an exclusive basis in relation to the territory covered 
+
+
+
+
+                                                          
+    by   the   agreement.     The   agreement   stipulated   that   the   First 
+    Respondent would pay to the Petitioner an amount of Rs.31.25 Crores 
+    for every match, be it a one day international, a test match or a 
+
+
+
+
+                                              
+    20/20 international match.  The payment terms inter alia stipulated as 
+    follows :
+"Licensee   specifically   acknowledges   that   Licensor   is   in 
+                             
+           negotiations with  the ICC  and  the Cricket  Boards  of  various 
+           countries to finalise the Future Tours Programme ('FTP') for all 
+           bilateral cricket tours by the Indian National Team from April 
+           2010 onwards and changes are likely to take place in the above 
+           
+
+           schedule   of   Matches.     To   the   extent   any   series   or   Match/ 
+           Matches is/are either increased or reduced in any year during 
+        
+
+
+
+           the   Rights   Period,   the   Rights   Fee   payable   will   be   pro   rata 
+           increased for the extra  series  or  Match/Matches, as  the case 
+           may   be,   or   decreased   to   the   extent   of   the   series   or 
+           Match/Matches reduced, as the case may be, based on the Per 
+
+
+
+
+
+           Match   Value   stated   above   for   all   the   series   or   Matches   as 
+           included   in   the   schedule   below   or   New   series   scheduled   by 
+           Licensor.   It being understood and agreed by licensee that if 
+           Licensor decides to schedule a Tri series the amount paid per 
+
+
+
+
+
+           match will remain as per the Per match Value defined above."
+4.     Under clause 7.2 the rights fee was to be paid by the licensee, 
+    the First Respondent, to the Petitioner in installments and by the due 
+    dates indicated in the schedule.   50% of the fee was payable not 
+    later than thirty days before the commencement of each series, while 
+    the balance was payable within sixty days after the scheduled date of
+::: Downloaded on - 09/06/2013 18:13:34 :::
+PNP                                    4/29                               APPL90-27.2.sxw
+
+
+    the last match of the series.   Clause 13 of the agreement stipulated 
+    that the First Respondent shall not assign, sub-contract or otherwise 
+
+
+
+
+                                                                                  
+    part   with   the   benefit   of   the   agreement   without   the   prior   written 
+    consent of the Petitioner, which was not to be unreasonably delayed.
+However, the First Respondent was entitled to assign the rights and 
+    benefits  granted   under   the   agreement   to   any   affiliate   without   the 
+
+
+
+
+                                                         
+    consent of the licensor, it being agreed that the First Respondent shall 
+    remain fully and primarily responsible for and liable to the licensor 
+    for the performance of the agreement.  The expression 'affiliate'  was 
+
+
+
+
+                                             
+    defined in the agreement as follows :
+"Affiliate shall mean any person controlling, controlled by or 
+          under   common   control   with   a   specified   person   and,   for   the 
+          purposes of this Agreement,  "control"  means the power of a 
+                            
+          person (directly or indirectly) to direct or cause the direction of 
+          the   management   and   polices   of   any   other   person   or   the 
+          ownership   (directly   or   indirectly)   of   more   than   fifty   percent 
+          (50%) of the equity or capital of, or the voting power in, any 
+           
+
+
+          other person."
+5.    Parties therefore contemplated that the First Respondent would 
+    be   entitled   to   assign   the   rights   and   benefits   granted   under   the 
+
+
+
+
+
+    agreement   inter   alia   to   an   entity   which   the   First   Respondent 
+    controlled by exercising more than 50% of the voting power in the 
+    equity capital.
+6.    After   the   execution   of   the   agreement,   on   15   October   2009 
+    parties arrived at two addenda respectively on 21 October 2009 and 
+    22   August   2011..     As   permitted   by   the   agreement   between   the 
+    Petitioner   and   the   First   Respondent,   the   First   Respondent   in   turn 
+    entered into an agreement with the Second Respondent, called the
+::: Downloaded on - 09/06/2013 18:13:34 :::
+PNP                                    5/29                                APPL90-27.2.sxw
+
+
+    Television   Rights   Agreement   on   16   October   2010.     The   agreement 
+    stated that the First Respondent had been granted certain exclusive 
+
+
+
+
+                                                                                   
+    commercial and media rights by the Petitioner for all international 
+    cricket matches organised by the Petitioner in India under a Media 
+
+
+
+
+                                                           
+    Rights Agreement.  By the agreement between the First and Second 
+    Respondents, the First Respondent granted to the Second Respondent, 
+
+
+
+
+                                                          
+    in   consideration   for   a   media   rights   free,   broadcast   rights   for   the 
+    territory to the events taking place during the term subject to the 
+    conditions set out in the agreement.  The broadcast rights granted to 
+
+
+
+
+                                              
+    the   Second   Respondent   comprised   solely   of   the   exclusive   right   to 
+                              
+    broadcast the event in the territory by means of television rights with 
+    a commentary  in English.     Clause 6  of  the agreement  sets  out  a 
+                             
+    Media   Rights   Fee   payable   to   the   First   Respondent   by   the   Second 
+    Respondent,   while   clause   7   spells   out   the   installments   for   making 
+    payment.
+7.     There is no dispute about the fact that payments which were 
+    due and payable by the First Respondent to the Petitioner in 2010-11 
+
+
+
+
+
+    in respect of the series against Australia and New Zealand were duly 
+    paid.   The schedule of matches for 2011-12 included a series each 
+    against England and West Indies.  For the series against England an 
+
+
+
+
+
+    amount of Rs.103.40 Crores was due and payable towards the second 
+    installment   on   29   December   2011,   which   has   not   been   paid.     In 
+    respect of the series against West Indies, an amount of Rs.63.78 Crores 
+    was due and payable on 6 October 2011 towards the first installment 
+    and an amount of Rs.137.87 Crores was due and payable against the 
+    second installment on 11 February 2012 which was not paid.  A total 
+    amount of Rs.305.06 Crores is claimed by the Petitioner as being due
+::: Downloaded on - 09/06/2013 18:13:34 :::
+PNP                                   6/29                               APPL90-27.2.sxw
+
+
+    and payable by the First Respondent.   This claim is in respect of 
+    matches which were held and which were telecast by the Second 
+
+
+
+
+                                                                                 
+    Respondent.   The First Respondent has not paid the amount which 
+    the Petitioner has claimed to be due and payable despite a demand.
+8.    At this stage, it may be necessary to advert to the fact that the 
+
+
+
+
+                                                        
+    First Respondent had furnished bank guarantees in the amount of Rs.
+    1647 Crores to the Petitioner.  The bank guarantees were invoked and 
+    it is common ground before  the  Court  that  the  banks  which  had 
+
+
+
+
+                                            
+    issued the guarantees have declined to pay.  The Petitioner has filed 
+                             
+    three suits against three banks which are pending.
+9.    An   arbitration   petition   was   filed   before   the   learned   Single 
+    Judge   by   the   Petitioner   under
+Section   9
+of   the   Arbitration   and 
+    Conciliation Act 1996.  The reliefs  which were sought in the petition 
+           
+
+
+    were - (i) A direction to the Respondents to deposit all monies which  
+        
+
+
+
+    they   had   received   from   advertisements   as   consideration   for   the 
+    broadcast of advertisements on the television channel during the 2011 
+
+
+
+
+
+    cricket series under the  Media Rights Licensing Agreement; (ii) An 
+    injunction against the Respondents restraining them from calling upon 
+    the   advertisers   to   pay   the   amounts   that   may   be   due   to   the 
+
+
+
+
+
+    Respondents or to either of them for the broadcast of advertisements 
+    on television during 2011 cricket series with a further direction to the 
+    Respondents   to   call   upon   the   advertisers   to   deposit   the   amounts 
+    owed in this Court; (iii) In the alternative, an injunction restraining 
+    the   Second   Respondent   from   paying   over   any   sum   to   the   First 
+    Respondent with a further direction to deposit the amount in Court;
+(iv)  A disclosure of the amounts already received or receivable from
+::: Downloaded on - 09/06/2013 18:13:34 :::
+PNP                                     7/29                                APPL90-27.2.sxw
+
+
+    the   advertisers;   and   (v)       A   direction   to   the   First   Respondent   to 
+    furnish   security   in   the   form   of   a   deposit   in   cash   to   secure   the 
+
+
+
+
+                                                                                    
+    recovery and realisation of the dues payable by the First Respondent 
+    to the Petitioner.   During the pendency of the arbitration petition, a 
+
+
+
+
+                                                            
+    Chamber Summons has been taken out for amendment.
+10.    The   learned   Single   Judge   by   an   ad   interim   order   dated   19 
+    January 2012 issued the following directions :
+"(i)    Pending the hearing and final disposal of the arbitration 
+
+
+
+
+                                               
+           proceedings and the implementation of the award therein, the 
+           respondents shall deposit all monies which they have already 
+                              
+           received from the advertisers as consideration for broadcast of 
+           advertisements on the television channel/s owned and operated 
+           by the respondents in relation to the 2011 cricket series under 
+                             
+           the MRLA in this Court.
+(ii)   Pending the hearing and final disposal of the arbitration 
+           proceedings and the implementation of the award therein, the 
+        
+
+
+           respondents shall call upon the advertisers, listed in Exhibit 'T"
+to the petition to deposit the amount owed by them to the 
+     
+
+
+
+           respondents or  either   one  of   them  towards  consideration  for 
+           broadcast of advertisements on the television channel/s owned 
+           and operated by the respondents in relation to the 2011 cricket 
+
+
+
+
+
+           series under the MRLA in this Court.
+(iii)     The   respondents   shall   disclose   the   amounts   already 
+           received and/or receivable from each of the advertisers listed in 
+           Exhibit  'T"  to the petition, towards consideration for broadcast 
+
+
+
+
+
+           of   advertisements   on   the   television   channel/s   owned   and 
+           operated   by   the   respondents   in   relation   to   the   2011   cricket 
+           series.
+(iv)   The 1st respondent shall, within four weeks from today, 
+           furnish security by depositing in this Court, a sum of Rs.305 
+           crores.
+(v)    Upon receipt of any amounts, the Prothonotary & Senior
+::: Downloaded on - 09/06/2013 18:13:34 :::
+PNP                                    8/29                                APPL90-27.2.sxw
+Master shall invest the same in fixed deposit of a Nationalized 
+          bank, initially for a period of one year and thereafter for like 
+          periods of one year each.
+(vi)     Liberty  to  apply  for  enhancement  of  the  security  and 
+
+
+
+
+                                                           
+          further orders.
+(vii) It is clarified that this order shall operate to an aggregate 
+          extent of only Rs.305 crores. For instance, if security is furnished 
+
+
+
+
+                                                          
+          under   clause   (iv)   above,   it   will   not   be   necessary   to   deposit 
+          further amounts under clauses (i) and (ii) above."
+11.   By a separate order that was passed on 27 January 2012, the 
+
+
+
+                                             
+    learned   Single   Judge   has   issued   the   following   directions   on   the 
+                             
+    application for amendment :
+"Respondent No.1 shall not dispose of, alienate, encumber, part 
+                            
+          with possession of or create any third party rights in respect of 
+          the shares held by respondent No.1 in respondent No.2, without 
+          giving the petitioner's advocates notice of at least two weeks. 
+          This injunction shall apply in respect of the shares held and the 
+        
+
+
+          accretions   thereto   of   any   nature   whatsoever.     Further   the 
+          shareholding   pattern   of   respondent   No.2   shall   also   not   be 
+     
+
+
+
+          modified without giving the petitioner's advocates notice of two 
+          weeks."
+12.   The Second Respondent to the arbitration petition has filed two 
+    appeals against the orders respectively passed by the learned Single 
+    Judge on 19 and 27 January 2012.  The First Respondent has filed an 
+
+
+
+
+
+    appeal which is confined to the correctness of the order passed by 
+    the learned Single Judge on 19 January 2012.   The learned Single 
+    Judge was of the view prima facie that an amount of Rs.305 Crores is 
+    due and payable by the First Respondent to the Petitioner under the 
+    Media   Rights   Licensing   Agreement   dated   15   October   2009.     The 
+    learned Judge held that -  (i) There were defaults in the payment of
+::: Downloaded on - 09/06/2013 18:13:34 :::
+PNP                                    9/29                                APPL90-27.2.sxw
+
+
+    the outstandings by the First Respondent; (ii) The First Respondent is 
+    under   financial   distress;   (iii)   The   Second   Respondent   is   a   wholly 
+
+
+
+
+                                                                                   
+    owned   subsidiary   of   the   First   Respondent   as   stated   by   the   First 
+    Respondent before this Court in a prior arbitration petition; (iv) The 
+
+
+
+
+                                                           
+    agreement between the First and Second Respondents was an internal 
+    commercial   arrangement   designed   to   implement   the   Media   Rights 
+
+
+
+
+                                                          
+    Licensing Agreement between the Petitioner and the First Respondent;
+(v) The First Respondent has in fact averred in its arbitration petition 
+    that the broadcast business which is being conducted by the Second 
+
+
+
+
+                                              
+    Respondent is the business of the First Respondent; (vi) The Petitioner 
+                              
+    is no longer secured by the bank guarantees because the banks have 
+    refused to pay; (vii) There is an admission of liability contained in the 
+                             
+    balance-sheet of the First Respondent as of 31 March 2010; (viii) The 
+    Second   Respondent   being   a   wholly   owned   subsidiary   of   the   First 
+    Respondent, the shareholding of the Second Respondent constitutes a 
+        
+
+
+    valuable asset of the First Respondent.   In that view of the matter, 
+     
+
+
+
+    the   Second   Respondent   being   a   separate   entity   would   make   no 
+    difference.  On these findings, the learned Single Judge directed the 
+
+
+
+
+
+    Respondents to deposit all amounts which may have been received 
+    from the advertisers and which may be received hereafter in Court to 
+    secure   the   claim   in   arbitration.     The   First   Respondent   has   been 
+
+
+
+
+
+    directed   to   furnish   security   in   the   amount   of   Rs.305   Crores   by   a 
+    deposit in Court.   The learned Single Judge has clarified that the 
+    order would operate only to the extent of an aggregate amount of 
+    Rs.305 Crores.   Moreover, if the First Respondent complies with the 
+    direction to furnish security in the amount of Rs.305 Crores, then it 
+    would not be necessary to deposit any further amount out of the 
+    revenues earned through advertisements.
+::: Downloaded on - 09/06/2013 18:13:34 :::
+PNP                                     10/29                                APPL90-27.2.sxw
+13.    All the three appeals have been heard together.   During the 
+
+
+
+
+                                                                                     
+    course of the hearing of the appeals, the extent of the controversy 
+    that   arises   in   these   appeals   has   narrowed   down   in   view   of   the 
+
+
+
+
+                                                             
+    statement which has been made on behalf of the original Petitioners 
+    before the Court.  Learned senior counsel appearing on behalf of the 
+
+
+
+
+                                                            
+    Petitioners has stated before the Court that since only an application 
+    for ad interim relief was made before the learned Single Judge, the 
+    Petitioner does not seek any ad interim relief as against the Second 
+
+
+
+
+                                               
+    Respondent at the present  stage, without prejudice to its rights and 
+                               
+    contentions at the hearing  of   the  arbitration  petition   to  apply  for 
+    appropriate   reliefs   as   prayed   both   against   the   First   and   Second 
+                              
+    Respondents.    During  the  course   of   the  hearing,  it   has  also   been 
+    agreed   upon   by   the   learned   counsel   before   the   Court   that   the 
+    Chamber Summons for amendment which has been taken out by the 
+        
+
+
+    Petitioner   may   be   allowed.     Accordingly,   by   consent   Chamber 
+     
+
+
+
+    Summons 249 of 2012 for amendment shall stand allowed and the 
+    amendment shall be carried out within a period of one week from 
+
+
+
+
+
+    today.     Since   it   has   been   clarified   before   this   Court   that   the   ad 
+    interim application is not being pressed at this stage as against the 
+    Second   Respondent,   that   part   of   the   order   of   the   learned   Single 
+
+
+
+
+
+    Judge would have to be suitably modified in the final directions that 
+    would   be   issued   in   the   appeal.         The   principle   issue   that   now 
+    remains for consideration relates to the direction that has been issued 
+    by the learned Single Judge calling upon the First Respondent to the 
+    arbitration petition to furnish security in the amount of Rs.305 Crores 
+    by a deposit of a like amount in Court.
+::: Downloaded on - 09/06/2013 18:13:34 :::
+PNP                                        11/29                               APPL90-27.2.sxw
+14.         Learned   Senior   Counsel   appearing   on   behalf   of   the   First 
+    Respondent, Nimbus Communications Ltd., submitted that -
+(i)
+Section 9(ii)(b)
+empowers the Court to grant an interim measure 
+                of protection to secure the amount in dispute in arbitration.
+However,   the   power   which   is   exercised   by   the   Court   under
+Section 9(ii)(b)
+can be exercised only subject to the conditions 
+
+
+
+
+                                                             
+                which are spelt out in
+Order 38 Rule 5 of the Code of Civil 
+                Procedure
+1908 in view of the judgment of the Supreme Court 
+                in
+Adhunik Steels Limited v. Orissa Manganese and Minerals 
+
+
+
+
+                                                  
+                (P) Ltd.1
+(ii) The entire basis on which relief has been sought under
+Section 
+                                 
+                9(ii)(b)
+as spelt out in paragraph 9 of the arbitration petition is 
+                on the hypothesis that the First Respondent may secrete monies 
+                receivable from the advertisers in order to obstruct or delay the 
+        
+
+
+                execution of the dues of the petitioner.  The First Respondent, it 
+     
+
+
+
+                has been urged, has stated on an affidavit and reiterates before 
+                the   Court   that   no   amount   is   due   and   receivable   from 
+
+
+
+
+
+                advertisers   by   the   First   Respondent   and   hence   the   basis   on 
+                which relief has been sought under
+Section 9
+is not existent. 
+                Except for this circumstance, no case has been made out for 
+
+
+
+
+
+                the grant of any order on principles analogous to those set out 
+                in Order 38 Rule 5; and
+(iii)The   First   Respondent   has   a   substantial   defence   to   urge   as 
+                against the claim of the Petitioner on the following grounds :
+(a)   The   scheme   of   payment   in   the   Media   Rights   Licensing 
+    1 (2007) 7 SCC 125.
+::: Downloaded on - 09/06/2013 18:13:34 :::
+PNP                                      12/29                               APPL90-27.2.sxw
+
+
+            Agreement   contemplated   that   a   series   between   India   and 
+            Pakistan would be held in 2011-12 which did not take place;
+(b)    In breach of the representations and warranties made by 
+            the   petitioner   to   the   First   Respondent   in   clause   9   of   the 
+
+
+
+
+                                                             
+            agreement the best possible team was not selected to tour the 
+            West Indies and all the top players of the Indian Team were 
+
+
+
+
+                                                            
+            rested during the series;
+(c)    The addendum to the agreement would require that the 
+            guarantee of Rs.1600 Crores would have to be reduced pro rata 
+
+
+
+
+                                               
+            upon the cancellation of the series with Pakistan.
+As a matter of fact, the Petitioner did not reduce the quantum 
+            of  the guarantees  and  proceeded  to  invoke  the  full  amount.
+Consequently, even assuming that the Petitioner has a claim as 
+            against the First Respondent on account of dues which were 
+            payable for the matches   which were telecast   in the series 
+        
+
+
+            against England and West Indies, the First Respondent would be 
+     
+
+
+
+            entitled to set up a counter claim and/or to set up a claim for 
+            damages in the arbitral proceedings.
+15.     On the other hand it has been urged on behalf of the original 
+    Petitioner by the learned senior counsel that -
+(i) The object and purpose of an interim measure of protection 
+            under
+Section   9(ii)(b)
+is   to   secure   the   amount   in   dispute   in 
+            arbitration and those provisions are not curtailed or restricted 
+            by those contained in
+Order 38 Rule 5 of the Code of Civil 
+            Procedure
+1908.     The   judgment   of   the   Supreme   Court   in
+Adhunik Steels
+(supra) was specifically in the context of the 
+            grant of an interlocutory injunction where the Supreme Court
+::: Downloaded on - 09/06/2013 18:13:34 :::
+PNP                                      13/29                               APPL90-27.2.sxw
+
+
+             held   that   the   general   principles   relating   to   the   grant   of 
+             injunction inter alia in the
+Specific Relief Act
+would govern;
+(ii) The basis on which the Court has been moved under
+Section 9
+for securing the amount in dispute is that there is an amount 
+
+
+
+
+                                                             
+             admittedly due and payable as a result of the fact that the 
+             matches in question were telecast and despite the clear terms 
+
+
+
+
+                                                            
+             of the agreement payment of Rs.31.25 crores per match has not 
+             been   effected.     The   First   Respondent     is   in   grave   financial 
+             difficulty and it is on the record of the Court to state that the 
+
+
+
+
+                                                
+             main source of revenue generation is the exploitation of the 
+                                
+             media rights which are traceable   to the agreement with the 
+             Petitioner.  The First Respondent is a chronic defaulter suffering 
+                               
+             from paucity of funds and an order under
+Section 9(ii)(b)
+is 
+             necessary   in   order   to   secure   the   claim   of   the   Petitioner   in 
+             arbitration;
+(iii)Even a bare perusal of the nature of the defence is sufficient to 
+     
+
+
+
+             indicate that there is absolutely no substance in the contentions 
+             raised.
+16.
+Section 9
+of the Arbitration and Conciliation Act, 1996 enables a 
+    party   to   apply   to   the   Court   either   before   or   during   the   arbitral 
+
+
+
+
+
+    proceedings or at any time after the making of an award but before 
+    it is enforced in accordance with
+Section 36
+.   Clause (ii) enables a 
+    party   to   seek   an   interim   measure   of   protection   in   respect   of   the 
+    following matters :
+"(a) the   preservation,   interim   custody   or   sale   of   any   goods 
+            which are the subject-matter of the arbitration agreement;
+(b) securing the amount in dispute in the arbitration;
+(c) the detention, preservation or inspection of any property
+::: Downloaded on - 09/06/2013 18:13:34 :::
+PNP                                   14/29                              APPL90-27.2.sxw
+
+
+          or   thing   which   is   the   subject-matter   of   the   dispute   in 
+          arbitration, or as to which any question may arise therein and 
+          authorising   for   any   of   the   aforesaid   purposes   any   person   to 
+
+
+
+
+                                                                                 
+          enter upon any land or building in the possession of any party, 
+          or authorising any samples to be taken or any observation to 
+
+
+
+
+                                                         
+          be made, or experiment to be tried, which may be necessary or 
+          expedient   for   the   purpose   of   obtaining   full   information   or 
+          evidence;
+(d) interim injunction or the appointment of a receiver;
+(e) such other interim measure of protection as may appear 
+          to the Court to be just and convenient,
+          and the Court shall have the same power for making orders as 
+          it has for the purpose of, and in relation to, any proceedings 
+
+
+
+
+                                            
+          before it."
+17.
+                            
+          The provision enunciates that the Court shall have the same 
+    power for making orders as it has for the purpose of and in relation 
+                           
+    to any proceedings before it.   Now it is in this background, that it 
+    would   be   necessary   to   consider   the   basic   issue   raised.     The 
+    submission of the First Respondent is that when a Court passes an 
+        
+
+
+    order providing for an interim measure of protection for securing the 
+     
+
+
+
+    amount in dispute in arbitration, the power can be exercised only 
+    subject to the restrictions which are spelt out in
+Order 38 Rule 5 of 
+
+
+
+
+
+    the Code of  Civil Procedure
+1908.     Order  38 Rule  5 applies  in  a 
+    situation where at any stage of a suit, the Court is satisfied that the 
+    defendant (i) is about to dispose of the whole or part of his property 
+
+
+
+
+
+    or (ii) is about to remove the whole or part of his property from the 
+    local limits of the jurisdiction of the Court with intent to obstruct or 
+    delay the execution of any decree that may be passed against him. 
+    In such an event the Court may direct the defendant either to furnish 
+    security in such sum as may be specified in the order, to produce the 
+    property and place it at the disposal of the Court when required or 
+    the value of the same or such portion as may be sufficient to satisfy
+::: Downloaded on - 09/06/2013 18:13:34 :::
+PNP                                    15/29                               APPL90-27.2.sxw
+
+
+    the decree.  The exercise of the power under Rule 5 of Order 38 is 
+    thus conditioned by two requirements, the first being in regard to the 
+
+
+
+
+                                                                                   
+    conduct of the defendant, in that he is about to alienate his property 
+    or to remove it from the jurisdiction of the Court and the second, the 
+
+
+
+
+                                                           
+    intention of the defendant to obstruct or delay the execution of a 
+    decree that may be passed against him.  Parliament in the provisions 
+
+
+
+
+                                                          
+    of
+Section 9(ii)(b)
+contemplated an interim measure of protection to 
+    secure   the   amount   in   dispute   in   the   arbitration.     The   object 
+    underlying the conferment of the power upon the Court is to ensure 
+
+
+
+
+                                              
+    that the fruits of an arbitral award which may eventually be passed 
+                              
+    against the defendant to the claim are not lost to the claimant by a 
+    dissipation of the property in the meantime.  The issue as to whether 
+                             
+    the power which has been conferred on the Court under
+Section 9
+is 
+    hedged in by the specific provisions
+of the Code of Civil Procedure
+1908   came   up   before   a   Division   Bench   of   this   Court   initially   in
+National Shipping Company of Saudi Arabia v. Sentrans Industries 
+     
+
+
+
+    Limited2
+.     The   issue   before   the   Court   was   whether   the   power 
+    exercisable by the Court under
+Section 9(ii)(b)
+of passing an interim 
+
+
+
+
+
+    measure for securing the amount in dispute in the arbitration was 
+    restricted   by   the   conditions   of   attachment   before   judgment   as 
+    prescribed under Order 38 Rule 5.   Mr. Justice R.M. Lodha   (as the 
+
+
+
+
+
+    Learned Judge then was) speaking for the Division Bench held that as 
+    a   principle   of   law   a   special   provision   of   the   nature   embodied   in
+Section 9(ii)(b)
+cannot be restricted  by  importing  the  provisions  of 
+    Order 38 Rule 5.   The Division Bench held that though the power 
+    under
+Section   9(ii)(b)
+has   not   been   made   subject   to   the   stringent 
+    provisions of Order 38 Rule 5, the exercise of the power is guided by 
+    2 2004(2) Bom.C.R. 1
+::: Downloaded on - 09/06/2013 18:13:34 :::
+PNP                                    16/29                                APPL90-27.2.sxw
+
+
+    the paramount consideration that the claimant who obtains an award 
+    in his favour before the arbitrator ultimately is able to derive the 
+
+
+
+
+                                                                                    
+    fruits of the adjudication in executing the award.  The Division Bench 
+    held as follows :
+"The order under
+section 9(ii)(b)
+is in the nature of interim 
+          protection   order.     In   a   special   provision   of   the   nature   like 
+          section   9(ii)(b),   we   are   afraid,   exercise   of   power   cannot   be 
+
+
+
+
+                                                           
+          restricted by importing the provisions of Order 38, Rule 5 of the 
+          Code of Civil Procedure as it is.  The legislature while enacting 
+          section 9(ii)(b) does not seem to us to have intended to read 
+          into it the provisions of Order 38, Rule 5 of the Code of Civil 
+
+
+
+
+                                              
+          Procedure  as it is.
+......
+The provisions of
+Order 38, Rule 5 C.P.C
+. cannot be read into 
+          the   said   provision   as   it   is   nor   can   power   of   the   Court   in 
+          passing an order of interim measure under
+section 9(ii)(b)
+be 
+                            
+          made subject to  the  stringent  provision  of  Order  38,  Rule 5. 
+          The   power   of   the   Court   in   passing   the   protection   order   to 
+          secure the amount in dispute in the arbitration before or during 
+          arbitral proceedings or at any time of making of the arbitral 
+        
+
+
+          award   but   before   it   is   enforced   cannot   be   restricted   by 
+          importing the provisions set out in
+Order 38  of C.P.C
+. but has 
+     
+
+
+
+          to be exercised ex debito justitiae and in the interest of justice. 
+          The   Court   while   considering   the   application   for   interim 
+          protection   under
+section   9(ii)(b)
+is   guided   by   equitable 
+
+
+
+
+
+          consideration and each case has to be considered in the light of 
+          its   facts   and   circumstances.     The   interim   protection   order 
+          contemplated under
+section 9(ii)(b)
+is granted by the Court to 
+          protect the interest of the party seeking such order until the 
+          rights are finally adjudicated by the Arbitral Tribunal and to 
+
+
+
+
+
+          ensure that the Award passed by Arbitral Tribunal is capable of 
+          enforcement.     Though   the   power   given   to   the   Court   under
+Section 9(ii)(b)
+is very vide and is not in any way controlled by 
+          the provisions of the Code but such exercise of power, obviously, 
+          has to be guided by the paramount consideration that the party 
+          having   a   claim   adjudicated   in     its   favour   ultimately   by   the 
+          arbitrator is in a position to get the fruits of such adjudication 
+          and in executing the Award.  While dealing with the application 
+          for direction to the other party to deposit the security of the
+::: Downloaded on - 09/06/2013 18:13:34 :::
+PNP                                    17/29                               APPL90-27.2.sxw
+
+
+           amount in dispute in the arbitration, the Court also has to keep 
+           in mind the drastic nature of such order and unless a clear 
+           case not only on the merits of the claim is made out but also 
+
+
+
+
+                                                                                   
+           the   aspect   that   denial   of   such   order   would   result   in   grave 
+           injustice to the party seeking such protection order in as much 
+
+
+
+
+                                                           
+           as in the absence of such order, the applicant party succeeding 
+           before the Arbitral Tribunal may not be able to execute the 
+           Award.  The obstructive conduct of the opposite party may be 
+           one of the relevant considerations for the Court to consider the 
+
+
+
+
+                                                          
+           application under
+section 9(ii)(b)
+.  The party seeking protection 
+           order under
+section 9(ii)(b)
+ordinarily must place some material 
+           before the Court,  besides  the  merits of  the  claim  that  order 
+           under
+section 9(ii)(b)
+is eminently needed to be passed as there 
+
+
+
+
+                                              
+           is   likelihood   or   an   attempt   to   defeat   the   Award,   though   as 
+           indicated above, the provisions of
+Order 38, Rule 5 C.P.C
+. are not 
+                              
+           required to be satisfied.   The statutory discretion given to the 
+           Court   under
+section   9(ii)(b)
+must   be   exercised   judicially   in 
+           accordance with established legal principles and having regard 
+                             
+           only to relevant considerations.  In our view, this is the proper 
+           approach for consideration of the application for interim relief 
+           under
+section 9(ii)(b)
+and we hold that the provisions of
+Order 
+           38, Rule 5 of the Code of Civil Procedure
+cannot be read as it 
+        
+
+
+           is and imported in
+section 9
+of the Act of 1996.  We also hod 
+           without   hesitation   that   the   Court   is   competent   to   pass   an 
+     
+
+
+
+           appropriate   protection   order   of   interim   measure   as   provided 
+           under
+section 9(ii)(b)
+outside the provisions of
+Order 38, Rule 5 
+           Code of Civil Procedure
+.  Each case under
+section 9(ii)(b)
+of the 
+
+
+
+
+
+           Act   of   1996   has   to   be   considered   in   its   own   facts   and 
+           circumstances   and   on   the   principles   of   equity,   fair   play   and 
+           good conscience."
+18.
+In   a   subsequent   decision   of   the   Supreme   Court   in
+Arvind 
+    Constructions   Co.   (P)   Ltd.   v.   Kalinga   Mining   Corporation3
+the 
+    Supreme Court held that the power under
+Section 9
+cannot be read 
+    as   independent   of   the
+Specific   Relief   Act
+and   it   could   not   be 
+    contended   that   the   restrictions   placed   by   the
+Specific   Relief   Act
+cannot control the exercise of the power under
+Section 9
+.  The Court 
+    3 (2007) 6 SCC 798.
+::: Downloaded on - 09/06/2013 18:13:34 :::
+PNP                                    18/29                               APPL90-27.2.sxw
+
+
+    observed that while entertaining an application under
+Section 9
+, the 
+    Court must have the same power for making orders as it has for the 
+
+
+
+
+                                                                                   
+    purpose   of   and   in   relation   to   any   proceedings   before   it. 
+    Consequently   the   general   rules   that   govern   the   Court   while 
+
+
+
+
+                                                           
+    considering   the   grant   of   an   interim   injunction   at   the   threshold 
+    would   be   attracted   even   while   dealing   with   an   application   under
+Section 9
+.  The Court also noted the principle that when a power is 
+    conferred under a special statute and is conferred on an ordinary 
+    court of the land, without laying down any special condition for the 
+
+
+
+
+                                              
+    exercise of that power, the general rules of procedure would apply.
+The Supreme Court adverted to the position which was inter  alia 
+    taken   by   the   Division   Bench   of   this   Court   that   the   power   under
+Section 9
+is not controlled by
+Order 38, Rule 5 of the Code of Civil 
+    Procedure
+1908, but left it open to be determined in an appropriate 
+    case.
+19.
+In the decision of the Supreme Court in
+Adhunik Steels
+(supra) 
+    the   Respondent   had   obtained   a   mining   lease   from   the   State 
+
+
+
+
+
+    Government of Orissa and had an agreement with the appellant for 
+    raising manganese ore on its behalf.  The term of the agreement was 
+    ten years with an option to renew.  The respondent issued a notice 
+
+
+
+
+
+    of termination calling upon the appellant to remove itself from the 
+    site   contending   that   its   contract   was   in   violation   of   the   Mineral 
+    Concession Rules, 1960.  The appellant thereupon moved the District 
+    Court under
+Section 9
+for an injunction restraining the respondent 
+    from terminating the contract and from dispossessing it at site.  The 
+    District Court allowed the application under
+Section 9
+.   The High 
+    Court in appeal upheld the contention of the respondent that the loss
+::: Downloaded on - 09/06/2013 18:13:34 :::
+PNP                                     19/29                                APPL90-27.2.sxw
+
+
+    if any that may be sustained by the appellant could be calculated in 
+    monetary terms and that in view of
+Section 14(3)(c)
+of the Specific 
+
+
+
+
+                                                                                     
+    Relief Act, an injunction could not be granted.  In that view of the 
+    matter, the High Court did not consider it fit to enquire into the 
+
+
+
+
+                                                             
+    issue of the balance of convenience.   Before the  Supreme Court it 
+    was urged on behalf of the appellant that
+Section 9
+was independent 
+
+
+
+
+                                                            
+    of
+Order 39 of the Code of Civil Procedure
+1908 and the exercise of 
+    the power was not subject to the provisions contained in the
+Specific 
+    Relief   Act
+.   The  Supreme   Court   dealt   with  the  submission   in   the 
+
+
+
+
+                                               
+    following terms :
+"The grant of an interim prohibitory  injunction or an interim 
+           mandatory injunction are  governed by well known rules and it 
+           is difficult to imagine that the legislature while enacting
+Section 
+                              
+           9
+of the Act intended to make a provision which was de hors 
+           the accepted principles that governed the grant of an interim 
+           injunction.  Same is the position regarding the appointment of 
+           a receiver since the Section itself brings in, the concept of 'just 
+        
+
+
+           and convenient' while speaking of passing any interim measure 
+           of protection.   The concluding words of the Section, "and the 
+     
+
+
+
+           court shall have the same power for making orders as it has 
+           for the purpose and in relation to any proceedings before it"
+also suggest that the normal rules that govern the court in the 
+
+
+
+
+
+           grant of interim orders is not sought to be jettisoned by the 
+           provision.  Moreover, when a party is given a right to approach 
+           an ordinary court of the country without providing a special 
+           procedure or a special set of rules in that behalf, the ordinary 
+           rules   followed   by   that   court   would   govern   the   exercise   of 
+
+
+
+
+
+           power conferred by the Act."
+20.    The Supreme Court noted that the power to grant injunction by 
+    way   of   specific   relief   is   covered   by   the
+Specific   Relief   Act
+1963, 
+    injunction being a form of specific relief.
+Section 9
+, the Supreme 
+    Court   noted   does   not   contain   any   special   condition   nor   does   it 
+    provide for a special procedure.   The Court noted that whether an
+::: Downloaded on - 09/06/2013 18:13:34 :::
+PNP                                    20/29                               APPL90-27.2.sxw
+
+
+    interim measure should be ordered permitting the appellant to carry 
+    on mining operations in the face of an attempted termination of the 
+
+
+
+
+                                                                                   
+    contract would lead the court to a consideration of the classical rules 
+    for the grant of such an interim measure.  This, it was held, had to 
+
+
+
+
+                                                           
+    be   considered   based   on   the   well   settled   principles   in   that   behalf. 
+    Consequently the Supreme Court held as follows :
+"Therefore, on the whole, we feel that it would not be correct 
+           to say that the power under
+Section 9
+of the Act is totally 
+           independent of the well-known principles governing the grant 
+           of an interim injunction that generally govern the courts in this 
+
+
+
+
+                                              
+           connection."
+21.
+                              
+           The Supreme Court directed that while the respondent should 
+    not enter into a contract for mining and lifting of minerals with any 
+                             
+    other entity until conclusion of the arbitral proceedings, there was no 
+    justification in preventing it from carrying on the mining operations 
+        
+
+    by itself.
+22.    The judgment  of   the   Supreme   Court   in  Adhunik   Steels  has 
+    noted the earlier decision in Arvind Constructions which holds that 
+
+
+
+
+
+    since
+Section 9
+is a power which is conferred under a special statute, 
+    but which is exercisable by an ordinary court without laying down a 
+    special condition for the exercise of the power or a special procedure, 
+
+
+
+
+
+    the general rules of procedure of the court would apply. Consequently, 
+    where   an   injunction   is   sought   under
+Section   9
+the   power   of   the 
+    Court to grant that injunction cannot be exercised independent of the 
+    principles which have been laid down to govern the grant of interim 
+    injunctions particularly in the context of the Special Relief Act 1963. 
+    The Court, consequently would be obligated to consider as to whether
+::: Downloaded on - 09/06/2013 18:13:34 :::
+PNP                                     21/29                               APPL90-27.2.sxw
+
+
+    there   exists   a   prima   facie   case,   the   balance   of   convenience   and 
+    irreparable   injury   in   deciding   whether   it   would   be   just   and 
+
+
+
+
+                                                                                    
+    convenient to grant an order of injunction.
+Section 9
+, specifically 
+    provides in sub-clause (d) of clause (ii) for the grant of an interim 
+
+
+
+
+                                                            
+    injunction or the appointment of a receiver.  As regards sub-clause (b) 
+    of   clause   (ii)   the   interim   measure   of   protection   is   to   secure   the 
+
+
+
+
+                                                           
+    amount in dispute in the arbitration.  The underlying object of Order 
+    38 Rule 5 is to confer upon the Court an enabling power to require a 
+    defendant   to   provide   security   of   an   extent   and   value   as   may   be 
+
+
+
+
+                                               
+    sufficient to satisfy the decree that may be passed in favour of the 
+                              
+    plaintiff.  The exercise of the power to order that  security should be 
+    furnished   is,   however,   pre-conditioned   by   the   requirement   of   the 
+                             
+    satisfaction of the Court that the defendant is about to alienate the 
+    property or remove it beyond the limits of the Court with an intent 
+    to   obstruct  or   delay  execution   of   the   decree   that   may   be   passed 
+        
+
+
+    against him.
+In view of the decisions of the Supreme Court both in 
+     
+
+
+
+    Arvind Constructions and Adhunik Steels, it would not be possible 
+    to   subscribe   to   the   position   that   the   power   to   grant   an   interim 
+
+
+
+
+
+    measure of protection under
+Section 9(ii)(b)
+is completely independent 
+    of the provisions
+of the Code of Civil Procedure
+1908 or that the 
+    exercise   of   that   power   is   untrammeled   by   the   Code.     The   basic 
+
+
+
+
+
+    principle which emerges from both the judgments of the Supreme 
+    Court is that though the
+Arbitration and Conciliation Act
+1996 is a 
+    special statute,
+Section 9
+does not either attach a special condition 
+    for the exercise of the power nor does it embody a special form of 
+    procedure for the exercise of the power by the Court.   The second 
+    aspect of the provision which has been noted by the Supreme Court 
+    is the concluding part of
+Section 9
+under which it has been specified
+::: Downloaded on - 09/06/2013 18:13:34 :::
+PNP                                          22/29                         APPL90-27.2.sxw
+
+
+    that the Court shall have the same power for making orders as it has 
+    for the purpose of and in relation to any proceedings before it.  This 
+
+
+
+
+                                                                                   
+    has been interpreted in both the judgments to mean that the normal 
+    rules that govern the Court in the grant of an interlocutory order are 
+
+
+
+
+                                                           
+    not jettisoned by the provision.  The judgment of the Division Bench 
+    of   this   Court   in
+National   Shipping   Company
+(supra)   notes   that 
+
+
+
+
+                                                          
+    though the power by
+Section 9(ii)(b)
+is wide, it has to be governed by 
+    the   paramount   consideration   that   a   party   which   has   a   claim 
+    adjudicated in its favour ultimately by the arbitrator should be in a 
+
+
+
+
+                                                    
+    position to obtain the fruits of the arbitration while executing the 
+                                  
+    award. The Division Bench noted that the power being of a drastic 
+    nature, a direction to secure the amount claimed in the arbitration 
+                                 
+    petition   should   not   be   issued   merely   on   the   merits   of   the   claim, 
+    unless a denial of the order would result in grave injustice to the 
+    party seeking a protective order.  The obstructive conduct of the party 
+        
+
+
+    against whom such a direction is sought was regarded as being a 
+     
+
+
+
+    material consideration.   However, the view of the Division Bench of 
+    this Court that the exercise of power under
+Section 9(ii)(b)
+is not 
+
+
+
+
+
+    controlled   by   the   provisions
+of   the   Code   of   Civil   Procedure
+1908 
+    cannot   stand   in   view   of   the   decision   of   the   Supreme   Court   in 
+    Adhunik Steels.
+23.
+In a recent judgment of a learned Single Judge of the Delhi 
+    High Court in
+Steel Authority of India Ltd. v. AMCIPTY Ltd.4
+, the 
+    judgment of the Division Bench of this Court in  National Shipping 
+    Company was relied upon.  The Delhi High Court observed that the 
+    provisions of Order 38, Rule 5 would serve as a guiding principle for 
+    4 O.M.P. 417/2011 decided on 1 September 2011.
+::: Downloaded on - 09/06/2013 18:13:34 :::
+PNP                                    23/29                               APPL90-27.2.sxw
+
+
+    the exercise of the jurisdiction while dealing with a petition under
+Section 9
+requiring the respondent to furnish security and the basic 
+
+
+
+
+                                                                                   
+    consideration is that the Court should be satisfied that the furnishing 
+    of security is essential to safeguard the interest of the petitioner.
+24.    A   close   reading   of   the   judgment   of   the   Supreme   Court   in 
+
+
+
+
+                                                          
+    Adhunik Steels  would indicate that while the Court held that the 
+    basic principles governing the grant of interim injunction would stand 
+    attracted to a petition under
+Section 9
+, the Court was of the view 
+
+
+
+
+                                              
+    that the power under
+Section 9
+is not totally independent of those 
+                              
+    principles.  In other words, the power which is exercised by the Court 
+    under
+Section 9
+is guided by the underlying principles which govern 
+                             
+    the exercise of an analogous power in
+the Code of Civil Procedure
+1908.   The exercise of the power under
+Section 9
+cannot be totally 
+    independent of those principles.  At the same time, the Court when it 
+        
+
+
+    decides   a   petition   under
+Section   9
+must   have   due   regard   to   the 
+     
+
+
+
+    underlying purpose of the conferment of the power upon the Court 
+    which is to promote the efficacy of arbitration as a form of dispute 
+
+
+
+
+
+    resolution.  Just as on the one hand the exercise of the power under
+Section 9
+cannot be carried out in an uncharted territory ignoring the 
+    basic   principles   of   procedural   law   contained   in
+the   Code   of   Civil 
+
+
+
+
+
+    Procedure
+1908, the rigors of every procedural provision in
+the Code 
+    of Civil Procedure
+1908 cannot be put into place  to defeat the grant 
+    of relief which would subserve the paramount interests of justice.  A 
+    balance has to be drawn between the two considerations in the facts 
+    of   each   case.       The   principles
+laid   down   in
+the   Code   of   Civil 
+    Procedure
+1908 for the grant of interlocutory remedies must furnish a 
+    guide to the Court when it determines an application under
+Section 9
+::: Downloaded on - 09/06/2013 18:13:34 :::
+PNP                                    24/29                               APPL90-27.2.sxw
+
+
+    of the Arbitration and Conciliation Act, 1996. The underlying basis of 
+    Order 38 Rule 5 therefore has to be borne in mind while deciding an 
+
+
+
+
+                                                                                   
+    application under
+Section 9(ii)(b)
+.
+25.    Now in this background it would be necessary for the Court to 
+    determine as to whether a case has been made out for the grant of 
+
+
+
+
+                                                          
+    an ad interim order in terms of
+Section 9(ii)(b)
+.  Under the agreement 
+    dated   15   October   2009   between   the   petitioner   and   the   First 
+    Respondent, the First Respondent was under a contractual obligation 
+
+
+
+
+                                              
+    during the term of the contract to deposit 50% of the fee payable not 
+                              
+    later than thirty days before the commencement of each series and 
+    the  balance  within  sixty   days  after   the   scheduled   day   of   the  last 
+                             
+    match of the series.   The agreement between the parties stipulates 
+    the   consideration   payable   at   Rs.31.25   crores   for   each   match.     The 
+    agreement recognises that the Petitioner was in negotiations with the 
+        
+
+
+    ICC for  bilateral cricket tours of the Indian National Team for April 
+     
+
+
+
+    2010 and changes were likely to be made in the schedule of matches. 
+    Recognising the possibility of a change in schedule, the agreement 
+
+
+
+
+
+    postulates that to  the extent  to  which matches  were increased or 
+    reduced,   the   right   fee   payable   under   the   agreement   would   be 
+    modified   on   a   proportionate   basis.     The   contention   of   the   First 
+
+
+
+
+
+    Respondent based on the cancellation of the Indo-Pak cricket series 
+    would therefore prima facie be in the teeth of the specific contractual 
+    provision which parties incorporated.  The First Respondent has also 
+    sought to set up the plea in its letter dated 29 December 2011 that 
+    the   Petitioner   failed   to   perform   its   contractual   obligation   by   not 
+    selecting   some   of   the   leading   players   for   the   West   Indies   series. 
+    Reliance has been placed on   clause 9.3(c)(iv) to the effect that the
+::: Downloaded on - 09/06/2013 18:13:34 :::
+PNP                                  25/29                              APPL90-27.2.sxw
+
+
+    Petitioner represented and warranted that subject to the ICC future 
+    tours   programmes   commitments,   the   Petitioner   shall   procure   the 
+
+
+
+
+                                                                                
+    strongest possible Indian player representation in each bilateral BCCI 
+    event and use its best endeavours to procure the strongest possible 
+
+
+
+
+                                                        
+    international player representation in such events.   Prima facie, the 
+    contractual stipulation does not and cannot be read to interfere with 
+
+
+
+
+                                                       
+    the selection of  the Indian Cricket Team.   The presence or absence 
+    of   a   particular   player   or   of   players   cannot   furnish   the   First 
+    Respondent a reason not to pay its dues. The defence which is now 
+
+
+
+
+                                            
+    sought to be raised appears to be a feeble attempt not to comply 
+                            
+    with the contractual obligation to pay.  The addendum to the original 
+    agreement dated 22 August 2011 similarly stipulated that the value of 
+                           
+    a bank guarantee provided by the licensee would stand reduced at 
+    the commencement of each year of the rights period or after written 
+    confirmation   from  the  licensor   of   the   cancellation   of   any   matches 
+        
+
+
+    whichever was later.  The Indo-Pak series was proposed to be held in 
+     
+
+
+
+    March 2012.   The termination in the present case took place on 12 
+    December 2011, prima facie, prior to the date on which a reduction in 
+
+
+
+
+
+    the value of the bank guarantee was to take effect.
+26.   As the learned Single Judge has noted, and prima facie for the 
+    reasons noted above, the Petitioner has made out more than a strong 
+
+
+
+
+
+    prima facie case that an amount of Rs.305 Crores is due and payable 
+    to it by the First Respondent.   The First  Respondent defaulted in 
+    making payments despite being called upon to do so.  The issue as 
+    to whether an order under
+Section 9(ii)(b)
+ought to have been passed 
+    by the learned Single Judge cannot, however, be founded only on the 
+    fact that the Petitioner made out more than a strong prima facie case
+::: Downloaded on - 09/06/2013 18:13:34 :::
+PNP                                    26/29                               APPL90-27.2.sxw
+
+
+    on merits.   The learned Single Judge was moved by the Petitioner 
+    specifically with an averment that the First Respondent had admitted 
+
+
+
+
+                                                                                   
+    including in its letter dated 12 December 2011 that it was suffering 
+    from   a   severe   financial   crunch.     The   First   Respondent,   as   the 
+
+
+
+
+                                                           
+    Petitioner pointed out had admitted in its arbitration petition that the 
+    main source of revenue generation is through the exploitation of the 
+
+
+
+
+                                                          
+    rights   under   the   Media   Rights   Licensing   Agreement   with   the 
+    Petitioner.     The   entire   structure   of   business   was   built   around   a 
+    business   plan   involving   the   exploitation   of   the   rights   under   the 
+
+
+
+
+                                              
+    agreement which now   stands  terminated.    In   the  circumstances, it 
+                              
+    was urged that the First Respondent does not have the source or 
+    means to clear its outstandings for benefits which had already been 
+                             
+    enjoyed   under   the   agreement.   Now   it   is   in   this   context   that   the 
+    Petitioner    has submitted  in   the  arbitration  petition  that  the  First 
+    Respondent is unable to fulfill its  obligations due to a paucity of 
+        
+
+
+    funds   and   is   likely   to   utilise   the   funds   which   it   receives   from 
+     
+
+
+
+    advertisers.     Ultimately   it   has   been   submitted   that   the   First 
+    Respondent may utilise the funds which it receives from the Second 
+
+
+
+
+
+    Respondent with a view to obstruct, defeat or delay the claim of the 
+    Petitioner as also an arbitral award that may be passed in its favour. 
+    As the learned Single Judge noted it was  necessary to assess the 
+
+
+
+
+
+    claim of the Petitioner having regard to the distinct possibility of the 
+    Respondents facing a financial crisis in the event that they do not 
+    succeed in the disputes with the Petitioner.   The submissions which 
+    have been urged on behalf of the Petitioner in the arbitration petition 
+    must be juxtaposed in the context of the case of the First Respondent 
+    in its arbitration petition (Arbitration Petition (Lodg.) No.1425 of 2011) 
+    before   this   Court.     Counsel   appearing   on   behalf   of   the   Second
+::: Downloaded on - 09/06/2013 18:13:34 :::
+PNP                                 27/29                              APPL90-27.2.sxw
+
+
+    Respondent has stated before the Court that at present 89% of the 
+    share   holding   of   the   Second   Respondent   is   held   by   the   First 
+
+
+
+
+                                                                               
+    Respondent directly or directly.  The averments in the petition are to 
+    the effect that since 2005, the First Respondent has  entirely invested 
+
+
+
+
+                                                       
+    into Indian cricket / BCCI events; the broadcast business is almost 
+    completely dependent on media rights from BCCI; the most valuable 
+
+
+
+
+                                                      
+    asset of the business of the Second Respondent is the Media Rights 
+    Licensing Agreement and if the termination were not to be stayed, it 
+    would result in the closure of the business of the Second Respondent.
+The First Respondent has also stated that the entire business of its 
+                            
+    fully owned subsidiary, the Second Respondent, would be destroyed if 
+    the termination were allowed to stand.  Hence, in the account of the 
+                           
+    business by the First Respondent itself, it is evident prima facie that 
+    the media rights from BCCI constitute the fulcrum of the business. 
+    The   termination   of   that   business,   even   according   to   the   First 
+        
+
+
+    Respondent, would lead to the closure of the Second Respondent, its 
+     
+
+
+
+    subsidiary.  The shareholding of the First Respondent in the Second 
+    Respondent constitutes a valuable asset : its value would be liable to 
+
+
+
+
+
+    a serious erosion if the business of the Second Respondent is brought 
+    to a standstill. There is also merit in the contention of the Petitioner 
+    that in the copy of the commercial agreement between the First and 
+
+
+
+
+
+    Second Respondents that has been placed on the record before this 
+    Court, the actual monetary terms have been blanked out, so as to 
+    exclude   any   assessment   of   the   terms   of   the   commercial   bargain 
+    between   the   First   and   Second   Respondents.     Another   relevant 
+    consideration is that in an affidavit dated 10 January 2012 filed by 
+    the Second Respondent to oppose the application for ad interim relief, 
+    it   has   been   stated   that   the   First   Respondent   has   a   majority
+::: Downloaded on - 09/06/2013 18:13:34 :::
+PNP                                      28/29                               APPL90-27.2.sxw
+
+
+    shareholding   in   the   Second   Respondent.     However,   the   Second 
+    Respondent   is   stated   to   be   at   an   advanced   stage   of   inducting   a 
+
+
+
+
+                                                                                     
+    strategic investor in the company, several offers have been received 
+    and as a result it is likely that the First Respondent  "will be only a  
+
+
+
+
+                                                             
+    minority shareholder going forward."
+27.      In   this   view   of   the   matter,   and   having   due   regard   to   the 
+    principles which are embodied in Order 38, Rule 5, we are of the 
+    view that the learned Single Judge was justified in calling upon the 
+
+
+
+
+                                                
+    First Respondent to furnish security in respect of the claim of the 
+                                
+    Petitioner   in   the  amount   of   Rs.305   Crores.     Having   regard   to   the 
+    provisions of Order 38, Rule 5, it would, however, be appropriate to 
+                               
+    direct the First Respondent to furnish security.   We are of the view 
+    that the ends of justice could be met by a direction to the effect that 
+    the First Respondent shall within a period of two weeks from today 
+        
+
+
+    furnish   solvent   security   in   the   form   of   a   bank   guarantee   of   a 
+     
+
+
+
+    nationalised bank in the amount of Rs.305 Crores to the satisfaction 
+    of the Prothonotary and Senior Master.
+28.      The directions which have been issued by the learned Single 
+    Judge shall accordingly stand modified by the following directions :
+i) By   consent,   Chamber   Summons   249   of   2012   filed   by   the 
+             Petitioner for amending the petition under
+Section 9
+shall stand 
+             allowed.  The amendment shall be carried out within a period 
+             of one week from today;
+ii) The ad interim order which was passed by the learned Single 
+             Judge on 27 January 2012 in the Chamber Summons shall stand
+::: Downloaded on - 09/06/2013 18:13:34 :::
+PNP                                     29/29                               APPL90-27.2.sxw
+
+
+            extended for a further period of four weeks from today so as 
+            to enable the Petitioner to apply for appropriate relief before 
+
+
+
+
+                                                                                    
+            the learned Single Judge in the arbitration petition;
+iii) In terms of the statement which has been made by the learned 
+
+
+
+
+                                                            
+            senior counsel appearing on behalf of the Petitioner before the 
+            Court,   the   application   for   ad   interim   relief   as     against   the 
+
+
+
+
+                                                           
+            Second Respondent is not pressed at this stage, leaving it open 
+            to the Petitioner to apply before the learned Single Judge for 
+            appropriate reliefs against the Respondents.   Consequently, the 
+
+
+
+
+                                               
+            directions   contained   in   the   impugned   order   of   the   learned 
+                               
+            Single   Judge   as   against   the   Second   Respondent   shall   stand 
+            vacated;
+iv) The First Respondent shall furnish solvent security in the form 
+            of a bank guarantee of a nationalised bank in the amount of 
+            Rs.305 Crores to the satisfaction of the Prothonotary and Senior 
+        
+
+
+            Master within two weeks;
+v) All the rights and contentions of the parties are kept open to 
+            be   urged   before   the   learned   Single   Judge   in   the   arbitration 
+
+
+
+
+
+            petition.
+The Appeals are accordingly disposed of.
+There shall be no order as to costs.
+(Dr. D.Y. Chandrachud, J.)
+
+
+                                                          (M.S. Sanklecha, J.)
+::: Downloaded on - 09/06/2013 18:13:34 :::

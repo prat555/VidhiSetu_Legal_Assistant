@@ -1,0 +1,173 @@
+Title: Search
+Court: High Court
+Date: 5 of 1949
+Citation: citations: AIR1952BOM479, (1952)54BOMLR609, ILR1953BOM549, [1952]22ITR150(BOM), AIR 1952 BOMBAY 479
+Source: https://indiankanoon.org/doc/164448/
+
+[Cites
+22
+, Cited by
+21
+]
+Bombay High Court
+Jamnadas Prabhudas vs Commissioner Of Income-Tax, Bombay ... on 31 March, 1952
+Equivalent citations: AIR1952BOM479, (1952)54BOMLR609, ILR1953BOM549, [1952]22ITR150(BOM), AIR 1952 BOMBAY 479
+Author:
+Chief Justice
+Bench:
+Chief Justice
+JUDGMENT
+
+ 
+
+ Chagla, C.J.
+[1] This is an application for leave to appeal to the Supreme Court. This matter came before us on an earlier occasion and we held that under
+Section 66A(2)
+, Income-tax Act it was not a fit case for appeal to the Supreme Court. It is now sought to be contended by Sir Jamshedji Kanga that he has a right of appeal under
+Article 133(1)(a)
+and (b) of the Constitution inasmuch as the amount or value of the subject-matter is not less than RS. 20,000, or in the alternative, that the judgment, decree or final order involves directly or indirectly some claim or question respecting property of not less than Rs. 20,000.
+[2] In our opinion, it is clear that neither
+Article 133(1)(a)
+nor (b) can apply to a judgment given by this Court on a reference made under the
+Income-tax Act
+. It is clear that as far as
+Article 133(1)(a)
+is concerned, it requires that the amount or value of the subject-matter of the dispute in the Court of first instance and still in dispute on appeal was and is not less than Rs. 20,000. Therefore, that sub-clause in terms contemplates that there has been an appeal from the Court of first instance and the amount or value of the subject-matter has to be determined both from the point of view of the Court of first instance and from the point of view of the dispute on appeal. The jurisdiction that this Court exercises under the
+Income-tax Act
+is not an appellate jurisdiction, It is an advisory or consultative" jurisdiction and, therefore, in terms
+Article 133(1)(a)
+would not apply. With regard to Clause (b), it is contended by Sir Jamshedji that the same considerations do not apply to Sub-clause (b) as this is a judgment of this Court which, if not directly, at least indirectly involves some claim or question respecting property of not less than Rs. 20,000. Here again the difficulty of Sir Jamshedji is that
+Article 133(1)
+winds up by stating :
+"and where the judgment, decree or final order appealed from affirms the decision of the Court immediately below in any case other than a ease referred to in Sub-clause (c), if the High Court further certifies that the appeal involves some substantial question of law."
+So this also clearly contemplates that the judgment, decree or final order referred to in Sub-clause (b) must be a judgment, decree or final order in appeal, and then the final part of
+Article 133(1)
+requires the Court to consider whether the final decree in appeal is a decree of affirmance or not. In the first case, unless a substantial question of law is involved, no appeal lies. In the latter case there is an appeal as a matter of right.
+[3] The further contention urged by Sir Jamshedji is that in any view of the case this case falls under Sub-clause (c) of
+Article 133(1)
+and we should certify under that sub-clause that the case is a fit one for appeal to the Supreme Court. The language used in Sub-clause (c) is identical with the language used in Section 66-A (2), and on merits if we have already been satisfied that the case was not a fit one for appeal to the Supreme Court under Section 66-A (2), it is not likely that we would take a different view if the case did fall under
+Article 133(1)(c).
+But as the matter is of considerable importance and as the matter has been argued at some length both by Sir Jamshedji and the Solicitor General, it is as well to consider whether a judgment given by this Court on a reference can fall within the terms of
+Article 133(1)(c).
+[4] Now, the first question that has got to be considered is whether a judgment of this Court under
+Section 66
+is a judgment contemplated by the expression "judgment, decree or final order." Sir Jamshedji's contention is that
+Section 66(5)
+provides that the High Court upon hearing of the reference shall decide the questions of law raised thereby and shall deliver its judgment thereon containing the grounds on which such decision is founded, and a copy of the judgment has to be forwarded to the Appellate Tribunal which shall pass such orders as are necessary to dispose of the case conformably to such judgment, and therefore according to Sir Jamshedji there is an obligation upon the revenue authorities to conform to the judgment; the High Court in delivering a judgment decides the case and therefore the decision of the High Court is a judgment within the meaning of
+Article 133(1).
+If "judgment" was used in the sense in which that expression is used in the Civil Procedure Code and in the sense in which it is used in
+Section 66(5)
+, viz. the grounds on which the decision of a Court is based, then undoubtedly Sir Jamshedji would be right. But, in our opinion, --and our opinion is supported by authorities as I shall presently point out --, the expression "judgment, decree or final order" used in
+Article 133(1)
+is used in its technical English sense, which means a final declaration or determination of the rights of parties and it also means a decision given on merits, "Judgment, decree or final order" is a compendious expression and each one of the parts of this expression bear the same connotation, viz. that there is an adjudication by the Court upon the rights of the parties who appear before it. "Judgment" must not be read in this context in contradistinction to "decree or final order."
+Emphasis is also placed by Sir Jamshedji on the fact that whereas "order" is qualified by "final", "judgment" is not so qualified. We do come across the expression "final judgment, decree or order" for instance in Clause 39, Letters Patent. But if the expression "judgment" itself connotes a final adjudication by the Court upon the rights of parties, the adjective "final" which acted as a prefix to the word "judgment" was really tautologous and "judgment" by itself without the qualifying expression "final" still retains the same connotation of finality. This expression has also been used in the
+Government of India Act
+in
+Section 205
+, and that section provided for appeals to the Federal Court from any judgment, decree or final order of a High Court in British India where the High Court certified that the case involved a substantial question of law as to the interpretation of the
+Government of India Act
+or any Order in Council made under the Act, and that expression has also come in for interpretation and the interpretation put upon
+Section 205
+has been that the judgment there means a final declaration or determination of rights of parties, and it is difficult to hold that our constitution makers with
+Section 203
+before them when they used the same language that was used in
+Section 205
+used it with a different meaning in
+Article 133(1).
+[5] Sir Jamshedji says that if we were to give this meaning to the word "judgment" used in
+Article 133(1)
+, then the citizen would be totally deprived of his right to appeal to the Supreme Court in income-tax matters. For this purpose, our attention is drawn to
+Article 135
+which confers upon the Supreme Court the jurisdiction and powers which were exercisable by the Federal Court immediately before the commencement of the Constitution. This jurisdiction is additional to the jurisdiction conferred upon the Supreme Court by
+Articles 133
+and
+134
+, and Sir Jamshedji is right that if the Federal Court had no jurisdiction to hear income-tax matters, then the Supreme Court would not have the jurisdiction under
+Article 135
+, and the result might be that there would be no right to appeal to the Supreme Court either under
+Article 133
+or under
+Article 135.
+But the position in law is clear thai the Federal Court had the jurisdiction before the commencement of the Constitution to hear appeals in income-tax matters. The Privy Council had the right to hear appeals under Section 66-A (2). Then an Act was passed, being Act l of 1948, enlarging the appellate jurisdiction of the Federal Court, and under this Act the jurisdiction was conferred upon the Federal Court to hear all appeals in civil matters which were being heard by the Privy Council, and it was by reason of this Act that the Federal Court entertained appeals in income-tax matters. Then came Act 5 of 1949 passed by the Constituent Assembly, and that Act abolished the jurisdiction of the Privy Council in all matters which it heard by the compendious name of Indian Appeals. Therefore, the result of these two Acts was that before the Constitution came into force the Federal Court had the same jurisdiction that the Privy Council had under Section 66A (2) to hear appeals in income-tax matters, and if the Federal Court had the jurisdiction, the Supreme Court has also jurisdiction under
+Article 135.
+So that our putting this particular interpretation upon the expression "judgment" in
+Article 133(1)
+will not have the effect of depriving the subject of his right of appeal to the Supreme Court.
+[6] Turning to the authorities on this point, the Privy Council had occasion in
+Tata Iron and Steel Co. Ltd. v. Chief Revenue Authority of Bombay
+, 41 Bom. 794 P.C., to construe the expression "judgment." A case was stated to the High Court of Bombay and referred to it by the Chief Revenue Authority under
+Section 51
+, Income-tax Act of 1918.
+That Act
+did not provide for any appeal to the Privy Council. An appeal was preferred to the Privy Council and it was contended that the appeal lay under Clause 39 of the Letters Patent, as that clause provided for appeal to the Privy Council from a final judgment, decree or order of the High Court. The Privy Council held that the appeal wag not competent inasmuch as the decision of the High Court under the
+Income-tax Act
+was not a final judgment, decree or order. The Privy Council drew the distinction between an order of a Court which is final and an order of a Court which is merely advisory, and the Privy Council further pointed out that the mere fact that a particular authority was bound to act upon the decision given by the High Court did not necessarily make the decision of the High Court a final order. Therefore, the test the Privy Council applied was whether the jurisdiction exercised by the High Court in income-tax matters was an advisory and consultative jurisdiction or a jurisdiction which enabled the High Court to adjudicate upon the rights of the parties, and the Privy Council took the view that in income-tax matters the jurisdiction of the High Court was purely advisory and the decision of the High Court exercising that advisory jurisdiction did notConstitute a "judgment" within the meaning of Clause 39 although the income-tax authorities were found to act in accordance with the decision given by the High Court. The position is identical under
+Section 68(5)
+. Under this section too the High Court, as under the old Act of 1918, has to decide the question and deliver the judgment and the Appellate Tribunal is bound to conform to the judgment. But notwithstanding all this the jurisdiction of the High Court continues to remain advisory or consultative, and the decision which it gives and the judgment which it delivers is not a "judgment" within the meaning of
+Article 181.
+[7] The Calcutta High Court had also occasion to consider this matter in
+Prabhat Chandra v. Emperor
+, 59 cal. 646. In that case in a reference made under
+Section 66
+the two Judges of the Calcutta High Court differed, and the judgment of the senior Judge under Clause 36 of the Letters Patent prevailed.
+An appeal was preferred under Clause 16 of the Letters Patent, and the question that arose for the determination of the High Court was whether the decision of the High Court on the reference was a judgment which would attract the operation of Clause 15, and the High Court of Calcutta held that it was not a judgment within the meaning of Clause 16 and no appeal lay against the decision of a Judge of the Calcutta High Court under Clause 15, and in coming to that conclusion they relied upon the judgment of the Privy Council in
+Tata Iron and Steel Company
+'s case, (47 Bom. 724 P. C.).
+[8] The Patna High Court too had to consider a question which directly arose under
+Article 133.
+A Full Bench of the Patna High Court in
+Tobacco Manufacturers India Ltd. v. The State
+, 30 Pat. 174 F.B. had to consider, whether an appeal lay under
+Article 133
+from a judgment given by the Patna High Court in a reference made under Section 21(3), Bihar Sales Tax Act, 1944. The provisions in the Bihar Sales Tax Act with regard to the reference were similar to the provisions of the
+Indian Income-tax Act
+, and the Patna High Court had to consider the identical question and the Patna High Court took the view that a decision given by the Patna High Court on a reference under the
+Sales Tax Act
+did not constitute a judgment within the meaning of
+Article 133.
+The Patna High Court has referred to and relied on two judgments of the Federal Court.
+One is the judgment reported in Kuppuswami Rao v. The King . In that case Chief Justice Kania was called upon to construe the provisions of
+Section 205
+, Government of India Act and the learned Chief Justice observed that in England when the word "judgment" or "decree" is used, whether it is preliminary or final, it means the declaration or final determination of the rights of the parties in the matter brought before the Court, and that is the interpretation which the learned Chief Justice put upon the expression "judgment" in
+Section 205
+.
+The Patna High Court also relied on a subsequent judgment of the Federal Court reported in
+Mohammad Amin Brothers Ltd. v. Dominion of India
+, 11 F.C.R. 842. There the High Court set aside an order of another learned Judge of the same Court directing the compulsory winding up of the appellant company. An appeal was preferred from that order and a preliminary objection was raised that the appeal was incompetent under
+Section 205(1)
+, Government of India Act, and the Federal Court held that the appeal did not lie, inasmuch as no finality could attach to the order of the Court. The Patna High Court refused to be impressed, and in our opinion rightly, by the argument that was advanced before it to draw a distinction between "judgment" as used in
+Article 133
+and "final judgment" as used in Clause 39 of the Letters Patent.
+[9] Our attention has been drawn to a judgment of the Madras High Court which seems to take a different view and that is
+P.A. Raju Chettiar & Bros v. Commr. of Income-tax, Madras
+. The only question that the High Court had to consider was whether an appeal lay to the Federal Court under the provisions of Act 1 of 1948, and the Court decided that the appeal did lie inasmuch as the judgment was one from which a direct appeal could have been brought to His Majesty in Council.
+Having decided this, the learned Judges went on to consider the Privy Council case in
+Tata Iron and Steel Company
+'s Case, (47 Bom. 724 P.C.)
+and they expressed the opinion that the difference in language between "judgment" and "final judgment" makes the Privy Council case inapplicable to the application which they had to decide.
+With very great respect to the learned Judges, it is difficult to understand how any question arose with regard to what the Privy Council decided ill
+Tata Iron and Steel Company
+'s case.
+[10] Another point has also been raised which is also of considerable importance, and that is whether the proceedings in this Court on a reference under
+Section 66
+are civil proceedings, because it will be noticed that it is not every judgment, decree or final order which is subject to appeal to the Supreme Court; it must be a judgment, decree or final order in a civil proceeding; and the contention is that proceedings in this Court on a reference are not civil proceedings but revenue proceedings, and attention is drawn to the scheme of the
+Income-tax Act
+by which final assessment orders are made by revenue authorities, but in making those orders if a matter is referred to the High Court for its opinion, the revenue authorities are bound to make the assessment order in conformity with the opinion given by the High Court on the points referred to, and therefore the contention is that a reference is part of revenue proceedings, and under a revenue Act and in respect of a revenue matter certain jurisdiction is conferred upon the High Court to give advice to the revenue authorities. On the other hand, the contention urged is that 'civil proceedings' is used in contradistinction to criminal proceedings and that all the work that is done by the High Court must necessarily he either civil or criminal, and although it is pointed out that the matter may be a revenue matter, the proceedings which come before the High Court are none the less civil proceedings. As against this our attention is drawn to
+Article 133(1)
+in which a right of appeal is given to the Supreme Court in Constitutional matters and the language used by the Constituent Assembly in that article is
+  "Any judgment, decree or final order of a High Court in the territory of India, whether in a civil, criminal or other proceeding."
+Therefore, it seems that the Constituent Assembly did contemplate proceedings before a High Court which may be neither civil nor criminal. In our opinion, inasmuch as we have held that the expression "judgment, decree or final order" used in
+Article 133(1)
+does not apply to a decision given by this Court under
+Section 66
+, Income-tax Act on a reference, it is unnecessary to decide whether proceedings on a reference in this Court are civil proceedings within the meaning of
+Article 133(1).
+Therefore, when a petition is made to this Court arising out of a reference decided by this Court for leave to appeal to the Supreme Court, apart from
+Article 132
+this Court hag to consider whether leave should be granted or not only under Section 66A (2) and not under
+Article 133
+of the Constitution.
+[11] As we have already held that this is not a fit ease for appeal to the Supreme Court under
+Section 66A (2)
+, Income-tax Act, the petition must be dismissed with costs. Notice of motion dismissed with costs.
+[12] Petition dismissed

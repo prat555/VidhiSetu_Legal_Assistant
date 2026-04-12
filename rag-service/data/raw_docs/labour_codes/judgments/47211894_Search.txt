@@ -1,0 +1,1491 @@
+Title: Search
+Court: High Courts.
+Date: 81 of 2017
+Citation: SCC online SC 1025 and as quoted below :
+Source: https://indiankanoon.org/doc/47211894/
+
+[Cites
+37
+, Cited by
+15
+]
+National Company Law Appellate Tribunal
+M/S. Unigreen Global Private Limited vs Punjab National Bank on 1 December, 2017
+IN THE NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+
+            Company Appeal (AT) (Insolvency) No. 81 of 2017
+[arising out of Order dated 8th May, 2017 by NCLT, Principal Bench,
+New Delhi in C.P. No. (IB)-39(PB)/2017]
+
+
+IN THE MATTER OF :
+
+M/s. Unigreen Global Private Limited
+467-468, Katra Ishwar Bhawan,
+Khari Baoli, Delhi - 110 006                           ...Appellant
+
+Vs.
+
+1.    Punjab National Bank,
+      Large Corporate Branch,
+      Tolstoy House, Tolstoy Marg,
+      Connaught Place,
+      New Delhi - 110 001.
+
+2.    Corporation Bank,
+      M-3-4, Shopping Centre,
+      Greater Kailash -II,
+      New Delhi - 110 048.
+
+3.    Vijaya Bank,
+      N-17, Ground Floor,
+      Vijaya Building,
+      Barakhamba road,
+      New Delhi - 110 001.
+
+4.    Oriental Bank of Commerce,
+      M - 1/2/3, Connaught Circus,
+      Connaught Place,
+      New Delhi - 110 001.                      ...Respondents
+
+Present:
+
+For Appellant :        Shri Dhruv Gupta and Shri P. Nagesh, Advocates
+
+For 1st Respondent :   Shri Sartaj Singh, Advocate
+
+For 4th Respondent :   Shri Kailash Sharma, Advocate
+
+
+
+
+                                   Comp. App. (AT) (Insolvency) No. 81/2017   1
+                               JUDGMENT
+SUDHANSU JYOTI MUKHOPADHAYA, J.
+This appeal has been preferred by the appellant - Unigreen Global
+
+Private Limited (Corporate Debtor) against order dated 8th May, 2017 passed
+
+by the Adjudicating Authority (National Company Law Tribunal), Principal
+
+Bench, New Delhi whereby and whereunder the application preferred by the
+
+appellant - Corporate Debtor under Section 10 of the Insolvency &
+
+Bankruptcy Code, 2016 (hereinafter referred to as the 'I & B Code') in Form 6
+
+of the Insolvency and Bankruptcy (Application to Adjudicating Authority)
+
+Rules, 2016 (hereinafter referred to as the 'Adjudicating Authority Rules') has
+
+been rejected. The Adjudicating Authority has also imposed penalty of Rs.
+
+Ten Lakhs on the appellant - Corporate Debtor under Section 65 of the I & B
+
+Code.
+2.      The questions involved in this appeal are :
+i)    Whether     non-disclosure   of   facts   beyond     the    statutory
+
+              requirement under the I & B Code read with relevant form,
+
+              prescribed under the Insolvency and Bankruptcy (Application to
+
+              Adjudicating Authority), Rules, 2016 can be a ground to dismiss
+
+              an application for initiation of Corporate Insolvency Resolution
+
+              Process ?
+and
+ii)   Whether the penalty imposed by the Adjudicating Authority
+
+              under Section 65 of the I & B Code is legal or not?
+Comp. App. (AT) (Insolvency) No. 81/2017   2
+3.    The brief facts of the case are that the appellant - Corporate Debtor /
+
+Corporate Appellant filed an application under Section 10 in Form 6 for
+
+initiation of Corporate Insolvency Resolution Process against it on the ground
+
+that it has failed to pay the debt due to financial creditors and other creditors.
+
+On notice, Punjab National Bank (Financial Creditor) appeared and alleging
+
+the suppression of facts on the ground that the appellant has not disclosed
+
+the full facts and has not furnished full particulars in relation to the assets
+
+mortgaged or the securities furnished to the financial creditors. It was also
+
+alleged that the legal proceeding in respect of certain properties includes
+
+Khari Baoli property has been entangled by the owners themselves. In view
+
+of such submission the application preferred by the appellant has been
+
+rejected.
+4.    Before discussing the stand taken by appellant (Corporate Debtor), it is
+
+desirable to notice the stand taken by Respondent - Punjab National Bank.
+5.     According to the respondent Punjab National Bank - (Financial
+
+Creditor) civil suits were deliberately engineered and instigated with a view to
+
+remove the mortgaged properties from the accountability of the creditors. The
+
+appellant kept pending the Civil Suits, such as "Mayank Maheshwari v.
+
+Anurag Garg" - csdj/0094/2017 before the learned Additional District and
+
+Sessions Judge, Tis Hazari District Courts, Delhi. The said suit has been filed
+
+seeking a declaration and mandatory and permanent injunction against one
+
+of the Directors of the Company namely Mr. Anurag Garg. It was further
+
+alleged that subsequent to the above suit, in collusion with the plaintiff a S.A.
+
+has been filed   before DRT III alleging that two sale deeds dated 21.10.2016
+
+with respect to basement and mezzanine floor of the said property as well as
+Comp. App. (AT) (Insolvency) No. 81/2017   3
+two un-registered agreements to sell dated 1st September, 2011 had been
+
+executed by the said Director in the capacity as owner of the property in a
+
+petition under
+Section 17
+of the Securitization and Reconstruction of
+
+Financial Assets and Enforcement of Security Interest Act, 2002
+(SARFAESI
+
+Act
+) in diary No. 146/2017/DRT-III, thereby sought for recall of order dated
+
+21st January, 2017 wherein the learned CMM, Tis Hazari Court was pleased
+
+to pass an order dated 21st January, 2017 in favour of Punjab National Bank
+
+in 'Punjab National Bank vs. M/s. Unigreen Global Private Limited' appointing
+
+a Court receiver to take possession of the property. Pursuance of the said
+
+order, the Financial Creditor - Punjab National Bank has already taken over
+
+the possession of the said property. In the circumstances, it was submitted
+
+that prayer for initiation of the Corporate Insolvency Resolution Process
+
+amounts to abuse of process of law.
+6.    The aforesaid submission made on behalf of the 'Financial Creditor' has
+
+been noticed by the Adjudicating Authority in the impugned order dated 8th
+
+May, 2017, relevant of which are quoted below:
+"12.   In addition to the above details which have not been fully
+                   disclosed in the petition, Learned Counsel also contends
+                   that in relation to the Defence Enclave property of its
+                   objection statement, which property is also in the
+                   personal name of the Directors of the company, is also
+                   caught in the web of legal entanglement deliberately
+                   created by the directors of the petitioner in relation to the
+                   said property, as a civil suit again for permanent and
+                   mandatory injunction being No.9398/2016, titled as Sh.
+                   Jagat Nath Mahto vs. Vedika Overseas Tradex (P) Ltd. &
+                   Ors. is pending consideration before the Learned ASCJ,
+Comp. App. (AT) (Insolvency) No. 81/2017    4
+Karkardooma Court, Delhi and that the next date of
+      hearing is fixed for 12.05.2017 and incidentally, it is
+      pointed by the Financial Creditor that the plaintiff in the
+      above said suit allegedly also happens to be someone
+      close to the directors/ promoters of the petitioner
+      company, namely, a driver working in one of the sister
+      concerns in which both Ms. Ritu Garg and Mr. Anurag
+      Garg, being the Directors of the petitioner company are
+      also involved. The claim of the said person who happens
+      to be a driver as stated above is that he is occupying the
+      said Defence Enclave property on tenancy and that he
+      has also been paying rent in relation to the same and in
+      the circumstances, his possession should not be
+      disturbed except under due process of law.          Learned
+      Counsel for the Bank also points out that the above said
+      suit came to be filed in collusion with the Directors of the
+      applicant company on 10.05.2016 after the issue of
+      notice under
+Section 13(2)
+of the SARFAESI Act, 2002 by
+      the bank to the corporate debtor and its Directors and
+      guarantors.
+13.   A similar strategy in relation to the above Defence
+      Enclave property too as was done as described in the
+      earlier portion of the property at Khari Baoli in which the
+      Bankers/ Financial creditors had obtained the physical
+      possession also seems to have been adopted, in the
+      sense that the plaintiff in the above suit has also
+      approached the D.R.T. in SA No.48 of 2017 under
+Section
+      17
+of the SARFAESI Act, 2002 and it is submitted that
+      the same is also pending consideration and posted for
+      hearing on 01.05.2017. The Bank being the financial
+      creditor also narrates a similar set of facts in relation to
+      property, as detailed in 3 (c) of the objection statement,
+Comp. App. (AT) (Insolvency) No. 81/2017   5
+namely, House No.D-3A, Dayanand Block, Delhi-110092
+wherein it is alleged that the corporate debtor managed
+by its Director have not come with clean hands in the
+legal proceedings in which the property is entangled
+deliberately by the actions or at the instigation of the said
+Directors of the corporate debtor in order to have the
+properties removed from the clutches of law. The further
+submission of Punjab National bank, being the Lead
+Banker, in relation to the consortium of Banks and all of
+whom have made availably finances details in the
+paragraphs above is that the directors of the Corporate
+debtor have manipulated the business of the company by
+dealing directly with the buyers, thereby, by-passing the
+objection of Bank and engaging in the trading of raw-
+material instead of regular process, which action is a
+deliberate fraud and which made the accounts of
+Corporate debtor an NPA despite sanction by the Joint
+Leader Forum in relation to the approval and re-
+structuring of credit facilities vide another letter dated
+31.3.2015.    All the actions of the financial creditors,
+namely,    Punjab   National    Bank,    according    to   its
+submission, has been made only in line with the RBI
+guidelines and the Corporate debtor has come to this
+sorry state of affairs only due to the deliberate actions of
+the Directors of the corporate debtor and the way in
+which the Directors have managed the company. This
+situation has not arisen out of the business cycle as
+contended by the Corporate Debtor. It is also averred by
+the objector Bank that the Corporate Debtor is under
+enquiry by Department of Revenue Intelligence (DRI)."
+Comp. App. (AT) (Insolvency) No. 81/2017     6
+7.    Having noticed the aforesaid facts, the Adjudicating Authority observed
+
+as follows :
+"14.   From the above facts, it is averred by the Banks that it is
+                      clear that the Corporate debtor and directors also being
+                      guarantors are trying to avoid making lawful payments
+                      of the dues owed to the Bank and also thwarting the
+                      Bankers from realizing the securities by initiating several
+                      legal proceedings in different courts and Forums with the
+                      sole motive of removing their personal properties from the
+                      clutches of law and that the instant action before this
+                      Tribunal is yet another attempt in the same direction."
+8.    Learned counsel appearing on behalf of the appellant submitted that
+
+the application under
+section 10
+in Form 6 was filed with the following
+
+documents :
+i)       List of financial creditors and operational creditors as per the
+
+               balance sheet for the year 2015-16.
+ii)      Details of the security created by the Directors of the Corporate
+
+               Applicant for the loan obtained by the bank.
+iii)     the company master data
+
+      iv)      books of accounts/balance sheets evidencing the default to the
+
+               creditors.
+
+      v)       details of identifiable assets in the name of Directors of the
+company who stood as guarantors to the loans obtained from the
+
+               bank
+vi)      details of guarantee given by the guarantors in relation to the
+
+               debts of corporate debtor.
+Comp. App. (AT) (Insolvency) No. 81/2017   7
+vii)    details of all proceedings before the Debt Recovery Tribunal
+
+              between the banks and the corporate debtor and the status of the
+
+              proceedings including the status of possession of the immoveable
+
+              properties of the guarantors with the banks.
+9.    It was also submitted that the appellant dispatched the copy of the
+
+application   under
+Section    10
+by Registered     Post   to   the   Financial
+
+Creditors/banks whereinafter notice was issued in terms of Rule 7 of the
+
+Adjudicating Authority Rules, 2016. According to learned counsel for the
+
+appellant the objections of the respondent - financial creditor/banks relating
+
+to non-mentioning of the allied and collateral proceedings cannot be taken
+
+into consideration by the Adjudicating Authority as the Corporate Debtor is
+
+not involved in those proceeding/suit. It was submitted that such grounds
+
+are beyond the scope and scrutiny of initiation of Corporate Insolvency
+
+Resolution Process.
+10.   Further according to learned counsel for the Corporate Debtor as the
+
+aforesaid informations are not contemplated under the I & B Code or the
+
+Adjudicating Authority Rules, 2016, it is not open to the Financial Creditor/
+
+Banks (Respondents) to raise such issue nor the Adjudicating Authority can
+
+dismiss the application on the ground of non-disclosure of facts unrelated to
+
+the Corporate Insolvency Resolution Process.
+11.   It was further submitted that Corporate Insolvency Resolution having
+
+not been initiated the question of imposition of penalty under Section 65 of
+
+the I & B Code does not arise.
+12.   Learned counsel for the Punjab National Bank has taken the similar
+
+plea as was taken before the Adjudicating Authority and referred to above. It
+Comp. App. (AT) (Insolvency) No. 81/2017   8
+was submitted that the following details of the mortgaged property were
+
+supressed by the appellant :
+PROPERTY
+
+Shop No. 467-        Civil Suit titled "Mayank Maheshwari v. Anurag Garg"
+468, Ground &        registered as CS DJ/000094/2017 before Ld. Tis Hazari
+First Floor, Katra   Courts seeking declaration, mandatory and permanent
+Ishwar Bhavan,       injunction. An S.A. under
+Sec.17
+of SARFAESI Act,
+Khari Baoli, New     2002 also filed by Mr. Mayank Maheshwari in collusion
+Delhi.               with Mr. Anurag is pending adjudication before Lf. DRT.
+The contention of the Appellant that the suit is with
+                     respect to the basement and mezzanine floor, which are
+                     not mortgaged with the Answering Respondent proves
+                     to be false in wake of the prayer made in the afore-
+                     mentioned Civil Suit, which includes the ground floor
+                     (@ pg.377 of the Appeal)
+
+Single     storied
+                Civil Suit for permanent and mandatory injunction
+house    at    83,
+                bearing No. 9398/2016 titled as "Sh. Jagar Nath Mehto
+Defence Enclave,v. Vedika Overseas Tradex Ltd." before Ld. ASCJ,
+Vivek Marg, Delhi
+                Karkardooma Court, Delhi filed by Shri Mehto alleging
+- 110 092       that he was induced as tenant in the property after
+                appointment as a driver in the company of which Sh.
+                Anurag and Ms. Ritu Garg are directors. An S.A. under
+                Section 17 of SARFAESI Act is also pending before Ld.
+                DRT-II.
+House No. D-3A, A Securitization Application filed under
+Section 17
+of
+Dayanand Block, the SARFAESI Act, 2002 by Sh. Anurag Gar titled as
+Delhi - 110 092 "Anurag Garg v. Punjab National
+bank & Ors." Bearing
+                S.A. No. 120/2016 pending adjudication.
+13.   It was further submitted that the appellant is not precluded in law to
+
+initiate proceedings under the provisions of
+SARFAESI Act, 2002
+as has been
+
+initiated and the appellant is duty bound to bring the aforesaid facts to the
+
+notice of the Adjudicating Authority.
+14.   We have heard the parties, noticed the rival contentions and perused
+
+the record.
+Comp. App. (AT) (Insolvency) No. 81/2017   9
+15.   Before deliberating on the question involved, it is desirable to refer
+
+'Statement of Objects and Reasons' of I & B Code, 2016, as noticed by the
+
+Hon'ble Supreme Court in "
+Innoventive Industries Ltd. Vs. ICICI Bank and
+
+Ors.
+" - 2017 SCC online SC 1025 and as quoted below :
+12.      The Insolvency and Bankruptcy Code, 2016 has been
+                  passed after great deliberation and pursuant to various
+                  committee reports, the most important of which is the
+                  report of the Bankruptcy Law Reforms Committee of
+                  November, 2015. The Statement of Objects and Reasons
+                  of the Code reads as under:
+"STATEMENT OF OBJECTS AND REASONS
+                  There is no single law in India that deals with insolvency
+                  and bankruptcy. Provisions relating to insolvency and
+                  bankruptcy for companies can be found in the
+Sick
+                  Industrial Companies (Special Provisions) Act, 1985
+, the
+Recovery of Debt Due to Banks and Financial Institutions
+                  Act, 1993
+, the
+Securitisation and Reconstruction of
+                  Financial Assets and Enforcement of Security Interest
+                  Act, 2002
+and the
+Companies Act, 2013
+. These statutes
+                  provide for creation of multiple fora such as Board of
+                  Industrial and Financial Reconstruction (BIFR), Debt
+                  Recovery Tribunal (DRT) and National Company Law
+                  Tribunal (NCLT) and their respective Appellate Tribunals.
+                  Liquidation of companies is handled by the High Courts.
+                  Individual bankruptcy and insolvency is dealt with under
+                  the
+Presidency Towns Insolvency Act, 1909
+, and the
+Provincial Insolvency Act, 1920
+and is dealt with by the
+                  Courts. The existing framework for insolvency and
+                  bankruptcy is inadequate, ineffective and results in
+                  undue delays in resolution, therefore, the proposed
+                  legislation.
+1
+Comp. App. (AT) (Insolvency) No. 81/2017
+0
+2.   The objective of the Insolvency and Bankruptcy Code,
+     2015 is to consolidate and amend the laws relating to
+     reorganization and insolvency resolution of corporate
+     persons, partnership firms and individuals in a time
+     bound manner for maximization of value of assets of
+     such persons, to promote entrepreneurship, availability
+     of credit and balance the interests of all the stakeholders
+     including alteration in the priority of payment of
+     government dues and to establish an Insolvency and
+     Bankruptcy Fund, and matters connected therewith or
+     incidental thereto. An effective legal framework for timely
+     resolution of insolvency and bankruptcy would support
+     development     of    credit   markets     and     encourage
+     entrepreneurship. It would also improve Ease of Doing
+     Business, and facilitate more investments leading to
+     higher economic growth and development.
+3.   The Code seeks to provide for designating the NCLT and
+     DRT as the Adjudicating Authorities for corporate
+     persons and firms and individuals, respectively, for
+     resolution of insolvency, liquidation and bankruptcy. The
+     Code separates commercial aspects of insolvency and
+     bankruptcy proceedings from judicial aspects. The Code
+     also seeks to provide for establishment of the Insolvency
+     and Bankruptcy Board of India (Board) for regulation of
+     insolvency    professionals,     insolvency      professional
+     agencies and information utilities. Till the Board is
+     established, the Central Government shall exercise all
+     powers of the Board or designate any financial sector
+     regulator to exercise the powers and functions of the
+     Board. Insolvency professionals will assist in completion
+     of insolvency resolution, liquidation and bankruptcy
+     proceedings envisaged in the Code. Information Utilities
+1
+Comp. App. (AT) (Insolvency) No. 81/2017
+1
+would collect, collate, authenticate and disseminate
+                   financial information to facilitate such proceedings. The
+                   Code also proposes to establish a fund to be called the
+                   Insolvency and Bankruptcy Fund of India for the
+                   purposes specified in the Code.
+4.   The Code seeks to provide for amendments in the
+Indian
+                   Partnership Act, 1932
+, the
+Central Excise Act, 1944
+,
+Customs Act, 1962
+,
+Income-Tax Act, 1961
+, the
+Recovery
+                   of Debts Due to Banks and Financial Institutions Act,
+                   1993
+, the
+Finance Act, 1994
+, the
+Securitisation and
+                   Reconstruction of Financial Assets and Enforcement of
+                   Security   Interest    Act,   2002
+,    the
+Sick   Industrial
+                   Companies (Special Provisions) Repeal Act, 2003
+, the
+Payment and Settlement Systems Act, 2007
+, the
+Limited
+                   Liability Partnership Act, 2008
+, and the
+Companies Act,
+                   2013
+.
+5.   The Code seeks to achieve the above objectives.
+(Emphasis Supplied)"
+16.   Hon'ble Supreme Court also noticed the Committee Reports and objects
+
+as speed is the essence, as quoted below :
+"Principles driving the design
+                   "The Committee chose the following principles to
+                   design the new insolvency and bankruptcy resolution
+                   framework:
+I.        The Code will facilitate the assessment of viability of
+                   the enterprise at a very early stage.
+1.        The law must explicitly state that the viability of the
+                   enterprise is a matter of business, and that matters of
+                   business can only be negotiated between creditors and
+                   debtor. While viability is assessed as a negotiation
+                   between creditors and debtor, the final decision has to
+1
+Comp. App. (AT) (Insolvency) No. 81/2017
+2
+be an agreement among creditors who are the
+      financiers willing to bear the loss in the insolvency.
+2.    The legislature and the courts must control the process
+      of resolution, but not be burdened to make business
+      decisions.
+3.    The law must set up a calm period for insolvency
+      resolution where the debtor can negotiate in the
+      assessment of viability without fear of debt recovery
+      enforcement by creditors.
+4.    The law must appoint a resolution professional as the
+      manager of the resolution period, so that the creditors
+      can negotiate the assessment of viability with the
+      confidence that the debtors will not take any action to
+      erode the value of the enterprise. The professional will
+      have the power and responsibility to monitor and
+      manage the operations and assets of the enterprise.
+The professional will manage the resolution process of
+      negotiation to ensure balance of power between the
+      creditors and debtor, and protect the rights of all
+      creditors. The professional will ensure the reduction of
+      asymmetry of information between creditors and
+      debtor in the resolution process.
+II.   The Code will enable symmetry of information between
+      creditors and debtors.
+5.    The law must ensure that information that is essential
+      for the insolvency and the bankruptcy resolution
+      process is created and available when it is required.
+6.    The law must ensure that access to this information is
+      made available to all creditors to the enterprise, either
+      directly or through the regulated professional.
+1
+Comp. App. (AT) (Insolvency) No. 81/2017
+3
+7.     The law must enable access to this information to third
+       parties who can participate in the resolution process,
+       through the regulated professional.
+III.   The Code will ensure a time-bound process to better
+       preserve economic value.
+8.     The law must ensure that time value of money is
+       preserved,     and     that   delaying    tactics     in   these
+       negotiations    will    not   extend     the   time    set   for
+       negotiations at the start.
+IV.    The Code will ensure a collective process.
+9.     The law must ensure that all key stakeholders will
+       participate to collectively assess viability. The law
+       must ensure that all creditors who have the capability
+       and the willingness to restructure their liabilities must
+       be part of the negotiation process. The liabilities of all
+       creditors who are not part of the negotiation process
+       must also be met in any negotiated solution.
+V.     The Code will respect the rights of all creditors equally.
+10.    The law must be impartial to the type of creditor in
+       counting their weight in the vote on the final solution in
+       resolving insolvency.
+VI.    The Code must ensure that, when the negotiations fail
+       to establish viability, the outcome of bankruptcy must
+       be binding.
+11.    The law must order the liquidation of an enterprise
+       which has been found unviable. This outcome of the
+       negotiations should be protected against all appeals
+       other than for very exceptional cases.
+VII.   The Code must ensure clarity of priority, and that the
+       rights of all stakeholders are upheld in resolving
+       bankruptcy.
+1
+Comp. App. (AT) (Insolvency) No. 81/2017
+4
+12.      The law must clearly lay out the              priority of
+                  distributions in bankruptcy to all stakeholders. The
+                  priority must be designed so as to incentivise all
+                  stakeholders to participate in the cycle of building
+                  enterprises with confidence.
+13.      While the law must incentivise collective action in
+                  resolving bankruptcy, there must be a greater
+                  flexibility to allow individual action in resolution and
+                  recovery during bankruptcy compared with the phase
+                  of insolvency resolution."
+17.   In the said case, Hon'ble Supreme Court while it noticed the scheme of
+
+the Code also noticed
+Section 7
+, which stands in contrast with the scheme
+
+under
+section 9
+and observed as follows:
+"27. The scheme of the Code is to ensure that when a default
+                  takes place, in the sense that a debt becomes due and
+                  is not paid, the insolvency resolution process begins.
+                  Default is defined in
+Section 3(12)
+in very wide terms as
+                  meaning non-payment of a debt once it becomes due
+                  and payable, which includes non-payment of even part
+                  thereof or an instalment amount. For the meaning of
+                  "debt", we have to go to
+Section 3(11)
+, which in turn tells
+                  us that a debt means a liability of obligation in respect
+                  of a "claim" and for the meaning of "claim", we have to
+                  go back to
+Section 3(6)
+which defines "claim" to mean a
+                  right to payment even if it is disputed. The Code gets
+                  triggered the moment default is of rupees one lakh or
+                  more (
+Section 4
+). The corporate insolvency resolution
+                  process may be triggered by the corporate debtor itself
+                  or a financial creditor or operational creditor. A
+                  distinction is made by the Code between debts owed to
+                  financial creditors and operational creditors. A financial
+1
+Comp. App. (AT) (Insolvency) No. 81/2017
+5
+creditor has been defined under
+Section 5(7)
+as a person
+      to whom a financial debt is owed and a financial debt is
+      defined in
+Section 5(8)
+to mean a debt which is
+      disbursed against consideration for the time value of
+      money. As opposed to this, an operational creditor
+      means a person to whom an operational debt is owed
+      and an operational debt under
+Section 5(21)
+means a
+      claim in respect of provision of goods or services.
+28.   When it comes to a financial creditor triggering the
+      process,
+Section 7
+becomes relevant. Under the
+      explanation to
+Section 7(1)
+, a default is in respect of a
+      financial debt owed to any financial creditor of the
+      corporate debtor - it need not be a debt owed to the
+      applicant financial creditor. Under
+Section 7(2)
+, an
+      application is to be made under sub-section (1) in such
+      form and manner as is prescribed, which takes us to the
+      Insolvency and Bankruptcy (Application to Adjudicating
+      Authority) Rules, 2016. Under Rule 4, the application is
+      made by a financial creditor in Form 1 accompanied by
+      documents and records required therein. Form 1 is a
+      detailed form in 5 parts, which requires particulars of
+      the applicant in Part I, particulars of the corporate debtor
+      in Part II, particulars of the proposed interim resolution
+      professional in part III, particulars of the financial debt
+      in part IV and documents, records and evidence of
+      default in part V. Under Rule 4(3), the applicant is to
+      dispatch a copy of the application filed with the
+      adjudicating authority by registered post or speed post
+      to the registered office of the corporate debtor. The
+      speed, within which the adjudicating authority is to
+      ascertain the existence of a default from the records of
+      the information utility or on the basis of evidence
+1
+Comp. App. (AT) (Insolvency) No. 81/2017
+6
+furnished by the financial creditor, is important. This it
+                   must do within 14 days of the receipt of the application.
+                   It is at the stage of
+Section 7(5)
+, where the adjudicating
+                   authority is to be satisfied that a default has occurred,
+                   that the corporate debtor is entitled to point out that a
+                   default has not occurred in the sense that the "debt",
+                   which may also include a disputed claim, is not due. A
+                   debt may not be due if it is not payable in law or in fact.
+                   The moment the adjudicating authority is satisfied that
+                   a default has occurred, the application must be admitted
+                   unless it is incomplete, in which case it may give notice
+                   to the applicant to rectify the defect within 7 days of
+                   receipt of a notice from the adjudicating authority. Under
+                   sub-section (7), the adjudicating authority shall then
+                   communicate the order passed to the financial creditor
+                   and corporate debtor within 7 days of admission or
+                   rejection of such application, as the case may be."
+18.   At this stage, it is desirable to compare the provisions of
+Section 7
+with
+Section 10
+of the I & B Code.
+Section 7
+is as follow:
+"7.    (1)   A financial creditor either by itself or jointly with
+
+                   other financial creditors may file an application
+
+                   for initiating corporate insolvency resolution
+
+                   process against a corporate debtor before the
+
+                   Adjudicating Authority when a default has
+
+                   occurred. Explanation.--For the purposes of this
+
+                   sub-section, a default includes a default in
+
+                   respect of a financial debt owed not only to the
+1
+Comp. App. (AT) (Insolvency) No. 81/2017
+7
+applicant financial creditor but to any other
+
+      financial creditor of the corporate debtor.
+(2)   The financial creditor shall make an application
+
+      under sub-section (1) in such form and manner
+
+      and accompanied with such fee as may be
+
+      prescribed.
+(3)   The financial creditor shall, along with the
+
+      application furnish--
+(a) record of the default recorded with the
+
+      information utility or such other record or evidence
+
+      of default as may be specified;
+(b) the name of the resolution professional
+
+      proposed      to   act    as    an   interim   resolution
+
+      professional; and
+(c) any other information as may be specified by
+
+      the Board.
+(4)   The Adjudicating Authority shall, within fourteen
+
+      days of the receipt of the application under sub-
+section (2), ascertain the existence of a default
+
+      from the records of an information utility or on the
+
+      basis of other evidence furnished by the financial
+
+      creditor under sub-section (3).
+(5)   Where the Adjudicating Authority is satisfied
+
+      that--
+1
+Comp. App. (AT) (Insolvency) No. 81/2017
+8
+(a)   a default has occurred and the application
+
+      under sub-section (2) is complete, and there is no
+
+      disciplinary proceedings pending against the
+
+      proposed resolution professional, it may, by
+
+      order, admit such application; or
+(b)   default has not occurred or the application
+
+      under sub-section (2) is incomplete or any
+
+      disciplinary proceeding is pending against the
+
+      proposed resolution professional, it may, by
+
+      order, reject such application:
+Provided that the Adjudicating Authority
+
+      shall, before rejecting the application under
+
+      clause (b) of sub-section (5), give a notice to the
+
+      applicant to rectify the defect in his application
+
+      within seven days of receipt of such notice from
+
+      the Adjudicating Authority.
+(6)   The corporate insolvency resolution process shall
+
+      commence from the date of admission of the
+
+      application under sub-section (5).
+(7)   The Adjudicating Authority shall communicate--
+(a)   the order under clause (a) of sub-section (5)
+
+      to the financial creditor and the corporate debtor;
+(b)   the order under clause (b) of sub-section (5)
+
+      to the financial creditor, within seven days of
+1
+Comp. App. (AT) (Insolvency) No. 81/2017
+9
+admission or rejection of such application, as the
+
+                  case may be."
+19.   Similar is the provision of
+Section 10
+, which reads a follows:
+"10.      (1)    Where a corporate debtor has committed a
+
+                          default, a corporate applicant thereof may
+
+                          file an application for initiating corporate
+
+                          insolvency resolution process         with   the
+
+                          Adjudicating Authority.
+(2)     The application under sub-section (1) shall
+
+                          be filed in such form, containing such
+
+                          particulars     and   in   such   manner     and
+
+                          accompanied with such fee as may be
+
+                          prescribed.
+
+                  (3)     The corporate applicant shall, along with the
+application furnish the information relating
+
+                          to--
+(a)   its books of account and such other
+
+                          documents relating to such period as may be
+
+                          specified; and
+(b)   the resolution professional proposed to be
+
+                          appointed       as    an   interim   resolution
+
+                          professional.
+(4)     The Adjudicating Authority shall, within a
+
+                          period of fourteen days of the receipt of the
+2
+Comp. App. (AT) (Insolvency) No. 81/2017
+0
+application, by an order-- (a) admit the
+
+                          application, if it is complete; or (b) reject the
+
+                          application, if it is incomplete: Provided that
+
+                          Adjudicating          Authority   shall,   before
+
+                          rejecting an application, give a notice to the
+
+                          applicant to rectify the defects in his
+
+                          application within seven days from the date
+
+                          of   receipt     of    such   notice   from   the
+
+                          Adjudicating Authority.
+(5)      The corporate insolvency resolution process
+
+                          shall commence from the date of admission
+
+                          of the application under sub-section (4) of
+
+                          this section."
+20.    Under both
+Section 7
+and
+Section 10
+, the two factors are common i.e.
+
+the debt is due and there is a default. Sub-section (4) of
+Section 7
+is similar
+
+to that of sub-section (4) of
+Section 10
+. Therefore we, hold that the law
+laid
+
+down by
+the Hon'ble Supreme Court in "
+Innoventive Industries Ltd.
+(Supra) is
+
+applicable for
+Section 10
+also, wherein the Hon'ble Supreme Court observed
+
+as    "The moment the adjudicating authority is satisfied that a default has
+
+occurred, the application must be admitted unless it is incomplete, in which
+
+case it may give notice to the applicant to rectify the defect within 7 days of
+
+receipt of a notice from the adjudicating authority" .
+21.    In an application under
+Section 10
+, the 'financial creditor' or
+
+'operational creditor', may dispute that there is no default or that debt is not
+2
+Comp. App. (AT) (Insolvency) No. 81/2017
+1
+due and is not payable in law or in fact. They may also oppose admission on
+
+the ground that the Corporate Applicant is not eligible to make application in
+
+view of ineligibility under
+Section 11
+of the I & B Code.      The Adjudicating
+
+Authority on hearing the parties and on perusal of record, if satisfied that
+
+there is a debt and default has occurred and the Corporate Applicant is not
+
+ineligible under
+Section 11
+, the Adjudicating Authority has no option but to
+
+admit the application, unless it is incomplete, in which case the Corporate
+
+Applicant is to be granted time to rectify the defects.
+22.
+Section 10
+does not empower the Adjudicating Authority to go beyond
+
+the records as prescribed under
+Section 10
+and the informations as required
+
+to be submitted in Form 6 of the Insolvency and Bankruptcy (Application to
+
+the Adjudicating Authority) Rules, 2016 subject to ineligibility prescribed
+
+under
+Section 11
+. If all informations are provided by an applicant as required
+
+under
+Section 10
+and Form 6 and if the Corporate Applicant is otherwise not
+
+ineligible under
+Section 11
+, the Adjudicating Authority is bound to admit the
+
+application and cannot reject the application on any other ground.
+23.   Any fact unrelated or beyond the requirement under I & B Code or
+
+Forms prescribed under Adjudicating Authority Rules (Form 6 in the present
+
+case) are not required to be stated or pleaded. Non-disclosure of any fact,
+
+unrelated to
+Section 10
+and Form 6 cannot be termed to be suppression of
+
+facts or to hold that the Corporate Applicant has not come with clean hand
+
+except the application where the 'Corporate Applicant' has not disclosed
+
+disqualification, if any, under
+Section 11
+. Non-disclosure of facts, such as
+
+that the 'Corporate Debtor' is undergoing a corporate insolvency resolution
+2
+Comp. App. (AT) (Insolvency) No. 81/2017
+2
+process; or that the 'Corporate Debtor' has completed corporate insolvency
+
+resolution process twelve months preceding the date of making of the
+
+application; or that the corporate debtor has violated any of the terms of
+
+resolution plan which was approved twelve months before the date of making
+
+of an application under the said Chapter; or that the corporate debtor is one
+
+in respect of whom a liquidation order has already been made can be a ground
+
+to reject the application under
+Section 10
+on the ground of suppression of
+
+fact/not come with clean hand.
+24.   1st Respondent -financial creditor has referred to pendency of a Civil
+
+Suit between 'Mayank Maheshwari v. Anurag Garg' and another suit between
+
+'Sh. Jagar Nath Mehto v. Vedika Overseas Tradex Ltd.' . Pendency of such
+
+suits cannot be a ground to deny admission of an application under
+Section
+
+10
+, if all the information in terms of
+Section 10
+of the I & B Code and Form 6
+
+has been supplied by a Corporate Applicant/Corporate Debtor and the
+
+application is otherwise complete. Non-mentioning of suit(s) pending between
+
+the parties cannot termed to be suppression of facts nor can be a ground to
+
+reject the application.   In fact, once the application under
+Section 10
+is
+
+admitted, all such related proceedings, including suits for recovery of
+
+moveable or immovable property of the Corporate Debtor and other
+
+proceeding cannot proceed further in any Court or Tribunal or Authority in
+
+view of order of 'moratorium' as may be declared under
+Section 13
+and
+
+prohibition that may be imposed under
+Section 14
+of I & B Code.
+25.   Similarly, if any action has been taken by a 'Financial Creditor' under
+Section 13(4)
+of the SARFAESI Act, 2002 against the Corporate Debtor or a
+2
+Comp. App. (AT) (Insolvency) No. 81/2017
+3
+suit is pending against Corporate Debtor under
+Section 19
+of DRT Act, 1993
+
+before a Debt Recovery Tribunal or appeal pending before the Debt Recovery
+
+Appellate Tribunal cannot be a ground to reject an application under
+Section
+
+10
+, if the application is complete.
+26.   Any proceeding under
+Section 13(4)
+of the SARFAESI Act, 2002 or suit
+
+under
+Section 19
+of the DRT Act, 1993 pending before Debt Recovery Tribunal
+
+or appeal pending before Debt Recovery Appellate Tribunal cannot proceed in
+
+view of the order of moratorium as may be passed.
+27.   It is also desirable to refer to Section 238 of the I & B Code, as quoted
+
+below :
+"238.        Provisions of this Code to override other laws
+- The provisions of this Code shall have effect,
+
+                         notwithstanding      anything        inconsistent
+
+                         therewith contained in any other law for the
+
+                         time being in force or any instrument having
+
+                         effect by virtue of any such law."
+In view of the aforesaid provision also, I & B Code shall have the effect
+
+notwithstanding anything inconsistent therewith contained in any other law
+
+for the time being in force including
+DRT Act, 1993
+;
+SARFAESI Act, 2002
+;
+
+money suit etc.
+28.   In a case where a winding up proceedings has already been initiated
+
+against a Corporate Debtor by the Hon'ble High Court or Tribunal or
+
+liquidation order has been passed in respect of Corporate Debtor, no
+2
+Comp. App. (AT) (Insolvency) No. 81/2017
+4
+application under
+Section 10
+can be filed by the Corporate Applicant in view
+
+of ineligibility under
+Section 11(d)
+of I & B Code, as quoted below:
+"11.   Persons not entitled to make application - The
+
+                   following persons shall not be entitled to make an
+
+                   application to initiate corporate insolvency resolution
+
+                   process under this Chapter, namely:--
+(a)    a corporate debtor undergoing a corporate insolvency
+
+                   resolution process; or
+(b)    a corporate debtor having completed corporate
+
+                   insolvency   resolution    process    twelve     months
+
+                   preceding the date of making of the application; or
+(c)    a corporate debtor or a financial creditor who has
+
+                   violated any of the terms of resolution plan which was
+
+                   approved twelve months before the date of making of
+
+                   an application under this Chapter; or
+(d)    a corporate debtor in respect of whom a liquidation
+
+                   order has been made.
+Explanation.--      For the purposes of this section, a
+
+                                corporate debtor includes a corporate
+
+                                applicant in respect of such corporate
+
+                                debtor."
+29.   In view of the aforesaid provision where a winding up proceeding has
+
+already been initiated under the
+Companies Act, 1956
+/ 2013 by the Hon'ble
+
+High Court such cases have not been transferred to National Company Law
+2
+Comp. App. (AT) (Insolvency) No. 81/2017
+5
+Tribunal, pursuant to "Companies (Transfer of Pending Proceedings) Rules,
+
+2016", framed by the Central Government.
+30.   Clause (d) of
+Section 11
+refers to "liquidation order", against a
+
+Corporate Debtor. The word 'winding up' has not been mentioned therein.
+
+For the said reason by Section 255 read with Schedule 11 of the I & B Code,
+
+in
+Section 2
+of the Companies Act, 2013 for clause (23), the following clause
+
+has been substituted :
+"1. In
+section 2
+,--
+(a)      for clause (23), the following clause shall be
+                             substituted, namely:--
+xxx                 xxx                  xxx
+
+
+
+               "(23) "Company Liquidator" means a person appointed by the
+
+                          Tribunal as the Company Liquidator in accordance with
+
+                          the provisions of section 275 for the winding up of a
+
+                          company under this Act";
+(b)         after clause (94) , the following clause shall be inserted,
+
+                          namely:--
+"(94A)         "winding up" means winding up under this Act or
+
+                             liquidation under the Insolvency and Bankruptcy
+                            Code, 2016, as applicable."
+2
+Comp. App. (AT) (Insolvency) No. 81/2017
+6
+31.   By aforesaid amendment, the legislatures have made it clear that the
+
+word "winding up" mentioned in the
+Companies Act, 2013
+is synonymous to
+
+the word "liquidation" as mentioned in the I & B Code.
+32.   In view of the provisions aforesaid, we hold that, if any winding up
+
+proceeding has been initiated against the Corporate Debtor by the Hon'ble
+
+High Court or Tribunal or liquidation order has been passed, in such case
+
+the application under
+Section 10
+is not maintainable.           However, mere
+
+pendency of a petition for winding up, where no order of winding up or order
+
+of liquidation has been passed, cannot be ground to reject the application
+
+under
+Section 10
+.
+33.   In this case, it is not the case of the Financial Creditor/Respondent
+
+that a winding up proceeding under the
+Companies Act
+or liquidation
+
+proceeding under the I & B Code has been initiated against the Corporate
+
+Debtor.   Therefore, the Corporate Applicant is eligible to file application
+
+under
+Section 10
+, if there is a debt and default.
+34.   Further, as we find that the Adjudicating Authority has noticed the
+
+extraneous factors unrelated to the Resolution process not required to be
+
+disclosed in terms of
+Section 10
+or Form 6 and as the suits referred to relate
+
+to dispute between third parties, and not the Corporate Debtor, we hold that
+
+the Adjudicating Authority erred in rejecting the application on the ground of
+
+suppression of facts.
+35.   To decide the question, whether impugned order of penalty imposed by
+
+the Adjudicating Authority under Section 65 of the I & B Code is in accordance
+
+with law or not it is desirable to notice the provision, as quoted below:
+2
+Comp. App. (AT) (Insolvency) No. 81/2017
+7
+"65. (1)    If, any person initiates the insolvency resolution
+
+                   process or liquidation proceedings fraudulently or with
+
+                   malicious intent for any purpose other than for the
+
+                   resolution of insolvency, or liquidation, as the case may
+
+                   be, the Adjudicating Authority may impose upon such
+
+                   person a penalty which shall not be less than one lakh
+
+                   rupees, but may extend to one crore rupees.
+(2)    If,   any   person     initiates   voluntary     liquidation
+
+                   proceedings with the intent to defraud any person, the
+
+                   Adjudicating Authority may impose upon such person a
+
+                   penalty which shall not be less than one lakh rupees
+
+                   but may extend to one crore rupees."
+36.   Sub-section (11) of
+Section 5
+defines "initiation date" i.e. the date of
+
+initiation of corporate insolvency resolution process and reads as follows:
+"(11) "initiation date" means the date on which a financial
+
+            creditor, corporate applicant or operational creditor, as the
+
+            case may be, makes an application to the Adjudicating
+
+            Authority for initiating corporate insolvency resolution
+
+            process;"
+If sub-section (11) of
+Section 5
+is read with Section 65 it is clear that if
+
+a 'Financial Creditor', or 'Corporate Applicant' or 'Operational Creditor' makes
+
+an application to the Adjudicating authority for initiating Corporate
+
+Resolution Process or liquidation proceedings fraudulently or with malicious
+2
+Comp. App. (AT) (Insolvency) No. 81/2017
+8
+intent for any purpose other than for the resolution of insolvency, or
+
+liquidation, the Adjudicating Authority may impose upon such person a
+
+penalty which shall not be less than one lakh rupees, but may extend to one
+
+crore rupees in terms of sub-section (1) of Section 65. Similarly, if any person
+
+such as Corporate Applicant initiates voluntary liquidation proceedings with
+
+the intent to defraud any person, the Adjudicating Authority may impose
+
+upon such person a penalty which shall not be less than one lakh rupees but
+
+may extend to one crore rupees in terms of sub-section (2) of Section 65.
+37.   From the aforesaid provision, it is clear that for imposition of penalty
+
+under Section 65, the Adjudicating Authority on the basis of record is required
+
+to form prima facie opinion that the person (Financial Creditor / Corporate
+
+Applicant / Operational Applicant) has filed the petition for initiation of
+
+proceeding "fraudulently" or "with malicious intent" for the purpose other
+
+than the resolution of the insolvency or liquidation or that voluntary
+
+liquidation proceedings has been filed with the intent to defraud any person.
+38.   No such penalty under sub-section (1) or (2) of Section 65 can be
+
+imposed by the Adjudicating Authority without recording opinion for coming
+
+to the conclusion that a prima facie case is made out to suggest that the
+
+person "fraudulently" or "with malicious intent" for the purpose, other than
+
+the resolution insolvency or liquidation or with the intent to defraud any
+
+person has filed the application.
+39.
+Section 424
+of the Companies Act, 2013 is applicable to the
+
+proceedings under I & B Code, as held by this Appellate Tribunal in M/s.
+Innoventive Industries Ltd. Vs. ICICI Bank & Anr.
+in Company Appeal (AT)
+2
+Comp. App. (AT) (Insolvency) No. 81/2017
+9
+(Insolvency) No. 1 & 2 of 2017.      In view of the aforesaid provision if the
+
+Adjudicating Authority prima facie comes to a conclusion that a case is made
+
+out to impose penalty under sub-sections (1) and (2) of Section 65, after
+
+recording its prima facie reasons the Adjudicating Authority is required to give
+
+reasonable opportunity of hearing to the person concerned, so as to enable
+
+the person to explain his case.
+40.   There is nothing on record to suggest that the Corporate Applicant has
+
+suppressed any fact or has not come with the clean hands. The Adjudicating
+
+Authority has also not held that the application has been filed by the
+
+Corporate Applicant "fraudulently" or "with malicious intent" for any purpose
+
+other than for the resolution process or liquidation or that the voluntary
+
+liquidation proceedings have been initiated with the intent to defraud any
+
+person.   In absence of any such reasons recorded by the Adjudicating
+
+Authority the impugned order cannot be upheld.
+41.   Further, as the Adjudicating Authority before imposing penalty under
+
+Section 65 has not given nor served any notice to the Corporate Applicant
+
+recording its prima facie view and intent to punish the Corporate Applicant,
+
+the impugned order dated 8th May, 2017 cannot be upheld having been
+
+passed in violation of rules of natural justice.
+42.   For the reasons aforesaid, the impugned order dated 8th May, 2017
+
+passed in C.P. No. IB-39(PB)/2017 is set aside. The case is remitted back to
+
+the Adjudicating Authority for admission of the application under
+Section 10
+,
+3
+Comp. App. (AT) (Insolvency) No. 81/2017
+0
+if the application is otherwise complete.       In case it is incomplete, the
+
+Adjudicating Authority will grant time to the appellant to remove the defects.
+43.   At this stage, it is desirable to state that the Central Government in
+
+Form 1 or 5 or 6 of the 'Insolvency and Bankruptcy (Application to
+
+Adjudicating Authority) Rules, 2016', has not provision for the parties to state
+
+whether any winding up proceeding has been initiated or liquidation order
+
+has been passed against the Corporate Debtor or not. No provision has been
+
+made there in for the parties to state whether any of clause of
+Section 11
+is
+
+attracted or not.
+44.   Non-disclosure of such relevant facts in the relevant Form 6, may be a
+
+ground to reject the application but a person can plead that the Form does
+
+not stipulate to disclose any ineligibility under
+Section 11
+. Therefore, we are
+
+of the view that the Central Government should make necessary amendment
+
+in the relevant Form 6 appended to the Insolvency and Bankruptcy
+
+(Application to Adjudicating Authority) Rules, 2016, which will enable the
+
+Adjudicating Authority to decide at the time of admission whether any fact
+
+has been suppressed or the person has come with the clean hand or not. We
+
+hope and trust that appropriate modification of the relevant Rules and Forms
+
+shall be made by the Central Government.
+45.   In the meantime, the Adjudicating Authority may direct the Financial
+
+Creditors / Corporate Applicant to file an affidavit giving declaration in terms
+
+of
+Section 11
+of the I & B Code and to state whether any winding up
+
+proceeding has been initiated or liquidation order has been passed by any
+
+High Court or Tribunal or Adjudicating Authority or not.             The appeal
+3
+Comp. App. (AT) (Insolvency) No. 81/2017
+1
+is allowed with the aforesaid observations. However, there shall be no order
+
+as to costs.
+[Justice S.J. Mukhopadhaya]
+                                Chairperson
+
+
+
+
+[ Justice A.I.S. Cheema ]                               [ Balvinder Singh ]
+Member (Judicial)                                       Member (Technical)
+
+
+
+New Delhi
+
+01 December, 2017
+
+
+
+
+/ns/
+3
+Comp. App. (AT) (Insolvency) No. 81/2017
+2

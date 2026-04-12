@@ -1,0 +1,1926 @@
+Title: Search
+Court: High Court, in the fact
+Date: 57 of 2020
+Citation: SCC 750", the Hon'ble Supreme Court taking into
+Source: https://indiankanoon.org/doc/35984387/
+
+[Cites
+48
+, Cited by
+17
+]
+National Company Law Appellate Tribunal
+V. Padmakumar vs Stressed Assets Stabilisation Fund ... on 12 March, 2020
+NATIONAL COMPANY LAW APPELLATE TRIBUNAL, NEW DELHI
+
+        Company Appeal (AT) (Insolvency) No. 57 of 2020
+
+IN THE MATTER OF:
+
+V. Padmakumar                                              ...Appellant
+
+Vs.
+
+Stressed Assets Stabilisation Fund (SASF) & Anr.       ...Respondents
+
+
+Present:   For Appellant: - Mr. Jayesh Dolia, Mr. R. Chandrachud
+           and Mr. Nitin Thukral, Advocates.
+           For Respondents:- Mr. Abhijeet Sinha, Ms. Anju Bhushan
+           Gupta and Mr. Kanishk Rana, Advocates for R-1.
+           Mr. Parthasarathy Bose, Mr. Mayank Kshirsagar and Ms.
+           Pankhuri, Advocates for R-2.
+
+
+                      J U D G M E N T
+SUDHANSU JYOTI MUKHOPADHAYA, J.
+'M/s. Stressed Assets Stabilization Fund (SASF)'- ('Financial
+
+Creditor') filed an application under Section 7 of the Insolvency and
+
+Bankruptcy Code, 2016 ("I&B Code" for short) for initiation of the
+
+'Corporate Insolvency Resolution Process' against 'M/s. Uthara Fashion
+
+Knitwear Limited'- ('Corporate Debtor'). The Adjudicating Authority
+
+(National Company Law Tribunal), Division Bench, Chennai, by
+
+impugned order dated 21st November, 2019 admitted the application.
+2.    Initially the plea that was taken by the Appellant is that the
+
+Demand Notice was not served before the order of admission was passed
+2
+on 21st November, 2019. Otherwise, the Appellant would have shown that
+
+the application under Section 7 was barred by limitation, the account of
+
+the 'Corporate Debtor' having been declared as NPA in the year 2009 and
+
+the case being decreed in the year 2013.
+3.      On notice, the Respondents appeared and relied on decision of the
+
+three Hon'ble Members of this Appellate Tribunal dated 22nd January,
+
+2020 in "M/s. Ugro Capital Limited v. M/s. Bangalore Dehydration
+
+and Drying Equipment Co. Pvt. Ltd. (BDDE)─ Company Appeal (AT)
+
+(Insolvency) No. 984 of 2019". In the said case, the Hon'ble Members
+
+of this Appellate Tribunal taking into consideration that the suit was
+
+decreed on 22nd May, 2015, held that non-payment of debt thereafter
+
+amounts to "committed default" in terms of Section 3(12) of the 'I&B Code'
+
+for the first time and in terms of
+Article 137
+of the
+Limitation Act, 1963
+,
+
+for the purpose of filing application under
+Section 7
+of the 'I&B Code'
+
+three years from the date the right to apply accrued for the first time from
+
+the date of default in terms of decree.
+4.      As the Judgment was doubted, the matter was referred to Larger
+
+Bench to decide the issue.
+5.      The brief facts of the case are as follows:
+At the request of the 'Corporate Debtor', the 'Industrial
+
+Development Bank of India' ('IDBI' for short) granted financial assistance
+
+of Rs.600 lacs by way of Term Loan Agreement dated 2nd March, 2000 to
+
+the 'Corporate Debtor' and the loan disbursed was primarily secured by
+
+
+Company Appeal (AT) (Insolvency) No.57 of 2020
+3
+hypothecation of plant and machinery together with machinery spares,
+
+tools and accessories, raw materials, semi-finished and finished goods,
+
+consumable stores, book debts and such other movables and equitable
+
+mortgage of properties at an estimated value of Rs.790.70 lakhs as was
+
+specified in the Memorandum of Entry dated 24th August, 2000. The
+
+account of the 'Corporate Debtor' was classified as "Non-Performing
+
+Asset" on 29th May, 2002.
+In the year 2003, at the instance of the 'IDBI Bank', Debt Recovery
+
+proceeding was initiated under
+Section 19
+of the '
+Recovery of Debts Due
+
+to Banks and Financial Institutions Act, 1993
+' (OA No. 289 of 2003 now
+
+re-numbered as O.A. No. 413 of 2007). It was decreed on 19th June, 2009
+
+and Recovery Certificate was issued on 31st August, 2009, which was
+
+reflected in the Balance Sheet dated 31st March, 2012.
+6.      In the aforesaid background, it was argued that the application
+
+under
+Section 7
+filed in the year 2019 was barred by limitation.
+7.
+Section 7
+relates to 'initiation of corporate insolvency resolution
+
+process by financial creditor'. As per
+Section 7(1)
+, the 'Financial Creditor'
+
+may file an application for initiation of 'Corporate Insolvency Resolution
+
+Process' against a 'Corporate Debtor' before the Adjudicating Authority
+
+when 'a default has occurred'.
+8.
+In "
+B.K. Educational Services Private Limited Vs. Parag Gupta
+
+and Associates─
+(2019) 11 Supreme Court Cases 633", the Hon'ble
+
+Supreme Court held that for the purpose of
+Section 7
+, the Limitation Act,
+
+
+Company Appeal (AT) (Insolvency) No.57 of 2020
+4
+1963 is applied from the date of inception of the Code. The Hon'ble
+
+Supreme Court noticed Section 238A, inserted by
+Insolvency and
+
+Bankruptcy Code (Second Amendment) Act, 2018
+, which relates to the
+
+'proceedings' or 'appeals' before the Adjudicating Authority, the National
+
+Company Law Appellate Tribunal, the Debt Recovery Tribunal or the Debt
+
+Recovery Appellate Tribunal.
+However, as Section 238A does not deal with application under
+Sections 7
+,
+9
+or 10 of the 'I&B Code', the decision of the Hon'ble Supreme
+
+Court in "
+B.K. Educational Services Private Limited Vs. Parag Gupta
+
+and Associates" (Supra
+) being law of land under
+Article 141
+of the
+
+Constitution of India,
+Article 137
+of the
+Limitation Act, 1963
+will be
+
+applicable to application under
+Sections 7
+,
+9
+or 10 of the 'I&B Code' since
+
+the date of inception of the Code (commencement of the Code i.e. 1st
+
+December, 2016).
+9.
+In "
+Jignesh Shah and another vs. Union of India and another
+- (2019) 10 SCC 750", the Hon'ble Supreme Court taking into
+
+consideration the fact of filing of an application under
+Sections 433
+and
+434
+of the Companies Act, 2013 observed as follows:
+"13. Dr Singhvi relied upon a number of judgments
+                in which proceedings under
+Section 433
+of the
+                Companies Act, 1956 had been initiated after suits
+                for recovery had already been filed. These judgments
+                have held that the existence of such suit cannot be
+                construed as having either revived a period of
+
+
+Company Appeal (AT) (Insolvency) No.57 of 2020
+5
+limitation or having extended it, insofar as the
+                winding-up proceeding was concerned. Thus, in
+Hariom Firestock Ltd. v. Sunjal Engg. (P) Ltd.
+, a
+                Single Judge of the Karnataka High Court, in the fact
+                situation of a suit for recovery being filed prior to a
+                winding-up petition being filed, opined:
+"8. ... To my mind, there is a fallacy in
+                        this argument because the test that is required
+                        to be applied for purposes of ascertaining
+                        whether the debt is in existence at a particular
+                        point of time is the simple question as to
+                        whether it would have been permissible to
+                        institute a normal recovery proceeding before
+                        a civil court in respect of that debt at that point
+                        of time. Applying this test and dehors that fact
+                        that the suit had already been filed, the
+                        question is as to whether it would have been
+                        permissible to institute a recovery proceeding
+                        by way of a suit for enforcing that debt in the
+                        year 1995, and the answer to that question
+                        has to be in the negative. That being so, the
+                        existence of the suit cannot be construed as
+                        having either revived the period of limitation or
+                        extended       it.   It       only   means    that     those
+                        proceedings are pending but it does not give
+                        the party a legal right to institute any other
+                        proceedings on that basis. It is well-settled
+                        law that the limitation is extended only in
+                        certain     limited       situations    and     that     the
+                        existence of a suit is not necessarily one of
+                        them. In this view of the matter, the second
+
+
+
+Company Appeal (AT) (Insolvency) No.57 of 2020
+6
+point will have to be answered in favour of the
+                        respondents and it will have to be held that
+                        there was no enforceable claim in the year
+                        1995, when the present petition was
+
+                        instituted."
+14. Likewise, a Single Judge of the Patna High
+                Court in
+Ferro Alloys Corpn. Ltd. v. Rajhans Steel
+                Ltd.
+also held:
+"12. ... In my opinion, the contention
+                        lacks merit. Simply because a suit for
+                        realisation of the debt of the petitioner
+                        Company against Opposite Party 1 was
+                        instituted in the Calcutta High Court on its
+                        original side, such institution of the suit and
+                        the pendency thereof in that Court cannot
+                        ensure for the benefit of the present winding-
+                        up proceeding. The debt having become time-
+                        barred when this petition was presented in
+                        this Court, the same could not be legally
+                        recoverable through this Court by resorting to
+                        winding-up proceedings because the same
+                        cannot legally be proved under
+Section 520
+of
+                        the Act. It would have been altogether a
+                        different matter if the petitioner Company
+                        approached this Court for winding-up of
+                        Opposite Party 1 after obtaining a decree from
+                        the Calcutta High Court in Suit No. 1073 of
+                        1987, and the decree remaining unsatisfied,
+                        as provided in clause (b) of sub-section (1) of
+                        Section 434. Therefore, since the debt of the
+                        petitioner Company has become time-barred
+
+
+Company Appeal (AT) (Insolvency) No.57 of 2020
+7
+and cannot be legally proved in this Court in
+                        course of the present proceedings, winding up
+                        of Opposite Party 1 cannot be ordered due to
+                        non-payment of the said debt."
+Finally, the Hon'ble Supreme Court after taking into consideration
+
+       the date of default observed: -
+"21. The aforesaid judgments correctly hold that a
+
+                suit for recovery based upon a cause of action that is
+
+                within limitation cannot in any manner impact the
+
+                separate and independent remedy of a winding-up
+
+                proceeding. In law, when time begins to run, it can
+
+                only be extended in the manner provided in the
+Limitation Act
+. For example, an acknowledgment of
+
+                liability under
+Section 18
+of the Limitation Act would
+
+                certainly extend the limitation period, but a suit for
+
+                recovery, which is a separate and independent
+
+                proceeding distinct from the remedy of winding up
+
+                would, in no manner, impact the limitation within
+
+                which the winding-up proceeding is to be filed, by
+
+                somehow keeping the debt alive for the purpose of
+
+                the winding-up proceeding.
+xxx                     xxx             xxx
+
+
+
+
+Company Appeal (AT) (Insolvency) No.57 of 2020
+8
+28. A reading of the aforesaid provisions would
+
+                show that the starting point of the period of limitation
+
+                is when the company is unable to pay its debts, and
+
+                that Section 434 is a deeming provision which refers
+
+                to three situations in which a company shall be
+
+                deemed to be "unable to pay its debts" under Section
+
+                433(e). In the first situation, if a demand is made by
+
+                the creditor to whom the company is indebted in a
+
+                sum exceeding one lakh then due, requiring the
+
+                company to pay the sum so due, and the company
+
+                has for three weeks thereafter "neglected to pay the
+
+                sum", or to secure or compound for it to the
+
+                reasonable satisfaction of the creditor. "Neglected to
+
+                pay" would arise only on default to pay the sum due,
+
+                which would clearly be a fixed date depending on
+
+                the facts of each case. Equally in the second
+
+                situation, if execution or other process is issued on a
+
+                decree or order of any court or tribunal in favour of a
+
+                creditor of the company, and is returned unsatisfied
+
+                in whole or in part, default on the part of the debtor
+
+                company occurs. This again is clearly a fixed date
+
+                depending on the facts of each case. And in the third
+
+                situation, it is necessary to prove to the "satisfaction
+
+                of the Tribunal" that the company is unable to pay
+
+
+Company Appeal (AT) (Insolvency) No.57 of 2020
+9
+its debts. Here again, the trigger point is the date on
+
+                which default is committed, on account of which the
+
+                company is unable to pay its debts. This again is a
+
+                fixed date that can be proved on the facts of each
+
+                case. Thus, Section 433(e) read with
+Section 434
+of
+
+                the Companies Act, 1956 would show that the trigger
+
+                point for the purpose of limitation for filing of a
+
+                winding-up petition under Section 433(e) would be
+
+                the date of default in payment of the debt in any of
+
+                the three situations mentioned in Section 434."
+10.     Similar issue fell for consideration before the Hon'ble Supreme
+
+Court in "
+Gaurav Hargovindbhai Dave vs. Asset Reconstructions
+
+Company (India) Limited and another
+- (2019) 10 SCC 572". In the
+
+said case, the Hon'ble Supreme Court has noticed that the Respondent
+
+was declared NPA on 21st July, 2011. The Bank had filed two OAs before
+
+the Debts Recovery Tribunal in 2012 to recover the total debt. Taking
+
+into consideration the facts, the Supreme Court held that the default
+
+having taken place and as the account was declared NPA on 21st July,
+
+2011, the application under
+Section 7
+was barred by limitation.
+For proper appreciation, it is better to note the facts of the
+
+judgment as follows: -
+"In the present case, Respondent 2 was declared
+                NPA on 21-7-2011. At that point of time, State Bank
+
+
+Company Appeal (AT) (Insolvency) No.57 of 2020
+10
+of India filed two OAs in the Debts Recovery Tribunal
+                in 2012 in order to recover a total debt of 50 crores
+                of rupees. In the meanwhile, by an assignment dated
+                28-3-2014, State Bank of India assigned the
+                aforesaid debt to Respondent 1. The Debts Recovery
+                Tribunal proceedings reached judgment on 10-6-
+                2016, the Tribunal holding that the OAs filed before
+                it were not maintainable for the reasons given
+                therein.
+2.       As against the aforesaid judgment, Special
+                Civil Application Nos. 10621-622 were filed before
+                the Gujarat High Court which resulted in the High
+                Court remanding the aforesaid matter. From this
+                order, a special leave petition was dismissed on 27-
+                3-2017.
+3.       An independent proceeding was then begun
+                by Respondent 1 on 3-10-2017 being in the form of a
+Section 7
+application filed under the Insolvency and
+                Bankruptcy Code in order to recover the original debt
+                together with interest which now amounted to about
+                124 crores of rupees. In Form-I that has statutorily to
+                be annexed to the
+Section 7
+application in Column II
+                which was the date on which default occurred, the
+                date of the NPA i.e. 21-72011 was filled up. The
+                NCLT applied
+Article 62
+of the
+Limitation Act
+which
+                reads as follows:
+"Description of suit        Period of Time from which period
+                                                 limitation begins to run
+
+
+
+
+Company Appeal (AT) (Insolvency) No.57 of 2020
+11
+62. To enforce              Twelve       When the money sued
+                     payment of money            years        for becomes
+                     secured by a                             due."
+mortgage or
+                     otherwise charged
+                     upon immovable
+                     property
+
+
+
+                Applying the aforesaid Article, the NCLT reached the
+                conclusion that since the limitation period was 12
+                years from the date on which the money suit has
+                become due, the aforesaid claim was filed within
+                limitation     and hence           admitted    the
+Section 7
+application. The NCLAT vide the impugned judgment
+                held, following its earlier judgments, that the time of
+                limitation would begin running for the purposes of
+                limitation only on and from 1-12-2016 which is the
+                date on which the Insolvency and Bankruptcy Code
+                was brought into force. Consequently, it dismissed
+                the appeal.
+4.       Mr Aditya Parolia, learned counsel appearing
+                on behalf of the appellant has argued that
+Article
+                137
+being a residuary article would apply on the
+                facts of this case, and as right to sue accrued only
+                on and from 21-7-2011, three years having elapsed
+                since then in 2014, the
+Section 7
+application filed in
+                2017 is clearly out of time. He has also referred to
+                our judgment in
+B.K. Educational Services (P) Ltd. v.
+                Parag Gupta
+and
+Associates [B.K. Educational
+                Services (P) Ltd. v. Parag Gupta and Associates
+,
+                (2019) 11 SCC 633] in order to buttress his argument
+                that it is
+Article 137
+of the
+Limitation Act
+which will
+                apply to the facts of this case.
+Company Appeal (AT) (Insolvency) No.57 of 2020
+12
+5.      Mr Debal Banerjee, learned Senior Counsel,
+                appearing on behalf of the respondents, countered
+                this by stressing, in particular, para 11 of B.K.
+                Educational Services (P) Ltd. and reiterated the
+                finding of the NCLT that it would be
+Article 62
+of the
+Limitation Act
+that would be attracted to the facts of
+                this case. He further argued that, being a commercial
+                Code, a commercial interpretation has to be given so
+                as to make the Code workable.
+6.      Having heard the learned counsel for both
+                sides, what is apparent is that
+Article 62
+is out of the
+                way on the ground that it would only apply to suits.
+                The present case being "an application" which is
+                filed under
+Section 7
+, would fall only within the
+                residuary
+Article 137.
+As rightly pointed out by the
+                learned     counsel      appearing    on   behalf   of   the
+                appellant, time, therefore, begins to run on 21-7-
+                2011, as a result of which the application filed under
+Section 7
+would clearly be time-barred. So far as Mr
+                Banerjee's reliance on para 11 of B.K. Educational
+                Services (P) Ltd., suffice it to say that the Report of
+                the Insolvency Law Committee itself stated that the
+                intent of the Code could not have been to give a new
+                lease of life to debts which are already time-barred.
+7.      This being the case, we fail to see how this
+                para could possibly help the case of the respondents.
+                Further, it is not for us to interpret, commercially or
+                otherwise, articles of the
+Limitation Act
+when it is
+                clear that a particular article gets attracted. It is well
+                settled that there is no equity about limitation -
+                judgments have stated that often time periods
+
+
+
+
+Company Appeal (AT) (Insolvency) No.57 of 2020
+13
+provided by the
+Limitation Act
+can be arbitrary in
+                nature.
+8.      This being the case, the appeal is allowed and
+                the judgments of the NCLT and NCLAT are set
+                aside."
+11.
+In "
+Vashdeo R. Bhojwani vs. Abhyudaya Co-operative Bank
+
+Limited and another
+- (2019) 9 SCC 158", the Hon'ble Supreme Court
+
+referring to
+B.K. Education
+(Supra) observed: -
+"3. Having heard the learned counsel for both
+                parties, we are of the view that this is a case covered
+                by our recent judgment in
+B.K. Educational Services
+                (P) Ltd. v. Parag Gupta and Associates
+, para 42 of
+                which reads as follows:
+"42. It is thus clear that since the
+Limitation
+                        Act
+is applicable to applications filed under
+Sections 7
+and
+9
+of the Code from the inception
+                        of the Code,
+Article 137
+of the
+Limitation Act
+gets attracted. "The right to sue", therefore,
+                        accrues when a default occurs. If the default
+                        has occurred over three years prior to the date
+                        of filing of the application, the application
+                        would be barred under
+Article 137
+of the
+Limitation Act
+, save and except in those cases
+                        where, in the facts of the case,
+Section 5
+of the
+                        Limitation Act may be applied to condone the
+                        delay in filing such application."
+Company Appeal (AT) (Insolvency) No.57 of 2020
+14
+Dealing with
+Section 23
+of the Limitation Act, 1963, the
+        Hon'ble Supreme Court observed:
+"xxx                        xxx                xxx
+
+                 Following this judgment, it is clear that when the
+                recovery certificate dated 24-12-2001 was issued,
+                this certificate injured effectively and completely the
+                appellant's rights as a result of which limitation
+                would have begun ticking"
+12.     This Appellate Tribunal also considered the same issue in "
+V
+
+Hotels Limited vs. Asset Reconstruction Company (India) Limited -
+
+Company Appeal (AT) (Insolvency) No.525
+of 2019" decided on 11th
+
+December, 2019, by referring to the aforesaid judgment of the Hon'ble
+
+Supreme Court and observed: -
+"17. In the present case, in fact the default took
+                place much earlier. It is admitted that the debt of
+                the 'Corporate Debtor' was declared NPA on 1st
+                December, 2008 as has been noticed by the
+                Adjudicating Authority.
+xxx                       xxx         xxx
+19.
+Section 13(2)
+of the '
+SARFAESI Act, 2002
+'
+                reads as follows:
+"13. Enforcement of security interest.--
+......(2) Where any borrower, who is under a
+
+
+Company Appeal (AT) (Insolvency) No.57 of 2020
+15
+liability to a secured creditor under a security
+                        agreement, makes any default in repayment
+                        of secured debt or any instalment thereof, and
+                        his account in respect of such debt is classified
+                        by the secured creditor as nonperforming
+                        asset, then, the secured creditor may require
+                        the borrower by notice in writing to discharge
+                        in full his liabilities to the secured creditor
+                        within sixty days from the date of notice
+                        failing which the secured creditor shall be
+                        entitled to exercise all or any of the rights
+                        under sub-section (4).
+20.     Admittedly, the 'Financial Creditor' took action
+                under the '
+SARFAESI Act, 2002
+' in the year 2013.
+                Therefore, the second time it become NPA in the year
+                2013 when action under
+Section 13(2)
+was taken."
+
+
+
+                Referring to
+Section 18
+of the Limitation Act, 1963, this
+
+        Appellate Tribunal further observed: -
+"22. The aforesaid provision makes it clear that for
+                the purpose of filing a suit or application in respect of
+                any property or right, an acknowledgment of liability
+                in respect of such property or right has to be made in
+                writing duly signed by the party against whom such
+                property or right is claimed.
+23. In the present case, 'Asset Reconstruction
+                Company (India) Ltd.'- ('Financial Creditor') has
+                failed to bring on record any acknowledgment in
+
+
+Company Appeal (AT) (Insolvency) No.57 of 2020
+16
+writing by the 'Corporate Debtor' or its authorised
+                person acknowledging the liability in respect of debt.
+                The Books of Account cannot be treated as an
+                acknowledgment of liability in respect of debt
+                payable to the 'Asset Reconstruction Company
+                (India) Ltd.'- ('Financial Creditor') signed by the
+                'Corporate Debtor' or its authorised signatory.
+24.
+In "
+Sampuran Singh and Ors. v. Niranjan
+
+                Kaur and Ors.─
+(1999) 2 SCC 679", the Hon'ble
+                Supreme Court observed that the acknowledgment,
+                if any, has to be prior to the expiration of the
+                prescribed period for filing the suit. In the present
+                case, the account was declared NPA since 1st
+                December, 2008 and therefore, the suit was filed.
+Thereafter, any document or acknowledgment, even
+                after the completion of the period of limitation i.e.
+                December, 2011 cannot be relied upon. Further, in
+                absence of any record of acknowledgment, the
+                Appellant cannot derive any advantage of
+Section 18
+of the Limitation Act. For the said reason, we hold
+                that the application under
+Section 7
+is barred by
+                limitation, the accounts of the 'Corporate Debtor'
+                having declared NPA on 1st December, 2008."
+13.     The aforesaid decisions of the Hon'ble Supreme Court and this
+
+Appellate Tribunal make it clear that for the purpose of computing the
+
+period of limitation of application under
+Section 7
+, the date of default is
+
+'NPA' and hence a crucial date.
+Company Appeal (AT) (Insolvency) No.57 of 2020
+17
+14.
+In "
+Jignesh Shah and another vs. Union of India and another
+- (2019) 10 SCC 750", the Hon'ble Supreme Court noticed the decision
+
+of the Hon'ble Patna High Court in "
+Ferro Alloys Corpn. Ltd. v. Rajhans
+
+Steel Ltd.
+", wherein the Hon'ble Patna High Court held that simply
+
+because a suit for realisation of the debt of the petitioner Company
+
+against Opposite Party 1 was instituted in the Calcutta High Court on its
+
+original side, such institution of the suit and the pendency thereof in that
+
+Court cannot enure for the benefit of the present winding-up proceeding.
+15.
+In the said case, Hon'ble Patna High
+Court further held
+that since
+
+the debt of the petitioner Company has become time-barred and cannot
+
+be legally proved in this Court in course of the present proceedings,
+
+winding up of Opposite Party 1 cannot be ordered due to non-payment of
+
+the said debt.
+16.     Appreciating the aforesaid Judgment of the Hon'ble Patna High
+
+Court, the Hon'ble Supreme Court in "
+Jignesh Shah and another vs.
+
+Union of India and another
+" (Supra) observed that the aforesaid
+
+judgments correctly hold that a suit for recovery based upon a cause of
+
+action that is within limitation cannot in any manner impact the separate
+
+and independent remedy of a winding-up proceeding.
+Thus, while holding so, the Hon'ble Supreme Court held that the
+
+date of default to be taken into consideration for computing the period of
+
+limitation of application under
+Section 7
+.            As the decision of Hon'ble
+
+
+
+
+Company Appeal (AT) (Insolvency) No.57 of 2020
+18
+Supreme Court is binding, we hold that mere filing of a suit for recovery
+
+or a decree passed by a Court cannot shift forward the date of default.
+17.     A suit for recovery of money can be filed only when there is a default
+
+of dues. Even if the decree is passed, the date of default cannot be shift
+
+forward to the date of decree or date of payment for execution as a decree
+
+can be executed within specified period i.e. 12 years. If it is executable
+
+within the period of limitation, one cannot allege that there is a default of
+
+decree or payment of dues.
+18.     Therefore, we hold that a Judgment or a decree passed by a Court
+
+for recovery of money by Civil Court/ Debt Recovery Tribunal cannot shift
+
+forward the date of default for the purpose of computing the period for
+
+filing an application under
+Section 7
+of the 'I&B Code'.
+19.     In "M/s. Ugro Capital Limited v. M/s. Bangalore Dehydration
+
+and Drying Equipment Co. Pvt. Ltd. (BDDE)─ Company Appeal (AT)
+
+(Insolvency) No. 984 of 2019", as other decisions have not been brought
+
+to the notice of the Hon'ble Bench, it cannot be cited as a precedent.
+20.     It is next submitted by the learned counsel appearing for the
+
+Respondents that the application under
+Section 7
+was not barred by
+
+limitation as the 'Corporate Debtor' has acknowledged the claim in its
+
+Audited Balance Sheet for the F.Y. 2011-2012 & 2012-2013 onwards.
+21.     The question as to whether reflection of debt in a Balance Sheet of
+
+the 'Corporate Debtor' prepared pursuant to Section 92 of the Companies
+
+
+
+
+Company Appeal (AT) (Insolvency) No.57 of 2020
+19
+Act, 2013 amounts to acknowledgment of debt fell for consideration
+
+before this Appellate Tribunal in "
+Sh. G Eswara Rao v. Stressed Assets
+
+Stabilisation Fund─ Company Appeal (AT) (Insolvency) No.
+1097 of
+
+2019". In the said case, this Appellate Tribunal by Judgment dated 7th
+
+February, 2020 noticed the provision of acknowledgment in writing under
+Section 18
+of the Limitation Act, 1963 and
+Section 92
+of the Companies
+
+Act, 2013. This Appellate Tribunal also noticed the decree passed by the
+
+Debt Recovery Tribunal to find out whether the same can be held to be
+
+acknowledgment of debt under
+Section 18
+of the Limitation Act, 1963,
+
+and held:
+"12. The date of default can be forwarded to a future date
+
+          only under
+Section 18
+of the Limitation Act, 1963, which
+
+          reads as follows: -
+18. Effect of acknowledgment in writing.--
+(1) Where, before the expiration of the prescribed
+                period for a suit or application in respect of any
+                property or right, an acknowledgment of liability in
+                respect of such property or right has been made in
+                writing signed by the party against whom such
+                property or right is claimed, or by any person through
+                whom he derives his title or liability, a fresh period of
+                limitation shall be computed from the time when the
+                acknowledgment was so signed.
+(2) Where        the          writing   containing   the
+                acknowledgment is undated, oral evidence may be
+                given of the time when it was signed; but subject to
+                the provisions of the
+Indian Evidence Act, 1872
+(1 of
+
+
+Company Appeal (AT) (Insolvency) No.57 of 2020
+20
+1872), oral evidence of its contents shall not be
+                received.
+Explanation.--For               the      purposes   of   this
+                section,--
+(a)     an acknowledgment may be sufficient
+                                though it omits to specify the exact
+                                nature of the property or right, or avers
+                                that the time for payment, delivery,
+                                performance or enjoyment has not yet
+                                come or is accompanied by a refusal to
+                                pay, deliver, perform or permit to enjoy,
+                                or is coupled with a claim to set-off, or is
+                                addressed to a person other than a
+                                person entitled to the property or right;
+(b)     the word "signed" means signed either
+                                personally            or   by     an   agent    duly
+                                authorised in this behalf; and
+                        (c)     an application for the execution of a
+                                decree or order shall not be deemed to
+                                be an application in respect of any
+                                property or right."
+13. As the Decree passed by DRT on 17th August, 2018
+
+           cannot be said to be an acknowledgement of debt by the
+
+           'Corporate Debtor' in terms of
+Section 18
+of the Limitation
+
+           Act, 1963 learned Counsel for the Respondent relied on
+
+           Balance Sheet of the 'Corporate Debtor' for the years ending
+
+           2014-15, 2015-16 and 2016-2017 to suggest that the
+
+
+
+
+Company Appeal (AT) (Insolvency) No.57 of 2020
+21
+'Corporate Debtor' admitted the liability in its Independent
+
+           Auditor's Report and Balance Sheet.
+14.
+Section 92
+of the Companies Act, 2013 mandates a
+
+           Company to prepare a return in the prescribed form as they
+
+           stood on the close of the financial year regarding providing
+
+           different details. Under Section 92(5), if a Company fails to
+
+           file its annual return under sub-section (4), before the expiry
+
+           of the period specified, it is punishable with fine and the
+
+           Officers of the Company on such default are also
+
+           punishable with imprisonment or fine or both as under: -
+Companies Act
+section 92(1), (4), (5) and (6) to be reproduced
+
+                "92. Annual return.--(1)               Every company shall
+                prepare a return (hereinafter referred to as the
+                annual return) in the prescribed form containing the
+                particulars as they stood on the close of the financial
+                year regarding--
+(a) its registered office, principal business
+                activities, particulars of its holding, subsidiary and
+                associate companies;
+(b) its shares, debentures and other securities
+                and shareholding pattern;
+***
+(d) its members and debenture-holders along
+                with changes therein since the close of the previous
+                financial year;
+(e) its promoters, directors, key managerial
+                personnel along with changes therein since the close
+                of the previous financial year;
+Company Appeal (AT) (Insolvency) No.57 of 2020
+22
+(f) meetings of members or a class thereof,
+                Board and its various committees along with
+                attendance details;
+(g) remuneration              of   directors   and      key
+                managerial personnel;
+(h) penalty or punishment imposed on the
+                company, its directors or officers and details of
+                compounding of offences and appeals made against
+                such penalty or punishment;
+(i) matters       relating         to   certification    of
+                compliances, disclosures as may be prescribed;
+(j) details, as may be prescribed, in respect of
+                shares held by or on behalf of the Foreign
+                Institutional Investors; and
+(k) such other matters as may be prescribed,
+                and signed by a director and the company secretary,
+                or where there is no company secretary, by a
+                company secretary in practice:
+Provided that in relation to One Person
+                Company and small company, the annual return
+                shall be signed by the company secretary, or where
+                there is no company secretary, by the director of the
+                company.
+Provided further that the Central Government
+                may prescribe abridged form of annual return for
+                "One Person Company, small company and such
+                other class or classes of companies as may be
+                prescribed".
+xxx                       xxx                   xxx
+
+
+
+
+Company Appeal (AT) (Insolvency) No.57 of 2020
+23
+(4) Every company shall file with the Registrar
+                a copy of the annual return, within sixty days from
+                the date on which the annual general meeting is held
+                or where no annual general meeting is held in any
+                year within sixty days from the date on which the
+                annual general meeting should have been held
+                together with the statement specifying the reasons
+                for not holding the annual general meeting, with such
+                fees or additional fees as may be prescribed.
+(5) If a company fails to file its annual return
+                under sub-section (4), before the expiry of the period
+                specified [therein], the company shall be punishable
+                with fine which shall not be less than fifty thousand
+                rupees but which may extend to five lakhs rupees
+                and every officer of the company who is in default
+                shall be punishable with imprisonment for a term
+                which may extend to six months or with fine which
+                shall not be less than fifty thousand rupees but which
+                may extend to five lakh rupees, or with both.
+(6) If a company secretary in practice certifies
+                the annual return otherwise than in conformity with
+                the requirements of this section or the rules made
+                there under, he shall be punishable with fine which
+                shall not be less than fifty thousand rupees but which
+                may extend to five lakh rupees."
+15.         As the filing of Balance Sheet/ Annual Return
+
+            being mandatory under Section 92(4), failing of which
+
+            attracts penal action under Section 92(5) & (6), the
+
+            Balance Sheet / Annual Return of the 'Corporate Debtor'
+
+
+
+Company Appeal (AT) (Insolvency) No.57 of 2020
+24
+cannot be treated to be an acknowledgement under
+Section 18
+of the Limitation Act, 1963.
+16.      If the argument is accepted that the Balance
+
+               Sheet / Annual Return of the 'Corporate Debtor' amounts
+
+               to acknowledgement under
+Section 18
+of the Limitation
+
+               Act, 1963 then in such case, it is to be held that no
+
+               limitation would be applicable because every year, it is
+
+               mandatory for the 'Corporate Debtor' to file Balance
+
+               Sheet/ Annual Return, which is not the law."
+22.     In view of the aforesaid findings, agreeing with the decisions
+
+aforesaid, at the cost of repetition, we hold:
+(i)       As the filing of Balance Sheet/ Annual Return being
+
+        mandatory under
+Section 92(4)
+of the Companies Act, 2013, failing
+
+        of which attracts penal action under Section 92(5) & (6), the Balance
+
+        Sheet / Annual Return of the 'Corporate Debtor' cannot be treated to
+
+        be an acknowledgement under
+Section 18
+of the Limitation Act,
+
+        1963.
+(ii)      If the argument is accepted that the Balance Sheet / Annual
+
+        Return of the 'Corporate Debtor' amounts to acknowledgement under
+Section 18
+of the Limitation Act, 1963 then in such case, it is to be
+
+        held that no limitation would be applicable because every year, it is
+
+        mandatory for the 'Corporate Debtor' to file Balance Sheet/ Annual
+
+        Return, which is not the law.
+Company Appeal (AT) (Insolvency) No.57 of 2020
+25
+23.     In the present case, as we find that the account of the 'Corporate
+
+Debtor' was declared NPA on 31st October, 2002 and decree was passed
+
+on 19th June, 2009/ 31st August, 2009, we hold that the application
+
+under
+Section 7
+filed by 'M/s. Stressed Assets Stabilization Fund (SASF)'
+
+against 'M/s. Uthara Fashion Knitwear Limited'- ('Corporate Debtor') is
+
+barred by limitation and was not maintainable.
+24.     For the said reasons, we are not remitting the matter to the Bench
+
+for fresh decision on facts. The impugned order dated 21st November,
+
+2019 passed by the Adjudicating Authority (National Company Law
+
+Tribunal), Division Bench, Chennai, is set aside.
+25.     In   effect, order(s), passed by              the   Adjudicating Authority
+
+appointing 'Interim Resolution Professional', declaring moratorium,
+
+freezing of account, and all other order (s) passed by the Adjudicating
+
+Authority pursuant to impugned order and action, if any, taken by the
+
+'Interim Resolution Professional', including the advertisement, if any,
+
+published in the newspaper calling for applications all such orders and
+
+actions are declared illegal and are set aside. The application preferred
+
+by Respondent under
+Section 7
+of the 'I&B Code' is dismissed. Learned
+
+Adjudicating Authority will now close the proceeding. The 'Corporate
+
+Debtor' (company) is released from all the rigour of law and is allowed
+
+to function independently through its Board of Directors from
+
+immediate effect.
+Company Appeal (AT) (Insolvency) No.57 of 2020
+26
+26.     The Adjudicating Authority will fix the fee of 'Interim Resolution
+
+Professional' and 'corporate insolvency resolution process cost' and 'M/s.
+
+Stressed Assets Stabilization Fund (SASF)' will pay the fee of the 'Interim
+
+Resolution Professional' and 'corporate insolvency resolution process
+
+cost', as may be determined.
+The appeal is allowed with aforesaid observation and direction.
+
+However, in the facts and circumstances of the case, there shall be no
+
+order as to cost.
+[Justice S.J. Mukhopadhaya]
+                                                                      Chairperson
+
+
+
+                                                           (Justice Bansi Lal Bhat)
+                                                                 Member(Judicial)
+
+
+
+                                                           (Justice Venugopal M.)
+                                                                 Member(Judicial)
+
+
+
+                                                               [Kanthi Narahari]
+                                                              Member (Technical)
+NEW DELHI
+12th March, 2020
+
+/AR/
+
+
+
+
+Company Appeal (AT) (Insolvency) No.57 of 2020
+           NATIONAL COMPANY LAW APPELLATE TRIBUNAL
+                        NEW DELHI
+
+               Company Appeal (AT) (Ins) No.57 of 2020
+
+IN THE MATTER OF:
+V. Padmakumar                                             ...Appellant
+
+     Versus
+
+Stressed Assets Stabilisation Fund (SASF) & Anr.          ...Respondents
+
+
+
+                           JUDGEMENT
+                           (12th March, 2020)
+A.I.S. Cheema, J. :
+1.   I have had the opportunity to go through the draft of erudite
+
+Judgement by the Hon'ble Chairperson. With great respect and all humility
+
+at my command I have reservations regarding part of the Judgement where
+
+it relates to Annual Returns/audited Balance Sheets.
+2.   I am not recording here particulars of how the Appeal has arisen and
+
+facts of the case and why present Bench of Chairperson and 4 Members
+
+was required to be constituted as it is dealt with in the Judgement crafted
+
+by Hon'ble Chairperson.
+3.   I have gone through Judgement in the matter of "
+V Hotels Limited
+
+Vs. Asset Reconstruction Company (India) Limited" - Company Appeal
+
+(AT) (Insolvency) No.
+525 of 2019 and its finding in Para - 23 that "Books
+
+of Account" cannot be treated as acknowledgement.
+I have also gone
+
+through the Judgement in the matter of "
+Sh G Eswara Rao Vs Stressed
+2
+Assets Stabilisation Fund
+" in Company Appeal (AT) (Insolvency) No. 1097
+
+of 2019 dated 7th February, 2020, especially, Paragraphs - 15 and 16 of
+
+that Judgement which is also relied on, and the finding recorded in
+
+Para - 22 that:-
+"(i)  As the filing of Balance Sheet/ Annual
+                   Return being mandatory under
+Section 92(4)
+of
+                   the Companies Act, 2013, failing of which
+                   attracts penal action under Section 92(5) & (6),
+                   the Balance Sheet / Annual Return of the
+                   'Corporate Debtor' cannot be treated to be an
+                   acknowledgement under
+Section 18
+of the
+                   Limitation Act, 1963.
+(ii)  If the argument is accepted that the
+                   Balance Sheet / Annual Return of the
+                   'Corporate       Debtor'      amounts         to
+                   acknowledgement under
+Section 18
+of the
+                   Limitation Act, 1963 then in such case, it is to
+                   be held that no limitation would be applicable
+                   because every year, it is mandatory for the
+                   'Corporate Debtor' to file Balance Sheet/
+                   Annual Return, which is not the law."
+4.    With respect, I am unable to agree. I find that there are various
+
+Judgements passed by various Hon'ble High Courts including High Court
+
+of Delhi which have dealt with the Balance Sheet/Annual Returns of
+
+Companies and where entries in the same have been treated as
+
+"acknowledgement of debt" and even accepted the same for the purpose of
+Section 18
+of the Limitation Act, 1963.
+5.    In Judgement in the matter of "Gautam Sinha Versus UV Asset
+
+Reconstruction Company Limited and others" in Company Appeal (AT)
+
+
+
+                                          Company Appeal (AT) (Ins) No.57 of 2020
+3
+(Ins) No.1382 of 2019 dated 25th February, 2020 passed by this Tribunal
+
+by a Bench also comprising myself, I had the occasion to deal with some
+
+of the Judgements relating to Balance Sheets/Annual Returns/Entries in
+
+books of accounts. I will extract portion of the analysis of those
+
+Judgements which I recorded in that Judgement of ours in "Gautam
+
+Sinha" (supra). The said portions are as under:-
+7. Before us, the learned Counsel for the Respondent No.1
+       (Respondent - in short) referred to the Judgements in the
+       matters of "
+Sheetal Fabrics versus Coir Cushions Ltd
+."
+reported as 2005 SCC OnLine DEL 247; "
+The
+       Commissioner of Income Tax-III v. Shri Vardhman
+       Overseas Ltd.
+" reported as 2011 SCC OnLine DEL 5599 and
+       "M/s Mahabir Cold Storage Versus C.I.T., Patna" reported
+       as 1991 Supp (1) Supreme Court Cases 402. The argument
+       is that acknowledgement of debt in the Balance Sheet also
+       amounts to acknowledgement under
+Section 18
+of the
+       Limitation Act.
+8. The Judgement in the matter of "
+The Commissioner of
+       Income Tax
+" (supra) was in the context of provisions of the
+Income Tax Act
+. In Para - 17 of the Judgement, it was
+       observed:-
+17. In the case before us, as rightly pointed out by
+           the Tribunal, the assessee has not transferred the
+           said amount from the creditors' account to its profit
+           and loss account. The liability was shown in the
+           balance sheet as on 31st March, 2002. The assessee
+           being a limited company, this amounted to
+           acknowledging the debts in favour of the
+           creditors.
+Section 18
+of the Limitation Act, 1963
+           provides for effect of acknowledgement in writing. It
+           says where before the expiration of the prescribed
+           period for a suit in respect of any property or right,
+           an acknowledgement of liability in respect of such
+           property or right has been made in writing signed by
+           the party against whom such property or right is
+           claimed, a fresh period of limitation shall commence
+           from the time when the acknowledgement was so
+           signed. In an early case, in England, in Jones v.
+Company Appeal (AT) (Ins) No.57 of 2020
+4
+Bellgrove Properties, (1949) 2KB 700, it was held that
+    a statement in a balance sheet of a company
+    presented to a creditor- share holder of the company
+    and duly signed by the directors constitutes an
+    acknowledgement of the debt.
+In
+Mahabir Cold
+    Storage v. CIT
+(1991) 188 ITR 91, the Supreme
+    Court held:
+"The entries in the books of accounts of the appellant
+    would amount to an acknowledgement of the liability
+    to Messrs. Prayagchand Hanumanmal within the
+    meaning of
+Section 18
+of the Limitation Act, 1963,
+    and extend the period of limitation for the discharge
+    of the liability as debt."
+In several judgments of this Court, this legal position
+    has been accepted."
+The Hon'ble High Court then referred to some of the
+Judgements.*
+9. In the Judgement in the matter of "Sheetal Fabrics"
+(supra), Hon'ble High Court of Delhi referred to Judgement
+in the matter of "In re. Padam Tea Company Ltd." AIR 1974
+Calcutta 170 and referred to the said Judgement as under:-
+"10. Let me first deal with the case of
+Padam
+    Tea Co. Ltd.
+(supra). This case relied upon by learned
+    Counsel for the respondent company in support of his
+    plea that acknowledgement contained in the balance
+    sheet could not be relied upon by the petitioner.
+    However, on going through this judgment, one would
+    clearly notice that it does not lay down the
+    proposition which is sought to be advanced by the
+    learned Counsel. That was a case where balance
+    sheet was not confirmed or passed by the
+    shareholders. The Court observed that such a
+    balance sheet, before it could be relied upon, must be
+    duly passed by the shareholders at the appropriate
+    meeting and must be accompanied by a report, if any,
+    made by the Directors for its validation. The principle
+    of law laid down was that statement in the balance
+    sheet indicating liability is to be read along with the
+    Directors' report to see whether both so read would
+    amount to an acknowledgement. There is no dispute
+    about this proposition of law. However
+,
+in that case
+,
+
+                                 Company Appeal (AT) (Ins) No.57 of 2020
+5
+the Court refused to accept entry in the balance sheet
+as acknowledgement of debt because of two reasons:
+(a) The balance sheet was not passed by the
+      shareholders at the appropriate meeting.
+(b) The Directors' report, in the balance sheet,
+      contained the following statement:
+11. Your Directors are of the opinion that the
+liabilities shown in Schedules 'A' and 'B' of the
+balance sheet excepting those of United Bank of
+India, M/s. Goenka and Co. Private Ltd. and Caritt,
+Moran and Co. Pvt. Ltd. are barred by limitations,
+hence these liabilities are not confirmed by your
+Directors.
+12. These were the two considerations which
+led the Court to conclude that even the debt shown
+in the balance sheet in respect of the said petitioning
+creditor would not amount to an acknowledgement as
+contemplated under
+Section 18
+of the Limitation Act
+and following observations in this regard are
+reported:
+"Therefore, in understanding the balance
+      sheets and in explaining the statements in the
+      balance-sheets, the balance-sheets together
+      with the Directors' report must be taken
+      together to find out the true meaning and
+      purport of the statements. Counsel appearing
+      for petitioning creditor contended that under
+      the statute the balance sheet was a separate
+      document and as such if there was unequivocal
+      acknowledgement on the balance-sheet is a
+      statutory document and perhaps is a separate
+      document but the balance sheet not confirmed
+      or passed by the shareholders at the
+      appropriate meeting and in order to do so it
+      must be accompanied by a report, if any, made
+      by the Directors. Therefore, even though the
+      balance sheet may be a separate document
+      these two documents in the facts and
+      circumstances of the case should be read
+      together and should be construed together.
+13. In the same breath, the High Court also
+explained as to what would constitute an
+acknowledgement under
+Section 18
+of the Limitation
+
+                             Company Appeal (AT) (Ins) No.57 of 2020
+6
+Act by referring to the judgment of the Supreme Court
+    and this discussion would be found in the following
+    passage:
+"It was held by the Supreme Court in the case
+          of L.C. Mills v. Aluminium Corpn. of India
+          Ltd., (1971) 1 SCC 67 : AIR 1971 SC 1482, that
+          it was clear that the statement on which the
+          plea of acknowledgement did not create a new
+          right of action but merely extended the period
+          of limitation. The statement need not indicate
+          the exact nature or the specific character of the
+          liability. The words used in the statement in
+          question must, however, relate to a present
+          subsisting liability and indicate the existence of
+          a jural relationship between the parties such
+          as, for instance, that of a debtor and a creditor
+          and the intention to admit such jural
+          relationship. Such an intention need not,
+          however, be in express terms and could be
+          inferred by implication from the nature of the
+          admission and the surrounding circumstances.
+          Generally speaking, a liberal construction of
+          the statement in question should be given. That
+          of course did not mean that where a statement
+          was made without intending to admit the
+          existence of jural relationship, such intention
+          should be fastened on the person making the
+          statement by an involved and far-fetched
+          reasoning. In order to find out the intention of
+          the document by which acknowledgement was
+          to be construed the document as a whole must
+          be read and the intention of the parties must be
+          found out from the total effect of the document
+          read as a whole."
+10. Then the High Court after referring to the Judgement in
+the matter of "Padam Tea Company" examined the case,
+which was before the Hon'ble High Court, and in the facts of
+that matter, found that the list of Creditors maintained by
+the Respondent Company before High Court or in the balance
+sheet, was without any conditions or any strings attached."
+[Emphasis supplied]
+
+
+
+
+                                 Company Appeal (AT) (Ins) No.57 of 2020
+7
+6.   Thereafter, this Tribunal in Judgement in the matter of "Gautam
+
+Sinha" discussed facts regarding the Balance Sheet as was relied on in
+
+that matter and concluded as under:-
+"14. We have already referred to the Judgements in
+           the matters of "Sheetal Fabrics" and "Padam Tea"
+which show that the Balance Sheet would be required
+           to be read with Directors' Report. In the Directors
+           Report which is before us, there does not appear to
+           be any acknowledgement of debt. The statement
+           recorded by the Auditor with regard to the pending
+           litigation in the facts of the present matter, we find,
+           cannot be read as an acknowledgement by Company
+           under
+Section 18
+of the Limitation Act."
+7.   In the above reference to Judgement in the matter of "Gautam Sinha"
+while referring the Judgement of the Hon'ble High Court of Delhi in the
+
+matter of "
+The Commissioner of Income Tax-III v. Shri Vardhman
+
+Overseas Ltd.
+" reported as 2011 SCC OnLine DEL 5599, only part of Para
+- 17* of that Judgement was reproduced.
+In Judgement in the matter of
+
+"
+Commissioner of Income Tax
+" (supra), the Hon'ble High Court of Delhi
+
+after referring to Judgement of the Hon'ble Supreme Court in "M/s
+
+Mahabir Cold Storage Versus C.I.T." (supra) and the legal positon in Para
+- 17, observed that in several Judgements of the High Court, the legal
+
+position has been accepted and added:-
+"In
+Daya Chand Uttam Prakash Jain vs. Santosh Devi
+           Sharma
+67 (1997) DLT 13, S.N. Kapoor J. applied the
+           principle in a case where the primary question was
+           whether a suit under
+Order 37 CPC
+could be filed on
+           the basis of an acknowledgement.
+In
+Larsen & Tubro
+           Ltd. v. Commercial Electric Works
+67 (1997) DLT 387
+           a Single Judge of this Court observed that it is well
+           settled that a balance sheet of a company, where the
+
+                                        Company Appeal (AT) (Ins) No.57 of 2020
+8
+defendants had shown a particular amount as due to
+              the plaintiff, would constitute an acknowledgement
+              within the meaning of
+Section 18
+of the Limitation
+              Act.
+In
+Rishi Pal Gupta v. S.J. Knitting & Finishing
+              Mills Pvt. Ltd.
+73 (1998) DLT 593, the same view was
+              taken.
+The last two decisions were cited by Geeta
+              Mittal, J. in S.C. Gupta v. Allied Beverages Company
+              Pvt. Ltd. (decided on 30/4/2007) and it was held that
+              the acknowledgement made by a company in its
+              balance sheet has the effect of extending the period of
+              limitation for the purposes of
+Section 18
+of the
+              Limitation Act.
+In
+Ambika Mills Ltd. Ahmedabad v.
+              CIT Gujarat
+(1964) 54 ITR 167, it was further held
+              that a debt shown in a balance sheet of a company
+              amounts to an acknowledgement for the purpose
+              of
+Section 19
+of the Limitation Act and in order to be
+              so,    the     balance     sheet   in    which     such
+              acknowledgement is made need not be addressed to
+              the creditors. In light of these authorities, it must be
+              held that in the present case, the disclosure by the
+              assessee company in its balance sheet as on 31st
+              March, 2002 of the accounts of the sundry creditors
+              amounts to an acknowledgement of the debts in their
+              favour for the purposes of
+Section 18
+of
+              the Limitation Act. The assessee's liability to the
+              creditors, thus, subsisted and did not cease nor was
+              it remitted by the creditors. The liability was
+              enforceable in a court of law."
+8.    Another Bench of this Tribunal has in the matter of "
+Mr. Gouri
+
+Prasad Goenka Vs. Punjab National Bank and another
+" in Company
+
+Appeal (AT) (Insolvency) No. 28 of 2019 reported as MANU/NL/0518/2019
+
+held that letter emanating from Corporate Debtor in that matter,
+
+addressed to the Financial Creditor where Corporate Debtor agreed to
+
+settle all outstanding dues of the Financial Creditor on "One Time
+
+Settlement (OTS) basis" amounted to acknowledgment of outstanding debt
+
+in writing.
+Company Appeal (AT) (Ins) No.57 of 2020
+9
+9.
+In Judgement in the matter of "
+ITC Limited Vs. Blue Coast
+
+Hotels    Ltd.   and   Ors.
+"    dated       19th   March,     2018   reported    as
+
+MANU/SC/0263/2018, Hon'ble Supreme Court was dealing with question
+
+whether    Sub-Section   (3A)    of
+Section      13
+of   Securitisation    and
+
+Reconstruction of Financial Assets and Enforcement of Security Interest
+
+Act, 2002 (SARFAESI - in short) was mandatory or directory in nature and
+
+in the context, dealt with the matter where the Creditor had not replied to
+
+debtors' representation and it was claimed that there was breach of
+Section 13(3A)
+. In that context, Hon'ble Supreme Court dealt with
+
+attendant circumstances and the Notices which were issued by the
+
+Creditor and the different proposals debtor made including a "Letter of
+
+Undertaking" dated 25th November, 2013 and in Para - 35 of that
+
+Judgement observed:-
+Letter of Undertaking "Without Prejudice"
+35. Much was sought to be made of the words
+            "without prejudice" in the letter containing the
+            undertaking that if the debt was not paid, the creditor
+            could take over the secured assets. The submission
+            on behalf of the debtor that the letter of undertaking
+            was given in the course of negotiations and cannot be
+            held to be an evidence of the acknowledgement of
+            liability of the debtor, apart from being untenable in
+            law, reiterates the attempt to evade liability and must
+            be rejected. The submission that the letter was
+            written without prejudice to the legal rights and
+            remedies available under any law and therefore the
+            acknowledgement or the undertaking has no legal
+            effect must likewise be rejected. This letter is
+            reminiscent of a letter that fell for consideration in
+            Spencer's case as pointed out by Mr. Harish Salve,
+            "as a Rule the debtor who writes such letters has no
+            intention to bind himself further than is bound
+            already, no intention of paying so long as he can avoid
+
+                                              Company Appeal (AT) (Ins) No.57 of 2020
+10
+payment, and nothing before his mind but a desire,
+           somehow or other, to gain time and avert pressure."
+It was argued in a subsequent case that an
+           acknowledgment made "without prejudice" in the
+           case of negotiations cannot be used as evidence of
+           anything expressly or impliedly admitted. The House
+           of Lords observed as follows:
+"But when a statement is used as
+                acknowledgement for the purpose of
+Section
+                29 (5)
+, it is not being used as evidence of
+                anything. The statement is not an evidence
+                of an acknowledgement. It is the
+                acknowledgement."
+Therefore, the without prejudice Rule could have no
+           application.
+It said:
+Here, the respondent, Mr. Rashid was not
+                offering any concession. On the contrary, he
+                was seeking one in respect of an undisputed
+                debt. Neither an offer of payment nor actual
+                payment.
+We, thus, find that the mere introduction of the words
+           "without prejudice" have no significance and the
+           debtor clearly acknowledged the debt even after
+           action was initiated under the Act and even after
+           payment of a smaller sum, the debtor has
+           consistently refused to pay up."
+[Emphasis supplied]
+10.   Carefully going through "ITC Ltd." Judgement, I am aware that the
+
+context there was not
+Limitation Act
+but the substance emanating is that
+
+even "Letter of Undertaking" issued "without prejudice" clause could
+
+contain an "acknowledgement of debt".
+Company Appeal (AT) (Ins) No.57 of 2020
+11
+11.   Going through the Judgements of Hon'ble High Courts of Delhi and
+
+other High courts, what appears to me is that it is well settled position of
+
+law that Annual Returns/Audited Balance Sheets can be referred to and
+
+relied on to see if contents therein amount to acknowledgement or not. The
+
+above discussion of the Judgements shows that even after referring to the
+
+Annual Reports/ Balance Sheets, there are instances where the contents
+
+are not relied on to conclude that there is acknowledgement of debt. For
+
+such reasons, I find it difficult to accept that only because
+Section 129
+of
+
+the Companies Act, 2013 makes filing of Financial Statements and
+Section
+
+92
+of the Companies Act, 2013 requires filing of Annual Returns by the
+
+Company mandatory and the default attracts penal action, the same
+
+cannot be treated as an acknowledgement under
+Section 18
+of the
+
+Limitation Act, 1963. The law requires preparation of Financial Statements
+
+and Annual Returns and filing of the same. The default in filing attracts
+
+action. There is no compulsion or force regarding the contents disclosing
+
+acknowledgement. This is clear from Para - 11 of the Judgement in the
+
+matter of "In re. Padam Tea Company Ltd." (referred supra in Para - 5).
+
+There the Directors recorded their opinion with regard to the liabilities
+
+shown to say that the same are barred by limitations and hence, the
+
+liabilities are not being confirmed by the Directors. Thus the provisions of
+
+the
+Companies Act
+mandating filing of Annual Return/Balance Sheet
+
+cannot be treated as if they are coercive and so should be treated as
+
+inadmissible.
+Company Appeal (AT) (Ins) No.57 of 2020
+12
+12.   Apart from Judgements of the High Courts, as referred, Judgement
+
+in the matter of "
+Mahabir Cold Storage
+" (supra) clearly recorded in Para -
+
+12 that entries in the books of accounts would amount to an
+
+acknowledgement of the liability within the meaning of
+Section 18
+of the
+
+Limitation Act, 1963.
+As such, I have difficulty with the Judgement in the
+
+matter of "
+V Hotels Limited
+" (supra) relied on where in Para - 23, the Bench
+
+of this Tribunal observed that "The books of accounts cannot be treated
+
+as an acknowledgement of liability in respect of debt ............." If books of
+
+accounts can be considered, I find it difficult to hold that the audited
+
+Balance Sheet prepared on the basis of books of accounts, needs to be
+
+ignored.
+Apart from the above, in Judgement in the matter of "
+Kashinath
+
+Sankarappa Wani Vs. New Akot Cotton Ginning
+&; Pressing Co., Ltd."
+
+reported as MANU/SC/0007/1958, while dealing with Resolution of Board
+
+of Directors and while considering Balance Sheet with regard to question
+
+of limitation, Hon'ble Supreme Court examined the Resolution and also
+
+the Balance Sheet and in the context of the facts of that matter came to a
+
+conclusion that the Resolution or the Balance Sheet did not help the
+
+Appellant. It is not that it was held that for the purpose of limitation,
+
+Balance Sheet cannot be considered at all.
+13.   In the matter of "A.V. Murthy Versus B.S. Nagabasavanna"
+reported as (2002) 2 SCC 642, while dealing with a complaint under
+Section 138
+of the Negotiable Instruments Act, 1881 when dispute came
+
+up whether the cheque drawn was in respect of a debt or liability not legally
+
+
+                                          Company Appeal (AT) (Ins) No.57 of 2020
+13
+enforceable, and the Additional Sessions Judge had held that there was
+
+error in taking cognizance of the offence, Hon'ble Supreme Court observed
+
+in Para - 5 as under:-
+"Moreover, in the instant case, the appellant has
+           submitted before us that the respondent, in his
+           balance sheet prepared for every year subsequent to
+           the loan advanced by the appellant, had shown the
+           amount as deposits from friends. A copy of the
+           balance sheet as on 31-3-1997 is also produced
+           before us. If the amount borrowed by the respondent
+           is shown in the balance sheet, it may amount to
+           acknowledgement and the creditor might have a fresh
+           period of limitation from the date on which the
+           acknowledgement was made. However, we do not
+           express any final opinion on all these aspects, as
+           these are matters to be agitated before the Magistrate
+           by way of defence of the respondent."
+[Emphasis supplied]
+14.   Judgement in the matter of "
+A.V. Murthy
+" (supra) was relied on by
+
+the Hon'ble Supreme Court in the matter of "
+S. Natarajan Vs. Sama
+
+Dharman
+" reported as MANU/SC/0698/2014. Thus, what appears to me
+
+is that even the Hon'ble Supreme Court has observed that if the amount
+
+borrowed by the party is shown in the Balance Sheet, it may amount to
+
+acknowledgement and the creditor might have a fresh period of limitation
+
+from the date on which the acknowledgement was made.
+15.   Thus, I find it is settled law appearing from the Judgements of the
+
+High Court of Delhi and other High Courts that Balance Sheets can be
+
+looked into to see if there is acknowledgement of debt. Perusing
+
+Judgements of Hon'ble Supreme Court I find that even Hon'ble Supreme
+
+                                        Company Appeal (AT) (Ins) No.57 of 2020
+14
+Court has looked into Balance Sheets and Books of Account to see if there
+
+is Acknowledgement of Liability. If the amount borrowed is shown in the
+
+Balance Sheet, it may amount to Acknowledgement. I find the Judgements
+
+of Hon'ble Supreme Court of India are binding and Balance Sheets cannot
+
+be outright ignored.
+16.   For the above reasons, I am of the opinion that Annual
+
+Returns/Audited     Balance   Sheets,    one   time   settlement   proposals,
+
+proposals to restructure loans, by whatever names called, cannot be
+
+simply ignored as debarred from consideration and in every given matter,
+
+it would be a question of applying the facts to the law and vice versa, to
+
+see whether or not the specific contents, spell out an acknowledgement
+
+under the
+Limitation Act
+.
+16.   For such reasons, in my view, the present Company Appeal (AT)
+
+(Insolvency) No.57 of 2020 should be placed before the regular Bench to
+
+consider whether or not the audited Balance Sheets and OTS proposals
+
+referred would on facts read with the law, amount to acknowledgements,
+
+so as to save limitation.
+17.   Except for the above aspects, I agree with the erudite Judgement of
+
+the Hon'ble Chairperson.
+18.   I direct accordingly.
+[Justice A.I.S. Cheema]
+                                                           Member (Judicial)
+rs
+                                         Company Appeal (AT) (Ins) No.57 of 2020

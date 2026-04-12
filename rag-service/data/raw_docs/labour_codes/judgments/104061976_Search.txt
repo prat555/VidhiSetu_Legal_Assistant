@@ -1,0 +1,1667 @@
+Title: Search
+Court: High Court
+Date: 45 of 1860
+Citation: SCC OnLine Del 383 (dated 25.01.2023) to be adhered
+Source: https://indiankanoon.org/doc/104061976/
+
+[Cites
+21
+, Cited by
+0
+]
+Delhi High Court
+Minor S Thr Mother M vs The State Nct Of Delhi And Anr on 29 May, 2025
+Author:
+Swarana Kanta Sharma
+Bench:
+Swarana Kanta Sharma
+$~85
+                          *          IN THE HIGH COURT OF DELHI AT NEW DELHI
+                          %                                                                        Date of decision: 29.05.2025
+                          +          W.P. (CRL.) 1804/2025
+                                     MINOR S (THR. MOTHER M)                                                                     .....Petitioner
+                                                                       Through:               Mr.     Anwesh       Madhukar
+                                                                                              (DHCLSC), Ms. Prachi Nirwan
+                                                                                              Mr. Ishat Singh Mr. Pranjal
+                                                                                              Shekhar, Advocates, along with
+                                                                                              mother of the minor/petitioner.
+                                                                       versus
+                                     STATE & ANR.                                                                          .....Respondents
+                                                                       Through:               Mr. Amol Sinha, ASC (Crl.),
+                                                                                              Mr. Ashvini Kumar and Mr.
+                                                                                              Kshitiz Garg, Advocates.
+                                                                                              Mr. Satya Ranjan Swain (Panel
+                                                                                              Counsel-AIIMS) with Dr Swati
+                                                                                              Tomar, AIIMS / R-2
+
+                          CORAM:
+                          HON'BLE DR. JUSTICE SWARANA KANTA SHARMA
+                                                                        JUDGMENT
+INDEX TO THE JUDGMENT
+                          INTRODUCTION ............................................................................................2
+                          FACTUAL BACKGROUND .............................................................................3
+                          PROCEEDINGS BEFORE THIS COURT .....................................................6
+                          ANALYSIS & FINDINGS ............................................................................... 12
+(A) The Medical Termination of Pregnancy Act, 1971
+: The Statutory
+                                Framework ........................................................................................................... 13
+                              (B)       Medical Termination of Pregnancy of beyond 24 weeks of a Rape
+                                        Victim: Law and the Judicial Precedents ......................................................... 17
+                              (C)        Directions & Guidelines Issued by this Bench: Summed Up ..................... 18
+Signature Not Verified
+W.P.(CRL.) 1804/2025                                                                                       Page 1 of 46
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:31.05.2025
+20:44:06
+(i)    Decision in
+Minor R Through Mother H v. State (NCT of Delhi
+) and
+                                            its Compliance ................................................................................................... 18
+(ii)   Decision in
+Minor L Through Guardian J v. State & Anr.
+.............................. 23
+(iii) Decision in
+Minor S Through Father B v. State & Anr
+.................................... 24
+                               (D)     The Present Case: Undue Delay in Carrying out MTP ................................. 26
+                               (E)     Issue Regarding Identity Proof for Ultrasound in Cases Involving Rape
+                                       Victims.................................................................................................................. 28
+                               (F)     Issue Regarding Determination of Age of the Victim - Medical Opinion
+                                       Versus Official Record ....................................................................................... 31
+                               (G)     Delay in Constitution of Medical Board Despite this Court's Directions . 33
+                               (H)     Discrepancy in Determination of Gestational Age........................................ 35
+                               (I)     Incomplete or Silent Report of the Medical Board: The information
+                                       required................................................................................................................. 37
+                               (J)     Comprehensive Directions and Guidelines ..................................................... 38
+                               (K)     Directions for Circulation and Implementation of Directions .................... 43
+                          CONCLUSION ............................................................................................... 45
+
+
+                          DR. SWARANA KANTA SHARMA, J. (ORAL)
+                          INTRODUCTION
+1.         This Court has once again been called upon, by way of the
+                          present writ petition preferred by a minor sexual assault victim
+                          through her mother, who is presently admitted and confined within
+                          the four walls of a hospital ward - carrying the enormous burden not
+                          only of a pregnancy resulting from sexual assault, but also of the
+                          memories associated with such trauma.
+2.         The victim's statement to the doctor who conducted her
+                          medico-legal examination, and the medical records itself revealed
+                          additional shocking details, i.e. that the victim was burnt by the
+                          accused with a lighter at different places on her body. As if the
+                          physical injuries and sexual assault were not enough to traumatize
+Signature Not Verified
+W.P.(CRL.) 1804/2025                                                                                                Page 2 of 46
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:31.05.2025
+20:44:06
+her, the indifference shown by the medical staff has only compounded
+                          her suffering. The doctors chose not to perform her ultrasound on the
+                          first day she was brought to the hospital solely because she did not
+                          possess an identity card.
+3.     This is also, yet another unfortunate occasion where this Court
+                          is confronted with the distressing reality of a minor rape victim, aged
+                          about 17 years, seeking medical termination of pregnancy [hereafter
+                          also referred to as ‗MTP'], only to be turned away by the hospital
+                          authorities on the ground that an order of this Court is first required
+                          before any medical assessment could be carried out by the Medical
+                          Board.
+FACTUAL BACKGROUND
+4.     The facts, as they unfold from the perusal of the petition, are
+                          that an FIR bearing no. 335/2025 was registered at Police Station
+                          Fatehpur Beri, Delhi on 11.05.2025, for commission of offence
+                          punishable under Section 64(1) of the Bharatiya Nyaya Sanhita, 2023
+                          and
+Section 6
+of the Protection of Children from Sexual Offences Act,
+                          2012, on the statement of minor victim S, who alleged that the
+                          accused ‗A' had committed sexual assault with her on several
+                          occasions on the false promise of marriage, due to which he had
+                          become pregnant.
+5.     On the same date, the victim was taken to All India Institute of
+                          Medical Sciences (AIIMS), Delhi for her medical examination. The
+                          Medico-Legal Certificate (MLC) was prepared, which recorded a
+Signature Not Verified
+W.P.(CRL.) 1804/2025                                        Page 3 of 46
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:31.05.2025
+20:44:06
+positive Urine Pregnancy Test (UPT). However, the MLC also notes
+                          that the petitioner declined to undergo any gynaecological
+                          examination or provide her biological samples. She also, on that day,
+                          refused to get her pregnancy terminated. It is further recorded that the
+                          victim informed the examining doctor that she had been subjected to
+                          physical violence, including being burnt at multiple places on her
+                          body with a lighter by the accused.
+6.     However, despite the urgency of the situation and clinical
+                          indications (pregnant abdomen examination) suggesting a pregnancy
+                          of about 20 weeks, the attending medical personnel at the Hospital
+                          declined to conduct an ultrasound examination. In this regard, one
+                          Form F had been filled up, however, it was mentioned on the same
+                          that no identity card of the victim was available, and thus, citing the
+                          absence of a valid identity proof, her ultrasound was not conducted.
+                          This was so even though the petitioner had been brought by an
+                          investigating officer of the Delhi Police with the official case file,
+                          pursuant to registration of the FIR.
+7.     Subsequently, the matter was placed before the Child Welfare
+                          Committee (CWC) on 13.05.2025. The CWC, upon interacting with
+                          the victim child and her mother, both of whom expressed consent for
+                          going ahead with the MTP, directed the Investigating Officer to
+                          ensure that the procedure was carried out at AIIMS, Delhi, without
+                          delay and called upon the Hospital to comply and submit a status
+                          report.
+8.     However, despite the CWC's clear directions, the Investigating
+Signature Not Verified
+W.P.(CRL.) 1804/2025                                         Page 4 of 46
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:31.05.2025
+20:44:06
+Officer has informed this Court that on 14.05.2025, the petitioner was
+                          taken to AIIMS, Delhi by Constable Yogita, regarding which DD
+                          entry No 103-A was recorded, again turned away by the attending
+                          doctors at the Hospital, who reiterated their refusal to conduct the
+                          ultrasound or proceed with MTP in the absence of identity documents
+                          of the petitioner. The CWC was apprised of the same through a status
+                          report dated 22.05.2025. The said report reveals that even after being
+                          handed over a copy of the CWC's order, the doctors at AIIMS, Delhi
+                          declined to proceed with the required ultrasound, insisting upon
+                          identity proof and age verification through an ossification test. It is a
+                          matter of deep concern that despite being fully aware of the
+                          petitioner's pregnancy, the hospital authorities insisted on conducting
+                          an ossification test, which involves radiological procedures that are
+                          generally contraindicated during pregnancy. An application for the
+                          same was moved before the learned Trial Court and the date for the
+                          test was fixed as 26.05.2025.
+9.     It is pointed out that on 22.05.2025, following a telephonic
+                          request from a CWC member to the concerned medical personnel, the
+                          Investigating Officer had once again approached the Hospital
+                          concerned. The Hospital, however, scheduled the petitioner's
+                          ultrasound only on 24.05.2025. On that day, the ultrasound was
+                          finally conducted. The doctor's order dated 24.05.2025 clearly
+                          records that the victim had no ID card due to which her ultrasound
+                          had not been conducted earlier, but conducted today. The said
+                          ultrasound, conducted on 24.05.2025, revealed that the petitioner was
+                          carrying a pregnancy of about 25 weeks and 4 days.
+Signature Not Verified
+W.P.(CRL.) 1804/2025                                          Page 5 of 46
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:31.05.2025
+20:44:06
+10.    However, thereafter, the victim was not examined by a Medical
+                          Board as it was opined by the doctor concerned that a court order was
+                          required since the pregnancy exceeded 24 weeks. The doctor's order
+                          dated 24.05.2025 is as follows:
+11.    It is in this background that the petitioner was compelled to
+                          approach this Court.
+PROCEEDINGS BEFORE THIS COURT
+12.    On 27.05.2025, when the matter came before this Court for the
+                          first time at 4 PM, the Investigating Officer, who was present before
+                          this Court, stated that though the victim child is currently admitted at
+                          AIIMS, Delhi, the attending doctor has insisted that, since the
+                          pregnancy is of more than 24 weeks, unless an order is obtained from
+                          this Court, they would not medically examine the child and provide
+                          their report regarding the medical assessment as to whether MTP can
+                          be safely conducted or not.
+13.    This Court had, vide order dated 27.05.2025, directed that the
+                          petitioner be medically examined/assessed by the Medical Board of
+Signature Not Verified
+W.P.(CRL.) 1804/2025                                         Page 6 of 46
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:31.05.2025
+20:44:06
+respondent no. 2 immediately, and that a report regarding the
+                          feasibility and safety of MTP be placed before this Court on the very
+                          next day. The relevant portion of the said order is extracted hereunder:
+―3. The learned counsel appearing for the petitioner submits
+                                     that the petitioner is a minor victim of rape, who seeks to get
+                                     her pregnancy medically terminated. However, it is pointed out
+                                     that the victim has yet not been examined (as per provisions of
+                                     the
+Medical Termination of Pregnancy Act, 1971
+) by the
+                                     Medical Board of respondent no. 2.
+4. The matter has been heard at length today. Certain lapses on
+                                     the part of respondent no. 2 have been pointed out by the
+                                     learned counsel for the petitioner.
+5. Be that as it may, considering the urgency in the matter, it is
+                                     directed that the petitioner herein shall be medically
+                                     examined/assessed by the Medical Board of respondent no. 2,
+                                     immediately. The assistance given by Mr. Satya Ranjan Swain,
+                                     the Standing Counsel for AIIMS, who came to the Court to
+                                     assist in the matter, is appreciated, who has coordinated and
+                                     sought instructions on phone from the Private Secretary of
+                                     Medical Superintendent, AIIMS, Delhi and has assured this
+                                     Court that a Medical Board will be constituted by the
+                                     respondent no. 2 today itself, and after the medical
+                                     examination/ assessment of the petitioner, a report in this
+                                     regard will be placed before this Court tomorrow morning i.e.
+                                     28.05.2025.
+6. Accordingly, list the matter tomorrow i.e. 28.05.2025.‖
+14.    When the matter was taken up on 28.05.2025, a report prepared
+                          by the 7-member Medical Board of AIIMS, Delhi, had been received,
+                          wherein it was mentioned that upon conducting the ultrasound of the
+                          victim, it was found that the gestational age of the foetus was 23
+                          weeks and 4 days. This contradicted the Hospital's own record
+                          dated 24.05.2025, which mentioned the gestational age as 25 weeks
+                          and 4 days. No explanation was offered for this inconsistency. It was
+                          also surprising that a doctor, appearing via video-conferencing,
+Signature Not Verified
+W.P.(CRL.) 1804/2025                                                    Page 7 of 46
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:31.05.2025
+20:44:06
+submitted that no court order was now needed since the gestation
+                          period was under 24 weeks - despite the Hospital earlier insisting the
+                          victim, her family and the I.O. on obtaining a court order. In view of
+                          these contradictions and the absence of a clear opinion, a clarification
+                          report was sought from AIIMS, Delhi, specifically stating whether
+                          MTP would pose any risk to the life of the minor victim, vide order
+                          dated 28.05.2025. The relevant portion of the said order reads as
+                          under:
+―4. The matter has been taken up again today. A report dated
+                                     28.05.2025, prepared by the Medical Board, has now been
+                                     placed on record.
+5. While several submissions have been made, which are not
+                                     being discussed in this order, this Court, considering the
+                                     urgency, finds it necessary to note with concern that despite the
+                                     constitution of the Medical Board, the report submitted today
+                                     fails to provide any clear opinion as to whether the medical
+                                     termination of pregnancy (MTP) can be safely performed on
+                                     the minor rape victim without posing a risk to her life. The
+                                     relevant portion of the opinion reads as follows:
+―After due consideration, it was observed that the
+                                         chronological age of the mother is 17 years and 6 months
+                                         (report attached), and the gestational age of the fetus is 23
+                                         weeks and 4 days as on 28.05.2025. As this falls under the
+MTP Act
+(minor category for 20-24 weeks), MTP may be
+                                         permitted without the need for Medical Board.‖
+6. It is also strange that today it has been stated that the
+                                     gestation period is 23 weeks and 4 days, whereas in the
+                                     Hospital's own prior record dated 24.05.2025 (Doctor's
+                                     Order), it was noted that the gestational age was 25 weeks and
+                                     4 days. There is no explanation for this discrepancy in the
+                                     reports within a span of just four days.
+7. It must be emphasized that the purpose of seeking a report
+                                     from the Medical Superintendent, based on the findings of a
+                                     Medical Board, is to enable the Court to pass an order based on
+                                     expert medical opinion -- particularly as to whether the
+                                     procedure will endanger the minor victim's life. Unfortunately,
+                                     the report is completely silent on this vital aspect.
+Signature Not Verified
+W.P.(CRL.) 1804/2025                                                      Page 8 of 46
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:31.05.2025
+20:44:06
+8. It is also surprising that during the hearing today, it was
+                                     submitted by one of the doctors, who appeared through video-
+                                     conferencing, that a court order is no longer required since the
+                                     gestation period is less than 24 weeks, whereas their own
+                                     record dated 24.05.2025 specifically mentioned that an order
+                                     from the Court is required for conducting the MTP in this case.
+9. In view of the above inconsistencies and lack of a conclusive
+                                     opinion, let a clarification report be filed by the Medical Board.
+                                     Additionally, a specific opinion, as required for submission to a
+                                     Court of law, shall be furnished clearly stating whether, in the
+                                     expert view of the Medical Board, conducting MTP in the
+                                     present case would pose any threat to the life of the child
+                                     victim.
+10.    List   this   matter    tomorrow      i.e.   29.05.2025.‖
+15.    On 29.05.2025, i.e, today, a clarification report has been
+                          received from the Medical Board of AIIMS, Delhi explaining the
+                          discrepancy in gestational age, and further, it has now been opined
+                          that the minor was physically and mentally fit for medical termination
+                          of pregnancy, and the same would not endanger her life. Given the
+                          contradictory submissions regarding the necessity of a court order and
+                          to avoid any confusion, and also upon such a request being made on
+                          behalf of the Hospital, this Court has passed a specific order directing
+                          AIIMS, Delhi to conduct MTP of the minor rape victim on
+                          30.05.2025. It was also clarified in the order passed today that a
+                          reasoned judgment, addressing the procedural lapses and systemic
+                          issues, would follow separately. The relevant portion of the said order
+                          reads as under:
+―5. This Court, vide order dated 28.05.2025, had expressed its
+                                     displeasure regarding the inconsistent medical opinions and
+                                     contradictory stands taken by the respondent no. 2 Hospital,
+                                     regarding the requirement of a court order for conducting
+                                     Medical Termination of Pregnancy (MTP), and had called for a
+Signature Not Verified
+W.P.(CRL.) 1804/2025                                                    Page 9 of 46
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:31.05.2025
+20:44:06
+clarification from the Hospital in the following terms:
+―8. It is also surprising that during the hearing today, it was
+                                         submitted by one of the doctors, who appeared through video-
+                                         conferencing, that a court order is no longer required since the
+                                         gestation period is less than 24 weeks, whereas their own record
+                                         dated 24.05.2025 specifically mentioned that an order from the
+                                         Court is required for conducting the MTP in this case.
+9. In view of the above inconsistencies and lack of a conclusive
+                                         opinion, let a clarification report be filed by the Medical Board.
+Additionally, a specific opinion, as required for submission to a
+                                         Court of law, shall be furnished clearly stating whether, in the
+                                         expert view of the Medical Board, conducting MTP in the present
+                                         case would pose any threat to the life of the child victim.‖
+6. Today, a report has been placed before this Court wherein an
+                                     explanation has been provided for the discrepancy in the
+                                     gestational age recorded in the earlier medical documents vis-à-
+                                     vis the later Medical Board report. It has also been opined today
+                                     that ―the minor is physically and mentally fit to undergo
+                                     termination of pregnancy and it will not endanger the minor
+                                     victim's life.‖
+7. As already noted in the previous order dated 28.05.2025, the
+                                     doctor's order dated 24.05.2025 issued by respondent no. 2
+                                     Hospital had opined that the pregnancy of the minor rape victim
+                                     was of 25 weeks and 4 days, which being beyond 24 weeks,
+                                     would require a court order under the
+MTP Act
+. Conversely, in
+                                     the Medical Board report dated 28.05.2025, it was stated that
+                                     the gestational age was 23 weeks and 4 days, and hence, a court
+                                     order was not required.
+8. Today, in the forenoon, it was submitted before this Court
+                                     that no court order was required for conducting the MTP,
+                                     considering the revised gestational age of the fetus. However, in
+                                     the afternoon, it was submitted on behalf of respondent no. 2
+                                     that a court order may be passed.
+9. In view of these submissions, and for the sake of clarity and
+                                     to avoid any further confusion, taking into account the earlier
+                                     report of hospital - which recorded the gestational age to be 25
+                                     weeks and 4 days - and also considering that by tomorrow, even
+                                     as per the opinion dated 28.05.2025 of medical board, the
+                                     gestational age shall be 24 weeks, this Court deems it
+                                     appropriate to pass specific directions for the medical
+                                     termination of pregnancy of the petitioner/minor rape victim,
+                                     aged about 17 years:
+i. The petitioner/victim, the Court is informed, is admitted in
+                                           the hospital/respondent no. 2. The competent authority of
+Signature Not Verified
+W.P.(CRL.) 1804/2025                                                           Page 10 of 46
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:31.05.2025
+20:44:06
+AIIMS, New Delhi shall make necessary arrangements for
+                                           medical termination of pregnancy of the victim which has
+                                           resulted due to alleged rape committed upon her, tomorrow i.e.
+                                           30th May, 2025, subject to all necessary medical precautions
+                                           and procedures etc.;
+ii. The Superintendent, AIIMS, New Delhi, and the Medical
+                                           Board will ensure that the termination of pregnancy of the
+                                           minor victim/petitioner is undertaken by competent doctors in
+                                           accordance with the provisions of the
+MTP Act
+, its rules and all
+                                           other rules, regulations and guidelines prescribed for the
+                                           purpose;
+iii. A complete record of the procedure which will be performed
+                                           on the petitioner for termination of her pregnancy shall be
+                                           maintained by the Medical Board;
+iv. The doctors concerned shall also preserve the tissue of the
+                                           fetus as the same may be necessary for DNA identification and
+                                           other purposes, in reference to the criminal case which stands
+                                           registered against the accused by the petitioner/victim;
+                                           v. The State shall bear all the expenses necessary for the
+                                           termination of the pregnancy of the petitioner, her medicines,
+                                           food etc.;
+vi. If the child is born alive, the Superintendent, AIIMS, New
+                                           Delhi, shall ensure that everything, which is reasonably possible
+                                           and feasible in the circumstances is offered to such child, and
+                                           the Child Welfare Committee concerned shall do the needful in
+                                           accordance with law.
+10. This Court has passed the aforesaid directions after it was
+                                     brought to the notice of the Court that the informed consent of
+                                     the guardian of the minor victim has been obtained in this case,
+                                     the statement made by the mother of the victim, who is present
+                                     before the Court, and after perusing the opinion of Medical
+                                     Board of AIIMS, New Delhi. Needless to say, the doctors
+                                     concerned while performing the procedure for medical
+                                     termination of pregnancy of the victim herein are expected to
+                                     keep every safety aspect in view.
+11. The present order is being passed considering the urgency
+                                     involved in this case. However, the detailed reasons for passing
+                                     the order, along with certain guidelines and directions - in light
+                                     of the various procedural and systemic issues, lapses and non-
+                                     compliance of judicial orders that have pointed out and argued
+                                     before this Court - shall be dealt with in extenso in a separate,
+                                     reasoned judgment of even date...‖
+Signature Not Verified
+W.P.(CRL.) 1804/2025                                                       Page 11 of 46
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:31.05.2025
+20:44:06
+16.    It is in this backdrop that the present judgment is being
+                          authored, primarily, to address certain procedural lapses, conflicting
+                          medical opinions, shifting stands taken before this Court, and the lack
+                          of institutional clarity in cases involving medical termination of
+                          pregnancy of minor victims of sexual assault.
+17.    The present case has brought to fore the systemic shortcomings
+                          that require judicial attention, not only to ensure that justice is done in
+                          the individual case but also to lay down necessary safeguards and
+                          guidelines for the future, so that similarly placed victims are not left
+                          in a state of confusion, delay, or distress at such a critical juncture.
+ANALYSIS & FINDINGS
+18.    Before delving into the merits of the present case, this Court
+                          finds it apposite to first examine the legal framework governing
+                          medical termination of pregnancy in India, particularly in the context
+                          of victims of sexual assault. It is also necessary to revisit earlier
+                          decisions rendered by this Court wherein detailed directions were
+                          issued from time to time to streamline the procedure to be followed in
+                          cases where the pregnancy of a rape victim exceeds the statutory
+                          gestational limit of 24 weeks.
+19.    In the present case, the respondent Hospital, AIIMS, Delhi,
+                          sought to justify its insistence on the production of an identification
+                          document by the victim before conducting an ultrasound, by citing the
+                          requirements under the
+Pre-Conception and Pre-Natal Diagnostic
+                          Techniques (Prohibition of Sex Selection) Act, 1994
+[hereafter
+Signature Not Verified
+W.P.(CRL.) 1804/2025                                             Page 12 of 46
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:31.05.2025
+20:44:06
+‗PC&PNDT Act'] and the Rules made thereunder. It was submitted
+                          that as per the said Act and Rules, a Form F is required to be filled
+                          prior to conducting any ultrasound, and for this purpose, as per their
+                          institutional protocol, a copy of the victim's ID card is to be attached.
+20.    Initially, this Court was not inclined to pass a detailed
+                          judgment, particularly in view of the comprehensive statutory
+                          provisions under the
+MTP Act
+, and catena of judicial precedents
+                          that have already clarified the protocol to be followed in cases
+                          involving pregnancy of a sexual assault victim. However, during
+                          the proceedings, the concerned doctor once again reiterated that there
+                          existed some degree of confusion regarding the applicable protocol. It
+                          was also submitted that while AIIMS, Delhi, had its own internal
+                          protocol for dealing with such cases, there was not sufficient
+                          awareness about the specific directions already
+laid down by
+this
+                          Court in earlier judgments, i.e., the directions which had been duly
+                          communicated to all the Hospitals in Delhi and a compliance affidavit
+                          in respect thereof had also been filed.
+21.    In light of the aforesaid submissions, and the unfortunate
+                          events that happened in this case, it has become necessary for this
+                          Court to once again clarify and reiterate the directions to be
+                          followed in such cases.
+(A) The Medical Termination of Pregnancy Act, 1971
+: The
+                          Statutory Framework
+22.    In India, the termination of pregnancy is governed by the
+Signature Not Verified
+W.P.(CRL.) 1804/2025                                           Page 13 of 46
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:31.05.2025
+20:44:06
+Medical Termination of Pregnancy Act, 1971
+, which lays down the
+                          legal framework under which registered medical practitioners may
+                          lawfully terminate certain pregnancies. Initially, the Act permitted
+                          termination of pregnancy up to 12 weeks with the opinion of one
+                          registered medical practitioner, and between 12 to 20 weeks with the
+                          opinion of two such practitioners formed in good faith. However, it
+                          was    amended         by   the
+Medical      Termination      of    Pregnancy
+                          (Amendment) Act, 2021
+, which extended the upper gestational limit
+                          to 20 weeks with the opinion of one registered medical practitioner,
+                          and further permitting termination between 20 to 24 weeks in certain
+                          specified categories, with the opinion of two practitioners. It also
+                          introduced new sub-sections i.e.
+Sections 3(2A)
+to
+3(2D)
+. The
+                          amended
+Section 3
+of MTP Act, as it stands today, reads as under:
+―3. When pregnancies may be terminated by registered
+                                     medical practitioners.
+(1) Notwithstanding anything contained in the
+Indian Penal
+                                     Code
+(45 of 1860), a registered medical practitioner shall not
+                                     be guilty of any offence under that Code or under any other law
+                                     for the time being in force, if any pregnancy is terminated by
+                                     him in accordance with the provisions of this Act.
+                                     (2) Subject to the provisions of sub-section (4), a pregnancy
+                                     may be terminated by a registered medical practitioner,-
+(a) where the length of the pregnancy does not exceed twenty
+                                     weeks, if such medical practitioner is, or
+(b) where the length of the pregnancy exceeds twenty weeks
+                                     but does not exceed twenty-four weeks in case of such category
+                                     of woman as may be prescribed by rules made under this Act,
+                                     if not less than two registered medical practitioners are,
+                                     of the opinion, formed in good faith, that--
+(i) the continuance of the pregnancy would involve a risk to the
+                                     life of the pregnant woman or of grave injury to her physical or
+                                     mental health; or
+Signature Not Verified
+W.P.(CRL.) 1804/2025                                                  Page 14 of 46
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:31.05.2025
+20:44:06
+(ii) there is a substantial risk that if the child were born, it
+                                     would suffer from any serious physical or mental abnormality.
+Explanation 1.--For the purposes of clause (a), where any
+                                     pregnancy occurs as a result of failure of any device or method
+                                     used by any woman or her partner for the purpose of limiting
+                                     the number of children or preventing pregnancy, the anguish
+                                     caused by such pregnancy may be presumed to constitute a
+                                     grave injury to the mental health of the pregnant woman.
+                                     Explanation 2.--For the purposes of clauses (a) and (b), where
+                                     any pregnancy is alleged by the pregnant woman to have been
+                                     caused by rape, the anguish caused by the pregnancy shall be
+                                     presumed to constitute a grave injury to the mental health of
+                                     the pregnant woman.
+(2A) The norms for the registered medical practitioner whose
+                                     opinion is required for termination of pregnancy at different
+                                     gestational age shall be such as may be prescribed by rules
+                                     made under this Act.
+(2B) The provisions of sub-section (2) relating to the length of
+                                     the pregnancy shall not apply to the termination of pregnancy
+                                     by the medical practitioner where such termination is
+                                     necessitated by the diagnosis of any of the substantial foetal
+                                     abnormalities diagnosed by a Medical Board.
+(2C) Every State Government or Union territory, as the case
+                                     may be, shall, by notification in the Official Gazette, constitute
+                                     a Board to be called a Medical Board for the purposes of this
+                                     Act to exercise such powers and functions as may be
+                                     prescribed by rules made under this Act.
+(2D) The Medical Board shall consist of the following,
+                                     namely:
+(a) a Gynaecologist;
+(b) a Paediatrician;
+(c) a Radiologist or Sonologist; and
+(d) such other number of members as may be notified in the
+                                     Official Gazette by the State Government or Union territory, as
+                                     the case may be.
+(3) In determining whether the continuance of a pregnancy
+                                     would involve such risk of injury to the health as is mentioned
+                                     in sub-section (2), account may be taken of the pregnant
+                                     womans actual or reasonably foreseeable environment.
+                                     (4) (a) No pregnancy of a woman, who has not attained the age
+Signature Not Verified
+W.P.(CRL.) 1804/2025                                                    Page 15 of 46
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:31.05.2025
+20:44:06
+of eighteen years, or, who having attained the age of eighteen
+                                     years, is a 2[mentally ill person], shall be terminated except
+                                     with the consent in writing of her guardian.
+(b) Save as otherwise provided in clause (a), no pregnancy
+                                     shall be terminated except with the consent of the pregnant
+                                     woman.‖
+23.    The statute permits termination of pregnancy where a registered
+                          medical practitioner, or practitioners, form the opinion that -
+                          continuation of the pregnancy would pose a risk to the life of the
+                          woman, or cause serious harm to her physical or mental health. In
+                          cases where the gestational period is between 20 and 24 weeks, the
+                          specific categories of women eligible for termination have been
+                          notified by the Central Government under the Medical Termination of
+                          Pregnancy Rules, 2003, as amended by the Medical Termination of
+                          Pregnancy (Amendment) Rules, 2021. Rule 3B enumerates seven
+                          distinct categories of women who are eligible for termination of
+                          pregnancy up to 24 weeks. In the said Rule, clause (a) relates to
+                          victims of sexual assault, rape or incest and clause (b) relates to
+                          minors.
+24.    Notably, Explanation 2 appended to the
+Section 3
+of MTP Act
+                          provides that in cases where the pregnancy is alleged to have resulted
+                          from rape, the mental anguish suffered by the woman shall be
+                          presumed to amount to grave injury to her mental health for the
+                          purposes of
+Section 3(2)(i)
+of the MTP Act. Therefore, it is not in
+                          dispute that in case of a minor victim who is alleged to be sexually
+                          assaulted or raped and as a consequence thereof she has conceived,
+                          the injury that is caused to her mental health is presumed even
+Signature Not Verified
+W.P.(CRL.) 1804/2025                                                Page 16 of 46
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:31.05.2025
+20:44:06
+statutorily.
+(B) Medical Termination of Pregnancy of beyond 24 weeks of a
+                          Rape Victim: Law and the Judicial Precedents
+25.    As evident from above, the statute does not provide for
+                          termination of pregnancies over the gestational age of 24 weeks
+                          except in case of detection of substantial foetal abnormalities, the
+                          provision with regard to it is laid down under
+Section 3(2B)
+of MTP
+                          Act, or in a case where the medical practitioner is of opinion, formed
+                          in good faith, that the termination of such pregnancy is immediately
+                          necessary to save the life of the pregnant woman (as per
+Section 5
+of
+                          MTP Act).
+26.    However, it is now well-recognized that the extraordinary
+                          jurisdiction of Constitutional Courts can be invoked in exceptional
+                          circumstances to permit termination even beyond the statutory upper
+                          limit for medical termination of pregnancy. This power has been
+                          acknowledged and exercised by the Hon'ble Supreme Court as well as
+                          various High Courts in appropriate cases. This is so because in
+                          instances of sexual assault, compelling a woman to continue with an
+                          unwanted pregnancy and imposing upon her the burden of
+                          motherhood can amount to violation of her fundamental right to live
+                          with dignity. Such a right necessarily encompasses the autonomy to
+                          make reproductive choices, including the decision to continue or
+                          terminate a pregnancy.
+Section 3(2)
+of the MTP Act reinforces this
+                          principle by recognising the importance of protecting not only the
+                          physical but also the mental health of the pregnant woman.
+Signature Not Verified
+W.P.(CRL.) 1804/2025                                         Page 17 of 46
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:31.05.2025
+20:44:06
+27.    This position was affirmed by the Hon'ble Supreme Court in
+                          case of
+A (Mother of X) v. State of Maharashtra & Anr.
+: Civil
+                          Appeal No. 5194 of 2024, wherein the Court had allowed termination
+                          of pregnancy of more than 29 weeks being carried by a rape victim.
+Prior thereto also, in case of
+Venkatalakshmi v. State of Karnataka &
+                          Ors.
+: Civil Appeal No. 15378 of 2017, the Hon'ble Supreme Court
+                          had permitted termination of a pregnancy at 26 weeks on the basis of
+                          severe mental trauma caused by rape.
+28.    This Court, including this Bench, has passed similar directions
+                          in other similar cases, where continuation of pregnancy beyond 24
+                          weeks posed serious risks to the mental or physical health of the
+                          woman, especially in cases arising from sexual assault.
+(C)    Directions & Guidelines Issued by this Bench: Summed Up
+(i)    Decision in
+Minor R Through Mother H v. State (NCT of Delhi
+)
+                          and its Compliance
+29.    As early as January 2023, this Bench was faced with a
+                          distressing situation involving a 14-year-old minor rape victim who
+                          was carrying a pregnancy of about 25 weeks. On 24.01.2023, this
+                          Court had directed the constitution of a Medical Board at the
+                          concerned Hospital to examine the victim and opine whether it was
+                          medically safe to terminate the pregnancy. The very next day, on
+                          25.01.2023, a detailed judgment was passed, directing the medical
+                          termination of pregnancy.
+30.    However, this Court was deeply concerned to note the
+Signature Not Verified
+W.P.(CRL.) 1804/2025                                       Page 18 of 46
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:31.05.2025
+20:44:06
+considerable delay that routinely occurred in such cases, particularly
+                          when the gestational period exceeded 24 weeks. It was brought to the
+                          notice of this Court that Hospitals used to frequently decline to
+                          conduct either medical examination or the termination itself without a
+                          court order. This delay used to affect minor victims, many of whom
+                          came from economically disadvantaged backgrounds and were thus
+                          compelled to first seek legal assistance, get a petition filed, and await
+                          listing before the Court, by which time several critical days were lost.
+                          Further aggravating the issue was the absence of permanent Medical
+                          Boards in most hospitals across Delhi, except a few. The Court in
+                          such cases were first required to pass directions for constitution of a
+                          Medical Board and await its report before passing any order for
+                          termination of pregnancy. Recognizing the urgency of such matters
+                          and the undue hardship being caused to victims, this Court issued a
+                          set of guidelines in
+Minor R Through Mother H v. State (NCT of
+                          Delhi
+): 2023 SCC OnLine Del 383 (dated 25.01.2023) to be adhered
+                          to by investigating officers and hospitals in all cases involving
+                          pregnancies beyond 24 weeks. These directions were as follows:
+―24. It is also pertinent to note that the victim child was
+                                     carrying pregnancy of 25 weeks when she was produced before
+                                     this Court. Due to financial constraints, they were able to file a
+                                     writ petition only through Delhi High Court Legal Services
+                                     Committee. In these circumstances, this Court feels that crucial
+                                     time is lost in the process of passing orders for medical
+                                     examination of victim by a board in case of 24 weeks or above
+                                     of pregnancy due to sexual assault which further endangers her
+                                     life.
+24.1. Considering the same, this Court passes the following
+                                     guidelines to be followed by the investigating officers, in cases
+                                     where pregnancy exceeds 24 weeks, which will be circulated
+                                     through the Commissioner of Police to all investigating
+Signature Not Verified
+W.P.(CRL.) 1804/2025                                                    Page 19 of 46
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:31.05.2025
+20:44:06
+officers concerned:
+i. At the time of medical examination of a victim of
+                                            sexual assault, it will be mandatory to conduct a Urine
+                                            Pregnancy Test, as in many cases, this Court has noticed
+                                            that such test is not conducted.
+ii. Upon the victim being found pregnant due to sexual
+                                            assault, and in case the victim is major gives her consent
+                                            and expresses her desire for conducting medical
+                                            termination of pregnancy, the concerned investigating
+                                            officer will ensure that on the same day, the victim will
+                                            be produced before such Medical Board envisaged under
+Section 3
+of MTP Act, which this Court has been
+                                            informed is constituted in following four hospitals in
+                                            Delhi: (i) All India Institute of Medical Sciences
+                                            (AIIMS), New Delhi, (ii) Dr. Ram Manohar Lohia
+                                            Hospital, New Delhi, (iii) Safdarjung Hospital, New
+                                            Delhi, and (iv) Lok Nayak Jai Prakash Narayan Hospital,
+                                            New Delhi.
+iii. In case a minor victim of sexual assault is carrying
+                                            pregnancy, upon the consent of her legal guardian and
+                                            desire of such legal guardian for termination of
+                                            pregnancy, the victim will be produced before such
+                                            Board.
+iv. In case a minor victim is examined by such Board,
+                                            appropriate report will be placed before concerned
+                                            authorities, so that if an order is being sought regarding
+                                            termination of pregnancy from the Courts, the Court
+                                            concerned does not lose any more time and is in a
+                                            position to pass an order on the same expeditiously.
+                                            v. As per
+Section 3(2C)
+and
+3(2D)
+of MTP Act, it is
+                                            mandated that the State Government or Union Territory
+                                            has to ensure that the Medical Boards are to be
+                                            constituted in the hospitals. The Court is informed that
+                                            such boards are not available in hospitals in each district,
+                                            causing inconvenience to the Investigating Officers as
+                                            well as to the victim at times who has to be taken for
+                                            MTP and for further examination. Thus, State
+                                            Government/Union Territory should ensure that such
+                                            mandate of
+Section 3(2C)
+and
+3(2D)
+of MTP Act, are
+                                            complied with and such Boards are constituted in all
+                                            Government Hospitals which have proper MTP Centres
+                                            and it should be mandatory to have such Boards
+                                            constituted before hand.‖
+Signature Not Verified
+W.P.(CRL.) 1804/2025                                                     Page 20 of 46
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:31.05.2025
+20:44:06
+Compliance of these Directions
+31.    The matter was subsequently taken up for compliance on
+                          01.08.2023. Pursuant to this Court's directions, the Union of India
+                          submitted a compliance report dated 17.08.2023, wherein it was
+                          informed that:
+"i. the Govt. of NCT of Delhi vide Notification dated
+                                     03.04.2023 has constituted the Medical Boards in several
+                                     Hospitals in Delhi;
+ii. in compliance of the order of this Court, Union of India vide
+                                     its letter dated 11.08.2023 had directed the concerned
+                                     Department of Govt. of NCT of Delhi to comply with the
+                                     directions of this Court as contained in the judgment dated
+                                     25.01.2023;
+iii. pursuant to aforesaid letter issued by Union of India, the
+                                     concerned Department of Govt. of NCT of Delhi has furnished
+                                     an action taken report dated 14.08.2023‖
+32.    In light of this, it was noted that the judgment had been
+                          circulated across all hospitals in Delhi for their information and
+                          compliance. Furthermore, the Government of NCT of Delhi had
+                          issued a Notification dated 03.04.2023 constituting permanent
+                          Medical Boards under
+Section 3
+of the MTP Act in 13 hospitals
+                          across Delhi. While disposing of the said matter on 21.08.2023, this
+                          Court had observed as under:
+―4. This Court takes note of the fact that the concerned
+                                     Department of       NCT of Delhi has complied with the
+                                     order/directions of this Court dated 25.01.2023 in its letter and
+                                     spirit. This Court expresses appreciation for the concerned
+                                     authorities/Union of India that they have taken note of the
+                                     emergent situation regarding termination of pregnancy of
+                                     the victims wherein the pregnancy period exceeds 24 weeks
+                                     and have included all the directions of this Court in the
+Signature Not Verified
+W.P.(CRL.) 1804/2025                                                   Page 21 of 46
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:31.05.2025
+20:44:06
+notification which was circulated, as reproduced above,
+                                     after constituting the medical boards as required under
+                                     law.
+5. This Court further hopes that the Delhi Police and the
+                                     doctors concerned will diligently follow the directions
+                                     which have now been circulated vide notification dated
+                                     03.04.2023. The notification also notifies the Government and
+                                     Private hospitals and the medical boards constituted therein in
+                                     compliance of the order of this Court.
+6. With this, the compliance of the order dated 25.01.2023
+                                     has been made which will ensure that a victim carrying
+                                     pregnancy of period of more than 24 weeks, will face no
+                                     problem when she is produced before the Court seeking
+                                     appropriate directions for termination of pregnancy, so that
+                                     crucial time is not lost in the process of passing orders for
+                                     medical examination of victim by a medical board in case of
+                                     pregnancy due to sexual assault which further endangers her
+                                     life.‖
+33.    The core objective behind the issuance of these guidelines was
+                          clear - to ensure that the medical examination of a minor rape victim
+                          carrying pregnancy of more than 24 weeks is conducted immediately
+                          in terms of the
+MTP Act
+, and a report is prepared and placed before
+                          appropriate authorities. This would allow the concerned court, when
+                          approached by the victim or someone on her behalf, to pass
+                          appropriate directions for termination without unnecessary delay.
+34.    Following the constitution of permanent Medical Boards in 8
+                          government hospitals (both Central and State-run) and 5 private
+                          hospitals, it was expected that these Boards would not insist on a
+                          court order prior to conducting a medical examination or preparing a
+                          report when the victim expresses desire to terminate pregnancy
+                          resulting from rape. The purpose was to ensure that a court is
+                          equipped to issue necessary directions on the very first date of
+Signature Not Verified
+W.P.(CRL.) 1804/2025                                                 Page 22 of 46
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:31.05.2025
+20:44:06
+hearing.
+(ii)   Decision in
+Minor L Through Guardian J v. State & Anr
+.
+35.    Despite the aforementioned directions, this Bench was once
+                          again faced with a similar situation in November 2023 in
+Minor L
+                          Through Guardian J v. State & Anr.
+: 2023 SCC OnLine Del 7159
+                          (dated 03.11.2023). In that case, the concerned hospital had refused to
+                          conduct medical examination of the minor rape victim without a court
+                          order.
+This Bench had recorded its strong displeasure, noting that
+                          while the directions issued in
+Minor R Through Mother H
+(supra)
+                          had been acknowledged and appeared to have been complied with on
+                          paper, the ground reality was markedly different. The directions were
+                          not being implemented by the hospitals. This Court expressly
+                          observed that future lapses of this nature would be viewed seriously,
+                          given the grave risk such delays pose to the physical and mental well-
+being of the minor victim, and the diminishing feasibility of
+                          conducting an MTP with each passing day.
+36.    The order dated 04.11.2023 in the said case, also directed that
+                          in all such cases, the Medical Board as well as the investigating police
+                          officer must explain the implications of medical termination of
+                          pregnancy to the minor victim and her guardian(s), in Hindi (or any
+                          other language understood by them) or English, as applicable. It was
+                          observed that medical termination of pregnancy has enduring mental
+                          and physical repercussions, and hence, the process must be carried out
+                          with sensitivity, not as a mere procedural formality.
+37.    The judgment was directed to be circulated to the
+Signature Not Verified
+W.P.(CRL.) 1804/2025                                         Page 23 of 46
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:31.05.2025
+20:44:06
+Commissioner of Police, Delhi; Secretaries of the Ministry of Health
+                          and Family Welfare, GNCTD and Government of India; and the Delhi
+                          State Legal Services Authority.
+(iii)   Decision in
+Minor S Through Father B v. State & Anr
+.
+38.
+In the year 2025, yet again, a similar issue arose before this
+                          Bench in
+Minor S Through Father B v. State & Anr.
+: 2025 SCC
+                          OnLine Del 2506. The minor rape victim, aged around 15 years, was
+                          carrying pregnancy of over 24 weeks. Despite the Child Welfare
+                          Committee (CWC) having passed appropriate directions, the Medical
+                          Board of the Hospital concerned had initially refused to examine the
+                          victim without a court order. Thereafter, due to lack of awareness of
+                          legal remedies, the victim was only able to approach this Court after a
+                          delay of about one week. By the time the matter was heard, the
+                          Medical Board had finally commenced examination, but only after an
+                          unjustified delay. In response, this Court had sought an explanation
+                          from the Medical Superintendent of the concerned hospital as to why,
+                          despite the victim having been presented in compliance with the
+                          CWC's direction and despite clear judicial guidelines already in place,
+                          there had been a delay of more than a week in the examination and
+                          preparation of the medical report.
+39.     In the said case, taking note of the fact that, another issue, i.e.
+                          lack of legal awareness among the victims of sexual assault as to
+                          which Court they had to approach for seeking permission for MTP,
+                          this Court had found it necessary to issue certain directions to ensure
+                          that the rights of such victims are protected without any delay or
+Signature Not Verified
+W.P.(CRL.) 1804/2025                                            Page 24 of 46
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:31.05.2025
+20:44:06
+confusion. Therefore, in its order dated 17.04.2023, the following
+                          directions were issued by this Court:
+―32. Accordingly, in order to ensure that such confusion or
+                                     delay is avoided in the future, and that victims of sexual assault
+                                     are provided prompt and appropriate legal guidance and
+                                     medical support, the following directions are issued:
+i. Whenever a minor victim of sexual assault, who is found
+                                     pregnant with a gestational period of pregnancy exceeding 24
+                                     weeks, is produced before the CWC and is referred to a
+                                     hospital for medical examination or medical termination of
+                                     pregnancy, the concerned CWC shall forthwith inform the
+                                     Delhi High Court Legal Services Committee (DHCLSC)
+                                     regarding the case, since in case, medical termination of
+                                     pregnancy is sought and consent is given by the victim or her
+                                     family, as the case may be, an urgent order from a Court of law
+                                     will be required for such medical termination of pregnancy.
+                                     The communication shall include the details of the victim as
+                                     permitted under law (without disclosing the identity of the
+                                     victim), the order passed by CWC, the copy of the FIR which
+                                     is placed before CWC, when the victim is produced before it,
+                                     by the IO and any other document relevant for filing a petition
+                                     before the competent Court.
+ii. Upon receiving such information, DHCLSC shall
+                                     immediately take appropriate steps to assess whether any legal
+                                     intervention is required, including the need to approach the
+                                     competent Court seeking an order for medical termination of
+                                     pregnancy which is beyond 24 weeks in case of a rape victim
+                                     where she or her guardian seek medical termination of
+                                     pregnancy. This will enable DHCLSC to take timely action,
+                                     and where necessary, ensure that the matter is brought before
+                                     the competent court without delay.
+iii. The above direction shall be circulated to all CWCs
+                                     functioning in the National Capital Territory of Delhi and shall
+                                     be scrupulously followed.
+iv. To conclude, this Court reiterates that, as directed in the
+                                     judgment titled Minor R Thr.
+Mother H v. State (NCT of
+                                     Delhi
+) (supra) dated 25.01.2023, as well as in the judgment
+                                     titled Minor L Thr.
+Guardian J v. State & Anr.
+(supra) dated
+                                     03.11.2023, the medical examination of a minor rape victim
+                                     carrying a pregnancy beyond 24 weeks must be conducted
+                                     immediately by the Medical Board of the concerned Hospital
+Signature Not Verified
+W.P.(CRL.) 1804/2025                                                    Page 25 of 46
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:31.05.2025
+20:44:06
+in terms of the
+MTP Act
+, and the report be prepared and kept
+                                      ready, without insisting the victim to first approach a Court of
+                                      law for obtaining an order for medical examination by the
+                                      Board.‖
+40.    Lest one wonders, as to why, the directions issued in the
+                          aforesaid three decisions are being reiterated in the present judgment,
+                          it is important to clarify that their reiteration has been necessitated by
+                          the repeated instances of their non-compliance that have come to the
+                          notice of this Court. Despite earlier decisions laying down clear
+                          procedural safeguards and guidelines for conducting MTP of a rape
+                          victim carrying pregnancy of more than 24 weeks, cases continue to
+                          surface where these directions are either overlooked or inadequately
+                          implemented, to the serious prejudice of the minor rape victims
+                          involved.
+(D)    The Present Case: Undue Delay in Carrying out MTP
+41.    In the present case, the chain of events reveals a troubling
+                          picture of delay, miscommunication, and lack of clarity on the
+                          part of hospital authorities, all of which culminated in a significant
+                          lapse in providing timely medical care to a 17-year-old rape survivor.
+                          The FIR in the present case was registered on 11.05.2025, and the
+                          minor victim was taken the same day to AIIMS, Delhi, where a Urine
+                          Pregnancy Test confirmed that she was pregnant. Clinically, the
+                          pregnancy appeared to be around 20 weeks. However, despite this, the
+                          doctors on duty refused to conduct an ultrasound, stating that an
+                          identity card had not been produced. This insistence is difficult to
+Signature Not Verified
+W.P.(CRL.) 1804/2025                                                   Page 26 of 46
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:31.05.2025
+20:44:06
+understand, especially when the victim was accompanied by the
+                          Investigating Officer, a Sub-Inspector of Delhi Police, who had
+                          brought the official case file. In the facts of the present case, such
+                          insistence on documentation, when the presence of law enforcement
+                          and official papers should have sufficed, appears unnecessary and has
+                          only contributed to delay without any justification.
+42.    The matter was again taken to the CWC by the IO, which, after
+                          interacting with the victim and her mother, both of whom
+                          unequivocally consented to medical termination of pregnancy,
+                          directed on 13.05.2025 that the MTP be carried out without delay.
+                          Yet, even with this categorical direction and official communication
+                          in hand, the doctors at the Hospital concerned persisted in their
+                          refusal, reiterating their demand for ID proof, and going so far as to
+                          recommend an ossification test to verify the victim's age.
+43.    Despite repeated efforts by the Investigating Officer, and even
+                          intervention by a CWC member, it was only on 24.05.2025 - thirteen
+                          days after the first hospital visit - that the ultrasound was finally
+                          conducted. By then, the petitioner's pregnancy had reportedly crossed
+                          25 weeks, which had placed her beyond the statutory limit under the
+MTP Act
+. Even then, no Medical Board was constituted, as the doctor
+                          concerned had opined that a judicial order was necessary before
+                          proceeding further [order extracted in paragraph 10 of this judgment].
+44.    This entire sequence of events reflects an unfortunate and
+                          avoidable situation, where legal formalities, administrative confusion,
+                          and lack of clarity took precedence over immediate medical needs and
+Signature Not Verified
+W.P.(CRL.) 1804/2025                                         Page 27 of 46
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:31.05.2025
+20:44:06
+basic humanitarian concern, moreso, since the medical record reveal
+                          as recorded earlier also that the victim had undergone brutal sexual
+                          assault and was burnt with a lighter by the accused at different places
+                          of her body, as mentioned in the MLC of the victim also.
+45.      As noted above, the victim was kept waiting for several days in
+                          the hospital, unable to undergo an essential medical procedure, and
+                          the reason, as emerged from the record and submissions, was
+                          confusion among the hospital authorities, regarding whether a court
+                          order was necessary, what documentation was sufficient, and whether
+                          an ultrasound could be conducted in absence of the victim's identity
+                          proof.
+(E)      Issue Regarding Identity Proof for Ultrasound in Cases
+                                   Involving Rape Victims
+46.      In the present case, it is an admitted position that the minor
+                          victim was taken to AIIMS, Delhi by the Investigating Officer on the
+                          same day the FIR was registered, for her medical examination. The
+                          MLC was duly prepared, noting that the victim was pregnant and had
+                          suffered physical violence. However, despite clear clinical indications
+                          and an urgent need to assess the stage of pregnancy, the hospital
+                          authorities declined to perform an ultrasound. The stated reason was
+                          the absence of an identity document of the minor. This insistence on
+                          formal identification resulted in a critical delay in the assessment of
+                          the pregnancy and, consequently, the necessary medical and legal
+                          procedures required for medical termination.
+Signature Not Verified
+W.P.(CRL.) 1804/2025                                         Page 28 of 46
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:31.05.2025
+20:44:06
+47.    The hospital's contention was that, under the PC&PNDT Act, a
+                          Form ‗F' must be filled before conducting any ultrasound, and as per
+                          the protocol of the Hospital, an identity card of the patient must be
+                          annexed with the said form. The doctor concerned submitted before
+                          this Court that this is standard protocol followed in all pregnancy-
+                          related ultrasound procedures. However, this Court finds it necessary
+                          to underline that the present matter does not concern a routine case of
+                          pregnancy. It involved a minor girl who had become pregnant due to
+                          sexual assault, a fact already recorded in the FIR, supported by the
+                          statement of the victim, and the presence of the Investigating Officer
+                          who had formally brought her to the hospital for examination and a
+                          formal application in this regard enlisting the FIR number and other
+                          details of the offence were already before the concerned doctor.
+48.    This distinction, in this Court' view, goes to the very heart of
+                          the matter. In cases of sexual assault, especially where the victim is a
+                          minor, the standard procedural safeguards that apply to routine
+                          diagnostic cases cannot be applied in a rigid or mechanical manner.
+                          The need to conduct an ultrasound in such cases is not optional or
+                          elective, but an essential one. Any delay in conducting an ultrasound
+                          would not only prolong the physical and emotional distress of the
+                          victim but also risk breaching the statutory limits for termination of
+                          pregnancy under the
+MTP Act
+, particularly in view of the 24-week
+                          upper limit.
+49.    In the considered opinion of this Court, once the Investigating
+                          Officer produces a victim of sexual assault before the medical
+Signature Not Verified
+W.P.(CRL.) 1804/2025                                         Page 29 of 46
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:31.05.2025
+20:44:06
+authorities for examination, with the official case file and the details
+                          of the FIR, the procedural requirement of identity verification through
+                          separate documents can be dispensed with. In fact, a similar approach
+                          is followed in other sensitive proceedings, such as when the victim's
+                          statement is recorded under
+Section 164
+of Cr.P.C. before the
+                          Magistrate, where no insistence on an identity card is made, and
+                          identification by the Investigating Officer is considered sufficient.
+                          Interestingly, if the MLC of the victim could have been prepared and
+                          the history of sexual assault given by her could have been recorded
+                          therein on the basis of identification by the IO on 11.05.2025, while
+                          the USG of the same victim could not have been conducted on her
+                          identification is not clear nor sufficiently or satisfactorily accounted
+                          for, by the hospital authorities.
+50.    It is also noteworthy that, in the present case, Form F was in
+                          fact filled, and the only missing item was the attachment of the
+                          identity document of the victim. Yet, despite the Investigating
+                          Officer's presence and the filling of all other relevant information, the
+                          ultrasound was deferred. What makes this more perplexing as already
+                          discussed above that the MLC was prepared without insisting on
+                          identity proof, suggesting that the same officer's identification was
+                          sufficient for general medical examination, but somehow deemed
+                          insufficient for conducting an ultrasound. Such a dichotomy in
+                          approach is difficult to justify and only adds to the confusion and
+                          delay faced by victims in such cases.
+51.    In this Court's view, the refusal to proceed with the ultrasound
+Signature Not Verified
+W.P.(CRL.) 1804/2025                                          Page 30 of 46
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:31.05.2025
+20:44:06
+in such circumstances reflects a rigid adherence to the standard
+                          operating procedures without accommodating the specific nature of
+                          the case. However, hospitals and medical institutions must be
+                          sensitised to the fact that cases involving victims of sexual assault,
+                          especially minor girls, require a more responsive and sensitive
+                          approach. The medical protocols must align not just with statutory
+                          obligations, but also with compassion, practicality, and an
+                          understanding of the unique challenges that victims of sexual violence
+                          face.
+52.     Therefore, while the requirement of an identity card may be a
+                          valid protocol in routine pregnancy cases to ensure compliance with
+                          the PC&PNDT Act, since identity verification is necessary to ensure
+                          accountability, proper record-keeping, and compliance with legal
+                          safeguards, no such insistence should be made when a rape victim is
+                          brought for medical examination and ultrasound by the Investigating
+                          Officer after the registration of an FIR.
+(F)     Issue Regarding Determination of Age of the Victim -
+Medical Opinion Versus Official Record
+53.     One of the concerning aspects that emerged in the present case
+                          is the manner in which the issue of age of the victim was dealt with by
+                          the doctors concerned. The Investigating Officer had produced the
+                          minor victim before the concerned doctor for medical examination,
+                          along with the official case file and a copy of the FIR, which recorded
+                          her age as 17 years. The attending doctor on the other hand recorded
+                          the victim's age as 18 years on the basis of the statement of the
+Signature Not Verified
+W.P.(CRL.) 1804/2025                                        Page 31 of 46
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:31.05.2025
+20:44:06
+victim, and thereafter prepared her MLC.
+54.    Now, since in this case, there was no identity proof available
+                          with the victim, the doctor went ahead and recommended ossification
+                          tests, including X-rays of the chest, wrist, and elbow joints, apparently
+                          for the purpose of age determination. This was done without any
+                          formal request from the I.O. or the victim. Thus, even though the
+                          minor child in this case was a victim of alleged sexual assault, who
+                          was carrying pregnancy of about 20 weeks as per the own opinion of
+                          the doctors, the doctors concerned were opining that X-rays of the
+                          child be conducted to determine her age.
+55.    This is a matter of concern since the entire focus was now on
+                          determining the age of the victim, despite the FIR clearly stating that
+                          she was 17 years old, while the victim herself stated that she was 18.
+                          To resolve this difference, the doctors recommended an ossification
+                          test. However, it appears to have been overlooked that ossification
+                          tests only provide an approximate age range, and even then, they
+                          carry a margin of error of up to two years. In such serious
+                          circumstances, where the age difference in question was merely one
+                          year i.e. between 17 and 18, the utility of such a test is questionable
+                          itself. More importantly, the central issue should not have been
+                          whether the victim was 17 or 18 years of age, but rather the need to
+                          conduct her ultrasound without delay, determine the gestational age of
+                          the foetus, and assess whether the pregnancy could and should be
+                          medically terminated. Unfortunately, the time spent in this avoidable
+                          and confusing exercise led to a further delay in initiating essential
+Signature Not Verified
+W.P.(CRL.) 1804/2025                                          Page 32 of 46
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:31.05.2025
+20:44:06
+medical steps, including the ultrasound and consultations needed to
+                          proceed with care.
+(G)    Delay in Constitution of Medical Board Despite this Court's
+                                 Directions
+56.    On 24.05.2025, the ultrasound of the minor victim was finally
+                          conducted, and it was recorded that the pregnancy had advanced to 25
+                          weeks and 4 days. However, the doctor concerned insisted on
+                          obtaining a court order before proceeding any further, as evident from
+                          doctor's order dated 24.05.2025, and no medical board was
+                          constituted to examine/assess the victim for the purpose of
+                          considering medical termination of pregnancy, as it was stated before
+                          this Court on 27.05.2025 that a medical Board was yet to be
+                          constituted to do the needful. Strange though, a permanent medical
+                          board already exists for this purpose in AIIMS, as per compliance
+                          report filed before this Court, pursuant to judgment passed by this
+                          Court, in which this Court's attention was brought to the following
+                          notification:
+Signature Not Verified
+W.P.(CRL.) 1804/2025                                       Page 33 of 46
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:31.05.2025
+20:44:06
+57.    Thus, the omission on the part of respondent Hospital is
+                          contrary and in contempt of the directions issued by this Court in case
+                          of
+Minor R Through Mother H v. State (NCT of Delhi
+) (supra),
+                          wherein it had been clearly directed that once the gestational age is
+                          determined to be over 24 weeks and the pregnancy is a result of
+                          sexual assault, the Medical Board in terms of
+MTP Act
+must be
+                          constituted without delay to assess the possibility of termination. In
+                          addition, it is also contrary to the compliance report filed before this
+                          Court regarding adherence to these directions filed by the Union of
+Signature Not Verified
+W.P.(CRL.) 1804/2025                                         Page 34 of 46
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:31.05.2025
+20:44:06
+India, wherein it was submitted that
+the said decision
+had been
+                          circulated to all the Hospitals in Delhi for necessary information and
+                          compliance and a list as mentioned in the preceding paragraph.
+(H) Discrepancy in Determination of Gestational Age
+58.    Another serious issue that emerged during the course of this
+                          matter was the conflicting assessments regarding the gestational age
+                          of the foetus. On 24.05.2025, when the first ultrasound was
+                          conducted, the pregnancy was opined to be 25 weeks and 4 days. The
+                          doctor had opined that a Court order was required for conducting
+                          medical termination of pregnancy. However, just four days later, on
+                          28.05.2025, following this Court's direction, a second ultrasound was
+                          performed on the victim, and the pregnancy was then stated to be 23
+                          weeks and 4 days and the doctor opined that the order of this Court
+                          was not required. The difference between the two reports was not
+                          minor - there was a gap of 18 days, which is substantial given the
+                          critical stage of the pregnancy and the legal consequences tied to it.
+                          Resultantly, it was the victim who suffered silently admitted in the
+                          hospital as one report on 25.04.2025 opined that MTP can be
+                          conducted only after Court order and therefore was not conducted in
+                          absence of order of this Court. On the other hand, a legal battle in the
+                          Court ensued on 27.05.2025, till when, even a medical board was not
+                          constituted. On 28.05.2025, it was stated, contrary to its own report
+                          dated 24.05.2025 seeking an order of this Court that now no Court
+                          order was required as the ultrasound conducted on 28.05.2025 reveal
+                          the gestational period of pregnancy lesser than 25 weeks.
+Signature Not Verified
+W.P.(CRL.) 1804/2025                                         Page 35 of 46
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:31.05.2025
+20:44:06
+59.    In response to this discrepancy, a clarification was sought by
+                          this Court. AIIMS, Delhi in its written explanation, stated that a
+                          variation of 10 to 14 days is medically acceptable while calculating
+                          gestational age through ultrasound. Disturbing is the fact that this
+                          variation of 10-14 days will be critical in a case of medical
+                          termination of pregnancy of a sexual assault victim, as to whether, a
+                          Court order to conduct MTP will be required or not. In absence of any
+                          clear report, how will then a MTP be conducted either with or without
+                          an order of the Court. However, it was not explained how the
+                          difference in the present case went beyond that accepted range. This
+                          Court was further informed during the course of hearing that the
+                          second ultrasound conducted on 28.05.2025 was performed by a
+                          senior and experienced doctor, and hence, that assessment should be
+                          relied upon. If that is to be accepted, it naturally raises a concerning
+                          question: was the first ultrasound conducted by an inexperienced
+                          doctor? or whether the initial report was prepared in haste or without
+                          due attention? Necessarily, this Court asks a question as to on which
+                          reports, the Court should rely on to base their orders? Should the
+                          Courts now ask for a certificate so that the medical reports can be
+                          relied upon for passing an order? When a medical report is placed
+                          before a Court of law, the Courts presume that the reports are correct
+                          and can be relied upon and therefore a duty is cast on the hospitals
+                          and the doctors to send the reports in cases as the present one where
+                          variations of even a few days will materially alter an order are sent
+                          with due care. In case, the gestational period of the pregnancy, on the
+                          day the first ultrasound was conducted on 24.05.2025, was less than
+Signature Not Verified
+W.P.(CRL.) 1804/2025                                         Page 36 of 46
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:31.05.2025
+20:44:06
+25 weeks since the second ultrasound conducted after four days state
+                          so and the doctor concerned opined that they did not need a Court
+                          order, it would mean that the MTP could have been conducted on
+                          24.05.2025 itself without Court order. However, since the earlier
+                          ultrasound opined categorically without any margin of error
+                          mentioned in the report and specifically asked for a Court order, the
+                          Court had no other option but to believe that indeed, a Court order
+                          was required for conducting MTP since the gestational period was
+                          more than 25 weeks and the report of the medical board was
+                          mandatorily required for the same.
+(I)    Incomplete or Silent Report of the Medical Board: The
+                                 information required
+60.    Another serious issue in this case was that the report tendered
+                          before this Court on 28.05.2025, of the Medical Board that had
+                          examined the victim of sexual assault, which reads as under:
+―After due consideration, it was observed that the
+                                     chronological age of the mother is 17 years and 6 months
+                                     (report attached), and the gestational age of the fetus is 23
+                                     weeks and 4 days as on 28.05.2025. As this falls under the
+MTP Act
+(minor category for 20-24 weeks), MTP may be
+                                     permitted without the need for Medical Board.‖
+61.    However, the information and opinion a Court requires for
+                          passing an order for medical termination of pregnancy is as follows:
+(i) The exact gestational period of the pregnancy of the victim.
+(ii) Whether the victim is physically fit to undergo MTP?
+(iii) Whether the victim is mentally fit to undergo MTP?
+Signature Not Verified
+W.P.(CRL.) 1804/2025                                               Page 37 of 46
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:31.05.2025
+20:44:06
+(iv) Whether it will pose risk to the life of the victim in case of
+                                MTP?
+62.    However, the report tendered by the medical board in the
+                          present case was silent on the above three aspects. Thus, compelling
+                          this Court to direct that the report of the medical board in such cases
+                          must adhere to the basic information qua the victim mentioned above,
+                          in addition to any other information that the doctor concerned or the
+                          medical board may deem necessary.
+63.    In any case, the Court at present is more concerned about
+                          ensuring that the victim receives appropriate medical care and that no
+                          further delay is caused in processing her case. At the same time, it
+                          must be ensured that in future, victims of sexual assault are not
+                          subjected to such uncertainty and confusion at the hands of the
+                          medical system. The manner in which this victim was dealt with,
+                          particularly the conflicting reports regarding a matter as crucial as
+                          gestational age, making the victim wait from 13.05.2025 to
+                          27.05.2025 for conducting an MTP despite order of CWC, reflects a
+                          troubling lack of coordination and seriousness. The hospital
+                          authorities of all hospitals where such victims are brought are directed
+                          to take this as a reminder of the sensitivity and care such cases
+                          demand.
+(J)    Comprehensive Directions and Guidelines
+64.    The present case has brought to light the pressing need for
+                          medical protocols that are clear, practical, and sensitive when it comes
+Signature Not Verified
+W.P.(CRL.) 1804/2025                                          Page 38 of 46
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:31.05.2025
+20:44:06
+to victims of sexual assault, especially those who are minor pregnant
+                          and seek medical help. The lack of clarity on procedures, the
+                          insistence on identity documents, and the delay in carrying out
+                          necessary medical examinations like ultrasounds have all contributed
+                          to the further distress of the victim in this case. Doctors and medical
+                          staff must have well-defined instructions on how to proceed in such
+                          cases, and these must clearly distinguish between routine medical
+                          terminations and those involving victims of sexual violence. These
+                          instructions should be easily accessible in emergency rooms and
+                          gynecology departments, and medical professionals should be trained
+                          to handle such situations with the urgency and sensitivity they
+                          demand. This Court is, therefore, of the view that directions are
+                          necessary so that no other victim is left to suffer due to procedural
+                          confusion or lack of preparedness in the medical response system.
+65.    For the convenience of all stakeholders involved, and to ensure
+                          clarity and uniformity in handling cases of sexual assault where the
+                          victim is found to be pregnant, it is directed that the following
+                          directions shall henceforth be strictly followed, which are to be read
+                          in addition to any earlier directions issued by this Court:
+A. In all cases where a victim of rape/sexual assault is found to be
+
+                                 pregnant, a comprehensive medical examination shall be
+                                 conducted without any delay by the Hospital and doctor
+                                 concerned. Relevant provisions of law, including
+Section 164A
+of Cr.P.C./Section 184 of BNSS,
+Section 27
+of POCSO Act,
+                                 etc., as well as other medical protocols and judicial precedents
+Signature Not Verified
+W.P.(CRL.) 1804/2025                                          Page 39 of 46
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:31.05.2025
+20:44:06
+in this regard shall be followed.
+B. It shall be the responsibility of the Investigating Officer to
+
+                                 identify the victim, and ensure that when the victim is produced
+                                 before the concerned doctor, Hospital or Medical Board,
+                                 necessary documents, case file, etc. pertaining to the rape
+                                 victim are carried by the Investigating Officer.
+C. Where the victim of sexual assault (major or minor) is
+
+                                 accompanied by the Investigating Officer or has been produced
+                                 pursuant to direction of a Court or CWC, identification
+                                 proof/identity card of the victim shall not be insisted upon by
+                                 Hospital and doctor concerned for the purpose of conducting
+                                 ultrasound or any relevant/necessary diagnostic procedure. The
+                                 identification by the IO will suffice in such cases.
+D. In cases of rape victims, where the gestational period exceeds
+
+                                 24 weeks, the Medical Board shall be constituted immediately,
+                                 and without waiting for any specific direction from the Court,
+                                 the Board shall conduct the necessary medical examination and
+                                 prepare an appropriate report at the earliest and place before
+                                 appropriate authorities, so that an order may be passed without
+                                 delay when a victim approaches this Court for passing of
+                                 directions for medical termination of pregnancy [Ref: Judgment
+                                 dated 25.01.2023 in
+Minor R Through Mother H v. State
+                                 (NCT of Delhi
+), (supra)].
+E. This Court also notes that there continues to be some lack of
+
+                                 coordination among the CWC, Investigating Officers, and the
+Signature Not Verified
+W.P.(CRL.) 1804/2025                                          Page 40 of 46
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:31.05.2025
+20:44:06
+legal aid authorities (DHCLSC), as far as approaching this
+                                 Court for seeking an order for MTP of a rape victim is
+                                 concerned.
+In this regard, detailed directions issued by this
+                                 Court in judgment dated 17.04.2025 in
+Minor S Through
+                                 Father B v. State & Anr.
+(supra), which have been reiterated in
+                                 paragraph 39 of this judgment, shall be adhered to by CWC and
+                                 DHCLSC.
+F.   In all cases where MTP is conducted of a rape victim, the
+                                 foetus shall be preserved properly, as per law, so that it may be
+                                 sent in future for DNA analysis or other forensic purposes, for
+                                 the purpose of investigation.
+G. The consent for medical termination of pregnancy shall be
+
+                                 obtained (from the victim or her guardian, as the case may be)
+                                 in the vernacular language understood by them, such as in
+                                 Hindi or English, after explaining them the implications of
+                                 conducting the MTP [Ref: Order dated 04.11.2023 in
+Minor L
+                                 Through Guardian J v. State & Anr.
+(supra)].
+66.    In addition to the above directions, and to ensure that the same
+                          are followed and complied with in their letter and spirit, this Court
+                          also deems it appropriate to frame following guidelines:
+A. The Hospital administration is directed to make available the
+
+                                 latest, updated Standard Operating Procedure (SOPs) and
+                                 relevant legal guidelines in both Emergency and Gynaecology
+                                 Departments, and to ensure that duty doctors are briefed and
+                                 sensitised regularly regarding their obligations under the MTP
+Signature Not Verified
+W.P.(CRL.) 1804/2025                                         Page 41 of 46
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:31.05.2025
+20:44:06
+Act, POCSO Act
+, and guidelines
+laid down by
+the Supreme
+                                 Court and High Courts.
+B. Training programs for doctors, medical staff, and legal officers
+
+                                 attached to all Hospitals be conducted quarterly in collaboration
+                                 with DSLSA/ DHCLSC or any such designated body, to equip
+                                 them with legal and procedural awareness necessary for
+                                 handling such cases sensitively and efficiently.
+C. A dedicated nodal officer may be designated in every
+
+                                 Government hospital, specifically trained and empowered to
+                                 coordinate MTP and medico-legal processes for victims of
+                                 sexual assault. This officer may act as the single point of
+                                 contact for Investigating Officers, CWC, and Courts, and
+                                 maintain a checklist to ensure that no procedural formality
+                                 causes undue delay, and his name and contact details be
+                                 mentioned on the website of all hospitals for easy accessibility
+                                 of the victims and the IO.
+D. A standardised format for MTP request, consent, ultrasound
+
+                                 requisition, and medical opinion may be developed and made
+                                 available in both English and Hindi in all emergency and
+                                 gynaecology units. This will ensure that doctors and medical
+                                 staff can respond uniformly to such cases without legal
+                                 confusion.
+E. The Delhi Police shall ensure that Investigating Officers
+
+                                 dealing with POCSO and sexual assault cases undergo
+                                 mandatory training every six months, with a focus on MTP
+Signature Not Verified
+W.P.(CRL.) 1804/2025                                         Page 42 of 46
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:31.05.2025
+20:44:06
+procedures, court orders, and coordination with medical and
+                                 welfare authorities. Certificates of completion shall be
+                                 maintained in the officers' service record.
+F.   The directions in the preceding paragraph shall be incorporated
+                                 in the medico-legal manuals issued by hospitals and health
+                                 departments, and the same shall be annexed with induction
+                                 materials for new resident doctors, forensic experts, and
+                                 gynaecologists.
+(K)    Directions for Circulation and Implementation of Directions
+67.    It is directed that this judgment be circulated and implemented
+                          in the following manner to ensure its strict and uniform compliance,
+                          while dealing with cases of sexual assault:
+I.   The learned Registrar General of this Court is directed to
+                                 forward a copy of this order to the following authorities for
+                                 their information and immediate necessary action: (a)
+                                 Secretary, DHCLSC; (b) Commissioner of Police, Delhi; (c)
+                                 Secretary,      Department   of   Health   &   Family     Welfare,
+                                 Government of NCT of Delhi; and (d) Secretary, Ministry of
+                                 Health & Family Welfare, Government of India.
+                           II.   These authorities shall take steps to ensure that the directions
+                                 and protocols contained in this judgment are disseminated and
+                                 complied with by all relevant stakeholders.
+Signature Not Verified
+W.P.(CRL.) 1804/2025                                           Page 43 of 46
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:31.05.2025
+20:44:06
+III.   This judgment, which compiles the Standard Operating
+                                 Procedures (SOPs) and relevant guidelines shall be circulated
+                                 to:
+a. Heads of Departments (HoDs) of Emergency, Gynaecology,
+                                       and Obstetrics in government and private hospitals,
+                                       especially those having permanent medical boards;
+                                 b. All medical professionals likely to handle cases of sexual
+                                       assault, especially those involving minors;
+                          IV.    The Department of Health & Family Welfare, Government of
+                                 NCT of Delhi; and Ministry of Health & Family Welfare,
+                                 Government of India shall:
+a. Ensure state-wide distribution of the protocols to all relevant
+                                       medical institutions;
+b. Facilitate translation into Hindi language to ensure
+                                       accessibility and comprehension by frontline healthcare
+                                       personnel.
+V.    The Commissioner of Delhi Police shall:
+a. Circulate the protocols to all police stations, Special
+                                       Juvenile Police Units (SJPUs), and relevant units through
+                                       formal       departmental     communication,        including
+                                       electronically on the official e-mail IDs of the concerned
+                                       officials;
+b. Ensure that translated version is made available and
+                                       incorporated into the regular training curriculum at the
+                                       Police Training Academies.
+Signature Not Verified
+W.P.(CRL.) 1804/2025                                          Page 44 of 46
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:31.05.2025
+20:44:06
+VI.    Copy of this judgment, including the protocols and list of
+                                 hospitals having permanent medical boards for the purpose of
+                                 conducting assessment requirement for the purpose of carrying
+                                 out MTP of a sexual assault victim with or without a Court
+                                 order, as the case may be, shall be kept physically available at
+                                 all times in the Emergency Departments and Gynaecology &
+                                 Obstetrics Departments of hospitals for ready reference by
+                                 attending doctors.
+CONCLUSION
+68.    This case serves as an important reminder that a victim of
+                          sexual assault carrying the burden of an unwanted pregnancy
+                          may need more sensitivity to deal with as in many cases, such
+                          victims are under deep distress unable to process their situation
+                          and life. Further, each day's delay in such cases in conducting
+                          MTP puts the victim under enhanced potential danger to her life.
+                          The system's failure to respond with clarity, sensitivity, and urgency
+                          in such cases will only deepen the trauma and suffering of a young
+                          girl who should have been met with care, not delay. This judgment,
+                          therefore, is an attempt to resolve the issues which were pointed out
+                          before this Court, and also to ensure that in future, no victim of sexual
+                          assault, carrying an unwanted pregnancy, is left adrift in a maze of
+                          confusion.
+69.    Before parting with this case, this Court places on record its
+                          appreciation for the learned counsels appearing for the victim, learned
+                          counsel for the hospital and the learned ASC for the State for
+Signature Not Verified
+W.P.(CRL.) 1804/2025                                          Page 45 of 46
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:31.05.2025
+20:44:06
+contributing in the formulation of fresh guidelines.
+70.     The present writ petition is disposed of with above directions.
+71.     However, the Registry is directed to list this matter for filing of
+                          compliance reports by (a) Commissioner of Police, Delhi, (b) Health
+                          & Family Welfare, Government of NCT of Delhi, and (c) Ministry of
+                          Health & Family Welfare, Government of India on 16.07.2025.
+72.     The Registrar General of this Court is also requested to get this
+                          judgment translated into Hindi through the concerned Committee of
+                          this Court, and get the same uploaded in the judgment section of the
+                          website.
+73.     The judgment be uploaded on the website forthwith.
+DR. SWARANA KANTA SHARMA, J
+                          MAY 29, 2025/ns
+                          TS/TD
+Signature Not Verified
+W.P.(CRL.) 1804/2025                                            Page 46 of 46
+Digitally Signed
+By:ZEENAT PRAVEEN
+Signing Date:31.05.2025
+20:44:06

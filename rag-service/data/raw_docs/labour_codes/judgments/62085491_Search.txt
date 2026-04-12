@@ -1,0 +1,2991 @@
+Title: Search
+Court: High Court in
+Date: 36 NYPTTJ 1280
+Citation: SCC 215. As
+Source: https://indiankanoon.org/doc/62085491/
+
+[Cites
+89
+, Cited by
+0
+]
+Income Tax Appellate Tribunal - Jaipur
+Shiv Vegpro Private Limited ,Kota vs Pcit-Udaipur , Udaipur on 28 January, 2025
+vk;dj vihyh; vf/kdj.k] t;iqj U;k;ihB] t;iqj
+    IN THE INCOME TAX APPELLATE TRIBUNAL, JAIPUR BENCHES,"B" JAIPUR
+
+Mk0 ,l- lhrky{eh] U;kf;d lnL; ,oa Jh jkBkSM+ deys'k t;UrHkkbZ] ys[kk lnL; ds le{k
+  BEFORE: DR. S. SEETHALAKSHMI, JM & SHRI RATHOD KAMLESH JAYANTBHAI, AM
+
+                   vk;dj vihy la-@ITA. No. 1014/JPR/2024
+                    fu/kZkj.k o"kZ@Assessment Years : 2017-18
+
+  Shiv Vegpro Pvt. Ltd.,                cuke    The PCIT,
+  SP-3, RIICO Agro Food Park,           Vs.    Udaipur.
+  Ranpur, Kota .
+  LFkk;h ys[kk la-@thvkbZvkj la-@PAN/GIR No.: AAJCS7629B
+  vihykFkhZ@Appellant                              izR;FkhZ@Respondent
+
+       fu/kZkfjrh dh vksj ls@ Assessee by : Shri Mahendra Gargieya, (Adv.) &
+                                                Shri Hemang Gargieya ( Adv.)
+      jktLo dh vksj ls@ Revenue by           : Mrs. Alka Gautam, (CIT-DR)
+                                         a
+             lquokbZ dh rkjh[k@ Date of Hearing : 19/12/2024
+           mn?kks"k.kk dh rkjh[k@Date of Pronouncement : 28/01/2025
+                                 vkns'k@ ORDER
+PER: RATHOD KAMLESH JAYANTBHAI, AM
+
+        This appeal is filed by the assessee aggrieved from the order
+
+  of the Learned Principal Commissioner of Income Tax, Udaipur
+
+  dated 29.02.2024 [ for short "PCIT"] for the assessment year 2017-
+18. Ld. PCIT passed that order while exercising the power vested
+
+  upon her
+u/s. 263
+of Income Tax Act, 1961 [ for short Act ] while
+
+  examining the assessment records of the assessee which was
+2                       ITA No. 1014/JPR/2024
+Shiv Vegpro Pvt. Ltd. vs. PCIT
+passed by the National Faceless Assessment Centre on
+
+15.04.2021.
+2.   The assessee has marched this appeal on the following
+
+grounds:-
+"1. The Ld. PCIT, Udaipur seriously erred in law as well as on the facts
+     of the case in invoking the provisions of
+S.263
+of the Act and therefore,
+     the impugned order dated 29.02.2024
+u/s 263
+kindly be quashed.
+2. The Id. PCIT, Udaipur seriously erred in law as well as on the facts
+     of the case in assuming jurisdiction
+u/s 263
+by wrongly and incorrectly
+     holding that the subjected assessment order passed
+u/s 147
+dated
+     15.04.2021 is prejudicial to the interests of the revenue. The
+     assumption of jurisdiction
+u/s 263
+being contrary to the provisions of
+     law and facts on record, hence, the proceedings- initiated
+u/s 263
+hence, the impugned order dated 29.02.2024 deserves to be quashed.
+3. Rs.24,14,531/ The Id. PCIT, Udaipur in the impugned order passed
+     u/s 263 of the Act, raised an altogether new issue of the alleged
+     disallowance on account of late payment of PF/ESI contributions of
+     Rs.24,14,531/- u/s 36(1)(va) of the Act. The impugned order thus, to
+     this extent is a nullity being without jurisdiction and therefore deserves
+     to be quashed.
+4. Rs. 63,97,664/-1 The Id. PCIT, Udaipur in the impugned order
+     passed
+u/s 263
+, raised an altogether new issue of the alleged
+     disallowance
+u/s 43B(e)
+of the Act on account of interest payable to
+     scheduled banks on bank loan of Rs.63,97,664/-. The impugned order
+     thus, to this extent is nullity being without jurisdiction and therefore
+     deserves to be quashed.
+5. Rs. 21,732/-: The Id. PCIT, Udaipur in the impugned order passed
+     u/s 263, raised an altogether new issue of the alleged disallowance
+u/s
+     36(1)(iii)
+of the Act on account of 5. interest payable for delayed
+     payment of TDS of Rs.21,732/-. The impugned order thus, to this
+     extent in nullity being without jurisdiction and therefore deserves to be
+     quashed.
+3                        ITA No. 1014/JPR/2024
+Shiv Vegpro Pvt. Ltd. vs. PCIT
+6. Rs.6,35,00,000/-: The Id. PCIT, Udaipur in the impugned order
+     passed
+u/s 263
+, raised an issue for obtaining new loans during the
+     impugned previous year of Rs.6,35,00,000/-. The impugned order thus,
+     to this extent is a nullity being without jurisdiction and therefore
+     deserves to be quashed.
+7. The appellant prays your honor indulgences to add, amend or alter
+     of or any of the grounds of the appeal on or before the date of hearing."
+3.   At the outset of the hearing the bench noted that there was
+
+delay of 96 days in filling the present appeal by the assessee. In
+
+support, the assessee filed an application for condonation of delay
+
+praying therein as under:-
+"The Humble - Assessee most respectfully begs to submit as under:
+1. That in the aforesaid matter, the Id. PCIT, Udaipur passed the Order
+     u/s 263 on dated 29.02.2024 (hereinafter referred as "impugned
+     order"), Accordingly, the appeal was to be filed on/before dt.
+     28.04.2024 however, the same has been filed on dated 29.07.2024.
+Thus, the appeal was filed with a delay of 92 days.
+2.1 Reasonable Cause Existed: With regard to the delay, it is humbly
+     submitted that there did exist a reasonable cause and the delay so
+     caused was completely unintended and bonafide in as much as Shri
+     Sushil Mittal, employed in the office of the Company and permanent
+     employee of the appellant company namely, M/s SHIV VEGPRO
+     PRIVATE LIMITED, Kota, was assigned the task to collect the appeal
+     prepared from the counsel at Jaipur, to get it signed and to ensure filing
+     of the same in time. Shri Sushil Mittal was fully conversant with the
+     affairs of the above assessee in the office of M/s SHIV VEGPRO
+     PRIVATE LIMITED, Kota. Shri Sushil Mittal collected the documents
+     prepared from the counsel at Jaipur, which were received only a week
+     before the last date of filing of the appeal.
+In the meanwhile, because of the marriage of his daughter in the month
+     of April, he proceeded on leave. Therefore, he could neither hand over
+4                       ITA No. 1014/JPR/2024
+Shiv Vegpro Pvt. Ltd. vs. PCIT
+his responsibilities to his colleague nor could inform Shri Sandeep
+Kumar Saboo, Director of the company about the documents, including
+the appeal papers.
+2.2 Although subsequently, Shri Sushil Mittal resumed his duties in the
+office sometime in the first week of May, 2024, yet however, it did not
+occur to his mind that some appeal papers were to be signed, which
+were still lying pending with him.
+2.3 It is only thereafter, in the second week of July, 2024 when CA
+Dharm Chand Jain, FCA contacted the counsel engaged at Jaipur w.r.t.
+the status of the appeal (which he believed had already been filed), but
+then he was informed that the same is yet to be filed and that the
+appeal papers were received by Shri Sushil Mittal for getting them
+signed. In absence of any persuasion from the side of the Assessee
+and M/s DHARM CHAND JAIN & ASSOCIATES, Chartered
+Accountant, the counsel at Jaipur, already handling a heavy workload,
+informed the factual position to Shri Dharm Chand Jain. It is only
+thereafter, the Director, Shri Sandeep Kumar Saboo immediately
+enquired Shri Sushil Mittal and asked him to hand over him the
+subjected documents the appeal set, who thereafter, recollected and
+after making an extensive search could lay his hand on the appeal
+papers. Upon getting hold of the documents, Shri Sandeep Kumar
+Saboo, promptly signed the papers and thereafter, forwarded the same
+to the counsel at Jaipur without any further delay.
+2.4 Thus, the delay in filing of the instant appeal was not at all
+deliberate or intentional but arose due to circumstances beyond the
+assessee's control, primarily stemming from the unintended and
+bonafide mistake committed by the Employee working at the Assessee-
+Company. The Assessee has acted diligently and in good faith
+throughout this process, taking all necessary steps to rectify the
+situation and ensure compliance.
+2.5 That the applicant was a layman & not very conversant with the
+complex tax laws and due to the circumstances stated above, the delay
+so caused was beyond their control but was bonafide and unintended.
+The assessee was not going to gain any benefit because of the
+delayed finding and their conduct was not contumacious.
+3. In support, affidavits of Shri Sandeep Kumar Saboo and Shri Sushil
+Mittal are enclosed herewith and marked as Annexure-1 and Annexure-
+2.
+5                       ITA No. 1014/JPR/2024
+Shiv Vegpro Pvt. Ltd. vs. PCIT
+4. Supporting Case Laws: It is submitted that the Hon'ble Supreme
+      Court in the case of
+Collector, Land & Acquisition v. Mst
+. Katiji & Others
+      (1987) 167 ITR 471 (SC) has advocated for a very liberal approach
+      while considering a case for condonation of delay. The following
+      observations of the Hon'ble Court are notable:
+"The legislature has conferred the power to condone delay by enacting
+section 5
+of the Limitation Act 1963 in order to enable the Courts to do
+      substantial justice to parties by disposing of matters on 'merits. The
+      expression 'sufficient cause employed by the legislature is adequately
+      elastic to enable the Courts to apply the law in a meaningful manner
+      which sub serves the ends of justice that being the life-purpose of the
+      existence of the institution of Courts. It is common knowledge that this
+      Court has been making a justifiably liberal approach in matters
+      instituted in this Court, But the message does not appear to have
+      percolated down to all the other Courts in the hierarchy."
+The said judgment is a leading case on the subject and has a binding
+      force on all the officers subordinate thereto.
+Prayer
+
+      It is, therefore, humbly prayed that:
+a. This application may kindly be allowed by condoning the delay,
+      taking a sympathetic view, in the interest of justice.
+b. Any other order, which this Hon'ble ITAT deems fit and proper, be
+      also passed in favour of applicant assessee."
+The assessee also supported the contention so raised in the
+
+application with an affidavit so executed by Shri Sandeep Saboo
+
+director of the company. Based on that contention the ld. AR of the
+
+assessee prayed to condone the delay.
+3.1   On the other hand, ld. DR objected that the reasons
+
+advanced are not sufficient to condone the delay.
+6                    ITA No. 1014/JPR/2024
+Shiv Vegpro Pvt. Ltd. vs. PCIT
+3.2   We have heard both the parties and perused the materials
+
+available on record. The Bench noted that the reasons advanced
+
+by the assessee for condonation of delay of 96 days that the
+
+person was engaged in the marriage of daughter and thereafter on
+
+being aware the appeal was filed. Looking to the facts stated in the
+
+application they are sufficient to condone the delay and it has merit
+
+based on the prayer advanced by the assessee.
+Thus, we concur
+
+with the submission of the assessee and condone the delay of 96
+
+days in filing the appeals by the assessee in view of the decision of
+
+Hon'ble Supreme Court in the case of Collector, land
+Acquisition
+
+vs. Mst
+. Katiji and Others, 167 ITR 471 (SC) as the assessee was
+
+prevented by sufficient cause.
+4.    The fact as culled out from the records is that M/s Shiv
+
+Vegpro Pvt. Ltd. is a Company engaged in the manufacturing of
+
+vegetable oil, DOC, High Pro-DOC etc. Assessee filed its Return of
+
+Income    dated   06/11/2017     with   acknowledgement           number
+
+291801621061117 declaring taxable income at Rs. 9,56,12,530/-.
+The case of the assessee was re-opened for the A.Y. 2017-18
+
+consequent to information received from the Office of the Income
+
+Tax Officer, Ward-4(5)(1), Delhi regarding bogus transactions
+
+entered into by the assessee during the financial year 2016-17.
+7                  ITA No. 1014/JPR/2024
+Shiv Vegpro Pvt. Ltd. vs. PCIT
+
+
+The
+scrutiny proceedings were initiated by serving the notice
+u/s
+
+148
+of the Act dated 17/03/2020.
+4.1   Thereafter, notice
+u/s 143(2)
+of the Act was issued to the
+
+assessee through ITBA on 30.09.2020. Vide letter dated 4/11/2020
+
+assessee objected to the reopening proceedings-initiated
+u/s 147
+of the Act. The objections raised by the assessee was disposed of
+
+by the assessing officer vide Order dated 08.01.2021.
+4.2   The reasons recorded for reopening of the case; to verify the
+
+genuineness of the Sales made by the assessee to M/s Kangana
+
+Agro Products Ltd, was required to be verified about the
+
+genuineness of the manufacturing activities of the assessee.
+Notice
+u/s 142(1)
+of the Act was issued and served to the
+
+assessee on 05.02.2021.
+4.3   In response to the above notice the assessee submitted part
+
+reply only and did not submit any details of Purchases, Sales and
+
+Valuation of Stock etc., which could establish the claim of the
+
+assessee that its sale is genuine. Although the assessee has
+
+submitted the sale invoices amounting to Rs. 6,93,32,499/- made
+
+to the party named M/s Kangana Agro Product, no supporting
+
+evidence of goods actually transported has been submitted.
+On
+8                    ITA No. 1014/JPR/2024
+Shiv Vegpro Pvt. Ltd. vs. PCIT
+perusal of the sales invoices submitted by the assessee, it is seen
+
+that the details of the transporters, GR/LR no, date and time of
+
+entry, date and time of dispatch are left blank. Hence, it appears
+
+that these invoices/documents are self-generated and do not prove
+
+the actual movement of the goods allegedly sold to the party M/s
+
+Kangna Agro Products for Rs. 6,93,32,499/-.
+4.4   Shri Sanjay, Proprietor of M/s Kangna Agro Products (PAN:
+EFKPS5346C) in his statement recorded on 11/11/2019
+u/s 131(1)
+of the Act mentioned that he was only a helper/cleaner in the
+
+Office of Shri Om Prakash and Shri Om Prakash established a
+
+proprietorship concern called M/s Kangna Agro Products in the
+
+name of Shri Sanjay. He further stated in his statement that he
+
+never did any business from this proprietorship concern, and he
+
+did not have any knowledge about the business activities of the
+
+said concern or about the funds credited/debited in the said bank
+
+accounts of the concern, M/s Kangna Agro Products.
+4.5   Therefore, in Order to verify the actual production of goods
+
+and the subsequent sale of the same, assessee was asked to
+
+provide the complete set of evidentiary document with respect to
+
+its purchase of raw materials and sale of produced goods.
+In
+9                    ITA No. 1014/JPR/2024
+Shiv Vegpro Pvt. Ltd. vs. PCIT
+response to question no. 3 & 4 raised to the assessee vide notice
+
+u/s 142(1) of the Act dated 05.02.021 assessee responded as
+
+below:-
+"3. The purchases of raw material are made both from
+
+      traders and APMC's agents.
+4. The purchases are made in cash mainly from the farmers
+
+      as well as through cheques."
+4.6   The assessee was also asked to submit the purchase
+
+register, sales register and item wise valuation of Opening Stock
+
+and Closing Stock along with the quantity of stock and rates.
+Assessee was also requested to provide necessary proof for rate
+
+taken for valuation or calculation done for valuation. However,
+
+assessee failed to provide the documents called for. Since
+
+assessee has not given any vital information to prove that the
+
+sales of Rs. 6,93,32,499/- made to the party M/s Kangana Agro
+
+Product are genuine, the ld. AO said that he left with no other
+
+option than to treat the cash generated of Rs. 6,93,32,499/- out of
+
+this bogus sale as unexplained cash credit
+u/s 68
+r.w.s. 115
+BBE of
+
+the Act
+. The draft assessment order was issued to the assessee
+
+on 24.03.2021. The assessee did not submit any relevant details in
+10                    ITA No. 1014/JPR/2024
+Shiv Vegpro Pvt. Ltd. vs. PCIT
+support of its claim in response to the show cause notice issued.
+Therefore, the assessment was completed on 15.04.2021
+
+assessing the income at Rs. 16,49,44,849/- as against the
+
+returned income of Rs. 9,56,12,350/-.
+5.     On culmination of the assessment proceeding ld. PCIT, while
+
+exercising the power vested upon her as per provision of
+section
+
+263
+of the Act, called for the records for her examination. While
+
+doing so she observed that the AO FAU did not properly the issue
+
+of ;
+[A]   Late Payment of PF/ESI Contribution
+       [B]   (a) New Loans during the year not examined
+(b) Disallowance
+u/s 43B
+of the Act
+(c) Disallowance
+u/s 43B(e)
+of the Act
+(d) Disallowance
+u/s 36(1)(iii)
+or
+u/s. 37
+of the Act
+(e) Disallowance
+u/s. 35AC(2)
+of the Act
+
+
+
+Therefore, she noted that due to lack of enquiry and also due to
+
+incorrect and incomplete appreciation of facts and also the
+
+incorrect application of law, the assessment order passed
+u/s 147
+r.w.s. 144B of the Act was found to be erroneous in so far as it was
+
+prejudicial to the interest of revenue. Therefore, she proposed that
+
+the impugned order be suitably be modified / enhanced / cancelled
+
+by invoking the provisions of
+section 263
+of the Act. Before doing
+11                      ITA No. 1014/JPR/2024
+Shiv Vegpro Pvt. Ltd. vs. PCIT
+so she a notice
+u/s. 263
+of the Act was duly issued on 14.02.2023
+
+to the assessee for giving opportunity of being heard as well as
+
+requiring the assessee to furnish its submission on the issues, as
+
+categorically mentioned by her. In compliance to that notice
+
+assessee filed written submission on 16.06.2023. Ld. PCIT
+
+considered the reply of the assessee and she deal with the each
+
+issue so as to observed a detailed holding holds that the order of
+
+the assessing officer is therefore, liable for revision under clause
+(a) & (b) of the Explanation of (2) of section of 263 of the Act. The
+
+relevant finding of the ld. PCIT is reiterated herein below:-
+"8. Considering the above facts, it is held that the order passed by the
+      Assessing Officer (FAU) u/s 147 r.w.s. 144B of the IT Act dated
+      15.04.2021 is suffering from specific defects, hence, order so passed
+      by the AO is erroneous and also prejudicial to the interest of the
+      revenue. The order of the assessing officer is therefore, liable to
+      revision under clause (a) &(b) of the Explanation (2) of
+section 263
+of
+      the Income Tax Act, 1961.
+9. In the light of above discussion, assessment order passed by the AO
+      in the case of the assessee is Set-aside (Partly) for fresh assessment
+      by the AO on the issues of -
+(A) Disallowance on account of late payment of ESI/PF (Rs.24,14,531/-
+).
+(B) Disallowance
+u/s 43B(e)
+of the Act (Rs.63,97,664/-).
+(C) Disallowance
+u/s 36 (1)(iii)
+(Rs.21,732/-);
+(D) New Loans accepted during the year (Rs. 6.35 Crores)
+12                      ITA No. 1014/JPR/2024
+Shiv Vegpro Pvt. Ltd. vs. PCIT
+
+
+     The AO is directed to complete the assessment afresh on the above
+     mentioned issues/points, keeping in view the observations marked
+     herein above.
+9.2 Further, it is also made clear that as the assessment order dated
+     15.04.2021 is PARTLY SET-ASIDE, as categorically mentioned above,
+     the Assessing Officer, while framing the Order
+u/s 263
+/
+142(1)
+/
+143(3)
+of
+     the Act, shall take care of the following: -
+(a) While completing the Scrutiny Assessment
+u/s 147
+r.w.s. 144B of
+     the Act, the AO/NaFAC made an addition of Rs.6,93,32,499
+u/s 68
+of
+     the Act and assessed at Total Income at Rs. 16,49,44,849/-.
+(c) Therefore, the addition on account of Bogus Sales as Unexplained
+     Cash Credit
+u/s 68
+(Rs.6,93,32,499/-), made vide the Assessment
+     Order Dated 15.04.2021, SHALL NOT BE DISTURBED, and would be
+     free from fresh assessment proceedings.
+(c) The tax shall have to be charged as per
+Section 115BBE
+of the Act
+     for the addition already made
+u/s 68
+of the Act, supra.
+10. Thereafter, based on outcome of such enquiries and verification,
+     necessary additions, wherever required, may be made to the total
+     income of the assessee as per law by modifying the assessment order
+     u/s 147/144B of the Act dated 15.04.2021. However, the AO is directed
+     to ensure that reasonable opportunities of being heard are provided to
+     the assessee before passing such order."
+6.   Feeling dissatisfied with the above finding of the ld. PCIT, the
+
+assessee preferred the present appeal on the grounds as
+
+reiterated herein above. Ld. AR, of the assessee vehemently
+
+argued that the issue which the ld. PCIT raised in her order that too
+
+in 147 proceeds were time barred and cannot be taken at this
+
+stage and thus out of the scope the subjected scrutiny before the
+
+National Faceless Assessment Unit while passing the order and for
+13                       ITA No. 1014/JPR/2024
+Shiv Vegpro Pvt. Ltd. vs. PCIT
+that specific notice was issued by the ld. AO applied mind and after
+
+due process of law that order was passed making addition
+
+thereupon. Thus, he relied upon the assessment order and
+
+submitted that there is no flaw in the assessment order and the
+
+impugned order
+u/s 263
+of the Act passed by the ld. PCIT needs to
+
+be quashed for which he submitted the following written submission
+
+to counter the order of the ld. PCIT;
+BRIEF FACTS: The appellant is a private limited company engaged in
+    manufacturing of vegetable oil, DOC, High Pro-DOC etc. The appellant
+    filed its ROI
+u/s 139
+of the Act on dated 06.11.2017 declaring total
+    income at Rs. 9,56,12,530/-. The same was processed on date
+    16.10.2018
+u/s 143(1)
+of the Act. Thereafter, the case was reopened
+u/s
+    147
+by issuing notice
+u/s 148
+dated 17.03.2020, in response to which
+    the appellant filed ROI declaring the same total income.
+The reassessment was completed after making additions of Rs.
+    6,93,32,499/- making additions
+u/s 68
+of the Act on account of
+    unexplained credits in the grab of bogus sales and thus, the total income
+    was finally assessed at Rs. 16,49,44,849/- (PB 62-69) vide the order
+u/s
+    143
+/
+147
+at 15.04.21.
+Later on, the ld. CIT acting
+u/s 263
+issued SCN
+u/s 263
+14
+.02.2023 (PB
+    122-127). In response thereto the appellant filed submissions time to
+    time on dated 21.02.2023 (PB 128), 16.06.2023 and finally on
+    13.10.2023 (PB 129-146). The ld. CIT initially raised the following issues:
+-
+1.       Late payment of PF/ESI contributions
+u/s 43B
+(Rs. 24,14,531)
+2.       New Loans taken during the year, not examined (6.35 Crore)
+3.       Disallowance of unpaid sale tax
+u/s 43B
+of the Act (Rs,
+    5,02,000)
+4.       Disallowance of unpaid interest payable to banks
+u/s 43B (e)
+of
+    the Act (Rs. 63,97,664)
+5.       Disallowance
+u/s 36(1)(iii)
+or
+u/s 37
+of the Act (Rs 21,732)
+6.       Disallowance
+u/s 35AC (2)
+of the Act (Rs. 25,00,000)
+    The ld. CIT after considering the submissions of the assessee started
+    her discussion from page 22 para 6 however, not feeling satisfied held
+14                     ITA No. 1014/JPR/2024
+Shiv Vegpro Pvt. Ltd. vs. PCIT
+the subjected assessment order erroneous and prejudicial to the interest
+of the revenue on in the following words:
+"6. Considering the facts and circumstances of the case and the material
+available on record, my observations [issue-wise] are as under". The
+details of payment are as such below:-
+XXX
+8. Considering the above facts, it is held that the order passed by the
+Assessing Officer (FAU) u/s 147 r.w.s. 144B of the I T Act dated
+15.04.2021 is suffering from specific defects, hence, order so passed by
+the AO is erroneous and also prejudicial to the interest of the revenue.
+The order of the assessing officer is therefore, liable to revision under
+clause (a) &(b) of the Explanation (2) of
+section 263
+of the Income Tax
+Act, 1961.
+9. In the light of above discussion, assessment order passed by the AO
+in the case of the assessee is Set-aside (Partly) for fresh assessment by
+the AO on the issues of-
+(A) Disallowance on account of late payment of ESI/PF (Rs.24,14,531/-).
+(B) Disallowance
+u/s 43B(e)
+of the Act (Rs.63,97,664/-).,
+
+(C) Disallowance
+u/s 36 (1)(iii)
+(Rs.21,732/-) ;
+(D) New Loans accepted during the year (Rs. 6.35 Crores).
+The AO is directed to complete the assessment afresh on the above
+mentioned issues/points, keeping in view the observations marked
+herein above.
+9.2 Further, it is also made clear that as the assessment order dated
+15.04.2021 is PARTLY SET-ASIDE, as categorically mentioned above,
+the Assessing Officer, while framing the Order
+u/s 263
+/
+142(1)
+/
+143(3)
+of
+the Act, shall take care of the following: -
+(a) While completing the Scrutiny Assessment
+u/s 147
+r.w.s.144B of the
+Act, the AO/NaFAC made an addition of Rs.6,93,32,499
+u/s 68
+of the
+Act and assessed at Total Income at Rs.16,49,44,849/-.
+(c) Therefore, the addition on account of Bogus Sales as Unexplained
+Cash Credit
+u/s 68
+(Rs.6,93,32,499/-), made vide the Assessment Order
+Dated 15.04.2021, SHALL NOT BE DISTURBED, and would be free
+from fresh assessment proceedings.
+(c) The tax shall have to be charged as per
+Section 115BBE
+of the Act
+for the addition already made
+u/s 68
+of the Act,supra.
+15                        ITA No. 1014/JPR/2024
+Shiv Vegpro Pvt. Ltd. vs. PCIT
+10. Thereafter, based on outcome of such enquiries and verification,
+necessary additions, wherever required, may be made to the total
+income of the assessee as per law by modifying the assessment order
+u/s 147
+/
+144B
+of the Act dated 15.04.2021. However, the AO is directed
+to ensure that reasonable opportunities of being heard are provided to
+the assessee before passing such order."
+Hence this appeal
+
+Submissions:
+The impugned order passed
+u/s 263
+is completely beyond the scope of
+S. 263
+of the Act on various grounds, as discussed herein below.
+1. Legal Position on
+Sec.263
+- Judicial Guideline: Before proceeding, we
+may submit as regards the judicial guideline, in the light of which, the
+facts of this case are to be appreciated.
+1.1 The pre-requisites to the exercise of jurisdiction by the
+Commissioner
+u/s 263
+, is that the order of the Assessing Officer is
+established to be erroneous in so far as it is prejudicial to the interest of
+the Revenue. The Commissioner has to be satisfied of twin conditions,
+namely (i) The order of the Assessing Officer sought to be revised is
+erroneous; and(ii) it is prejudicial to the interests of the Revenue. If any
+one of them is absent i.e. if the assessment order is not erroneous but it
+is prejudicial to the Revenue,
+Sec.263
+cannot be invoked. This provision
+cannot be invoked to correct each and every type of mistake or error
+committed by the Assessing Officer; it is only when an order is
+erroneous as also prejudicial to revenue's interest, that the provision will
+be attracted. An incorrect assumption of the fact or an incorrect
+application of law will satisfy the requirement of the order being
+erroneous. The phrase 'prejudicial to the interest of the revenue' has to
+be read in conjunction with an erroneous order passed by the AO. Every
+loss of Revenue as a consequence of the order of the AO cannot be
+treated as prejudicial to the interest of the Revenue. For example, if the
+AO has adopted one of the two or more courses permissible in law and it
+has resulted in loss of revenue, or where two views are possible and AO
+has taken one view with which the Commissioner does not agree, it
+cannot be treated as an erroneous order prejudicial to the interest of the
+Revenue, unless the view taken by the AO is totally unsustainable in
+law. Kindly refer
+Malabar Industrial Co. Ltd. v/s CIT
+(2000) 243 ITR 83
+(SC).
+16                       ITA No. 1014/JPR/2024
+Shiv Vegpro Pvt. Ltd. vs. PCIT
+1.2 Also kindly refer
+CIT v/s Max India Ltd.
+(2007) 295 ITR 282 (SC)
+wherein it is held that:
+"The phrase "prejudicial to the interests of the Revenue" in
+S. 263
+of the
+Income Tax Act, 1961, has to be read in conjunction with the expression
+"erroneous" order passed by the Assessing Officer. Every loss of
+revenue as a consequence of an order of the Assessing Officer cannot
+be treated as prejudicial to the interests of the Revenue. For example,
+when the Assessing Officer adopts one of two courses permissible in law
+and it has resulted in loss of revenue, or where two views are possible
+and the Assessing Officer has taken one view with which the
+Commissioner does not agree, it cannot be treated as an erroneous
+order prejudicial to the Revenue, unless the view taken by the Assessing
+Officer is unsustainable in law."
+Ratio of these cases fully apply on the facts of the present case in
+principle.
+2.Beyond the scope of enquiry contemplated
+u/s 263
+on facts and in law:
+The law is well settled that the reopening of reassessment as
+contemplated
+u/s 147
+of the Act is for a specific purpose of assessing
+the escaped income and therefore, the AO, in the reassessment
+proceedings can assess only those item of income which have escaped
+assessment and find place in the reasons to believe but the income not
+being a part of the reasons recorded cannot be considered in the
+reassessment proceedings and also therefore, cannot be subject matter
+of revisionary proceedings
+u/s 263
+of the Act. The facts are not disputed
+that in this case, the Assessment Order passed
+u/s 147
+dt. 15.04.2021
+has been subjected to revision
+u/s 263
+by the Ld. CIT. A Notice
+u/s 148
+was issued on 17.03.2020 for A.Y. 2017-18 under consideration, and
+reasons to believe are recorded as communicated to the appellant by
+the AO vide his letter dt. 01.10.2020. For a ready reference the same are
+being reproduced hereunder:
+"The information was received from the office of Income Tax officer,
+Ward 45(1), Delhi vide his letter no. ITBA/AST/F/17/2019-
+20/1021883746(1) dated 07/12/2019 that during the assessment
+proceedings Sh. Sanjay Prop. Kangna agro Products stated in his
+statement which was recorded on oath
+u/s 131
+of the IT Act 1961 that he
+was working as helper / cleaner in the office of Shri Om Prakash and
+Shri Om Prakash established prop. Concern namely M/s Kangna Agro
+Products in his name and also opened various banks accounts of this
+proprietorship concern. It was also informed that Sh. Sanjay stated in his
+statement that he never did any business from this proprietorship
+concern and he did not having any knowledge about the business
+activities of the said concern or about the funds credited / debited in the
+said bank accounts of the firm. During the enquiry it was also observed
+that (i) the fund credited through cash deposit / cheque /transfer /
+RTGS
+17                       ITA No. 1014/JPR/2024
+Shiv Vegpro Pvt. Ltd. vs. PCIT
+and followed by immediate transfer to other accounts (ii) numerous
+round figures transactions occurred; (iii) No physical existence of the
+concers as verified through filed enquiry;(iv) no ITR, audit report filed in
+spite of having substantial sales and purchase transactions (e) the bank
+account holder did not have any knowledge about the bank . Apart from
+this, it is seen that all the credits and transfers in the bank statements
+were found in the round figures of lakhs of rupees, this shows Sh.
+Sanjay is not doing any actual business except to transfer in and transfer
+out the funds for others. On the basis of above facts the ITO, Ward-
+45(1), Delhi concluded that M/s Kangna Agro Products is bogus concern
+and was not doing any genuine business activities during the relevant
+year.
+It was also informed by the office of ITO, Ward-45(1), Delhi that M/s Shiv
+Vegpro Pvt. Ltd. has taken accommodation entry of Rs. 6,93,32,499/- in
+the FY 2016-17 from M/s Kangna Agro Products which is the bogus
+concern and was not doing any genuine business activities during the
+relevant year."
+A bare perusal of the reasons shows that the AO reopened the
+assessment
+u/s 147
+for specific reasons being M/s Shiv Vegpro Pvt. Ltd.
+has taken accommodation entry of Rs. 6,93,32,499/- in the FY 2016-17
+from M/s Kangna Agro Products which is the bogus concern and was not
+doing any genuine business activities during the relevant year. The AO
+thus, having recorded specific reasons, could not have enquired into and
+examined any issue other than those already recorded in the reasons to
+believe, as above. A specific amount was categorically mentioned of the
+escaped income being Rs.6,93,32,499/- based on certain items beyond
+which, the AO was not supposed to have gone in as much as the entire
+assessment was not thrown open before him. Hence, consequently AO
+was supposed to complete the assessment
+u/s 147
+/
+148
+of the Act as per
+reason to believe only. Also when no other escaped income came to his
+notice during re-assessment proceedings.
+The issues raised now by the Ld. CIT in the captioned SCN
+u/s 263
+being failure of the AO in making various disallowances/additions were
+not part of the reasons to believe. In other words, the captioned SCN
+does not touch/not even whisper anything stated in the reasons to
+believe based on which only, the proceedings
+u/s 147
+was initiated
+hence, such issues are beyond the scope of 263 and therefore, the
+proceedings may kindly be dropped.
+3. Supporting Case Laws:
+3.1In case of
+CIT vs. Alagendran Finance Ltd
+, (2007) 211 CTR (SC) 69,
+the Hon'ble Supreme Court, while dealing with more or less an identical
+issue of revisionary power exercised under
+s. 263
+of the Act in respect of
+an assessment order passed under
+s. 143(3)
+r/w
+s. 147
+of the Act, has
+held in the following manner:
+18                       ITA No. 1014/JPR/2024
+Shiv Vegpro Pvt. Ltd. vs. PCIT
+"15. We, therefore, are clearly of the opinion that keeping in view the
+facts and circumstances of this case and, in particular, having regard to
+the fact that the CIT exercising its revisional jurisdiction reopened the
+order of assessment only in relation to lease equalization fund which
+being not the subject of the reassessment proceedings, the period of
+limitation provided for under sub-s. (2) of
+s. 263
+of the Act would begin to
+run from the date of the order of assessment and not from the order of
+reassessment. The revisional jurisdiction having, thus, been invoked by
+the CIT beyond the period of limitation, it was wholly without jurisdiction
+rendering the entire proceeding a nullity."
+3.2CIT v. Bharti Airtel Ltd.
+[2013] 37 taxmann.com 218/218 Taxman 112
+(Mag.) (Delhi), wherein:
+"33. This decision in
+Alagendran Finance Ltd.
+(supra) has been followed
+by the Delhi High Court in
+Bharti Airtel Ltd.
+(supra) wherein also
+reassessment order dealt with the issue of non-deduction of tax at source
+on payment of interest to ABN Amro Bank, Stockholm Branch. Second
+addition was made on account of ESOP expenses. Subsequently
+Commissioner of Income-tax issued order under
+section 263
+for failure to
+deduct tax at source under
+section 194H
+on three air time provided to
+distributors and under
+section 194J
+on roaming charges paid to other
+network operators. These issues were different from the subject matter of
+reassessment order. The Delhi High Court held that the subject matter is
+different since the Commissioner has found error in regular assessment
+order, hence limitation shall commence for regular assessment order."
+3.3 In
+Ashok Buildcon Ltd. Vs. ACIT
+(2010) 325 ITR 574 (Bom.) (DC),
+held that:
+"
+Section 263
+, read with
+section 147
+, of the Income-tax Act, 1961 -
+Revision - Of orders prejudicial to interest of revenue - Assessment year
+2004-05 - Whether where an assessment has been reopened under
+section 147
+in relation to a particular ground or in relation to certain
+specified grounds and subsequent to passing of order of reassessment,
+jurisdiction under
+section 263
+is sought to be exercised with reference to
+issues which did not form subject of reopening of assessment or order of
+reassessment, period of limitation provided for in
+section 263(2)
+would
+commence from date of order of assessment and not from date on which
+order of reassessment has been passed - Held, yes
+Section 147
+of the Income-tax Act, 1961 - Income escaping assessment -
+General - Whether where assessment is sought to be reopened only on
+one or more specific grounds and reassessment is confined to one or
+more of those grounds, original order of assessment would continue to
+hold field, save and except for those grounds on which a reassessment
+has been made under
+section 143(3)
+read with
+section 147
+- Held, yes
+19                       ITA No. 1014/JPR/2024
+Shiv Vegpro Pvt. Ltd. vs. PCIT
+
+
+
+Fact: For the relevant assessment year, the assessee's original order of
+assessment under
+section 143(3)
+dated 27-12-2006 was sought to be
+reopened on 6-3-2007 solely on the basis that the benefit of
+section 72A
+had been wrongly allowed to the assessee. In the order of reassessment,
+that was passed on 27-12-2007, the claim made by the assessee with
+reference to the provisions of
+section 72A
+was disallowed. On 30-4-2009,
+the Commissioner issued the impugned notice under
+section 263
+on the
+ground that the assessment order passed on 27-12-2007 was erroneous
+and prejudicial to the interests of the revenue. The assessee challenged
+said notice contending that though, in form, the Commissioner had
+sought to revise the order dated 27-12-2007 which was passed on a
+reassessment made under
+section 143(3)
+read with
+section 147
+, in
+substance and in essence, what was sought to be revised was the
+original order of assessment dated 27-12-2006 and since in respect of
+that order, the period of limitation for exercising the revisional powers had
+expired on 31-3-2009 having regard to the provisions of
+section 263(2)
+,
+the notice issued on 30-4-2009 was barred by limitation."
+3.4
+Chhabra Syncotex (P) Ltd. Vs. Assistant Commissioner
+0f Income
+Tax ITA No. 239/Jp/2018 (DC)
+
+"If the exercise of revision jurisdiction under
+s. 263
+in respect of issues
+which formed subject-matter of reassessment after the original
+assessment was reopened, the commencement of the limitation would
+be with reference to the order of reassessment, but if the CIT has
+exercised the jurisdiction under
+s. 263
+on an issue which was not
+subject-matter of reassessment, then the limitation would reckon from
+the original assessment order passed under
+s. 143(3)
+and not from the
+reassessment order. Even if an order of assessment is reopened, the
+whole proceedings would start afresh but it would not disturb the issues
+which were not subject-matter of reopening of the assessment and even
+not falling under the purview of Expln. 3 to
+s. 147
+. Therefore, for the
+purpose of limitation under
+s. 263(2)
+, if the jurisdiction under
+s. 263
+is
+invoked on an issue which was not subject-matter of reassessment, then
+the limitation would reckon from the original assessment order and not
+from the reassessment order."
+Accordingly, the proceedings-initiated
+u/s 263
+deserves to be quashed.
+4. Alternatively, and without prejudice to above our submissions on
+merits are as under:
+On the issues raised by the Ld. CIT in the SCN, u/s 263 of the Act, on
+the remaining four issues narrated at page 29 of the impugned order, the
+following submissions were made before her and being reproduced
+herein for a ready reference: -
+20                       ITA No. 1014/JPR/2024
+Shiv Vegpro Pvt. Ltd. vs. PCIT
+4.1.1 (A) Disallowance on account of late payment of ESI/PF
+    (Rs.24,14,531/-).
+"4.1 At the outset it is submitted that it is not disputed fact though the
+    assessee could not deposit the amount of PF and ESI on the due date
+    specified in the related Act, but all the contributions were duly deposited
+    before the due date (as evident from the table given hereunder) of filing
+    of return
+u/s 139(1)
+. Hence, the same are fully allowable. The original
+    due date for filing of ROI was 31.09.2017 which was extended to
+    31.10.2017.
+Payment of Employees State Insurance (ESI)
+
+                                                                               The
+                  Month of                              Due Date of           actual
+   S.No.                             Amount Paid
+                  Deduction                              Payment              date of
+                                                                             payment
+
+                                                                              26-Sep-
+1.        August, 2016          Rs. 38,263/-       21-Sep-16
+16
+22-Nov-
+2.        October, 2016         Rs. 38,263/-       21-Nov-16
+16
+3.       November, 2016         Rs. 37,272/-       21-Dec-18          30-Jan-17
+4.       December, 2016         Rs. 45,810/-       21-Jan-19          31-Jan-17
+
+                                                                              06-Mar-
+5.        January, 2017         Rs. 52,449/-       21-Feb-19
+17
+24-Mar-
+6.       February, 2017         Rs. 51,546/-       21-Mar-19
+17
+Payment of Employees Provident Fund (PF)
+                                                                               The
+                  Month of                              Due Date of           actual
+   S.No.                             Amount Paid
+                  Deduction                              Payment              date of
+                                                                             payment
+                                                                             16-May-
+1.          April, 2016       Rs. 2,74,365/-      15-May-16
+16
+16-Sep-
+2.         August, 2016        Rs. 26,028/-       15-Sep-18
+16
+21                       ITA No. 1014/JPR/2024
+Shiv Vegpro Pvt. Ltd. vs. PCIT
+3.        September,2016       Rs. 2,98,842/-       15-Oct-18          19-Oct-16
+
+                                                                          21-Nov-
+4.         October, 2016       Rs. 2,98,842/-      15-Nov-18
+16
+06-Feb-
+5.        November, 2016       Rs. 2,95,941/-      15-Dec-18
+17
+03-Feb-
+6.        December, 2016       Rs. 3,21,421/-       15-Jan-19
+17
+21-Feb-
+7.         January, 2017       Rs. 3,22,118/-       15-Feb-19
+17
+24-Mar-
+8.         February, 2017      Rs. 3,13,371/-       15-Mar-19
+17
+4.2 Settled legal position in favor of the assessee - covered issue: It is
+pertinent to note that at the relevant point of time that is on 15.04.2021,
+when the re-assessment order (subjected to revision) was passed, the
+law was well settled by the various decisions of Hon'ble Rajasthan High
+Court, Hon'ble Supreme Court and various other tribunals including the
+Hon'ble Jaipur bench jurisdictional ITAT as under:
+4.2.1 In
+CIT vs. Manglam Arts
+(2017) 398 ITR 594 (Raj HC) it was held
+that
+
+"Mr. Mathur has also contended that regarding second issue with regard
+to ESI and PF, however, the same is covered by the decision of this
+Court in the case of
+CIT vs. State Bank of Bikaner & Jaipur D.B. IT
+Appeal No.
+177 of 2011 decided on 6th Jan., 2014, wherein it has been
+held as under
+"Thus, we are of the view that where the PF and-or EPF, CPF, GPF etc.,
+if paid after the due date under respective Act but before filing of the
+return of income under
+s. 139(1)
+, cannot be disallowed under
+s. 43B
+or
+under
+s. 36(1)(va)
+of the IT Act."
+4.2.2 It is submitted that the issue is now no more res-Integra in as much
+as the Hon`ble Rajasthan High Court has already taken a view that
+employer and employees contributions both, if paid before the due date
+u-s 139 no disallowance can be made u-s 36(1)(v)(a) r-w
+s. 2(24)(x)
+and
+s. 43B
+. In the case of CIT vs. SBBJ (2014) 363 ITR 70 (Raj), it was held
+that:
+"Where PF and-or EPF, CPF, GPF etc., if paid after due date under
+respective Act but before filing of return of income u-s. 139(1), could not
+be disallowed u-s. 43B or u-s. 36(1)(va). Substantial question of law
+answered against revenue and in favour of assessee. Revenue's appeal
+dismissed."
+22                         ITA No. 1014/JPR/2024
+Shiv Vegpro Pvt. Ltd. vs. PCIT
+4.2.3 Similarly in the case of
+CIT vs. Jaipur Vidyut Vitran Nigam Ltd.
+(2014) 363 ITR 307 (Raj) it was held that:
+"If the amount has been deposited on or before the due date of filing the
+return u-s 139 then the amount cannot be disallowed u-s 43B or u-s
+36(1)(va) of the Act. In instant case the entire amount was deposited by
+the respondent-assessee at least on or before the due date of filing of
+the returns under
+Section 139
+thus no disallowance could be made u-s
+43B or
+section 36(1)(va)
+. No substantial question of law arises out of the
+impugned orders of the ITAT.
+Commissioner of Income Tax vs. M-s
+State Bank of Bikaner & Jaipur (D.B. Income Tax Appeal No.177-2011
+);
+Commissioner of Income Tax vs. Jaipur Vidyut Vitaran Nigam Ltd. (D.B.
+Income Tax Appeal No.189-2011
+), followed."
+4.2.4The Hon'ble ITAT, Jaipur Bench has also followed the same view in
+the case of ACIT v-s M-s Anil Special Steel Industries Ltd., Jaipur (2014)
+52 TW 189 (JP) Para 4 & 7 of its order. Similarly, in M/s
+K.S.
+Automobiles Pvt. Ltd. vs ITO
+in
+ITA No. 1184 (JP), Zuberi Engineering
+Company vs. DCIT
+(2019) 197 TTJ (Jp) 659 and Hon'ble Apex court in
+the case of
+CIT vs. Alom Extrusions Ltd.
+(2009) 227 CTR 417 (SC) also
+held so.
+5. The above decisions were binding upon the AO even if the
+department might have filed SLP in absence of any stay granted over
+the operation of the said judgments. Thus, the AO was bound to have
+followed the law of the land. Hence he took a possible view and
+committed no error.
+6. Alternatively, it is well settled law that if decisions of non-Jurisdictional
+High Courts are in conflict with each other than decision favorable to
+assessee must be followed. Kindly refer
+CIT v. Vegetable Products Ltd.
+[1972] 88 ITR 192 (SC) Hon'ble Supreme Court has laid down a
+principle that "if two reasonable constructions of a taxing provision are
+possible, that construction which favour the assessee must be adopted.
+This principle has been consistently followed by the various authorities
+as also by the Hon'ble Supreme Court itself. Accordingly, therefore, the
+AO committed no error in following on of the possible views.
+7.1 Further, there is no mistake apparent in the subjected Order
+u/s 147
+dated 15.04.2021 in as much as the Hon'ble Supreme Court had passed
+the subjected Order on 12.10.2022 in the case of Checkmate (2022) 329
+CTR (SC) 1 i.e. much later to the subjected order
+u/s 147
+. Thus, the
+aforesaid decision was not available on the day when Ld. AO passed the
+subjected Order on 15.04.2021. Therefore, the Ld. AO has committed
+no mistake because the Apex Court decision was not available before
+him. It is not the case that the adjudication of the assessment is still
+open, before Ld.AO after the availability of the Apex Court decision.
+23                       ITA No. 1014/JPR/2024
+Shiv Vegpro Pvt. Ltd. vs. PCIT
+7.2 Moreover, it is also well settled that retrospective amendment cannot
+be invoked to make addition by way of adjustment and intimation
+u/s
+143(1)
+of Income Tax Act.
+This view was taken by the Hon'ble Supreme
+Court in the case of
+CIT vs. Hindustan Electro Graphites Ltd.
+[2000] 243
+ITR 0048 (SC), wherein the view of Hon'ble Kolkata High Court in of
+Modern Fibotex India Ltd. & Anr. Vs. DCIT & Ors.
+[1995] 212 ITR 0496
+(Calcutta) was approved.
+Same view was taken by the Hon'ble Madhya
+Pradesh High Court in the case of
+CIT vs. Satish Traders
+[2001] 247 ITR
+0119 (Madhya Pradesh).
+Alternatively, if the deduction claimed is not found allowable
+u/s
+36(1)(va)
+r/w 2(24) (10), the same has be considered
+u/s 37(1)
+of the
+Act in as much as intention of the legislature is not to completely
+disallow the entire amount forever or for never ever time to come, which
+is against the very concept of real income. The gross receipt cannot be
+taxed unless the expenditure incurred by assessee businessmen to earn
+the same, are not allowed merely on technicalities. The default, if any,
+made by the assesse (if assumed so) in deposit of the PF/ESI therefore
+the due dates as prescribed under the laws, has already been made
+punishable under relevant Act, where under there are suitable provisions
+for imposition of penalty and compensating the government by the levy
+of interest. Therefore, in addition thereto, making disallowance under
+Income Tax Act
+and creating demand cannot be the legislative intent.
+The above provisions of 36(1)(va) nowhere prohibits the allowability
+u/s
+37(1)
+, which is a residuary category. Even in the case of Checkmate
+(Supra) there is no prohibition if the assessee is allowed
+u/s 37(1)
+of the
+Act.
+This contention is duly supported by the case of
+Trupti Enterprises
+(P) Ltd. Vs. DCIT
+(2022) 36 NYPTTJ 1280 (Cuttack)."
+4.1.2 The Ld. CIT dealt with this issue at page 22 onwards, as under: -
+"(A) Disallowance on account of Late Payment of PF/ESI Contributions
+(Rs.24,14,531)
+(i) The assessee failed to make the payments of certain amounts
+collected from the employees as provident fund/ESI contribution within
+the prescribe time. The statutory auditors have reported in from 3CD that
+following amounts of PF/ESI contributions of employees were not
+paid/deposited by the assesse within the prescribed time of relevant
+statues of PF/ESI.
+X           X            X
+(ii) This amount of Rs.24,14,531/- was legally disallowable in terms of
+section 36(1)(va)
+r.w.s 2(24)(x) of the
+Income Tax Act, 1961
+.
+(iii) However, while finalizing the assessment on 15/04/2021, no such
+disallowance is made by the FAO.
+In this regard, the recent judgement
+24                       ITA No. 1014/JPR/2024
+Shiv Vegpro Pvt. Ltd. vs. PCIT
+of Hon'ble Supreme Court in the case of Checkmate Services Pvt. Ltd
+[2022] 143 Taxman.com178 is important to be referred to and relied
+upon, according to which the above is disallowable.
+(iv) It has resulted into under assessment/computation of income by
+Rs.24,14,531/-, which is found to be erroneous in so far as it is
+prejudicial to the interest of revenue."
+4.1.3 Our Submissions before CIT:
+A bare reading of the relevant part of the impugned order shows that the
+Ld. CIT very purportedly ignored our legal objections raised in the Para
+7.1 and 7.2 hereinabove, wherein, it was specifically pointed out that the
+subject reassessment order subjected to revision passed on 15.04.2021
+whereas the Checkmate (Supra) decision came one and a half year later
+thereto i.e. 12.10.2022. Therefore, the CIT could not have found any
+fault in the assessment order or could neither held as the subject
+reassessment as erroneous nor prejudicial to the revenue interest. On
+this is aspect the law is well settled that if the AO has followed the
+binding decisions of the jurisdictional High Courts and the jurisdictional
+Tribunals on the relevant date i.e. 15.04.2021 even though such binding
+decision has been reversed by the apex court at a later point of time (as
+happened in this case) then too, the Ld. CIT cannot held the assessment
+orders as erroneous as held in the following cases:
+(
+I)CIT vs. G.M. Mittal Stainless Steel (P
+.) Ltd. [2003] 130 Taxman 67/263
+ITR 255 (SC) (DPB 53-56)wherein it was held:
+"In the instant case, the Commissioner had not recorded any reason
+whatsoever for coming to the conclusion that the Assessing Officer was
+erroneous in deciding that the power subsidy was capital receipt. Given
+the fact that the decision of the jurisdictional High Court was operative at
+the material time, the Assessing Officer could not be said to have erred
+in law. The fact that the instant Court had subsequently reversed the
+decision of the High Court would not justify the action of the
+Commissioner in treating the Assessing Officer's decision as erroneous.
+The power of the Commissioner under
+section 263
+must be exercised on
+the basis of the material that was available to him when he exercised the
+power. At that time, there was no dispute that the issue whether the
+power subsidy should be treated as capital receipt had been concluded
+against the revenue. The satisfaction of the Commissioner, therefore,
+was based on no material, either legal or factual, which would have
+given him the jurisdiction to take action under
+section 263
+. [Para 5]"
+(II) Also relied
+CIT, LTU, Bangalore vs. Canara Bank
+[2021] 123
+taxmann.com 207 (Karnataka).
+25                       ITA No. 1014/JPR/2024
+Shiv Vegpro Pvt. Ltd. vs. PCIT
+
+
+Since the AO acted in accordance with the law as interpreted by the
+jurisdictional HC, ITAT which prevailed on the date of the passing
+assessment order and continued even when
+Sec.263
+order was passed
+hence, no fault can be found in his action and in particular, proceeding
+u/s 263
+cannot be invoked in such a case.
+(III) Further, it was held in the case of PCIT vs. SPPL Property
+Management (P.) Ltd. [2023] 151 taxmann.com 103 (Calcutta) that
+where Assessing Officer had followed decision of jurisdictional High
+Court which held field in relevant assessment year relating to PF
+contribution received from employees but not deposited to concerned
+account within due date and completed assessment on said basis,
+assessment could not be held to be prejudicial to interest of revenue.
+(IV) In Shri Keshoraipatan Sahkari Sugar Mills Ltd. Vs. Principal
+Commissioner Of Income Tax (2023) 223 TTJ (Jp) 922
+
+"Revision--Erroneous and prejudicial order--Lack of proper enquiry--
+AO allowed deduction under
+s. 80P(2)(d)
+on the interest income
+received by the assessee from co-operative bank--He has examined the
+issue which is evident from the finding recorded in the assessment
+order--AO has taken a plausible view--There is no lack of enquiry on
+the part of the AO and he has applied his mind and allowed the claim to
+the assessee--Principal CIT did not place on record any apparent error
+on the part of the AO to substantiate that the order passed by the AO is
+prejudicial to the interest of Revenue--She has not pinpointed any
+enquiry which was required to be made but not made by the AO--When
+the AO has conducted the required enquiry, the order passed by the AO
+could not be said to be erroneous and prejudicial to the interests of the
+Revenue--So long as the action of the AO cannot be said to be lacking
+bona fides, his action in accepting the explanation of the assessee
+cannot be faulted merely because it could have been lawful to make
+more detailed inquiries or because he did not write specific reasons for
+accepting the explanation--Non-mentioning of these reasons did not
+render the assessment order "erroneous and prejudicial to the interest of
+the Revenue"--Hence, the impugned revision order is vacated"
+4.2 B)Disallowance of unpaid interest payable to banks
+u/s 43B (e)
+of
+the Act (Rs. 63,97,664):
+4.2.1 "11.1 In Para 4(d) of the SCN it is alleged that the interest
+expenditure of Rs.63,97,664/- was incurred by the assessee but was not
+paid before the due date mentioned
+u/s 139(1)
+and hence was
+disallowable
+u/s 43B
+under clause (e) and also there was no mention of
+the amount of interest in the tax audit report under clause 26(i)(B)(a) of
+form 3CD.
+26                        ITA No. 1014/JPR/2024
+Shiv Vegpro Pvt. Ltd. vs. PCIT
+11.2 However, the bare perusal of the related papers shows that such
+allegation is completely factually incorrect in as much as from the
+perusal of the ledger account of the interest (PB 95) together with the
+bank statement of CC A/c no. 61171287200 (PB 96-119), it is very clear
+that every month bank itself makes the deduction of interest from the CC
+A/c which is debited in the Books of accounts. Therefore, it is completely
+incorrect to say that the interest expenditure though claimed but was not
+paid. Reference to note 23 to financial statements (PB 17-28) is also
+relevant. Since the assessee has been making payments in this manner
+that the bank itself making the deduction of interest from the CC
+account, it was not a case of any amount remaining outstanding as on
+31.03.2017. Hence, it is not a case of making payment after the end of
+the previous year and before the due date of filing ITR
+u/s 139(1)
+.
+Moreover, clause 26(i)(B)(a) (PB 37) speaks of the payment of the
+statutory dues only and apparently does not include outstanding interest
+payment to the bank relating to clause (e) of
+section 43B
+of the Act."
+4.2.2 The Ld. CIT dealt with this issue at page 24 onwards, as under: -
+"C) Disallowance
+u/s 43B(e)
+of the Act (Rs.63,97,664/-)
+(i)As per Note 23 to Balance-sheet, the assessee has incurred an
+expenditure of Rs.63,97,664/- as interest payable to scheduled banks on
+bank loans. As per clause (e) of
+section 43B
+of the Act, any sum payable
+by the assessee as interest on any loan or advance from Scheduled
+Bank, if not paid before the due date of filing of ITR
+u/s 139(1)
+of the Act,
+was disallowable.
+(ii) Further, In clause 26(i)(B)(a) of audit form 3CD, there was no mention
+of the amount of Interest of Rs.63,97,664/- incurred and payable during
+the year and which has been paid before the due date of filing of ITR
+u/s
+139(1)
+.
+(iii) In absence of any details of payment of this amount, it could only be
+inferred that it was not paid before the due date
+u/s 139(1)
+of the Act and
+the same should have been disallowed
+u/s 43B(e)
+of the Act.
+(iv) In this regard, the assessee replied that the ledger account of the
+interest together with the bank statement of CC A/c no. 61171287200,
+clearly reveals that every month bank itselfmakes the deduction of
+interest from the CC A/c which is debited in the Books of accounts.
+Therefore, it is completely incorrect to say that the interest expenditure
+though claimed but was not paid. Reference to note 23 to financial
+statements are also relevant. Since the assessee has been making
+payments in this manner that the bank itself making the deduction of
+interest from the CC account, it was not a case of any amount remaining
+outstanding as on 31.03.2017. Hence, it was not a case of making
+payment after the end of the previous year and before the due date of
+27                       ITA No. 1014/JPR/2024
+Shiv Vegpro Pvt. Ltd. vs. PCIT
+filing ITR
+u/s 139(1)
+. Moreover, clause 26(i)(B)(a) speaks of the payment
+of the statutory dues only and apparently does not include outstanding
+interest payment to the bank relating to clause (e) of
+section 43B
+of the
+Act.
+(v) The reply of the assessee is not fully acceptable and requires further
+verification. The AO, while finalizing the fresh assessment shall take
+note to this point/issue as per direction marked at Para No. 9 below."
+4.2.3 Our Submissions:
+As evident from the bare reading of the order of Ld. CIT that she did not
+revert the factual contention raised before her and nothing remained
+payable so
+Section 43 B (e)
+could not be invoked. Further,
+Section 263
+was invoked merely stating that the issue requires further evidence.
+Once the relevant details were before the Ld. CIT she should have
+decided the issue on merit instead it sending back to AO.
+Section 263
+can only be invoked only if thereis a fault and there is an error and it was
+for the CIT to have demonstrated some error.
+Otherwise also he has not suggested what further inquiries could and
+should have been made in the admitted facts and circumstances of the
+present case.
+4.3 C) Disallowance
+u/s 36(1)(iii)
+or
+u/s 37
+of the Act (Rs.21,732):
+4.3.1"12. In Para 4(e) of the SCN it is alleged that as per clause 34(c) of
+form 3CD (PB 40-41), the auditors have reported payment of interest of
+Rs. 21,732/- on account of the delayed payment of TDS. It is alleged that
+the same is not allowable expenditure
+u/s 36(1)(iii)
+or
+u/s 37
+of the Act
+which otherwise should have been disallowed. It is submitted that firstly,
+such an interest is not of penal natureand it is merely of compensatory
+nature. There is no allegation nor any finding with evidence that such
+interest was of penal nature. Even a reference to the relevant provision
+of
+Sec.201
+of the Act doesn't speak of any such interest of penal nature.
+Such contention is also supported by various case laws."
+4.3.2 The Ld. CIT dealt with this issue at page 25 onwards, as under: -
+"(D) Disallowance
+u/s 36(1)(iii)
+or
+u/s 37
+of the Act (Rs.21,732/-)
+(i) As per clause 34 (c) of form 3CD, the auditors have reported that the
+assessee have incurred an interest amount of Rs.21,732/- for delayed
+payment of TDS. This interest was not an allowable expenditure
+u/s
+36(1)(iii)
+or
+u/s 37
+of the Act. Hence, the same should have been
+disallowed but during the assessment proceedings FAO has not been
+disallowed.
+28                        ITA No. 1014/JPR/2024
+Shiv Vegpro Pvt. Ltd. vs. PCIT
+(ii) The reply of the assessee is not acceptable as the Interest on
+account of late payment of TDS was not an allowable expenditure
+u/s
+36(1)(iii)
+of the Act.
+(iii) Since no such addition on account of disallowance
+u/s 36(1)(iii)
+of
+the Act had been made by the AO, while completing the assessment on
+15/04/2021, the income has been found to be under computed/assessed
+by this amount of Rs.21,732/-, which was erroneous and prejudicial to
+the interest of Revenue."
+4.3.3 Our Submissions:
+As evident from the impugned part of the Ld. CIT that that did not have
+applied the mind that the interest was not of the penal nature nor she
+attempted to counter such filing. Therefore, it was a mere suspicion
+and/or non-application of mind and thus
+Section 263
+was wrongly
+invoked.
+4.4 D) New Loans taken during the year (Rs. 6.35 Crores):
+4.4.1 "8. No enquiries w.r.t. fresh loan of Rs. 6.35 Crores: It is alleged in
+para 4(a) that the AO did not examine the issue of fresh loan of Rs.6.35
+crores which remained unexplained and in particular the account
+received from M/s Advani Pvt. Ltd. having the maximum of Rs. 1.05
+crores for not having PAN and therefore, identity was doubtful.
+In this connection it is submitted that the Ld. AO did make enquiries by
+issuing a letter dated 01.03.2021, which was duly replied by the
+assessee vide its letter dated 12.03.2021 para 22 (PB 55) that
+confirmations can be submitted later on. At the same time the tax audit
+report clause 31(a) (PB 38) contains the details of loan or deposit
+amount exceeding the limit specified in
+sec.269SS
+taken or accepted
+during the previous year. It was only a slip of pen that the PAN in case
+of Advani Pvt. Ltd. could not be mentioned. The apparent and admitted
+facts are the receipt of the amount as also repayment, were made
+through banking channels. Even interest of Rs. 78,860/- was also paid
+through Cheque and TDS of Rs. 7,886/- was also deducted. Thus, all
+the requisite details which prove the identity of the creditor, capacity of
+the creditor as also the genuineness of the transactions were already
+available on record, when he passed the subjected Assessment Order.
+Confirmation of ledger account duly signed by the said creditor bearing
+complete name, address and PAN is enclosed (PB 77). Similar
+confirmation in case of all the creditors are also enclosed (PB 70-80).
+However, there is nothing on record to show anything contrary thereto.
+Some of the other creditors are old and are coming from preceding
+years as their opening balances are available in their ledger accounts.
+In most of the cases closing balances are there which means the
+29                       ITA No. 1014/JPR/2024
+Shiv Vegpro Pvt. Ltd. vs. PCIT
+account was carried forward in next AY 2018-19. Nothing wrong was
+found hence the assessment was rightly completed."
+4.4.2 The Ld. CIT dealt with this issue at page 26 onwards as under: -
+"(F) Inadequate Examination/Verification of 'New Loan During the Year
+(Rs.6.35 Crore): -
+(a) The clause 31(a) of Tax Audit report contains the details of loan or
+deposit amount exceeding the limit specified in
+sec. 269SS
+taken or
+accepted during the previous year.
+(b) The a/c confirmations of respective parties have been filed during the
+revisional proceedings
+u/s 263
+of the Act. Further, the PAN of M/s
+Advani Pvt. Ltd., having the maximum outstanding/closing balance of
+Rs.1.05 Crores has been furnished (PAN-AACCA1895Q).
+(c) Perusal of respective confirmation-ledger reveals that the receipt of
+amount and also the repayment, were made through banking channels.
+Interests were also paid through Cheque and TDS, applicable was also
+deducted. Confirmations of ledger account duly signed by the said
+creditor bearing complete name, address and PAN. Further, it was
+noticed that some of the other creditors are old and are coming from
+preceding years as their opening balances are available in their
+respective ledger accounts. In most of the cases, closing balances are
+there which means that the account was carried forward in next AY (i.e.
+AY 2018-19).
+(c) The reply of the assessee is not fully acceptable and requires further
+verification, particularly the third part verification etc. so as to examine
+the Identity, Genuineness of transaction and also the Creditworthiness of
+respective Creditors. The AO, while finalizing the fresh assessment shall
+take note to this point/issue as per direction marked at Para No.9 below.
+4.4.3 Our Submissions: Here also the Ld. CIT was completely failed
+to point out any mistake or error except that the issue needs
+verification and all the relevant details were made available to her.
+5. Suspicion is not a good basis for revision: The CIT cannot invoke
+section 263
+merely based on suspicion and exploring the possibility
+of some income, merely making reference to the impounded
+document, alleging not considered, unless demonstrated showing
+some income, cannot be a good basis. This so-called appraisal
+report is not evidence by itself and a merely internal document
+making a prima facie opinion on the impounded documents by
+someone other than the AO and therefore, can't be said to be
+binding upon AO. The CIT even did not mention the amount of
+income escaping Kindly refer the case of
+CIT vs. Trustees of
+30                       ITA No. 1014/JPR/2024
+Shiv Vegpro Pvt. Ltd.
+vs. PCIT
+
+
+Anupam Charitable Trust [1987] 31 Taxman 335 /167 ITR 129
+(Raj.) wherein it was held as under:
+"The error envisaged by
+section 263
+was not one which depended on
+possibility or the guess work but it should be actually an error either of
+fact or law. Unless the Commissioner categorically says that there was
+some income from speculative business which could not qualify for
+deduction much less exemption under
+section 11
+, it cannot be said that
+there was any error in the order of the ITO relating to the assessment
+year 1971-72. This error was not relevant to the assessment year 1975-
+76".
+In the case of
+Abdul Hamid v. Income-tax Officer
+[2020] 117
+taxmann.com 986 (Gauhati - Trib.)it was held that only probability and
+likelihood to find error in assessment order is not permitted
+u/s 263
+.
+4.5 E) Tax charged
+u/s 115
+BBE of the Act
+
+4.5.1 Where the show cause dated 03.10.2023 (PB 143-144), the Ld.
+CIT also raised the issue of application
+u/s 115
+BBE as under-:
+"However, in connection with the queries raised vide Notice dated
+14.02.2023 vis-à-vis your reply filed on 16.06.2023, on further
+examination of assessment records, it was found that the FAO/AO, while
+finalizing the assessment proceeding
+u/s 147
+of the Act, in your case for
+the impugned A.Y on 15.04.2021, made an addition of Rs.6,93,32,499/-
+u/s 68 r.w.s 115
+BBE of the Act
+. This addition of Rs.6,93,32,499/- was
+made by the FAO by way of treating the sales made to M/s Kangna Agro
+Products as non-genuine and bogus and hence, held that the same was
+only an accommodation entry. In para 7 of the assessment order, the
+FAO has held that since the assessee has not given any vital information
+to prove that the impugned sales of Rs.6,93,32,499/- made to the party
+M/s Kangna Agro Product were genuine, hence, added the same by
+treating this sales as bogus
+u/s 68
+of the I.T. Act, 1961. However, in
+computation sheet of assessed income and tax payable, issued by the
+FAO, with the assessment order, the tax had been charged by the FAO
+at normal rates in place of charging the same at special rates of tax as
+per
+Section 115BBE
+of the Act. As such the computation of total income
+as well as charging of tax on this issue is observed to be incorrect and
+erroneous and require to be suitably modified/rectified."
+However, the fact of aforementioned SCN is not mentioned in the
+Section 263
+order.
+Thereafter, in the Impugned Order, the Ld. CIT also directed the AO to
+apply special tax rate as under:
+"(c) The tax shall have to be charged as per
+Section 115BBE
+of the Act
+for the addition already made
+u/s 68
+of the Act, supra."
+31                       ITA No. 1014/JPR/2024
+Shiv Vegpro Pvt. Ltd. vs. PCIT
+
+
+
+At
+the outset, it is submitted that the Ld. CIT was not justified in directing
+AO to apply
+S. 115BBE
+for more than one reasons, submitted
+hereunder, which shows that the CIT acted beyond jurisdiction hence,
+this part of the Order deserves to be quashed.
+5. Submissions w.r.t Application of
+S. 115BBE
+:
+5.1 At the outset, it is submitted that
+S.115BBE
+specifically refers to
+the income which are of the nature as referred in
+S. 68
+,
+69
+,
+69A
+of
+the Act being the income from other sources. Therefore, subjected
+income has essentially to be classified
+u/s 14
+of the Act as income
+from other sources and that is possible only when the income is not
+capable of being classified under any other head being income from
+salary, house property, capital gain, business or profession. The
+relevant provision is reproduced hereinbelow :
+S. 115BBE"(1) Where the total income of an assessee, -- 1.
+includes any income referred to in
+section 68
+,
+section 69
+,
+section
+69A
+,
+section 69B
+,
+section 69C
+or
+section 69D
+and reflected in the
+return of income furnished under
+section 139
+; or 2. determined by
+the Assessing Officer includes any income referred to in
+section 68
+,
+section 69
+,
+section 69A
+,
+section 69B
+,
+section 69C
+or
+section 69D
+, if
+such income is not covered under clause (a), the income-tax payable
+shall be the aggregate of-- 1. the amount of income-tax calculated
+on the income referred to in clause (a) and clause (b), at the rate of
+sixty per cent; and 2. the amount of income-tax with which the
+assessee would have been chargeable had his total income been
+reduced by the amount of income referred to in clause (i).] (2)
+Notwithstanding anything contained in this Act, no deduction in
+respect of any expenditure or allowance [or set off of any loss] shall
+be allowed to the assessee under any provision of this Act in
+computing his income referred to in clause (a) [and clause (b)] of
+subsection (1).]"
+5.2 A combined reading of
+S. 14
+with
+S. 56
+of the Act makes is
+evidently clear that for the assessment of an income it must have to
+be classified under four heads of income as enumerated
+u/s 14
+and
+if it doesn't fall under any specific head of income as per item A to E
+of
+S. 14
+, such income has to be assessed under the residuary head
+of income i.e. item F of
+S. 14
+. Therefore, income added
+u/s 68
+or 69
+etc. has to be given a specific head in terms of
+S. 14
+.
+5.3 The Hon'ble Supreme Court in case of
+Karanpura Development Co
+Ltd vs. CIT
+[1962] 44 ITR 362 (SC) held that these heads are in a sense
+exclusive to one another and income which falls within one head cannot
+be brought to tax under another head.
+Further, the Hon'ble Supreme
+Court in case of
+Nalinikant Ambalal Mody v CIT
+[1966] 61 ITR 428, has
+32                       ITA No. 1014/JPR/2024
+Shiv Vegpro Pvt. Ltd. vs. PCIT
+held that whether an income falls under one head or another is to be
+decided according to the common notions of practical man because the
+Act does not provide any guidance in the matter. Of course, lot of judicial
+precedents are available to a taxpayer to arrive at a conclusion about
+determination of appropriate head of income.
+5.4 The scheme of
+sections 68
+,
+69
+,
+69A
+,
+69B
+and
+69C
+provides that in
+cases where the nature and source of investments or acquisition of
+money, bullion or expenditure incurred are not explained at all, or not
+satisfactorily explained, then, the value of such investments and money,
+or value of articles not recorded in the books of accounts or the
+unexplained expenditure may be deemed to be the income. In view of the
+above, it can be said that for triggering
+section 115BBE
+what is relevant
+is whether income remains disclosed or undisclosed or explained or
+unexplained. If the income is disclosed or explained as mandated by the
+law, then same would be taxable in the ordinary manner. On the other
+hand, if the income is undisclosed or unexplained then the provisions of
+section 115BBE
+may be triggered depending upon the facts involved in
+each of the cases. The moment a satisfactory explanation is provided
+about nature and source then the source would stand explained and
+therefore, the income would be computed under the appropriate head of
+income as per the provisions of the Act.
+5.5 On perusal of the Finance Minister's speech and Explanatory
+Memorandum (2), it is clear that the legislative intent behind introduction
+of
+section 115BBE
+was to curb the generation and use of unaccounted
+money and tax the same at the highest rate.
+However, in this case, the only regular source of income of the assessee
+in A.Y. 2019- 20 was the real estate business (and the connected
+ancillary activities/services thereto). The assessee was in receipt of the
+profit on the purchase and sale of properties and also
+commission/brokerage income and consultancy income relating to the
+real estate business. There is no other known or unknown source of
+income, neither stated by the assessee nor by the department.
+5.6 In the present case, the Ld. CIT herself narrated and admitted that
+the fact that the subjected amount of Rs 6.93 crores, was the sales made
+to M/s Kangna Agro Products but was treated as Bonus, etc, which is
+treated as an accommodation entry. The Ld. CIT also referred to Para 7
+of the subjected assessment order and finally addition
+u/s 68
+of the Act.
+These admittedly facts that the amount of sales declared by the
+assessee in the accounts. Thus, the amount subjected to emanated from
+the regular business activity of the assessee of manufacturing and
+extracting of vegetable oil, doc, etc. The net profit arising from this
+transaction was also undisputedly included in the audited P&L account
+and the ROI. Thus, this subjected amount, pertained to the declared
+business activity/ source only. Therefore, such amount could not be
+33                       ITA No. 1014/JPR/2024
+Shiv Vegpro Pvt. Ltd. vs. PCIT
+considered as income from other sources and was to be classified. Even
+the Ld. CIT in the impugned order did not direct the AO that such income
+should be assessed under the income from other sources. There is no
+other known or unknown source of income, neither stated by the
+assessee nor so found by the department.
+5.7 In these circumstances, the only inescapable conclusion is that the
+subjected income was nothing but business income from the disclosed
+business activity of the assessee. Therefore, "merely to levy more tax, is
+an illegal and unjustified attempt to invoke 115BBE" which is not clearly
+applicable on the facts of the present case.
+5.8 Interestingly, in the impugned order at Page 7, the AO himself has
+made the additions
+u/s 68
+r.w.s 115
+BBE of the Act
+. Therefore, the
+allegation and finding of the Ld. CIT is factually incorrect that the FAO
+has charged the tax at normal rates only. The AO has invoked the
+Section 115BBE
+of the Act but committed a clerical error in not
+computing the special tax in accordance therewith. At the best it could be
+a case of rectification but not at all a case of revision. Therefore, the
+proper course should have been a rectification
+u/s 154
+of the Act (though
+not conceding) instead of invoking
+Section 263
+.
+In this regard kindly refer
+to the case of
+CIT vs. Amitabh Bachchan
+[2016] 286 CTR (SC) 113,
+wherein it is held that:
+"9.
+Under the Act
+different shades of power have been conferred on
+different authorities to deal with orders of assessment passed by the
+primary authority. While
+Section 147
+confers power on the Assessing
+Authority itself to proceed against income escaping assessment,
+Section
+154
+of the Act empowers such authority to correct a mistake apparent on
+the face of the record. The power of appeal and revision is contained in
+Chapter XX of the Act
+which includes
+Section 263
+that confer suo motu
+power of revision in the learned C.I.T. The different shades of power
+conferred on different authorities under the Act has to be exercised within
+the areas specifically delineated by the Act and the exercise of power
+under one provision cannot trench upon the powers available under
+another provision of the Act. In this regard, it must be specifically noticed
+that against an order of assessment, so far as the Revenue is concerned,
+the power conferred under the Act is to reopen the concluded
+assessment under
+Section 147
+and/or to revise the assessment order
+under
+Section 263
+of the Act. The scope of the power/jurisdiction under
+the different provisions of the Act would naturally be different. The power
+and jurisdiction of the Revenue to deal with a concluded assessment,
+therefore, must be understood in the context of the provisions of the
+relevant Sections noticed above. While doing so it must also be borne in
+mind that the legislature had not vested in the Revenue any specific
+power to question an order of assessment by means of an appeal."
+34                      ITA No. 1014/JPR/2024
+Shiv Vegpro Pvt. Ltd. vs. PCIT
+6. Judicial Guideline: The Hon'ble Rajasthan High Court, ITAT Jaipur and
+various other courts have held that where the additional income/
+undisclosed income declared during the course of survey is relatable to
+some business activity then it cannot be considered to be income from
+other sources and consequently
+S. 115BBE
+cannot be invoked.
+6.1 The Hon'ble Ahmedabad Tribunal in case of Chokshi Hiralal
+Maganlal vs DCIT (ITA No. 3281/Ahd/2009 AY 2004-05 dated 5 August
+2011) held that for invoking deeming provisions under
+sections 69
+,
+69A
+,
+69B
+&
+69C
+there should be clearly identifiable investment or asset or
+expenditure (i.e. in our understanding not connected with business so as
+to make convenient to invoke aforesaid sections). In case source of
+investment or asset or expenditure is clearly identifiable and has no
+independent existence of its own where a case arises to claim that it
+cannot be separated from business then first 'what is to be taxed is the
+undisclosed business receipt. Only on failure of such exercise, it would
+be regarded as taxable under
+section 69
+on the premises that such
+excess investment or asset or expenditure is unexplained and
+unidentified, satisfying the mandate of the law.
+6.2 The Hon'ble Rajasthan High Court in case of
+CIT vs Bajargan
+Traders [ITA No.
+258/2017 dated 12/09/2017] has held that when the
+assessee is dealing in sale of food grains, rice and oil seeds and the
+excess stock which is found during survey is stock of rice then, it can be
+said that investment in procurement of such stock of rice is clearly
+identifiable and related to the regular business stock of the assessee.
+Therefore, the investment in the excess stock is to be brought to tax
+under head "business income" and not under the head income from other
+sources.
+6.3 In case of
+Shri Lovish Singhal vs ITO (ITA No
+142 to 146/Jodh/2018
+for AY 2014- 15 dated 25 May 2018), the Jodhpur Tribunal applying the
+proposition of law
+laid down by
+the Hon'ble Rajasthan High Court in the
+Bajargan Traders
+(supra), held that the "lower authorities were not
+justified in taxing the surrender made on account of excess stock and
+excess cash found U/s 69 of the Act and accordingly held that there is no
+justification for taxing such income U/s 115
+BBE of the Act
+. In view of the
+facts & circumstances, judicial guidelines and the statutory provisions,
+the additional income declared during survey of Rs. 76,00,000/- cannot
+be subjected to
+S. 115BBE
+of the Act".
+7.1 In the ROI itself, as stated in the SCN
+u/s 263
+, the subjected
+additional income of Rs 76 Lakh was declared as income from business
+and profession. With regard to the source of such additional income, the
+aforesaid detailed submission on its own clarified the source/ nexus with
+the real estate business WHICH the assessee was carrying on at that
+point of time. Thus, AO made full enquiries and applied his mind which,
+35                        ITA No. 1014/JPR/2024
+Shiv Vegpro Pvt. Ltd. vs. PCIT
+he was supposed to do as contemplated by law. Based thereon, he took
+   his own decision which cannot be interfered with.
+7.2 In fact, the AO was not even entitled to change the head of income
+   on his own. Kindly refer the Hon'ble Supreme Court in case of
+Karanpura
+   Development Co Ltd vs. CIT
+[1962] 44 ITR 362 (SC) held that these
+   heads are in a sense exclusive to one another and income which falls
+   within one head cannot be brought to tax under another head.
+Further,
+   the Hon'ble Supreme Court in case of
+Nalinikant Ambalal Mody v CIT
+[1966] 61 ITR 428, has held that whether an income falls under one head
+   or another is to be decided according to the common notions of practical
+   man because the Act does not provide any guidance in the matter. Of
+   course, lot of judicial precedents are available to a taxpayer to arrive at a
+   conclusion about determination of appropriate head of income.
+8. No error when AO acted in accordance with binding decisions:
+In addition, the legal position and the judicial guideline through the
+   various decisions of Hon'ble Rajasthan High Court and ITAT Jaipur, is
+   well settled. The AOacted in accordance with the judicial guideline and
+   the ratio laid in the cases of:
+a. CIT vs Bajargan Traders [2024] 466 ITR 397
+
+b. Chokshi Hiralal Maganlal vs DCIT (ITA No. 3281/Ahd/2009 dated
+   05.08.2011/ (2011) 45 SOT 349).
+c.
+Shri Lovish Singhal vs ITO (ITA No
+142 to 146/Jodh/2018 for AY 2014-
+   15 dated 25 May 2018).
+and applying the same on the facts of the case in hand, decided that the
+   provisions of
+S.115BBE
+were not applicable and hence did not therefore
+   apply high rate of tax.
+9. (F) Clause (a) of Explanation 2 of
+S. 263
+wrongly invoked:
+9.1 The ld. CIT stated that
+
+   "7. As per the amended provision i.e., clause (a) of Explanation 2 of
+Section 263
+, an order passed by the Assessing Officer shall be deemed
+   to be erroneous in so far as it is prejudicial to the interests of revenue, if
+   in the opinion of Principal Commissioner or Commissioner, the order is
+   passed without making inquiries or verification which should have been
+   made; Further, as per clause (b) to Explanation 2 of
+Section 263
+says
+   about "if the order is passed allowing anyrelief without inquiring into the
+   claim". It reads as under:-
+(Amendment of
+section 263
+w.e.f 01.06.2015).
+36                        ITA No. 1014/JPR/2024
+Shiv Vegpro Pvt. Ltd. vs. PCIT
+
+
+X            X            X
+7.2 In reaching such conclusion, I rely on the following judicial rulings:
+X             X            X"
+9.2 Submissions:
+9.3.1Even the amendment (Expl. 2(a)) does not confer blind powers: It is
+held that despite there being an amendment, enlarging the scope of the
+revisionary power of the ld. PCIT
+u/s 263
+to some extent, it cannot justify
+the invoking of the Expl. 2(a) in the facts of the present case. Before
+referring to that Explanation, one has to understand what was the true
+meaning of the Explanation in the context of application of mind by a
+quasi-judicial authority.
+In the case of PCIT vs. Shreeji Prints (P.) Ltd.[2021] 130 taxmann.com
+294 (SC), decision ofGujarat High Court is affirmed the ITAT Order as
+under:
+"17 We thus find merit in the plea of the assessee that the Revisional
+Commissioner is expected show that the view taken by the AO is wholly
+unsustainable in law before embarking upon exercise of revisionary
+powers. The revisional powers cannot be exercised for directing a fuller
+inquiry to merely find out if the earlier view taken is erroneous particularly
+when a view was already taken after inquiry. If such course of action as
+interpreted by the Revisional Commissioner in the light of the Explanation
+2 is permitted, Revisional Commissioner can possibly find fault with each
+and every assessment order without himself making any inquiry or
+verification and without establishing that assessment order is not
+sustainable in law. This would inevitably mean that every order of the
+lower authority would thus become susceptible to
+section 263
+of the Act
+and, in turn, will cause serious unintended hardship to the tax payer
+concerned for no fault on his part. Apparently, this is not intended by
+the Explanation. Howsoever wide the scope of Explanation 2(a) may be,
+its limits are implicit in it. It is only in a very gross case of inadequacy in
+inquiry or where inquiry is per se mandated on the basis of record
+available before the AO and such inquiry was not conducted, the
+revisional power so conferred can be exercised to invalidate the action of
+AO. The AO in the present case has not accepted the submissions of the
+assessee on various issues summarily but has shown appetite for inquiry
+and verifications. The AO has passed after making due enquiries issues
+involved impliedly after due application of mind. Therefore,
+the Explanation 2 to
+section 263
+of the Act do not, in our view, thwart the
+assessment process in the facts and the context of the case.
+Consequently, we find that the foundation for exercise of revisional
+jurisdiction is sorely missing in the present case.
+18 In the light of above facts and legal position, we are of the considered
+view that the AO had made detailed enquiries and after applying his mind
+37                       ITA No. 1014/JPR/2024
+Shiv Vegpro Pvt. Ltd. vs. PCIT
+and accepted the genuineness of loans received from GTPL and PAFPL,
+which is also plausible view. Therefore, we find that twin conditions were
+not satisfied for invoking the jurisdiction under
+section 263
+of the Act. The
+case laws relied by the ld. CIT(D.R.) are distinguishable on facts and in
+law hence, by the ld. Counsel as well and we concur the same hence not
+applicable to present facts of the case. Therefore, in absence of the
+same, the ld. CIT ought to have not exercised his jurisdiction under
+section 263
+of the Act. Therefore, we cancel the impugned order under
+section 263
+of the Act, allowing all grounds of appeal of the Assessee."
+9.3.2 In
+Narayan Tatu Rane v. ITO
+, (2013) 7 NYPTTJ 1493 (Mum) , it
+was held that newly inserted. Explanation 2(a) to
+S. 263
+does not
+authorize or give unfettered powers to Commissioner to revise each and
+every order, if in his (subjective) opinion, same has been passed without
+making enquiries or verification which should have been made. As
+submitted above here also the AO having already applied its mind
+(directly or indirectly), the assessment order was not erroneous.
+9.4Other Supporting Case Laws on
+S. 263
+:
+9.4.1 Kindly refer to
+CIT v/s Rajasthan Financial Corporation
+(1996) 134
+CTR 145 (Raj). held that:
+"Once AO has made enquiries during the course of assessment
+proceedings on the relevant issues and the assessee has given detailed
+explanation by a letter in writing and the Assessing Offer allowed the
+claim being satisfied with the explanation of assessee, the decision of the
+AO cannot be held to be erroneous simply because in his order not make
+an elaborate discussion in that regard."
+9.4.2 In
+CIT v/s Ganpat Ram Bishnoi
+(2005) 198 CTR (Raj) 546 held that
+from the record of the proceedings, in the present case, no presumption
+can be drawn that the AO had not applied its mind to the various aspects
+of the matter. In such circumstances, without even prima facie laying
+foundation for holding that assessment order is erroneous and prejudicial
+to interest in any matter merely on spacious ground that the AO was
+required to make an enquiry, cannot be held to satisfy the test of existing
+necessary condition for invoking jurisdiction
+u/s 263
+. Jurisdiction
+u/s 263
+cannot be invoked for making short enquiries or to go into the process of
+assessment again and again merely on the basis that more enquiry
+ought to have been conducted to find something.
+9.4.3 In Gabriel India Ltd. [1993] 203 ITR 108 (Bom), law on this aspect
+was discussed in the following manner (page 113): " . . . From a rending
+of sub-section (1) of
+section 263
+, it is clear that the power of suomotu
+revision can be exercised by the Commissioner only if, on examination of
+the records of any proceedings under this Act, he considers that any
+order passed therein by the Income-tax Officer is erroneous in so far as it
+38                        ITA No. 1014/JPR/2024
+Shiv Vegpro Pvt. Ltd. vs. PCIT
+is prejudicial to the interests of the Revenue". It is not an arbitrary or
+unchartered power, it can be exercised only on fulfilment of the
+requirements
+laid down in
+sub-section (1). The consideration of the
+Commissioner as to whether an order is erroneous in so far as it is
+prejudicial to the interests of the Revenue, must be based on materials
+on the record of the proceedings called for by him. If there are no
+materials on record on the basis of which it can be said that the
+Commissioner acting in a reasonable manner could have come to such a
+conclusion, the very initiation of proceedings by him will be illegal and
+without jurisdiction. The Commissioner cannot initiate proceedings with a
+view to starting fishing and roving enquiries in matters or orders which
+are already concluded. Such action will be against the well-accepted
+policy of law that there must be a point of finality in all legal proceedings,
+that stale issues should not be reactivated beyond a particular stage and
+that lapse of time must induce repose in and set at rest judicial and
+quasi-judicial controversies as it must in other spheres of human activity.
+9.4.4 In Elder IT Solutions (P.)
+Ltd. vs CIT
+[2015] 59 taxmann.com 232
+(Mumbai - Trib.), it was held that:
+"18. In the case in hand, there is no dispute that the AO called for
+financial details of these companies and also examine the parties in
+order to satisfy himself about the genuineness of the transaction.
+Therefore, on the basis of the record available before him, the AO
+accepted the claim of the assessee. The Commissioner has not found
+any fault with the details and records filed by the assessee in support of
+the claim but has cited the reasons that the AO has not conducted the
+proper enquiry. When the entire record was available with the
+Commissioner then he ought to have given a concluding finding that the
+view taken by the AO is contrary to the law as well as facts emerging
+from the records. However, the Commissioner has not given any such
+finding and restored the matter to the record of the AO which is not
+permissible as per the provisions of
+section 263
+when the AO has
+conducted the enquiry and allowed the claim of the assessee on the
+basis of the examination of the record as well as the parties in person.
+We further note that the assessee has also filed the bank statements of
+these companies showing the transaction of payment of share premium
+as well as loans to the assessee. The transactions were also reflected in
+the return of income filed by these companies, therefore, in any case if
+the Department has any doubt about the genuineness of arranging the
+funds by these share applicant companies, the enquiry and investigation
+should have been conducted in those cases as held by the hon'ble Delhi
+High Court in the case of Lovely Exports (P.)
+Ltd.
+(supra) which has been
+confirmed by the hon'ble Supreme Court by dismissing the special leave
+petition filed by the Department."
+9.4.5 In case of Rajmal Kanwar v. CIT-I [2017] 82 taxmann.com 119
+(Jaipur - Trib.)it was held that orders prejudicial to interest of revenue -
+39                      ITA No. 1014/JPR/2024
+Shiv Vegpro Pvt. Ltd. vs. PCIT
+
+
+Assessment
+year 2011-12 - Where AO had made sufficient enquiries,
+considered survey records and surrender made by assessee and after
+considering submissions of assessee completed assessment
+proceedings under
+section 143(3)
+, assessment order could not be held to
+be an erroneous order which was prejudicial to interest of revenue.
+In view of the above submissions and the Judicial Guideline, the
+impugned order passed
+u/s 263
+deserves to be quashed.
+10. Notice
+u/s 263
+barred by limitation:
+10.1 At the outset, it is submitted that
+S. 263(2)
+of the Act provides that
+no order would be made in exercise of the powers conferred
+u/s 263(1)
+of the Act after the expiry of two years from the end of the financial year
+in which the order is sought to be revised was passed.
+10.2 It can't be denied that the matter relating to the examination of the
+(1) Late payment of PF/ESI contributions
+u/s 43B
+, (2) New Loans during
+the year, (3) Disallowance of unpaid sale tax
+u/s 43B
+of the Act, (4)
+Disallowance of unpaid interest payable to banks
+u/s 43B (e)
+of the Act,
+(5) Disallowance
+u/s 36(1)(iii)
+or
+u/s 37
+of the Act and (6) Disallowance
+u/s 35AC (2)
+of the Act (hereinafter referred as the "new issues /
+aspects"), have the subject matter of the re-assessment order dated
+15.04.2021(PB 62-69) passed
+u/s 143(3)
+/
+148
+of the Act [which is
+presently being sought to be revised by the ld. CIT
+u/s 263
+] in as much
+as the AO before making that assessment order, proceeded to form his
+reason to believe as to escapement on the basis of the specific
+information w.r.t the appellant company.
+10.3 In fact and in law, this particular issue stood concluded long back,
+when the first assessment order / Intimation Order was passed
+u/s
+143(1)
+on dated 16.10.2018 when the assessment was completed by
+making additions/disallowances of Rs. 15,21,810/- on account of
+property rent, unexplained cash credit (Rs. 1,00,000/- by Sh. Maha
+Chand Jain) and disallowance of legal & professional, office,
+consultancy, garden development expenses.
+Since these new issue/aspects arose in the very first assessment /
+intimation order
+u/s 143(1)
+dated 16.10.2018 only, wherein no such
+addition was made, thus any error, assuming if any (though not
+conceding but alternatively only), could have been found in that
+assessment order itself and limitation has to be reckoned only with
+reference to the such first assessment / intimation order dated
+16.10.2018 and not w.r.t the re-assessment order dated 15.04.2021
+passed
+u/s 143(3)
+/
+148
+of the Act wrongly subjected to revisionary
+proceedings. The very first assessment / intimation order dated
+16.10.2018, still hold water and could not be said to have merged with
+the re-assessment order dated 15.01.2024.
+40                       ITA No. 1014/JPR/2024
+Shiv Vegpro Pvt. Ltd. vs. PCIT
+
+
+
+Accordingly, reckoning the limitation from the end of the financial year
+i.e. on 30.03.2019, the period of two years has already expired on
+31.03.2021, hence the impugned order
+u/s 263
+clearly stands barred by
+limitation.
+10.4. Otherwise also, the AO/
+CPC
+was supposed to have passed the
+intimation within 9 months from the end of the financial year in which
+ROI as filed. In this case ROI was filed on 06.11.2017. Therefore,
+reckoning the period of 9 month from the end of the financial year (i.e.
+30.03.2018), had already expired on 31.12.2018 and assuming that the
+intimation was passed on the last date that is on 31.12.2018 and
+thereafter reckoning the permissible period for initiating proceeding
+u/s
+263
+which is again two year end from the relevant financial year, (i.e.
+31.03.2019), the following period of two years thereafter had already
+expired on 31.03.2021. Thus, the limitation had already expired on
+31.03.2021 whereas the impugned order has been passed on
+14.02.2023i.e. much later to the limitation.
+10.5. Supporting Case Laws: For this proposition kindly refer the
+following:
+10.5.1. In Chhabra Syncotex (P) Ltd. Vs. ACIT [ITA No. 239/Jp/2018];
+(Supra - Re. Para 3.4) (DC   )
+
+10.5.2.
+CIT vs. Larc Chemical Limited
+[2014] 368 ITR 655 (Bombay) is
+the direct decision on the present context, wherein, it was held that (DC
+):
+"12. We have considered the rival submissions. It is not disputed that
+save and except the issue of non-genuine purchases all other issues
+dealt with by the Commissioner of Income-tax in the order dated March
+30, 2009, were not a subject matter of the assessment order passed on
+June 28, 2006, under
+section 143(3)
+/
+147
+of the Act. All the other issues
+on which the Commissioner of Income-tax is seeking to exercise the
+jurisdiction under
+section 263
+of the Act were concluded by virtue of an
+intimation under
+section 143(1)
+of the Act which admittedly was done
+beyond a period of two years prior to the notice dated March 17, 2009,
+issued under
+section 263
+of the Act.
+Section 263(2)
+of the Act provides
+that no order would be made in exercise of the jurisdiction under
+section
+263(1)
+of the Act after the expiry of two years from the end of the
+financial year in which the order sought to be revised was passed. It is
+an admitted position that the Commissioner of Income tax has not
+exercised the revisional jurisdiction in respect of the order/intimation
+passed
+section 143(1)
+of the Act within two years of it being passed.
+Therefore, exercise of jurisdiction on those issues under
+section 263
+of
+the Act is time barred as held by this court in
+CIT v. Anderson Marine &
+Sons (P
+.) Ltd. [2004] 266 ITR 694/139 Taxman 16.
+Moreover, in view of
+41                       ITA No. 1014/JPR/2024
+Shiv Vegpro Pvt. Ltd. vs. PCIT
+the decision of the apex court in the matter of Alagendran Finance Ltd.'s
+case (supra) as well as our court in the matter of Ashoka Buildcon Ltd.'s
+case (supra) the jurisdiction under
+section 263
+of the Act cannot be
+exercised on issues which were not subject matter of consideration while
+passing the order of reassessment under
+section 143(3)
+/
+147
+of the Act
+but a part of an assessment done earlier under the Act."
+10.5.3 In
+CIT vs Anderson Marine & Sons (P
+.) Ltd. 266 [ITR 694] 139
+Taxman 16 (Bombay) (DC) :
+"
+Section 263
+, read with
+section 143
+, of the Income-tax Act, 1961 -
+Revision - Of orders prejudicial to interests of revenue -Assessment year
+1999-2000 - Whether acceptance or acknowledgement of return filed by
+assessee and intimation sent forpurpose of
+section 143(1)
+is an
+assessment and, therefore, in nature of an order - Held, yes - Whether
+sending intimation beinga decision of acceptance of self-assessment is
+in nature of order passed by Assessing Officer for purpose of
+section
+263
+- Held,yes - Whether, therefore, Commissioner can exercise
+jurisdiction under
+section 263
+in respect of assessment under
+section143(1)
+as applicable after 1-4-1989 - Held, yes"
+10.5.4 In
+CIT vs. Rajkumar Deepchand Phade
+[249 ITR 520] 116
+Taxman 783 (Bombay) : (DC     )
+
+"4.
+In the case of
+Malabar Industrial Co. Ltd. v. CIT
+[2000] 243 ITR 831,
+the Apex Court has laid down twopre-requisites for exercise of
+jurisdiction by the Commissioner suo motu, viz., that the order of the
+AssessingOfficer was erroneous and, secondly, that the order of the
+Assessing Officer was prejudicial to the interest ofthe revenue. In the
+light of
+the said judgment
+, it is clear that merely because an order is
+passed under
+section143(1)
+by the Assessing Officer, is no bar for the
+Commissioner to invoke
+section 263
+. In the present matter, the above
+facts clearly show that the assessee claimed deduction in respect of the
+interest amount paid to the trust on the goodwill during the assessment
+years 1986-87 to 1988-89 whereas under the partnership deed, the
+goodwill amount was payable by incoming partners and, therefore, no
+amount was payable by the firm as and by way of interest for the liability
+of the goodwill and, therefore, the firm was not entitled to claim any
+deduction in respect of the interest paid to the trust. Under the order of
+the Assessing Officer, the relevant facts have not been examined. The
+order of the Assessing Officer was erroneous. The order of the
+Assessing Officer was prejudicial to the interest of the revenue."
+10.5.5. Further in the case of L.G. Electronics India (P.)
+Ltd. Vs PCIT
+(2016) 388 ITR 135/ 290 CTR 283 (Allahabad) (PB 23 to 29)(DC          ),
+the original assessment was passed at total income of Rs.
+5,83,91,17,790/- on dated 21.10.2011 wherein an addition on account of
+sales tax subsidy of Rs. 61,00,79,579/- was made.
+Thereafter, the case
+42                         ITA No. 1014/JPR/2024
+Shiv Vegpro Pvt. Ltd. vs. PCIT
+was reopened and reassessment was completed vide order dated
+26.03.2015 by making a further disallowance of Rs. 1,38,95,995/- u/s
+40(a)(ia) of the Act (and the total reassessed income of Rs.
+5,97,80,77,790/-). However, this was followed by a notice
+u/s 263
+with
+reference to the reassessment order passed
+u/s 143(3)
+r.w. 147 of the
+Act dated 26.03.2015 on the ground that a further amount of sales tax
+subsidy of Rs. 20,58,34,234/- accrued due to scheme of Maharashtra
+Government was not taxed as revenue receipt (this subsidy was in
+addition to the sales tax incentive received by the assessee of Rs.
+61,00,79,579/- from UP Government). In this factual context, the
+contention of the assessee (in Para 14) was that in the original
+assessment, the sales tax subsidy accrued to assessee from
+Maharashtra Government was treated as capital receipt and no addition
+was made therefore, the limitation
+u/s 263(2)
+of the Act was to be
+reckoned with reference to the original assessment order passed on
+31.10.2011 and not w.r.t. the reassessment order passed dated
+26.03.2015, relying upon certain decisions.
+10.5.6CIT v. Bharti Airtel Ltd (Supra Para
+3.3) (DC      )
+
+10.5.7 In Ashok Buildcon Ltd. Vs. ACIT (Supra Para 3.4) (DC             )
+
+10.5.8 In
+CIT vs. ICICI Bank Ltd.
+(2012) 343 ITR 74/252 CTR 85 (Mum),
+held that (DC    ):
+"
+Section 263
+of the Income-tax Act, 1961 - Revision - Of orders
+prejudicial to interest of revenue - Assessment year 1996-97 - Whether
+where jurisdiction under
+section 263
+is sought to be exercised with
+reference to an issue which is covered by original order of assessment
+under
+section 143(3)
+and which does not form subject-matter of
+reassessment, period of limitation of two years under
+section 263(2)
+must necessarily begin to run from order under
+section 143(3)
+- Held,
+yes [In favour of assessee]"
+10.5.9 In
+CIT vs. Alagendran Finance Ltd. (Supra Para
+3.1) (DC 1-7)
+
+10.5.10 In
+Indira Industries Vs. Pr. CIT
+. 305 CTR (Mad) 314: 169 DTR
+(Mad) 171 (2018) (DC), held that:
+"3(xviii) We therefore have no hesitation in holding that the reckoning
+date qua the impugned notice for the purpose of
+s. 263(2)
+of IT Act is not
+the date of reassessment being 30th Dec., 2016, but the date of
+scrutinizing the assessment i.e., 25th Feb., 2015.
+3(xix) As would be evident from the narration of facts and discussion
+supra, the impugned notice is dt. 16th Aug.,2017 and is therefore, clearly
+beyond two years when reckoned from 25th Feb., 2015.
+43                       ITA No. 1014/JPR/2024
+Shiv Vegpro Pvt. Ltd. vs. PCIT
+3(xx) Therefore, the assessee before us was clearly entitled to succeed
+      on the second point raised before the learned Single Judge."
+11. It is further submitted that, any contrary interpretation/view, shall
+      render the limitation provisions
+u/s 263(2)
+of the Act as completely
+      nugatory or purposeless and shall confer blind and unfettered power
+      upon the revenue and the ld. CIT may disturbed the finality of the orders,
+      one way or the other, which can never be the intention of the legislature.
+      The Hon'ble courts have always held that the provisions relating to
+      limitations must be construed very strictly in as much as permitting the
+      reopening of a concluded matter has the effect of unsettling the rights
+      and obligations of the parties at any moment of time.
+12. Even Otherwise (alternatively,and without prejudice to the other
+      contentions and arguments), assuming, the AO had passed an
+      assessment order
+u/s 143(3)
+, prior to the subjected reassessment order,
+      even then this revision
+u/s 263
+would have been barred by limitation
+      since as per
+Section 153(1)
+[prevailing at that time], the said order was
+      to be passed within 21 months from the from the end of the assessment
+      year in which the income was first assessable. The time chart is as
+      follows:
+S.No.                 Particulars (A.Y. 2017-18)                       Date
+
+       A.     Last date of relevant A.Y.                             31.03.2018
+
+       B.     Limitation
+u/s 153(1)
+- 21 months                      31.12.2019
+
+       C.     (+) Limitation as per
+Section 263(2)
+2
+years
+
+       D.       Last date of passing Revision Order
+u/s 263
+31
+.12.2021
+Hence, the impugned SCN
+u/s 263
+and the resultant order kindly be
+      declared as barred by limitation.
+6.1     In support of the grounds so raised the ld. AR appearing on
+
+behalf of the assessee has also placed reliance on the written
+
+submission on 05.11.2024 which is extracted herein below:-
+"1. That in the aforesaid matter, the ld. PCIT, Udaipur passed the Order
+      u/s 263 on dated 29.02.2024 (hereinafter referred as "impugned order"),
+      Accordingly, the appeal was to be filed on/before dt. 28.04.2024
+44                       ITA No. 1014/JPR/2024
+Shiv Vegpro Pvt. Ltd. vs. PCIT
+however, the same has been filed on dated 29.07.2024. Thus, the
+appeal was filed with a delay of 92days.
+2.1 Reasonable Cause Existed:With regard to the delay, it is humbly
+submitted that there did exist a reasonable cause and the delay so
+caused was completely unintended and bonafide in as much as Shri
+Sushil Mittal, employed in the office of the Company and permanent
+employee of the appellant company namely, M/s SHIV VEGPRO
+PRIVATE LIMITED, Kota, wasassigned the task to collect the appeal
+prepared from the counsel at Jaipur, to get itsigned and to ensure filing
+of the same in time. Shri Sushil Mittal was fully conversant with the
+affairs of the above assessee in the office of M/s SHIV VEGPRO
+PRIVATE LIMITED, Kota.Shri Sushil Mittalcollectedthe documents
+prepared from the counsel at Jaipur, which were received only a week
+before the last date of filing of the appeal.
+In the meanwhile, because of the marriage of his daughter in the month
+of April,he proceededon leave. Therefore, hecould neither handoverhis
+responsibilities to his colleague nor couldinform Shri Sandeep Kumar
+Saboo, Director of the companyabout the documents, including the
+appeal papers.
+2.2Although subsequently, Shri Sushil Mittalresumed his duties in the
+office sometime in the first week of May, 2024, yet however, it did not
+occur to his mind that some appeal papers were to be signed, which
+were still lying pending with him.
+2.3It is only thereafter, in the second week of July, 2024 when CA
+Dharm Chand Jain, FCA contacted the counsel engaged at Jaipur w.r.t.
+the status of the appeal (which he believed had already been filed), but
+then he was informed that the same is yet to be filed and that the appeal
+papers were received by Shri Sushil Mittalfor getting them signed. In
+absence of any persuasion from the side of the Assessee and M/s
+DHARM CHAND JAIN & ASSOCIATES, Chartered Accountant, the
+counsel at Jaipur, already handling a heavy workload, informed the
+factual position to Shri Dharm Chand Jain. It is only thereafter, the
+Director, Shri Sandeep Kumar Saboo immediately enquired Shri Sushil
+Mittaland asked him to hand over him the subjected documents - the
+appeal set, who thereafter, recollected and after making an extensive
+search could lay his hand on the appeal papers. Upon getting hold of the
+documents, Shri Sandeep Kumar Saboo, promptly signed the papers
+and thereafter, forwarded the same to the counsel at Jaipur without any
+further delay.
+2.4Thus, the delay in filing of the instant appeal was not at all deliberate
+or intentional but arose due to circumstances beyond the assessee's
+control, primarily stemming from the unintended and bonafide mistake
+committed by the Employee working at the Assessee-Company. The
+45                       ITA No. 1014/JPR/2024
+Shiv Vegpro Pvt. Ltd. vs. PCIT
+
+
+      Assessee has acted diligently and in good faith throughout this process,
+      taking all necessary steps to rectify the situation and ensure compliance.
+2.5 That the applicant was a layman & not very conversant with the
+      complex tax laws and due to the circumstances stated above, the delay
+      so caused was beyond their control but was bonafide and unintended.
+      The assessee was not going to gain any benefit because of the delayed
+      finding and their conduct was not contumacious.
+3. In support, affidavits of Shri Sandeep Kumar Saboo and Shri Sushil
+      Mittal are enclosed herewith and marked as Annexure-1 and Annexure-
+2.
+4. Supporting Case Laws: It is submitted that the Hon'ble Supreme Court
+      in the case of
+Collector, Land & Acquisition v. Mst
+. Katiji & Others (1987)
+      167 ITR 471 (SC) has advocated for a very liberal approach while
+      considering a case for condonation of delay. The following observations
+      of the Hon'ble Court are notable:
+"The legislature has conferred the power to condone delay by enacting
+section 5
+of the Limitation Act 1963 in order to enable the Courts to do
+      substantial justice to parties by disposing of matters on 'merits'. The
+      expression 'sufficient cause' employed by the legislature is adequately
+      elastic to enable the Courts to apply the law in a meaningful manner
+      which sub serves the ends of justice-that being the life-purpose of the
+      existence of the institution of Courts. It is common knowledge that this
+      Court has been making a justifiably liberal approach in matters instituted
+      in this Court. But the message does not appear to have percolated down
+      to all the other Courts in the hierarchy."
+The said judgment is a leading case on the subject and has a binding
+      force on all the officers subordinate thereto."
+6.2    The ld. AR of the assessee also filed a detailed paper book
+
+in support of the contention so raised in the written submission on
+
+14.10.2024 and the index of the document submitted are as
+
+under:-
+Page
+S. No.                              Particulars
+                                                                                    No.
+1.       Copy of acknowledgement of ITR filed along with its                       1-5
+46                    ITA No. 1014/JPR/2024
+Shiv Vegpro Pvt. Ltd. vs. PCIT
+computation for AY 2017-18.
+2.      Copy of audited financial statements for AY 2017-18.                   6-30
+3.      Copy of Tax Audit form 3CA-3CD for AY 2017-18.                        31-43
+
+         Copy of notice
+u/s 142(1)
+dated 16.02.2021 along with its
+4.                                                                            44-50
+         reply filed on dated on 23.02.2021 before AO
+
+         Copy of notice
+u/s 142(1)
+dated 01.03.2021 along with its
+5.                                                                            51-61
+         reply filed on dated 12.03.2021 before AO
+6.      Copy of Assessment Order dated 15.04.2021 passed
+u/s 147
+62-69
+7.      Copies of Confirmations of accounts from the Loan Creditors.          70-80
+8.      Copies of Receipts of service tax payments for AY 17-18.              81-94
+
+         Copy of Ledger statement of Interest paid to the schedule
+9.                                                                               95
+bank.
+Copy of relevant extracts of Bank Statement of CC A/c
+10.                                                                          96-119
+
+         Copy of form 58A filed in support of the deduction claimed u/s
+11.                                                                    120-121
+         35AC.
+Copy of notice
+u/s 263
+of PCIT dated 14.02.2023
+12.                                                                          122-127
+
+         Copy of reply of filed in response to notice dated 14.02.2023
+13.     alongwith Acknowledgement (same was filed for notice dated 128-142
+         03.10.2023)
+
+         Copy of notice
+u/s 263
+of PCIT dated 03.10.2023
+14.                                                                          143-145
+
+         Copy of acknowledgement of response filed for notice dated
+15.                                                                             146
+03.10.2023
+
+
+
+6.3    The ld. AR of the assessee also filed an another paper book
+
+on 11.11.2024 on the decision referred in support of the contention
+
+so raised in the written submission and the index of the judicial
+
+decision relied upon are as under:-
+47                       ITA No. 1014/JPR/2024
+Shiv Vegpro Pvt. Ltd. vs. PCIT
+
+
+S.No.                          PARTICULARS                                      Pg. No.
+1.
+CIT vs. Alagendran Finance Ltd
+, (2007) 211 CTR (SC) 69                  1-7
+CIT v. Bharti Airtel Ltd.
+[2013] 37 taxmann.com 218/218
+2.                                                                            8-9
+           Taxman 112(Mag.) (Delhi)
+3.
+Ashok Buildcon Ltd. Vs. ACIT
+(2010) 325 ITR 574(Bom.)                 10-15
+4.    Chhabra Syncotex (P) Ltd.vs AO (2019) TTJ (Jp) 77                     16-37
+
+           PCIT vs. SPPL Property Management (P.) Ltd. 151
+5.                                                                         37A-40
+           taxmann.com 103 (Calcutta)
+6.    CIT vs Bajargan Traders 86 taxmann.com 295 (Rajasthan)                41-43
+7.
+CIT vs. Larc Chemical Limited
+[214] 368 ITR 655(Mum)                  44-47
+CIT vs Anderson Marine & Sons (P
+.) Ltd.266 [ITR 694] 139
+8.                                                                          48-52
+Taxman 16 (Bombay)
+
+           CIT vs. Rajkumar DeepchandPhade
+[249 ITR 520] 116
+9.                                                                          53-55
+           Taxman 783 (Bombay)
+
+         L.G. Electronics India (P.)
+Ltd. Vs PCIT
+(2016) 388 ITR 135/
+10. 290 CTR 283                                                             56-64
+11.
+CIT vs. ICICI Bank Ltd.
+(2012) 343 ITR 74/252 CTR 85                    65-68
+12.
+Indira Industries Vs. Pr. CIT
+305 CTR 314(Mad)                          69-74
+7.        The ld. AR of the assessee in addition to what has been
+
+stated in the written submission vehemently argued that the action
+
+of the ld. PCIT exercising the jurisdiction beyond two year is not
+
+permitted, as the ITR was filed 06.09.2017, intimation
+u/s. 143(1)
+was issued on 16.10.2018 and notice us/. 148 was issued on
+
+17.03.2020 and that assessment order was passed on 15.04.2021.
+The issues on which the PCIT is seeking to exercise the
+
+jurisdiction
+u/s. 263
+of the Act were concluded by virtue of an
+48                     ITA No. 1014/JPR/2024
+Shiv Vegpro Pvt. Ltd. vs. PCIT
+intimation dated 16.10.2018 issued
+u/s. 143(1)
+of the Act which
+
+admittedly was done beyond a period of two years prior to the
+
+notice dated 14.02.2023 issued
+u/s. 263
+of the Act.
+To drive home
+
+to this contention the ld. AR of the assessee relied upon the
+
+decision of the
+CIT     vs. Larc Chemical Limited
+[ 368 ITR 655
+
+(Bombay) ]. The ld. PCIT raising the issue which was not part of
+
+the notice
+u/s. 148
+and the reasons recorded there under. The ld.
+AO has already applied the mind on the issue that was raised and
+
+the assessment to that has already been completed. In the notice
+
+issued
+u/s. 148
+the reason to believe was alleged bogus sales and
+
+the ld. AO examined that aspect and finalized the assessment.
+Thus, the PCIT exercising its revisional jurisdiction reopened the
+
+order of assessment only in relation to the subject of reassessment
+
+proceedings, the period of limitation provided for under sub.s.(2) of
+section 263
+of the Act would begin to run from the date of order of
+
+assessment and not from the order of the re-assessment. Thus,
+
+action of the ld. CIT(A) is illegal and PCIT's order was silent on that
+
+issue even though the assessee raised that aspect of the matter
+
+before her. Even the reason advanced by the ld PCIT partly was
+
+also not forming part of the show cause notice.
+49                    ITA No. 1014/JPR/2024
+Shiv Vegpro Pvt. Ltd. vs. PCIT
+8.    Per contra, the ld. DR supported the order of the ld. PCIT
+
+and submitted that the assessee while passing the order
+u/s. 263
+of the Act PCIT has dealt with all the submission and objections
+
+raised by the assessee. The contention that the order
+u/s. 148
+cannot be revised is incorrect appreciation of the fact and the ld.
+PCIT can revise all the orders and therefore, she supported the
+
+order of the ld. PCIT.
+9.    In the rejoinder to the arguments of the ld. DR, ld. AR of the
+
+assessee submitted that the ld. PCIT has invoked the clause (a) &
+(b) of the Explanation (2) of
+section 263
+of the Income Tax Act,
+
+1961 whereas the same was not part of the show cause notice
+
+issued to the assessee and on that aspect of the matter he relied
+
+upon the written submission so filed.
+10.   We have heard both the parties and perused the materials
+
+available on record. Vide ground no. 1 & 2 the assessee
+
+challenges the order of the ld. PCIT on the technical ground stating
+
+that the PCIT has erred in law as well as on facts in invoking the
+
+provision of
+section 263
+of the based on the set of the facts of the
+
+case of the assessee and therefore, he prayed that the same being
+
+illegal and bad in law required to be quashed. The brief facts
+50                       ITA No. 1014/JPR/2024
+Shiv Vegpro Pvt. Ltd. vs. PCIT
+related to the issue are that in this case the assessee filed the
+
+original return of income on 06.09.2017 the said return was
+
+processed and an intimation
+u/s. 143(1)
+was issued on
+
+16.10.2018. Thereafter, notice
+u/s. 148
+was issued on 17.03.2020
+
+and that re-opened assessment order was passed on 15.04.2021.
+The issues on which PCIT is seeking to exercise the jurisdiction
+
+u/s. 263 of the Act were concluded by virtue of an intimation dated
+
+16.10.2018 issued
+u/s. 143(1)
+of the Act which admittedly was
+
+done beyond a period of two years prior to the notice dated
+
+14.02.2023 issued
+u/s. 263
+of the Act. The bench noted that the
+
+issue raised by the assessee in this appeal has already been
+
+decided by the our own Hon'ble Jurisdiction High Court in the case
+
+of Chambal Fertilisers and Chemicals Ltd. Vs. PCIT [ 170
+
+taxmann.com 543 (Rajasthan) wherein the Hon'ble Court held as
+
+under;
+2. The question which arise for consideration in the present case is
+    whether the period of limitation for passing under
+Section 263
+of the
+    Income Tax Act, 1961 has to be reckoned from the date of original
+    assessment order or from the date of reassessment order.
+3. The Supreme Court in the aforesaid decision in the case of
+Commissioner of Income Tax
+(supra) has held as follows:-
+"3. At the outset, it is required to be noted and it is not in dispute
+         that, as such, the Commissioner exercised powers under
+Section
+         263
+of the Act with respect to the issues which were not covered in
+         the re-assessment proceedings. Therefore, the issues before the
+         Commissioner while exercising the powers under
+Section 263
+of
+51                        ITA No. 1014/JPR/2024
+Shiv Vegpro Pvt. Ltd. vs. PCIT
+
+
+         the Act relate back to the original Assessment Order and, therefore,
+         the limitation would start from the original Assessment Order and
+         not from the Reassessment Order.
+We are fortified with our view by
+         the decision of this Court in the case of
+Commissioner of Income
+         Tax, Chennai v. Alagendran Finance Ltd.
+(2007) 7 SCC 215. As
+         observed and held by this Court in the aforesaid decision, once an
+         Order of Assessment is re-opened, the previous order of
+         assessment will be held to be set aside and the whole proceedings
+         would start afresh but the same would not mean that even when
+         the subject matter of re-assessment is distinct and different, the
+         entire proceedings of assessment would be deemed to have been
+         re-opened. Meaning thereby, only in a case where the issues
+         before the Commissioner at the time of exercising powers under
+Section 263
+of the Act relate to the subject matter of re-
+         assessment, the limitation would start from the date of Re-
+         assessment Order. However, if the subject matter of the re-
+         assessment is distinct and different
+,
+in that case
+the relevant date
+         for the purpose of determination of period of limitation for exercising
+         powers under
+Section 263
+of the Act would be the date of the
+         original Assessment Order."
+4. In view of the aforesaid authoritative pronouncement, it is clear that for
+    the purposes of exercising powers under
+Section 263
+of Income Tax Act,
+    1961, the period of limitation for passing the order has to be reckoned
+    from the date of original assessment order and not from the date of
+    reassessment order.
+5. The aforesaid legal position is not disputed by learned counsel for the
+    respondents.
+6. In view of the above, the notice impugned cannot be sustained in law
+    and, therefore, the same is set aside being without jurisdiction and
+    barred by limitation.
+7. The petition is accordingly allowed.
+The issue decided by our High Court has also been confirmed by
+
+the apex court vide order dated 03.01.2025 wherein the SLP filed
+
+by the revenue was dismissed. Thus, the issue goes in favour of
+
+the assessee and the revenue did not brought any contrary
+
+decision we respectfully following the ration decided held that the
+
+order of the PCIT was barred by limitation as prescribed under the
+52                       ITA No. 1014/JPR/2024
+Shiv Vegpro Pvt. Ltd. vs. PCIT
+
+
+Act and thereby we considered the ground no. 1 and 2 raised by
+
+the assessee. Ground no. 3 to 6 are on the merits of the disputes,
+
+since we have considered the appeal of the assessee on technical
+
+grounds the grounds on merits becomes educative in nature.
+Ground no. 7 being general does not require our finding.
+In the result, the appeal filed by the assessee is allowed.
+Order pronounced in the open Court on 28/01/2025.
+Sd/-                                       Sd/-
+       ¼ Mk0 ,l- lhrky{eh ½                       ¼ jkBkSM+ deys'k t;UrHkkbZ ½
+     (Dr. S. Seethalakshmi)                  (Rathod Kamlesh Jayantbhai)
+  U;kf;d lnL;@Judcial Member                ys[kk lnL;@Accountant Member
+Tk;iqj@Jaipur
+fnukad@Dated:- 28/01/2025
+*Santosh
+vkns'k dh izfrfyfi vxzsf'kr@Copy of the order forwarded to:
+1.      vihykFkhZ@The Appellant- Shiv Vegpro Pvt. Ltd., Kota.
+2.      izR;FkhZ@ The Respondent- PCIT, Udaipur.
+3.      vk;dj vk;qDr@ CIT
+4.      vk;dj vk;qDr@ CIT(A)
+5.      foHkkxh; izfrfuf/k] vk;dj vihyh; vf/kdj.k] t;iqj@DR, ITAT, Jaipur.
+6.     xkMZ QkbZy@ Guard File { ITA No. 1014/JPR/2024}
+                                                        vkns'kkuqlkj@ By order
+
+                                             lgk;d iathdkj@Asst. Registrar

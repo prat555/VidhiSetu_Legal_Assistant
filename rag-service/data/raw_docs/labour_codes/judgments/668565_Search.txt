@@ -1,0 +1,660 @@
+Title: Search
+Court: High Court
+Date: 30 of 1981
+Citation: Citation not found
+Source: https://indiankanoon.org/doc/668565/
+
+[Cites
+45
+, Cited by
+9
+]
+Madras High Court
+V. Radhakrishnan And Others vs P.R. Ramakrishnan And Others on 31 March, 1992
+JUDGMENT 
+ 
+
+ Mishra, J.
+1. V. Radhakrishnan, one of the respondents in Company Petition No. 30 of 1981, along with three others, viz., V. R. Textiles Limited, Mrs. Vimala Radhakrishnan and R. Santosh, has appealed under
+section 483
+of the Companies Act, 1956, against the order the Original Application No. 826 of 1991, and Company Application No. 2261 of 1991, in Company Petition No. 30 of 1981, dated December 20, 1991. All the four, however, are party respondents in Original Application No. 826 of 1991, and Company Application No. 2261 of 1991. Petitioners Nos. 1 to 3 and 5 in Company Petition No. 30 of 1981, filed the aforementioned original application for an order of injunction restraining respondents Nos. 5, 6 and 8 to 11 therein from exercising their voting rights in V. R. Textiles Limited to the extent of 7,000 equity shares issued to them on September 21, 1991, by V. R. Textile Limited. Company Application No. 2261 of 1991, was filed by them to declare that the alleged meeting of the board of V. R. Textiles Limited dated September 21, 1991, is not a meeting of the board of V. R. Textiles Limited held in accordance with the provisions of the
+Companies Act, 1956
+, and consequently declare all the resolutions passed in that meeting including the allotment of 7,000 equity shares to respondents Nos. 5, 6 and 8 to 11 as null and void.
+2. To appreciate the facts leading to the filling of the said applications, we may take notice of the following facts : Company Petition No. 30 of 1981, was filed for winding up of Ramakrishna Industrials Private Limited. In Company Application No. 843 of 1991, the learned company judge appointed the official liquidator as the provisional liquidator of Ramakrishna Industrials Private Limited. The shareholding pattern of Ramakrishna Industrials Private Limited indicates that it is a company belonging to the family members of Sri Rangaswamy Naidu. Sri R. Venkataswamy Naidu and P. R. Ramakrishnan are the sons of the late Mr. Rangaswamy Naidu. The family of Mr. R. Venkataswamy Naidu comprises the following :
+1. Mrs. Kamalam Venkataswamy Naidu (wife of R. Venkataswamy Naidu).
+2. Sri V. Radhakrishnan (son of R. Venkataswamy Naidu).
+3. Smt. Vimala Radhakrishnan (wife of V. Radhakrishnan).
+4. Sri Santosh (son of V. Radhakrishnan).
+5. Sri V. Manohar (second son of R. Venkataswamy Naidu).
+6. Smt. Anusuya (wife of V. Manohar).
+7. Shri V. Rajkumar (third son of R. Venkataswamy Naidu).
+8. Smt. Thulasi Rajkumar (wife of Shri V. Rajkumar).
+3. The family of Sri P. R. Ramakrishnan comprises the following :
+1. Smt. Rajeswari Ramakrishnan (wife of P. R. Ramakrishnan).
+2. Shri R. Prabhu (son of P. R. Ramakrishnan).
+3. Smt. Prabhu (wife of R. Prabhu).
+4. Shri R. Baba Chandrasekar (son of P. R. Ramakrishnan).
+5. Smt. Nirmala Chandrasekar (wife of R. Baba Chandrasekar).
+6. Shri S. R. K. Prasad (son of P. R. Ramakrishnan).
+7. Mrs. Prasad.
+4. The shareholders of Ramakrishna Industries Private Limited are as under :
+-----------------------------------------------------------------
+Sr. No.  Name of the shareholders    No. of shares
+-----------------------------------------------------------------
+1.  R. Venkataswamy Naidu     20
+2.  P. R. Ramakrishnan      34
+3.  Late Sri Rangaswamy Naidu     10
+4.  S. Rangaswamy, Mirashudhar    11
+5.  Late Chinnammal      7
+6.  R. Prabhu      168
+7.  Sri. Baba Chandrasekar    160
+8.  R. Sivaji      161
+9.  V. Radhakrishnan     148
+10.  P. V. Manoharan     140
+11.  V. Rajkumar       157
+12.  V. Kamalammal      164
+13.  V. Rangaswamy Naidu Educational Trust  300
+14.  Smt. Rajeswari Ramakrishnan    85
+15.  P. V. Narayanaswamy      3
+16.  K. R. Dhamodaraswamy      2
+17.  Oceanic Delicacies (P) Ltd.    12
+18.  Smt. Anusuya Manoharan     6
+19.  Smt. Thulasi Rajkumar     7
+---------------
+1,595
+-----------------------------------------------------------------
+5. The companies coming under the above family are as follows :
+1. Ramakrishna Industries (Pvt.) Limited.
+2. Radhakrishna Mills (In Liquidation).
+3. Jayalakshmi Mills Private Limited.
+4. Oceanic Delicacies Private Limited (In Liquidation).
+5. V. R. Textiles Limited.
+6. Avanashi Spinning Mills (P.) Limited.
+7. Madras Aluminium Limited.
+6. Radhakrishna Mills Limited and Oceanic Delicacies Limited have been ordered to be wound up by order of this court dated July 3, 1987, in C.P. No. 17 of 1984, and February 20, 1984, in C.P. No. 44 of 1983, respectively, and the official liquidator has become the liquidator of these companies. The official liquidator has been appointed as the provisional liquidator of Jayalakshmi Mills Private Limited by order dated August 23, 1991, in Company Application No. 138 of 1988, in Company Petition No. 14 of 1988. In the case of Ramakrishna Industrials Private Limited, the winding-up petition was presented by Shri P. R. Ramakrishnan and others for reason of some disputes between himself and his brother, R. Venkataswamy Naidu. This company petition is still pending, but the official liquidator has been appointed as provisional liquidator, and thus this company is in his hands. V. R. Textiles Limited (one of the appellants before us), as on March 31, 1990, had the issuance of such subscribed capital of Rs. 7,69,000 divided into 7,690 equity shares of Rs. 100 each. Out of the issued and paid-up capital of a 7,690 equity shares of Rs. 100 each of V. R. Textiles, Ramakrishna Industrials held 2,376 equity shares of Rs. 100 each, about 30.89 per cent. in the share capital of V. R. Textiles Limited. According to the records of the official liquidator, the shareholders of V. R. Textiles, as on June 30, 1981, were as under :
+-----------------------------------------------------------------
+Sr. No.  Name of the shareholders    No. of shares
+-----------------------------------------------------------------
+1.  Shri V. Rangaswamy Naidu     11
+2.  Shri R. Venkataswamy Naidu    200
+3.  Shri. P. R. Ramakrishnan     500
+4.  Smt. R. V. Kamalam      100
+5.  Shri R. Venkataswami Naidu Educational
+   Trust Managing Trustee     1649
+6.  Rajeswari Ramakrishnan    370
+7.  Shri V. Radhakrishnan    795
+8.  R. K. I. (P.) Limited.     2,376
+9.  Jayalakshmi Mills (P.) Ltd.   185
+10.  Shri P. R. Prabhu      413
+11.  Shri P. R. Baba Chandrasekar   485
+12.  Minor Shivaji by mother and guardian
+   Mrs. R. Rajeswari Ramakrishnan    486
+13.  Smt. Vimala Radhakrishnan    100
+14.  Shri V. Rajkumar     10
+15.  Shri V. Manohar      10
+-----------------------------------------------------------------
+7. Oceanic Delicacies Private Limited (in liquidation) has been holding 12 equity shares of Rs. 100 each in Ramakrishna Industrials some time prior to December 7, 1981. Ramakrishna Industrials is holding more than 25% share capital of V. R. Textiles even prior to December 7, 1981.
+8. The directors of V. R. Textiles, as on June 22, 1990, as per the records, not disputed, were :
+1. Sri R. Venkataswamy Naidu.
+2. Sri P. R. Ramakrishnan.
+3. Smt. V. Kamalam.
+4. Smt. Rajeswari Ramakrishnan.
+5. Sri R. Baba Chandrasekar.
+6. Sri V. Manoharan.
+7. Smt. Vimala Radhakrishnan.
+8. Sri S. R. K. Prasad.
+9. Smt. Nirmala Chandrasekar.
+10. Sri R. Santhosh
+11. V. Radhakrishnan.
+9. P. R. Ramakrishnan, his wife and three sons, who are shareholders of Ramakrishna Industrials Private Limited, and who filed Original Application No. 826 of 1991, and Company Application No. 2261 of 1991, allege that Ramakrishna Industrials Private Limited has been holding 2,376 shares in V. R. Textiles Limited, a deemed public company under
+section 43A(1A)
+of the Companies Act, 1956, and out of the issued and paid-up capital of 7,690 equity shares of Rs. 100 each, Ramakrishna Industrials Private Limited has been holding shares equivalent to 30.89% of the share capital of V. R. Textiles Limited, which has been the largest shareholder of V. R. Textiles Limited, which owns and runs the business of textile spinning mills with a capacity of 18,750 spindles with a requisite infrastructure of land, building, plant, machinery and other installations. The value of the assets of V. R. Textiles Limited is more than Rs. 5 crores. The shareholding in favour of V. Radhakrishnan and his group of directors was only 925, and as against the above, the shareholdings of the two life directors and other members of the family excluding the shares held by the first respondent-company and the family trust was 2,554 equity shares. According to them, V. Radhakrishnan and his group of directors, respondents Nos. 4, 5 and 8 to 11 abused their position of falsify the records of V. R. Textiles Limited as well as the register of members to show the following transactions as having taken place :
+(a) A meeting of the board of directors of V. R. Textiles Limited is alleged to have been taken place on September 21, 1991. This meeting has been attended by the directors who are sought to be removed by the notice of Mr. S. R. K. Prasad including Mr. V. Radhakrishnan.
+(b) At the above board meeting, instantaneous decisions were taken to issue share capital for Rs. 7 lakhs, to consider applications for shares then and there placed before the board meeting, accept those applications and allot shares, to issue share certificates, and file return of allotment with the Registrar of Companies, Coimbatore. All these steps were taken on the same day, i.e., September 21, 1991.
+(c) The minutes of the meeting of the board of directors of V. R. Textiles Limited was tampered with to make false entries as if the board meeting took place on September 21, 1991, and allotment of shares were made at the said meeting.
+(d) The register of members of V. R. Textiles Limited was also tampered with to make entries as if shares were allotted for Rs. 7 lakhs on September 21, 1991.
+10. Alleging that the above action of V. Radhakrishnan and his group of directors came to light only when the alleged extraordinary general body meeting was held on October 19, 1991, that inspection of the minutes book of the board's proceedings and the register of members was taken up thereafter by S. R. K. Prasad to gather facts and particulars, it is sated that there was no board meeting held on September 21, 1991, and V. Radhakrishnan, inactive collusion with his group of directors, fraudulently made entries in the minutes book as well as the register of members, so as to prejudicially affect the interests of the majority shareholders, and in particular, that of the company under liquidation, Ramkrishna Industrials Private Limited. It is also alleged that there was no notice for the alleged board meeting to Mr. R. Venkataswamy Naidu, Mrs. V. Kamalam, Mrs. P. R. Radhakrishnan, Mrs. Rajeswari Ramakrishnan and Mr. S. R. K. Prasad, who were directors of the company at the relevant time and that failure to send notice rendered the resolution passed in the meeting null and void. Speaking in some detail as to the paid-up capital and the equity shares before September 21, 1991, and after September 21, 1991, they (petitioners-respondents) allege that the alleged meeting of the board of directors decided to issue 7,000 equity shares purportedly to improve the company's financial position, but clandestinely and fraudulently to improve their holding at the cost of the holding of the company under liquidation (Ramakrishna Industrials Private Limited) and that of the majority shareholders.
+11. Before we take into account the relevant provisions of the law and the contentions of the parties and refer to some further facts as and when relevant, we may here state that the disputed meeting on September 21, 1991, of the board of directors of V. R. Textiles Limited (one of the appellants), transacted the business of issuing 7,000 equity shares and allotting the same to the existing shareholders who held before September 21, 1991, only minority shares. The chart prepared at the Bar, and not in dispute, showing the paid-up capital divided into equity shares of Rs. 100 each before September 21, 1991, and after September 21, 1991, in the hands of different shareholders depicts as follows :
+V. R. TEXTILES LTD.
+NALLUR, PUNJAI PULLAMPATTI-638 459, SATHY TALUK, ERODE DISTRICT
+ Shareholding pattern before and after the impugned allotment of
+    shares on September 21, 1991
+--------------------------------------------------------------------------
+Before 21-9-1991    After 21-9-1991
+(Paid-up capital Rs. 7,69,000 (Including the shares allotted
+divided into 7,600 equity   on 21-9-91) (paid-up capital
+shares of Rs. 100 each)  Rs. 14,690 equity shares of
+      Rs. 100 each)
+--------------------------------------------------------------------------
+Name of  No. of  % of No. of  No. of  % of Increase/
+shareholder  shares  paid-up  shares  shares  paid-up decrease
+     capital  allotted held capital percentage
+         after   as a
+         allotment   result
+            of the
+            allotment
+1. Mr. V. 795  10.33 1,500 2,295 15.62 4.29 (+)
+Radhakrishnan
+(director)
+2. Mrs. Vimala 90   1.17  500  590 4.01 2.84 (+)
+Radhakrishnan
+(director)
+3. Mr. R. 10   0.13 2,500 2,510 17.08  16.95(+)
+Santhosh
+(director)
+4. Mr. R. Baba 10   0.13 1,250 1,260 8.57 8.44(+)
+Chandersekhar
+(director)
+5. Mrs.  10   0.13 1,250 1,260 8.57 8.44(+)
+Nirmala
+Chandersekhar
+(director)
+6. Mr. V. 10   0.13  -   10 0.06 0.07(-)
+Manoharan
+(director)
+----------------------------------------------------------
+925  12.02 7,000 7925 53.91  41.89(+)
+----------------------------------------------------------
+7. Mr. R. 200   2.60 -   200 1.36 1.24(-)
+Venkataswamy
+Naidu
+(life director)
+8. Mrs. V.  100   1.30 -   100 0.68 0.62(-)
+Kamala
+(director)
+9. Mr. V. 10   0.13 -  10 0.06 0.07(-)
+Rajkumar
+10. Mr. P.  500   6.50 -  10 3.40 3.10(-)
+R. Rama-
+krishnan
+(life director)
+11. Mrs. 370   4.81 -   370 2.51 2.30(-)
+Rajeswary
+Ramakrishnan
+(director)
+12. Mr. R.  413   5.37 -   413 2.81  2.56(-)
+Prabu
+13. Mr. S.  941
+12
+.23 -   941 6.40  5.83(-)
+R. K. Prasad
+(director)
+14. Mr.  10   0.13 -  10 0.06  0.07(-)
+Nalini S. Prasad
+15. Mr. R. 1,649  21.44 -  1,649 11.22  10.22(-)
+Venkata-
+swamy Naidu,
+managing
+trustee, V.
+Rangaswamy
+Naidu
+Educational
+Trust
+Total of  ----------------------------------------------------------------
+7 to 15 4,194  54.51 -   4,193 28.50  26.01(-)
+--------------------------------------------------------------
+16. Rama-
+krishna
+Industrial
+Pvt. Ltd.
+(Company
+under
+Provisional
+Liquidator
+in C.P. No.
+30 of 1981,
+High Court,
+Madras) 2,376  30.89 -   2376 16.17  14.72(-)
+17. Jayal-
+akshmi
+Mills Pvt.
+Ltd.,
+(in  185   2.40 -   185  1.25 1.15(-)
+liquidation)
+18. Late V.  11   0.14 -  11  0.07 0.07(-)
+Rangaswamy
+Naidu
+----------------------------------------------------------------------
+Summary of shareholding pattern
+----------------------------------------------------------------------
+Before allotment on After allotment on
+     21-9-1991  21-9-1991
+----------------------------------------------------------------------
+No. of  %of paid-up  No. of  %of paid
+     shares  capital  shares  up capital
+----------------------------------------------------------------------
+1. Mr. V. Radhakri-  925 12.02   7.925 53.91
+shnan's group
+2. Mr. R. Venkata-  4,193 54.51   4,193 28.50
+swamy Naidu's group
+3. Shareholders not
+belonging to any group :
+(a) Ramakrishna   2,376 30.89   2,376  16.17
+Industrials P. Ltd.
+(b) Jayalakshmi Mills 185 2.40  185 1.25
+P. Ltd.
+(c) Late V. Rangaswamy 11 0.14   11 0.07
+----------------------------------------------------------------------
+12. According to the petitioners-respondents, V. Radhakrishnan's group, which had 925 shares before September 21, 1991, and paid-up capital of 12.02% only, increased its shares after the alleged allotment of 7000 equity shares at the meeting dated September 21, 1991, to 7,925 with the increase of the paid-up capital to 53.91%, and in turn reduced the share value of 4193 which stood at the level of 54.51% of the paid-up capital before September 21, 1991, in the hands of R. Venkataswamy Naidu's group to 28.50% only. This not only affected Venkataswamy Naidu's group adversely, but also the shares of Ramakrishna Industrials Private Limited of 2,376 standing at 30.89% of the paid-up capital reduced in value and brought down to 16.17% of the paid-up capital, and similarly 185 shares of Jayalakshmi Mills Private Limited (2.40% of the paid-up capital) to 1.25% of the paid-up capital, and that of late V. Rangaswamy Naidu's 11 shares standing at 0.14% of the paid-up capital brought down to 0.07%.
+13. Most of the facts, however, are not in dispute including the fact that V. R. Textiles Limited is a deemed public company under
+section 43A(1A)
+of the Companies Act. As a consequence of this company being a deemed public company, as per the provisions of
+section 81(1)(a)
+and (b) of the
+Companies Act, 1956
+, V. R. Textiles should have offered 7,000 equity shares if at all it is was necessary, in proportion to the holding of the existing shareholders and letters of rights should have been issued specifying the number of shares offered and granted not less than 15 days for acceptance of the offer. According to the petitioners-respondents, however, none of the existing shareholders received any such letter of rights from V. R. Textiles Limited. No such letter of rights was issued to the official liquidator. (This fact is not is dispute). The petitioners-respondents approached the official liquidator and informed him about the information which they had gathered after inspection of the minutes book of the board's proceedings and the register of member after the extraordinary general body meeting held on October 19, 1991, and requested him to take immediate action in the matter to safeguard the interest of Ramakrishna Industrials Limited (company under liquidation). The official liquidator, however, on October 23, 1991, informed them that it was not possible for him to initiate action forthwith without himself verifying the records. In view of the fact that the official liquidator indicated that it was not possible for him to take immediate action, the petitioners-respondents filed the above mentioned applications.
+14. The official liquidator was filed two reports dated November 4, 1991, and November 28, 1991, in the proceedings. He presented that the purported resolution of the board of directors dated September 21, 1991, declaring the allotment of 7,000 equity shares of Rs. 100 each is invalid. According to him, Ramakrishna Industrials Private Limited being a shareholder should have been offered such further shares in the shares allotted on September 21, 1991, in proportion to the shares held by Ramakrishna Industrials in V. R. Textiles Limited. He, however, received no notice offering further shares in relation to the allotment of 7,000 shares on September 21, 1991. Not offering the proportionate rights shares to Ramakrishna Industrials in accordance with law, and by allotting 7,000 shares on September 21, 1991, to respondents Nos. 5 and 8 to 11 in Original Application No. 826 of 1991 (four of them are the appellants herein) without complying with the requirements of law, Ramakrishna Industrials' property right in V. R. Textiles Limited as a major shareholder has been diminished to the detriment of the said Ramakrishna Industrials.
+15. Respondents Nos. 2 to 4 in Original Application No. 826 of 1991, and Company Application No. 2261 of 1991, in their counter-affidavit stated that no notice of the meeting dated September 21, 1991, was served upon them, and if they had been served with notices and offered some shares, they would have definitely accepted the offer and provided requisite funds to the company to prevent any loss of assets.
+16. V. Radhakrishnan, who was the fifth respondent therein and who is the first appellant before us, in his return, made the following submissions, both of fact and law :
+(a) The above company applications are liable to be dismissed as they are not maintainable before this court, exercising the company jurisdiction. In view of the amendments made under
+section 10
+of the Companies Act, the matters alleged in all these applications are to be heard and disposed of by the Company Law Board.
+(b) The provisions quoted in the applications, viz.,
+sections 457(3)
+,
+460
+and
+446
+of the Companies Act read with rule 9 of the Companies (Court) Rules, 1959, have no relevance to the applications and as such the applications are liable to be dismissed. Even assuming that the applications are maintainable, yet the applicants are not entitled to maintain these applications independently without the sanction or leave of this court for filling these applications.
+(c) The bankers of the seventh respondent have issued a letter negativing the claim made by V. R. Textiles Ltd., for financial assistance on the ground that sufficient funds belonging to the directors or the shareholders are not available in the company and only the money advanced by the bank is available and as such the request for consideration of their application was not favoured. Funds were urgently needed to increases the equity ratio under these circumstances, the meeting of the board of directors was called after due notice to the other directors on September 21, 1991. Since the situation was grave, an urgent decision has been taken by the board to issue 7 lakhs rights shares and to allot the same to those who offered to taken them on that day. As the applicant and his group did not even care to attend the board meeting, the board allotted the shares to those offered and paid then and there in the interest of the company.
+(d) The official liquidator, who is in charge of Ramakrishna Industrials Private Limited and who had no surplus funds cannot flow money for the said purpose and under those circumstances, the empty formalities of offer was not made to him.
+(e) The necessary procedures and the issuance of proper notice as contemplated under
+section 286
+of the Act have been followed both by certificate of posting and by registered post to S. R. K. Prasad, who intended service by such notice.
+(f) The notice with regard to the meeting to be held on September 21, 1991, has been duly sent to the concerned board of directors and it is false to state that the petitioners are not aware of such resolution which is contrary to the records. The forum to decide the issue is not this court.
+(g) The petitioners, in spite of the notice and the agenda for the said meeting on September 21, 1991, have refrained from attending and participating in the board's meeting.
+(h) By notice dated September 13, 1991, all the shareholders were informed with regard to the equity share issue and allotment and the applicants and their group could have exercised their right by attending the board meeting on September 21, 1991, but they did not do so and as such they cannot raise this point at this stage.
+(i) The prayer for a declaration that the resolution is void is beyond the scope of the original company petition and hence, outside the jurisdiction of this court and even if the main relief is granted the relief prayed for in these applications cannot be granted. The scope of relief in these applications if over and above the relief prayed for in the main company petition and on this ground also the applications are liable to be dismissed.
+(j) The question relating to the maintainability of the applications in C.P. No. 30 of 1981, and the jurisdiction of this court to try the said applications should be tried as a preliminary issue.
+17. Respondents Nos. 6 and 7 together filed a common counter supporting the fifth respondent. The sixth respondent, however, has not filed any appeal before us.
+18. An additional affidavit was filed by S. R. K. Prasad, one of the petitioners-respondents, who allegedly had inspected the records, stating, inter alia, that he had received two registered covers under registration receipt Nos. 2158 and 2211. Receipt No. 2158, dated September 16, 1991, was received on September 19, 1991, and receipt No. 2211, dated September 17, 1991, was received on September 18, 1991. In both the letters, the minutes of the proceedings dated September 11, 1991, was sent. He, however, pointed out that it is on the record, according to the case of the contesting respondents-appellants that the notices were issued on September 13, 1991, for the board meeting dated September 21, 1991, but in this case, obviously, no notice was issued, and the receipt No. 2158, dated September 19, 1991, related only to the postal acknowledgment dated September 17, 1991.
+19. The case, it appears, was contested tooth and nail before the learned company judge, who noted various arguments and facts to record his finding that the allotment of shares being illegal, if the same is given effect to, Ramakrishna Industrials Limited would be deprived of half of the value of assets in V. R. Textiles and the value of its 30.89% shareholding, which is about one crore of rupees by reason of the fresh issue of the capital has come down to Rs. 75 lakhs. This finding may not be accurate, but is almost a recording of the admitted fact that as a consequence of the allotment of 7,000 equity shares as above, and not offering proportionate shares no Ramakrishna Industries Private Limited, the paid-up capital value of its shares has been reduced from 30.89% to 16.17%, whereas this allotment has benefited V. Radhakrishnan's group by the increase of 925 shares, to 7,925 shares (all 7,000 shares allotted to their group only) from 12.02% to 53.91%, the minority shareholding being converted to majority shareholding.
+20. Learned counsel for the appellants has not questioned any finding of fact including the finding that the liquidator was not given any notice or that other shareholders were not offered proportionate shares and allotment of all the 7,000 shares to the group which had only 925 shares in all, to give a boost to their shareholding from 12.02% to 53.91%. He has, however, contended that petitioners-respondents could not move the court of the learned company judge to agitate their rights in V. R. Textiles, and if they purported to represent the interests of Ramakrishna Industrials Limited as contributors creditors, they have no locus standi to maintain any application before the learned company judge. The only person competent to invoke the jurisdiction of the learned company judge being the provisional liquidator, the official liquidator alone could have maintained an application before the learned company judge. In any case, according to learned counsel, the learned company judge could make no order with respect to the meeting and resolutions of the board of directors of V. R. Textiles Limited, even with respect to the shares beyond protecting the interests of the company under liquidation.
+21. Before we advert to the contentions, we will prefer a little perspective of the provisions of law with which we are concerned.
+Section 446
+of the Companies Act, 1956, which is comparable to
+section 171
+of the Indian Companies Act, 1913, and
+section 231
+of the English Act, 1948, and
+sections 525
+of the English Act, 1985, has undergone an amendment in the year 1960. The amended provision reads as follows :
+"446. Suits stayed on winding up order. - (1) When a winding-up order has been made or the official liquidator has been appointed as provisional liquidator, no suit or other legal proceeding shall be commenced, or if pending at the date of winding-up order, shall be proceeded with, against the company, except by leave of the court and subject to such terms as the court may impose.
+(2) The court which is winding up the company shall, notwithstanding anything contained in any other law for the time being in force, have jurisdiction, to entertain, or dispose of -
+(a) any suit or proceeding by or against the company;
+(b) any claim made by or against the company (including claims by or against any of its branches in India);
+(c) any application made under
+section 391
+by or in respect of the company;
+(d) any question of priorities or any other provision whatsoever, whether of law or fact, which may relate to or raise in course of the winding-up of the company;
+whether such suit or proceeding has been instituted, or is instituted, or such claim or question has arisen or arises or such application has been made or is made before or after the order for the winding-up of the company, or before or after the commencement of the Companies (Amendment) Act, 1960.
+(3) Any suit or proceeding by or against the company which is pending in any court other than that in which the winding-up of the company is proceeding may, notwithstanding anything contained in any other law for the time being in force, be transferred to and disposed of by that court.
+(4) Nothing is sub-section (1) or sub-section (3) shall apply to any proceeding pending in appeal before the Supreme Court or a High Court."
+22.
+Section 456
+of this Act, which speaks of the custody of the company's property, provides as follows :
+"456. Custody of company's property. - (1) Where a winding-up order has been made or where a provisional liquidator has been appointed, the liquidator or the provisional liquidator, as the case may be, shall take into his custody or under his control, all the property, effects and actionable claims to which the company is or appears to be entitled.
+(1A) For the purpose of enabling the liquidator or the provisional liquidator, as the case may be, to take into his custody or under his control, any property, effects or actionable claims to which the company is or appears to be entitled, the liquidator or the provisional liquidator, as the case may be, may by writing request the Chief Presidency Magistrate or the District Magistrate within whose jurisdiction such property, effects or actionable claims or any books of account or other documents of the company may be fund to take possession thereof, and the Chief Presidency Magistrate or the District Magistrate may thereupon, after such notice as he may think fir to give to any party, take possession of such property, effects, actionable claims, books of account or other documents and deliver possession thereof to the liquidator or the provisional liquidator.
+(1B) For the purpose of securing compliance with the provisions of sub-section (1A), the Chief Presidency Magistrate or the District Magistrate may take or cause to be taken such steps and use or cause to be used such force as may in his opinion be necessary.
+(2) All the property and effects of the company shall be deemed to be in the custody of the court as from the date of the order of the winding up of the company."
+23. (Sub-sections (1A) and (1B) were introduced by the Amendment Act (65 of 1960).
+24.
+Section 457
+, which is comparable to
+section 179
+of the Indian Companies Act, 1913, and
+sections 245
+and
+539
+of the English Acts, 1948, and 1985, respectively, has also undergone certain amendments. It reads as follows :
+"457. Powers of liquidator. - The liquidator in a winding-up by the court shall have power, with the sanction of the court, -
+(a) to institute or defend any suit, prosecution, or other legal proceeding, civil or criminal, in the name and on behalf of the company;
+(b) to carry on the business of the company so far as may be necessary for the beneficial winding-up of the company;
+(c) to sell the immovable and immovable property and actionable claims of the company by public auction or private contract, with power to transfer the whole thereof to any person or body corporate, or to sell the same in parcels;
+(d) to raise on the security of the assets of the company any money requisite;
+(e) to do all such other things as may be necessary for winding-up the affairs of the company and distributing its assets.
+(2) The liquidator in a winding-up by the court shall have power -
+(i) to do all acts to execute, in the same and on behalf of the company, all deeds, receipts, and other documents, and for that purpose to use, when necessary, the company's sale;
+(ia) to inspect the records and returns of the company on the file of the Registrar without payment of any fee;
+(ii) to prove, rank and claim in the insolvency of any contributory, for you balance against his estate, and to receive dividends in the insolvency, in respect of that balance, as a separate debt due from the insolvent, and rateable with the other separate creditors;
+(iii) to draw, accept, make and endorse any bill of exchange, hundi or promissory note in the name and on behalf of the company, with the same effect with respect to the liability of the company as if the bill, hundi or note had been drawn, accepted, made or endorsed by or on behalf of the company in the course of its business;
+(iv) to take out, in his official name, letters of administration to any deceased contributory, and to do in his official name any other act necessary for obtaining payment of any money due from a contributory or his estate which cannot be conveniently done in the name of the company and in all such cases, the money due shall, for the purpose of enabling the liquidator to take out the letters of administration or recover the money, be deemed to be due to the liquidator himself;
+Provided that nothing herein empowered shall be deemed to affect the rights, duties and privileges of any Administrator-General;
+(v) to appoint an agent to do any business which the liquidator is unable to do himself.
+(3) The exercise by the liquidator in a winding-up by the court of the powers conferred by this section shall be subject to the control of the court; and any creditor or contributory may apply to the court with respect to the exercise or proposed exercise of any of the powers conferred by this section."
+25. The other relevant provision is
+section 460
+, which reads as follows :
+"460. Exercise and control of liquidator's powers. - (1) Subject to the provisions of this Act, the liquidator shall, in the administration of the assets of the company and the distribution thereof among its creditors, have regard to any directions which may be given by resolution of the creditors or contributories at any general meeting or by the committee of inspection.
+(2) Any directions given by the creditors or contributories at any general meeting shall, in case of conflict, be deemed to override any directions given by the committee of inspection.
+(3) The liquidator -
+(a) may summon general meeting of the creditors or contributories whenever he thinks fit, for the purpose of ascertaining their wishes;
+(b) shall summon such meetings at such times, as the creditors or contributories, as the case may be, may, by resolution, direct, or whenever requested in writing to do so by not less than one-tenth in value of the creditors or contributories, as the case may be.
+(4) The liquidator may apply to the court in the manner prescribed, if any, for directions in relation to any particular matter arising in the winding-up.
+(5) Subject to the provisions of this Act, the liquidator shall use his own discretion in the administration of the assets of the company and in the distribution thereof among the creditors.
+(6) Any person aggrieved by any act or decision of the liquidator may apply to the court; and the court may confirm, reverse or modify the act or decision complained of, and make such further order as it thinks just in the circumstances."
+26. Learned counsel for the appellants has launches his attach on the impugned order by placing reliance upon a judgment of the Court of Appeal in Singer and Co. (Hat Manufacturers) Ltd., In re [1943] 13 Comp Cas 175 (CA), in which it has been held that the winding-up court has no jurisdiction to settle disputes between parties who, are, for the purpose of the dispute, outside the winding-up. He has contended that this opinion of the learned judges constituting the Bench of the Court of Appeal has withstood the test of time, and if it will not totally outwit and exclude the action of the petitioners-respondents in the court of the learned company judge, it shall surely affect such items of dispute relating to the agenda of the impugned meeting dated September 21, 1991. He has, it seems, in mind, the fact that the allotment of shares to some of the members of the company only to exclusion of other members is a dispute not falling within the jurisdiction of the company judge, as, according to him, it would be beyond the interest of the company under liquidation. He has referred to a judgment of the Calcutta High Court in Shree Tej Protap Textile Mills v. Granaries Ltd. [1961] 31 Comp Cas 610, in which, on the facts of the case in hand, a learned judge of the Calcutta High Court has said that the directors cannot file a suit against a debtor of the company even if the provisional liquidator wilfully refuses to institute a suit for the purpose. The Calcutta High Court considered the provisions in
+sections 171
+,
+177A
+and
+178
+of the Indian Companies Act (7 of 1913). This judgment, however, is not of much help to us, for the reason of the change in law to which we shall advert later.
+But the judgment of the Supreme Court in
+Bansidhar Shankarlal v. Mohd. Ibrahim
+[1971] 41 Comp Cas 21, is one is which it is pointed out that leave under
+section 171
+of the Indian Companies Act, 1913, is not a condition precedent to the institution of a proceeding in execution of a decree against the company. In that case, however,
+section 171
+of the Indian Companies Act was considered and the observation was accordingly made. We shall presently find that this authority is confined to the interpretation of sub-section (1) of
+section 446
+of the Companies Act, 1956.
+27. The Gujarat High Court, however, in
+Rajratna Naranbhai Mills Co. Ltd. v. New Quality Bobbin Works
+[1973] 43 Comp Cas 131 considered
+sections 446(2)
+and
+457(1)
+of the Companies Act, 1956, in a case where in a creditor of the company had filed a suit against a company to recover money and got an attachment of the shares of the company under liquidation in another company. In that case, however, a petition was filed for winding up the company and a consent decree was made in the suit. In the execution of the decree, the attached shares were sold and the claimant withdrew the sale proceeds. The company under liquidation was ordered to be wound up. The official liquidator, having become aware of the proceedings leading to the decree, took a summons for declaration that the sale of 186 shares was void as the sale was held after the commencement of the winding up proceedings. The court held that the sale of the property of the company in liquidation took place after the commencement of the winding-up proceedings, and this attracted
+section 537
+of the Companies Act, 1956, which rendered the sale of the share void. Since the plaintiff had taken benefit under a void transaction, it was obligatory on him to return it and the one entitled to reclaim it was the official liquidator of the company under liquidation. Speaking particularly as to the role
+sections 457(1)
+and
+446(2)
+of the Companies Act, 1956, played in this matter, the learned judge the judgment, said (at page 141) :
+"
+Section 446
+which I have set out in extenso provides that the court which is winding up the company shall, notwithstanding anything contained in any other law for the time being in force, have jurisdiction to entertain, or dispose of any claim made by or against the company; any question of priorities or any question of priorities or any other question whatsoever whether of law or fact, which may relate to or arise in course of the winding-up of the company. Sub-section (3) confers power upon the court to withdraw any proceeding either by the company or pending against the company in any court to itself and to dispose it of according to law. Therefore, when the High Court is conducting winding-up proceedings of a company ordered to be wound up, its jurisdiction is not confined to its ordinary jurisdiction but a special jurisdiction is conferred upon it by
+section 446(2)
+. If there is a suit or a proceeding by the company or against the company pending in any court, the same can be withdrawn and disposed of by the High Court. It may be that such a suit or proceeding would not ordinarily lie in the High Court. But, the High Court acquires jurisdiction because the company is being wound up and because special jurisdiction in respect of the companies which are ordered to be wound up is conferred by sub-section (2) of
+section 446
+. The scope and ambit of the jurisdiction can be properly inferred from clauses (b) and (d) of sub-section (2) set out above by me. The High Court would have jurisdiction to entertain and dispose of any claim made by or against the company. If the present claim made by the official liquidator could be said to be a claim made by the company, it would be covered by clause (b). Assuming that the claim presently investigated by the court in this summons is not a claim by the company because if the company was not ordered to be wound up it could not have made claim as is made by the official liquidator then the case would still be covered by the residuary clause of widest import, namely, the court will have jurisdiction to entertain or dispose of any other question whatsoever whether of law or fact which may relate to or arise in the course of winding-up of the family. It is statutory duty cast upon the liquidator that on a winding-up order being made, he must collect all the assets, properties, effects and choses-in-action of the company.
+Section 456(2)
+again enacts a deeming fiction by which all those properties collected by the liquidator shall be deemed to be in custody of the court. If the liquidator fails to collect the assets of company he would be charged for negligence in the performance of duty. Therefore, while performing this duty if he comes across any sale of property of the company which would be void under any of the provisions of the
+Companies Act
+or any other law for the time being in force and which would not be binding on him as liquidator of the company, it would be equally his duty to take action to collect that asset. If this is the duty cast on the liquidator, simultaneously power was conferred upon him under
+section 457(1)
+to institute or defend any legal proceedings. If he was power to institute or defend legal proceedings and if in the performance of his duty he comes across a transaction which is void against him, the transaction becoming void because of the winding-up proceedings, it would be a question of fact arising in the course of winding up of the company and this court will have jurisdiction to decide that question. This appears to me to be the scope and ambit of jurisdiction conferred upon the High Court under
+section 446(2)
+. It is necessary to put a liberal construction on
+section 446(2)
+so as to widen the jurisdiction of the High Court in dealing with all questions arising in winding up.
+Under the Companies Act, 1956
+, jurisdiction conferred upon the High Court the alone to entertain winding-up proceeding. It is in the interest of all concerned that winding-up proceedings shall be proceeded with expeditiously and brought to an end to avoid the agonies of a large number of persons adversely affected by the fall of a company. The most important task assigned to the liquidator under the
+Companies Act
+while acting liquidator of a company ordered to be wound up is to collect the assets of the company and sell them and to distribute the realisation amongst all those who have claims against the company and payment must according to priorities fixed by law. This appears to me be not only the foremost but the most basic duty of a liquidator of a company ordered to be wound up. Now, if the liquidator in the course of winding up is required to file suits for recovering properties and assets of the company, one has only to imagine at what length of time winding-up proceedings can be brought to a close."
+28. Proceeding further, the learned judge has pointed out (at page 142) :
+"If a suit has to be filed it is implicit therein it will have to go through the gamut of an appeal, second appeal, letters patent appeal and appeal to the Supreme Court. Winding-up proceedings would drag on interminably over decades with consequent hardship to everyone. In order to avoid this situation, sub-sections (2) and (3) were incorporated in
+section 446
+by which special jurisdiction has been conferred upon the High Court to entertain certain types of proceedings or also withdraw certain types of proceedings by or against the company in liquidation pending in any court and transfer them to itself and to dispose of the same. Therefore,
+section 446(2)
+would enable the High Court to entertain an application of the nature filed by the official liquidator and to grant relief in the matter.
+Now, if the High Court could be moved by the liquidator it must be way of an application in view of the provisions contained in sub-clause (b) of the rule 11 which provides that all other applications under the Act or under the Rules shall be made by a judge's summons, returnable to the judge sitting in court or in chambers a provided in rule 12. Whenever power is conferred and a duty is cast on the liquidator to do certain things in the discharge of his duty as liquidator, in the course of winding-up proceedings, it is not necessary that specific provision should be made that an application for certain relief could be made to the court. It would be implicit in the provisions casting duty on the liquidator along with the provisions by which jurisdiction is conferred on the High Court that proceedings of a certain nature in a winding up can be taken up before the High Court and that exactly has been done in the case."
+29. The above view, we find, is more in consonance with the principles underlying the grant of special jurisdiction to the company judge and power to the liquidator to move the company judge in matters like the one which has got deal of similarity with the facts in the instant case. The only difference is that the shares of the company in liquidation in another company had already been sold in the case cited above, whereas in the instant case, it was sought to be devalued or brought down in value.
+30. A learned single judge of the Bombay High Court in
+Commercial Art Engravers P. Ltd. v. Indian and Eastern Newspapers Society
+[1978] 48 Comp Cas 36 has, however, dealt with the scope of
+section 457(3)
+, with which provision we shall deal with particularly, later, and stated as follows (at page 51) :
+"I am not imposed by the submission that power of the liquidator is an uncontrolled power. It is true that the liquidator represents the creditors in general. The liquidator has been held in several case to be a trustee or quasi-trustee for the creditors. It cannot be said that there is no conflict of interest between the liquidator and the unsecured creditors. The provisions of the
+Companies Act
+envisage a conflict of interests. With that conflict in view, provisions have been made by
+section 457(3)
+,
+460(6)
+and
+546(3)
+and other associate sections for a right in the creditors to challenge the action or proposed action by the liquidator. Further there are several provisions which provide for a right of the creditors inspection of the records (see for example the provisions of
+sections 461(2)
+and
+549
+: also rules 16, 305, 323(4), 332 and 360). I am of the view that, having regard to the conflict or possibility of conflict with regard to the actions taken or proposed to be taken by the liquidator, it cannot be denied that the creditors have a locus in respect of the exercise of the powers by the liquidator, whether those relate to the matters in which sanction of the court is a condition precedent or whether the exercise of the powers pertain to discretionary matters ...."
+31. Learned counsel for the appellants has taken us through a large number of judgments on the subject. Most of them appear to rest upon the continuity of the provisions in
+section 171
+of the 1913 Act in sub-section (1)
+section 446
+of present Act. A Bench of this court in
+Official Liquidator, Radel Services P. Ltd. v. Southern Screws P. Ltd.
+[1988] 63 Comp Cas 749 (Mad) has gone into this aspect of the law and clarified in some detail how the jurisdiction under
+section 446(2)
+is enlarged and how far this jurisdiction helps the official liquidator to initiate action with respect to the matters pertaining to one or the other clauses of sub-section (2)
+section 446
+.
+We are, however, constrained to observe that there is an apparent mistake in this judgment in undertaking the ratio of the judgment in undertaking the ratio of the judgment of the Supreme Court on
+section 45B
+of the Banking Companies Act, 1949, in
+Dhirendra Chandra Pal v. Associated Bank of Tripura Ltd.
+[1955] 25 Comp Cas 19, when this court said (at page 758) :
+"But, what is relevant for our purpose is that section 45B was wide and, therefore, the Supreme Court observed that even with regard to the recovery of property, movable or immovable, summary proceedings by way of applications could be resorted to by the liquidator. Even there, the learned judges have definitely stated that the procedure must be taken to be one left to the judgment and discretion of the court having regard to the nature of the claim and the questions therein involved."
+32. If we have to understand that the Bench pronounced that if it is a claim with respect to shares in a company, although it is property, a suit alone is the recourse, we are afraid it will be in the teeth of the judgment of the Supreme Court.
+33. Before we refer to the decision in
+Dhirendra Chandra Pal v. Associated Bank of the Tripura Ltd.
+[1955] 25 Comp Cas 19 (SC), we may refer to a judgment of the Supreme Court in Sudarsan Chits (I.)
+Ltd. v. G. Sukumaran Pillai
+, , wherein the provisions of
+section 446(2)
+of the Companies Act (1 of 1956), have been taken into consideration. The creditors of Sudarsan Chits (India) Ltd. moved three petitions under
+section 439
+of the Companies Act praying for winding up of the company on the ground that it was unable to pay its debts. The company judge passed an order winding up the company and appointed the official liquidator to be the liquidator of the company. That order was challenged in appeals before a Division Bench of the Kerala High Court. The appeals were disposed of after approving the scheme of compromise and arrangement under
+section 391
+of the Companies Act directing that the winding-up order would be held in abeyance on certain undertakings to be filed by the company before the court within the prescribed time to abide by the conditions imposed in the judgment and if there be any default in the matter of performing of the conditions so imposed, and/or the undertaking is not filed as directed therein, the winding-up order made by the learned judge would stand confirmed. There was a further direction in this behalf which was as follows (at page 635) :
+"On the first payment of Rs. 25,00,000 being made within four weeks from this date, the winding up order will be held in abeyance and thereupon official liquidator will be considered as appointed to function as the provisional liquidator subject to such restrictions on his powers and privileges as we may indicate here."
+34. In the course of the implementation of the scheme, it because necessary to recover certain debts and claims due to the company. For this purpose, a civil miscellaneous application was moved before the appellate Bench praying that the provisional liquidator be directed to the file claim petitions under
+section 446(2)
+of the Companies Act in the company court for realising the claims of the company which would further assist and for realising the claims of the company which would further assist and facilitate the implementation of the scheme of compromise and arrangement as supervised by the court. One G. Sukumaran Pillai was impleaded as the first respondent and the provisional liquidator was impleaded as the second respondent. The Appellate Bench of the court, however, held that since the company was managed under the scheme of compromise and arrangement, the company court would have no jurisdiction to entertain the claim petition under
+section 446(2)
+of the Companies Act. On appeal, the Supreme Court observed (at page 637) :
+"Before we advert to the question of construction of
+section 446(2)(b)
+, it would be advantageous to notice the historical evolution of the provision as well as its present setting.
+Section 171
+of the Indian Companies Act, 1913, the predecessor of
+section 446(1)
+did not contain any provision similar or identical to that of
+section 446(2)
+.
+Section 171
+only provided for stay of suits and proceedings pending at the commencement of the winding up proceedings, and embargo against the commencement of any suit or other legal proceedings against the company except by the leave of the court. This provision with a little modification is re-enacted in
+section 446(1)
+. There was no specific provision conferring jurisdiction on the court winding up the company analogous to the one conferred by
+section 446(2)
+. Sub-section (2) was introduced to enlarge the jurisdiction of the court winding up the company so as to facilitate the disposal of winging up proceedings. The provision so enacted probably did not meet with the requirement with the result that the Committee appointed for examining comprehensive amendment to the
+Companies Act
+in its report recommended that 'a suit by or against a company in winding up should notwithstanding any provision in law for the time being be instituted in the court in which the winding up proceedings are pending.' (see para 207 of the Company Law Committee Report). To give effect to these recommendations, sub-section (2) was suitably amended to bring it to its present form by the Companies (Amendment) Act, 1960. The Committee noticed that on a winding up order being made and the official liquidator being appointed a liquidator of the company, he has to take into his custody company property as required by
+section 456
+.
+Section 457
+confers power on him to institute or defend any suit, prosecution, or other legal proceeding, civil or criminal, in the name and on behalf of the company. Power is conferred upon him to sell the properties both movable and immovable of the company and to realise the assets of the company and this was to be done for the purpose of distributing the assets of the company amongst the claimants. Now at a stage when a winding-up order is made the company may as well have subsisting claims and to realise these claims the liquidator will have to file suits. To avoid this eventuality and to keep all incidental proceedings in winding up before the court which is winding up the company, its jurisdiction was enlarged to entertain petitions amongst others for recovering the claims of the company. In the absence of a provision like
+section 446(2)
+under the repealed
+Indian Companies Act, 1913
+, the official liquidator in order to realise and recover the claims and subsisting debts owed to the company had the unenviable fate for filling suits. These suits as is not unknown, dragged on through the trial court and courts of appeal resulting not only in multiplicity of proceedings but would hold up the progress of the winding up proceedings. To save the company which is ordered to be would up from this prolix and expensive litigation and to accelerate the disposal of winding up proceedings, Parliament devised a cheap and summary remedy by conferring jurisdiction on the court winding up the company to entertain petitions in respect of claims for and against the company. This was the object behind enacting
+section 446(2)
+and, therefore, it must receive such construction at the hands of the court as would advance the object and at any rate not thwart it."
+35. Commenting upon
+sections 446(1)
+and
+446(2)
+separately, the Supreme Court, in this judgment, pointed out (at page 639) :
+"Undoubtedly,
+section 446(1)
+manifests the legislative intention that the procedure thereunder prescribed could be availed of when the winding up order has been made or where the official liquidator is appointed as the provisional liquidator.
+Section 446(1)
+envisages two situations in which the court will have jurisdiction to make the order thereunder contemplated. These two situations are : where a winding up order has been made or where the official liquidator has been appointed as provisional liquidator. The first of the two situations envisages an order for winding up of the company having been made and which is subsisting. The second situation is where without making a winding up order, the court has appointed official liquidator to be the provisional liquidator.
+Section 450(1)
+of the Companies Act confers power on the company court to appoint the official liquidator to be provisional liquidator at any time after the presentation of the winding up petition and before making of the winding up order. The court before which a winding up petition is presented has power to appoint the official liquidator as provisional liquidator of the company even before making the winding up order. If ultimately winding up order is made, the official liquidator acts as such. And let it be remembered that where a winding up order is made, it relates back to the date when the petition for winding up was presented. Referring to
+section 446(1)
+it becomes clear that the court will have jurisdiction to make the order therein contemplated where a winding up order has been made or prior to the making up of the winding up order, the official liquidator has been appointed as provisional liquidator as contemplated by
+section 450(1)
+."
+36. Speaking on
+section 446(2)
+, the Supreme Court said (at page 639) :
+"Sub-section (2) of
+section 446
+confers jurisdiction on the court which is winding up the company to entertain and dispose of proceedings set out in clauses (a) to (d). The expression 'court which is winding up the company' will comprehend the court before which a winding up petition is pending or which has made an order for winding up of the company and further winding up proceedings are continued under its directions. Undoubtedly, looking to the language of
+section 446(1)
+and (2) and its setting in Part VII which deals with winding up proceedings, would clearly show that the jurisdiction of the court to entertain and dispose of proceedings set out in sub-clauses (a) to (d) sub-section (2) can be invoked in the court which is winding up the company."
+37. Reverting to the facts of the case, the Supreme Court said (at page 640) :
+"The approach of the High Court, with respect, overlooks the object and purpose sought to be achieved by introducing sub-section (2) in
+section 446
+by
+Amending Act
+65 of 1960. As noted earlier, winding up proceedings dragged on for decades with no end in sight and with no benefit to the creditors and contributories of the company. To accelerate the process of winding up so as to bring them to an end, this sub-section was amended in its present form in 1960 conferring jurisdiction on the court winding up the company to entertain, amongst others, any suit or proceeding by or against the company or any claim made by or against the company. If, therefore, a winding up petition is pending, meaning thereby that an official liquidator is appointed as provisional liquidator which is a stage in the process of winding up, the court before which such proceeding is pending can be styled as a court winding up the company and ipso facto it would have jurisdiction to entertain the proceedings enumerated in clauses (a) to (d) of sub-section (2) of
+section 446
+. The apprehension of the High Court that if such jurisdiction is conferred on the court at a stage anterior to the winding up order being made but subsequent to the appointment of the official liquidator as provisional liquidator an anomalous situation would arise has left us unimpressed. If the winding up petition fails the proceedings pending in the court may have to be transferred to the court which can entertain the proceeding. But if the petition praying for winding up the company ends in a winding up order the proceedings initiated under sub-section (2) will have to be proceeded with till they are finally disposed of because the winding up order will relate back to the date of presentation of the winding up petition. In this view of the matter, no anomalous situation can ever arise."
+38. The other question decided by the court was whether on the facts of that case, when the Appellate Bench froze the winding-up order by keeping the matter in abeyance, the winding-up proceedings were pending ? The court answered the said question saying that it was a case in which it should be construed that the winding up proceeding was pending, and, accordingly, stated that the High Court was in error in rejecting the application made on behalf of the appellant company for directing the provisional liquidator to prefer claim petitions on the materials and expenses to be furnished by the company.
+39. Having thus seen the law
+laid down by
+the Supreme Court, if we refer to the earlier judgment of the Supreme Court in
+Great Indian Motor Works Ltd. v. Their Employees
+, , we find that the case proceeded on a different footing altogether. That was a case of a company under liquidation ordered to be wound up and its assets were in the hands of the official liquidators. The court ordered for sale of the company's business free from all encumbrances, outgoings and liabilities, to the highest bidder, subject to confirmation by the court. The second appellant before the Supreme Court bid for the purchase of the business with the leave of the court, and he was declared the highest bidder and purchaser of the business. The sale was confirmed by the Calcutta High Court. The official liquidator issued a notice terminating the services of all the employees of the company, except one assistant and one clerk, whose services were retained until the winding up proceedings were completed. The official liquidators put appellant No. 2, the auction purchaser, in possession of the business of the company. As a result of the termination of the services of the employees, an industrial dispute was raised. The employees of the company had moved the High Court for directions to the liquidators for the payment of their dues from the company. The court directed the liquidators to pay within a week the arrears of salary of all the workmen and other benefits. Before, however, any payment was made to the employees and the objection of the second appellant before the Supreme Court was decided by the High Court, the Tribunal decided the industrial dispute and directed the company to pay compensation, within two months from the date the award became enforceable to such of the workmen as had been found entitled to the same. The Supreme Court noted that the proceedings before the Industrial Tribunal had commenced without the necessary sanction of the High Court in the liquidation proceedings but, during the pendency of the proceedings, the High Court granted leave to the workmen to proceed with and continue the proceedings against the official liquidators of the company. The Industrial Tribunal had also said that the compensation awarded to the workmen would be recoverable only out of the assets in their hands according to law. So far as the auction-purchaser was concerned, the award had proceeded to make further directions in these terms (at page 1189) :
+"The auction-purchaser, it has already been noted, purchased the different sections of the business with the name 'The Great Indian Motor Works' free from encumbrances and all outgoings and liabilities (vide exhibits D and E), and the said purchase was confirmed on July 5, 1954. After the sale was confirmed and before possession was taken by the auction-purchaser, the liquidators terminated the employment of all the employees (save and except the accountant and one clerk) by a notice dated July 23, 1954, with effect from July 24, 1954. After such termination of employment, the auction-purchaser obtained possession on July 24, 1954. At that time no relationship of employer and employees subsisted. In the circumstances the dispute with the auction-purchaser cannot be considered to be an 'industrial dispute' as no relationship of employer and employees existed between the auction-purchaser, and the old staff who had been discharged earlier. Hence, I agree with the learned advocate of the auction-purchaser that the reference so far as the auction-purchaser is concerned is incompetent. Apart from that, when the auction purchaser purchased the business free from encumbrances and all outgoings and liabilities and when there is nothing to show that the auction-purchaser undertook at any time to maintain the old staff in his service, it cannot be said that his refusal to continue the employment of 142 employees was unjustified. Only when one purchases with all assets and liabilities as a going concern, he is bound to continue to old employees in service and not otherwise.
+I award accordingly."
+40. Against the award which, in terms, was made only against the liquidators and not against the auction-purchaser aforesaid, only one of the two liquidators made an application for necessary directions regarding preferring an appeal. The other liquidator opposed the said application for leave to appeal. The High Court thereupon made an order on April 30, 1956, refusing leave to the liquidators to prefer an appeal from the said award. The company under liquidation represented by its managing director and others, in the capacity as creditor and/or contributory, preferred an appeal before the Labour Appellate Tribunal of India. The Appellate Tribunal disposed of the appeal holding that the appeal was incompetent in view of the provisions of
+section 179
+of the Indian Companies Act, 1913, re-enacted as
+section 457
+of the Companies Act, 1956. The Supreme Court, upon these facts, examined the relevant provisions of law in
+section 457
+, and stated the law as follows (at page 1190) :
+"Under the provisions of the
+Indian Companies Act
+, the affairs of the company under liquidation, are placed in the charge of the official liquidator, and under
+section 457
+, it is only the liquidator who is authorized with the sanction of the court, to institute any suit or other legal proceedings in the name and on behalf of the company. Thus, there is no inconsistency between the aforesaid provisions of the
+Act and the Companies Act
+, which only laid down a condition precedent to the filling of an appeal, if it has to be, by a liquidator of a company in the process of winding up. It concerns a very special case and has no bearing on the general right of appeal. As, in the instant case, the court refused the necessary sanction to the liquidators to prefer the appeal, no appeal could have been filed on behalf of the company. Hence, in so far as the appeal purported to be on behalf of the company, through the managing director aforesaid, it was wholly incompetent. But the appeal was not only by the company as such, but also by the said K. D. Nundy as the creditor or contributory or auction-purchaser of the company. So far as this part of the appeal is concerned, it is clear that only a party to the reference aggrieved by the award could be a party to the appeal. K. D. Nundy was not a party in his capacity as creditor or as contributory. He was impleaded, as already indicated, as a party to the reference in his capacity as the auction-purchaser of the business of the company. So far as that capacity is concerned, it is clear from the order of the Tribunal that no award was made against him as such. He could not, therefore, be said to be a party aggrieved by the award, having been exonerated from its terms."
+41. The distinction is obvious. It was a case wherein the award was passed against the liquidators. K. D. Nundy, as a creditor or contributory, was not subjected to the award. He, as auction-purchaser, was free from all liabilities including the liability created on the basis of the award. It was in that context that the Supreme Court found the appeal at his instance not maintainable. The law on this subject seems to have been settled by the Supreme Court in Sudarsan Chits (I.)
+Ltd. v. G. Sukumaran Pillai
+[1985] 58 Comp Cas 633 and the jurisdiction and the locus standi of the liquidator and in case of the liquidator not acting or refusing to act, the locus standi of the creditors or the contributories has been clearly recognised by the Supreme Court.
+42. It is relevant to notice a similarity in the language in
+section 45B
+of the Banking Companies Act, 1949, which is more or less retained in the same section in the
+Banking Regulation Act
+, and some of the clauses of sub-section (2) of
+section 446
+of the Companies Act.
+Section 45B
+of the Banking Companies Act gives to the High Court jurisdiction to entertain and decide any claim made by or against the banking company which is being wound up or any question of properties and all other questions whatsoever, whether of law or fact, which may relate to or arise in the course of the winding up of the banking company. Speaking about the scope of section 45B, the Supreme Court in
+Dhirendra Chandra Pal v. Associated Bank of Tripura Ltd.
+[1955] 25 Comp Cas 19, observed (at page 21) :
+"It has not been disputed before us that the relief by way of ejectment of the appellant from the land demised is one which would fall within the scope of
+section 45B
+of the Banking Companies Act and that the liquidator could obtain the said relief by an appropriate proceeding in the High Court. Indeed, the learned appellate judges specifically held that the court had by virtue of section 45B, jurisdiction over the subject-matter of the dispute an this view has not been challenged having regard to the wide and comprehensive language of the section."
+43. The Supreme Court approved the view of the Calcutta High Court on the facts that after the bank went into liquidation, the liquidator served on the appellant a notice terminating his tenancy and calling upon him to vacate the land and to hand over possession. This not having been done, the liquidator filed an application on the original side of the High Court under
+section 45B
+of the Banking Companies Act for ejectment of the appellant and obtained an ex parte decree against him. When the appellant applied for setting aside the ex parte decree, his application was dismissed. He, thereafter, filed a suit in the original side of the High Court, asking for a declaration that the ex parte decree against him was made without jurisdiction and was a nullity, and that he continued to be a tenant notwithstanding the said ex parte decree. In this judgment, the Supreme Court also said (at page 23) :
+"It is to be remembered that section 45B is not confined to claims for recovery of money or recovery of property, movable or immovable, but comprehends all sorts of claims which relate to or arise in the course of winding up. Obviously, the normal proceeding that the section contemplated must be taken to be a summary proceeding by way of application."
+44. Having thus noticed the law, we may state how we understand the role that
+section 446
+of the Companies Act plays in a case where a winding-up order is already made or pending proceedings to wind up the company the official liquidator is appointed provisional liquidator.
+Section 446(1)
+is a bar a to any suit or other legal proceedings. It does not permit any suit or other legal proceedings to commence, or if pending on the date of the winding up order, to be proceeded with against the company except by leave of the court and subject to such terms as the court may impose. It thus makes it obligatory upon any person suing the company under liquidation or the official liquidator in a suit or any other legal proceeding to seek the leave of the court. The court for the purpose of this section is obviously the court which has ordered the winding-up or in which court the winding up proceeding is pending, and pending proceedings the official liquidator has been appointed as the provisional liquidator. Sub-section (2) of
+section 446
+confers or creates a special jurisdiction in the court which is winding-up the company. This jurisdiction the court winding up the company gets notwithstanding anything contained in any other law for the time being in force in respect of the matters enumerated in clauses (a), (b), (c), and (d). Clause (a) says that the court which is winding up the company shall have jurisdiction to entertain or dispose of any suit or proceeding by or against the company.
+There is thus an improvement upon what is found in sub-section (1) of
+section 446
+in the words "by .... company", which are not to be found in sub-section (1) of
+section 446
+. A closer examination leads to the inference that sub-section (1) provides for such exceptions which the court winding up the company could make in granting leave to any person to institute a suit or other legal proceeding against the company. Once the leave of the court, i.e., the court which is winding up the company, is available, the suit or other legal proceeding could be commenced or continued in the court where such suit or legal proceeding would lie. We have already referred to the judgment of the Supreme Court in
+Great Indian Motor Works Ltd. v. Their Employees
+, . That is a case illustrative of this view. The Tribunal proceeded to decide the dispute because the court had granted leave. The decision of the Tribunal was sought to be challenged by the auction-purchaser who was also a contributory of the company, but no award had been passed against him. The Supreme Court held that the appeal at his instance was not maintainable. Clause (a) of sub-section (2) of this section makes, however, the court which is winding up the company, competent to entertain any suit of proceeding by or against the company. Clause (b) says, "any claim made by or against the company." This clause extends the jurisdiction of the court which is winding up the company to "claims" of any kind made by or against the company and includes in it claims made by or against any of the branches of such company in India. The word "claim" in this clause must receive a wider meaning and must not be confined to matters for which a proceeding by or against the company or a suit by or against a company is ordinarily permissible. If a restricted meaning to the word "claim" is given and it is sought to be read to be confined to such claims only for which suit or proceedings can ordinarily be instituted, clause (b) may not serve its purpose. Clause (c), with which we are not concerned, relates to applications under
+section 391
+of the Companies Act by or in respect of the company. Clause (d) is a further illustration or enlargement of the jurisdiction, as what may not be found in clauses (a) and (b) may still be found in clause (d), for the words in this clause are "any question of priorities or any other question whatsoever, whether of law or fact, which may relate to or arise in the course of the winding-up of the company." This special jurisdiction of the court which ordered winding-up or in which the winding up proceeding is pending and the official liquidator is appointed as provisional liquidator, is wide and comprehensive, and it is designed to facilitate the protection and realisation of the assets of the company under liquidation with a view to ensure an equitable distribution thereof among those entitled and to prevent the administration from being embarrassed by a general scramble among creditors and others. If a suit or proceeding by or against the company or a claim made by or against the company or any question of priorities or any other question whatsoever, whether of law or fact, which may relate to or arise in course of the winding-up of the company, shall lie in the court which is winding up the company, it is obvious that any person who has got a right to represent the company or who has a claim against the company can apply to the court which is winding up the company, and the court may entertain thus any dispute with respect to the property or assets of the company and dispose of the proceeding in accordance with law. It is not necessary for us in the instant case to indicate the broad distinctions with respect to suits or proceedings in any other court and suits or proceedings in the court which is winding up the company. Nor are we required to decide whether there would be any difference between a matter which should be brought as a suit and a matter which should be brought by way of any other proceeding, for a procedure in this behalf shall always be in the hands of the court which is winding up the company. The provisions in sub-section (2) of
+section 446
+put a stop to the proceedings by way of suit, execution or other process and remove all fetters of procedures in legal proceedings since they intend to provide a forum which on the one hand ensures that the properties and assets of the company under liquidation are fully protected, and, on the other hand, all suits and proceedings are expeditiously disposed of. When we advert to the facts of the case in hand, to seek whether the matter in respect of which the two applications were filed before the learned company judge, is covered by sub-section (2) of
+section 446
+or not, we notice one glaring fact, and that is, the learned company judge has found that Ramakrishna Industrials Ltd., the company under liquidation, has got 2376 shares in V. R. Textiles. No one can say that its shares are not a property belonging to the company which is sought to be wound up and in which a provisional liquidator has been appointed. As provided under
+section 456
+, these shares are in the custody or under the control of the official liquidator (provisional liquidator). The official liquidator has got power to institute or defend any suit, prosecution, or other legal proceedings, civil or criminal, in the name and on behalf of the company, and to do all such other things as may be necessary for winding up the affairs of the company and distributing its assets. In exercise of the power under
+section 457(1)
+, it is conceded, and it seems there is no other view possible, that the liquidator can move the court where the winding up proceeding has been pending for necessary orders to avoid any loss of property of the company, Ramakrishna Industrials. It seems 2,376 shares of Ramakrishna Industrials in V. R. Textiles are neither decreased nor increased. But by allotting 7,000 shares without any offer to Ramakrishna Industrials and without any notice or such offer to the official liquidator, V. Radhakrishnan's group has managed to add the entire 7,000 shares to their 925 shares. The value of the paid-up capital of Ramakrishna Industrials, which stood at the level of 30.89% has been reduced to 16.17%, while that of V. Radhakrishnan's group has been increased to 53.91%. This situation created on account of allotment of 7,000 shares at the alleged meeting dated September 21, 1991, has not been disputed. It was in this situation that the petitioners-respondents who are contributories and Ramakrishna Industrials and who independently have their shareholdings in V. R. Textiles, approached the official liquidator and requested him to exercise his powers under
+section 457
+. The official liquidator did not decline, but wanted to verify the records and accordingly to postpone the exercise of the power under
+section 457
+until he verified the records. The petitioners-respondents thus found that the liquidator had power to act under
+section 457
+, but would not exercise his power until he himself verified the records, and hence they moved the court and questioned, inter alia, the validity of the meeting of the board of V. R. Textiles dated September 21, 1991, and also the validity of the allotment of 7,000 equity shares to the minority shareholders of V. Radhakrishnan's group, which allotment, according to them, adversely affected the assets of Ramakrishna Industrials. They had many facts to show that the meeting dated September 21, 1991, had not been convened in accordance with law, that 7,000 equity shares allotted to the members of V. Radhakrishnan's group were not offered to other shareholders including the official liquidator who represented the shares of Ramakrishna Industrials, and that the proceedings of the meeting of the board of directors V. R. Textiles were manipulated, and not conducted in accordance with law.
+We need not deal with such contentions of the parties and findings of the learned company judge which are not challenged before us. We, however, may recapitulate that both Ramakrishna In
+dustrials (company under liquidation) and V. R. Textiles are private companies which became deemed public companies under
+section 43A(1A)
+of the Companies Act. This fact is not in dispute.
+45. There was a contention before the learned trial judge whether
+section 81
+would be applicable to a deemed public company. Relying upon a judgment of the Supreme Court in the case of
+Needle Industries (India) Ltd. v. Needle Industries Newey (India) Holding Ltd.
+[1981] 51 Comp Cas 743, the learned company judge has said :
+"Their Lordships of the Supreme Court, after referring to the rival contentions of counsel appearing for the parties
+in that case
+, had concluded that while
+section 81(1)(a)
+and (1)(b) would be applicable to deemed public companies ..... In the instant case, admittedly we are not concerned with the applicability of either
+section 81(1)(c)
+or 81(1A), but we are concerned only with the applicability of
+section 81(1)(a)
+and (b). It is clear from the report of the provisional liquidator that no offer, as contemplated in
+sections 81(1)(a)
+was made to him. In fact, this is not disputed. But it was contended that such an offer was only an empty formality, since in any case the provisional liquidator would have no funds to exercise the option. This is an argument of desperation intended only to cover a patent illegality committed by the contesting respondents.
+The Act
+clearly contemplates that when it is proposed to increase the subscribed capital of the company by allotment of further shares, then such shares shall be offered to the persons, who on the date of the offer are holders of equity shares of the company, in proportion as early as circumstances admit to the capital paid-up on these shares and such offer shall be made by notice specifying the number of shares offered and limiting the time not being less than 15 days from the date of offer, within which the offer, if not accepted, will be deemed to have been declined.
+Learned senior counsel for the petitioners submit that the sequence of events should be,
+(a) first a meeting of the board of directors of V. R. Textiles, wherein a decision should be taken regarding the issue of further capital; and
+(b) on such decision being taken, offer being made to the existing shareholders as contemplated in section 81(1)(a) of the Act; and
+(c) such offer being in terms of
+section 81(1)(b)
+."
+46. After referring to the judgment of the Calcutta High Court in
+Jadabpore Tea Co. Ltd. v. Bengal Dooars National Tea Co. Ltd.
+[1984] 55 Comp Cas 160, in which the above sequence has been indicated, the learned company judge has said :
+"
+The said decision
+applied to the facts of this case in all force. The contesting respondents by the illegal action is trying to have control over management of the company. It is only thereafter the actual allotment of shares with respect to the further issue of capital should be made. In this case, the decision is said to have been taken on September 21, 1991, itself. It is not necessary to dilate further to demonstrate the patent illegality in respect of the allotment of the shares on the further issue of capital and on that sole ground alone the proceedings of the meeting said to have taken place on September 21, 1991, should be nullified."
+47. We may record there that except reiterating that any offer of the shares to the official liquidator would have been an empty formality, nothing has been shown even remotely to suggest that there was any semblance of compliance with the requirements of the Act and the Rules framed thereunder is holding the meeting of V. R. Textiles Limited on September 21, 1991. The liquidator contended before the learned company judge, and has contended before us that the assets of Ramakrishna Industrials in his hands were/are profit making, and he has been in a position to contribute and to make available money to V. R. Textiles, so that the paid-up capital value of the shares of Ramakrishna Industrials Private Limited was/is not diminished. The learned company judge has called the argument that an offer to the official liquidator would have been an empty formality as an argument of desperation intended only to cover a patent illegality. Since illegality is admitted, and the property of Ramakrishna Industrials Private Limited has been adversely affected by an illegal act, it is indeed an argument of desperation. No one could assume that notice to a shareholder would be an empty formality. The liquidator alone knew about the properties and assets of Ramakrishna Industrials. He is empowered under
+section 457(1)(d)
+to raise on the security of the assets of the company any money requisite. He would have taken recourse to this power and sought sanction of the court for purchasing further shares offered to Ramakrishna Industrials Private Limited. The directors, who held a meeting, could not decide what the liquidator had to decide to exercise his power, and the court had to consider, while deciding, whether to sanction raising of any money on the security of the assets of the company for the purpose of protecting the interests of Ramakrishna Industrials in V. R. Textiles.
+48. The argument which has been emphasised before us is with respect to the maintainability of the petitions at the instance of the creditors or contributories. All that is said in this regard has to be understood with respect to sub-section (3) of
+section 457
+of the Act. A comparable provision is found in sub-section (6) of
+section 460
+, which provides inter alia that any person aggrieved by any act or decision of the liquidator may apply to the court, and the court may confirm, reverse or modify the act or decision complained of, and make such further order as it thinks just in the circumstances, with respect to the acts of the liquidator in the administration of the assets of the company and the distribution thereof among its creditors.
+Section 460
+puts control upon the liquidator's power and gives to the creditors or contributories authority to give directions by resolution at any general meeting or by the committee of inspection, to the liquidator in the administration of the assets of the company and the distribution thereof among its creditors. The liquidator under this provision has been given power to summon general meetings of the creditors or contributories for the purpose of ascertaining their wishes, and to summon such meetings at such times as the creditors or contributories as the case may be, may, by resolution, direct, or whenever requested in writing to do so by not less than one-tenth in value of the creditors or contributories, as the case may be, and to apply to the court in the manner prescribed, if any, for directions in relation to any particular matter arising in the winding-up. Besides the above, the liquidator has been given discretion in the administration of the assets of the company and in the distribution thereof among the creditors. Under sub-section (6) of
+section 460
+, any person aggrieved by any act or decision of the liquidator may apply to the court, and the court may confirm, reverse or modify the act or decision complained of an make such further order as it thinks just in the circumstances. Any person aggrieved thus must be one who has a grievance against any act or decision of the liquidator in the administration of the assets of the company and the distribution thereof among its creditors. Sub-section (3) of
+section 457
+, however, is worded differently. It reads :
+"The exercise by the liquidator in a winding-up by the court of the powers conferred by this section shall be subject to the control of the court; and any creditor or contributory may apply to the court with respect to the exercise or proposed exercise of any of the powers conferred by this section."
+49. We have already noticed that the Supreme Court has fond that on a petition by a contributory in the court in which a winding-up proceeding has been pending, a direction to the liquidator to exercise his power under
+section 457(1)
+of the Act could be given. The first part of sub-section (3) of
+section 457
+, "The exercise by the liquidator in a winding-up by the court of the powers conferred by this section shall be subject to the control of the court," is more or less a reaffirmation of the rule that the assets of a company in liquidation, although in the hands of the liquidator, are in effect under the control of the court, and read together with the requirement of sanction to institute or defend any suit, prosecution or other legal proceeding as provided under
+section 457(1)
+, it is clear that the liquidator shall always act with the approval of the court, and do anything and everything, and do nothing, without informing the court and without the knowledge of the court. The second part of sub-section (3) of
+section 457
+, "any creditor or contributory may apply to the court with respect to the exercise or proposed exercise of any of the powers conferred by this section" is a provision that alone enables any creditor or contributory to apply to the court with respect to the powers that are conferred upon the liquidator under
+section 457(1)
+and (2), under sub-section (1) to exercise the powers conferred therein with the sanction of the court, and under sub-section (2) without the consent of the court, but in view of the first part of sub-section (3) of
+section 457
+, subject to the control of the court. If this provision is read only as enabling a creditor or contributory to complain to the court with respect to the exercise or proposed exercise of any of the powers conferred by sub-section (1) and sub-section (2), and to seek the court's direction to the liquidator to exercise his power in the interests of the company under liquidation, we shall have to import in this part of sub-section (3) words indicating that any creditor or contributory may apply to the court with respect to the exercise or proposed exercise of any of the powers conferred by this section to direct the liquidator to exercise a certain power or to refrain when he intended to exercise such a power. Any such interpretation which, instead of promoting the object, defeats the purpose, should be avoided. The creditor's or contributory's locus in the business of the company is well recognised. They are, however, kept away from the affairs of the company because a liquidator has been appointed. The liquidator has got a clear duty to preserve and protect the properties and assets of the company for the benefit of the creditors of various categories and contributories. In this behalf, a duty has been created under
+section 460
+of the Act. The liquidator has been put in the administration of the assets of the company and the distribution thereof under substantial control of the creditor and contributories (see
+section 460
+). If there is a likelihood of any adverse effect upon the properties and assets of the company, for the reason of exercise or proposed exercise of any of the powers of the liquidator, or for the reason of his not exercising or partial exercise of power, the creditor or contributory may be a person aggrieved, as this will be a matter relating to the administration of the assets of the company. However,
+section 457(1)
+has got another limitation. The liquidator can act only with the sanction of the court to institute or defend any suit, prosecution or other legal proceedings, civil or criminal, in the name and on behalf of the company. Even if the action that the liquidator is required to take would be in the court which is required to give sanction, the liquidator cannot without such sanction institute or defend any suit, prosecution or other legal proceeding, civil or criminal, in the name and on behalf of the company. He thus cannot, without the sanction of the court, even though it may be necessary, for the administration of the assets of the company, to institute or defend any suit, prosecution or other legal proceeding, civil or criminal, be compelled by the creditors or contributories to act. A creditor or contributory, none the less, may apply to the court and seek sanction. The court, on an application by a creditor or contributory, may exercise power and direct the liquidator to institute or defend any suit, prosecution or other legal proceeding, civil or criminal, be that a proceeding under the provisions of the
+Companies Act
+or any other law, or instead entertain the creditor's or contributory's petition and summon all concerned including third parties, who by their acts are causing legal injury to the property or assets of the company under liquidation. We thus do not find in the words of sub-section (3) of
+section 457
+any inhibition on the jurisdiction of the court to entertain any application of a creditor or contributory, if that application is with respect to the exercise or proposed exercise of any of the powers by the liquidator under
+section 457(1)
+or (2) of the Act.
+50. The word "exercise" may also mean non-exercise of power. "Proposed exercise" in the same way may mean proposal not to exercise. How the court shall in such a situation find on facts and decide to make suitable orders to ensure that no damage is caused to the interests of the company under liquidation by somebody's illegal acts, must be left to the discretion of the court.
+51. In the instant case, however, it is on record that the liquidator readily offered that in case there is any technical difficulty to proceed with the applications at the instance of the petitioners-respondents, he should be transposed as petitioner. All that is required, as has been found by us, is the sanction of the court and the exercise of power by the liquidator. The liquidator expressed his willingness to exercise the power. The court accorded sanction. The proceeding thus became competent and valid.
+52. The learned company judge has taken pains to consider the case in all its aspects. Yet, it is argued on behalf of the appellants that he has not appreciated that any variation in the capital value of the shares of Ramakrishna Industrials alone concerned the liquidator. His powers do not extend to interfere with the affairs of a company under liquidation as he is just a shareholder like any other shareholder. In other words, it has been argued that the proceeding before the learned company judge could not extend to deciding the validity or otherwise of the meeting dated September 21, 1991. All that the learned company judge could decide was the effect of the allotment of 7,000 shares upon the assets of Ramakrishna Industrials. We, however, do not find any way to confine the proceedings to the assets of Ramakrishna Industrials Private Limited in the shape of 2,376 shares in V. R. Textiles and the validity of the meeting dated September 21, 1991, otherwise. It is the invalidity of the meeting dated September 21, 1991, and the procedure adopted to hold the said meeting and decision taken at that meeting to allot the shares without following the procedure prescribed by a law and thus adversely affecting the interests of Ramakrishna Industrials, which is the subject matter of the action in court. The interests of Ramakrishna Industrials Private Limited thus cannot be protected without nullifying the meeting dated September 21, 1991.
+53. It will be a reiteration of the law that has been stated by the Supreme Court as noticed by us earlier and a repetition because, as we have said earlier, even a third party action can be impugned on behalf of the company under liquidation or in respect of the interests of the company under liquidation as also with respect to any question of priorities or any other question whatsoever, whether of law or fact, which may relate or arise in the course of the winding-up of the company. It cannot be argued that the question as to the adverse effect upon the shares of Ramakrishna Industrials Private Limited in V. R. Textiles is not a matter arising in the course of the winding up of Ramakrishna Industrials Private Limited. Such a question can be brought to the court, and the court which is winding up the company shall have jurisdiction to decide all that is connected with the interests of the company under liquidation.
+54. One argument, however, which does not appear to be of any serious consequence, we may dispose of before we part with this judgment. Objection has been taken to the direction issued by the learned company judge wherein he has said after holding that allotment of 7000 equity shares to respondents Nos. 5, 6 and 8 to 11 is null and void, "Consequent amendment of register of members is also void, register is rectified accordingly", on the ground that under the amendments carried out by the
+Amendment Act, 1988
+, power to amend the register to rectify the register has been vested in the Company Law Board. In the instant case, however, we do not if any merit in this submission. We also do not see any conflict of jurisdiction. We say so for the reason that once it is found that allotment of 7000 equity shares to respondents Nos. 5, 6 and 8 to 11 is null and void, it has to follow as a matter of course that the shareholding stood as on September 21, 1991, before the alleged meeting of the board held on the said date. Unless such consequential command is issued, the declaration that the allotment of 7000 equity shares to respondents Nos. 5, 6 and 8 to 11 is null and void will be meaningless.
+55. For the reasons aforementioned, we do not find any merit in the appeal. The appeal is accordingly dismissed. There will be no order as to costs.

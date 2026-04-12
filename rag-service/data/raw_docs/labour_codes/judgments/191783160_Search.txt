@@ -1,0 +1,1060 @@
+Title: Search
+Court: High Court
+Date: 32 of
+                         2019
+Citation: SCC (India) Ltd.
+Source: https://indiankanoon.org/doc/191783160/
+
+[Cites
+18
+, Cited by
+3
+]
+Delhi High Court
+M/S T.K. Engineering Consortium Pvt. ... vs The Director (Projects) Rites Ltd. & ... on 8 March, 2021
+Author:
+Vibhu Bakhru
+Bench:
+Vibhu Bakhru
+IN THE HIGH COURT OF DELHI AT NEW DELHI
+
+                         %                                   Judgment delivered on: 08.03.2021
+
+                         +      ARB.P. 553/2020
+
+                         M/S T.K. ENGINEERING CONSORTIUM PVT.
+                         LTD.                                                    ..... Petitioner
+
+                                                   Versus
+
+                         THE DIRECTOR (PROJECTS) RITES LTD.
+                         & ANR.                                               ..... Respondents
+
+                         Advocates who appeared in this case:
+                         For the Petitioner              : Mr Rituraj Biswas, Ms Sujaya
+                                                         : Bardhan, Mr Rituraj Choudhary and
+                                                         : Mr Mayan Prasad, Advocates.
+                         For the Respondents             : Mr G. S. Chaturvedi and
+                                                         : Mr Shrinkar Chaturvedi, Advocates
+                                                         : for RITES Ltd.
+                                                         : Mr Ripu Daman Bhardwaj, CGSC
+                                                         : for R-3.
+
+                         CORAM
+                         HON'BLE MR JUSTICE VIBHU BAKHRU
+
+                                                     JUDGMENT
+VIBHU BAKHRU, J
+1.     The petitioner, T.K. Engineering Consortium Pvt. Ltd. (hereafter
+                         'TKE'), is a company incorporated under the
+Companies Act, 1956
+and
+                         is engaged in providing Road Construction and other Engineering
+                         services.
+Signature Not Verified
+Digitally Signed         ARB.P. 553/2020                                             Page 1 of 29
+By:DUSHYANT
+RAWAL
+2.     TKE has filed the present petition under
+Section 11
+of the
+                         Arbitration and Conciliation Act, 1996 (hereafter the 'A&C Act'), inter
+                         alia, praying that an arbitral tribunal be constituted to adjudicate
+                         disputes that have arisen between the parties in relation to the Contract
+                         Agreement dated 27.02.2017 for "Development of Integrated Check
+                         Post at Dawki (Meghalaya) along Indo-Bangladesh Border".
+3.     RITES Ltd. (hereafter 'RITES') had issued a Notice Inviting
+                         Tender (NIT) on 01.08.2016 for "Development of Integrated Check Post
+                         at Dawki (Meghalaya) along Indo-Bangladesh Border". TKE submitted
+                         its bid pursuant to the aforesaid tender. The same was accepted and,
+                         RITES issued a Letter of Award (LoA) dated 30.09.2016, on behalf of
+                         respondent no.3 (Land Ports Authority of India), awarding the contract
+                         to TKE. Thereafter, RITES also entered into the Contract Agreement
+                         dated 27.02.2017 (hereafter 'the Agreement').
+4.     TKE claims that the site in question was handed over on
+                         18.11.2016. It immediately mobilized resources (men and machinery)
+                         and commenced excavation work. TKE claims that the execution of the
+                         works was hampered by RITES and/or for reasons attributable to it,
+                         resulting in TKE suffering losses to the extent of ₹2,37,23,39,473/-. It
+                         also claims that the work was stopped by the Border Guards of
+                         Bangladesh (BGB) as it objected to any activity within forty metres of
+                         the International Border. In addition, the forest department also objected
+                         to setting up of the camp sites. There were also substantial delays on the
+Signature Not Verified
+Digitally Signed         ARB.P. 553/2020                                               Page 2 of 29
+By:DUSHYANT
+RAWAL
+part of RITES as it did not provide the necessary drawings and fronts
+                         within the stipulated time for carrying out the work.
+5.     On 07.01.2019, RITES issued a notice under Clause 3(ii) of the
+                         General Clauses of the Contract (GCC) of the Agreement, calling upon
+                         TKE to expedite the work failing which it would terminate the
+                         Agreement. TKE responded to the said notice by its letter dated
+                         09.01.2019 pointing out the reasons for the delay in execution of the
+                         works.
+6.     Notwithstanding the above, RITES terminated the Agreement by
+                         a letter dated 17.01.2019. TKE challenged the termination letter dated
+                         17.01.2019 before the High Court of Meghalaya by filing a petition
+                         under
+Article 226
+of the Constitution of India, being W.P. (C) 10/2019:
+M/s T.K. Engineering Consortium Pvt. Ltd. v. The Union of India & Six
+                         Others. The said petition was dismissed by an order dated 09.09.2019.
+                         Aggrieved by the same, TKE filed a Special Leave Petition - SLP
+                         (Civil) No. 26816 of 2019 - in the Supreme Court of India. The Supreme
+                         Court, disposed of the said Special Leave Petition, by an order dated
+                         22.11.2019 observing that "it would be appropriate for the petitioner to
+                         avail of the alternative remedy by filing arbitration petition or civil suit,
+                         as it may be advised". The Supreme Court also made it clear that the
+                         observations made by the High Court, while disposing of the Writ
+                         Petition, would not be taken into consideration by the arbitrator or the
+                         Civil Court, wherever the claims are filed.
+Signature Not Verified
+Digitally Signed         ARB.P. 553/2020                                                  Page 3 of 29
+By:DUSHYANT
+RAWAL
+7.     On 07.12.2019, TKE requested the Engineer-In-Charge (EIC) to
+                         review the decision of terminating the Agreement and permit it to finish
+                         the work or in the alternative, compensate TKE for the damages incurred
+                         by it. The EIC rejected the said application by a letter dated 31.12.2019.
+8.     TKE sent a letter dated 08.01.2020, in terms of Clause 25(1) of
+                         the Agreement, appealing against the decision of the EIC. However, the
+                         Appellate Authority (that is, the Executive Director (B&A), RITES
+                         Ltd.) did not render a decision within a period of thirty days as
+                         contemplated under the Agreement.
+9.     Thereafter, by a notice dated 06.03.2020, TKE invoked the
+                         arbitration clause under the Agreement. It suggested names of three
+                         persons and, requested the Director (Projects), RITES to concur on the
+                         appointment of any one of them as an arbitrator. TKE claims that the
+                         same was necessary since RITES could not appoint an arbitrator, in view
+                         of the decision of the Supreme Court in
+Perkins Eastman Architects
+                         DPC & Anr. v. HSCC (India) Ltd.
+: Arbitration Application no. 32 of
+                         2019, decided on 26.11.2019.
+Submissions
+10.    Mr Chaturvedi, learned counsel appearing for RITES opposed
+                         the present petition on, essentially, three fronts. First, he submitted that
+                         there was no notice invoking arbitration and the notice dated
+Signature Not Verified
+Digitally Signed         ARB.P. 553/2020                                                 Page 4 of 29
+By:DUSHYANT
+RAWAL
+06.03.2020, merely challenged the right of the Appointing Authority to
+                         appoint the arbitrator.
+11.    Second, he submitted that in terms of the arbitration clause, no
+                         person other than the one appointed by the Appointing Authority could
+                         act as an arbitrator. Since it is TKE's stand that the Appointing
+                         Authority could not appoint an arbitrator, the parties could not be
+                         referred to arbitration. He relied upon the decision of the Supreme Court
+                         in Newton Engineering and Chemicals Limited vs. Indian Oil
+                         Corporation: (2013) 4 SCC 44, in support of his contention.
+He further
+                         contended that the said decision was approved by the Supreme Court in
+TRF Ltd. vs Energo Engineering Projects Ltd.
+: (2017) 8 SCC 377.
+12.    Third, he submitted that TKE had concealed that it had
+                         approached the Meghalaya High Court and had elected to agitate the
+                         dispute before a Civil Court. Further, the High Court had also rejected
+                         TKE's claim on merit.
+13.    Mr Biswas, learned counsel appearing for TKE countered the
+                         aforesaid contentions. He relied upon the decision of this court in
+B.E.
+                         Billimoria & Co. Ltd v Rites Ltd. and Ors.
+: Arb. P. 716/2016, decided
+                         on 31.01.2017 and submitted that the issues raised by RITES are
+                         covered by
+the said decision
+.
+Signature Not Verified
+Digitally Signed         ARB.P. 553/2020                                               Page 5 of 29
+By:DUSHYANT
+RAWAL
+Reasons and conclusion
+14.        At the outset, it is necessary to refer to Clause 25 of the GCC, in
+                         terms of which the parties had agreed to refer the disputes arising in
+                         relation to the Agreement, to arbitration. The said Clause is set out
+                         below: -
+"CLAUSE 25
+                               Settlement of Disputes & Arbitration
+                                     Except where otherwise provided in the Contract all
+                                     questions and disputes relating to the meaning of the
+                                     specifications, design, drawings and instructions
+                                     herein before mentioned and as to the quality of
+                                     workmanship or materials used on the work or as to
+                                     any other question, claim, right, matter or thing
+                                     whatsoever in any way arising out of or relating to the
+                                     Contract,     designs,    drawings,    specifications,
+                                     estimates, instructions orders or these conditions or
+                                     otherwise concerning the works or the execution or
+                                     failure to execute the same whether arising during the
+                                     progress of the work or after the cancellation,
+                                     termination, completion or abandonment thereof shall
+                                     be dealt with as mentioned hereinafter:
+1)          If the Contractor considers any work demanded
+                                           of him to be outside the requirements of the
+                                           Contract, or disputes any drawings, record or
+                                           decision given in writing by the Engineer on any
+                                           matter in connection with or arising out of the
+                                           Contract or carrying out of the work, to be
+                                           unacceptable, he shall promptly within 15 days
+                                           request the Engineer-in-Charge shall give his
+                                           written instructions or decision within a period
+Signature Not Verified
+Digitally Signed         ARB.P. 553/2020                                                    Page 6 of 29
+By:DUSHYANT
+RAWAL
+of one month from the receipt of the
+                                           Contractor's letter.
+If the Engineer-in-Charge fails to give his
+                                           instructions or decision in writing within the
+                                           aforesaid period or if the Contractor is
+                                           dissatisfied with the instructions or decision of
+                                           the Engineer-in-Charge, the Contractor may,
+                                           within 15 days of the receipt of the Engineer-in-
+                                           Charge decision, appeal to the Appellate
+                                           Authority specified in Schedule 'F' who shall
+                                           afford an opportunity to the Contractor to be
+                                           heard, if the latter so desires, and to offer
+                                           evidence in support of his appeal. The Appellate
+                                           Authority shall give his decision within 30 days
+                                           of receipt of Contractor's appeal. If the
+                                           Contractor is dissatisfied with this decision, the
+                                           Contractor shall within a period of 30 days from
+                                           receipt of the decision, give notice to the
+                                           Appointing Authority specified in Schedule 'F'
+                                           for appointment of arbitrator failing which
+the
+                                           said decision
+shall be final binding and
+                                           conclusive and not referable to adjudication by
+                                           the arbitrator.
+2)            Except where the decision has become final,
+                                           binding and conclusive in terms of Sub Para (1)
+                                           above, disputes or difference shall be referred
+                                           for adjudication through arbitration by a sole
+                                           arbitrator appointed by the Appointing
+                                           Authority. The selection of Arbitrator by the
+                                           Appointing Authority will be governed by the
+                                           fact whether the dispute is (i) between two
+Signature Not Verified
+Digitally Signed         ARB.P. 553/2020                                                    Page 7 of 29
+By:DUSHYANT
+RAWAL
+Public Sector Enterprises or (ii) between a
+                                           Public Sector Enterprise and a Government
+                                           Department or (iii) Otherwise.
+In case the dispute does not fall under item (i) or
+(ii) of this Para the Appointing Authority, shall
+                                           appoint the sole Arbitrator. Within 30 days of
+                                           receipt of notice from the Contractor to refer the
+                                           dispute for Arbitration, the Appointing
+                                           Authority stipulated in Schedule F shall send to
+                                           the Contractor a list of three serving officers of
+                                           RITES of appropriate status depending on the
+                                           total value of claim, who have not been
+                                           connected with the work under the Contract. The
+                                           Contractor shall, within 15 days of receipt of this
+                                           list select and communicate to the Appointing
+                                           Authority, the name of one officer from the list
+                                           who shall then be appointed as the Sole
+                                           Arbitrator. If the Contractor fails to
+                                           communicate his selection of name within the
+                                           stipulated period, the Appointing Authority shall
+                                           without delay, select one officer from the list and
+                                           appoint him as the Sole Arbitrator.
+3)            In case the dispute falls under item (i) or (ii) of
+                                           Sub Para (2) above, the Appointing Authority
+                                           shall refer the dispute for Arbitration by one of
+                                           the Arbitrators in the Department of Public
+                                           Enterprises to be nominated by the Secretary to
+                                           the Govt. of India in charge of the Department
+                                           of Public Enterprises.
+The Arbitration &
+                                           Conciliation Act
+1996 shall not be applicable to
+                                           the Arbitration in such a case. The Award of the
+Signature Not Verified
+Digitally Signed         ARB.P. 553/2020                                                     Page 8 of 29
+By:DUSHYANT
+RAWAL
+Arbitrator shall be binding upon the parties to
+                                           the dispute, provided however that any party
+                                           aggrieved by such award may make a further
+                                           reference for setting aside or revision of the
+                                           Award to the Law Secretary, Department of
+                                           Legal Affairs, Ministry of Law & Justice, Govt.
+                                           of India. Upon such reference, the dispute shall
+                                           be decided by the Law Secretary or the Special
+                                           Secretary/Additional Secretary when so
+                                           authorized by the Law Secretary, whose
+                                           decision shall bind the parties finally and
+                                           conclusively. The Parties to the dispute will
+                                           share equally the cost of Arbitration as intimated
+                                           by the Arbitrator. The Arbitrator shall make a
+                                           speaking Award and the Award may be
+                                           published on plain paper. In the event of the Sole
+                                           Arbitrator dying, neglecting or refusing to act or
+                                           being unable to act for any reason, it shall be
+                                           lawful for the Secretary to the Govt. of India in
+                                           charge of the Department of Public Enterprises
+                                           to nominate another person in place of the
+                                           outgoing Arbitrator to act as Sole Arbitrator. The
+                                           new Arbitrator as appointed shall as far as
+                                           practicable proceed from the stage where it was
+                                           left by the outgoing Arbitrator.
+It is a term of this Contract that the party
+                                           invoking arbitration shall give a list of disputes
+                                           with amount claimed in respect of each such
+                                           dispute along with the notice for appointment of
+                                           arbitrator and giving reference to the rejection
+                                           by the Appellate Authority of the appeal in the
+                                           form at Annexure 'F'. It is a term of this Contract
+Signature Not Verified
+Digitally Signed         ARB.P. 553/2020                                                     Page 9 of 29
+By:DUSHYANT
+RAWAL
+that "Excepted matters" or matters where the
+                                           decision of the Engineer-in-Charge or any
+                                           higher authority has been stipulated as "Final
+                                           and Binding" in various Clauses of Contract,
+                                           stand specifically excluded from the purview of
+                                           Arbitration Clause.
+It is also a term of this Contract that no person
+                                           other than a person appointed by such
+                                           Appointing Authority as aforesaid should act as
+                                           arbitrator and if for any reason that is not
+                                           possible, the matter shall not be referred to
+                                           arbitration at all. It is also a term of this Contract
+                                           that if the Contractor does not make any demand
+                                           for appointment of arbitrator in respect of any
+                                           claims in writing as aforesaid within 120 days of
+                                           receiving the intimation from the Engineer-in-
+                                           Charge that the final bill is ready for payment,
+                                           the claim of the Contractor and the Employer
+                                           shall be deemed to have been waived and
+                                           absolutely barred and the Employer shall be
+                                           discharged and released of all liabilities under
+                                           the Contract in respect of these claims."
+15.    The contention that TKE has not invoked the arbitration clause
+                         is, plainly, unmerited. The notice dated 06.03.2020 clearly indicates
+                         that the same is a "Notice of Intention to commence Arbitration under
+                         Clause 25(1) of the General Conditions of Contract". Merely because
+                         TKE has not called upon the Appointing Authority (Executive Director
+                         of RITES) to appoint an arbitrator, but instead, suggested that RITES
+                         concurs on appointment of an arbitrator, cannot be construed to mean
+Signature Not Verified
+Digitally Signed         ARB.P. 553/2020                                                        Page 10 of 29
+By:DUSHYANT
+RAWAL
+that TKE has not invoked the arbitration clause. It is also relevant to
+                         note that on 13.03.2020, TKE sent another notice seeking to correct an
+                         error that had crept in the said notice inasmuch as, TKE had wrongly
+                         calculated the total amount of its claims as ₹237,23,39,473.14/- instead
+                         of ₹57,11,47,927.91/-. The said notice also clearly indicates that the
+                         earlier notice dated 06.03.2020 was a "Notice of Intention to commence
+                         Arbitration under Clause 25(1) of GCC".
+16.    Concededly, RITES had not taken any steps for ensuring that an
+                         arbitral tribunal be constituted pursuant to the notice served by TKE. In
+                         fact, it had not responded to TKE's notice dated 06.03.2020 (as
+                         corrected by a letter dated 13.03.2020). Thus, TKE cannot be faulted
+                         for preferring the present application under
+Section 11
+of the A&C Act.
+17.    The next question to be addressed is whether the parties can be
+                         referred to arbitration in view of TKE's stand that the Appointing
+                         Authority, cannot appoint an arbitrator.
+18.    The respondents do not dispute that in view of the decision of the
+                         Supreme Court in
+TRF Ltd.
+(supra) and
+Perkins
+(supra), the
+                         Appointing Authority cannot appoint an arbitrator. Thus, the import of
+                         the contentions advanced on behalf of RITES is that in view of the
+                         aforesaid decisions, the arbitration agreement stands frustrated since the
+                         third sub-paragraph of paragraph (3) of Clause 25 of the GCC expressly
+                         provides that no person other than a person appointed by the Appointing
+Signature Not Verified
+Digitally Signed         ARB.P. 553/2020                                                Page 11 of 29
+By:DUSHYANT
+RAWAL
+Authority should act as an arbitrator and, if the same is not possible, the
+                         matter cannot be referred to arbitration.
+19.     Clause 25 of the GCC, undisputedly, embodies an arbitration
+                         agreement and the parties have agreed to refer their disputes (except the
+                         excepted matters), to arbitration. The controversy relates to the
+                         procedure for appointment of the arbitrator under the said Clause, which
+                         provides that the matters would be referred to a Sole Arbitrator
+                         appointed by the Appointing Authority. And, the same would be from
+                         a list of three serving officers of RITES of appropriate status, as may be
+                         provided by the Appointing Authority and as selected by TKE. As
+                         mentioned above, this is no longer permissible in view of
+Section 12(5)
+of the A&C Act read with the Seventh Schedule of the A&C Act. A
+                         serving employee of RITES would be disqualified as RITES is an
+                         interested party in the disputes that have arisen and thus, its employee
+                         cannot be appointed as an arbitrator. However, this part of the
+                         arbitration clause is not inseverable and, does not in any manner dilute
+                         the agreement between the parties to refer the disputes to arbitration.
+                         Thus, the said part of the arbitration clause is required to be treated as
+                         severable and since it falls foul of
+Section 12(5)
+of the A&C Act, the
+                         procedure insofar as it requires that the disputes be referred to one of
+                         the three serving officers, as suggested by the Appointing Authority, is
+                         liable to be ignored. This was also the view of this Court in
+B.E.
+                         Billimoria & Co.
+(supra).
+Signature Not Verified
+Digitally Signed         ARB.P. 553/2020                                                Page 12 of 29
+By:DUSHYANT
+RAWAL
+20.    The next aspect of the matter is whether the disability of the
+                         appointing authority to appoint an arbitrator would frustrate the
+                         arbitration agreement.
+21.    After      enactment   of   the
+Arbitration   and   Conciliation
+                         (Amendment) Act, 2015
+, certain persons are ineligible to act as
+                         arbitrators in circumstances that are set out in the Seventh Schedule of
+                         the A&C Act. Although such persons are ineligible to act as arbitrators,
+                         the parties can waive the said objection after disputes have arisen.
+                         Therefore, per se, it is not impossible for such persons to act as
+                         arbitrators. They can do so if objections to their independence and
+                         impartiality are waived of in writing, in terms of the proviso to
+Section
+                         12(5)
+of the A&C Act.
+22.    The Appointing Authority is an Executive Director of RITES and
+                         in view of the decisions of the Supreme Court in
+TRF Ltd.
+(supra) and
+Perkins
+(supra), the Appointing Authority cannot appoint an arbitrator,
+                         without the written consent of TKE after disputes have arisen. However,
+                         this Court is of the view that the same does not mean that the arbitration
+                         clause itself stands nullified. The term that no person other than the
+                         person appointed by Appointing Authority should act as an arbitrator,
+                         is no longer valid, in view of the aforementioned decisions of the
+                         Supreme Court. The next limb of the said term that in case it is not
+                         possible for such person to act as an arbitrator, the matter would not be
+                         referred to arbitration is intended to ensure that the arbitration is
+                         conducted only by an arbitrator appointed by the Appointing Authority.
+Signature Not Verified
+Digitally Signed         ARB.P. 553/2020                                                Page 13 of 29
+By:DUSHYANT
+RAWAL
+This term cannot be read as a standalone term but must be read in
+                         conjunction with the term of the contract requiring the Appointing
+                         Authority to appoint an arbitrator. However, since the said term has
+                         been rendered inoperative by virtue of the amendments introduced in
+Section 12
+of the A&C Act by the
+Arbitration and Conciliation
+                         (Amendment) Act, 2015
+as interpreted by the Supreme Court in
+TRF
+                         Ltd.
+(supra) and
+Perkins
+(supra), the said term must also considered as
+                         rendered inoperative rather than as a term that invalidates the arbitration
+                         agreement.
+23.    It is important to bear in mind that the decisions of the Supreme
+                         Court in
+TRF Ltd
+(supra) and
+Perkins
+(supra) were rendered in the
+                         context of the amendments to
+Section 12
+of the A&C Act as introduced
+                         by the
+Arbitration and Conciliation (Amendment) Act, 2015
+.
+24.    Sub-section (1) of
+Section 12
+of the A&C Act was substituted
+                         and Sub-section (5) of
+Section 12
+of the A&C Act was introduced in
+Section 12
+of the A&C Act. The said Sub-sections read as under:
+"12. Grounds for challenge.--
+(1) When a person is approached in connection with his
+                                possible appointment as an arbitrator, he shall disclose in
+                                writing any circumstances,--
+(a) such as the existence either direct or indirect, of any past
+                                or present relationship with or interest in any of the parties
+                                or in relation to the subject matter in dispute, whether
+                                financial, business, professional or other kind, which is
+                                likely to give rise to justifiable doubts as to his
+                                independence or impartiality; and
+Signature Not Verified
+Digitally Signed         ARB.P. 553/2020                                                   Page 14 of 29
+By:DUSHYANT
+RAWAL
+(b) which are likely to affect his ability to devote sufficient
+                                time to the arbitration and in particular his ability to
+                                complete the entire arbitration within a period of twelve
+                                months.
+Explanation 1.--The grounds stated in the Fifth Schedule
+                                shall guide in determining whether circumstances exist
+                                which give rise to justifiable doubts as to the independence
+                                or impartiality of an arbitrator.
+Explanation 2.--The disclosure shall be made by such
+                                person in the form specified in the Sixth Schedule.]
+                                  *           *             *             *         *
+                                (5) Notwithstanding any prior agreement to the contrary,
+                                any person whose relationship, with the parties or counsel
+                                or the subject matter of the dispute, falls under any of the
+                                categories specified in the Seventh Schedule shall be
+                                ineligible to be appointed as an arbitrator:
+Provided that parties may, subsequent to disputes
+                                having arisen between them, waive the applicability of this
+                                sub-section by an express agreement in writing."
+25.
+The Arbitration and Conciliation (Amendment) Act, 2015
+was
+                         enacted pursuant to the recommendations made by the Law
+                         Commission of India in its Report No. 246. The said Report had, inter
+                         alia, highlighted the necessity to introduce statutory provisions for
+                         ensuring neutrality of arbitrators. The Law Commission of India was
+                         guided by the 'IBA Guidelines on Conflicts of Interest in International
+                         Arbitration' to set out circumstances, which would give rise to
+                         justifiable doubts as to the impartiality and independence of arbitrators.
+                         The Fifth and Seventh Schedule of the A&C Act which were introduced
+                         in the A&C Act were based on the orange and red lists of the said
+                         Guidelines.
+Signature Not Verified
+Digitally Signed         ARB.P. 553/2020                                                  Page 15 of 29
+By:DUSHYANT
+RAWAL
+26.    The Law Commission had highlighted that independence and
+                         impartiality of arbitrators was critical to the entire process of arbitration.
+                         The legislative intent of introducing the said statutory amendments was
+                         to ensure that arbitration is conducted by an arbitral tribunal, which is
+                         not only impartial and independent but is also perceived to be such.
+27.
+In
+Voestalpine Schienen GMBH v. Delhi Metro Rail
+                         Corporation Limited
+: (2017) 4 SCC 665, the Supreme Court had noted
+                         the recommendations made by the Law Commission of India in its 246th
+                         Report and had explained the legislative intent of introducing the
+                         statutory amendments in
+Section 12
+of the A&C Act. Paragraph no. 20
+                         of
+the said decision
+encapsulates the Court's view regarding the
+                         importance of independence and impartiality of the arbitrators and
+                         Paragraph no. 25 explains the object of amending
+Section 12
+of the
+                         A&C Act. The said paragraphs are set out below:
+"20. Independence and impartiality of the arbitrator are
+                                  the hallmarks of any arbitration proceedings. Rule
+                                  against bias is one of the fundamental principles of
+                                  natural justice which applied to all judicial and quasi-
+                                  judicial proceedings. It is for this reason that
+                                  notwithstanding the fact that relationship between the
+                                  parties to the arbitration and the arbitrators themselves
+                                  are contractual in nature and the source of an arbitrator's
+                                  appointment is deduced from the agreement entered into
+                                  between the parties, notwithstanding the same non-
+                                  independence and non-impartiality of such arbitrator
+                                  (though contractually agreed upon) would render him
+                                  ineligible to conduct the arbitration. The genesis behind
+                                  this rational is that even when an arbitrator is appointed
+Signature Not Verified
+Digitally Signed         ARB.P. 553/2020                                                   Page 16 of 29
+By:DUSHYANT
+RAWAL
+in terms of contract and by the parties to the contract, he
+                                  is independent of the parties. Functions and duties
+                                  require him to rise above the partisan interest of the
+                                  parties and not to act in, or so as to further, the particular
+                                  interest of either parties. After all, the arbitrator has
+                                  adjudicatory role to perform and, therefore, he must be
+                                  independent of parties as well as impartial. The United
+                                  Kingdom Supreme Court has beautifully highlighted this
+                                  aspect in Hashwani v. Jivraj [Hashwani v. Jivraj, (2011)
+                                  1 WLR 1872 : 2011 UKSC 40] in the following words:
+(WLR p. 1889, para 45)
+
+                                           "45. ... the dominant purpose of appointing an
+                                           arbitrator or arbitrators is the impartial resolution of
+                                           the dispute between the parties in accordance with
+                                           the terms of the agreement and, although the
+                                           contract between the parties and the arbitrators
+                                           would be a contract for the provision of personal
+                                           services, they were not personal services under the
+                                           direction of the parties."
+xxxx                          xxxx                xxxx
+25.
+Section 12
+has been amended with the objective to
+                                  induce neutrality of arbitrators viz. their independence
+                                  and impartiality. The amended provision is enacted to
+                                  identify the "circumstances" which give rise to
+                                  "justifiable doubts" about the independence or
+                                  impartiality of the arbitrator. If any of those
+                                  circumstances as mentioned therein exists, it will give
+                                  rise to justifiable apprehension of bias.
+The Fifth
+                                  Schedule to the Act
+enumerates the grounds which may
+                                  give rise to justifiable doubts of this nature. Likewise,
+                                  the Seventh Schedule mentions those circumstances
+                                  which would attract the provisions of sub-section (5) of
+Section 12
+and nullify any prior agreement to the
+                                  contrary. In the context of this case, it is relevant to
+                                  mention that only if an arbitrator is an employee, a
+                                  consultant, an advisor or has any past or present business
+                                  relationship with a party, he is rendered ineligible to act
+Signature Not Verified
+Digitally Signed         ARB.P. 553/2020                                                       Page 17 of 29
+By:DUSHYANT
+RAWAL
+as an arbitrator. Likewise, that person is treated as
+                                  incompetent to perform the role of arbitrator, who is a
+                                  manager, director or part of the management or has a
+                                  single controlling influence in an affiliate of one of the
+                                  parties if the affiliate is directly involved in the matters
+                                  in dispute in the arbitration. Likewise, persons who
+                                  regularly advised the appointing party or affiliate of the
+                                  appointing party are incapacitated. A comprehensive list
+                                  is enumerated in Schedule 5 and Schedule 7 and
+                                  admittedly the persons empanelled by the respondent are
+                                  not covered by any of the items in the said list."
+28.
+In
+TRF Ltd.
+(supra), the Supreme Court had concluded that a
+                         person who is ineligible by operation of law to act as an arbitrator would
+                         also be ineligible to nominate another person to act as an arbitrator. The
+                         said decision was founded on the express language and legislative intent
+                         of
+Section 12(5)
+of the A&C Act.
+29.
+In
+Perkins
+(supra), the Supreme Court, following the decision in
+TRF Ltd.
+(supra) interpreted the provisions of
+Section 12(5)
+of the
+                         A&C Act, in an expansive manner and held that even in cases where
+                         the power to appoint an arbitrator was vested with the person who was
+                         otherwise ineligible to be appointed as an arbitrator, it would be
+                         impermissible for him to exercise the same in view of the ineligibility
+                         referred to in TRF Ltd. Thus, a person who is ineligible to act as an
+                         arbitrator, would also not be eligible to appoint anyone else as an
+                         arbitrator. It is relevant to refer to the following observations made by
+                         the Court in
+the said decision
+:
+Signature Not Verified
+Digitally Signed         ARB.P. 553/2020                                                  Page 18 of 29
+By:DUSHYANT
+RAWAL
+"But, in a case where only one party has a right to
+                                nominate a sole arbitrator, its choice will always have an
+                                element of exclusivity in determining or charting the
+                                course for dispute resolution. Naturally, the person who
+                                has an interest in the outcome or decision of the dispute
+                                must not have the power to appoint a sole arbitrator. That
+                                has to be taken as the essence of the amendments brought
+                                in by the
+Arbitration and Conciliation (Amendment) Act,
+                                2015
+(Act III of 2016) and recognised by the decision of
+                                the Court in TRF."
+30.    Considered in the light of the aforesaid object of introducing the
+                         amendments under
+Section 12(5)
+of the A&C Act, the contention that
+                         the Arbitration Clause must be construed to either exist in derogation of
+                         the legislative intent or not at all, must be rejected. Considering that
+                         RITES had agreed that the subject disputes are required to be referred
+                         to arbitration, it could not be heard to contend that the said arbitration
+                         would either be conducted in a manner which may compromise the
+                         fundamental requirement of an independent and an impartial process or
+                         not at all. While the plain language of the arbitration clause does read
+                         to mean that if it is impossible for the arbitrator appointed by the
+                         Appointing Authority to act as such, the disputes would not be referred
+                         to arbitration but considering in the context of the entire clause, this
+                         term has to be construed as only adjunct to the procedure that requires
+                         the Appointing Authority to appoint an arbitrator. It must, therefore,
+                         perish if the said procedure is contrary to law. Once it is held that the
+                         Appointing Authority is ineligible to appoint an arbitrator, the adjunct
+                         to that clause that no other person should act as an arbitrator and the
+Signature Not Verified
+Digitally Signed         ARB.P. 553/2020                                                Page 19 of 29
+By:DUSHYANT
+RAWAL
+arbitration must not be held without such person acting as an arbitrator,
+                         must also be held to be invalid.
+31.    In the present case, the Appointing Authority is concededly,
+                         ineligible to act as an arbitrator by virtue of
+Section 12(5)
+of the A&C
+                         Act.
+In view of the decision of the Supreme Court in
+TRF Ltd.
+(supra),
+                         he cannot nominate another person to act as an arbitrator. However,
+                         that cannot be construed to mean that the entire arbitration agreement
+                         would be frustrated.
+32.    The foundation of an arbitration agreement is the willingness of
+                         the parties to have the inter se disputes adjudicated by an independent
+                         and impartial arbitrator. A condition imposed that disputes cannot be
+                         referred to arbitration except on the condition that only one party retains
+                         the authority to determine the mandate of the arbitral tribunal, would
+                         militate against the said fundamental premise that arbitration is an
+                         alternate mechanism for a just and fair adjudication of disputes.
+33.    It is also necessary to bear in mind that the legislative policy is to
+                         encourage arbitration, thus, any interpretation that would nullify an
+                         arbitration clause must be avoided.
+In
+Chloro Controls India (P) Ltd.
+                         v. Severn Trent Water Purification Inc. & Ors.
+, (2013) 1 SCC 641, the
+                         Supreme Court had expressly observed that as under:
+"96. Examined from the point of view of the legislative
+                                  object and the intent of the framers of the statute, i.e., the
+Signature Not Verified
+Digitally Signed         ARB.P. 553/2020                                                    Page 20 of 29
+By:DUSHYANT
+RAWAL
+necessity to encourage arbitration, the Court is required
+                                  to exercise its jurisdiction in a pending action, to hold the
+                                  parties to the arbitration clause and not to permit them to
+                                  avoid their bargain of arbitration by bringing civil action
+                                  involving multifarious cause of action, parties and
+                                  prayers."
+34.    In view of the legislative intent, it is necessary to construe the
+                         arbitration clause in a manner so as to sustain the same. Therefore, the
+                         terms and conditions that fall foul of the Statute must, insofar as
+                         possible, be severed.
+35.    It is also relevant to note that in
+Perkins
+(supra), the controversy
+                         also centered around an arbitration clause, which expressly provided
+                         that no person other than a person appointed by the Chairman cum
+                         Managing Director of HSCC should act as an arbitrator.
+36.    The controversy can also be addressed from another perspective
+                         and that is the power of the court to derogate from the procedure as
+                         contemplated under the arbitration clause.
+37.
+In
+North Eastern Railway and Ors. v. Tripple Engineering
+                         Works
+: (2014) 9 SCC 288, the Supreme Court observed that the
+                         principle that the court must appoint an arbitrator as per the contract
+                         between the parties had seen a significant erosion. The relevant extract
+                         of
+the said decision
+is set out below:
+Signature Not Verified
+Digitally Signed         ARB.P. 553/2020                                                   Page 21 of 29
+By:DUSHYANT
+RAWAL
+"6. The "classical notion" that the High Court while
+                                exercising its power under
+Section 11
+of the Arbitration
+                                and Conciliation Act, 1996 (hereinafter for short "the
+                                Act") must appoint the arbitrator as per the contract
+                                between the parties saw a significant erosion in ACE
+                                Pipeline Contracts (P) Ltd. v. Bharat Petroleum Corpn.
+                                Ltd. [ACE Pipeline Contracts (P) Ltd. v. Bharat
+                                Petroleum Corpn. Ltd., (2007) 5 SCC 304] , wherein this
+                                Court had taken the view that though the contract between
+                                the parties must be adhered to, deviations therefrom in
+                                exceptional circumstances would be permissible.
+A more
+                                significant development had come in a decision that
+                                followed soon thereafter in
+Union of India v. Bharat
+                                Battery Mfg. Co. (P) Ltd. [Union of India
+v. Bharat
+                                Battery Mfg. Co. (P) Ltd., (2007) 7 SCC 684] wherein
+                                following a three-Judge Bench decision in Punj Lloyd
+                                Ltd. v. Petronet MHB Ltd. [Punj Lloyd Ltd. v. Petronet
+                                MHB Ltd., (2006) 2 SCC 638] , it was held that once an
+                                aggrieved party files an application under
+Section 11(6)
+of the Act to the High Court, the opposite party would lose
+                                its right of appointment of the arbitrator(s) as per the terms
+                                of the contract. The implication that the Court would be
+                                free to deviate from the terms of the contract is obvious.
+7. The apparent dichotomy in
+ACE Pipeline [ACE
+                                Pipeline Contracts (P) Ltd. v. Bharat Petroleum Corpn.
+                                Ltd.
+, (2007) 5 SCC 304] and Bharat Battery Mfg. Co. (P)
+                                Ltd. [Union of India v. Bharat Battery Mfg. Co. (P) Ltd.,
+                                (2007) 7 SCC 684] was reconciled by a three-Judge
+                                Bench of this Court in
+Northern Railway Admn., Ministry
+                                of Railway v. Patel Engg. Co. Ltd. [Northern Railway
+                                Admn.
+,
+Ministry of Railway v. Patel Engg. Co. Ltd.
+,
+                                (2008) 10 SCC 240] , wherein the jurisdiction of the High
+                                Court under
+Section 11(6)
+of the Act was sought to be
+                                emphasised by taking into account the expression "to take
+                                the necessary measure" appearing in sub-section (6) of
+Section 11
+and by further laying down that the said
+Signature Not Verified
+Digitally Signed         ARB.P. 553/2020                                                  Page 22 of 29
+By:DUSHYANT
+RAWAL
+expression has to be read along with the requirement of
+                                sub-section (8) of
+Section 11
+of the Act.
+38.    The aforesaid passages were referred to by the Supreme Court in
+                         its later decision in
+Union of India v. U.P. State Bridge Corpn. Ltd.
+:
+(2015) 2 SCC 52 although in a different context.
+In
+Voestalpine
+                         Schienen GMBH
+(supra), the Supreme Court referred to various other
+                         decisions including the aforesaid decision and observed that:
+"there are a number of
+judgments rendered by the
+                               Supreme Court
+prior to amendment of
+Section 12
+of the
+                               A&C Act "where courts have appointed the arbitrators,
+                               giving a go-by to the agreed arbitration clause in certain
+                               contingencies and situations, having regard to the
+                               provisions of unamended
+Section 11(8)
+of the Act which,
+                               inter alia, provided that while appointing the arbitrator,
+                               Chief Justice, or the person or the institution designated by
+                               him, shall have regard to the other conditions as are likely
+                               to secure the appointment of an independent and impartial
+                               arbitrator."
+39.    At this stage, it is also relevant to refer to the decision of the
+                         Supreme Court in Indian Oil Corporation Ltd. & Ors. v. M/s Raja
+                         Transport (P) Ltd.: (2009) 8 SCC 520. The said decision was rendered
+                         in an appeal against an order passed by the Chief Justice of the
+                         Uttaranchal High Court in an application filed under
+Section 11(6)
+of
+                         the A&C Act appointing a former Judge of that Court as the Sole
+                         Arbitrator to adjudicate the disputes between the parties.
+Signature Not Verified
+Digitally Signed         ARB.P. 553/2020                                                 Page 23 of 29
+By:DUSHYANT
+RAWAL
+40.    It is necessary to note that
+the said decision
+was rendered prior to
+                         the enactment of the
+Arbitration and Conciliation (Amendment) Act,
+                         2015
+. The Chief Justice of the Uttaranchal High Court accepted the
+                         respondent's application for appointment of an independent arbitrator
+                         for essentially two reasons. First, that the Director (Marketing) of the
+                         appellant was an employee and it was presumed that he would not act
+                         independently or impartially. And second, that the appellant had failed
+                         to act as was required under the agreed procedure.
+41.    In the aforesaid context, the Supreme Court framed the following
+                         questions for its consideration:
+"(i) Whether the learned Chief Justice was justified in
+                               assuming that when an employee of one of the parties to
+                               the dispute is appointed as an arbitrator, he will not act
+                               independently or impartially?
+(ii) In what circumstances, the Chief Justice or his
+                               designate can ignore the appointment procedure or the
+                               named arbitrator in the arbitration agreement, to appoint an
+                               arbitrator of his choice?
+(iii) Whether respondent herein had taken necessary steps
+                               for appointment of arbitrator in terms of the agreement,
+                               and the appellant had failed to act in terms of the agreed
+                               procedure, by not referring the dispute to its Director
+                               (Marketing) for arbitration?"
+42.    Insofar as the first question is concerned, the Supreme Court held
+                         that a person being an employee of one of the parties cannot per se be a
+                         bar to his appointment as an arbitrator. And, the learned Chief Justice
+                         was not justified in his assumption of bias. This decision would not hold
+Signature Not Verified
+Digitally Signed         ARB.P. 553/2020                                                Page 24 of 29
+By:DUSHYANT
+RAWAL
+good after the
+Arbitration and Conciliation (Amendment) Act, 2015
+had
+                         come into force.
+43.    Insofar as the second question is concerned - that is, whether the
+                         Chief Justice could ignore the procedure and appoint an arbitrator of his
+                         own choice - the Court held that in cases where there is material that
+                         creates a reasonable apprehension that the person mentioned in the
+                         arbitration agreement as an arbitrator is not likely to act independently
+                         or impartially, or if the named person is not available, then the Chief
+                         Justice or his designate may, after recording reasons for not following
+                         the agreed procedure of referring the disputes to the named arbitrator,
+                         appoint an independent arbitrator in accordance with
+Section 11(8)
+of
+                         the A&C Act.
+44.    It is material to note that the arbitration agreement which fell for
+                         consideration before the Supreme Court
+in that case
+also provided that
+                         "no person other than the Director, Marketing or a person nominating
+                         by such Director, Marketing of the Corporation as aforesaid shall act
+                         as Arbitrator". The Court held that the said condition would interfere
+                         with the power of the Chief Justice under
+Section 11(8)
+of the A&C Act
+                         to appoint a suitable person as an arbitrator in appropriate
+                         cases. Therefore, the said portion of the clause was liable to be ignored
+                         as being contrary to the A&C Act.
+45.    The Supreme Court held that a Court could appoint an
+                         independent arbitrator in cases where it found that the arbitrator named
+Signature Not Verified
+Digitally Signed         ARB.P. 553/2020                                                Page 25 of 29
+By:DUSHYANT
+RAWAL
+in the arbitration agreement or to be appointed as per the procedure as
+                         agreed under the arbitration agreement, would not be impartial or
+                         independent. This reasoning has resonated in several decisions
+                         delivered thereafter.
+46.    This principle would hold good equally in the context of the
+                         present case. After the enactment of the
+Arbitration and Conciliation
+                         (Amendment) Act, 2015
+, it is statutorily recognized that circumstances
+                         as set out in Schedule Seven of the A&C Act would render a person
+                         ineligible to act as an arbitrator on account of justifiable doubts as to his
+                         impartiality and independence. Plainly, under such circumstances, the
+                         Court would have the power under
+Section 11
+of the A&C Act to
+                         appoint an independent and impartial arbitrator. As held in Indian Oil
+                         Corporation Ltd. (supra) even in cases where the arbitration agreement
+                         provides for a procedure for appointment of an arbitrator, a court could
+                         appoint an independent arbitrator if there were reasonable grounds to
+                         doubt the independence and impartiality of the named arbitrator to be
+                         appointed in accordance with the procedure as stipulated under the
+                         arbitration agreement.
+47.    Thus, the very term which provides that no other person other
+                         than the one appointed by the Appointing Authority should act as an
+                         arbitrator and in absence of the same, the disputes would not be referred
+                         to arbitration, must be held contrary to the basic principles on which an
+                         arbitration agreement is founded and therefore, is liable to be ignored.
+Signature Not Verified
+Digitally Signed         ARB.P. 553/2020                                                  Page 26 of 29
+By:DUSHYANT
+RAWAL
+48.    This Court is also of the view that it is not permissible for the
+                         respondents to now contend that the parties cannot be referred to
+                         arbitration. This is because this would run contrary to their stand before
+                         the High Court of Meghalaya in M/s T.K. Engineering Consortium
+                         Pvt. Ltd. v. Union of India and Six Ors.: W. P. (C) No. 10/2019.
+49.    TKE had filed the said petition challenging the termination letter
+                         dated 17.01.2019 issued by RITES whereby the Agreement was
+                         terminated. The said case was contested by RITES. One of the grounds
+                         on which the said petition was resisted was that there is an arbitration
+                         agreement and TKE should be relegated to contractual remedies.
+50.    The learned ASG appearing for the respondents in that case had
+                         referred to Clause 25 of the Agreement and had contended that the Writ
+                         Petition filed by TKE should be dismissed as it had recourse to other
+                         remedies. This contention was accepted by the High Court as is
+                         apparent from the operative part of its order dated 09.09.2019. Whilst
+                         dismissing the petition, the Court had held that TKE would be at "liberty
+                         to take recourse to other remedies as provided in the contractual
+                         agreement".
+51.    Having taken a stand that TKE should take recourse to
+                         arbitration, the respondents cannot now be permitted to contend that the
+                         arbitration clause is frustrated as the Appointing Authority cannot
+                         appoint an arbitrator in view of the decision of the Supreme Court in
+TRF Ltd
+(supra) and
+Perkins
+(supra).
+Signature Not Verified
+Digitally Signed         ARB.P. 553/2020                                                Page 27 of 29
+By:DUSHYANT
+RAWAL
+52.    The decision in the case of Newton Engineering and Chemicals
+                         Limited (supra) is also of little assistance to the respondents. In that
+                         case, the parties had agreed to refer the disputes to ED (NR) of the
+                         respondent corporation. When the disputes arose between the parties,
+                         the office of the respondent corporation (Indian Oil Corporation) had
+                         been reorganized and a post of ED (NR) did not exist. Indian Oil
+                         Corporation offered that the disputes be referred to the Director
+                         (Marketing), however, that was not acceptable to the appellant therein.
+                         It is in the aforesaid context that the Supreme Court held that the
+                         disputes could not be referred to arbitration. It is material to note that
+                         the said decision was rendered before enactment of the
+Arbitration and
+                         Conciliation (Amendment) Act, 2015
+.
+The Supreme Court in
+TRF Ltd.
+(supra) referred to the aforesaid decision and observed as under:
+"The aforesaid decision clearly lays down that it is not open
+                                to either of the parties to unilaterally appoint an arbitrator
+                                for resolution of the disputes in a situation that had arisen
+                                in the said case."
+53.    As per law prevailing on the date of
+the said decision
+, there was
+                         no impediment for the parties to agree that an employee of one of the
+                         parties be appointed as an arbitrator. Thus, the agreement that disputes
+                         be referred to arbitration of an officer holding the designation of ED
+                         (NR) was valid and enforceable.
+But as that office had ceased to exist,
+                         it was necessary for the parties to arrive at an alternative arrangement,
+                         which they were unable to do so.
+Signature Not Verified
+Digitally Signed         ARB.P. 553/2020                                                 Page 28 of 29
+By:DUSHYANT
+RAWAL
+54.    In the facts of the present case, there is no dispute as to the
+                         existence of the arbitration agreement. As held above, TKE had invoked
+                         the said arbitration clause but the parties have been unable to concur on
+                         appointment of an arbitrator. In this view, this Court considers it
+                         apposite to allow the present petition.
+55.    Accordingly, it is proposed that Justice (Retd.) Pradeep
+                         Nandrajog, former Chief Justice of the High Courts of Rajasthan and
+                         Maharashtra (Mobile No.- 9818000130), be appointed as a Sole
+                         Arbitrator to adjudicate the disputes that have arisen between the parties
+                         and which fall within the scope of the arbitration clause as set out
+                         hereinbefore.
+56.    The arbitrator may furnish his consent and disclosure as required
+                         under
+Section 12(1)
+of the A&C Act before the next date of hearing.
+57.    List on 19.03.2021
+
+
+
+
+                                                                           VIBHU BAKHRU, J
+
+                         MARCH 8, 2021
+                         RK
+Signature Not Verified
+Digitally Signed         ARB.P. 553/2020                                                Page 29 of 29
+By:DUSHYANT
+RAWAL
