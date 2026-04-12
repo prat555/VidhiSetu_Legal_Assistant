@@ -11,14 +11,14 @@ export function Footer() {
             <div className="p-1.5 bg-linear-to-br from-orange-500 to-amber-500 rounded-lg">
               <Scale className="w-4 h-4 text-white" />
             </div>
-            <span className="font-semibold text-neutral-900">VidhiSetu</span>
+            <span className="font-semibold text-neutral-900">Vexora</span>
           </div>
           
           <p className="text-sm text-neutral-500 text-center">
             For educational purposes only • Consult a lawyer for legal advice
           </p>
           
-          <p className="text-sm text-neutral-400">© 2026 VidhiSetu</p>
+          <p className="text-sm text-neutral-400">© 2026 Vexora</p>
         </div>
       </div>
     </footer>

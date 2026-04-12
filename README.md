@@ -1,6 +1,6 @@
-# VidhiSetu ⚖️
+# Vexora ⚖️
 
-VidhiSetu is a comprehensive legal assistance platform that leverages artificial intelligence to make Indian legal services accessible and understandable for everyone. The platform serves as a one-stop solution for individuals seeking legal guidance, document analysis, and information about their rights under Indian law. It combines modern web technologies with AI capabilities to provide instant legal assistance, helping users navigate complex legal procedures without requiring prior legal knowledge.
+Vexora is a comprehensive legal assistance platform that leverages artificial intelligence to make Indian legal services accessible and understandable for everyone. The platform serves as a one-stop solution for individuals seeking legal guidance, document analysis, and information about their rights under Indian law. It combines modern web technologies with AI capabilities to provide instant legal assistance, helping users navigate complex legal procedures without requiring prior legal knowledge.
 
 > **👉 New User?** See [QUICKSTART.md](QUICKSTART.md) for a 30-second setup guide!
 
@@ -72,7 +72,7 @@ bash scripts/start.sh
 
 This will automatically:
 - ✅ Start Next.js on `http://localhost:3000`
-- ✅ Start FastAPI RAG service on `http://127.0.0.1:8002`
+- ✅ Start FastAPI RAG service on `http://127.0.0.1:8000`
 - ✅ Use local Qdrant indexing (no Docker needed)
 - ⚠️ First chat query takes ~50 seconds (subsequent queries are faster)
 
@@ -80,7 +80,7 @@ This will automatically:
 
 If you prefer to run commands manually:
 ```bash
-cd /path/to/vidhisetu
+cd /path/to/vexora
 QDRANT_URL= npm run dev
 ```
 
@@ -99,7 +99,7 @@ docker run -d --name vidhisetu-redis -p 6379:6379 redis:7-alpine
 **2. Ensure Ollama is running:**
 ```bash
 ollama serve
-ollama pull llama3.2:3b
+ollama pull qwen2.5:3b
 ```
 
 **3. Start the project (normal mode):**
@@ -118,7 +118,7 @@ docker rm vidhisetu-qdrant vidhisetu-redis
 - **Frontend:** Next.js 16 (TypeScript, Tailwind CSS) on port 3000
 - **RAG Backend:** FastAPI with LangChain on port 8002
 - **Vector Store:** Qdrant (local file-based by default, or external http://127.0.0.1:6333)
-- **LLM Runtime:** Ollama with llama3.2:3b (must be installed)
+- **LLM Runtime:** Ollama with qwen2.5:3b (must be installed)
 - **Embeddings:** HuggingFace multilingual-e5-large
 - **Caching:** Redis (optional, falls back gracefully if unavailable)
 
@@ -126,7 +126,7 @@ docker rm vidhisetu-qdrant vidhisetu-redis
 
 - **Node.js:** 18+
 - **Python:** 3.10+
-- **Ollama:** Latest version with `llama3.2:3b` model installed
+- **Ollama:** Latest version with `qwen2.5:3b` model installed
 - **RAM:** 8GB minimum (12GB+ recommended for smooth RAG)
 - **Disk:** 5GB for embeddings cache + vector database
 
@@ -144,7 +144,7 @@ docker rm vidhisetu-qdrant vidhisetu-redis
 **Ollama not found?**
 ```bash
 ollama --version  # Should print version, not "command not found"
-ollama list       # Should show llama3.2:3b
+ollama list       # Should show qwen2.5:3b
 ```
 
 **Qdrant local-mode warning about 57k+ chunks?**
@@ -161,7 +161,17 @@ QDRANT_URL=                      # Leave empty for local mode, set to http://127
 QDRANT_PATH=./qdrant_store      # Local storage directory
 QDRANT_COLLECTION=legal_rag     # Collection name
 OLLAMA_BASE_URL=http://localhost:11434
-OLLAMA_MODEL=llama3.2:3b
+OLLAMA_MODEL=qwen2.5:3b
+OLLAMA_MAX_TOKENS=256
+OLLAMA_NUM_CTX=1536
+OLLAMA_KEEP_ALIVE=30m
+RAG_TOP_K=5
+RAG_FILTERED_FETCH_K=24
+RAG_FALLBACK_K=16
+RAG_FALLBACK_FETCH_K=36
+RAG_MAX_CANDIDATES=48
+# Optional quality mode (slower):
+# OLLAMA_PREFERRED_MODEL=qwen2.5:7b
 REDIS_URL=redis://localhost:6379  # Optional caching (falls back if unavailable)
 EMBEDDING_MODEL=intfloat/multilingual-e5-large
 ```

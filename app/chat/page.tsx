@@ -21,10 +21,16 @@ export default function ChatPage() {
   const [initialLoading, setInitialLoading] = useState(true);
   const messagesEndRef = useRef<HTMLDivElement>(null);
   const messagesContainerRef = useRef<HTMLDivElement>(null);
+  const activeChatRef = useRef<string | null>(null);
+  const selectChatRequestRef = useRef(0);
   const touchStartX = useRef<number>(0);
   const touchCurrentX = useRef<number>(0);
   const isDragging = useRef<boolean>(false);
   const dragStartX = useRef<number>(0);
+
+  useEffect(() => {
+    activeChatRef.current = activeChat;
+  }, [activeChat]);
 
   // Load chats from Firebase on mount
   useEffect(() => {
@@ -63,32 +69,26 @@ export default function ChatPage() {
   // Save messages to active chat whenever they change
   useEffect(() => {
     async function saveMessages() {
-      if (!user || !activeChat || messages.length === 0) return;
-      
-      const currentChat = chats.find(c => c.id === activeChat);
-      if (currentChat) {
-        // Update title from first user message if still default
-        let newTitle = currentChat.title;
-        if (currentChat.title.startsWith('New Chat') && messages.length >= 1) {
-          const firstUserMessage = messages.find(m => m.role === 'user');
-          if (firstUserMessage) {
-            newTitle = firstUserMessage.content.slice(0, 40) + (firstUserMessage.content.length > 40 ? '...' : '');
-          }
-        }
-        
-        await userChatStorage.updateChat(user.uid, activeChat, {
-          messages,
-          title: newTitle,
-        });
-        
-        // Refresh chat list
-        const updatedChats = await userChatStorage.getAllChats(user.uid);
-        setChats(updatedChats);
-      }
+      const currentActiveChat = activeChatRef.current;
+      if (!user || !currentActiveChat || messages.length === 0) return;
+
+      const firstUserMessage = messages.find(m => m.role === 'user');
+      const generatedTitle = firstUserMessage
+        ? firstUserMessage.content.slice(0, 40) + (firstUserMessage.content.length > 40 ? '...' : '')
+        : 'New Chat';
+
+      await userChatStorage.updateChat(user.uid, currentActiveChat, {
+        messages,
+        title: generatedTitle,
+      });
+
+      // Refresh chat list
+      const updatedChats = await userChatStorage.getAllChats(user.uid);
+      setChats(updatedChats);
     }
     
     saveMessages();
-  }, [messages, activeChat, user]);
+  }, [messages, user]);
 
   const scrollToBottom = () => {
     messagesEndRef.current?.scrollIntoView({ behavior: 'smooth' });
@@ -131,10 +131,19 @@ export default function ChatPage() {
 
   const handleSelectChat = async (id: string) => {
     if (!user) return;
+
+    const requestId = ++selectChatRequestRef.current;
     setActiveChat(id);
+
     const chat = await userChatStorage.getChat(user.uid, id);
+    if (requestId !== selectChatRequestRef.current) {
+      return;
+    }
+
     if (chat) {
-      setMessages(chat.messages);
+      setMessages(chat.messages || []);
+    } else {
+      setMessages([]);
     }
   };
 

@@ -1,31 +1,36 @@
 'use client';
 
 import { Scale, BookOpen, FileText, Users } from 'lucide-react';
+import { guides, scenarios } from '../data/kyr';
 
 interface WelcomeScreenProps {
   onQuestionClick: (question: string) => void;
 }
 
 export default function WelcomeScreen({ onQuestionClick }: WelcomeScreenProps) {
+  const fileFirGuide = guides.find((guide) => guide.id === 'file_fir');
+  const arrestScenario = scenarios.find((scenario) => scenario.id === 'arrest_detention');
+  const cyberFraudGuide = guides.find((guide) => guide.id === 'cyber_fraud_first_hour');
+
   const sampleQuestions = [
     {
       icon: FileText,
-      text: 'What are my rights as a tenant in India?',
+      text: 'What is anticipatory bail under Section 438 CrPC?',
       color: 'from-blue-500 to-cyan-600',
     },
     {
       icon: Users,
-      text: 'How do I file a consumer complaint?',
+      text: fileFirGuide ? 'How do I file an FIR if police refuse?' : 'How do I file an FIR if police refuse?',
       color: 'from-emerald-500 to-green-600',
     },
     {
       icon: BookOpen,
-      text: 'What is anticipatory bail under Indian law?',
+      text: arrestScenario ? 'What are my rights during arrest or detention?' : 'What are my rights during arrest or detention?',
       color: 'from-purple-500 to-pink-600',
     },
     {
       icon: Scale,
-      text: 'What is the process for registering a startup?',
+      text: cyberFraudGuide ? cyberFraudGuide.title : 'What should I do in the first hour after cyber fraud?',
       color: 'from-amber-500 to-orange-600',
     },
   ];
@@ -37,7 +42,7 @@ export default function WelcomeScreen({ onQuestionClick }: WelcomeScreenProps) {
           <Scale className="w-8 h-8 text-white" />
         </div>
         <h1 className="text-3xl md:text-4xl font-bold text-zinc-900 dark:text-zinc-50 mb-2 tracking-tight">
-          VidhiSetu
+          Vexora
         </h1>
         <p className="text-base md:text-lg text-zinc-400 max-w-2xl mx-auto leading-relaxed">
           Get grounded legal guidance with source-backed answers from your indexed law corpus
@@ -50,7 +55,7 @@ export default function WelcomeScreen({ onQuestionClick }: WelcomeScreenProps) {
 
       <div className="w-full max-w-3xl">
         <p className="text-sm font-semibold text-zinc-500 dark:text-zinc-400 mb-3 px-1">
-          Try these RAG-ready prompts
+          Try these prompts from your indexed legal data
         </p>
         <div className="grid grid-cols-1 md:grid-cols-2 gap-3">
           {sampleQuestions.map((question, index) => {

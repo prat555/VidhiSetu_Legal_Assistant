@@ -198,3 +198,50 @@ async def redis_status() -> str:
         return "connected"
     except RedisError:
         return "unavailable"
+
+
+async def clear_cache(all: bool = False) -> int:
+    """Clear cache entries.
+
+    If `all` is True, flush the entire Redis database. Otherwise delete
+    keys that start with the service prefix (`legal-rag:`) and the
+    semantic index key. Returns the number of keys removed, or -1 when
+    a full `FLUSHDB` was executed.
+    """
+    if not _redis_client or not _redis_available:
+        logger.info("Redis unavailable, nothing to clear")
+        return 0
+
+    try:
+        if all:
+            await _redis_client.flushdb()
+            logger.info("Flushed entire Redis database")
+            return -1
+
+        # Collect keys matching our prefix and delete them in batches.
+        cursor = 0
+        removed = 0
+        batch: list[str] = []
+        while True:
+            cursor, keys = await _redis_client.scan(cursor=cursor, match="legal-rag:*", count=1000)
+            if keys:
+                batch.extend(keys)
+            if cursor == 0:
+                break
+
+        if batch:
+            # Redis delete can accept multiple keys.
+            removed = await _redis_client.delete(*batch)
+
+        # Remove the semantic index list if present.
+        try:
+            removed_index = await _redis_client.delete(SEMANTIC_CACHE_INDEX_KEY)
+            removed = (removed or 0) + (removed_index or 0)
+        except RedisError:
+            pass
+
+        logger.info("Cleared %d cache keys", removed)
+        return int(removed or 0)
+    except RedisError as exc:
+        logger.warning("Cache clear failed: %s", exc)
+        return 0

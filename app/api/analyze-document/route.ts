@@ -62,9 +62,9 @@ DOCUMENT-SPECIFIC ANALYSIS:
    - DO NOT mention contract terms like termination/liability/indemnity
    - Focus on: verification status, validity, data accuracy, privacy concerns
    
-2. Property documents (Sale Deed, Lease, Gift Deed):
-   - Extract: Property address/description, parties' names, consideration amount, registration details, boundaries
-   - Focus on: title clarity, encumbrances, stamp duty, registration, possession
+2. Property documents (Sale Deed, Lease, Gift Deed, Rent Agreement):
+   - Extract: Property address/description, parties' names (Tenant/Landlord/Buyer/Seller), rent/consideration amount, security deposit, term/duration, registration details
+   - Focus on: title clarity, encumbrances, stamp duty, registration, possession, lock-in period, notice period, maintenance responsibilities
    
 3. Contracts (NDA, Employment, Service Agreement):
    - Extract: Party names, effective date, term/duration, key obligations, amounts/compensation
@@ -379,6 +379,18 @@ const TAXONOMY = [
   },
   {
     category: "Property",
+    type: "Rent Agreement / Lease Deed",
+    patterns: [/rent agreement/i, /lease deed/i, /leave and license/i, /lessor/i, /lessee/i, /tenant/i, /landlord/i, /monthly rent/i, /security deposit/i],
+    rationale: "Contains rental/lease terminology like tenant, landlord, or security deposit."
+  },
+  {
+    category: "Property",
+    type: "Sale Deed / Property Registration",
+    patterns: [/sale deed/i, /vendor/i, /vendee/i, /purchaser/i, /stamp duty/i, /schedule of property/i, /sale consideration/i],
+    rationale: "Contains property sale and registration terminology."
+  },
+  {
+    category: "Property",
     type: "Power of Attorney (Property)",
     patterns: [/power of attorney/i, /poa/i, /attorney/i, /immovable property/i, /authorize/i],
     rationale: "Contains property POA terminology."
@@ -488,6 +500,13 @@ function buildCategoryGuidance(category: string, documentType: string): { risksF
         lawRefsHint: "If relevant, mention privacy/data handling at a high level; avoid inventing section numbers."
       };
     case "Property":
+      if (/rent|lease|leave/i.test(documentType)) {
+        return {
+          risksFocus: "Focus on unclear lock-in periods, missing notice periods, responsibility for maintenance/repairs, subletting clauses, and security deposit return conditions.",
+          recsFocus: "Recommend police verification, registering the agreement (if >11 months), clarifying maintenance/utility bills responsibility, and defining the exit process clearly.",
+          lawRefsHint: "Registration Act 1908 (Section 17 for >11 months), Transfer of Property Act, State Rent Control Acts."
+        };
+      }
       return {
         risksFocus: "Focus on title defects, encumbrances, stamp duty/registration, possession, boundaries/schedule, consideration, witnesses.",
         recsFocus: "Recommend EC check, registration/stamp duty compliance, due diligence, mutation, and clause clarifications.",
@@ -668,45 +687,61 @@ function heuristic(documentText: string): DocAnalysis {
     uniqueDates.forEach(date => keyPoints.push(`Date mentioned: ${date}`));
   }
   
-  // Extract amounts (Indian currency format)
-  const amountPattern = /(?:Rs\.?|INR|₹)\s*([\d,]+(?:\.\d{2})?(?:\/-)?)|(?:amount|sum|consideration|price|value|payment|salary|compensation)\s*(?:of|:|is)?\s*(?:Rs\.?|INR|₹)?\s*([\d,]+(?:\.\d{2})?)/gi;
-  const amounts = text.match(amountPattern);
-  if (amounts && amounts.length > 0) {
-    const uniqueAmounts = [...new Set(amounts.slice(0, 3))];
-    uniqueAmounts.forEach(amt => keyPoints.push(`Amount: ${amt.trim()}`));
+  // Extract amounts (Indian currency format) tighter regex
+  const amountPattern = /(?:Rs\.?|INR|₹)\s*([\d,]+(?:\.\d{2})?(?:\/-)?)|(?:amount|sum|consideration|price|value|payment|salary|compensation|rent|deposit)\s*(?:of|:|is)?\s*(?:Rs\.?|INR|₹)?\s*([\d,]+(?:\.\d{2})?)/gi;
+  let amountMatch: RegExpExecArray | null;
+  while ((amountMatch = amountPattern.exec(text)) !== null && keyPoints.length < 15) {
+    const val = amountMatch[1] || amountMatch[2];
+    if (val && val.replace(/[,\.]/g, '').length > 0 && /\d/.test(val)) { // Must contain a digit
+      const formattedAmt = val.trim();
+      if (!keyPoints.some(p => p.includes(formattedAmt))) {
+        keyPoints.push(`Amount: Rs. ${formattedAmt}`);
+      }
+    }
   }
   
   // Extract names (capitalized words after common markers)
-  const namePattern = /(?:name|party|between|applicant|respondent|plaintiff|defendant|owner|tenant|employee|employer|vendor|purchaser|donor|donee)\s*:?\s*([A-Z][a-z]+(?:\s+[A-Z][a-z]+){1,3})/g;
+  const namePattern = /(?:name|party|between|applicant|respondent|plaintiff|defendant|owner|tenant|landlord|lessor|lessee|employee|employer|vendor|purchaser|donor|donee)\s*:?\s*([A-Z][a-z]+(?:\s+[A-Z][a-z]+){1,3})/g; // removed 'i' flag so it strictly matches Title Case
   let nameMatch: RegExpExecArray | null;
-  while ((nameMatch = namePattern.exec(text)) !== null && keyPoints.length < 10) {
+  while ((nameMatch = namePattern.exec(text)) !== null && keyPoints.length < 15) {
     const matchedName = nameMatch[1];
     if (matchedName && !keyPoints.some(p => p.includes(matchedName))) {
-      keyPoints.push(`Party/Person: ${matchedName}`);
+      keyPoints.push(`Party/Person: ${matchedName.trim()}`);
     }
   }
   
-  // Extract IDs/Numbers
-  const idPattern = /(?:registration|case|application|policy|invoice|bill|pan|aadhaar|passport|license|voter|epic|roll)\s*(?:no\.?|number)?\s*:?\s*([A-Z0-9\/-]+)/gi;
+  // Extract IDs/Numbers (must contain digits)
+  const idPattern = /(?:registration|case|application|policy|invoice|bill|pan|aadhaar|passport|license|voter|epic|roll)\s*(?:no\.?|number)?\s*:?\s*([A-Z0-9\/-]*[0-9]{3,}[A-Z0-9\/-]*)/gi;
   let idMatch: RegExpExecArray | null;
-  while ((idMatch = idPattern.exec(text)) !== null && keyPoints.length < 12) {
+  while ((idMatch = idPattern.exec(text)) !== null && keyPoints.length < 15) {
     if (idMatch[1] && idMatch[1].length >= 4) {
-      keyPoints.push(`ID/Number: ${idMatch[0].trim()}`);
+      keyPoints.push(`ID/Number: ${idMatch[1].trim()}`);
     }
   }
   
-  // Extract addresses (common address patterns)
-  const addressPattern = /(?:address|property|located|situated)\s*:?\s*([A-Z][\w\s,.-]+(?:Block|Plot|House|Flat|Sector|Road|Street|Area|City|District|State|Pin|Pincode)[\w\s,.-]{10,100})/gi;
+  // Extract addresses (common address patterns) tighter
+  const addressPattern = /(?:address|property|located|situated)\s*:?\s*([A-Z][\w\s,.-]+(?:Block|Plot|House|Flat|Sector|Road|Street|Area|City|District|State|Pin|Pincode)[\w\s,.-]{5,80})/gi;
   const addresses = text.match(addressPattern);
-  if (addresses && addresses.length > 0 && keyPoints.length < 12) {
-    keyPoints.push(`Address: ${addresses[0].trim().slice(0, 100)}`);
+  if (addresses && addresses.length > 0 && keyPoints.length < 15) {
+    keyPoints.push(`Address: ${addresses[0].replace(/(?:\r\n|\r|\n)/g, ' ').trim().slice(0, 100)}`);
   }
   
-  // Extract validity/expiry
-  const validityPattern = /(?:valid|expiry|expires?|validity period|valid till|valid from|valid upto)\s*:?\s*([\d\s\w,.-]+)/gi;
-  const validity = text.match(validityPattern);
-  if (validity && validity.length > 0) {
-    keyPoints.push(`Validity: ${validity[0].trim()}`);
+  // Extract validity/expiry (prefer durations or dates)
+  const validityPattern = /(?:validity period|valid till|valid from|valid upto|period of lease|lease period|tenant for a term|agreement shall be valid)\s*(?:of|for)?\s*:?\s*([\d]+\s*(?:years?|months?|days?)|[A-Z][a-z]+\s*\d{1,4}[,\s]*\d{0,4}|\d{1,2}[-\/]\d{1,2}[-\/]\d{2,4})/gi;
+  let validityMatch: RegExpExecArray | null;
+  if ((validityMatch = validityPattern.exec(text)) !== null) {
+      const val = validityMatch[1].replace(/(?:\r\n|\r|\n)/g, ' ').trim();
+      if(val.length >= 2) keyPoints.push(`Term/Validity: ${val.substring(0, 50)}`);
+  }
+  
+  // Extract lock-in / notice periods
+  const noticePattern = /(?:notice\s*period|lock-?in\s*period|vacate\s*after\s*giving|giving\s*\d+\s*months?\s*notice)\s*(?:of|for)?\s*:?\s*([\d]+\s*(?:months?|days?))/gi;
+  let noticeMatch: RegExpExecArray | null;
+  while ((noticeMatch = noticePattern.exec(text)) !== null && keyPoints.length < 15) {
+    if (noticeMatch[1]) {
+        const val = noticeMatch[1].replace(/(?:\r\n|\r|\n)/g, ' ').trim();
+        if(val.length >= 2) keyPoints.push(`Term Condition: ${val.substring(0, 50)}`);
+    }
   }
   
   // If still not enough points, extract important looking lines
@@ -719,10 +754,11 @@ function heuristic(documentText: string): DocAnalysis {
     
     lines.slice(0, 6 - keyPoints.length).forEach(line => {
       if (!keyPoints.some(p => p.includes(line.slice(0, 30)))) {
-        keyPoints.push(line);
+        keyPoints.push(line.substring(0, 100)); // cap length
       }
     });
   }
+
 
   // Category-specific risks/recommendations templates
   let risks: string[] = [];
@@ -746,19 +782,37 @@ function heuristic(documentText: string): DocAnalysis {
     analysis = `Use official verification methods where available (QR/portal/authority). ${guide.risksFocus}`;
     indianLawRefs = ["Best practice: follow issuing authority verification; protect personal data when sharing."];
   } else if (tax.category === "Property") {
-    summary = `Detected a property document (${tax.documentType}). Focus on title, encumbrances, registration, and property schedule details.`;
-    risks = [
-      "Title defects or unclear ownership history can invalidate transfer",
-      "Encumbrances/charges/litigation may exist if due diligence is incomplete",
-      "Stamp duty/registration non-compliance can affect enforceability"
-    ];
-    recommendations = [
-      "Obtain and review Encumbrance Certificate (EC) and title chain documents",
-      "Verify stamp duty and registration status with the Sub-Registrar office",
-      "Confirm property schedule/boundaries/possession clauses match reality"
-    ];
-    analysis = `${guide.risksFocus} ${guide.lawRefsHint}`;
-    indianLawRefs = ["Registration Act (general)", "Indian Stamp Act / State Stamp laws (general)", "Transfer of Property Act (general)"];
+    if (/rent|lease|leave/i.test(tax.documentType)) {
+      summary = `Detected a rental/lease agreement (${tax.documentType}). Details the terms of property occupancy between landlord and tenant.`;
+      risks = [
+        "Unclear lock-in period or notice period may cause disputes on early exit",
+        "Ambiguity around responsibility for major/minor repairs and maintenance charges",
+        "Conditions for deducting from the security deposit might be vague",
+        "Non-registration of agreements exceeding 11 months renders them legally weak"
+      ];
+      recommendations = [
+        "Clearly define lock-in, notice periods, and rent escalation clauses",
+        "Specify who pays for society maintenance, utility bills, and property taxes",
+        "Ensure police verification of the tenant is completed if required by local laws",
+        "Register the agreement at the Sub-Registrar office if the term exceeds 11 months"
+      ];
+      analysis = `${guide.risksFocus} ${guide.lawRefsHint}`;
+      indianLawRefs = ["Registration Act 1908 (Sec 17 for >11 months)", "Transfer of Property Act 1882", "Respective State Rent Control Act"];
+    } else {
+      summary = `Detected a property document (${tax.documentType}). Focus on title, encumbrances, registration, and property schedule details.`;
+      risks = [
+        "Title defects or unclear ownership history can invalidate transfer",
+        "Encumbrances/charges/litigation may exist if due diligence is incomplete",
+        "Stamp duty/registration non-compliance can affect enforceability"
+      ];
+      recommendations = [
+        "Obtain and review Encumbrance Certificate (EC) and title chain documents",
+        "Verify stamp duty and registration status with the Sub-Registrar office",
+        "Confirm property schedule/boundaries/possession clauses match reality"
+      ];
+      analysis = `${guide.risksFocus} ${guide.lawRefsHint}`;
+      indianLawRefs = ["Registration Act (general)", "Indian Stamp Act / State Stamp laws (general)", "Transfer of Property Act (general)"];
+    }
   } else if (tax.category === "Business/Corporate") {
     summary = `Detected a business/corporate document (${tax.documentType}). Focus on obligations, term, liability, and dispute resolution where applicable.`;
     risks = [
@@ -840,8 +894,10 @@ function heuristic(documentText: string): DocAnalysis {
     analysis = "General analysis only. Provide clearer text for classification.";
   }
 
-  // Improve keyPoints if empty
-  const finalKeyPoints = keyPoints.length ? keyPoints : ["Provide the full document text for better extraction."];
+  // Improve keyPoints if empty and slice to limit length
+  const finalKeyPoints = keyPoints.length > 0
+    ? keyPoints.slice(0, 8)
+    : ["Provide the full document text for better extraction."];
 
   return {
     category: tax.category,

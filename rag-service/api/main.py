@@ -12,7 +12,14 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import StreamingResponse
 from pydantic import BaseModel, Field
 
-from api.cache import get_cached, get_semantic_cached, init_redis, redis_status, set_cache
+from api.cache import (
+    get_cached,
+    get_semantic_cached,
+    init_redis,
+    redis_status,
+    set_cache,
+    clear_cache,
+)
 
 # Basic logging helps monitor cache behavior and startup readiness.
 logging.basicConfig(level=logging.INFO)
@@ -95,7 +102,7 @@ async def legal_chat(payload: LegalChatRequest) -> LegalChatResponse:
                 cached=True,
             )
 
-        result = await asyncio.wait_for(chain.ask(question), timeout=120)
+        result = await asyncio.wait_for(chain.ask(question, query_vector=query_embedding), timeout=120)
         answer = result["answer"]
         sources = result["source_documents"]
 
@@ -157,7 +164,10 @@ async def legal_chat_stream(payload: LegalChatRequest) -> StreamingResponse:
                 headers={"Cache-Control": "no-cache", "X-Accel-Buffering": "no"},
             )
 
-        token_stream, sources = await asyncio.wait_for(chain.ask_stream(question), timeout=120)
+        token_stream, sources = await asyncio.wait_for(
+            chain.ask_stream(question, query_vector=query_embedding),
+            timeout=120,
+        )
     except Exception as exc:  # noqa: BLE001
         logger.exception("RAG streaming setup failed")
         raise HTTPException(status_code=500, detail=f"Internal server error: {exc}") from exc
@@ -210,3 +220,19 @@ async def health() -> dict[str, object]:
         "chunks_loaded": None,
         "redis": await redis_status(),
     }
+
+
+@app.post("/api/cache/clear")
+async def api_clear_cache(all: bool = False) -> dict[str, object]:
+    """Clear the RAG service cache.
+
+    Query parameter `all=true` will flush the entire Redis database.
+    Otherwise only keys managed by this service are removed.
+    Returns JSON with number of cleared keys (or -1 for full flush).
+    """
+    try:
+        removed = await clear_cache(all=all)
+        return {"status": "ok", "cleared": removed}
+    except Exception as exc:  # noqa: BLE001
+        logger.exception("Cache clear failed")
+        raise HTTPException(status_code=500, detail=f"cache clear failed: {exc}") from exc

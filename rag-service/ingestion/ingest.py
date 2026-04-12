@@ -10,7 +10,8 @@ import fitz  # PyMuPDF
 from dotenv import load_dotenv
 from langchain_text_splitters import RecursiveCharacterTextSplitter
 from langchain_community.embeddings import FastEmbedEmbeddings, HuggingFaceEmbeddings
-from langchain_community.vectorstores import Chroma, Qdrant
+from langchain_chroma import Chroma
+from langchain_community.vectorstores import Qdrant
 from qdrant_client import QdrantClient
 from qdrant_client.http import models as qdrant_models
 

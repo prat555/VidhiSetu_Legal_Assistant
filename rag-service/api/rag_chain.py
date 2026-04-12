@@ -14,9 +14,10 @@ from dotenv import load_dotenv
 from langchain_core.documents import Document
 from langchain_core.output_parsers import StrOutputParser
 from langchain_core.prompts import PromptTemplate
-from langchain_community.chat_models import ChatOllama
 from langchain_community.embeddings import FastEmbedEmbeddings, HuggingFaceEmbeddings
-from langchain_community.vectorstores import Chroma, Qdrant
+from langchain_chroma import Chroma
+from langchain_community.vectorstores import Qdrant
+from langchain_ollama import ChatOllama
 from qdrant_client import QdrantClient
 from qdrant_client.http import models as qdrant_models
 
@@ -32,6 +33,35 @@ _STOPWORDS = {
     "a", "an", "the", "is", "are", "was", "were", "to", "of", "for", "in", "on", "and", "or",
     "with", "by", "at", "from", "under", "about", "what", "when", "how", "can", "i", "my",
 }
+
+
+_SECTION_REF_PATTERN = re.compile(r"\b(?:section|sec\.?|s\.)\s*([0-9]{1,4}(?:\s*[-]?\s*[a-z])?)\b", re.IGNORECASE)
+
+
+def _normalize_legal_text(text: str) -> str:
+    """Normalize legal text so section variants like 265B / 265-B / 265 B are comparable."""
+    lowered = text.lower()
+    alnum_spaced = re.sub(r"[^0-9a-z]+", " ", lowered)
+    return re.sub(r"\s+", " ", alnum_spaced).strip()
+
+
+def _extract_section_query_terms(question: str) -> list[str]:
+    """Extract section reference variants to improve matching across punctuation styles."""
+    terms: set[str] = set()
+    for raw in _SECTION_REF_PATTERN.findall(question):
+        compact = re.sub(r"[^0-9a-z]", "", raw.lower())
+        if not compact:
+            continue
+
+        terms.add(compact)
+        suffix_match = re.match(r"^(\d+)([a-z])$", compact)
+        if suffix_match:
+            num, suffix = suffix_match.groups()
+            terms.add(num)
+            terms.add(f"{num}-{suffix}")
+            terms.add(f"{num} {suffix}")
+
+    return list(terms)
 
 
 def _build_embeddings() -> HuggingFaceEmbeddings | FastEmbedEmbeddings:
@@ -98,7 +128,7 @@ def _matches_model_name(candidate: str, available_name: str) -> bool:
 
 
 def _resolve_ollama_model(base_url: str, requested_model: str) -> str:
-    """Prefer a faster installed model when possible, with safe fallback to requested."""
+    """Resolve best available local model, prioritizing higher-quality free models first."""
     tags_url = f"{base_url.rstrip('/')}/api/tags"
 
     try:
@@ -112,21 +142,21 @@ def _resolve_ollama_model(base_url: str, requested_model: str) -> str:
     if not available:
         return requested_model
 
-    preferred_fast = os.getenv("OLLAMA_FAST_MODEL", "llama3.2:3b")
+    preferred_primary = os.getenv("OLLAMA_PREFERRED_MODEL", "").strip()
     fallbacks = [
         requested_model,
-        preferred_fast,
+        preferred_primary,
         "qwen2.5:3b",
-        "phi3:mini",
         "llama3.2:3b",
+        "phi3:mini",
+        "qwen2.5:7b-instruct",
+        "qwen2.5:7b",
+        "llama3.1:8b",
+        "mistral:7b-instruct",
         "llama3.2:1b",
         "llama3:latest",
         "llama3",
     ]
-
-    # If the requested model is the heavier llama3 family, try fast model first.
-    if requested_model.strip().lower() in {"llama3", "llama3:latest"}:
-        fallbacks = [preferred_fast, *fallbacks]
 
     for candidate in fallbacks:
         if not candidate:
@@ -144,8 +174,14 @@ Always cite the relevant Act name and Section number if available.
 Never invent an Act, section, article, case name, or court.
 If a judgment is referenced, mention the case name and court.
 Give answers in simple, clear language that a common person can understand.
-Structure your answer with: 1) Direct answer 2) Relevant law/section 3) Practical advice if applicable.
-Keep the answer concise and practical (around 120-180 words unless detail is essential).
+Structure your answer with these headings:
+1) Direct Answer
+2) Relevant Law and Section(s)
+3) What This Means in Practice
+4) Important Conditions or Exceptions
+Use bullet points where helpful, and explain legal terms in plain language.
+For criminal-law questions, mention equivalent old/new law mapping if present in context (for example CrPC and BNSS).
+Keep the answer practical and detailed (around 180-280 words unless a shorter answer is clearly enough).
 
 Legal Context:
 {context}
@@ -375,6 +411,8 @@ class LegalRAGChain:
         act = str(doc.metadata.get("act", "")).lower()
         source = str(doc.metadata.get("source", "")).lower()
         content = doc.page_content.lower()
+        normalized_source = _normalize_legal_text(source)
+        normalized_content = _normalize_legal_text(content)
 
         primary_acts: list[str] = intent.get("primary_acts", [])
         source_keywords: list[str] = intent.get("source_keywords", [])
@@ -391,8 +429,8 @@ class LegalRAGChain:
 
         # Hybrid signal: keyword overlap (BM25-lite) on top of vector retrieval candidates.
         if query_terms:
-            source_term_hits = sum(1 for term in query_terms if term in source)
-            content_term_hits = sum(1 for term in query_terms if term in content)
+            source_term_hits = sum(1 for term in query_terms if term in source or term in normalized_source)
+            content_term_hits = sum(1 for term in query_terms if term in content or term in normalized_content)
             score += source_term_hits * 3
             score += min(content_term_hits, 6)
 
@@ -413,8 +451,10 @@ class LegalRAGChain:
         if not docs:
             return False
 
-        normalized = question.lower().translate(str.maketrans("", "", string.punctuation))
+        normalized = _normalize_legal_text(question)
         query_terms = [term for term in normalized.split() if len(term) > 2 and term not in _STOPWORDS]
+        query_terms.extend(_extract_section_query_terms(question))
+        query_terms = list(dict.fromkeys(query_terms))
         if not query_terms:
             return True
 
@@ -427,7 +467,8 @@ class LegalRAGChain:
                 str(doc.metadata.get("act", "")).lower(),
                 doc.page_content.lower(),
             ])
-            hits = sum(1 for term in set(query_terms) if term in haystack)
+            normalized_haystack = _normalize_legal_text(haystack)
+            hits = sum(1 for term in set(query_terms) if term in haystack or term in normalized_haystack)
             if hits > max_hits:
                 max_hits = hits
             if hits >= 1:  # Reduced required_hits in practice: accept any keyword match
@@ -478,34 +519,42 @@ class LegalRAGChain:
 
         return merged
 
-    async def retrieve(self, question: str, k: int = 5) -> list[Document]:
+    async def retrieve(self, question: str, k: int = 5, query_vector: list[float] | None = None) -> list[Document]:
         """Embed once, gather broad candidates, then rerank with legal-intent signals."""
-        query_vector = await self.embed_query(question)
+        if query_vector is None:
+            query_vector = await self.embed_query(question)
         intent = self._infer_query_intent(question)
 
         # Add lexical terms used for hybrid keyword scoring.
         normalized = question.lower().translate(str.maketrans("", "", string.punctuation))
         query_terms = [term for term in normalized.split() if len(term) > 2 and term not in _STOPWORDS]
+        query_terms.extend(_extract_section_query_terms(question))
+        query_terms = list(dict.fromkeys(query_terms))
         intent["query_terms"] = query_terms
 
         candidate_docs: list[Document] = []
+        filtered_k = int(os.getenv("RAG_FILTERED_K", str(max(k, 6))))
+        filtered_fetch_k = int(os.getenv("RAG_FILTERED_FETCH_K", "24"))
+        fallback_k = int(os.getenv("RAG_FALLBACK_K", "16"))
+        fallback_fetch_k = int(os.getenv("RAG_FALLBACK_FETCH_K", "36"))
+        max_candidates = int(os.getenv("RAG_MAX_CANDIDATES", "48"))
         act_names = intent.get("primary_acts", [])
         if act_names:
             tasks = [
                 self._search_by_vector(
                     query_vector,
-                    k=max(k, 8),
-                    fetch_k=40,
+                    k=filtered_k,
+                    fetch_k=filtered_fetch_k,
                     metadata_filter={"act": act_name},
                 )
                 for act_name in act_names
             ]
             filtered_batches = await asyncio.gather(*tasks)
             for filtered_docs in filtered_batches:
-                candidate_docs = self._merge_docs(candidate_docs, filtered_docs, k=60)
+                candidate_docs = self._merge_docs(candidate_docs, filtered_docs, k=max_candidates)
 
-        fallback_docs = await self._search_by_vector(query_vector, k=24, fetch_k=60)
-        candidate_docs = self._merge_docs(candidate_docs, fallback_docs, k=80)
+        fallback_docs = await self._search_by_vector(query_vector, k=fallback_k, fetch_k=fallback_fetch_k)
+        candidate_docs = self._merge_docs(candidate_docs, fallback_docs, k=max_candidates)
 
         ranked = sorted(candidate_docs, key=lambda d: self._score_doc(d, intent), reverse=True)
         return ranked[:k]
@@ -514,9 +563,9 @@ class LegalRAGChain:
         """Expose query embedding for semantic cache and pipeline reuse."""
         return await asyncio.to_thread(self.embeddings.embed_query, f"query: {question}")
 
-    async def ask(self, question: str) -> dict[str, Any]:
+    async def ask(self, question: str, query_vector: list[float] | None = None) -> dict[str, Any]:
         """Run retrieval + grounded generation and return answer with sources."""
-        docs = await self.retrieve(question, k=self.default_k)
+        docs = await self.retrieve(question, k=self.default_k, query_vector=query_vector)
         if not self._has_sufficient_context(question, docs):
             return {
                 "answer": NO_CONTEXT_ANSWER,
@@ -536,9 +585,9 @@ class LegalRAGChain:
             "source_documents": source_documents,
         }
 
-    async def ask_stream(self, question: str) -> tuple[AsyncIterator[str], list[str]]:
+    async def ask_stream(self, question: str, query_vector: list[float] | None = None) -> tuple[AsyncIterator[str], list[str]]:
         """Return a token stream and source list for low-latency UI rendering."""
-        docs = await self.retrieve(question, k=self.default_k)
+        docs = await self.retrieve(question, k=self.default_k, query_vector=query_vector)
         if not self._has_sufficient_context(question, docs):
             async def _fallback_stream() -> AsyncIterator[str]:
                 yield NO_CONTEXT_ANSWER
@@ -581,12 +630,13 @@ async def _build_chain() -> LegalRAGChain:
     qdrant_hnsw_ef_construct = int(os.getenv("QDRANT_HNSW_EF_CONSTRUCT", "100"))
     qdrant_hnsw_ef_runtime = int(os.getenv("QDRANT_HNSW_EF_RUNTIME", "96"))
     qdrant_binary_quant = os.getenv("QDRANT_ENABLE_BINARY_QUANTIZATION", "true").strip().lower() == "true"
-    ollama_model = os.getenv("OLLAMA_MODEL", "llama3.2:3b")
+    ollama_model = os.getenv("OLLAMA_MODEL", "qwen2.5:3b")
     ollama_base_url = os.getenv("OLLAMA_BASE_URL", "http://localhost:11434")
-    ollama_max_tokens = int(os.getenv("OLLAMA_MAX_TOKENS", "160"))
-    ollama_num_ctx = int(os.getenv("OLLAMA_NUM_CTX", "2048"))
+    ollama_max_tokens = int(os.getenv("OLLAMA_MAX_TOKENS", "256"))
+    ollama_num_ctx = int(os.getenv("OLLAMA_NUM_CTX", "1536"))
     ollama_timeout_seconds = float(os.getenv("OLLAMA_TIMEOUT_SECONDS", "45"))
-    rag_top_k = int(os.getenv("RAG_TOP_K", "4"))
+    rag_top_k = int(os.getenv("RAG_TOP_K", "5"))
+    ollama_keep_alive = os.getenv("OLLAMA_KEEP_ALIVE", "30m")
 
     if _EMBEDDINGS is None:
         _EMBEDDINGS = _build_embeddings()
@@ -645,6 +695,7 @@ async def _build_chain() -> LegalRAGChain:
         temperature=0.1,
         num_predict=ollama_max_tokens,
         num_ctx=ollama_num_ctx,
+        keep_alive=ollama_keep_alive,
         timeout=ollama_timeout_seconds,
     )
 

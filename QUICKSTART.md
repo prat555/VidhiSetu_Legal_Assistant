@@ -67,7 +67,7 @@ Make sure you have installed:
 
 ### Out of memory?
 - Increase available RAM or reduce Ollama model context size
-- Edit `rag-service/.env`: `OLLAMA_NUM_CTX=1024` (reduce from 2048)
+- Edit `rag-service/.env`: `OLLAMA_NUM_CTX=2048` (reduce from 4096)
 
 ## Next Steps
 
@@ -112,9 +112,10 @@ Make sure you have installed:
         │                         │
 ┌───────▼──────────┐   ┌─────────▼──────────┐
 │ Qdrant           │   │ Ollama (Local LLM) │
-│ (Vector Store)   │   │ llama3.2:3b        │
+│ (Vector Store)   │   │ qwen2.5:3b         │
 │ 57k+ embeddings  │   │                    │
 └──────────────────┘   └────────────────────┘
+
 ```
 
 ## Learn More

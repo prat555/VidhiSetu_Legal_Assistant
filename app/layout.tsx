@@ -14,7 +14,7 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "VidhiSetu - Legal Help Made Simple",
+  title: "Vexora - Legal Help Made Simple",
   description: "AI-powered legal assistant providing guidance on Indian law, legal procedures, and your rights. Get help with constitutional, criminal, civil, and corporate law matters.",
 };
 

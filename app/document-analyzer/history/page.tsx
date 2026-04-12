@@ -230,7 +230,7 @@ export default function DocumentAnalyzerHistoryPage() {
 
                   {item.result?.analysis && (
                     <div className="mt-4 rounded-xl border border-neutral-200 bg-neutral-50 p-4">
-                      <div className="font-semibold text-neutral-900">Detailed Analysis</div>
+                      <div className="font-semibold text-neutral-900">Analysis Snapshot</div>
                       <div className="mt-2 whitespace-pre-wrap text-sm text-neutral-600">{item.result.analysis}</div>
                     </div>
                   )}

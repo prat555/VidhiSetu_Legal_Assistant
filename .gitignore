@@ -48,3 +48,4 @@ rag-service/.venv/
 # integrated rag-service local vector db artifacts
 rag-service/vectorstore/
 rag-service/qdrant_store/
+rag-service/vectorstore_fastembed/

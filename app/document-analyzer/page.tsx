@@ -470,13 +470,13 @@ function DocumentAnalyzerContent() {
               </div>
             </div>
 
-            {/* Detailed Analysis */}
+            {/* Analysis Snapshot */}
             <div className="bg-white rounded-xl border border-neutral-200 p-5">
               <div className="flex items-center gap-2 mb-3">
                 <div className="p-2 rounded-lg bg-violet-100">
                   <FileCheck className="w-4 h-4 text-violet-600" />
                 </div>
-                <h3 className="font-semibold text-neutral-900">Detailed Analysis</h3>
+                <h3 className="font-semibold text-neutral-900">Analysis Snapshot</h3>
               </div>
               <div className="text-sm text-neutral-600 leading-relaxed whitespace-pre-wrap">
                 {result.analysis}

@@ -43,7 +43,7 @@ export function Navbar() {
               <Scale className="w-5 h-5 text-white" />
             </div>
             <div className="flex flex-col">
-              <span className="text-xl font-bold text-neutral-900 leading-tight">VidhiSetu</span>
+              <span className="text-xl font-bold text-neutral-900 leading-tight">Vexora</span>
               <span className="text-xs text-neutral-500 font-medium tracking-wide hidden sm:block">Legal Help Made Simple</span>
             </div>
           </Link>
